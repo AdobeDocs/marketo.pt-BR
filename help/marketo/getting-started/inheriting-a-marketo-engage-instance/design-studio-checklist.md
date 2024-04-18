@@ -2,10 +2,10 @@
 description: Lista de verificação herdada do Instance Design Studio - Documentação do Marketo - Documentação do produto
 title: Lista de Verificação do Instance Design Studio Herdada
 feature: Getting Started
-exl-id: 29d96153-0cb7-4a04-8fe9-93748be67cb0
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '578'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 Estruturar modelos e criar formulários globais, trechos e imagens e arquivos ajudará a minimizar erros de dados, bem como simplificar o fluxo de trabalho da criação do seu programa. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhe seu progresso.
 
-## Páginas {#landing-pages}
+## Páginas de aterrissagem {#landing-pages}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -73,7 +73,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Área</th> 
+   <th style="width:20%">Área</th>
    <th>Revisar foco</th>
   </tr> 
   <tr> 
@@ -130,7 +130,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
  </tbody> 
 </table>
 
-## Blocos de conteúdo {#snippets}
+## Bl. conteúdo {#snippets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -139,7 +139,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
    <th>Revisar foco</th>
   </tr> 
   <tr> 
-   <td>Blocos de conteúdo</td> 
+   <td>Bl. conteúdo</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">trechos</a> existem? Eles estão sendo usados? 
    <br/>     Caso contrário, considere usá-los para <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Landing Page</a> conteúdo do rodapé, logotipos e muito mais.</li></td>
   </tr>

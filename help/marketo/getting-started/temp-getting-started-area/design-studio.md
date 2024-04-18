@@ -4,10 +4,10 @@ title: NOVO ESTÚDIO DE DESIGN DE ÁREA
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 11%
+source-wordcount: '326'
+ht-degree: 7%
 
 ---
 
@@ -22,27 +22,22 @@ Texto...
   <tr>
     <th>Área</th>
     <th>Itens de ação</th>
-    <th>Documentação</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Páginas globais</td>
-    <td>
-    <ul>
-    <li>Criar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank"> páginas de aterrissagem globais (formato livre/guias)</a>.</li>
-    <li>Configure seu <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn" target="_blank">central de assinaturas</a> página de aterrissagem no Marketo Engage(se aplicável).</td></li>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.html#product-docs" target="_blank">Noções básicas sobre forma livre e páginas de aterrissagem guiadas</a><br> <br><a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn" target="_blank">Saiba mais sobre como configurar e gerenciar uma central de assinaturas</a> </td>
+    <td><li>Criar páginas de aterrissagem globais (forma livre/guiado).</li>
+    <li>Crie uma página de teste para testar o modelo de página de aterrissagem vencedora (se aplicável).</li>
+    <li>Configure a landing page do seu centro de subscrições no Marketo Engage (se aplicável).</li></td>
   </tr>
   <tr>
     <td>Modelos</td>
     <td><li>Criar design para páginas de aterrissagem globais.</li></td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.html?lang=en#product-docs" target="_blank">Modelos de páginas</a></td>
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li>Incluir rodapé apropriado usando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Trechos</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> nas landing pages para conformidade com a privacidade.</li></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Adicionar um snippet a uma landing page</a></td>
+    <td><li>Incluir rodapé apropriado usando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Trechos</a> ou tokens nas páginas iniciais para conformidade com a privacidade.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,24 +49,20 @@ Texto...
   <tr>
     <th>Área</th>
     <th>Itens de ação</th>
-    <th>Documentação</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Formulários globais</td>
-    <td><li>Configurar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">formulários globais</a>. Casos de uso de formulários globais: preferências de assinatura, download de conteúdo restrito, solicitação de demonstração, registro de webinário etc.</li></td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html#product-docs" target="_blank">Formulários</a></td>
+    <td><li>Configurar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank" rel="noopener noreferrer">formulários globais</a> para casos de uso como preferências de assinatura, download de conteúdo restrito, solicitação de demonstração, registro de webinário etc.</li></td>
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li>Mantenha seus formulários em conformidade com o GDPR.</td>
-    <td><a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">O GDPR e o profissional de marketing: um guia prático para o cliente da Marketo</a></li></td>
+    <td><li>Mantenha seus formulários em conformidade com o GDPR.</li></td>
   </tr>
   <tr>
     <td>Padronização de dados</td>
-    <td><li>Considere aplicar listas de opções à <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">campos de formulário</a> em vez de campos de texto abertos para evitar dados confusos.</li></td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.html?lang=en#product-docs" target="_blank">Campos do formulário</a></td>
+    <td><li>Considere aplicar listas de opções à <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank" rel="noopener noreferrer">campos de formulário</a> em vez de campos de texto abertos para evitar dados confusos.</li></td>
   </tr>
 </tbody>
 </table>
@@ -82,25 +73,22 @@ Texto...
 <thead>
   <tr>
     <th>Área</th>
-    <th>Itens de ação</th>
-    <th>Documentação</th>
+    <th>Item de Ação</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>E-mails globais</td>
     <td><li>Criar emails globais.</li></td>
-    <td><a href="https://docs.marketo.com/display/public/DOCS/Create+an+Email" target="_blank">Criar um email</a></td>
   </tr>
   <tr>
     <td>Modelos</td>
-    <td><li>Criar um baseado em módulo <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">modelo de email</a> com um designer/desenvolvedor ou usar uma ferramenta como o Knak.io</li></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">Criar um modelo de email</a></td>
+    <td><li>Criar um baseado em módulo <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank" rel="noopener noreferrer">modelo de email</a> com um designer/desenvolvedor ou insira seu próprio HTML.</li>
+    <li>Crie um modelo de email testado para testar A/B o modelo de email vencedor (se aplicável).</li></td>
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Adicionar trechos</a> ou<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview%22%20/l%20%22understanding-default-values" target="_blank"> Tokens</a> aos seus modelos de e-mail para controlar o ano dos direitos autorais, a localização global e o idioma específico da conformidade.</li></td>
-    <td>Visão geral de tokens</td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank" rel="noopener noreferrer">Adicionar trechos</a> seus modelos de email para controlar blocos reutilizáveis, como ano de copyright, localização global e idioma específico de conformidade. Adicione tokens para personalizar o conteúdo com base no público-alvo.</li></td>
   </tr>
 </tbody>
 </table>
@@ -111,22 +99,36 @@ Texto...
 <thead>
   <tr>
     <th>Área</th>
-    <th>Itens de ação</th>
-    <th>Documentação</th>
+    <th>Item de Ação</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Bl. conteúdo</td>
-    <td><li>Criar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Trechos</a> para obter casos de uso de conformidade com a privacidade em seus emails e landing pages.</li></td>
-    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.html#product-docs" target="_blank" rel="noopener noreferrer">Bl. conteúdo</a></td>
+    <td><li>Criar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank" rel="noopener noreferrer">Trechos</a> para criar blocos de conteúdo reutilizáveis que podem ser usados para vários casos de uso, como informações de contato, links de redes sociais, informações sobre a marca e notas de privacidade e conformidade em seus emails e landing pages.</li></td>
   </tr>
 </tbody>
 </table>
 
 ## Imagens e arquivos {#images-and-files}
 
-TABELA
+<table>
+<thead>
+  <tr>
+    <th>Área</th>
+    <th>Itens de ação</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Convenções de nomenclatura</td>
+    <td><li>Use convenções de nomenclatura consistentes para imagens e arquivos.</li>  
+    <br>Exemplos:  
+    <br>Convenção De Nomenclatura De Arquivos: Tipo De Ativo-Nome Do Ativo (Por Exemplo: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-On-Board) 
+    <p>Convenção De Nomenclatura Da Imagem: Tipo De Imagem-Tipo De Ativo-Nome Do Ativo (Por Exemplo: Miniatura-White-Paper-Avaliação-Computação-Em-Nuvem-Obter-Seu-Quadro-A-Bordo)</td>
+  </tr>
+</tbody>
+</table>
 
 ## Organização {#organization}
 
@@ -134,15 +136,13 @@ TABELA
 <thead>
   <tr>
     <th>Área</th>
-    <th>Item de Ação</th>
-    <th>Documentação</th>
+    <th>Itens de ação</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Estrutura de pastas</td>
-    <td><li>Crie subpastas para cada tipo de ativo e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">organizar ativos globais</a> (ou seja, modelos de email, emails, formulários, imagens e arquivos, modelos de página de aterrissagem e de página de aterrissagem) de forma adequada e fácil de pesquisar.</li></td>
-    <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank" rel="noopener noreferrer">Organize suas imagens e arquivos usando pastas</a></td>
+    <td>Estrutura de pastas </td>
+    <td><li>Crie subpastas para cada tipo de ativo e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organizar ativos globais</a> (por exemplo, fluxos de conversação, modelos de email, emails, formulários, imagens e arquivos, Landing Pages, modelos de Landing Page, trechos) de maneira adequada e fácil de pesquisar.</li></td>
   </tr>
 </tbody>
 </table>

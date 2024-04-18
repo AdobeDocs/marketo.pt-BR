@@ -3,9 +3,9 @@ description: Visão geral do Live Chat - Documentação do Marketo - Documentaç
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ O bate-papo ao vivo permite que os visitantes do site se envolvam em conversas d
 
 >[!NOTE]
 >
->Os Fluxos de conversa e o Bate-papo ao vivo são recursos de avaliação compartilhados que têm um limite de vida útil combinado de 100 engajamentos para aqueles que estão no pacote Dynamic Chat Select. Quando esse limite for atingido, todos os Fluxos de conversa publicados deixarão de ser acionados e os visitantes que solicitarem o chat com um agente em tempo real receberão a mensagem de fallback global. Para aumentar esse limite, entre em contato com o representante de conta para saber mais sobre as opções de atualização do pacote.
+>Para aqueles que estão no pacote Dynamic Chat Select, o chat ao vivo é um recurso de avaliação com um limite de vida útil de 100 envolvimentos. Quando esse limite é atingido, os visitantes que solicitarem o chat com um agente ao vivo não serão conectados e receberão a mensagem de fallback global. Para aumentar o limite, entre em contato com o representante de conta do Adobe para saber sobre as opções de atualização do pacote.
 
 ## Adicionar agentes de bate-papo ao vivo {#add-live-chat-agents}
 

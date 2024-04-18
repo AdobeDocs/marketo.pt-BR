@@ -3,9 +3,9 @@ description: Visão geral do fluxo de conversa - Documentação do Marketo - Doc
 title: Visão geral do fluxo de conversa
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 Crie um Fluxo de conversa e acione-o para qualquer visitante com base em uma ação específica (por exemplo, clicar em um botão de chamada para ação, no carregamento da página, tempo gasto na página etc.).
 
 ![](assets/conversational-flow-overview-1.png)
-
->[!NOTE]
->
->Os Fluxos de conversa e o Bate-papo ao vivo são recursos de avaliação compartilhados que têm um limite de vida útil combinado de 100 engajamentos para aqueles que estão no pacote Dynamic Chat Select. Quando esse limite for atingido, todos os Fluxos de conversa publicados deixarão de ser acionados e os visitantes que solicitarem o chat com um agente em tempo real receberão a mensagem de fallback global. Para aumentar esse limite, entre em contato com o representante de conta para saber mais sobre as opções de atualização do pacote.
 
 ## Diálogos vs. Fluxos de conversa {#dialogues-vs-conversational-flows}
 

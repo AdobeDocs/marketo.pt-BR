@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ A página das Notas de versão padrão do Marketo Engage [pode ser encontrado aq
 
 **Data de lançamento: 16 de abril de 2024**
 
-### Fluxos de conversa agora disponíveis para usuários no pacote Select {#conversational-flows-select-package}
+### Fluxos de conversa agora disponíveis para todos os usuários {#conversational-flows-available-to-all-users}
 
-Quando lançamos o Conversational Flows no ano passado, aqueles que estão no pacote Dynamic Chat Select só puderam se beneficiar desse recurso como uma avaliação de 100 contratos vitalícios. Agora, os Fluxos de conversa estão totalmente disponíveis para todos no pacote Select.
+Torne seus formulários e landing pages mais conversacionais e reduza o funil de vendas permitindo que clientes potenciais qualificados agendem uma reunião ou um chat com o setor de vendas imediatamente após o envio de um formulário com o Conversational Forms, agora totalmente disponível&#42; para todos os usuários do Dynamic Chat.
 
-Os engajamentos no Fluxo de conversa contarão para o limite mensal de 250 conversas engajadas para usuários no pacote Select.
+_&#42;Anteriormente disponível como um recurso de avaliação com 100 contratos vitalícios. Os envolvimentos do Fluxo de conversa agora contarão para o limite mensal de 250 conversas engajadas para usuários no pacote Select._
 
 ### Funções de retorno de chamada {#callback-functions}
 
