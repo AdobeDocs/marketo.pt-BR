@@ -4,9 +4,9 @@ description: Definir lista inteligente para o Smart Campaign | Acionador - Docum
 title: Definir lista inteligente para o Smart Campaign | Acionador
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Definir lista inteligente para o Smart Campaign | Acionador {#define-smart-list-for-smart-campaign-trigger}
 
 Faça uma Campanha inteligente ser executada em uma pessoa por vez com base em eventos ao vivo adicionando acionadores.
+
+>[!CAUTION]
+>
+>Fazer edições de Smart List ou Etapa de fluxo em uma campanha ativa pode quebrar sua funcionalidade. Se você optar por fazer isso, continue com cuidado.
 
 1. Na Campanha inteligente, clique na guia **[!UICONTROL Lista inteligente]** guia.
 
