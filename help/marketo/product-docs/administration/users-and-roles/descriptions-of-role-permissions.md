@@ -4,9 +4,9 @@ description: Descrições das permissões de função - Documentação do Market
 title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
+source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 16%
 
 ---
@@ -67,7 +67,7 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Webhooks de acesso - Oferece aos usuários Webhooks no Admin para a configuração de detalhes e Mapeamentos de resposta
 * Acessar espaços de trabalho e partições - Concede aos usuários acesso para criar, editar e excluir espaços de trabalho e partições no Administrador
 
-_&#42;Essa permissão está sendo introduzida no modo passivo e não está acessível no momento, para evitar a interrupção de usuários existentes. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
+_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
 
 ## API de acesso  {#access-api}
 
@@ -105,7 +105,7 @@ Fornece aos usuários acesso às guias do Analytics, Insights de email, relatór
 * Excluir relatório - Desmarcar remove a capacidade do usuário de excluir relatórios
 * Exportar dados do Analytics - Desmarcar remove a capacidade do usuário de exportar dados do Analytics
 
-_&#42;Essa permissão está sendo introduzida no modo passivo e não está acessível no momento, para evitar a interrupção de usuários existentes. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
+_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
 
 ## Acessar apresentações de calendários {#access-calendar-presentations}
 
@@ -190,7 +190,7 @@ Exibir o banco de dados, bem como exibir e editar listas inteligentes/estáticas
 
 * Exibir dados da oportunidade - Oculta as informações da oportunidade na página de detalhes da pessoa
 
-_&#42;Essa permissão está sendo introduzida no modo passivo e não está acessível no momento, para evitar a interrupção de usuários existentes. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
+_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
 
 ## Acessar atividades de marketing {#access-marketing-activities}
 
@@ -225,7 +225,7 @@ Acessar SEO
 * Administrar SEO
 * SEO padrão
 
-_&#42;Essa permissão está sendo introduzida no modo passivo e não está acessível no momento, para evitar a interrupção de usuários existentes. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
+_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
 
 ## Direcionamento e personalização {#targeting-and-personalization}
 
