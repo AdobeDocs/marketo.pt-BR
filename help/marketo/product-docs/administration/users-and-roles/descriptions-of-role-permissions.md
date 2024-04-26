@@ -4,10 +4,10 @@ description: Descrições das permissões de função - Documentação do Market
 title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
 workflow-type: tm+mt
-source-wordcount: '1137'
-ht-degree: 19%
+source-wordcount: '1421'
+ht-degree: 16%
 
 ---
 
@@ -31,12 +31,18 @@ Quando você [criar ou editar uma função](/help/marketo/product-docs/administr
 
 Exiba e faça alterações nas configurações na seção Minha conta do Administrador.
 
+* Acessar o Adobe Connect - Dá aos usuários acesso à tela do Adobe Connect
+* Acessar o Adobe Experience Manager&#42; - Fornece aos usuários acesso à tela do Adobe Experience Manager
+* Mapeamento da organização do Adobe de acesso&#42; - Dá aos usuários acesso à tela Mapeamento da organização de Adobe
+* Acessar trilha de auditoria do administrador&#42; - Fornece aos usuários acesso à tela Trilha de auditoria do administrador
+* Acessar trilha de auditoria de acesso&#42; - Concede aos usuários acesso à Trilha de auditoria
 * Acessar trilha de auditoria - Dá aos usuários acesso à trilha de auditoria do ativo e à trilha de auditoria do administrador.
+* Acessar CAPTCHA - Acesso à tela CAPTCHA
 * Canais de acesso - Concede aos usuários acesso somente para modificar a tag de Canal, não a outras tags personalizadas
 * Limite de comunicação de acesso - Concede aos usuários acesso para ativar um limite de comunicação no Administrador
 * Acessar o CRM - Concede aos usuários acesso ao CRM, como [!DNL Salesforce] ou [!DNL Microsoft Dynamics], no Admin
-* Access [[!DNL Data.com]](https://Data.com) - Concede aos usuários acesso à ação de fluxo Data.com
-* Acessar administrador de email - Dá aos usuários o Administrador de email para alterar as configurações padrão, como domínios de cancelamento de inscrição e identidade visual
+* Access [[!DNL Data.com]](https://data.com) - Concede aos usuários acesso à ação de fluxo Data.com
+* Acessar administrador de email - Concede aos usuários acesso ao Administrador de email para alterar as configurações padrão, como domínios de cancelamento de inscrição e identidade visual
 * Parceiros de evento de acesso - Fornece aos usuários acesso ao LaunchPoint no Administrador
 * Gerenciamento de campos de acesso - Concede aos usuários acesso ao Gerenciamento de campos no Administrador
 * Acessar upload de arquivo - Oferece aos usuários a capacidade de carregar imagens e arquivos no Design Studio
@@ -44,9 +50,11 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Local de acesso - Dá aos usuários acesso ao Local no Admin para definir idioma, local, fuso horário e moeda padrão
 * Acessar histórico de logon - Dá aos usuários acesso ao histórico de logon do usuário na trilha de auditoria
 * Acessar configurações de logon - Dá aos usuários acesso às Configurações de logon nas configurações de Administração para segurança, Restrições de IP e Relatórios de lista inteligente
+* Acessar nova experiência&#42; - Fornece aos usuários acesso à tela Nova experiência
 * Acessar a atividade personalizada do Marketo - Concede aos usuários acesso às Atividades personalizadas do Marketo no Administrador
 * Acessar objeto personalizado do Marketo - Concede aos usuários acesso aos Objetos personalizados do Marketo no Administrador
 * Access [!DNL Munchkin] - Concede aos usuários acesso a [!DNL Munchkin] em Administração, para definir o código de rastreamento, o rastreamento de pessoas e ativar a configuração da API
+* Acessar públicos preditivos&#42; - Dá aos usuários acesso à tela Predictive Audiences
 * Acessar o Revenue Cycle Analytics - Dá aos usuários acesso ao Revenue Cycle Analytics no Admin para a configuração Sincronizar resumo e atribuição
 * Funções de acesso - concede aos usuários acesso para gerenciar e editar funções, mas não aos usuários
 * Acessar o Sales Insight - Dá aos usuários acesso para gerenciar o Sales Insight no Admin, para definir o status, a configuração da API, a pontuação de pessoas e outras configurações
@@ -58,6 +66,8 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acessar usuários - Dá aos usuários acesso para editar e gerenciar usuários (mas não funções) no Admin
 * Webhooks de acesso - Oferece aos usuários Webhooks no Admin para a configuração de detalhes e Mapeamentos de resposta
 * Acessar espaços de trabalho e partições - Concede aos usuários acesso para criar, editar e excluir espaços de trabalho e partições no Administrador
+
+_&#42;Essa permissão está sendo introduzida no modo passivo e não está acessível no momento, para evitar a interrupção de usuários existentes. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
 
 ## API de acesso  {#access-api}
 
@@ -91,8 +101,11 @@ Fornece aos usuários com o **Somente API** **Função** acesso às APIs individ
 Fornece aos usuários acesso às guias do Analytics, Insights de email, relatórios e aos três itens abaixo, a menos que estejam desmarcados.
 
 * Acessar Gerenciador de Receita - Desmarcar remove o acesso do usuário ao Gerenciador de Receita
+* Criar relatório&#42; - Fornece aos usuários acesso para criar, clonar, ler, atualizar e mover ativos de relatórios em atividades de análise e marketing, bem como ativos do Modelador de ciclo de receita
 * Excluir relatório - Desmarcar remove a capacidade do usuário de excluir relatórios
 * Exportar dados do Analytics - Desmarcar remove a capacidade do usuário de exportar dados do Analytics
+
+_&#42;Essa permissão está sendo introduzida no modo passivo e não está acessível no momento, para evitar a interrupção de usuários existentes. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
 
 ## Acessar apresentações de calendários {#access-calendar-presentations}
 
@@ -164,6 +177,9 @@ Exibir o banco de dados, bem como exibir e editar listas inteligentes/estáticas
    * Editar segmentação
 
 * Excluir pessoa
+* Criar lista&#42;
+   * Acesso para criar um ativo de lista em Atividades de banco de dados e marketing
+   * Acesso para criar um ativo de lista inteligente no banco de dados e nas atividades de marketing
 * Excluir lista
 * Editar Pessoa - Impede a edição manual e a execução de etapas de fluxo único; você ainda pode editar pessoas executando campanhas com elas
 * Exportar pessoa - Exporte planilhas com das listas do banco de dados
@@ -173,6 +189,8 @@ Exibir o banco de dados, bem como exibir e editar listas inteligentes/estáticas
 * Executar ações de fluxo único - Permite que os usuários executem **Alterar valor dos dados** etapa de fluxo em pessoas do banco de dados
 
 * Exibir dados da oportunidade - Oculta as informações da oportunidade na página de detalhes da pessoa
+
+_&#42;Essa permissão está sendo introduzida no modo passivo e não está acessível no momento, para evitar a interrupção de usuários existentes. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
 
 ## Acessar atividades de marketing {#access-marketing-activities}
 
@@ -197,6 +215,7 @@ Exiba a guia Atividades de marketing, campanhas e pastas de campanha.
 * Excluir ativo de marketing
 * Editar restrições de campanha
 * Editar ativo de marketing
+* Exportar atividade da campanha&#42;
 * Importar programa
 * Importação de lista
 * Programar campanha em lote
@@ -205,6 +224,8 @@ Acessar SEO
 
 * Administrar SEO
 * SEO padrão
+
+_&#42;Essa permissão está sendo introduzida no modo passivo e não está acessível no momento, para evitar a interrupção de usuários existentes. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
 
 ## Direcionamento e personalização {#targeting-and-personalization}
 
