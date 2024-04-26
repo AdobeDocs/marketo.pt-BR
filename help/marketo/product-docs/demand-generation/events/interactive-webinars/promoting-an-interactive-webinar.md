@@ -2,10 +2,10 @@
 description: Promover um webinário interativo - Documentação do Marketo - Documentação do produto
 title: Promover um webinário interativo
 feature: Interactive Webinars
-exl-id: 1f0777fe-fded-4629-b074-9a1ec94ba996
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,5 @@ Você pode usar tokens para incluir o URL do webinário para membros individuais
 Os links estão disponíveis no lado direito da guia Visão geral no Programa de evento para criar uma Página de aterrissagem, bem como uma campanha de email. O restante das promoções relacionadas a um evento permanecem as mesmas que webinários de parceiros usando a integração do Launchpoint.
 
 ![](assets/promoting-an-interactive-webinar-2.png)
+
+Webinars interativos permitem solicitar registro antes, durante ou depois de um webinário. Em todos os casos, bastaria compartilhar o URL do webinário com o lead. Clicar no link antes do início do webinário os envia para uma página de aterrissagem pré-webinário. Clicar nele durante o webinário os leva para o webinário em andamento. Clicar nele depois do webinário os leva para uma gravação do webinário.
