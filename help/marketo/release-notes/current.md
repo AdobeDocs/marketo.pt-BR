@@ -3,16 +3,18 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 14%
+source-wordcount: '399'
+ht-degree: 11%
 
 ---
 
 # Notas de versão: abril de 2024 {#release-notes-apr-24}
 
 Abaixo você encontrará todos os recursos incluídos na versão de abril de 2024. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
+
+As notas de versão especificamente para o Adobe Dynamic Chat [pode ser encontrado aqui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
@@ -31,8 +33,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr> 
    <td><strong>Melhorias nos webinários interativos</strong>: agora você pode fornecer aos hosts e apresentadores a capacidade de adicionar um título de webinário, renomear uma sala e sincronizar manualmente os dados de engajamento após a entrega do evento.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Criar um webinário interativo</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Sincronização manual</a></li></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -50,9 +53,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Permissões para novos usuários e funções</strong>: novas permissões estão disponíveis, fornecendo aos usuários acesso mais granular ao Marketo Engage. Controle partes do Administrador não previamente restritas, como Nova experiência e Públicos preditivos, divida permissões para conceder acesso à Trilha de auditoria de ativos e à Trilha de auditoria de administradores separadamente e utilize novas permissões de criação e movimentação para ativos e pastas, a fim de impedir que usuários somente leitura façam alterações.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td><strong>Permissões para novos usuários e funções</strong>: novas permissões estão disponíveis, fornecendo aos usuários acesso mais granular ao Marketo Engage. Controle partes do Administrador não previamente restritas, como Nova experiência e Públicos preditivos, divida permissões para conceder acesso à Trilha de auditoria de ativos e à Trilha de auditoria de administradores separadamente e utilize novas permissões de criação e movimentação para ativos e pastas, a fim de impedir que usuários somente leitura façam alterações. Embora as novas permissões apareçam em sua instância do Marketo Engage a partir de 26 de abril, elas estão passivas por enquanto e se tornarão acessíveis posteriormente neste trimestre.</td> 
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descrições de permissões de função</a></td>
   </tr>
  </tbody> 
 </table>
