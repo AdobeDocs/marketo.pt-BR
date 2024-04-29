@@ -4,9 +4,9 @@ title: Etapas de configuração
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1696'
+source-wordcount: '1735'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ A primeira parte (a negrito) é a seguinte: `[LandingPageCNAME]`. Você vai prec
 
 Para recuperar a ID do Munchkin que você substituirá pela sua página de aterrissagem CNAME, vá para a área de Administração.
 
-![](assets/setup-steps-9.png)
+CAPTURA DE TELA: setup-steps-9.png
 
 Clique em **Minha conta**.
 
-![](assets/setup-steps-10.png)
+CAPTURA DE TELA: setup-steps-10.png
 
 Copie o [!UICONTROL String de conta] das configurações da página de aterrissagem.
 
-![](assets/setup-steps-11.png)
+CAPTURA DE TELA: setup-steps-11.png
 
 Este é o `[Munchkin ID]`. Salve. Você precisará fornecê-lo à TI na Etapa 5.
 
@@ -100,17 +100,17 @@ A primeira parte é o rastreamento de email CNAME, `[EmailTrackingCNAME]`. Você
 
 Para encontrar o link de rastreamento do Marketo, acesse o **[!UICONTROL Admin]** área.
 
-![](assets/setup-steps-12.png)
+CAPTURA DE TELA: setup-steps-12.png
 
 Clique em **[!UICONTROL E-mail]**.
 
-![](assets/setup-steps-13.png)
+CAPTURA DE TELA: setup-steps-13.png
 
 Copie o [!UICONTROL Link de rastreamento] das configurações de email.
 
 A variável [!UICONTROL Link de rastreamento] está no formato: `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+CAPTURA DE TELA: setup-steps-14.png
 
 Este é o seu `[MktoTrackingLink]`. Salve. Você precisará fornecê-lo à TI na Etapa 5.
 
@@ -215,35 +215,35 @@ Depois que o departamento de TI concluir as tarefas, siga estas etapas para adic
 
 Vá para a **[!UICONTROL Admin]** área para adicionar sua página de aterrissagem CNAME
 
-![](assets/setup-steps-15.png)
+CAPTURA DE TELA: setup-steps-15.png
 
 Selecione Landing Pages e clique em **[!UICONTROL Editar]** no [!UICONTROL Configurações] área.
 
-![](assets/setup-steps-16.png)
+CAPTURA DE TELA: setup-steps-16.png
 
 Insira o novo nome de domínio no campo **[!UICONTROL Nome de domínio para páginas de aterrissagem]**. Isso deve estar no formato:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+CAPTURA DE TELA: setup-steps-17.png
 
 No **[!UICONTROL Fallback]** , insira o URL para o qual você deseja que as pessoas acessem se uma landing page não estiver disponível. Você pode usar a home page de sua empresa se não tiver uma página de fallback. No **[!UICONTROL Página inicial]** insira o site da empresa.
 
-![](assets/setup-steps-18.png)
+CAPTURA DE TELA: setup-steps-18.png
 
 No [!UICONTROL Admin] , selecione **[!UICONTROL E-mail]** para adicionar seu CNAME de email
 
-![](assets/setup-steps-19.png)
+CAPTURA DE TELA: setup-steps-19.png
 
 Role para baixo até [!UICONTROL Domínios de marca]. Selecione o domínio e clique em **[!UICONTROL Editar]**.
 
-![](assets/setup-steps-20.png)
+CAPTURA DE TELA: setup-steps-20.png
 
 No campo Domain, insira o domínio de rastreamento de email. Isso deve estar no formato:
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. Clique em **[!UICONTROL Salvar]**.
 
-![](assets/setup-steps-21.png)
+CAPTURA DE TELA: setup-steps-21.png
 
 ## Integrar seu CRM {#integrate-your-crm}
 
