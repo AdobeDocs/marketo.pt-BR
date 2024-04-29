@@ -1,11 +1,12 @@
 ---
-description: Centro de ajuda - Documentação do Marketo - Documentação do produto
+description: Centro de ajuda - Documentação do Marketo Engage - Documentação do produto
 title: Centro de ajuda
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---
@@ -18,39 +19,39 @@ A Central de ajuda no Adobe Marketo Engage serve como um local centralizado para
 
 Depois de fazer logon no Marketo Engage, clique no ícone Ajuda.
 
-![](assets/help-center-1.png)
+CAPTURA DE TELA
 
 ### Guias {#guides}
 
 Os guias servem como apresentações rápidas para recursos populares.
 
-![](assets/help-center-2.png)
+CAPTURA DE TELA
 
 1. Clique no guia desejado para visualizá-lo.
 
-   ![](assets/help-center-3.png)
+CAPTURA DE TELA
 
 1. Clique em **Introdução**.
 
-   ![](assets/help-center-4.png)
+CAPTURA DE TELA
 
 1. Clique em **Próxima** para continuar.
 
-   ![](assets/help-center-5.png)
+CAPTURA DE TELA
 
 1. Clique em **Concluído** para sair da apresentação.
 
-   ![](assets/help-center-6.png)
+CAPTURA DE TELA
 
-   >[!TIP]
-   >
-   >Saia do guia a qualquer momento clicando em **Ignorar**.
+>[!TIP]
+>
+>Saia do guia a qualquer momento clicando em **Ignorar**.
 
 ### Novidades {#whats-new}
 
 A guia Novidades contém todos os detalhes da versão mais recente do Marketo Engage.
 
-![](assets/help-center-7.png)
+CAPTURA DE TELA
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ A guia Novidades contém todos os detalhes da versão mais recente do Marketo En
 
 A guia Recursos fornece acesso rápido e direto a várias maneiras de obter ajuda adicional com a instância do Marketo Engage.
 
-![](assets/help-center-8.png)
+CAPTURA DE TELA
