@@ -1,17 +1,17 @@
 ---
 description: Documente a configuração da sua nova instância do Marketo Engage.
-title: Nova instância - documentar sua configuração
+title: Novas práticas recomendadas de instância - documente sua configuração
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
 
-# Nova instância: documentar sua configuração {#new-instancei-document-your-setup}
+# Novas práticas recomendadas de instância: documentar sua configuração {#new-instance-best-practices-document-your-setup}
 
 Agora que você aprendeu as principais áreas de produto para configurar para uma nova instância do Marketo Engage, a próxima etapa é criar a documentação para a configuração da sua instância e pilha técnica. Ao criá-la por meio de uma planilha ou um aplicativo de gerenciamento de projeto, sua documentação será um excelente recurso para rastrear o progresso e registrar os detalhes, bem como manter sua instância estruturada e sustentável para futuros profissionais de marketing em sua organização.
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 3%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 3%
       + [Configuração de usuário](getting-started-2/initial-setup/user-setup.md)
    + Implementação de uma nova instância do Marketo Engage {#implementing-a-new-marketo-engage-instance}
       + [Onde começar](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [Nova instância: lista de verificação da seção de administração](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [Nova Instância: Lista de Verificação de Banco de Dados](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Nova instância: lista de verificação de atividades de marketing](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [Nova instância: lista de verificação do Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [Nova instância: documentar sua configuração](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [Novas Práticas Recomendadas Da Instância: Lista De Verificação Da Seção Admin](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [Novas Práticas Recomendadas da Instância: Lista de Verificação do Banco de Dados](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Novas práticas recomendadas da instância: lista de verificação de atividades de marketing](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Novas Práticas Recomendadas Da Instância: Lista De Verificação Do Design Studio](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Novas práticas recomendadas de instância: documentar sua configuração](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + O que você deve saber {#things-to-know}
       + [Glossário do Marketo Engage](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [Ícone do Glossário](getting-started-2/things-to-know/icon-glossary.md)

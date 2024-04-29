@@ -1,17 +1,17 @@
 ---
 description: Configure a seção Banco de Dados para sua nova instância do Marketo Engage.
-title: Nova Instância - Lista de Verificação do Banco de Dados
+title: Novas Práticas Recomendadas da Instância - Lista de Verificação do Banco de Dados
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 9%
 
 ---
 
-# Nova Instância: Lista de Verificação de Banco de Dados {#new-instance-database-checklist}
+# Novas Práticas Recomendadas da Instância: Lista de Verificação do Banco de Dados {#new-instance-best-practices-database-checklist}
 
 A seção Banco de Dados fornece um snapshot dos atributos-chave sobre as pessoas na sua instância. Saiba mais sobre as etapas necessárias para navegar pelas diferentes listas e segmentações no banco de dados, bem como gerenciar registros de pessoas.
 

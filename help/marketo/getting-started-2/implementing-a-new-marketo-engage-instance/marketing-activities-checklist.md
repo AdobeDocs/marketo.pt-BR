@@ -1,17 +1,17 @@
 ---
 description: Configure a seção Atividades de marketing para sua nova instância do Marketo Engage.
-title: Nova instância - Lista de verificação de atividades de marketing
+title: Novas práticas recomendadas de instância - lista de verificação de atividades de marketing
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 3%
 
 ---
 
-# Nova instância: lista de verificação de atividades de marketing {#new-instance-marketing-activities-checklist}
+# Novas práticas recomendadas da instância: lista de verificação de atividades de marketing {#new-instance-best-practices-marketing-activities-checklist}
 
 As Atividades de marketing abrigam todos os ativos e conteúdos que compõem seus programas de marketing automatizado. À medida que você configura uma nova instância do Marketo Engage, uma organização limpa e clara garante que todos os usuários possam encontrar e gerenciar facilmente vários programas.
 

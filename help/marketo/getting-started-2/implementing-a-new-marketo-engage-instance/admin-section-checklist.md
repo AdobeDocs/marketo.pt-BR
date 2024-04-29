@@ -1,17 +1,17 @@
 ---
 description: Configure a seção Admin para sua nova instância do Marketo Engage.
-title: Nova Instância - Lista de Verificação de Seção Administrativa
+title: Novas Práticas Recomendadas Da Instância - Lista De Verificação Da Seção Do Administrador
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 5%
 
 ---
 
-# Nova instância: lista de verificação da seção de administração {#new-instance-admin-section-checklist}
+# Novas Práticas Recomendadas Da Instância: Lista De Verificação Da Seção Admin {#new-instance-best-practices-admin-section-checklist}
 
 Como novo administrador navegando em uma nova instância do Marketo Engage, aplique a lista de verificação abaixo para ajudar a orientá-lo pelo processo de implementação. Como em todos esses guias, é possível baixar as listas de verificação [LINK] e acompanhe seu progresso.
 

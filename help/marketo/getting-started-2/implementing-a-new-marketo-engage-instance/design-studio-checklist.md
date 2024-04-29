@@ -1,17 +1,17 @@
 ---
 description: Configure a seção Design Studio para a nova instância do Marketo Engage.
-title: Nova instância - Lista de verificação do Design Studio
+title: Novas práticas recomendadas de instância - lista de verificação do Design Studio
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 6%
 
 ---
 
-# Nova instância: lista de verificação do Design Studio {#new-instance-design-studio-checklist}
+# Novas Práticas Recomendadas Da Instância: Lista De Verificação Do Design Studio {#new-instance-best-practices-design-studio-checklist}
 
 A seção Design Studio é onde os &quot;ativos globais&quot; reutilizáveis devem ficar. Crie os ativos globais que sua organização planeja usar em programas, use uma convenção de nomenclatura consistente e organize-os nas subpastas para facilitar as pesquisas.
 
