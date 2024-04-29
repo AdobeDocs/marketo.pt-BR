@@ -3,9 +3,9 @@ description: Noções básicas sobre a assinatura do Marketo e a migração de u
 title: Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '1327'
+source-wordcount: '1370'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Como parte da migração, sua assinatura e o gerenciamento de usuários passarã
 
 * **Os administradores do sistema gerenciarão assinaturas no Adobe Admin Console**. Veja todos os seus produtos Adobe em um único console.
 
-* **Os administradores de produtos gerenciarão os usuários e seu acesso no Adobe Admin Console**. Adicione e remova usuários para todas as suas assinaturas Adobe.
+* **Os administradores de produtos gerenciarão os usuários e seu acesso no Adobe Admin Console**. Adicione e remova usuários para todas as suas assinaturas Adobe. A Adobe Admin Console não oferece suporte à expiração de acesso com base no usuário. Os usuários com acesso Marketo Engage programado para expirar após a migração ainda serão migrados e receberão acesso sem expiração. Após a migração, eles devem ser removidos manualmente na (ou antes da) data de expiração desejada.
 
 * **Os usuários entrarão com a Identidade do Adobe**. O Adobe migrará os usuários existentes para o Adobe Admin Console. Os usuários farão logon nas assinaturas do Marketo usando sua nova Identidade de Adobe - seja um Adobe ID ou Adobe Federated ID (SSO).
 
