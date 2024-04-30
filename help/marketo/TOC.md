@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
 workflow-type: tm+mt
-source-wordcount: '9356'
+source-wordcount: '9358'
 ht-degree: 3%
 
 ---
@@ -690,6 +690,7 @@ ht-degree: 3%
             + [Gerenciamento de agente](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
             + [Configurações de segurança](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
             + [Roteamento](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [Funções de retorno de chamada](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
       + Eventos {#events}
          + Noções básicas sobre eventos {#understanding-events}
             + [Adicionar membros a um programa de evento](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
