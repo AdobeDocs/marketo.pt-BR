@@ -3,7 +3,7 @@ description: Funções de retorno de chamada - Documentação do Marketo - Docum
 title: Funções de retorno de chamada
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: fd070322b6741268595d460318246abd3768dd3d
+source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 7%
@@ -21,7 +21,7 @@ Esse evento indica que o widget de Dynamic Chat está pronto para uso e é acion
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
     // code here will execute when chatbot scripts are loaded in a webpage 
-});
+}); 
 ```
 
 ## Eventos de conversa {#conversation-events}
@@ -34,11 +34,11 @@ Uma conversa (por exemplo, uma caixa de diálogo) direcionada a um visitante do 
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
-
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
-// code here will execute when chatbot is loaded for a visitor 
-   });
-});
+ // code here will execute when the chatbot is loaded for a visitor 
+    }); 
+});  
 ```
 
 ### Conversa engajada {#conversation-engaged}
@@ -47,10 +47,11 @@ Visitante envolvido (por exemplo, forneceu sua primeira resposta) com o chatbot.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => { 
- // code here will execute when visitor engages with chatbot 
-    });
-});
+ // code here will execute when a visitor engages with the chatbot 
+     }); 
+}); 
 ```
 
 ### Conversa concluída {#conversation-completed}
@@ -59,10 +60,11 @@ O visitante chegou ao fim da conversa.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => { 
- // code here will execute when conversation is completed 
-    });
-});
+ // code here will execute when a conversation is completed 
+     }); 
+}); 
 ```
 
 ### Conversa encerrada
@@ -71,15 +73,16 @@ O visitante encerrou a conversa antes de chegar ao fim.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_CLOSED, (event) => { 
- // code here will execute when conversation is closed 
-    });
-});
+ // code here will execute when a conversation is closed 
+    }); 
+}); 
 ```
 
 A variável `event` parameter é um objeto com metadados relacionados à conversa. É possível acessar esses metadados acessando `event.data`.
 
-Abaixo estão alguns valores de metadados principais que você pode acessar:
+Estes são alguns valores de metadados principais que você pode acessar:
 
 <table>
 <thead>
@@ -122,10 +125,11 @@ Esse evento é acionado quando um visitante fornece seu número de telefone dura
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => { 
-  // code here will execute when a visitor provides their phone number 
+ // code here will execute when a visitor provides their phone number 
     }); 
-}); 
+});  
 ```
 
 ### ID do e-mail {#email-id}
@@ -134,15 +138,16 @@ Esse evento é acionado quando um visitante fornece seu endereço de email duran
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => { 
  // code here will execute when a visitor provides their email address 
     }); 
-});
+}); 
 ```
 
 A variável `event` parameter é um objeto com metadados relacionados à conversa. É possível acessar esses metadados acessando `event.data`.
 
-Abaixo estão alguns valores de metadados principais que você pode acessar.
+Estes são alguns valores de metadados principais que você pode acessar:
 
 <table>
 <thead>
@@ -187,15 +192,16 @@ Esse evento é acionado quando um visitante agenda uma reunião no calendário d
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => { 
  // code here will execute when a meeting is booked 
     }); 
-});
+}); 
 ```
 
 A variável `event` parameter é um objeto com metadados relacionados à conversa. É possível acessar esses metadados acessando `event.data`.
 
-Abaixo estão alguns valores de metadados principais que você pode acessar.
+Estes são alguns valores de metadados principais que você pode acessar:
 
 <table>
 <thead>
@@ -252,10 +258,11 @@ Esse evento é acionado quando um visitante seleciona a opção para conversar c
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => { 
- // code here will execute when a visitor requests for live chat 
+ // code here will execute when a visitor requests a live chat 
     }); 
-});
+}); 
 ```
 
 ### Chat ao vivo iniciado {#live-chat-initiated}
@@ -264,10 +271,11 @@ Esse evento é acionado quando um visitante seleciona a opção para conversar c
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => { 
- // code here will execute after a live agent accepted the chat 
+ // code here will execute after a live agent accepts the chat 
     }); 
-});
+}); 
 ```
 
 ### Chat ao vivo encerrado {#live-chat-ended}
@@ -276,10 +284,11 @@ Esse evento é acionado quando uma conversa entre um visitante e o agente ativo 
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => { 
  // code here will execute when a live chat is ended 
     }); 
-});
+}); 
 ```
 
 ### Tempo limite do bate-papo ao vivo {#live-chat-timeout}
@@ -288,15 +297,16 @@ Esse evento é acionado quando uma conversa de chat ao vivo atinge o tempo limit
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => { 
- // code here will execute when a visitor abandoned live chat 
+ // code here will execute when a visitor abandons a live chat 
     }); 
-});
+}); 
 ```
 
 A variável `event` parameter é um objeto com metadados relacionados à conversa. É possível acessar esses metadados acessando `event.data`.
 
-Abaixo estão alguns valores de metadados principais que você pode acessar.
+Estes são alguns valores de metadados principais que você pode acessar:
 
 <table>
 <thead>
@@ -341,6 +351,7 @@ Se você quiser enviar qualquer um desses eventos para uma plataforma de anális
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
  // Enter Adobe Analytics or Google Analytics function here 
     ga('send', 'event', { 
@@ -349,5 +360,5 @@ window.addEventListener('adobedx.conversations.ready', () => {
       eventLabel: event.data.payload.id, 
     }); 
     }); 
-});
+}); 
 ```
