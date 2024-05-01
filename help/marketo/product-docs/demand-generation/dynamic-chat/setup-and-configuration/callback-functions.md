@@ -1,12 +1,11 @@
 ---
 description: Funções de retorno de chamada - Documentação do Marketo - Documentação do produto
 title: Funções de retorno de chamada
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 7%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-O argumento &#39;event&#39; no evento é um objeto com metadados relacionados à conversa. É possível acessar os metadados por event.data
+A variável `event` parameter é um objeto com metadados relacionados à conversa. É possível acessar esses metadados acessando `event.data`.
 
 Abaixo estão alguns valores de metadados principais que você pode acessar:
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-O argumento &#39;event&#39; no evento é um objeto com metadados relacionados à conversa. É possível acessar os metadados por event.data
+A variável `event` parameter é um objeto com metadados relacionados à conversa. É possível acessar esses metadados acessando `event.data`.
 
 Abaixo estão alguns valores de metadados principais que você pode acessar.
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-O argumento &#39;event&#39; no evento é um objeto com metadados relacionados à conversa. É possível acessar os metadados por event.data
+A variável `event` parameter é um objeto com metadados relacionados à conversa. É possível acessar esses metadados acessando `event.data`.
 
 Abaixo estão alguns valores de metadados principais que você pode acessar.
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-O argumento &#39;event&#39; no evento é um objeto com metadados relacionados à conversa. É possível acessar os metadados por event.data
+A variável `event` parameter é um objeto com metadados relacionados à conversa. É possível acessar esses metadados acessando `event.data`.
 
 Abaixo estão alguns valores de metadados principais que você pode acessar.
 
@@ -338,7 +337,7 @@ Abaixo estão alguns valores de metadados principais que você pode acessar.
 </tbody>
 </table>
 
-Se você quiser enviar qualquer um desses eventos para uma plataforma de terceiros, como Adobe Analytics ou Google Analytics, será necessário adicionar a respectiva chamada de rastreamento dentro desses eventos Dynamic Chat. Seria algo parecido com o exemplo abaixo.
+Se você quiser enviar qualquer um desses eventos para uma plataforma de análise, como Adobe Analytics ou Google Analytics, será necessário adicionar a respectiva chamada de rastreamento dentro desses eventos Dynamic Chat. Seria algo parecido com o exemplo abaixo.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
