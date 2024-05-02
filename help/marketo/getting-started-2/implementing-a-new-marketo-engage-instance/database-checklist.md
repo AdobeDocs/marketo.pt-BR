@@ -4,16 +4,17 @@ title: Novas Práticas Recomendadas da Instância - Lista de Verificação do Ba
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 9%
 
 ---
 
 # Novas Práticas Recomendadas da Instância: Lista de Verificação do Banco de Dados {#new-instance-best-practices-database-checklist}
 
-A seção Banco de Dados fornece um snapshot dos atributos-chave sobre as pessoas na sua instância. Saiba mais sobre as etapas necessárias para navegar pelas diferentes listas e segmentações no banco de dados, bem como gerenciar registros de pessoas.
+A seção Banco de dados é onde você encontrará os principais atributos das pessoas na sua instância. Saiba mais sobre as etapas necessárias para navegar pelas diferentes listas e segmentações no banco de dados, bem como gerenciar registros de pessoas.
 
 Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
 
@@ -38,7 +39,7 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
   </tr>
   <tr>
     <td>Campanha de marketing suspensa</td>
-    <td><li>Definir <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">Marketing suspenso</a> critérios.</li></td>
+    <td><li>Definir <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing suspenso</a> critérios.</li></td>
   </tr>
   <tr>
     <td>Endereços de e-mail com mensagens devolvidas </td>
@@ -49,7 +50,7 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
     <td>Possíveis duplicatas</td>
     <td><li>Revise Pessoas na lista Duplicatas possíveis.</li> 
     <li>Defina sua estratégia de gerenciamento de duplicatas para determinar se deseja <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">mesclar pessoas manualmente</a>.</li>  
-    <li>Se você tiver uma integração com o CRM, defina um processo e uma conta para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">o efeito da mesclagem de leads no seu CRM</a>.</li></td>
+    <li>Se você tiver uma integração com o CRM, defina um processo e uma conta para <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">o efeito da mesclagem de leads no seu CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Nenhum programa de aquisição</td>

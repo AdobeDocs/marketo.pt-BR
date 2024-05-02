@@ -4,9 +4,10 @@ title: Novas práticas recomendadas de instância - lista de verificação do De
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 6%
 
 ---
@@ -29,8 +30,8 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
 <tbody>
   <tr>
     <td>Páginas globais</td>
-    <td><li>Criar páginas de aterrissagem globais (forma livre/guiado).</li>
-    <li>Crie uma página de teste para testar o modelo de página de aterrissagem vencedora (se aplicável).</li></td>
+    <td><li>Criar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">Páginas de aterrissagem globais (forma livre/guiadas)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Criar uma página de teste</a> para testar A/B o modelo de página de aterrissagem vencedora (se aplicável).</li></td>
   </tr>
   <tr>
     <td>Modelos</td>
@@ -38,7 +39,7 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li>Criar um rodapé usando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Trechos</a> ou tokens em suas páginas iniciais para fins de conformidade com a privacidade.</li></td>
+    <td><li>Criar um rodapé usando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Trechos</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Tokens</a> em suas Landing Pages para fins de conformidade com a privacidade.</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,8 +126,8 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
     <td>Convenções de nomenclatura</td>
     <td><li>Use convenções de nomenclatura consistentes para imagens e arquivos.</li>  
     <br>Exemplos:  
-    <br>Convenção De Nomenclatura De Arquivos: Tipo De Ativo-Nome Do Ativo (Por Exemplo: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-On-Board) 
-    <p>Convenção De Nomenclatura Da Imagem: Tipo De Imagem-Tipo De Ativo-Nome Do Ativo (Por Exemplo: Miniatura-White-Paper-Avaliação-Computação-Em-Nuvem-Obter-Seu-Quadro-A-Bordo)</td>
+    <br><ul><li>Convenção De Nomenclatura De Arquivos: Tipo De Ativo-Nome Do Ativo (Por Exemplo: White-Paper-Evaluating-Cloud-Computing-Get-Your-Board-On-Board)</li>
+    <p><li>Convenção De Nomenclatura Da Imagem: Tipo De Imagem-Tipo De Ativo-Nome Do Ativo (Por Exemplo: Miniatura-White-Paper-Avaliação-Computação-Em-Nuvem-Obter-Seu-Quadro-A-Bordo)</li></td>
   </tr>
 </tbody>
 </table>

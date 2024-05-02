@@ -4,9 +4,10 @@ title: Novas práticas recomendadas de instância - documente sua configuração
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 2%
 
 ---
@@ -55,7 +56,7 @@ Agora que você aprendeu as principais áreas de produto para configurar para um
     <br>Tipo de ID
     <br>Perfil(is) do produto
     <p>
-    <li>Como administrador de produto do Marketo Engage, desenvolva um processo interno para auditar e atualizar a lista de usuários do Marketo Engage regularmente. Para fazer alterações na lista de usuários no Adobe Admin Console, considere <a href="https://helpx.adobe.com/br/enterprise/using/users.html" target="_blank">fazer upload do .csv</a> em massa.</li></td>
+    <li>Como administrador de produto do Marketo Engage, desenvolva um processo interno para auditar e atualizar a lista de usuários do Marketo Engage regularmente. Para fazer alterações na lista de usuários no Adobe Admin Console, considere <a href="https://helpx.adobe.com/br/enterprise/using/users.html" target="_blank">ações em massa</a>, como fazer upload de um .CSV, usar a API REST de gerenciamento de usuários etc.</li></td>
   </tr>
   <tr>
     <td>Organização</td>

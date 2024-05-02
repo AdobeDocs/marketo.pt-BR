@@ -4,9 +4,10 @@ title: Onde começar
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 Bem-vindo à nova instância do Adobe Marketo Engage. Prepare-se para simplificar, automatizar e medir tarefas e fluxos de trabalho de marketing com recursos avançados de automação de marketing.
 
-Neste guia &quot;Implementação de uma nova instância de Marketo Engage&quot;, conheça as práticas recomendadas para implementar sua instância com facilidade, a fim de garantir higiene de longo prazo e eficiência operacional. Cada lista de verificação fornece etapas valiosas para você acompanhar o progresso da configuração. Use as listas de verificação que podem ser baixadas para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração.
+Neste guia &quot;Implementação de uma nova instância de Marketo Engage&quot;, conheça as práticas recomendadas para implementar sua instância com facilidade, a fim de garantir higiene de longo prazo e eficiência operacional. Cada lista de verificação fornece etapas valiosas para você acompanhar o progresso da configuração. Use as listas de verificação que podem ser baixadas para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração de usuários.
 
 ## Listas De Verificação De Práticas Recomendadas Para Sua Nova Instância Do Marketo Engage {#best-practice-checklists-new-instance}
 
@@ -33,4 +34,10 @@ Baixar as listas de verificação de administrador da nova implementação da in
 
 ## Conectar-se a colegas {#connect-with-your-peers}
 
-Visite o [Comunidade da nação de marketing](https://nation.marketo.com/){target="_blank"} e crie seu perfil da comunidade para saber e perguntar aos seus colegas como eles implementam e gerenciam a instância do Marketo Engage.
+Visite o [Comunidade da nação de marketing](https://nation.marketo.com/){target="_blank"} para saber mais sobre a instância do Marketo Engage com os funcionários do Marketo Engage e outros usuários.
+
+Introdução à Comunidade da nação de marketing:
+
+1. Clique em **Continuar com o Adobe ID** e selecione sua assinatura principal na página de logon.
+1. Ao fazer logon, complete seu perfil da comunidade.
+1. Depois de enviar as informações, você será direcionado para a página inicial da comunidade e estará pronto para continuar.
