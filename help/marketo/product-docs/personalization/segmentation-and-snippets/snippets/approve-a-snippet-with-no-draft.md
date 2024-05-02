@@ -4,7 +4,7 @@ description: Aprovar um trecho sem rascunho - Documentação do Marketo - Docume
 title: Aprovar um trecho sem rascunho
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
+source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Nenhum rascunho é acionado sempre que um trecho é aprovado. Isso inclui um trecho compartilhado ou referenciado por ativos em outros espaços de trabalho.
 
-1. Vá para a **Design Studio**.
+1. Vá para a **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,14 +25,14 @@ Nenhum rascunho é acionado sempre que um trecho é aprovado. Isso inclui um tre
 
    ![](assets/approve-the-snippet-2.png)
 
-1. No **Ações de trecho** selecione **Aprovar rascunho**.
+1. No **[!UICONTROL Ações de trecho]** selecione **[!UICONTROL Aprovar rascunho]**.
 
    ![](assets/approve-the-snippet-3.png)
 
-1. Selecione uma opção na caixa de diálogo Aprovar trecho e clique em **Aprovar**:
+1. Selecione uma opção na caixa de diálogo Aprovar trecho e clique em **[!UICONTROL Aprovar]**:
 
-   * **Atualizar tudo**: essa opção não criará rascunhos dos ativos aprovados usando o trecho. Todos os ativos obtêm as atualizações e mantêm seus status anteriores. Um módulo de progresso é exibido no lado superior direito da tela; ele pode ser fechado a qualquer momento. Para restaurá-lo, clique com o botão direito do mouse no nome do trecho e selecione Mostrar status de aprovação.
-   * **Criar rascunhos**: essa opção criará rascunhos dos ativos aprovados usando o trecho. Selecione esta opção se as alterações do trecho precisarem ser revisadas primeiro. Todos os rascunhos devem ser aprovados manualmente.
+   * **[!UICONTROL Atualizar tudo]**: essa opção não criará rascunhos dos ativos aprovados usando o trecho. Todos os ativos obtêm as atualizações e mantêm seus status anteriores. Um módulo de progresso é exibido no lado superior direito da tela; ele pode ser fechado a qualquer momento. Para restaurá-lo, clique com o botão direito do mouse no nome do trecho e selecione Mostrar status de aprovação.
+   * **[!UICONTROL Criar rascunhos]**: essa opção criará rascunhos dos ativos aprovados usando o trecho. Selecione esta opção se as alterações do trecho precisarem ser revisadas primeiro. Todos os rascunhos devem ser aprovados manualmente.
 
    ![](assets/approve-the-snippet-4.png)
 
