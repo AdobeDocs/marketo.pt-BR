@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 3%
 
 ---
@@ -54,9 +54,9 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
 
 ## Ativos {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->Para armazenar ativos de marketing como programas, páginas de aterrissagem e emails em áreas separadas, consulte a lista de verificação &quot;Seção de administrador&quot; [LINK] para saber como configurar espaços de trabalho.
+>Para armazenar ativos de marketing como programas, Landing Pages e emails em áreas separadas, consulte o [Lista de verificação da seção do administrador](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) para saber como configurar espaços de trabalho.
 
 <table>
 <thead>
