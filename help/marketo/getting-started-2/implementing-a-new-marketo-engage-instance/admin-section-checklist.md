@@ -4,10 +4,11 @@ title: Novas Práticas Recomendadas Da Instância - Lista De Verificação Da Se
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
+source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
 workflow-type: tm+mt
-source-wordcount: '1099'
-ht-degree: 5%
+source-wordcount: '772'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +30,7 @@ Como novo administrador navegando em uma nova instância do Marketo Engage, apli
     <td>Funções</td>
     <td><li>Revise as funções pré-criadas e confirme quais permissões/acesso cada função tem.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Criar uma nova função</a> ou <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">editar as funções</a> com base nas necessidades da sua organização.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Atribuir usuários às funções apropriadas</a>. Os usuários devem ser adicionados à assinatura no Adobe Admin Console antes de conceder suas funções nas Funções. Consulte a seção "Usuários" na lista de verificação "Configuração inicial" [LINK].</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">Atribuir usuários às funções apropriadas</a>. Os usuários devem ser adicionados à assinatura no Adobe Admin Console antes de conceder suas funções nas Funções. Consulte a seção "Usuários" no <a href="/help/marketo/getting-started-2/initial-setup/user-setup.md">Lista de verificação de configuração inicial</a>.</li>
     <li>Depois de atribuir as funções para usuários, analise o número de usuários por função.</li>
     <li>Implemente uma função exclusiva para cada usuário da API para facilitar a solução de problemas.</li></td>
   </tr>
@@ -198,15 +199,6 @@ Como novo administrador navegando em uma nova instância do Marketo Engage, apli
     <li>Identifique o administrador do CRM para solucionar problemas.</li></td>
   </tr>
   <tr>
-    <td>Páginas de aterrissagem</td>
-    <td>OBSERVAÇÃO: você é cliente do Launch Pack? Você pode ignorar esta etapa. O consultor fornecerá um documento de instruções de configuração de TI durante a chamada inicial. <br>Configure seu domínio de landing page com um <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">CNAME</a> e <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">inserir informações de domínio e página</a>. Deve estar no formato: [LandingPageCNAME].[DomínioDaEmpresa].com <br>Escolha um CNAME para suas landing pages. Alguns exemplos: <br>* **ir**.[DomínioDaEmpresa].com <br>* **www2**.[DomínioDaEmpresa].com <br>* **lp**.[DomínioDaEmpresa].com <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">Entre em contato com o Suporte da Marketo</a> para iniciar o processo de provisionamento de um Certificado SSL. Esse processo pode levar até 3 dias úteis para ser concluído. <br>DICA: Mantenha curto! URLs mais curtos são mais fáceis de lembrar. Sugerimos "go" como o domínio. <br>Adicione o código de rastreamento de análise (por exemplo, Google Analytics ou Adobe Analytics) aos modelos de página de aterrissagem. </td>
-  </tr>
-  <tr>
-    <td>Munchkin</td>
-    <td>OBSERVAÇÃO: se você for um cliente do Launch Pack, ignore esta etapa. Seu consultor fornecerá a você instruções do código Munchkin em seu documento de instruções de configuração de TI.
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Adicionar código de rastreamento do Munchkin</a> ao seu site. O código do Munchkin pode ser <a href="https://developers.marketo.com/javascript-api/lead-tracking/">codificado</a> ou implantado pelo Google Tag Manager.</li></td>
-  </tr>
-  <tr>
     <td>Serviços da Web</td>
     <td><li>Determine os usuários/aplicativos que podem fazer <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">Chamadas de API</a> em sua instância.</li>
     <li>Revise todos os aplicativos que farão chamadas de API e determine se é necessário aumentar ou diminuir as chamadas de API.</li></td>
@@ -222,7 +214,7 @@ Como novo administrador navegando em uma nova instância do Marketo Engage, apli
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (se aplicável)</td>
-    <td>Para usar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>, o canal nativo de automação de conversas no Marketo Engage, prossiga com a configuração de permissões do usuário, seguindo as etapas abaixo no <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Confirme se você recebeu uma função de Administrador de produto do Adobe pelo Administrador de sistema da organização Adobe. Contato <a href="https://helpx.adobe.com/contact.html">Atendimento ao cliente Adobe</a> para descobrir quem na sua organização tem privilégios de administrador no console. <br>Aceitar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">o convite 'Dynamic Chat Product Admin'</a>. A variável <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">email de boas-vindas</a> é enviado quando o Dynamic Chat está ativado na sua instância Marketo Engage e você é designado como um Administrador do sistema.  <br>Atribua todos os usuários apropriados a um Perfil de produto do Dynamic Chat no Adobe Admin Console. <br>Se um usuário indesejável for adicionado a vários perfis de produto, você deverá excluir o usuário de todos os perfis de produto. Caso contrário, eles ainda terão acesso ao Dynamic Chat. <br>Você pode <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">editar perfis de produto no Dynamic Chat</a> e criar um perfil personalizado com um conjunto personalizado de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">permissões disponíveis em sua assinatura</a>. <br>Atribuir usuários a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Funções de "Dynamic Chat de acesso"</a> em Marketo Engage/Admin/Usuários e funções. </td>
+    <td><li>Atribuir usuários a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Funções de "Dynamic Chat de acesso"</a> em Marketo Engage &gt; Administrador &gt; Usuários e funções.</li></td>
   </tr>
   <tr>
     <td>Sales Insight (se aplicável)</td>
@@ -235,6 +227,11 @@ Como novo administrador navegando em uma nova instância do Marketo Engage, apli
     <td>Conexão de vendas (se aplicável)</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">Convide os administradores de Marketo Engage apropriados para a instância do Sales Connect</a>.</li>
     <li>Conclua o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">configuração adicional do administrador do Sales Connect</a> no Sales Connect e no Salesforce.</li></td>
+  </tr>
+  <tr>
+    <td>Webhooks (se aplicável)</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">Criar todos os webhooks necessários</a> para sua empresa.</li>
+    </td>
   </tr>
 </tbody>
 </table>
