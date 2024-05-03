@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,12 @@ Suas novas assinaturas do Marketo Engage são integradas no [Sistema Adobe Ident
     <td><li>Criar uma política sobre quando fazer <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">criar um usuário</a>.</li> <li>Crie uma política sobre quando remover usuários.</li>
     <li>Determine quem deveria ter <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Permissões de administrador de sistema do Adobe e administrador de produto do Marketo Engage.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Adicionar usuários</a> ao Perfil do produto desejado.</li>
     <li>Crie um usuário de API para cada caso de uso de API.</li></td>
+  </tr>
+  <tr>
+    <td>API de gerenciamento de usuários (se aplicável)</td>
+    <td><li>Use o <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">API de gerenciamento de usuários do Adobe</a> para convidar, atualizar e excluir usuários.</li>
+    <li>Use o <a href="https://developer.adobe.com/umapi/">API de gerenciamento de usuários do Adobe</a> para adicionar ou remover funções (por exemplo, administradores, administradores de suporte, desenvolvedores).</li>
+    </td>
   </tr>
   <tr>
     <td>Administrador de suporte ao produto </td>

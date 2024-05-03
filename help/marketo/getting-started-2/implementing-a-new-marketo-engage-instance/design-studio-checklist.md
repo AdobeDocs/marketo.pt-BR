@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 6%
@@ -30,8 +30,8 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
 <tbody>
   <tr>
     <td>Páginas globais</td>
-    <td><li>Criar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">Páginas de aterrissagem globais (forma livre/guiadas)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Criar uma página de teste</a> para testar A/B o modelo de página de aterrissagem vencedora (se aplicável).</li></td>
+    <td><li>Criar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">Páginas de aterrissagem globais (forma livre/guiadas)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Criar uma página de teste</a> para testar A/B o modelo de página de aterrissagem vencedora (se aplicável).</li></td>
   </tr>
   <tr>
     <td>Modelos</td>
@@ -39,7 +39,7 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li>Criar um rodapé usando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Trechos</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Tokens</a> em suas Landing Pages para fins de conformidade com a privacidade.</li></td>
+    <td><li>Criar um rodapé usando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Trechos</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> em suas Landing Pages para fins de conformidade com a privacidade.</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ Lembre-se de baixar as listas de verificação [LINK] e acompanhe seu progresso.
 <tbody>
   <tr>
     <td>Estrutura de pastas </td>
-    <td><li>Crie subpastas para cada tipo de ativo e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">organizar ativos globais</a> (por exemplo, fluxos conversacionais, modelos de email, emails, formulários, imagens e arquivos, Landing Pages, modelos de Landing Page, trechos etc.) adequado.</li></td>
+    <td><li>Crie subpastas para cada tipo de ativo e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organizar ativos globais</a> (por exemplo, fluxos conversacionais, modelos de email, emails, formulários, imagens e arquivos, Landing Pages, modelos de Landing Page, trechos etc.) adequado.</li></td>
   </tr>
 </tbody>
 </table>

@@ -3,9 +3,9 @@ description: Criação De Webinars Interativos - Documentação Do Marketo - Doc
 title: Criação de webinários interativos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Saiba como projetar seu webinário para atender às suas necessidades.
    >* Sala é um espaço online usado para conduzir reuniões.
    >
    >* Se você escolher uma Sala de webinários existente e precisar renomeá-la, basta clicar no link **Renomear sala de webinário** botão à direita.
+   >
+   >* O menu suspenso mostra apenas as salas existentes que você criou anteriormente, não as de outros hosts.
 
 1. Escolha um modelo.
 

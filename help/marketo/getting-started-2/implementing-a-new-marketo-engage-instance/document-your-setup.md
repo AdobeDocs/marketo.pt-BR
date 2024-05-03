@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 2%
+source-wordcount: '411'
+ht-degree: 3%
 
 ---
 
@@ -51,18 +51,18 @@ Agora que você aprendeu as principais áreas de produto para configurar para um
   <tr>
     <td>Usuários</td>
     <td><li>Documentar o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuários atuais</a> em sua instância por motivos de segurança. Os seguintes detalhes devem ser incluídos no mínimo (e estão visíveis ao acessar Adobe Admin Console &gt; Usuários):</li>
-    <br>Nome
-    <br>E-mail
-    <br>Logon
-    <br>Função
-    <br>Data de expiração do acesso
-    <br>Data de criação do usuário
-    <br>Data de logon mais recente
-
-OBSERVAÇÃO: os clientes também podem ampliar esse conteúdo para incluir a documentação sobre funções/permissões.
-<p>
-<li>Como administrador de produto do Marketo Engage, desenvolva um processo interno para auditar e atualizar a lista de usuários do Marketo Engage regularmente. Para fazer alterações na lista de usuários no Adobe Admin Console, considere <a href="https://helpx.adobe.com/br/enterprise/using/users.html" target="_blank">ações em massa</a>, como fazer upload de um .CSV, usar a API REST de gerenciamento de usuários etc.</li></td>
-</tr>
+    <ul>
+    <li>Nome</li>
+    <li>Email</li>
+    <li>Login</li>
+    <li>Função</li>
+    <li>Data de expiração do acesso</li>
+    <li>Data de criação do usuário</li>
+    <li>Data de logon mais recente</li></ul>
+    <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: você também pode expandir essa documentação para incluir funções/permissões.
+    <p>
+    <li>Como administrador de produto do Marketo Engage, desenvolva um processo interno para auditar e atualizar a lista de usuários do Marketo Engage regularmente. Para fazer alterações na lista de usuários no Adobe Admin Console, considere <a href="https://helpx.adobe.com/br/enterprise/using/users.html" target="_blank">ações em massa</a>, como fazer upload de um .CSV, usar a API REST de gerenciamento de usuários etc.</li></td>
+  </tr>
   <tr>
     <td>Organização</td>
     <td><li>Documente a estrutura de pastas acordada, as convenções de nomenclatura padrão para programas, ativos, etc. e o porquê por trás das decisões tomadas. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Saiba mais sobre as práticas recomendadas aqui.</a></li></td>

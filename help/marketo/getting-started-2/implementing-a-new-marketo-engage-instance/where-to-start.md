@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,13 @@ Bem-vindo à nova instância do Adobe Marketo Engage. Prepare-se para simplifica
 
 Neste guia &quot;Implementação de uma nova instância de Marketo Engage&quot;, conheça as práticas recomendadas para implementar sua instância com facilidade, a fim de garantir higiene de longo prazo e eficiência operacional. Cada lista de verificação fornece etapas valiosas para você acompanhar o progresso da configuração. Use as listas de verificação que podem ser baixadas para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração de usuários.
 
-## Etapas obrigatórias
+## Configuração inicial {#initial-setup}
 
-WORD ESTA SEÇÃO E RENOMEAR
+Antes de mergulhar nas Listas de verificação de práticas recomendadas abaixo, verifique se você seguiu as etapas da área Configuração inicial.
+
+* [Tarefas de Configuração Iniciais](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [Configuração de usuário](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## Listas De Verificação De Práticas Recomendadas Para Sua Nova Instância Do Marketo Engage {#best-practice-checklists-new-instance}
 
