@@ -3,7 +3,7 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 3%
@@ -41,7 +41,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
    <td>Perfil de produto</td> 
    <td><li>Todos os usuários apropriados estão atribuídos ao perfil de produto Marketo Engage no Adobe Admin Console?
 <br/>     Caso contrário, verifique se <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">adicionar e/ou remover usuários</a> dos perfis de produto Marketo Engage na Adobe Admin Console. Não é possível atribuir funções de usuários em Marketo Engage &gt; Admin &gt; Usuários e funções se eles forem adicionados a um Perfil de produto.</li>
-<p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: se um usuário indesejável for adicionado a vários perfis de produto, você deverá remover o usuário de todos os perfis de produto. Caso contrário, eles ainda terão acesso ao Marketo Engage.</td>
+<p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: se um usuário indesejado for adicionado a vários perfis de produto, você deverá remover o usuário de todos os perfis de produto. Caso contrário, eles ainda terão acesso ao Marketo Engage.</td>
   </tr>
   <tr> 
    <td>API de gerenciamento de usuários</td> 
