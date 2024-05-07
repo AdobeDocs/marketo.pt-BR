@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
 workflow-type: tm+mt
-source-wordcount: '9327'
+source-wordcount: '9332'
 ht-degree: 3%
 
 ---
@@ -649,6 +649,7 @@ ht-degree: 3%
          + [Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Enviar uma lista para uma rede de publicidade](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+         + [Enviar uma lista para o Google](product-docs/demand-generation/ad-network-integrations/send-a-list-to-google.md)
       + Dynamic Chat {#dynamic-chat}
          + [Visão geral do Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Comportamento do Chatbot](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
