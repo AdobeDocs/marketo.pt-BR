@@ -3,7 +3,7 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 3%
@@ -16,7 +16,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
 
 >[!TIP]
 >
->Se você for um novo usuário de Marketo Engage e não estiver familiarizado com muitos dos termos, verifique a [Glossário do Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>Se você for um novo usuário de Marketo Engage e não estiver familiarizado com muitos dos termos, verifique a [Glossário do Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -38,7 +38,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
 <br/>     Caso contrário, procure a variável <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">email de boas-vindas</a> na sua caixa de entrada e aceite o convite para ativar sua Adobe ID.</li></td>
   </tr>
   <tr> 
-   <td>Perfil do produto</td> 
+   <td>Perfil de produto</td> 
    <td><li>Todos os usuários apropriados estão atribuídos ao perfil de produto Marketo Engage no Adobe Admin Console?
 <br/>     Caso contrário, verifique se <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">adicionar e/ou remover usuários</a> dos perfis de produto Marketo Engage na Adobe Admin Console. Não é possível atribuir funções de usuários em Marketo Engage &gt; Admin &gt; Usuários e funções se eles forem adicionados a um Perfil de produto.</li>
 <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: se um usuário indesejável for adicionado a vários perfis de produto, você deverá remover o usuário de todos os perfis de produto. Caso contrário, eles ainda terão acesso ao Marketo Engage.</td>
@@ -83,7 +83,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
   </tr>
   <tr> 
    <td>Usuários de suporte</td> 
-   <td><li>Você configurou o <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contatos autorizados</a> no Portal de suporte?</li></td>
+   <td><li>Você configurou o <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">contatos autorizados</a> no Portal de suporte?</li></td>
   </tr>
   <tr> 
    <td>Documentação interna</td> 
@@ -99,7 +99,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
  </tbody> 
 </table>
 
-## Trila de auditoria {#audit-trail}
+## Trilha de auditoria {#audit-trail}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -108,13 +108,13 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
    <th>Revisar foco</th>
   </tr> 
   <tr> 
-   <td>Trila de auditoria</td> 
+   <td>Trilha de auditoria</td> 
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Quem está trabalhando</a> no caso?</li></td>
   </tr>
  </tbody> 
 </table>
 
-## Espaços de trabalho e partições {#workspaces-and-partitions}
+## Áreas de trabalho e partições {#workspaces-and-partitions}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -123,7 +123,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
    <th>Revisar foco</th>
   </tr> 
   <tr> 
-   <td>Espaços de trabalho e partições</td> 
+   <td>Áreas de trabalho e partições</td> 
    <td><li>Quantas <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Espaços de Trabalho e/ou Partições</a> você tem?</li>
 <li>Qual é o objetivo principal de cada espaço de trabalho e partição?</li>
 <li>Faça o seu <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Espaços de trabalho</a> ou <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partições</a> precisa ser auditada/alterada?</li>

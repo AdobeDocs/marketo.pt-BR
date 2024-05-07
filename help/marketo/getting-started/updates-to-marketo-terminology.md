@@ -1,25 +1,27 @@
 ---
 unique-page-id: 11387674
-description: Atualizações à terminologia do Marketo - Documentos do Marketo - Documentação do produto
-title: Atualizações para a terminologia do Marketo
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+description: Atualizações na Terminologia do Marketo - Documentação do Marketo - Documentação do produto
+hide: true
+hidefromtoc: true
+title: Atualizações na Terminologia do Marketo
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 1%
+source-wordcount: '328'
+ht-degree: 2%
 
 ---
 
-# Atualizações para a terminologia do Marketo {#updates-to-marketo-terminology}
+# Atualizações na Terminologia do Marketo {#updates-to-marketo-terminology}
 
-Estamos fazendo algumas mudanças em nossa plataforma, o que afetará o que algumas coisas são chamadas. Se você tiver uma nova instância do Marketo a partir de março de 2016, ou se sua empresa for renovada após julho de 2016, você poderá ver a nova terminologia agora.
+Estamos fazendo algumas alterações em nossa plataforma, que afetarão o que algumas coisas são chamadas. Se você tiver uma nova instância do Marketo a partir de março de 2016, ou se sua empresa foi renovada após julho de 2016, você pode estar vendo a nova terminologia agora.
 
-Embora você possa ver uma terminologia diferente na documentação da Marketo, tenha certeza de que todos os artigos serão atualizados em breve para refletir essas alterações. Todas as instruções são iguais.
+Embora você possa ver terminologias diferentes na documentação do Marketo, tenha certeza de que cada artigo será atualizado em breve para refletir essas alterações. Todas as instruções são iguais.
 
 Então, o que mudou?
 
-## O Cliente Potencial é Agora Pessoa {#lead-is-now-person}
+## O cliente em potencial agora é pessoa {#lead-is-now-person}
 
-A maior mudança é a renomeação de Lead/Leads para Pessoa/Pessoas.
+A maior mudança é a renomeação de lead/leads para pessoa/pessoas.
 
 <table> 
  <colgroup> 
@@ -69,19 +71,19 @@ Em alguns casos, a palavra &quot;lead&quot; é simplesmente removida.
  </tbody> 
 </table>
 
-Líder e Pessoa **são a mesma coisa**.
+Cliente Potencial e Pessoa **são a mesma coisa**.
 
 ## Tokens {#tokens}
 
-Tokens com a palavra chumbo neles **não estão mudando**. Pedimos desculpas por qualquer confusão. entretanto, alterar todos os tokens para corresponder à nova terminologia quebraria muitos tokens em uso no momento. Assim, você ainda verá tokens como &quot;`{{lead.First Name}}`.&quot; Não há tokens específicos da pessoa.
+Tokens com a palavra lead **não estão alterando**. Lamentamos qualquer confusão; no entanto, alterar todos os tokens para corresponder à nova terminologia quebraria muitos tokens em uso no momento. Portanto, você ainda verá tokens como &quot;`{{lead.First Name}}`.&quot; Não há tokens específicos para pessoas.
 
 >[!NOTE]
 >
->Lá *é* um token chamado &quot;Notas de pessoa&quot;, no entanto, esse token estava sempre lá. Normalmente, é usado para um campo de descrição no seu CRM, se é que é.
+>Há *é* um token chamado &quot;Notas de pessoa&quot;, no entanto, esse token estava sempre lá. Normalmente, é usado para um campo de descrição no CRM, se for o caso.
 
 ## Gerenciamento de campos {#field-management}
 
-Os campos que continham o termo Lead foram substituídos por Pessoa ou a palavra Lead foi removida. No entanto, uma exceção notável é o campo &quot;Proprietário principal&quot;. Agora é conhecido como &quot;Proprietário de vendas&quot;.
+Os campos que continham o termo Cliente Potencial foram substituídos por Pessoa ou a palavra Cliente Potencial foi descartada. Uma exceção notável, no entanto, é o campo &quot;Lead Owner&quot;. Agora ele é conhecido como &quot;Proprietário de vendas&quot;.
 
 <table> 
  <colgroup> 
@@ -108,9 +110,9 @@ Os campos que continham o termo Lead foram substituídos por Pessoa ou a palavra
 
 >[!NOTE]
 >
->Para obter uma lista completa dos nomes de campo afetados, visite este [Artigo de suporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
+>Para obter uma lista completa dos nomes de campos afetados, visite este [Artigo de suporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## A Personalização em tempo real (RTP) agora é Personalização da Web {#real-time-personalization-rtp-is-now-web-personalization}
+## A Personalização em tempo real (RTP) agora é a Personalização da Web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -137,14 +139,14 @@ Os campos que continham o termo Lead foram substituídos por Pessoa ou a palavra
 
 Além da alteração de nome, agora ela consiste em quatro aplicativos separados:
 
-| **[Personalização da Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Possui mosaico próprio na tela inicial |
+| **[Personalização da Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Tem seu próprio bloco na tela inicial |
 |---|---|
-| **[Marketing da Web baseado em conta](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Acessível via bloco de personalização da Web |
-| **[Redirecionamento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Acessível via bloco de personalização da Web |
-| **[Conteúdo preditivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Possui mosaico próprio na tela inicial |
+| **[Marketing pela Web baseado em conta](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Acessível por meio do bloco Personalização da Web |
+| **[Redirecionamento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Acessível por meio do bloco Personalização da Web |
+| **[Conteúdo preditivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Tem seu próprio bloco na tela inicial |
 
 >[!NOTE]
 >
 >Os blocos visíveis na tela inicial refletirão os módulos comprados.
 
-Obrigado por sua paciência durante esta atualização.
+Agradecemos sua paciência durante esta atualização.

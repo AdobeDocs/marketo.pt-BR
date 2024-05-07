@@ -1,0 +1,164 @@
+---
+description: Configure a seção Atividades de marketing para sua nova instância do Marketo Engage.
+title: Novas práticas recomendadas de instância - lista de verificação de atividades de marketing
+feature: Getting Started
+exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+workflow-type: tm+mt
+source-wordcount: '794'
+ht-degree: 2%
+
+---
+
+# Novas práticas recomendadas da instância: lista de verificação de atividades de marketing {#new-instance-best-practices-marketing-activities-checklist}
+
+As Atividades de marketing abrigam todos os ativos e conteúdos que compõem seus programas de marketing automatizado. À medida que você configura uma nova instância do Marketo Engage, uma organização limpa e clara garante que todos os usuários possam encontrar e gerenciar facilmente vários programas.
+
+Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e acompanhe seu progresso.
+
+## Organização {#organization}
+
+<table>
+<thead>
+  <tr>
+    <th style="width:20%">Área</th>
+    <th style="width:80%">Itens de ação</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Convenções de nomenclatura</td>
+    <td><li>Definir um <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes" target="_blank">convenção de nomenclatura consistente</a> para sua assinatura antes de criar uma estrutura de pastas.</li></td>
+  </tr>
+  <tr>
+    <td>Estrutura de pastas</td>
+    <td><li>Crie uma estrutura de pastas consistente e de fácil navegação fazendo referência a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders" target="_blank">este exemplo</a>.</td>
+  </tr>
+  <tr>
+    <td>Programas</td>
+    <td><li>Criar modelos de programa para <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel" target="_blank">cada canal</a> você criou na sua seção de administrador. Você pode começar por <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank">importação de programas</a> da Biblioteca de programas. Consulte as especificações na tabela "Ativos" abaixo.</li>
+    <li>Determinar qual <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign" target="_blank">etapas de fluxo das Campanhas inteligentes</a> pode estar em um programa global ou local.</li> <li>Inclua aquisição, associação e rastreamento de sucesso como parte do modelo do programa para padronizar o processo.</li></td>
+  </tr>
+  <tr>
+    <td>Arquivar</td>
+    <td><li>Determinar uma política sobre quando <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank">arquivar programas e ativos</a>. 
+    <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: depois que um item é arquivado, ele é removido das listas selecionadas, bem como dos relatórios.</li></td>
+  </tr>
+  <tr>
+    <td>Notificações</td>
+    <td><li>Inscrever-se em notificações</li></td>
+  </tr>
+</tbody>
+</table>
+
+## Ativos {#assets}
+
+>[!NOTE]
+>
+>Para armazenar ativos de marketing como programas, Landing Pages e emails em áreas separadas, consulte o [Lista de verificação da seção do administrador](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) para saber como configurar espaços de trabalho.
+
+<table>
+<thead>
+  <tr>
+    <th style="width:20%">Área</th>
+    <th style="width:80%">Itens de ação</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Tipos de programas</td>
+    <td><li>Compreender o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs" target="_blank">quatro tipos de programas</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank">Importar modelos de programa</a> do <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview" target="_blank">Biblioteca de programas</a> para iniciar.</li>
+    <li>Criar um <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar" target="_blank">Webinário interativo</a>, a plataforma de webinário integrada, usando um Programa de evento e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">associar uma sala ao webinário interativo</a> programa.</li>
+    <li>Configurar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html" target="_blank">programas de pontuação</a> para assistir à compra de sinais em seu site e com seu conteúdo.</li></td>
+  </tr>
+  <tr>
+    <td>Tokens</td>
+    <td><li>Configurar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html" target="_blank">Tokens</a>.</li>
+    <li>Use tokens em tipos de programas usados regularmente para aumentar a eficiência. Considere implementar tokens de que a organização precisa regularmente na <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens" target="_blank">pasta global</a>.</li></td>
+  </tr>
+  <tr>
+    <td>Campanhas em lote</td>
+    <td><li>Configurar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html#batch-campaign" target="_blank">Campanhas inteligentes em lote</a> com filtros na seção Smart List.</li>
+    <li>Agende as Campanhas inteligentes para ocorrências como diárias, semanais e mensais.</li></td>
+  </tr>
+  <tr>
+    <td>Acionar campanhas</td>
+    <td><li>Configurar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign" target="_blank">Acionar campanhas inteligentes</a> usando pelo menos um acionador na seção Smart List.</li>
+    <li>Ative as Campanhas inteligentes na guia "Agendar" para executar as ações da campanha.</li></td>
+  </tr>
+  <tr>
+    <td>Páginas de aterrissagem</td>
+    <td><li>Criar um <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template" target="_blank">modelo de página de aterrissagem de forma livre</a> ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page" target="_blank">um modelo de página de aterrissagem guiado</a> para uso do programa.</li></td>
+  </tr>
+  <tr>
+    <td>Forms local</td>
+    <td><li>Defina o seu <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html" target="_blank">estratégia de formulários</a> para formulários globais versus formulários locais.</li>
+    <li>Para usar formulários globais, use Campanhas inteligentes para definir o Programa de aquisição para relatórios e use detalhes do referenciador para atribuir pessoas a programas/campanhas apropriadamente.</li></td>
+  </tr>
+  <tr>
+    <td>Assinaturas da lista inteligente</td>
+    <td><li>Configurar <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.html" target="_blank">Assinaturas da lista inteligente</a> em Atividades de marketing ou no banco de dados para relatórios que você gostaria de receber diariamente, semanalmente ou mensalmente (por exemplo, desempenho de email, desempenho de pessoa etc.).</li></td>
+  </tr>
+  <tr>
+    <td>Gerenciar assinaturas de relatório</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html" target="_blank">Configurar assinaturas de relatório</a> em Atividades de marketing ou Analytics para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html" target="_blank">relatórios básicos</a> ou <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html" target="_blank">Relatórios do Gerenciador de Ciclo de Receita</a>.</li></td>
+  </tr>
+</tbody>
+</table>
+
+## Programas Operacionais {#operational-programs}
+
+<table>
+<thead>
+  <tr>
+    <th style="width:20%">Área</th>
+    <th style="width:80%">Item de Ação</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Pontuação de pessoa</td>
+    <td><li>Implementar um programa de pontuação de lead/pessoa tokenizado. Analisar ambos <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.html" target="_blank">comportamento</a> e <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.html" target="_blank">demográfico</a> pontuações da pontuação geral da pessoa.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html" target="_blank">Importar um programa de pontuação</a> da Biblioteca de programas da Marketo para iniciar.</li></td>
+  </tr>
+  <tr>
+    <td>Fonte de pessoas</td>
+    <td><li>Crie um programa centralizado que atribua valores à origem de cliente potencial/pessoa nos campos Gerenciados pelo sistema.</li>  
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management" target="_blank">Importar um programa de Gerenciamento de Dados Operacionais</a> da Biblioteca de programas da Marketo para iniciar.</li></td>
+  </tr>
+  <tr>
+    <td>Padronização de dados</td>
+    <td><li>Crie um programa centralizado para padronizar os dados recebidos.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management.html">Importar um programa de Gerenciamento de Dados Operacionais</a> da Biblioteca de programas da Marketo para iniciar.</li></td>
+  </tr>
+  <tr>
+    <td>Gerenciamento de rejeição</td>
+    <td><li>Crie um programa operacional para o gerenciamento de rejeição para capturar todos os detalhes da rejeição.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management" target="_blank">Importar um programa de Gerenciamento de Entregabilidade</a> da Biblioteca de programas da Marketo para iniciar.</li></td>
+  </tr>
+  <tr>
+    <td>Privacidade e conformidade</td>
+    <td><li>Crie programas para garantir a conformidade com a privacidade de dados e as leis de spam, como <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA etc.</a></li>
+    <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: lembre-se sempre de consultar sua equipe jurídica sobre essas questões. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
+  </tr>
+  <tr>
+    <td>Ciclo de vida</td>
+    <td><li>Crie um programa para mover clientes em potencial por todo o ciclo de vida do cliente potencial, atualizando os valores de Status da pessoa.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.html" target="_blank">Importar um programa de gerenciamento de clientes potenciais</a> da Biblioteca de programas da Marketo para iniciar.</li></td>
+  </tr>
+  <tr>
+    <td>Momentos interessantes (se aplicável)</td>
+    <td><li>Crie uma Campanha inteligente centralizada que <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.html#how-do-i-create-an-interesting-moment" target="_blank">comunica informações relevantes à sua equipe de vendas</a> por meio do aplicativo Marketo Sales Insights.</li></td>
+  </tr>
+  <tr>
+    <td>Central de assinaturas</td>
+    <td><li>Saiba mais sobre os benefícios de configurar um <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">Central de Assinaturas/Preferências</a>.</li>
+    <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: Como não há uma maneira de configurar isso, é recomendável visitar o <a href="https://nation.marketo.com/" target="_blank">Comunidade da nação de marketing</a> e pesquise "Centro de assinaturas" para ver os diferentes métodos que seus colegas estão usando e escolher o mais adequado às suas necessidades.</td></td>
+  </tr>
+  <tr>
+    <td>Possibilidade de entrega de e-mails</td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report" target="_blank">Criar um relatório de desempenho de email</a> para monitorar envios de email e as tendências de capacidade de delivery.</li></td>
+  </tr>
+</tbody>
+</table>

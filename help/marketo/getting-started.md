@@ -2,12 +2,14 @@
 unique-page-id: 1147226
 description: Introdução - Documentação do Marketo - Documentação do produto
 title: Introdução
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 30%
+ht-degree: 11%
 
 ---
 
@@ -23,7 +25,7 @@ O que é Marketo Engage? Ótima pergunta!
 
 Com uma pequena ajuda da sua equipe de TI, você pode fazer isso rapidamente.
 
-[Iniciar configuração](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[Iniciar configuração](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Ganhe algumas vitórias rápidas {#get-some-quick-wins}
 
@@ -42,7 +44,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="Importar" src="getting-started/assets/getting-started-2.png" />
+       <img alt="Importar" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. Enviar um e-mail</a>
     </div>
@@ -53,7 +55,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <img alt="Email" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Página com formulário</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Página de aterrissagem com um formulário</a>
     </div>
     <br>
   </td>
@@ -70,7 +72,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="Importar" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Resposta automática por e-mail</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Resposta automática de email</a>
     </div>
     <br>
   </td>
@@ -98,7 +100,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="Importar" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizar um e-mail</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizar um email</a>
     </div>
     <br>
   </td>
@@ -107,7 +109,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <img alt="Email" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Alertar o representante de vendas</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Alertar o Representante de Vendas</a>
     </div>
     <br>
   </td>
