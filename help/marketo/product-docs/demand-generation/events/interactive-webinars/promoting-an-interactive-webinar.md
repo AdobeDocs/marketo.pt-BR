@@ -3,9 +3,9 @@ description: Promover um webinário interativo - Documentação do Marketo - Doc
 title: Promover um webinário interativo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,11 @@ A promoção de um webinário interativo é semelhante à promoção de um webin
 
 Depois que os membros forem adicionados ou importados para o programa, você poderá criar uma campanha de email dentro do Programa de evento de webinário interativo para enviar um convite a todos os membros do programa e alterar seu status como &quot;convidado&quot; depois que o email for entregue.
 
-O email pode conter detalhes específicos do programa, bem como incluir um URL de página de aterrissagem que redirecionaria o recipient para uma página específica onde mais informações sobre o webinário (por exemplo, conteúdo, informações do apresentador etc.) pode ser adicionado. Essa landing page pode ser criada como um ativo local no Programa de evento de webinários interativos.
+>[!NOTE]
+>
+>Se você quiser adicionar um co-host ou apresentador como membro do público-alvo do programa Evento de webinário interativo, use uma ID de email diferente para ele, caso contrário, ele receberá um erro &quot;este email já está registrado&quot;.
+
+O email pode conter detalhes específicos do programa, bem como incluir um URL de página de aterrissagem que redirecionaria o recipient para uma página específica onde mais informações sobre o webinário (por exemplo, conteúdo, informações do apresentador etc.) pode ser adicionado. Essa landing page pode ser criada como um ativo local no programa de evento de webinários interativos.
 
 Você pode solicitar o registro para esse webinário ativando um formulário na página de aterrissagem e vinculando os cliques do formulário ao registro ativado no programa de evento de webinário interativo. Uma campanha pode ser criada usando envios de formulários como um acionador e alterando o Status do programa de &quot;convidado&quot; para &quot;registrado&quot;.
 
