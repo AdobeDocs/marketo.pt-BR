@@ -3,7 +3,7 @@ description: Configure a seção Design Studio para a nova instância do Marketo
 title: Novas práticas recomendadas de instância - lista de verificação do Design Studio
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 6%
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 A seção Design Studio é onde os &quot;ativos globais&quot; reutilizáveis devem ficar. Crie os ativos globais que sua organização planeja usar em programas, use uma convenção de nomenclatura consistente e organize-os nas subpastas para facilitar as pesquisas.
 
-Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e acompanhe seu progresso.
+Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e acompanhe seu progresso.
 
 ## Páginas de aterrissagem {#landing-pages}
 

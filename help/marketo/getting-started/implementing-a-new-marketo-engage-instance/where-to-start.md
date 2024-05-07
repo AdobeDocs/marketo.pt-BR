@@ -3,7 +3,7 @@ description: Conheça as práticas recomendadas ao implementar uma nova instânc
 title: Onde começar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bem-vindo à nova instância do Adobe Marketo Engage. Prepare-se para simplificar, automatizar e medir tarefas e fluxos de trabalho de marketing com recursos avançados de automação de marketing.
 
-Neste guia &quot;Implementação de uma nova instância de Marketo Engage&quot;, conheça as práticas recomendadas para implementar sua instância com facilidade, a fim de garantir higiene de longo prazo e eficiência operacional. Cada lista de verificação fornece etapas valiosas para você acompanhar o progresso da configuração. Use o [listas de verificação baixáveis](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração de usuários.
+Neste guia &quot;Implementação de uma nova instância de Marketo Engage&quot;, conheça as práticas recomendadas para implementar sua instância com facilidade, a fim de garantir higiene de longo prazo e eficiência operacional. Cada lista de verificação fornece etapas valiosas para você acompanhar o progresso da configuração. Use o [listas de verificação baixáveis](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração de usuários.
 
 ## Configuração inicial {#initial-setup}
 
@@ -28,7 +28,7 @@ Antes de mergulhar nas Listas de verificação de práticas recomendadas abaixo,
 
 ## Listas De Verificação De Práticas Recomendadas Para Sua Nova Instância Do Marketo Engage {#best-practice-checklists-new-instance}
 
-Baixar a instância do Marketo Engage [Novas listas de verificação de administração da implementação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}ou navegue pelos guias on-line abaixo.
+Baixar a instância do Marketo Engage [Novas listas de verificação de administração da implementação](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}ou navegue pelos guias on-line abaixo.
 
 * [Seção de administração](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 

@@ -3,7 +3,7 @@ description: Configure a seção Banco de Dados para sua nova instância do Mark
 title: Novas Práticas Recomendadas da Instância - Lista de Verificação do Banco de Dados
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 9%
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 A seção Banco de dados é onde você encontrará os principais atributos das pessoas na sua instância. Saiba mais sobre as etapas necessárias para navegar pelas diferentes listas e segmentações no banco de dados, bem como gerenciar registros de pessoas.
 
-Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e acompanhe seu progresso.
+Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e acompanhe seu progresso.
 
 ## Listas inteligentes do sistema {#system-smart-lists}
 
