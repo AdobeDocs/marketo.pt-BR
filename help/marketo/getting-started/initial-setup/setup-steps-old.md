@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '2071'
 ht-degree: 0%
@@ -206,7 +206,7 @@ Agora você tem todas as informações necessárias para enviar sua solicitaçã
 
 Depois de coletar todas as informações necessárias, você estará pronto para enviar uma solicitação para a TI. Você pode usar o texto abaixo como um modelo, substituindo o texto em negrito com suas próprias informações.
 
-[Incluir um link para este artigo](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+[Incluir um link para este artigo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 Cole esse texto no email e substitua os espaços reservados em negrito:
 

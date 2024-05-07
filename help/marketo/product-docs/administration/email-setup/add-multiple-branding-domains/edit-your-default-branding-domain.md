@@ -4,7 +4,7 @@ description: Editar Seu Domínio De Marca Padrão - Documentação Do Marketo - 
 title: Editar seu domínio de marca padrão
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,7 +17,7 @@ A edição do domínio de marca padrão é a primeira etapa do trabalho com dom�
 
 >[!PREREQUISITES]
 >
->Verifique se você [Configurar um CNAME no DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) antes de adicionar domínios de marca na Marketo.
+>Verifique se você [Configurar um CNAME no DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) antes de adicionar domínios de marca na Marketo.
 
 1. Vá para a **[!UICONTROL Admin]** área.
 
