@@ -4,14 +4,18 @@ description: Adicionar públicos-alvo correspondentes do LinkedIn como um servi�
 title: Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
 # Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+
+>[!IMPORTANT]
+>
+>A linkedIn está atualizando as APIs de marketing usadas pelas integrações do Marketo Engage LinkedIn. Essas alterações exigirão a reautenticação de todos os serviços do LinkedIn LaunchPoint em seu **Admin** > **LaunchPoint** entre 7 de junho e 15 de dezembro de 2024, para evitar a interrupção do serviço. Para obter mais informações, consulte [Perguntas frequentes sobre migração](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >

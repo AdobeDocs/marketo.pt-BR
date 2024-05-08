@@ -2,11 +2,13 @@
 unique-page-id: 10098238
 description: Perguntas frequentes sobre o preenchimento de formulários do linkedIn Social - Documentação do Marketo - Documentação do produto
 title: Perguntas frequentes sobre preenchimento de formulários do linkedIn Social
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -37,7 +39,7 @@ Antes de fazermos essa alteração, enviamos notificações semanais para sua Ca
 
 Sim. A alteração afeta apenas a funcionalidade Preenchimento de formulário social do LinkedIn.
 
-## O preenchimento de formulário social do Facebook e do Twitter ainda funciona? {#do-facebook-and-twitter-social-form-fill-still-work}
+## O Facebook e o Preenchimento de formulário social do Twitter ainda funcionam? {#do-facebook-and-twitter-social-form-fill-still-work}
 
 Sim. O facebook e o Preenchimento de formulário social do Twitter não foram alterados.
 
@@ -61,11 +63,11 @@ Não, os formulários dos quais removemos essa funcionalidade permaneceram publi
 
 Não, só removeremos o botão LinkedIn do seu formulário. Sempre que o Preenchimento de formulário social é aplicado a um formulário, há um contêiner criado acima dele que contém os botões Preenchimento de formulário social. Antes de 28 de abril de 2016, se o LinkedIn fosse a única opção, a aparência do contêiner seria semelhante a esta imagem:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Após 28 de abril de 2016, há um container vazio na parte superior de qualquer formulário que tenha sido removido do Preenchimento de formulário social do LinkedIn:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
