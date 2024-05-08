@@ -4,9 +4,9 @@ description: Cancelamento de assinatura durável - Documentação do Marketo - D
 title: Cancelamento de assinatura durável
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A Marketo aprimorou o comportamento da funcionalidade de cancelamento de inscrição para torná-la &quot;durável&quot;. Adicionamos um status de email principal, que é separado do sinalizador de cancelamento de inscrição visível no registro de detalhes da pessoa.
 
-Se o sinalizador de cancelamento de inscrição for definido de falso para verdadeiro, o status do email principal será atualizado e a alteração será propagada para outras pessoas com o mesmo endereço de email. Se uma pessoa for removida e recriada, ou se um novo registro for criado com o mesmo endereço de email, o sinalizador de cancelamento de inscrição **não** ser sobrescrito.
+Se o sinalizador de cancelamento de inscrição estiver definido como falso para verdadeiro, o status do email principal será atualizado e a alteração será propagada para outras pessoas com o mesmo endereço de email. Se uma pessoa for removida e recriada, ou se um novo registro for criado com o mesmo endereço de email, o sinalizador de cancelamento de inscrição **não** ser sobrescrito.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Atualizar uma pessoa existente por meio da API SOAP.
 
 ## Criar uma nova pessoa {#creating-a-new-person}
 
-Quando uma nova pessoa é criada, o Marketo a verifica em relação à tabela de status de email principal. Se a inscrição da pessoa foi cancelada anteriormente, atualizaremos o registro para cancelar a inscrição.
+Quando uma nova pessoa é criada, o Marketo a verifica em relação à tabela principal de status de email. Se a inscrição da pessoa foi cancelada anteriormente, atualizaremos o registro para cancelar a inscrição.
 
 ## Alteração de um endereço de email {#changing-an-email-address}
 
@@ -52,10 +52,6 @@ Se você alterar um endereço de email de assinatura cancelada para um que tenha
 ## Assinando novamente {#re-subscribing}
 
 Da mesma forma que um cancelamento de inscrição faria com que todas as pessoas com o mesmo endereço de email tivessem suas assinaturas canceladas, uma reinscrição assinaria todas as pessoas com o mesmo endereço de email.
-
-## Registro de atividades {#activity-log}
-
-Definições de Alteração do valor de dados para _updateLeadEmailStatus_ e _resetLeadEmailStatus_ pode ser encontrado em [este artigo da Comunidade](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688).
 
 >[!MORELIKETHIS]
 >
