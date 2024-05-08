@@ -4,10 +4,10 @@ description: Filtrar pessoas em um relatório com uma lista inteligente - Docume
 title: Filtrar pessoas em um relatório com uma lista inteligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 21%
+source-wordcount: '132'
+ht-degree: 20%
 
 ---
 
@@ -22,8 +22,7 @@ Você pode usar smart lists com estes tipos de relatórios:
 * [Pessoas por estágio da receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [Desempenho do e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Desempenho do link do e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [ Desempenho do fluxo de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Atividade da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [Desempenho do fluxo de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
 * [Desempenho de e-mail da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [Atividade da empresa na Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Atividade de página da Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)

@@ -4,16 +4,16 @@ description: Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho
 title: Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho {#report-email-campaign-performance-across-workspaces}
 
-Ativar os Relatórios globais para incluir dados de toda a sua Marketo [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) no seu [Desempenho do email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Desempenho do link de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), e [Atividade de campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) relatórios.
+Ativar os Relatórios globais para incluir dados de toda a sua Marketo [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) no seu [Desempenho do email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e [Desempenho do link de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) relatórios.
 
 1. Ir para **Analytics** (ou **Atividades de marketing**).
 
