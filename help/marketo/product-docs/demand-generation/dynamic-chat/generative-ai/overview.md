@@ -4,10 +4,10 @@ title: Visão geral da IA gerativa
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 5%
+source-wordcount: '130'
+ht-degree: 6%
 
 ---
 
@@ -17,24 +17,24 @@ A IA gerativa no Adobe Dynamic Chat permite acelerar a criação de campanhas de
 
 ## Geração de perguntas {#question-generation}
 
-Eleve as experiências de entrada com conversas assistidas por IA para visitantes que usam uma interface treinada com vendas, marketing e conhecimento sobre produtos.
+[Elevar experiências de entrada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) com conversas assistidas por IA para visitantes que usam uma interface treinada com vendas, marketing e conhecimento sobre produtos.
 
-CAPTURA DE TELA
+![](assets/generative-ai-overview-1.png)
 
 ## Biblioteca de respostas {#response-library}
 
-Produza uma coleção personalizada de perguntas e respostas, todas pré-aprovadas por você, para uso em campanhas de chat da IA gerativa.
+[Produzir uma coleção personalizada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de perguntas e respostas, todas pré-aprovadas por você, para uso em campanhas de chat da IA gerativa.
 
-CAPTURA DE TELA
+![](assets/generative-ai-overview-2.png)
 
 ## Log de atividade {#activity-log}
 
-Veja uma lista de todas as tarefas e seus detalhes de acompanhamento, incluindo nome, proprietário, tipo e quem as editou e quando.
+[Ver uma lista de todas as tarefas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) e os detalhes que os acompanham, incluindo nome, proprietário, tipo e quem os editou e quando.
 
-CAPTURA DE TELA
+![](assets/generative-ai-overview-3.png)
 
 ## Perguntas não respondidas {#unanswered-questions}
 
-Crie respostas adicionais pré-aprovadas para sua biblioteca de respostas usando a IA com base em um repositório de perguntas não respondidas de conversas anteriores.
+[Criar respostas adicionais pré-aprovadas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) para sua biblioteca de respostas usando IA com base em um repositório de perguntas não respondidas de conversas anteriores.
 
-CAPTURA DE TELA
+![](assets/generative-ai-overview-4.png)

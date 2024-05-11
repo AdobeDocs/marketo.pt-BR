@@ -4,10 +4,10 @@ title: Biblioteca de resposta
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 4%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -57,24 +57,49 @@ Em um local, visualize todas as suas perguntas, o status de aprovação e o nome
 
 ## Perguntas/respostas sobre edição e upload em massa {#bulk-edit-and-upload-questions-responses}
 
-1. Texto
+As instruções sobre como fazer edições em massa no arquivo do Excel baixado estão disponíveis abaixo. Eles também podem ser vistos na guia Task details do arquivo.
 
-CAPTURA DE TELA
+<table>
+<thead>
+  <tr>
+    <th>Ação</th>
+    <th>Instruções</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Editar uma pergunta</td>
+    <td>Insira a nova pergunta na coluna "editedQuestion" (coluna H)</td>
+  </tr>
+  <tr>
+    <td>Editar uma resposta</td>
+    <td>Insira a nova resposta na coluna "editedResponse" (coluna I)</td>
+  </tr>
+  <tr>
+    <td>Adicionar uma nova pergunta</td>
+    <td>Insira a nova pergunta na coluna "editedQuestion" (coluna H) e deixe questionResponded em branco. Você também deve inserir um tópico apropriado na coluna "tópicos"(coluna C) e um URL de origem na coluna "sourceUrl!"</td>
+  </tr>
+  <tr>
+    <td>Adicionar uma pergunta e uma resposta</td>
+    <td>Insira a nova pergunta na coluna "editedQuestion" (coluna H), a nova resposta na coluna "editedResponse" (coluna I) e deixe questionResponse em branco. Você também deve inserir um tópico apropriado na coluna "tópicos" (coluna C)</td>
+  </tr>
+</tbody>
+</table>
 
-1. Texto
+1. Depois de fazer as edições no arquivo, volte para a guia da biblioteca de Resposta e clique em Fazer upload de respostas.
 
-CAPTURA DE TELA
+   ![](assets/response-library-9.png)
 
-1. Texto
+1. Insira o nome da tarefa aplicável. Arraste e solte o arquivo ou procure-o no dispositivo e selecione-o. Clique em **Salvar** quando terminar.
 
-CAPTURA DE TELA
+   ![](assets/response-library-10.png)
 
-1. Texto
+1. A confirmação é exibida e você está pronto.
 
-CAPTURA DE TELA
+   ![](assets/response-library-11.png)
 
 ## Filtre suas perguntas {#filter-your-questions}
 
 Por padrão, as perguntas são listadas em ordem por hora/data de criação, com as mais recentes sendo exibidas primeiro. Se estiver procurando uma pergunta específica, aplique filtros para restringir sua pesquisa. Filtrar por tópicos, nome da tarefa e/ou status de aprovação.
 
-CAPTURA DE TELA
+![](assets/response-library-12.png)
