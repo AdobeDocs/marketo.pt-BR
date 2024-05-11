@@ -4,16 +4,16 @@ title: Geração de pergunta
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
 # Geração de pergunta {#question-generation}
 
-Veja todas as suas tarefas e seus detalhes pertinentes, como quando elas foram geradas, o número total de perguntas, o status de aprovação e muito mais.
+Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram geradas, o número total de perguntas, o status de aprovação e muito mais.
 
 ## Gerar perguntas {#generate-questions}
 
@@ -37,11 +37,11 @@ Veja todas as suas tarefas e seus detalhes pertinentes, como quando elas foram g
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->O status na página não é atualizado em tempo real. Clique em Atualizar para ver quando ele vai de &quot;Processando&quot; para &quot;Concluído&quot;.
+   >[!TIP]
+   >
+   >O status na página não é atualizado em tempo real. Clique em Atualizar para ver quando ele vai de &quot;Processando&quot; para &quot;Concluído&quot;.
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## Baixar perguntas e respostas {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ Veja todas as suas tarefas e seus detalhes pertinentes, como quando elas foram g
 
    ![](assets/question-generation-6.png)
 
-1. Localize a pasta de downloads no seu navegador e selecione o arquivo. Pode parecer diferente dependendo do seu navegador.
+1. Localize a pasta de downloads no seu navegador e selecione o arquivo. Pode parecer diferente dependendo do navegador usado.
 
    ![](assets/question-generation-7.png)
 

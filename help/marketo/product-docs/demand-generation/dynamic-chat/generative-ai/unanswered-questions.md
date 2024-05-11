@@ -4,16 +4,16 @@ title: Perguntas não respondidas
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 3%
 
 ---
 
 # Perguntas não respondidas {#unanswered-questions}
 
-Veja todas as perguntas que o chatbot não pôde responder ou as que os visitantes marcaram como &quot;não úteis&quot; e use essas informações valiosas para criar respostas adicionais pré-aprovadas.
+Veja todas as perguntas que o chatbot não pôde responder e/ou as que os visitantes marcaram como &quot;não úteis&quot; e use essas informações valiosas para criar respostas adicionais pré-aprovadas.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Veja todas as perguntas que o chatbot não pôde responder ou as que os visitant
 
    ![](assets/unanswered-questions-2.png)
 
-1. Selecione a pergunta não respondida para a qual você deseja gerar uma resposta.
+1. Selecione a pergunta não respondida para a qual você deseja criar uma resposta.
 
    ![](assets/unanswered-questions-3.png)
 
