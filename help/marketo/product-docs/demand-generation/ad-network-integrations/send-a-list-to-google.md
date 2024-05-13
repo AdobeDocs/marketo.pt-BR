@@ -4,16 +4,17 @@ title: Enviar uma lista para o Google
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
+source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Enviar uma lista para o Google {#send-a-list-to-google}
 
-Siga as etapas abaixo para enviar uma lista estática para sua conta da Google.
+Para aqueles que usam o Google Customer Match, siga as etapas abaixo para enviar uma lista estática de Marketo Engage para sua conta do Google.
 
 1. No Marketo Engage, localize e selecione a lista desejada.
 
@@ -39,7 +40,7 @@ Siga as etapas abaixo para enviar uma lista estática para sua conta da Google.
    >
    >* Selecionar **Manter a associação de público-alvo em sincronia** O mantém a lista atualizada conforme ela muda na sua instância. Adicionamos/removemos pessoas do público-alvo quando são adicionadas/removidas da lista estática.
    >
-   >* Marcar a caixa de seleção na parte inferior envia o status de consentimento como CONCEDIDO para dados do usuário enviados ao Google Ads para fins de publicidade e personalização de anúncios. Deixá-la desmarcada envia o status de consentimento como NÃO ESPECIFICADO.
+   >* Marcar a caixa de seleção na parte inferior envia o status de consentimento como CONCEDIDO para dados do usuário enviados ao Google Ads para fins de publicidade e personalização de anúncios. Deixá-la desmarcada envia o status de consentimento como NÃO ESPECIFICADO. Para aqueles que pretendem carregar dados para utilizadores no Espaço Econômico Europeu (EEE), a Google elaborou uma lista de [Perguntas frequentes](https://support.google.com/google-ads/answer/14310715), bem como pormenores adicionais que descrevem a [Política de consentimento do usuário da UE](https://www.google.com/about/company/user-consent-policy/).
 
 1. Clique em **Atualizar**.
 
