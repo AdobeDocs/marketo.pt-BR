@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Para aqueles que usam o Google Customer Match, siga as etapas abaixo para enviar
    >
    >* Selecionar **Manter a associação de público-alvo em sincronia** O mantém a lista atualizada conforme ela muda na sua instância. Adicionamos/removemos pessoas do público-alvo quando são adicionadas/removidas da lista estática.
    >
-   >* Marcar a caixa de seleção na parte inferior envia o status de consentimento como CONCEDIDO para dados do usuário enviados ao Google Ads para fins de publicidade e personalização de anúncios. Deixá-la desmarcada envia o status de consentimento como NÃO ESPECIFICADO. Para aqueles que pretendem carregar dados para utilizadores no Espaço Econômico Europeu (EEE), a Google elaborou uma lista de [Perguntas frequentes](https://support.google.com/google-ads/answer/14310715), bem como pormenores adicionais que descrevem a [Política de consentimento do usuário da UE](https://www.google.com/about/company/user-consent-policy/).
+   >* Marcar a caixa de seleção na parte inferior envia o status de consentimento como CONCEDIDO para dados do usuário enviados ao Google Ads para fins de publicidade e personalização de anúncios. Deixá-la desmarcada envia o status de consentimento como NÃO ESPECIFICADO. Para aqueles que pretendem carregar dados para utilizadores no Espaço Econômico Europeu (EEE), a Google elaborou uma lista de [Perguntas frequentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. Clique em **Atualizar**.
 

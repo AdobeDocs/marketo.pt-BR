@@ -4,9 +4,10 @@ title: Biblioteca de resposta
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 774346fa-f633-48e8-a489-999404b6070b
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
@@ -17,27 +18,27 @@ Em um local, visualize todas as suas perguntas, o status de aprovação e o nome
 
 ## Adicionar uma pergunta manualmente {#manually-add-a-question}
 
-1. Em IA gerativa, clique em **Respostas assistidas**.
+1. Em IA gerativa, clique em **[!UICONTROL Respostas assistidas]**.
 
    ![](assets/response-library-1.png)
 
-1. Clique em **Biblioteca de resposta** guia.
+1. Clique em **[!UICONTROL Biblioteca de resposta]** guia.
 
    ![](assets/response-library-2.png)
 
-1. Clique em **Adicionar pergunta**.
+1. Clique em **[!UICONTROL Adicionar pergunta]**.
 
    ![](assets/response-library-3.png)
 
-1. Insira a pergunta e a resposta. Atribua um tópico e adicione um URL opcional que os usuários podem compartilhar com os visitantes. Clique em **Salvar** quando terminar.
+1. Insira a pergunta e a resposta. Atribua um tópico e adicione um URL opcional que os usuários podem compartilhar com os visitantes. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/response-library-4.png)
 
-1. Clique em atualizar e sua nova pergunta aparecerá na parte superior com o status de &quot;Processando&quot;.
+1. Clique em atualizar e sua nova pergunta aparecerá na parte superior com o status de &quot;[!UICONTROL Processando].&quot;
 
    ![](assets/response-library-5.png)
 
-1. Após alguns minutos, clique novamente em e o status será alterado para &quot;Aprovado&quot;.
+1. Após alguns minutos, atualize novamente e o status mudará para &quot;Aprovado&quot;.
 
    ![](assets/response-library-6.png)
 
@@ -45,13 +46,13 @@ Em um local, visualize todas as suas perguntas, o status de aprovação e o nome
 
 >[!NOTE]
 >
->Todas as perguntas e respostas geradas recebem o status &quot;precisa de revisão&quot; por padrão. Somente perguntas e respostas &quot;aprovadas&quot; são disponibilizadas aos visitantes do chat.
+>Todas as perguntas e respostas geradas recebem a função &quot;[!UICONTROL precisa de revisão]&quot; por padrão. Somente &quot;[!UICONTROL aprovado]&quot;as perguntas e respostas são disponibilizadas aos visitantes do chat.
 
-1. No **Biblioteca de resposta**, clique na pergunta desejada.
+1. No **[!UICONTROL Biblioteca de resposta]**, clique na pergunta desejada.
 
    ![](assets/response-library-7.png)
 
-1. Faça as edições desejadas e clique em **Salvar**.
+1. Faça suas edições e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/response-library-8.png)
 
@@ -77,7 +78,7 @@ As instruções sobre como fazer edições em massa no arquivo do Excel baixado 
   </tr>
   <tr>
     <td>Adicionar uma nova pergunta</td>
-    <td>Insira a nova pergunta na coluna "editedQuestion" (coluna H) e deixe questionResponded em branco. Você também deve inserir um tópico apropriado na coluna "tópicos"(coluna C) e um URL de origem na coluna "sourceUrl!"</td>
+    <td>Insira a nova pergunta na coluna "editedQuestion" (coluna H) e deixe questionResponded em branco. Você também deve inserir um tópico apropriado na coluna "tópicos" (coluna C) e um URL de origem na coluna "sourceUrl!"</td>
   </tr>
   <tr>
     <td>Adicionar uma pergunta e uma resposta</td>
@@ -86,11 +87,11 @@ As instruções sobre como fazer edições em massa no arquivo do Excel baixado 
 </tbody>
 </table>
 
-1. Depois de fazer as edições no arquivo, volte para a guia da biblioteca de Resposta e clique em Fazer upload de respostas.
+1. Depois de concluir as edições no arquivo, volte para a **[!UICONTROL Biblioteca de resposta]** e clique em **[!UICONTROL Fazer upload de respostas]**.
 
    ![](assets/response-library-9.png)
 
-1. Insira o nome da tarefa aplicável. Arraste e solte o arquivo ou procure-o no dispositivo e selecione-o. Clique em **Salvar** quando terminar.
+1. Insira o nome da tarefa aplicável. Arraste e solte o arquivo ou procure-o no dispositivo e selecione-o. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/response-library-10.png)
 

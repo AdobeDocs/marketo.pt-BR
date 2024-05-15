@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9355'
 ht-degree: 3%
 
 ---
@@ -675,12 +675,14 @@ ht-degree: 3%
             + [Criar uma caixa de diálogo](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [Critérios de público](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [Designer de fluxo](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
+            + [Temp do Designer de Fluxo](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer-temp.md)
          + Integrações {#integrations}
             + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md)
             + [Adobe PDF Embed API](product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md)
          + Bate-papo ao vivo {#live-chat}
             + [Visão geral do bate-papo ao vivo](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Caixa de entrada do agente](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
+            + [Temp. da Caixa de Entrada do Agente](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox-temp.md)
             + [Notificações](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + IA gerativa {#generative-ai}
             + [Visão geral da IA gerativa](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)

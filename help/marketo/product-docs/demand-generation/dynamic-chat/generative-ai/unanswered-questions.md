@@ -4,9 +4,10 @@ title: Perguntas não respondidas
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
+exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 3%
 
 ---
@@ -17,13 +18,13 @@ Veja todas as perguntas que o chatbot não pôde responder e/ou as que os visita
 
 >[!NOTE]
 >
->A lista de perguntas não respondidas é atualizada automaticamente a cada 24 horas.
+>A lista de perguntas não respondidas é atualizada automaticamente a cada 24 horas, à meia-noite PST.
 
-1. Em IA gerativa, clique em **Respostas assistidas**.
+1. Em IA gerativa, clique em **[!UICONTROL Respostas assistidas]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Clique em **Perguntas não respondidas** guia.
+1. Clique em **[!UICONTROL Perguntas não respondidas]** guia.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -31,7 +32,7 @@ Veja todas as perguntas que o chatbot não pôde responder e/ou as que os visita
 
    ![](assets/unanswered-questions-3.png)
 
-1. Insira sua resposta. Atribua um tópico e adicione um URL opcional que os usuários podem compartilhar com os visitantes. Clique em **Salvar** quando terminar.
+1. Insira sua resposta. Atribua um tópico e adicione um URL opcional que os usuários podem compartilhar com os visitantes. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/unanswered-questions-4.png)
 
