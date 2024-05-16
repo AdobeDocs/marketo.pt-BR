@@ -1,11 +1,12 @@
 ---
 description: Stream Designer - Documentação do Marketo - Documentação do produto
 title: Designer de fluxo
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1128'
 ht-degree: 2%
 
 ---
@@ -41,7 +42,7 @@ O Designer de Stream contém vários cartões que você pode adicionar para mold
   <td>Use quando quiser coletar informações (por exemplo, nome, endereço de email, cargo etc.). Depois de escolher a qual campo atribuir sua resposta, você pode escolher entre permitir que o visitante digite sua resposta ou selecionar opções de uma lista de opções determinada (dica: esta última pode ajudar na limpeza do banco de dados). Você também pode optar por substituir os dados listados atualmente para eles com a resposta ou ignorar a pergunta totalmente se você já tiver um valor para eles.</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Reserva de reunião</strong></td>
+  <td style="width:25%"><strong>Reserva de Reunião</strong></td>
   <td>Fornece ao visitante um calendário de datas disponíveis para agendar uma reunião. Escolha a disponibilidade do calendário por meio de rodízio, de um agente específico ou usando regras personalizadas. Clique em <b>Adicionar atributo</b> se desejar capturar o nome ou endereço de email do agente e atribuí-lo ao registro pessoal do visitante do chat para consulta futura (dica: crie um <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizado</a> para mapear as informações do agente como para não substituir um campo Marketo Engage padrão).</td>
  </tr>
  <tr>
@@ -51,22 +52,13 @@ O Designer de Stream contém vários cartões que você pode adicionar para mold
  <tr>
   <td style="width:25%"><strong>Ação*</strong></td>
   <td>Semelhante aos campos ocultos em um formulário, com o cartão de ação você pode preencher qualquer atributo de cliente potencial ou de empresa (que tenha um <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo de dados string</a>) com valores implícitos que você gostaria de capturar em um registro de lead. Você pode adicionar o cartão de ação em qualquer ponto da conversa e atualizar os respectivos atributos com um valor ou tokens nativos que preenchem automaticamente o respectivo valor.
-  <p><i>* Esta placa exige o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.</i></td>
+  <p><i>* O cartão de Ação requer o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Chat ao vivo</strong></td>
   <td>Use o cartão de chat ao vivo quando quiser que os visitantes conversem com um agente ao vivo.
   <li>O cartão de chat ao vivo deve ser o último cartão na ramificação.</li>
   <li>Os visitantes serão encaminhados para um agente assim que chegarem a este cartão no stream, portanto, é recomendável preceder este cartão com um cartão de perguntas perguntando aos visitantes se eles gostariam de conversar com um agente ao vivo.</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Respostas geradas*</strong></td>
-  <td>Crie uma mensagem para o visitante para quando ele atingir um determinado ponto na conversa. Defina várias perguntas que podem ser feitas de uma só vez para atingir o indicador principal de desempenho desejado.
-  <p><i>* Esta placa exige o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Ramificação condicional</strong></td>
-  <td>Crie ramificações nos fluxos de diálogo com base em condições diferentes. Apresentar conteúdo diferente para pessoas diferentes no mesmo diálogo com base nos atributos do cliente potencial e da empresa no Marketo Engage.</td>
  </tr>
 </table>
 
