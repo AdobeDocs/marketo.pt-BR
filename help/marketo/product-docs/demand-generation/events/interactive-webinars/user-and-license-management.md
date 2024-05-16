@@ -3,10 +3,10 @@ description: Gerenciamento de usuários e licenças - Documentação do Marketo 
 title: Gerenciamento de usuários e licenças
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
 workflow-type: tm+mt
 source-wordcount: '703'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -69,31 +69,31 @@ Webinars interativos oferecem licenças específicas para criar eventos viabiliz
 <table> 
   <tr>
    <td width="20%"><b>Data de início</b></td>
-   <td>Data de início da licença.</td>
+   <td width="80%">Data de início da licença.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Data de validade</b></td>
-   <td>Data de expiração da licença.</td>
+   <td width="80%">Data de expiração da licença.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Tipo</b></td>
-   <td>O tipo de licença adquirida. Há três tipos disponíveis: Licença de eventos compartilhados, Licença de salas compartilhadas, Licença de armazenamento adicional.</td>
+   <td width="80%">O tipo de licença adquirida. Há três tipos disponíveis: Licença de eventos compartilhados, Licença de salas compartilhadas, Licença de armazenamento adicional.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Capacidade do evento</b></td>
-   <td>O número máximo de participantes que podem ser acomodados em um evento.</td>
+   <td width="80%">O número máximo de participantes que podem ser acomodados em um evento.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Total de eventos</b></td>
-   <td>O número total de eventos que foram provisionados com esta licença.</td>
+   <td width="80%">O número total de eventos que foram provisionados com esta licença.</td>
   </tr>
   <tr> 
-   <td width="20%"><b>Eventos Consumidos</b></td>
-   <td>O número total de eventos concluídos.</td>
+   <td width="20%"><b>Eventos consumidos</b></td>
+   <td width="80%">O número total de eventos concluídos.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Capacidade de armazenamento</b></td>
-   <td>Quantidade de armazenamento disponível para armazenar gravações, material de apoio, heros images, documentação e outros ativos.</td>
+   <td width="80%">Quantidade de armazenamento disponível para armazenar gravações, material de apoio, heros images, documentação e outros ativos.</td>
   </tr>
   </tbody>
 </table>
