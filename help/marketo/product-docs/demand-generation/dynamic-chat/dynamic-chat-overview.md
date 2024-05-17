@@ -3,10 +3,10 @@ description: Visão geral do Dynamic Chat - Documentação do Marketo - Document
 title: Visão geral do Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 2%
+source-wordcount: '595'
+ht-degree: 4%
 
 ---
 
@@ -52,13 +52,17 @@ Conecte seu calendário do Outlook ou Gmail para usar no agendamento de compromi
 
 Ofereça aos visitantes da Web qualificados para se conectarem com seus representantes de vendas via [bate-papo ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
-## Fluxo de conversa {#conversational-flow}
+## Fluxo de conversação {#conversational-flow}
 
 [Criar uma conversa](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} que pode ser acionado por um visitante com base em uma ação designada (por exemplo, preencher um formulário, clicar em um link etc.).
 
+## IA generativa {#generative-ai}
+
+[IA gerativa](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} no Adobe Dynamic Chat, os sinais de intenção, as preferências do usuário e o comportamento anterior em tempo real geram mensagens relevantes e personalizadas para os visitantes do chat.
+
 ## Alteração do idioma {#changing-the-language}
 
-Siga estas etapas para alterar o idioma do Dynamic Chat.
+Siga as etapas abaixo para alterar o idioma do Dynamic Chat.
 
 >[!IMPORTANT]
 >
