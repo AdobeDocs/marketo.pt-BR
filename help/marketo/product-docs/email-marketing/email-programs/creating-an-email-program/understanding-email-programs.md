@@ -4,10 +4,10 @@ description: Noções básicas sobre programas de email - Documentação do Mark
 title: Noções básicas sobre programas de email
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '303'
+ht-degree: 0%
 
 ---
 
@@ -36,15 +36,19 @@ Saiba mais sobre os seguintes testes A/B:
 
 ## Painéis {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->Alguns preferem usar programas de e-mail ao envio de um e-mail por meio de uma campanha inteligente, devido ao painel de relatórios detalhado do programa.
+>Para obter relatórios precisos, evite reutilizar um email usado anteriormente em um programa de email por meio de uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso adicionará aos números de relatório no painel original do programa de email. Se precisar reutilizar o mesmo email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso.
 
 Aproveite os frutos do seu trabalho. Os painéis mostram rapidamente o desempenho do programa de email e do teste A/B.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>Alguns preferem usar programas de e-mail ao envio de um e-mail por meio de uma Campanha inteligente, devido ao painel de relatórios detalhado do programa.
 
 ## Aninhamento {#nesting}
 

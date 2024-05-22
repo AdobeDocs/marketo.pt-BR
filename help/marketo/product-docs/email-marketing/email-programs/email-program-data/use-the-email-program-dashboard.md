@@ -4,9 +4,9 @@ description: Use o painel do programa de email - Documentação do Marketo - Doc
 title: Usar o painel do programa de email
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Confira o desempenho de seus programas de email com essa exibição de painel.
 
+>[!CAUTION]
+>
+>Para obter relatórios precisos, evite reutilizar um email usado anteriormente em um programa de email por meio de uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso adicionará aos números de relatório no painel original do programa de email. Se precisar reutilizar o mesmo email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso.
+
 >[!NOTE]
 >
->Se o seu programa tiver um teste A/B, verifique o [Painel de programa de email - Visualização de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Se o seu programa tiver um teste A/B, verifique o [Painel de programa de email - Visualização de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ Este gráfico mostra o número de emails abertos/clicados durante períodos espe
 
 ## Resumo - Participação {#summary-engagement}
 
-Isso mostra o [pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Isso mostra o [pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -77,4 +81,4 @@ Para ver os dados mais atualizados, basta clicar no ícone de atualização no p
 
 >[!MORELIKETHIS]
 >
->[Usar o painel do programa de email - Exibição de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Usar o painel do programa de email - Exibição de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

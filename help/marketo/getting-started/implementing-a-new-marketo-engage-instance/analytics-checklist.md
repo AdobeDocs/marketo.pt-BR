@@ -4,7 +4,7 @@ title: Novas práticas recomendadas de instância - Lista de verificação do An
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 0%
@@ -109,7 +109,7 @@ Identifique relatórios que devem ser compartilhados com diferentes grupos de us
     <td>OBSERVAÇÃO: esse relatório exige que você tenha seus canais, status de progressão e etapas de sucesso definidos na <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Administração &gt; Área de tags</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Meça a eficácia das suas táticas de marketing</a> programas seletivos.</li>
     <li>Gerencie a associação ao programa (usando Campanhas inteligentes para atualizar o programa de aquisição, o status, os status de sucesso) de acordo com as práticas recomendadas nas Atividades de marketing.</li>
     <li>Medida com base nos custos do ano atual e dos 12 meses consecutivos.
-    <ul><li>Lembre-se de que a manutenção <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Custos do Período</a> O é essencial para aproveitar o Relatório de desempenho do programa.</li>
+    <ul><li>Lembre-se de que a manutenção <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Custos do Período</a> O é essencial para aproveitar o Relatório de desempenho do programa.</li></ul>
     <br>DICA: para agregar e exibir qualquer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listas importadas</a> nos Relatórios de desempenho do programa, certifique-se de que suas equipes selecionem o Programa de aquisição apropriado para marcação. Considere <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">criação de um programa padrão</a> para ser selecionado como o programa de aquisição quando as listas importadas não se aplicam a nenhum canal. Isso garante que qualquer pessoa importada tenha um programa de aquisição válido relacionado à origem, unidade de negócios, canal, etc. em vez de em branco.</td>
   </tr>
   <tr>

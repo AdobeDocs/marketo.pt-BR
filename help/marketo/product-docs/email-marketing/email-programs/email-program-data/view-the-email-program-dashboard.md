@@ -4,9 +4,9 @@ description: Exibir o painel do programa de e-mail - Documentação do Marketo -
 title: Exibir o painel do programa de e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Exibir o painel do programa de e-mail {#view-the-email-program-dashboard}
 
 Confira o desempenho do seu programa de email (com ou sem um teste A/B) com esse painel.
+
+>[!CAUTION]
+>
+>Para obter relatórios precisos, evite reutilizar um email usado anteriormente em um programa de email por meio de uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso adicionará aos números de relatório no painel original do programa de email. Se precisar reutilizar o mesmo email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso.
 
 ## Selecione seu programa de email {#select-your-email-program}
 
