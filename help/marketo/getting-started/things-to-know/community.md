@@ -4,9 +4,9 @@ title: Comunidade Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ CAPTURA DE TELA
 
 ## Configurar seu perfil {#set-up-your-profile}
 
-Quando conectado à Nação de marketing, clique no ícone de avatar padrão e selecione Minhas configurações para atualizar suas preferências, alterar a foto do avatar, controlar a marcação e muito mais.
+Quando conectado à Nação de marketing, clique no ícone de avatar padrão e selecione **[!UICONTROL Minhas configurações]** para atualizar suas preferências, altere sua foto do avatar, controle de tags e muito mais.
 
 CAPTURA DE TELA
 
@@ -57,7 +57,7 @@ CAPTURA DE TELA
 
 ## Grupos de usuários do Marketo {#marketo-user-groups}
 
-Grupos de usuários do Marketo (MUGs) são encontros que ocorrem em diferentes áreas no mundo todo. Eles oferecem a oportunidade de fazer networking, discutir as últimas tendências, conhecer novos recursos e muito mais. Verifique se há um na sua área. Caso contrário, ingresse em um grupo de usuários virtuais!
+Grupos de usuários do Marketo (MUGs) são encontros que ocorrem em diferentes áreas no mundo todo. Eles oferecem a oportunidade de fazer networking, discutir as últimas tendências, conhecer novos recursos e muito mais. Verifique se há um na sua área. Se não houver, você pode ingressar em um grupo de usuários virtuais!
 
 CAPTURA DE TELA
 
@@ -85,6 +85,6 @@ Na sua solicitação, especifique os seguintes detalhes:
 
 Nossa equipe da Comunidade mesclará seus perfis da Comunidade em 4 a 6 dias úteis. Depois de concluído, você verá seu histórico de engajamento no perfil principal da Comunidade ao fazer logon. Caso contrário, faça logout da sua conta e login novamente para confirmar.
 
-<p>
+<br>
 
 Bem-vindo ao Marketo Engage e aproveite a Nação de marketing!
