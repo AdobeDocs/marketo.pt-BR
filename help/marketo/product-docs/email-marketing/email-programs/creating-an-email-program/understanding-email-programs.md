@@ -4,16 +4,16 @@ description: Noções básicas sobre programas de email - Documentação do Mark
 title: Noções básicas sobre programas de email
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 2%
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
 
 # Noções básicas sobre programas de email {#understanding-email-programs}
 
-Diga olá para seu novo amigo do Marketo, o programa de email. Envie emails, crie testes A/B e rastreie os resultados em um só lugar.
+Envie emails, crie testes A/B e rastreie os resultados em um só lugar.
 
 ## Painel de controle {#control-panel}
 
