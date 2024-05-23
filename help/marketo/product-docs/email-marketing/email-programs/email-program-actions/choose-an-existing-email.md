@@ -4,9 +4,9 @@ description: Escolha um email existente - Documentação do Marketo - Documenta�
 title: Escolher um email existente
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Para obter relatórios precisos, evite reutilizar um email usado anteriormente em um programa de email por meio de uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso adicionará aos números de relatório no painel original do programa de email. Se precisar reutilizar o mesmo email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso.
+>Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email, referenciando-o em uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se precisar reutilizar um email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso, o, pois copia o email, mas cria um novo com uma nova ID de email.
 
 Depois de ter [criou um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definiu seu público, você desejará decidir qual email está enviando. Você pode [criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) do zero ou escolha um que já existe. Veja como escolher um que já existe.
 

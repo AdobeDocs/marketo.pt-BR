@@ -4,9 +4,9 @@ description: Noções básicas sobre programas de email - Documentação do Mark
 title: Noções básicas sobre programas de email
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Saiba mais sobre os seguintes testes A/B:
 
 >[!CAUTION]
 >
->Para obter relatórios precisos, evite reutilizar um email usado anteriormente em um programa de email por meio de uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso adicionará aos números de relatório no painel original do programa de email. Se precisar reutilizar o mesmo email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso.
+>Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email, referenciando-o em uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se precisar reutilizar um email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso, o, pois copia o email, mas cria um novo com uma nova ID de email.
 
 Aproveite os frutos do seu trabalho. Os painéis mostram rapidamente o desempenho do programa de email e do teste A/B.
 
