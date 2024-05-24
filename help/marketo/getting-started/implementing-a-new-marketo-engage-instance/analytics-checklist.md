@@ -4,7 +4,7 @@ title: Novas práticas recomendadas de instância - Lista de verificação do An
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%
@@ -31,9 +31,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
   <tr>
     <td>Organização: nomeação, pastas e arquivamento</td>
     <td><li>Use uma convenção de nomenclatura de relatório para diferenciar relatórios na guia Relatórios globais.</li>
-    <ul>
-    <li>Um exemplo de boa prática de convenção de nomenclatura é [Tipo de relatório] [Global vs. Tag específica da BU] [Descrição do relatório] como [Desempenho do email]-[Global]-[Envolvimento de email de 180 dias].</li>
-    </ul> 
+    <ul><li>Um exemplo de boa prática de convenção de nomenclatura é [Tipo de relatório] [Global vs. Tag específica da BU] [Descrição do relatório] como [Desempenho do email]-[Global]-[Envolvimento de email de 180 dias].</li></ul><br>
     <li>Identifique relatórios que devem ser compartilhados com diferentes grupos de usuários em sua organização (por exemplo, equipe de vendas, liderança de marketing) e organize os relatórios por pasta dentro da pasta Relatórios do grupo no Analytics for Global Reports.</li> 
     <li>O arquivamento deve ser limitado à pasta Relatórios globais, pois esses são relatórios sempre ativos.   <ul>
     <li>Limite o arquivamento a alterações organizacionais, como a redução ou a adição de unidades de negócios relevantes, se você estiver emitindo relatórios com base em uma estrutura de unidade de negócios.</li>
@@ -104,7 +102,7 @@ Identifique relatórios que devem ser compartilhados com diferentes grupos de us
     <td>Relatório de Desempenho de Pessoas</td>
     <td><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: é recomendável ter um <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">estratégia de canal e tag</a> para cada implementação de Marketo Engage antes que você possa rastrear as pessoas adquiridas e o ROI de seus investimentos em marketing por canal.
     <p>
-    <li>Determine os critérios que você usará para medir o desempenho de seus programas de aquisição de clientes potenciais e crie seus relatórios padrão baseados em tempo (ano atual, últimos 12 meses contínuos ou 180 dias) com base nessas métricas:</li> <ul><li>Programa de aquisição: programa de Marketo Engage que é creditado pela aquisição da pessoa.
+    <li>Determine os critérios que você usará para medir o desempenho de seus programas de aquisição de clientes potenciais e crie seus relatórios padrão baseados em tempo (ano atual, últimos 12 meses contínuos ou 180 dias) com base nessas métricas:</li> <ul><li>Programa de aquisição: programa de Marketo Engage que é creditado pela aquisição da pessoa.</li>
     <li>Origem de Pessoa: A categoria de origem de como o registro passou a ser conhecido do banco de dados (com base na lista de origem de valores no seu CRM)
     </li></ul>
     <li>Meça as pessoas criadas por semana ou mês. Este relatório fornecerá uma medida da taxa de crescimento do Banco de Dados e se você está se aproximando do limite de tamanho do Banco de Dados.</li>
