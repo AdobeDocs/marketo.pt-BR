@@ -4,16 +4,20 @@ description: Visão geral dos recursos MSI - Documentação do Marketo - Documen
 title: Visão geral do recurso MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 13%
+source-wordcount: '965'
+ht-degree: 11%
 
 ---
 
 # Visão geral do recurso MSI {#msi-feature-overview}
 
 O MSI tem os seguintes recursos disponíveis no Salesforce Lightning e Classic.
+
+>[!NOTE]
+>
+>Para ver todos os dados disponíveis, verifique se o zoom do seu navegador está definido como não mais do que 125% ao usar o Windows e 150% no SO Mac.
 
 ## Painel Visualforce {#visualforce-panel}
 
@@ -57,7 +61,7 @@ Campos:
 * Valor de pontuação relativa
 * Urgência
 * Valor de urgência
-* Exibir no Marketo - Clique neste campo para abrir uma exibição não editável do cliente potencial no Marketo. Inclui: Informações do lead, Informações da empresa, Informações do lead SFDC, Campos personalizados SFDC, Log de atividades
+* Exibir no Marketo - clique neste campo para abrir uma exibição não editável do cliente potencial no Marketo. Inclui: Informações do lead, Informações da empresa, Informações do lead SFDC, Campos personalizados SFDC, Log de atividades
 * Id de contato MSI - Adicione um contato do Salesforce a esse campo e inclua o painel &quot;Lead Contact Bridge&quot; no layout do lead para ver o painel MSI do contato
 
 ## Layout do contato {#contact-layout}
@@ -76,12 +80,12 @@ Campos:
 * Desc. do último momento interessante
 * Fonte do último momento interessante
 * Tipo do último momento interessante
-* Última atividade do Marketo no Sales
+* Última atividade do Marketo por Vendas
 * Pontuação relativa
 * Valor de pontuação relativa
 * Urgência
 * Valor de urgência
-* Exibir no Marketo - Clique neste campo para abrir uma exibição não editável do cliente potencial no Marketo. Inclui: Informações do lead, Informações da empresa, Informações do lead SFDC, Campos personalizados SFDC, Log de atividades
+* Exibir no Marketo - clique neste campo para abrir uma exibição não editável do cliente potencial no Marketo. Inclui: Informações do lead, Informações da empresa, Informações do lead SFDC, Campos personalizados SFDC, Log de atividades
 * Pontuação de lead do Mkto
 * Sales Insight - abre a página de lista completa de contatos
 
