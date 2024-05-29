@@ -3,9 +3,9 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 3%
 
 ---
@@ -22,7 +22,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
 
 >[!NOTE]
 >
->Isso só se aplica a assinaturas Marketo Engage integradas ao [Sistema Adobe Identity Management (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} em Marketo Engage > Administrador > Usuários e funções.
+>Isso só se aplica a assinaturas Marketo Engage integradas ao [Sistema Adobe Identity Management (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Se sua assinatura ainda não tiver integrado o Adobe IMS, continue com o [experiência de funções e permissões do usuário herdadas](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} em Marketo Engage > Administrador > Usuários e funções.
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ Quando terminar de auditar as configurações Usuários e funções, faça logon
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[Auditoria de uma instância herdada: Base de dados ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

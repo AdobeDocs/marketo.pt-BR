@@ -2,10 +2,10 @@
 description: Documento de instância herdado em sua configuração - Documentação do Marketo - Documentação do produto
 title: Configuração do documento de instância herdado
 feature: Getting Started
-exl-id: 5a3fc755-0d1d-450a-bde6-9e27ea0cae8e
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -71,5 +71,3 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
   </tr>
  </tbody> 
 </table>
-
-[} Auditoria de uma instância herdada: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

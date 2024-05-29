@@ -2,10 +2,10 @@
 description: Lista de verificação de atividades de marketing de instância herdada - Documentação do Marketo - Documentação do produto
 title: Lista de Verificação de Atividades de Marketing de Instância Herdada
 feature: Getting Started
-exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '809'
 ht-degree: 2%
 
 ---
@@ -74,7 +74,7 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
 <li>Se os tokens forem implementados, há tokens de pasta global? Como eles estão sendo usados?</li></td>
   </tr>
   <tr> 
-   <td>Programas de engajamento</td> 
+   <td>Programas de envolvimento</td> 
    <td><li>Há eventos ao vivo <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programas de envolvimento</a> correndo?</li>
 <li>Quantas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">as pessoas estão exaustas</a>? 
 <br/>     Se há muitas pessoas exaustas, considere <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adição de conteúdo</a>.</li>
@@ -165,9 +165,3 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[► Auditoria de uma Instância Herdada: Banco de Dados](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-
-[Auditoria de uma instância herdada: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

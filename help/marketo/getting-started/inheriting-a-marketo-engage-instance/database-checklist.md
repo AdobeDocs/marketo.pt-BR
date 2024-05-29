@@ -2,10 +2,10 @@
 description: Lista de verificação do banco de dados da instância herdada - Documentação do Marketo - Documentação do produto
 title: Lista de Verificação do Banco de Dados da Instância Herdada
 feature: Getting Started
-exl-id: efb126af-770c-4ce1-a131-0f3f66dfeafb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '420'
 ht-degree: 7%
 
 ---
@@ -30,13 +30,13 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
 <br/>     Se o seu estiver abaixo desse limite, verifique as outras listas inteligentes do sistema (Inclui na lista de bloqueios, Marketing suspenso, Duplicatas, Cancelar inscrição) com mais escrutínio.</li></td>
   </tr>
   <tr> 
-   <td>Pessoas que cancelaram a inscrição</td> 
+   <td>Pessoas com inscrição cancelada</td> 
    <td><li>Quais são seus critérios para <a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" target="_blank">pessoas não inscritas</a>? Há muitas pessoas não inscritas?</li>
 <li>Os métodos de cancelamento de inscrição estão alinhados aos requisitos de privacidade de dados?</li>
 <li>Sua preferência de cancelamento de inscrição está atualizada? Por quanto tempo os registros permaneceram no banco de dados como não comercializáveis?</li></td>
   </tr>
   <tr> 
-   <td>Marketing suspenso</td> 
+   <td>Campanha de marketing suspensa</td> 
    <td><li>Quais são seus critérios para <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing suspenso</a>? Há pessoas demais com suspensão de marketing?</li>
 <li>Por quanto tempo os registros permaneceram no status Marketing Suspenso?</li>
 <p>Exemplo de caso de uso de suspensão de marketing: registros de pessoas que estão ativamente envolvidas com vendas em oportunidades de estágio avançado para as quais você deseja suprimir comunicações de marketing.</td>
@@ -46,7 +46,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
    <td><li>Quais são seus critérios para <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">➡ registros de incluir na lista de bloqueios</a>? Incluir na lista de bloqueios Há pessoas demais que são revoltadas?</li></td>
   </tr>
   <tr> 
-   <td>Endereços de email com mensagens rejeitadas</td> 
+   <td>Endereços de e-mail com mensagens devolvidas</td> 
    <td><li>Você tem um monte de <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">pessoas que rejeitaram</a> no banco de dados?
    <br/>     Em caso afirmativo, considere investigar o motivo.</li></td></li></td>
   </tr>
@@ -115,9 +115,3 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[► Auditoria de uma instância herdada: Administrador](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
-
-[Auditoria de uma instância herdada: Atividades de marketing ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

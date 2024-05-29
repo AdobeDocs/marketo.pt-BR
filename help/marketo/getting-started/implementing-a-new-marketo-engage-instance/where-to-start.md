@@ -3,9 +3,9 @@ description: Conheça as práticas recomendadas ao implementar uma nova instânc
 title: Onde começar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -34,17 +34,19 @@ Baixar a instância do Marketo Engage [Novas listas de verificação de administ
 
 * [Banco de dados](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [Atividades de marketing](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analytics](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [Documente a nova configuração de instância](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Conectar-se a colegas {#connect-with-your-peers}
 
-Visite o [Comunidade da nação de marketing](https://nation.marketo.com/){target="_blank"} para saber mais sobre a instância do Marketo Engage com os funcionários do Marketo Engage e outros usuários.
+Visite o [Comunidade Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (também conhecido como Nação de marketing) para saber mais sobre a Instância de Marketo Engage dos funcionários do Marketo Engage, bem como outros usuários.
 
-Introdução à Comunidade da nação de marketing:
+Introdução à Comunidade:
 
 1. Clique em **Continuar com o Adobe ID** e selecione sua assinatura principal na página de logon.
 1. Ao fazer logon, complete seu perfil da comunidade.
