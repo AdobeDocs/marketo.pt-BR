@@ -3,7 +3,7 @@ description: Conheça as práticas recomendadas ao implementar uma nova instânc
 title: Onde começar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: abd80b3370f7fd107a6ae55edfeb17c3eeb358ec
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,3 +51,4 @@ Introdução à Comunidade:
 1. Clique em **Continuar com o Adobe ID** e selecione sua assinatura principal na página de logon.
 1. Ao fazer logon, complete seu perfil da comunidade.
 1. Depois de enviar as informações, você será direcionado para a página inicial da comunidade e estará pronto para continuar.
+
