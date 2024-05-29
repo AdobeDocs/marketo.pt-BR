@@ -4,9 +4,9 @@ title: Comunidade Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,17 @@ A variável [Comunidade Adobe Marketo Engage](https://nation.marketo.com/) (tamb
 
 ## Registrar seu nome de usuário {#register-your-username}
 
--registro de um nome de usuário
+1. Faça logon na instância do Marketo Engage.
+
+1. Em Meu Marketo, clique no bloco Comunidade.
+
+1. Se este for o seu primeiro login, você será instruído a registrar um nome de usuário da comunidade.
+
+   >[!NOTE]
+   >
+   >Seu nome de usuário pode ser alterado a qualquer momento, mas deve ser registrado neste momento.
+
+1. Depois de registrar seu nome de usuário, você será navegado até a página inicial da Comunidade e poderá interagir e publicar na Comunidade.
 
 CAPTURA DE TELA
 
@@ -87,4 +97,4 @@ Nossa equipe da Comunidade mesclará seus perfis da Comunidade em 4 a 6 dias út
 
 <br>
 
-Bem-vindo ao Marketo Engage e aproveite a Nação de marketing!
+Bem-vindo ao Marketo Engage e divirta-se explorando a Nação de marketing!
