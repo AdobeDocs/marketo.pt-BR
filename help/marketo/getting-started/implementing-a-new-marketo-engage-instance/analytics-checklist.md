@@ -4,10 +4,10 @@ title: Novas práticas recomendadas de instância - Lista de verificação do An
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
+source-git-commit: 00656b2167435d51da55537d251d84910002e46d
 workflow-type: tm+mt
-source-wordcount: '1615'
-ht-degree: 0%
+source-wordcount: '1393'
+ht-degree: 1%
 
 ---
 
@@ -30,12 +30,11 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
 <tbody>
   <tr>
     <td>Organização: nomeação, pastas e arquivamento</td>
-    <td><li>Use uma convenção de nomenclatura de relatório para diferenciar relatórios na guia Relatórios globais.</li>
+    <td><li>Use uma convenção de nomenclatura de relatório para diferenciar relatórios na guia Relatórios globais.
     <ul><li>Um exemplo de boa prática de convenção de nomenclatura é [Tipo de relatório] [Global vs. Tag específica da BU] [Descrição do relatório] como [Desempenho do email]-[Global]-[Envolvimento de email de 180 dias].</li></ul><br>
     <li>Identifique relatórios que devem ser compartilhados com diferentes grupos de usuários em sua organização (por exemplo, equipe de vendas, liderança de marketing) e organize os relatórios por pasta dentro da pasta Relatórios do grupo no Analytics for Global Reports.</li> 
-    <li>O arquivamento deve ser limitado à pasta Relatórios globais, pois esses são relatórios sempre ativos.   <ul>
-    <li>Limite o arquivamento a alterações organizacionais, como a redução ou a adição de unidades de negócios relevantes, se você estiver emitindo relatórios com base em uma estrutura de unidade de negócios.</li>
-    </ul></td>
+    <li>O arquivamento deve ser limitado à pasta Relatórios globais, pois esses são relatórios sempre ativos.   <ul><li>Limite o arquivamento a alterações organizacionais, como a redução ou a adição de unidades de negócios relevantes, se você estiver emitindo relatórios com base em uma estrutura de unidade de negócios.</li></ul>
+    </td>
   </tr>
   <tr>
     <td>Espaços de trabalho (se aplicável)</td>
@@ -102,7 +101,7 @@ Identifique relatórios que devem ser compartilhados com diferentes grupos de us
     <td>Relatório de Desempenho de Pessoas</td>
     <td><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: é recomendável ter um <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">estratégia de canal e tag</a> para cada implementação de Marketo Engage antes que você possa rastrear as pessoas adquiridas e o ROI de seus investimentos em marketing por canal.
     <p>
-    <li>Determine os critérios que você usará para medir o desempenho de seus programas de aquisição de clientes potenciais e crie seus relatórios padrão baseados em tempo (ano atual, últimos 12 meses contínuos ou 180 dias) com base nessas métricas:</li> <ul><li>Programa de aquisição: programa de Marketo Engage que é creditado pela aquisição da pessoa.</li>
+    <li>Determine os critérios que você usará para medir o desempenho de seus programas de aquisição de clientes potenciais e crie seus relatórios padrão baseados em tempo (ano atual, últimos 12 meses contínuos ou 180 dias) com base nessas métricas: <ul><li>Programa de aquisição: programa de Marketo Engage que é creditado pela aquisição da pessoa.</li>
     <li>Origem de Pessoa: A categoria de origem de como o registro passou a ser conhecido do banco de dados (com base na lista de origem de valores no seu CRM)
     </li></ul>
     <li>Meça as pessoas criadas por semana ou mês. Este relatório fornecerá uma medida da taxa de crescimento do Banco de Dados e se você está se aproximando do limite de tamanho do Banco de Dados.</li>
@@ -116,9 +115,9 @@ Identifique relatórios que devem ser compartilhados com diferentes grupos de us
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Meça a eficácia das suas táticas de marketing</a> programas seletivos.</li>
     <li>Gerencie a associação ao programa (usando Campanhas inteligentes para atualizar o programa de aquisição, o status, os status de sucesso) de acordo com as práticas recomendadas nas Atividades de marketing.</li>
     <li>Medida com base nos custos do ano atual e nos 12 meses consecutivos.
-    <ul><li>Lembre-se de que a manutenção <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Custos do Período</a> O é essencial para aproveitar o Relatório de desempenho do programa.</li></ul>
-    <br>
-    <br><img src="assets/tip-icon.png" alt="ícone de nota"> DICA: para agregar e exibir qualquer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listas importadas</a> nos Relatórios de desempenho do programa, certifique-se de que suas equipes selecionem o Programa de aquisição apropriado para marcação. Considere <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">criação de um programa padrão</a> para ser selecionado como o programa de aquisição quando as listas importadas não se aplicam a nenhum canal. Isso garante que qualquer pessoa importada tenha um programa de aquisição válido relacionado à origem, unidade de negócios, canal, etc., em vez de um valor em branco.</td>
+    <ul><li>Lembre-se de que a manutenção <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Custos do Período</a> O é essencial para aproveitar o Relatório de desempenho do programa.</li></ul></li>
+    <p>
+    <img src="assets/tip-icon.png" alt="ícone de nota"> DICA: para agregar e exibir qualquer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">listas importadas</a> nos Relatórios de desempenho do programa, certifique-se de que suas equipes selecionem o Programa de aquisição apropriado para marcação. Considere <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">criação de um programa padrão</a> para ser selecionado como o programa de aquisição quando as listas importadas não se aplicam a nenhum canal. Isso garante que qualquer pessoa importada tenha um programa de aquisição válido relacionado à origem, unidade de negócios, canal, etc., em vez de um valor em branco.</td>
   </tr>
   <tr>
     <td>Relatório de desempenho da landing page</td>
@@ -161,41 +160,4 @@ Alguns relatórios de Marketo Engage são melhor implantados como ativos locais 
     <li>Considere usar o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">Filtro "Segmentação" na guia Configuração do relatório</a> e agrupamento dos dados de relatório pelo <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">segmento</a> (por exemplo, fonte de pessoa, setor) usada em seu programa de envolvimento. Isso ajudará a obter insights mais profundos sobre os padrões de engajamento de cada segmento, orientando você a fazer alterações estratégicas para melhorar o programa de Engajamento (conteúdo, fluxo, cadência de transmissão etc.).</li></td>
   </tr>
 </tbody>
-</table>
-
-TABELA COM MARCADORES
-
-<table>
-<tbody>
-<tr>
-    <td>Relatórios de grupos</td>
-    <td><img src="assets/note-icon.png" alt="ícone de nota"> NOTA: TEXTO.
-    <p>
-    <li>TEXTO</li>
-    <li>TEXTO
-    <ul><li>TEXTO</li>
-    <li>TEXTO</li></ul>
-    <li>TEXTO</li>
-    <li>TEXTO</li>
-    <p><img src="assets/tip-icon.png" alt="ícone de nota"> DICA: TEXTO.</td>
-  </tr>
-  </tbody>
-</table>
-
-CORREÇÃO DE TESTE 1
-
-<table>
-<tbody>
-<tr>
-    <td>Relatório de Desempenho de Pessoas</td>
-    <td><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: é recomendável ter um <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">estratégia de canal e tag</a> para cada implementação de Marketo Engage antes que você possa rastrear as pessoas adquiridas e o ROI de seus investimentos em marketing por canal.
-    <p>
-    <li>Determine os critérios que você usará para medir o desempenho de seus programas de aquisição de clientes potenciais e crie seus relatórios padrão baseados em tempo (ano atual, últimos 12 meses contínuos ou 180 dias) com base nessas métricas:</li>
-    <ul><li>Programa de aquisição: programa Marketo Engage creditado pela aquisição da pessoa</li>
-    <li>Origem de Pessoa: A categoria de origem de como o registro passou a ser conhecido do banco de dados (com base na lista de origem de valores no seu CRM)</li></ul>
-    <li>Meça as pessoas criadas por semana ou mês. Este relatório fornecerá uma medida da taxa de crescimento do Banco de Dados e se você está se aproximando do limite de tamanho do Banco de Dados.</li>
-    <li>Filtrar as métricas nos Relatórios de desempenho de pessoas por <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">usando suas Smart Lists como colunas personalizadas.</a></li>
-    <p><img src="assets/tip-icon.png" alt="ícone de nota"> DICA: crie Smart Lists para as colunas personalizadas que deseja adicionar ao Relatório de desempenho de pessoas no banco de dados em vez de Atividades de marketing para que você possa ver o nome da Smart List de forma adequada e clara quando ela estiver selecionada no relatório.</td>
-  </tr>
-  </tbody>
 </table>
