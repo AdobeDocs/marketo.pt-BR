@@ -3,9 +3,9 @@ description: Perguntas frequentes sobre o Dynamic Chat - Documentação do Marke
 title: Perguntas frequentes sobre o Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Consulte abaixo as respostas a algumas perguntas frequentes sobre o Dynamic Chat.
 
+**Não parece que eu tenha acesso ao Dynamic Chat. Como posso obtê-lo?**
+
+Entre em contato com o administrador do Marketo Engage e verifique se ele [adicionou você como usuário](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} no Adobe Admin Console.
+
 **É possível instalar o Dynamic Chat em qualquer lugar no site da empresa ou ele funciona somente nas páginas de aterrissagem do Marketo?**
 
-O snippet de JavaScript Dynamic Chat pode ser instalado em qualquer site, bem como nas landing pages do Marketo.
+O snippet de JavaScript Dynamic Chat pode ser instalado em qualquer site, bem como nas páginas de aterrissagem do Marketo.
 
 **Por quanto tempo os dados são armazenados para relatórios?**
 
