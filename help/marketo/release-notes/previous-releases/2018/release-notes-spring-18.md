@@ -4,7 +4,7 @@ description: Notas de versão - Segundo trimestre de 2018 - Documentação do Ma
 title: Notas de versão - primavera de 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 4%
@@ -45,9 +45,9 @@ Acesse o Marketo Sky open beta para obter acesso a mais de 100 novos recursos de
 * Guias no aplicativo e ajuda contextual
 * Rótulos de ativos e visualizações de calendário mais flexíveis
 
-## Performance Insights {#performance-insights}
+## Desempenho Insights {#performance-insights}
 
-[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[Desempenho Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Comparação do Período Ano a Ano**
 
@@ -77,12 +77,12 @@ Defina o objetivo do algoritmo de otimização da IA de conteúdo para gerar mai
 
 ## Integração e APIs {#integration-and-apis}
 
-[APIs de lista estática](https://developers.marketo.com/rest-api/assets/static-lists/)
+[APIs de lista estática](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Gerencie listas entre o Marketo e outros sistemas mais facilmente com novas APIs bidirecionais para criar, ler, atualizar e excluir listas estáticas remotamente sem realizar nenhuma ação na interface do usuário do Marketo.
 
 ## Aprimoramentos de privacidade {#privacy-enhancements}
 
-[Privacidade no web tracking](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Privacidade no web tracking](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 O rastreamento aprimorado do Munchkin está em conformidade com as regulamentações de privacidade locais e internacionais, tornando os endereços IP dos visitantes da Web anônimos e permitindo que eles recusem o rastreamento web permanentemente.

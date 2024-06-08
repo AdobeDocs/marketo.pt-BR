@@ -4,9 +4,9 @@ description: Notas de versão - Segundo trimestre de 2019 - Documentação do Ma
 title: Notas de versão - Segundo trimestre de 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '460'
 ht-degree: 6%
 
 ---
@@ -25,7 +25,7 @@ Os recursos a seguir foram lançados em 15 de março de 2019.
 
 * **Em lista de espera:** Novo status de programa/evento para lista de espera de um membro quando desejar [colocá-los em espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) até que uma vaga seja aberta. Isso se aplica a canais associados a programas de Evento no Marketo Classic e a programas de Evento e Evento com Webinar no Marketo Sky. Por padrão, Lista de espera tem o mesmo valor de etapa que Registrado.
 * **[Limite de comunicação personalizado](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Agora os administradores podem definir limites de comunicação diários ou semanais personalizados.
-* **[APIs de ativos de campanha inteligente](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: enriqueça sua análise fora do Marketo com a recuperação de registros de campanha inteligente por data e ID atualizadas.
+* **[APIs de ativos de campanha inteligente](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: enriqueça sua análise fora do Marketo com a recuperação de registros de campanha inteligente por data e ID atualizadas.
 * **Rastreamento de links HTTPS para email:** Para clientes que compraram &quot;Domínios seguros para links de rastreamento&quot;, os links de rastreamento de marca agora podem ser exibidos em seus emails como HTTPS.
 * **Atualizações do Powerpack de capacidade de entrega de email**: capacidade de sinalizar e comentar em resultados de teste específicos, compartilhar resultados com as partes interessadas por meio de um URL e rastrear alterações para ver a evolução de um email enquanto as partes interessadas editam o conteúdo.
 

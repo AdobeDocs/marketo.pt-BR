@@ -4,10 +4,10 @@ description: Segmentos da Web - Documentação do Marketo - Documentação do pr
 title: Segmentos da Web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
-ht-degree: 6%
+source-wordcount: '2051'
+ht-degree: 5%
 
 ---
 
@@ -101,7 +101,7 @@ Defina parâmetros gerais para o seu segmento:
 
 >[!TIP]
 >
->**Lógica da regra do segmento**
+>**Lógica da regra de segmento**
 >
 >Há três opções de filtro:
 >
@@ -132,7 +132,7 @@ Arraste e solte os atributos de segmento da coluna do lado direito no editor de 
 
 ### Perfil da empresa {#firmographics}
 
-**Local**
+**Localização**
 
 Arrastar e soltar **Localização** no editor de segmentos.
 
@@ -170,7 +170,7 @@ No **Segmentação de perfil** , marque a caixa ao lado de **Grupo da organizaç
    * Empresa - inclui organizações com mais de 1.000 funcionários e receita superior a US$ 250 milhões
    * SMB - Inclui somente empresas de pequeno e médio porte neste segmento
 
-**-Contas nomeadas-**
+**-Contas Nomeadas-**
 
 **Organizações**
 
@@ -179,7 +179,7 @@ No **Segmentação de perfil** , marque a caixa ao lado de **Grupo da organizaç
    * Selecione a empresa a ser direcionada no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
    * Você pode digitar o nome exato da organização que deseja direcionar. *É _sempre_ é recomendável usar Listas de contas nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
 
-**Lista de contas nomeadas**
+**Lista de Contas Nomeadas**
 
 Selecionar em um [Lista de Contas Nomeadas](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) para segmentar as principais contas direcionadas.
 
@@ -187,9 +187,9 @@ Selecionar em um [Lista de Contas Nomeadas](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->O número entre parênteses ao lado do nome da Lista de contas nomeadas é usado como uma referência de índice para a lista de Personalização da Web [API de leitura](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>O número entre parênteses ao lado do nome da Lista de contas nomeadas é usado como uma referência de índice para a lista de Personalização da Web [API de leitura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
-**Excluir provedor de Internet**
+**Excluir ISP**
 
 Exclui provedores de serviço de internet (ISPs) do segmento.
 
@@ -211,7 +211,7 @@ Você pode adicionar ou remover campos de dados da pessoa em Configurações da 
 >
 >Ex. &quot;O título do trabalho é igual a CMO&quot; e &quot;A pontuação é menor ou igual a 50&quot;
 
-**Campanha de email do Marketo** Segmente e personalize campanhas por referência de email de um visitante que clica em um email do Marketo e chega ao site. Segmente por nome do programa ou da campanha do Marketo e continue a conversa partindo do e-mail para a Web. Selecione o + para adicionar campos no menu suspenso.
+**Campanha de email do Marketo** Segmente e personalize campanhas por referência de email de um visitante que clica em um email do Marketo e chega ao site. Segmente por Nome de programa ou Nome de campanha da Marketo e continue a conversa do email para a Web. Selecione o + para adicionar campos no menu suspenso.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
@@ -284,9 +284,9 @@ Visitantes do Target que usam tipos e/ou versões específicas do navegador.
 
 Adicione o valor de Evento que deseja direcionar. Por exemplo, de fontes de dados de terceiros.
 
-**API do contexto do usuário**
+**API de contexto de usuário**
 
-Chamada de API de personalização da Web  [leia mais sobre isso aqui.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Chamada de API de personalização da Web  [leia mais sobre isso aqui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
@@ -314,13 +314,13 @@ Você pode editar um segmento que foi criado.
 
 >[!NOTE]
 >
->Não é possível excluir um segmento associado a uma campanha. Primeiro, é necessário excluir a campanha e, em seguida, o segmento.
+Não é possível excluir um segmento associado a uma campanha. Primeiro, é necessário excluir a campanha e, em seguida, o segmento.
 
 Ótimo! Agora que você entende a seção Segmentos, vamos aprender sobre campanhas.
 
 >[!MORELIKETHIS]
 >
->* [Criar um segmento básico da Web](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Criar uma nova caixa de diálogo da campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Criar uma nova campanha da Web na zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Criar uma nova campanha da Web do widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Criar um segmento básico da Web](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Criar uma nova caixa de diálogo da campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Criar uma nova campanha da Web na zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Criar uma nova campanha da Web do widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

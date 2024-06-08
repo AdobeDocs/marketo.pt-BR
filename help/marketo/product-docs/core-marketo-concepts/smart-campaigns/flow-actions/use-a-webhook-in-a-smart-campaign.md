@@ -4,16 +4,16 @@ description: Usar um Webhook em uma campanha inteligente - Documentação do Mar
 title: Usar um Webhook em uma campanha inteligente
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Usar um Webhook em uma campanha inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para usar uma [webhook](https://developers.marketo.com/documentation/webhooks/){target="_blank"}, add it to a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como uma ação de fluxo.
+Para usar uma [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, adicione-o a um [Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como uma ação de fluxo.
 
 >[!AVAILABILITY]
 >

@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: Tipos de notificação - Documentação do Marketo - Documentação do produto
 title: Tipos de notificação
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '237'
 ht-degree: 5%
 
 ---
@@ -34,7 +34,7 @@ Se você usa o Salesforce, as notificações de erro de sincronização são par
 
 ![](assets/salesforcesyncerror.png)
 
-## Envolvimento {#engagement}
+## Engajamento {#engagement}
 
 Quando as pessoas ficam exaustas em um riacho, enviamos uma notificação. A notificação inclui o número de pessoas que se exauriram e algumas outras informações.
 
@@ -60,4 +60,4 @@ Você será notificado quando atingir sua cota diária. A cota é redefinida a c
 
 >[!NOTE]
 >
->Alguns códigos de erro que você pode receber estão descritos em nosso [Documentação do desenvolvedor](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
+>Alguns códigos de erro que você pode receber estão descritos em nosso [Documentação do desenvolvedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

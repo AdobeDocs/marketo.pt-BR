@@ -3,9 +3,9 @@ description: Executar o Campaign - Documentação do Marketo - Documentação do
 title: Executar campanha
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '706'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ Também é possível clonar uma Campanha inteligente existente. Se você clonar 
 >
 >Não é possível clonar uma campanha que contém acionadores.
 
-## Usar context de token da campanha matriz {#use-parent-campaign-token-context}
+## Usar contexto de token de campanha principal {#use-parent-campaign-token-context}
 
 Quando definido como true, os seguintes contextos de token serão enviados para a campanha filho (aquela que está sendo executada):
 
@@ -60,7 +60,7 @@ Quando definido como true, os seguintes contextos de token serão enviados para 
 
 **Interação com a API**
 
-Ao usar Programar ou Solicitar campanha [na API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), ambos permitem passar valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
+Ao usar Programar ou Solicitar campanha [na API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem passar valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
 
 ## Itens a Observar {#things-to-note}
 

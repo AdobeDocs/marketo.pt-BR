@@ -4,10 +4,10 @@ description: Uso da página de detalhes da pessoa - Documentação do Marketo - 
 title: Usando a Página Detalhes da Pessoa
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 49%
+source-wordcount: '546'
+ht-degree: 50%
 
 ---
 
@@ -60,7 +60,7 @@ As informações de pessoa são categorizadas nas seguintes guias:
 
 >[!NOTE]
 >
->Você também pode ver as informações da oportunidade [inserido por meio da API](https://developers.marketo.com/rest-api/lead-database/opportunities/) para instâncias não sincronizadas com um CRM.
+>Você também pode ver as informações da oportunidade [inserido por meio da API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias não sincronizadas com um CRM.
 
 ## Edição de um campo {#editing-a-field}
 
@@ -73,7 +73,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 |   |  |  |  |  |
 |---|---|---|---|---|
 | Endereço | Receita anual | IP anônimo | Endereço de cobrança | Cidade de cobrança |
-| País de faturamento | Código postal de faturamento | Estado de faturamento | Cidade | Nome da empresa |
+| País de cobrança | Código postal de cobrança | Estado de cobrança | Cidade | Nome da empresa |
 | País | Criado em | Data de nascimento | Departamento | Não ligar |
 | Motivo para não ligar | Motivo para não ligar | Endereço de e-mail | E-mail inválido | Motivo do e-mail inválido |
 | ID da empresa externa | ID da pessoa de vendas da empresa externa | Número de fax | Nome | Nome completo |
@@ -86,7 +86,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 | Marketo - URL da foto no perfil social do LinkedIn | Marketo - URL do perfil social do LinkedIn | Marketo - Alcance do perfil social do LinkedIn | Marketo - Inscrições por indicação no perfil social do LinkedIn | Marketo - Visitas por indicação no perfil social do LinkedIn |
 | Marketo - ID de distribuição social | Marketo - Total de inscrições por indicação em perfil social | Marketo - Total de visitas por indicação em perfil social | Marketo - Nome de exibição no perfil social do Twitter | ID social do Marketo no Twitter |
 | Marketo - URL da foto no perfil social do Twitter | Marketo - URL do perfil social do Twitter | Marketo - Alcance do perfil social do Twitter | Marketo - Inscrições por indicação no perfil social do Twitter | Marketo - Visitas por indicação no perfil social do Twitter |
-| Segundo nome | Número do celular | Núm. funcionários | Número de telefone | Código postal |
+| Nome do meio | Número do celular | Núm. funcionários | Número de telefone | Código postal |
 | Prioridade | Pontuação relativa | Função | Saudação | Código SIC |
 | Site | Estado | Inscrição cancelada | Motivo do cancelamento de inscr. | Atualizado em |
 | Urgência | Site |  |  |  |

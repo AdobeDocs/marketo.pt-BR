@@ -2,9 +2,10 @@
 description: Notas de versão - abril de 2024 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - abril de 2024
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '447'
 ht-degree: 8%
 
 ---
@@ -73,7 +74,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-* **Atualização da API de atividades**: No dia 26 de abril, adicionamos vários novos atributos às atividades baseadas na Web e baseadas em email que são retornados quando você recupera atividades usando o [API REST DO MARKETO](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} endpoint para analisar detalhes do atributo de cada atividade.
+* **Atualização da API de atividades**: No dia 26 de abril, adicionamos vários novos atributos às atividades baseadas na Web e baseadas em email que são retornados quando você recupera atividades usando o [API REST DO MARKETO](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. As atividades listadas abaixo agora incluirão atributos de navegador, plataforma, dispositivo e agente do usuário. Chame o [Obter tipos de atividade](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} endpoint para analisar detalhes do atributo de cada atividade.
 
 **Atividades baseadas na Web**
 

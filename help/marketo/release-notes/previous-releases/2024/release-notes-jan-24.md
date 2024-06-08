@@ -2,7 +2,8 @@
 description: Notas de versão - Janeiro de 2024 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Janeiro de 2024
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 6%
@@ -191,7 +192,7 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
 
 * **Atualização da lista de um clique para cancelar inscrição**: Gmail e Yahoo implementaram vários novos requisitos do remetente que entraram em vigor em 1º de fevereiro de 2024. Saiba mais [o que são e como afetam você](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Sincronizar atualização da API do lead**: A variável [Sincronizar API do lead](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}O comportamento do foi ligeiramente ajustado no que diz respeito às `unsubscribed` campo. Agora, quando você passar `null` como o valor, é igual a transmitir um valor de `false`.
+* **Sincronizar atualização da API do lead**: A variável [Sincronizar API do lead](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}O comportamento do foi ligeiramente ajustado no que diz respeito às `unsubscribed` campo. Agora, quando você passar `null` como o valor, é igual a transmitir um valor de `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: Na versão de janeiro de 2024, atualizaremos o jQuery do Marketo Engage Forms para jQuery 3.x. Isso pode afetar a implementação de formulários personalizados que dependem de versões mais antigas do jQuery. [Saiba mais aqui](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

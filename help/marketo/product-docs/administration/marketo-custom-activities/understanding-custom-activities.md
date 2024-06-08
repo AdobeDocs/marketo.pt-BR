@@ -4,9 +4,9 @@ description: Noções básicas sobre atividades personalizadas - Documentação 
 title: Noções básicas sobre atividades personalizadas
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 6%
 
 ---
@@ -35,6 +35,6 @@ As atividades personalizadas funcionam da mesma forma que as atividades padrão.
 
 Etapa 1: [Criar uma atividade personalizada](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) na sua conta do Marketo
 
-Etapa 2: o funcionário em sua organização que trabalha com nossa API pode iniciar a implementação. Mais informações podem ser encontradas aqui: [API de atividade personalizada](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+Etapa 2: o funcionário em sua organização que trabalha com nossa API pode iniciar a implementação. Mais informações podem ser encontradas aqui: [API de atividade personalizada](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 Divirta-se!

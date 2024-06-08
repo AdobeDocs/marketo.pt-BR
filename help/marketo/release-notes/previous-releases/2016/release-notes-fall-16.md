@@ -4,10 +4,10 @@ description: Notas de versão - Último trimestre de 2016 - Documentação do Ma
 title: Notas de versão - Último trimestre de 2016
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 2%
+source-wordcount: '661'
+ht-degree: 1%
 
 ---
 
@@ -51,9 +51,9 @@ Agora, você pode atribuir equipes de conta a contas nomeadas no ABM (Account Ba
 
 ![](assets/account-team-11-15-16.png)
 
-**API REST**
+**REST API**
 
-Essa versão também permite gerenciar atributos de contas nomeadas e pontuações de contas no ABM usando a API REST do Marketo. Para obter mais detalhes sobre as operações da API, visite o [Site de desenvolvedores do Marketo](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Essa versão também permite gerenciar atributos de contas nomeadas e pontuações de contas no ABM usando a API REST do Marketo. Para obter mais detalhes sobre as operações da API, visite o [Site de desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Aprimoramentos da trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -61,7 +61,7 @@ A trilha de auditoria fornece um histórico abrangente das alterações feitas n
 
 ## [Novas permissões](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
-**Tornar e-mail operacional**
+**Tornar o email operacional**
 
 Longe vão os dias em que você tinha que se preocupar com os usuários que enviaram emails transacionais para pessoas em seu banco de dados que cancelaram a assinatura. Agora você pode especificar quais usuários podem tornar um email operacional ou editar emails operacionais.
 
@@ -84,11 +84,11 @@ Dê mais riqueza à sua notificação por push do iOS ativando o som. Esse novo 
 
 O Market Sales Insight agora é compatível com o Salesforce Shield Encryption. Todos os clientes do Sales Insight devem atualizar para esse pacote gerenciado mais recente (versão 1.4359.2), que é [disponível no Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [APIs de contas nomeadas](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [APIs de contas nomeadas](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Com esta versão, os usuários do Marketo ABM podem gerenciar contas nomeadas por meio da API de contas nomeadas. Os usuários podem criar, atualizar e excluir contas nomeadas, bem como ler e atualizar as pontuações de contas nomeadas ABM.
 
-## [Suporte à API do Editor de email v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Suporte à API do Editor de email v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Gerencie variáveis e módulos para emails no formato v2.0 usando a API REST do Marketo.
 

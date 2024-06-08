@@ -4,10 +4,10 @@ description: Crie um evento com o adaptador Marketo ON24 - Documentação do Mar
 title: Crie um evento com o adaptador Marketo ON24
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,11 +18,11 @@ Familiarize-se com os blocos de construção e a sequência recomendada para cri
 * [Programas do Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} bem como Eventos, e as diferenças entre eles
 * [Canais](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
 * [Ativos locais](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
-* [Campanhas secundárias](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} and [Program Statuses](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
+* [Campanhas secundárias](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} e [Status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->Consulte a [Documentação da API do Marketo](https://developers.marketo.com/documentation/rest/){target="_blank"} para obter mais informações sobre as APIs do Marketo.
+>Consulte a [Documentação da API do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} para obter mais informações sobre as APIs do Marketo.
 
 ## Pré-requisitos {#prerequisites}
 

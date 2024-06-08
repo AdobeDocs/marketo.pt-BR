@@ -4,9 +4,9 @@ description: Notas de versão - dezembro de 2014 - Documentação do Marketo - D
 title: Notas de versão - dezembro de 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 2%
 
 ---
@@ -65,7 +65,7 @@ Três novas chamadas para a API ReST de lead e atividade:
 
 · Mesclar lead
 
-Detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/)
+Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Aprimoramentos de compatibilidade do Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 
@@ -91,6 +91,6 @@ Gerencie e monitore suas principais contas de alto rendimento na nova página Co
 
 ## RTP: efeito deslizante para campanhas na região {#rtp-sliding-effect-for-in-zone-campaigns}
 
-Adicionamos um novo efeito Deslizante para campanhas na zona para permitir que seu conteúdo personalizado deslize para o local no carregamento da página.
+Adicionamos um novo efeito Deslizante para campanhas na zona para permitir que seu conteúdo personalizado entre no local no carregamento da página.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)

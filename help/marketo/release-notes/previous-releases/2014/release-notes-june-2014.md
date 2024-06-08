@@ -4,10 +4,10 @@ description: Notas de versão - junho de 2014 - Documentação do Marketo - Docu
 title: Notas de versão - junho de 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 29%
+source-wordcount: '260'
+ht-degree: 20%
 
 ---
 
@@ -29,13 +29,13 @@ Atualmente, quando você envia um e-mail teste do Sales Insight, os tokens do e-
 
 ## Personalizar porcentagens para estrelas e chamas {#customize-percentages-for-stars-and-flames}
 
-[Defina a percentagem de leads que obtêm 1, 2 ou 3 estrelas e chamas.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
+[Definir a porcentagem](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) de pistas que recebem 1, 2 ou 3 estrelas e chamas.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## API ReST de leads {#lead-rest-api}
 
-Crie, leia e atualize leads programaticamente por meio de nossa API ReST. Para começar a usar o ReST, é necessário [criar um serviço personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) no Marketo. Em seguida, vá para o [site de desenvolvedores](https://developers.marketo.com/documentation/rest/) para obter detalhes sobre como usar essa API.
+Crie, leia e atualize leads programaticamente por meio de nossa API ReST. Para começar a usar o ReST, é necessário [criar um serviço personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) no Marketo. Em seguida, vá para o [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) para obter detalhes sobre como usar essa API.
 
 ## Atualização da página de campanhas de personalização em tempo real (RTP, Real-Time Personalization) do Marketo {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
@@ -45,7 +45,7 @@ As campanhas RTP agora incluem um novo design com exibições de miniaturas e de
 
 ## Integrações do Web Analytics {#web-analytics-integrations}
 
-Anexe todos os seus dados RTP à sua plataforma de análises na Web.
+Anexe todos os dados RTP na plataforma de análise da Web.
 
 A integração com a [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) O (GA) agora está ativado por padrão. Portanto, em Configurações da conta, ative o switch para o qual deseja enviar dados para variáveis e eventos personalizados do GA.
 

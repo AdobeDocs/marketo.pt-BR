@@ -4,10 +4,10 @@ description: Notas de versão - Último trimestre de 2017 - Documentação do Ma
 title: Notas de versão - Último trimestre de 2017
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 11%
+source-wordcount: '588'
+ht-degree: 5%
 
 ---
 
@@ -37,15 +37,15 @@ Com esse novo recurso, agora é possível reter e entregar emails de acordo com 
 
 >[!NOTE]
 >
->Se você ainda não conseguir ativar o Fuso horário do destinatário em seus programas de email e engajamento, não entre em pânico! Estamos habilitando gradualmente esse recurso para todos os clientes.
+>Se você ainda não conseguir ativar o Fuso horário do destinatário em seus programas de email e engajamento, não entre em pânico! Estamos gradualmente habilitando esse recurso para todos os clientes.
 
-## [Analisar os e-mails de amostra por segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## [Revisar exemplos de emails por segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 O Marketo tem uma nova opção para escolher um segmento ao enviar emails de amostra para revisão. Não é mais necessário determinar manualmente a qual segmento um lead pertence, facilitando o envio de emails com conteúdo dinâmico para segmentos diferentes.
 
-## [Perguntas personalizadas para geração de leads do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Perguntas personalizadas sobre a geração de líderes da linkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Personalize seus formulários de geração de leads do LinkedIn para coletar atributos personalizados dos leads. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre uma entrada de texto de linha única ou perguntas de múltipla escolha e mapear de volta aos campos de cliente potencial do Marketo.
+Personalize seus formulários do LinkedIn Lead Gen para coletar atributos de lead personalizados. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre uma entrada de texto de linha única ou perguntas de múltipla escolha e mapear de volta aos campos de cliente potencial do Marketo.
 
 ## Integração do Slack {#slack-integration}
 
@@ -56,13 +56,13 @@ Lançamos dois recursos como parte de nossa nova integração de Slack:
 
 ## Aprimoramentos de ABM {#abm-enhancements}
 
-**[Mostrar contas sem contatos](https://docs.marketo.com/x/fKCt)**
+**[Mostrar Contas sem Contatos](https://docs.marketo.com/x/fKCt)**
 
 O Marketo ABM agora sincroniza e exibe contas do CRM sem contatos. Inclua novas contas sem histórico de vendas ou marketing anterior e rastreie o progresso correspondendo clientes em potencial subsequentes às contas.
 
 ## Análises do ContentAI {#contentai-analytics}
 
-**[Novo filtro para lista de contas ABM](https://docs.marketo.com/x/1BPG)**
+**[Novo Filtro da Lista de Contas ABM](https://docs.marketo.com/x/1BPG)**
 
 Visualize e compare o desempenho do conteúdo nas Listas de contas do ABM para otimizar o conteúdo existente. A IA de conteúdo mostra:
 
@@ -86,10 +86,10 @@ Economize tempo reutilizando ativos criativos e imagens em vários canais no Mar
 
 ## Integração  {#integration}
 
-**[API de visualização de e-mail](https://developers.marketo.com/rest-api/assets/emails/)**
+**[API de visualização de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Agora você pode visualizar remotamente emails fora do Marketo, simplificando o processo de localização de conteúdo de email e reduzindo erros.
 
-**[Substituir a API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Substituir API de HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Os desenvolvedores podem atualizar o conteúdo de HTML dos ativos de email remotamente, permitindo que trabalhem em um único sistema para manter os ativos.

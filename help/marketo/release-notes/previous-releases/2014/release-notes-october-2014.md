@@ -4,9 +4,9 @@ description: Notas de versão - outubro de 2014 - Documentação do Marketo - Do
 title: Notas de versão - outubro de 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '271'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Use a API para obter novas atividades ou alterações em clientes potenciais:
 * Obter tipos de atividade
 * Obter token de paginação
 
-Detalhes completos estarão disponíveis após o lançamento em [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Enviar email do Marketo para o Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Use uma nova chamada que acompanhe o histórico de visitas anteriores do visitan
 * Produtos interessados em
 * Quais campanhas RTP elas viram
 
-Visita [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) para obter detalhes completos.
+Visita [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter detalhes completos.

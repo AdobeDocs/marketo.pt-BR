@@ -4,10 +4,10 @@ description: Notas de versão - outubro de 2013 - Documentação do Marketo - Do
 title: Notas de versão - outubro de 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 13%
+source-wordcount: '138'
+ht-degree: 2%
 
 ---
 
@@ -21,11 +21,11 @@ Os seguintes recursos estão incluídos na versão de outubro de 2013.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) O é para desenvolvedores que desejam criar integrações com o Marketo. Você pode fazer referência a diferentes opções de integração, incluindo APIs JavaScript do Munchkin, exemplos de código da API SOAP, Webhooks e script de email. Um SDK do Java também está disponível em [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) O é para desenvolvedores que desejam criar integrações com o Marketo. Você pode fazer referência a diferentes opções de integração, incluindo APIs JavaScript do Munchkin, exemplos de código da API SOAP, Webhooks e script de email. Um SDK do Java também está disponível em [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Atualizado o adaptador de eventos BrightTALK {#updated-brighttalk-event-adapter}
 
-Sincronizar campos adicionais do BrightTALK para o Marketo, inclusive Nome da empresa, Cargo, Setor e Porte da empresa.
+Sincronize campos adicionais do BrightTALK com o Marketo, incluindo Nome da empresa, Cargo, Setor e Tamanho da empresa.
 
 ## Aplicativo de check-in de eventos do Android Tablet {#android-tablet-event-check-in-app}
 

@@ -4,7 +4,7 @@ description: Notas de versão - Verão de 16 - Documentação do Marketo - Docum
 title: Notas de versão - Verão de 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 3%
@@ -100,16 +100,16 @@ Especifique um atraso para que as campanhas da Web reajam no site.
 
 Exibir dados de análises de conteúdo e recomendações offline.
 
-## [Suporte a API do Editor do E-mail 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [Suporte a API do Editor do E-mail 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 As APIs de ativos pré-existentes, antes compatíveis apenas com emails e modelos v1.0, agora estão habilitadas para ativos de email v2.0.
 
-## [Site de desenvolvedores do Marketo](https://developers.marketo.com/) {#marketo-developers-site}
+## [Site de desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Novidades e melhorias!
 
 ## [Configurações de privacidade](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Os profissionais de marketing podem usar as configurações de privacidade para decidir se rastreiam ou não os visitantes que usam os recursos de Munchkin e Personalização da Web. O nível de rastreamento é controlado usando a configuração Do Not Track do navegador, um cookie de opt out ou um IP não específico. Esses métodos podem afetar o valor e a funcionalidade do Marketo em áreas específicas, mas se o profissional de marketing não mudar nada, a funcionalidade do Marketo permanecerá a mesma.
+Os profissionais de marketing podem usar as configurações de privacidade para decidir se rastreiam ou não os visitantes que usam os recursos de Munchkin e Personalização da Web. O nível de rastreamento é controlado usando a configuração Não rastrear do navegador, um cookie de opção de não participação ou um IP não específico. Esses métodos podem afetar o valor e a funcionalidade do Marketo em áreas específicas, mas se o profissional de marketing não mudar nada, a funcionalidade do Marketo permanecerá a mesma.
 
 Esse recurso será lançado gradualmente para os clientes ao longo de um período de seis semanas. Se precisar dele imediatamente, entre em contato com o Suporte da Marketo.

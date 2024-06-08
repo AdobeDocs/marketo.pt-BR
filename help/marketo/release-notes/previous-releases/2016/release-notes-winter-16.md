@@ -4,10 +4,10 @@ description: Notas de versão - Winter '16 - Marketo Docs - Documentação do pr
 title: Notas de versão - inverno de 16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 6%
+source-wordcount: '497'
+ht-degree: 4%
 
 ---
 
@@ -49,15 +49,15 @@ Para usar esse recurso, o programa de email deve ser agendado com pelo menos 12 
 
 ## [Melhorias do Mobile Marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Suporte para PhoneGap:** Agora oferecemos suporte para PhoneGap para seu aplicativo móvel. [Saiba mais](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Suporte para PhoneGap:** Agora oferecemos suporte para PhoneGap para seu aplicativo móvel. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Suporte para aplicativos de sandbox**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API do programa](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [API do programa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
-Criar, atualizar e clonar programas por meio da API REST. Isso não inclui a criação ou a atualização de smart lists e campanhas inteligentes em um programa.
+Crie, atualize e clone programas por meio da REST API. Isso não inclui a criação ou a atualização de smart lists e campanhas inteligentes em um programa.
 
 ## [Melhorias do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 

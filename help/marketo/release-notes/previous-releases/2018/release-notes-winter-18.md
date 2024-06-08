@@ -4,10 +4,10 @@ description: Notas de versão - Winter '18 - Marketo Docs - Documentação do pr
 title: Notas de versão - inverno de 18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
-ht-degree: 9%
+ht-degree: 6%
 
 ---
 
@@ -51,7 +51,7 @@ Para clientes ABM com Salesforce ou Microsoft Dynamics, o ABM agora herdará (e 
 
 **[Roteiro dinâmico de e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
-Agora há suporte à criação rápida de roteiros em e-mails usando conteúdo dinâmico. Combine conteúdo dinâmico baseado em velocidade e segmentação para criar emails altamente personalizados.
+Os scripts do Velocity agora são aceitos em emails que usam conteúdo dinâmico. Combine conteúdo dinâmico baseado em velocidade e segmentação para criar emails altamente personalizados.
 
 **Fuso horário do destinatário**
 
@@ -81,13 +81,13 @@ A Personalização da Web agora pode personalizar o conteúdo para um visitante 
 
 ## IA de conteúdo {#contentai}
 
-**Aprimoramento do algoritmo de previsões**
+**Melhoria preditiva do algoritmo**
 
 O conteúdo recomendado por meio dos algoritmos otimizados de IA de conteúdo do Marketo gera até duas vezes mais cliques do que o conteúdo aleatório.
 
 ## Integração {#integration}
 
-**[Ativar/Desativar API de campanhas](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[Ativar/desativar API do Campaign](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Essa nova API permite ativar e desativar remotamente campanhas de acionador para que você possa criar modelos de programa totalmente automatizados. Crie um modelo de programa uma vez, depois automatize a clonagem, as atualizações de material de apoio de marketing e agora a ativação/programação de campanhas inteligentes.
 

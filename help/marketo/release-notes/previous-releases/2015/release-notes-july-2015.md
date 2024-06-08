@@ -4,7 +4,7 @@ description: Notas de versão - julho de 2015 - Documentação do Marketo - Docu
 title: Notas de versão - julho de 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 3%
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Marketo Moments {#marketo-moments}
 
-No almoço, mas precisa reagendar um email? O aplicativo Marketo Moments, disponível no App Store ou no Google Play, oferece a capacidade de ver o desempenho de suas campanhas de email e evento em tempo real, bem como o que está por vir no futuro, de seu telefone iPhone, iPad ou Android.
+No almoço, mas precisa reagendar um email? O aplicativo Marketo Moments, disponível no App Store ou Google Play, permite ver o desempenho de suas campanhas de email e evento em tempo real, bem como as novidades futuras de seu telefone iPhone, iPad ou Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -42,7 +42,7 @@ Ao clicar no bloco deliverability de email, você não precisa mais fornecer sua
 
 ## Priorização de campanhas {#campaign-prioritization}
 
-Você configurou várias campanhas RTP personalizadas e notou que algumas delas podem se sobrepor a outras? Vá em frente e defina uma prioridade para qual RTP de campanhas deve aparecer em relação a outras.
+Você configurou várias campanhas RTP personalizadas e notou que algumas delas podem se sobrepor a outras? Vá em frente e defina uma prioridade para qual RTP das campanhas deve ser exibido em relação a outras.
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
@@ -50,7 +50,7 @@ Você configurou várias campanhas RTP personalizadas e notou que algumas delas 
 
 **Acesso a objeto da empresa por meio da API REST**: A API REST agora fornece acesso ao objeto da Marketo Company (também conhecida como Account). Isso significa que você pode ler, atualizar e excluir objetos da empresa criados no Marketo e associar clientes em potencial a essas empresas usando a API de cliente potencial atualizada.
 
-Saiba mais [mais](https://developers.marketo.com/documentation/company-api/) em nosso guia de referência para a API da empresa.
+Saiba mais [mais]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) em nosso guia de referência para a API da empresa.
 
 ## Acessar a entregabilidade de email {#access-email-deliverability}
 

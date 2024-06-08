@@ -4,10 +4,10 @@ description: Criar um serviço personalizado para usar com a API ReST - Document
 title: Criar um serviço personalizado para usar com a API ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 1%
+source-wordcount: '207'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Se quiser integrar ao Marketo por meio da API ReST, crie um serviço personaliza
 
 >[!TIP]
 >
->Consulte nossa documentação de desenvolvedores para obter detalhes sobre a [API ReST](https://developers.marketo.com/documentation/rest/). Também temos o [API SOAP](https://developers.marketo.com/documentation/soap/) se é isso que você precisa.
+>Consulte nossa documentação de desenvolvedores para obter detalhes sobre a [REST API](https://developer.adobe.com/marketo-apis/). Também temos o [API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) se é isso que você precisa.
 
 ## Criar serviço personalizado {#create-custom-service}
 
@@ -55,7 +55,7 @@ Se quiser integrar ao Marketo por meio da API ReST, crie um serviço personaliza
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Ah, sim! O serviço foi criado, vamos buscar todas as credenciais para fornecer o acesso.
+   Ah, sim! O serviço foi criado, vamos buscar todas as credenciais para fornecer acesso.
 
 ## Credenciais para acesso à API {#credentials-for-api-access}
 

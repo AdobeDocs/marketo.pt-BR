@@ -4,9 +4,9 @@ description: Notas de versão - Segundo trimestre de 2017 - Documentação do Ma
 title: Notas de versão - primavera de 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 4%
 
 ---
@@ -35,7 +35,7 @@ Longe vão os dias de limpeza de modelos desatualizados no Sales Insight. Defina
 
 ![](assets/four-281-29.png)
 
-## [APIs de extração em massa para pessoas e atividades](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [APIs de extração em massa para pessoas e atividades](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Transfira facilmente grandes quantidades de dados pessoais e de atividades do Marketo para seus sistemas externos.
 
@@ -49,7 +49,7 @@ O Marketo ABM agora permite criar até 10 campos personalizados em suas Contas n
 
 As pontuações de contas nomeadas podem variar muito. O Marketo ABM agora calcula automaticamente um percentil para cada uma de suas pontuações, para que você possa ver de perto onde cada conta nomeada está entre suas outras contas nomeadas.
 
-**[APIs da lista de contas ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[APIs da lista de contas ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Aproveite as vantagens das integrações avançadas e robustas de parceiros ABM com o suporte aprimorado à API para Listas de contas nomeadas.
 

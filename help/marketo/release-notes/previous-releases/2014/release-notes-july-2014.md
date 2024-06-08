@@ -4,10 +4,10 @@ description: Notas de versão - julho de 2014 - Documentação do Marketo - Docu
 title: Notas de versão - julho de 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '425'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
@@ -47,7 +47,7 @@ Além do calendário de marketing com o qual você gerencia seus eventos e progr
 
 ## Operações de Lista na API ReST {#list-operations-in-the-rest-api}
 
-Adicionamos as chamadas abaixo relacionadas às operações de lista na ReST. Consulte [developers.marketo.com](https://developers.marketo.com/documentation/rest/) para obter a documentação completa.
+Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Consulte [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) para obter a documentação completa.
 
 * Obter Lista por ID
 * Obter Várias Listas
@@ -60,7 +60,7 @@ Terminar **50 vezes mais rápido**, seus arquivos serão ampliados no Marketo! A
 
 A opção &quot;Ignorar novos clientes em potencial e atualizações&quot; permanece inalterada.
 
-## Munchkin novo e aprimorado! {#new-improved-munchkin}
+## Novo e melhorado Munchkin! {#new-improved-munchkin}
 
 A implantação será preparada a partir de meados de julho e continuará pelos próximos meses.
 
@@ -78,7 +78,7 @@ A página RTP Definir Campanha agora [inclui modelos prontos](/help/marketo/prod
 
 ## RTP: melhorias na API do JavaScript {#rtp-javascript-api-enhancements}
 
-Nova chamada de API RTP para obter dados do visitante em tempo real, como organização, setor, localização e correspondência de código de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código do segmento. Consulte nossa [site de desenvolvedores](https://developers.marketo.com/documentation/websites/rtp-js-api/) para obter a documentação completa.
+Nova chamada de API RTP para obter dados do visitante em tempo real, como organização, setor, localização e correspondência de código de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código do segmento. Consulte nossa [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter a documentação completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

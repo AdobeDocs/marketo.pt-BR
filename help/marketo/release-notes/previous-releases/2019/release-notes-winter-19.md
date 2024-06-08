@@ -4,9 +4,9 @@ description: Notas de versão - Winter '19 - Marketo Docs - Documentação do pr
 title: Notas de versão - inverno de 19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1109'
+source-wordcount: '1079'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ Inclua até cinco endereços por destinatário para CC nos e-mails enviados atra
 * **Suporte de domínio de várias marcas para a API de ativos:** A aprovação e a clonagem de ativos produzem os mesmos resultados na API e na interface.
 * **Suporte de CC por email para a API de ativos**: os usuários que clonam, aprovam e processam emails por meio da API manterão a paridade com as configurações da interface do usuário.
 
-**[Munchkin v155 (Beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (Beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
 
 * **Modo somente API**: agora os usuários podem determinar quando e como rastrear membros de seu banco de dados, permitindo que aplicativos Web de página única façam chamadas explicitamente quando quiserem gravar uma visita de página da Web, em vez de depender do rastreamento automático do Marketo.
 * **Gerenciamento de recusa**: gerencie facilmente as opções de não participação, associando o domínio de cookie de opção de não participação ao domínio de cookie de rastreamento Munchkin.
@@ -64,7 +64,7 @@ Inclua até cinco endereços por destinatário para CC nos e-mails enviados atra
 
 >[!NOTE]
 >
->As liberações de Marketo Sky ocorrem com mais frequência. Os seguintes recursos e melhorias devem ser lançados no final do quarto trimestre/início do primeiro trimestre. Para obter mais detalhes e atualizações, consulte nossa [Documentação do Sky](https://help.marketo.com/).
+>As liberações de Marketo Sky ocorrem com mais frequência. Os seguintes recursos e aprimoramentos devem ser lançados no final do quarto trimestre/início do primeiro trimestre. Para obter mais detalhes e atualizações, consulte nossa [Documentação do Sky](https://help.marketo.com/).
 
 * **Experiência padrão opcional**: os usuários do Marketo podem definir o Marketo Sky como sua experiência padrão se tiverem recebido acesso de um administrador.
 
@@ -103,10 +103,9 @@ Para gerenciar domínios e subdomínios com mais eficiência, os usuários agora
 
 **Atualização do SDK (Software Development Kit, kit de desenvolvimento de software) MME para Android**
 
-Atualizamos nosso SDK para Android para uma estrutura mais moderna, estável e escalável, que contém mais flexibilidade e novos recursos de engenharia. Google Os desenvolvedores de aplicativos para Android agora podem usar diretamente o [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) com esse novo SDK.
+Atualizamos nosso SDK para Android para uma estrutura mais moderna, estável e escalável, que contém mais flexibilidade e novos recursos de engenharia. Google Os desenvolvedores de aplicativos com Android agora podem usar diretamente o [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) com esse novo SDK.
 
-* [Instruções para o desenvolvedor](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Perguntas frequentes do desenvolvedor](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Instruções para o desenvolvedor]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >

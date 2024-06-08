@@ -4,9 +4,9 @@ description: Notas de versão - março de 2015 - Documentação do Marketo - Doc
 title: Notas de versão - março de 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '301'
 ht-degree: 20%
 
 ---
@@ -37,9 +37,9 @@ O novo visual do Revenue Explorer inclui também um novo tipo de gráfico, o Sun
 
 ## Novas APIs REST de ativos {#new-asset-rest-apis}
 
-[Novas APIs REST de ativos](https://developers.marketo.com/)
+[Novas APIs REST de ativos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-Agora temos suporte para criar e editar emails, modelos, meus tokens, arquivos e trechos [pela API](https://developers.marketo.com/documentation/asset-api)!
+Agora temos suporte para criar e editar emails, modelos, meus tokens, arquivos e trechos [pela API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## Microsoft Dynamics 2015 No Local {#microsoft-dynamics-on-premise}
 

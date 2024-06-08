@@ -1,18 +1,18 @@
 ---
 description: Informações da API de exportação em massa - Documentação do Marketo - Documentação do produto
-title: Informações da API de exportação em massa
+title: Dados da API de exportação em massa
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
-# Informações da API de exportação em massa {#bulk-export-api-information}
+# Dados da API de exportação em massa {#bulk-export-api-information}
 
-Saiba como verificar quanto [API de extração em massa](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} a capacidade foi ocupada pela instância do Marketo Engage nos últimos sete dias.
+Saiba como verificar quanto [API de extração em massa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} a capacidade foi ocupada pela instância do Marketo Engage nos últimos sete dias.
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ Saiba como verificar quanto [API de extração em massa](https://developers.mark
 
 >[!NOTE]
 >
->A alocação para a instância do Marketo Engage é redefinida diariamente às 12h (CST).
+>A alocação da instância do Marketo Engage é redefinida diariamente às 12h (CST).
