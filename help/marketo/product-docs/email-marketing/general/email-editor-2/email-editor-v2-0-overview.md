@@ -4,14 +4,14 @@ description: Visão geral do Editor de email v2.0 - Documentação do Marketo - 
 title: Visão geral do Editor de email v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 3%
+source-wordcount: '426'
+ht-degree: 0%
 
 ---
 
-# Visão geral do Editor de email v2.0 {#email-editor-v-overview}
+# Visão geral do Editor de email v2.0 {#email-editor-v2-overview}
 
 Ao decidir ativar o Editor de email v2.0, você observará vários novos recursos.
 
@@ -19,63 +19,63 @@ Ao decidir ativar o Editor de email v2.0, você observará vários novos recurso
 
 Ao criar um novo email, você é levado para a [Seletor de modelos de email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
-![](assets/starter-templates-1.png)
+![](assets/email-editor-v2-overview-1.png)
 
-**Editor de e-mail**
+**Editor de email**
 
 Ao começar a editar seu email, você observará que o editor tem uma aparência totalmente nova.
 
-![](assets/two-4.png)
+![](assets/email-editor-v2-overview-2.png)
 
 **Módulos**
 
 Essas coisas no lado direito do editor são chamadas de módulos. Saiba como [adicionar módulos ao seu email](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
-![](assets/three-4.png)
+![](assets/email-editor-v2-overview-3.png)
 
-**Versão em texto**
+**Versão de texto**
 
 A alternância entre as versões de HTML e Texto do seu email agora está em uma guia útil na parte inferior. Saiba como [editar a versão de texto de um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
-![](assets/four-3.png)
+![](assets/email-editor-v2-overview-4.png)
 
-**Cabeçalho de email**
+**Cabeçalho do email**
 
 Quer mais espaço de design? O cabeçalho do email pode ser ocultado depois que você terminar [editando](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Basta clicar neste ícone...
 
-![](assets/five-4.png)
+![](assets/email-editor-v2-overview-5.png)
 
 ...e o cabeçalho é recolhido.
 
-![](assets/six-3.png)
+![](assets/email-editor-v2-overview-6.png)
 
 **Pré-visualizar seu email**
 
 Por padrão, o email mostra como seria em uma área de trabalho, conforme indicado pelo ícone azul destacado. Se você clicar no ícone à direita...
 
-![](assets/seven-3.png)
+![](assets/email-editor-v2-overview-7.png)
 
 ...você verá como seu email será renderizado em um dispositivo móvel.
 
-![](assets/eight-3.png)
+![](assets/email-editor-v2-overview-8.png)
 
 Para uma visualização maior, clique em **Visualizar** no canto superior direito do email.
 
-![](assets/preview1.png)
+![](assets/email-editor-v2-overview-9.png)
 
 A visualização padrão é desktop...
 
-![](assets/preview2.png)
+![](assets/email-editor-v2-overview-10.png)
 
 ...mas você também pode ver como ficará em um dispositivo móvel. Você também pode visualizar a versão em texto! Basta clicar em **Editar rascunho** no canto superior direito para retomar a edição.
 
-![](assets/preview3.png)
+![](assets/email-editor-v2-overview-11.png)
 
-**Ações de e-mail**
+**Ações de email**
 
 Em **Ações de email** Você perceberá alguns novos recursos. **Fazer upload de uma imagem ou arquivo**, e **Capturar imagens da Web**. Você também pode salvar o próprio email como um novo template de email. Tudo o que você tem que fazer é dar-lhe um nome e um destino.
 
-![](assets/nine-3.png)
+![](assets/email-editor-v2-overview-12.png)
 
 >[!CAUTION]
 >
@@ -87,13 +87,13 @@ Em **Ações de email** Você perceberá alguns novos recursos. **Fazer upload d
 
 **Desativar rastreamento aberto** Em **Configurações de email**, é possível desativar o rastreamento aberto, se necessário.
 
-![](assets/thirteen-1.png)
+![](assets/email-editor-v2-overview-13.png)
 
-**Configurações de e-mail**
+**Configurações de email**
 
 Você tem a opção de adicionar um pré-cabeçalho. Um Pré-cabeçalho é o texto curto de resumo após a linha de assunto quando os emails são exibidos na sua caixa de entrada.
 
-![](assets/edit-settings-preheader-2.png)
+![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
@@ -103,7 +103,7 @@ Muitos recursos novos excelentes! Divirta-se!
 
 >[!NOTE]
 >
->Se você quiser se aprofundar ainda mais, confira isso [vídeo útil](https://nation.marketo.com/videos/1463).
+>Se você quiser se aprofundar ainda mais, confira isso [vídeo](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >

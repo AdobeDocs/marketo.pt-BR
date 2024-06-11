@@ -4,7 +4,7 @@ description: Visão geral do Seletor de modelo de email - Documentação do Mark
 title: Visão geral do Seletor de modelo de email
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando você [criar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), você tem vários modelos gratuitos para escolher. Você também pode criar seu próprio modelo e salvá-lo para uso futuro.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **Nome** será o nome do email que você criar com base no modelo, não o próprio modelo. **Descrição** também se aplica ao email e é opcional.
 
@@ -27,7 +27,7 @@ Se seu e-mail for crítico e você quiser que ele contorne os Limites de comunic
 
 **Modelos iniciais** O inclui uma coleção de modelos de email responsivos prontos para uso. Você pode usá-los como estão ou personalizá-los como desejar.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **Meus modelos** O consiste em todos os modelos criados. Você também pode ter pastas.
 
