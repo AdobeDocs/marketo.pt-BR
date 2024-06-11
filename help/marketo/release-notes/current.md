@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 7%
+source-wordcount: '277'
+ht-degree: 6%
 
 ---
 
@@ -33,8 +33,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr> 
    <td><strong>Modelos para webinários interativos</strong>: os profissionais de marketing agora podem criar modelos personalizados para layouts de salas em webinários interativos.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Modelos</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr> 
    <td><strong>Campos inferidos no Forms</strong>: a fonte de dados usada para preencher campos inferidos quando uma pessoa é criada por meio do preenchimento de formulário sem nenhuma atividade anterior da Web foi atualizada para usar a mesma fonte de dados que outros métodos de coleção de pessoas. Os dados de campo inferidos agora são consistentes em todos os pontos de coleta.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
  </tbody> 
 </table>
