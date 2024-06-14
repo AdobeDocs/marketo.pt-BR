@@ -3,9 +3,9 @@ description: Notas de versão do Dynamic Chat - Documentação do Marketo - Docu
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 As versões do Adobe Dynamic Chat operam em um modelo de entrega contínua que permite uma abordagem mais escalável para a implantação de recursos. Às vezes, há várias versões em um mês, portanto, verifique regularmente para obter as informações mais atualizadas.
 
 A página das Notas de versão padrão do Marketo Engage [pode ser encontrado aqui](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Versão de junho de 2024 {#june-release}
+
+**Data de lançamento: 6 de junho de 2024**
+
+### Cartão de fluxo de conversa {#conversational-flow-card}
+
+Simplifique várias etapas em um fluxo nas caixas de diálogo, aproveitando o cartão Fluxo de conversa.
+
+Exemplo: se o objetivo for direcionar registros para o webinário por meio de várias caixas de diálogo, será necessário recriar o mesmo fluxo em todas as caixas de diálogo que têm essa meta. E se você tiver que atualizar algum detalhe, você terá que editar cada Diálogo individualmente, um de cada vez. Isso não ocorre mais, graças ao cartão Fluxo de conversa.
+
+Além de redefinir os objetivos dos fluxos em várias caixas de diálogo, você também pode usar o mesmo fluxo de transição para acionar por outros canais, como formulários e páginas de destino.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### Limites de uso {#usage-limits}
+
+A página Limites de uso mostra informações importantes, como detalhes do pacote e status do limite de uso.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## Versão de maio de 2024 {#may-release}
 

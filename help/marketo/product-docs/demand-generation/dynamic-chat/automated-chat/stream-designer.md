@@ -3,9 +3,9 @@ description: Stream Designer - Documentação do Marketo - Documentação do pro
 title: Designer de fluxo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1229'
 ht-degree: 2%
 
 ---
@@ -67,6 +67,10 @@ O Designer de Stream contém vários cartões que você pode adicionar para mold
  <tr>
   <td style="width:25%"><strong>Ramificação condicional</strong></td>
   <td>Crie ramificações nos fluxos de diálogo com base em condições diferentes. Apresentar conteúdo diferente para pessoas diferentes no mesmo diálogo com base nos atributos do cliente potencial e da empresa no Marketo Engage.</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Fluxo de conversa</strong></td>
+  <td>Simplifique várias etapas em um fluxo nos diálogos usando o cartão Fluxo de conversa.</td>
  </tr>
 </table>
 
