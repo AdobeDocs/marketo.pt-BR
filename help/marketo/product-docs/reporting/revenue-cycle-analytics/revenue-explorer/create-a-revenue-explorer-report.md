@@ -4,9 +4,9 @@ description: Criar um relatório do Revenue Explorer - Documentação do Marketo
 title: Criar um relatório do Gerenciador de receita
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,10 @@ O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de
 >[!AVAILABILITY]
 >
 >Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+
+>[!IMPORTANT]
+>
+>A pasta Lixeira no Gerenciador do Ciclo de Receita foi ocultada temporariamente devido a um erro. No momento, estamos trabalhando em uma correção e seus arquivos estão seguros. Contate [Suporte para Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se houver arquivos que você precise restaurar.
 
 1. Vá para a **Gerenciador de Receita** área.
 
