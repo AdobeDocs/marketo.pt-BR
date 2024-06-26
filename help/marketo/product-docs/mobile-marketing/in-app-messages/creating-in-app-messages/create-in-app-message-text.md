@@ -4,9 +4,9 @@ description: Criar texto de mensagem no aplicativo - Documentação do Marketo -
 title: Criar texto de mensagem no aplicativo
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Criar texto de mensagem no aplicativo {#create-in-app-message-text}
 
 Clique na área de texto para trabalhar com seu estilo de texto e conteúdo.
+
+>[!CAUTION]
+>
+>Recomendamos não usar emojis no texto, pois eles não são totalmente compatíveis no momento.
 
 1. Clique no Texto principal para editar em linha.
 
@@ -53,7 +57,7 @@ Clique na área de texto para trabalhar com seu estilo de texto e conteúdo.
 
    >[!NOTE]
    >
-   >Para ações de toque, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, deep links são tratados de forma diferente para Apple e Android. Se a mensagem for para apenas uma plataforma ou outra, é possível deixar a outra na configuração padrão ou selecionar Nenhuma.
+   >Para ações de toque, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, os deep links são tratados de forma diferente para o Apple e o Android. Se a mensagem for para apenas uma plataforma ou outra, é possível deixar a outra na configuração padrão ou selecionar Nenhuma.
 
 1. Clique no Texto de suporte para editá-lo em linha. Funciona da mesma forma que editar o texto principal, mas o tamanho padrão do texto é menor.
 

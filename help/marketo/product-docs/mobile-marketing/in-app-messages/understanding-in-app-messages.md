@@ -4,18 +4,19 @@ description: Noções básicas sobre mensagens no aplicativo - Documentação do
 title: Noções básicas sobre mensagens no aplicativo
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
 # Noções básicas sobre mensagens no aplicativo {#understanding-in-app-messages}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->As mensagens no aplicativo são um aplicativo complementar. Confirme com seu gerente de conta da Marketo para ter certeza de que está ativado.
+>
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 Use as mensagens no aplicativo para se envolver diretamente com os clientes enquanto eles usam seu aplicativo. Quando eles abrirem ou realizarem uma ação personalizada, você poderá apresentar uma oferta promocional. Um clique os leva a uma página de aterrissagem, site externo ou deep link, onde podem saber mais e fazer uma compra. Ou esse clique pode simplesmente descartar a mensagem.  Você também pode usar mensagens no aplicativo como lembretes para que seus clientes, por exemplo, preencham seus perfis ou para informá-los sobre novos recursos do aplicativo.
 
