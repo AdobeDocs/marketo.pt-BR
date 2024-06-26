@@ -3,9 +3,9 @@ description: Visão geral da IA gerativa - Documentação do Marketo - Documenta
 title: Visão geral da IA gerativa
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '437'
 ht-degree: 3%
 
 ---
@@ -76,7 +76,7 @@ Os Tópicos discutidos estão disponíveis em Acionadores e filtros de Smart Lis
 
 **A IA gerativa está disponível para todos os usuários do Dynamic Chat?**
 
-A IA gerativa só está disponível para assinantes do Dynamic Chat Prime.
+A IA gerativa só está disponível para assinantes do Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
 **Existe um limite para a quantidade de perguntas e respostas que eu posso ter gerado?**
 
