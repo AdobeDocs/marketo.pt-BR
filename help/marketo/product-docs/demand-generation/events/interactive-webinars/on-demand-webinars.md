@@ -2,9 +2,10 @@
 description: Webinars sob demanda - Documentação do Marketo - Documentação do produto
 title: Webinários sob demanda
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ Webinars sob demanda capturam e refinam os leads registrados para seu evento e q
 
 O URL de Ingresso no Webinar que foi compartilhado com os inscritos antes do evento pode ser usado para assistir à gravação sob demanda. Quando um inscrito que não participou do evento ao vivo (por exemplo, um cliente potencial com status de programa como &quot;Não exibido&quot;), clica no URL de associação ao webinário, o status do programa desse cliente potencial muda de &quot;Não exibido&quot; para &quot;Participou sob demanda&quot;. O status do programa dos clientes potenciais que assistiram ao evento ao vivo e têm o status &quot;Presente&quot; não será afetado se decidirem visitar o URL de associação e assistir à gravação sob demanda.
 
-Adobe Connect, a tecnologia que habilita Webinars interativos, rastreia a visita, bem como a duração do relógio referente aos leads que assistem à gravação, e relata as informações à Marketo diariamente. A gravação fica disponível no URL de união por 30 dias após o evento. A duração não pode ser modificada.
+Adobe Connect, a tecnologia que habilita Webinars interativos, rastreia a visita, bem como a duração do relógio referente aos leads que assistem à gravação, e relata as informações para o Marketo Engage diariamente. O rastreamento de webinários por demanda para 30 dias após o evento. A duração não pode ser modificada.
 
-O Marketo fornece as estatísticas de observação para webinários sob demanda na guia Painel de controle com a ajuda dos seguintes widgets:
+O Marketo Engage fornece as estatísticas do observador para webinários sob demanda na guia Painel de controle com a ajuda dos seguintes widgets:
 
 * Resumo sob demanda: fornece um resumo da contagem de visitantes (não exibições) que assistem à gravação após o evento em um determinado dia
 
