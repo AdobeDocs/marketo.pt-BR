@@ -3,9 +3,9 @@ description: Limitação Da Conexão De Email - Documentação Do Marketo - Docu
 title: Limitação da conexão de email
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,7 @@ ht-degree: 0%
 
 A integração da sua conta do Sales Connect para envio por meio de provedores de email do Exchange ou do Gmail oferece uma configuração simplificada e otimiza a capacidade de entrega de e-mails para comunicação de vendas 1:1. No entanto, para manter a integridade dos sistemas e a segurança das contas, o Gmail e o Exchange impõem limites de envio de email. Esses limites podem ser aumentados ou diminuídos a critério dos provedores.
 
-## Limitação Da Conexão De Email (Beta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->No momento, esse recurso está na versão beta. Para participar, entre em contato com a equipe da conta do Adobe (seu gerente de conta).
+## Limitação da conexão de email (Beta) {#email-connection-throttling-beta}
 
 A limitação de conexão de email permite que os administradores do Sales Connect configurem a taxa de envio de emails ao usar o Gmail ou o Exchange como canal de entrega, para que a taxa na qual os emails sejam entregues ao provedor de canal de entrega não exceda os limites impostos.
 

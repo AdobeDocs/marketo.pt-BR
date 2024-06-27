@@ -3,7 +3,7 @@ description: Modificar ou excluir um webinário interativo - Documentação do M
 title: Modificar ou excluir um webinário interativo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Saiba como fazer alterações no webinário interativo.
    >
    >Além disso, é possível clicar com o botão direito do mouse no Programa de evento na árvore e selecionar **Clonar** a partir daí.
 
-1. Dê um nome ao programa clonado, defina o Espaço de trabalho e o Destino (se desejar que o programa fique em outro lugar) e clique em **Salvar**.
+1. Dê um nome ao programa clonado, defina o Workspace e o Destino (se desejar que o programa fique em outro lugar) e clique em **Salvar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
