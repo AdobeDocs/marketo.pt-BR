@@ -4,16 +4,20 @@ description: Usar tags em um programa - Documentação do Marketo - Documentaç�
 title: Usar tags em um programa
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 5%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
 # Usar tags em um programa {#use-tags-in-a-program}
 
 Tags são atributos que descrevem seus programas e são usadas para agrupar tipos de programas nos relatórios.
+
+>[!NOTE]
+>
+>Se você usar o Explorador de ciclo de receita, um custo de período deverá ser definido (mesmo se for 0) para que o relatório fique disponível para o programa.
 
 ## Usar uma tag em um programa {#use-a-tag-in-a-program}
 
