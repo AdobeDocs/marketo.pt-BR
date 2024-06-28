@@ -3,10 +3,10 @@ description: Notas de versão atuais — Documentação do Marketo — Documenta
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 4%
+source-wordcount: '465'
+ht-degree: 6%
 
 ---
 
@@ -32,9 +32,42 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
      <tr> 
+   <td><strong>Painel de engajamento para webinários interativos</strong>: obtenha uma visualização de desempenho agregada do webinário, bem como uma visualização abrangente do engajamento de cada participante durante o webinário, para que você possa decidir quais leads serão direcionados por meio das ferramentas de orquestração de Marketo Engage.</td> 
+    <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Gerenciamento de salas para webinários interativos</strong>: Acesse as salas individuais criadas (e faça modificações, se necessário), bem como acesse o conteúdo e a gravação (e limpe-as, se necessário, para otimizar o armazenamento).</td> 
+    <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Personalização de webinário para webinários interativos</strong>: forneça uma experiência de marca uniforme e aprovada pela organização usando uma interface de sala comum, telas intermediárias (como planos de fundo da tela de entrada do participante) e planos de fundo de vídeo personalizados, para que a estratégia do webinário possa se alinhar mais facilmente à estratégia da marca.</td> 
+    <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
    <td><strong>Alteração da API REST do Marketo</strong>: estamos introduzindo uma pequena alteração no <a href="https://developers.marketo.com/rest-api/user-management/">API de gerenciamento de usuários</a>. Ambos os <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Procurar Usuários</a> e <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Excluir usuário</a> os endpoints agora oferecem suporte <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gerenciamento de conta do Target</a> usuários.</td> 
-   <td><i>em breve</i></td>
-   <td><i>em breve</i></td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
   </tr>
  </tbody> 
 </table>
