@@ -3,9 +3,9 @@ description: Geração de perguntas - Documentação do Marketo - Documentação
 title: Geração de pergunta
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram ger
    >[!IMPORTANT]
    >
    >Para garantir que o Marketo Engage possa extrair o conteúdo dos URLs fornecidos, primeiro você deve incluir na lista de permissões vários endereços IP. [Consulte abaixo para obter detalhes](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >Os sites/páginas devem ser públicos (ou seja, não devem estar ocultos por um logon) para que suas informações sejam compiladas.
 
 1. Com base no seu conteúdo, a geração de perguntas e respostas pode levar até 30 minutos. Clique em **[!UICONTROL OK]**.
 
