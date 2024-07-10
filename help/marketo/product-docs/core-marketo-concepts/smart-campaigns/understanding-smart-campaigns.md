@@ -4,22 +4,22 @@ description: Noções básicas sobre campanhas inteligentes - Documentação do 
 title: Noções básicas sobre campanhas inteligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '249'
 ht-degree: 4%
 
 ---
 
 # Noções básicas sobre campanhas inteligentes {#understanding-smart-campaigns}
 
-Se o Marketo é um carro poderoso, a campanha inteligente é o verdadeiro motor. É simples começar, mas pode fazer quase tudo o que você pedir.
+Se o Marketo Engage é um carro, o Smart Campaign é seu motor. Campanhas inteligentes podem fazer mais do que você pode imaginar, e é fácil começar a usá-las.
 
-A campanha inteligente tem três áreas principais: [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} guias.
+A Campanha Inteligente tem três áreas principais: [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} e [Agendar](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} guias.
 
 ## Lista inteligente {#smart-list}
 
-A lista inteligente é como você define _quem_ você deseja direcionar com sua campanha inteligente. Ele tem filtros e acionadores.
+A Smart List é como você define _quem_ que deseja direcionar com sua Campanha inteligente. Ele tem filtros e acionadores.
 
 <table> 
  <tbody> 
@@ -45,13 +45,13 @@ A lista inteligente é como você define _quem_ você deseja direcionar com sua 
 
 ## Fluxo {#flow}
 
-O fluxo inclui as etapas que você deseja que a campanha inteligente execute, incluindo etapas de espera e opções de divisão.
+O fluxo inclui as etapas que você deseja que o Smart Campaign execute, incluindo etapas de espera e opções de divisão.
 
 ## Agendar {#schedule}
 
-Por fim, isso controla quando você executa sua campanha inteligente. Você pode até mesmo configurar a recorrência para que ela seja executada em um cronograma repetitivo.
+Por fim, isso controla quando você executa a Campanha inteligente. Você pode até mesmo configurar a recorrência para que ela seja executada em um cronograma repetitivo.
 
-Há uma enorme quantidade de coisas que a campanha inteligente pode fazer. Pegue o jeito e você vai encontrar tudo no Marketo se torna muito mais simples de entender.
+Há uma enorme quantidade de coisas que a Campanha Inteligente pode fazer. Pegue o jeito e você vai encontrar tudo no Marketo se torna muito mais simples de entender.
 
 >[!CAUTION]
 >
