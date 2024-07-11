@@ -1,11 +1,12 @@
 ---
 description: Antes de mergulhar na nova instância do Marketo Engage, você precisará concluir algumas etapas fundamentais para o uso contínuo. Essas etapas incluem a configuração da conta do usuário, a configuração do administrador de suporte e a assinatura de atualizações de sistema em andamento.
+short-description: Depois de concluir as etapas de configuração iniciais, saiba como estabelecer elementos fundamentais para garantir um uso contínuo e tranquilo.
 title: Lista de verificação de configuração do usuário
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---

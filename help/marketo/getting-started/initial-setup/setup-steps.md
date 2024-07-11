@@ -1,11 +1,12 @@
 ---
 description: Etapas De Configuração - Documentação Do Marketo - Documentação Do Produto
+short-description: Apenas começando a usar o Adobe Marketo Engage? Saiba quais etapas devem ser concluídas antes de mergulhar no.
 title: Etapas de configuração
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '1675'
+source-wordcount: '1708'
 ht-degree: 0%
 
 ---
@@ -261,7 +262,7 @@ Escolha uma das opções a seguir, dependendo do CRM que sua empresa usa.
 >
 >Você é um [!DNL Launch Pack] cliente? Você pode ignorar esta etapa. Seu consultor fornecerá a você [!DNL Munchkin] instruções de código em seu documento de instruções de configuração de TI.
 
-O Marketo Engage tem um rastreamento personalizado de JavaScript (chamado [!DNL Munchkin]) que você pode usar para rastrear atividades de pessoas em qualquer página da Web. [!DNL Munchkin] O é necessário para integrar o site à Marketo. Siga estas etapas para [Adicionar [!DNL Munchkin] Código de rastreamento para seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+O Marketo Engage tem JavaScript de rastreamento personalizado (chamado de [!DNL Munchkin]) que você pode usar para rastrear atividades de pessoas em qualquer página da Web. [!DNL Munchkin] O é necessário para integrar o site à Marketo. Siga estas etapas para [Adicionar [!DNL Munchkin] Código de rastreamento para seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -269,7 +270,7 @@ O Marketo Engage tem um rastreamento personalizado de JavaScript (chamado [!DNL 
 
 ## Expectativas de desempenho {#performance-expectations}
 
-O que você pode esperar do Marketo em termos de desempenho? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias das tabelas encontradas no [Descrição do produto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+O que você pode esperar do Marketo em termos de desempenho? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias das tabelas encontradas no [Descrição do produto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. As colunas &quot;Desempenho&quot; e &quot;Desempenho Adicional&quot; referem-se a pacotes de níveis de desempenho que fornecem [níveis de desempenho mais altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

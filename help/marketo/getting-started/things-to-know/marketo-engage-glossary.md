@@ -1,11 +1,12 @@
 ---
 description: Glossário do Marketo Engage - Documentação do Marketo - Documentação do produto
+short-description: Conheça os termos de Marketo Engage e suas definições para ajudá-lo a se familiarizar rapidamente.
 title: Glossário do Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 3%
 
 ---
@@ -72,7 +73,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr> 
   <tr> 
    <td colspan="1"><strong>Aprovado</strong></td> 
-   <td colspan="1">Usado para confirmar quando um <strong>ativo</strong> O está pronto para consumo. Os ativos não podem ser exibidos publicamente até que sejam aprovados.</td> 
+   <td colspan="1">Usado para confirmar quando um <strong>ativo</strong> O está pronto para consumo. O Assets não pode ser exibido publicamente até que tenha sido aprovado.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Ativo</strong></td> 
@@ -128,7 +129,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campanha</strong></td> 
-   <td colspan="1">"Campanha" pode significar algumas coisas no Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaign</a> é um termo mais curto para a campanha inteligente. Entrada <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campanhas</a> são uma série de etapas de correspondência de vários canais. Entrada <strong>Personalização da Web</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campanhas</a> são reações personalizadas associadas a um segmento específico.</td> 
+   <td colspan="1">"Campanha" pode significar algumas coisas no Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campaign</a> é um termo mais curto para a campanha inteligente. Entrada <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campanhas</a> são uma série de etapas de correspondência de vários canais. Entrada <strong>Web Personalization</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campanhas</a> são reações personalizadas associadas a um segmento específico.</td> 
   </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Relatório de desempenho de email da campanha</a></strong></td> 
@@ -184,7 +185,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Análises de conteúdo</strong></a></td> 
-   <td colspan="1">Uma área de <strong>Personalização da Web</strong> que exibe o conteúdo existente descoberto do seu site, bem como o desempenho do conteúdo.</td> 
+   <td colspan="1">Uma área de <strong>Web Personalization</strong> que exibe o conteúdo existente descoberto do seu site, bem como o desempenho do conteúdo.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Nível de engajamento de conteúdo</strong></td> 
@@ -393,8 +394,8 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td><p>A legislação da União Europeia que entrou em vigor em 25 de maio de 2018 visava dar aos cidadãos da UE mais controle sobre seus dados pessoais.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Ativos globais</strong></td> 
-   <td>Ativos criados na <strong>Design Studio</strong> para uso no <strong>programas</strong> na instância do Marketo. </td> 
+   <td><strong>Assets global</strong></td> 
+   <td>Assets criado na <strong>Design Studio</strong> para uso no <strong>programas</strong> na instância do Marketo. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Página inicial guiada</strong></td> 
@@ -483,7 +484,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td colspan="1">Uma coleção de pessoas. No Marketo há smart lists e listas estáticas. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">lista inteligente</a> é uma lista dinâmica de pessoas que pode mudar constantemente, pois se baseia em filtros que você define (por exemplo, todos no banco de dados que moram na Califórnia). Quando novas pessoas se qualificam para os critérios (ou pessoas existentes não se qualificam mais), a lista é alterada. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">lista estática</a> é, bem, estático. Isso não é alterado, a menos que você adicione/exclua alguém manualmente.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Ativos locais</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Assets local</strong></a></td> 
    <td><strong>Assets</strong> utilizado dentro de um <strong>programa</strong>.</td> 
   </tr> 
  </tbody> 
@@ -861,7 +862,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
     <div> 
      <p><strong> Campanha da Web</strong></p> 
     </div></td> 
-   <td colspan="1">Uma reação personalizada associada a um segmento específico. Entrada <strong>Personalização da Web</strong>, as campanhas da Web incluem <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Caixas de diálogo</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">Em regiões</a>, e <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
+   <td colspan="1">Uma reação personalizada associada a um segmento específico. Entrada <strong>Web Personalization</strong>, as campanhas da Web incluem <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Caixas de diálogo</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">Em regiões</a>, e <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Relatório de atividades da página da Web</a></strong></td> 
@@ -889,7 +890,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr> 
   <tr> 
    <td><strong>Curinga</strong></td> 
-   <td>Um caractere (* é usado em <strong>Personalização da Web</strong>) que é usado antes ou depois de uma string para substituir qualquer outro caractere em uma string.</td> 
+   <td>Um caractere (* é usado em <strong>Web Personalization</strong>) que é usado antes ou depois de uma string para substituir qualquer outro caractere em uma string.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Área de trabalho</a></strong></td> 
