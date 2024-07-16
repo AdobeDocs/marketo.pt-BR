@@ -2,9 +2,10 @@
 description: Adicionar uma equipe ao webinário - Documentação do Marketo - Documentação do produto
 title: Adicionar uma equipe ao webinário
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ Uma Equipe de webinários em webinários interativos consiste em todas as funç�
 
 >[!NOTE]
 >
->Os apresentadores e os co-hosts no Marketo mapeiam exatamente as funções de apresentador e host durante a entrega do webinário no Adobe Connect.
+>Os apresentadores e os co-hosts no Marketo Engage mapeiam exatamente as funções de apresentador e host durante a entrega do webinário no Adobe Connect. Os co-hosts podem modificar os layouts e os pods, enquanto os apresentadores não podem.
 
 O apresentador é uma função externa que participa da entrega da experiência do webinário, enquanto os co-hosts podem atuar como apresentadores e lidar com os aspectos administrativos da entrega do webinário. Os co-hosts podem ser internos e externos. Os co-hosts externos não terão acesso aos Programas de evento de webinário interativo no Marketo, mas terão permissões de host durante a entrega no Adobe Connect. Os co-hosts internos terão acesso ao Programa de evento de webinário interativo no Marketo, bem como às permissões de host durante o delivery. Isso ajuda a garantir que os co-hosts internos possam assumir as rédeas do Programa de evento de webinário interativo quando o criador original do programa de webinário interativo não fizer mais parte do conjunto de usuários dos webinários interativos ou nem mesmo ser um usuário do Marketo.
 
@@ -35,7 +36,7 @@ O apresentador é uma função externa que participa da entrega da experiência 
 
    >[!NOTE]
    >
-   >Se você selecionar **Usuário interno do webinário interativo**, basta clicar no link **Hosts disponíveis** e escolha na lista de pessoas que foram adicionadas como usuários de Webinars interativos no Marketo Engage.
+   >Se você selecionar **Usuário interno do webinário interativo**, bastará clicar no menu suspenso **Hosts disponíveis** e escolher na lista de pessoas que foram adicionadas como usuários de webinários interativos no Marketo Engage.
 
 1. Insira o nome, sobrenome e endereço de email do co-host desejado. Clique em **Adicionar**.
 

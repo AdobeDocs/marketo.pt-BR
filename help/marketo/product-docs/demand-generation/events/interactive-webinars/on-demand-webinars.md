@@ -3,9 +3,9 @@ description: Webinars sob demanda - Documentação do Marketo - Documentação d
 title: Webinários sob demanda
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ O Marketo Engage fornece as estatísticas do observador para webinários sob dem
    * Duração média do relógio em minutos para todos os visitantes — Dá aos profissionais de marketing uma noção de quanto da gravação é visualizada e quais Campanhas inteligentes podem ser usadas para direcionar leads acima de uma determinada duração do relógio.
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>As exibições só são contadas quando a duração da inspeção excede um minuto.
 
 Os filtros e acionadores para webinários interativos foram modificados para atender a webinários sob demanda. O acionador &quot;Participa do evento&quot; e o filtro &quot;Participou do evento&quot; são adicionados com uma restrição adicional (&quot;Modo de evento&quot;), onde um profissional de marketing pode escolher se o público-alvo é online ou sob demanda. Se a restrição &quot;Modo de evento&quot; não for selecionada, os públicos-alvo Live e On-Demand serão direcionados. Outras restrições, como &quot;Data de observação&quot; e &quot;Duração da observação&quot;, podem ser usadas com o modo de evento &quot;Sob demanda&quot;. O filtro de inatividade &quot;Não participou de um evento&quot; também pode ser usado para webinários sob demanda com o modo de evento &quot;Sob demanda&quot;.
