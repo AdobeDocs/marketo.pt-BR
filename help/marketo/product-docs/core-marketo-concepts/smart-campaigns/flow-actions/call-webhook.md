@@ -4,7 +4,7 @@ description: Chamar Webhook - Documentação do Marketo - Documentação do prod
 title: Chamar webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 7%
@@ -21,20 +21,20 @@ ht-degree: 7%
 
 Os webhooks permitem interagir com serviços de terceiros. Envie/receba informações chamando um webhook em um fluxo de campanha inteligente.
 
-![](assets/image2014-9-22-15-3a4-3a7.png)
+![](assets/call-webhook-1.png)
 
 >[!NOTE]
 >
->Saiba mais sobre as muitas coisas fascinantes que [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} pode fazer por você.
+>Saiba mais sobre as muitas coisas fascinantes que os [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} podem fazer por você.
 
 ## Uso {#usage}
 
 Selecione um Webhook no menu suspenso.
 
-![](assets/image2014-9-22-15-3a4-3a25.png)
+![](assets/call-webhook-2.png)
 
 Isso é tudo! Seu webhook agora será chamado sempre que as pessoas entrarem no fluxo de campanha inteligente.
 
 >[!MORELIKETHIS]
 >
->[Usar um Webhook em uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md){target="_blank"}
+>[Usar um Webhook em uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md){target="_blank"}
