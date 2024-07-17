@@ -4,10 +4,10 @@ description: Remover do fluxo - Documentação do Marketo - Documentação do pr
 title: Remover do fluxo
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 5%
+source-wordcount: '142'
+ht-degree: 4%
 
 ---
 
@@ -15,25 +15,19 @@ ht-degree: 5%
 
 Imagine que você tenha um fluxo de Campanha Inteligente que use &quot;Enviar Alerta&quot; para lembrar um representante de vendas de chamar um cliente potencial interessante. Ele envia uma mensagem todos os dias até que o representante faça a chamada. Você pode usar &quot;Remover do Fluxo&quot; em uma campanha de acionador depois que o cliente potencial for contatado para interromper mais alertas. É como um assento ejetor de Campanha Inteligente para uma pessoa.
 
+![](assets/remove-from-flow-1.png)
+
 >[!NOTE]
 >
 >Isso normalmente afetaria as pessoas que estão sentadas na etapa de espera de um fluxo de campanha.
 
-## Visão geral {#overview}
+1. Localize e selecione a Campanha inteligente da qual deseja remover pessoas.
 
-Você pode remover pessoas do fluxo de uma campanha usando o &quot;[!UICONTROL Remover do fluxo]&quot; etapa de fluxo.
-
-![](assets/image2014-9-22-17-3a10-3a21.png)
-
-## Uso {#usage}
-
-Localize e selecione a Campanha inteligente da qual deseja remover pessoas.
-
-![](assets/image2014-9-22-17-3a10-3a28.png)
+   ![](assets/remove-from-flow-2.png)
 
 >[!NOTE]
 >
->Você pode escolher uma campanha inteligente específica ou escolher &quot;esta campanha&quot; na **[!UICONTROL Campaign]** para selecionar a campanha em que você está fisicamente no momento.
+>Você pode escolher uma campanha inteligente específica ou escolher &quot;esta campanha&quot; no menu suspenso **[!UICONTROL Campanha]** para selecionar a campanha em que você está fisicamente no momento.
 
 >[!NOTE]
 >

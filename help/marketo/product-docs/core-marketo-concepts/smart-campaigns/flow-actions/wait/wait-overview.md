@@ -4,22 +4,20 @@ description: Aguardar - Documentação do Marketo - Documentação do produto
 title: Aguardar
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 2%
+source-wordcount: '188'
+ht-degree: 0%
 
 ---
 
-# Aguardar {#wait}
+# Visão geral da espera {#wait-overview}
 
-## Visão geral {#overview}
+Pause uma pessoa em um fluxo do Smart Campaign com a **etapa de espera** útil.
 
-Pausar uma pessoa em um fluxo de campanha inteligente com a ajuda **etapa de espera**.
+![](assets/wait-overview-1.png)
 
-![](assets/wait-overview.png)
-
-Observe como você pode digitar em linguagem natural, como &quot;4 horas&quot;. Fazer **não** No entanto, abrevie as palavras (ou seja, 4 horas). A campanha inteligente ainda funcionaria, mas a etapa de espera seria ignorada.
+Observe como você pode digitar em linguagem natural, como &quot;4 horas&quot;. No entanto, **não** abrevie as palavras (ou seja, 4 horas). A campanha inteligente ainda funcionaria, mas a etapa de espera seria ignorada.
 
 >[!CAUTION]
 >
@@ -27,9 +25,7 @@ Observe como você pode digitar em linguagem natural, como &quot;4 horas&quot;. 
 
 >[!TIP]
 >
->Se você já tiver alguém em uma etapa de espera e não quiser que ele avance após o término desse período, insira [remover do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) logo após a etapa de espera. Especifique quem você deseja remover usando o [adicionar opção](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) opção.
-
-## Uso {#usage}
+>Se você já tiver alguém em uma etapa de espera e não quiser que ele avance após o término do período de espera, insira [remover do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) logo após a etapa de espera. Especifique quem você deseja remover usando a opção [adicionar opção](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
 
 Há três maneiras principais de usar uma etapa do fluxo de espera:
 

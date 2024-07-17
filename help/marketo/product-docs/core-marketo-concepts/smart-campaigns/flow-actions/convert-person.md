@@ -4,41 +4,35 @@ description: Converter pessoa - Documentação do Marketo - Documentação do pr
 title: Converter pessoa
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 5%
+source-wordcount: '103'
+ht-degree: 3%
 
 ---
 
 # Converter pessoa {#convert-person}
 
+Use esta etapa do fluxo para converter uma pessoa em um contato em [!DNL Salesforce]. Você pode decidir a quem atribuir o contato, enviar uma notificação ao proprietário e definir um status convertido.
+
 >[!NOTE]
 >
->Disponível somente quando integrado com [!DNL Salesforce].
+>Isso só está disponível quando integrado com o [!DNL Salesforce].
 
-## Visão geral {#overview}
-
-Use esta etapa do fluxo para converter uma pessoa em um contato no [!DNL Salesforce]. Você pode decidir a quem atribuir o contato, enviar uma notificação ao proprietário e definir um status convertido.
-
-![](assets/one-2.png)
-
-## Uso {#usage}
+![](assets/convert-person-1.png)
 
 1. Selecione a quem você deseja atribuir o contato, a conta e a oportunidade resultante.
 
-   ![](assets/two-2.png)
+   ![](assets/convert-person-2.png)
 
    >[!CAUTION]
    >
-   >A conversão de uma pessoa no Marketo resultará em uma nova conta e oportunidade no [!DNL Salesforce]. Se não quiser contas duplicadas, use [!DNL Salesforce] para converter.
+   >A conversão de uma pessoa no Marketo resultará em uma nova conta e oportunidade em [!DNL Salesforce]. Se não quiser contas duplicadas, use [!DNL Salesforce] para converter.
 
-1. Escolha se deseja um **[!UICONTROL notificação]** para o proprietário ou não.
+1. Escolha se deseja ou não que uma **[!UICONTROL notificação]** seja enviada ao proprietário.
 
-   ![](assets/three-2.png)
+   ![](assets/convert-person-3.png)
 
 1. Selecione o **[!UICONTROL status convertido]**.
 
-   ![](assets/four-3.png)
-
-E aí está!
+   ![](assets/convert-person-4.png)

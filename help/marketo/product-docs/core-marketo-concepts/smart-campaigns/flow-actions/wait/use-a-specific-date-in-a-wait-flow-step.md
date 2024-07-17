@@ -4,7 +4,7 @@ description: Use uma data específica em uma etapa do fluxo de espera - Document
 title: Usar uma Data Específica em uma Etapa de Fluxo de Espera
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -13,29 +13,29 @@ ht-degree: 0%
 
 # Usar uma Data Específica em uma Etapa de Fluxo de Espera {#use-a-specific-date-in-a-wait-flow-step}
 
-Você pode usar o &quot;[!UICONTROL Aguardar]&quot; etapa de fluxo para pausar a jornada de uma pessoa em uma Campanha inteligente até uma data específica.
+Você pode usar a etapa de fluxo &quot;[!UICONTROL Aguardar]&quot; para pausar a jornada de uma pessoa em uma Campanha Inteligente até uma data específica.
 
-1. Em sua campanha inteligente **[!UICONTROL Fluxo]** arraste sobre a guia **[!UICONTROL Aguardar]** etapa do fluxo.
+1. Na guia **[!UICONTROL Fluxo]** do Smart Campaign, arraste sobre a etapa de fluxo **[!UICONTROL Aguardar]**.
 
-   ![](assets/image2014-9-22-11-3a50-3a55.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
 1. Clique no ícone de engrenagem.
 
-   ![](assets/image2014-9-22-11-3a50-3a59.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. No **[!UICONTROL Tipo]** selecione **[!UICONTROL Data]**.
+1. No menu suspenso **[!UICONTROL Tipo]**, selecione **[!UICONTROL Data]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a27.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
 1. Selecione a data específica quando deseja retomar.
 
-   ![](assets/image2014-9-22-11-3a51-3a20.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-4.png)
 
 1. Especifique a hora (opcional) e clique em **[!UICONTROL Salvar]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a13.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-5.png)
 
 >[!MORELIKETHIS]
 >
->* [Usar uma duração em uma etapa de fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+>* [Usar uma Duração em uma Etapa de Fluxo de Espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
 >* [Usar um token de data em uma etapa de fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

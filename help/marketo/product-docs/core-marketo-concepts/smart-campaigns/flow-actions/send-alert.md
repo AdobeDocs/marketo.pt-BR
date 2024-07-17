@@ -4,50 +4,46 @@ description: Enviar alerta - Documentação do Marketo - Documentação do produ
 title: Enviar alerta
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '153'
+ht-degree: 2%
 
 ---
 
 # Enviar alerta {#send-alert}
 
-## Visão geral {#overview}
+O Marketo Engage pode enviar um alerta por email com informações pessoais para qualquer pessoa: o proprietário das vendas, um parceiro ou outra pessoa. Use a etapa de fluxo &quot;[!UICONTROL Enviar Alerta]&quot;.
 
-A Marketo pode enviar um alerta por email com informações pessoais para qualquer pessoa: o proprietário das vendas, um parceiro ou outra pessoa. Use o &quot;[!UICONTROL Enviar alerta]&quot; etapa de fluxo.
-
-![](assets/one-1.png)
-
-## Uso {#usage}
+![](assets/send-alert-1.png)
 
 1. Localize e selecione o email que deseja enviar.
 
-   ![](assets/two-1.png)
+   ![](assets/send-alert-2.png)
 
    >[!NOTE]
    >
-   >Seu alerta de email deve conter todas as informações de cabeçalho e estar no estado **[!UICONTROL Aprovado]** estado.
+   >Seu alerta de email deve conter todas as informações de cabeçalho e estar no estado **[!UICONTROL Aprovado]**.
 
 1. Você pode clicar no ícone de visualização para garantir que selecionou o email correto.
 
-   ![](assets/three-1.png)
+   ![](assets/send-alert-3.png)
 
    >[!NOTE]
    >
-   >Certifique-se de usar o &quot;[!UICONTROL Enviar informações de alerta]&quot; no seu email.
+   >Certifique-se de usar o token &quot;[!UICONTROL Enviar Informações de Alerta]&quot; no seu email.
 
 1. Selecione o destinatário do alerta. Você pode escolher [!UICONTROL Proprietário de vendas] ou [!UICONTROL Proprietário da conta].
 
-   ![](assets/four-2.png)
+   ![](assets/send-alert-4.png)
 
 1. Como opção, adicione outros endereços de email desejados (separados por vírgula ou ponto e vírgula).
 
-   ![](assets/five.png)
+   ![](assets/send-alert-5.png)
 
    >[!TIP]
    >
-   >Em campanhas de acionadores, você pode usar tokens no **[!UICONTROL Para Outros Emails]** como `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}` desde que os valores sejam endereços de email válidos. Tokens em **[!UICONTROL Para Outros Emails]** não funcionarão em uma campanha em lote.
+   >Em campanhas de gatilho, você pode usar tokens em **[!UICONTROL Para Outros Emails]**, como `{{lead.Territory Owner}}` ou `{{my.Alert Recipient}}`, desde que os valores sejam endereços de email válidos. Os tokens em **[!UICONTROL Para outros emails]** não funcionarão em uma campanha em lote.
 
 >[!MORELIKETHIS]
 >

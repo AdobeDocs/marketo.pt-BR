@@ -4,30 +4,26 @@ description: Alterar estágio da receita - Documentação do Marketo - Documenta
 title: Alterar estágio de receita
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 10%
+source-wordcount: '75'
+ht-degree: 8%
 
 ---
 
 # Alterar estágio de receita {#change-revenue-stage}
 
-## Visão geral {#overview}
+Se estiver usando o Revenue Cycle Modeler e tiver um modelo aprovado, você pode decidir mover pessoas manualmente de um estágio para outro. Esta etapa de fluxo ajudará.
 
-Se você estiver usando o Modelador de ciclo de receita e tiver um modelo aprovado, poderá decidir mover pessoas manualmente de um estágio para outro. Esta etapa de fluxo ajudará.
-
-![](assets/image2014-9-22-17-3a4-3a59.png)
-
-## Uso {#usage}
+![](assets/change-revenue-stage-1.png)
 
 1. Selecione o **[!UICONTROL Modelo]**.
 
-   ![](assets/image2014-9-22-17-3a5-3a4.png)
+   ![](assets/change-revenue-stage-2.png)
 
-1. Selecione o **[!UICONTROL Novo estágio]** você deseja atribuir e está pronto!
+1. Selecione o **[!UICONTROL Novo Estágio]** que você deseja atribuir e pronto!
 
-   ![](assets/image2014-9-22-17-5-8.png)
+   ![](assets/change-revenue-stage-3.png)
 
    >[!CAUTION]
    >

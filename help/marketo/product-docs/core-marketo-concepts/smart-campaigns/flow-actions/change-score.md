@@ -4,26 +4,22 @@ description: Pontuação de alterações - Documentação do Marketo - Documenta
 title: Alterar pontuação
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 6%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 
 # Alterar pontuação {#change-score}
 
-## Visão geral {#overview}
+Marcar pessoas é fácil e eficiente e ajuda sua equipe de vendas a priorizar.
 
-Marcar pessoas é fácil e eficiente para ajudar sua equipe de vendas a priorizar.
-
-![](assets/flowstep-changescore.png)
-
-## Uso {#usage}
+![](assets/change-score-1.png)
 
 1. Escolha o campo de pontuação que deseja alterar.
 
-   ![](assets/image2014-9-22-11-3a7-3a31.png)
+   ![](assets/change-score-2.png)
 
    >[!TIP]
    >
@@ -31,13 +27,13 @@ Marcar pessoas é fácil e eficiente para ajudar sua equipe de vendas a prioriza
 
 1. Insira a alteração de pontuação desejada.
 
-   ![](assets/flowstep-changescoretype.png)
+   ![](assets/change-score-3.png)
 
    Alterações:
 
    * **+5** para incrementar
    * **-5** diminuirá (números negativos permitidos)
    * **=5** fará com que a pontuação seja o número exato
-   * **=-5** fará com que a pontuação seja exatamente um número negativo
+   * **=-5** fará com que a pontuação seja exatamente o número negativo
 
-Obtenha uma pontuação básica rapidamente e ajuste os resultados ao longo do tempo. Foi o que fizemos!
+Obtenha uma pontuação básica rapidamente e ajuste os resultados ao longo do tempo.

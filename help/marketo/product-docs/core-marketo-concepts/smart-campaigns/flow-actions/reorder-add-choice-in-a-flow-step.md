@@ -4,9 +4,9 @@ description: Reordenar opção de adição em uma etapa de fluxo - Documentaçã
 title: Reordenar Adicionar Escolha em uma Etapa de Fluxo
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -17,22 +17,22 @@ Como apenas a primeira opção de correspondência se aplica a uma pessoa, a ord
 
 1. Localize a etapa de fluxo para a qual você deseja alterar a ordem de uma escolha.
 
-   ![](assets/one.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-1.png)
 
-1. Neste exemplo, vamos mover a Opção 3 para acima da Opção 2. Clique em **[!UICONTROL Opção 3]** e clique em **[!UICONTROL Mover para cima]**.
+1. Neste exemplo, vamos mover a Opção 3 para acima da Opção 2. Clique na **[!UICONTROL Opção 3]** e em **[!UICONTROL Mover para Cima]**.
 
-   ![](assets/two.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-2.png)
 
    >[!NOTE]
    >
-   >Ao reordenar, é possível **[!UICONTROL Mover para cima]**, **[!UICONTROL Mover para baixo]** ou **[!UICONTROL Mover para]**.
+   >Ao reordenar, você pode **[!UICONTROL Mover para Cima]**, **[!UICONTROL Mover para Baixo]** ou **[!UICONTROL Mover para Cima]**.
 
    Excelente! Agora você sabe como mover uma opção para cima/para baixo por incrementos únicos.
 
-   ![](assets/three.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
-**ETAPA OPCIONAL**: Se você tiver muitas opções e precisar mover um múltiplo de níveis para cima ou para baixo, poderá usar esse método alternativo para economizar tempo. Clique na escolha que deseja mover e, em seguida, em **[!UICONTROL Mover para]**, arraste o controle deslizante até a posição para a qual deseja mover a escolha.
+**ETAPA OPCIONAL**: se você tiver muitas opções e precisar mover vários níveis para cima ou para baixo, poderá usar esse método alternativo para economizar tempo. Clique na opção que deseja mover e, em **[!UICONTROL Mover para]**, arraste o controle deslizante para a posição para a qual deseja mover a opção.
 
-![](assets/four.png)
+![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
 É fácil reorganizar a ordem de suas escolhas de degraus de fluxo.

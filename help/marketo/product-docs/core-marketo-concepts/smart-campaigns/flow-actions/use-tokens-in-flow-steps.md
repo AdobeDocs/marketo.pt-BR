@@ -4,7 +4,7 @@ description: Usar tokens em etapas de fluxo - Documentação do Marketo - Docume
 title: Usar tokens em etapas de fluxo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 5%
@@ -15,9 +15,9 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[Adicionar uma Etapa de Fluxo a uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-Um token é uma variável. Você o usa em emails, Landing Pages e Campanhas inteligentes para facilitar sua vida. Você pode usar [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (tokens personalizados) em etapas de fluxo, webhooks, emails e landing pages. Você pode usar tokens para incluir conteúdo variável nestas etapas de fluxo:
+Um token é uma variável. Você o usa em emails, Landing Pages e Campanhas inteligentes para facilitar sua vida. Você pode usar [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (tokens personalizados) em etapas de fluxo, webhooks, emails e páginas de aterrissagem. Você pode usar tokens para incluir conteúdo variável nestas etapas de fluxo:
 
 * Alterar valor dos dados
 * Alterar dados dos membros do programa
@@ -26,17 +26,17 @@ Um token é uma variável. Você o usa em emails, Landing Pages e Campanhas inte
 * Criar tarefa
 * Enviar alerta (somente em Campanhas de acionamento)
 
-1. Na etapa de fluxo, comece a digitar `{{` para obter categorias de token.
+1. Na etapa de fluxo, comece digitando `{{` para obter categorias de token.
 
-   ![](assets/image2014-9-22-14-3a3-3a17.png)
+   ![](assets/use-tokens-in-flow-steps-1.png)
 
    >[!NOTE]
    >
-   >Confira [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} para obter uma lista de vários tokens disponíveis.
+   >Confira a [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} para obter uma lista de vários tokens disponíveis.
 
 1. Continue a digitar até encontrar o token que deseja e clique para selecionar.
 
-   ![](assets/image2014-9-22-14-3a3-3a48.png)
+   ![](assets/use-tokens-in-flow-steps-2.png)
 
    >[!TIP]
    >
@@ -50,5 +50,5 @@ Um token é uma variável. Você o usa em emails, Landing Pages e Campanhas inte
 
    >[!MORELIKETHIS]
    >
-   >* [Gerenciamento de meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
-   >* [Compreender meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
+   >* [Gerenciando Meus Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
+   >* [Compreendendo Meus Tokens em um Programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
