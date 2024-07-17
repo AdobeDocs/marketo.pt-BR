@@ -4,16 +4,14 @@ description: Alterar status do programa - Documentação do Marketo - Documenta�
 title: Alterar status do programa
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 6%
+source-wordcount: '129'
+ht-degree: 4%
 
 ---
 
 # Alterar status do programa {#change-program-status}
-
-## Visão geral {#overview}
 
 Os status do programa ajudam você a acompanhar o progresso das pessoas em um programa ou evento. Encontre mais informações em [Personalizar, Criar E Gerenciar Canais](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
@@ -21,15 +19,13 @@ Os status do programa ajudam você a acompanhar o progresso das pessoas em um pr
 >
 >Alterar o status do programa em um programa de envolvimento os adicionará automaticamente ao primeiro fluxo. Eles começarão a receber conteúdo.
 
-## Uso {#usage}
+1. Arraste na etapa de fluxo **[!UICONTROL Alterar status do programa]**.
 
-1. Arraste no **[!UICONTROL Alterar status do programa]** etapa do fluxo.
-
-   ![](assets/image2014-9-22-14-3a43-3a34.png)
+   ![](assets/change-program-status-1.png)
 
 1. Selecione o **[!UICONTROL Novo Status]** que deseja definir. A pessoa também se tornará membro do programa se ainda não o foi.
 
-   ![](assets/image2014-9-22-14-3a43-3a45.png)
+   ![](assets/change-program-status-2.png)
 
 As opções são limitadas aos status válidos para esse programa.
 

@@ -4,7 +4,7 @@ description: Sincronizar pessoa com o Microsoft - Documentação do Marketo - Do
 title: Sincronizar pessoa com a Microsoft
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 13%
@@ -13,20 +13,20 @@ ht-degree: 13%
 
 # Sincronizar pessoa com a Microsoft {#sync-person-to-microsoft}
 
-Esse recurso é somente para aqueles que integram o Marketo Engage com [!DNL Microsoft Dynamics].
+Este recurso é somente para aqueles que integram o Marketo Engage com o [!DNL Microsoft Dynamics].
 
 ## Visão geral {#overview}
 
 Esta etapa de fluxo inserirá as pessoas criadas pela Marketo no Dynamics CRM.
 
-![](assets/one.png)
+![](assets/sync-person-to-microsoft-1.png)
 
 ## Uso {#usage}
 
 É possível definir um usuário do Dynamics como proprietário da pessoa.
 
-![](assets/two.png)
+![](assets/sync-person-to-microsoft-2.png)
 
 >[!NOTE]
 >
->Ao usar o &quot;[!UICONTROL Sincronizar pessoa com o Microsoft]&quot;ação de fluxo (somente em uma Campanha de acionador), o lead/contato será criado em tempo real no Dynamics.
+>Ao usar a ação de fluxo &quot;[!UICONTROL Sincronizar Pessoa com o Microsoft]&quot; (somente em uma Campanha de Gatilho), o cliente potencial/contato será criado em tempo real no Dynamics.

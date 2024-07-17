@@ -4,7 +4,7 @@ description: Excluir pessoa do SFDC - Documentação do Marketo - Documentação
 title: Excluir pessoa da SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -19,20 +19,20 @@ Se você precisar remover um conjunto específico de clientes potenciais do Sale
 >
 >Disponível somente quando integrado ao Salesforce.
 
-1. No Banco de dados, clique na pessoa que deseja remover do Salesforce. Clique em **[!UICONTROL Ações da pessoa]** e selecione **[!DNL Salesforce]**.
+1. No Banco de dados, clique na pessoa que deseja remover do Salesforce. Em seguida, clique em **[!UICONTROL Ações da pessoa]** e selecione **[!DNL Salesforce]**.
 
-   ![](assets/person-actions-salesforce.png)
+   ![](assets/delete-person-from-sfdc-1.png)
 
-1. Selecionar **[!UICONTROL Excluir pessoa do SFDC]**.
+1. Selecione **[!UICONTROL Excluir pessoa do SFDC]**.
 
-   ![](assets/delete-person-from-sfdc.png)
+   ![](assets/delete-person-from-sfdc-2.png)
 
-1. Verifique se **[!UICONTROL Excluir no Marketo]** a configuração é **[!UICONTROL false]** e, em seguida, clique em **[!UICONTROL Executar agora]**.
+1. Verifique se a configuração **[!UICONTROL Excluir no Marketo]** é **[!UICONTROL false]** e clique em **[!UICONTROL Executar Agora]**.
 
-   ![](assets/run-action-delete-lead-from-sfdc.png)
+   ![](assets/delete-person-from-sfdc-3.png)
 
    Depois que a etapa de fluxo for executada, sua pessoa não será mais a líder no Salesforce, mas permanecerá no Marketo.
 
    >[!CAUTION]
    >
-   >Se você definir **[!UICONTROL Excluir no Marketo]** para **[!UICONTROL true]** e excluir as pessoas do Marketo e os clientes em potencial do Salesforce, eles desaparecem para sempre. Essa ação não pode ser desfeita.
+   >Se você definir **[!UICONTROL Excluir no Marketo]** como **[!UICONTROL true]** e excluir as pessoas do Marketo e os clientes em potencial do Salesforce, eles serão permanentemente excluídos. Essa ação não pode ser desfeita.
