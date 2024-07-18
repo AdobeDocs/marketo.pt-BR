@@ -4,16 +4,16 @@ description: Localizar e adicionar filtros a uma lista inteligente - Documentaç
 title: Localizar e adicionar filtros a uma lista inteligente
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 # Localizar e adicionar filtros a uma lista inteligente {#find-and-add-filters-to-a-smart-list}
 
-Depois de ter [criou uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, you need to add and [define](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filtros. Veja como encontrar e adicionar filtros.
+Depois de [criar uma Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, é necessário adicionar e [definir](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filtros. Veja como encontrar e adicionar filtros.
 
 Neste exemplo, vamos encontrar todas as pessoas na Califórnia com uma pontuação acima de 50.
 
@@ -21,25 +21,25 @@ Neste exemplo, vamos encontrar todas as pessoas na Califórnia com uma pontuaç�
 >
 >Explore a árvore à direita: os filtros são muito eficientes e têm uma grande variedade de funções possíveis.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
-   ![](assets/ma.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 
-1. Selecione a Smart List à qual deseja adicionar filtros e clique no **[!UICONTROL Lista inteligente]** guia.
+1. Selecione a Smart List à qual deseja adicionar filtros e clique na guia **[!UICONTROL Smart List]**.
 
-   ![](assets/two.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-2.png)
 
-1. Localize e arraste o **[!UICONTROL Estado]** filtro na tela de desenho.
+1. Localize e arraste o filtro **[!UICONTROL Estado]** para a tela.
 
-   ![](assets/three.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-3.png)
 
-1. Localize e arraste também a variável **[!UICONTROL Pontuação]** filtrar.
+1. Localize e arraste também o filtro **[!UICONTROL Pontuação]**.
 
-   ![](assets/four.png)
+   ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
-Perfeita! Vamos definir esses filtros.
+Perfeito! Vamos definir esses filtros.
 
 >[!MORELIKETHIS]
 >
 >* [Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [Definir filtros da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+>* [Definir Filtros da Lista Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}

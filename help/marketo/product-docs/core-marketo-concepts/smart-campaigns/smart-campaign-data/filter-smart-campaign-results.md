@@ -4,7 +4,7 @@ description: Filtrar resultados da campanha inteligente - Documentação do Mark
 title: Filtrar resultados da campanha inteligente
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,9 +21,9 @@ Filtre os resultados da Campanha inteligente para ver atividades específicas im
 
 ## Filtrar por filtros salvos {#filter-by-saved-filters}
 
-1. Em sua campanha inteligente **[!UICONTROL Resultados]** clique em **[!UICONTROL Filtro]** e selecione um filtro salvo.
+1. Na guia **[!UICONTROL Resultados]** da Campanha Inteligente, clique em **[!UICONTROL Filtro]** e selecione um filtro salvo.
 
-   ![](assets/resultsfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-1.png)
 
    >[!NOTE]
    >
@@ -31,22 +31,22 @@ Filtre os resultados da Campanha inteligente para ver atividades específicas im
 
 ## Criar um filtro personalizado {#create-a-custom-filter}
 
-1. Clique em **[!UICONTROL Filtro]**, depois **[!UICONTROL Personalizado]**.
+1. Clique em **[!UICONTROL Filtro]** e depois em **[!UICONTROL Personalizado]**.
 
-   ![](assets/filterscustom-hands.png)
+   ![](assets/filter-smart-campaign-results-2.png)
 
 1. Selecione os tipos de atividades que deseja ver e clique em **[!UICONTROL Salvar como]**.
 
-   ![](assets/activityfiltersettings-hands.png)
+   ![](assets/filter-smart-campaign-results-3.png)
 
    >[!TIP]
    >
-   >Clique em **[!UICONTROL Aplicar]** para aplicar diretamente um filtro personalizado aos resultados sem salvá-lo.
+   >Clique em **[!UICONTROL Aplicar]** para aplicar diretamente um filtro personalizado aos seus resultados sem salvá-lo.
 
 1. Insira um nome de filtro e clique em **[!UICONTROL Salvar]**.
 
-   ![](assets/saveasfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-4.png)
 
 1. O filtro personalizado será aplicado aos seus resultados e agora está disponível na lista suspensa (talvez seja necessário atualizar a página para vê-la na lista suspensa).
 
-   ![](assets/customfilter-hands.png)
+   ![](assets/filter-smart-campaign-results-5.png)
