@@ -2,10 +2,8 @@
 description: Ícone Glossário - Documentação do Marketo Engage - Documentação do produto
 title: Ícone do Glossário
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 52%
@@ -14,16 +12,16 @@ ht-degree: 52%
 
 # Glossário do ícone do Marketo Engage {#icon-glossary}
 
-Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você precisar referenciar os ícones do Marketo Classic, eles poderão ser [encontrado aqui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você precisar referenciar os ícones do Marketo Classic, eles podem ser [encontrados aqui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Ícones gerais {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>Ícone antigo</th> 
-   <th> Novo ícone</th> 
-   <th>Descrição</th> 
+   <th style="width:25%">Ícone antigo</th>
+   <th style="width:25%">Novo ícone</th> 
+   <th style="width:50%">Descrição</th> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 
@@ -243,9 +241,9 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
 <table> 
  <tbody>
   <tr>
-   <th>Ícone antigo</th> 
-   <th> Novo ícone</th> 
-   <th>Descrição</th> 
+   <th style="width:25%">Ícone antigo</th> 
+   <th style="width:25%"> Novo ícone</th> 
+   <th style="width:50%">Descrição</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
 <table> 
  <tbody>
   <tr>
-   <th>Ícone antigo</th> 
-   <th> Novo ícone</th> 
-   <th>Descrição</th> 
+   <th style="width:25%">Ícone antigo</th> 
+   <th style="width:25%"> Novo ícone</th> 
+   <th style="width:50%">Descrição</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
 <table> 
  <tbody>
   <tr>
-   <th>Ícone antigo</th> 
-   <th> Novo ícone</th> 
-   <th>Descrição</th> 
+   <th style="width:25%">Ícone antigo</th> 
+   <th style="width:25%"> Novo ícone</th> 
+   <th style="width:50%">Descrição</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
 <table> 
  <tbody>
   <tr>
-   <th>Ícone antigo</th> 
-   <th> Novo ícone</th> 
-   <th>Descrição</th> 
+   <th style="width:25%">Ícone antigo</th> 
+   <th style="width:25%"> Novo ícone</th> 
+   <th style="width:50%">Descrição</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
 <table> 
  <tbody>
   <tr>
-   <th>Ícone antigo</th> 
-   <th> Novo ícone</th> 
-   <th>Descrição</th> 
+   <th style="width:25%">Ícone antigo</th> 
+   <th style="width:25%"> Novo ícone</th> 
+   <th style="width:50%">Descrição</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -413,9 +411,9 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
 <table> 
  <tbody>
   <tr>
-   <th>Ícone antigo</th> 
-   <th> Novo ícone</th> 
-   <th>Descrição</th> 
+   <th style="width:25%">Ícone antigo</th> 
+   <th style="width:25%"> Novo ícone</th> 
+   <th style="width:50%">Descrição</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
 <table> 
  <tbody>
   <tr>
-   <th>Ícone antigo</th> 
-   <th> Novo ícone</th> 
-   <th>Descrição</th> 
+   <th style="width:25%">Ícone antigo</th> 
+   <th style="width:25%"> Novo ícone</th> 
+   <th style="width:50%">Descrição</th> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 
