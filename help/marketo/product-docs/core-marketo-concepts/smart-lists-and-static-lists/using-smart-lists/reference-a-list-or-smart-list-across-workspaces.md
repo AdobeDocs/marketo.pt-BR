@@ -4,9 +4,9 @@ description: Fazer referência a uma lista ou lista inteligente em espaços de t
 title: Fazer referência a uma lista ou lista inteligente em espaços de trabalho
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,39 @@ Listas e Smart Lists podem ser compartilhadas e referenciadas em espaços de tra
 
 >[!NOTE]
 >
->As regras de partição de pessoa se aplicam (Smart Lists e listas estáticas em um espaço de trabalho mostram apenas as pessoas que são membros da lista _e_ membros do espaço de trabalho atual).
+>As regras de partição de pessoa se aplicam (Smart Lists e listas estáticas em um espaço de trabalho mostram apenas pessoas que são membros da lista _e_ membros do espaço de trabalho atual).
 
 ## Compartilhar uma lista ou lista inteligente {#share-a-list-or-smart-list}
 
-1. Vá para a **[!UICONTROL Banco de dados]**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
-   ![](assets/db-1.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Clique com o botão direito do mouse em uma pasta de campanha. Selecionar **Nova pasta**.
+1. Clique com o botão direito do mouse em uma pasta de campanha. Selecione **Nova Pasta**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
    >[!NOTE]
    >
-   >Os ativos só podem ser compartilhados entre espaços de trabalho se estiverem aninhados em uma pasta.
+   >O Assets só poderá ser compartilhado entre espaços de trabalho se eles estiverem aninhados em uma pasta.
 
-   ![](assets/two-4.png)
+1. Nomeie sua pasta e clique em **[!UICONTROL Criar]**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
 1. Arraste e solte uma lista ou lista inteligente que deseja compartilhar na nova pasta.
 
-   ![](assets/three-4.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. Clique com o botão direito do mouse **[!UICONTROL Nova pasta]** e selecione **[!UICONTROL Compartilhar pasta]**.
+1. Clique com o botão direito do mouse na nova pasta e selecione **[!UICONTROL Compartilhar pasta]**.
 
-   ![](assets/four-3.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Escolha um **[!UICONTROL Workspace]** para compartilhar com a. Selecionar **[!UICONTROL Salvar]**.
+1. Escolha uma **[!UICONTROL Workspace]** para compartilhar com e clique em **[!UICONTROL Salvar]**.
 
-   ![](assets/image2014-12-9-15-3a37-3a25.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
-   Ótimo! Essa lista agora estará disponível em ambos os espaços de trabalho.
+   Fantástico! Essa lista agora estará disponível em ambos os espaços de trabalho.
 
    >[!NOTE]
    >

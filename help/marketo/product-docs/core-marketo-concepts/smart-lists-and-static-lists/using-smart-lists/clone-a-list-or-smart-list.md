@@ -4,7 +4,7 @@ description: Clonar uma lista ou lista inteligente - Documentação do Marketo -
 title: Clonar uma lista ou lista inteligente
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 5%
@@ -15,20 +15,16 @@ ht-degree: 5%
 
 Em vez de criar uma Smart List do zero, economize tempo clonando uma semelhante e fazendo alterações. Veja como.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/clone-a-list-or-smart-list-1.png)
 
-1. Selecione a Smart List que deseja clonar.
+1. Selecione a Smart List que deseja clonar. Em **[!UICONTROL Ações de Lista]**, clique em **[!UICONTROL Clonar Lista Inteligente]**.
 
-   ![](assets/smartlist-find.png)
-
-1. Em **[!UICONTROL Ações da lista]**, clique em **[!UICONTROL Clonar lista inteligente]**.
-
-   ![](assets/clonesmartlist-hands.png)
+   ![](assets/clone-a-list-or-smart-list-2.png)
 
 1. Insira um **[!UICONTROL Nome]** e clique em **[!UICONTROL Clonar]**.
 
-   ![](assets/supersmartlist-clonewindow.png)
+   ![](assets/clone-a-list-or-smart-list-3.png)
 
 Excelente! Também é possível clonar listas regulares da mesma maneira.

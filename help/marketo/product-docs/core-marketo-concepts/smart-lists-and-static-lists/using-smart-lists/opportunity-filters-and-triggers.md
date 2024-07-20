@@ -4,9 +4,9 @@ description: Filtros e acionadores da oportunidade - Documentação do Marketo -
 title: Filtros e acionadores da oportunidade
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 5%
 
 ---
@@ -27,31 +27,31 @@ Os filtros de oportunidade permitem que você se aprofunde em seus clientes pote
 * A oportunidade foi removida
 * A oportunidade foi atualizada
 
-Se estiver procurando os campos Oportunidade (personalizados ou padrão), use o **Tem oportunidade** filtro ou **A oportunidade foi`[Added/Removed/Updated]`** filtros ou acionadores.
+Se estiver procurando seus campos de Oportunidade (personalizados ou padrão), use o filtro **Tem Oportunidade** ou **A oportunidade tinha`[Added/Removed/Updated]`** filtros ou acionadores.
 
-**Número de opções, Valor total da opção, Receita esperada da opção total**
+**Número de Opções, Valor Total da Opção, Receita Total Esperada da Opção**
 
 Com esses filtros, você pode encontrar leads com base no número total, na quantia ou na receita esperada de todas as suas oportunidades.
 
-![](assets/image2015-6-11-12-3a29-3a34.png)
+![](assets/opportunity-filters-and-triggers-1.png)
 
-**Possui oportunidade, foi adicionado à oportunidade, foi removido da oportunidade**
+**Possui uma oportunidade, Foi adicionada à oportunidade, Foi removida da oportunidade**
 
-Se estiver procurando clientes potenciais que têm oportunidades com base em uma combinação de critérios, use o **Tem oportunidade**, **Foi adicionado à oportunidade** ou **Foi removido da oportunidade** filtro. Eles lhe dizem:
+Se você estiver procurando clientes potenciais que têm oportunidades com base em uma combinação de critérios, use o filtro **Tem Oportunidade**, **Foi Adicionada à Oportunidade** ou **Foi Removida da Oportunidade**. Eles lhe dizem:
 
-* **Tem oportunidade**: se este cliente potencial tiver uma oportunidade correspondente no momento
-* **Foi adicionado à oportunidade**: se este lead tiver sido adicionado a uma oportunidade correspondente
-* **Foi removido da oportunidade**: se este cliente em potencial já foi removido de uma oportunidade correspondente
+* **Tem Oportunidade**: se este cliente em potencial tiver alguma oportunidade correspondente no momento
+* **Foi Adicionado à Oportunidade**: se este cliente em potencial já foi adicionado a uma oportunidade correspondente
+* **Foi Removido da Oportunidade**: se este cliente em potencial já foi removido de uma oportunidade correspondente
 
-Adicionar os critérios de pesquisa como **Restrições** no filtro. As restrições incluem os campos padrão de oportunidade e personalizados:
+Adicione os critérios de pesquisa como **Restrições** no filtro. As restrições incluem os campos padrão de oportunidade e personalizados:
 
-![](assets/image2015-6-11-12-3a31-3a0.png)
+![](assets/opportunity-filters-and-triggers-2.png)
 
-![](assets/image2015-6-11-12-3a31-3a46.png)
+![](assets/opportunity-filters-and-triggers-3.png)
 
-Por exemplo, digamos que você queira encontrar leads com oportunidades abertas de pelo menos US$ 5.000. Arraste no **Tem oportunidade** filtre e use o **Está Fechado** e **Quantidade** restrições:
+Por exemplo, digamos que você queira encontrar leads com oportunidades abertas de pelo menos US$ 5.000. Arraste no filtro **Tem Oportunidade** e use as restrições **Está Fechado** e **Valor**:
 
-![](assets/image2015-6-11-12-3a32-3a0.png)
+![](assets/opportunity-filters-and-triggers-4.png)
 
 >[!NOTE]
 >
@@ -59,11 +59,11 @@ Por exemplo, digamos que você queira encontrar leads com oportunidades abertas 
 
 **A oportunidade foi atualizada**
 
-A variável **A oportunidade foi atualizada** O filtro procura qualquer oportunidade quando um campo de oportunidade específico foi atualizado. Selecione o campo a ser verificado com o menu suspenso Acionador de atributo, em seguida, use as restrições para restringir o conjunto de alterações.
+O filtro **Oportunidade Atualizada** procura qualquer oportunidade quando um campo de oportunidade específico é atualizado. Selecione o campo a ser verificado com o menu suspenso Acionador de atributo, em seguida, use as restrições para restringir o conjunto de alterações.
 
 Por exemplo, este filtro mostrará todos os clientes em potencial que tiveram sua data de fechamento alterada nos últimos 30 dias:
 
-![](assets/image2015-6-11-12-3a33-3a7.png)
+![](assets/opportunity-filters-and-triggers-5.png)
 
 ## Acionadores da oportunidade {#opportunity-triggers}
 
@@ -75,8 +75,8 @@ Os acionadores de oportunidade a seguir estão disponíveis. Eles funcionam exat
 
 Por exemplo, você pode usar essa lista inteligente para acionar quando qualquer cliente em potencial for adicionado a qualquer oportunidade. No fluxo, você pode adicioná-los à lista de Marketing suspenso ou enviar a eles um email direcionado.
 
-![](assets/image2015-6-11-12-3a33-3a48.png)
+![](assets/opportunity-filters-and-triggers-6.png)
 
-Para acionar campos personalizados de oportunidade, use o **A oportunidade foi atualizada** acione e escolha o campo no menu suspenso:
+Para acionar campos personalizados de oportunidade, use o acionador **Oportunidade atualizada** e escolha o campo na lista suspensa:
 
-![](assets/image2015-6-11-12-3a33-3a34.png)
+![](assets/opportunity-filters-and-triggers-7.png)

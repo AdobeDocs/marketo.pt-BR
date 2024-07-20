@@ -4,7 +4,7 @@ description: Adicionar vários valores a um Filtro de lista inteligente - Docume
 title: Adicionar vários valores a um filtro de lista inteligente
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -16,29 +16,29 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [Localizar e adicionar filtros a uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [Localizar e Adicionar Filtros a uma Lista Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Digamos que você queira encontrar todos na Califórnia, mas você pode estar armazenando &quot;Califórnia&quot; e &quot;CA&quot; no seu banco de dados. Para incluir todas as pessoas aplicáveis, você pode usar dois [!UICONTROL Estado] filtros, mas é mais fácil com um.
+Digamos que você queira encontrar todos na Califórnia, mas você pode estar armazenando &quot;Califórnia&quot; e &quot;CA&quot; no seu banco de dados. Para incluir todas as pessoas aplicáveis, você poderia usar dois filtros [!UICONTROL Estado], mas é mais fácil com um.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 
-1. Localize e selecione uma Smart List e clique no **[!UICONTROL Lista inteligente]** guia.
+1. Localize e selecione uma Smart List e clique na guia **[!UICONTROL Smart List]**.
 
-   ![](assets/smarlist-choosefilters.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-2.png)
 
 1. Clique em **+** no filtro.
 
-   ![](assets/smartlist-plussignhand-.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
 1. Você pode escolher valores à esquerda ou simplesmente digitá-los à direita e clicar em **[!UICONTROL OK]**.
 
-   ![](assets/image2014-9-11-17-3a51-3a39.png)
+   ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
 Trabalho rápido!
 
 >[!MORELIKETHIS]
 >
->* [Adicionar uma restrição a um filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [Usar filtros avançados em uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
+>* [Adicionar uma Restrição a um Filtro de Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Usar Filtros Avançados em uma Lista Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
