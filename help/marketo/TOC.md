@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
 workflow-type: tm+mt
-source-wordcount: '9339'
+source-wordcount: '9344'
 ht-degree: 3%
 
 ---
@@ -727,10 +727,13 @@ ht-degree: 3%
             + [Adicionar uma equipe ao webinário](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Criação de webinários interativos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
             + [Modelos](product-docs/demand-generation/events/interactive-webinars/templates.md)
+            + [Personalização](product-docs/demand-generation/events/interactive-webinars/customization.md)
+            + [Gerenciamento de Salas](product-docs/demand-generation/events/interactive-webinars/room-management.md)
             + [Promover um webinário interativo](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Modificar ou excluir um webinário interativo](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Webinários sob demanda](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
             + [Fluxos de trabalho de evento](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
+            + [Painel de engajamento](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
       + Facebook {#facebook}
          + [Adicionar clientes em potencial a um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Criar um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
