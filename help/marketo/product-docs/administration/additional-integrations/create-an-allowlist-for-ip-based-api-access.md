@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. No **[!UICONTROL Restrições de IP]** clique em **[!UICONTROL Editar],** ou clique em **[!UICONTROL Editar restrições de IP]** no canto superior esquerdo.
+1. Na área **[!UICONTROL Restrições de IP]**, clique em **[!UICONTROL Editar],** ou em **[!UICONTROL Editar Restrições de IP]** no canto superior esquerdo.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Verifique a **[!UICONTROL Habilitar restrições de IP]** lista de permissões e insira os endereços IP que deseja modificar.
+1. Incluir na lista de permissões Marque a caixa **[!UICONTROL Habilitar Restrições de IP]** e insira os endereços IP que deseja modificar.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 0%
    >
    >Você pode inserir um único endereço IP ou um intervalo deles, ou usar um curinga.
 
-1. Clique em **[!UICONTROL Adicionar]** para abrir campos adicionais e inserir mais endereços IP.
+1. Clique em **[!UICONTROL Adicionar]** para abrir campos adicionais para inserir mais endereços IP.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 

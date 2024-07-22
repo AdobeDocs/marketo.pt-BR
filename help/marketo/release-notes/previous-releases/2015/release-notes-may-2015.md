@@ -6,7 +6,7 @@ exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '255'
 ht-degree: 8%
 
 ---
@@ -39,7 +39,7 @@ A partir desta versão, comentários HTML válidos agora são permitidos e não 
 
 ## RTP: editor de segmentos do tipo arrastar e soltar {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Arrastar e soltar editor de segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [Editor de Segmentos de Arrastar e Soltar](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Arraste e solte seus critérios no construtor de segmentos, defina o valor e você estará a caminho de criar um segmento em tempo real.
 

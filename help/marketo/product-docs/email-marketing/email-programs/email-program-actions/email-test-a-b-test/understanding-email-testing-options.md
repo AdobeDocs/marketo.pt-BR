@@ -7,7 +7,7 @@ feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,10 +17,10 @@ Teste seus emails para melhorar a pontuação de engajamento. Há dois tipos de 
 
 ## Teste A/B {#a-b-testing}
 
-Isso é para emails únicos que usam programas de email. Adicionar [Teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) e um pequeno grupo terá o teste e o resto terá o vencedor.
+Isso é para emails únicos que usam programas de email. Adicione [teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) e um grupo pequeno obterá o teste e o restante obterá o vencedor.
 
 ## Email Champion/Challenger {#email-champion-challenger}
 
-Para emails em andamento usados em campanhas inteligentes de acionadores ou programas de envolvimento, é possível adicionar [campeão/desafiante de email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) testes. Isso introduzirá variações em uma porcentagem contínua dos recipients.
+Para emails em andamento usados em campanhas inteligentes de acionadores ou programas de engajamento, você pode adicionar [teste de campeão/desafiante de email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Isso introduzirá variações em uma porcentagem contínua dos recipients.
 
 Testes felizes!

@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 8%
+ht-degree: 2%
 
 ---
 
@@ -23,15 +23,15 @@ Redija um novo email ou use um modelo preexistente.
 
 ![](assets/email.png)
 
-| **Usar um modelo** | Selecione um dos modelos pré-existentes |
+| **Usar um Modelo** | Selecione um dos modelos pré-existentes |
 |---|---|
-| **Salvar como modelo** | Salve o email que acabou de compor como um novo modelo |
+| **Salvar como Modelo** | Salve o email que acabou de compor como um novo modelo |
 | **Adicionar conteúdo** | Faça upload de um arquivo no nosso servidor e receba um URL (apontando para o conteúdo) que possa ser rastreado no seu email |
-| **Anexar arquivos** | Anexar um arquivo do seu computador ao email (limite de tamanho de 23 MB) |
+| **Anexar Arquivos** | Anexar um arquivo do seu computador ao email (limite de tamanho de 23 MB) |
 
 >[!TIP]
 >
->Saiba mais sobre os detalhes do [opções de envio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Saiba mais sobre as [opções de envio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Chamada {#call}
 

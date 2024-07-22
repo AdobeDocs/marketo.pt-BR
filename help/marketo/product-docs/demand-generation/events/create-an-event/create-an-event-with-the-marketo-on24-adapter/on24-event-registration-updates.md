@@ -19,26 +19,26 @@ Você pode aprovar manualmente seus inscritos antes de enviar a eles um email de
 
 1. Para a campanha Registration Trigger:
 
-   * Na Smart List, defina o acionador como **Preenche o formulário**.
-   * No Fluxo, defina o Status em Progressão como **Pendente de Aprovação**.
+   * Na Smart List, defina o acionador como **Preenche o Formulário**.
+   * No Fluxo, defina o Status em Progressão como **Aprovação pendente**.
 
-1. Vá para o Evento e clique no link **Membros** guia. Esta guia exibe todas as pessoas que preencheram o formulário. O status deve ser definido como **Pendente de Aprovação**.
-1. Use o filtro na parte superior da grade para exibir apenas as pessoas com um status de **Pendente de Aprovação**.
+1. Vá para o Evento e clique na guia **Membros**. Esta guia exibe todas as pessoas que preencheram o formulário. O status deve estar definido como **Aprovação Pendente**.
+1. Use o filtro na parte superior da grade para exibir apenas as pessoas com o status **Aprovação Pendente**.
 1. Selecione as pessoas que deseja registrar (clique com a tecla Shift pressionada, clique com a tecla Control pressionada ou selecione tudo).
-1. No menu, clique em **Alterar Status**. Selecionar **Registrado**, **Rejeitado** ou qualquer outro status aplicável.
+1. No menu, clique em **Alterar status**. Selecione **Registrado**, **Rejeitado** ou qualquer outro status aplicável.
 
 ## Lidar com pessoas com um erro de registro {#handling-people-with-a-registration-error}
 
 Se uma pessoa acabar não sendo registrada, mas sim definida com o status Erro de registro, não é tarde demais para se recuperar.
 
-1. Na guia Membros, filtre a lista de pessoas com o status **Erro de registro**.
-1. Antes de continuar, verifique se você determinou e corrigiu o problema na integração do (verifique se não há erros em **Parceiros de eventos** em Admin).
-1. Depois que o problema for resolvido, selecione todas as pessoas com o status Erro de registro e altere o status para **Registrado**. Isso tentará registrá-los novamente com ON24.
+1. Na guia Membros, filtre a lista de pessoas com o status **Erro de Registro**.
+1. Antes de continuar, verifique se você determinou e corrigiu o problema na integração (verifique se não há erros em **Parceiros de eventos** no Admin).
+1. Depois que o problema for resolvido, selecione todas as pessoas com o status de Erro de Registro e altere seu status para **Registrado**. Isso tentará registrá-los novamente com ON24.
 
 ## Atualizando Status do Membro de ON24 {#updating-member-status-from-on}
 
-A Marketo registra automaticamente as informações de presença às 23h00 da Pacific, aproximadamente, todas as noites. Para atualizar manualmente as informações de participação, clique em **Atualizar do provedor do webinário** em **Ações de evento**.
+A Marketo registra automaticamente as informações de presença às 23h00 da Pacific, aproximadamente, todas as noites. Para atualizar manualmente as informações de participação, clique em **Atualizar do Provedor de Webinar** em **Ações de Evento**.
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Noções Básicas sobre os Eventos do Adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

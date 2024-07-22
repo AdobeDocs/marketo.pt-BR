@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Deseja excluir uma página? Sem suor, veja como.
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. No [!UICONTROL Páginas] guia, passe o mouse sobre a página que deseja remover, clique em **[!UICONTROL Excluir]** e, em seguida, clique em **[!UICONTROL Remover]**.
+1. Na guia [!UICONTROL Páginas], passe o mouse sobre a página que deseja remover, clique em **[!UICONTROL Excluir]** e em **[!UICONTROL Remover]**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 

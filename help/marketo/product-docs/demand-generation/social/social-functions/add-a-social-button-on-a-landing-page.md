@@ -19,7 +19,7 @@ Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amig
 >
 >Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Navegue até a página de destino e clique em **Editar rascunho**.
+1. Navegue até a página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/landingpageeditdraft.jpg)
 
@@ -27,30 +27,30 @@ Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amig
 
    ![](assets/image2014-9-17-10-3a35-3a6.png)
 
-1. Selecionar **Botões Sociais (com o Analytics)**.
+1. Selecione **Botões sociais (com o Analytics)**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Quando a landing page estiver ativa, consulte a atividade gerada pelo **Botão Social** (com o Analytics) no [Painel social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Quando a página de aterrissagem estiver ativa, consulte a atividade gerada pelo seu **Botão Social** (com o Analytics) no [Painel Social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
-   Se você adicionar um **Botão Curtir/Recomendar (Lite)** em vez disso, consulte o número de compartilhamentos no [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Se você adicionar um **Botão Curtir/Recomendar (Lite)**, veja o número de compartilhamentos no [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Selecionar **Criar novo** no menu suspenso.
+1. Selecione **Criar novo** no menu suspenso.
 
    >[!NOTE]
    >
    >Você também pode criar um botão social dentro de um programa selecionando **Novo** > **Novo ativo local**.
 
-1. Nomeie o botão de redes sociais e selecione **Nenhum** de **Clonar** **De** e clique em **Inserir**.
+1. Nomeie seu botão de redes sociais, selecione **Nenhum** de **Clonar** **De** e clique em **Inserir**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-Parabéns! Você adicionou um botão de rede social à página de aterrissagem. Certifique-se de aprovar a landing page. Também é possível [publicar a landing page no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [coloque o botão social no seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Parabéns! Você adicionou um botão de rede social à página de aterrissagem. Certifique-se de aprovar a landing page. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar o botão social no seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
->Para economizar tempo, você pode usar o **Clonar de** opção para copiar todas as configurações de um botão de rede social existente.
+>Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de um botão de rede social existente.
 
 >[!MORELIKETHIS]
 >
->Você concluiu, mas pode alterar as configurações do botão de redes sociais, se necessário. Iniciar com [personalização do estilo do botão](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) e [editar as mensagens compartilhadas](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) ele apresenta.
+>Você concluiu, mas pode alterar as configurações do botão de redes sociais, se necessário. Comece com [personalizando o estilo de botão](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) e [editando as mensagens compartilhadas](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) que ele apresenta.

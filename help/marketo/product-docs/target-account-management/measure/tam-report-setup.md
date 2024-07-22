@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,11 +17,11 @@ O Relatório de vendas do TAM é um e-mail personalizado semanal enviado à equi
 
 ## Configuração do relatório {#report-setup}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-3.png)
 
-1. Clique em **Gerenciamento de conta do Target**.
+1. Clique em **Gerenciamento de Conta de Destino**.
 
    ![](assets/tam-report-setup-2.png)
 
@@ -29,15 +29,15 @@ O Relatório de vendas do TAM é um e-mail personalizado semanal enviado à equi
 
    ![](assets/three-3.png)
 
-1. Clique em **Dia** e selecione o dia da semana em que deseja que os recipients recebam o email.
+1. Clique no menu suspenso **Day** e selecione o dia da semana em que deseja que os recipients recebam o email.
 
    ![](assets/four-4.png)
 
-1. Para determinar o layout do email, clique no link **Classificar por** e faça uma seleção.
+1. Para determinar o layout do seu email, clique no menu suspenso **Classificar por** e faça uma seleção.
 
    ![](assets/five-3.png)
 
-1. Verifique a **Usuários** , clique na lista suspensa e selecione quem deseja receber o email.
+1. Marque a caixa de seleção **Usuários**, clique na lista suspensa e selecione quem deseja receber o email.
 
    ![](assets/six-2.png)
 
@@ -59,11 +59,11 @@ Cada relatório vem com a opção de não participação. Para fazer isso, basta
 
 ## Como refazer a assinatura {#how-to-resubscribe}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-3.png)
 
-1. Clique em **Gerenciamento de conta do Target**.
+1. Clique em **Gerenciamento de Conta de Destino**.
 
    ![](assets/tam-report-setup-10.png)
 
@@ -71,10 +71,10 @@ Cada relatório vem com a opção de não participação. Para fazer isso, basta
 
    ![](assets/nine.png)
 
-1. Clique em **Usuários** menu suspenso.
+1. Clique no menu suspenso **Usuários**.
 
    ![](assets/ten.png)
 
-1. Selecione o usuário que deseja receber emails novamente e clique em **Assinar novamente**.
+1. Selecione o usuário que deseja receber emails novamente e clique em **Assinar Novamente**.
 
    ![](assets/eleven.png)

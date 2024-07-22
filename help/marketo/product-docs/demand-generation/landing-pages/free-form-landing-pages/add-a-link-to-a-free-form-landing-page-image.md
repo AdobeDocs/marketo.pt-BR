@@ -21,11 +21,11 @@ ht-degree: 2%
 >
 >Isso se aplica somente às páginas de aterrissagem de forma livre.
 
-1. Selecione a imagem adicionada à landing page e expanda a variável **Folha de Propriedades.**
+1. Selecione a imagem adicionada à página de aterrissagem e expanda a **Folha de Propriedades.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Digite o link mailto na caixa **URL do link.**
+1. Digite o link mailto na **URL do link.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

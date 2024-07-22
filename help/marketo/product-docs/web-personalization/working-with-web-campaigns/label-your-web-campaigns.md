@@ -17,7 +17,7 @@ Você tem tantas campanhas que a rolagem está se tornando complicada? Use rótu
 
 ## Adicionar um rótulo a uma campanha da Web {#add-a-label-to-a-web-campaign}
 
-1. Faça logon na Personalização da Web e acesse a área Campanhas da Web.
+1. Faça logon no Web Personalization e acesse a área Campanhas da Web.
 
    ![](assets/web-campaigns-hand.jpg)
 

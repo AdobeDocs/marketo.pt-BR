@@ -19,7 +19,7 @@ Para adicionar um formulário a uma de suas páginas de aterrissagem, ele deve s
 
 Veja como aprovar um formulário existente pronto para uso.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ Veja como aprovar um formulário existente pronto para uso.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Em **Ações do formulário**, clique em **Aprovar**.
+1. Em **Ações de Formulário**, clique em **Aprovar**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,7 +35,7 @@ Veja como aprovar um formulário existente pronto para uso.
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Está aprovado e pronto para ser [adicionado a uma landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Ele foi aprovado e está pronto para ser [adicionado a uma página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
@@ -53,6 +53,6 @@ Se você estiver fazendo alterações em um formulário, será possível aprovar
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

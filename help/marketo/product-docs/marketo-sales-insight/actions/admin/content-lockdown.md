@@ -22,7 +22,7 @@ Ao ativar o bloqueio de conteúdo, impeça que usuários não administradores ed
 
    ![](assets/content-lockdown-1.png)
 
-1. Em Configurações do administrador, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/content-lockdown-2.png)
 

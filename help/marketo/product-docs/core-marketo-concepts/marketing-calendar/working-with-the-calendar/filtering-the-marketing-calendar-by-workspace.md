@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147306
-description: Filtrar o calendário de marketing por espaço de trabalho - Documentação do Marketo - Documentação do produto
-title: Filtrar o calendário de marketing por espaço de trabalho
+description: Filtragem do calendário de marketing por Workspace - Documentação do Marketo - Documentação do produto
+title: Filtrar o calendário de marketing por Workspace
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
@@ -11,15 +11,15 @@ ht-degree: 1%
 
 ---
 
-# Filtrar o calendário de marketing por espaço de trabalho {#filtering-the-marketing-calendar-by-workspace}
+# Filtrar o calendário de marketing por Workspace {#filtering-the-marketing-calendar-by-workspace}
 
 O Calendário de marketing pode ser filtrado por objetos em espaços de trabalho específicos.
 
-1. Clique em **[!UICONTROL Calendário]** bloco.
+1. Clique no bloco **[!UICONTROL Calendário]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. No painel de filtros, selecione a variável **[!UICONTROL Workspace]** menu suspenso. Escolha o espaço de trabalho desejado.
+1. No painel de filtro, selecione o menu suspenso **[!UICONTROL Workspace]**. Escolha o espaço de trabalho desejado.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
@@ -27,4 +27,4 @@ O Calendário de marketing pode ser filtrado por objetos em espaços de trabalho
 
    >[!NOTE]
    >
-   >[Salvar uma definição de filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[Salvando uma Definição de Filtro no Calendário de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

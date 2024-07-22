@@ -5,7 +5,7 @@ title: Noções básicas das notificações
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '209'
 ht-degree: 1%
 
 ---
@@ -38,10 +38,10 @@ Você pode assinar notificações para recebê-las em seu email.
 
 >[!NOTE]
 >
->A variável **[!UICONTROL enviar para]** é somente para você inserir seu email. Ele não mostrará uma lista de assinantes existentes.
+>A área **[!UICONTROL enviar para]** é somente para você inserir seu email; ela não mostrará uma lista de assinantes existentes.
 
 Em alguns casos, uma notificação fornece um link &quot;Ver a lista completa&quot; para baixar um arquivo de valor separado por vírgula (CSV), por exemplo, o arquivo de Erros de sincronização do Microsoft Dynamics. A Marketo retém esses arquivos CSV por 30 dias. Se você tentar baixar o arquivo após 30 dias, receberá um erro 404.
 
 >[!TIP]
 >
->Deseja cancelar a inscrição de emails de notificação? Sem problemas. Basta clicar no link **[!UICONTROL cancelar inscrição nas notificações]** na parte inferior do email.
+>Deseja cancelar a inscrição de emails de notificação? Sem problemas. Basta clicar no link **[!UICONTROL cancelar inscrição das Notificações]** na parte inferior do email.

@@ -16,7 +16,7 @@ Semelhante às Smart Lists do Marketo Engage, os atributos de Critérios de púb
 
 ## Prioridade {#priority}
 
-A prioridade determina qual diálogo um lead recebe caso se qualifique para mais de um. É estabelecido quando você [criar sua caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Você pode alterar a prioridade de uma caixa de diálogo existente abrindo-a e acessando **[!UICONTROL Detalhes da caixa de diálogo]** na guia Critérios de público-alvo.
+A prioridade determina qual diálogo um lead recebe caso se qualifique para mais de um. É estabelecido quando você [cria sua Caixa de Diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} pela primeira vez. Você pode alterar a prioridade de uma caixa de diálogo existente abrindo-a e acessando **[!UICONTROL Detalhes da caixa de diálogo]** na guia Critérios de público-alvo.
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ A prioridade determina qual diálogo um lead recebe caso se qualifique para mais
 
 Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em que estão na sua página/site. No exemplo abaixo, direcionamos os visitantes que estão em uma página específica há mais de 20 segundos.
 
-1. Pegue o **[!UICONTROL Tempo na página]** e arraste-o para a direita.
+1. Pegue o evento **[!UICONTROL Tempo na página]** e arraste-o para a direita.
 
    ![](assets/audience-criteria-3.png)
 
@@ -32,7 +32,7 @@ Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em 
 
    ![](assets/audience-criteria-4.png)
 
-1. Adicione o URL da página desejada na [Target](#target) seção.
+1. Adicione a URL da página desejada na seção [Target](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -40,25 +40,25 @@ Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em 
 
 **Pessoas conhecidas**
 
-Há _muitos_ combinações de atributos para escolher. No exemplo abaixo, estamos direcionando todas as pessoas conhecidas na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
+Há _muitas_ combinações de atributos para escolher. No exemplo abaixo, estamos direcionando todas as pessoas conhecidas na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
 
-1. Pegue o **[!UICONTROL Estado da pessoa]** e arraste-o para a direita.
+1. Pegue o atributo **[!UICONTROL Estado da pessoa]** e arraste-o para a direita.
 
    ![](assets/audience-criteria-7.png)
 
-1. _É_ é definido por padrão. No campo Select Values, digite CA (você também pode clicar no menu suspenso e selecionar na lista).
+1. _Is_ está definido por padrão. No campo Select Values, digite CA (você também pode clicar no menu suspenso e selecionar na lista).
 
    ![](assets/audience-criteria-8.png)
 
-1. Pegue o **[!UICONTROL Tamanho da empresa]** atributo e arraste-o para onde diz _arraste e solte um atributo aqui_.
+1. Pegue o atributo **[!UICONTROL Tamanho da Empresa]** e arraste-o para onde diz _arraste e solte um atributo aqui_.
 
    ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
-   >Você também pode escolher um atributo clicando em seu **+** ícone.
+   >Você também pode escolher um atributo clicando em seu ícone **+**.
 
-1. Clique no menu suspenso do operador e selecione **[!UICONTROL Maior que]**.
+1. Clique na lista suspensa de operadores e selecione **[!UICONTROL Maior que]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -68,27 +68,27 @@ Há _muitos_ combinações de atributos para escolher. No exemplo abaixo, estamo
 
 E é isso!
 
-**Pessoas anônimas**
+**Pessoas Anônimas**
 
 Há uma maneira fácil de direcionar especificamente as pessoas que ainda não estão no banco de dados. Neste exemplo, estamos direcionando todas as pessoas anônimas localizadas na área de Nova York.
 
-1. Pegue o **[!UICONTROL Email da pessoa]** e arraste-o para a direita.
+1. Pegue o atributo **[!UICONTROL Email de pessoa]** e arraste-o para a direita.
 
    ![](assets/audience-criteria-12.png)
 
-1. Clique no menu suspenso do operador e selecione **[!UICONTROL Está vazio]**.
+1. Clique na lista suspensa de operadores e selecione **[!UICONTROL Está vazio]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Pegue o **[!UICONTROL Estado inferido]** atributo e arraste-o para onde diz _arraste e solte um atributo aqui_.
+1. Pegue o atributo **[!UICONTROL Estado inferido]** e arraste-o para onde diz _arraste e solte um atributo aqui_.
 
    ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
-   >Quando alguém visita seu site, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} os cookies e os coloca no sistema. Pesquisamos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
+   >Quando alguém visita o seu site, o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} faz o cookie e o coloca no sistema. Pesquisamos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
 
-1. _É_ é definido por padrão. No campo Selecionar valores, digite NY (também é possível clicar no menu suspenso e selecionar na lista).
+1. _Is_ está definido por padrão. No campo Selecionar valores, digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 
    ![](assets/audience-criteria-15.png)
 
@@ -100,7 +100,7 @@ Use as Smart Lists do Marketo Engage para o público-alvo da sua caixa de diálo
 >
 >Os critérios de Membro da Smart List ou Membro da Lista exigem o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Em Associação, capture **[!UICONTROL Membro da lista inteligente]** e solte-o na tela.
+1. Em Associação, selecione **[!UICONTROL Membro da Smart List]** e solte-o na tela.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -129,15 +129,15 @@ Formatos aceitáveis:
 
 >[!NOTE]
 >
->O uso de um asterisco atua como um curinga &quot;catch-all&quot; (global). Então `https://*.website.com` O colocaria a caixa de diálogo do em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E `https://website.com/folder/*` O colocaria a caixa de diálogo em cada página de HTML na pasta subsequente (por exemplo: nesse caso, digamos que a pasta seja &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+>O uso de um asterisco atua como um curinga &quot;catch-all&quot; (global). Assim, o `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E o `https://website.com/folder/*` colocaria a caixa de diálogo em cada página de HTML na pasta subsequente (por exemplo: nesse caso, digamos que a pasta seja &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
 
 **Exclusões**
 
-Use exclusões para garantir que a caixa de diálogo _não_ são exibidos em uma página/área específica do site. As exclusões seguem o mesmo formato que as inclusões.
+Use exclusões para garantir que a caixa de diálogo _não_ seja exibida em uma página/área específica do site. As exclusões seguem o mesmo formato que as inclusões.
 
 ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
 >* [Criar uma caixa de diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Designer de Stream](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

@@ -7,7 +7,7 @@ feature: Administration, Landing Pages
 source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-landing-page-settings-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 3%
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. No **[!UICONTROL Landing Pages]** clique em **[!UICONTROL Editar]**.
+1. Na seção **[!UICONTROL Landing Pages]**, clique em **[!UICONTROL Editar]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -37,19 +37,19 @@ ht-degree: 3%
 
    | Termo | Definição |
    |---|---|
-   | [!UICONTROL Nome de domínio para páginas de aterrissagem] | Este é o seu CNAME. Um CNAME é a primeira parte do URL que você fornece às pessoas para landing pages. Por exemplo, em `https://go.yourCompany.com`, a palavra &quot;go&quot; é o CNAME. Você pode ter múltiplos, mas a maioria das pessoas só usa um. |
+   | [!UICONTROL Nome de domínio das páginas de aterrissagem] | Este é o seu CNAME. Um CNAME é a primeira parte do URL que você fornece às pessoas para landing pages. Por exemplo, em `https://go.yourCompany.com`, a palavra &quot;go&quot; é o CNAME. Você pode ter múltiplos, mas a maioria das pessoas só usa um. |
    | [!UICONTROL Página de fallback] | É aqui que você pode ir se a landing page não existir ou estiver inativa. Saiba mais sobre [páginas de fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Página inicial] | Insira o URL do site corporativo. |
 
-1. Verifique a **[!UICONTROL Preenchimento prévio do formulário]** caixa de seleção para permitir que os formulários preencham previamente as informações de pessoas conhecidas (com cookies). Desmarque para bloquear.
+1. Marque a caixa de seleção **[!UICONTROL Preenchimento prévio do formulário]** para permitir que os formulários preencham previamente as informações de pessoas conhecidas (com cookies). Desmarque para bloquear.
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >Se desejar preencher `<script>` para aparecer no final da variável `<head>` no código, verifique a **[!UICONTROL Inserir script de preenchimento prévio no final do cabeçalho]** caixa. Deixe desmarcado se quiser que ele apareça no início.
+   >Se quiser que a marca `<script>` de preenchimento prévio apareça no final da marca `<head>` no código, marque a caixa **[!UICONTROL Inserir script de preenchimento prévio no final do cabeçalho]**. Deixe desmarcado se quiser que ele apareça no início.
    >
-   >Marcar **[!UICONTROL Remover links favicon padrão]** para impedir que o Marketo insira qualquer link favicon no código.
+   >Marque **[!UICONTROL Remover links favicon padrão]** para impedir que o Marketo insira links favicon no código.
 
 1. Depois de fazer suas seleções, clique em **[!UICONTROL Salvar]**.
 

@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Localize uma pessoa nos resultados de uma lista ou Smart List usando a localização rápida.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione a Smart List que deseja pesquisar e clique no link **[!UICONTROL Pessoas]** guia.
+1. Selecione a Smart List que deseja pesquisar e clique na guia **[!UICONTROL Pessoas]**.
 
    ![](assets/smartlistpeople.png)
 
 ## Localizar Pessoas Usando Informações Pessoais {#find-people-using-personal-info}
 
-1. No **[!UICONTROL Localização Rápida]** na parte inferior da tela, digite uma palavra-chave (**nome pessoal**, **endereço de email** ou **cargo**).
+1. Na caixa **[!UICONTROL Localização Rápida]**, na parte inferior da tela, digite uma palavra-chave (**nome pessoal**, **endereço de email** ou **cargo**).
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ Localize uma pessoa nos resultados de uma lista ou Smart List usando a localiza�
 
 ## Localizar pessoas usando o nome de uma empresa {#find-people-using-a-company-name}
 
-1. Para localizar uma empresa, digite `[company]` na caixa Localização Rápida, seguida de qualquer parte do nome da empresa que você está procurando.
+1. Para localizar uma empresa, digite `[company]` na caixa Localização Rápida, seguido de qualquer parte do nome da empresa que você está procurando.
 
    ![](assets/supersmartlistsearch.jpg)
 

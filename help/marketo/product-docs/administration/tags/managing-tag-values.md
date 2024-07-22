@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gerenciamento de valores de tag {#managing-tag-values}
 
-[Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) são usados para descrever programas. Você pode criar quantos forem necessários, cada um com valores únicos. Veja como gerenciar esses valores.
+[Marcas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) são usadas para descrever programas. Você pode criar quantos forem necessários, cada um com valores únicos. Veja como gerenciar esses valores.
 
 >[!NOTE]
 >
@@ -21,23 +21,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Criar uma nova tag de programa e valores de tag](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
+>[Criar uma Nova Marca do Programa e Valores de Marca](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Adicionar valores de tag {#adding-tag-values}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/managing-tag-values-1.png)
 
-1. Clique em **[!UICONTROL Tags]**.
+1. Clique em **[!UICONTROL Marcas]**.
 
    ![](assets/managing-tag-values-2.png)
 
-1. Clique em **[!UICONTROL Novo]**, depois **[!UICONTROL Novo valor de tag]**.
+1. Clique em **[!UICONTROL Novo]** e depois em **[!UICONTROL Novo Valor de Marca]**.
 
    ![](assets/managing-tag-values-3.png)
 
-1. Selecione o **[!UICONTROL Tipo de tag]**.
+1. Selecione o **[!UICONTROL Tipo de Marca]**.
 
    ![](assets/managing-tag-values-4.png)
 
@@ -57,11 +57,11 @@ Você deve ver as alterações imediatamente!
 
 As tags podem ser usadas por programas antigos. Você pode substituí-los para uso futuro ocultando o tipo de tag.
 
-1. Selecione o **[!UICONTROL Tag]** e selecione o **[!UICONTROL Valor]** você quer se ocultar.
+1. Selecione a **[!UICONTROL Tag]** e selecione o **[!UICONTROL Valor]** que deseja ocultar.
 
    ![](assets/managing-tag-values-8.png)
 
-1. Em **[!UICONTROL Ações de tag]**, selecione **[!UICONTROL Ocultar]**.
+1. Em **[!UICONTROL Ações de Marca]**, selecione **[!UICONTROL Ocultar]**.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -69,7 +69,7 @@ As tags podem ser usadas por programas antigos. Você pode substituí-los para u
 
 Se quiser ver seus valores ocultos novamente, faça o seguinte:
 
-1. Selecione o **[!UICONTROL Mostrar ocultos]** caixa de seleção Depois de marcado, você poderá ver o valor oculto.
+1. Marque a caixa de seleção **[!UICONTROL Mostrar ocultos]**. Depois de marcado, você poderá ver o valor oculto.
 
    ![](assets/managing-tag-values-10.png)
 

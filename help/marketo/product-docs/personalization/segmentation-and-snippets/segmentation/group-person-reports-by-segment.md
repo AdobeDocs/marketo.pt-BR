@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode agrupar seus relatórios pessoais por qualquer segmento definido em suas segmentações.
 
-1. Ir para **Atividades de marketing** (ou **Analytics**).
+1. Vá para a seção **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -23,19 +23,19 @@ Você pode agrupar seus relatórios pessoais por qualquer segmento definido em s
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. Clique em **Configuração** e clique duas vezes **Agrupar pessoas por**.
+1. Clique na guia **Configuração** e clique duas vezes em **Agrupar pessoas por**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >Também é possível [agrupar seus relatórios de pessoa por pessoa ou atributo de empresa](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+   >Você também pode [agrupar seus relatórios de pessoa por atributo de pessoa ou de empresa](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 
-1. No **Agrupar pessoas por** , comece a digitar &quot;Segmentação&quot; na caixa de texto. Quando a variável **Segmentações** for exibido, selecione um na lista abaixo do cabeçalho.
+1. Na caixa de diálogo **Agrupar pessoas por**, comece digitando &#39;Segmentação&#39; na caixa de texto. Quando o cabeçalho **Segmentações** for exibido, selecione um na lista abaixo do cabeçalho.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Clique em **Relatório** para ver seu relatório agrupado pelo segmento selecionado.
+1. Clique na guia **Relatório** para ver seu relatório agrupado pelo segmento selecionado.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 

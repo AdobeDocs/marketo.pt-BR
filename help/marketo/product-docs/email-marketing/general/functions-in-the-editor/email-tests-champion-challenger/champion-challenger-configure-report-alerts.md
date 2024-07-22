@@ -6,7 +6,7 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ O Marketo enviará relatórios sobre como está indo o teste de email. Veja como
 
 >[!PREREQUISITES]
 >
->[Champion/Challenger: defina critérios de Champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+>[Especialista/Desafiador: Definir Critérios Especialistas](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Vamos agendar o relatório para ser enviado uma vez por semana na sexta-feira às 9:00 AM.
 
@@ -31,7 +31,7 @@ O Marketo enviará relatórios sobre como está indo o teste de email. Veja como
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 

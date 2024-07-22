@@ -13,21 +13,21 @@ ht-degree: 2%
 
 # Editar o CSS de um tema de formulário {#edit-the-css-of-a-form-theme}
 
-Você tem alguns pré-construídos [temas que você pode escolher](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mas se você adora editar o CSS, é possível fazer as alterações desejadas. Veja como.
+Você tem alguns [temas pré-construídos que você pode simplesmente escolher entre](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Mas se você adora editar o CSS, é possível fazer as alterações desejadas. Veja como.
 
 >[!NOTE]
 >
 >Certifique-se de saber o CSS se quiser tentar isso, pois o Suporte do Marketo não está configurado para auxiliar na codificação personalizada. Além disso, as alterações feitas serão aplicadas somente ao formulário que você está editando atualmente.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Ir para **Configurações do formulário**.
+1. Vá para **Configurações de Formulário**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -59,7 +59,7 @@ Você tem alguns pré-construídos [temas que você pode escolher](/help/marketo
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Para ver seu formulário personalizado, clique em **Visualizar rascunho**.
+1. Para ver seu formulário personalizado, clique em **Visualizar Rascunho**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

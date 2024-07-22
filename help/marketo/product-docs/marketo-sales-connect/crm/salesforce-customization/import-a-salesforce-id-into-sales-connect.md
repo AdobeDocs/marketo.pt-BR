@@ -15,8 +15,8 @@ ht-degree: 0%
 
 O Sales Connect usa a ID de contato ou de cliente potencial (também conhecida como ID do Salesforce) para ajudar a registrar as informações adequadamente no Salesforce. Há algumas maneiras de anexar sua ID do Salesforce aos seus contatos no Sales Connect.
 
-[Push para Conexão de Vendas](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): usar Push para Sales Connect criará um contato no Sales Connect com todas as informações principais de contato, incluindo a ID do Salesforce do cliente potencial/contato.
+[Enviar para o Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): usar Enviar para o Sales Connect criará um contato no Sales Connect com todas as informações chave de contato, incluindo a ID do Salesforce do cliente potencial/contato.
 
-[Envie um email de vendas do Marketo, adicione ao Campaign e clique nos botões de chamada no SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): quando você usar qualquer um desses três botões no Salesforce, enviaremos o contato para o Sales Connect com a ID do Salesforce.
+[Enviar email de vendas do Marketo, Adicionar ao Campaign e Clicar para chamar os botões no SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): quando você usar qualquer um desses três botões no Salesforce, enviaremos o contato para o Sales Connect com a ID do Salesforce.
 
-[Importar CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): se você exportar uma lista de clientes potenciais/contatos do Salesforce e incluir uma coluna com a ID do Salesforce, poderá mapear o campo para o Sales Connect na importação.
+[Importar CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): se você exportar uma lista de clientes potenciais/contatos do Salesforce e incluir uma coluna com a ID do Salesforce, poderá mapear o campo para o Sales Connect durante a importação.

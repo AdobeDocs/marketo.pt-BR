@@ -6,20 +6,20 @@ exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---
 
 # Excluir Entradas Diretamente no Calendário de Marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Além de [criando](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} entradas, você pode excluí-las diretamente no Calendário de marketing. Veja como.
+Além de [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} e [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} entradas, você pode excluí-las diretamente no Calendário de marketing. Veja como.
 
-1. Clique em **MU** bloco.
+1. Clique no bloco **MU**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Selecione a entrada que deseja deletar e clique em **[!UICONTROL Mostrar foco do programa]**.
+1. Selecione a entrada que deseja excluir e clique em **[!UICONTROL Mostrar Foco do Programa]**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 

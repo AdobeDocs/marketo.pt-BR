@@ -15,7 +15,7 @@ ht-degree: 9%
 
 **Versão**: o mês/ano de cada versão. Uma vez disponíveis, as notas de versão serão vinculadas na tabela abaixo.
 
-**Data de lançamento**: a implantação normalmente começa na terça-feira da semana de lançamento, com mais da atualização acontecendo na sexta-feira à noite. A data listada é para a atualização de sexta-feira.
+**Data de lançamento**: a implantação normalmente começa na terça-feira da semana de lançamento, com mais atualizações acontecendo na sexta-feira à noite. A data listada é para a atualização de sexta-feira.
 
 **Status**:
 

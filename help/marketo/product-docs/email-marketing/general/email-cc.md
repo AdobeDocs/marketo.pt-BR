@@ -6,7 +6,7 @@ exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Email CC permite que emails especificados enviados pelo Marketo incluam recipients CC.
 
-Esse recurso está disponível em todos os ativos de email do Marketo, independentemente de como o email é enviado (campanha em lote ou de acionador). O recipient CC receberá uma cópia exata do email enviado para a pessoa escolhida do Marketo. Dessa forma, qualquer atividade de envolvimento (aberturas, cliques etc.) será registrado no registro de atividades da pessoa da Marketo na linha &quot;Para&quot; do email. No entanto, a atividade de delivery (enviado, entregue, rejeição permanente etc.) _diferente de &quot;soft bounce&quot;_ irá **não** registrar, pois o Marketo não consegue distinguir os eventos de entrega da Pessoa do Marketo dos recipients do CC. A Marketo só terá CC de até 100.000 pessoas por vez. Se sua lista inteligente exceder 100k e for imperativo que cada pessoa nela tenha CCd, recomendamos dividir sua lista.
+Esse recurso está disponível em todos os ativos de email do Marketo, independentemente de como o email é enviado (campanha em lote ou de acionador). O recipient CC receberá uma cópia exata do email enviado para a pessoa escolhida do Marketo. Dessa forma, qualquer atividade de envolvimento (aberturas, cliques etc.) será registrado no registro de atividades da pessoa da Marketo na linha &quot;Para&quot; do email. No entanto, a atividade de delivery (enviado, entregue, rejeição permanente etc.) _diferente de &quot;rejeição temporária&quot;_ **não** fará o registro, pois a Marketo não pode distinguir os eventos de entrega da Pessoa Marketo dos destinatários CC. A Marketo só terá CC de até 100.000 pessoas por vez. Se sua lista inteligente exceder 100k e for imperativo que cada pessoa nela tenha CCd, recomendamos dividir sua lista.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
 ## Configurar Email CC {#set-up-email-cc}
 
-1. Em Meu Marketo, clique em **Admin**.
+1. Em Minha Marketo, clique em **Administrador**.
 
    ![](assets/one.png)
 
-1. Na árvore, selecione **E-mail**.
+1. Na árvore, selecione **Email**.
 
    ![](assets/two.png)
 
@@ -41,7 +41,7 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
 ## Usando o Email CC {#using-email-cc}
 
-1. Selecione seu email e clique em **Editar rascunho**.
+1. Selecione seu email e clique em **Editar Rascunho**.
 
    ![](assets/five.png)
 
@@ -49,7 +49,7 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
    ![](assets/six.png)
 
-1. Selecione até cinco campos que você deseja usar para CC de pessoas. Neste exemplo, queremos apenas o CC do proprietário do lead. Clique em **Salvar** quando terminar.
+1. Selecione até cinco campos que você deseja usar para CC de pessoas. Neste exemplo, queremos apenas o CC do proprietário do lead. Clique em **Salvar** ao concluir.
 
    ![](assets/seven.png)
 
@@ -63,7 +63,7 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
    ![](assets/eight.png)
 
-   Se o email for aprovado, mas o Administrador do Marketo desativar um ou mais campos CC antes do email ser enviado, **essas pessoas não receberão um email**. Nesse cenário, a visualização Resumo de email esmaecerá todos os campos que foram desativados após a aprovação, mas foram pré-enviados:
+   Se o email for aprovado, mas o Administrador do Marketo desabilitar um ou mais campos CC antes do email ser enviado, **essas pessoas não receberão um email**. Nesse cenário, a visualização Resumo de email esmaecerá todos os campos que foram desativados após a aprovação, mas foram pré-enviados:
 
    ![](assets/removal.png)
 
@@ -77,8 +77,8 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
 >[!TIP]
 >
->Você tem a opção de [desativação de alguns ou de todos os links de rastreamento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) em um email.
+>Você tem a opção de [desabilitar alguns ou todos os links de rastreamento](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) em um email.
 
 * Depois que uma campanha de email for executada, a atividade Enviar email incluirá uma lista de todos os endereços CC incluídos para cada destinatário da correspondência. Se algum endereço CC for ignorado devido ao cancelamento de inscrição, ele também será anotado na atividade.
 * Os links para cancelar a inscrição e as páginas funcionam normalmente em emails com CCd. Isso permite que os recipients do CC cancelem a inscrição com êxito, se desejarem (em conformidade com as regulamentações antisspam), e um registro dessa ação será armazenado no Banco de dados do Marketo.
-* As pessoas listadas como canceladas na inscrição do banco de dados do Marketo **não** receber emails via CC.
+* As pessoas listadas como não inscritas no banco de dados do Marketo **não** receberão emails via CC.

@@ -27,13 +27,13 @@ Depois de definir as visualizações e a frequência de rotação para sua apres
 
 >[!TIP]
 >
->Verifique se _Visualizar uma Apresentação_ antes de iniciar.
+>Certifique-se de _Visualizar uma Apresentação_ antes de iniciar.
 
-1. Clique em **[!UICONTROL Launch]**.
+1. Clique em **[!UICONTROL Iniciar]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Clique em **[!UICONTROL Launch]** mais uma vez. Isso encerrará sua sessão no Marketo para que a apresentação possa ser exibida com segurança.
+1. Clique em **[!UICONTROL Iniciar]** mais uma vez. Isso encerrará sua sessão no Marketo para que a apresentação possa ser exibida com segurança.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Nenhum rascunho é acionado sempre que um trecho é aprovado. Isso inclui um trecho compartilhado ou referenciado por ativos em outros espaços de trabalho.
 
-1. Vá para a **[!UICONTROL Design Studio]**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,7 +25,7 @@ Nenhum rascunho é acionado sempre que um trecho é aprovado. Isso inclui um tre
 
    ![](assets/approve-the-snippet-2.png)
 
-1. No **[!UICONTROL Ações de trecho]** selecione **[!UICONTROL Aprovar rascunho]**.
+1. No menu suspenso **[!UICONTROL Ações de trecho]**, escolha **[!UICONTROL Aprovar rascunho]**.
 
    ![](assets/approve-the-snippet-3.png)
 
@@ -46,4 +46,4 @@ Nenhum rascunho é acionado sempre que um trecho é aprovado. Isso inclui um tre
 
 >[!MORELIKETHIS]
 >
->[Ativar a opção Sem rascunho para trechos](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
+>[Habilitar Não Rascunho para Trechos](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}

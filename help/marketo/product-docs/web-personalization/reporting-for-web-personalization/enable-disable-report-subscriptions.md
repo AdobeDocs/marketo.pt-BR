@@ -7,15 +7,15 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Ativar/desativar assinaturas de relatório {#enable-disable-report-subscriptions}
 
-A Personalização da Web tem vários relatórios úteis que são enviados por email. Veja como se inscrever neles.
+O Web Personalization tem vários relatórios úteis que são enviados por email. Veja como se inscrever neles.
 
-1. Faça logon na Personalização da Web. Em seu nome de logon, clique em **Configurações do usuário**.
+1. Faça logon no Web Personalization. Em seu nome de logon, clique em **Configurações de Usuário**.
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 

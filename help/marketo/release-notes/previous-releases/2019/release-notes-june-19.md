@@ -6,7 +6,7 @@ exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '639'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Os seguintes recursos estão incluídos na versão de junho de 2019. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
-**_Versões trimestrais_**
+**_Versões Trimestrais_**
 
 Os recursos a seguir foram lançados em 14 de junho de 2019.
 
@@ -26,46 +26,46 @@ Os recursos a seguir foram lançados em 14 de junho de 2019.
 
 >[!CAUTION]
 >
->A partir de 18 de junho de 2019, o Email 1.0 não estará mais disponível. Você pode saber mais sobre o Email 2.0 e a desativação do Email 1.0 [aqui](https://nation.marketo.com/docs/DOC-7038).
+>A partir de 18 de junho de 2019, o Email 1.0 não estará mais disponível. Você pode saber mais sobre o Email 2.0 e a descontinuação do Email 1.0 [aqui](https://nation.marketo.com/docs/DOC-7038).
 
 ## Marketing baseado em contas {#account-based-marketing}
 
-* **Correspondência de conta da linkedIn (BETA)** : um novo recurso ABM agora está disponível na versão beta, oferecendo a capacidade de enviar listas de contas conhecidas e de espaços em branco diretamente do Marketo para o LinkedIn. Essa funcionalidade é incluída automaticamente para todos os clientes do Marketo ABM.
+* **LinkedIn Account Matching (BETA)**: um novo recurso ABM agora está disponível na versão beta, oferecendo a capacidade de enviar listas de contas conhecidas e de espaço em branco diretamente do Marketo para o LinkedIn. Essa funcionalidade é incluída automaticamente para todos os clientes do Marketo ABM.
 
 <br> 
 
-**_Lançamento durante todo o trimestre_**
+**_Liberando Durante o Trimestre_**
 
 Espera-se que os seguintes recursos sejam lançados ao longo do segundo trimestre e até ao início do terceiro trimestre de 2019.
 
 ## Marketo Sky {#marketo-sky}
 
-* **Limites de evento** e **Metas do evento** geralmente estão disponíveis no Marketo Sky sob o complemento Eventos premium.
+* As **Limitações de eventos** e as **Metas de eventos** geralmente estão disponíveis no Marketo Sky sob o complemento Eventos Premium.
 
    * Limites de evento: otimize a experiência do cliente para seus eventos e webinários com limites de registro, redirecionamentos de página e funcionalidade de lista de espera.
    * Metas do evento: defina metas de registro e participação no evento e acompanhe o progresso em tempo real.
 
-* **Links de navegação completa**: Ativamos a navegação para todos os aplicativos com permissões, como Hootsuite, Calendário e muito mais.
-* **Exibições de email, página de aterrissagem, trecho, formulário, imagem e lista de arquivos**: visualize, pesquise e execute ações em massa em qualquer um de seus ativos no Design Studio.
-* **Página Detalhes da Imagem, Arquivo e Snippet**: obtenha detalhes rápidos sobre seus ativos com metadados como _criado em/por_ e ações como _excluir_ e _aprovar_.
-* **Widget de publicações do blog da comunidade**: acesse publicações recentes da Comunidade no My Marketo.
+* **Links de Navegação Completos**: habilitamos a navegação para todos os aplicativos com permissão, como Hootsuite, Calendário e muito mais.
+* **Email, Página de Aterrissagem, Trecho, Formulário, Imagem e Exibições da Lista de Arquivos**: Exiba, pesquise e execute ações em massa em qualquer um dos seus ativos no Design Studio.
+* **Página de detalhes de imagem, arquivo e trecho**: obtenha detalhes rápidos sobre seus ativos com metadados como _criado às/por_ e ações como _excluir_ e _aprovar_.
+* **Widget de postagens do blog da comunidade**: acesse postagens recentes da comunidade no My Marketo.
 * **Widget de expiração em breve**: adicione o widget &quot;Expirando em breve&quot; ao painel Meu Marketo para ver quais campanhas e páginas de aterrissagem estão definidas para expirar em seguida.
-* **Mais cartões de lista inteligente**: segmente e direcione adequadamente com cartões de lista inteligente adicionais, incluindo a etapa de fluxo &quot;Criar tarefa&quot;, regras de lista inteligente do CRM e muito mais.
-* **Página de detalhes do e-mail Champion/Challenger**: veja dados como critérios de vitória, criados em, etc. dos testes de campeão/desafiante por email.
+* **Mais Cartões de Lista Inteligente**: segmente e direcione adequadamente com cartões de lista inteligente adicionais, incluindo a etapa de fluxo &quot;Criar Tarefa&quot;, as regras de lista inteligente de CRM e muito mais.
+* **Página de detalhes do desafiante/especialista de email**: veja dados como critérios vencedores, criados em, etc. dos testes de campeão/desafiante por email.
 
 ## Marketo Sales Connect {#marketo-sales-connect}
 
-* **Ações em massa na personalização do Salesforce**: maximize a produtividade enviando emails e adicionando contatos a campanhas em massa com a Personalização do Salesforce.
-* **Configurações - Página do Salesforce para administradores e não administradores**: gerencie sua instância do Sales Connect com uma exibição clara da instância do Salesforce conectada ao Sales Connect, bem como minhas atualizações do Email para o Salesforce. As configurações aprimoradas de sincronização para administradores, não administradores e toda a equipe de sincronização serão lançadas nos próximos meses.
-* **Configurações - Página de integração**: um balcão único para todas as suas integrações, para que você possa aproveitar ao máximo o nosso ecossistema aberto.
-* **Configurações - Página de perfil**: visualize e atualize os detalhes da sua conta, altere sua senha e verifique o status da implementação da sua instância nesta nova página de perfil.
+* **Ações em massa na personalização do Salesforce**: maximize a produtividade enviando emails e adicionando contatos a campanhas em massa com a personalização do Salesforce.
+* **Configurações - Página do Salesforce para administradores e não administradores**: gerencie sua instância do Sales Connect com uma visão clara da instância do Salesforce conectada ao Sales Connect, bem como de minhas atualizações do Salesforce. As configurações aprimoradas de sincronização para administradores, não administradores e toda a equipe de sincronização serão lançadas nos próximos meses.
+* **Configurações - Página de integração**: um local central para todas as suas integrações, para que você possa aproveitar ao máximo o nosso ecossistema aberto.
+* **Configurações - Página Perfil**: visualize e atualize os detalhes da sua conta, altere sua senha e verifique o status da implementação da sua instância nesta nova página de perfil.
 
-* **Modelos de email do sistema**: recursos atualizados de design, capacidade de resposta e internacionalização.
+* **Modelos de email do sistema**: recursos de design, capacidade de resposta e internacionalização atualizados.
 
 ## Bizible do Marketo {#bizible-by-marketo}
 
-* **Suporte a várias moedas para Dynamics**: a Bizible agora se adapta às tabelas de moeda do Microsoft Dynamics, para que você possa alternar facilmente entre moedas corporativas e locais. (Observação: o suporte ao SFDC foi lançado no primeiro trimestre de 2019.)
-* **Integração de Deriva**: entenda como as conversas sobre o Drift afetam a jornada do cliente. A Bizible também extrairá endereços de email de conversas para criar um novo lead ou conectar o ponto de contato a um lead existente.
-* **Localização**: a Bizible agora está disponível em todos os idiomas com suporte no Marketo (inglês, japonês, alemão, espanhol, francês e português).
+* **Suporte a Várias Moedas para Dynamics**: a Bizible agora se adapta às tabelas de moeda do Microsoft Dynamics, para que você possa alternar facilmente entre moedas corporativas e locais. (Observação: o suporte ao SFDC foi lançado no primeiro trimestre de 2019.)
+* **Integração de Drift**: entenda como as conversas de Drift afetam a jornada do cliente. A Bizible também extrairá endereços de email de conversas para criar um novo lead ou conectar o ponto de contato a um lead existente.
+* **Localização**: a Bizible agora está disponível em todos os idiomas com suporte da Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
-***Webinário de lançamento do produto*** Assista à gravação do nosso webinário sobre inovações na versão de junho de 1919 [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+***Webinar sobre a versão do produto*** Assista à gravação do nosso webinário sobre as inovações da versão de 19 de junho [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

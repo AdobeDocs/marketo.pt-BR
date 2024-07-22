@@ -19,7 +19,7 @@ Para cada modelo de ciclo de receita, é possível gerar um relatório sobre qua
 >
 >Os clientes em potencial devem ser membros do modelo a ser incluído no relatório.
 
-1. Ir para **Analytics**.
+1. Vá para **Analytics**.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
@@ -27,11 +27,11 @@ Para cada modelo de ciclo de receita, é possível gerar um relatório sobre qua
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Clique no link **Configuração** e, abaixo da seção de filtro, clique duas vezes em **Modelo de ciclo de receita**.
+1. Clique na guia **Configuração** e, abaixo da seção de filtro, clique duas vezes em **Modelo de Ciclo de Receita**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Selecione o aprovado **Modelo**.
+1. Selecione o **Modelo** aprovado.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
@@ -39,7 +39,7 @@ Para cada modelo de ciclo de receita, é possível gerar um relatório sobre qua
    >
    >Para estar disponível nesse menu suspenso, o modelo deve ser aprovado ou ter pelo menos estágios aprovados.
 
-1. Clique em **Relatório** para ver quantos clientes em potencial há em cada estágio do modelo de ciclo de receita.
+1. Clique na guia **Relatório** para ver quantos clientes em potencial estão em cada estágio do seu modelo de ciclo de receita.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 

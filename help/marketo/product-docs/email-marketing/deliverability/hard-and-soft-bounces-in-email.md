@@ -6,7 +6,7 @@ exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -19,21 +19,21 @@ Uma rejeição permanente pode tornar o endereço de email de uma pessoa inváli
 
 Há 5 strings de pessoas no Marketo relacionadas à entrega de email com problemas.
 
-1. **Email Suspenso** - Definido como True quando ocorrer um determinado tipo de rejeição permanente.
-1. **Causa de suspensão de email** - Pode haver muitas razões. Este campo tenta explicar a causa.
-1. **Email Suspenso em** - Quando a rejeição ofensiva ocorrer, o Marketo suspenderá o correio para a pessoa por 24 horas a partir desse carimbo de data e hora.
-1. **Email inválido** - Definido como True quando ocorrer um determinado tipo de rejeição permanente.
-1. **Causa inválida de email** - O motivo da rejeição permanente.
+1. **Email Suspenso** - Definido como Verdadeiro quando ocorrer um determinado tipo de rejeição permanente.
+1. **Causa de suspensão de email** - Pode haver muitos motivos. Este campo tenta explicar a causa.
+1. **Email Suspenso às** - Quando a rejeição ofensiva ocorrer, o Marketo suspenderá a correspondência para a pessoa por 24 horas a partir desse carimbo de data/hora.
+1. **Email Inválido** - Definido como Verdadeiro quando ocorrer um determinado tipo de rejeição permanente.
+1. **Causa Inválida de Email** - O motivo da rejeição permanente.
 
 >[!NOTE]
 >
->Depois que uma pessoa atinge **email suspenso** status, não há como desmarcar a caixa de seleção email suspenso. No entanto, a pessoa ainda poderá enviar correio 24 horas após a suspensão inicial.
+>Depois que uma pessoa atinge o status de **email suspenso**, não há como limpar a caixa de seleção email suspenso. No entanto, a pessoa ainda poderá enviar correio 24 horas após a suspensão inicial.
 >
->Quando uma pessoa é marcada como **email inválido** No entanto, elas só podem ser redefinidas manualmente (o que recomendamos que você só faça se tiver certeza de que o email delas é válido) ao desmarcar a caixa &quot;Email inválido&quot; na guia Informações de pessoa do registro.
+>Quando uma pessoa é marcada como **email inválido**, ela só pode ser redefinida manualmente (o que recomendamos que você saiba que o email dela é válido) ao desmarcar a caixa &quot;Email inválido&quot; na guia Informações da pessoa do registro.
 
 >[!PREREQUISITES]
 >
->Seguir [estas etapas](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) para criar um Relatório de desempenho de email, que gerará dados de devolução.
+>Siga [estas etapas](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) para criar um Relatório de desempenho de email que gerará dados de devolução.
 
 Depois de criar o Relatório de desempenho de email, sua tela deve ter esta aparência:
 

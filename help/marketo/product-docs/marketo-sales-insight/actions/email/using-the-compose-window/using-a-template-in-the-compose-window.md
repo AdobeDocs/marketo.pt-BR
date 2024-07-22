@@ -5,7 +5,7 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Localização e uso de modelos {#finding-and-using-templates}
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
@@ -40,17 +40,17 @@ ht-degree: 0%
 
 ## Fixando Categorias de Modelo na Janela Compor {#pinning-template-categories-in-the-compose-window}
 
-Favorito **até cinco** categorias de modelo específicas para obter acesso rápido aos modelos mais usados.
+Marque **até cinco** categorias de modelo específicas para obter acesso rápido aos modelos mais usados.
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Clique em **+** ícone ao lado de Favoritos.
+1. Clique no ícone **+** ao lado de Favoritos.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Clique em **Fixar uma Categoria** e selecione a categoria desejada.
+1. Clique no menu suspenso **Fixar uma Categoria** e selecione a categoria desejada.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ Favorito **até cinco** categorias de modelo específicas para obter acesso ráp
 
    >[!NOTE]
    >
-   >**Favoritos** está lá por padrão. Ele contém templates de email favoritos, não categorias.
+   >Por padrão, **Favoritos** estão lá. Ele contém templates de email favoritos, não categorias.
 
    A categoria selecionada agora está fixada.

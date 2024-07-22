@@ -51,7 +51,7 @@ Os administradores podem interromper as campanhas em nome dos usuários.
 
    * Os usuários podem compartilhar grupos com todos
    * Os usuários podem compartilhar grupos apenas com as equipes às quais pertencem
-   * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador Principal que excluiu o usuário
+   * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador principal que excluiu o usuário
 
 * Sales Beat - Next e Live Feed:
 
@@ -69,4 +69,4 @@ Os administradores podem interromper as campanhas em nome dos usuários.
    * Os usuários podem compartilhar modelos com todos
    * Os usuários podem compartilhar modelos em categorias que os administradores permitem
    * Quando um usuário é removido de uma equipe, seus modelos não são compartilhados com essa equipe
-   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador Principal que excluiu o usuário
+   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador principal que excluiu o usuário

@@ -6,8 +6,8 @@ exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 4%
+source-wordcount: '465'
+ht-degree: 1%
 
 ---
 
@@ -17,11 +17,11 @@ Os seguintes recursos estão incluídos na versão de maio de 2014. Verifique a 
 
 ## Excluir área de trabalho {#delete-workspace}
 
-Agora é possível [excluir um espaço de trabalho não utilizado](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Certifique-se de mover todos os ativos para outro espaço de trabalho antes de tentar excluí-lo.
+Agora você pode [excluir um espaço de trabalho não utilizado](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Certifique-se de mover todos os ativos para outro espaço de trabalho antes de tentar excluí-lo.
 
 ## Agendar primeira conversão {#schedule-first-cast}
 
-Em programas de engajamento, você pode agendar a data para a [primeira conversão a ser executada](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Por exemplo, especifique a cadência a cada 2 semanas e selecione a data da primeira conversão.
+Em programas de engajamento, você pode agendar a data de execução de [primeira conversão](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Por exemplo, especifique a cadência a cada 2 semanas e selecione a data da primeira conversão.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,7 +33,7 @@ Agora todos têm vários programas, transmissões e limites de comunicação.
 
 ## Rastreamento de link em emails de texto {#link-tracking-in-text-emails}
 
-[Adicionar colchetes duplos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) contorne URLs na versão de texto de seus emails para indicar quando os links devem ser convertidos em links de rastreamento do Marketo redirecionados
+[Adicione colchetes duplos](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) sobre URLs na versão em texto de seus emails para indicar quando os links devem ser convertidos em links de rastreamento de Marketo redirecionados
 
 >[!NOTE]
 >
@@ -43,13 +43,13 @@ Agora todos têm vários programas, transmissões e limites de comunicação.
 
 Por padrão, nenhum link será rastreado na versão de texto dos emails. Adicione essa nova sintaxe para indicar quando um link deve ser convertido em um link de rastreamento. O comportamento dos links de HTML é inalterado.  Para adicionar links rastreados aos emails:
 
-* **Versão do HTML:** Basta inserir seu link. Ele será rastreado por padrão.
+* **versão do HTML:** basta inserir seu link. Ele será rastreado por padrão.
 * **Versão do texto:** Insira a URL cercada por colchetes duplos.
 
 Para adicionar links não rastreados aos emails:
 
-* **Versão do HTML:** Insira seu link e adicione a classe &quot;mktNoTrack&quot; ao link.
-* **Versão do texto:** Basta inserir o URL. Ele não será rastreado por padrão.
+* **Versão do HTML:** insira seu link e adicione a classe &quot;mktNoTrack&quot; ao link.
+* **Versão do texto:** Basta inserir a URL. Ele não será rastreado por padrão.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
 
@@ -59,7 +59,7 @@ Veja como seus links se comportarão em emails antecipadamente. Os emails de amo
 
 ## Anular campanha {#abort-campaign}
 
-Não entre em pânico! Se você encontrar um erro, use o novo [cancelar campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) botão para interromper imediatamente as campanhas em suas faixas. Você receberá uma notificação descrevendo quantos leads estavam pendentes em cada etapa do fluxo quando a campanha foi interrompida.
+Não entre em pânico! Se você encontrar um erro, use o novo botão [abortar campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para interromper imediatamente as campanhas em suas faixas. Você receberá uma notificação descrevendo quantos leads estavam pendentes em cada etapa do fluxo quando a campanha foi interrompida.
 
 ## Sales Insight em japonês, português e espanhol {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,16 +69,16 @@ Baixe a versão mais recente do Sales Insight no AppExchange para que seus agent
 
 ## Status do Programa e Período de Sucesso na Análise de Associação ao Programa {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Visualizar quantos [membros estão em cada Status do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando eles foram alterados para cada status, incluindo a data em que obtiveram êxito no Programa.
+Visualize quantos [membros estão em cada Status do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando eles foram alterados para cada status, incluindo a data em que obtiveram êxito no Programa.
 
 ## Emails de teste A/B na Análise de email {#a-b-test-emails-in-email-analysis}
 
-Relatório sobre cada um dos [Variantes de email de teste A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) em Análise de email.
+Relatório sobre cada uma das [variantes de email de teste A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) na Análise de email.
 
 ## Alterações de empacotamento do Analytics {#analytics-packaging-changes}
 
-O Modelador de ciclo de receita e o Analisador de caminho de sucesso agora estão incluídos no MA Standard Edition.
+O Revenue Cycle Modeler e o Success Path Analyzer agora estão incluídos no MA Standard Edition.
 
 ## Informações da plataforma móvel {#mobile-platform-info}
 
-[Segmentar e desacionar leads ao abrir e clicar em e-mails em seus dispositivos móveis.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
+[Segmente e acione](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) sem clientes potenciais abrindo e clicando nos emails de seus dispositivos móveis.

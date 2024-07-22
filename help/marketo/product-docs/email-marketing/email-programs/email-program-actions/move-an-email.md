@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Precisa mover um email de um programa para outro? Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/move-an-email-1.png)
 
@@ -23,7 +23,7 @@ Precisa mover um email de um programa para outro? Veja como.
 
    ![](assets/move-an-email-2.png)
 
-1. Selecione o **Destino**, **Programa** e opcional **Pasta**. Selecionar **Mover**.
+1. Selecione o **Destino**, o **Programa** e a **Pasta** opcional. Selecione **Mover**.
 
    ![](assets/move-an-email-3.png)
 

@@ -6,7 +6,7 @@ exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ A seção email oferece uma visualização rápida de todos os seus emails e sim
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Azul"><strong title="">Enviado</strong></td> 
-   <td title="Cor do plano de fundo : Azul">Entregues</td> 
+   <td title="Cor do plano de fundo : Azul">Entrega</td> 
    <td title="Cor do plano de fundo : Azul">Emails que foram entregues ao recipient.</td> 
   </tr> 
   <tr> 
@@ -47,17 +47,17 @@ A seção email oferece uma visualização rápida de todos os seus emails e sim
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Cinza"><strong title="">Pendente</strong></td> 
-   <td title="Cor do plano de fundo : Cinza">Agendado</td> 
+   <td title="Cor do plano de fundo : Cinza">Programado</td> 
    <td title="Cor do plano de fundo : Cinza">Emails programados para serem enviados no momento. Depois que um email é enviado, ele é movido para a pasta entregue.</td> 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Cinza"><br></td> 
    <td title="Cor do plano de fundo : Cinza">Rascunho</td> 
-   <td title="Cor do plano de fundo : Cinza"><p>Emails que foram salvos como rascunho.<br><strong>Nota:</strong> Somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</p></td> 
+   <td title="Cor do plano de fundo : Cinza"><p>Emails que foram salvos como rascunho.<br><strong>Observação:</strong> somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</p></td> 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Cinza"><br></td> 
-   <td title="Cor do plano de fundo : Cinza">em andamento</td> 
+   <td title="Cor do plano de fundo : Cinza">Em andamento</td> 
    <td title="Cor do plano de fundo : Cinza">Esse é um estado intermediário em que os emails entram quando estão no movimento de envio. Os emails devem estar em andamento por alguns instantes.</td> 
   </tr> 
   <tr> 
@@ -68,12 +68,12 @@ A seção email oferece uma visualização rápida de todos os seus emails e sim
   <tr> 
    <td title="Cor do plano de fundo : Azul"><br></td> 
    <td title="Cor do plano de fundo : Azul">Devolvido</td> 
-   <td title="Cor do plano de fundo : Azul"><p>Emails que foram rejeitados do servidor de email dos recipients. <br><strong>Nota:</strong> Isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos servidores MSC como um canal de entrega.</p></td> 
+   <td title="Cor do plano de fundo : Azul"><p>Emails que foram rejeitados do servidor de email dos recipients. <br><strong>Observação:</strong> só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</p></td> 
   </tr> 
   <tr> 
    <td title="Cor do plano de fundo : Azul"><br></td> 
    <td title="Cor do plano de fundo : Azul">Spam</td> 
-   <td title="Cor do plano de fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Nota:</strong> Isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos servidores MSC como um canal de entrega.</p></td> 
+   <td title="Cor do plano de fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Observação:</strong> só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -95,5 +95,5 @@ Bônus: se você salvar sua pesquisa avançada, ela funcionará como uma lista d
 >[!MORELIKETHIS]
 >
 >* [Tarefas](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
->* [Visão geral da pesquisa avançada](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [Escrevendo emails em massa com Selecionar e enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [Visão geral da Pesquisa Avançada](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [Compondo Emails em Massa com Selecionar e Enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

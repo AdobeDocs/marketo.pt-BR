@@ -6,8 +6,8 @@ exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 1%
+source-wordcount: '264'
+ht-degree: 0%
 
 ---
 
@@ -34,11 +34,11 @@ Primeiro, verifique se você tem os valores corretos da lista de seleção em vi
 1. Clique em Personalizar.
 1. Clique em Atividades.
 1. Clique em Campos de tarefa.
-1. Tipo de clique.
+1. Clique em Tipo.
 1. Você está agora na Lista de opções de tipos de tarefa. Verifique se não há um &#39;Padrão&#39; selecionado.
 1. Verifique se há um valor de Tipo listado para Email, Chamada e Resposta.
 
-Agora que isso foi feito, você começará a ver o campo Type preenchendo o valor correspondente para Emails, Chamadas e Respostas registrados. Esses valores serão _não_ será preenchida nas tarefas de lembrete do Sales Connect.
+Agora que isso foi feito, você começará a ver o campo Type preenchendo o valor correspondente para Emails, Chamadas e Respostas registrados. Esses valores _não_ serão preenchidos nas tarefas de lembrete do Sales Connect.
 
 >[!NOTE]
 >

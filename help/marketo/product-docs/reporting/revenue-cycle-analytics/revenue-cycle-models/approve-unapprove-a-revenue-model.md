@@ -17,11 +17,11 @@ Você pode ter somente um modelo aprovado em um determinado momento.
 
 >[!CAUTION]
 >
->[Estágios individuais devem ser aprovados](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) e pessoas adicionadas antes de aprovar um modelo inteiro.
+>[Estágios individuais devem ser aprovados](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) e pessoas adicionadas antes da aprovação de um modelo inteiro.
 
 ## Aprovar {#approve}
 
-1. Vá para a **Analytics** área.
+1. Vá para a área **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,7 +29,7 @@ Você pode ter somente um modelo aprovado em um determinado momento.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. No **Ações do modelo** escolha **Aprovar modelo**.
+1. No menu **Ações de Modelo**, escolha **Aprovar Modelo**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
@@ -45,7 +45,7 @@ Sua modelo agora está disponível.
 >
 >Se você cancelar a aprovação do modelo, todas as pessoas serão removidas do modelo e o histórico delas no modelo será excluído!
 
-1. Vá para a **Analytics** área.
+1. Vá para a área **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ Sua modelo agora está disponível.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Clique em **Ações do modelo** e escolha **Cancelar aprovação do modelo**.
+1. Clique no menu **Ações de Modelo** e escolha **Cancelar Aprovação do Modelo**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Na caixa de diálogo exibida, clique em **Cancelar aprovação do modelo**.
+1. Na caixa de diálogo exibida, clique em **Cancelar Aprovação do Modelo**.
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

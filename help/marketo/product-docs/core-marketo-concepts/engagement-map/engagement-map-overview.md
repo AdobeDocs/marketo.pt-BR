@@ -1,10 +1,10 @@
 ---
 description: Visão geral do mapa de engajamento - Documentação do Marketo - Documentação do produto
 title: Visão geral do mapa de engajamento
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ O Mapa de engajamento permite visualizar intuitivamente suas Campanhas inteligen
 
 ## Acesso ao Mapa de engajamento {#accessing-engagement-map}
 
-Navegue até qualquer campanha existente e clique no link **Mapa de engajamento** botão.
+Navegue até qualquer campanha existente e clique no botão **Mapa de Envolvimento**.
 
 ![](assets/engagement-map-overview-2.png)
 
-Uma vez no Mapa de engajamento, você verá duas guias: [Mapa de engajamento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+Uma vez no Mapa de Envolvimento, você verá duas guias: [Mapa de Envolvimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} e [Configurações](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -33,9 +33,9 @@ Uma vez no Mapa de engajamento, você verá duas guias: [Mapa de engajamento](/h
 
 **Triggers**: em campanhas que incluem acionadores, o mapa terá um cartão &quot;Visão geral do acionador&quot;. Clicar nesse ícone revelará um cartão para cada acionador, bem como um painel deslizante com informações adicionais.
 
-**Filtros**: em campanhas que incluem filtros, o mapa conterá um cartão Visão geral do filtro. Clicar nele revelará um painel deslizante com informações adicionais sobre cada filtro.
+**Filtros**: em campanhas que incluem filtros, o mapa conterá um cartão de Visão Geral de Filtro. Clicar nele revelará um painel deslizante com informações adicionais sobre cada filtro.
 
-**Etapas de fluxo**: cada campanha incluirá um cartão para cada etapa do fluxo. Clicar neles revelará um painel deslizante com informações adicionais.
+**Etapas de Fluxo**: cada campanha incluirá um cartão para cada etapa de fluxo. Clicar neles revelará um painel deslizante com informações adicionais.
 
 **Opções**: se uma etapa de fluxo incluir uma ou mais opções, clicar no cartão de fluxo revelará um cartão para cada escolha, bem como um painel deslizante com informações adicionais.
 
@@ -71,23 +71,23 @@ A navegação superior inclui os seguintes recursos:
 
 ## Perguntas frequentes {#faq}
 
-**Preciso reconstruir todas as minhas campanhas no Mapa de engajamento?**
+**Preciso reconstruir todas as minhas campanhas no Mapa de Envolvimento?**
 
 Nº O Mapa de engajamento tem compatibilidade total com versões anteriores. Com apenas um clique, você poderá ver cada uma de suas campanhas existentes na interface visual do Mapa de engajamento.
 
-**Ter o Mapa de engajamento no Marketo Engage significa que perderei o acesso à estrutura de pastas e precisarei reaprender a criar uma Campanha inteligente?**
+**Ter o Mapa de Envolvimento no Marketo Engage significa que perderei o acesso à estrutura de pastas e terei que reaprender como criar uma Campanha Inteligente?**
 
 Nº O melhor do mapa de engajamento é que ele oferece o melhor dos dois mundos; complementa a maneira atual de criar campanhas. Todos os usuários ainda receberão o conjunto de recursos avançados do Marketo Engage, agora complementado por visuais claros.
 
-**O Mapa de engajamento é um complemento pago?**
+**O Mapa de Envolvimentos é um complemento pago?**
 
 Nº Todos os usuários existentes e novos do Marketo Engage em todas as assinaturas terão acesso a esse recurso complementar.
 
-**Como administrador de Marketo Engage, sou responsável por ativar/desativar o Mapa de engajamento?**
+**Como administrador de Marketo Engage, sou responsável por ativar/desativar o Mapa de Envolvimento?**
 
 Nº O Mapa de engajamento estará disponível para todos os usuários em suas instâncias. Você não poderá ativá-lo/desativá-lo para determinados usuários, espaços de trabalho, etc.
 
-**Como isso é diferente de outros construtores visuais?**
+**Qual é a diferença em relação aos outros construtores visuais?**
 
 Há três itens principais que destacam o Mapa de engajamento:
 
@@ -99,5 +99,5 @@ Há três itens principais que destacam o Mapa de engajamento:
 
 >[!MORELIKETHIS]
 >
->* [Guia Mapa de engajamento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [Guia de Mapa de Envolvimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
 >* [Guia Configurações](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

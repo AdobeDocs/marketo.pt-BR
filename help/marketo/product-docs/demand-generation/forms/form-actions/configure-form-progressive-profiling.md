@@ -6,7 +6,7 @@ exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 1%
 
 ---
@@ -17,25 +17,25 @@ Formas curtas são boas! Quando alguém retorna a um formulário, é possível a
 
 >[!NOTE]
 >
->Para que esse recurso funcione corretamente, verifique se o Preenchimento prévio de formulário está ativado para campos visíveis e [desabilitado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para campos ocultos.
+>Para que esse recurso funcione corretamente, verifique se o Preenchimento prévio de formulário está habilitado para campos visíveis e [desabilitado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para campos ocultos.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma-1.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Em **Configurações do formulário**, clique em **Configurações**.
+1. Em **Configurações de formulário**, clique em **Configurações**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Definir **Definição de perfil progressiva** para **Ativado**.
+1. Definir **Criação de Perfil Progressiva** para **Habilitado**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Ok, agora vamos configurá-lo. Ir para **Detalhes do campo**.
+1. Ok, agora vamos configurá-lo. Vá para **Detalhes do campo**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,9 +49,9 @@ Formas curtas são boas! Quando alguém retorna a um formulário, é possível a
 
    >[!NOTE]
    >
-   >Os campos fora do **Definição de perfil progressiva** sempre será exibido no formulário, mesmo se estiverem preenchidos.
+   >Os campos fora da caixa **Criação de perfil progressiva** sempre serão exibidos no formulário, mesmo se estiverem preenchidos.
 
-1. Selecione o **Definição de perfil progressiva** caixa.
+1. Selecione a caixa **Progressive Profiling**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -59,7 +59,7 @@ Formas curtas são boas! Quando alguém retorna a um formulário, é possível a
    >
    >Tenha cuidado ao usar campos obrigatórios na Criação de perfil progressiva. Esses campos ainda podem ser deixados em branco se o visitante inserir um novo endereço de email (que criaria uma nova pessoa) após enviar dados anteriormente para os outros campos, pois seriam suprimidos no formulário mais recente.
 
-1. Agora escolha quantos campos em branco você deseja que as pessoas vejam no **Definição de perfil progressiva** a qualquer momento.
+1. Agora escolha quantos campos em branco você deseja que as pessoas vejam na caixa **Criação de perfil progressiva** em um determinado momento.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
@@ -90,7 +90,7 @@ Formas curtas são boas! Quando alguém retorna a um formulário, é possível a
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

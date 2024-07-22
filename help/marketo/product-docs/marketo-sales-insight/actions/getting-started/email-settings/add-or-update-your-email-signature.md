@@ -22,7 +22,7 @@ Queremos que o envio por email do setor de Vendas Marketo seja uma experiência 
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. No **Endereço e Assinatura** selecione a identidade de email para a qual deseja criar uma assinatura.
+1. Na guia **Endereço e Assinatura**, selecione a identidade de email para a qual deseja criar uma assinatura.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
@@ -30,7 +30,7 @@ Queremos que o envio por email do setor de Vendas Marketo seja uma experiência 
 
    ![](assets/add-or-update-your-email-signature-4.png)
 
-1. Insira o texto (ou imagens) desejado e clique em **Salvar**.
+1. Insira o texto (ou imagens) desejado(s) e clique em **Salvar**.
 
    ![](assets/add-or-update-your-email-signature-5.png)
 

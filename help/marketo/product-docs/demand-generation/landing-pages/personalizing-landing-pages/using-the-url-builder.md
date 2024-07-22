@@ -17,9 +17,9 @@ O Construtor de URL ajuda a construir URLs que podem preencher campos de formul�
 
 >[!PREREQUISITES]
 >
->Saiba como criar campos ocultos em formulários e editar suas configurações no [Definir um campo de formulário como oculto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
+>Saiba como criar campos ocultos em formulários e editar suas configurações em [Definir um campo de formulário como oculto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Selecione uma landing page, clique em **Ações da landing page**, passe o mouse sobre **Ferramentas de URL** e, em seguida, clique em **Construtor de URL**.
+1. Selecione uma página de aterrissagem, clique em **Ações da página de aterrissagem**, passe o mouse sobre **Ferramentas de URL** e clique em **Construtor de URL**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
@@ -29,6 +29,6 @@ O Construtor de URL ajuda a construir URLs que podem preencher campos de formul�
 
    >[!NOTE]
    >
-   >Se você não vir campos disponíveis no construtor, verifique se o formulário tem campos ocultos e se eles estão [definir para aceitar parâmetros de URL](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
+   >Se você não vir campos disponíveis no construtor, verifique se o formulário tem campos ocultos e se eles estão [definidos para aceitar Parâmetros de URL](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Ótimo! Agora você pode copiar e colar o URL e usá-lo na Web.

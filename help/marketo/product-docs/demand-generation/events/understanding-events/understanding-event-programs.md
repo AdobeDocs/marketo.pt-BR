@@ -30,10 +30,10 @@ Um programa de evento é um tipo de programa que pode ser usado para automatizar
 >* Feiras de Negócios
 >* Encontros
 
-Os eventos podem se conectar automaticamente ao [provedor de webinário](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) e sincronizar com um [aplicativo de check-in do iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Os eventos podem se conectar automaticamente ao seu [provedor de webinário](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md), bem como sincronizar com um [aplicativo de check-in do iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
->* [Criar um novo programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [Criar um Novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [Parceiros de eventos do LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [Parceiros de Eventos do LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

@@ -14,7 +14,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Para saber como habilitar o check-out da Sincronização de Tarefas [Sincronizar tarefas/lembretes do Sales Connect com tarefas do Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>Para saber como habilitar a Sincronização de Tarefas, confira [Sincronizar Tarefas/Lembretes do Sales Connect com Tarefas do Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
 
 Quando as configurações de sincronização de tarefas estiverem habilitadas, os usuários verão suas tarefas de lembrete sincronizadas bidirecionalmente com o Salesforce. Isso significa que os usuários podem gerenciar tarefas do Salesforce ou do Sales Connect e ter certeza de que os sistemas permanecerão alinhados.
 
@@ -63,7 +63,7 @@ Abaixo está uma lista dos campos de tarefa de lembrete no Sales Connect e seus 
 
 ## Sincronizando pela primeira vez as tarefas do Sales Connect com o Salesforce {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Quando você ativa a sincronização entre as tarefas do Sales Connect e do Salesforce pela primeira vez, importamos suas tarefas do Salesforce. Iremos **não** insira todas as tarefas atuais que você tem no Sales Connect para o Salesforce. Para reduzir a desordem e as duplicatas, as únicas tarefas sincronizadas do Sales Connect no Salesforce são as tarefas criadas *após* Você sincroniza o Sales Connect com o SFDC.
+Quando você ativa a sincronização entre as tarefas do Sales Connect e do Salesforce pela primeira vez, importamos suas tarefas do Salesforce. Nós **não** transferiremos quaisquer tarefas atuais que você tenha no Sales Connect para o Salesforce. Para reduzir a desordem e as duplicatas, as únicas tarefas que são sincronizadas do Sales Connect no Salesforce são as tarefas criadas *depois* de você sincronizar o Sales Connect com o SFDC.
 
 Veja o que acontece quando você sincroniza tarefas do Sales Connect e do SFDC:
 
@@ -77,8 +77,8 @@ Veja o que acontece quando você sincroniza tarefas do Sales Connect e do SFDC:
 
 Após a sincronização inicial, todas as tarefas que você criar, editar, concluir ou excluir no Sales Connect serão sincronizadas com sua lista de tarefas no Salesforce. Qualquer ação criada, editada, concluída ou excluída no Salesforce atualizará sua lista de tarefas no Sales Connect.
 
-Para ativar esta sincronização, marque a caixa de sincronização no [Página Configurações](https://toutapp.com/login) no aplicativo web.
+Para ativar esta sincronização, marque a caixa de sincronização na [página Configurações](https://toutapp.com/login) do aplicativo Web.
 
 >[!NOTE]
 >
->O campo assunto de uma tarefa pode ser atualizado no Sales Connect e essa atualização será sincronizada no campo assunto do Salesforce da tarefa sincronizada correspondente, se você estiver usando o `{{activity_subject}}` campo dinâmico no seu [Personalização dos detalhes da atividade](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) configurações. Por outro lado, quaisquer atualizações feitas no campo de assunto no Salesforce _não_ sincronize com o campo de assunto da tarefa de lembrete do Sales Connect.
+>O campo de assunto de uma tarefa pode ser atualizado no Sales Connect e essa atualização será sincronizada no campo de assunto do Salesforce da tarefa sincronizada correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` nas configurações de [Personalização de detalhes da atividade](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Por outro lado, qualquer atualização feita no campo de assunto no Salesforce _não_ sincronizará com o campo de assunto da tarefa de lembrete do Sales Connect.

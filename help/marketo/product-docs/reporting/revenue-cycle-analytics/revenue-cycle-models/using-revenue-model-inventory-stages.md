@@ -21,11 +21,11 @@ Todos os clientes em potencial e contas conhecidos residem inicialmente no Está
 
 ## Adicionar Um Estágio De Inventário {#add-an-inventory-stage}
 
-1. Para adicionar um novo estágio de Inventário de Modelo de Ciclo de Receita, clique no **Analytics** botão na caixa **Meu Marketo** tela inicial.
+1. Para adicionar um novo estágio de Inventário de Modelo de Ciclo de Receita, clique no botão **Analytics** na tela inicial do **My Marketo**.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. No **Analytics** selecione o modelo existente ou [criar um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Na seção **Analytics**, selecione seu modelo existente ou [crie um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -33,27 +33,27 @@ Todos os clientes em potencial e contas conhecidos residem inicialmente no Está
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Para adicionar um novo estágio do inventário, clique no **Inventário** e, em seguida, arraste e solte em qualquer lugar dentro da tela.
+1. Para adicionar um novo estágio do inventário, clique no botão **Inventário** e arraste e solte em qualquer lugar da tela.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. Você pode editar o Nome, adicionar uma Descrição e ajustar o Tipo depois de adicionar um estágio. Você também pode selecionar **[Iniciar rastreamento por conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** neste momento.
+1. Você pode editar o Nome, adicionar uma Descrição e ajustar o Tipo depois de adicionar um estágio. Você também pode selecionar **[Iniciar rastreamento por conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** agora.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Editar um estágio de inventário {#edit-an-inventory-stage}
 
-Ao selecionar um ícone Inventário, você pode editar o **Nome**, adicionar um **Descrição** ou ajuste a **Tipo**. Você também pode selecionar [Iniciar rastreamento por conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Ao selecionar um ícone de Inventário, você pode editar o **Nome**, adicionar uma **Descrição** ou ajustar o **Tipo**. Você também pode selecionar [Iniciar rastreamento por conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Clique no ícone Inventário.
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Clique em no **Nome** e **Descrição** para editar seu conteúdo.
+1. Clique nos campos **Nome** e **Descrição** para editar seu conteúdo.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Selecione o **Tipo** clique para editar.
+1. Selecione o menu suspenso **Tipo** para editar.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Ao selecionar um ícone Inventário, você pode editar o **Nome**, adicionar um 
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Também é possível excluir um estágio clicando nele e, em seguida, no **Ações de preparo** selecione **Excluir**.
+1. Você também pode excluir um estágio clicando nele e, na lista suspensa **Ações de Estágio**, selecione **Excluir**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 

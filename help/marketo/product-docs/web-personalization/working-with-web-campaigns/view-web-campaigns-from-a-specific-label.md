@@ -17,7 +17,7 @@ Deseja visualizar e filtrar suas campanhas de acordo com um rótulo específico?
 
 ## Filtrar por rótulos existentes {#filter-by-existing-labels}
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,6 +31,6 @@ Deseja visualizar e filtrar suas campanhas de acordo com um rótulo específico?
 
 >[!MORELIKETHIS]
 >
->* [Rotular as campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [Exibir segmentos de um rótulo específico](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Rotular Suas Campanhas Da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Exibir Segmentos de um Rótulo Específico](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Rotular os segmentos](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

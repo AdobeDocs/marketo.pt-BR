@@ -19,7 +19,7 @@ Emails operacionais ignoram os status Cancelamento de assinatura e Marketing Sus
 >
 >Emails operacionais não estão sujeitos a limites de comunicação.
 
-1. Localize o email, selecione-o e clique em **Editar rascunho**.
+1. Encontre seu email, selecione-o e clique em **Editar Rascunho**.
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ Emails operacionais ignoram os status Cancelamento de assinatura e Marketing Sus
 >
 >Você só deve usar Emails operacionais para emails críticos e respondedores automáticos. Eles não se destinam a emails de marketing.
 
-1. Quando o editor for aberto, clique em **Configurações de email**.
+1. Assim que o editor for aberto, clique em **Configurações de email**.
 
    ![](assets/two-1.png)
 
-1. Marcar **E-mail operacional** e clique em **Salvar**.
+1. Verifique o **Email Operacional** e clique em **Salvar**.
 
    ![](assets/three.png)
 
@@ -39,4 +39,4 @@ Emails operacionais ignoram os status Cancelamento de assinatura e Marketing Sus
 >
 >Emails operacionais não foram projetados para funcionar com programas de envolvimento. Assim, um programa de engajamento ignorará o status operacional de um email. Lembre-se disso ao trabalhar com eles.
 
-Não se esqueça de aprovar este email para que as alterações entrem em vigor. Saiba como  [aprovar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Não se esqueça de aprovar este email para que as alterações entrem em vigor. Saiba como [aprovar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

@@ -17,7 +17,7 @@ Ao usar o Marketo Sales Insight (MSI) e o Marketo Sales Connect (MSC) em paralel
 
 >[!NOTE]
 >
->Isso afetará somente os clientes que estão usando o **ambos** MSI e MSE, e que desejam usar o recurso Melhores Opções no MSI. Se não precisar/usar as Melhores Opções, você poderá desconsiderá-las.
+>Isso afeta apenas os clientes que estão usando o **MSI** e o MSE e que desejam usar o recurso Melhores Opções no MSI. Se não precisar/usar as Melhores Opções, você poderá desconsiderá-las.
 
 ## Introdução {#getting-started}
 
@@ -33,42 +33,42 @@ Abaixo estão os nomes recomendados das regras de workflow e a descrição de ca
  <tbody> 
   <tr> 
    <td>Atualizar Campo Desc. Momento Interessante</td> 
-   <td><p>Copiar de: Última descrição do envolvimento com a Marketo<br>Copiar para: Última descrição de momento interessante</p></td> 
+   <td><p>Copiar de: Última descrição do Marketo Engagement <br>Copiar para: Última descrição do momento interessante</p></td> 
   </tr> 
   <tr> 
    <td>Atualizar campo Tipo de momento interessante</td> 
    <td><p>Copiar de: Último tipo de envolvimento do Marketo<br>Copiar para: Último tipo de momento interessante</p></td> 
   </tr> 
   <tr> 
-   <td>Atualizar campo Origem de momento interessante</td> 
-   <td><p>Copiar de: Última fonte de engajamento do Marketo<br>Copiar para: Última origem de momento interessante</p></td> 
+   <td>Atualizar campo Source de momento interessante</td> 
+   <td><p>Copiar de: Último Marketo Engagement Source<br>Copiar para: Último momento interessante Source</p></td> 
   </tr> 
   <tr> 
    <td>Atualizar campo Data de Momento Interessante</td> 
-   <td><p>Copiar de: última data de compromisso do Marketo<br>Copiar para: Última data de momento interessante</p></td> 
+   <td><p>Copiar de: Última data de compromisso do Marketo<br>Copiar para: Última data de momento interessante</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instruções {#instructions}
 
-1. Depois de clicar em **Configuração**, pesquisar **Fluxo de trabalho** e selecione **Regras de fluxo de trabalho**.
+1. Depois de clicar em **Configuração**, procure por **Fluxo de Trabalho** e selecione **Regras de Fluxo de Trabalho**.
 
    ![](assets/one-1.png)
 
-1. Selecionar **Nova regra**.
+1. Selecione **Nova regra**.
 
    ![](assets/two-1.png)
 
-1. Clique na lista suspensa Objeto e selecione **Lead** e, em seguida, clique em **Próxima**.
+1. Clique na lista suspensa Objeto, selecione **Lead** e clique em **Avançar**.
 
    ![](assets/three-1.png)
 
-1. Insira &quot;Atualizar campo Desc. Momento Interessante&quot; como o Nome da regra. Selecionar o botão de opção **criado e sempre que for editado**. Na lista suspensa Critérios da regra, selecione **a fórmula é avaliada como verdadeira**. Procure e selecione a função ISCHANGED. Em seguida, destaque o valor de campo padrão e clique em **Inserir campo**.
+1. Insira &quot;Atualizar campo Desc. Momento Interessante&quot; como o Nome da regra. Selecione o botão de opção **criado e sempre que for editado**. Na lista suspensa Critérios da Regra, selecione **fórmula avaliada como verdadeira**. Procure e selecione a função ISCHANGED. Em seguida, destaque o valor do campo padrão e clique em **Inserir Campo**.
 
    ![](assets/four-1.png)
 
-1. No pop-up &quot;Inserir campo&quot;, escolha **Descrição do último envolvimento com a Marketo** e clique em **Inserir**.
+1. Na janela pop-up &quot;Inserir campo&quot;, escolha **Última descrição do Marketo Engagement** e clique em **Inserir**.
 
    ![](assets/five-1.png)
 
@@ -76,19 +76,19 @@ Abaixo estão os nomes recomendados das regras de workflow e a descrição de ca
 
    ![](assets/6.png)
 
-1. No menu suspenso Adicionar ação de workflow, selecione **Nova atualização de campo**.
+1. No menu suspenso Adicionar ação de fluxo de trabalho, selecione **Nova atualização de campo**.
 
    ![](assets/seven.png)
 
-1. No campo Nome, digite &quot;Atualizar campo de descrição do momento interessante&quot; (nome exclusivo será gerado automaticamente). No menu suspenso Campo a ser atualizado, escolha **Última Descrição de Momento Interessante**. Selecione o **Usar uma fórmula para definir novo valor** e, em seguida, clique em **Mostrar Editor de Fórmulas**.
+1. No campo Nome, digite &quot;Atualizar campo de descrição do momento interessante&quot; (nome exclusivo será gerado automaticamente). No menu suspenso Campo para Atualização, escolha **Última Descrição de Momento Interessante**. Selecione o botão de opção **Usar uma fórmula para definir o novo valor** e clique em **Mostrar Editor de Fórmulas**.
 
    ![](assets/eight.png)
 
-1. Clique em **Inserir campo** botão.
+1. Clique no botão **Inserir Campo**.
 
    ![](assets/9a.png)
 
-1. Selecionar **Descrição do último envolvimento com a Marketo** e clique em **Inserir**. Na próxima página, clique em **Salvar**.
+1. Selecione **Última Descrição do Envolvimento do Marketo** e clique em **Inserir**. Na próxima página, clique em **Salvar**.
 
    ![](assets/nine.png)
 
@@ -96,8 +96,8 @@ Abaixo estão os nomes recomendados das regras de workflow e a descrição de ca
 
    ![](assets/twelve.png)
 
-1. Clique em **Ativar** para ativar a regra de workflow.
+1. Clique em **Ativar** para ativar a regra de fluxo de trabalho.
 
    ![](assets/thirteen.png)
 
-   Após a última etapa, você pode optar por clonar a regra de fluxo de trabalho para os outros campos listados na seção Introdução: Descrição, Tipo, Origem e Data. Depois de concluir as quatro regras de fluxo de trabalho no objeto Contact, repita o mesmo procedimento para o objeto Lead.
+   Após a última etapa, você pode optar por clonar a regra de fluxo de trabalho para os outros campos listados na seção Introdução: Desc, Type, Source, Date. Depois de concluir as quatro regras de fluxo de trabalho no objeto Contact, repita o mesmo procedimento para o objeto Lead.

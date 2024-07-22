@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando você tiver ativado os anúncios de clientes potenciais da Facebook, poderá usá-los em suas campanhas inteligentes para ver o sucesso do programa. Quando as pessoas enviam suas informações em uma unidade de Anúncios de cliente potencial da Facebook, elas são enviadas para a Marketo imediatamente.
 
-1. Use o **Preenche O Formulário De Anúncios De Cliente Potencial** filtro ou acionador.
+1. Use o filtro ou gatilho **Preencher formulário de anúncios de clientes potenciais**.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 

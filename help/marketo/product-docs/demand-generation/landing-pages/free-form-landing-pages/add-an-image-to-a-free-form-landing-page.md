@@ -15,13 +15,13 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->[Adicionar imagens e arquivos ao Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>[Adicionar Imagens e Arquivos ao Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Selecione a página de aterrissagem de formato livre e clique em **Editar** **Rascunho**.
+1. Selecione sua página de aterrissagem de forma livre e clique em **Editar** **Rascunho**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. No editor, arraste sobre o **Imagem** elemento.
+1. No editor, arraste sobre o elemento **Image**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 

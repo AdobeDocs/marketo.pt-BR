@@ -4,8 +4,8 @@ title: Solicitações de privacidade
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 3%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -25,10 +25,10 @@ Este documento fornece uma visão geral do gerenciamento de solicitações indiv
 
 Você pode enviar solicitações individuais para acessar e excluir dados do consumidor do Marketo Engage de duas maneiras:
 
-* Por meio da [IU DO PRIVACY SERVICE](https://privacyui.cloud.adobe.io/). Consulte a documentação [aqui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=pt-BR){target="_blank"}.
-* Por meio da API de Privacy Service. Consulte a documentação [aqui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Por meio da [interface do Privacy Service](https://privacyui.cloud.adobe.io/). Consulte a documentação [aqui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=pt-BR){target="_blank"}.
+* Por meio da API de Privacy Service. Consulte a documentação [aqui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} e as informações sobre a API [aqui](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-A variável [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} O oferece suporte a dois tipos de solicitações: acesso aos dados e exclusão de dados.
+O [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} dá suporte a dois tipos de solicitações: acesso e exclusão de dados.
 
 Saiba como criar solicitações de Acesso e Exclusão.
 
@@ -38,10 +38,10 @@ Para fazer solicitações de Acesso e Exclusão de dados para o Marketo Engage, 
 
 1. Identifique o seguinte:
 
-   a. ID de organização IMS<br/>
+   a. ID da Organização IMS<br/>
 b. Endereço de e-mail da pessoa sobre a qual deseja agir
 
-   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a equipe de marketing ou o administrador interno do sistema Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em `gdprsupport@adobe.com`. Você precisa da ID de organização IMS para enviar solicitações à API de privacidade.
+   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em `gdprsupport@adobe.com`. Você precisa da ID de organização IMS para enviar solicitações à API de privacidade.
 
 1. No Privacy Service, você pode enviar solicitações de Acesso e Exclusão ao Marketo Engage e verificar o status das solicitações existentes.
 
@@ -50,23 +50,23 @@ b. Endereço de e-mail da pessoa sobre a qual deseja agir
 &quot;companyContexts&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* &quot;valor&quot;: `<Your IMS Org ID Value>`
+* &quot;value&quot;: `<Your IMS Org ID Value>`
 
-&quot;usuários&quot;:
+&quot;users&quot;:
 
-* &quot;action&quot;: **acesso** ou **excluir**
+* &quot;ação&quot;: **acessar** ou **excluir**
 * &quot;userIDs&quot;
    * &quot;namespace&quot;: **email**
-   * &quot;type&quot;: **padrão**
-   * &quot;valor&quot;: `<Data Subject's Email Address>`
+   * &quot;type&quot;: **standard**
+   * &quot;value&quot;: `<Data Subject's Email Address>`
 
 &quot;include&quot;:
 
-* **marketo** (que é o produto Adobe que se aplica à solicitação)
+* **marketo** (que é o produto do Adobe que se aplica à solicitação)
 
 &quot;Regulamentação&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl**  (que é o regulamento de privacidade que se aplica à solicitação)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** ou **nzpa_nzl** (que é o regulamento de privacidade que se aplica à solicitação)
 
 ## Exemplo um: solicitação de exclusão do GDPR {#gdpr-delete-request}
 

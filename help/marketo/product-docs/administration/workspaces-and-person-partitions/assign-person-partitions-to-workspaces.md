@@ -6,8 +6,8 @@ exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 1%
 
 ---
 
@@ -21,13 +21,13 @@ Veja como editar a partição de pessoa/atribuições de espaço de trabalho:
 
 >[!PREREQUISITES]
 >
->[Criar um novo espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>[Criar um Novo Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->Os espaços de trabalho e as partições de pessoas podem ser complexos. Contate  [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} para obter ajuda com a configuração.
+>Os espaços de trabalho e as partições de pessoas podem ser complexos. Contate o [suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} para obter ajuda sobre como configurá-los.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 
@@ -35,7 +35,7 @@ Veja como editar a partição de pessoa/atribuições de espaço de trabalho:
 
    ![](assets/assign-person-partitions-to-workspaces-2.png)
 
-1. Selecione o espaço de trabalho e clique em **[!UICONTROL Editar espaço de trabalho]**.
+1. Selecione seu espaço de trabalho e clique em **[!UICONTROL Editar Workspace]**.
 
    ![](assets/assign-person-partitions-to-workspaces-3.png)
 
@@ -45,9 +45,9 @@ Veja como editar a partição de pessoa/atribuições de espaço de trabalho:
 
    >[!NOTE]
    >
-   >* O &quot;[!UICONTROL Todas as partições de pessoas]&quot;A caixa de seleção indica que este espaço de trabalho tem acesso a todas as partições de pessoas no sistema.
+   >* A caixa de seleção &quot;[!UICONTROL Todas as Partições de Pessoa]&quot; indica que este espaço de trabalho tem acesso a todas as partições de pessoas no sistema.
    >
-   >* As partições primárias de pessoas são o padrão em que todas as pessoas são inseridas. Uso [etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} para mover as pessoas.
+   >* As partições primárias de pessoas são o padrão em que todas as pessoas são inseridas. Use [etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} para mover pessoas.
 
 1. Clique em **[!UICONTROL Salvar]**.
 
@@ -61,4 +61,4 @@ Você editou seu espaço de trabalho com êxito!
 
 >[!MORELIKETHIS]
 >
->[Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>[Compreendendo os Espaços de Trabalho e as Partições de Pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.

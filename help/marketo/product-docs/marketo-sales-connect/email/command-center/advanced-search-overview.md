@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 5%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +29,7 @@ Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visuali
 
    ![](assets/three.png)
 
-1. Clique em **Pesquisa avançada**.
+1. Clique em **Pesquisa Avançada**.
 
    ![](assets/four.png)
 
@@ -50,8 +50,8 @@ Filtre por destinatário/remetente de email na seção Quem.
 | Suspenso | Descrição |
 |---|---|
 | **Exibir como** | Filtrar por um remetente específico na instância do Sales Connect (essa opção está disponível somente para administradores). |
-| **Por grupo** | Filtre emails por um grupo específico de recipients. |
-| **Por pessoa** | Filtrar por um recipient específico. |
+| **Por Grupo** | Filtre emails por um grupo específico de recipients. |
+| **Por Pessoa** | Filtrar por um recipient específico. |
 
 **Quando**
 
@@ -87,7 +87,7 @@ Filtra por todos os emails pendentes.
 |---|---|
 | **Agendado** | Emails que foram agendados na janela de composição (Salesforce ou Web App), plug-ins de email ou uma campanha. |
 | **Rascunhos** | Emails que estão atualmente em estado de rascunho. Os emails exigem uma linha de assunto e um recipient para serem salvos como rascunho. |
-| **em andamento** | Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais do que alguns segundos. |
+| **Em andamento** | Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais do que alguns segundos. |
 
 ***Status: não entregue***
 
@@ -105,11 +105,11 @@ Filtra por emails que nunca foram entregues.
 
 Veja como criar uma pesquisa salva.
 
-1. Depois que todos os filtros estiverem no lugar, clique em **Salvar filtros como**.
+1. Depois que todos os filtros estiverem implementados, clique em **Salvar Filtros Como**.
 
    ![](assets/save-search-1.png)
 
-1. Dê um nome à pesquisa e clique em **Salvar**.
+1. Dê um nome à sua pesquisa e clique em **Salvar**.
 
    ![](assets/save-search-2.png)
 

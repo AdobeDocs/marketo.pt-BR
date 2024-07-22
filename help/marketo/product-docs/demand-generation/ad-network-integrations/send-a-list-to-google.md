@@ -18,11 +18,11 @@ Para aqueles que usam o Google Customer Match, siga as etapas abaixo para enviar
 
    ![](assets/send-a-list-to-google-1.png)
 
-1. Clique em **Ações da lista** e selecione **Enviar para a rede de publicidade**.
+1. Clique no menu suspenso **Ações de Lista** e selecione **Enviar para a Rede de Publicidade**.
 
    ![](assets/send-a-list-to-google-2.png)
 
-1. Escolha Google e clique em **Próxima**.
+1. Escolha Google e clique em **Avançar**.
 
    ![](assets/send-a-list-to-google-3.png)
 
@@ -36,9 +36,9 @@ Para aqueles que usam o Google Customer Match, siga as etapas abaixo para enviar
 
    >[!NOTE]
    >
-   >* Selecionar **Manter a associação de público-alvo em sincronia** O mantém a lista atualizada conforme ela muda na sua instância. Adicionamos/removemos pessoas do público-alvo quando são adicionadas/removidas da lista estática.
+   >* Selecionar **Manter a associação de público-alvo em sincronia** mantém a lista atualizada conforme ela muda na sua instância. Adicionamos/removemos pessoas do público-alvo quando são adicionadas/removidas da lista estática.
    >
-   >* Marcar a caixa de seleção na parte inferior envia o status de consentimento como CONCEDIDO para dados do usuário enviados ao Google Ads para fins de publicidade e personalização de anúncios. Deixá-la desmarcada envia o status de consentimento como NÃO ESPECIFICADO. Para aqueles que pretendem carregar dados para utilizadores no Espaço Econômico Europeu (EEE), a Google elaborou uma lista de [Perguntas frequentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, bem como pormenores adicionais que descrevem a [Política de consentimento do usuário da UE](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Marcar a caixa de seleção na parte inferior envia o status de consentimento como CONCEDIDO para dados do usuário enviados ao Google Ads para fins de publicidade e personalização de anúncios. Deixá-la desmarcada envia o status de consentimento como NÃO ESPECIFICADO. Para aqueles que planejam carregar dados para usuários no Espaço Econômico Europeu (EEA), a Google elaborou uma lista de [Perguntas frequentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, bem como detalhes adicionais que descrevem a [política de consentimento do usuário da EU](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. Clique em **Atualizar**.
 

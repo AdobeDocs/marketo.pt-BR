@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Presença Local do Telefone de Vendas {#sales-phone-local-presence}
 
-Quando quiser parecer que está chamando do mesmo código de área de alguém, basta marcar a caixa de seleção **Presença local** antes de fazer a chamada.
+Quando quiser parecer que você está chamando do mesmo código de área de alguém, basta marcar a caixa **Presença local** antes de fazer a chamada.
 
 ## Perguntas frequentes sobre Presença Local {#local-presence-faq}
 
-**Meu contato pode me ligar de volta para este novo número?**
+**Meu contato pode me ligar novamente para este novo número?**
 
 Não, a presença local só funciona para chamadas de saída. O chamador não pode ligar de volta para este &quot;novo&quot; número.
 
@@ -25,10 +25,10 @@ Não, a presença local só funciona para chamadas de saída. O chamador não po
 
 Oferecemos todas as funcionalidades de telefone de vendas para chamadas somente nos Estados Unidos.
 
-**O número de presença local é sempre o mesmo quando chamo um código de área?**
+**O número de presença local é sempre o mesmo quando eu chamo um código de área?**
 
 O número provavelmente sempre será o mesmo ao chamar um código de área.
 
-**O meu número inteiro muda ou apenas o código de área ao usar presença local?**
+**O meu número inteiro muda ou apenas o código de área ao usar a presença local?**
 
 Seu número inteiro será alterado.

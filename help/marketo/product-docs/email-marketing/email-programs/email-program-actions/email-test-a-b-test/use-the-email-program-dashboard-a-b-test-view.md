@@ -13,7 +13,7 @@ ht-degree: 6%
 
 # Usar o painel do programa de email - Exibição de teste A/B {#use-the-email-program-dashboard-a-b-test-view}
 
-Confira como o seu [teste A/B do programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) O está funcionando com este painel.
+Confira o desempenho do seu [teste A/B de programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) com este painel.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,4 +45,4 @@ Painel legal, não acha?
 
 >[!MORELIKETHIS]
 >
->[Usar o painel do programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[Usar o Painel do Programa de Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

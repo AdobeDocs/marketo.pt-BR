@@ -6,7 +6,7 @@ exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
 source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Para campanhas inteligentes futuras que estão programadas, mas ainda não foram
 
 1. O cartão de detalhes fornece acesso às informações sobre os filtros da Smart List, Fluxo e Resumo de email.
 
-1. Toque **Lista inteligente**.
+1. Toque em **Smart List**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Para campanhas inteligentes futuras que estão programadas, mas ainda não foram
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Toque **Fluxo**.
+1. Toque em **Fluxo**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Para campanhas inteligentes futuras que estão programadas, mas ainda não foram
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Clique em **Resumo de email**.
+1. Clique em **Resumo do email**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Para campanhas inteligentes futuras que estão programadas, mas ainda não foram
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Toque [Enviar amostra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Visualizar email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (clique nesses links para obter detalhes).
+1. Toque em [Enviar Amostra](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) ou [Visualizar Email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (clique nestes links para obter detalhes).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Os cartões para Campanhas inteligentes não confirmadas ficam em cinza até que
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Toque **Confirmar o**.
+1. Toque em **Confirmar**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Toque **Confirmar o** para concluir o trabalho, ou **Não importa** se você tem dúvidas.
+1. Toque em **Confirmar** para concluir o trabalho ou **Não importa** se tiver dúvidas.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,11 +103,11 @@ Você pode cancelar uma execução confirmada e programada do Smart Campaign.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Toque **Cancelar execução**.
+1. Toque em **Cancelar Execução**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Toque **Cancelar execução**. Se decidir no último minuto não cancelar a execução, toque em **Não importa** e a Campanha inteligente será executada conforme programado.
+1. Toque em **Cancelar Execução**. Se você decidir no último minuto não cancelar a execução, toque em **Não importa**, e a Campanha inteligente será executada conforme agendado.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,11 +119,11 @@ Você pode reagendar uma Campanha inteligente confirmada que ainda não foi exec
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Toque **Reprogramar**.
+1. Toque em **Reagendar**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Selecione uma data no calendário e toque em **Reprogramar**.
+1. Selecione uma data no calendário e toque em **Reagendar**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Assim como em outros cartões Marketo Moments, você pode tocar nos três pontos
 
 >[!NOTE]
 >
->Você também pode tocar no **Compartilhar** em um cartão do Smart Campaign para compartilhar, e o **Concluído** e **Favorito** ícones no cartão de detalhes.
+>Você também pode tocar no ícone **Compartilhar** em um cartão do Smart Campaign para compartilhar, e nos ícones **Concluído** e **Favorito** no cartão de detalhes.
 
 ## Excluir rapidamente um cartão de campanha inteligente {#quickly-delete-a-smart-campaign-card}
 

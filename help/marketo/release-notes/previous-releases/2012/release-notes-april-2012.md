@@ -6,7 +6,7 @@ exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '378'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Simplificamos o URL de confirmação criando um token de membro que exibe o URL 
 
 ## Carregue várias imagens e arquivos com um único clique! {#upload-multiple-images-and-files-with-a-single-click}
 
-Economize tempo e seja mais eficiente ao importar imagens e arquivos para o Marketo! Se você usa o Firefox ou o Google Chrome, é possível selecionar vários arquivos e carregar todos de uma só vez. Embora não haja limite para o número de arquivos que você pode carregar, o limite de tamanho individual por arquivo é de 50 MB.
+Economize tempo e seja mais eficiente ao importar imagens e arquivos para o Marketo! Se você usa o Firefox ou o Google Chrome, é possível selecionar vários arquivos e fazer upload de todos eles de uma só vez. Embora não haja limite para o número de arquivos que você pode carregar, o limite de tamanho individual por arquivo é de 50 MB.
 
 Observação: no momento, esse recurso não é compatível com o Internet Explorer devido às limitações do navegador.
 
@@ -52,7 +52,7 @@ Se não estiver sincronizando sua assinatura com o Salesforce, você observará 
 
 ## Análise do ciclo de receita do Marketo {#marketo-revenue-cycle-analytics}
 
-**Etapas de portal aprimoradas no Modelador de ciclo de receita**
+**Estágios de portal aprimorados no Modeler de ciclo de receita**
 
 Permite que os usuários definam uma ordem para suas regras de transição.
 

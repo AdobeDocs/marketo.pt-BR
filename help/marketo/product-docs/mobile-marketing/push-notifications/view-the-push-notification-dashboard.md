@@ -15,7 +15,7 @@ ht-degree: 0%
 
 É fácil ver como as notificações por push estão se saindo.
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,19 +23,19 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Clique em **Exibição: resumo** e selecione **Painel**.
+1. Clique em **Exibir: Resumo** e selecione **Painel**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Você pode visualizar o Total enviado e o Total de toques para iOS e Android em gráficos de círculo. Role para baixo para ver Tocar em Declínio em gráficos de barras.
+1. Você pode visualizar o Total de toques enviados e o Total de toques do iOS e do Android em gráficos de círculo. Role para baixo para ver Tocar em Declínio em gráficos de barras.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 
    >[!NOTE]
    >
-   >A variável _Enviado_ A métrica pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso porque é calculado com base na variável *número de dispositivos* que se qualificam para receber seu push. Por exemplo, se uma única pessoa tiver três dispositivos, o painel registrará três envios, não um.
+   >A métrica _Enviado_ pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso porque é calculado com base no *número de dispositivos* qualificados para receber seu push. Por exemplo, se uma única pessoa tiver três dispositivos, o painel registrará três envios, não um.
 
    >[!MORELIKETHIS]
    >
-   >* [Noções básicas das notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
-   >* [Enviar uma notificação por push em dispositivo móvel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+   >* [Noções básicas sobre notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Enviar uma Notificação por Push Móvel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

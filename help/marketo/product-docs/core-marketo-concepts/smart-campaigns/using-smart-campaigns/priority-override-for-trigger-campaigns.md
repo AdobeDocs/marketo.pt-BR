@@ -5,7 +5,7 @@ exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '248'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Os administradores podem substituir a prioridade determinada de Marketo Engage p
 
 >[!NOTE]
 >
->Esse recurso só está disponível para Campanhas de acionador e para usuários que receberam a [Permissão &quot;Editar Prioridade de Campanha do Acionador&quot;](#grant-priority-override-access).
+>Este recurso só está disponível para Campanhas de Gatilho e para usuários que receberam a [ permissão &quot;Editar Prioridade de Campanha de Gatilho&quot;](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -28,25 +28,25 @@ Os administradores podem substituir a prioridade determinada de Marketo Engage p
 >
 >Somente administradores ou usuários com responsabilidades de administrador devem ter acesso de substituição de prioridade de campanha.
 
-1. No [!UICONTROL Admin] clique em **[!UICONTROL Usuários e funções]**.
+1. Na área [!UICONTROL Administrador], clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
-1. Clique em **[!UICONTROL Funções]** selecione o usuário ao qual deseja conceder acesso e clique em **[!UICONTROL Editar Função]**.
+1. Clique na guia **[!UICONTROL Funções]**, selecione o usuário ao qual deseja conceder acesso e clique em **[!UICONTROL Editar Função]**.
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Em [!UICONTROL Acessar atividades de marketing], selecione **[!UICONTROL Editar Prioridade de Campanha do Acionador]**. Clique em **[!UICONTROL Salvar]**.
+1. Em [!UICONTROL Acessar Atividades de Marketing], selecione **[!UICONTROL Editar Prioridade de Campanha do Gatilho]**. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
 ## Substituir prioridade {#override-priority}
 
-1. Localize seu Trigger Campaign. Clique com o botão direito do mouse e selecione **[!UICONTROL Substituir prioridade da campanha]**.
+1. Localize seu Trigger Campaign. Clique com o botão direito do mouse e selecione **[!UICONTROL Substituir Prioridade de Campanha]**.
 
    ![](assets/priority-override-for-trigger-campaigns-4.png)
 
-1. Clique em **[!UICONTROL Substituir prioridade da campanha]** controle deslizante para ativar. Escolha um novo nível de prioridade e clique em **[!UICONTROL Confirmar o]**.
+1. Clique no controle deslizante **[!UICONTROL Substituir prioridade da campanha]** para habilitar. Escolha um novo nível de prioridade e clique em **[!UICONTROL Confirmar]**.
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
@@ -56,6 +56,6 @@ Os administradores podem substituir a prioridade determinada de Marketo Engage p
 
 >[!NOTE]
 >
->* Você pode visualizar a prioridade padrão da sua campanha no [!UICONTROL Fila de campanha] em [!UICONTROL Atividades de marketing]. Para aumentar a taxa de execução, recomendamos definir a prioridade da campanha para um nível superior ao padrão.
+>* Você pode exibir a prioridade padrão da sua campanha na [!UICONTROL Fila de campanha] em [!UICONTROL Atividades de marketing]. Para aumentar a taxa de execução, recomendamos definir a prioridade da campanha para um nível superior ao padrão.
 >* A prioridade definida pelo usuário se aplica somente a novas pessoas que se qualificam para a campanha; as pessoas que já estão na fila não serão afetadas.
->* As sobreposições de prioridade são capturadas em [Trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.
+>* As substituições de prioridade são capturadas em [Trilha de Auditoria](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

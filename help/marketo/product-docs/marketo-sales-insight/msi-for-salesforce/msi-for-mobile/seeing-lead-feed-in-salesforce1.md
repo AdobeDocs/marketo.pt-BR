@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 O Feed de lead é uma lista atualizada por minuto de eventos interessantes feitos por seus leads.
 
-1. Vá para a **Marketo** área no Salesforce1.
+1. Vá para a área **Marketo** no Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,16 +23,16 @@ O Feed de lead é uma lista atualizada por minuto de eventos interessantes feito
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Toque **Feed de lead**.
+1. Toque Em **Feed Principal**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
-   Perfeita! Agora você sabe como acessar o seu Feed principal!
+   Perfeito! Agora você sabe como acessar o seu Feed principal!
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 
 >[!MORELIKETHIS]
 >
 >* [Momentos interessantes no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Enviar emails do Marketo e ações do Campaign e da lista de favoritos no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Melhores opções no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [Enviar email do Marketo e ações do Campaign e da Lista de favoritos no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Melhores Opções no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

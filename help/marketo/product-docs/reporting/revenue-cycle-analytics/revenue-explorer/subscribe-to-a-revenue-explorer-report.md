@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Para receber atualizações de seus relatórios do Revenue Cycle Explorer e compartilhá-las, você pode inscrever qualquer endereço de email em um relatório existente.
 
-1. Ir para **Analytics** e selecione **Novo** > **Nova Assinatura de Relatório**.
+1. Vá para **Analytics** e selecione **Novo** > **Nova Assinatura de Relatório**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Para se inscrever em um relatório básico criado em um programa, consulte [Inscrever-se em um relatório básico.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Para se inscrever em um relatório básico criado em um programa, consulte [Assinar um Relatório Básico.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Para **Fonte do relatório**, selecione **Gerenciador de Receita**.
+1. Para **Report Source**, selecione **Explorador de Receita**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 
@@ -45,4 +45,4 @@ Para receber atualizações de seus relatórios do Revenue Cycle Explorer e comp
 
 >[!MORELIKETHIS]
 >
->Saiba como [gerenciar todas as assinaturas de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um só lugar.
+>Saiba como [gerenciar todas as suas assinaturas de relatórios](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um único local.

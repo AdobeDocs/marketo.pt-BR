@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Editar seu modelo {#editing-your-model}
 
-1. Selecione o modelo que deseja alterar na seção Analytics e clique em **Editar rascunho**.
+1. Selecione o modelo para o qual você deseja fazer alterações na seção Analytics e clique em **Editar rascunho**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Escolha o novo estágio para clientes potenciais atualmente no estágio selecionado ou selecione **Nenhum** para remover os clientes em potencial do modelo. Quando terminar, clique em **Mesclar**.
+1. Escolha o novo estágio para clientes potenciais atualmente no selecionado ou selecione **Nenhum** para remover os clientes potenciais do seu modelo. Quando terminar, clique em **Mesclar**.
 
    ![](assets/three.png)
 
-1. Quando terminar de fazer alterações no modelo, reaprove-o selecionando **Aprovar modelo de rascunho** no **Ações do modelo** menu.
+1. Quando você terminar de fazer alterações no modelo, reaprove-o selecionando **Aprovar rascunho do modelo** no menu **Ações do modelo**.
 
    ![](assets/four.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 >
 >Se você cancelar a aprovação do modelo, todos os clientes em potencial serão removidos e o histórico no modelo será excluído. Considere editar seu modelo em vez de desaprová-lo.
 
-1. Selecione o modelo que deseja cancelar a aprovação. No **Ações do modelo** selecione **Cancelar aprovação do modelo**.
+1. Selecione o modelo que deseja cancelar a aprovação. No menu **Ações de Modelo**, selecione **Cancelar Aprovação do Modelo**.
 
    ![](assets/five.png)
 
@@ -59,4 +59,4 @@ Você pode ter somente um modelo aprovado por vez. Se você quiser aprovar um mo
 
 >[!MORELIKETHIS]
 >
->[Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Criar um Novo Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)

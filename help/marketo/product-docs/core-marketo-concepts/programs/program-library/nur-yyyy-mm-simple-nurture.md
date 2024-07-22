@@ -2,11 +2,11 @@
 description: NUR-YYYY-MM-Simple Nurture - Documentação do Marketo - Documentação do produto
 title: NUR-AAAA-MM-Enfermagem Simples
 feature: Programs
-exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 21%
+source-wordcount: '347'
+ht-degree: 15%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 21%
 
 Este é um exemplo de programas de enfermagem simples, utilizando o programa de envolvimento Marketo Engage, com conteúdo cadenciado para gotejar ao longo do tempo para seu banco de dados, enquanto utiliza fluxos para orientar registros por meio de jornadas com base no comportamento.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -29,14 +29,14 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Nutrição</td> 
    <td>01 - Membro 
-<br/>02 - Envolvido - Sucesso</td>
+<br/>02 - Envolvido - Êxito</td>
    <td>Inclusivo</td>
-   <td>Envolvimento</td>
+   <td>Engajamento</td>
   </tr>
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -68,7 +68,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Relatório local</td> 
    <td> </td>
-   <td> Desempenho do fluxo de envolvimento</td>
+   <td>Desempenho do fluxo de envolvimento</td>
   </tr>
   <tr>
   <tr> 
@@ -94,7 +94,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Assets - Ativos criativos
+   <td>Assets - Abriga todos os ativos criativos
    <br/>(subpastas de Emails)</td>
   </tr>
   <tr> 
@@ -141,19 +141,19 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original
    * Usar modelo de destino - _Recomendado_
 
 * **Imagens com o mesmo nome**
    * Manter ambos os arquivos
-   * Substituir item desta inscrição - _Recomendado_
+   * Substituir item nesta assinatura - _Recomendado_
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
 
@@ -171,4 +171,4 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;04 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ seus emails serão enviados.
+>Não se esqueça de ativar a campanha &quot;04 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de enviar seus emails.

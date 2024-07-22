@@ -6,7 +6,7 @@ exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 As regras de qualificação controlam quantas vezes alguém pode passar pelo fluxo em uma Campanha inteligente. Por padrão, mesmo que alguém acione uma Campanha inteligente várias vezes, ele só será enviado pelo fluxo uma vez. Veja como modificar essas configurações.
 
-1. Na Campanha inteligente, clique na guia **[!UICONTROL Agendar]** e depois **[!UICONTROL Editar configurações]**.
+1. Na Campanha inteligente, clique na guia **[!UICONTROL Agendar]** e depois em **[!UICONTROL Editar configurações]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
@@ -23,7 +23,7 @@ As regras de qualificação controlam quantas vezes alguém pode passar pelo flu
    >
    >Você também pode clicar em **[!UICONTROL Editar]** à direita de &quot;Configurações do Smart Campaign&quot;.
 
-1. Escolha a frequência com que seus funcionários devem passar pelo fluxo do Campaign Inteligente: **[!UICONTROL apenas uma vez]**, **[!UICONTROL sempre]** ou **uma vez a cada # dias**/**semanas**/**meses**.
+1. Escolha a frequência com que seus funcionários deverão passar pelo fluxo do Smart Campaign: **[!UICONTROL apenas uma vez]**, **[!UICONTROL todas as vezes]** ou **uma vez a cada # dias**/**semanas**/**meses**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -33,7 +33,7 @@ As regras de qualificação controlam quantas vezes alguém pode passar pelo flu
 
    >[!NOTE]
    >
-   >Os limites de comunicação não são aplicados a Campanhas inteligentes por padrão. Saiba como [aplicar limites de comunicação a uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
+   >Os limites de comunicação não são aplicados a Campanhas inteligentes por padrão. Saiba como [aplicar limites de comunicação a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >

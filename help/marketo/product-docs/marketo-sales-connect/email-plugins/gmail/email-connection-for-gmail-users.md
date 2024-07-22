@@ -6,7 +6,7 @@ exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
 >[!CAUTION]
 >
->Se você estiver [uso de filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} Se as regras na sua conta do Gmail marcarem automaticamente os emails como lidos, isso poderá causar problemas no rastreamento de respostas. Recomendamos desativar todas as regras que marcam automaticamente os emails como lidos ao usar o rastreamento de resposta com o Gmail.
+>Se você está [usando filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} ou regras em sua conta do Gmail para marcar emails automaticamente como lidos, isso pode causar problemas no rastreamento de respostas. Recomendamos desativar todas as regras que marcam automaticamente os emails como lidos ao usar o rastreamento de resposta com o Gmail.
 
 1. No Sales Connect, clique no ícone de engrenagem e selecione **Configurações**.
 
@@ -27,7 +27,7 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/two.png)
 
-1. Clique em **Conexão de email** guia.
+1. Clique na guia **Conexão de email**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/four.png)
 
-1. Selecionar **Eu uso o Gmail para enviar emails** e clique em **Próxima**.
+1. Selecione **Eu uso o Gmail para enviar emails** e clique em **Avançar**.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/six.png)
 
-1. Se você já fez logon no Gmail, escolha a conta à qual deseja se conectar. Caso contrário, digite seu endereço do Gmail e clique em **Próxima**. Neste exemplo, ainda não estamos conectados.
+1. Se você já fez logon no Gmail, escolha a conta à qual deseja se conectar. Caso contrário, digite seu endereço do Gmail e clique em **Avançar**. Neste exemplo, ainda não estamos conectados.
 
    ![](assets/seven.png)
 
-1. Digite sua senha e clique em **Próxima**.
+1. Digite sua senha e clique em **Avançar**.
 
    ![](assets/eight.png)
 

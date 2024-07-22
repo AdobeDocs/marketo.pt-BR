@@ -23,7 +23,7 @@ Verifique a configuração de push para garantir que tudo esteja sincronizado co
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecionar **Aplicativos móveis**.
+1. Selecione **Aplicativos móveis**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,7 +31,7 @@ Verifique a configuração de push para garantir que tudo esteja sincronizado co
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Clique em **Ações do aplicativo móvel** e selecione **Verificar configuração de push**.
+1. Clique em **Ações do Aplicativo Móvel** e selecione **Verificar Configuração de Push**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
@@ -43,4 +43,4 @@ Tudo pronto! Agora você pode começar a enviar notificações por push.
 
 >[!MORELIKETHIS]
 >
->[Criar uma notificação por push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>[Criar uma Notificação por Push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)

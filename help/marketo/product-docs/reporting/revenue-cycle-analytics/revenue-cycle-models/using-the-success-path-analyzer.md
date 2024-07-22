@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Uso do Analisador de caminho de sucesso {#using-the-success-path-analyzer}
 
-Use um Analisador de caminho de sucesso para explorar os detalhes específicos que refletem o fluxo (quantidade) e a velocidade (velocidade, em termos de dias) das pessoas pelos estágios da sua [Modelo de ciclo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Use um Analisador de Caminho de Sucesso para explorar os detalhes específicos que refletem o fluxo (quantidade) e a velocidade (velocidade, em termos de dias) das pessoas pelos estágios do seu [Modelo de Ciclo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Criar um Analisador de caminho de sucesso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+>[Criar um Analisador de Caminho de Êxito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Ir para **Analytics** e selecione o **Analisador de caminho de sucesso**.
+1. Vá para **Analytics** e selecione seu **Analisador de caminho de sucesso**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
    O gráfico à direita reflete os dados no botão selecionado à esquerda. Por padrão, esse é Saldo.
 
-1. Clique em **Fluxo de entrada** para gerar um gráfico de quantas pessoas entraram no estágio durante o período selecionado.
+1. Clique em **Em Fluxo** para gerar um gráfico com o número de pessoas que entraram no estágio durante o período selecionado.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,15 +33,15 @@ Use um Analisador de caminho de sucesso para explorar os detalhes específicos q
    * Clique em Conv % para criar um gráfico da taxa de conversão desta fase para a próxima.
    * Clique em Tempo Médio para ver quanto tempo as pessoas passaram nesse estágio antes de passar para o próximo estágio.
 
-1. Clique em **Ações do gráfico** > Comparar Período para comparar os dados a um intervalo de tempo diferente de duração igual.
+1. Clique em **Ações de Gráfico** > Comparar Período para comparar os dados a um período diferente de igual duração.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Selecione o **De** data do período de comparação.
+1. Selecione a data **De** para o período de comparação.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   A variável **Para** A data é automaticamente definida para corresponder à duração do período original.
+   A data **Para** é automaticamente definida para corresponder à duração do seu período original.
 
 1. Clique em **Comparar**.
 
@@ -51,11 +51,11 @@ Use um Analisador de caminho de sucesso para explorar os detalhes específicos q
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Para alterar a escala de tempo do gráfico, clique em uma das opções **Gráfico por** botões: diário (padrão), semanal e mensal
+1. Para alterar a escala de tempo do gráfico, clique em um dos botões **Gráfico por**: diário (padrão), semanal e mensal
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Para estágios com SLAs (Contratos de nível de serviço), clique em **Ações do gráfico** > **Mostrar vencimento do SLA** para mostrar todas as pessoas que perderam um destino de SLA dentro do intervalo de tempo especificado.
+1. Para estágios com SLAs (Contratos de Nível de Serviço), clique em **Gráfico de Ações** > **Mostrar SLA Devido** para mostrar todas as pessoas que perderam um destino de SLA no período especificado.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +63,9 @@ Use um Analisador de caminho de sucesso para explorar os detalhes específicos q
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   As pessoas mostradas em laranja podem *ou talvez não* ainda estar no estágio de SLA.
+   As pessoas mostradas em laranja podem *ou não* ainda estar no estágio de SLA.
 
-1. Clique em **Ações do gráfico** > **Mostrar SLA em Atraso** para mostrar todas as pessoas com metas de SLA expiradas que ainda estão no estágio de SLA no final do período especificado.
+1. Clique em **Ações de Gráfico** > **Mostrar SLA em Atraso** para mostrar todas as pessoas com destinos de SLA expirados que ainda estão no estágio de SLA no final do período especificado.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Use um Analisador de caminho de sucesso para explorar os detalhes específicos q
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Para imprimir o gráfico, clique em **Ações do gráfico** > **Imprimir Gráfico**.
+1. Para imprimir o gráfico, clique em **Ações de Gráfico** > **Imprimir Gráfico**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

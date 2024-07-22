@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,20 @@ Saiba mais sobre os recursos disponíveis no painel do Sales Insights.
 
 >[!PREREQUISITES]
 >
->Você deve ter o pacote MSI SFDC mais recente e [configuração](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Você deve ter o pacote MSI SFDC mais recente e a [configuração](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Layout do contato {#contact-layout}
 
-**Grade de velocidade de envolvimento**
+**Grade Velocidade do Compromisso**
 
 * Esta grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias
 * O usuário pode optar por &quot;Mostrar a atividade da conta&quot;. Isso criará camadas em todo o nível de conta Momentos interessantes, Email e Atividade da Web na exibição de contato
 * O usuário pode destacar a semana específica para ver as atividades dentro dessa semana
 * Exibição padrão: a semana atual está selecionada
 
-**Detalhamento e resumo do contrato**
+**Detalhamento e Resumo do Engajamento**
 
 * Detalhe os cartões de atividade de Momentos interessantes, Email e Atividade na Web
 * Cartão de atividades de momentos interessantes - Inclui a opção de assinatura
@@ -64,14 +64,14 @@ Guia Evento:
 
 ## Layout do lead {#lead-layout}
 
-**Grade de velocidade de envolvimento**
+**Grade Velocidade do Compromisso**
 
 * Esta grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias
 * O usuário pode destacar a semana específica para ver as atividades dentro dessa semana
 * Exibição padrão: a semana atual está selecionada
 * O recurso &quot;Mostrar atividade da conta&quot; não está disponível em clientes potenciais, pois não faz parte de nenhuma conta no Salesforce até ser convertido em um contato
 
-**Detalhamento e resumo do contrato**
+**Detalhamento e Resumo do Engajamento**
 
 * Cartões de atividade detalhados para Momentos interessantes, Email e Atividade na Web
 * Cartão de atividades de momentos interessantes - Inclui a opção de assinatura
@@ -80,7 +80,7 @@ Guia Evento:
 * A barra de Resumo semanal mostrará Momentos interessantes, Atividade de email e da Web nessa semana. Cada ícone é clicável e pode ser usado como filtros para mostrar uma atividade específica
 * Exibição padrão: é uma lista de atividades da exibição atual
 
-**Campanhas e eventos futuros por email:**
+**Campanhas e Eventos de Email Futuros:**
 
 Guia Campanhas de email:
 
@@ -105,13 +105,13 @@ Guia Evento:
 
 ## Layout da conta {#account-layout}
 
-**Grade de velocidade de envolvimento**
+**Grade Velocidade do Compromisso**
 
 * Esta grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias para todos os contatos na conta
 * O usuário pode destacar a semana específica para ver as atividades dentro dessa semana
 * Exibição padrão: a semana atual está selecionada
 
-**Detalhamento e resumo do contrato**
+**Detalhamento e Resumo do Compromisso**
 
 * Cartões de atividade detalhados para Momentos interessantes, Email e Atividade na Web, incluindo nome de contato
 * Cartão de atividades de momentos interessantes - Inclui a opção de assinatura
@@ -141,13 +141,13 @@ Guia Evento:
 
 ## Layout da oportunidade {#opportunity-layout}
 
-**Grade de velocidade de envolvimento**
+**Grade Velocidade do Compromisso**
 
 * Esta grade inteligente inclui Momentos interessantes, Email e Atividade da Web nos últimos 90 dias para todos os contatos na oportunidade
 * O usuário pode destacar a semana específica para ver as atividades dentro dessa semana
 * Exibição padrão: a semana atual está selecionada
 
-**Detalhamento e resumo do contrato**
+**Detalhamento e Resumo do Compromisso**
 
 * Cartões de atividade detalhados para Momentos interessantes, Email e Atividade na Web, incluindo nome de contato
 * Cartão de atividades de momentos interessantes - Inclui a opção de assinatura
@@ -156,7 +156,7 @@ Guia Evento:
 * A barra de Resumo semanal mostrará Momentos interessantes, Atividade de email e da Web nessa semana. Cada ícone é clicável e pode ser usado como filtros para mostrar uma atividade específica
 * Exibição padrão: é uma lista de atividades da exibição atual
 
-**Campanhas e eventos futuros de email** Guia Campanhas de email:
+**Campanhas e eventos de email futuros** guia Campanhas de email:
 
 * Inclui campanhas que fazem parte de programas de email ou programas padrão agendados para os próximos 90 dias
 * Não específico do contato/lead (ou seja, lista de campanhas é uma lista genérica de todas as campanhas de email agendadas na instância do Marketo). A lista de campanhas em todos os painéis de cliente potencial, contato, conta e oportunidade será a mesma

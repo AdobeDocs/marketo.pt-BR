@@ -6,8 +6,8 @@ exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
@@ -19,21 +19,21 @@ ht-degree: 2%
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-1.png)
 
-1. Clique em **Ir** para exibir todos os clientes em potencial abertos.
+1. Clique em **Ir** para exibir todos os clientes potenciais abertos.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-2.png)
 
-1. Na exibição de lista, marque todos os leads/contatos para os quais você deseja enviar um email e clique em **Enviar email do Marketo (clássico)**.
+1. Na exibição de lista, marque todos os clientes potenciais/contatos para os quais deseja enviar email e clique em **Enviar Email do Marketo (clássico)**.
 
    ![](assets/send-an-email-to-multiple-records-in-marketo-sales-insight-3.png)
 
    >[!NOTE]
    >
-   >Se você estiver usando o Salesforce Lightning, o botão dirá **Enviar email do Marketo (relâmpago)**.
+   >Se você estiver usando o Salesforce Lightning, o botão dirá **Enviar email do Marketo (raio)**.
 
    >[!TIP]
    >
-   >Não está vendo o botão? Verifique se você [adição dos botões do Marketo à exibição em lista](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
+   >Não está vendo o botão? Verifique se você [adicionou os Botões do Marketo à exibição de lista](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md).
 
 1. Vá em frente e escreva o email. Clique em **Enviar com o Marketo** quando terminar.
 
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >Você pode [publicar email no Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) e escolha entre esses emails.
+   >Você pode [publicar emails no Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) e escolher um desses emails.
 
    >[!NOTE]
    >

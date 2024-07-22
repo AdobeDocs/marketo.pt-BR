@@ -24,7 +24,7 @@ Quando um Administrador convida um usuário, ele é automaticamente verificado d
 
 >[!IMPORTANT]
 >
->A exceção acima é, _em uma assinatura somente SSO_ No entanto, os administradores receberão um novo convite do usuário, mas os usuários não administradores não receberão. Os usuários que não são administradores ainda devem passar pelo processo de verificação de email para garantir a migração de seus registros. Os usuários podem enviar a si mesmos o link de verificação de email acessando **Admin** > **Minha conta** > **Configurações da conta** e clicando em **Reenviar verificação**.
+>A exceção ao acima é, _em uma assinatura somente SSO_, Administradores receberão um novo convite de usuário, mas usuários não administradores não receberão. Os usuários que não são administradores ainda devem passar pelo processo de verificação de email para garantir a migração de seus registros. Os usuários podem enviar a si mesmos o link de verificação de email indo até **Admin** > **Minha Conta** > **Configurações da Conta** e clicando em **Reenviar Verificação**.
 
 ![](assets/email-verification-1.png)
 
@@ -32,17 +32,17 @@ Quando um Administrador convida um usuário, ele é automaticamente verificado d
 
 Os usuários receberão o email abaixo quando a verificação de email for ativada para uma assinatura ou se for acionada por um Administrador/usuário.
 
-Uma sessão de usuário ativa é necessária para o sucesso da Verificação de email. O usuário deve primeiro fazer logon na assinatura do Marketo usando a URL do provedor de identidade (IdP). Uma vez estabelecida uma sessão, eles _depois_ clique em **Verificar endereço de email** no email.
+Uma sessão de usuário ativa é necessária para o sucesso da Verificação de email. O usuário deve primeiro fazer logon na assinatura do Marketo usando a URL do provedor de identidade (IdP). Depois que uma sessão for estabelecida, eles _e_ clicarão no link **Verificar endereço de email** no email.
 
 ![](assets/email-verification-2.png)
 
 >[!TIP]
 >
->Para reenviar um email de verificação a um usuário não verificado, basta selecionar o registro e clicar no link **[!UICONTROL Verificar email]** botão.
+>Para reenviar um email de verificação para um usuário não verificado, basta selecionar seu registro e clicar no botão **[!UICONTROL Verificar Email]**.
 
 ## Alteração de um endereço de email {#changing-an-email-address}
 
-Quando o endereço de email de um usuário é alterado, ele não é verificado. Um email será enviado a eles, permitindo que eles verifiquem novamente. Os usuários podem reenviar manualmente esse email clicando em **[!UICONTROL Reenviar verificação]**.
+Quando o endereço de email de um usuário é alterado, ele não é verificado. Um email será enviado a eles, permitindo que eles verifiquem novamente. Os usuários podem reenviar manualmente esse email clicando em **[!UICONTROL Reenviar Verificação]**.
 
 ![](assets/email-verification-3.png)
 
@@ -50,7 +50,7 @@ Quando o endereço de email de um usuário é alterado, ele não é verificado. 
 
 ## Usuários e funções {#users-and-roles}
 
-Entrada **[!UICONTROL Admin]** > **[!UICONTROL Usuários e funções]**, a coluna Status de email mostra o status de verificação de cada usuário.
+Em **[!UICONTROL Administrador]** > **[!UICONTROL Usuários e funções]**, a coluna Status do Email mostra o status de verificação de cada usuário.
 
 ![](assets/email-verification-5.png)
 

@@ -15,7 +15,7 @@ ht-degree: 1%
 
 É possível configurar acionadores e filtros para uma Campanha inteligente para aplicativos móveis.
 
-Para a maioria das atividades, há um acionador, um filtro e um filtro de inatividade. Use filtros de inatividade para rastrear uma ação, como tocar em uma notificação por push, que _não_ acontecem.
+Para a maioria das atividades, há um acionador, um filtro e um filtro de inatividade. Use filtros de inatividade para rastrear uma ação, como tocar em uma notificação por push, que _não_ ocorreu.
 
 * O Aplicativo Móvel Está/Foi Instalado
 * O Aplicativo Móvel Está/Foi Aberto
@@ -47,7 +47,7 @@ Alguns acionadores e filtros oferecem restrições adicionais, como:
 
 * Versão do aplicativo - uma maneira de direcionar pessoas que não estão na versão mais recente. Por exemplo, se a versão mais recente do aplicativo for 2.0, você poderá usá-la para encontrar pessoas que NÃO estejam na versão 2.0 do aplicativo
 
-* Origem da instalação - Atualmente, a única opção é a API
+* Instalar o Source - Atualmente, a única opção é a API
 
 * Localidade - A configuração no dispositivo
 
@@ -57,11 +57,11 @@ Alguns acionadores e filtros oferecem restrições adicionais, como:
 
 * Duração da sessão (segundos) - Tempo da sessão quando o aplicativo está em primeiro plano
 
-* Habilitado para Push - **True** significa que as notificações por push podem ser enviadas. **Falso** significa que não podem; por exemplo, a pessoa pode ter optado por não receber notificações por push
+* Habilitado para push - **Verdadeiro** significa que as notificações por push podem ser enviadas. **Falso** significa que não pode; por exemplo, a pessoa pode ter optado por não receber notificações por push
 
 ## Acionadores e filtros {#triggers-and-filters}
 
-**Tem aplicativo móvel**
+**Tem um aplicativo móvel**
 
 Use este filtro para descobrir todas as pessoas que já tiveram seu aplicativo instalado. Isso está disponível somente como filtro.
 
@@ -69,7 +69,7 @@ Use este filtro para descobrir todas as pessoas que já tiveram seu aplicativo i
 >
 >O filtro encontrará as instalações atuais e anteriores, pois a Marketo não rastreia as desinstalações do aplicativo.
 
-**Restrições** - Tipo de dispositivo, Plataforma, Aplicativo móvel, Versão do aplicativo móvel, Tipo de dispositivo, Fonte de instalação, É ativado por push e Local
+**Restrições** - Tipo de Dispositivo, Plataforma, Aplicativo Móvel, Versão do Aplicativo Móvel, Tipo de Dispositivo, Instalar Source, É Habilitado para Push e Localidade
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ O Aplicativo Móvel Está/Foi Instalado
 
 * NÃO foi instalado o aplicativo móvel - filtro de inatividade
 
-**Restrições** - Tipo de dispositivo, plataforma, versão do aplicativo, local e origem de instalação
+**Restrições** - Tipo de Dispositivo, Plataforma, Versão do Aplicativo, Localidade e Instalar Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -97,13 +97,13 @@ O Aplicativo Móvel Está/Foi Aberto
 
 * NÃO foi aberto o aplicativo móvel - filtro de inatividade
 
-**Restrições** - Tipo de dispositivo e plataforma
+**Restrições** - Tipo de Dispositivo e Plataforma
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Teve/Teve Atividade De Aplicativo Móvel
 
-Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento [para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [para iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [para o iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tem atividade de aplicativo móvel - acionador
 
@@ -111,7 +111,7 @@ Eles fornecem uma maneira avançada de rastrear atividades móveis personalizada
 
 * NÃO teve atividade no aplicativo móvel - filtro de inatividade
 
-**Restrições** - Tipo de dispositivo, Plataforma, Versão do aplicativo móvel, Local, Versão da plataforma, além de cinco adicionais:
+**Restrições** - Tipo de Dispositivo, Plataforma, Versão do Aplicativo Móvel, Localidade, Versão da Plataforma, mais cinco adicionais:
 
 * Ação - Atividade móvel personalizada
 
@@ -129,7 +129,7 @@ As Restrições de ação permitem usar o acionador e os filtros para rastrear a
 >
 >**Exemplo**
 >
->No tipo de ação de *Compras*, esta é uma ação muito específica, com as outras restrições definindo-a:
+>No tipo de ação de *Compras*, veja uma ação muito específica, com outras restrições definindo-a:
 >
 >* Comprei uma camisa
 >   * Era vermelho
@@ -152,7 +152,7 @@ Veja como o filtro é exibido no Marketo:
 >| Detalhes da ação | Cor | Cor |
 >| Métrica da ação | Preço | Preço |
 
-**Tem/Teve Sessão De Aplicativo Móvel**
+**Teve/Teve Sessão De Aplicativo Móvel**
 
 * Tem sessão de aplicativo móvel - acionador
 
@@ -160,7 +160,7 @@ Veja como o filtro é exibido no Marketo:
 
 * NÃO teve sessão de aplicativo móvel - filtro de inatividade
 
-**Restrições** - Tipo de dispositivo, plataforma e duração da sessão (segundos)
+**Restrições** - Tipo de Dispositivo, Plataforma e Duração da Sessão (segundos)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -172,7 +172,7 @@ Notificação por push de toques/toques
 
 * Notificação por push sem toques - filtro de inatividade
 
-**Restrições** - Tipo de dispositivo, Plataforma, Versão do aplicativo móvel, Notificação por push e Versão da plataforma
+**Restrições** - Tipo de Dispositivo, Plataforma, Versão do Aplicativo Móvel, Notificação por Push e Versão da Plataforma
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -180,17 +180,17 @@ Notificação por push de toques/toques
 >
 >Use o filtro de inatividade Notificação por push sem toque para encontrar pessoas que não tocaram em uma notificação por push enviada recentemente a elas, para que você possa fazer o acompanhamento por email.
 
-**Notificação Por Push Enviada** Essa atividade está disponível somente como filtro.
+**Notificação por Push Enviada** Esta atividade está disponível somente como filtro.
 
 * Notificação por push enviada - filtro
 
 * Notificação por push NÃO enviada - filtro de inatividade
 
-**Restrições** - Notificação por push e aplicativo móvel
+**Restrições** - Notificação por push e Aplicativo Móvel
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
->* [Adicionar uma restrição a um filtro de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [Usar filtros de inatividade em uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>* [Adicionar uma Restrição a um Filtro de Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [Usar Filtros de Inatividade em uma Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

@@ -14,7 +14,7 @@ ht-degree: 3%
 
 O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cliente potencial. O Marketo Sales oferece duas maneiras de enviar emails em massa: **Emails de grupo** e **Selecionar e enviar**. Emails de grupo são uma ótima maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Select e Send significa limites de email mais baixos, mas oferece mais oportunidades de personalização para o usuário.
 
-**Email de grupo vs. Selecionar e enviar**
+**Agrupar email vs. Selecionar e enviar**
 
 <table> 
  <colgroup> 
@@ -53,15 +53,15 @@ O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cl
  </tbody> 
 </table>
 
-**Usando email de grupo**
+**Usando Email de Grupo**
 
 Você pode visualizar cada email na lista para ver se os campos dinâmicos estão sendo preenchidos corretamente e pode editar o modelo que deseja enviar em massa. No entanto, não é possível fazer edições únicas &quot;por usuário&quot;.
 
-**Utilização do Select e Send**
+**Usando Selecionar e Enviar**
 
 Por padrão, você editará para todos os destinatários. Mas você também pode selecionar cada email individual para fazer edições personalizadas. Isso pode ser ótimo para adicionar uma ou mais linhas exclusivas de personalização a recipients com os quais você deseja fazer uma abordagem mais personalizada.
 
 >[!MORELIKETHIS]
 >
->* [Escrevendo emails em massa com Selecionar e enviar](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Compondo Emails em Massa com Selecionar e Enviar](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [Enviando Emails por Email de Grupo](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)

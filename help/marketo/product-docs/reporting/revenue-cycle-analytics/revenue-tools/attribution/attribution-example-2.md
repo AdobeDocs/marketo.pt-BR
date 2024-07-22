@@ -6,8 +6,8 @@ exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 6%
+source-wordcount: '181'
+ht-degree: 4%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 6%
 Leia o cenário a seguir e tente determinar os números que devem estar na grade.
 
 * Abril de 11 | O título é adquirido por (Tradeshow)
-* Abril de 15 | Joana é adquirida por (Webinar)
+* Abril de 15 | Joan é adquirida pela (Webinar)
 * Abril de 22 | (Oportunidade 1) criada por US$ 6.000
 * Abril de 24 | (Oportunidade 2) criada por US$ 10.000
-* Abril de 25 | Bill e Joan são associados a funções de **AMBOS** Optys
-* Abril de 29 | (Oportunidade 1) é conquistado por fechamento
+* Abril de 25 | Bill e Joan estão associados com as funções de **BOTH** Optys
+* Abril de 29 | (Oportunidade 1) é Conquistado
 
-| Nome do programa | (Evento comercial) | (Webinar) |
+| Nome do programa | (Feira) | (Webinário) |
 |---|---|---|
 | (FT) Opção criada | `<pre>1</pre>` | `<pre>1</pre>` |
 | (FT) Planejamento criado | `<pre>$8,000</pre>` | `<pre>$8,000</pre>` |
@@ -35,7 +35,7 @@ Leia o cenário a seguir e tente determinar os números que devem estar na grade
 >
 >**Explicação**
 >
->Porque Bill e Joan estavam associados a papéis para **AMBOS** oportunidades, o sistema (de acordo com as regras) divide o crédito uniformemente entre elas.
+>Como Bill e Joan foram associados com funções a **AMBOS** oportunidades, o sistema (de acordo com as regras) divide o crédito igualmente entre eles.
 >
 >Pipeline criado para cada programa (US$ 8 mil) é metade do total (US$ 16 mil) disponível para dar como crédito.
 

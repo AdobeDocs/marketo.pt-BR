@@ -19,7 +19,7 @@ Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ai
 
 ## Como encontrar modelos compartilhados  {#how-to-find-shared-templates}
 
-Os modelos que foram compartilhados com você serão exibidos na **Modelos de Equipe** no lado esquerdo da página Modelos.
+Os modelos que foram compartilhados com você aparecerão no cabeçalho **Modelos de Equipe** à esquerda da página Modelos.
 
 >[!NOTE]
 >

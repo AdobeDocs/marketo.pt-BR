@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -329,7 +329,7 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
         <p>D2 direcionado para WP1 com prioridade 2</p>
         <p>V1 visita WP1 pela primeira vez</p>
         <p>V1 clica em D1 e conclui D1</p>
-        <p>V1 atualiza WP1 e consulte D2<br/>V1 clica em D2 e conclui D2</p>
+        <p>V1 atualiza WP1 e vê D2<br/>V1 clica em D2 e conclui D2</p>
         <p>O profissional de marketing fez alterações no D1 e publicou novamente</p>
         <p>V1 atualiza WP1</p>
       </td>

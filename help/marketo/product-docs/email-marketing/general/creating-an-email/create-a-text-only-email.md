@@ -17,17 +17,17 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
 
 >[!NOTE]
 >
->Como as aberturas são rastreadas pelo recipient que está baixando as imagens do email (o que inclui um pixel de rastreamento invisível), as aberturas são **não** rastreável para emails somente texto.
+>Como as aberturas são rastreadas pelo destinatário que está baixando as imagens do email (o que inclui um pixel de rastreamento invisível), as aberturas **não** podem ser rastreadas para emails Somente texto.
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/one-1.png)
 
-1. Selecione seu programa, clique no botão **Novo** e selecione **Novo ativo local**.
+1. Selecione seu programa, clique no menu suspenso **Novo** e selecione **Novo ativo local**.
 
    ![](assets/two-1.png)
 
-1. Selecionar **E-mail**.
+1. Selecione **Email**.
 
    ![](assets/three-1.png)
 
@@ -39,19 +39,19 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
 
    ![](assets/five.png)
 
-1. Marcar **Somente texto** e clique em **Salvar**.
+1. Verifique **Somente texto** e clique em **Salvar**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Os links não são rastreados automaticamente em emails somente texto. Veja como [Adicionar links rastreados a um email de texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Os links não são rastreados automaticamente em emails somente texto. Veja como [Adicionar Links Rastreados a um Email com Texto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >Também é possível editar um email existente e alterar essa configuração. Não esqueça de aprovar o rascunho.
 
-1. Desmarque a **Copiar automaticamente do HTML** caixa de seleção
+1. Desmarque a caixa de seleção **Copiar automaticamente do HTML**.
 
    ![](assets/seven.png)
 

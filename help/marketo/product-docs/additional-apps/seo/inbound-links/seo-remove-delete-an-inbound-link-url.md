@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Às vezes, você desejará remover links de entrada. Veja como:
 
-1. Vá para a **[!UICONTROL Links de entrada]** seção.
+1. Vá para a seção **[!UICONTROL Links de Entrada]**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 

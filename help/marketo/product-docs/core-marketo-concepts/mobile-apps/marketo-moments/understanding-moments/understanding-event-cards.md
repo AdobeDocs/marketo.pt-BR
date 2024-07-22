@@ -6,8 +6,8 @@ exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '152'
+ht-degree: 0%
 
 ---
 
@@ -25,12 +25,12 @@ Ao tocar em qualquer cartão do Programa de email, você pode:
 * [Marcar um evento como concluído](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Compartilhar um cartão de momento de evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Há dois cartões de evento. A variável [!UICONTROL No convés] enviado algumas horas antes do evento, mostra quantas pessoas estão inscritas. A variável [!UICONTROL Resultados] , enviado posteriormente, exibe quantos realmente participaram.
+Há dois cartões de evento. O cartão [!UICONTROL No Deck], enviado algumas horas antes do evento, mostra quantas pessoas estão inscritas. O cartão [!UICONTROL Resultados], enviado posteriormente, exibe quantos realmente participaram.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 
 >[!MORELIKETHIS]
 >
 >* [Noções básicas sobre o Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Compreensão dos cartões do programa de email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [Noções básicas sobre programas de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+>* [Compreendendo Cartões de Programa de Email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Noções básicas sobre programas de eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)

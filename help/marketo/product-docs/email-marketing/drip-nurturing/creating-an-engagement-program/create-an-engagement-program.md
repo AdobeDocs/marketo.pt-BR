@@ -7,7 +7,7 @@ feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Você pode usar os programas de engajamento no Marketo para realizar a criação de emails com facilidade.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,7 +23,7 @@ Você pode usar os programas de engajamento no Marketo para realizar a criação
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Insira um **Nome**, selecione **Envolvimento** para **Tipo de programa** e clique em **Criar**.
+1. Insira um **Nome**, selecione **Envolvimento** para **Tipo de Programa** e clique em **Criar**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
@@ -34,4 +34,4 @@ Você pode usar os programas de engajamento no Marketo para realizar a criação
    >[!MORELIKETHIS]
    >
    >* [Adicionar conteúdo a um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-   >* [Definir cadência das transmissões](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [Definir Cadência de Fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

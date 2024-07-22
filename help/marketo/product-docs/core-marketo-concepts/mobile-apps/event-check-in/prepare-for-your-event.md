@@ -6,7 +6,7 @@ exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ Há várias coisas que você precisa fazer para se preparar para o evento.
 
 ## Criar uma nova função do Marketo {#create-a-new-marketo-role}
 
-O Marketo tem uma função de usuário especial para o aplicativo de check-in de eventos. [Criar uma nova função do Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) para [!DNL iPad] ou [!DNL Android] usuários, com permissão para acessar o aplicativo móvel.
+O Marketo tem uma função de usuário especial para o aplicativo de check-in de eventos. [Crie uma nova função de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) para [!DNL iPad] ou [!DNL Android] usuários, com permissão para acessar o aplicativo móvel.
 
 ## Convidar novos usuários do Tablet para o evento {#invite-new-tablet-users-to-the-event}
 
-[Convidar novos usuários do tablet para o evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e atribua a eles a nova função.
+[Convide novos usuários do tablet para o evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e atribua a eles a nova função.
 
 ## Criar um novo programa de evento do Marketo {#create-a-new-marketo-event-program}
 
-[Criar um novo programa de evento do Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) para capturar o status dos membros da sua equipe à medida que avançam em diferentes estágios e obter medidas precisas do ROI de suas iniciativas de marketing.
+[Crie um novo programa de eventos do Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) para capturar o status das pessoas à medida que elas avançam por diferentes estágios e obter medidas precisas do ROI das suas iniciativas de marketing.
 
 ## Especificar as datas do evento {#specify-the-event-dates}
 
@@ -39,27 +39,27 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in de
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Deslizar sobre para alterar **[!UICONTROL Tentativa]** para **[!UICONTROL Confirmado]**.
+1. Deslize para alterar **[!UICONTROL Provisório]** para **[!UICONTROL Confirmado]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
    >[!CAUTION]
    >
-   >Se a data do evento for anterior ou posterior à data atual em mais de uma semana, o evento não aparecerá no aplicativo. **Dica**: para testá-lo, defina temporariamente as datas para dentro de uma semana a partir de hoje. Lembre-se de retornar o evento às datas corretas após testá-lo.
+   >Se a data do evento for anterior ou posterior à data atual em mais de uma semana, o evento não aparecerá no aplicativo. **Dica**: para testá-la, defina temporariamente as datas para dentro de uma semana a partir de hoje. Lembre-se de retornar o evento às datas corretas após testá-lo.
 
 ## Adicionar pessoas ao seu evento {#add-people-to-your-event}
 
 Agora que você sabe o _quando_, é hora de adicionar o *quem*.
 
-1. Se você já tiver uma lista de pessoas, em Meu Marketo, clique no link **[!UICONTROL Banco de dados]** bloco.
+1. Se você já tiver uma lista de pessoas em Meu Marketo, clique no bloco **[!UICONTROL Banco de Dados]**.
 
    ![](assets/db.png)
 
-1. Selecione uma lista com pessoas e clique no botão **[!UICONTROL Pessoas]** guia.
+1. Selecione uma lista com pessoas e clique na guia **[!UICONTROL Pessoas]**.
 
    ![](assets/four.png)
 
-1. Selecione as pessoas para o seu evento na lista. Uso **[!UICONTROL Ctrl]** (ou **[!UICONTROL Comando]** em uma Mac) para clicar em várias pessoas, ou **[!UICONTROL Selecionar tudo]** para marcar todos eles.
+1. Selecione as pessoas para o seu evento na lista. Use **[!UICONTROL Ctrl]** (ou **[!UICONTROL Command]** em uma Mac) para clicar em várias pessoas, ou **[!UICONTROL Selecionar Tudo]** para marcar todas elas.
 
    ![](assets/five.png)
 
@@ -67,11 +67,11 @@ Agora que você sabe o _quando_, é hora de adicionar o *quem*.
 
    ![](assets/six.png)
 
-1. Clique em **[!UICONTROL Programa]** e selecione o evento.
+1. Clique na lista suspensa **[!UICONTROL Programa]** e selecione seu evento.
 
    ![](assets/seven.png)
 
-1. Clique em **[!UICONTROL Novo Status]** e selecione **[!UICONTROL Roadshow] > [!UICONTROL Registrado]**. Clique em **[!UICONTROL Executar agora]**.
+1. Clique no menu suspenso **[!UICONTROL Novo status]** e selecione **[!UICONTROL Roadshow] > [!UICONTROL Registrado]**. Clique em **[!UICONTROL Executar Agora]**.
 
    ![](assets/eight.png)
 

@@ -15,32 +15,32 @@ ht-degree: 0%
 
 Você pode alterar o rótulo em um formulário para qualquer coisa - você pode até usar uma imagem ou apagá-la completamente! Veja como fazer isso.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Selecione o campo e edite o campo **Rótulo**. Os campos nas Configurações do formulário refletirão os rótulos inseridos.
+1. Selecione seu campo e edite o **Rótulo**. Os campos nas Configurações do formulário refletirão os rótulos inseridos.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
    >[!TIP]
    >
-   >Se você quiser ficar chique, você pode clicar no botão ![lápis](assets/image2014-9-15-17-3a27-3a7.png). Isso abrirá um editor de rich text e permitirá que você vá para a cidade com imagens, links e muito mais!
+   >Se você quiser se fantasiar, clique no ![lápis](assets/image2014-9-15-17-3a27-3a7.png). Isso abrirá um editor de rich text e permitirá que você vá para a cidade com imagens, links e muito mais!
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
 >[!NOTE]
 >
->Não se esqueça de [aprovar o rascunho da página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+>Não esqueça de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
 É isso aí! Pouco a pouco você vai se tornando um defensor do design.

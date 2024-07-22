@@ -2,10 +2,10 @@
 description: Modelo de email de início rápido - Documentação do Marketo - Documentação do produto
 title: Modelo de e-mail de início rápido
 feature: Programs
-exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Alguns dos programas iniciais na Biblioteca de referência de Marketo Engage con
 
 O editor de email Marketo Engage vem equipado com recursos que ajudam a alterar o layout e editar o conteúdo de seus emails.
 
-* **Módulos**: blocos de conteúdo arrastáveis/soltáveis que são codificados no modelo. Elas podem ser reorganizadas e duplicadas.
+* **Módulos**: blocos de conteúdo arrastáveis/elimináveis que são codificados no modelo. Elas podem ser reorganizadas e duplicadas.
 
-* **Elementos de texto**: você pode usar o editor para atualizar, alterar estilos de fonte ou adicionar links.
+* **Elementos de Texto**: você pode usar o editor para atualizar, alterar estilos de fonte ou adicionar links.
 
-* **Elementos da imagem**: Semelhante aos elementos de texto, as imagens podem ser trocadas, vinculadas e redimensionadas.
+* **Elementos de imagem**: assim como os elementos de texto, as imagens podem ser removidas, vinculadas e redimensionadas.
 
 * **Variáveis**: quando um módulo é selecionado, as variáveis são exibidas no lado direito do editor. Eles podem ser usados para ajustar atributos do módulo que não são facilmente editáveis por meio de elementos de imagem ou texto.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo dos módulos {#modules-summary}
 
@@ -92,7 +92,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Cor do texto CTA
    * Cor do plano de fundo do CTA
    * Cor da borda do CTA
-   * Raio da borda CTA (para tornar os botões arredondados - **Nota**: esse recurso não funciona em clientes de email do Microsoft Outlook)
+   * Raio da borda CTA (para tornar os botões arredondados - **Observação**: esse recurso não funciona em clientes de email do Microsoft Outlook)
    * URL CTA
    * Texto CTA
    * Alinhamento CTA

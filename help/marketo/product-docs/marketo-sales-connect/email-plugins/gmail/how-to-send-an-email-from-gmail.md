@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. Selecione um template de email ou escreva uma nova mensagem.
 
-1. Quando o email estiver pronto para envio, clique no link **Enviar e conectar** botão. Clicar nesse botão em vez do botão de envio normal garantirá que seu email seja enviado com o rastreamento aplicado. O Sales Connect rastreará quando seu email for aberto e quando alguém clicar em qualquer link.
+1. Quando o email estiver pronto para envio, clique no botão **Enviar e Conectar**. Clicar nesse botão em vez do botão de envio normal garantirá que seu email seja enviado com o rastreamento aplicado. O Sales Connect rastreará quando seu email for aberto e quando alguém clicar em qualquer link.

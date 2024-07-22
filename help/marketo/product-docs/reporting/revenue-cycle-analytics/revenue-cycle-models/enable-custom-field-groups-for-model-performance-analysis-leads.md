@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Categorizar campos padrão ou personalizados em grupos para relatórios por meio do Organizador de campos no Marketo. Para obter detalhes, consulte [Criar grupos de campos personalizados por meio do Organizador de campos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
+>Categorizar campos padrão ou personalizados em grupos para relatórios por meio do Organizador de campos no Marketo. Para obter detalhes, consulte [Criar grupos de campos personalizados por meio do Organizador de Campos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
 <table> 
  <tbody> 
@@ -35,14 +35,14 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>O que acontece quando você habilita um grupo de campos personalizado associado a um campo de pessoa ou empresa personalizado?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>O grupo de campos personalizados está habilitado para relatórios na área de Análise de Desempenho de Modelo (Clientes Potenciais)</p></td> 
-   <td colspan="1" rowspan="1"><p>O próprio campo personalizado é ativado para relatórios nas áreas Análise de lead, Análise de campanha e Análise de oportunidade.</p><p><strong>NOTA:</strong> Os grupos de campos personalizados NÃO são suportados nessas áreas de análise, portanto, as associações de grupo não são exibidas no Gerenciador de ciclo de receita—<em>somente</em> o campo personalizado.</p></td> 
+   <td colspan="1" rowspan="1"><p>O próprio campo personalizado é ativado para relatórios nas áreas Análise de lead, Análise de campanha e Análise de oportunidade.</p><p><strong>OBSERVAÇÃO:</strong> os grupos de campos personalizados NÃO são suportados nessas áreas de análise, portanto, as associações de grupo não são exibidas no Gerenciador de Ciclo de Receita—<em>somente</em> o campo personalizado.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 Siga estas etapas para habilitar um grupo de campos personalizado para relatórios na área Análise de Desempenho de Modelo (Clientes Potenciais).
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-1.png)
 
@@ -54,7 +54,7 @@ Siga estas etapas para habilitar um grupo de campos personalizado para relatóri
 
    ![](assets/three.png)
 
-1. Clique em **Campo** e selecione o que você deseja.
+1. Clique na lista suspensa **Campo** e selecione o que deseja.
 
    ![](assets/four-1.png)
 

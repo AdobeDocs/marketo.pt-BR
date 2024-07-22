@@ -6,8 +6,8 @@ exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 12%
+source-wordcount: '405'
+ht-degree: 7%
 
 ---
 
@@ -17,19 +17,19 @@ Crie e faça upload de uma lista de nomes de domínio e organização para selec
 
 >[!NOTE]
 >
->Este artigo aplica-se somente aos clientes herdados da Web ABM. Se você adquiriu o Web ABM após setembro de 2016, siga as etapas em [este artigo](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) em vez disso.
+>Este artigo aplica-se somente aos clientes herdados da Web ABM. Se você adquiriu o Web ABM após setembro de 2016, siga as etapas em [este artigo](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList).
 
 ## Criar uma nova lista de contas {#create-a-new-account-list-1}
 
-1. Ir para **Listas de contas**.
+1. Ir para **Listas de Contas**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Selecionar **Criar novo**.
+1. Selecione **Criar Novo**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Selecionar **Procurar** e carregue seu arquivo CSV (verifique se o arquivo csv atende aos critérios). Adicionar um **Nome** e **Descrição**. Clique em **Salvar**.
+1. Selecione **Procurar** e carregue seu arquivo CSV (verifique se o arquivo csv atende aos critérios). Adicionar um **Nome** e uma **Descrição**. Clique em **Salvar**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -64,19 +64,19 @@ Crie e faça upload de uma lista de nomes de domínio e organização para selec
 
 ## Editar uma lista de contas {#edit-an-account-list}
 
-No **Listas de contas** clique no link **Editar** na lista.
+Na página **Listas de Contas**, clique no ícone **Editar** na lista.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Selecionar **Procurar** e carregue seu novo arquivo CSV. Este arquivo substituirá o arquivo original. Clique em **Salvar**. O novo arquivo carregado estará em um estado pendente até ser aprovado pelo Suporte da Marketo, quando em um estado pendente o arquivo original permanecerá ativo.
+Selecione **Procurar** e carregue seu novo arquivo CSV. Este arquivo substituirá o arquivo original. Clique em **Salvar**. O novo arquivo carregado estará em um estado pendente até ser aprovado pelo Suporte da Marketo, quando em um estado pendente o arquivo original permanecerá ativo.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
-O arquivo CSV substituirá o arquivo existente. A lista existente permanecerá ativa até a conclusão do processamento do novo arquivo.
+O arquivo CSV substituirá o arquivo existente. A lista existente permanecerá ativa até que o processamento do novo arquivo seja concluído.
 
 ## Excluir uma lista de contas nomeadas {#delete-a-named-account-list}
 
-1. No **Listas de contas** clique no ícone Delete da lista que deseja excluir.
+1. Na página **Listas de contas**, clique no ícone Excluir da lista que deseja excluir.
 
    ![](assets/create-new-account-list-delete.jpg)
 

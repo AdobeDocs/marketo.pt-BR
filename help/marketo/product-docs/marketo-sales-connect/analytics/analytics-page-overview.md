@@ -45,6 +45,6 @@ Aqui você pode ver as estatísticas e classificações de toda a sua equipe. Ta
 
 A guia Content contém estatísticas sobre templates, conteúdo e links. Você pode filtrar por todos ou por equipes criadas por seus administradores.
 
-Se você vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Visualize seu uso clicando em **Análise de modelo**.
+Se você vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Exiba o uso clicando em **Análise de Modelo**.
 
 Os &quot;cliques no conteúdo&quot; são contados quando um recipient clica em um link em seu email.

@@ -24,7 +24,7 @@ Como administrador, você pode visualizar os modelos como qualquer usuário.
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. Clique em **Exibir como** e selecione o usuário desejado.
+1. Clique no menu suspenso **Exibir como** e selecione o usuário desejado.
 
    ![](assets/view-template-list-as-another-user-2.png)
 
@@ -34,4 +34,4 @@ Como administrador, você pode visualizar os modelos como qualquer usuário.
 
    >[!NOTE]
    >
-   >Também é possível usar filtros ou a função de pesquisa junto com _Exibir como_ para ver o que é mais relevante para você.
+   >Você também pode usar filtros ou a função de pesquisa com _Exibir como_ para exibir o que é mais relevante para você.

@@ -6,24 +6,24 @@ exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Como inserir campos dinâmicos {#how-to-insert-dynamic-fields}
 
-Permitimos personalizar seus modelos de email com atributos predefinidos, como `{{first_name}}` ou `{{company}}`. Esses campos permitem enviar um email para vários contatos e preencher automaticamente esses campos sem precisar digitá-los separadamente para cada contato.
+Permitimos que você personalize seus modelos de email com atributos predefinidos como `{{first_name}}` ou `{{company}}`. Esses campos permitem enviar um email para vários contatos e preencher automaticamente esses campos sem precisar digitá-los separadamente para cada contato.
 
 >[!TIP]
 >
->Os campos &quot;first_name&quot; e &quot;company&quot; são os únicos campos que serão exibidos para o Sales Connect e o Salesforce. Isso significa que se um contato não existir no [aplicativo web](https://toutapp.com/login)No entanto, procuramos no Salesforce para ver se podemos encontrar um registro de contato/lead com um endereço de email correspondente. Em seguida, usamos as informações desse registro para preencher o campo.
+>Os campos &quot;first_name&quot; e &quot;company&quot; são os únicos campos que serão exibidos para o Sales Connect e o Salesforce. Isso significa que, se um contato não existir no [aplicativo Web](https://toutapp.com/login), procuraremos no Salesforce para ver se podemos encontrar um registro de contato/cliente potencial com um endereço de email correspondente. Em seguida, usamos as informações desse registro para preencher o campo.
 
 ## Inserir um campo dinâmico em um modelo {#insert-a-dynamic-field-into-a-template}
 
-1. Entrada **Modelos e campanhas**, localize o modelo que deseja editar e clique em **Editar modelo**.
+1. Em **Modelos e Campanhas**, encontre o modelo que deseja editar e clique em **Editar Modelo**.
 
-1. Clique em **Tout de campos dinâmicos**.
+1. Clique Em **Tout Campos Dinâmicos**.
 
    >[!NOTE]
    >

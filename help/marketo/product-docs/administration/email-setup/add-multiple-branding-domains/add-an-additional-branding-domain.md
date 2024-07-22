@@ -17,13 +17,13 @@ Adicione outro domínio de marca ao executar várias marcas em uma única instâ
 
 >[!PREREQUISITES]
 >
->Você deve [substituir o link de rastreamento genérico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) com um domínio de marca antes de adicionar outros domínios de marca.
+>Você deve [substituir o link de rastreamento genérico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) por um domínio com marca antes de adicionar outros domínios com marca.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/add-an-additional-branding-domain-2.png)
 
@@ -37,8 +37,8 @@ Adicione outro domínio de marca ao executar várias marcas em uma única instâ
 
 >[!NOTE]
 >
->Você pode optar por definir esse domínio como principal, e todos os emails existentes não enviados como &quot;Padrão&quot; e todos os emails recém-criados assumirão o domínio principal como padrão. Você poderá [substituir isto por email](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
+>Você pode optar por definir esse domínio como principal, e todos os emails existentes não enviados como &quot;Padrão&quot; e todos os emails recém-criados assumirão o domínio principal como padrão. Você poderá [substituir este item por email](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
 >[!MORELIKETHIS]
 >
->[Editar seu domínio de marca padrão](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
+>[Editar Seu Domínio De Identidade Visual Padrão](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)

@@ -24,7 +24,7 @@ Essa guia lista todos os agentes na instância do Dynamic Chat e inclui informa�
 
 >[!NOTE]
 >
->Não vejo um agente que você _apenas_ adicionado? Pode levar até duas horas para que eles apareçam aqui após adicioná-los ao Admin Console do Adobe.
+>Não vê um agente que você _acabou_ de adicionar? Pode levar até duas horas para que eles apareçam aqui após adicioná-los ao Admin Console do Adobe.
 
 ## Equipes {#teams}
 
@@ -38,7 +38,7 @@ Os administradores podem criar equipes de agentes para facilitar o roteamento pa
 
 ### Criar uma equipe {#create-a-team}
 
-1. Clique em **+ Criar equipe**.
+1. Clique em **+ Criar Equipe**.
 
    ![](assets/agent-management-4.png)
 
@@ -46,7 +46,7 @@ Os administradores podem criar equipes de agentes para facilitar o roteamento pa
 
    ![](assets/agent-management-5.png)
 
-1. Clique em **Adicionar agentes** e selecione os agentes desejados.
+1. Clique na lista suspensa **Adicionar agentes** e selecione os agentes desejados.
 
    ![](assets/agent-management-6.png)
 
@@ -70,7 +70,7 @@ Selecione uma mensagem padrão (sistema) ou escreva uma personalizada para os vi
 
 >[!NOTE]
 >
->Selecionar o **Incluir Opção de Reserva de Reunião** a caixa de seleção dará ao visitante do chat a opção de agendar uma reunião quando nenhum agente estiver disponível para o chat ao vivo.
+>Marcar a caixa de seleção **Incluir Opção de Reserva de Reunião** dará ao visitante do chat a opção de marcar uma reunião quando nenhum agente estiver disponível para o chat ao vivo.
 
 >[!TIP]
 >

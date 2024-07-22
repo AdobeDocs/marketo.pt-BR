@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Siga as etapas deste artigo para conceder aos usuários das Ações do Sales Insight acesso à conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e acesso a Campanhas de marketing.
 
-Você precisará convidar usuários para [Ações do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes de ficarem visíveis na página Marketo > Acesso à equipe (em Ações do Sales Insight), onde o acesso à conexão do Marketo é concedido.
+Você precisará convidar usuários para [Ações do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) antes que eles fiquem visíveis na página Marketo > Acesso à equipe (em Ações do Sales Insight), onde o acesso à conexão do Marketo é concedido.
 
 >[!CAUTION]
 >
@@ -24,11 +24,11 @@ Você precisará convidar usuários para [Ações do Sales Insight](/help/market
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. Em Configurações do administrador, clique em **Marketo**.
+1. Em Configurações do Administrador, clique em **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Clique em **Acesso do usuário** guia. Selecione um ou mais usuários e clique em **Conectar**.
+1. Clique na guia **Acesso de Usuário**. Selecione um ou mais usuários e clique em **Conectar**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,7 +40,7 @@ Você precisará convidar usuários para [Ações do Sales Insight](/help/market
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **ETAPA OPCIONAL**: clique na lista suspensa Espaço de trabalho e selecione os espaços de trabalho desejados.
+   **ETAPA OPCIONAL**: clique no menu suspenso Workspace e selecione o(s) espaço(s) de trabalho desejado(s).
 
    ![](assets/grant-marketo-access-to-users-5.png)
 

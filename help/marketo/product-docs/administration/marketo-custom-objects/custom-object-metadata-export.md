@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Exportação de metadados de objeto personalizado {#custom-object-metadata-export}
 
-Se você estiver usando nossa API SOAP ou Munchkin, o esquema de metadados do objeto personalizado pode ser exportado. Veja como obtê-lo.
+Se você estiver usando a API SOAP ou a API Munchkin, o esquema de metadados do objeto personalizado pode ser exportado. Veja como obtê-lo.
 
 >[!AVAILABILITY]
 >
 >Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/custom-object-metadata-export-1.png)
 
@@ -30,7 +30,7 @@ Se você estiver usando nossa API SOAP ou Munchkin, o esquema de metadados do ob
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Clique em **[!UICONTROL Ações do objeto personalizado]** e selecione **[!UICONTROL Exportar objeto]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de Objetos Personalizados]** e selecione **[!UICONTROL Exportar Objeto]**.
 
    ![](assets/custom-object-metadata-export-4.png)
 

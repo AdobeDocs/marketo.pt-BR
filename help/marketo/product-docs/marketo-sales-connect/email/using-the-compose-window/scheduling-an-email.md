@@ -19,7 +19,7 @@ Siga estas etapas fáceis para agendar um email.
 >
 >Para atualizar o fuso horário padrão, vá para a página Configurações.
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/one-1.png)
 
@@ -35,7 +35,7 @@ Siga estas etapas fáceis para agendar um email.
 
    ![](assets/four-1.png)
 
-1. Agora que a data/hora programada está selecionada, clique em **Enviar** para agendar o email.
+1. Agora que a data/hora agendada está selecionada, clique em **Enviar** para agendar o email.
 
    ![](assets/five-1.png)
 

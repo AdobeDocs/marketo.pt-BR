@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ A view detalhada de pessoa fornece um perfil detalhado de cada pessoa na conta M
 
 ## Como acessar {#how-to-access}
 
-1. Para acessar a view de detalhes da pessoa, clique no **Pessoas** guia.
+1. Para acessar a exibição de detalhes da pessoa, clique na guia **Pessoas**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -43,12 +43,12 @@ Inclui todas as informações de contato da pessoa.
 
 * Exibe e gerencia de quais grupos esta pessoa é membro
 
-**Dados da conta**
+**Informações da conta**
 
 * Pode adicionar uma pessoa ao Salesforce
 * Obter informações de conta e lead/contato do Salesforce
 
-**Campos  personalizados**
+**Campos Personalizados**
 
 * Adicione ou remova campos personalizados que podem ser usados como campos dinâmicos em seus modelos e campanhas
 
@@ -62,7 +62,7 @@ Veja como essa pessoa está se envolvendo com seu alcance.
 
 ![](assets/person-detail-view-4.png)
 
-**Atividade do Sales Connect**
+**Atividade de Sales Connect**
 
 * Veja atividades de engajamento de seus emails e campanhas de vendas
 
@@ -84,7 +84,7 @@ Mostra seu histórico de alcance. Inclui emails, campanhas e chamadas.
 
 * Ver qualquer campanha de marketing da qual essa pessoa seja membro
 
-**E-mails de vendas**
+**Emails de Vendas**
 
 * Ver todos os emails enviados a esta pessoa e as métricas de envolvimento
 

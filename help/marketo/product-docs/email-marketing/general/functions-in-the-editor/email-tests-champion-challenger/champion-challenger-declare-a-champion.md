@@ -19,11 +19,11 @@ Quando estiver pronto, você pode declarar um campeão para seu teste de email.
 >
 >[Champion/Challenger: Aprove Seu Teste De Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Localize seu email, clique com o botão direito do mouse no teste e clique em **Declarar campeão**.
+1. Localize e clique com o botão direito em seu teste de email e, em seguida, clique em **Declarar especialista**.
 
    ![](assets/champion4.jpg)
 
@@ -31,17 +31,17 @@ Quando estiver pronto, você pode declarar um campeão para seu teste de email.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Defina o **Declarar data**.
+1. Defina a **Data de Declaração**.
 
    >[!NOTE]
    >
-   >Até que o **Declarar data**, a Marketo continuará enviando o campeão e desafiante(s) antigos. Quando a data/hora for atingida, somente o novo campeão será enviado.
+   >Até a **Data de Declaração**, a Marketo continuará enviando o campeão e desafiante(s) antigos. Quando a data/hora for atingida, somente o novo campeão será enviado.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Observe que o padrão **Declarar data** é amanhã, não hoje.
+   >Observe que a **Data de Declaração** padrão é amanhã, não hoje.
 
 1. Selecione uma hora e clique em **Salvar**.
 

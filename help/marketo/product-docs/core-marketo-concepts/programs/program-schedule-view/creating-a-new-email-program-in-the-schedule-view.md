@@ -6,8 +6,8 @@ exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 4%
+source-wordcount: '117'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Você pode criar um programa de email na exibição de cronograma do programa. Veja como.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ Você pode criar um programa de email na exibição de cronograma do programa. V
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Insira um nome. Selecionar **[!UICONTROL Programa de e-mail]**.
+1. Insira um nome. Selecione o **[!UICONTROL Programa de email]**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,8 +35,8 @@ Você pode criar um programa de email na exibição de cronograma do programa. V
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configurar seu programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} e clique em **[!UICONTROL Aprovar programa]**.
+1. [Configure seu programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} e clique em **[!UICONTROL Aprovar Programa]**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Além do painel detalhado, uma vantagem de usar um [programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} instead of a smart campaign is the ability to easily implement an [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Aproveite!
+   Além do painel detalhado, a vantagem de usar um [programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} em vez de uma campanha inteligente é a capacidade de implementar facilmente um [teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}. Aproveite!

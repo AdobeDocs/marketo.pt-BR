@@ -16,13 +16,13 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir um público-alvo com uma lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Definir um público-alvo importando uma lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir um Público-alvo com uma Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Definir um Público-alvo importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Escolher um email existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [Criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Escolha um Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) Existente ou [Crie um Email para um Programa de Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 Testar é uma ótima maneira de otimizar seus emails para melhorar o engajamento. Veja como começar.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ Testar é uma ótima maneira de otimizar seus emails para melhorar o engajamento
 
    ![](assets/selectemailprogram.jpg)
 
-1. No **E-mail** bloco, clique em **Adicionar teste A/B**.
+1. No bloco **Email**, clique em **Adicionar Teste A/B**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
@@ -38,15 +38,15 @@ Testar é uma ótima maneira de otimizar seus emails para melhorar o engajamento
    >
    >Ao adicionar um teste A/B, o email selecionado não estará mais disponível para uso em nenhum outro programa.
 
-1. Uma nova janela será aberta com diferentes **Tipos de teste** para escolher. Explore um dos Artigos relacionados abaixo para continuar.
+1. Uma nova janela será aberta com **Tipos de Teste** diferentes para escolher. Explore um dos Artigos relacionados abaixo para continuar.
 
    >[!CAUTION]
    >
-   >Se você tiver registros duplicados no banco de dados, esses registros receberão **ambos** o teste e os emails vencedores. Para evitar que isso aconteça, verifique se [localizar e mesclar pessoas duplicadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) no banco de dados.
+   >Se você tiver registros duplicados no banco de dados, esses registros receberão **ambos** os emails de teste e vencedores. Para evitar que isso aconteça, [encontre e mescle pessoas duplicadas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md) no seu banco de dados.
 
 >[!MORELIKETHIS]
 >
->* [Use O Teste A/B &quot;Linha De Assunto&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
->* [Use O Teste A/B &quot;Email Inteiro&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
->* [Use O Teste A/B &quot;Do Endereço&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
->* [Use O Teste A/B &quot;Data/Hora&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+>* [Usar o teste A/B &quot;Linha de assunto&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+>* [Usar Teste A/B &quot;Email Inteiro&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+>* [Usar O Teste A/B &quot;Do Endereço&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+>* [Usar Teste A/B &quot;Data/Hora&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)

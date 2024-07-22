@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Alterar o padrão de email e rótulo de {#change-the-default-from-email-and-from-label}
 
-Cada usuário administrador tem a capacidade de alterar os valores padrão para **[!UICONTROL Do e-mail]** e **[!UICONTROL Do rótulo]** para que, quando eles criarem novos emails, esses padrões sejam usados.
+Cada usuário administrador tem a capacidade de alterar os valores padrão de **[!UICONTROL Do email]** e **[!UICONTROL Do rótulo]** para que, quando criarem novos emails, esses padrões sejam usados.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** seção.
+1. Vá para a seção **[!UICONTROL Admin]**.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Insira os valores padrão desejados para **[!UICONTROL Do e-mail]** e **[!UICONTROL Do rótulo]** e clique em **[!UICONTROL Salvar alterações]**.
+1. Insira os valores padrão desejados para **[!UICONTROL Do email]** e **[!UICONTROL Do rótulo]** e clique em **[!UICONTROL Salvar alterações]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

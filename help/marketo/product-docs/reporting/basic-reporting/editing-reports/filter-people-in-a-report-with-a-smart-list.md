@@ -27,11 +27,11 @@ Você pode usar smart lists com estes tipos de relatórios:
 * [Atividade da empresa na Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Atividade de página da Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Selecione seu relatório na árvore de navegação e clique no link **Lista inteligente** guia.
+1. Selecione seu relatório na árvore de navegação e clique na guia **Smart List**.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -43,7 +43,7 @@ Você pode usar smart lists com estes tipos de relatórios:
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Clique em **Relatório** para ver o relatório filtrado.
+1. Clique na guia **Relatório** para ver seu relatório filtrado.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

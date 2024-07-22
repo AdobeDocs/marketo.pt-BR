@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Depois de executar um programa de email e ter alguns dados no painel, você pode exportar esses dados brutos para o Excel para análise adicional. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 

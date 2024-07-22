@@ -6,7 +6,7 @@ exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Quando as pessoas aparecem no evento, você pode encontrar suas informações no
 >
 >Em 2 de outubro de 2023, o Adobe removeu o aplicativo Marketo Events de todas as lojas de aplicativos. Se você já tiver o aplicativo instalado no tablet/dispositivo móvel, poderá continuar usando-o por enquanto. Depois que a instância do Marketo Engage for migrada para a Identidade do Adobe para autenticação do Marketo, você não poderá mais acessar o aplicativo. [Saiba mais](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-O aplicativo funciona da mesma forma em ambos [!DNL iPad] e [!DNL Android], exceto pequenas diferenças de layout e design.
+O aplicativo funciona da mesma forma em [!DNL iPad] e [!DNL Android], exceto por pequenas diferenças de layout e design.
 
 >[!PREREQUISITES]
 >
@@ -27,13 +27,13 @@ O aplicativo funciona da mesma forma em ambos [!DNL iPad] e [!DNL Android], exce
 
 ## Fazer check-in de convidados registrados {#check-in-registered-guests}
 
-1. Toque no ícone do aplicativo na [!DNL iPad] ou [!DNL Android] tablet.
+1. Toque no ícone do aplicativo no tablet [!DNL iPad] ou [!DNL Android].
 
-1. Toque **[!UICONTROL Logon]** para iniciar o aplicativo Evento do Marketo.
+1. Toque em **[!UICONTROL Logon]** para iniciar o aplicativo Evento do Marketo.
 
    ![](assets/1.jpg)
 
-1. Insira seu nome de usuário e senha do Marketo e clique em **[!UICONTROL Logon]**.
+1. Digite seu nome de usuário e senha do Marketo e clique em **[!UICONTROL Logon]**.
 
    >[!NOTE]
    >
@@ -55,7 +55,7 @@ O aplicativo funciona da mesma forma em ambos [!DNL iPad] e [!DNL Android], exce
 
    >[!NOTE]
    >
-   >O processo é o mesmo em [!DNL iPad] e [!DNL Android], mas as telas são diferentes e os itens podem estar em locais diferentes. Este artigo apresenta a [!DNL iPad] interface. Comparar o [!DNL Android] nesta seção para referência.
+   >O processo é o mesmo em [!DNL iPad] e [!DNL Android], mas as telas são diferentes e os itens podem estar em locais diferentes. Este artigo apresenta a interface [!DNL iPad]. Compare a tela [!DNL Android] nesta seção para referência.
 
    **[!DNL iPad]**
 
@@ -69,7 +69,7 @@ O aplicativo funciona da mesma forma em ambos [!DNL iPad] e [!DNL Android], exce
 
    ![](assets/img-0068-35-hands.png)
 
-O convidado agora tem um status Participou e recebe uma marca de seleção. O registro de pessoa é atualizado ao sincronizar com o Marketo. O contador vermelho no botão Sincronizar aumenta para mostrar o número de check-ins desde a última sincronização com o Marketo. O botão Sincronizar é diferente e está em um local diferente para [!DNL iPad] e [!DNL Android]:
+O convidado agora tem um status Participou e recebe uma marca de seleção. O registro de pessoa é atualizado ao sincronizar com o Marketo. O contador vermelho no botão Sincronizar aumenta para mostrar o número de check-ins desde a última sincronização com o Marketo. O botão Sincronizar parece diferente e está em um local diferente para [!DNL iPad] e [!DNL Android]:
 
 **[!DNL iPad]**
 
@@ -81,7 +81,7 @@ O convidado agora tem um status Participou e recebe uma marca de seleção. O re
 
 >[!TIP]
 >
->Se uma pessoa foi convidada, mas não se registrou, procure pelo nome clicando em **[!UICONTROL Pesquisar no servidor]**, logo abaixo da caixa Pesquisar. O status Convidado muda para **[!UICONTROL Participou]** para o evento.
+>Se uma pessoa foi convidada, mas ainda não se registrou, você pode pesquisar pelo nome clicando em **[!UICONTROL Pesquisar no Servidor]**, logo abaixo da caixa Pesquisar. O status Convidado muda para **[!UICONTROL Participou]** do evento.
 
 ## Criar uma nova pessoa no tablet {#create-a-new-person-on-the-tablet}
 
@@ -113,7 +113,7 @@ A nova pessoa é registrada como inscrita no evento e será adicionada ao banco 
 
 ## Reverter um check-in {#reverse-a-check-in}
 
-Se você fez o check-in de uma pessoa por engano, _antes de sincronizar com o Marketo_, você pode reverter o status Participou.
+Se você fez check-in de uma pessoa por engano, _antes de sincronizar com o Marketo_, é possível reverter o status Participou.
 
 1. Toque no nome na lista e, no registro de pessoa, toque em **[!UICONTROL Desfazer]**.
 
@@ -135,7 +135,7 @@ Você pode adicionar e modificar informações do convidado, diretamente no even
 
    >[!NOTE]
    >
-   >Entrada [!DNL Android], o **[!UICONTROL Concluído]** pode estar oculto. Role para baixo para encontrá-lo.
+   >Em [!DNL Android], o botão **[!UICONTROL Concluído]** pode estar oculto. Role para baixo para encontrá-lo.
 
 As informações serão atualizadas quando você sincronizar o aplicativo com o Marketo.
 
@@ -149,7 +149,7 @@ O aplicativo Eventos da Marketo funciona de forma independente até que você si
 
 1. No tablet, abra o aplicativo e navegue até o evento.
 
-1. Toque **[!UICONTROL Sincronizar]**.
+1. Toque em **[!UICONTROL Sincronizar]**.
 
    Seu evento é atualizado com novos check-ins no banco de dados do Marketo. O contador vermelho no botão Sincronizar apaga, até que você marque outra pessoa em.
 

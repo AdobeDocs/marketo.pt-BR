@@ -15,7 +15,7 @@ ht-degree: 0%
 
 O Sales Connect vem com duas categorias padrão para ajudar a organizar seus modelos.
 
-1. Clique em **+** ícone ao lado de **Categorias**.
+1. Clique no ícone **+** ao lado de **Categorias**.
 
 1. Insira um nome para a nova categoria e clique em **Criar**.
 

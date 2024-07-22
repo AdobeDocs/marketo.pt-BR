@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Use o painel para obter uma visualização de alto nível sobre as tendências das classificações de palavras-chave e como seu site é otimizado para SEO.
 
-Você também pode descobrir como melhorar o uso do [!UICONTROL Recommendations] seção. Vamos mergulhar!
+Você também pode descobrir como melhorar o uso da seção [!UICONTROL Recommendations]. Vamos mergulhar!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
 ## [!UICONTROL Principais problemas de otimização de página] {#top-page-optimization-issues}
 
-Isso mostrará cinco maneiras de alto impacto de começar a otimizar seu site imediatamente! Basta clicar em qualquer um dos links para exibir a lista completa [Detalhamento de Página Detalhada](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+Isso mostrará cinco maneiras de alto impacto de começar a otimizar seu site imediatamente! Basta clicar em qualquer um dos links para exibir o [Detalhamento da Página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"} completo.
 
 >[!TIP]
 >
@@ -29,7 +29,7 @@ Isso mostrará cinco maneiras de alto impacto de começar a otimizar seu site im
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## [!UICONTROL Principais oportunidades de link] {#top-link-opportunities}
+## [!UICONTROL Principais Oportunidades de Links] {#top-link-opportunities}
 
 Ter sites respeitáveis vinculados ao seu conteúdo pode aumentar a classificação da página. Aqui estão algumas das oportunidades de maior prioridade que encontramos para o seu site.
 
@@ -41,4 +41,4 @@ Ter sites respeitáveis vinculados ao seu conteúdo pode aumentar a classificaç
 
 >[!MORELIKETHIS]
 >
->[Detalhamento de Página Detalhada](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}
+>[Detalhamento de Página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

@@ -6,8 +6,8 @@ exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 5%
+source-wordcount: '552'
+ht-degree: 2%
 
 ---
 
@@ -17,19 +17,19 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## ETAPA 1: Criar um programa {#step-create-a-program}
 
-1. Vá para a **[!UICONTROL Atividades de marketing]** área.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. Selecione o **Aprendizado** pasta criada no [vitória rápida anterior](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Em **[!UICONTROL Novo]**, clique em **[!UICONTROL Novo programa]**.
+1. Selecione a pasta **Aprendizado** criada na [vitória rápida anterior](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Em **[!UICONTROL Novo]**, clique em **[!UICONTROL Novo programa]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. Inserir um programa **[!UICONTROL Nome]**, selecione um **[!UICONTROL Canal]** e clique em **[!UICONTROL Criar]**.
+1. Insira um programa **[!UICONTROL Nome]**, selecione um **[!UICONTROL Canal]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -39,17 +39,17 @@ ht-degree: 5%
 
    >[!NOTE]
    >
-   >Um programa é uma iniciativa de marketing específica. A variável **channel** deve ser o mecanismo de entrega, como Webinar, Patrocínio ou Anúncio online. Você pode ver diferentes opções de canal no menu suspenso, dependendo do que está disponível em sua própria instância. Também é possível [criar seu próprio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Um programa é uma iniciativa de marketing específica. O **canal** deve ser o mecanismo de entrega, como um Webinário, Patrocínio ou Anúncio Online. Você pode ver diferentes opções de canal no menu suspenso, dependendo do que está disponível em sua própria instância. Você também pode [criar seu próprio canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
 ## ETAPA 2: Criar um formulário {#step-create-a-form}
 
-1. Com seu programa selecionado, clique no botão **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo ativo local]**.
+1. Com seu programa selecionado, clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo ativo local]**.
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. Selecionar **[!UICONTROL Formulário]**.
+1. Selecione o **[!UICONTROL Formulário]**.
 
    ![](assets/landing-page-with-a-form-5.png)
 
@@ -59,17 +59,17 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    >[!NOTE]
    >
-   >Verifique se **[!UICONTROL Abrir no editor]** está marcada. Se não estiver, clique no link **[!UICONTROL Editar formulário]** guia.
+   >Verifique se a caixa **[!UICONTROL Abrir no editor]** está marcada. Caso contrário, você precisará clicar na guia **[!UICONTROL Editar formulário]**.
 
    >[!TIP]
    >
-   >Não está vendo o editor de formulários? Seu navegador provavelmente bloqueou a janela. Ativar pop-ups de `app.marketo.com` no navegador e clique em Editar rascunho na barra de menu superior.
+   >Não está vendo o editor de formulários? Seu navegador provavelmente bloqueou a janela. Habilite pop-ups de `app.marketo.com` em seu navegador e clique em Editar rascunho na barra de menu superior.
 
-1. Selecione o **[!UICONTROL Endereço de e-mail]** campo e verificação **[!UICONTROL É Obrigatório]**.
+1. Selecione o campo **[!UICONTROL Endereço de email]** e marque **[!UICONTROL É obrigatório]**.
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. Clique em **[!UICONTROL Próxima]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -77,11 +77,11 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. Clique em **[!UICONTROL Próxima]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. Na seção Página de agradecimento, selecione **[!UICONTROL URL externo]** para **[!UICONTROL Acompanhar com]**.
+1. Na seção Página de Agradecimento, selecione **[!UICONTROL URL Externo]** para **[!UICONTROL Acompanhamento com]**.
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -91,13 +91,13 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    >[!NOTE]
    >
-   >A página de acompanhamento é o local para onde o visitante é redirecionado após preencher o formulário. O URL externo é uma opção, mas há mais. Consulte [Definir um formulário da página de agradecimento](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
+   >A página de acompanhamento é o local para onde o visitante é redirecionado após preencher o formulário. O URL externo é uma opção, mas há mais. Consulte [Definir um Formulário para a Página de Agradecimento](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
 1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. Clique em **[!UICONTROL Aprovar e fechar]**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -105,15 +105,15 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
 ## ETAPA 3: Criar uma página de aterrissagem e adicionar o formulário {#step-create-a-landing-page-and-add-your-form}
 
-1. Com seu programa selecionado, clique no botão **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo ativo local]**.
+1. Com seu programa selecionado, clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo ativo local]**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. Selecionar **[!UICONTROL Landing Page]**.
+1. Selecione **[!UICONTROL Página Inicial]**.
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. Insira uma página **[!UICONTROL Nome]**, selecione um modelo e clique em **[!UICONTROL Criar]**.
+1. Insira um **[!UICONTROL Nome]** de página, selecione um modelo e clique em **[!UICONTROL Criar]**.
 
    >[!NOTE]
    >
@@ -121,7 +121,7 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. Quando o editor de landing page for aberto, arraste a [!UICONTROL Formulário] elemento na tela.
+1. Assim que o editor de páginas de aterrissagem for aberto, arraste o elemento [!UICONTROL Formulário] para a tela.
 
    ![](assets/landing-page-with-a-form-18.png)
 
@@ -141,7 +141,7 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
 ## ETAPA 4: Aprovar a landing page {#step-approve-your-landing-page}
 
-1. Selecione a landing page e clique em **[!UICONTROL Aprovar rascunho]**.
+1. Selecione sua página de aterrissagem e clique em **[!UICONTROL Aprovar rascunho]**.
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -149,13 +149,13 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
    >
    >A aprovação da landing page a tornará ativa e disponível para acesso na Internet.
 
-   Perfeita! Você vê a marca verde nele?
+   Perfeito! Você vê a marca verde nele?
 
    ![](assets/landing-page-with-a-form-23.png)
 
 ## ETAPA 5: Testar o formulário {#step-test-your-form}
 
-1. Selecione a landing page e clique em **[!UICONTROL Visualizar página aprovada]**.
+1. Selecione sua página de aterrissagem e clique em **[!UICONTROL Exibir Página Aprovada]**.
 
    ![](assets/landing-page-with-a-form-24.png)
 
@@ -163,7 +163,7 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Vá para a **[!UICONTROL Banco de dados]** área.
+1. Vá para a área **[!UICONTROL Banco de Dados]**.
 
    ![](assets/landing-page-with-a-form-26.png)
 
@@ -175,10 +175,10 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    ![](assets/landing-page-with-a-form-28.png)
 
-## Missão cumprida! {#mission-complete}
+## Missão concluída! {#mission-complete}
 
 <br> 
 
-[◄ Missão 1: enviar e-mail por meio de programa de envio](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[Missão 1: Enviar uma explosão de e-mail](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Missão 3: pontuação simples ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Missão 3: Pontuação Simples ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

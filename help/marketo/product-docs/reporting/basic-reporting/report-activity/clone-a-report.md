@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Crie uma duplicata do seu relatório para personalizá-lo ainda mais sem alterar o original.
 
-1. Ir para **Atividades de marketing** (ou **Analytics**).
+1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Selecione seu relatório. Selecionar **Ações de Relatório** > **Clonar um relatório**.
+1. Selecione seu relatório. Selecione **Ações de Relatório** > **Clonar um Relatório**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
@@ -35,4 +35,4 @@ Crie uma duplicata do seu relatório para personalizá-lo ainda mais sem alterar
 
    >[!MORELIKETHIS]
    >
-   >[Filtrar pessoas em um relatório com uma lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
+   >[Filtrar Pessoas em um Relatório com uma Lista Inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)

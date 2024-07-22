@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Configurar o e-mail de recompartilhamento e o prompt para um aplicativo social {#configure-re-share-email-and-prompt-for-a-social-app}
 
-Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou um [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode convidar participantes a compartilhar sua oferta com mais amigos como parte do processo de inscrição, bem como fornecer o texto padrão para o email de compartilhamento.
+Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou um [sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode convidar participantes para compartilhar sua oferta com mais amigos como parte do processo de inscrição, bem como fornecer texto padrão para o email de compartilhamento.
 
 >[!NOTE]
 >
->Em uma oferta de indicação, você também pode [tornar o compartilhamento da oferta um requisito](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) para se inscrever.
+>Em uma oferta de referência, você também pode [tornar o compartilhamento de oferta um requisito](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) para se inscrever.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. No editor de oferta de referência, acesse **Fluxo de inscrição** > **Solicitação de compartilhamento novamente**.
+1. No editor de oferta de referência, vá para **Fluxo de Inscrição** > **Compartilhar Solicitação novamente**.
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,10 +37,10 @@ Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generatio
    >
    >O email inclui automaticamente o URL de compartilhamento exclusivo do seu participante.
 
-1. No **Exibir e editar** clique em **Mostrar edições** e edite o convite para compartilhamento, bem como as instruções de rastreamento de progresso.
+1. Na janela **Exibir e editar**, clique em **Mostrar edições** e edite o convite para compartilhar, bem como as instruções de acompanhamento.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->Em seguida, você pode configurar as opções [rastrear o fluxo de progresso em uma oferta de referência](configure-track-progress-flow-for-a-referral-offer.md)ou clique em **Concluir** > **Aprovar e fechar** para [publicar sua oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) ou [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
+>Em seguida, você pode configurar o [fluxo de progresso de rastreamento em uma oferta de referência](configure-track-progress-flow-for-a-referral-offer.md), ou clicar em **Concluir** > **Aprovar e Fechar** para [publicar sua oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) ou [sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).

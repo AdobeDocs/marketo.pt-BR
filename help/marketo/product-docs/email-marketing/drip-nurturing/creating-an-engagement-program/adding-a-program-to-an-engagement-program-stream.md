@@ -18,7 +18,7 @@ ht-degree: 0%
 É fácil adicionar um email a um fluxo em um programa de engajamento e ele funciona bem. No entanto, se as necessidades da sua empresa forem mais complexas, pode fazer sentido colocar o email dentro de um programa. Por exemplo, talvez você queira:
 
 * Enviar um email para um subgrupo de pessoas na transmissão
-* Enviar *diferente* emails para subgrupos dentro do fluxo
+* Enviar emails *diferentes* para subgrupos dentro do fluxo
 * Incluir páginas de aterrissagem, formulários ou outros ativos na criação
 * Habilitar atribuição multitoque
 * Adicionar etapas de fluxo extras, como emails de alerta
@@ -31,17 +31,17 @@ Ao usar um programa aninhado, a decisão de enviar um email para uma pessoa é b
 * Se você for membro do programa, não receberá o email
 * Se você não for mais membro, mas tiver recebido o email anteriormente por meio desse programa, não receberá o email
 
-Quando você usa um programa em um fluxo, não importa se você recebeu esse email específico antes. Contanto que o email não tenha sido enviado antes *nesse programa específico*, você pode recebê-lo novamente.
+Quando você usa um programa em um fluxo, não importa se você recebeu esse email específico antes. Desde que o email não tenha sido enviado antes de *nesse programa específico*, você poderá recebê-lo novamente.
 
 Pode ser complicado misturar emails e programas em um programa de envolvimento. Talvez você queira usar um ou outro.
 
 >[!TIP]
 >
->Certifique-se de usar um **Membro do programa de engajamento** filtro na sua lista inteligente.
+>Certifique-se de usar um filtro **Membro do Programa de Envolvimento** em sua lista inteligente.
 
 ## O que acontece com as pessoas que não atendem aos critérios da lista inteligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Caso alguém seja filtrado para fora da lista inteligente da campanha inteligente de um programa aninhado, ele não avançará para o próximo conteúdo durante o elenco atual. Eles avançarão para a próxima parte do conteúdo no fluxo para o *seguindo* elenco.
+Caso alguém seja filtrado para fora da lista inteligente da campanha inteligente de um programa aninhado, ele não avançará para o próximo conteúdo durante o elenco atual. Eles avançarão para a próxima parte do conteúdo no fluxo para o elenco de *seguidores*.
 
 ## O que um programa aninhado contém? {#what-does-a-nested-program-contain}
 

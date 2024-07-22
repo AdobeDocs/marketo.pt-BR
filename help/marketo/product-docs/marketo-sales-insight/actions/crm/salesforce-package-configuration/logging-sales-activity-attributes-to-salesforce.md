@@ -4,8 +4,8 @@ title: Registrando Atributos de Atividade de Vendas no Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 23%
+source-wordcount: '292'
+ht-degree: 29%
 
 ---
 
@@ -13,23 +13,23 @@ ht-degree: 23%
 
 O administrador do Salesforce pode adicionar manualmente campos de atividade personalizados ao Salesforce.
 
-1. Na sua conta do Salesforce, clique em **Configuração**.
+1. Na sua conta do Salesforce, clique em **Configurar**.
 
 1. Pesquise por &quot;Campos personalizados de atividade&quot; no campo de pesquisa rápida e clique nele.
 
 1. Clique em **Novo**.
 
-1. Selecione o Tipo de dados correspondente ao campo que deseja adicionar com base na tabela abaixo e clique em **Próxima**.
+1. Selecione o Tipo de Dados correspondente ao campo que deseja adicionar com base na tabela abaixo e clique em **Avançar**.
 
 1. Insira o Nome do campo e o rótulo correspondente ao campo que deseja adicionar.
 
 Descrição de cada coluna da tabela abaixo:
 
-* **Rótulo do campo**: nome do campo mostrado na interface do usuário (esse nome pode ser personalizado para melhorar a legibilidade para sua equipe)
-* **Nome do campo**: nome técnico do campo (verifique se o Nome do campo inserido corresponde ao Nome do campo na tabela abaixo)
-* **Nome da API**: nome técnico do campo para API (verifique se o nome da API inserido corresponde ao nome da API na tabela abaixo)
-* **Tipo de dados**: Tipo de campo
-* **Tamanho**: Tamanho do campo de texto
+* **Rótulo do campo**: nome do campo mostrado na interface do usuário (esse nome pode ser personalizado para melhorar a leitura pela sua equipe)
+* **Nome do Campo**: nome técnico do campo (verifique se o Nome do Campo inserido corresponde ao Nome do Campo na tabela abaixo)
+* **Nome da API**: nome técnico do campo da API (verifique se o nome da API inserido corresponde ao nome da API na tabela abaixo)
+* **Tipo de dados**: tipo de campo
+* **Tamanho**: tamanho do campo de texto
 
 <table>
  <tr>

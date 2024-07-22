@@ -31,4 +31,4 @@ Envie sua mensagem agora ou agende para depois.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Calma! Por último, mas não menos importante, [Aprovação](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) etapa.
+Calma! Por último, mas não menos importante, está a etapa [Aprovação](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).

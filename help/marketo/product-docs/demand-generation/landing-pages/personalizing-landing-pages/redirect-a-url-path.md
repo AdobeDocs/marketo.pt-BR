@@ -19,31 +19,31 @@ O Marketo facilita o redirecionamento de um caminho de URL para qualquer página
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em **Landing Pages**.
+1. Em **Admin**, clique em **Páginas de Aterrissagem**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Clique em **Regras** e clique em **Novo** e **Nova regra de redirecionamento**.
+1. Clique na guia **Regras** e em **Nova** e **Nova Regra de Redirecionamento**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Clique no primeiro **URL original** e selecione seu CNAME do Marketo.
+1. Clique no primeiro menu suspenso **URL Original** e selecione seu CNAME do Marketo.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
    >[!NOTE]
    >
-   >Lembre-se, você só pode redirecionar URLs que comecem com seu Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Lembre-se, você só pode redirecionar URLs que comecem com seu [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) do Marketo.
 
-1. Digite o caminho do URL (ou página específica) que você deseja redirecionar no segundo **URL original** à direita.
+1. Digite o caminho da URL (ou página específica) que você deseja redirecionar no segundo campo **URL Original** à direita.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Clique em **Usar página de aterrissagem que não seja da Marketo**, digite a página para a qual você deseja redirecionar visitantes na **URL de redirecionamento** e clique em **Criar**.
+1. Clique em **Usar página de aterrissagem que não seja da Marketo**, digite a página para a qual você deseja redirecionar visitantes no campo **Redirecionar URL** e clique em **Criar**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   Você pode [usar páginas de aterrissagem do Marketo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) como destino também.
+   Você também pode [usar as páginas de aterrissagem do Marketo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) como destino.
 
 Parabéns! Você redirecionou com êxito seu caminho de URL.
 

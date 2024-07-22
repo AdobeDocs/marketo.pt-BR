@@ -6,8 +6,8 @@ exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 12%
+source-wordcount: '377'
+ht-degree: 7%
 
 ---
 
@@ -15,16 +15,16 @@ ht-degree: 12%
 
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Página com formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Etapa 1: &#x200B;criar uma campanha de pontuação {#step-create-a-scoring-campaign}
 
-1. Vá para a **[!UICONTROL Atividades de marketing]** área.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/simple-scoring-1.png)
 
-1. Clique com o botão direito do mouse no seu **Aprendizado** e clique em **[!UICONTROL Nova pasta do Campaign]**.
+1. Clique com o botão direito do mouse na pasta **Aprendizado** e clique em **[!UICONTROL Nova Pasta do Campaign]**.
 
    ![](assets/simple-scoring-2.png)
 
@@ -36,49 +36,49 @@ ht-degree: 12%
    >
    >Se você já tiver uma pasta de pontuação, nomeie esta como algo diferente; por exemplo, Pontuação 1. Os nomes das pastas devem ser exclusivos.
 
-1. Clique com o botão direito do mouse no seu **Pontuação** e selecione **[!UICONTROL Nova campanha inteligente]**.
+1. Clique com o botão direito na pasta **Pontuação** e selecione **[!UICONTROL Nova Campanha Inteligente]**.
 
    ![](assets/simple-scoring-4.png)
 
-1. Nomeie a campanha como &quot;Change Score&quot; e clique em **[!UICONTROL Criar]**.
+1. Nomeie a campanha como &quot;Alterar pontuação&quot; e clique em **[!UICONTROL Criar]**.
 
    ![](assets/simple-scoring-5.png)
 
-1. Clique em **[!UICONTROL Lista inteligente]** guia.
+1. Clique na guia **[!UICONTROL Smart List]**.
 
    ![](assets/simple-scoring-6.png)
 
-   Queremos que essa campanha seja executada sempre que uma pessoa preencher seu **Formulário de solicitação de avaliação**.
+   Queremos que esta campanha seja executada sempre que uma pessoa preencher o **Formulário de solicitação de avaliação**.
 
-1. Localize e arraste o **[!UICONTROL Preenche o formulário]** acione na tela à esquerda.
+1. Localize e arraste o acionador **[!UICONTROL Preencher formulário]** para a tela esquerda.
 
    ![](assets/simple-scoring-7.png)
 
-1. Selecionar **Meu Formulário**.
+1. Selecione **Meu Formulário**.
 
    ![](assets/simple-scoring-8.png)
 
    >[!NOTE]
    >
-   >Se você concluiu o [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} vitória rápida, você deve ter o formulário. Se você usou um nome diferente para o formulário, selecione-o.
+   >Se você concluiu a [Página de Aterrissagem com um Formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} de vitória rápida, deverá ter o formulário. Se você usou um nome diferente para o formulário, selecione-o.
 
-1. Clique em **[!UICONTROL Fluxo]** guia.
+1. Clique na guia **[!UICONTROL Fluxo]**.
 
    ![](assets/simple-scoring-9.png)
 
-1. Arraste o **Alterar pontuação** ação de fluxo na tela à esquerda.
+1. Arraste a ação de fluxo **Alterar Pontuação** para a tela à esquerda.
 
    ![](assets/simple-scoring-10.png)
 
-1. Você pode digitar qualquer valor para adicionar à pontuação da pessoa. Vamos inserir &quot;+5&quot; no campo **[!UICONTROL Alterar]** campo.
+1. Você pode digitar qualquer valor para adicionar à pontuação da pessoa. Vamos inserir &quot;+5&quot; no campo **[!UICONTROL Alterar]**.
 
    ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
-   >As boas campanhas de pontuação são fundamentais para fornecer pessoas de alta qualidade às Vendas. Ler [**O guia definitivo para a pontuação de leads**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
+   >As boas campanhas de pontuação são fundamentais para fornecer pessoas de alta qualidade às Vendas. Leia [**O Guia Definitivo para Pontuação de Cliente Potencial**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
-1. Clique em **[!UICONTROL Agendar]** e a guia **[!UICONTROL Ativar]** botão.
+1. Clique na guia **[!UICONTROL Agendar]** e no botão **[!UICONTROL Ativar]**.
 
    ![](assets/simple-scoring-12.png)
 
@@ -92,11 +92,11 @@ ht-degree: 12%
 
 ## Etapa 2: preencher o formulário {#step-fill-out-the-form}
 
-1. Selecione a landing page que você criou na [Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} vitória rápida.
+1. Selecione a página de aterrissagem criada na [Página de aterrissagem com um Formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} quick win.
 
    ![](assets/simple-scoring-14.png)
 
-1. Clique em **[!UICONTROL Visualizar]**. A página será aberta em uma nova guia.
+1. Clique em **[!UICONTROL Visualizar]**. A landing page será aberta em uma nova guia.
 
    ![](assets/simple-scoring-15.png)
 
@@ -110,7 +110,7 @@ ht-degree: 12%
 
 ## Etapa 3: Exibir as Informações de Pessoa {#step-view-the-person-info}
 
-1. Vá para a **[!UICONTROL Banco de dados]** área.
+1. Vá para a área **[!UICONTROL Banco de Dados]**.
 
    ![](assets/simple-scoring-17.png)
 
@@ -126,10 +126,10 @@ Os detalhes da pessoa serão abertos em uma nova guia ou janela. Veja como sua p
 
 ![](assets/simple-scoring-20.png)
 
-## Missão cumprida! {#mission-complete}
+## Missão concluída! {#mission-complete}
 
 <br> 
 
-[Missão 2: página com formulário ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Ü Missão 2: Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[Missão 4: resposta automática por e-mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[Missão 4: Resposta automática de e-mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

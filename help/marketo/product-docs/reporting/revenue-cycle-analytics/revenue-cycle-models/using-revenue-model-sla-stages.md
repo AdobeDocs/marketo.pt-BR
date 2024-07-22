@@ -21,11 +21,11 @@ SLA significa &quot;contrato de nível de serviço&quot;. Esses estágios são u
 
 ## Adicionar um estágio de SLA {#add-an-sla-stage}
 
-1. Para adicionar uma nova etapa do SLA do modelo de ciclo de receita, clique na **Analytics** na tela inicial do My Marketo.
+1. Para adicionar um novo estágio do SLA do Modelo de ciclo de receita, clique no botão **Analytics** na tela inicial do My Marketo.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Na seção Analytics, selecione o modelo existente ou [criar um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Na seção Analytics, selecione seu modelo existente ou [crie um novo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -33,11 +33,11 @@ SLA significa &quot;contrato de nível de serviço&quot;. Esses estágios são u
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Para adicionar uma nova etapa do SLA, clique no link **SLA** e, em seguida, arraste e solte em qualquer lugar dentro da tela.
+1. Para adicionar um novo estágio de SLA, clique no botão **SLA** e arraste e solte em qualquer lugar dentro da tela.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. Você pode editar as **Nome**, adicionar um **Descrição** e ajuste a variável **Tipo** depois de adicionar um estágio. Você também pode selecionar **[Iniciar rastreamento por conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** neste momento.
+1. Você pode editar o **Nome**, adicionar uma **Descrição** e ajustar o **Tipo** após adicionar um estágio. Você também pode selecionar **[Iniciar rastreamento por conta](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** agora.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
@@ -49,11 +49,11 @@ Ao selecionar um ícone de estágio de SLA, você pode editar o Nome, adicionar 
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Clique em no **Nome** e **Descrição** para editar seu conteúdo.
+1. Clique nos campos **Nome** e **Descrição** para editar seu conteúdo.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Selecione o **Tipo** para editar.
+1. Selecione o menu suspenso **Type** para editar.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 

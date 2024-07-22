@@ -21,7 +21,7 @@ Você pode ver rapidamente os membros de um programa de envolvimento. Veja como.
 
    >[!NOTE]
    >
-   >A variável  [Conteúdo esgotado](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) o valor da coluna é atualizado após cada conversão.
+   >O valor da coluna [Conteúdo Esgotado](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) é atualizado após cada conversão.
 
 1. Agora você pode ver todos os membros do seu programa.
 

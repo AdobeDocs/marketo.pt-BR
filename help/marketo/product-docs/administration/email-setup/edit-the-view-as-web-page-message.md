@@ -7,13 +7,13 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
 # Edite a mensagem &quot;Exibir como página da Web&quot; {#edit-the-view-as-web-page-message}
 
-Se precisar editar o &quot;[Visualizar como página da Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;texto, veja como.
+Se você precisar editar o texto &quot;[Exibir como uma página da Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, veja como.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Se precisar editar o &quot;[Visualizar como página da Web](/help/marketo/produc
 
 ## Edite a mensagem &quot;Exibir como página da Web&quot; {#edit-the-view-as-web-page-message-1}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -35,9 +35,9 @@ Se precisar editar o &quot;[Visualizar como página da Web](/help/marketo/produc
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >Quanto à segunda parte `##MKT_TOK##` é o [!UICONTROL munchkin] cookie dessa pessoa. Ele garante que sejam corretamente guiados ao clicar no link.
+   >A segunda parte `##MKT_TOK##` é o cookie [!UICONTROL munchkin] dessa pessoa. Ele garante que sejam corretamente guiados ao clicar no link.
 
-1. Edite o **[!UICONTROL Exibir como HTML da página da Web]** e **[!UICONTROL Exibir como texto da página da Web]** de acordo com sua preferência e clique em **[!UICONTROL Salvar alterações]**.
+1. Edite as versões **[!UICONTROL Exibir como HTML da Página da Web]** e **[!UICONTROL Exibir como Texto da Página da Web]** de sua preferência e clique em **[!UICONTROL Salvar Alterações]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,7 +52,7 @@ Se precisar editar o &quot;[Visualizar como página da Web](/help/marketo/produc
 
 ## Texto padrão &quot;Exibir como página da Web&quot; {#default-view-as-web-page-text}
 
-Se você precisar reverter para o sistema padrão &quot;[!UICONTROL Exibir como página da Web]&quot;, copie/cole o seguinte:
+Se você precisar reverter para o sistema padrão &quot;[!UICONTROL Exibir como Página da Web]&quot;, copie/cole o seguinte:
 
 **[!UICONTROL Exibir como HTML da página da Web]**:
 

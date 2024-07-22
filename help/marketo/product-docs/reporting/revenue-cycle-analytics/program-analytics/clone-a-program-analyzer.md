@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Depois de salvar um analisador, é fácil cloná-lo para criar um novo. Em seguida, edite o novo se precisar de alterações.
 
-1. Clique em **Analytics** bloco.
+1. Clique no bloco **Analytics**.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Clique em **Analisador de programa** bloco.
+1. Clique no bloco **Analisador de programas**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Enquanto o analisador salvo estiver aberto, abra o menu suspenso Ações do analisador e selecione **Clonar analisador**.
+1. Enquanto o analisador salvo estiver aberto, abra o menu suspenso de Ações do Analisador e selecione **Clonar Analisador**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Selecione o local do analisador clonado na **Clonar para** e **Pasta** menus suspensos.
+1. Selecione o local do analisador clonado nos menus suspensos **Clonar para** e **Pasta**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Nomeie o analisador clonado e clique em **Clonar**.
+1. Nomeie o analisador clonado e clique em **Clone**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
@@ -41,4 +41,4 @@ Depois de salvar um analisador, é fácil cloná-lo para criar um novo. Em segui
 
    >[!MORELIKETHIS]
    >
-   >[Criar um analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Criar um Analisador de Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

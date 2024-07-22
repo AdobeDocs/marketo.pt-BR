@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Veja como incorporar um formulário do Marketo em uma campanha da Web (Caixa de diálogo, Na zona ou Widget).
 
-1. Clique com o botão direito do mouse em um formulário aprovado. Selecionar **Código de inserção**.
+1. Clique com o botão direito do mouse em um formulário aprovado. Selecione **Código Incorporado**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,7 +23,7 @@ Veja como incorporar um formulário do Marketo em uma campanha da Web (Caixa de 
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Na Personalização da Web, acesse **Campanhas da Web**.
+1. No Web Personalization, vá para **Campanhas da Web**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
@@ -35,13 +35,13 @@ Veja como incorporar um formulário do Marketo em uma campanha da Web (Caixa de 
 
    ![](assets/five-1.png)
 
-1. Cole o código incorporado do formulário no Editor de código-fonte do HTML. Clique em **Atualizar**.
+1. Cole o código incorporado do formulário no Editor Source do HTML. Clique em **Atualizar**.
 
    ![](assets/six-1.png)
 
 1. O formulário não será exibido na visualização do editor, mas você pode visualizá-lo para ver como ele será renderizado em uma campanha.
 
-1. Clique em **Launch** para iniciar a campanha.
+1. Clique em **Iniciar** para iniciar a campanha.
 
    >[!NOTE]
    >
@@ -73,16 +73,16 @@ Para adicionar o código CSS ao script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Cole o código incorporado do formulário com o código do estilo de plano de fundo no Editor de código-fonte do HTML. Clique em **Atualizar**.
+1. Cole o código incorporado do formulário com o código do estilo de plano de fundo no Editor Source do HTML. Clique em **Atualizar**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Clique em **Visualizar** para ver como será renderizado em uma campanha (o formulário não será exibido na visualização do editor). Este é um exemplo de como o código de formulário acima é renderizado em uma campanha com uma imagem de fundo.
+1. Clique em **Visualizar** para ver como ele será renderizado em uma campanha (o formulário não será exibido no modo de exibição do editor). Este é um exemplo de como o código de formulário acima é renderizado em uma campanha com uma imagem de fundo.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Editar o CSS de um tema de formulário](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Mostrar mensagem de agradecimento sem uma landing page de acompanhamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [Editar o CSS de um Tema de Formulário](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Mostrar mensagem de agradecimento sem uma página de aterrissagem de acompanhamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

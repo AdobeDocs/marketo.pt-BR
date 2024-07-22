@@ -23,10 +23,10 @@ Deseja reagendar uma execução de Campanha em Lote? Arraste-os e solte-os no fu
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Ótimo! A Campanha Inteligente foi reprogramada. O horário também pode ser alterado de **[!UICONTROL Data]** nas informações de entrada.
+1. Ótimo! A Campanha Inteligente foi reprogramada. A hora também pode ser alterada no menu suspenso **[!UICONTROL Data]** nos detalhes da entrada.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[Reprogramando um Programa Inteiro na View Programação](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[Reagendando um Programa Inteiro na Exibição de Agendamento](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

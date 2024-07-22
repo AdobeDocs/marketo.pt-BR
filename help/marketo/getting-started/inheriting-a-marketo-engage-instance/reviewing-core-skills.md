@@ -25,15 +25,15 @@ Se você tiver tempo limitado para aprimorar as habilidades principais, veja o q
 
 <p>
 
-![Editar texto em um email](assets/reviewing-core-skills-3.png) [**Editar texto em um email**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
+![Editar Texto em um Email](assets/reviewing-core-skills-3.png) [**Editar Texto em um Email**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
 
 <p>
 
-![Criar um novo programa de evento](assets/reviewing-core-skills-4.png) [**Criar um novo programa de evento**](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+![Criar um Novo Programa de Evento](assets/reviewing-core-skills-4.png) [**Criar um Novo Programa de Evento**](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 
 <p>
 
-![Tipos de relatório](assets/reviewing-core-skills-5.png) [**Tipos de relatório**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+![Tipos de Relatório](assets/reviewing-core-skills-5.png) [**Tipos de Relatório**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 
 <p>
 

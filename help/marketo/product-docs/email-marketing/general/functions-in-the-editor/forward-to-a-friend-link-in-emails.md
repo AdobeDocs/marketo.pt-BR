@@ -19,7 +19,7 @@ Por exemplo, digamos que Keith use o link &#39;Encaminhar para o amigo&#39; para
 
 ## Adicionar o link a um modelo de email {#add-the-link-to-an-email-template}
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/one-8.png)
 
@@ -42,9 +42,9 @@ Por exemplo, digamos que Keith use o link &#39;Encaminhar para o amigo&#39; para
 
    >[!CAUTION]
    >
-   >Não recomendamos usar o estilo **posição:relativa** no modelo de email. Isso pode criar problemas com a posição e exibição da caixa &#39;Encaminhar para um amigo&#39;.
+   >Não é recomendável usar o estilo **position:relative** no modelo de email. Isso pode criar problemas com a posição e exibição da caixa &#39;Encaminhar para um amigo&#39;.
 
-1. Clique em **Visualizar rascunho** para garantir que o modelo tenha a aparência desejada.
+1. Clique em **Visualizar rascunho** para verificar se a aparência do modelo é a desejada.
 
    ![](assets/four-5.png)
 
@@ -64,11 +64,11 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
    ![](assets/five-4.png)
 
-1. Coloque o cursor onde deseja que o link apareça e clique no link **Inserir token** botão.
+1. Coloque o cursor onde deseja que o link apareça e clique no botão **Inserir token**.
 
    ![](assets/six-2.png)
 
-1. Selecione o **`{{system.forwardToFriendLink}}`** token.
+1. Selecione o token **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -80,11 +80,11 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
    ![](assets/seven-1.png)
 
-1. Recorte a **`{{system.forwardToFriendLink}}`** token usando Ctrl+X (Windows) ou Cmd+X (Mac). Selecione &quot;Encaminhar para um amigo&quot; e clique no link **Inserir/Editar link** botão.
+1. Recorte o token **`{{system.forwardToFriendLink}}`** usando Ctrl+X (Windows) ou Cmd+X (Mac). Realce &quot;Encaminhar para um amigo&quot; e clique no botão **Inserir/Editar link**.
 
    ![](assets/eight-1.png)
 
-1. Cole o **`{{system.forwardToFriendLink}}`** token no **URL** usando Ctrl/Cmd+V e, em seguida, clique em **Inserir**.
+1. Cole o token **`{{system.forwardToFriendLink}}`** na caixa **URL** usando Ctrl/Cmd+V e clique em **Inserir**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
 Você pode ver quem encaminhou e recebeu os emails no Registro de atividades da pessoa.
 
-1. Vá para a **`Database`**.
+1. Vá para o **`Database`**.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de atividades da 
 
    ![](assets/fourteen.png)
 
-1. Vá para a **Log de atividades** guia. Clique duas vezes **Email de encaminhamento para um amigo recebido** ou **Enviado para um e-mail amigo** para ver detalhes.
+1. Vá para a guia **Log de atividades**. Clique duas vezes em **Email de Encaminhamento para Amigo** ou **Email de Encaminhamento para Amigo** para ver detalhes.
 
    ![](assets/fifteen.png)
 
@@ -122,20 +122,20 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de atividades da 
 
    ![](assets/sixteen.png)
 
-1. Para exibir uma pessoa por ID, copie e cole a variável **ID de pessoa** até o final do URL (o início desse URL dependerá da instância do Marketo):
+1. Para exibir uma pessoa por ID, copie e cole a **ID de pessoa** no final da URL (o início dessa URL dependerá da instância do Marketo):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >Faremos o **ID de pessoa** clicável e vincular diretamente à pessoa em um patch futuro.
+   >Tornaremos a **ID de pessoa** clicável e a vincularemos diretamente à pessoa em um patch futuro.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Se o amigo que recebe o encaminhamento for uma pessoa desconhecida, uma nova pessoa será criada com &quot;Encaminhar para o amigo&quot; marcado como o da pessoa **Origem**.
-   >Se o email for um ativo local de um programa, o programa será marcado como do usuário **Programa de aquisição**.
+   >Se o amigo que recebe o encaminhamento for uma pessoa desconhecida, uma nova pessoa será criada com a opção &quot;Encaminhar para o amigo&quot; marcada como o **Source** da pessoa.
+   >Se o email for um ativo local de um programa, ele será marcado como o **Programa de aquisição** da pessoa.
 
 ## Acionar ou filtrar usando atividade de encaminhamento {#trigger-or-filter-using-forwarding-activity}
 
@@ -147,4 +147,4 @@ Em uma lista inteligente de campanha inteligente, se pesquisar por &quot;encamin
 
 ## Testar Encaminhar para Amigo {#test-forward-to-friend}
 
-Para testar &quot;Encaminhar para o amigo&quot;, envie um email com o link de encaminhamento. Certifique-se de enviá-lo por meio da **Enviar e-mail** etapa do fluxo, *não* até **Enviar email de teste**.
+Para testar &quot;Encaminhar para o amigo&quot;, envie um email com o link de encaminhamento. Certifique-se de enviá-lo por meio da etapa de fluxo **Enviar Email**, *não* por meio de **Enviar Email de Teste**.

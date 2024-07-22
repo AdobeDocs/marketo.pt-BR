@@ -34,16 +34,16 @@ Nas guias Eu e Equipe, você verá informações sobre ofertas fechadas. Esse n�
 
 ## Guia Eu {#me-tab}
 
-A variável [Guia Mim](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} O é um excelente local para verificar o engajamento de emails, modelos e links. Se você for um administrador em Ações do Sales Insight, é possível filtrar por qualquer usuário da sua equipe para ver as estatísticas.
+A [guia Eu](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} é um excelente local para verificar o envolvimento de seus emails, modelos e links. Se você for um administrador em Ações do Sales Insight, é possível filtrar por qualquer usuário da sua equipe para ver as estatísticas.
 
 ## Guia Equipe {#team-tab}
 
-No [Guia Equipe](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, consulte estatísticas e classificações de toda a equipe. Também é possível filtrar por qualquer subequipe criada.
+Na [guia Equipe](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, consulte as estatísticas e classificações de toda a equipe. Também é possível filtrar por qualquer subequipe criada.
 
 ## Guia Conteúdo {#content-tab}
 
-A variável [Guia Conteúdo](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contém estatísticas sobre modelos, conteúdo e links. Você pode filtrar por todos ou por equipes criadas por seus administradores.
+A [guia Conteúdo](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contém estatísticas sobre modelos, conteúdo e links. Você pode filtrar por todos ou por equipes criadas por seus administradores.
 
-Se você vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Visualize seu uso clicando em **Análise de modelo**.
+Se você vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Exiba o uso clicando em **Análise de Modelo**.
 
 Os &quot;cliques no conteúdo&quot; são contados quando um recipient clica em um link em seu email.

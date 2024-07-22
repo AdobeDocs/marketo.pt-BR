@@ -17,11 +17,11 @@ ht-degree: 5%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-A guia Segmentos exibe todos os segmentos definidos pelo cliente que você configura com base em vários atributos.  **Um segmento é uma coleção de visitantes que atendem aos critérios especificados definidos na página &quot;Definir um segmento&quot;.**  Um segmento pode ser de visitantes de um setor, local ou com base na atividade do visitante no local.
+A guia Segmentos exibe todos os segmentos definidos pelo cliente que você configura com base em vários atributos.  **Um segmento é uma coleção de visitantes que atendem aos critérios especificados na página &#39;Definir um segmento&#39;.** Um segmento pode ser de visitantes de um setor, local ou com base na atividade do visitante no site.
 
-Na Personalização da Web, um visitante pode corresponder a mais de um segmento. Por exemplo, se houver um segmento para visitantes dos EUA e um segmento para empresas financeiras, um visitante da Web do Bank of America corresponderá **ambos** o segmento para visitante dos EUA e o segmento para empresas financeiras.
+No Web Personalization, um visitante pode corresponder a mais de um segmento. Por exemplo, se houver um segmento para visitantes dos EUA e um segmento para empresas financeiras, um visitante do Bank of America corresponderá **tanto** o segmento para visitante dos EUA quanto o segmento para empresas financeiras.
 
-**GRÁFICO:**  A página Segmentos exibe um gráfico de barras dos segmentos selecionados de acordo com o número de visitantes do segmento (eixo y) e o nome do segmento (eixo x).
+**GRÁFICO:** a página Segmentos exibe um gráfico de barras dos segmentos selecionados de acordo com o número de visitantes do segmento (eixo y) e o nome do segmento (eixo x).
 
 <table> 
  <thead> 
@@ -54,7 +54,7 @@ Na Personalização da Web, um visitante pode corresponder a mais de um segmento
  </tbody> 
 </table>
 
-Consulte [como criar e visualizar rótulos de segmento](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+Consulte [como criar e exibir rótulos de segmento](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segmentos - Painel direito**
 
@@ -80,24 +80,24 @@ Para ativar ou desativar um segmento, marque a caixa de seleção desse Segmento
 
 ## Criar segmentos {#create-segments}
 
-O segmento criado atende a qualquer critério específico definido na **Definir segmento** página. Você também pode personalizar seus segmentos com base em uma combinação de critérios, direcionando um público-alvo específico na sua campanha.
+O segmento criado atende a qualquer critério específico definido na página **Definir segmento**. Você também pode personalizar seus segmentos com base em uma combinação de critérios, direcionando um público-alvo específico na sua campanha.
 
 Para criar um novo segmento
 
-No **Segmentos** clique em **Criar novo** no gráfico. A tela a seguir é exibida.
+Na página **Segmentos**, clique em **Criar novo** no gráfico. A tela a seguir é exibida.
 
 ![](assets/four.png)
 
 Defina parâmetros gerais para o seu segmento:
 
-* **Nome:**  Dê um nome ao seu segmento.
-* **Descrição:**  Forneça uma explicação mais detalhada dos critérios do segmento.
-* **Domínios:**  Selecione os domínios que deseja incluir no segmento.
-* **Lógica da regra de segmento:**  Selecione uma lógica AND/OR para criar cada atributo de segmentação
-* **Horário:** Defina o nível de envolvimento do visitante que você deseja em sua campanha
+* **Nome:** Nomeie seu segmento.
+* **Descrição:** forneça uma explicação mais detalhada dos critérios do segmento.
+* **Domínios:** selecione os domínios que deseja incluir no segmento.
+* **Lógica da regra de segmento:** selecione uma lógica AND/OR para criar cada atributo de segmentação
+* **Horário:** defina o nível de envolvimento do visitante que você deseja em sua campanha
 
-   * **Na entrada**: engajamento do visitante que chega ao site
-   * **Após 1 - 9 cliques**: envolver o visitante após uma quantidade específica de cliques no site
+   * **Na Entrada**: participação do visitante que chega ao site
+   * **Após o primeiro - o nono clique**: envolver o visitante após uma quantidade específica de cliques no site
 
 >[!TIP]
 >
@@ -132,9 +132,9 @@ Arraste e solte os atributos de segmento da coluna do lado direito no editor de 
 
 ### Perfil da empresa {#firmographics}
 
-**Localização**
+**Local**
 
-Arrastar e soltar **Localização** no editor de segmentos.
+Arraste e solte **Local** no editor de segmentos.
 
 * Selecione entre os seguintes parâmetros:
 
@@ -143,24 +143,24 @@ Arrastar e soltar **Localização** no editor de segmentos.
 
 Depois que o país for adicionado, também será possível especificar o estado, a cidade e o CEP do segmento.
 
-* **Selecionar Estado ou Província para adicionar** - Na caixa suspensa, selecione o estado dos EUA ou a província canadense que deseja incluir. É possível fazer várias seleções.
-* **Código postal** - Digite o código postal que deseja incluir no segmento.
-* **Cidades** - Digite a cidade ou cidades que deseja incluir. Use um ponto e vírgula entre as cidades.
+* **Selecione Estado ou Província para adicionar** - Na caixa suspensa, selecione o estado dos EUA ou Província Canadense que deseja incluir. É possível fazer várias seleções.
+* **CEP** - Digite o CEP que você deseja incluir no seu segmento.
+* **Cidades** - Insira a cidade ou cidades que deseja incluir. Use um ponto e vírgula entre as cidades.
 
 >[!TIP]
 >
->**Quais condições de segmento eu escolho? &quot;AND&quot; ou &quot;OR&quot;?** OR funciona como uma opção adicional em cada campo. Os clientes potenciais precisam atender apenas a um critério dos vários critérios selecionados em cada campo para se qualificarem para o segmento. (Por exemplo, os clientes potenciais podem ser dos EUA. *ou* da indústria da defesa). AND funciona como um parâmetro obrigatório adicional que deve ser atendido para esse segmento. (Por exemplo, os clientes potenciais devem ser tanto dos EUA quanto da indústria de defesa). Em cada perfil de segmentação, cada campo separado pode funcionar como ambos, &quot;E&quot; ou &quot;OU&quot;, dependendo da Condição de segmento selecionada.
+>**Quais condições de segmento eu escolho? &quot;AND&quot; ou &quot;OR&quot;?** OR funciona como uma opção adicional em cada campo. Os clientes potenciais precisam atender apenas a um critério dos vários critérios selecionados em cada campo para se qualificarem para o segmento. (Por exemplo, clientes potenciais podem ser dos EUA *ou* do setor de defesa). AND funciona como um parâmetro obrigatório adicional que deve ser atendido para esse segmento. (Por exemplo, os clientes potenciais devem ser tanto dos EUA quanto da indústria de defesa). Em cada perfil de segmentação, cada campo separado pode funcionar como ambos, &quot;E&quot; ou &quot;OU&quot;, dependendo da Condição de segmento selecionada.
 
-**Setores** No **Segmentação de perfil** , marque a caixa ao lado de **Setor**.
+**Setores** Na seção **Segmentação de Perfil**, marque a caixa ao lado de **Setor**.
 
 * Selecione entre os seguintes parâmetros:
 
-   * **Inclui** - Selecione se deseja que o segmento inclua ou exclua um setor.
-   * **Selecionar setores a serem adicionados** - Selecione o setor que deseja incluir no segmento. O setor aparece abaixo da caixa suspensa. Você pode escolher vários setores.
+   * **Inclui** - Selecione se você deseja que o segmento inclua ou exclua um setor.
+   * **Selecione os setores a serem adicionados** - Selecione o setor que deseja incluir no segmento. O setor aparece abaixo da caixa suspensa. Você pode escolher vários setores.
 
-**Grupo da organização**
+**Grupo de Organizações**
 
-No **Segmentação de perfil** , marque a caixa ao lado de **Grupo da organização.**
+Na seção **Segmentação de Perfil**, marque a caixa ao lado de **Grupo de Organizações.**
 
 * Na caixa suspensa, selecione uma das seguintes opções:
 
@@ -170,24 +170,24 @@ No **Segmentação de perfil** , marque a caixa ao lado de **Grupo da organizaç
    * Empresa - inclui organizações com mais de 1.000 funcionários e receita superior a US$ 250 milhões
    * SMB - Inclui somente empresas de pequeno e médio porte neste segmento
 
-**-Contas Nomeadas-**
+**Contas Nomeadas-**
 
 **Organizações**
 
 * **É destas empresas (nomes específicos)**
 
    * Selecione a empresa a ser direcionada no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
-   * Você pode digitar o nome exato da organização que deseja direcionar. *É _sempre_ é recomendável usar Listas de contas nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
+   * Você pode digitar o nome exato da organização que deseja direcionar. *É _sempre_ recomendável usar Listas de Contas Nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
 
 **Lista de Contas Nomeadas**
 
-Selecionar em um [Lista de Contas Nomeadas](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) para segmentar as principais contas direcionadas.
+Selecione de uma [Lista de contas nomeadas](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) para segmentar as principais contas direcionadas.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->O número entre parênteses ao lado do nome da Lista de contas nomeadas é usado como uma referência de índice para a lista de Personalização da Web [API de leitura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
 
 **Excluir ISP**
 
@@ -197,7 +197,7 @@ Exclui provedores de serviço de internet (ISPs) do segmento.
 
 **Banco de dados**
 
-A Personalização da Web integra-se ao banco de dados do Marketo, permitindo segmentar e personalizar campanhas por atributos e dados de pessoas conhecidas.
+O Web Personalization integra-se ao banco de dados do Marketo, permitindo segmentar e personalizar campanhas por atributos e dados de pessoas conhecidas.
 
 Selecione Banco de Dados e selecione um campo de dados da pessoa no menu suspenso. Selecione o **+** para adicionar campos do menu suspenso.
 
@@ -211,7 +211,7 @@ Você pode adicionar ou remover campos de dados da pessoa em Configurações da 
 >
 >Ex. &quot;O título do trabalho é igual a CMO&quot; e &quot;A pontuação é menor ou igual a 50&quot;
 
-**Campanha de email do Marketo** Segmente e personalize campanhas por referência de email de um visitante que clica em um email do Marketo e chega ao site. Segmente por Nome de programa ou Nome de campanha da Marketo e continue a conversa do email para a Web. Selecione o + para adicionar campos no menu suspenso.
+**Campanha de email do Marketo** Segmente e personalize campanhas por referência de email de um visitante clicando em um email do Marketo e chegando ao site. Segmente por Nome de programa ou Nome de campanha da Marketo e continue a conversa do email para a Web. Selecione o + para adicionar campos no menu suspenso.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
@@ -219,14 +219,14 @@ Você pode adicionar ou remover campos de dados da pessoa em Configurações da 
 
 Defina seu segmento de acordo com o status de um cliente potencial: conhecido ou anônimo.
 
-* Conhecido - Selecione essa opção na caixa suspensa para visitantes conhecidos. Um visitante é conhecido quando envia um formulário em seu site e aparece na página Pessoas da personalização da Web.
+* Conhecido - Selecione essa opção na caixa suspensa para visitantes conhecidos. Um visitante é conhecido quando envia um formulário em seu site e aparece na página Pessoas do Web Personalization.
 * Anônimo - Selecione essa opção na caixa suspensa para visitantes anônimos.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
 ### Comportamental {#behavioral}
 
-**Visitas -** Defina seu segmento de acordo com o comportamento do visitante ou identifique.
+**Visitas -** Defina seu segmento de acordo com o comportamento do visitante ou identifique-o.
 
 * Número de visitas - Selecione essa opção na caixa suspensa para especificar o número de visitas para prospetos no site.
 
@@ -234,21 +234,21 @@ Defina seu segmento de acordo com o status de um cliente potencial: conhecido ou
 
 * Visitas específicas - Selecione essa opção na caixa suspensa para especificar um visitante específico.
 
-   * Na caixa de texto à direita, digite o número do visitante que deseja rastrear. O número de identificação exclusivo do visitante da Personalização da Web pode ser encontrado ao clicar em um visitante (na página de visitantes) e no botão Definir campanha no painel direito. A ID do visitante está localizada na seção Configurações avançadas. A ID de visitante também pode ser encontrada no URL (por exemplo, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+   * Na caixa de texto à direita, digite o número do visitante que deseja rastrear. O número exclusivo de identificação do visitante do Web Personalization pode ser encontrado ao clicar em um visitante (na página de visitantes) e no botão Definir campanha no painel direito. A ID do visitante está localizada na seção Configurações avançadas. A ID de visitante também pode ser encontrada no URL (por exemplo, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
-**Pesquisar termos** - Defina um segmento de acordo com os termos de pesquisa de um cliente potencial.
+**Termos de Pesquisa** - Defina um segmento de acordo com os termos de pesquisa de um cliente potencial.
 
-* O visitante pesquisou - Na lista suspensa, selecione os termos que deseja rastrear na pesquisa de visitantes ou adicione seus próprios termos de pesquisa. (Não há necessidade de &#42; curinga nos termos de pesquisa, pois é definido como padrão para incluir frases que contêm o termo de pesquisa).
+* O visitante pesquisou - Na lista suspensa, selecione os termos que deseja rastrear na pesquisa de visitantes ou adicione seus próprios termos de pesquisa. (Não há necessidade do curinga &#42; nos termos de pesquisa, pois ele é definido como padrão para incluir frases que contêm o termo de pesquisa).
 
-**Referências** - Adicionar URLs pelos quais o visitante foi referenciado.
+**Referências** - Adicione as URLs pelas quais o visitante foi referenciado.
 
-* Selecionar referências a serem adicionadas - Na lista suspensa, selecione os sites de referência que deseja rastrear ou adicione sua própria referência. Depois de selecionadas, as referências aparecerão na caixa abaixo. (Usando &#42; como curinga é permitido)
+* Selecionar referências a serem adicionadas - Na lista suspensa, selecione os sites de referência que deseja rastrear ou adicione sua própria referência. Depois de selecionadas, as referências aparecerão na caixa abaixo. (O uso de &#42; como curinga é permitido)
 
 **Incluir páginas** - Rastreie os clientes potenciais de páginas específicas visitados em seu site.
 
-* Correspondências de URL - Adicione o URL de páginas da Web específicas que você deseja rastrear. Você pode adicionar vários URLs separando-os com um ponto e vírgula. (Usando &#42; como curinga é permitido).
+* Correspondências de URL - Adicione o URL de páginas da Web específicas que você deseja rastrear. Você pode adicionar vários URLs separando-os com um ponto e vírgula. (O uso de &#42; como curinga é permitido).
 
-**Excluir páginas** - Exclua páginas específicas que você não deseja corresponder no segmento. (Usando &#42; como curinga é permitido).
+**Excluir páginas** - Exclua páginas específicas que não deseja corresponder no segmento. (O uso de &#42; como curinga é permitido).
 
 * O URL não corresponde: adicione o URL de páginas da Web específicas que você deseja excluir do rastreamento. Você pode adicionar vários URLs separando-os com um ponto e vírgula
 
@@ -269,38 +269,38 @@ Arraste e solte o SO móvel no editor de segmentos
    * O visitante está usando este dispositivo/SO específico
    * O visitante não está usando nenhum dispositivo móvel
 
-* **Dispositivo**  - Na lista suspensa, selecione um ou mais dispositivos (Apple, Samsung, LG, HTC, Nexus, Blackberry etc.). Os dispositivos selecionados são exibidos abaixo.
+* **Dispositivo** - Na lista suspensa, selecione um ou mais dispositivos (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). Os dispositivos selecionados são exibidos abaixo.
 
 **Navegador**
 
 Visitantes do Target que usam tipos e/ou versões específicas do navegador.
 
 * Tipo de navegador - Na caixa suspensa, selecione um ou mais navegadores da Internet . Os navegadores selecionados aparecem abaixo de.
-* Versão do navegador - Insira a versão do navegador que deseja adicionar ao segmento. Você pode selecionar várias versões separando cada uma com uma vírgula. (Usando &#42; como curinga é permitido).
+* Versão do navegador - Insira a versão do navegador que deseja adicionar ao segmento. Você pode selecionar várias versões separando cada uma com uma vírgula. (O uso de &#42; como curinga é permitido).
 
 ### API {#api}
 
-**Eventos de dados** - Visitantes do segmento que acionam eventos de dados personalizados específicos
+**Eventos de dados** - Segmente visitantes que acionam eventos de dados personalizados específicos
 
 Adicione o valor de Evento que deseja direcionar. Por exemplo, de fontes de dados de terceiros.
 
-**API de contexto de usuário**
+**API de Contexto de Usuário**
 
-Chamada de API de personalização da Web  [leia mais sobre isso aqui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Uso de curingas -** Quando você deseja incluir qualquer termo ou URL de pesquisa que contenha algo nele, ou seja, &quot;[google.com](https://google.com)&quot; ou &quot;produto de termo de pesquisa&quot;, chamamos isso de curinga e deve ser inserido com um asterisco - este carinha pequeno&#42; - em cada extremidade. Então, qualquer coisa vindo de [google.com](https://google.com) deve ser inserido como &#42; [google.com](https://google.com)&#42;
+>**Usando Curingas -** Quando você deseja incluir qualquer termo de pesquisa ou URL que contenha algo dentro dele, por exemplo, &quot;[google.com](https://google.com)&quot; ou &quot;produto de termo de pesquisa&quot;, chamamos isso de curinga e ele deve ser inserido com um asterisco - este carinha&#42; - em cada extremidade. Portanto, qualquer item vindo de [google.com](https://google.com) deve ser inserido como &#42; [google.com](https://google.com)&#42;
 
 ## Editar segmentos {#edit-segments}
 
 Você pode editar um segmento que foi criado.
 
-1. Para editar um segmento, acesse **Segmentos**.
+1. Para editar um segmento, vá para **Segmentos**.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. No **Segmentos** , clique no ícone de edição ( ![](assets/segment-edit.png)) do segmento que você deseja editar. A variável **Definir segmento** será aberta com o segmento selecionado.
+1. Na tabela **Segmentos**, clique no ícone de edição ( ![](assets/segment-edit.png)) do segmento que deseja editar. A página **Definir segmento** é aberta com o segmento selecionado.
 1. Aplique todas as edições ou alterações que deseja fazer no segmento.
 1. Clique em **Salvar**.
 
@@ -308,9 +308,9 @@ Você pode editar um segmento que foi criado.
 
 É possível excluir segmentos criados.
 
-1. No **Segmentos** acima, selecione um segmento.
-1. Clique no ícone de exclusão ( ![](assets/segment-delete.png) ) do segmento que você deseja excluir.
-1. Uma mensagem de confirmação é exibida, confirmando que você está prestes a excluir a **Segmento**.
+1. Na página **Segmentos** acima, selecione um segmento.
+1. Clique no ícone de exclusão ( ![](assets/segment-delete.png) ) do segmento que deseja excluir.
+1. Uma mensagem de confirmação é exibida confirmando que você está prestes a excluir o **Segmento**.
 
 >[!NOTE]
 >
@@ -321,6 +321,6 @@ Não é possível excluir um segmento associado a uma campanha. Primeiro, é nec
 >[!MORELIKETHIS]
 >
 * [Criar um segmento básico da Web](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [Criar uma nova caixa de diálogo da campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Criar uma nova campanha da Web na zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Criar uma nova campanha da Web do widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Criar uma Nova Campanha da Web de Caixa de Diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Criar uma nova Campanha da Web na Zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Criar uma Nova Campanha Web do Widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Excluir notificação por push para celular {#delete-mobile-push-notification}
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 

@@ -6,7 +6,7 @@ exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ O Painel de envolvimentos é a maneira mais fácil de ver o desempenho do conte�
 
 >[!NOTE]
 >
->A pontuação de engajamento inclui dados das três últimas análises. Uma nova é calculada 72 horas após cada conversão. Saiba mais sobre o [pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>A pontuação de engajamento inclui dados das três últimas análises. Uma nova é calculada 72 horas após cada conversão. Saiba mais sobre a [pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Exibir o painel de engajamento {#view-the-engagement-dashboard}
 
-Selecione seu programa de engajamento e clique em **Exibir** > **Painel**.
+Selecione seu programa de envolvimento e clique em **Exibir** > **Painel**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ Esse widget ajuda você a prever quando os clientes potenciais terão esgotado t
 
 >[!NOTE]
 >
->Você deve acessar a guia Configuração e verificar se as Notificações de conteúdo esgotado estão **Ligado** para ver o gráfico acima. Se estiverem desativados, o gráfico será diferente.
+>Você deve ir para a guia Configuração e verificar se as Notificações de Conteúdo Esgotado estão **Ligadas** para ver o gráfico acima. Se estiverem desativados, o gráfico será diferente.
 
 >[!CAUTION]
 >
@@ -67,8 +67,8 @@ Para alterar a classificação, clique no ícone de engrenagem e selecione a ord
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_Mais novo_ e _Oldest_ se baseiam na hora da última aprovação.
+_Mais recentes_ e _Mais antigos_ são baseados na hora da última aprovação.
 
 >[!NOTE]
 >
->Saiba mais na [Criar um programa de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) mergulho profundo.
+>Saiba mais no detalhamento [Criar um programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).

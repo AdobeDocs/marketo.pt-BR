@@ -6,7 +6,7 @@ exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Um painel é uma combinação de relatórios do Revenue Explorer para obter uma 
 
    ![](assets/one.png)
 
-1. Clique em **Criar novo**, depois **Painel**.
+1. Clique em **Criar Novo** e depois em **Painel**.
 
    ![](assets/two.png)
 
@@ -31,17 +31,17 @@ Um painel é uma combinação de relatórios do Revenue Explorer para obter uma 
 
    >[!NOTE]
    >
-   >É possível personalizar ainda mais a aparência do painel clicando em **Temas** e escolhendo seu favorito.
+   >Você pode personalizar ainda mais a aparência do seu painel clicando em **Temas** e escolhendo seu favorito.
 
-1. Na primeira seção do painel, clique na guia **Inserir** e selecione **Arquivo**.
+1. Na primeira seção do painel, clique no ícone **Inserir** e selecione **Arquivo**.
 
    ![](assets/four.png)
 
-1. Clique duas vezes **Gerenciador de Receita**.
+1. Clique duas vezes em **Gerenciador de Receita**.
 
    ![](assets/five.png)
 
-1. Clique duas vezes **Todos os relatórios e painéis**.
+1. Clique duas vezes em **Todos os Relatórios e Painéis**.
 
    ![](assets/six.png)
 
@@ -61,7 +61,7 @@ Um painel é uma combinação de relatórios do Revenue Explorer para obter uma 
 
    ![](assets/ten.png)
 
-1. Para salvar, clique no ícone Salvar, insira um nome de arquivo, clique duas vezes na pasta Gerenciador de receita até chegar à pasta desejada para seu painel e clique em **Salvar**.
+1. Para salvar, clique no ícone Salvar, digite um nome de arquivo, clique duas vezes na pasta Gerenciador de Receita até chegar à pasta desejada para o seu painel e clique em **Salvar**.
 
    ![](assets/eleven.png)
 
@@ -71,7 +71,7 @@ Um painel é uma combinação de relatórios do Revenue Explorer para obter uma 
 
    ![](assets/one.png)
 
-1. Clique duas vezes no ícone **Gerenciador de Receita** pasta. Navegue até o local em que se encontra o painel.
+1. Clique duas vezes na pasta **Gerenciador de Receitas**. Navegue até o local em que se encontra o painel.
 
    ![](assets/thirteen.png)
 
@@ -85,10 +85,10 @@ Um painel é uma combinação de relatórios do Revenue Explorer para obter uma 
 
    ![](assets/one.png)
 
-1. Clique duas vezes no ícone **Gerenciador de Receita** pasta. Navegue até o local em que se encontra o painel.
+1. Clique duas vezes na pasta **Gerenciador de Receitas**. Navegue até o local em que se encontra o painel.
 
    ![](assets/thirteen.png)
 
-1. Selecione o painel que deseja excluir e clique em **Mover para o Lixo**.
+1. Selecione o painel que deseja excluir e clique em **Mover para o Lixeira**.
 
    ![](assets/fifteen.png)

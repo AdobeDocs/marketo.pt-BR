@@ -23,7 +23,7 @@ Algumas informações adicionais sobre permissões:
 
 ## Permissões disponíveis {#available-permissions}
 
-Quando você [criar ou editar uma função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), você pode selecionar quais das seguintes permissões devem ser permitidas para essa função, marcando as caixas apropriadas.
+Ao [criar ou editar uma função](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), você pode selecionar quais das seguintes permissões devem ser permitidas para essa função, marcando as caixas apropriadas.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -32,16 +32,16 @@ Quando você [criar ou editar uma função](/help/marketo/product-docs/administr
 Exiba e faça alterações nas configurações na seção Minha conta do Administrador.
 
 * Acessar o Adobe Connect - Dá aos usuários acesso à tela do Adobe Connect
-* Acessar o Adobe Experience Manager&#42; - Fornece aos usuários acesso à tela do Adobe Experience Manager
-* Mapeamento da organização do Adobe de acesso&#42; - Dá aos usuários acesso à tela Mapeamento da organização de Adobe
-* Acessar trilha de auditoria do administrador&#42; - Fornece aos usuários acesso à tela Trilha de auditoria do administrador
-* Acessar trilha de auditoria de acesso&#42; - Concede aos usuários acesso à Trilha de auditoria
+* Acessar o Adobe Experience Manager&#42; - Concede aos usuários acesso à tela do Adobe Experience Manager
+* Mapeamento da Organização de Adobe de Acesso&#42; - Dá aos usuários acesso à tela Mapeamento da Organização de Adobe
+* Acessar Registro de Auditoria de Admin&#42; - Dá aos usuários acesso à tela Registro de Auditoria de Admin
+* Acessar Registro de Auditoria de Acesso&#42; - Concede aos usuários acesso ao Registro de Auditoria de Acesso
 * Acessar trilha de auditoria - Dá aos usuários acesso à trilha de auditoria do ativo e à trilha de auditoria do administrador.
 * Acessar CAPTCHA - Acesso à tela CAPTCHA
 * Canais de acesso - Concede aos usuários acesso somente para modificar a tag de Canal, não a outras tags personalizadas
 * Limite de comunicação de acesso - Concede aos usuários acesso para ativar um limite de comunicação no Administrador
-* Acessar o CRM - Concede aos usuários acesso ao CRM, como [!DNL Salesforce] ou [!DNL Microsoft Dynamics], no Admin
-* Access [[!DNL Data.com]](https://data.com) - Concede aos usuários acesso à ação de fluxo Data.com
+* Acessar CRM - Concede aos usuários acesso ao CRM, como [!DNL Salesforce] ou [!DNL Microsoft Dynamics], no Administrador
+* Acesso [[!DNL Data.com]](https://data.com) - Concede aos usuários acesso à ação de fluxo Data.com
 * Acessar administrador de email - Concede aos usuários acesso ao Administrador de email para alterar as configurações padrão, como domínios de cancelamento de inscrição e identidade visual
 * Parceiros de evento de acesso - Fornece aos usuários acesso ao LaunchPoint no Administrador
 * Gerenciamento de campos de acesso - Concede aos usuários acesso ao Gerenciamento de campos no Administrador
@@ -50,28 +50,28 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Local de acesso - Dá aos usuários acesso ao Local no Admin para definir idioma, local, fuso horário e moeda padrão
 * Acessar histórico de logon - Dá aos usuários acesso ao histórico de logon do usuário na trilha de auditoria
 * Acessar configurações de logon - Dá aos usuários acesso às Configurações de logon nas configurações de Administração para segurança, Restrições de IP e Relatórios de lista inteligente
-* Acessar nova experiência&#42; - Fornece aos usuários acesso à tela Nova experiência
+* Acessar nova experiência&#42; - Dá aos usuários acesso à tela Nova experiência
 * Acessar a atividade personalizada do Marketo - Concede aos usuários acesso às Atividades personalizadas do Marketo no Administrador
 * Acessar objeto personalizado do Marketo - Concede aos usuários acesso aos Objetos personalizados do Marketo no Administrador
-* Access [!DNL Munchkin] - Concede aos usuários acesso a [!DNL Munchkin] em Administração, para definir o código de rastreamento, o rastreamento de pessoas e ativar a configuração da API
-* Acessar públicos preditivos&#42; - Dá aos usuários acesso à tela Predictive Audiences
+* Acesso [!DNL Munchkin] - Concede aos usuários acesso a [!DNL Munchkin] em Administração para definir o código de rastreamento, o rastreamento de pessoas e habilitar a configuração da API
+* Acessar públicos preditivos&#42; - Dá aos usuários acesso à tela de públicos preditivos
 * Acessar o Revenue Cycle Analytics - Dá aos usuários acesso ao Revenue Cycle Analytics no Admin para a configuração Sincronizar resumo e atribuição
 * Funções de acesso - concede aos usuários acesso para gerenciar e editar funções, mas não aos usuários
 * Acessar o Sales Insight - Dá aos usuários acesso para gerenciar o Sales Insight no Admin, para definir o status, a configuração da API, a pontuação de pessoas e outras configurações
 * Acesso ao Logon Único - Concede aos usuários acesso ao gerenciamento do Logon Único no Admin, para ativar o SAML e trabalhar com configurações de SAML e URLs de página de redirecionamento
 * Acessar o Smart Campaign - Oferece aos usuários acesso ao Smart Campaign no Admin, para restringir os limites de pessoas qualificadas
-* Acessar API SOAP - Concede aos usuários acesso para gerenciar APIs SOAP em serviços da Web no Admin
+* Acessar API SOAP - Dá aos usuários acesso para gerenciar APIs SOAP em Serviços da Web no Administrador
 * Tags de acesso - Concede aos usuários acesso a todas as tags personalizadas, exceto a tag de canal.
 * Acessar o Treasure Chest - Dá aos usuários acesso aos recursos experimentais no Treasure Chest no Administrador
 * Acessar usuários - Dá aos usuários acesso para editar e gerenciar usuários (mas não funções) no Admin
 * Webhooks de acesso - Oferece aos usuários Webhooks no Admin para a configuração de detalhes e Mapeamentos de resposta
 * Acessar espaços de trabalho e partições - Concede aos usuários acesso para criar, editar e excluir espaços de trabalho e partições no Administrador
 
-_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
+_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-la quando ela estiver ativa em meados de 2024._
 
 ## API de acesso  {#access-api}
 
-Fornece aos usuários com o **Somente API** **Função** acesso às APIs individuais listadas abaixo.
+Concede aos usuários com **Somente API** **Função** acesso às APIs individuais listadas abaixo.
 
 * Aprovar ativos
 * Executar campanha
@@ -101,11 +101,11 @@ Fornece aos usuários com o **Somente API** **Função** acesso às APIs individ
 Fornece aos usuários acesso às guias do Analytics, Insights de email, relatórios e aos três itens abaixo, a menos que estejam desmarcados.
 
 * Acessar Gerenciador de Receita - Desmarcar remove o acesso do usuário ao Gerenciador de Receita
-* Criar relatório&#42; - Fornece aos usuários acesso para criar, clonar, ler, atualizar e mover ativos de relatórios em atividades de análise e marketing, bem como ativos do Modelador de ciclo de receita
+* Criar relatório&#42; - Fornece aos usuários acesso para criar, clonar, ler, atualizar e mover ativos de relatório em Atividades de análise e marketing, bem como ativos do Modeler do ciclo de receita
 * Excluir relatório - Desmarcar remove a capacidade do usuário de excluir relatórios
 * Exportar dados do Analytics - Desmarcar remove a capacidade do usuário de exportar dados do Analytics
 
-_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
+_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-la quando ela estiver ativa em meados de 2024._
 
 ## Acessar apresentações de calendários {#access-calendar-presentations}
 
@@ -177,7 +177,7 @@ Exibir o banco de dados, bem como exibir e editar listas inteligentes/estáticas
    * Editar segmentação
 
 * Excluir pessoa
-* Criar lista&#42;
+* Criar Lista&#42;
    * Acesso para criar um ativo de lista em Atividades de banco de dados e marketing
    * Acesso para criar um ativo de lista inteligente no banco de dados e nas atividades de marketing
 * Excluir lista
@@ -186,11 +186,11 @@ Exibir o banco de dados, bem como exibir e editar listas inteligentes/estáticas
 * Importar objeto personalizado
 * Importar lista
 * Mesclar pessoas
-* Executar ações de fluxo único - Permite que os usuários executem **Alterar valor dos dados** etapa de fluxo em pessoas do banco de dados
+* Executar Ações de Fluxo Único - Permite que os usuários executem a etapa de fluxo **Alterar Valor de Dados** em pessoas do banco de dados
 
 * Exibir dados da oportunidade - Oculta as informações da oportunidade na página de detalhes da pessoa
 
-_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
+_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-la quando ela estiver ativa em meados de 2024._
 
 ## Acessar atividades de marketing {#access-marketing-activities}
 
@@ -215,7 +215,7 @@ Exiba a guia Atividades de marketing, campanhas e pastas de campanha.
 * Excluir ativo de marketing
 * Editar restrições de campanha
 * Editar ativo de marketing
-* Exportar atividade da campanha&#42;
+* Exportar Atividade de Campanha&#42;
 * Importar programa
 * Importação de lista
 * Programar campanha em lote
@@ -225,7 +225,7 @@ Acessar SEO
 * Administrar SEO
 * SEO padrão
 
-_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-lo quando ele estiver ativo em meados de 2024._
+_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-la quando ela estiver ativa em meados de 2024._
 
 ## Direcionamento e personalização {#targeting-and-personalization}
 
@@ -237,5 +237,5 @@ _&#42;Para evitar a interrupção para usuários existentes, essa permissão est
 
 Administração da área de trabalho
 
-* Acesso de administrador para um Espaço de trabalho específico (somente se você tiver os Espaços de trabalho ativados)
+* Acesso de administrador a uma Workspace específica (somente se você tiver os Espaços de trabalho ativados)
 * Mover ativos entre espaços de trabalho (somente se tiver espaços de trabalho ativados)

@@ -19,11 +19,11 @@ Os administradores de SEO poderão escolher a região do mecanismo de pesquisa n
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** seção.
+1. Vá para a seção **[!UICONTROL Admin]**.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Clique em **[!UICONTROL Mecanismos de pesquisa]** guia.
+1. Clique na guia **[!UICONTROL Mecanismos de pesquisa]**.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Ao lidar com formulários internacionais, será necessário exibir datas/horas nos formatos corretos. O Marketo fará isso automaticamente para você. Tudo o que você precisa fazer é definir o local do formulário e nós cuidaremos do resto.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Em **Configurações do formulário**, clique em **Configurações**.
+1. Em **Configurações de formulário**, clique em **Configurações**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Selecione o **Localidade** de sua escolha.
+1. Selecione a **Localidade** de sua escolha.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
@@ -35,7 +35,7 @@ Ao lidar com formulários internacionais, será necessário exibir datas/horas n
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Clique em **Aprovar e fechar** para aplicar e salvar as alterações.
+1. Clique em **Aprovar e Fechar** para aplicar e salvar as alterações.
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ Ao lidar com formulários internacionais, será necessário exibir datas/horas n
 
    >[!NOTE]
    >
-   >Lembre-se de [aprovar o rascunho da página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+   >Lembre-se de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
    É isso aí! As pessoas podem ver a data/hora sendo exibida no local correto.
 

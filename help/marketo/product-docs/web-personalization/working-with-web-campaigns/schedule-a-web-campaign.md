@@ -23,7 +23,7 @@ Você pode agendar a campanha da Web com base na hora do visitante da Web ou em 
 >
 >A programação de datas de início e término é ideal para um evento agendado, como um Webinar, que é executado por um período específico. As repetições são perfeitas para uma oferta especial que é executada a cada semana somente em um dia específico.
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
@@ -31,7 +31,7 @@ Você pode agendar a campanha da Web com base na hora do visitante da Web ou em 
    >
    >Para facilitar a localização da campanha desejada, use o [recurso de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Abra o menu Campaign Status e selecione **Agendar**.
+1. Abra o menu Status da campanha e selecione **Agendar**.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,7 +51,7 @@ Você pode agendar a campanha da Web com base na hora do visitante da Web ou em 
    >
    >Você pode selecionar a data e a hora no menu suspenso e no calendário ou inseri-las manualmente. Os horários são em 12 horas AM/PM.
 
-1. Por padrão, a campanha será executada todos os dias entre as datas de início e término. Se você quiser executar a campanha somente em dias ou horários específicos, use o **Repetir** configurações. Selecione o dia e a hora de início e término para exibir a campanha. Use o sinal de mais + para adicionar dias.
+1. Por padrão, a campanha será executada todos os dias entre as datas de início e término. Se você quiser executar a campanha somente em dias ou horários específicos, use as configurações de **Repetir**. Selecione o dia e a hora de início e término para exibir a campanha. Use o sinal de mais + para adicionar dias.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
@@ -65,4 +65,4 @@ Você pode agendar a campanha da Web com base na hora do visitante da Web ou em 
 
    >[!NOTE]
    >
-   >O status da campanha permanece como **Agendado** mesmo quando a campanha está em execução durante os horários agendados selecionados. Quando uma data final programada passa, o status da campanha muda para **Pausado**.
+   >O status da campanha permanece como **Agendada** mesmo quando a campanha está em execução durante os horários agendados selecionados. Quando uma data de término agendada é ultrapassada, o status da campanha muda para **Paused**.

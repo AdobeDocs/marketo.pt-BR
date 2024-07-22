@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## Como se desconectar do Salesforce como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-1.png)
 
@@ -25,13 +25,13 @@ ht-degree: 1%
 
    ![](assets/six-1.png)
 
-1. Na guia Conexões e personalizações, clique em **Desconectar**.
+1. Na guia Conexões e Personalizações, clique em **Desconectar**.
 
    ![](assets/seven-1.png)
 
 ## Como se desconectar do Salesforce como um usuário não administrativo {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-1.png)
 
@@ -39,6 +39,6 @@ ht-degree: 1%
 
    ![](assets/two-1.png)
 
-1. Na guia Conexões e personalizações, clique em **Desconectar**.
+1. Na guia Conexões e Personalizações, clique em **Desconectar**.
 
    ![](assets/3333.png)

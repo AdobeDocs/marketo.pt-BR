@@ -7,23 +7,23 @@ feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Filtrar um relatório de programa por tag {#filter-a-program-report-by-tag}
 
-Concentre seus [relatório de desempenho do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) em [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}.
+Concentre seu [relatório de desempenho do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) em [marcas](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"} específicas.
 
-1. Ir para **[!UICONTROL Atividades de marketing]** (ou **[!UICONTROL Analytics]**).
+1. Vá para **[!UICONTROL Atividades de marketing]** (ou **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o **[!UICONTROL Desempenho do programa]** relatório.
+1. Selecione seu relatório de **[!UICONTROL Desempenho do Programa]**.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Clique em **[!UICONTROL Configuração]** e arraste sobre uma das **[!UICONTROL Tags]** filtros.
+1. Clique na guia **[!UICONTROL Configuração]** e arraste um dos filtros **[!UICONTROL Marcas]**.
 
    ![](assets/prospects.jpg)
 
@@ -35,7 +35,7 @@ Concentre seus [relatório de desempenho do programa](/help/marketo/product-docs
 
    ![](assets/prospect2.jpg)
 
-1. Concluído! Clique em **[!UICONTROL Relatório]** guia para ver _apenas_ os programas que correspondem às tags selecionadas em seu relatório.
+1. Concluído! Clique na guia **[!UICONTROL Relatório]** para ver _apenas_ os programas que correspondem às marcas selecionadas em seu relatório.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 

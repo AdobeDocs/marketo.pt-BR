@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Às vezes, pode ser necessário salvar um relatório padrão para visualizá-lo novamente mais tarde. Veja como fazer isso:
 
-1. Vá para a **Analytics** área.
+1. Vá para a área **Analytics**.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Salvar em** um local e selecione um **Pasta**.
+1. **Salve em** um local e selecione uma **Pasta**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Nome** o relatório e clique em **Salvar**.
+1. **Nomeie** o relatório e clique em **Salvar**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 

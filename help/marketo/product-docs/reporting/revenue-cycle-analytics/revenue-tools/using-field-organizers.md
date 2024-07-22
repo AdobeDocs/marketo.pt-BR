@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ Os Organizadores de campo são usados na Análise de desempenho do modelo.
 
 ## Como criar organizadores de campo {#how-to-create-field-organizers}
 
-1. Clique em **Banco de dados**.
+1. Clique em **Banco de Dados**.
 
    ![](assets/db.png)
 
@@ -41,7 +41,7 @@ Os Organizadores de campo são usados na Análise de desempenho do modelo.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Nomeie o grupo e insira os dados apropriados (isso dependerá do tipo de dados do campo selecionado). Clique em **Adicionar grupo**.
+1. Nomeie o grupo e insira os dados apropriados (isso dependerá do tipo de dados do campo selecionado). Clique em **Adicionar Grupo**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
@@ -49,4 +49,4 @@ Crie mais organizadores de campo da mesma maneira, se necessário. E aí está v
 
 >[!MORELIKETHIS]
 >
->[Criar grupos de campos personalizados usando o Organizador de campos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+>[Criar Grupos de Campos Personalizados Usando o Organizador de Campos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)

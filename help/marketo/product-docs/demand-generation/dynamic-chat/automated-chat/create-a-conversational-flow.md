@@ -18,7 +18,7 @@ Veja como criar um novo Fluxo de conversa.
 
    ![](assets/create-a-conversational-flow-1.png)
 
-1. Clique em **[!UICONTROL Criar Fluxo de Conversa]**.
+1. Clique em **[!UICONTROL Criar Fluxo de Conversação]**.
 
    ![](assets/create-a-conversational-flow-2.png)
 
@@ -30,8 +30,8 @@ Veja como criar um novo Fluxo de conversa.
    >
    >Isso alterará somente o idioma do texto do sistema. Você é responsável pela tradução do conteúdo.
 
-1. Assim como nos Diálogos, neste momento é hora de [criar um fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Assim como nas Caixas de Diálogo, neste momento é hora de [criar um fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Visão geral do fluxo de conversa](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+>[Visão Geral do Fluxo de Conversação](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}

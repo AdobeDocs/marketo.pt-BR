@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visuali
 
 ## Como acessar a pesquisa avançada {#how-to-access-advanced-search}
 
-1. No aplicativo web, clique em **Centro de comando**.
+1. No aplicativo Web, clique em **Centro de Comando**.
 
    ![](assets/advanced-search-overview-1.png)
 
@@ -101,7 +101,7 @@ Filtra por todos os emails pendentes.
   <td><strong>Descrição</strong></td>
  </tr>
  <tr>
-  <td><strong>Agendado</strong></td>
+  <td><strong>Programado</strong></td>
   <td>Emails que foram agendados na janela de composição (Salesforce ou Web App), plug-ins de email ou uma campanha.</td>
  </tr>
  <tr>
@@ -109,7 +109,7 @@ Filtra por todos os emails pendentes.
   <td>Emails que estão atualmente em estado de rascunho. Os emails exigem uma linha de assunto e um recipient para serem salvos como rascunho.</td>
  </tr>
  <tr>
-  <td><strong>em andamento</strong></td>
+  <td><strong>Em andamento</strong></td>
   <td>Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais do que alguns segundos.</td>
  </tr>
 </table>
@@ -143,11 +143,11 @@ Filtra por emails que nunca foram entregues.
 
 Veja como criar uma pesquisa salva.
 
-1. Depois que todos os filtros estiverem no lugar, clique em **Salvar filtros como**.
+1. Depois que todos os filtros estiverem implementados, clique em **Salvar Filtros Como**.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. Dê um nome à pesquisa e clique em **Salvar**.
+1. Dê um nome à sua pesquisa e clique em **Salvar**.
 
    ![](assets/advanced-search-overview-14.png)
 

@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ As personas são uma ótima maneira de segmentar o público e o mercado da ABM p
 
 ## Adicionar uma persona {#add-a-persona}
 
-1. Em Meu Marketo, clique em **Admin**.
+1. Em Minha Marketo, clique em **Administrador**.
 
    ![](assets/one.png)
 
-1. Na árvore, selecione **Gerenciamento de conta do Target**.
+1. Na árvore, selecione **Gerenciamento de Conta de Destino**.
 
    ![](assets/using-personas-2.png)
 
@@ -53,7 +53,7 @@ Visualize suas personalidades visitando uma Conta nomeada específica.
 
    ![](assets/one-a.png)
 
-1. Clique em **Personas** guia.
+1. Clique na guia **Personas**.
 
    ![](assets/two-a.png)
 

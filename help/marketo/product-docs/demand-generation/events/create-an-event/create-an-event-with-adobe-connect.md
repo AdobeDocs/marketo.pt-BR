@@ -6,7 +6,7 @@ exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -18,33 +18,33 @@ A sincronização com o Adobe Connect permite gerenciar o registro e a participa
 >[!PREREQUISITES]
 >
 >* [Vincular Adobe Connect e Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
->* [Criar um novo programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [Criar um Novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-Primeiro, certifique-se de ter criado sua reunião ou seminário no Adobe Connect. Se precisar de ajuda, confira o [Guia do usuário do Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+Primeiro, certifique-se de ter criado sua reunião ou seminário no Adobe Connect. Se precisar de ajuda, confira o [Guia do Usuário do Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 As reuniões e os seminários criados no Adobe Connect devem ser criados na pasta especificada ao inserir suas credenciais no Marketo. Depois de criar a reunião ou seminário, anote todas as informações logísticas relevantes (como o número de telefone), a serem usadas no email de confirmação e no arquivo ICS.
 
 >[!CAUTION]
 >
->Como o host do evento, certifique-se de ingressar no aplicativo e **não** por meio do link enviado aos participantes.
+>Como host do evento, certifique-se de ingressar de dentro do aplicativo e **não** pelo link enviado aos participantes.
 
 >[!NOTE]
 >
 >No momento, não oferecemos suporte ao Adobe Connect no local.
 
-1. Na página inicial de um novo evento, selecione **Ações de evento** e depois **Configurações do evento**.
+1. Na página inicial de um novo evento, selecione **Ações de Evento** e depois **Configurações de Evento**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Se você não vir **Configurações do evento** na lista suspensa, verifique se o canal do evento tem **Evento com webinário** selecionado em &quot;Aplica-se a&quot;.
+   >Se você não vir **Configurações de evento** na lista suspensa, verifique se o canal do evento tem **Evento com Webinar** selecionado em &quot;Aplica-se a.&quot;
 
-1. Em **Parceiro de evento**, selecione **Adobe Connect**.
+1. Em **Parceiro de Evento**, selecione **Adobe Connect**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Selecione o **Logon** e selecione o seu **Evento**.
+1. Selecione sua ID de **Logon** e selecione seu **Evento**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
@@ -60,9 +60,9 @@ As reuniões e os seminários criados no Adobe Connect devem ser criados na past
 
    >[!TIP]
    >
-   >Para inserir o URL exclusivo da pessoa em um email, use este token: `{{member.webinar url}}`. Quando o email é enviado, esse token resolve automaticamente o URL de confirmação exclusivo da pessoa no Adobe Connect.
+   >Para inserir a URL exclusiva da pessoa em um email, use este token: `{{member.webinar url}}`. Quando o email é enviado, esse token resolve automaticamente o URL de confirmação exclusivo da pessoa no Adobe Connect.
    >
-   >Defina seu email de confirmação como **Operacional** para garantir que as pessoas que se registram e podem ter a inscrição cancelada ainda recebam suas informações de confirmação.
+   >Defina seu email de confirmação como **Operacional** para garantir que as pessoas que se registram e podem ter a assinatura cancelada ainda recebam suas informações de confirmação.
 
    As pessoas que se inscreverem no webinário serão encaminhadas ao provedor do webinário por meio da etapa de fluxo Alterar status do programa quando o Novo status for definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Além disso, certifique-se de marcar a etapa de fluxo Alterar status do programa #1 e a etapa de fluxo Enviar email #2.
 
@@ -74,7 +74,7 @@ As reuniões e os seminários criados no Adobe Connect devem ser criados na past
 
    >[!TIP]
    >
-   >Pode levar até 48 horas para que os dados sejam exibidos no Marketo. Se, após esse tempo de espera, você ainda não visualizar nada, selecione **Atualizar do provedor do webinário** no menu Ações de evento, na guia Resumo do evento.
+   >Pode levar até 48 horas para que os dados sejam exibidos no Marketo. Se, após esse tempo de espera, você ainda não vir nada, selecione **Atualizar do Provedor de Webinar** no menu Ações de Evento, na guia Resumo do evento.
 
    >[!MORELIKETHIS]
    >

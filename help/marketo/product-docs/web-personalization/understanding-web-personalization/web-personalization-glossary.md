@@ -1,44 +1,44 @@
 ---
 unique-page-id: 3571927
-description: Glossário de personalização da Web - Documentação do Marketo - Documentação do produto
-title: Glossário de personalização da Web
+description: Glossário do Web Personalization - Documentação do Marketo - Documentação do produto
+title: Glossário do Web Personalization
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
-# Glossário de personalização da Web {#web-personalization-glossary}
+# Glossário do Web Personalization {#web-personalization-glossary}
 
-Alguns insights sobre o mundo e o idioma da Personalização da Web do Marketo.
+Alguns insights sobre o mundo e o idioma do Marketo Web Personalization.
 
 | Termo | Definição |
 |---|---|
 | **Visitante anônimo** | Um visitante da Web que nunca preencheu um formulário ou deixou seus detalhes no site. |
-| **Campanha da Web** | Uma reação personalizada associada a um segmento específico. Com a personalização da Web, as campanhas da Web incluem caixas de diálogo, em regiões e widgets. |
-| **Fluxo de cliques** | A atividade do visitante e o caminho do URL no site, e por quanto tempo ele visitou cada página |
-| **Provedor de Internet** | Provedor de serviços de Internet |
+| **Campanha na Web** | Uma reação personalizada associada a um segmento específico. Com o Web Personalization, as campanhas da Web incluem caixas de diálogo, Em zonas e Widgets. |
+| **Sequência de cliques** | A atividade do visitante e o caminho do URL no site, e por quanto tempo ele visitou cada página |
+| **ISP** | Provedor de serviços de Internet |
 | **Visitante conhecido** | Um visitante da Web que concluiu um formulário e deixou seus detalhes (endereço de email) no site ou clicou em um link em um email do Marketo. |
 | **Lista de contas** | Uma lista dos principais nomes de conta/organização. Também conhecida como lista do Account-Based Marketing (ABM). |
-| **Segmentos** | Uma coleção de visitantes que atendem aos critérios especificados definidos no [Página &quot;Definir um segmento&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
-| **Testes A/B** | Um experimento de teste com duas ou mais variantes para medir a diferença nos resultados. O objetivo é identificar alterações nas páginas da Web que aumentem ou maximizem um resultado de interesse. |
-| **Curinga** | Um caractere curinga (&#42; é usado) que é usado antes ou depois de uma string para substituir qualquer outro caractere ou caracteres em uma string. Veja os exemplos abaixo. |
+| **Segmentos** | Uma coleção de visitantes que atendem aos critérios especificados definidos na página [&#39;Definir um segmento&#39;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Teste de Divisão** | Um experimento de teste com duas ou mais variantes para medir a diferença nos resultados. O objetivo é identificar alterações nas páginas da Web que aumentem ou maximizem um resultado de interesse. |
+| **Curinga** | Um caractere curinga (&#42; é usado) que é usado antes ou depois de uma cadeia de caracteres para substituir qualquer outro caractere ou caracteres em uma cadeia. Veja os exemplos abaixo. |
 
 ## Exemplos de curinga {#wildcard-examples}
 
-Estas são três maneiras de usar um curinga na Personalização da Web.
+Estas são três maneiras de usar um curinga no Web Personalization.
 
-Faça a correspondência de todos os visitantes nos URLs da página que terminam com preços (por exemplo, `www.marketo.com/pricing`
+Corresponder todos os visitantes nas URLs de página que terminam com preços (por exemplo, `www.marketo.com/pricing`
 
 ![](assets/wildcard-example-1.png)
 
-Corresponda todos os visitantes nos URLs de página que começam com https:// (por exemplo, `https://www.marketo.com`
+Corresponder todos os visitantes nas URLs de página que iniciam com https:// (por exemplo, `https://www.marketo.com`
 
 ![](assets/wildcard-example-2.png)
 
-Corresponder a todos os visitantes em URLs de página que incluem a palavra backup (por exemplo, `https://www.marketo.com/backup/pricing.html`
+Corresponder todos os visitantes nas URLs de página que incluem o backup de palavras (por exemplo, `https://www.marketo.com/backup/pricing.html`
 
 ![](assets/wildcard-example-3.png)

@@ -13,11 +13,11 @@ ht-degree: 12%
 
 # Excluir aplicativo móvel {#delete-mobile-app}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecionar **Aplicativos móveis**.
+1. Selecione **Aplicativos móveis**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,7 +25,7 @@ ht-degree: 12%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Clique em **Ações do aplicativo móvel** e selecione **Excluir aplicativo**.
+1. Clique em **Ações do Aplicativo Móvel** e selecione **Excluir Aplicativo**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 

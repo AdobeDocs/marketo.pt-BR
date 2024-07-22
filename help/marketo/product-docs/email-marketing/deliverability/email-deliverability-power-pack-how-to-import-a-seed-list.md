@@ -17,19 +17,19 @@ Uma Seed List é uma lista de contas de email em vários provedores de caixa de 
 
 >[!IMPORTANT]
 >
->Este artigo é para aqueles que têm uma assinatura ativa do Everest no momento. Se você usa o Rastreador de caixa de entrada por pássaro (antigo MessageBird), seus tutoriais [pode ser encontrado aqui](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>Este artigo é para aqueles que têm uma assinatura ativa do Everest no momento. Se você usa o Controlador de Caixa de Entrada por Bird (antigo MessageBird), seus tutoriais [podem ser encontrados aqui](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importar uma lista de seeds {#import-a-seed-list}
 
-1. Em Meu Marketo, selecione **Ferramentas de avaliação do delivery**.
+1. Em Meu Marketo, selecione **Ferramentas de Entrega**.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. O aplicativo Everest será aberto. Na navegação à esquerda, clique em **Em andamento** e selecione **Posicionamento da caixa de entrada**.
+1. O aplicativo Everest será aberto. Na navegação à esquerda, clique em **Em andamento** e selecione **Posicionamento da Caixa de Entrada**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Clique em **Gerenciar lista de seeds** guia.
+1. Clique na guia **Gerenciar lista de propagação**.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
@@ -41,7 +41,7 @@ Uma Seed List é uma lista de contas de email em vários provedores de caixa de 
    >
    >Use o Seed List Otimizer (na parte superior da página) se desejar que o Everest otimize sua lista para você.
 
-1. Após a exportação, a lista será exibida como um arquivo .txt na pasta de downloads do navegador. Recuperar e [importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) na instância do Marketo como uma lista estática.
+1. Após a exportação, a lista será exibida como um arquivo .txt na pasta de downloads do navegador. Recupere-a e [importe-a](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) para sua instância do Marketo como uma lista estática.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

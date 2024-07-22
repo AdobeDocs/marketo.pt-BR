@@ -15,11 +15,11 @@ ht-degree: 0%
 
 O prefixo padrão do Microsoft Dynamics para campos personalizados deve ser _novo_ para que os campos proprietários do Marketo sejam sincronizados corretamente. Veja como alterar o prefixo padrão.
 
-1. Acesse Configurações e selecione **Personalizações**.
+1. Vá para Configurações e selecione **Personalizações**.
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. Clique em **Editores**.
+1. Clique em **Publicadores**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -35,7 +35,7 @@ O prefixo padrão do Microsoft Dynamics para campos personalizados deve ser _nov
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Clique em **Publicar todas as personalizações**.
+1. Clique em **Todas as personalizações do Publish**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

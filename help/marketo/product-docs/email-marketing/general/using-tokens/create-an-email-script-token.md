@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Criar um token de script de email {#create-an-email-script-token}
 
-Para desenvolvedores avançados, é possível usar [Scripts do Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) em seus emails. Veja como fazer isso.
+Para desenvolvedores avançados, você pode usar os [scripts do Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) nos seus emails. Veja como fazer isso.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Para desenvolvedores avançados, é possível usar [Scripts do Velocity](https:/
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. No **Meus tokens** , arraste em um **Script de email** token.
+1. Na guia **Meus tokens**, arraste um token de **Script de email**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Nomeie o token de script de email e **clique para editar** seu conteúdo.
+1. Nomeie seu token de script de email e **clique para editar** seu conteúdo.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Use a árvore à direita para arrastar **Pessoa, Oportunidade** ou **Objeto personalizado** tokens.
+1. Use a árvore à direita para arrastar os tokens de **Pessoa, Oportunidade** ou **Objeto Personalizado**.
 
    ![](assets/five-2.png)
 
@@ -49,12 +49,12 @@ Para desenvolvedores avançados, é possível usar [Scripts do Velocity](https:/
 
 1. Escreva seu script no Velocity. Estes são alguns recursos úteis:
 
-   * [Documentação de script de email de desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [Documentação de scripts de email de desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Guia do usuário do Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Guia de referência do Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Javadoc de ferramentas do Velocity](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Quando o script for concluído, clique em **Salvar**.
+1. Após concluir o script, clique em **Salvar**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 

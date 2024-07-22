@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '438'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -21,15 +21,15 @@ Essa funcionalidade exige que você esteja na edição Enterprise/Unlimited do S
 >
 >O Salesforce e o Sales Connect devem estar conectados.
 
-1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-2.png)
 
-1. Em Minha conta (Configurações do administrador, se você for um administrador), clique em **Salesforce**.
+1. Em Minha conta (Configurações do administrador, se você for um Administrador), clique em **Salesforce**.
 
    ![](assets/two-2.png)
 
-1. Clique em **Configurações de sincronização** guia.
+1. Clique na guia **Configurações de sincronização**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Essa funcionalidade exige que você esteja na edição Enterprise/Unlimited do S
 
    ![](assets/four-1.png)
 
-1. Clique em **API do Salesforce** guia. Neste cartão, você pode configurar sua preferência para registrar informações no Salesforce. Clique em **Salvar** quando terminar.
+1. Clique na guia **API do Salesforce**. Neste cartão, você pode configurar sua preferência para registrar informações no Salesforce. Clique em **Salvar** quando terminar.
 
    ![](assets/five.png)
 
@@ -49,21 +49,21 @@ Depois de ativar &quot;Enviar email para o Salesforce (Cco)&quot;, você receber
 >
 >O Salesforce e o Sales Connect devem estar conectados.
 
-**Para registrar seus emails no Salesforce por email (Cco)**
+**Para registrar seus emails no Salesforce por Email (Cco)**
 
-1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-3.png)
 
-1. Em Minha conta (Configurações do administrador, se você for um administrador), clique em **Salesforce**.
+1. Em Minha conta (Configurações do administrador, se você for um Administrador), clique em **Salesforce**.
 
    ![](assets/two-3.png)
 
-1. Clique em **Configurações de sincronização** guia.
+1. Clique na guia **Configurações de sincronização**.
 
    ![](assets/three-1.png)
 
-1. Clique em **Enviar email para o Salesforce (Cco)** e clique em **Ativar**.
+1. Clique na guia **Email para o Salesforce (CCO)** e clique em **Ativar**.
 
    ![](assets/six-2.png)
 
@@ -71,9 +71,9 @@ Se, por algum motivo, seu endereço de email para o Salesforce não for recebido
 
 1. Faça logon na sua instância do Salesforce.
 1. Encontre seu nome de usuário no canto superior direito e selecione a barra suspensa.
-1. Selecionar **Minhas configurações**.
-1. Selecionar **E-mail**.
-1. Selecionar **Meu email para o Salesforce**.
+1. Selecione **Minhas Configurações**.
+1. Selecione **Email**.
+1. Selecione **Meu email para o Salesforce**.
 1. Nessa página, você verá um campo chamado &quot;Endereço de email do Salesforce&quot;. Se não houver nada preenchido ao lado dele, role até &quot;Meus endereços de email aceitáveis&quot;.
 1. Digite o(s) endereço(s) de email que deseja Cco.
 1. Clique em **Salvar alterações**.
@@ -86,8 +86,8 @@ Se você não vir Meu email para o Salesforce em suas Configurações, talvez o 
 >
 >Você precisará de privilégios de administrador para configurar isso.
 
-1. Clique em **Configuração**.
-1. Clique em **Administração de e-mail**.
+1. Clique em **Instalação**.
+1. Clique em **Administração de email**.
 1. Clique em **Enviar email para o Salesforce**.
 1. Clique em **Editar**.
 1. Marque a caixa ao lado de &quot;Ativo&quot;.
@@ -99,11 +99,11 @@ Se você não vir Meu email para o Salesforce em suas Configurações, talvez o 
 
    ![](assets/one-3.png)
 
-1. Em Minha conta (Configurações do administrador, se você for um administrador), clique em **Salesforce**.
+1. Em Minha conta (Configurações do administrador, se você for um Administrador), clique em **Salesforce**.
 
    ![](assets/two-2.png)
 
-1. Clique em **Configurações de sincronização** guia.
+1. Clique na guia **Configurações de sincronização**.
 
    ![](assets/three-1.png)
 

@@ -6,7 +6,7 @@ exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ O Content Recommendation Engine usa análises preditivas e algoritmos de aprendi
 >   * [Editar conteúdo preditivo para mídia avançada](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) ou
 >   * [Editar Conteúdo Preditivo para a Barra de Recomendação](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
->* [Aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Aprovar um Título para Conteúdo Preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 ## Ativar e personalizar a barra de recomendação de conteúdo {#enable-and-customize-the-content-recommendation-bar}
 
-1. Ir para **Configurações de conteúdo**.
+1. Vá para **Configurações de Conteúdo**.
 
    ![](assets/settings-dropdown-hand.png)
 
@@ -37,7 +37,7 @@ O Content Recommendation Engine usa análises preditivas e algoritmos de aprendi
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Para ativar a Barra de recomendações para um URL, basta clicar em **Ligado** e depois **Salvar**.
+1. Para habilitar a Barra de Recomendações para uma URL, basta clicar em **Ligado** e em **Salvar**.
 
    ![](assets/bar-enable.png)
 
@@ -47,22 +47,22 @@ O Content Recommendation Engine usa análises preditivas e algoritmos de aprendi
 
    >[!NOTE]
    >
-   >**Incluir / Excluir URL de exibição**
+   >**Incluir / Excluir URL de Exibição**
    >
    >* O URL de exibição deve ser o caminho do domínio
    >* Não inclua https:// ou https://
-   >* Uso &#42; para curingas
-   >* Usar ponto e vírgula como separador
-   >* Exemplo: /contact_us&#42;; &#42;action=logout&#42;
-   >* Este campo diferencia maiúsculas de minúsculas
+   >* Usar &#42; para curingas
+   * Usar ponto e vírgula como separador
+   * Exemplo: /contact_us&#42;; &#42;action=logout&#42;
+   * Este campo diferencia maiúsculas de minúsculas
 
 ## Considerações sobre a Barra de Recomendações {#recommendation-bar-considerations}
 
-* Você precisa de, pelo menos, um conteúdo para que a barra de recomendação seja definida como **Ligado** na página Recommendations para que o mecanismo de recomendação funcione. Se nenhum conteúdo estiver ativado e a Barra estiver definida como **Ligado**, o efeito de Seta será exibido na parte inferior direita da página da Web, mas nenhum conteúdo recomendado será exibido.
+* Você precisa de pelo menos um conteúdo para que a barra de recomendação seja definida como **Ativado** na página do Recommendations para que o mecanismo de recomendação funcione. Se nenhum conteúdo estiver habilitado e a Barra estiver definida como **Ativada**, o efeito de Seta será exibido na parte inferior direita da página da Web, mas nenhum conteúdo recomendado será exibido.
 
 * Quanto mais conteúdo for executado no mecanismo de recomendação, melhor será para o algoritmo testar e saber qual conteúdo funciona melhor. Recomendamos começar com 10 a 20 partes de conteúdo em execução e ativas e continuar adicionando novas.
 * A parte de conteúdo que você habilita para recomendação deve incluir a tag Javascript RTP. Isso ajuda o algoritmo a rastrear e otimizar o conteúdo recomendado.
 
 >[!MORELIKETHIS]
 >
->[Ativar conteúdo preditivo para mídia avançada na Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[Habilitar Conteúdo Preditivo para Mídia Avançada na Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Excluir um relatório {#delete-a-report}
 
-Depois de iniciar [criação de relatórios](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), você pode rapidamente acabar com um monte deles. Lembre-se de excluir relatórios desnecessários.
+Depois de começar a [criar relatórios](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), você pode rapidamente acabar com muitos deles. Lembre-se de excluir relatórios desnecessários.
 
-1. Clique com o botão direito do mouse no relatório desnecessário e selecione **Excluir Relatório**.
+1. Clique com o botão direito do mouse no relatório desnecessário na árvore e selecione **Excluir relatório**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

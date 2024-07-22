@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098812
-description: Configurar atribuição de receita para campanhas de publicidade digital - Documentação do Marketo - Documentação do produto
-title: Configurar atribuição de receita para campanhas de publicidade digital
+description: Configurar atribuição de receita para campanhas do Digital Advertising - Documentação do Marketo - Documentação do produto
+title: Configurar atribuição de receita para campanhas do Digital Advertising
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
 
-# Configurar atribuição de receita para campanhas de publicidade digital {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Configurar atribuição de receita para campanhas do Digital Advertising {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 Veja como configurar a atribuição de receita para campanhas e canais de publicidade digitais. Depois de configurá-lo, você pode fazer a atribuição de receita de primeiro e de multitoque para anúncios digitais da mesma forma que em outros programas da Marketo.
 
@@ -21,7 +21,7 @@ Com programas separados, você pode rastrear o número de conversões de cada um
 
 >[!PREREQUISITES]
 >
->* Configurar uma tag de canal com valores de status e sucesso do programa (por exemplo, Publicidade digital ou Social paga e PPC)
+>* Configurar uma tag de canal com valores de status e sucesso do programa (por exemplo, Advertising digital ou Social Paid e PPC)
 >* Criar ou editar um formulário para passar uma sequência de consulta com a pessoa
 >* Certifique-se de ter acesso a alguns recursos do Revenue Cycle Analytics para criar relatórios sobre seus canais e campanhas de publicidade
 
@@ -29,7 +29,7 @@ Com programas separados, você pode rastrear o número de conversões de cada um
 
 Ao contrário de alguns programas (como email) que podem ser executados periodicamente por um período específico, os programas padrão estão sempre ativos.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -37,7 +37,7 @@ Ao contrário de alguns programas (como email) que podem ser executados periodic
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Se você já tiver um programa em vigor, poderá [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Se você já tiver um programa em vigor, poderá [cloná-lo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
 
    >[!TIP]
    >
@@ -53,7 +53,7 @@ Ao contrário de alguns programas (como email) que podem ser executados periodic
    >
    >Você pode criar uma metodologia de sequência de consulta que inclua todas as variáveis que deseja medir. O Marketo usa essas variáveis para adicionar pessoas aos seus diferentes programas.
    >
-   >Por exemplo, você pode usar Canal type_Channel_Asset_Region. Pode ser semelhante a: SP_FB_NewGuide_US. **Nota**: abreviações economizam espaço.
+   >Por exemplo, você pode usar Canal type_Channel_Asset_Region. Pode ser semelhante a: SP_FB_NewGuide_US. **Observação**: abreviações economizam espaço.
    >
    >Ou configure-o como Channel_Adsource_AssetName_Region_UniqueIdNumber. Pode ser semelhante a: Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -65,9 +65,9 @@ Ao contrário de alguns programas (como email) que podem ser executados periodic
 
    >[!NOTE]
    >
-   >A sequência de consulta usada nos dois acionadores e as variáveis **Programa que Capturou o Nome** é exclusivo para você. As cadeias de caracteres de consulta mostradas aqui são somente para fins de exemplo. Se você clonou o campo, basta substituir esses campos.
+   >A cadeia de caracteres de consulta usada nos dois disparadores e no filtro **Nome do Programa que Capturou** é exclusiva para você. As cadeias de caracteres de consulta mostradas aqui são somente para fins de exemplo. Se você clonou o campo, basta substituir esses campos.
 
-1. Criar uma etapa de fluxo para alterar o atributo para **Programa de aquisição** e defina o Novo valor com o valor definido para campanhas sociais pagas.
+1. Crie uma etapa de fluxo para alterar o atributo para **Programa de aquisição** e defina o Novo valor para o valor definido para campanhas sociais pagas.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
@@ -77,7 +77,7 @@ Ao contrário de alguns programas (como email) que podem ser executados periodic
 
 Você precisa de uma segunda campanha inteligente para alterar o status das pessoas, para que elas possam alcançar o sucesso do programa e serem incluídas nos cálculos de atribuição de receita.
 
-1. No **Preenche o formulário** acionado, digite o nome do programa na string de consulta. Se estiver clonando o programa, basta substituir o nome da sequência de consulta antiga pelo novo.
+1. No acionador **Preencher Formulário**, digite o nome do programa na cadeia de caracteres de consulta. Se estiver clonando o programa, basta substituir o nome da sequência de consulta antiga pelo novo.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -108,16 +108,16 @@ Depois de configurar o programa e as campanhas, crie o novo anúncio.
    >
    >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >* **origem** a Origem de pessoa é usada como um identificador de canal?
+   >* **origem** é a Pessoa Source usada como um identificador de canal
    >* **comentário** é o identificador exclusivo criado para cada programa
    >* **camp** é a campanha no Facebook, LinkedIn ou Google
    >* **kk** é a palavra-chave ou o nome do ativo que você deseja capturar
    >
-   >**Todos esses quatro termos devem estar em minúsculas e não pode haver nenhum espaço no URL para que essas informações sejam capturadas.**
+   >**Todos esses quatro termos devem estar em minúsculas e não pode haver nenhum espaço na URL para que essas informações sejam capturadas.**
 
 ## Práticas recomendadas {#best-practices}
 
-Use uma única tag de canal para representar toda a Publicidade digital ou use várias tags de canal se desejar comparações mais granulares com outros canais de marketing (por exemplo, Social-Pago, Pesquisa-Paga, Exibição, Redirecionamento).
+Use uma única tag de canal para representar toda a Advertising digital ou use várias tags de canal se desejar comparações mais granulares com outros canais de marketing (por exemplo, Social-Pago, Pesquisa-Paga, Exibição, Redirecionamento).
 
 Em seguida, configure programas diferentes para cada exibição de relatório necessária. Use uma ID comum como parâmetro no URL (BC, por exemplo) na string de consulta se você tiver 10 regiões iniciando uma &quot;Campanha grande&quot; juntas e quiser ver os resultados nas regiões.
 

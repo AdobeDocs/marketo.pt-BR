@@ -29,29 +29,29 @@ O conteúdo preditivo envolve os visitantes da Web com o conteúdo mais relevant
 >   * [Editar conteúdo preditivo para mídia avançada](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} ou
 >   * [Editar Conteúdo Preditivo para a Barra de Recomendação](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [Aprovar um Título para Conteúdo Preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 Depois de preparar o título do conteúdo, a descrição e a imagem para a mídia avançada, você pode ativar partes de conteúdo individuais ou múltiplas.
 
-1. Para habilitar um título individual, clique em um título para abrir o editor. Clique em Rich Media e marque a caixa **Ativado para conteúdo preditivo em mídia avançada** e clique em **Salvar**.
+1. Para habilitar um título individual, clique em um título para abrir o editor. Clique em Mídia Avançada, marque a caixa **Habilitado para Conteúdo Preditivo em Mídia Avançada** e clique em **Salvar**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Para vários conteúdos, no **Conteúdo preditivo** marque as caixas ao lado dos títulos.
+1. Para vários conteúdos, na página **Conteúdo preditivo**, marque as caixas ao lado do(s) título(s).
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Clique em **Ações de conteúdo** e selecione **Ativar para mídia avançada da Web**.
+1. Clique no menu suspenso **Ações de Conteúdo** e selecione **Habilitar para Mídia Avançada na Web**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Personalize o código Javascript e incorpore-o ao seu site  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte a documentação do modelo de Recomendação de mídia avançada [no site de desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Isso explica como personalizar o modelo para seu site.
+Consulte a documentação do modelo de Recomendação de Mídia Avançada [no site de Desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Isso explica como personalizar o modelo para seu site.
 
-Cole o código JavaScript no site no local em que deseja que o modelo seja exibido.
+Cole o código do JavaScript no site no local onde deseja que o modelo apareça.
 
-**Exemplos de modelo**
+**Exemplos de Modelos**
 
 * Modelo 1: três partes de conteúdo horizontal com imagens, cabeçalho e descrição
 * Modelo 2: três partes de conteúdo vertical com imagens, cabeçalho e descrição

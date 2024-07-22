@@ -6,7 +6,7 @@ exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Metas são maneiras de rastrear o progresso e motivar sua equipe. Eles podem ser combinados com listas inteligentes para rastrear todos os tipos de coisas no Marketo. Além disso, após configurar uma meta de lista inteligente, ela será atualizada automaticamente a cada 2 horas quando for usada em uma apresentação.
 
-Como as apresentações, os objetivos são [espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)específico do.
+Como as apresentações, as metas são específicas do [espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Vá para a **[!UICONTROL Calendário]**.
+1. Vá para o **[!UICONTROL Calendário]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -25,15 +25,15 @@ Como as apresentações, os objetivos são [espaço de trabalho](/help/marketo/p
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selecione o **[!UICONTROL Metas]** guia.
+1. Selecione a guia **[!UICONTROL Metas]**.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Arrastar e soltar **[!UICONTROL Meta da lista inteligente]** sobre a tela.
+1. Arraste e solte a **[!UICONTROL Meta da lista inteligente]** na tela.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Insira um nome para a meta e insira um **[!UICONTROL Meta alvo]**. Clique em **[!UICONTROL Criar]**.
+1. Insira um nome para a meta e insira um **[!UICONTROL Meta de destino]**. Depois clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -41,7 +41,7 @@ Como as apresentações, os objetivos são [espaço de trabalho](/help/marketo/p
 
    ![](assets/mql.png)
 
-1. Quando a lista inteligente estiver configurada, clique no link **[!UICONTROL Fechar]** e volte para a guia anterior.
+1. Depois que a lista inteligente estiver totalmente configurada, clique no botão **[!UICONTROL Fechar]** e volte para a guia anterior.
 
    ![](assets/mql2.png)
 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se você precisar de um novo campo personalizado no Marketo Engage para armazenar/capturar dados, veja como criar um.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -27,7 +27,7 @@ Se você precisar de um novo campo personalizado no Marketo Engage para armazena
    >
    >Se quiser que os campos sejam mantidos em sincronia com o CRM, crie-os no CRM e eles serão criados automaticamente no Marketo.
 
-1. Clique em **[!UICONTROL Novo campo personalizado]**.
+1. Clique em **[!UICONTROL Novo Campo Personalizado]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
@@ -35,11 +35,11 @@ Se você precisar de um novo campo personalizado no Marketo Engage para armazena
 
    >[!TIP]
    >
-   >Confira o [Glossário de tipos de campo personalizados](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Confira o [Glossário de Tipos de Campos Personalizados](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Insira o [!UICONTROL Nome] como você deseja que ele apareça no Marketo. A variável [!UICONTROL Nome da API] é gerado automaticamente. Você pode ajustá-lo, mas ele não pode ser renomeado depois de definido. Clique em **[!UICONTROL Criar]** quando terminar.
+1. Insira o [!UICONTROL Nome] como você deseja que ele apareça no Marketo. O [!UICONTROL Nome da API] é gerado automaticamente. Você pode ajustá-lo, mas ele não pode ser renomeado depois de definido. Clique em **[!UICONTROL Criar]** quando terminar.
 
 >[!CAUTION]
 >

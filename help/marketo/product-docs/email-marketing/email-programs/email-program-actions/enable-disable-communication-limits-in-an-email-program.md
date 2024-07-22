@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Ativar/desativar limites de comunicação em um programa de email {#enable-disable-communication-limits-in-an-email-program}
 
-Ao executar um programa de email, você pode optar por ignorar ou respeitar as [limites de comunicação de nível administrativo](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Veja como fazer isso.
+Ao executar um programa de email, você pode optar por ignorar ou respeitar os [limites de comunicação de nível administrativo](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Veja como fazer isso.
 
 >[!NOTE]
 >
->Os limites de comunicação são [definido na seção Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e ajudá-lo a evitar o envio de emails demais para uma pessoa.
+>Os limites de comunicação estão [definidos na seção Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e ajudam a evitar o envio de emails demais para uma pessoa.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,7 +27,7 @@ Ao executar um programa de email, você pode optar por ignorar ou respeitar as [
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. No **Configuração** clique duas vezes no item da linha limite de comunicação.
+1. Na guia **Configuração**, clique duas vezes no item da linha de limite de comunicação.
 
    ![](assets/blockoperational.png)
 
@@ -35,4 +35,4 @@ Ao executar um programa de email, você pode optar por ignorar ou respeitar as [
 
    ![](assets/ifaperson.jpg)
 
-   Saindo **Bloquear emails não operacionais** marcada impedirá o envio do email para qualquer pessoa que tenha recebido mais emails do que o permitido pelas configurações de administrador.
+   Deixar a opção **Bloquear emails não operacionais** marcada impedirá o envio do email para qualquer pessoa que tenha recebido mais emails do que o permitido pelas configurações de administrador.

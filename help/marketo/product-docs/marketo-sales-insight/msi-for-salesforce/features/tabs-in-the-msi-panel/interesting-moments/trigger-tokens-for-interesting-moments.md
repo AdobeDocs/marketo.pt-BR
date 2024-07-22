@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 23%
+ht-degree: 33%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 23%
 
 >[!PREREQUISITES]
 >
->Saiba como usar o [Etapa de fluxo de momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Saiba como usar a [etapa do fluxo de Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Tokens disponíveis {#available-tokens}
 
-Confira [Visão geral de tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens, você pode colocar em um momento interessante.
+Confira [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens que você pode colocar em um momento interessante.
 
 ## Tokens de acionador {#trigger-tokens}
 
 Com base no acionador usado em uma campanha inteligente, os Tokens de acionador adicionais são disponibilizados.
 
-* `{{trigger.Trigger Name}}` que é sempre o próprio acionador real. Por exemplo: cliques em Link no email.
-* `{{trigger.Name}}` é o nome do ativo que acionou a campanha. Por exemplo: o link de cliques na página da Web é o próprio URL, assunto dos acionadores do Salesforce etc.
+* `{{trigger.Trigger Name}}` que é sempre o próprio gatilho real. Por exemplo: cliques em Link no email.
+* `{{trigger.Name}}` é o nome do ativo que disparou a campanha. Por exemplo: o link de cliques na página da Web é o próprio URL, assunto dos acionadores do Salesforce etc.
 * Os acionadores adicionais estão disponíveis com base nas restrições, que estão listadas abaixo.
 
 ### Acionadores de email {#email-triggers}
@@ -152,7 +152,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
    <td><br></td>
   </tr> 
     <tr> 
-   <td>Email Encaminhar para amigo recebido</td> 
+   <td>Recebeu e-mail de "Encaminhar para amigo"</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -169,7 +169,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
    <td><br></td>
   </tr> 
     <tr> 
-   <td>Email Encaminhar para amigo enviado</td> 
+   <td>Enviou e-mail de "Encaminhar para amigo"</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -657,7 +657,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Está adicionado a campanha de vendas</td> 
+   <td>Está adicionado à campanha de vendas</td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td> 
@@ -711,7 +711,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
  </tbody> 
 </table>
 
-### Tokens de acionador de Dynamic Chat {#dynamic-chat-trigger-tokens}
+### Tokens de acionador do Dynamic Chat {#dynamic-chat-trigger-tokens}
 
 <table>
 <thead>
@@ -740,7 +740,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
 </thead>
 <tbody>
   <tr>
-    <td>Envolvido com uma caixa de diálogo</td>
+    <td>Interagiu com um diálogo</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -762,7 +762,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Envolvido com um Formulário de Conversação</td>
+    <td>Interagiu com um formulário de conversação</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -784,7 +784,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td><img src="assets/check.png" alt="check"></td>
   </tr>
   <tr>
-    <td>Envolvido com um Agente em Diálogo</td>
+    <td>Interagiu com um agente no diálogo</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -806,7 +806,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Envolvido com um agente em forma de conversa</td>
+    <td>Interagiu com um agente no formulário de conversação</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -828,7 +828,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Reunião agendada na caixa de diálogo</td>
+    <td>Agendou reunião no diálogo</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -850,7 +850,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Reunião agendada em formato de conversa</td>
+    <td>Reunião agendada no formulário de conversação</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -872,7 +872,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Meta da caixa de diálogo alcançada</td>
+    <td>Atingiu a meta do Dialogue</td>
     <td></td>
     <td></td>
     <td></td>
@@ -894,7 +894,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Meta de formulários de conversação atingida</td>
+    <td>Meta de formulário de conversação alcançada</td>
     <td></td>
     <td></td>
     <td></td>
@@ -916,7 +916,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Interagiu com o documento na caixa de diálogo</td>
+    <td>Interagiu com o documento no diálogo</td>
     <td></td>
     <td></td>
     <td></td>
@@ -938,7 +938,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Interagiu com o documento em um formulário de conversa</td>
+    <td>Interagiu com o documento no formulário de conversação</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1055,9 +1055,9 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
 
 >[!NOTE]
 >
->Se não tiver um cheque ![(marca de verificação)](assets/check.png) então retornaria uma string vazia (nada) no momento interessante.
+>Se ele não tiver uma verificação ![(tick)](assets/check.png) então ele retornaria uma string vazia (nada) no momento interessante.
 
-&#42;O acionador **Página da Web de visitas** O tem alguns tokens adicionais:
+&#42;A **Página da Web de Visitas** do Acionador tem alguns tokens adicionais:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

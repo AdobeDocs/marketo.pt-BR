@@ -17,11 +17,11 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo! Veja co
 
 >[!PREREQUISITES]
 >
->Você deve [Configurar a integração do Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Você deve [Configurar a Integração do Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. No Facebook Power Editor, selecione uma campanha, um anúncio e clique em **Editar**.
 
-1. Em **Links**, clique no link **Exibir no feed de notícias** link.
+1. Em **Links**, clique no link **Exibir no Feed de Notícias**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -41,11 +41,11 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo! Veja co
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. É aqui que a magia acontece! Depois de enviar o formulário, [criar uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados que usa o filtro de Formulário de anúncios de cliente potencial do Facebook preenchido. Insira o Nome do formulário do anúncio de cliente potencial do formulário que acabou de enviar.
+1. É aqui que a magia acontece! Depois de enviar o formulário, [crie uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados que usa o filtro de Formulário de Anúncios de Cliente Potencial do Facebook Preenchidos. Insira o Nome do formulário do anúncio de cliente potencial do formulário que acabou de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Em seguida, clique no link **Pessoas** para validar se a sincronização está funcionando corretamente.
+1. Agora clique na guia **Pessoas** para validar se a sincronização está funcionando corretamente.
 
    ![](assets/people.png)
 

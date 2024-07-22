@@ -6,7 +6,7 @@ exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
 source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ As configurações são aplicáveis a todos os usuários MSI e não são especí
 * A atividade (Momento interessante, Atividade da Web, Email) é definida como 1000 por padrão. Campanhas e eventos de email definidos como 200 por padrão
 * Caso observe problemas de tempo limite na organização, é possível reduzir o limite
 
-**Configurações de ação**
+**Configurações da ação**
 
 * Enviar email do Marketo: ativar essa opção fornecerá a todos os usuários do Sales Insight acesso para enviar emails dos painéis Cliente em potencial, Contato, Conta, Oportunidade e a guia Melhores Opções (ações em massa e envolvimento em linha)
 * Adicionar ao Marketo Campaign: habilitar essa opção fornecerá a todos os usuários do Sales Insight acesso para adicionar campanhas dos painéis Lead, Contato, Conta, Oportunidade e a guia Melhores Opções (ações em massa e envolvimento em linha)
@@ -81,4 +81,4 @@ Se você optar por fazer isso, todas as configurações no SFDC serão apagadas 
 
 >[!MORELIKETHIS]
 >
->[Adicionar acesso ao Sales Insight aos perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[Adicionar Acesso ao Sales Insight aos Perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

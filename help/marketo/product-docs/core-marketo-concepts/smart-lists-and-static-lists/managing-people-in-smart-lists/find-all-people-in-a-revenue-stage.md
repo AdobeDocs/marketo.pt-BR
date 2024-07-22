@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Localizar todos os membros de um estágio de receita específico {#find-all-members-of-a-specific-revenue-stage}
 
-1. Em uma Smart List, clique no botão **[!UICONTROL Lista inteligente]** , localize o **[!UICONTROL Estágio da receita]** e arraste-o para a tela.
+1. Em uma Smart List, clique na guia **[!UICONTROL Smart List]**, localize o filtro **[!UICONTROL Estágio da Receita]** e arraste-o para a tela.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
    ![](assets/two.jpg)
 
-1. Vá para a **[!UICONTROL Pessoas]** para exibir os resultados.
+1. Vá para a guia **[!UICONTROL Pessoas]** para ver os resultados.
 
    ![](assets/peopleresults.jpg)
 
 ## Executar uma Etapa de Fluxo nos Membros de um Estágio de Receita {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Agora que você sabe quais pessoas estão em quais estágios de receita, você pode vender diretamente para elas. Além de escolher **[!UICONTROL Estágio da receita]** como um filtro Smart List, você também pode escolhê-lo como um filtro &quot;if&quot; no fluxo.
+Agora que você sabe quais pessoas estão em quais estágios de receita, você pode vender diretamente para elas. Além de escolher o **[!UICONTROL Estágio da Receita]** como um filtro de Smart List, você também pode selecioná-lo como um filtro &quot;if&quot; no fluxo.
 
-1. Na etapa de fluxo desejada, clique em **[!UICONTROL Adicionar seleção]** e selecione **[!UICONTROL Estágio da receita]** no menu suspenso.
+1. Na etapa de fluxo desejada, clique em **[!UICONTROL Adicionar opção]** e selecione **[!UICONTROL Estágio da receita]** no menu suspenso.
 
    ![](assets/six.png)
 

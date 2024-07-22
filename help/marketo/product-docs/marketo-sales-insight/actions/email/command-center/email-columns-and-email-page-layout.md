@@ -12,7 +12,7 @@ ht-degree: 7%
 
 # Colunas de e-mail e layout da página de e-mail {#email-columns-and-email-page-layout}
 
-É possível configurar qualquer uma das colunas disponíveis para serem visíveis na seção de email do [Centro de comando](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Suas configurações serão salvas para cada subpasta de email (por exemplo, Entregue, Com falha, Agendado etc.).
+Você pode configurar qualquer uma das colunas disponíveis para serem visíveis na seção de email do [Centro de comando](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Suas configurações serão salvas para cada subpasta de email (por exemplo, Entregue, Com falha, Agendado etc.).
 
 ## Colunas de email {#email-columns}
 
@@ -55,7 +55,7 @@ ht-degree: 7%
    <td>Mostra os grupos aos quais o destinatário do email pertence.</td> 
   </tr> 
   <tr> 
-   <td><strong>Cargo</td> 
+   <td><strong>Nome do cargo</td> 
    <td>Título do destinatário do email.</td> 
   </tr> 
   <tr> 
@@ -117,11 +117,11 @@ ht-degree: 7%
 
 Você pode configurar o layout seguindo estas etapas.
 
-1. No aplicativo web, clique em **Centro de comando**.
+1. No aplicativo Web, clique em **Centro de Comando**.
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. Selecione o **Emails** seção.
+1. Selecione a seção **Emails**.
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 

@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 10%
+source-wordcount: '335'
+ht-degree: 15%
 
 ---
 
@@ -121,7 +121,7 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
 
 ## Atualizar {#upgrade}
 
-1. Identifique o seu [Versão do Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identifique a sua [versão do Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
 1. Selecione sua versão na lista acima.
 
@@ -129,7 +129,7 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +141,7 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Você perceberá que todas as suas informações estão pré-preenchidas. Basta clicar em **Próxima**.
+1. Você perceberá que todas as suas informações estão pré-preenchidas. Basta clicar em **Avançar**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,11 +149,11 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
    >
    >Se a instalação falhar, peça ao seu departamento de TI para garantir que o tráfego HTTPS não seja bloqueado. O instalador requer que o tráfego HTTPS seja aberto.
 
-1. Clique em **Próxima** para instalar no local padrão.
+1. Clique em **Avançar** para instalar no local padrão.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
@@ -167,5 +167,5 @@ Baixe o instalador apropriado para sua versão do Microsoft Outlook.
 
 >[!MORELIKETHIS]
 >
->* [Enviar e rastrear um email com o suplemento de email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Enviar e Rastrear no Outlook Usando um Modelo do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Enviar e Rastrear um Email com o Suplemento de Email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Enviar e Rastrear do Outlook Usando um Modelo do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

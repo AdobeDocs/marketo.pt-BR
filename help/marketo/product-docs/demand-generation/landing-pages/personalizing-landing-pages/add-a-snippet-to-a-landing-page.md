@@ -19,15 +19,15 @@ Os snippets são pequenos bits de HTML que podem seguir regras e manter conteúd
 >
 >[Criar um trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. Selecione a landing page e clique em **Editar rascunho**.
+1. Selecione sua página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. No editor de páginas de destino, arraste sobre a **Trecho** elemento.
+1. No editor de páginas de aterrissagem, arraste sobre o elemento **Trecho**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Localize o trecho, selecione-o e clique em **Salvar**.
+1. Localize o seu trecho, selecione-o e clique em **Salvar**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 
@@ -37,6 +37,6 @@ Os snippets são pequenos bits de HTML que podem seguir regras e manter conteúd
 
    >[!NOTE]
    >
-   >Se quiser adicionar um trecho a uma landing page guiada, consulte [este artigo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Se quiser adicionar um trecho a uma Página de Aterrissagem Guiada, consulte [este artigo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Ótimo trabalho! Agora você sabe como adicionar trechos às suas páginas de aterrissagem.

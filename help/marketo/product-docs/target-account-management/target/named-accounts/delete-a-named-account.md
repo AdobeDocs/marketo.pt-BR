@@ -23,7 +23,7 @@ Siga estas etapas rápidas para excluir uma conta nomeada.
    >
    >Pressione Ctrl e clique (Windows) ou Cmd e clique (Mac) para selecionar várias contas nomeadas.
 
-1. Clique em **Ações da Conta Nomeada** e selecione **Excluir Conta Nomeada**.
+1. Clique no menu suspenso **Ações de Contas Nomeadas** e selecione **Excluir Conta Nomeada**.
 
    ![](assets/eight-1.png)
 

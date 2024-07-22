@@ -5,8 +5,8 @@ exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 17%
+source-wordcount: '536'
+ht-degree: 36%
 
 ---
 
@@ -38,13 +38,13 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>ID do modelo</td>
  </tr>
  <tr>
-  <td>URL do Modelo de Vendas</td>
+  <td>URL modelo de vendas</td>
  </tr>
  <tr>
   <td>URL da campanha de vendas</td>
  </tr>
  <tr>
-  <td>Nome do Modelo de Vendas</td>
+  <td>Nome do modelo de vendas</td>
  </tr>
  <tr>
   <td>Assunto do email</td>
@@ -53,7 +53,7 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>Nome da campanha de vendas</td>
  </tr>
  <tr>
-  <td>ID do vendedor da Marketo</td>
+  <td>ID da pessoa Marketo Sales</td>
  </tr>
  <tr>
   <th rowspan="9">Abrir e-mail de vendas</th>
@@ -66,13 +66,13 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>ID do modelo</td>
  </tr>
  <tr>
-  <td>URL do Modelo de Vendas</td>
+  <td>URL modelo de vendas</td>
  </tr>
  <tr>
   <td>URL da campanha de vendas</td>
  </tr>
  <tr>
-  <td>Nome do Modelo de Vendas</td>
+  <td>Nome do modelo de vendas</td>
  </tr>
  <tr>
   <td>Assunto do email</td>
@@ -81,7 +81,7 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>Nome da campanha de vendas</td>
  </tr>
  <tr>
-  <td>ID do vendedor da Marketo</td>
+  <td>ID da pessoa Marketo Sales</td>
  </tr>
  <tr>
   <th rowspan="10">Email de vendas clicado</th>
@@ -97,13 +97,13 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>ID do modelo</td>
  </tr>
  <tr>
-  <td>URL do Modelo de Vendas</td>
+  <td>URL modelo de vendas</td>
  </tr>
  <tr>
   <td>URL da campanha de vendas</td>
  </tr>
  <tr>
-  <td>Nome do Modelo de Vendas</td>
+  <td>Nome do modelo de vendas</td>
  </tr>
  <tr>
   <td>Assunto do email</td>
@@ -112,21 +112,21 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>Nome da campanha de vendas</td>
  </tr>
  <tr>
-  <td>ID do vendedor da Marketo</td>
+  <td>ID da pessoa Marketo Sales</td>
  </tr>
 <tr>
-  <th rowspan="3">Respondido para o e-mail de vendas</th>
+  <th rowspan="3">Respondeu ao e-mail de vendas</th>
   <td>Recebido por</td>
  </tr>
  <tr>
   <td>Origem</td>
  </tr>
  <tr>
-  <td>ID do vendedor da Marketo</td>
+  <td>ID da pessoa Marketo Sales</td>
  </tr>
  <tr>
   <th rowspan="11">Recebida chamada de vendas</th>
-  <td>Chamada do Sales feita por</td>
+  <td>Chamada de vendas feita por</td>
  </tr>
  <tr>
   <td>Status da chamada de vendas</td>
@@ -141,7 +141,7 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>URL da campanha de vendas</td>
  </tr>
  <tr>
-  <td>Número de Telefone de Vendas Chamado</td>
+  <td>Número de telefone de vendas chamado</td>
  </tr>
  <tr>
   <td>Origem</td>
@@ -150,13 +150,13 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>Duração da chamada de vendas</td>
  </tr>
  <tr>
-  <td>URL da gravação da chamada do Sales</td>
+  <td>URL de Gravação de Chamadas de Venda</td>
  </tr>
   <tr>
-  <td>Chamada do Sales atendida por</td>
+  <td>Chamada de Vendas Atendida por</td>
  </tr>
  <tr>
-  <td>ID do vendedor da Marketo</td>
+  <td>ID da pessoa Marketo Sales</td>
  </tr>
  <tr>
   <th rowspan="6">Adicionar a campanha de vendas</th>
@@ -178,7 +178,7 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>ID da campanha de vendas</td>
  </tr>
  <tr>
-  <th rowspan="6">Remover da campanha de vendas</th>
+  <th rowspan="6">Remover de campanha de vendas</th>
   <td>Nome da campanha de vendas</td>
  </tr>
  <tr>
@@ -207,7 +207,7 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   <td>Enviado por</td>
  </tr>
  <tr>
-  <td>ID do vendedor da Marketo</td>
+  <td>ID da pessoa Marketo Sales</td>
  </tr>
  <tr>
   <td>ID do modelo</td>
@@ -235,7 +235,7 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
    <td>URL que foi clicado.</td> 
   </tr> 
   <tr> 
-   <td><strong>ID do vendedor da Marketo</strong></td> 
+   <td><strong>ID da pessoa Marketo Sales</strong></td> 
    <td>Identificador exclusivo para registro de pessoa no Sales Connect.</td> 
   </tr> 
   <tr> 
@@ -243,7 +243,7 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
    <td>Endereço de email da pessoa que enviou o email.</td> 
   </tr>
   <tr> 
-   <td><strong>Chamada do Sales atendida por</strong></td> 
+   <td><strong>Chamada de Vendas Atendida por</strong></td> 
    <td>Nome da pessoa que atendeu à chamada.</td> 
   </tr>
   <tr> 
@@ -251,11 +251,11 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
    <td>Duração da chamada em segundos.</td> 
   </tr>
   <tr> 
-   <td><strong>Chamada do Sales feita por</strong></td> 
+   <td><strong>Chamada de vendas feita por</strong></td> 
    <td>Endereço de email do vendedor que fez a chamada.</td> 
   </tr>
   <tr> 
-   <td><strong>URL da gravação da chamada do Sales</strong></td> 
+   <td><strong>URL de Gravação de Chamadas de Venda</strong></td> 
    <td>URL da gravação de chamada.</td> 
   </tr>
   <tr> 
@@ -283,15 +283,15 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
    <td>Linha de assunto do email seguida de uma ID exclusiva (por exemplo: Minha linha de assunto (MSC-12345678)</td> 
   </tr>
   <tr> 
-   <td><strong>Número de Telefone de Vendas Chamado</strong></td> 
+   <td><strong>Número de telefone de vendas chamado</strong></td> 
    <td>Número de telefone chamado por Vendas.</td> 
   </tr>
   <tr> 
-   <td><strong>Nome do Modelo de Vendas</strong></td> 
+   <td><strong>Nome do modelo de vendas</strong></td> 
    <td>Nome do modelo de email no Sales Connect.</td> 
   </tr>
   <tr> 
-   <td><strong>URL do Modelo de Vendas</strong></td> 
+   <td><strong>URL modelo de vendas</strong></td> 
    <td>URL do Sales Connect para o modelo de email.</td> 
   </tr>
   <tr> 
@@ -300,7 +300,7 @@ As atividades abaixo serão registradas no Marketo a partir do Sales Connect.
   </tr> 
   <tr> 
    <td><strong>Origem</strong></td> 
-   <td>Origem da atividade. Será definido como "Tout" para as atividades do Sales Connect anteriores à versão de outubro de 2021. Será "Aplicativo de vendas" para atividades do Sales Connect após a versão de outubro de 2021.</td>
+   <td>Source da atividade. Será definido como "Tout" para as atividades do Sales Connect anteriores à versão de outubro de 2021. Será "Aplicativo de vendas" para atividades do Sales Connect após a versão de outubro de 2021.</td>
   </tr> 
   <tr> 
    <td><strong>ID do modelo</strong></td> 

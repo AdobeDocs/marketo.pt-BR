@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Editar uma campanha da Web existente {#edit-an-existing-web-campaign}
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. No **Campanhas da Web** clique em **Editar** na campanha que deseja editar.
+1. Na página **Campanhas da Web**, clique em **Editar** na campanha que deseja editar.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Excluir uma campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>* [Excluir uma Campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
 >* [Iniciar/Pausar uma campanha](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).

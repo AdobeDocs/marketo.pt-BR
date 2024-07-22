@@ -4,7 +4,7 @@ title: Desinstale o Marketo Sales Connect do Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '1197'
 ht-degree: 8%
 
 ---
@@ -15,7 +15,7 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
 ## Remover campos de Conexão de Vendas do Layout da Página {#remove-sales-connect-fields-from-page-layout}
 
-1. No Salesforce Classic, clique em **Configuração**.
+1. No Salesforce Classic, clique em **Configurar**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-1.png)
 
@@ -23,7 +23,7 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
-1. Clique em **Editar** ao lado de Layout de cliente em potencial.
+1. Clique em **Editar** ao lado de Layout do cliente potencial.
 
    ![](assets/uninstall-salesforce-classic-customization-package-3.png)
 
@@ -41,7 +41,7 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
 1. Há 10 tipos de campos MSC que podem ser adicionados a esta seção. Remova todos os campos adicionados ou simplesmente exclua a seção inteira.
 
-1. Clique em **Salvamento rápido** quando terminar.
+1. Clique em **Salvar rapidamente** quando terminar.
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
@@ -59,7 +59,7 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. Clique em **Salvamento rápido** quando terminar.
+1. Clique em **Salvar rapidamente** quando terminar.
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
@@ -75,21 +75,21 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
    >[!NOTE]
    >
-   >A abreviatura MSE _é_ Conexão de vendas. É apenas o nome anterior, &quot;Marketo Sales Engage&quot;.
+   >A abreviação MSE _is_ Sales Connect. É apenas o nome anterior, &quot;Marketo Sales Engage&quot;.
 
-1. Clique em **Salvar** quando terminar com a página de clientes potenciais.
+1. Clique em **Salvar** quando terminar de usar a página de clientes potenciais.
 
 ## Remover os Botões de Ação em Massa da Conexão de Vendas da Exibição da Lista de Clientes Potenciais {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. Na navegação à esquerda, em Criar, expanda (mas não clique em) Personalizar e, em seguida, em Clientes potenciais. Em seguida, selecione **Layouts de pesquisa**.
+1. Na navegação à esquerda, em Criar, expanda (mas não clique em) Personalizar e, em seguida, em Clientes potenciais. Em seguida, selecione **Pesquisar Layouts**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. Ao lado da Exibição da Lista de Clientes Potenciais, clique em **Editar**.
+1. Ao lado de Exibição da Lista de Clientes Potenciais, clique em **Editar**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. Selecionar **Adicionar ao MSC Campaign (Classic)**, **Email com MSC (Clássico)**, e **Enviar para MSC (Clássico)** e clique na seta Remover. Clique em **Salvar**.
+1. Selecione **Adicionar ao MSC Campaign (Classic)**, **Email com MSC (Classic)** e **Enviar para o MSC (Classic)** e clique na seta Remover. Depois clique em **Salvar**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -97,7 +97,7 @@ Você não deve mais ver os botões na exibição da lista de clientes potenciai
 
 ## Remover Configuração MSC para Contatos {#remove-msc-configuration-for-contacts}
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configurar**.
 
 1. Na navegação à esquerda, em Criar, expanda (mas não clique em) Personalizar e, em seguida, em Contatos. Em seguida, selecione **Layouts de página**.
 
@@ -107,7 +107,7 @@ Você não deve mais ver os botões na exibição da lista de clientes potenciai
 
 ## Remover Configuração MSC para Oportunidade {#remove-msc-configuration-for-opportunity}
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configurar**.
 
 1. Na navegação à esquerda, em Criar, expanda (mas não clique em) Personalizar e, em seguida, em Oportunidades. Em seguida, selecione **Layouts de página**.
 
@@ -121,7 +121,7 @@ A visualização da oportunidade tem apenas um botão - &quot;Enviar email MSE&q
 
 ## Remover Configuração do MSC para a Conta {#remove-msc-configuration-for-account}
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configurar**.
 
 1. Na navegação à esquerda, em Criar, expanda (mas não clique em) Personalizar e, em seguida, em Conta. Em seguida, selecione **Layouts de página**.
 
@@ -139,19 +139,19 @@ A exibição Conta tem apenas um botão - &quot;Enviar email do MSE&quot; e os s
 
 1. Clique em **Personalizar minhas guias**.
 
-1. Selecione a opção Caixa de Saída de Vendas do Marketo à direita. Clique na seta Remover e clique em **Salvar**.
+1. Selecione a opção Caixa de Saída de Vendas do Marketo à direita. Clique na seta Remover e em **Salvar**.
 
 ## Excluir Pacote de Conexão de Vendas {#delete-sales-connect-package}
 
 Depois de remover todos os objetos da sua conta do Salesforce, siga as etapas abaixo.
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configurar**.
 
 1. Na caixa Localização Rápida, informe &quot;Classes de Apex&quot;.
 
-1. Clique em **Excluir** ao lado de todas as entradas &quot;MarketoSalesConnectionCustomization&quot; ou &quot;MarketoSalesEngageCustomization&quot; na lista.
+1. Clique em **Excluir** ao lado de todas as entradas &quot;MarketoSalesConnectionCustomization&quot; ou &quot;MarketoSalesEngageCustomization&quot; na sua lista.
 
-Tudo pronto!
+Pronto!
 
 Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua instância do Salesforce:
 
@@ -282,8 +282,8 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>Texto</td>
  </tr>
  <tr>
-  <td>MSC - Última fonte de engajamento de marketing</td>
-  <td>Fonte do engajamento de marketing</td>
+  <td>MSC - Último envolvimento de marketing Source</td>
+  <td>Source do engajamento de marketing</td>
   <td>
   <p>Conta 
   <p>Contato 

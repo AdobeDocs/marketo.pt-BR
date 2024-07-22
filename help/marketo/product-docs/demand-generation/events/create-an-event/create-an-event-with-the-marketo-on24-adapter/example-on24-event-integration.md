@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,23 +17,23 @@ Este é um evento de amostra, incluindo campanhas, para um webinário ON24. Ao c
 
 ## Criar um novo evento em atividades de marketing {#create-a-new-event-in-marketing-activities}
 
-1. Selecionar **Novo** > **Novo programa**.
+1. Selecione **Novo** > **Novo programa**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Selecione um **Pasta do Campaign** onde o evento irá viver.
+1. Selecione uma **Pasta de campanha** onde o evento irá viver.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Insira um **Nome** para o evento.
+1. Digite um **Nome** para o evento.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Selecionar **Evento** como o **Tipo de programa**.
+1. Selecione **Evento** como o **Tipo de Programa**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Selecionar **Webinário** como o **Canal** para o evento.
+1. Selecione **Webinar** como o **Canal** para o evento.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
@@ -43,7 +43,7 @@ Este é um evento de amostra, incluindo campanhas, para um webinário ON24. Ao c
 
 ## Convidar (Campanha em Lote)  {#invite-batch-campaign}
 
-* **Lista inteligente** - Defina quem você convidará para o evento.
+* **Smart List** - Defina quem você convidará para o evento.
 * **Fluxo**
 
    * Enviar email - Se esse for um email de ativo local, ele terá a seguinte convenção de nomenclatura: EventName.EmailName. Você também pode usar emails globais.
@@ -51,46 +51,46 @@ Este é um evento de amostra, incluindo campanhas, para um webinário ON24. Ao c
 
 * **Agendar** - Defina a data para o convite a ser enviado.
 
-## Registro/Confirmação (Acionar Campanha) {#registration-confirmation-trigger-campaign}
+## Registro/Confirmação (Acionar campanha) {#registration-confirmation-trigger-campaign}
 
-* **Lista inteligente**
+* **Lista Inteligente**
 
-   * Acionar a campanha com base em **Preenche o formulário**. Certifique-se de incluir a página de aterrissagem em que o formulário está usando **Adicionar Restrição**, especialmente se o formulário for usado em várias landings pages.
+   * Acione a campanha com base no **Formulário de Preenchimento**. Certifique-se de incluir a página de aterrissagem em que o formulário está usando **Adicionar restrição**, especialmente se o formulário for usado em várias páginas de aterrissagem.
 
 >[!CAUTION]
 >
->Você deve usar um formulário do Marketo para registrar pessoas para o evento ou um formulário que não seja do Marketo com a integração de API adequada para enviar dados de registro para o Marketo. Isso é essencial para o sucesso da integração do Parceiro de evento. **NOTA**: se estiver usando um formulário do Marketo em uma página de aterrissagem que não seja da Marketo, seu acionador será **Preenche o formulário** com o Nome do formulário.
+>Você deve usar um formulário do Marketo para registrar pessoas para o evento ou um formulário que não seja do Marketo com a integração de API adequada para enviar dados de registro para o Marketo. Isso é essencial para o sucesso da integração do Parceiro de evento. **OBSERVAÇÃO**: se você estiver usando um formulário do Marketo em uma página de aterrissagem que não seja da Marketo, seu acionador será **Preencher Formulário** com o Nome do Formulário.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Fluxo**
 
-   * **Alterar status na progressão** - Defina como Webinar > Registrado. **CUIDADO**: essa etapa do fluxo é necessária ao configurar a campanha filho. Quando o status de progressão de uma pessoa muda para **Registrado**, o Marketo envia as informações de registro para o ON24.
+   * **Alterar Status na Progressão** - Defina como Webinar > Registrado. **ATENÇÃO**: esta etapa de fluxo é necessária ao configurar sua campanha filho. Quando o status de progressão de uma pessoa é alterado para **Registrada**, o Marketo envia as informações de registro para ON24.
 
-   * **Enviar e-mail** - Email de confirmação (definido como **Operacional** para que as pessoas não inscritas que se registraram ainda recebam).
+   * **Enviar Email** - Email de confirmação (definido como **Operacional** para que as pessoas com assinatura cancelada que se registraram ainda recebam).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**NOTA**: se a pessoa for retornada com um erro de registro, não receberá a confirmação do email.
+**OBSERVAÇÃO**: se a pessoa retornar com um erro de registro, ela não receberá o email de confirmação.
 
 ## Lembrete (Campanha em Lote) {#reminder-batch-campaign}
 
-* **Lista inteligente** - Filtrar usando **Membro do Programa** e defina o status como **Registrado**.
+* **Smart List** - Filtrar usando **Membro do Programa** e definir o status como **Registrado**.
 
-* **Fluxo** - Enviar email (email de lembrete).
+* **Fluxo** - Enviar Email (Email de Lembrete).
 
-**NOTA**: você pode usar uma campanha semelhante para enviar um *diferente* email de acompanhamento para pessoas convidadas, mas que ainda não se registraram.
+**OBSERVAÇÃO**: você poderia usar uma campanha semelhante para enviar um email de acompanhamento *diferente* para pessoas convidadas, mas que ainda não se registraram.
 
 ## Campanha de acompanhamento (campanha em lote ou de acionador) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Lista inteligente** - Acionar com base em alterações no status do programa.
+* **Smart List** - Acionar com base nas alterações no status do programa.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Fluxo** - Enviar email. Use opções para enviar emails diferentes com base no status do programa.
+* **Fluxo** - Enviar Email. Use opções para enviar emails diferentes com base no status do programa.
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Noções Básicas sobre os Eventos do Adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

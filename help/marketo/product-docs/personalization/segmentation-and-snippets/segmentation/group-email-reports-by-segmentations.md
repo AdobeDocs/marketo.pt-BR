@@ -19,15 +19,15 @@ As segmentações não se destinam apenas ao conteúdo dinâmico. Também é pos
 >
 >[Aprovar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Vá para a **Atividades de marketing** (ou **Analytics**).
+1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Selecione o **Desempenho do email** relatório.
+1. Selecione seu relatório de **Desempenho do email**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Clique em **Configuração** guia e arraste sobre **Agrupar por segmentações**.
+1. Clique na guia **Configuração** e arraste sobre **Agrupar por Segmentações**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
@@ -35,7 +35,7 @@ As segmentações não se destinam apenas ao conteúdo dinâmico. Também é pos
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Pronto! Clique em **Relatório** guia. Se você usar uma segmentação, seu relatório mostrará uma linha para cada segmento.
+1. Pronto! Clique na guia **Relatório**. Se você usar uma segmentação, seu relatório mostrará uma linha para cada segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
@@ -45,4 +45,4 @@ As segmentações não se destinam apenas ao conteúdo dinâmico. Também é pos
 
 >[!MORELIKETHIS]
 >
->[Filtrar ativos em um relatório de email](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[Filtrar Assets em um Relatório de Email](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

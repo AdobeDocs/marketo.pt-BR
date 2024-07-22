@@ -21,7 +21,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
 ## Usar uma tag em um programa {#use-a-tag-in-a-program}
 
-1. Selecione seu programa. Clique em **Configuração**.
+1. Selecione seu programa. Clique em **Instalação**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -43,7 +43,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
 ## Editar uma tag {#edit-a-tag}
 
-1. Vá para a **Configuração** guia. Clique com o botão direito do mouse na tag. Selecionar **Editar**.
+1. Vá para a guia **Configuração**. Clique com o botão direito do mouse na tag. Selecione **Editar**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -61,7 +61,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
 ## Excluir uma tag  {#delete-a-tag}
 
-1. Vá para a **Configuração** guia. Clique com o botão direito na tag e selecione **Excluir**.
+1. Vá para a guia **Configuração**. Clique com o botão direito do mouse na tag e selecione **Excluir**.
 
    ![](assets/use-tags-in-a-program-10.png)
 

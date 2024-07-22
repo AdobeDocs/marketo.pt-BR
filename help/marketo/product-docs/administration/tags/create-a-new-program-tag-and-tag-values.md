@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Você pode criar relatórios [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para seus programas e atribuir valores à tag.
+Você pode criar [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizadas para seus programas e atribuir valores à tag.
 
 >[!NOTE]
 >
@@ -27,19 +27,19 @@ Você pode criar relatórios [tags](/help/marketo/product-docs/core-marketo-conc
 >
 >Valor da etiqueta do programa: SMB, Enterprise, Mid-Market
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Clique em **[!UICONTROL Tags]**.
+1. Clique em **[!UICONTROL Marcas]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo tipo de tag]**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo Tipo de Marca]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Insira o **[!UICONTROL Tipo de tag]** e uma tag **[!UICONTROL Valor]**. Clique em **[!UICONTROL Adicionar outro]**.
+1. Insira o **[!UICONTROL Tipo de Marca]** e uma marca **[!UICONTROL Valor]**. Depois clique em **[!UICONTROL Adicionar outro]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ Você pode criar relatórios [tags](/help/marketo/product-docs/core-marketo-conc
    >
    >Você pode selecionar vários tipos de programas. Quando um novo programa for criado, esse tipo de tag estará disponível.
 
-1. Marcar **[!UICONTROL Obrigatório]** e clique em **[!UICONTROL Criar]**.
+1. Marque **[!UICONTROL Obrigatório]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Se o tipo de tag for **[!UICONTROL Obrigatório]**, os usuários deverão inserir um valor para a tag ao criar um novo programa.
+   >Se o tipo de marca for **[!UICONTROL Obrigatório]**, os usuários precisarão inserir um valor para a marca ao criar um novo programa.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

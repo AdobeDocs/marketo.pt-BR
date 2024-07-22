@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 7%
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Você pode desativar as notificações por email automáticas enviadas aos proprietários de clientes potenciais no Salesforce na atribuição de clientes potenciais. Veja como.
 
-1. Ir para **[!UICONTROL Admin]**.
+1. Vá para **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
@@ -27,6 +27,6 @@ Você pode desativar as notificações por email automáticas enviadas aos propr
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Desmarque a opção **[!UICONTROL Enviar notificação por email ao proprietário no Salesforce após atribuição de cliente potencial]** caixa. Clique em **[!UICONTROL Salvar]**.
+1. Desmarque a caixa **[!UICONTROL Enviar notificação por email para o proprietário no Salesforce na atribuição de cliente potencial]**. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/new-screen.png)

@@ -22,19 +22,19 @@ Depois que o webinário for concluído, acesse a guia Dashboard para ver o desem
 
 ## Sincronização manual {#manual-sync}
 
-Webinars interativos permitem obter os dados de envolvimento do webinário da Adobe Connect se você não o tiver recebido automaticamente dentro de duas horas da conclusão do webinário. Um botão &quot;Sincronizar agora&quot; é exibido na página Visão geral. Clicando **Sincronizar agora** aciona um pull do Adobe Connect para preencher os dados no Marketo Engage. Após a sincronização, o botão desaparece e a guia Painel de controle é preenchida.
+Webinars interativos permitem obter os dados de envolvimento do webinário da Adobe Connect se você não o tiver recebido automaticamente dentro de duas horas da conclusão do webinário. Um botão &quot;Sincronizar agora&quot; é exibido na página Visão geral. Clicar em **Sincronizar Agora** aciona um pull do Adobe Connect para preencher os dados no Marketo Engage. Após a sincronização, o botão desaparece e a guia Painel de controle é preenchida.
 
 ## Widgets de painel {#dashboard-widgets}
 
 O Painel consiste em quatro widgets.
 
-**Status do programa do evento**: mostra os vários status de programa para esse evento e o número de membros do programa que estão mantendo esse valor de status de programa no momento.
+**Status do Programa de Evento**: mostra os vários status do programa para esse evento e o número de membros do programa que estão mantendo esse valor de status do programa no momento.
 
 **Presença**: destaca a duração da participação de vários membros que participaram do webinário em comparação à duração geral do webinário em termos de porcentagem.
 
-**Desempenho da pesquisa**: exibe várias pesquisas iniciadas durante o webinário realizado pelo Adobe Connect e a distribuição dos membros que participaram e responderam à pesquisa em cada uma das respostas.
+**Desempenho da Enquete**: Exibe várias enquetes iniciadas durante o webinário fornecido pela Adobe Connect e a distribuição dos membros que participaram e responderam à enquete em cada uma das respostas.
 
-**Atividade de download de clique e arquivo**: fornece a contagem de download do arquivo e dos links da Web clicados durante o webinário realizado pelo Adobe Connect por vários membros que participaram do webinário e executaram essa ação específica.
+**Atividade de Download de Arquivos e Cliques**: fornece a contagem de downloads de arquivos e links da Web clicados durante o webinário realizado pelo Adobe Connect por vários membros que participaram do webinário e executaram essa ação específica.
 
 ## Gravação do webinário {#webinar-recording}
 
@@ -57,22 +57,22 @@ Use acionadores e filtros interativos relacionados ao webinário para localizar 
 
 Cada acionador/filtro vem com restrições adicionais, permitindo capturar um subconjunto focado desse grupo.
 
-**Faz perguntas durante o evento** (Versão do filtro: perguntas feitas durante o evento)
+**Faz perguntas durante o evento** (Versão do filtro: fez perguntas durante o evento)
 
 ![](assets/event-workflows-4.png)
 
-**Participa do evento** (Versão do filtro: tem evento de participação)
+**Participa do evento** (Versão do filtro: participou do evento)
 
 ![](assets/event-workflows-5.png)
 
-**Cliques em um link** (Versão do filtro: Clicou em um link)
+**Cliques em um link** (Versão do filtro: clicou em um link)
 
 ![](assets/event-workflows-6.png)
 
-**Baixa um ativo** (Versão do filtro: Baixou um ativo)
+**Baixa um ativo** (Versão do filtro: baixou um ativo)
 
 ![](assets/event-workflows-7.png)
 
-**Responde a uma enquete** (Versão do filtro: Respondido a uma enquete)
+**Responde a uma enquete** (Versão do filtro: Respondeu a uma enquete)
 
 ![](assets/event-workflows-8.png)

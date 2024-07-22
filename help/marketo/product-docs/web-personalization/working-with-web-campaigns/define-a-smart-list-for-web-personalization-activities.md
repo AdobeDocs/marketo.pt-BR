@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10097867
-description: Definir uma Smart List para atividades de personalização da Web - Documentação do Marketo - Documentação do produto
-title: Definir uma lista inteligente para atividades de personalização da Web
+description: Definir uma lista inteligente para atividades do Web Personalization - Documentação do Marketo - Documentação do produto
+title: Definir uma lista inteligente para atividades do Web Personalization
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# Definir uma lista inteligente para atividades de personalização da Web {#define-a-smart-list-for-web-personalization-activities}
+# Definir uma lista inteligente para atividades do Web Personalization {#define-a-smart-list-for-web-personalization-activities}
 
-Você pode usar as atividades de Personalização da Web em filtros e acionadores ao definir uma lista inteligente em uma campanha inteligente. Aqui, você deseja capturar qualquer pessoa que clicou em uma chamada para ação de Personalização da Web (campanha).
+Você pode usar atividades do Web Personalization em filtros e acionadores ao definir uma lista inteligente em uma campanha inteligente. Aqui, você deseja capturar qualquer pessoa que clicou em uma chamada para ação (campanha) do Web Personalization.
 
-Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pontuação com base nos visitantes que clicaram e se envolveram com uma chamada para ação de Personalização da Web. Você também pode filtrar e visualizar os leads que clicaram em uma chamada para ação de Personalização da Web.
+Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pontuação com base nos visitantes que clicaram e se envolveram com uma chamada para ação do Web Personalization. Também é possível filtrar e exibir os leads que clicaram em uma chamada para ação do Web Personalization.
 
-1. Na campanha inteligente, clique no link **Lista inteligente** guia.
+1. Na sua campanha inteligente, clique na guia **Smart List**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
    >[!NOTE]
    >
-   >As Smart Lists podem fazer coisas incríveis. Saiba mais na [Análise detalhada da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >As Smart Lists podem fazer coisas incríveis. Saiba mais na [Análise detalhada de lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Procure o acionador e arraste-o e solte-o na tela.
 
@@ -57,10 +57,10 @@ Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pont
    >
    >Com vários acionadores, uma pessoa passa para o fluxo se QUALQUER um dos acionadores for ativado.
 
-   Para executar a campanha em um conjunto de pessoas ao mesmo tempo, saiba como [Definir lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Para executar a campanha em um conjunto de pessoas ao mesmo tempo, saiba como [Definir a lista inteligente para a campanha inteligente | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Definir lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Definir lista inteligente para campanha inteligente | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Adicionar uma Etapa de Fluxo a uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
    >* [Definir uma lista inteligente para atividades de conteúdo preditivo](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

@@ -2,11 +2,11 @@
 description: Gerenciamento OP-Lead - Documentação do Marketo - Documentação do produto
 title: Gerenciamento OP-Lead
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 19%
+source-wordcount: '265'
+ht-degree: 13%
 
 ---
 
@@ -18,7 +18,7 @@ Este é um exemplo de fluxos de trabalho de práticas recomendadas de gerenciame
 >
 >No Marketo Engage, os registros no banco de dados são chamados de pessoas/pessoa. O gerenciamento de clientes potenciais neste exemplo refere-se aos registros em seu CRM.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) página.
+Para obter mais ajuda estratégica ou para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Resumo do canal {#channel-summary}
 
@@ -39,7 +39,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -71,7 +71,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Alerta de e-mail</td>
+   <td>Alerta de email</td>
   </tr>
  </tbody> 
 </table>
@@ -80,11 +80,11 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original - _Recomendado_
    * Usar modelo de destino
 
@@ -92,7 +92,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Manter ambos os arquivos - _Recomendado_
    * Substituir item desta inscrição
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos - _Recomendado_
    * Substituir modelo existente
 

@@ -87,7 +87,7 @@ Neste exemplo, o email dirá &quot;Greetings, (first name)&quot; ou &quot;Greeti
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* Os campos de pessoa personalizados também funcionam se você usar seu nome para exibição, por exemplo, `{{lead.Custom Field Name}}`
+* Campos de pessoa personalizados também funcionam se você usar seu nome para exibição, por exemplo, `{{lead.Custom Field Name}}`
 
 ## Tokens de empresa {#company-tokens}
 
@@ -122,7 +122,7 @@ Neste exemplo, o email dirá &quot;Greetings, (first name)&quot; ou &quot;Greeti
 
 >[!NOTE]
 >
->Saiba mais sobre esses tokens na [Glossário de tokens do sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Saiba mais sobre esses tokens no [Glossário de tokens do sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -159,14 +159,14 @@ Neste exemplo, o email dirá &quot;Greetings, (first name)&quot; ou &quot;Greeti
 
 ## Meus tokens {#my-tokens}
 
-Meus tokens são definidos em um programa e começam com `{{my.` seguido pelo nome que você criou para o token. Saiba mais sobre [Meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Meus Tokens são definidos em um programa e começam com `{{my.` seguido pelo nome que você criou para o token. Saiba mais sobre [Meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token de membro {#member-token}
 
-Os Tokens de membro são usados para inserir valores exclusivos de parceiros de serviços integrados. Um uso comum de Tokens de membros é para URLs exclusivos para participantes do webinário. Cada pessoa tem um URL exclusivo para acessar o webinário que pode ser inserido usando um `{{member.webinar url}}` token. A variável `{{member.webinar url}}` O token resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo provedor de serviços.
+Os Tokens de membro são usados para inserir valores exclusivos de parceiros de serviços integrados. Um uso comum de Tokens de membros é para URLs exclusivos para participantes do webinário. Cada pessoa tem uma URL exclusiva para acessar o webinário que pode ser inserido usando um token `{{member.webinar url}}`. O token `{{member.webinar url}}` resolve automaticamente a URL de confirmação exclusiva da pessoa gerada pelo provedor de serviços.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->A variável `{{member.webinar url}}` O token só será preenchido se a campanha inteligente que envia o email for um ativo filho do Programa de evento.
+>O token `{{member.webinar url}}` só será preenchido se a campanha inteligente que envia o email for um ativo filho do Programa de Evento.

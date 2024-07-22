@@ -16,7 +16,7 @@ O logon automático permite que os usuários das Ações de insight de vendas se
 
 Para usar o login automático:
 
-* [Configurações de gerenciamento de logon](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) deve ser definido como &quot;Somente Salesforce&quot;
+* [As configurações de Gerenciamento de Logon](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) devem ser definidas como &quot;Somente Salesforce&quot;
 
 * O usuário deve ter sido convidado a usar as Ações do Insight de vendas
 

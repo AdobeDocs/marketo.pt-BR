@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # SEO - Importação de palavras-chave com um CSV {#seo-importing-keywords-with-a-csv}
 
-1. Você pode [adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obter sugestões de palavra-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e até mesmo importar palavras-chave de um arquivo CSV. Veja como fazer a importação.
+1. Você pode [adicionar palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [obter sugestões de palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e até mesmo importar palavras-chave de um arquivo CSV. Veja como fazer a importação.
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 

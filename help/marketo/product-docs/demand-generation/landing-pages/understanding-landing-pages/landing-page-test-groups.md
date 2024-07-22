@@ -17,9 +17,9 @@ O Marketo rastreia o número de exibições de página e conclusões de formulá
 
 >[!PREREQUISITES]
 >
->[Criar duas ou mais páginas de destino](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), de preferência com um formulário.
+>[Crie duas ou mais páginas de aterrissagem](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), de preferência com um formulário.
 
-1. No Design Studio, clique em **Novo**. Na lista suspensa, selecione **Novo grupo de teste**.
+1. No Design Studio, clique em **Novo**. Na lista suspensa, selecione **Novo Grupo de Teste**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -27,10 +27,10 @@ O Marketo rastreia o número de exibições de página e conclusões de formulá
    >
    >As outras maneiras de criar um Grupo de teste são:
    >
-   >* Clique com o botão direito do mouse em uma landing page na árvore e selecione **Converter para grupo de teste**
-   >* Crie um grupo de teste de landing page em um programa escolhendo **Grupo de teste AB** no **Novo ativo local** menu
+   >* Clique com o botão direito do mouse em uma página de aterrissagem na árvore e selecione **Converter em Grupo de Teste**
+   >* Crie um Grupo de Teste de Página de Aterrissagem em um programa escolhendo **Grupo de Teste AB** no menu **Novo Ativo Local**
 
-1. Insira um nome e uma descrição opcional. Selecione as landing pages que deseja testar e clique em **Criar**.
+1. Insira um nome e uma descrição opcional. Selecione as Landing Pages que deseja testar e clique em **Criar**.
 
    ![](assets/image2015-8-5-13-3a39-3a10.png)
 
@@ -42,7 +42,7 @@ O Marketo rastreia o número de exibições de página e conclusões de formulá
 
    ![](assets/three-1.png)
 
-1. Clique em **Opções de Grupo de Teste** e selecione **Aprovar grupo de teste**.
+1. Clique na lista suspensa **Opções de Grupo de Teste** e selecione **Aprovar Grupo de Teste**.
 
    ![](assets/four-1.png)
 
@@ -52,4 +52,4 @@ O Marketo rastreia o número de exibições de página e conclusões de formulá
 
    >[!TIP]
    >
-   >Se quiser excluir o Grupo de teste, basta clicar em **Testar ações do grupo** e selecione **Excluir grupo de teste**.
+   >Se quiser excluir o Grupo de Teste, basta clicar em **Ações de Grupo de Teste** e selecionar **Excluir grupo de teste**.

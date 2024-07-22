@@ -30,7 +30,7 @@ Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram ger
 
    >[!IMPORTANT]
    >
-   >Para garantir que o Marketo Engage possa extrair o conteúdo dos URLs fornecidos, primeiro você deve incluir na lista de permissões vários endereços IP. [Consulte abaixo para obter detalhes](#ip-addresses-to-allowlist).
+   >Para garantir que o Marketo Engage possa extrair o conteúdo dos URLs fornecidos, primeiro você deve incluir na lista de permissões vários endereços IP. [Veja os detalhes a seguir](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram ger
 
 >[!NOTE]
 >
->As perguntas e respostas geradas também podem ser visualizadas no [Biblioteca de resposta](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>As perguntas e respostas geradas também são exibidas na [Biblioteca de respostas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Localize a tarefa desejada e clique no ícone de download ao lado do seu nome.
 
@@ -60,15 +60,15 @@ Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram ger
 
    ![](assets/question-generation-7.png)
 
-1. No arquivo do Excel, **[!DNL Task details]** A mostra exatamente isso, vários detalhes sobre a tarefa, incluindo instruções sobre como adicionar/editar perguntas e/ou respostas.
+1. No arquivo do Excel, **[!DNL Task details]** mostra exatamente isso, vários detalhes sobre a tarefa, incluindo instruções sobre como adicionar/editar perguntas e/ou respostas.
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >Se você decidir adicionar/editar perguntas e/ou respostas em massa, [saiba como recarregá-los aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >Se você decidir adicionar/editar perguntas e/ou respostas em massa, [saiba como recarregá-las aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
-1. A variável **[!DNL Q&Rs]** A guia fornece detalhes adicionais, incluindo as perguntas e respostas geradas.
+1. A guia **[!DNL Q&Rs]** fornece detalhes adicionais, incluindo as perguntas e respostas geradas.
 
    ![](assets/question-generation-9.png)
 

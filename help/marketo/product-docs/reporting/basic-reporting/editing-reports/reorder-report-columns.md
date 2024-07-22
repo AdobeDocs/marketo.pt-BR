@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Você pode alterar a ordem das colunas em um relatório.
 
-1. Vá para a **Atividades de marketing** (ou **Analytics**).
+1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Selecione seu relatório na árvore de navegação e clique no link **Relatório** guia.
+1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -35,4 +35,4 @@ Você pode alterar a ordem das colunas em um relatório.
 
    >[!MORELIKETHIS]
    >
-   >[Selecionar Colunas do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[Selecionar Colunas de Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

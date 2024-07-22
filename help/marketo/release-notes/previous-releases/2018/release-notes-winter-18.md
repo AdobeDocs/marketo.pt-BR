@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Os seguintes recursos estão incluídos na versão Winter &#39;18. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
-Clique nos links de título para exibir artigos detalhados para cada recurso. **Nota**: alguns dos recursos incluídos nesta versão não têm artigos associados. Se um tópico tiver vários subtítulos, os links serão colocados lá.
+Clique nos links de título para exibir artigos detalhados para cada recurso. **Observação**: alguns dos recursos incluídos nesta versão não têm artigos associados. Se um tópico tiver vários subtítulos, os links serão colocados lá.
 
 ## Aprimoramentos no desempenho e na taxa de transferência da campanha {#campaign-performance-and-throughput-enhancements}
 
@@ -25,9 +25,9 @@ O Marketo está aproveitando nossa arquitetura de big data para aumentar a taxa 
 
 Temos duas melhorias na integração do Salesforce CRM:
 
-* [Notificações de administrador do Marketo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) para determinadas falhas de sincronização do CRM (credenciais expiradas, limites de API atingidos etc.)
+* [Notificações de administrador do Marketo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) sobre determinadas falhas de sincronização do CRM (credenciais expiradas, limites de API atingidos, etc.)
 
-* [Capacidade de desativar notificações por email](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) para proprietários potenciais na atribuição de clientes potenciais
+* [Capacidade de desativar notificações por email](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) para Proprietários Principais na atribuição de clientes potenciais
 
 Estas melhorias serão introduzidas em 2018.
 
@@ -55,9 +55,9 @@ Os scripts do Velocity agora são aceitos em emails que usam conteúdo dinâmico
 
 **Fuso horário do destinatário**
 
-* **[Cadência mensal de criação](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: adicionamos a capacidade de agendar programas de aprendizado em uma cadência mensal.
+* **[Cadência de Criação Mensal](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: adicionamos a capacidade de agendar programas de criação em uma cadência mensal.
 
-* **[Parar entrega](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: Agora é possível interromper qualquer envio restante no meio da execução.
+* **[Parar entrega](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: agora você pode parar qualquer envio restante no meio da execução.
 
 ## Integrações da rede de publicidade {#ad-network-integrations}
 
@@ -65,23 +65,23 @@ Os scripts do Velocity agora são aceitos em emails que usam conteúdo dinâmico
 
 Com essa integração, você pode enviar um público-alvo do Marketo para o Google para ser direcionado usando o Google AdWords, bem como redirecionar públicos-alvo no YouTube, Search e Gmail.
 
-**[Aprimoramento da API do linkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[Aprimoramento da API do LinkedIn Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Nossa nova API do LinkedIn agora permite redirecionar pessoas no banco de dados do Marketo para várias contas do LinkedIn Campaign Manager.
 
 ## Personalização na Web {#web-personalization}
 
-**Fonte de dados em japonês para personalização na Web**
+**Source de Dados Japonês para Web Personalization**
 
-A Marketo está adicionando uma fonte de dados japonesa adicional para a Personalização da Web para melhorar a identificação do visitante da Web (pesquisa IP reversa) e a personalização para visitantes vindos do Japão. Os nomes da organização serão exibidos em japonês.
+A Marketo está adicionando uma fonte de dados japonesa adicional para o Web Personalization a fim de melhorar a identificação de visitantes da Web (pesquisa de IP reverso) e a personalização para visitantes vindos do Japão. Os nomes da organização serão exibidos em japonês.
 
 **[Crie um segmento da Web com listas estáticas](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-A Personalização da Web agora pode personalizar o conteúdo para um visitante da Web conhecido que faz parte de uma lista estática definida nas Atividades de marketing (MLM). Com esse aprimoramento, agora é possível vender para listas estáticas em canais e direcionar pessoas nessas listas com conteúdo personalizado no seu site.
+O Web Personalization agora pode personalizar o conteúdo para um visitante conhecido da Web que faz parte de uma lista estática definida nas Atividades de marketing (MLM). Com esse aprimoramento, agora é possível vender para listas estáticas em canais e direcionar pessoas nessas listas com conteúdo personalizado no seu site.
 
 ## IA de conteúdo {#contentai}
 
-**Melhoria preditiva do algoritmo**
+**Aprimoramento do Algoritmo Preditivo**
 
 O conteúdo recomendado por meio dos algoritmos otimizados de IA de conteúdo do Marketo gera até duas vezes mais cliques do que o conteúdo aleatório.
 
@@ -95,7 +95,7 @@ Essa nova API permite ativar e desativar remotamente campanhas de acionador para
 
 **Atualização para cancelamento de inscrição**
 
-A partir de 1 de março de 2018, todos os emails enviados de [ToutApp.com](https://ToutApp.com) (e usando o botão &quot;Email com Tout&quot; no Salesforce) terá um link de cancelamento de inscrição anexado à parte inferior.
+A partir de 1º de março de 2018, todos os emails enviados do [ToutApp.com](https://ToutApp.com) (e usando o botão &quot;Email com Tout&quot; no Salesforce) terão um link de cancelamento de inscrição anexado ao final.
 
 **Atualização para feeds ao vivo**
 

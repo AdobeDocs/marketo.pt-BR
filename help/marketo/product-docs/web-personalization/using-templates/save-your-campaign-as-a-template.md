@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você já passou algum tempo criando a campanha perfeita para a web? Agora você pode salvá-lo como um modelo para reutilização fácil no futuro.
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 

@@ -19,7 +19,7 @@ Com essa integração, você pode enviar um público-alvo Marketo Engage para o 
 >
 >**Permissões de administrador necessárias**
 
-1. Ir para **[!UICONTROL Admin]**.
+1. Vá para **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
@@ -27,11 +27,11 @@ Com essa integração, você pode enviar um público-alvo Marketo Engage para o 
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecionar **[!UICONTROL Novo]** depois **[!UICONTROL Novo serviço]**.
+1. Selecione **[!UICONTROL Novo]** e depois **[!UICONTROL Novo Serviço]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Insira um **[!UICONTROL Nome de exibição]** e selecione **[!UICONTROL Correspondência de cliente do Google]** do **[!UICONTROL Serviço]** menu suspenso. Clique em **[!UICONTROL Criar]**.
+1. Insira um **[!UICONTROL Nome para Exibição]** e selecione **[!UICONTROL Correspondência de Cliente do Google]** no menu suspenso **[!UICONTROL Serviço]**. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Com essa integração, você pode enviar um público-alvo Marketo Engage para o 
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie públicos-alvo em várias contas do AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso a _all_ dessas contas.
+   >Para que o Marketo envie públicos-alvo em várias contas do AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso a _todas_ essas contas.
 
    ![](assets/chooseaccount.png)
 

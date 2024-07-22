@@ -17,20 +17,20 @@ Siga estas etapas para começar a usar a Criação de perfil da conta.
 
 >[!CAUTION]
 >
->Os seguintes campos devem **não** estar ocultos para que a Criação de perfil da conta funcione corretamente.
+>Os campos a seguir **não** devem estar ocultos para que o Perfil de Conta funcione corretamente.
 >
 >* Site
 >* Empresa
 >* Email
 >* País
 >
->Saiba como [mostrar um campo aqui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Saiba como [reexibir um campo aqui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. No Meu Marketo, abra **Gerenciamento de conta do Target**.
+1. Em Minha Marketo, abra **Gerenciamento de Conta do Target**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Clique em **Criação de perfil da conta** guia.
+1. Clique na guia **Perfil da conta**.
 
    ![](assets/two-1.png)
 
@@ -38,7 +38,7 @@ Siga estas etapas para começar a usar a Criação de perfil da conta.
 
    ![](assets/three.png)
 
-1. Dê um nome ao seu modelo e escolha o tipo de lista/lista de pessoas que servirão como base para o Perfil de cliente ideal (ICP). Clique em **Criar modelo** quando terminar.
+1. Dê um nome ao seu modelo e escolha o tipo de lista/lista de pessoas que servirão como base para o Perfil de cliente ideal (ICP). Clique em **Criar Modelo** quando terminar.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -46,7 +46,7 @@ Siga estas etapas para começar a usar a Criação de perfil da conta.
 
    ![](assets/five.png)
 
-1. Para ver os resultados do seu modelo, clique em **Consulte Resultado do modelo**.
+1. Para ver os resultados do seu modelo, clique em **Ver Resultado do Modelo**.
 
    ![](assets/six.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A Marketo aprimorou o comportamento da funcionalidade de cancelamento de inscrição para torná-la &quot;durável&quot;. Adicionamos um status de email principal, que é separado do sinalizador de cancelamento de inscrição visível no registro de detalhes da pessoa.
 
-Se o sinalizador de cancelamento de inscrição estiver definido como falso para verdadeiro, o status do email principal será atualizado e a alteração será propagada para outras pessoas com o mesmo endereço de email. Se uma pessoa for removida e recriada, ou se um novo registro for criado com o mesmo endereço de email, o sinalizador de cancelamento de inscrição **não** ser sobrescrito.
+Se o sinalizador de cancelamento de inscrição estiver definido como falso para verdadeiro, o status do email principal será atualizado e a alteração será propagada para outras pessoas com o mesmo endereço de email. Se uma pessoa for removida e recriada, ou se um novo registro for criado com o mesmo endereço de email, o sinalizador de cancelamento de inscrição **não** será substituído.
 
 >[!NOTE]
 >
@@ -25,19 +25,19 @@ Se o sinalizador de cancelamento de inscrição estiver definido como falso para
 
 Há várias maneiras de uma pessoa ser inscrita novamente.
 
-No Salesforce, **limpar** o campo Recusa de email no registro do lead/contato. Isso será sincronizado com o Marketo.
+No Salesforce, **limpe** o campo Recusa de email no registro do cliente potencial/contato. Isso será sincronizado com o Marketo.
 
 ![](assets/one.png)
 
-No Marketo, **limpar** a caixa cancelada na guia Informações do registro da pessoa.
+No Marketo, **desmarque** a caixa de cancelamento de inscrição na guia Informações do registro da pessoa.
 
 ![](assets/two.png)
 
-Executar um **Alterar valor dos dados** etapa de fluxo conforme mostrado abaixo em uma ou várias pessoas.
+Execute uma etapa de fluxo **Alterar Valor de Dados** como mostrado abaixo em uma ou várias pessoas.
 
 ![](assets/three.png)
 
-Atualizar uma pessoa existente por meio da API SOAP.
+Atualizar uma pessoa existente por meio da API do SOAP.
 
 ## Criar uma nova pessoa {#creating-a-new-person}
 

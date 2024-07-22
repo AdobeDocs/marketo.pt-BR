@@ -5,7 +5,7 @@ exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -18,23 +18,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Configurar Mapeamento da Organização Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
+>[Configurar o Mapeamento da Organização do Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Como sincronizar um público-alvo {#how-to-sync-an-audience}
 
-1. Em Meu Marketo, clique no link **[!UICONTROL Banco de dados]** bloco.
+1. Em Meu Marketo, clique no bloco **[!UICONTROL Banco de Dados]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Sincronizar do público-alvo do Experience Cloud]**.
+1. Clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Sincronizar do Público-alvo do Experience Cloud]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. Clique em **[!UICONTROL Pasta da biblioteca de público-alvo]** e selecione a pasta de origem desejada.
+1. Clique no menu suspenso **[!UICONTROL Pasta da biblioteca de público-alvo]** e selecione a pasta de origem desejada.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
-1. Selecione um **[!UICONTROL Nome do público]**.
+1. Selecione um **[!UICONTROL Nome do Público]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 Quando a sincronização de cookies estiver ativada para sua assinatura do Marketo, o munchkin.js da Marketo tentará capturar e armazenar ECIDs de Adobe para a Organização IMS da Adobe especificada durante a configuração de integração e corresponderá essas ECIDs ao identificador de cookie do Marketo correspondente. Isso permite que perfis de usuários anônimos da Marketo sejam enriquecidos com Adobe ECIDs.
 
-Uma outra etapa é necessária para associar o perfil de usuário anônimo a um Perfil principal, que é identificado usando um email de texto sem formatação. Exatamente como isso funciona [está descrito aqui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+Uma outra etapa é necessária para associar o perfil de usuário anônimo a um Perfil principal, que é identificado usando um email de texto sem formatação. [está descrito aqui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} como funciona exatamente.
 
 **Por que o tamanho da lista no Marketo é diferente do tamanho na Adobe?**
 

@@ -14,26 +14,26 @@ ht-degree: 0%
 
 Há várias etapas para criar a mensagem perfeita no aplicativo. Comece aqui e siga as etapas em ordem nesses artigos.
 
-Depois de criar a mensagem no aplicativo, vá para [aqui](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) para ver como enviá-lo.
+Depois de criar a mensagem no aplicativo, clique [aqui](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) para ver como enviá-la.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
-   ![Imagem um](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
+   ![Imagem 1](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 
 1. Clique com o botão direito em um programa e selecione **Novo ativo local**.
 
-   ![Imagem dois](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
+   ![Imagem Dois](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
-1. Selecionar **Mensagem no aplicativo**.
+1. Selecione **Mensagem No Aplicativo**.
 
    ![Imagem três](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
 1. Insira um nome para a mensagem no aplicativo, forneça uma descrição opcional e clique em **Criar**.
 
-   ![Imagem quatro](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-4.png)
+   ![Imagem Quatro](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-4.png)
 
 >[!NOTE]
 >
 >O nome do programa é exibido automaticamente no menu suspenso, mas você pode selecionar um diferente.
 
-Em seguida, [escolher um layout](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) para sua mensagem no aplicativo.
+Em seguida, [escolha um layout](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) para sua mensagem no aplicativo.

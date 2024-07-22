@@ -19,11 +19,11 @@ Se, a qualquer momento, você decidir que não deseja continuar executando seu t
 >
 >[Champion/Challenger: Aprove Seu Teste De Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Localize seu email, clique com o botão direito do mouse no teste e clique em **Descartar teste**.
+1. Localize seu email, clique com o botão direito em seu email de teste e clique em **Descartar Teste**.
 
    ![](assets/champion5.jpg)
 
@@ -31,4 +31,4 @@ Se, a qualquer momento, você decidir que não deseja continuar executando seu t
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   Pronto! Se você decidir configurar um teste novamente, vá em frente e [adicionar um defensor/desafiante do email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   Pronto! Se você decidir configurar um teste novamente, vá em frente e [adicione um desafiante/campeão de email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

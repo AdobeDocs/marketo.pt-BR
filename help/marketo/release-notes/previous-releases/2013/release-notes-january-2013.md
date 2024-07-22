@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 1%
 
 ---
 
 # Notas de versão: janeiro de 2013 {#release-notes-january}
 
-A versão de janeiro expande nossa oferta social com **Ofertas de indicação**. Além disso, os usuários do Marketo Lead Management podem definir seu fuso horário, idioma e preferência de local. Observe que os recursos marcados com um &#42; estão disponíveis somente na Select Edition.
+A versão de janeiro expande nossa oferta social com **Ofertas de indicação**. Além disso, os usuários do Marketo Lead Management podem definir seu fuso horário, idioma e preferência de local. Observe que os recursos marcados com um &#42; estão disponíveis somente em Selecionar Edição.
 
 ## Ofertas com indicação {#referral-offers}
 
-A **Oferta de indicação** O incentiva seus clientes em potencial a encaminhar seus amigos. Crie metas e recompensas para indicações bem-sucedidas. Você pode usá-lo em landing pages, em seu site e até mesmo no Facebook.
+Uma **Oferta de indicação** incentiva seus clientes em potencial a encaminhar seus amigos. Crie metas e recompensas para indicações bem-sucedidas. Você pode usá-lo em landing pages, em seu site e até mesmo no Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

@@ -2,11 +2,11 @@
 description: OP-Deliverability Management - Documentação do Marketo - Documentação do produto
 title: Gerenciamento de Entregabilidade OP
 feature: Programs
-exl-id: 2c831c7a-f9c9-4308-9610-0e98eeb14288
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 23%
+source-wordcount: '248'
+ht-degree: 18%
 
 ---
 
@@ -18,7 +18,7 @@ Este é um exemplo de workflows de práticas recomendadas de gerenciamento de en
 >
 >Exige que o campo de sequência personalizado &quot;Motivo da suspensão de marketing&quot; seja importado. [Saiba mais](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -56,7 +56,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -102,11 +102,11 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original - _Recomendado_
    * Usar modelo de destino
 
@@ -114,7 +114,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Manter ambos os arquivos - _Recomendado_
    * Substituir item desta inscrição
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos - _Recomendado_
    * Substituir modelo existente
 

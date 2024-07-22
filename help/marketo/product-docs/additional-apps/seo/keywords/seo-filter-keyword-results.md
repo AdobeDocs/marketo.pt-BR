@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # SEO - Filtrar Resultados de Palavras-chave {#seo-filter-keyword-results}
 
-Você pode ter um monte de [palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Estas são diferentes maneiras de filtrá-las:
+Você pode ter muitas [palavras-chave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md). Estas são diferentes maneiras de filtrá-las:
 
 ## Filtrar por lista {#filter-by-list}
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -33,11 +33,11 @@ Doce! Agora você só verá palavras-chave nessa lista.
 
 ## Filtrar por classificação SERP {#filter-by-serp-rank}
 
-1. Vá para a [!UICONTROL Palavras-chave] seção.
+1. Vá para a seção [!UICONTROL Palavras-chave].
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   Os quadrados laranja definem os limites superior (esquerda) e inferior (direita). O filtro funciona na variável [Classificação SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   Os quadrados laranja definem os limites superior (esquerda) e inferior (direita). O filtro funciona na [classificação SERP](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) da palavra-chave.
 
 1. Deslize os quadrados laranja para a esquerda/direita para filtrar os resultados.
 
@@ -47,10 +47,10 @@ Doce! Agora você só verá palavras-chave nessa lista.
 
 Você também pode encontrar as palavras-chave que procura usando o campo de pesquisa no canto superior direito.
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Insira sua palavra-chave na caixa **[!UICONTROL Pesquisar]** campo.
+1. Insira sua palavra-chave no campo **[!UICONTROL Pesquisa]**.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

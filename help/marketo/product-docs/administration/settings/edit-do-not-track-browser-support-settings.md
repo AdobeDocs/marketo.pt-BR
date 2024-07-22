@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >&quot;Não rastrear&quot; será definido como Ignorar por padrão, portanto, se for isso que você deseja, não será necessário tomar nenhuma etapa.
 
-1. Clique em **[!UICONTROL Admin]**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Em **[!UICONTROL Rastreamento de pessoas]**, clique em **[!UICONTROL Editar]**.
+1. Em **[!UICONTROL Rastreamento de pessoa]**, clique em **[!UICONTROL Editar]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Selecionar **[!UICONTROL Suporte]** e clique em **[!UICONTROL Salvar]**.
+1. Selecione **[!UICONTROL Suporte]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Para saber mais sobre o &quot;Não rastrear&quot; e como ele funciona, visite [esta página](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Para saber mais sobre &quot;Não Rastrear&quot; e como ele funciona, visite [esta página](https://en.wikipedia.org/wiki/Do_Not_Track).

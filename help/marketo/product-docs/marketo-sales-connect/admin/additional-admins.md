@@ -13,5 +13,5 @@ ht-degree: 0%
 
 # Administradores adicionais {#additional-admins}
 
-Para alterar ou remover um membro da equipe, vá para a página Configurações e clique em **Gerenciamento de Equipe** no painel de navegação esquerdo.
+Para alterar ou remover um membro da equipe, vá para a página Configurações e clique em **Gerenciamento da Equipe** no painel de navegação esquerdo.
 Como administrador de uma conta, é aqui que você pode gerenciar quem faz parte da sua equipe.

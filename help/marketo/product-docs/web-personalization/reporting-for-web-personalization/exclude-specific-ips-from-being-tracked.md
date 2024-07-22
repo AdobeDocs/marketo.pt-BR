@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Excluir IPs específicos do rastreamento {#exclude-specific-ips-from-being-tracked}
 
-Você já quis excluir seus próprios funcionários e o nome da organização do rastreamento e dos relatórios na Personalização da Web?
+Você já quis excluir seus próprios funcionários e o nome da organização do rastreamento e dos relatórios no Web Personalization?
 
 Você pode excluir IPs individuais e todos ou parte de um intervalo de IPs.
 
@@ -21,15 +21,15 @@ Você pode excluir IPs individuais e todos ou parte de um intervalo de IPs.
 >
 >Esse processo pode levar até cinco minutos para ser concluído.
 
-1. Faça logon na Personalização da Web e, em seu logon, clique em **Configurações da conta**.
+1. Faça logon no Web Personalization e, em seu logon, clique em **Configurações da conta**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Role para baixo até **IP exclude** área. Se estiver excluindo endereços IP pela primeira vez, clique no link vazio **Excluir endereços IP** campo.
+1. Role para baixo até a área **IP exclude**. Se você estiver excluindo endereços IP pela primeira vez, clique no campo vazio **Excluir endereços IP**.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Insira os IPs individuais ou intervalos de IPs que deseja excluir do rastreamento e dos relatórios e clique em **Salvar**.
+1. Insira o(s) IP(s) individual(is) ou os intervalos de IPs que deseja excluir do rastreamento e dos relatórios e clique em **Salvar**.
 
    ![](assets/exclude-ips-form-hands.png)
 

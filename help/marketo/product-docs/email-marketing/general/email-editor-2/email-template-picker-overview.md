@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Visão geral do Seletor de modelo de email {#email-template-picker-overview}
 
-Quando você [criar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), você tem vários modelos gratuitos para escolher. Você também pode criar seu próprio modelo e salvá-lo para uso futuro.
+Ao [criar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), você tem vários modelos gratuitos para escolher. Você também pode criar seu próprio modelo e salvá-lo para uso futuro.
 
 ![](assets/email-template-picker-overview-1.png)
 
-**Nome** será o nome do email que você criar com base no modelo, não o próprio modelo. **Descrição** também se aplica ao email e é opcional.
+**Nome** será o nome do email criado com base no modelo, não o modelo em si. A **Descrição** também se aplica ao email e é opcional.
 
 ![](assets/two-2.png)
 
-Se seu e-mail for crítico e você quiser que ele contorne os Limites de comunicação, [torná-lo operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando a caixa. **Abrir no editor** é selecionado por padrão e significa apenas que você deseja começar a editar seu novo email imediatamente. **Criar** significa, criar!
+Se seu email for crítico e você quiser que ele contorne os Limites de Comunicação, [torne-o operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) marcando a caixa. **Abrir no editor** é selecionado por padrão e significa simplesmente que você deseja começar a editar seu novo email imediatamente. **Criar** significa: criar!
 
 ![](assets/three-2.png)
 
-**Modelos iniciais** O inclui uma coleção de modelos de email responsivos prontos para uso. Você pode usá-los como estão ou personalizá-los como desejar.
+**Modelos iniciais** inclui uma coleção de modelos de email responsivos prontos para uso. Você pode usá-los como estão ou personalizá-los como desejar.
 
 ![](assets/email-template-picker-overview-4.png)
 
-**Meus modelos** O consiste em todos os modelos criados. Você também pode ter pastas.
+**Meus Modelos** consiste em todos os modelos que você criou. Você também pode ter pastas.
 
 ![](assets/five-2.png)
 
-Todas as pastas exibidas em Emails > Modelos na árvore do Design Studio estarão disponíveis em **Meus modelos**.
+Todas as pastas exibidas em Emails > Modelos na árvore do Design Studio estarão disponíveis em **Meus Modelos**.
 
 ![](assets/six-1.png)
 
@@ -49,7 +49,7 @@ O pré- visualizador mostra-lhe como o modelo irá renderizar em uma máquina de
 
 ![](assets/nine-1.png)
 
-Se gostar deste modelo, escolha-o clicando em **Selecionar** na parte inferior direita. Quer continuar procurando? Clique em **X** na parte superior direita. Use as setas para a esquerda e para a direita para percorrer os modelos.
+Se você gostar deste modelo, escolha-o clicando em **Selecionar** na parte inferior direita. Quer continuar procurando? Clique em **X** no canto superior direito. Use as setas para a esquerda e para a direita para percorrer os modelos.
 
 ![](assets/ten-1.png)
 

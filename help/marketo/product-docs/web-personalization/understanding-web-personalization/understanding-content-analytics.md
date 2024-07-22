@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ A página Análise de conteúdo exibe seu conteúdo existente descoberto (estudo
 
 ## Exibir análise de conteúdo {#view-content-analytics}
 
-Ir para **Análise de conteúdo**.
+Ir para **Análise de Conteúdo**.
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ A tabela Analytics fornece os seguintes detalhes:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Título</strong></td> 
-   <td colspan="1" rowspan="1">Nome do ativo de conteúdo digital. Clique em <strong>Título</strong> para abrir o URL de conteúdo em uma nova guia.</td> 
+   <td colspan="1" rowspan="1">Nome do ativo de conteúdo digital. Clique em <strong>Título</strong> para abrir a URL de Conteúdo em uma nova guia.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Recomendação </strong><strong>Ícone</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Indica se a parte do conteúdo foi adicionada para <a href="#">Recommendations de conteúdo</a>.</td> 
+   <td colspan="1">Indica se a parte do conteúdo foi adicionada para <a href="#">Recommendations de Conteúdo</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Exibições</strong></p></td> 
@@ -84,13 +84,13 @@ As análises de conteúdo adicionais incluem:
 
 **Analytics**
 
-* **Visualizações**: exibições desse conteúdo para o escopo de tempo selecionado
+* **Exibições**: exibições desse conteúdo para o escopo de tempo selecionado
 * **Conversões diretas**: visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita.
-* **Índice de conversão****:** Uma taxa de conversão de porcentagem calculada por Conversões diretas divididas por Cliques
+* **Taxa de Conversão****:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas dividida por Cliques
 
 **Tendências**
 
-* A **Tendências** gráfico que mostra os últimos 30 dias de exibições da parte do conteúdo específico. Passe o mouse sobre o gráfico de linhas para ver o número de visualizações de conteúdo de um dia específico
+* Um gráfico de **Tendências** que mostra os últimos 30 dias de exibição do conteúdo específico. Passe o mouse sobre o gráfico de linhas para ver o número de visualizações de conteúdo de um dia específico
 
 ## Excluir conteúdo {#delete-content}
 
@@ -100,5 +100,5 @@ Na página Análise de conteúdo, clique no ícone excluir do conteúdo que dese
 
 >[!MORELIKETHIS]
 >
->* [Ativar a Barra de recomendação de conteúdo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Ativar conteúdo preditivo para mídia avançada na Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Habilitar a Barra de Recomendação de Conteúdo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Habilitar Conteúdo Preditivo para Mídia Avançada na Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

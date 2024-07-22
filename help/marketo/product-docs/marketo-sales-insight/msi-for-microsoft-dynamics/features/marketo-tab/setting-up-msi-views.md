@@ -5,8 +5,8 @@ exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '252'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ A instalação do plug-in Sales Insight no Dynamics adiciona automaticamente as 
 
 1. Clique em **Personalizar o sistema**.
 
-1. Na árvore à esquerda, clique em **Extensões do cliente** e clique duas vezes em **Mapa do site**.
+1. Na árvore à esquerda, clique em **Extensões de Cliente** e clique duas vezes em **Mapa de Sites**.
 
 1. Clique na seta direita para ir para a próxima página. Em Vendas, você deve ver Marketo. Caso contrário, certifique-se de ter importado o pacote corretamente.
 
@@ -36,7 +36,7 @@ URL: MainviewBestbets.html</br>
 ID: marketo_bestbets</br>
 Título: Melhores Opções
 
-   **Meu email**</br>
+   **Meu Email**</br>
 URL: mkt_/MainViewMyEmail.html</br>
 Ícone: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
 ID: marketo_myemail</br>

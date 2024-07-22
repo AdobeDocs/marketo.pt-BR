@@ -6,7 +6,7 @@ exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >Se a sincronização de cancelamento de inscrição estiver ativada, remova o cancelamento de inscrição do ToutApp e desmarque a opção de não participação no Salesforce para que o registro de pessoa não seja sincronizado novamente.
 
-1. Vá para a [aplicativo web](https://toutapp.com/login) e clique em **Pessoas**.
+1. Vá para o [aplicativo Web](https://toutapp.com/login) e clique em **Pessoas**.
 
 1. Selecione a pessoa para abrir a exibição de detalhes da pessoa.
 

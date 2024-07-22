@@ -6,7 +6,7 @@ exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '288'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ A sincronização é uma maneira: do Salesforce para o Marketo Engage. As atuali
 
 >[!NOTE]
 >
->A variável [credenciais inseridas no Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} são usados para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
+>As [credenciais inseridas no Marketo para Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} são usadas para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
 
 ## Posso iniciar uma sincronização de oportunidade? {#can-i-initiate-an-opportunity-sync}
 
@@ -27,15 +27,15 @@ Não, não pode. As alterações em qualquer oportunidade no Salesforce serão s
 
 ## O Marketo oferece suporte a mais de uma moeda no Valor da oportunidade? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-Não, o Marketo oferece suporte a apenas uma moeda. O valor da oportunidade será sincronizado do Salesforce, mas a moeda será o [moeda padrão](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"} na sua assinatura do Marketo.
+Não, o Marketo oferece suporte a apenas uma moeda. O valor da oportunidade será sincronizado do Salesforce, mas a moeda será a [moeda padrão](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription){target="_blank"} na sua assinatura do Marketo.
 
 ## Como o Marketo associa oportunidades e contatos? {#how-does-marketo-associate-opportunities-and-contacts}
 
-A Marketo associa oportunidades e contatos usando [Funções do contato da oportunidade](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}. Oportunidades sem Funções de contato atribuídas serão sincronizadas com a Marketo, mas não pertencerão a ninguém. Por exemplo, a pessoa não qualificará o filtro Tem oportunidade.
+A Marketo associa oportunidades e contatos usando [Funções de contato da oportunidade](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}. Oportunidades sem Funções de contato atribuídas serão sincronizadas com a Marketo, mas não pertencerão a ninguém. Por exemplo, a pessoa não qualificará o filtro Tem oportunidade.
 
 ## Como posso ver todas as oportunidades de uma pessoa? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-É possível exibir uma lista de oportunidades no **Informações da oportunidade** na guia [Detalhes da pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} página.
+Você pode exibir uma lista de oportunidades na guia **Informações da oportunidade** na página [Detalhes da pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ## Quais são os acionadores/filtros relacionados à oportunidade? {#what-are-the-triggers-filters-related-to-opportunity}
 

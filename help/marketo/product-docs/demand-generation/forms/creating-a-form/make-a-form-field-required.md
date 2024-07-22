@@ -7,19 +7,19 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
 # Tornar um campo de formulário obrigatório {#make-a-form-field-required}
 
-Quando [adição de campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) talvez você queira que algumas delas sejam necessárias para a pessoa que as preencheu. Veja como.
+Ao [adicionar campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md), talvez você queira tornar alguns deles obrigatórios para a pessoa que os preencherá. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/editform-2.png)
 
@@ -31,12 +31,12 @@ Quando [adição de campos a um formulário](/help/marketo/product-docs/demand-g
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->Não se esqueça de [aprovar qualquer landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) este formulário continua em vigor para que as alterações sejam ativadas.
+>Não se esqueça de [aprovar qualquer página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) deste formulário para que as alterações entrem em vigor.
 
-Você precisa [reordenar os campos adicionados ao formulário](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Você precisa [reordenar os campos adicionados ao seu formulário](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

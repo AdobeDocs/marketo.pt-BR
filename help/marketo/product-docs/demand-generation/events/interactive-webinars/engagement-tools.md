@@ -49,7 +49,7 @@ O pod de chat é usado para se comunicar com outros participantes na sala. Os ch
 
 Um pod de chat adicionado na área Host e Apresentador pode ser usado para se comunicar de forma privada com a equipe de apresentação. Para saber mais sobre o pod Chat, consulte este artigo de ajuda do Adobe e este vídeo.
 
-OBSERVAÇÃO: um pod de chat é sempre gravado. Use um Painel de Bate-papo se não quiser que os bate-papos façam parte da gravação. Para saber mais sobre o pod Chat, consulte este artigo de ajuda do Adobe. [Vincule isso à seção Chats in Recording da nova página de webinários interativos de delivery].
+OBSERVAÇÃO: um pod de chat é sempre gravado. Use um Painel de Bate-papo se não quiser que os bate-papos façam parte da gravação. Para saber mais sobre o pod Chat, consulte este artigo de ajuda do Adobe. [Vincule isso aos Bate-papos na seção Gravação da nova página de webinários interativos de Entrega].
 
 CAPTURA DE TELA
 

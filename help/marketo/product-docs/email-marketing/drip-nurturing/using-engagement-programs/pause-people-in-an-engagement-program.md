@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Pausar Pessoas em um Programa de Envolvimento {#pause-people-in-an-engagement-program}
 
-Quando uma pessoa é membro de um programa de engajamento, ela receberá conteúdo até que tenha [esgotou todo o conteúdo](people-who-have-exhausted-content.md). Você pode usar o [Alterar cadência do programa de engajamento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) etapa de fluxo para impedir que as pessoas recebam conteúdo mesmo que ainda não tenham esgotado o conteúdo.
+Quando uma pessoa é membro de um programa de envolvimento, ela receberá conteúdo até que ela [tenha esgotado todo o conteúdo](people-who-have-exhausted-content.md). Você pode usar a etapa de fluxo [Alterar cadência do programa de envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) para impedir que as pessoas recebam conteúdo mesmo que ainda não tenham esgotado o conteúdo.
 
 1. Selecione o programa de envolvimento.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Selecionar **Pausado** como o **Novo Valor** para impedir que a pessoa receba conteúdo.
+1. Selecione **Pausado** como o **Novo valor** para impedir que a pessoa receba conteúdo.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   Você pode restaurar a pessoa para **Normal** se quiser que eles comecem a receber conteúdo novamente. Eles retomarão de onde pararam.
+   Você pode definir a pessoa de volta para **Normal** se desejar que ela comece a receber conteúdo novamente. Eles retomarão de onde pararam.
 
    >[!NOTE]
    >

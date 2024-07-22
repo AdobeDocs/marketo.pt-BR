@@ -21,7 +21,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **[!UICONTROL Admin]**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
@@ -29,11 +29,11 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    ![](assets/two-2.png)
 
-1. Se este for seu primeiro Objeto Personalizado, clique em **[!UICONTROL Sincronizar esquema]**. Caso contrário, clique **[!UICONTROL Atualizar esquema]** para garantir que você tenha a versão mais recente.
+1. Se este for seu primeiro Objeto Personalizado, clique em **[!UICONTROL Sincronizar esquema]**. Caso contrário, clique em **[!UICONTROL Atualizar esquema]** para verificar se você tem o mais recente.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
-1. Se sua sincronização global estiver em execução, será necessário desabilitá-la clicando em **[!UICONTROL Desabilitar Sincronização Global]**.
+1. Se sua sincronização global estiver em execução, você terá que desabilitá-la clicando em **[!UICONTROL Desabilitar Sincronização Global]**.
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -41,11 +41,11 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
    >
    >A sincronização do esquema de objeto personalizado do Salesforce pode levar alguns minutos.
 
-1. Clique em **[!UICONTROL Atualizar esquema]**.
+1. Clique em **[!UICONTROL Atualizar Esquema]**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Selecione o objeto que deseja sincronizar e clique em **[!UICONTROL Habilitar sincronização]**.
+1. Selecione o objeto que deseja sincronizar e clique em **[!UICONTROL Habilitar Sincronização]**.
 
    >[!TIP]
    >
@@ -53,11 +53,11 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Clique em **[!UICONTROL Habilitar sincronização]** novamente.
+1. Clique em **[!UICONTROL Habilitar Sincronização]** novamente.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Volte para o **[!DNL Salesforce]** e clique em **[!UICONTROL Habilitar sincronização]**.
+1. Volte para a guia **[!DNL Salesforce]** e clique em **[!UICONTROL Habilitar Sincronização]**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 >
 >Não é possível usar objetos personalizados em Campanhas inteligentes com acionadores.
 
-1. Na sua lista inteligente, arraste sobre a **[!UICONTROL Tem oportunidade]** filtrar e definir como **[!UICONTROL true]**.
+1. Em sua Smart List, arraste sobre o filtro **[!UICONTROL Tem oportunidade]** e defina como **[!UICONTROL true]**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -79,4 +79,4 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 >[!MORELIKETHIS]
 >
->[Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[Adicionar/Remover Campo de Objeto Personalizado como Lista Inteligente/Restrições do Acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

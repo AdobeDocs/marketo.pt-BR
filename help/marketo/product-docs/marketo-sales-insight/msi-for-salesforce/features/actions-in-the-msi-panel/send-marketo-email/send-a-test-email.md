@@ -16,7 +16,7 @@ Antes de enviar um email, você pode testar o formato do email e os tokens envia
 
 1. Navegue até o painel Sales Insight no Salesforce de um cliente potencial ou contato.
 
-1. Clique em **Enviar email do Marketo**.
+1. Clique em **Enviar Email do Marketo**.
 
 1. Clique em **Editar Destinatários de Teste**.
 
@@ -26,7 +26,7 @@ Antes de enviar um email, você pode testar o formato do email e os tokens envia
 
    >[!NOTE]
    >
-   >Como lembrete, selecionar esses clientes potenciais **não** envie a eles o teste de email, ele mostra _como ficará o email para eles_. Se você escolher quatro leads, você receberá quatro emails de teste diferentes.
+   >Como lembrete, selecionar esses clientes potenciais **não** envia a eles o teste de email, ele mostra _como será a aparência do email_. Se você escolher quatro leads, você receberá quatro emails de teste diferentes.
 
 1. Clique em **Enviar teste**.
 

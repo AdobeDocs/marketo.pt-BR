@@ -5,7 +5,7 @@ exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Depois de adicionado como um administrador de sistema do Adobe para o Marketo En
 
    ![](assets/admin-setup-1.png)
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Adobe Admin Console. Caso contrário, [configurar seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
@@ -28,7 +28,7 @@ Depois de adicionado como um administrador de sistema do Adobe para o Marketo En
 
 Depois que o administrador do sistema acessar o Admin Console, é hora de criar um perfil de produto. É assim que seus usuários/administradores obtêm acesso ao Marketo Engage.
 
-1. No **[!UICONTROL Visão geral]** página, em **[!UICONTROL Produtos e serviços]**, clique em **Marketo Engage**.
+1. Na página **[!UICONTROL Visão geral]**, em **[!UICONTROL Produtos e serviços]**, clique em **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 
@@ -40,11 +40,11 @@ Depois que o administrador do sistema acessar o Admin Console, é hora de criar 
    >
    >Se você tiver várias assinaturas, essas etapas deverão ser seguidas para cada uma.
 
-1. Clique em **[!UICONTROL Novo perfil]** botão.
+1. Clique no botão **[!UICONTROL Novo Perfil]**.
 
    ![](assets/admin-setup-5.png)
 
-1. Dê um nome ao Perfil do produto (o Nome de exibição e a Descrição são opcionais) e clique em **[!UICONTROL Salvar]**.
+1. Dê um nome ao Perfil de Produto (o Nome de Exibição e a Descrição são opcionais) e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/admin-setup-6.png)
 

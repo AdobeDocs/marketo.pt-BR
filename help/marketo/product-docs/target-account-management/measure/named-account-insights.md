@@ -6,8 +6,8 @@ exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 4%
+source-wordcount: '424'
+ht-degree: 3%
 
 ---
 
@@ -19,13 +19,13 @@ O Painel de contas nomeadas fornece uma visualização de 360 graus de uma conta
 
 ## Painel {#dashboard}
 
-O painel agrega os principais insights em nível de conta de todas as pessoas em uma conta nomeada, evitando a necessidade de ir a cada pessoa para avaliar seu progresso. Você pode detalhar a atividade de email usando o [Insights de email](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+O painel agrega os principais insights em nível de conta de todas as pessoas em uma conta nomeada, evitando a necessidade de ir a cada pessoa para avaliar seu progresso. Você pode detalhar a atividade de email usando [Insights de email](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
 >Os gráficos mostram insights dos últimos 90 dias.
 
-**Engajamento com a conta ao longo do tempo** Clique em **Exibir** à direita para alterar o que você vê por. Além da Pontuação da conta, você pode ver por Receita total...
+**Engajamento na conta ao longo do tempo** Clique no menu suspenso **Exibir** à direita para alterar o que você vê por. Além da Pontuação da conta, você pode ver por Receita total...
 
 ![](assets/two-new.png)
 
@@ -50,21 +50,21 @@ O painel agrega os principais insights em nível de conta de todas as pessoas em
  </tbody> 
 </table>
 
-**Momentos interessantes**
+**Momentos Interessantes**
 
 Disponível para os usuários do Marketo Sales Insight, consulte os momentos interessantes acumulados no nível da conta.
 
 ![](assets/int-mom.png)
 
-**Principais pessoas**
+**Principais Pessoas**
 
-Essas pessoas são calculadas com base em prioridades que são baseadas em recenticidade ou urgência mostradas por pessoas de contas nomeadas (o mesmo que [Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) em Sales Insight) ou Pontuações definidas pelo usuário. **Prioridade** O só está disponível para usuários do Marketo Sales Insight.
+Essas pessoas são calculadas com base nas prioridades que são baseadas na recenticidade ou urgência mostrada por pessoas de contas nomeadas (as mesmas [Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) no Sales Insight) ou Pontuações definidas pelo usuário. A **Prioridade** está disponível somente para usuários do Marketo Sales Insight.
 
 ![](assets/top-ten.png)
 
-**Inclui filhos**
+**Inclui Filhos**
 
-Clique em **Inclui filhos** para ver e escolher as contas secundárias da conta nomeada selecionada e exibir sua análise agregada.
+Clique em **Inclui Filhos** para ver e escolher as contas secundárias da conta nomeada selecionada e exibir sua análise agregada.
 
 ![](assets/abm.png)
 
@@ -92,7 +92,7 @@ A correspondência entre lead e conta usa lógica difusa para encontrar correspo
 
 >[!NOTE]
 >
->Para adicionar qualquer uma das pessoas listadas, selecione-as e clique em **Adicionar pessoas**.
+>Para adicionar qualquer uma das pessoas listadas, selecione-as e clique em **Adicionar Pessoas**.
 
 ## Usado por {#used-by}
 
@@ -108,10 +108,10 @@ Exiba membros da equipe de conta, adicione/remova membros e atribua até mesmo u
 
 >[!NOTE]
 >
->Clique em **Ações da equipe da conta** para adicionar/remover membros da conta ou atribuir um proprietário da conta.
+>Clique no menu suspenso **Ações da Equipe da Conta** para adicionar/remover membros da conta ou atribuir um proprietário da conta.
 
 ## Indicadores de ICP {#icp-indicators}
 
-Exibir os Indicadores ICP selecionados para exportação quando você [ajustou seu modelo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Exiba os Indicadores ICP selecionados para exportação quando você [ajustou seu modelo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

@@ -5,7 +5,7 @@ exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* Salesforce e Marketo Sales Connect [deve estar conectado](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* Registrar atividade de email por meio da API [deve ser ativado](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* Salesforce e Marketo Sales Connect [devem estar conectados](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* A atividade de email de log via API [deve ser habilitada](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 A Personalização dos detalhes da atividade permite que os administradores configurem as informações que farão logon na Tarefa do Salesforce - Campo de assunto, quando uma atividade de Conexão de vendas/tarefa de lembrete for sincronizada com o Salesforce.
 
 >[!NOTE]
 >
->* As atualizações feitas no campo assunto no Sales Connect de uma tarefa de lembrete serão refletidas no campo assunto da tarefa do Salesforce correspondente, se você estiver usando o `{{activity_subject}}` campo dinâmico na Personalização dos detalhes da atividade.
+>* As atualizações feitas no campo de assunto no Sales Connect de uma tarefa de lembrete serão refletidas no campo de assunto da tarefa do Salesforce correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` na Personalização dos detalhes da atividade.
 >* Quebras de linha não são suportadas ao registrar informações no campo de assunto do Salesforce. Quaisquer quebras de linha no editor de Personalização de Detalhes da Atividade serão removidas quando um assunto da tarefa de vendas for atualizado.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -127,7 +127,7 @@ Ao configurar os detalhes da atividade, considere quais dados seriam mais releva
    >
    >Embora não seja obrigatório, quebrar o texto adicionado em colchetes pode facilitar para algumas pessoas discernir entre os dados quando eles são preenchidos em um campo de assunto no Salesforce. Exemplo: `[Sales Connect] - {{Activity_type}}`
 
-1. Adicione outros campos dinâmicos desejados clicando no link **Adicionar campo dinâmico** botão.
+1. Adicione outros campos dinâmicos desejados clicando no botão **Adicionar Campo Dinâmico**.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -146,5 +146,5 @@ Ao configurar os detalhes da atividade, considere quais dados seriam mais releva
 >[!MORELIKETHIS]
 >
 >* [Configurações de sincronização](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Lembrete de sincronização de tarefas com o Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [Sincronização de tarefas de lembrete com o Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
 >* [Personalização do Sales Connect para CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

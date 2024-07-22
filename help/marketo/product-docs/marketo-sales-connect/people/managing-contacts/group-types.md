@@ -24,7 +24,7 @@ Saiba mais sobre os diferentes tipos de grupo no Sales Connect.
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Agrupar</th> 
+   <th>Grupo</th> 
    <th>Descrição</th> 
   </tr> 
   <tr> 

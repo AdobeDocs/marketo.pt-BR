@@ -22,7 +22,7 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Em Configurações do administrador, clique em **Cancelamentos de assinatura**.
+1. Em Configurações do administrador, clique em **Cancelar assinatura**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,7 +38,7 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
    >
    >Não importa o URL inserido. Quando o email é enviado, o primeiro (ou único) hiperlink é vinculado automaticamente à página de cancelamento de inscrição padrão.
 
-1. Insira um URL, determine se deseja que o link seja aberto na janela atual ou em uma nova janela e clique em **Salvar**.
+1. Insira uma URL, determine se deseja que o link seja aberto na janela atual ou em uma nova janela e clique em **Salvar**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 

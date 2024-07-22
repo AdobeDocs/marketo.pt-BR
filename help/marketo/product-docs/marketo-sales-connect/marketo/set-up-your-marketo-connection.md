@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Ao provisionar o MSC, a Marketo enviará automaticamente suas credenciais para o Sales Connect e conectará sua instância ao Marketo. Esta etapa é obrigatória **somente se você não estiver vendo a conexão estabelecida** após o provisionamento da instância do Sales Connect. Se sua conexão for estabelecida, você verá suas credenciais inseridas na página Configurações de administração do Marketo.
+>Ao provisionar o MSC, a Marketo enviará automaticamente suas credenciais para o Sales Connect e conectará sua instância ao Marketo. Esta etapa é necessária **somente se você não estiver vendo a conexão estabelecida** após o provisionamento da instância do Sales Connect. Se sua conexão for estabelecida, você verá suas credenciais inseridas na página Configurações de administração do Marketo.
 
 ## Adquirir credenciais antes de conectar o Sales Connect ao Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
@@ -24,7 +24,7 @@ Você precisará obter um conjunto de credenciais no Marketo. Essas credenciais 
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. Na árvore, clique em **Conexão de vendas**.
+1. Na árvore, clique em **Sales Connect**.
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
@@ -42,10 +42,10 @@ Você precisará obter um conjunto de credenciais no Marketo. Essas credenciais 
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. Em Configurações do administrador, selecione **Marketo**.
+1. Em Configurações do Administrador, selecione **Marketo**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. Insira as credenciais do Marketo fornecidas pelo administrador do Marketo e clique em **Conectar**.
+1. Insira as credenciais do Marketo fornecidas pelo Administrador do Marketo e clique em **Conectar**.
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

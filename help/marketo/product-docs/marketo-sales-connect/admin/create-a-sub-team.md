@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Em Configurações do administrador, selecione **Gerenciamento de Equipe**.
+1. Em Configurações de Administração, selecione **Gerenciamento de Equipe**.
 
    ![](assets/two-1.png)
 
-1. Ao lado de Todas as equipes, clique no link **+**.
+1. Ao lado de Todas as Equipes, clique no **+**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Adicionar Pessoas à sua Subequipe {#add-people-to-your-sub-team}
 
-1. Ainda em Gerenciamento de Equipe, selecione o **Todos** grupo.
+1. Ainda no Gerenciamento de Equipe, selecione o grupo **Todos**.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Clique em **Adicionar selecionados às equipes**.
+1. Clique em **Adicionar seleção às equipes**.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Clique em **Adicionar a equipes** quando terminar.
+1. Clique em **Adicionar às Equipes** quando terminar.
 
    ![](assets/nine.png)

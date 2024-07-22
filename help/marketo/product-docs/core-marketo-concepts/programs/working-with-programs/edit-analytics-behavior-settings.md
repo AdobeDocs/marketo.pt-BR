@@ -7,15 +7,15 @@ feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 8%
+ht-degree: 6%
 
 ---
 
 # Editar configurações de comportamento das análises {#edit-analytics-behavior-settings}
 
-Você pode definir a variável [comportamento do analytics no nível administrativo nos canais](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, mas também é possível editá-lo no nível do programa. Veja como.
+Você pode definir o [comportamento do analytics no nível do administrador nos canais](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, mas também pode editá-lo no nível do programa. Veja como.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Você pode definir a variável [comportamento do analytics no nível administrat
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. No **[!UICONTROL Configuração]** , arraste [!UICONTROL Comportamento do Analytics] sobre a tela.
+1. Na guia **[!UICONTROL Configuração]**, arraste o [!UICONTROL Comportamento do Analytics] para a tela.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,9 +35,9 @@ Você pode definir a variável [comportamento do analytics no nível administrat
 >
 >**Definição**
 >
->**[!UICONTROL Inclusivo]** - Essa opção garantirá que o programa esteja disponível para relatórios no explorador e nos analisadores de receita, independentemente de você ter incluído ou não um custo do período.
+>**[!UICONTROL Inclusivo]** - Essa opção garantirá que o programa esteja disponível para relatórios no Gerenciador de receita e nos analisadores, independentemente de você ter incluído ou não um custo de período.
 >
->**[!UICONTROL Operacional]** - Esta opção faz com que o programa não seja exibido no Gerenciador de receita ou nos analisadores.
+>**[!UICONTROL Operacional]** - Esta opção faz com que o programa não apareça no Gerenciador de Receitas nem nos Analisadores.
 
 >[!NOTE]
 >

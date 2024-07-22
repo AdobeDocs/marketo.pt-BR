@@ -17,19 +17,19 @@ Procure atividades que são mais importantes para você no registro de atividade
 
 >[!NOTE]
 >
->Saiba mais sobre [o registro de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
+>Saiba mais sobre [o log de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
-1. Vá para a página Detalhes da Pessoa. Clique em **[!UICONTROL Log de atividades]** guia.
+1. Vá para a página Detalhes da Pessoa. Clique na guia **[!UICONTROL Log de atividades]**.
 
    ![](assets/one.png)
 
-1. Selecione o **[!UICONTROL Filtro]** menu suspenso.
+1. Selecione o menu suspenso **[!UICONTROL Filtro]**.
 
    ![](assets/two-3.png)
 
 ## Criação de filtros personalizados {#creating-custom-filters}
 
-1. Clique em **[!UICONTROL Filtro]** menu suspenso. Selecionar **[!UICONTROL Personalizado]**.
+1. Clique no menu suspenso **[!UICONTROL Filtro]**. Selecione **[!UICONTROL Personalizado]**.
 
    ![](assets/three-3.png)
 
@@ -37,7 +37,7 @@ Procure atividades que são mais importantes para você no registro de atividade
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Insira um **[!UICONTROL nome do filtro personalizado]**. Clique em **[!UICONTROL Salvar]**.
+1. Insira um **[!UICONTROL nome de filtro personalizado]**. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ Procure atividades que são mais importantes para você no registro de atividade
 
 ## Filtros salvos de referência {#reference-saved-filters}
 
-Filtros salvos podem ser acessados no [!UICONTROL Filtro] menu suspenso.
+Filtros salvos podem ser acessados no menu suspenso [!UICONTROL Filtro].
 
-1. Clique em **[!UICONTROL Filtros]** menu suspenso. Selecionar **[!UICONTROL Personalizado]**.
+1. Clique no menu suspenso **[!UICONTROL Filtros]**. Selecione **[!UICONTROL Personalizado]**.
 
    ![](assets/seven-1.png)
 
-1. Clique em **[!UICONTROL Filtros salvos]**. Os filtros salvos estão listados abaixo.
+1. Clique em **[!UICONTROL Filtros Salvos]**. Os filtros salvos estão listados abaixo.
 
    ![](assets/eight.png)

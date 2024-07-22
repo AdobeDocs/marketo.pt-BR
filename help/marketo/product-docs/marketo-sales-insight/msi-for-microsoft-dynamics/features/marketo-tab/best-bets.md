@@ -18,6 +18,6 @@ Ao clicar no menu de pontos na coluna Ações, você pode usar opções de engaj
 * Enviar e-mail do Marketo
 * Adicionar à campanha do Marketo
 
-Você também pode selecionar vários leads na guia Melhores Opções e escolher _Enviar email do Marketo_ ou _Adicionar ao Marketo Campaign_.
+Você também pode selecionar vários clientes em potencial na guia Melhores Opções e escolher _Enviar Email do Marketo_ ou _Adicionar ao Marketo Campaign_.
 
 ![](assets/best-bets-1.png)

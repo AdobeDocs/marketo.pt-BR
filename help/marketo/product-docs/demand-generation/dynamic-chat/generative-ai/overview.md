@@ -16,7 +16,7 @@ Os recursos alimentados por IA gerativa no Adobe Dynamic Chat permitem otimizar 
 
 ## Permissões {#permissions}
 
-Para usar IA gerativa, conceda aos usuários desejados a proteção apropriada [permissões](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+Para usar IA gerativa, conceda aos usuários desejados as [permissões](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) apropriadas.
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,25 +40,25 @@ Normalmente, para obter o contexto completo de uma conversa de visitante, é nec
 
 ## Geração de perguntas {#question-generation}
 
-[Elevar experiências de entrada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) com conversas assistidas por IA para visitantes que usam uma interface treinada com vendas, marketing e conhecimento sobre produtos.
+[Aumente as experiências de entrada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) com conversas assistidas por IA para visitantes que usam uma interface treinada com vendas, marketing e conhecimento sobre produtos.
 
 ![](assets/generative-ai-overview-5.png)
 
 ## Biblioteca de respostas {#response-library}
 
-[Produzir uma coleção personalizada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de perguntas e respostas, todas pré-aprovadas por você, para uso em campanhas de chat da IA gerativa.
+[Produza uma coleção personalizada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de perguntas e respostas, todas pré-aprovadas por você, para uso em campanhas de chat da IA gerativa.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Log de atividade {#activity-log}
 
-[Ver uma lista de todas as tarefas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) e os detalhes que os acompanham, incluindo nome, proprietário, tipo e quem os editou e quando.
+[Veja uma lista de todas as tarefas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) e seus detalhes de acompanhamento, incluindo nome, proprietário, tipo, quem as editou e quando.
 
 ![](assets/generative-ai-overview-7.png)
 
 ## Perguntas não respondidas {#unanswered-questions}
 
-[Criar respostas adicionais pré-aprovadas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) para sua biblioteca de respostas usando IA com base em um repositório de perguntas não respondidas de conversas anteriores.
+[Crie respostas adicionais pré-aprovadas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) para sua biblioteca de respostas usando a IA com base em um repositório de perguntas não respondidas de conversas anteriores.
 
 ![](assets/generative-ai-overview-8.png)
 
@@ -70,18 +70,18 @@ Os Tópicos discutidos estão disponíveis em Acionadores e filtros de Smart Lis
 
 >[!IMPORTANT]
 >
->Ao usar IA gerativa, você deve seguir as [Diretrizes de usuário da IA geradora da Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) para que possamos garantir que os recursos do Adobe Experience Cloud que incorporam IA gerativa estejam sendo usados de maneira segura e responsável.
+>Ao usar a IA gerativa, você deve seguir as [Diretrizes de usuário da IA gerativa da Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) para garantir que os recursos do Adobe Experience Cloud que incorporam a IA gerativa estejam sendo usados de maneira segura e responsável.
 
 ## Perguntas frequentes {#faq}
 
-**A IA gerativa está disponível para todos os usuários do Dynamic Chat?**
+**A IA gerativa está disponível para todos os usuários Dynamic Chat?**
 
 A IA gerativa só está disponível para assinantes do Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-**Existe um limite para a quantidade de perguntas e respostas que eu posso ter gerado?**
+**Há um limite para a quantidade de perguntas e respostas que eu posso ter gerado?**
 
 Sim. No momento, há um limite de vida útil de 1000.
 
-**Quais idiomas estão disponíveis na IA gerativa?**
+**Que idiomas estão disponíveis na IA gerativa?**
 
 Atualmente, somente o inglês é compatível com a IA gerativa.

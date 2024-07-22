@@ -21,11 +21,11 @@ Os campos personalizados do Membro do Programa permitem coletar dados específic
 
    ![](assets/one.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/two.png)
 
-1. Clique em **[!UICONTROL Novo campo personalizado]**.
+1. Clique em **[!UICONTROL Novo Campo Personalizado]**.
 
    ![](assets/three.png)
 
@@ -43,7 +43,7 @@ Os campos personalizados do Membro do Programa permitem coletar dados específic
 
    >[!NOTE]
    >
-   >Os tipos suportados para campos personalizados de Membro do programa são: booleano, data, data e hora, flutuação, número inteiro, sequência, URL. [Saiba mais sobre tipos de campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Os tipos suportados para campos personalizados de Membro do programa são: booleano, data, data e hora, flutuação, número inteiro, sequência, URL. [Saiba mais sobre os tipos de campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Descrições de objeto {#object-descriptions}
 
@@ -56,7 +56,7 @@ Os campos personalizados do Membro do Programa permitem coletar dados específic
 
 ## Acionadores e filtros {#triggers-and-filters}
 
-Você pode aproveitar esses dados específicos do programa em listas inteligentes via [acionadores](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} e/ou [filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+Você pode aproveitar estes dados específicos do programa em listas inteligentes através de [acionadores](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} e/ou [filtros](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -64,11 +64,11 @@ Você pode aproveitar esses dados específicos do programa em listas inteligente
 
 * Os campos personalizados dos membros do programa estão disponíveis somente em ativos locais. Eles não são compatíveis com o Design Studio porque não há como vinculá-los a um programa específico.
 * Não é possível clonar/mover um formulário (ou uma página de aterrissagem com um formulário) que contenha campos personalizados de Membro do programa para o Design Studio.
-* [Você pode sincronizar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} os Campos personalizados do membro do programa com Campos personalizados do membro da campanha.
+* [Você pode sincronizar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} os Campos Personalizados de Membros do Programa com Campos Personalizados de Membros do Campaign.
 * O objeto Membro do programa pode ter até 20 campos personalizados. Esses campos estão disponíveis para qualquer programa.
 * Ao remover um membro de um programa, se ele tiver dados em seu campo personalizado Membro do programa, os dados serão removidos desse campo.
 * Para exibir os dados, clique na guia Membros no programa e crie uma exibição personalizada que inclua esses campos.
-* Importar e exportar via [lista](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} são compatíveis. As exportações funcionam somente em listas de Membros do programa, não em listas estáticas.
+* Há suporte para importação e exportação via [lista](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"}. As exportações funcionam somente em listas de Membros do programa, não em listas estáticas.
 * Quando você mescla duas pessoas, os dados do campo personalizado do Membro do programa do vencedor são usados. Mas se o vencedor não tiver nenhum, o valor do perdedor será usado.
 * O tipo de alteração não é permitido em campos de Informações do membro do programa.
 * A restrição &quot;contém&quot; Smart List não é compatível com campos personalizados de Membro do Programa.

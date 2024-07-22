@@ -15,23 +15,23 @@ ht-degree: 1%
 
 Se um visitante é diagnosticado (pessoa conhecida que forneceu um endereço de email no passado), por que se preocupar com o formulário? Dê a eles o botão de download. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Em **Atividades de marketing**, selecione o formulário e clique em **Editar formulário**.
+1. Em **Atividades de marketing**, selecione seu formulário e clique em **Editar formulário**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Em **Configurações do formulário**, clique em **Configurações**.
+1. Em **Configurações de Formulário**, clique em **Configurações**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Definir Se **Visitante conhecido, Mostrar**: para **HTML personalizado**.
+1. Defina Se **Visitante conhecido, Mostrar**: como **HTML personalizado**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Clique em ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **HTML personalizado** isso será mostrado para pessoas conhecidas.
+1. Clique no ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **HTML personalizado** que será exibido para pessoas conhecidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,8 +45,8 @@ Se um visitante é diagnosticado (pessoa conhecida que forneceu um endereço de 
    |---|---|
    | `{{lead.FirstName}}` | Isso exibirá o nome da pessoa. |
    | `{{lead.LastName}}` | Isso exibirá o sobrenome da pessoa. |
-   | `{{form.Button:default=Download}}` | Isso exibirá o botão de formulário. Substitua a área após a tag `=` para alterar o texto do botão. |
-   | `{{form.NotYou:default=Not you?}}` | Isso exibirá um link caso a pessoa seja outra pessoa. Substitua a área após a tag `=` para alterar o texto do link. |
+   | `{{form.Button:default=Download}}` | Isso exibirá o botão de formulário. Substitua a área após `=` para alterar o texto do botão. |
+   | `{{form.NotYou:default=Not you?}}` | Isso exibirá um link caso a pessoa seja outra pessoa. Substitua a área após `=` para alterar o texto do link. |
 
    >[!CAUTION]
    >
@@ -56,7 +56,7 @@ Se um visitante é diagnosticado (pessoa conhecida que forneceu um endereço de 
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    >[!NOTE]
    >
@@ -66,7 +66,7 @@ Se um visitante é diagnosticado (pessoa conhecida que forneceu um endereço de 
 
    >[!NOTE]
    >
-   >Lembre-se de [aprovar o rascunho da página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+   >Lembre-se de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
    Pedaço de bolo! Confira o que uma pessoa veria se voltasse ao mesmo formulário:
 

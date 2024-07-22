@@ -19,7 +19,7 @@ Você pode usar o design de botão padrão, modificá-lo ou carregar sua própri
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Para alterar a cor do botão padrão, clique no botão **Cor** botão.
+1. Para alterar a cor do botão padrão, clique no botão **Cor**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,7 +31,7 @@ Você pode usar o design de botão padrão, modificá-lo ou carregar sua própri
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Se quiser usar sua própria imagem para um botão, clique no botão Imagem e clique em **Selecionar imagem**.
+1. Se quiser usar sua própria imagem para um botão, clique no botão Imagem e clique em **Selecionar Imagem**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
@@ -51,7 +51,7 @@ Você pode usar o design de botão padrão, modificá-lo ou carregar sua própri
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Escolher estilo de fonte para ênfase: **Negrito**, _Itálico_, ou Sublinhado.
+1. Escolha o estilo de fonte para ênfase: **Negrito**, _Itálico_ ou Sublinhado.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -71,9 +71,9 @@ Você pode usar o design de botão padrão, modificá-lo ou carregar sua própri
    >
    >O botão sempre tem uma ação de toque, portanto, a caixa de seleção Toque em ação é selecionada automaticamente, com a mensagem padrão &quot;Ignorar mensagem&quot;.
 
-Quase lá. Seu último passo é [configurar o plano de fundo da mensagem no aplicativo e o botão ignorar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Quase lá. A última etapa é [configurar o plano de fundo da mensagem no aplicativo e fechar o botão](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre mensagens no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Noções Básicas Sobre Mensagens No Aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Escolha um layout para a mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

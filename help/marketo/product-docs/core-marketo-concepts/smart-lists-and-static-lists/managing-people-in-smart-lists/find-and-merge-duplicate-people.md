@@ -6,7 +6,7 @@ exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
 
 >[!PREREQUISITES]
 >
->A descoberta e a mesclagem de duplicatas envolverão o uso de [Smart Lists integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Encontrar e mesclar duplicatas envolverá o uso de [Smart Lists integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
 
 ## Localizar duplicados {#find-duplicates}
 
-1. Vá para a **[!UICONTROL Banco de dados]** área.
+1. Vá para a área **[!UICONTROL Banco de Dados]**.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,21 +37,21 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
    >
    >A mesclagem de pessoas no Marketo pode não funcionar se você usar uma conta pessoal do Salesforce. Mescle os registros no Salesforce, se possível.
 
-1. Selecione o **[!UICONTROL Possíveis duplicatas]** System Smart List (Lista inteligente do sistema) e clique no botão **[!UICONTROL Pessoas]** guia.
+1. Selecione a **[!UICONTROL Possíveis duplicatas]** da Smart List do Sistema e clique na guia **[!UICONTROL Pessoas]**.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >Também é possível [Localizar pessoas duplicadas com lógica personalizada](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
+   >Você também pode [Localizar Pessoas Duplicadas com Lógica Personalizada](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Mesclar Pessoas Manualmente {#merge-people-manually}
 
 >[!CAUTION]
 >
->Ao mesclar pessoas, se a pessoa perdida tiver um objeto personalizado do Marketo, isso _não_ seja reassociado à pessoa vencedora. Reordene o objeto personalizado antes de executar a mesclagem.
+>Ao mesclar pessoas, se a pessoa perdida tiver um objeto personalizado Marketo, ela _não_ será reassociada à pessoa vencedora. Reordene o objeto personalizado antes de executar a mesclagem.
 
-1. Selecione as duplicatas mantendo pressionada a tecla Ctrl/Cmd e clicando em e, em seguida, clique em **[!UICONTROL Mesclar pessoas]**.
+1. Selecione as duplicatas mantendo pressionada a tecla Ctrl/Cmd e clicando em e depois clique em **[!UICONTROL Mesclar pessoas]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
    >
    >Você pode ter duas ou mais duplicatas para a mesma pessoa - selecione-as todas de uma vez.
 
-1. Você verá os valores entre os registros _não_ corresponde. Selecione o valor que deseja manter para cada campo. Clique em **[!UICONTROL Mesclar]** quando terminar. Se você não quiser nenhum valor, verifique **[!UICONTROL Personalizado]** e insira um valor de sua escolha.
+1. Você verá os valores entre os registros que _não_ correspondem. Selecione o valor que deseja manter para cada campo. Clique em **[!UICONTROL Mesclar]** quando terminar. Se você não quiser nenhum valor, marque **[!UICONTROL Personalizado]** e insira um valor de sua escolha.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 

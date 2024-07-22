@@ -24,11 +24,11 @@ A equipe de vendas pode acessar os recursos dos pontos mais altos em Ações do 
 
    ![](assets/highspot-integration-1.png)
 
-1. Em **Configurações do administrador**, selecione **Geral**.
+1. Em **Configurações do Administrador**, selecione **Geral**.
 
    ![](assets/highspot-integration-2.png)
 
-1. Navegue até **Integrações** e clique no controle deslizante para ativar o Highspot.
+1. Role até o cartão **Integrações** e clique no controle deslizante para habilitar o Highspot.
 
    ![](assets/highspot-integration-3.png)
 
@@ -40,7 +40,7 @@ Agora os usuários verão uma opção para selecionar Realce ao selecionar o bot
 
 Acesse o Highspot e adicione conteúdo aos seus emails da janela de composição Ações do Sales Insight, do editor de modelo e do editor de email da campanha de vendas. Abaixo estão as etapas sobre como acessar conteúdo da janela de composição.
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos selecionando **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso; neste exemplo, estamos selecionando **Compor** no cabeçalho).
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ Acesse o Highspot e adicione conteúdo aos seus emails da janela de composição
 
    ![](assets/highspot-integration-6.png)
 
-1. Escreva sua mensagem. Clique no local do email em que deseja inserir o conteúdo do ponto mais alto. Clique na lista suspensa de setas (ao lado do ícone de imagem) e selecione **Highspot**.
+1. Escreva sua mensagem. Clique no local do email em que deseja inserir o conteúdo do ponto mais alto. Clique na lista suspensa de setas (ao lado do ícone de imagem) e selecione **Ponto alto**.
 
    ![](assets/highspot-integration-7.png)
 
@@ -56,7 +56,7 @@ Acesse o Highspot e adicione conteúdo aos seus emails da janela de composição
 
    ![](assets/highspot-integration-8.png)
 
-1. Selecione o conteúdo desejado e clique no link **Adicionar conteúdo** botão.
+1. Selecione o conteúdo desejado e clique no botão **Adicionar conteúdo**.
 
    ![](assets/highspot-integration-9.png)
 

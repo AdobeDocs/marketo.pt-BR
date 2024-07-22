@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Saiba como personalizar a aparência da janela de diálogo do chatbot.
 
-Para começar, clique em **Configurações do Chatbot** em **Configuração**.
+Para começar, clique em **Configurações de Chatbot** em **Configuração**.
 
 ![](assets/configuration-1.png)
 
@@ -38,7 +38,7 @@ A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você 
 
 ### Configurações de bot {#agent-settings}
 
-Nas Configurações de bot, você pode adicionar um rótulo à sua caixa de bate-papo (por exemplo: &quot;Assistente de Adobe&quot;) que aparecerá na parte superior. Você também pode determinar o atraso de resposta (em segundos) e alterar o avatar do bate-papo. Para carregar sua própria imagem de avatar, clique no link **+** botão.
+Nas Configurações de bot, você pode adicionar um rótulo à sua caixa de bate-papo (por exemplo: &quot;Assistente de Adobe&quot;) que aparecerá na parte superior. Você também pode determinar o atraso de resposta (em segundos) e alterar o avatar do bate-papo. Para carregar sua própria imagem de avatar, clique no botão **+**.
 
 ![](assets/configuration-5.png)
 
@@ -52,13 +52,13 @@ Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
 
 ## Guia Privacidade {#privacy-tab}
 
-Clique em **Privacidade** para adicionar/editar o URL da política de privacidade do site (opcional).
+Clique na guia **Privacidade** para adicionar/editar a URL da política de privacidade do site (opcional).
 
 ![](assets/configuration-7.png)
 
 ## Guia Instalação {#installation-tab}
 
-Para que o chatbot seja exibido no seu site, primeiro será necessário instalar o snippet de JavaScript Dynamic Chat. Clique nessa guia para localizar/copiar o código necessário. Se você não estiver familiarizado com essa operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
+Para que o chatbot apareça em seu site, primeiro será necessário instalar o trecho Dynamic Chat JavaScript. Clique nessa guia para localizar/copiar o código necessário. Se você não estiver familiarizado com essa operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
 
 ![](assets/configuration-8.png)
 

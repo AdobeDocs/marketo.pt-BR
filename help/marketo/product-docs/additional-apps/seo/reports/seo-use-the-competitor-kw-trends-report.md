@@ -6,8 +6,8 @@ exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 3%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Neste relatório, você pode ver como você e seus concorrentes são classificad
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Clique em **[!UICONTROL Tendências de classificação do concorrente KW]**.
+1. Clique em **[!UICONTROL Tendências de Classificação do KW Concorrente]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -34,9 +34,9 @@ Este gráfico pode mostrar a porcentagem de suas palavras-chave classificadas em
 | Item | Descrição |
 |---|---|
 | [!UICONTROL Palavras-chave] | O número de palavras-chave que você está rastreando. |
-| [!UICONTROL Classificar URLs] | O número de URLs na classificação do site no intervalo definido. |
+| [!UICONTROL URLs de classificação] | O número de URLs na classificação do site no intervalo definido. |
 | [!UICONTROL % na classificação] | A porcentagem de classificação de palavras-chave no intervalo definido. |
-| [!UICONTROL Méd. pesquisas] | O número médio de pesquisas nessas palavras-chave que ocorreram durante o intervalo definido (nos últimos 30 dias, na pesquisa do Google nos EUA) |
+| [!UICONTROL Média pesquisas] | O número médio de pesquisas nessas palavras-chave que ocorreram durante o intervalo definido (nos últimos 30 dias, na pesquisa do Google nos EUA) |
 
 ## Filtrar dados {#filtering-data}
 
@@ -44,7 +44,7 @@ Este gráfico pode mostrar a porcentagem de suas palavras-chave classificadas em
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Clique em **[!UICONTROL Classificação]** para escolher para qual intervalo de classificação você deseja exibir palavras-chave.
+1. Clique na lista suspensa **[!UICONTROL Classificação]** para escolher para qual intervalo de classificação você deseja exibir palavras-chave.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 

@@ -26,9 +26,9 @@ Veja como começar.
 
 >[!CAUTION]
 >
->Os emails de Especialista/Desafiador funcionam somente com campanhas de acionador e fluxos de programa de engajamento. Para correspondências em lote, use o programa de email do [Funcionalidade de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Os emails de Especialista/Desafiador funcionam somente com campanhas de acionador e fluxos de programa de engajamento. Para correspondências em lote, use a [funcionalidade de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) do programa de email.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,7 +40,7 @@ Veja como começar.
    >
    >Para explosões de email únicas, saiba mais sobre [programas de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
-1. Em **Ações de email**, clique em **Novo teste**.
+1. Em **Ações de email**, clique em **Novo Teste**.
 
    ![](assets/chmapion2.jpg)
 
@@ -48,6 +48,6 @@ Veja como começar.
 
    >[!MORELIKETHIS]
    >
-   >* [Champion/Challenger: emails inteiros](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger: linha de assunto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [Champion/Challenger: Do endereço](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [Especialista/Desafiador: Emails Inteiros](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [Campeão/Desafiante: Linha de assunto](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Especialista/Desafiador: Do endereço](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

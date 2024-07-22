@@ -24,29 +24,29 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
 ## Como criar um momento interessante? {#how-do-i-create-an-interesting-moment}
 
-1. Escolha um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, de preferência uma equipe de vendas achará interessante se acionada.
+1. Escolha uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, de preferência uma que sua equipe de vendas achará interessante se for acionada.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Arraste sobre o **Momentos interessantes** etapa do fluxo.
+1. Arraste sobre a etapa de fluxo **Momentos interessantes**.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
-1. Selecione um **type** (Email, Marco ou Web).
+1. Selecione um **tipo** (Email, Marco ou Web).
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Escreva uma mensagem para sua equipe de vendas no **Descrição** que explica por que essa ação é importante.
+1. Escreva uma mensagem para sua equipe de vendas no campo **Descrição** que explique por que essa ação é importante.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
    >[!NOTE]
    >
-   >O Marketo também adicionará a data em que ocorreu e como o momento interessante foi adicionado (ou seja, ação de lead > etapa de fluxo, API SOAP).
+   >O Marketo também adicionará a data em que ocorreu e como o momento interessante foi adicionado (ou seja, ação principal > etapa de fluxo, API SOAP).
 
 ## Como se parece um momento interessante no Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Momentos interessantes serão exibidos em uma [log de atividades do cliente potencial](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+Momentos interessantes serão exibidos em um [log de atividades do cliente potencial](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

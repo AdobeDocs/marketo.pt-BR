@@ -6,7 +6,7 @@ exl-id: 5a26121f-a168-4bb6-b471-aca1f343e4c2
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ Os recursos a seguir estão incluídos na versão de junho de 2015. Verifique a 
 
 ## [Relatório de email de atribuição](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
 
-Consulte o valor que a personalização e o conteúdo recomendado fornecem às suas atividades de marketing. [O relatório de email de atribuição](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) exibe os leads diretos e assistidos atribuídos das campanhas de personalização e conteúdo recomendado da RTP. No RTP, Configurações do usuário e Relatório de email, adicione o Relatório de email de atribuição para receber emails mensais ou trimestrais.
+Consulte o valor que a personalização e o conteúdo recomendado fornecem às suas atividades de marketing. [O Relatório de Email de Atribuição](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) exibe os clientes em potencial diretos e assistidos atribuídos pelas campanhas de personalização e conteúdo recomendado da RTP. No RTP, Configurações do usuário e Relatório de email, adicione o Relatório de email de atribuição para receber emails mensais ou trimestrais.

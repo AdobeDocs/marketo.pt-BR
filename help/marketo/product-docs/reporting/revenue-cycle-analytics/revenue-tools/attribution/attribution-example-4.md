@@ -6,8 +6,8 @@ exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 5%
+source-wordcount: '204'
+ht-degree: 3%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 5%
 Leia o cenário a seguir e tente determinar os números que devem estar na grade.
 
 * Abril de 11 | Michelle baixa e-Book (Conteúdo) - Sucesso
-* Abril de 15 | John participa (webinário) - Sucesso
+* Abril de 15 | John comparece (webinário) - Sucesso
 * Abril de 22 | (Oportunidade 1) criada por US$ 3.000
 * Abril de 24 | (Oportunidade 2) criada por US$ 5.000
-* Abril de 25 John e Michelle são associados a **ambos** Optys
-* Abril de 29 | [Opção 1] é conquistado de forma fechada
+* Abril de 25 | John e Michelle estão associados a **ambos** opções
+* Abril de 29 | [A opção 1] está fechada
 
-| Nome do programa | (Conteúdo) | (Webinar) |
+| Nome do programa | (Conteúdo) | (Webinário) |
 |---|---|---|
 |   | (Opção 1) | (Opção 2) | (Opção 1) | (Opção 2) |
 | (MT) Opção criada | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
@@ -53,5 +53,5 @@ Experimente todos os exemplos e você será um profissional de atribuição.
 >[!MORELIKETHIS]
 >
 >* [Exemplo de atribuição 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Exemplo 2 de atribuição](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Exemplo de atribuição 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [Exemplo de atribuição 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)

@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 1%
 
 É possível editar qualquer template de landing page no Marketo.
 
-1. Ir para **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Expandir **Landing Pages** para mostrar os templates.
+1. Expanda **Landing Pages** para mostrar os modelos.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Selecione o **Modelo** deseja editar. Clique em **Editar rascunho**.
+1. Selecione o **Modelo** que deseja editar. Clique em **Editar rascunho**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
-   Feito! Agora é possível editar o CSS do modelo e ter controle total sobre sua aparência e layout.
+   Concluído! Agora é possível editar o CSS do modelo e ter controle total sobre sua aparência e layout.
 
    >[!NOTE]
    >

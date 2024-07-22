@@ -22,17 +22,17 @@ Se você precisar que os dados de entidade personalizados do Dynamics estejam di
 >[!NOTE]
 >
 >* Quando você habilita a sincronização de uma entidade personalizada, o Marketo executa uma sincronização inicial para trazer todos os dados do Objeto personalizado.
->* A Lista de marketing e os Membros da Lista de marketing são _não suportado_ neste momento.
+>* A Lista de Marketing e os Membros da Lista de Marketing _não são suportados_ no momento.
 
 >[!IMPORTANT]
 >
 >O usuário de sincronização do Marketo precisa de acesso de leitura ao objeto personalizado para listá-lo e executar uma sincronização nele.
 
-1. Vá para a **[!UICONTROL Admin]** seção.
+1. Vá para a seção **[!UICONTROL Admin]**.
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Selecionar **[!UICONTROL Microsoft Dynamics]** e clique em **[!UICONTROL Desativar sincronização]**.
+1. Selecione **[!UICONTROL Microsoft Dynamics]** e clique em **[!UICONTROL Desabilitar Sincronização]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -48,17 +48,17 @@ Se você precisar que os dados de entidade personalizados do Dynamics estejam di
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. Selecione a entidade que deseja sincronizar e clique em **[!UICONTROL Habilitar sincronização]**.
+1. Selecione a entidade que deseja sincronizar e clique em **[!UICONTROL Habilitar Sincronização]**.
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Selecione os campos que deseja sincronizar ou usar como [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/ou acionadores (para registros adicionados, _não_ atualizado) nas Smart Lists. Quando terminar, clique em **[!UICONTROL Habilitar sincronização]**.
+1. Selecione os campos que deseja sincronizar ou usar como [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/ou acionadores (para registros adicionados, _não_ atualizados) em Smart Lists. Quando terminar, clique em **[!UICONTROL Habilitar Sincronização]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >Durante o processo de sincronização, você pode notar que &quot;[!UICONTROL Sincronização de Entidades Dinâmicas]O item &quot; desaparece da árvore de navegação. Esse comportamento é esperado e reaparecerá após a conclusão da sincronização.
+   >Durante o processo de sincronização, você pode notar que o item &quot;[!UICONTROL Sincronização de Entidades Dinâmicas]&quot; desaparece da árvore de navegação. Esse comportamento é esperado e reaparecerá após a conclusão da sincronização.
 
 1. A entidade agora tem uma marca de seleção verde.
 

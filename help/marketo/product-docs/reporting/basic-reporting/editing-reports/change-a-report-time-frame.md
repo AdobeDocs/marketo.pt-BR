@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Altere o período coberto pelo relatório para se concentrar em um momento específico de atividade.
 
-1. Vá para a **Atividades de marketing** (ou **Analytics**).
+1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Selecione seu relatório na árvore de navegação e clique no link **Configuração** guia.
+1. Selecione seu relatório na árvore de navegação e clique na guia **Configuração**.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
 1. Clique duas vezes no campo de intervalo de tempo, rotulado de forma diferente dependendo do tipo de relatório:
 
-   * **Pessoa Criada Em**, em relatórios pessoais
-   * **Data de envio**, em relatórios de email
+   * **Pessoa criada às**, em relatórios pessoais
+   * **Data de Envio**, em relatórios de email
    * **Data da atividade**, em todos os outros relatórios
 
    ![](assets/image2017-3-27-9-3a58-3a23.png)
 
    >[!NOTE]
    >
-   >**Pessoa Criada Em** refere-se ao momento em que a pessoa se tornou conhecida em seu banco de dados.
+   >**Pessoa Criada às** refere-se ao momento em que a pessoa ficou conhecida em seu banco de dados.
 
 1. Escolha o intervalo de tempo apropriado no menu suspenso.
 
@@ -41,11 +41,11 @@ Altere o período coberto pelo relatório para se concentrar em um momento espec
 
    >[!TIP]
    >
-   >Para definir datas específicas, selecione **Personalizado** no menu suspenso e insira as datas no campo **De** e **Para** campos de calendário.
+   >Para definir datas específicas, selecione **Personalizado** no menu suspenso e insira as datas nos campos de calendário **De** e **Até**.
 
-   Clique em **Relatório** para ver o relatório do intervalo de tempo selecionado.\
+   Clique na guia **Relatório** para ver seu relatório para o intervalo de tempo selecionado.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]
    >
-   >Para limitar o relatório por atributos de pessoa específicos, é possível [Filtrar pessoas em um relatório com uma lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
+   >Para limitar seu relatório por atributos de pessoa específicos, você pode [Filtrar Pessoas em um Relatório com uma Smart List](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).

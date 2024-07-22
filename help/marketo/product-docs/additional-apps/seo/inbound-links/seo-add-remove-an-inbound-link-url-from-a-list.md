@@ -17,11 +17,11 @@ Você pode organizar os URLs do link de entrada para o conteúdo do seu coraçã
 
 ## Adicionar um URL de link de entrada a uma lista {#add-an-inbound-link-url-to-a-list}
 
-1. Vá para a **[!UICONTROL Links de entrada]** seção.
+1. Vá para a seção **[!UICONTROL Links de Entrada]**.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Passe o mouse sobre o URL do link de entrada que deseja categorizar. Clique em **[!UICONTROL Adicionar/Remover da Lista]**.
+1. Passe o mouse sobre o URL do link de entrada que deseja categorizar. Clique Em **[!UICONTROL Adicionar/Remover Da Lista]**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -41,11 +41,11 @@ Você pode organizar os URLs do link de entrada para o conteúdo do seu coraçã
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Clique em **[!UICONTROL Filtrar por lista]** menu suspenso. Clique na lista que deseja limpar.
+1. Clique no menu suspenso **[!UICONTROL Filtrar por lista]**. Clique na lista que deseja limpar.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Passe o mouse sobre o URL do link de entrada que deseja remover. Clique em **[!UICONTROL Adicionar/Remover da Lista]**.
+1. Passe o mouse sobre o URL do link de entrada que deseja remover. Clique Em **[!UICONTROL Adicionar/Remover Da Lista]**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

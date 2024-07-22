@@ -25,7 +25,7 @@ No lado superior direito da tela Caixa de entrada do agente, você tem a opção
 
 >[!IMPORTANT]
 >
->**Isso substituirá** o [disponibilidade do chat ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} estabelecido em Configurações do agente. O status permanecerá até que você o alterne de volta ou para o próximo bloco de tempo em sua disponibilidade.
+>**Isso substituirá** a [disponibilidade do chat ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que você estabeleceu nas Configurações do Agente. O status permanecerá até que você o alterne de volta ou para o próximo bloco de tempo em sua disponibilidade.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ No lado superior direito da tela Caixa de entrada do agente, você tem a opção
 
 ## Notificações de bate-papo ao vivo {#live-chat-notifications}
 
-Saiba mais sobre notificações na [Visão geral do bate-papo ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Saiba mais sobre notificações na [Visão Geral do Chat ao Vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversas {#conversations}
 
@@ -53,7 +53,7 @@ No lado direito da tela da Caixa de entrada do agente, você poderá ver (de cim
 
 ## Encerrar uma sessão {#end-a-session}
 
-Os agentes podem encerrar manualmente uma sessão clicando no link **Encerrar sessão** botão ao lado das informações do visitante.
+Os agentes podem encerrar manualmente uma sessão simplesmente clicando no botão **Encerrar sessão** ao lado das informações do visitante.
 
 ![](assets/agent-inbox-6.png)
 

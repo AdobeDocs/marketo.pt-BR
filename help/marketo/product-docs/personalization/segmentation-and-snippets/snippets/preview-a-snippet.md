@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Os trechos são blocos de conteúdo dinâmico que mudam com base nas regras de segmentação.
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Clique no seu trecho e **Visualizar trecho**.
+1. Clique no seu trecho e depois em **Visualizar trecho**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

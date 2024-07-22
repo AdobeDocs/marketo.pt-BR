@@ -15,15 +15,15 @@ ht-degree: 2%
 
 Você pode alterar rápida e facilmente um botão de formulários de &quot;Enviar&quot; para qualquer outra palavra. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Selecione o botão e altere a **Rótulo**.
+1. Selecione o botão e altere o **rótulo**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -35,7 +35,7 @@ Você pode alterar rápida e facilmente um botão de formulários de &quot;Envia
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 

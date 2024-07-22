@@ -6,7 +6,7 @@ exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '433'
 ht-degree: 9%
 
 ---
@@ -27,23 +27,23 @@ Neste artigo, você personalizará permissões de campo com um Layout de página
 
 O Salesforce Professional define a acessibilidade em nível de campo com Layouts de página, em vez dos Perfis do Salesforce Enterprise/Unlimited. Seguir essas etapas permitirá que o usuário de sincronização do Marketo atualize os campos personalizados.
 
-1. Tipo &quot;[!UICONTROL layouts de página]&quot; na barra de pesquisa de navegação sem pressionar **[!UICONTROL Enter]** e clique em **[!UICONTROL Layout da página]** em **[!UICONTROL Clientes potenciais]**.
+1. Digite &quot;[!UICONTROL layouts de página]&quot; na barra de pesquisa de navegação sem pressionar **[!UICONTROL Enter]** e clique em **[!UICONTROL Layout da página]** em **[!UICONTROL Clientes potenciais]**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Clique em **[!UICONTROL Editar]** ao lado de Layout de cliente em potencial.
+1. Clique em **[!UICONTROL Editar]** ao lado de Layout do cliente potencial.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Clique e arraste um novo **[!UICONTROL Seção]** no layout da página.
+1. Clique e arraste uma nova **[!UICONTROL Seção]** para o layout da página.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Insira &quot;Marketo&quot; para **[!UICONTROL Nome da seção]** e clique em **[!UICONTROL OK]**.
+1. Insira &quot;Marketo&quot; para **[!UICONTROL Nome da Seção]** e clique em **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Clique e arraste o campo **[!UICONTROL Data de aquisição]** no **Marketo** seção.
+1. Clique e arraste o campo **[!UICONTROL Data de aquisição]** para a seção **Marketo**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -78,17 +78,17 @@ O Salesforce Professional define a acessibilidade em nível de campo com Layouts
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Repita todas as etapas acima para o Salesforce **[!UICONTROL Layout da página de contato]**.
+1. Repita todas as etapas acima para o **[!UICONTROL Layout da página de contato]** do Salesforce.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Lembre-se de clicar **[!UICONTROL Salvar]** quando terminar com o **[!UICONTROL Layout da página de contato]**.
+1. Lembre-se de clicar em **[!UICONTROL Salvar]** quando terminar de usar o **[!UICONTROL Layout da Página de Contato]**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Certifique-se de que a variável **[!UICONTROL Evento de dia inteiro]** O campo foi adicionado à variável **[!UICONTROL Layout da página de eventos]**.
+   >Verifique se o campo **[!UICONTROL Evento de dia inteiro]** foi adicionado ao **[!UICONTROL Layout da página do evento]**.
 
 ## Criar usuário de sincronização {#create-sync-user}
 
@@ -98,15 +98,15 @@ O Marketo exige credenciais para acessar o Salesforce. Isso é melhor feito com 
 >
 >Se sua organização não tiver licenças adicionais do Salesforce, você poderá usar um usuário de marketing existente com o perfil de administrador do sistema.
 
-1. Digite &quot;usuários&quot; na barra de pesquisa de navegação e clique em **[!UICONTROL Usuários]** em **[!UICONTROL Gerenciar usuários]**.
+1. Insira &quot;usuários&quot; na barra de pesquisa de Navegação e clique em **[!UICONTROL Usuários]** em **[!UICONTROL Gerenciar usuários]**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Clique em **[!UICONTROL Novo usuário]**.
+1. Clique em **[!UICONTROL Novo Usuário]**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Preencha os campos obrigatórios, selecione a variável **[!UICONTROL Licença de usuário: Salesforce]**, defina o **[!UICONTROL Perfil: Administrador do Sistema]**, verificar **[!UICONTROL Usuário de marketing]** e clique em **[!UICONTROL Salvar]**.
+1. Preencha os campos obrigatórios, selecione a **[!UICONTROL Licença de usuário: Salesforce]**, defina o **[!UICONTROL Perfil: Administrador do sistema]**, marque **[!UICONTROL Usuário de marketing]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 

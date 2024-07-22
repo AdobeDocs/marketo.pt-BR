@@ -1,18 +1,18 @@
 ---
 unique-page-id: 37355768
-description: Importar ativos com o Adobe Experience Manager - Documentação do Marketo - Documentação do produto
-title: Importação de ativos com o Adobe Experience Manager
+description: Importação do Assets com o Adobe Experience Manager - Documentação do Marketo - Documentação do produto
+title: Importação do Assets com o Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 
-# Importação de ativos com o Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
+# Importação do Assets com o Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e importem ativos AEM para o Design Studio da Marketo. **São necessárias permissões de administrador**.
+O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e importem ativos AEM para o Design Studio da Marketo. **Permissões de administrador necessárias**.
 
 >[!AVAILABILITY]
 >
@@ -20,17 +20,17 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 >[!PREREQUISITES]
 >
->Certifique-se de que você já executou o [Configuração do AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Verifique se você já executou a [Configuração do AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Atualmente, esse recurso é totalmente compatível apenas com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie do SameSite.
+>Atualmente, esse recurso é totalmente compatível apenas com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie SameSite.
 
 1. Clique em **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Clique na lista suspensa New e selecione **[!UICONTROL Importar do Adobe Experience Manager]**.
+1. Clique no menu suspenso Novo e selecione **[!UICONTROL Importar do Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 

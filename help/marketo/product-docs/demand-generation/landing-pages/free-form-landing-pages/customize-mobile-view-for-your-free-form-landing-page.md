@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adicionar uma visualização móvel para sua página de aterrissagem de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[Adicionar um Modo de Exibição Móvel para sua Página de Aterrissagem de Formato Livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 A visualização móvel da página de aterrissagem de formato livre é em sua maioria automática, mas você pode personalizá-la. Veja como.
 
@@ -27,13 +27,13 @@ A visualização móvel da página de aterrissagem de formato livre é em sua ma
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Clique em **Dispositivo móvel** guia.
+1. Clique na guia **Mobile**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## Exibição móvel vs. desktop {#mobile-vs-desktop-view}
 
-Em Elementos da página, você verá uma ![](assets/image2015-1-22-18-3a39-3a53.png) (área de trabalho) e um ![](assets/image2015-1-22-18-3a40-3a31.png) ícone (móvel). Isso permite mostrar/ocultar elementos diferentes dinamicamente.
+Em Elementos da página, você verá um ícone do ![](assets/image2015-1-22-18-3a39-3a53.png) (desktop) e um ícone do ![](assets/image2015-1-22-18-3a40-3a31.png) (dispositivos móveis). Isso permite mostrar/ocultar elementos diferentes dinamicamente.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -63,7 +63,7 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. Perfeita! Esse elemento não estará mais visível na visualização móvel.
+1. Perfeito! Esse elemento não estará mais visível na visualização móvel.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -83,15 +83,15 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
 
 >[!TIP]
 >
->A visualização móvel também pode ter uma disposição diferente de elementos da página. Mova itens na página de aterrissagem de forma livre ou reordene os objetos listados em **Elementos da página** usando arrastar e soltar.
+>A visualização móvel também pode ter uma disposição diferente de elementos da página. Mova tudo na página de aterrissagem de forma livre ou reordene os objetos listados em **Elementos da página** usando a função arrastar e soltar.
 
 ## Visualizar exibição móvel {#preview-mobile-view}
 
-1. Clique em **Visualizar rascunho**.
+1. Clique em **Visualizar Rascunho**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Quer ver algo legal? Selecionar **Lado a lado**.
+1. Quer ver algo legal? Selecione **Lado A Lado**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Se você adorar, clique em **Aprovar e fechar**.
+1. Se você gostou, clique em **Aprovar e Fechar**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -111,4 +111,4 @@ Divirta-se!
 
 >[!MORELIKETHIS]
 >
->[Tornar um modelo de página de aterrissagem de forma livre compatível com dispositivos móveis](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[Tornar um Modelo de Página de Aterrissagem de Formato Livre Existente Compatível com Dispositivos Móveis](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

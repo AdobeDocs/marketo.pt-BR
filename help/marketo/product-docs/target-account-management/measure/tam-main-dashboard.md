@@ -25,7 +25,7 @@ Para filtrar por lista de contas, clique no menu suspenso Exibir...
 
 ![](assets/three.png)
 
-Para exibir as [Painel da lista de contas](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), clique no nome da lista de contas selecionada...
+Para exibir o [Painel de Lista de Contas](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), clique no nome da lista de contas selecionada...
 
 ![](assets/four.png)
 
@@ -33,10 +33,10 @@ Para exibir as [Painel da lista de contas](/help/marketo/product-docs/target-acc
 
 ![](assets/five.png)
 
-Se, em vez de visualizar o Painel da Lista de Contas que deseja detalhar em uma conta nomeada, clique em **Mais detalhes** sob seu nome...
+Se, em vez de visualizar o Painel da Lista de Contas que você deseja detalhar em uma conta nomeada, clique em **Mais Detalhes** sob seu nome...
 
 ![](assets/six.png)
 
-...e visualize o [insights da conta nomeada](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...e exiba os [insights da conta nomeada](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

@@ -6,7 +6,7 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Custos de período referem-se ao dinheiro gasto em um mês específico em um pro
 >
 >Se você gastar US$ 1.000 para contratar um ilustrador para um eBook que for lançado em julho - o programa eBook teria um custo de período de US$ 1.000 em julho.
 >
->Se você gastar US$ 200 por mês em [!DNL Google Adwords] - o [!DNL Google Adwords] programa teria um custo de período de US$ 200 _a cada mês_.
+>Se você gastar US$ 200 por mês em [!DNL Google Adwords] - o programa [!DNL Google Adwords] terá um custo do período de US$ 200 _todo mês_.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Imagine um evento, como um webinário, que ocorre em março. Novas pessoas são 
 
    ![](assets/graph1.png)
 
-   ...contatos adicionados nos meses anteriores e posteriores *somente* Conte até março.
+   ...contatos adicionados nos meses anteriores e posteriores *somente* contarão até março.
 
    ![](assets/graph2.png)
 
@@ -61,7 +61,7 @@ Imagine um evento, como um webinário, que ocorre em março. Novas pessoas são 
 
    >[!NOTE]
    >
-   >Em resumo - os meses sem custos de período definidos serão transferidos &quot;para trás&quot; até o último que foi definido. Se não houver custo do período anterior, os meses serão transferidos &quot;para a frente&quot; até o próximo que foi definido. Se um custo do período não tiver sido definido para _qualquer_ meses, os relatórios no RCE não estarão disponíveis para o programa.
+   >Em resumo - os meses sem custos de período definidos serão transferidos &quot;para trás&quot; até o último que foi definido. Se não houver custo do período anterior, os meses serão transferidos &quot;para a frente&quot; até o próximo que foi definido. Se um custo de período não tiver sido definido para _qualquer_ meses, os relatórios no RCE não estarão disponíveis para o programa.
 
    >[!MORELIKETHIS]
    >

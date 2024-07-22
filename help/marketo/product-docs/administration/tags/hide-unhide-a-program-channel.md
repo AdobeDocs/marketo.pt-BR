@@ -17,23 +17,23 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Você pode [excluir um canal de programa](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se não estiver sendo usado por nenhum programa.  No entanto, uma vez usado, precisamos mantê-lo por perto.  No entanto, você pode ocultá-lo se não precisar mais dele.
+Você pode [excluir um canal de programa](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se ele não estiver sendo usado por nenhum programa.  No entanto, uma vez usado, precisamos mantê-lo por perto.  No entanto, você pode ocultá-lo se não precisar mais dele.
 
 ## Ocultar um canal de programa {#hide-a-program-channel}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. Clique em **[!UICONTROL Tags]**.
+1. Clique em **[!UICONTROL Marcas]**.
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. Clique no link **[!UICONTROL Canal]** e selecione o **[!UICONTROL Canal]** para ocultar.
+1. Clique no menu suspenso **[!UICONTROL Canal]** e selecione o **[!UICONTROL Canal]** para ocultar.
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. Em **[!UICONTROL Ações de tag]**, clique em **[!UICONTROL Ocultar]**.
+1. Em **[!UICONTROL Ações de Marca]**, clique em **[!UICONTROL Ocultar]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

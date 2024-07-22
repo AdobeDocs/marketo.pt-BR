@@ -18,7 +18,7 @@ Como profissional de marketing, você tem informações que podem ajudar as vend
 
 >[!NOTE]
 >
->Quando o usuário do Marketo Sync está criando tarefas, **Vencimento em** é um campo obrigatório para a tarefa a ser criada em Veeva. O Marketo inserirá cinco dias por padrão se não houver valor.
+>Quando o Usuário de Sincronização do Marketo está criando tarefas, **Vencimento em** é um campo obrigatório para a tarefa a ser criada em Veeva. O Marketo inserirá cinco dias por padrão se não houver valor.
 
 Por padrão, a etapa de fluxo será semelhante a:
 
@@ -30,4 +30,4 @@ Personalize todos os campos para criar a tarefa da maneira que você desejar.
 
 >[!TIP]
 >
->Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` em Assunto e Descrição. Consulte [Tokens para etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} para obter mais detalhes.
+>Você pode usar `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` no Assunto e na Descrição. Consulte [Tokens para Etapas de Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} para obter mais detalhes.

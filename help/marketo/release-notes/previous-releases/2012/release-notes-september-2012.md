@@ -6,7 +6,7 @@ exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esta versão inclui recursos sociais altamente previstos e integrados, além de utilidades de gerenciamento de clientes potenciais! Observação: os recursos sociais estão disponíveis como um complemento ou como parte de pacotes selecionados.
 
-## Publicar um vídeo do YouTube com compartilhamento em redes sociais {#publish-a-youtube-video-with-social-sharing}
+## Vídeo do Publish a YouTube com compartilhamento em redes sociais {#publish-a-youtube-video-with-social-sharing}
 
 Amplifique o público-alvo de seus vídeos incentivando seus visitantes a compartilhá-los socialmente, usando o novo Compartilhamento de vídeo em suas páginas de aterrissagem.
 
@@ -33,7 +33,7 @@ Obter insight e reduzir o atrito, permitindo que os clientes potenciais preencha
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Publicar páginas de aterrissagem no Facebook {#publish-landing-pages-to-facebook}
+## Páginas de aterrissagem do Publish para o Facebook {#publish-landing-pages-to-facebook}
 
 Estenda o alcance das páginas de aterrissagem publicando-as diretamente no Facebook, com aplicativos sociais, formulários e toda a funcionalidade das páginas de aterrissagem do Marketo.
 

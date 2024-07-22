@@ -6,7 +6,7 @@ exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ O motivo? O Sales Connect é inteligente e nossos usuários ativos nunca nos per
 
 Aqui está como chegar ao único lugar onde mostraremos rastreamento automático.
 
-1. Vá para a [Centro de comando](https://toutapp.com/).
+1. Vá para o [Centro de comando](https://toutapp.com/).
 
 1. Localize o email enviado na pasta Enviados e selecione-o.
 
-1. Clique em **Detalhes** botão. Você deve ver suas próprias visualizações aparecendo lá.
+1. Clique no botão **Detalhes**. Você deve ver suas próprias visualizações aparecendo lá.

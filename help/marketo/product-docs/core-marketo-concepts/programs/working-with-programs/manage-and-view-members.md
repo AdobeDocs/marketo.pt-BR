@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Saiba mais sobre [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Saiba mais sobre a [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Procurar um membro {#search-for-a-member}
 
 Na parte inferior da seção Membros, use o campo de pesquisa para procurar membros do programa por nome, email, cargo ou empresa.
 
-1. Clique em **[!UICONTROL Membros]** do seu programa.
+1. Clique na guia **[!UICONTROL Membros]** do seu programa.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,11 +49,11 @@ Clique com o botão direito do mouse no cabeçalho da coluna para classificar em
 
 ## Escolher quais colunas estarão visíveis na grade {#choose-which-columns-are-visible-in-the-grid}
 
-1. Clique em **[!UICONTROL Exibir]** e selecione **[!UICONTROL Criar visualização]**.
+1. Clique no menu suspenso **[!UICONTROL Exibir]** e selecione **[!UICONTROL Criar Exibição]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Atribua um nome à exibição personalizada. Selecione títulos de coluna. Clique em **[!UICONTROL Adicionar]** e **[!UICONTROL Remover]** para mover colunas e criar uma visualização.
+1. Atribua um nome à exibição personalizada. Selecione títulos de coluna. Clique em **[!UICONTROL Adicionar]** e **[!UICONTROL Remover]** para mover colunas e criar um modo de exibição.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Clique com o botão direito do mouse no cabeçalho da coluna para classificar em
 
 ## Filtrar a Grade de Membros  {#filter-the-members-grid}
 
-1. Clique em **[!UICONTROL Filtro]** e selecione uma etapa de progressão pela qual classificar.
+1. Clique no menu suspenso **[!UICONTROL Filtro]** e selecione uma etapa de progressão para classificar.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Clique com o botão direito do mouse no cabeçalho da coluna para classificar em
 
 Você pode alterar o status das pessoas dentro da grade de membros.
 
-1. Mantenha pressionada **[!UICONTROL Ctrl/Cmd]** e selecione as pessoas.
+1. Mantenha pressionada a tecla **[!UICONTROL Ctrl/Cmd]** e selecione as pessoas.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Clique em **[!UICONTROL Alterar Status]** e selecione um status.
+1. Clique no menu suspenso **[!UICONTROL Alterar status]** e selecione um status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ Tantos recursos, mas todos eles são bastante diretos. Aproveite!
 
 >[!MORELIKETHIS]
 >
->[Criar um relatório de desempenho do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>[Criar um Relatório de Desempenho de Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

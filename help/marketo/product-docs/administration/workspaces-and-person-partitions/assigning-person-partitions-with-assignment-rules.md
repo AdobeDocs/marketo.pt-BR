@@ -7,7 +7,7 @@ feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Criar uma partição de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Criar uma Partição de Pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Ao usar partições de pessoa, configure regras de atribuição para rotear as pessoas criadas pelo seu CRM para suas respectivas partições.
 
 >[!NOTE]
 >
->Somente as pessoas criadas no Marketo pelo seu CRM e pela API SOAP terão regras de atribuição aplicadas a elas.
+>Somente as pessoas criadas no Marketo a partir do seu CRM e por meio da API SOAP terão regras de atribuição aplicadas a elas.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
@@ -35,11 +35,11 @@ Ao usar partições de pessoa, configure regras de atribuição para rotear as p
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. No **[!UICONTROL Partições de pessoas]** clique em **[!UICONTROL Regras de atribuição]**.
+1. Na guia **[!UICONTROL Partições de pessoa]**, clique em **[!UICONTROL Regras de atribuição]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Clique em **[!UICONTROL Adicionar seleção]** para adicionar condições para rotear pessoas para partições de pessoas.
+1. Clique em **[!UICONTROL Adicionar opção]** para adicionar condições para rotear pessoas para partições de pessoas.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 

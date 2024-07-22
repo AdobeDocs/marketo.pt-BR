@@ -16,7 +16,7 @@ Saiba como adicionar e remover usuários, além de visualizar suas licenças atu
 
 ## Adicionar um usuário {#add-a-user}
 
-1. Vá para a **Admin** área.
+1. Vá para a área **Administrador**.
 
    ![](assets/user-and-license-management-1.png)
 
@@ -28,13 +28,13 @@ Saiba como adicionar e remover usuários, além de visualizar suas licenças atu
 
    ![](assets/user-and-license-management-3.png)
 
-1. Clique na lista suspensa Usuários disponíveis, selecione o(s) usuário(s) que deseja adicionar e clique em **OK**.
+1. Clique na lista suspensa Usuários Disponíveis, selecione o(s) usuário(s) que deseja adicionar e clique em **OK**.
 
    ![](assets/user-and-license-management-4.png)
 
 ## Remover um usuário {#remove-a-user}
 
-1. Vá para a **Admin** área.
+1. Vá para a área **Administrador**.
 
    ![](assets/user-and-license-management-5.png)
 
@@ -54,7 +54,7 @@ Saiba como adicionar e remover usuários, além de visualizar suas licenças atu
 
 Webinars interativos oferecem licenças específicas para criar eventos viabilizados pelo Adobe Connect. Toda vez que uma licença é adicionada, uma nova caixa de uso de licença será exibida. Os administradores do Marketo podem visualizar (não editar) as licenças seguindo as etapas abaixo. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter licenças adicionais.
 
-1. Vá para a **Admin** área.
+1. Vá para a área **Administrador**.
 
    ![](assets/user-and-license-management-9.png)
 
@@ -98,9 +98,9 @@ Webinars interativos oferecem licenças específicas para criar eventos viabiliz
   </tbody>
 </table>
 
-**Itens a Observar**
+**Anotações**
 
-* O tipo &quot;Licença de armazenamento adicional&quot; apenas fornece armazenamento, portanto, o valor em cada campo _além_ A capacidade de armazenamento será listada simplesmente como &quot;-&quot;.
+* O tipo &quot;Licença de Armazenamento Adicional&quot; apenas fornece armazenamento, portanto, o valor em cada campo _além de_ Capacidade de Armazenamento será listado simplesmente como &quot;-&quot;.
 
 * O tipo &quot;Licença de quarto compartilhado&quot; tem eventos ilimitados e &quot;Licença de armazenamento adicional&quot; apenas fornece armazenamento, portanto, o campo Total de eventos para essas licenças será listado simplesmente como &quot;-&quot;.
 
@@ -114,7 +114,7 @@ Os Webinars interativos têm a funcionalidade de regular o uso, dando permissõe
 
 Os usuários do Marketo que receberam permissões de Webinars interativos e são proprietários de um Programa de evento de Webinars interativos específico poderiam executar todas as funções do Webinar interativo relacionadas a esse programa. Isso inclui: criar, acessar, modificar, clonar, mover e excluir esse programa. No entanto, uma vez que esse usuário não é mais um usuário de webinário interativo, o proprietário do programa poderá acessar e mover o programa, mas não executar outras funções.
 
-Usuários do Marketo que receberam permissões de webinários interativos e que _não_ os proprietários de um Programa de evento de webinários interativos específico poderiam executar funções limitadas nesses programas. Os usuários não administradores do Marketo poderão acessar e clonar o programa, mas não poderão executar outras funções se tiverem permissões para Webinars interativos. No entanto, os usuários administradores do Marketo _irá_ ser capaz de executar todas as funções, como acessar, modificar, clonar, mover e excluir esse programa (desde que tenham permissões para Webinars interativos). Quando essa permissão for revogada para usuários administradores e não administradores do Marketo, eles poderão acessar somente o Programa de evento de webinário interativo e não poderão executar outras funções.
+Os usuários do Marketo que receberam permissões de Webinars interativos e que são _não_ proprietários de um Programa de evento de Webinars interativos específico poderiam executar funções limitadas nesses programas. Os usuários não administradores do Marketo poderão acessar e clonar o programa, mas não poderão executar outras funções se tiverem permissões para Webinars interativos. No entanto, os usuários Administradores do Marketo _poderão_ executar todas as funções, como acessar, modificar, clonar, mover e excluir esse programa (desde que tenham permissões para Webinars interativos). Quando essa permissão for revogada para usuários administradores e não administradores do Marketo, eles poderão acessar somente o Programa de evento de webinário interativo e não poderão executar outras funções.
 
 A restrição de funções acionáveis seria indicada por um botão de ação esmaecido e uma mensagem de mouse. Alguns exemplos dos botões de ação esmaecidos são &quot;Projetar o webinário&quot; ou &quot;Inserir o webinário&quot;. Para funções não acionáveis, será fornecida uma mensagem destacando as restrições. Veja o exemplo abaixo:
 

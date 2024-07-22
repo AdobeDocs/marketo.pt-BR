@@ -18,15 +18,15 @@ Ajude sua equipe de vendas a obter sucesso, evitando que ela envie emails para c
 >
 >**Permissões de administrador necessárias**
 
-1. No aplicativo web, clique no ícone de engrenagem e selecione **Configurações**.
+1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/blocked-domains-1.png)
 
-1. Em Configurações do administrador, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/blocked-domains-2.png)
 
-1. Insira o domínio que deseja bloquear e clique em **Bloquear Domínio**.
+1. Insira o domínio que você deseja bloquear e clique em **Bloquear Domínio**.
 
    ![](assets/blocked-domains-3.png)
 

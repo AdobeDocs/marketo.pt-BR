@@ -5,8 +5,8 @@ exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 2%
+source-wordcount: '243'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ Aqui você pode atualizar seu nome e/ou senha.
 
 >[!NOTE]
 >
->Seu endereço de email está definido para exibição somente. Se você também precisar alterar isso, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Seu endereço de email está definido para exibição somente. Se você também precisar alterar isso, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Você também pode alterar sua senha nesta seção. As etapas são descritas neste documento.
 
@@ -54,15 +54,15 @@ Veja como alterar o idioma, a localidade e/ou o fuso horário de sua conta.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Para alterar o idioma, clique no link **Idioma** e faça sua escolha.
+1. Para alterar o idioma, clique no menu suspenso **Idioma** e faça sua escolha.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Localidade aqui refere-se à região em que o idioma é falado. Clique em **Localidade** e faça sua escolha.
+1. Localidade aqui refere-se à região em que o idioma é falado. Clique no menu suspenso **Local** e faça sua escolha.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Clique em **Seu fuso horário** e faça sua escolha.
+1. Clique na lista suspensa **Seu fuso horário** e faça sua escolha.
 
    ![](assets/manage-your-profile-7.png)
 

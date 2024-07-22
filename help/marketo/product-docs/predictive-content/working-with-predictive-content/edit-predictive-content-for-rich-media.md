@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ Veja como configurar seu conteúdo preditivo para mídia avançada.
 
 >[!PREREQUISITES]
 >
->O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o conteúdo.
+>O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o Conteúdo.
 
-1. No **Conteúdo preditivo** clique em um título para abrir o editor.
+1. Na página **Conteúdo preditivo**, clique em um título para abrir o editor.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Clique em **Mídia avançada**.
+1. Clique em **Rich Media**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -31,11 +31,11 @@ Veja como configurar seu conteúdo preditivo para mídia avançada.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Digite um **Descrição**.
+1. Digite uma **Descrição**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Clique em **Categorias** caixa para selecionar/adicionar [categorias já configuradas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
+1. Clique na caixa **Categorias** para selecionar/adicionar [categorias já configuradas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 

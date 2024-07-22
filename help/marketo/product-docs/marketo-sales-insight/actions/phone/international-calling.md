@@ -5,8 +5,8 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 17%
+source-wordcount: '395'
+ht-degree: 12%
 
 ---
 
@@ -32,7 +32,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td colspan="1">Áustria</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahamas</td> 
@@ -60,7 +60,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td>Grécia </td> 
-   <td>30, 3021</td> 
+   <td>30.3021</td> 
   </tr> 
   <tr> 
    <td>Hungria</td> 
@@ -112,7 +112,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr> 
   <tr> 
    <td colspan="1">Polônia </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">48.4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -143,7 +143,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
 
 ## Perguntas frequentes sobre Chamadas Internacionais {#international-calling-faq}
 
-**Por que as Ações de Insight de vendas não oferecem suporte a chamadas internacionais para todos os países?**
+**Por que as Ações de Insight de Vendas não oferecem suporte a chamadas internacionais para todos os países?**
 
 Hoje, oferecemos chamadas internacionais com a Sales Dialer sem custo adicional. Queremos facilitar a comunicação com seus próprios clientes atuais e potenciais, portanto, lançamos o suporte para chamadas internacionais de tarifa padrão. Fornecemos cobertura a 34 países fora dos EUA e Canadá para regiões na Europa, Ásia e outros destinos importantes. Continuaremos a expandir com base no feedback dos clientes.
 
@@ -151,10 +151,10 @@ Hoje, oferecemos chamadas internacionais com a Sales Dialer sem custo adicional.
 
 Esta é a lista de países para os quais não oferecemos suporte atualmente para chamadas de e para. Se o país de onde você está ligando for suportado, você poderá ligar para qualquer outro país internacional que seja suportado.
 
-**Existem tipos específicos de números para os quais não posso ligar com o Sales Dialer?**
+**Há tipos específicos de números para os quais não posso ligar com o Sales Dialer?**
 
 Sim. Não oferecemos suporte a chamadas para números de telefone de serviço de tarifa premium (como números 900 nos EUA e números +449 no Reino Unido). Em geral, não oferecemos suporte à chamada de números de telefone de custo compartilhado, bem como a um pequeno número de outras rotas premium.
 
 **Posso usar a presença local ao ligar para o internacional?**
 
-Nº [Presença local](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) O está disponível somente para números dos EUA.
+Nº A [Presença local](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) está disponível somente para números dos EUA.

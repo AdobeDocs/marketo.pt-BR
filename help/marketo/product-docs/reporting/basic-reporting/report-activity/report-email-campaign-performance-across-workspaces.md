@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho {#report-email-campaign-performance-across-workspaces}
 
-Ativar os Relatórios globais para incluir dados de toda a sua Marketo [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) no seu [Desempenho do email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e [Desempenho do link de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) relatórios.
+Ative os Relatórios Globais para incluir dados de todos os [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) do Marketo nos seus relatórios de [Desempenho do Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e [Desempenho do Link de Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
 
-1. Ir para **Analytics** (ou **Atividades de marketing**).
+1. Vá para a área **Analytics** (ou **Atividades de marketing**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,18 +23,18 @@ Ativar os Relatórios globais para incluir dados de toda a sua Marketo [espaços
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Clique em **Configuração** e clique duas vezes **Relatórios globais**.
+1. Clique na guia **Configuração** e clique duas vezes em **Relatórios Globais**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Selecionar **Ativado**.
+1. Selecione **Habilitado**.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. Isso é tudo! Clique em **Relatório** para ver dados de todos os espaços de trabalho.
+1. Isso é tudo! Clique na guia **Relatório** para ver os dados de todos os seus espaços de trabalho.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
    >[!MORELIKETHIS]
    >
-   >[Filtrar ativos em um relatório de email](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[Filtrar Assets em um Relatório de Email](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

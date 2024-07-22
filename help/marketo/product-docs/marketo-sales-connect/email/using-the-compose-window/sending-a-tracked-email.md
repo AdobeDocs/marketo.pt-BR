@@ -19,14 +19,14 @@ Ao enviar um email com o Marketo Sales Connect, as visualizações (email abre) 
 >
 >Você precisará ter uma identidade verificada e um canal de entrega de email configurado antes de enviar um email rastreado.
 >
->* [Verifique seu endereço de email](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Configurar um canal de entrega para [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) ou [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Verificar seu endereço de email](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Configurar um Canal de Entrega para o [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) ou o [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/one.png)
 
-1. Insira o nome ou email de um recipient na caixa **Para** campo.
+1. Insira o nome ou email de um destinatário no campo **Para**.
 
    ![](assets/two.png)
 
@@ -40,7 +40,7 @@ Ao enviar um email com o Marketo Sales Connect, as visualizações (email abre) 
 
    >[!NOTE]
    >
-   >Se alguém que tenha sido CC ou CCO abrir o email, essa abertura será registrada como uma visualização no registro da pessoa na **Para** campo.
+   >Se alguém que foi CC ou CCO abrir o email, essa abertura será registrada como uma exibição no registro da pessoa no campo **Para**.
 
 1. Adicione uma linha de assunto.
 
@@ -48,7 +48,7 @@ Ao enviar um email com o Marketo Sales Connect, as visualizações (email abre) 
 
    >[!NOTE]
    >
-   >Uma linha de assunto e um destinatário são necessários para enviar o email. Iremos **salvar automaticamente o rascunho** depois que uma linha de assunto e um recipient são adicionados.
+   >Uma linha de assunto e um destinatário são necessários para enviar o email. Vamos **salvar automaticamente seu rascunho** assim que uma linha de assunto e um destinatário forem adicionados.
 
 1. Redija o email usando o editor. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), se preferir) quando terminar.
 
@@ -56,5 +56,5 @@ Ao enviar um email com o Marketo Sales Connect, as visualizações (email abre) 
 
    >[!MORELIKETHIS]
    >
-   >* [Agendamento de um email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Agendando um Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
    >* [Modelos](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)

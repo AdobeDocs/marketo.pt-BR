@@ -6,7 +6,7 @@ exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 1%
 
 ---
@@ -23,15 +23,15 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente admini
 
 ## Definir Suas Configurações De Compartilhamento {#configure-your-sharing-settings}
 
-1. No [aplicativo web](https://toutapp.com/login), vá para a página Configurações.
+1. No [aplicativo Web](https://toutapp.com/login), vá para a página Configurações.
 
    ![](assets/one-2.png)
 
-1. Em Configurações do administrador, selecione **Compartilhamento de acesso**.
+1. Em Configurações de Administração, selecione **Acesso de Compartilhamento**.
 
    ![](assets/two-2.png)
 
-1. Verifique se **Configurações de compartilhamento** são ativados. Isso significa que, por padrão, somente administradores poderão compartilhar modelos nas suas categorias.
+1. Verifique se as **Configurações de Compartilhamento** estão habilitadas. Isso significa que, por padrão, somente administradores poderão compartilhar modelos nas suas categorias.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente admini
 
    ![](assets/four-2.png)
 
-1. Clique em **Adicionar equipes para acesso**.
+1. Clique em **Adicionar equipes para acessar**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente admini
    >
    >Se você não vir nenhuma equipe, precisará ir para o Gerenciamento de Equipe e criar uma equipe de usuários.
 
-1. Clique em **Adicionar equipes para acesso** para salvar.
+1. Clique em **Adicionar Equipes para Acesso** para salvar.
 
    ![](assets/seven-1.png)
 

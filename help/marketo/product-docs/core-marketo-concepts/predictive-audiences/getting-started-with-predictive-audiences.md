@@ -5,7 +5,7 @@ exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ O desempenho dos modelos de IA/ML depende dos dados em sua assinatura. Quanto ma
 
 O Predictive Audiences é incluído e ativado automaticamente para instâncias que utilizam pacotes de preços Prime ou Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com a Equipe de conta do Adobe (seu gerente de conta).
 
-1. Depois que o recurso for adicionado à sua instância, navegue até o **[!UICONTROL Públicos preditivos]** página no **[!UICONTROL Admin]** área do Marketo.
+1. Depois que o recurso for adicionado à sua instância, navegue até a página **[!UICONTROL Públicos-alvo preditivos]** na área **[!UICONTROL Administrador]** do Marketo.
 
-1. Marcar **[!UICONTROL Habilitar públicos preditivos]** para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.
+1. Marque **[!UICONTROL Habilitar Predictive Audiences]** para ativar o recurso. Observe que pode levar até 24 horas para que todos os processos concluam a configuração.

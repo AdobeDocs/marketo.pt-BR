@@ -17,27 +17,27 @@ A etapa final na configuração do teste de email para aprová-lo. Veja como.
 
 >[!PREREQUISITES]
 >
->[Champion/Challenger: configurar alertas de relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+>[Champion/Challenger: Configurar Alertas De Relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Localize e clique com o botão direito do mouse no **Teste de e-mail** e, em seguida, clique em **Aprovar teste**.
+1. Localize e clique com o botão direito no **Teste de Email** e depois clique em **Aprovar Teste**.
 
    ![](assets/champion3.jpg)
 
    >[!NOTE]
    >
-   >Ao aprovar uma **Email inteiro** teste, aprove o email desafiante primeiro.
+   >Ao aprovar um teste de **Email inteiro**, aprove primeiro o email desafiante.
 
    >[!NOTE]
    >
-   >Para enviar o teste, escolha o email ao qual você adicionou o teste na **Enviar e-mail** etapa de fluxo da campanha do acionador. Você também tem a opção de inserir esse email em um fluxo de um programa de engajamento. Os emails de Especialista/Desafiador não funcionarão em campanhas em lote.
+   >Para enviar o teste, escolha o email ao qual você adicionou o teste na etapa de fluxo **Enviar Email** da sua campanha de acionador. Você também tem a opção de inserir esse email em um fluxo de um programa de engajamento. Os emails de Especialista/Desafiador não funcionarão em campanhas em lote.
 
    Não foi fácil? Depois de receber alguns relatórios, você vai querer declarar um campeão.
 
    >[!MORELIKETHIS]
    >
    >* [Champion/Challenger: declare um Champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
-   >* [Champion/Challenger: descarte um teste de e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
+   >* [Champion/Challenger: descartar um teste de email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)

@@ -19,7 +19,7 @@ Você pode ter notado a opção &quot;Usar filtros&quot; ao criar Smart Lists do
 
 >[!NOTE]
 >
->A alteração da lógica da regra da lista inteligente se aplica somente a filtros, _não_ acionadores.
+>A alteração da lógica da regra de lista inteligente se aplica somente a filtros, _não_ acionadores.
 
 Os acionadores são sempre avaliados como OU, mesmo se a configuração acima estiver definida como ALL. Veja um exemplo:
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Então, se uma pessoa preenche o formulário _ou_ visita a página, a campanha avaliará essa pessoa com base em _all_ ou _qualquer_ dos filtros subsequentes, dependendo da configuração usada.
+Portanto, se uma pessoa preencher o formulário _ou_ visitar a página, a campanha avaliará essa pessoa com base em _todos_ ou _qualquer_ dos filtros subsequentes, dependendo da configuração usada.
 
 >[!MORELIKETHIS]
 >
->[Utilização da Lógica de Regra Avançada da Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
+>[Usando a Lógica de Regra Avançada da Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

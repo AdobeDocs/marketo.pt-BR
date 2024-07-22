@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,13 +18,13 @@ Envie uma notificação por push às pessoas que usam seu aplicativo móvel.
 >[!PREREQUISITES]
 >
 >* [Criar uma nova campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [Criar uma notificação por push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Criar uma Notificação por Push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Selecione a campanha inteligente e clique em **Lista inteligente**.
+1. Selecione sua campanha inteligente e clique em **Smart List**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
@@ -40,7 +40,7 @@ Envie uma notificação por push às pessoas que usam seu aplicativo móvel.
    >
    >A notificação por push deve ser aprovada antes de aparecer no menu suspenso.
 
-1. Clique em **Executar uma vez**.
+1. Clique em **Executar Uma Vez**.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 

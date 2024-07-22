@@ -7,7 +7,7 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Você pode classificar suas campanhas da Web de várias maneiras diferentes.
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -25,9 +25,9 @@ Você pode classificar suas campanhas da Web de várias maneiras diferentes.
    >
    >**Definição**
    >
-   >**Mais recentes** - será classificado com base na data em que a campanha foi criada. A mais nova campanha no topo.
+   >**Mais recente** - classificará com base na data em que a campanha foi criada. A mais nova campanha no topo.
    >
-   >**Melhor desempenho** - classificará as campanhas com base na taxa de cliques. Cliques mais altos na parte superior.
+   >**Desempenho máximo** - classificará as campanhas com base na taxa de cliques. Cliques mais altos na parte superior.
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

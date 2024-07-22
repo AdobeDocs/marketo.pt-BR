@@ -17,7 +17,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
 ## Adicionar um campo de atividade personalizado {#add-a-custom-activity-field}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
@@ -33,11 +33,11 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. Clique em **[!UICONTROL Novo campo]**.
+1. Clique em **[!UICONTROL Novo Campo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Escolha o campo [!UICONTROL tipo de dados].
+1. Escolha o [!UICONTROL tipo de dados] do campo.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -53,7 +53,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
 ## Editar um campo de atividade personalizado {#edit-a-custom-activity-field}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
@@ -69,7 +69,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. Selecione o campo que deseja editar e clique no **[!UICONTROL Ações de campo]** e selecione **[!UICONTROL Editar campo]**.
+1. Selecione o campo que deseja editar, clique no menu suspenso **[!UICONTROL Ações do Campo]** e selecione **[!UICONTROL Editar Campo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
@@ -97,7 +97,7 @@ Seu campo foi editado!
 
 ## Excluir um campo de atividade personalizado {#delete-a-custom-activity-field}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
@@ -113,6 +113,6 @@ Seu campo foi editado!
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. Selecione o campo que deseja excluir, clique no **[!UICONTROL Ações de campo]** e selecione **[!UICONTROL Excluir campo]**.
+1. Selecione o campo que deseja excluir, clique no menu suspenso **[!UICONTROL Ações do Campo]** e selecione **[!UICONTROL Excluir Campo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

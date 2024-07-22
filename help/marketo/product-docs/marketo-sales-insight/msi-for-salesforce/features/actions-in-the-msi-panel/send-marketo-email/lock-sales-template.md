@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 >
 >**Permissões de administrador necessárias**
 
-1. Ir para **Admin** e, em seguida, clique em **Sales Insight**.
+1. Vá para **Admin** e clique em **Sales Insight**.
 
    ![](assets/1.png)
 
@@ -33,7 +33,7 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 
    ![](assets/2.png)
 
-1. Marcar **Habilitar a capacidade de bloquear modelos**. Clique em **Salvar**.
+1. Verificar **Habilitar a capacidade de bloquear modelos**. Clique em **Salvar**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,11 +43,11 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 
 >[!NOTE]
 >
->A alteração dessa configuração como administrador **não** afetam retroativamente os templates existentes; ou seja, não os bloquearão automaticamente.
+>Alterar essa configuração como administrador **não** afetará retroativamente os modelos existentes; ou seja, não os bloqueará automaticamente.
 
 ## Bloquear modelo no Editor de email {#lock-template-in-the-email-editor}
 
-1. Selecione o email que deseja bloquear e clique em **Editar rascunho**.
+1. Selecione o email que deseja bloquear e clique em **Editar Rascunho**.
 
    ![](assets/5.png)
 
@@ -55,7 +55,7 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 
    ![](assets/6.png)
 
-1. Marcar **Publicar no Marketo Sales Insight** se ainda não estiver marcada. Agora você pode desmarcar **Permitir que o usuário do CRM edite o email** para bloquear o template. Clique em **Salvar**.
+1. Marque **Publish para o Marketo Sales Insight** se ele ainda não estiver marcado. Agora você pode desmarcar **Permitir que o usuário do CRM edite o email** para bloquear o modelo. Clique em **Salvar**.
 
    ![](assets/7.png)
 

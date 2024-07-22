@@ -17,41 +17,41 @@ Use o Analisador de programa para comparar custos de canal, aquisição de membr
 
 >[!PREREQUISITES]
 >
->[Criar um analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Criar um Analisador de Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Clique em **Analytics** in **Meu Marketo**.
+1. Clique no **Analytics** em **Minha Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Selecione o **Analisador de programa**.
+1. Selecione seu **Analisador de programas**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Alterar a exibição para **Por canal**.
+1. Altere a exibição para **Por canal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Use o **Eixo X** para escolher uma métrica para o eixo horizontal. Vamos começar com **Custo do programa**.
+1. Use o menu suspenso **Eixo X** para escolher uma métrica para o eixo horizontal. Vamos começar com **Custo do programa**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
-1. Use o menu suspenso Eixo Y para escolher uma métrica para o eixo vertical. Aqui, nós vamos com **(FT) Pipeline criado**.
+1. Use o menu suspenso Eixo Y para escolher uma métrica para o eixo vertical. Aqui, vamos com o pipeline **(FT) criado**.
 
    ![](assets/image2014-9-17-18-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Muitas das métricas que você pode escolher no analisador de programa estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante compreender a [diferença entre atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Muitas das métricas que você pode escolher no analisador de programa estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a [diferença entre a atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-1. Use o **Eixo Y** menu suspenso para escolher **(MT) Pipeline criado**.
+1. Use o menu suspenso **Eixo Y** para escolher o Pipeline **(MT) Criado**.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
-   Nesta visualização de atribuição multitoque, vemos que o canal de Webinar tem mais influência no pipeline criado e custa menos do que os canais de Tradeshow e Online Advertising.
+   Nesta visualização de atribuição multitoque, vemos que o canal de webinário tem mais influência no pipeline criado e custa menos do que os canais de Tradeshow e Advertising online.
 
    Agora vamos adicionar mais duas dimensões!
 
-1. Use o **Tamanho da bolha** para selecionar uma medida adicional, como **Novos nomes**.
+1. Use o menu suspenso **Tamanho da Bolha** para selecionar uma medida adicional, como **Novos Nomes**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -59,9 +59,9 @@ Use o Analisador de programa para comparar custos de canal, aquisição de membr
 
    ![](assets/image2014-9-17-18-3a39-3a55.png)
 
-   Vemos que o canal do Webinar fica reduzido, conforme medido por **Novos nomes**. Podemos concluir que, embora tenha muitos membros, é menos eficaz na geração de novos leads do que o canal Tradeshow.
+   Vemos que o canal do Webinar fica reduzido, conforme medido por **Novos Nomes**. Podemos concluir que, embora tenha muitos membros, é menos eficaz na geração de novos leads do que o canal Tradeshow.
 
-1. Por fim, use o menu suspenso Cor para adicionar a quarta dimensão. Vamos selecionar **(FT) Receitas obtidas**.
+1. Por fim, use o menu suspenso Cor para adicionar a quarta dimensão. Vamos selecionar **(FT) Receita conquistada**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -71,7 +71,7 @@ Use o Analisador de programa para comparar custos de canal, aquisição de membr
 
    Com base nas cores, descobrimos que o canal Tradeshow, a bolha mais verde, influenciou a maior receita obtida, medida pela atribuição de primeiro contato.
 
-1. Agora, se alterarmos a métrica Cor para **(MT) Receita conquistada** Além disso, vemos que o canal de publicidade online, agora o mais ecológico, influenciou mais receita ao longo do tempo_ do que os canais de webinários e eventos.
+1. Agora, se mudarmos a métrica Cor para **(MT) Receita Ganha**, veremos que o canal do Advertising Online, agora o mais ecológico, influenciou mais receita ao longo do tempo_ do que os canais de Webinar e Tradeshow.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -84,4 +84,4 @@ Em nosso exemplo, vemos que o canal de Tradeshow é o mais caro (mais à direita
 >[!MORELIKETHIS]
 >
 >* [Explore detalhes do programa e do canal com o Analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Compare a eficácia do programa com o Analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Comparar a eficácia do programa com o Analisador de programas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

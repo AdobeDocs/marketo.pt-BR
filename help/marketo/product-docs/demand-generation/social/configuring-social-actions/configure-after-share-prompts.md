@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nos aplicativos de botão social, compartilhamento de vídeo e votação, você pode escolher o que acontece depois que uma pessoa compartilha seu conteúdo na rede social.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -23,22 +23,22 @@ Nos aplicativos de botão social, compartilhamento de vídeo e votação, você 
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. No editor de aplicativo social, acesse **Configurações do aplicativo** e depois **Opções avançadas**.
+1. No editor de aplicativos sociais, vá para **Configurações do Aplicativo** e depois para **Opções Avançadas**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. Para **Após o compartilhamento**, selecione o comportamento desejado.
+1. Para **Depois de Compartilhar**, selecione o comportamento desejado.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Mensagem de confirmação:** Depois que a pessoa tiver compartilhado, exiba uma confirmação.
-   * **Captura de e-mail:** Depois que a pessoa tiver compartilhado, solicite seu endereço de email.
+   * **Mensagem de confirmação:** depois que a pessoa tiver compartilhado, exiba uma confirmação.
+   * **Captura de email:** depois que a pessoa tiver compartilhado, solicite seu endereço de email.
 
    >[!NOTE]
    >
-   >Se você escolher **Captura de e-mail**, a solicitação só será exibida se a pessoa ainda não tiver fornecido suas informações.
+   >Se você escolher **Captura de email**, a solicitação só será exibida se a pessoa ainda não tiver fornecido suas informações.
 
-1. Se você escolher **Mensagem de confirmação:** Ir para **Fluxo de compartilhamento** e depois **Mensagem de confirmação**.
+1. Se você escolheu **Mensagem de Confirmação**, vá para **Fluxo de Compartilhamento** e depois **Mensagem de Confirmação**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,11 +46,11 @@ Nos aplicativos de botão social, compartilhamento de vídeo e votação, você 
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Se você escolher **Captura de e-mail** (em vez de confirmação): vá para **Fluxo de compartilhamento** e depois **Captura de e-mail**.
+1. Se você escolheu **Captura de Email** (em vez de confirmação): Vá para **Fluxo de Compartilhamento** e depois **Captura de Email**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Escolha se deseja incluir um prompt de marketing e se essa caixa de seleção está marcada por padrão (**Opção de não participação**) ou não (**Opção de participação**).
+1. Escolha se deseja incluir um prompt de marketing e se essa caixa de seleção está marcada por padrão (**Recusa**) ou não (**Aceitação**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 

@@ -6,8 +6,8 @@ exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/enable-communication-limits-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >[!UICONTROL Por Dia] é baseado no dia do calendário no fuso horário da assinatura (meia-noite-meia-noite).
 
-1. Clique em **[!UICONTROL Por Dia]** e selecione o limite desejado. Neste exemplo, estamos escolhendo 1.
+1. Clique na lista suspensa **[!UICONTROL Por Dia]** e selecione o limite desejado. Neste exemplo, estamos escolhendo 1.
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,17 +43,17 @@ ht-degree: 0%
    >
    >Você também pode escolher **[!UICONTROL Personalizado]** se nenhuma das opções predefinidas funcionar para você.
 
-1. Clique em **[!UICONTROL Por 7 dias]** e selecione o limite desejado. Neste exemplo, estamos escolhendo 5.
+1. Clique na lista suspensa **[!UICONTROL Por 7 dias]** e selecione o limite desejado. Neste exemplo, estamos escolhendo 5.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. Selecionar **[!UICONTROL Bloquear emails não operacionais]**.
+1. Selecione **[!UICONTROL Bloquear emails não operacionais]**.
 
    ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >Saiba mais sobre [emails operacionais](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) são.
+   >Saiba mais sobre os [emails operacionais](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Clique em **[!UICONTROL Salvar]**.
 
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Aplicar limites de comunicação à campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Aplicar limites de comunicação à Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

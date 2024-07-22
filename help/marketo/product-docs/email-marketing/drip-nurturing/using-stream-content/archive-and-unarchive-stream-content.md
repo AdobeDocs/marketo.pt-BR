@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Arquivar e desarquivar conteúdo de fluxo {#archive-and-unarchive-stream-content}
 
-Se não quiser mais usar um conteúdo em um fluxo, você pode [remover](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) ou arquivá-lo. Veja como arquivar o conteúdo.
+Se você não quiser mais usar um conteúdo em um fluxo, é possível [removê-lo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) ou arquivá-lo. Veja como arquivar o conteúdo.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [remover](/help/ma
 
 ## Arquivar conteúdo de fluxo {#archive-stream-content}
 
-1. Selecione seu programa de engajamento e vá para a **Fluxos** guia.
+1. Selecione seu programa de envolvimento e vá para a guia **Fluxos**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Passe o mouse sobre o email que deseja arquivar e, no ícone de engrenagem, clique em **Arquivar**.
+1. Passe o cursor do mouse sobre o email que deseja arquivar e, sob o ícone de engrenagem, clique em **Arquivar**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,7 +33,7 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [remover](/help/ma
 
 ## Desarquivar conteúdo de fluxo {#unarchive-stream-content}
 
-1. Selecione seu programa de engajamento e vá para a **Fluxos** guia.
+1. Selecione seu programa de envolvimento e vá para a guia **Fluxos**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
@@ -45,4 +45,4 @@ Se não quiser mais usar um conteúdo em um fluxo, você pode [remover](/help/ma
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
-   Perfeita! Agora esse conteúdo está disponível para ser priorizado e ativado.
+   Perfeito! Agora esse conteúdo está disponível para ser priorizado e ativado.

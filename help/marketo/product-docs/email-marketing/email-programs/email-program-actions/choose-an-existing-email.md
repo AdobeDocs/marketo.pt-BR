@@ -16,15 +16,15 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir um público-alvo com uma lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Definir um público-alvo importando uma lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir um Público-alvo com uma Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Definir um Público-alvo importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 >[!CAUTION]
 >
->Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email, referenciando-o em uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se precisar reutilizar um email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso, o, pois copia o email, mas cria um novo com uma nova ID de email.
+>Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email referenciando-o em uma Campanha Inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se você precisar reutilizar um email, [clone-o](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, pois ele copia o email, mas cria um novo com uma nova ID.
 
-Depois de ter [criou um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definiu seu público, você desejará decidir qual email está enviando. Você pode [criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) do zero ou escolha um que já existe. Veja como escolher um que já existe.
+Depois de [criar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definir seu público-alvo, você decidirá qual email está enviando. Você pode [criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) do zero ou escolher um que já existe. Veja como escolher um que já existe.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Depois de ter [criou um programa de email](/help/marketo/product-docs/email-mark
 
    ![](assets/selectemailprogram.jpg)
 
-1. No **E-mail** bloco, selecione aquele que deseja enviar.
+1. No bloco **Email**, selecione aquele que deseja enviar.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
@@ -49,4 +49,4 @@ Agora que decidimos qual email enviar, podemos configurar um Teste A/B ou ignor�
 >[!MORELIKETHIS]
 >
 >* [Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
->* [Agendar seu programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Agendar Seu Programa De Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Campanhas inteligentes e programas de e-mail podem ser criados como entradas experimentais e devem ser confirmados para que algo realmente aconteça. Veja como.
 
-1. Vá para a **[!UICONTROL Calendário]**.
+1. Vá para o **[!UICONTROL Calendário]**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Selecione a entrada que deseja confirmar e clique em **[!UICONTROL Mostrar foco do programa]**.
+1. Selecione a entrada que deseja confirmar e clique em **[!UICONTROL Mostrar Foco do Programa]**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 

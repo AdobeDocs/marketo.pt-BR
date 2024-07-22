@@ -23,23 +23,23 @@ Por exemplo, um usuário de marketing geralmente precisa de amplo acesso ao apli
 
 O Marketo fornece várias funções integradas, com diferentes níveis de acesso:
 
-* **Admin** - todas as partes do aplicativo, incluindo a seção Admin
-* **Usuário padrão** - todas as partes do aplicativo, exceto a seção Admin
-* **Usuário de marketing** - todas as partes do aplicativo, exceto a seção Admin
-* **Web Designer** - apenas o Design Studio
-* **Usuário do Analytics** - somente a seção Analytics
+* **Administrador** - todas as partes do aplicativo, incluindo a seção Administrador
+* **Usuário Padrão** - todas as partes do aplicativo, exceto a seção de Administrador
+* **Usuário de Marketing** - todas as partes do aplicativo, exceto a seção de Administrador
+* **Web Designer** - somente o Design Studio
+* **Usuário do Analytics** - somente a seção do Analytics
 
 Não é possível editar as funções de Administrador e Usuário padrão, mas você pode editar as outras. Você também pode criar novas funções personalizadas para corresponder às estruturas organizacionais específicas da sua empresa.
 
 ## Marketo com identidade Adobe {#marketo-with-adobe-identity}
 
-Se estiver usando o Marketo com Adobe Identity, a lista de descrições de perfis [pode ser encontrado aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+Se você estiver usando o Marketo com Adobe Identity, a lista de descrições de perfil [pode ser encontrada aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Atribuir funções a um usuário {#assign-roles-to-a-user}
 
-Você pode atribuir funções a um usuário quando [criar usuários pela primeira vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou por [editar um usuário existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Você pode atribuir funções a um usuário ao [criar usuários pela primeira vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) ou ao [editar um usuário existente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -51,7 +51,7 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. Em **[!UICONTROL Funções]**, selecione as funções que deseja atribuir ao usuário com base nas permissões necessárias e clique em **[!UICONTROL Salvar]**.
+1. Em **[!UICONTROL Funções]**, selecione as funções que deseja atribuir ao usuário, com base nas permissões necessárias, e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -63,7 +63,7 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
 Às vezes, sua organização tem funcionários em funções muito específicas que exigem uma combinação personalizada de permissões.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -71,7 +71,7 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. Clique em **[!UICONTROL Funções]** guia.
+1. Clique na guia **[!UICONTROL Funções]**.
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
@@ -79,7 +79,7 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. Insira um **[!UICONTROL Nome da função]**, um **[!UICONTROL Descrição]** (opcional) e selecione as permissões que os usuários nesta função precisarão.
+1. Insira um **[!UICONTROL Nome da Função]**, uma **[!UICONTROL Descrição]** (opcional) e selecione as permissões que os usuários nesta função precisarão.
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
@@ -87,7 +87,7 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
 Se você precisar alterar as permissões associadas a uma função existente, edite a função.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -95,15 +95,15 @@ Se você precisar alterar as permissões associadas a uma função existente, ed
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. Clique em **[!UICONTROL Funções]** guia.
+1. Clique na guia **[!UICONTROL Funções]**.
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
-1. Na lista, selecione a função que deseja modificar e clique em **[!UICONTROL Editar Função]**.
+1. Na lista, selecione a função que você deseja modificar e clique em **[!UICONTROL Editar Função]**.
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Altere o **[!UICONTROL Nome da função]** e **[!UICONTROL Descrição]** se necessário, e altere a seleção de associados **[!UICONTROL Permissões]**.
+1. Altere o **[!UICONTROL Nome da Função]** e a **[!UICONTROL Descrição]**, se necessário, e altere a seleção das **[!UICONTROL Permissões]** associadas.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
@@ -115,7 +115,7 @@ Se você precisar alterar as permissões associadas a uma função existente, ed
 
 Se uma função se tornar desnecessária, você poderá excluí-la.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
@@ -123,7 +123,7 @@ Se uma função se tornar desnecessária, você poderá excluí-la.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. Clique em **[!UICONTROL Funções]** guia.
+1. Clique na guia **[!UICONTROL Funções]**.
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 

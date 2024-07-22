@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Você pode fazer upload de arquivos do Box para usá-los em landing pages e emails.
 
-1. Ir para **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Ir para **Imagens e arquivos**. Clique em **Ações do arquivo** e selecione **Capturar imagens da Web**.
+1. Ir para **Imagens e Arquivos**. Clique em **Ações de Arquivo** e selecione **Capturar Imagens da Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
@@ -35,7 +35,7 @@ Você pode fazer upload de arquivos do Box para usá-los em landing pages e emai
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Escolha onde deseja salvar os arquivos. Em seguida, selecione o **Caixa** pasta da qual você deseja fazer upload. Clique em **Próxima**.
+1. Escolha onde deseja salvar os arquivos. Em seguida, selecione a pasta **Box** da qual deseja fazer o upload. Clique em **Avançar**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 

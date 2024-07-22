@@ -17,8 +17,8 @@ Deseja receber um alerta sempre que uma pessoa duplicada possível for criada? V
 
 1. [Criar uma nova campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Defina a seguinte lista inteligente:
 
-* Acionador: **[!UICONTROL A pessoa foi criada]**
-* Filtro: **[!UICONTROL Duplicar campos]**. Nome do campo **[!UICONTROL é] [!UICONTROL Nome completo]**
+* Gatilho: **[!UICONTROL Pessoa Criada]**
+* Filtro: **[!UICONTROL Campos Duplicados]**. O Nome do Campo **[!UICONTROL é] [!UICONTROL Nome Completo]**
 
   ![](assets/automate-an-alert-1.png)
 
@@ -26,13 +26,13 @@ Deseja receber um alerta sempre que uma pessoa duplicada possível for criada? V
   >
   >Seja criativo. Experimente com campos diferentes para obter melhores resultados de filtragem.
 
-1. Na etapa de fluxo, escolha [[!UICONTROL Enviar alerta]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} ação de fluxo.
+1. Na etapa do fluxo, escolha [[!UICONTROL Enviar alerta]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} ação do fluxo.
 
    ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
-   >Usar o [Enviar token de informações de alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} para incluir um link para a pessoa em seu CRM.
+   >Usar o [token de Enviar Informações de Alerta](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} para incluir um link para a pessoa no seu CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Deseja receber um alerta sempre que uma pessoa duplicada possível for criada? V
    >
    >Além disso, duas pessoas com o mesmo nome não significa automaticamente que são a mesma pessoa.
 
-1. Ativar a campanha no **[!UICONTROL Agendar]** guia.
+1. Ative a campanha na guia **[!UICONTROL Agendamento]**.
 
    ![](assets/automate-an-alert-3.png)
 

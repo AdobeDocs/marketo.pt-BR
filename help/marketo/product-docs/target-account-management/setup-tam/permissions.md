@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Você precisará configurar permissões para que seus usuários possam usar o TAM. Veja como.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one-2.png)
 
@@ -27,15 +27,15 @@ Você precisará configurar permissões para que seus usuários possam usar o TA
    >
    >Você pode adicionar permissões TAM para uma função existente, ou criar uma nova. Este exemplo usa uma nova função.
 
-1. Clique em **Funções**, depois **Nova Função**.
+1. Clique em **Funções** e depois em **Nova Função**.
 
    ![](assets/three-2.png)
 
-1. Insira um Nome de Função e clique no botão **+** ícone ao lado da caixa de seleção Acessar Gerenciamento de Conta de Destino.
+1. Insira um Nome de Função e clique no ícone **+** ao lado da caixa de seleção Acessar Gerenciamento de Conta de Destino.
 
    ![](assets/permissions-4.png)
 
-1. Para selecionar _all_ permissões, basta verificar a **Gerenciamento de contas de acesso do Target** caixa de seleção
+1. Para selecionar _todas_ as permissões, basta marcar a caixa de seleção **Acessar Gerenciamento de Conta de Destino**.
 
    ![](assets/permissions-5.png)
 
@@ -43,8 +43,8 @@ Você precisará configurar permissões para que seus usuários possam usar o TA
    >
    >Você também tem a opção de selecionar apenas algumas das opções. Faça isso marcando cada caixa de seleção individualmente.
 
-1. Clique em **+** para abrir o menu Acessar administrador. Verifique a **Acessar administrador ABM** (ABM é o nome anterior do TAM) e clique em **Criar**.
+1. Clique em **+** para abrir o menu Acessar Administrador. Marque a caixa de seleção **Acessar administrador da ABM** (ABM é o nome anterior da TAM) e clique em **Criar**.
 
    ![](assets/permissions-6.png)
 
-   Sua nova função TAM está pronta para ser [atribuído a um usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
+   Sua nova função TAM agora está pronta para ser [atribuída a um usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!

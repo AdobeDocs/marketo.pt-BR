@@ -5,7 +5,7 @@ exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Permita que suas equipes de vendas selecionem os motivos das chamadas ao fazer c
 
    ![](assets/call-reasons-1.png)
 
-1. Em Configurações do administrador, selecione **Discador**.
+1. Em Admin Settings, selecione **Dialer**.
 
    ![](assets/call-reasons-2.png)
 
-1. Selecionar **Habilitar Motivos de Chamada**.
+1. Selecione **Habilitar Motivos da Chamada**.
 
    ![](assets/call-reasons-3.png)
 
@@ -46,15 +46,15 @@ Permita que suas equipes de vendas selecionem os motivos das chamadas ao fazer c
 
    ![](assets/call-reasons-5.png)
 
-1. Em Configurações do administrador, selecione **Discador**.
+1. Em Admin Settings, selecione **Dialer**.
 
    ![](assets/call-reasons-6.png)
 
-1. Clique em **Gerenciar motivos de chamada**.
+1. Clique em **Gerenciar motivos da chamada**.
 
    ![](assets/call-reasons-7.png)
 
-1. Insira o nome do motivo da chamada desejado no campo de texto e clique em **Adicionar**.
+1. Digite o nome do motivo da chamada desejado no campo de texto e clique em **Adicionar**.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ Após habilitar os motivos da chamada. Os usuários podem selecionar um enquanto
 
    ![](assets/call-reasons-9.png)
 
-1. Insira as informações de chamada no discador e clique em **Chame**.
+1. Insira as informações de chamada no discador e clique em **Chamada**.
 
    ![](assets/call-reasons-10.png)
 
@@ -84,5 +84,5 @@ Após habilitar os motivos da chamada. Os usuários podem selecionar um enquanto
 
 >[!MORELIKETHIS]
 >
->* [Registrar os motivos da chamada e os resultados da chamada no Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Resultados da chamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
+>* [Registrar motivos da chamada e resultados da chamada no Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Resultados da Chamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)

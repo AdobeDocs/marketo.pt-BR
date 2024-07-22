@@ -44,7 +44,7 @@ Para ver o painel de uma Lista de Contas, basta clicar no seu nome...
 
 ## Guia Contas Nomeadas {#named-accounts-tab}
 
-Clique em **Contas Nomeadas** para ver quais contas nomeadas pertencem a essa lista Account.
+Clique na guia **Contas Nomeadas** para ver quais contas nomeadas pertencem a essa lista de Contas.
 
 ![](assets/three-1.png)
 
@@ -54,6 +54,6 @@ Clique em **Contas Nomeadas** para ver quais contas nomeadas pertencem a essa li
 
 ## Guia Usado por {#used-by-tab}
 
-Clique em **Usado por** para ver quais ativos estão fazendo referência a essa Lista de contas.
+Clique na guia **Usado por** para ver quais ativos estão fazendo referência a essa Lista de Contas.
 
 ![](assets/four-2.png)

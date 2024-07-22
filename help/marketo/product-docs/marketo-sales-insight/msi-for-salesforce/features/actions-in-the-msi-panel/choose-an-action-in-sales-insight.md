@@ -30,14 +30,14 @@ Cada um desses recursos pode ser acessado de:
 
   ![](assets/choose-an-action-in-sales-insight-1.png)
 
-**Layout de página com ação de grupo**
+**Layout da página com ação de grupo**
 
 * Painel de layout da conta: Ação de grupo e pode ser controlada pelo perfil do usuário
 * Painel de layout de oportunidade: Ação de grupo e pode ser controlada pelo perfil do usuário
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**Guia Melhores Opções**
+**guia Melhores Opções**
 
 * Guia Ações em massa de melhores opções: ação em grupo e pode ser controlada pelo perfil do usuário
 

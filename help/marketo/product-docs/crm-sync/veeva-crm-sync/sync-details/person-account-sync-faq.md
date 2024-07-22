@@ -5,7 +5,7 @@ exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Uma conta de pessoa é sincronizada com a Marketo como uma empresa e como uma pe
 >
 >Os campos personalizados de uma conta de pessoa são copiados para a empresa e para a pessoa no Marketo.
 
-**Como posso diferenciar contas corporativas e contas pessoais?**
+**Como faço para diferenciar contas comerciais e contas pessoais?**
 
 Use o filtro Conta &quot;É Pessoa&quot; na sua Smart List para separar contas pessoais das contas comerciais padrão.
 
@@ -44,11 +44,11 @@ Há dois campos de email para uma conta de pessoa. Use o campo Endereço de emai
 
 A sincronização dos campos relacionados ao contato da Conta de pessoa é bidirecional. Se você fizer alterações em um contato no Veeva CRM ou no Marketo, suas atualizações serão refletidas em ambos os sistemas. Os campos na conta só são sincronizados em uma direção, do Veeva CRM para o Marketo.
 
-**E se forem feitas alterações em ambos os sistemas nos campos Contato da Conta Pessoa ao mesmo tempo?**
+**E se forem feitas alterações em ambos os sistemas nos campos Contato da Conta de Pessoa ao mesmo tempo?**
 
 Seríamos legais e deixaríamos a Veeva CRM ganhar. No entanto, é raro que esse tipo de colisão de dados ocorra.
 
-**Os tipos de registros de cliente potencial ou contato estão sincronizados com o Veeva CRM?**
+**Os tipos de registros de Cliente Potencial ou Contato estão sincronizados com o Veeva CRM?**
 
 O Veeva CRM só lida realmente com objetos de Conta pessoal e também tem Contas comerciais. Os tipos tradicionais de CRM de cliente potencial, contatos e oportunidades não estão realmente em uso nos sistemas tradicionais de Veeva CRM. Eles podem ser criados no Veeva CRM, mas não são oficialmente compatíveis usando esse conector.
 

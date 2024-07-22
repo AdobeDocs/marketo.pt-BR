@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728028
-description: "Adicionar [!DNL Zoom] as a [!DNL LaunchPoint] Serviço - Documentação do Marketo - Documentação do produto"
-title: "Adicionar [!DNL Zoom] as a [!DNL LaunchPoint] Serviço"
+description: "Adicionar [!DNL Zoom] as a [!DNL LaunchPoint] Service - Documentação do Marketo - Documentação do produto"
+title: "Adicionar [!DNL Zoom] as a [!DNL LaunchPoint] Service"
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Adicionar [!DNL Zoom] as a [!DNL LaunchPoint] Serviço {#add-zoom-as-a-launchpoint-service}
+# Adicionar [!DNL Zoom] como um Serviço [!DNL LaunchPoint] {#add-zoom-as-a-launchpoint-service}
 
-O Marketo gerencia seus [!DNL Zoom] inscrição e presença.
+O Marketo gerencia sua inscrição e presença no [!DNL Zoom].
 
 >[!NOTE]
 >
@@ -21,9 +21,9 @@ O Marketo gerencia seus [!DNL Zoom] inscrição e presença.
 
 >[!NOTE]
 >
->Uma assinatura existente do [!DNL Zoom] Os direitos de administração e do são necessários para essa etapa. Usar email e senha para entrar [!DNL Zoom] disponível.
+>Uma assinatura existente para [!DNL Zoom] e direitos administrativos são necessários para esta etapa. Disponibilizar o email e a senha que você usa para entrar no [!DNL Zoom].
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
@@ -31,19 +31,19 @@ O Marketo gerencia seus [!DNL Zoom] inscrição e presença.
 
    ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. Selecionar **[!UICONTROL Novo]** e depois **[!UICONTROL Novo serviço]**.
+1. Selecione **[!UICONTROL Novo]** e depois **[!UICONTROL Novo serviço]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. Insira um **[!UICONTROL Nome de exibição]**. Em **[!UICONTROL Serviço]**, selecione **[!UICONTROL Zoom]**.
+1. Insira um **[!UICONTROL Nome para Exibição]**. Em **[!UICONTROL Serviço]**, selecione **[!UICONTROL Zoom]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
-1. Clique em **[!UICONTROL Efetue logon no Zoom]**.
+1. Clique em **[!UICONTROL Logon no Zoom]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-1. No [!DNL Zoom] janela de login, digite seu [!DNL Zoom] e clique em **[!UICONTROL Fazer logon]**.
+1. Na janela de logon do [!DNL Zoom], digite suas credenciais do [!DNL Zoom] e clique em **[!UICONTROL Entrar]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
@@ -51,7 +51,7 @@ O Marketo gerencia seus [!DNL Zoom] inscrição e presença.
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
-Seu [!DNL Zoom] agora a conta do está sincronizada com o Marketo e pode ser encontrada no [!UICONTROL LaunchPoint] área.
+Sua conta do [!DNL Zoom] foi sincronizada com o Marketo e pode ser encontrada na área [!UICONTROL LaunchPoint].
 
 >[!CAUTION]
 >

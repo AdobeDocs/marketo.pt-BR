@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Veja como alterar o tipo de campo de um Campo personalizado.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -27,7 +27,7 @@ Veja como alterar o tipo de campo de um Campo personalizado.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. No **[!UICONTROL Ações de campo]** , clique em **[!UICONTROL Alterar tipo]**.
+1. No menu suspenso **[!UICONTROL Ações de campo]**, clique em **[!UICONTROL Alterar tipo]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 

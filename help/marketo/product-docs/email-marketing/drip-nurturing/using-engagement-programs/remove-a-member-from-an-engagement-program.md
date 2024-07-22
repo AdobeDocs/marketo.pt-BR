@@ -13,27 +13,27 @@ ht-degree: 2%
 
 # Remover um membro de um programa de engajamento {#remove-a-member-from-an-engagement-program}
 
-Ih! Como essas pessoas entraram lá? Você pode remover membros de um programa de engajamento com a **Alterar status do programa** etapa do fluxo.
+Ih! Como essas pessoas entraram lá? Você pode remover membros de um programa de envolvimento com a etapa de fluxo **Alterar status do programa**.
 
 >[!TIP]
 >
->Não use isso para pausar conteúdo para uma pessoa. Isso eliminará todas as atribuições no Analytics. Saiba como [pausar pessoas em um programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+>Não use isso para pausar conteúdo para uma pessoa. Isso eliminará todas as atribuições no Analytics. Saiba mais sobre como [pausar pessoas em um programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
 ## Etapa do fluxo {#flow-step}
 
-1. Arraste no **Alterar status do programa** etapa do fluxo.
+1. Arraste na etapa de fluxo **Alterar status do programa**.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Escolha o status, **Não está no programa**.
+   Escolha o status, **Não está no Programa**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy! Todos os membros definidos na [lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) O não estará mais neste programa de engajamento.
+   Groovy! Todos os membros que você definiu na [lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) não estarão mais neste programa de engajamento.
 
 ## Pausar pessoas  {#pause-people}
 
-Às vezes, você só quer pausar pessoas em um programa de envolvimento e não removê-las. Isso é feito com o **Alterar cadência do programa de engajamento**.
+Às vezes, você só quer pausar pessoas em um programa de envolvimento e não removê-las. Isso é feito com a **Cadência do programa de compromisso de alteração**.
 
 >[!MORELIKETHIS]
 >

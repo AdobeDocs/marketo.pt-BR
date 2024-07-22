@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146935
 description: Ativar um acionador da campanha inteligente | Guia Programação - Documentação do Marketo - Documentação do produto
-title: Ativar um acionador da campanha inteligente Guia Programação
+title: Ativar um acionador da campanha inteligente | Guia Programação
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Ativar um acionador da campanha inteligente Guia Programação {#activate-a-trigger-smart-campaign-schedule-tab}
+# Ativar um acionador da campanha inteligente | Guia Programação {#activate-a-trigger-smart-campaign-schedule-tab}
 
 Ativar um acionador do Smart Campaign é como ativá-lo. Veja o que fazer.
 
-1. No da Campanha inteligente **[!UICONTROL Agendar]** clique em **[!UICONTROL Ativar]**.
+1. Na guia **[!UICONTROL Agenda]** do Smart Campaign, clique em **[!UICONTROL Ativar]**.
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 

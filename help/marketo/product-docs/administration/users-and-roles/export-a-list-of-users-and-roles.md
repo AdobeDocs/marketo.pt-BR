@@ -19,7 +19,7 @@ ht-degree: 2%
 
 É muito fácil exportar uma lista completa de seus usuários e funções de usuário. Veja como.
 
-1. Ir para **[!UICONTROL Admin]**.
+1. Vá para **[!UICONTROL Admin]**.
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >Para exportar funções, acesse o **[!UICONTROL Funções]** primeiro e, em seguida, exportar.
+   >Para exportar funções, vá primeiro para a guia **[!UICONTROL Funções]** e, em seguida, exporte.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. Clique em **[!UICONTROL Exportar]** ícone.
+1. Clique no ícone **[!UICONTROL Exportar]**.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

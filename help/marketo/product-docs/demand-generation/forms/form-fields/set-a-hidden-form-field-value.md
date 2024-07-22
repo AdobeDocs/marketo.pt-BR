@@ -6,7 +6,7 @@ exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '302'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Campos ocultos geralmente são preenchidos dinamicamente. Elas não são mostrad
 
 ## Selecionar o campo {#select-the-field}
 
-1. No formulário, selecione o campo oculto e clique em **Editar** para **Preenchimento automático**.
+1. No seu formulário, selecione o campo oculto e clique em **Editar** para **Preenchimento Automático**.
 
    ![](assets/autofill.png)
 
@@ -33,17 +33,17 @@ Ao selecionar Usar valor padrão, você pode codificar um valor específico para
 
 ## Parâmetro do URL {#url-parameter}
 
-Se você quiser capturar os Parâmetros de URL (Cadeias de caracteres de consulta) da página em que a pessoa está ao preencher o formulário, você pode usar **Parâmetros de URL** para preencher o campo oculto.
+Se você quiser capturar Parâmetros de URL (Cadeias de Caracteres de Consulta) da página em que a pessoa está ao preencher o formulário, você poderá usar **Parâmetros de URL** para preencher seu campo oculto.
 
 >[!NOTE]
 >
->Parâmetros são meio técnicos, não são? Uma vez que você os pega, eles são poderosos. Este [Página da Wikipédia em sequências de consulta](https://en.wikipedia.org/wiki/Query_string) é um pouco útil.
+>Parâmetros são meio técnicos, não são? Uma vez que você os pega, eles são poderosos. Esta [página da Wikipédia sobre Cadeias de Caracteres de Consulta](https://en.wikipedia.org/wiki/Query_string) é um pouco útil.
 
-1. Selecionar **Parâmetro de URL** para **Obter Tipo de Valor**.
+1. Selecione o **Parâmetro de URL** para **Obter Tipo de Valor**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Insira o **Nome do parâmetro** e clique em **Salvar**.
+1. Insira o **Nome do Parâmetro** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
@@ -53,9 +53,9 @@ Se você quiser capturar os Parâmetros de URL (Cadeias de caracteres de consult
 
 ## Valor do cookie {#cookie-value}
 
-Se estiver armazenando dados em cookies, você pode usar **Valor do cookie** para coletar dados quando o formulário for enviado.
+Se estiver armazenando dados em cookies, você pode usar o **Valor do Cookie** para coletar dados quando o formulário for enviado.
 
-1. Selecionar **Valor do cookie** para **Obter valor de**.
+1. Selecione **Valor do Cookie** para **Obter Valor de**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,24 +69,24 @@ Se estiver armazenando dados em cookies, você pode usar **Valor do cookie** par
 
 ## URL direcional {#referrer-parameter}
 
-Se quiser capturar dados da página de onde o visitante veio antes de preencher o formulário, você pode usar **Parâmetro do referenciador**.
+Se quiser capturar dados da página de origem do visitante antes de preencher o formulário, você pode usar o **Parâmetro do referenciador**.
 
-1. Definir **Obter valor de** para **Parâmetro do referenciador**.
+1. Definir **Obter Valor de** para **Parâmetro do Referenciador**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Insira o **Nome do parâmetro** que você deseja extrair do URL do referenciador e clicar em **Salvar**.
+1. Insira o **Nome do Parâmetro** que você deseja assimilar da URL do referenciador e clique em **Salvar**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >Você pode inserir um **Valor padrão** caso o parâmetro referrer não seja encontrado.
+   >Você pode inserir um **Valor padrão** caso o parâmetro referenciador não seja encontrado.
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)

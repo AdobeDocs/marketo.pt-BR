@@ -21,25 +21,25 @@ Você pode confiar mais nos dados de algumas listas do que de outras. Às vezes,
 
 ## Bloqueando Atualizações De Campo De Origens Não Confiáveis {#blocking-field-updates-from-untrusted-sources}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Localize o campo desejado, selecione-o e, em **[!UICONTROL Ações de campo]**, clique em **[!UICONTROL Bloquear atualizações de campo]**.
+1. Localize o campo desejado, selecione-o e, em **[!UICONTROL Ações do Campo]**, clique em **[!UICONTROL Bloquear Atualizações do Campo]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. Marcar **[!UICONTROL Lista Importar origem não confiável]** e clique em **[!UICONTROL Aplicar]**.
+1. Marque **[!UICONTROL Origem não confiável de Importação de Lista]** e clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->É possível manter os campos protegidos de todas as listas, confiáveis e não confiáveis, verificando também **[!UICONTROL Lista Importar origem confiável]**.
+>Você pode manter os campos protegidos de todas as listas, confiáveis e não confiáveis, verificando também a **[!UICONTROL fonte confiável de Importação de Lista]**.
 
 Repita as etapas acima para quaisquer outros campos que você queira manter a salvo de listas não confiáveis.
 
@@ -49,6 +49,6 @@ Repita as etapas acima para quaisquer outros campos que você queira manter a sa
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Para obter instruções detalhadas sobre como importar listas, consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+Para obter instruções detalhadas sobre como importar listas, consulte [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Bom trabalho! Agora você sabe como manter os campos principais protegidos contra listas não confiáveis.

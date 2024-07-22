@@ -17,15 +17,15 @@ O conteúdo do fluxo está desativado por padrão. Ative o conteúdo para enviá
 
 ## Ativar conteúdo de fluxo {#activate-stream-content}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu programa de engajamento e clique no link **Fluxos** guia.
+1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Passe o mouse sobre o conteúdo que deseja ativar, clique no ícone de engrenagem e clique em **Ativar**.
+1. Passe o mouse sobre o conteúdo que você deseja ativar, clique no ícone de engrenagem e clique em **Ativar**.
 
    >[!NOTE]
    >
@@ -35,13 +35,13 @@ O conteúdo do fluxo está desativado por padrão. Ative o conteúdo para enviá
 
    >[!TIP]
    >
-   >Você também pode ativar todo o conteúdo em um fluxo clicando no ícone de engrenagem no nível superior e, em seguida, clicando em **Ativar todo o conteúdo**.
+   >Você também pode ativar todo o conteúdo em um fluxo clicando no ícone de engrenagem no nível superior e clicando em **Ativar todo o conteúdo**.
 
    Bom trabalho! Agora você sabe como ativar conteúdo em seus fluxos.
 
 ## Desativar conteúdo de fluxo {#deactivate-stream-content}
 
-1. Selecione seu programa de engajamento e clique no link **Fluxos** guia.
+1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
 
    ![](assets/cloneasteam.jpg)
 

@@ -18,16 +18,16 @@ Se você receber a mensagem de erro &quot;Não foi possível autenticar sua soli
 ## Habilitar API em Permissões do usuário {#enable-api-in-user-permissions}
 
 1. Peça a um administrador do Salesforce que faça logon no SFDC.
-1. Selecionar **Configuração**.
-1. Selecionar **Gerenciar usuários**.
-1. Selecionar **Perfis**.
+1. Selecione **Instalação**.
+1. Selecione **Gerenciar Usuários**.
+1. Selecione **Perfis**.
 1. Localize o Perfil em que estão os usuários do ToutApp e clique em **Editar**.
-1. Role para baixo até **Permissões administrativas** e verifique se **API habilitada** está marcado.
+1. Role para baixo até **Permissões administrativas** e verifique se **API Habilitada** está marcado.
 
 ## Verifique se o Salesforce está bloqueando a conexão do Sales Connect {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
 1. Peça a um administrador do Salesforce que faça logon no SFDC.
-1. Selecionar **Configuração**.
-1. Selecionar **Gerenciar aplicativos**.
-1. Selecionar **Uso do OAuth de aplicativos conectados**.
+1. Selecione **Instalação**.
+1. Selecione **Gerenciar Aplicativos**.
+1. Selecione **Uso do OAuth de aplicativos conectados**.
 1. Certifique-se de que o Sales Connect mostre &quot;Bloquear&quot; ao lado dele. Se você vir &quot;Desbloquear&quot;, clique no botão para desbloquear o acesso do Sales Connect ao Salesforce.

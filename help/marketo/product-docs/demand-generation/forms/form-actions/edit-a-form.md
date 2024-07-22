@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '43'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Se você quiser fazer alterações em um formulário existente, veja a seguir como iniciar o processo.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/editform.png)
 

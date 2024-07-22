@@ -5,8 +5,8 @@ exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 0%
+source-wordcount: '230'
+ht-degree: 2%
 
 ---
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Clique em **[!UICONTROL Usuários]** guia.
+1. Clique na guia **[!UICONTROL Usuários]**.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Clique em **[!UICONTROL Adicionar usuário]** botão.
+1. Clique no botão **[!UICONTROL Adicionar Usuário]**.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. Clique em **+** e selecione o perfil de produto desejado.
+1. Clique no ícone do **+** e selecione o perfil de produto desejado.
 
    ![](assets/add-or-remove-a-user-7.png)
 
@@ -70,11 +70,11 @@ O usuário receberá um email para fazer logon no Marketo Engage.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Clique em **[!UICONTROL Usuários]** guia.
+1. Clique na guia **[!UICONTROL Usuários]**.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Selecione o usuário que deseja remover e clique no botão **[!UICONTROL Remover]** botão.
+1. Selecione o usuário que deseja remover e clique no botão **[!UICONTROL Remover]**.
 
    ![](assets/add-or-remove-a-user-13.png)
 
@@ -86,5 +86,5 @@ O usuário receberá um email notificando que não tem mais acesso ao Marketo En
 
 >[!MORELIKETHIS]
 >
->* [Usuários do Adobe Admin Console](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
->* [Gerenciar usuários individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Usuários do Adobe Admin Console](https://helpx.adobe.com/br/enterprise/using/users.html){target="_blank"}
+>* [Gerenciar Usuários Individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

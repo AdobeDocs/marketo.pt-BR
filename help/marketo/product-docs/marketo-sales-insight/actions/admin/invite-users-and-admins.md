@@ -20,17 +20,17 @@ Adicionar usuários ou administradores é rápido e fácil!
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Em Configurações do administrador, selecione **User Management**.
+1. Em Configurações de administração, selecione **Gerenciamento de usuários**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Clique em **Ações** e selecione **Convidar usuários**.
+1. Clique no botão **Ações** e selecione **Convidar Usuários**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >Também é possível selecionar **Convidar usuários via CSV** se todos estiverem listados em uma planilha.
+   >Você também pode selecionar **Convidar usuários via CSV** se todos estiverem listados em uma planilha.
 
 1. Insira os endereços de email das pessoas físicas que você deseja adicionar.
 
@@ -64,11 +64,11 @@ Siga estas etapas para tornar um usuário existente um Administrador.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. Em Configurações do administrador, selecione **User Management**.
+1. Em Configurações de administração, selecione **Gerenciamento de usuários**.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Localize o usuário que deseja tornar um Administrador, clique no menu suspenso Função e selecione **Admin**.
+1. Localize o usuário que você quer que seja um Administrador, clique no menu suspenso Função e selecione **Administrador**.
 
    ![](assets/invite-users-and-admins-10.png)
 

@@ -23,13 +23,13 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus emails.
 
    ![](assets/two-4.png)
 
-1. Dê um nome exclusivo ao token, insira um URL (sem o https://) e clique em **Salvar**.
+1. Dê um nome exclusivo ao token, insira uma URL (sem o https://) e clique em **Salvar**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Para garantir que os cliques sejam rastreados em seu email, faça **não** digite https:// dentro do valor do token.
+   >Para garantir que os cliques sejam rastreados em seu email, **não** digite https:// dentro do valor do token.
 
 1. Selecione o email no seu programa.
 
@@ -51,7 +51,7 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus emails.
    >
    >É claro que você também tem a opção de inserir &quot;https&quot; se o site o usar.
 
-1. Localize o Meu token, selecione-o e clique em **Inserir**.
+1. Localize o Meu Token, selecione-o e clique em **Inserir**.
 
    ![](assets/eight.png)
 
@@ -63,7 +63,7 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus emails.
 
    ![](assets/ten.png)
 
-1. Pressione Ctrl/Cmd+V para colar o conteúdo no **URL** e clique em **Inserir**.
+1. Pressione Ctrl/Cmd+V para colar o conteúdo na caixa **URL** e clique em **Inserir**.
 
    ![](assets/eleven.png)
 

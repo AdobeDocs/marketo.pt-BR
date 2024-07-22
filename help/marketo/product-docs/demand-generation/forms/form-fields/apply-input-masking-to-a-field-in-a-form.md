@@ -15,27 +15,27 @@ ht-degree: 0%
 
 É possível restringir a entrada do visitante usando uma máscara de entrada. Por exemplo, talvez você queira que os visitantes insiram números de telefone somente em um formato específico.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Selecione o campo e verifique se **Tipo de campo** está definida como **Texto**.
+1. Selecione seu campo e verifique se o **Tipo de Campo** está definido como **Texto**.
 
    >[!NOTE]
    >
-   >O mascaramento de entrada só funciona com **Tipos de campos de texto**.
+   >O mascaramento de entrada só funciona com **Tipos de Campos de Texto**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Clique em **Entrada de máscara** link.
+1. Clique no link **Entrada de máscara**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Insira a máscara de entrada e clique em **Salvar**.
+1. Insira sua máscara de entrada e clique em **Salvar**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

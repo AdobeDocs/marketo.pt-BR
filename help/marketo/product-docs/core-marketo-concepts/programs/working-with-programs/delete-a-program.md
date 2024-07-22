@@ -19,15 +19,15 @@ Você pode arquivar um programa, mas às vezes só quer se livrar dele permanent
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Clique em **[!UICONTROL Ações do programa]** e selecione **[!UICONTROL Excluir]**.
+1. Clique no menu suspenso **[!UICONTROL Ações do Programa]** e selecione **[!UICONTROL Excluir]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selecione o botão de opção &quot;Excluir tudo...&quot;. Analise os efeitos da exclusão do programa e clique em **[!UICONTROL Excluir]** para confirmar.
+1. Selecione o botão de opção &quot;Excluir tudo...&quot;. Revise os efeitos da exclusão do programa e clique em **[!UICONTROL Excluir]** para confirmar.
 
 >[!TIP]
 >
->Programas de arquivamento mantêm os dados do programa, mas o coloca fora do seu caminho. Selecione essa opção e clique em **[!UICONTROL Próxima]** para ver mais detalhes sobre arquivamento.
+>Programas de arquivamento mantêm os dados do programa, mas o coloca fora do seu caminho. Selecione essa opção e clique em **[!UICONTROL Avançar]** para ver mais detalhes sobre arquivamento.
 
 ![](assets/2017-05-05-15-04-15.png)
 

@@ -17,19 +17,19 @@ Obtenha uma representação visual da velocidade e do fluxo em seu modelo de cic
 
 >[!PREREQUISITES]
 >
->[Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Criar um Novo Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Clique em **Analytics** bloco.
+1. Clique no bloco **Analytics**.
 
    ![](assets/one.png)
 
-1. Clique em **Analisador de caminho de sucesso** ícone.
+1. Clique no ícone **Analisador de caminho de sucesso**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Se você receber um aviso de que nenhum dado foi encontrado no intervalo de tempo especificado, basta clicar em **Fechar** para alterar o intervalo de tempo. Se você não for solicitado, mas quiser alterar o intervalo de tempo, acesse **Configuração** e clique duas vezes em **Intervalo de tempo**.
+   >Se você receber um aviso de que nenhum dado foi encontrado no período especificado, apenas clique em **Fechar** para alterar seu período. Se você não for solicitado, mas quiser alterar o intervalo de tempo, vá para **Instalação** e clique duas vezes em **Intervalo de Tempo**.
 
 1. Se você não tiver dados ou estiver alterando o intervalo de tempo, selecione um na lista suspensa e clique em Salvar.
 
@@ -37,9 +37,9 @@ Obtenha uma representação visual da velocidade e do fluxo em seu modelo de cic
 
    >[!TIP]
    >
-   >Para selecionar um intervalo específico, selecione **Personalizado** e use o **De** e **Para** campos.
+   >Para selecionar um intervalo específico, selecione **Personalizado** e use os campos **De** e **Até**.
 
-1. Se você tiver mais de um Modelo de ciclo de receita, selecione aquele que você deseja na lista **Configuração** guia.
+1. Se você tiver mais de um Modelo de ciclo de receita, selecione o que deseja na guia **Configuração**.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Obtenha uma representação visual da velocidade e do fluxo em seu modelo de cic
 
    ![](assets/five.png)
 
-1. Clique em **Analisador de caminho de sucesso** guia.
+1. Clique na guia **Analisador de caminho de sucesso**.
 
    ![](assets/success-tab.png)
 
@@ -55,8 +55,8 @@ Agora você pode explorar o movimento de cada estágio para o próximo!
 
 >[!TIP]
 >
->Quer salvar seu relatório? Clique em **Ações do analisador** e selecione **Salvar como**.
+>Quer salvar seu relatório? Clique no menu suspenso **Ações do Analisador** e selecione **Salvar como**.
 
 >[!MORELIKETHIS]
 >
->[Uso do Analisador de caminho de sucesso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
+>[Usando o Analisador de Caminho de Sucesso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)

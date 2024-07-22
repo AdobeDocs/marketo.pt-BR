@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Ao criar um aplicativo social, você pode adicionar um link para a política de privacidade da sua empresa.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,7 +23,7 @@ Ao criar um aplicativo social, você pode adicionar um link para a política de 
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. No editor de aplicativo social, acesse **Configurações do aplicativo** > **Opções avançadas**.
+1. No editor de aplicativos sociais, vá para **Configurações do Aplicativo** > **Opções Avançadas**.
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
@@ -33,10 +33,10 @@ Ao criar um aplicativo social, você pode adicionar um link para a política de 
 
    >[!NOTE]
    >
-   >Nessa tela, você também pode adicionar um link para as regras (termos e condições) da sua oferta. Consulte [Criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >Nessa tela, você também pode adicionar um link para as regras (termos e condições) da sua oferta. Consulte [Criar uma Oferta de Indicação](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
 1. O link da política de privacidade (e o link de regras) aparecerá na parte inferior das telas de mensagem de compartilhamento. Por exemplo:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Em seguida, é possível [configurar o fluxo de compartilhamento e inscrição social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) do seu aplicativo.
+Em seguida, você pode [configurar a inscrição social e o fluxo de compartilhamento](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) do seu aplicativo.

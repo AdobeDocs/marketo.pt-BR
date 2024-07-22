@@ -19,8 +19,8 @@ Veja quantas pessoas preencheram os formulários em suas páginas de aterrissage
 >
 >Se você observar uma discrepância nos números entre o Relatório de desempenho da lista inteligente e da página de aterrissagem, é provável que as listas inteligentes filtrem apenas os dados das pessoas, enquanto os Relatórios de desempenho da página de aterrissagem incluem dados sociais (Facebook, Google Ads etc.) e anônimas, além dos dados de Pessoas.
 
-1. [Criar um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione a guia Desempenho da landing page [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Definir o período do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia Relatório.
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) de Desempenho da Página de Aterrissagem.
+1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia Relatório.
 1. Pronto! Explore o relatório para avaliar o desempenho de suas landing pages.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
@@ -29,9 +29,9 @@ Veja quantas pessoas preencheram os formulários em suas páginas de aterrissage
 
    >[!TIP]
    >
-   >Encontre as páginas com o maior percentual de conversão! [Classificar seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nessa coluna e escolha Classificar em ordem decrescente.
+   >Encontre as páginas com o maior percentual de conversão! [Classifique seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nessa coluna e escolha Classificar em ordem decrescente.
 
-   O ícone AB no relatório indica que as estatísticas são o total de todas as páginas nesse [grupo de teste de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   O ícone AB no relatório indica que as estatísticas são o total de todas as páginas no [grupo de teste de landing page](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
 
 1. Role para a direita para ver o número de visitas originadas em várias plataformas de redes sociais.
 
@@ -39,8 +39,8 @@ Veja quantas pessoas preencheram os formulários em suas páginas de aterrissage
 
 >[!NOTE]
 >
->Atividade gerada pelo [botão social com o analytics](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) não está incluído aqui. Para essas estatísticas, consulte o [Painel social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+>A atividade gerada pelo [botão social com a análise](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) não está incluída aqui. Para essas estatísticas, consulte o [Painel do Social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
 >[!MORELIKETHIS]
 >
->[Filtrar o relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) por ativos locais ou globais.
+>[Filtre o relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) por ativos locais ou globais.

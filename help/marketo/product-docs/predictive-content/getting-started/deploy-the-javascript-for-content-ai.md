@@ -17,22 +17,22 @@ Para usar o Predictive Content, você precisa gerar e configurar a tag RTP (Web 
 
 ## Gerar marca {#generate-tag}
 
-1. Faça logon na sua conta de conteúdo preditivo. Ir para **Configurações da conta**.
+1. Faça logon na sua conta de conteúdo preditivo. Vá para **Configurações da conta**.
 
    ![](assets/settings-dropdown-account-hands.png)
 
-1. Entrada **Configuração de domínio**, localize o domínio relevante e clique em **Gerar tag**.
+1. Em **Configuração de Domínio**, localize o domínio relevante e clique em **Gerar Marca**.
 
    ![](assets/generate-tag.png)
 
-1. Copie e cole a tag de Personalização da Web no HTML do seu site.
+1. Copie e cole a tag do Web Personalization na HTML do site.
 
    ![](assets/web-personalization-tag.png)
 
    >[!NOTE]
    >
-   >Copie a tag JavaScript da Personalização da Web e cole-a como o primeiro script no cabeçalho de suas páginas, entre o `<head> </head>` específicos. Ver mais detalhes [instruções de implementação aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+   >Copie a marca JavaScript do Web Personalization e cole-a como o primeiro script no cabeçalho de suas páginas, entre as marcas `<head> </head>`. Veja mais [instruções de implementação detalhadas aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
-1. Verifique se a tag é exibida em todas as páginas, incluindo páginas de aterrissagem e subdomínios. Verifique isso clicando com o botão direito do mouse na página do site. Ir para **Exibir fonte da página** em um navegador da Web. Pesquisa: &quot;RTP&quot;.
+1. Verifique se a tag é exibida em todas as páginas, incluindo páginas de aterrissagem e subdomínios. Verifique isso clicando com o botão direito do mouse na página do site. Vá para **Exibir Página Source** em um navegador da Web. Pesquisa: &quot;RTP&quot;.
 
-1. Confirme se o botão Tag está definido como **LIGADO**.
+1. Confirme se o botão de alternância de Marca está definido como **ON**.

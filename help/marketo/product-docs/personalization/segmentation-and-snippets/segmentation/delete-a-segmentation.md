@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Uma segmentação pode ser excluída seguindo as etapas abaixo.
 
-1. Vá para a **Banco de dados**.
+1. Vá para o **Banco de Dados**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Vá para a segmentação e clique em **Usado por** para verificar associações.
+1. Vá para a segmentação e clique em **Usado por** para verificar as associações.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Se sua segmentação for usada por outros ativos, remova todas essas associações antes de continuar.
 
-1. Remova todas as associações e, em seguida, em **Ações de segmentação** click **Cancelar aprovação**.
+1. Remova todas as associações e, em **Ações de segmentação**, clique em **Cancelar aprovação**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
@@ -33,7 +33,7 @@ Uma segmentação pode ser excluída seguindo as etapas abaixo.
    >
    >Você pode remover associações excluindo ou criando alternativas para os ativos que usam a segmentação.
 
-1. Após não ser aprovada, clique em **Ações de segmentação** e Excluir a segmentação.
+1. Depois de cancelada a aprovação, clique em **Ações de segmentação** e exclua a segmentação.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 

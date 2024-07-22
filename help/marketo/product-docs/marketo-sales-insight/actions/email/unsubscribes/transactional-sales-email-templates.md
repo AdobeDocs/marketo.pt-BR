@@ -5,7 +5,7 @@ feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
 source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Se sua equipe estiver enviando emails transacionais ou não comerciais, você po
 
 ## Itens a Observar {#things-to-note}
 
-* Emails não comerciais ignorarão cancelamentos de assinatura de vendas e [verificação de cancelamento de inscrição de Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* Emails não comerciais ignorarão cancelamentos de assinatura de vendas e [verificação de cancelamento de assinatura de Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, mas não ignorarão [domínios bloqueados](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
 
-* As mensagens de cancelamento de inscrição não serão anexadas automaticamente a emails não comerciais, mesmo que a variável [configuração anexar administrador de mensagem de cancelamento de inscrição](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} ainda preencherá a mensagem de cancelamento de inscrição da equipe.
+* As mensagens de cancelamento de inscrição não serão anexadas automaticamente a emails não comerciais, mesmo que a [configuração de administração de mensagens de cancelamento de inscrição de anexação](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} esteja habilitada. No entanto, o `{{team_unsubscribe}}` [campo dinâmico](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} ainda preencherá a mensagem de cancelamento de inscrição da sua equipe.
 
 ## Configurar um modelo de email para uso não comercial {#configure-an-email-template-for-non-commercial-use}
 

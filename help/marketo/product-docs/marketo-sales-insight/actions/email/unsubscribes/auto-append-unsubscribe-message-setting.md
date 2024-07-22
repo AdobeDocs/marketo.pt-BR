@@ -16,7 +16,7 @@ Certifique-se de que cada email de ações de Insight de vendas enviado inclua u
 
 >[!NOTE]
 >
->Se você usar o `{{team_unsubscribe}}` se o campo dinâmico em um modelo de email e a configuração de acréscimo da mensagem de cancelamento de inscrição estiverem ativados, o campo dinâmico de cancelamento de inscrição da equipe preencherá a mensagem de cancelamento de inscrição _em vez de_ anexando a mensagem de cancelamento de inscrição.
+>Se você usar o campo dinâmico `{{team_unsubscribe}}` em um modelo de email e a configuração de acréscimo da mensagem de cancelamento de inscrição estiver habilitada, o campo dinâmico de cancelamento de inscrição da equipe preencherá a mensagem de cancelamento de inscrição _em vez de_.
 
 ## Habilitar/Desabilitar Anexar Cancelamento de Inscrição {#enable-disable-unsubscribe-append}
 
@@ -24,7 +24,7 @@ Certifique-se de que cada email de ações de Insight de vendas enviado inclua u
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. Em Configurações Do Administrador, Clique Em **Cancelamentos de assinatura**.
+1. Em Configurações De Administração, Clique Em **Cancelar Assinaturas**.
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -34,4 +34,4 @@ Certifique-se de que cada email de ações de Insight de vendas enviado inclua u
 
 >[!TIP]
 >
->Se você desativar a configuração Anexar mensagem de cancelamento de inscrição, recomendamos adicionar um rodapé de cancelamento de inscrição aos modelos para garantir que a comunicação tenha uma opção de recusa. Você pode fazer isso adicionando sua própria mensagem personalizada a cada modelo ou usando `{{team_unsubscribe}}` [campo dinâmico](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
+>Se você desativar a configuração Anexar mensagem de cancelamento de inscrição, recomendamos adicionar um rodapé de cancelamento de inscrição aos modelos para garantir que a comunicação tenha uma opção de recusa. Você pode fazer isso adicionando sua própria mensagem personalizada a cada modelo, ou usando o `{{team_unsubscribe}}` [campo dinâmico](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.

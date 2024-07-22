@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se você precisar excluir um fluxo do seu programa de engajamento, siga estas etapas rápidas e fáceis.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de engajamento e vá para **Fluxos**.
+1. Selecione seu programa de engajamento e vá para **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -37,4 +37,4 @@ Se você precisar excluir um fluxo do seu programa de engajamento, siga estas et
 
    >[!NOTE]
    >
-   >Se o fluxo tiver pessoas, você será solicitado a [mover](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) primeiro.
+   >Se o fluxo contiver pessoas, você será solicitado a [movê-las](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) primeiro.

@@ -7,7 +7,7 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,13 +17,13 @@ Um token de Arquivo de calendário permite adicionar um link de evento de calend
 
 >[!PREREQUISITES]
 >
->[Criar um arquivo de evento de calendário (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>[Criar um Arquivo de Evento de Calendário (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. Ao editar o email do programa, clique onde deseja colocar o token e clique no botão Inserir token.
 
 ![](assets/one-6.png)
 
-1. Selecione o token do Arquivo de calendário e clique em **Inserir**.
+1. Selecione o token do Arquivo de Calendário e clique em **Inserir**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 

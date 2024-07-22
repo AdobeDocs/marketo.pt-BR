@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Quando um usuário com a Identidade do Adobe precisa fazer logon no aplicativo Marketo Engage, ele deve fazer logon por meio do link de logon da AdobeID, em vez do logon típico na página de logon do Marketo Engage. Ao clicar no link, o usuário será direcionado para o Aplicativo Marketo Engage.
 
-1. Clique em **[!UICONTROL Continuar com a AdobeID]** na página de logon do Marketo Engage.
+1. Clique em **[!UICONTROL Continuar com AdobeID]** na página de logon do Marketo Engage.
 
    ![](assets/user-sign-in-with-adobe-id-1.png)
 

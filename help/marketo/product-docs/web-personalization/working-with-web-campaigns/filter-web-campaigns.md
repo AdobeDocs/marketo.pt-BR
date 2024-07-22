@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrar campanhas da Web {#filter-web-campaigns}
 
-Depois de criar centenas de campanhas de Personalização da Web, é realmente útil poder usar filtros para exibir apenas aquelas em que você está interessado.
+Depois de criar centenas de campanhas do Web Personalization, é realmente útil poder usar filtros para exibir apenas aquelas em que você está interessado.
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -29,7 +29,7 @@ Depois de criar centenas de campanhas de Personalização da Web, é realmente �
 
    >[!TIP]
    >
-   >Use o **Selecionar tudo** marque a caixa para escolher todas ou as opções **Limpar** para desmarcar todas as caixas de seleção.
+   >Use a caixa de seleção **Marcar tudo** para escolher tudo ou o link **Limpar** para desmarcar todas as caixas de seleção.
 
 1. Agora, somente as campanhas que correspondem ao filtro são exibidas.
 

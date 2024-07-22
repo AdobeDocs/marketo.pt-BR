@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Noções básicas sobre pastas {#understanding-folders}
 
-As pastas em um programa podem ser usadas para organizar suas campanhas e ativos inteligentes. Eles são diferentes de [pastas de campanha](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+As pastas em um programa podem ser usadas para organizar suas campanhas e ativos inteligentes. Estas são diferentes de [pastas de campanha](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Criar uma pasta {#create-a-folder}
 
-1. Vá para a **[!UICONTROL Atividades de marketing]** área.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
@@ -34,7 +34,7 @@ As pastas em um programa podem ser usadas para organizar suas campanhas e ativos
 
 Não há problema em mudar de ideia.
 
-1. Clique com o botão direito do mouse e selecione **[!UICONTROL Renomear pasta]**.
+1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Renomear Pasta]**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -48,7 +48,7 @@ Não há problema em mudar de ideia.
 >
 >Verifique se a pasta está vazia antes de excluí-la.
 
-1. Clique com o botão direito do mouse e selecione **[!UICONTROL Excluir pasta]**.
+1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Excluir Pasta]**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
@@ -65,7 +65,7 @@ Ao arquivar uma pasta:
 * Modelos arquivados não estão disponíveis ao criar um email ou uma landing page no Design Studio
 * Páginas arquivadas não podem ser usadas em grupos de teste de landing page
 
-Funcionalidade que irá **não** alterar ao arquivar:
+Funcionalidade que **não** será alterada durante o arquivamento:
 
 * A pesquisa global ainda encontra resultados em pastas arquivadas
 * Um ativo que está em uso continuará a funcionar mesmo depois de ser arquivado

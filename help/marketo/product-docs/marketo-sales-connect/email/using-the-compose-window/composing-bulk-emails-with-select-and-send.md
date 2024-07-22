@@ -6,7 +6,7 @@ exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -29,23 +29,23 @@ Veja como enviar/editar emails usando a opção Selecionar e Enviar.
    >
    >Um máximo de 200 pessoas podem ser selecionadas ao usar Selecionar e enviar.
 
-1. Clique em **Email selecionado** botão.
+1. Clique no botão **Email selecionado**.
 
    ![](assets/three-2.png)
 
-1. Insira uma linha de assunto, selecione um modelo (ou escreva o e-mail do zero) e envie/[programação](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) o email.
+1. Insira uma linha de assunto, selecione um modelo (ou escreva o email do zero) e envie/[agende](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) o email.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Se você selecionou um modelo e deseja verificar se todos os campos dinâmicos estão preenchidos corretamente antes de enviar, clique em **Visualizar campos dinâmicos**. Verifique se todos os destinatários na barra lateral em massa estão selecionados para visualização para todos os emails. Se você selecionar um email e clicar em **Visualizar campos dinâmicos**, somente esse email será visualizado.
+   >Se você tiver selecionado um modelo e quiser verificar se todos os campos dinâmicos estão preenchidos corretamente antes de enviar, clique em **Visualizar Campos Dinâmicos**. Verifique se todos os destinatários na barra lateral em massa estão selecionados para visualização para todos os emails. Se você selecionar um email e clicar em **Visualizar Campos Dinâmicos**, somente esse email será visualizado.
 
 ## Edição de emails {#editing-emails}
 
 **Edições em massa**
 
-1. Siga as etapas de 1 a 3 do [Seção Envio de emails](#sending-emails).
+1. Siga as etapas de 1 a 3 da [seção Envio de Emails](#sending-emails).
 
    >[!NOTE]
    >
@@ -59,15 +59,15 @@ Veja como enviar/editar emails usando a opção Selecionar e Enviar.
    >
    >Você pode clicar em um destinatário de email específico para ver as alterações propagadas para esse email.
 
-1. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os destinatários com as atualizações de email em massa que você fez.
+1. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os destinatários as atualizações de email em massa que você fez.
 
    ![](assets/bulk-four.png)
 
-**Editar cada email**
+**Editar Cada Email**
 
 Conclua as Atualizações em massa antes de personalizar cada email, pois fazer uma atualização em massa substitui as alterações em cada email na barra lateral de composição em massa.
 
-1. Siga as etapas de 1 a 4 do [Seção Envio de emails](#sending-emails).
+1. Siga as etapas de 1 a 4 da [seção Envio de Emails](#sending-emails).
 
    >[!NOTE]
    >
@@ -89,12 +89,12 @@ Conclua as Atualizações em massa antes de personalizar cada email, pois fazer 
    >
    >Você pode clicar em outros destinatários para ver que as alterações feitas no destinatário selecionado anteriormente não estão sendo exibidas.
 
-1. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os destinatários com as atualizações de email em massa que você fez.
+1. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os destinatários as atualizações de email em massa que você fez.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
    >* [Opções de envio em massa](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
-   >* [Usando um modelo na janela Compor](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-   >* [Campos dinâmicos](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
+   >* [Usando um Modelo na Janela de Composição](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Campos Dinâmicos](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)

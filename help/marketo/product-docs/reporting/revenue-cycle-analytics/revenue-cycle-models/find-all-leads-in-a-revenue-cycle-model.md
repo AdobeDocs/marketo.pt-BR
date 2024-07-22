@@ -19,11 +19,11 @@ Usando smart lists, é possível encontrar facilmente todos os membros do modelo
 >
 >[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Com a lista inteligente selecionada, clique no botão **Lista inteligente** guia.
+1. Com a lista inteligente selecionada, clique na guia **Lista inteligente**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Localize o **Membro do modelo de receita** e arraste-o para a tela.
+1. Localize o filtro **Membro do Modelo de Receita** e arraste-o para a tela.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
@@ -33,7 +33,7 @@ Usando smart lists, é possível encontrar facilmente todos os membros do modelo
 
    Isso daria a vocês todos os leads nesse modelo, independentemente do estágio. Normalmente, você desejará um estágio específico. Em vez disso, use o filtro a seguir.
 
-1. Localize o **Estágio da receita** e arraste-o para a tela.
+1. Localize o filtro **Estágio da Receita** e arraste-o para a tela.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
@@ -41,7 +41,7 @@ Usando smart lists, é possível encontrar facilmente todos os membros do modelo
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Vá para a **Clientes potenciais** para exibir os resultados.
+1. Acesse a guia **Clientes em potencial** para exibir os resultados.
 
    ![](assets/2.png)
 

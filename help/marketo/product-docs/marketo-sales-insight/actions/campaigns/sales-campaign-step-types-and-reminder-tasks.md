@@ -5,8 +5,8 @@ exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 4%
+source-wordcount: '318'
+ht-degree: 1%
 
 ---
 
@@ -24,15 +24,15 @@ Redija um novo email ou use um modelo preexistente.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Usar um modelo** | Selecione um dos modelos pré-existentes |
+| **Usar um Modelo** | Selecione um dos modelos pré-existentes |
 |---|---|
-| **Salvar como modelo** | Salve o email que acabou de compor como um novo modelo |
+| **Salvar como Modelo** | Salve o email que acabou de compor como um novo modelo |
 | **Adicionar conteúdo** | Faça upload de um arquivo no nosso servidor e receba um URL (apontando para o conteúdo) que possa ser rastreado no seu email |
-| **Anexar arquivos** | Anexar um arquivo do seu computador ao email (limite de tamanho de 23 MB) |
+| **Anexar Arquivos** | Anexar um arquivo do seu computador ao email (limite de tamanho de 23 MB) |
 
 >[!TIP]
 >
->Saiba mais sobre os detalhes do [opções de envio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Saiba mais sobre as [opções de envio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Chamada {#call}
 

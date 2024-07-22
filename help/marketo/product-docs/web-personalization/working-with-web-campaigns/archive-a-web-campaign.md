@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Arquivar uma campanha da Web {#archive-a-web-campaign}
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/one.jpg)
 
@@ -23,8 +23,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >As campanhas da Web arquivadas não serão exibidas no filtro padrão. Para vê-los, clique no ícone Filtro e em **Status**, selecione o **Arquivado** e clique em **Aplicar**.
+   >As campanhas da Web arquivadas não serão exibidas no filtro padrão. Para vê-los, clique no ícone Filtro e, em **Status**, marque a caixa de seleção **Arquivado** e clique em **Aplicar**.
 
 >[!MORELIKETHIS]
 >
->[Excluir uma campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>[Excluir uma Campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

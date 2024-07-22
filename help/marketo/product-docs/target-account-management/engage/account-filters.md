@@ -17,11 +17,11 @@ Identifique e envolva contas nomeadas e os perfis dentro delas usando novos filt
 
 ## Filtros TAM {#tam-filters}
 
-1. Selecione a campanha inteligente e clique em **Lista inteligente**.
+1. Selecione sua campanha inteligente e clique em **Smart List**.
 
    ![](assets/one.png)
 
-1. Clique em **+** para expandir o **Filtros da conta** pasta.
+1. Clique em **+** para expandir a pasta **Filtros de Conta**.
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ Para usar esse filtro, clique na lista suspensa de contas...
 
 ## Membro da conta nomeada {#member-of-named-account}
 
-Primeiro, escolha um qualificador. **É** para uma ou mais contas nomeadas específicas ou **é qualquer** para qualquer conta nomeada.
+Primeiro, escolha um qualificador. **É** para uma(s) conta(s) nomeada(s) específica(s) ou **é qualquer** para qualquer conta nomeada.
 
 ![](assets/six.png)
 
@@ -57,7 +57,7 @@ Clique na lista suspensa de contas nomeadas...
 
 ![](assets/eight.png)
 
-Se você usar o qualificador &quot;é qualquer&quot;, poderá utilizar [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para restringir os resultados da pesquisa. Adicione quantos desejar.
+Se você usar o qualificador &quot;é qualquer um&quot;, poderá utilizar [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para restringir os resultados da pesquisa. Adicione quantos desejar.
 
 ![](assets/nine.png)
 
@@ -67,4 +67,4 @@ Defina &quot;Incluir filhos&quot; como falso se desejar apenas membros da conta 
 
 >[!MORELIKETHIS]
 >
->[Acionadores da conta](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[Acionadores de conta](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)

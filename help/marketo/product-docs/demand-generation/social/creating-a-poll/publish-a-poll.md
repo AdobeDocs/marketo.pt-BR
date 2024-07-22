@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359770
-description: Publicar uma pesquisa - Documentação do Marketo - Documentação do produto
-title: Publicar uma enquete
+description: Pesquisa do Publish a - Documentação do Marketo - Documentação do produto
+title: Publish a Poll
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Publicar uma enquete {#publish-a-poll}
+# Publish a Poll {#publish-a-poll}
 
-Depois que você [criar uma enquete](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), você pode publicá-lo nas páginas de aterrissagem do Marketo, no Facebook e no seu site.
+Depois de [criar uma enquete](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), você poderá publicá-la nas páginas de aterrissagem do Marketo, no Facebook e no seu site.
 
 1. Navegue até a página de aterrissagem e abra-a para edição.
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Arrastar sobre **Enquete** na paleta à direita.
+1. Arraste sobre a **Pesquisa** da paleta à direita.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
@@ -31,7 +31,7 @@ Depois que você [criar uma enquete](/help/marketo/product-docs/demand-generatio
 >
 >Você precisa aprovar sua pesquisa para disponibilizá-la aqui.
 
-Parabéns! Aprove a landing page e sua enquete estará online. Também é possível [publicar a landing page no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [coloque a enquete em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Parabéns! Aprove a landing page e sua enquete estará online. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar a enquete em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

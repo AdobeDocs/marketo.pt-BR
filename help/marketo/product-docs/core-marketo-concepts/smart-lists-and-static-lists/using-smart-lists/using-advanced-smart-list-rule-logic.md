@@ -6,7 +6,7 @@ exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da reg
 
 >[!PREREQUISITES]
 >
->* [Localizar e adicionar filtros a uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
->* [Definir filtros da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+>* [Localizar e Adicionar Filtros a uma Lista Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [Definir Filtros da Lista Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,19 +26,19 @@ Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da reg
 
 ## Adicionar lógica a uma lista inteligente {#add-logic-to-a-smart-list}
 
-Por padrão, sua lista inteligente encontrará as pessoas que correspondem **[!UICONTROL TODOS]** filtros (filtros 1) _e_ 2 _e_ 3). É possível alterar a lógica da regra para encontrar pessoas que correspondam **[!UICONTROL QUALQUER]** dos filtros definidos (filtros 1 _ou_ 2 _ou_ 3), ou use filtros avançados (filtros 1 _e_ 2 _ou_ 3).
+Por padrão, sua Smart List encontrará as pessoas que correspondem aos **[!UICONTROL TODOS]** filtros (filtros 1 _e_ 2 _e_ 3). Você pode alterar a lógica da regra para localizar pessoas que correspondam a **[!UICONTROL QUALQUER UM]** dos filtros definidos (filtros 1 _ou_ 2 _ou_ 3), ou usar filtros avançados (filtros 1 _e_ 2 _ou_ 3).
 
-Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com uma pontuação de pelo menos 50 pontos _ou_ com um status de &quot;Vendas qualificadas&quot;.
+Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com uma pontuação de pelo menos 50 pontos _ou_ com o status &quot;Vendas Qualificadas&quot;.
 
-1. Selecionar **[!UICONTROL Usar filtros avançados]** no menu suspenso.
+1. Selecione **[!UICONTROL Usar filtros avançados]** no menu suspenso.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Usar **[!UICONTROL Avançado]** Os filtros reduzem a necessidade de criar Smart Lists com o filtro Membro da Smart List. Isso ajuda a otimizar o desempenho.
+   >Usar filtros **[!UICONTROL Avançados]** reduz a necessidade de criar Smart Lists com o filtro Membro da Smart List. Isso ajuda a otimizar o desempenho.
 
-1. A variável **[!UICONTROL Filtros avançados]** A caixa de texto exibirá &quot;e&quot; como o valor padrão entre todos os filtros.
+1. A caixa de texto **[!UICONTROL Filtros avançados]** exibirá &quot;e&quot; como o valor padrão entre todos os filtros.
 
    ![](assets/two-2.png)
 

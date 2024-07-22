@@ -5,8 +5,8 @@ exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '467'
-ht-degree: 0%
+source-wordcount: '464'
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
 ### Criar campo de atividade personalizado no Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configurar**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -31,7 +31,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. Clique em **Campos personalizados de atividade**.
+1. Clique em **Campos Personalizados de Atividade**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
@@ -39,7 +39,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. Selecione o tipo de dados &quot;Texto&quot; e clique em **Próxima**.
+1. Selecione o tipo de dados &quot;Texto&quot; e clique em **Próximo**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -47,11 +47,11 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. O restante das configurações é opcional. Depois de concluir a configuração, clique em **Próxima**.
+1. O restante das configurações é opcional. Depois de concluir a configuração, clique em **Avançar**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
-1. Selecione as configurações de segurança em nível de campo desejadas para esse campo e clique em **Próxima** (a imagem abaixo é apenas um exemplo).
+1. Selecione as configurações de segurança em nível de campo desejadas para este campo e clique em **Avançar** (a imagem abaixo é apenas um exemplo).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
 
@@ -59,7 +59,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
    >
    >Verifique se o campo personalizado está visível para o perfil que seus usuários do Sales Connect usam, juntamente com qualquer outro lugar em que você deseje que ele fique visível.
 
-1. Selecione em quais layouts de página você deseja adicionar o campo e clique em **Salvar** (como opção, você pode clicar em **Salvar e novo** e repita o processo para o campo Motivo da chamada).
+1. Selecione os layouts de página aos quais você deseja adicionar o campo e clique em **Salvar** (opcionalmente, você pode clicar em **Salvar e novo** e repetir o processo para o campo Motivo da chamada).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
@@ -69,7 +69,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 >
 >Você só precisará seguir essas etapas se não tiver selecionado o layout de página desejado na Etapa 9 acima.
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configurar**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -77,7 +77,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. Clique em **Layouts de página de tarefa**.
+1. Clique em **Layouts de Página de Tarefa**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
@@ -97,7 +97,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
 ### Criar campo de atividade personalizado no Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. No Salesforce, clique no ícone de engrenagem na parte superior direita e selecione **Configuração**.
+1. No Salesforce, clique no ícone de engrenagem na parte superior direita e selecione **Configurar**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
@@ -109,11 +109,11 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Clique em **Atividade** rótulo.
+1. Clique no rótulo **Atividade**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Clique em **Campos e relacionamentos**.
+1. Clique em **Campos e Relações**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
@@ -123,7 +123,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
 ### Adicionar o campo de atividade personalizado ao layout da página de tarefas no Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. No Salesforce, clique no ícone de engrenagem na parte superior direita e selecione **Configuração**.
+1. No Salesforce, clique no ícone de engrenagem na parte superior direita e selecione **Configurar**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
@@ -135,7 +135,7 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Clique em **Tarefa** rótulo.
+1. Clique no rótulo **Tarefa**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
@@ -157,4 +157,4 @@ Para utilizar esses campos, primeiro será necessário criar o campo como um cam
 
 >[!MORELIKETHIS]
 >
->[Instalar Campos de Evento de Conexão de Vendas no Histórico de Atividades](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
+>[Instalar Campos de Evento do Sales Connect no Histórico de Atividades](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)

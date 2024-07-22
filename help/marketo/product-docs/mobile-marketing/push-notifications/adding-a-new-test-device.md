@@ -19,11 +19,11 @@ ht-degree: 1%
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **Admin** e, em seguida, o **Aplicativos móveis** link.
+1. Clique em **Admin** e depois no link **Aplicativos para dispositivos móveis**.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Clique em **Testar dispositivos** e **Novo dispositivo de teste**.
+1. Clique na guia **Dispositivos de Teste** e **Novo Dispositivo de Teste**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 

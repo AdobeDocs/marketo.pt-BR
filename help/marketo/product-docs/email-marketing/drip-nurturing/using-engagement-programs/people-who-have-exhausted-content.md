@@ -17,7 +17,7 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
 ## Filtro Membro do programa de engajamento {#member-of-engagement-program-filter}
 
-1. Crie uma nova lista inteligente, localize e arraste no **Membro do programa de engajamento** filtro.
+1. Crie uma nova lista inteligente, localize e arraste no filtro **Membro do programa de envolvimento**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,7 +25,7 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Em **Adicionar Restrição**, selecione **Conteúdo esgotado**.
+1. Em **Adicionar restrição**, selecione **Conteúdo esgotado**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
@@ -37,11 +37,11 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
 ## Guia Membros {#members-tab}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione seu programa de engajamento e vá para a **Membros** guia.
+1. Selecione seu programa de envolvimento e vá para a guia **Membros**.
 
    ![](assets/memberstab.jpg)
 

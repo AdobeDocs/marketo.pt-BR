@@ -18,11 +18,11 @@ ht-degree: 0%
 
    ![](assets/using-html-1.png)
 
-1. No cartão Editor de modelo, clique em **Editar**.
+1. No cartão Editor de modelos, clique em **Editar**.
 
    ![](assets/using-html-2.png)
 
-1. Clique em **Origem** no editor de modelos.
+1. Clique no botão **Source** no editor de modelo.
 
    ![](assets/using-html-3.png)
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se você vir o erro &quot;Erro - para remover as tags style/java/html&quot;, significa que você tem algum estilo não compatível. Você deve pesquisar o estilo da palavra no código-fonte e excluir tudo de `<style>` até `</style>`.
+>Se você vir o erro &quot;Erro - para remover as tags style/java/html&quot;, significa que você tem algum estilo não compatível. Você deve procurar o código Source para o estilo da palavra e excluir tudo de `<style>` até `</style>`.

@@ -6,8 +6,8 @@ exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 6%
 >
 >O suporte para o suplemento .Net foi descontinuado em 19 de maio de 2019. [Clique aqui](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) para saber mais.
 
-1. Clique em **Início** menu.
+1. Clique no menu **Iniciar**.
 
-1. Localizar **ToutApp** na lista Programas.
+1. Localize **ToutApp** na lista Programas.
 
 1. Clique nele e escolha **Cancelar registro**.
 
@@ -27,4 +27,4 @@ ht-degree: 6%
 
 1. Selecione &quot;Adicionar/remover um programa&quot;.
 
-1. Selecione ToutApp na lista e escolha **Remover**.
+1. Selecione ToutApp na lista e escolha **Removê-lo**.

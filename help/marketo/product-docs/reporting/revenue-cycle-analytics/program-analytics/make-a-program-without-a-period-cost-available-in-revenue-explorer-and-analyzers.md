@@ -6,14 +6,14 @@ exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Disponibilizar um programa sem um custo de período no Gerenciador e nos Analisadores de receita {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Custos do período de programa permitem definir &quot;Quanto dinheiro&quot; e &quot;Quando&quot; para um programa. Isso é exibido no Gerenciador de ciclo de receita e [analisadores](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Custos do período de programa permitem definir &quot;Quanto dinheiro&quot; e &quot;Quando&quot; para um programa. Isso é exibido no Gerenciador de Ciclo de Receita e em [analisadores](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Excelente! Agora, qualquer programa que use o canal modificado será incluído n
 
 >[!MORELIKETHIS]
 >
->[Substituir o comportamento do Analytics no nível do programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+>[Substituir comportamento do Analytics no nível do programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)

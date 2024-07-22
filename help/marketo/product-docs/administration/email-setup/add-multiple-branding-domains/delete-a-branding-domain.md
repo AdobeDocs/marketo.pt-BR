@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Excluir um domínio de marca {#delete-a-branding-domain}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/delete-a-branding-domain-2.png)
 

@@ -17,7 +17,7 @@ Verifique a edição do Marketo quanto à disponibilidade de recursos. A documen
 
 ## Foco do programa no calendário de marketing {#program-focus-in-marketing-calendar}
 
-[Criar e editar entradas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) diretamente do calendário de marketing.
+[Crie e edite entradas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) diretamente do calendário de marketing.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -40,11 +40,11 @@ Detalhes completos estarão disponíveis após o lançamento em [https://experie
 
 ## MSI - Adicionar às campanhas do Marketo para Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Adicionar clientes potenciais e contatos às campanhas inteligentes do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) diretamente do Microsoft Dynamics. Marketing pode escolher quais campanhas do Marketo estão disponíveis para vendas.
+[Adicione clientes potenciais e contatos às campanhas inteligentes do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) diretamente do Microsoft Dynamics. Marketing pode escolher quais campanhas do Marketo estão disponíveis para vendas.
 
 ## Suporte a entidade personalizada para sincronização com o Microsoft Dynamics {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Usar dados do objeto personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) no Microsoft Dynamics para filtragem e acionamento em smart lists, campanhas inteligentes, programas...
+[Usar dados de objetos personalizados](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) do Microsoft Dynamics para filtrar e acionar listas inteligentes, campanhas inteligentes, programas...
 
 ## Suporte de acionista para Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ O painel de controle agora está aprimorado para incluir mais dados de visualiza
 
 ## RTP - Novos modelos para dispositivos móveis para campanhas {#rtp-new-mobile-templates-for-campaigns}
 
-Rápida e facilmente [criar campanhas móveis](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) com esses novos modelos.
+[Crie campanhas para dispositivos móveis](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) de maneira rápida e fácil com esses novos modelos.
 
 ## RTP - API de contexto de usuário {#rtp-user-context-api}
 
@@ -70,4 +70,4 @@ Use uma nova chamada que acompanhe o histórico de visitas anteriores do visitan
 * Produtos interessados em
 * Quais campanhas RTP elas viram
 
-Visita [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter detalhes completos.
+Visite [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter os detalhes completos.

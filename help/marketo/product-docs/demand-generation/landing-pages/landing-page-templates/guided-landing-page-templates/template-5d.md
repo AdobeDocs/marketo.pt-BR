@@ -6,14 +6,14 @@ exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # Modelo 5D {#template-5d}
 
-Clique com o botão direito do mouse para [baixar modelo 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+Clique com o botão direito do mouse para [baixar Modelo 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 

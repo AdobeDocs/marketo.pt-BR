@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Se você tiver acesso a várias assinaturas do Marketo e quiser ter certeza de qual delas está usando, tente dar a cada uma um nome exclusivo. Esse nome é exibido na parte superior da página de assinatura.
 
-Por exemplo, se você trabalhar em instâncias de produção e de sandbox, poderá nomear uma assinatura **Produção do Marketo** e o outro **Sandbox Marketo**.
+Por exemplo, se você trabalhar em instâncias de produção e de sandbox, poderá nomear uma assinatura **Produção de Marketo** e outra **Sandbox da Marketo**.
 
-1. Ir para **[!UICONTROL Admin]**.
+1. Vá para **[!UICONTROL Admin]**.
 
    ![](assets/edit-subscription-settings-1.png)
 
@@ -25,7 +25,7 @@ Por exemplo, se você trabalhar em instâncias de produção e de sandbox, poder
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. Clique em **[!UICONTROL Editar Informações de Assinatura]**.
+1. Clique em **[!UICONTROL Editar Informações da Assinatura]**.
 
    ![](assets/edit-subscription-settings-3.png)
 

@@ -19,7 +19,7 @@ As páginas substitutas são a última linha de defesa se a landing page estiver
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/set-a-fallback-page-1.png)
 
@@ -27,11 +27,11 @@ As páginas substitutas são a última linha de defesa se a landing page estiver
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. No **[!UICONTROL Landing Pages]** clique em **[!UICONTROL Editar]**.
+1. Na guia **[!UICONTROL Páginas de Aterrissagem]**, clique em **[!UICONTROL Editar]**.
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. Insira um **[!UICONTROL Página de fallback]** na caixa de diálogo e clique em **[!UICONTROL Salvar]**.
+1. Insira uma **[!UICONTROL Página de fallback]** na caixa de diálogo e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/set-a-fallback-page-4.png)
 

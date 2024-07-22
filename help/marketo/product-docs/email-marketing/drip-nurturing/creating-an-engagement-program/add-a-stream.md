@@ -6,7 +6,7 @@ exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Os programas de engajamento podem conter mais de um fluxo. Veja como adicionar um novo.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione seu programa de engajamento e clique no link **Fluxos** guia.
+1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
 
    ![](assets/streamstablifecycle.jpg)
 

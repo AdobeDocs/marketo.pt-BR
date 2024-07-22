@@ -22,9 +22,9 @@ Veja como os filtros funcionam durante o processo de conversão.
 | Se o filtro de sincronização de leads for: | e o filtro de sincronização de contatos é: | Este é o resultado no Marketo |
 |---|---|---|
 | Falso | Falso | Nada é sincronizado no Marketo |
-| True | True | O contato é sincronizado no Marketo |
-| Falso | True | O novo registro de contato é criado no Marketo |
-| True | Falso | O MS Dynamics atualiza as informações dos clientes potenciais no Marketo, mas o registro de contato não está sincronizado |
+| Verdadeiro | Verdadeiro | O contato é sincronizado no Marketo |
+| Falso | Verdadeiro | O novo registro de contato é criado no Marketo |
+| Verdadeiro | Falso | O MS Dynamics atualiza as informações dos clientes potenciais no Marketo, mas o registro de contato não está sincronizado |
 
 >[!CAUTION]
 >

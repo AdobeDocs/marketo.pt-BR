@@ -6,7 +6,7 @@ exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '428'
 ht-degree: 2%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 2%
 
 Para ver o desempenho de seus emails com estatísticas como entregue, aberto, clicado etc., crie um Relatório de desempenho de email.
 
-1. [Criar um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **Desempenho do email** [Tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Alterar o intervalo de tempo do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique no link **Relatório** guia.
+1. [Crie um Relatório em um Programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **Desempenho de Email** [Tipo de Relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Altere o Intervalo de Tempo do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **Relatório**.
 1. Você está aí! Agora explore o relatório para ver como seus emails se comportaram.
 
    >[!NOTE]
@@ -31,9 +31,9 @@ Para ver o desempenho de seus emails com estatísticas como entregue, aberto, cl
 
    >[!NOTE]
    >
-   >Um relatório de desempenho de email inclui atividades para todas as pessoas, incluindo aquelas que foram excluídas desde que o email foi enviado. Às vezes, você deseja ver as atividades somente para pessoas ativas. Nesse caso, você precisa filtrar as pessoas excluídas do seu relatório. Use o **Lista inteligente** guia para [criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para o relatório. Se você não estiver filtrando em nenhum campo específico, defina o filtro Endereço de email como: **não está vazio**.
+   >Um relatório de desempenho de email inclui atividades para todas as pessoas, incluindo aquelas que foram excluídas desde que o email foi enviado. Às vezes, você deseja ver as atividades somente para pessoas ativas. Nesse caso, você precisa filtrar as pessoas excluídas do seu relatório. Use a guia **Lista Inteligente** para [criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para o relatório. Se você não estiver filtrando nenhum campo específico, defina o filtro de Endereço de Email como: **não está vazio**.
 
-   [Selecionar Colunas do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho de email, inclua:
+   [Selecione as Colunas do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho de Email:
 
    | Coluna | Descrição |
    |---|---|
@@ -41,7 +41,7 @@ Para ver o desempenho de seus emails com estatísticas como entregue, aberto, cl
    | Devolvido temporariamente | O email foi rejeitado devido a uma condição temporária, como um servidor inativo ou uma caixa de entrada cheia. |
    | Pendente | Esse número é calculado subtraindo o número de emails Delivered, Bounce e Soft Bounce do número total de Sent. |
    | Link clicado | Número de destinatários de email que clicaram em um link no email. |
-   | Inscrição cancelada | Número de destinatários de email que clicaram no **Cancelar inscrição** no email e preencheu o formulário. |
+   | Inscrição cancelada | Número de destinatários de email que clicaram no link **Cancelar inscrição** no email e preencheram o formulário. |
 
    >[!NOTE]
    >
@@ -49,13 +49,13 @@ Para ver o desempenho de seus emails com estatísticas como entregue, aberto, cl
 
 Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por exemplo, se alguém clicou em um link em um email, obviamente abriu o email primeiro. Seguimos estas regras específicas para o Relatório de desempenho de email:
 
-* **Regra 1**: cada registro de atividade de email é definido como um, e apenas um, dos seguintes: _Entregue_, _Devolvido_, _Devolvido temporariamente_ ou _Pending_.
+* **Regra 1**: cada registro de atividade de email está definido como um, e somente como um, dos seguintes itens: _Entregues_, _Com rejeição permanente_, _Com rejeição temporária_ ou _Pendentes_.
 
-* **Regra 2**: se o registro de email mostrar *Aberto*, é contado como *Entregue*.
+* **Regra 2**: se o registro de email mostrar *Aberto*, será contado como *Entregue*.
 
-* **Regra 3**: se o registro de email mostrar _Email clicado_ ou _Assinatura cancelada_, é contado como _Entregue_ e _Aberto_.
+* **Regra 3**: se o registro de email mostrar _Email Clicado_ ou _Cancelado_, ele será contado como _Entregue_ e _Aberto_.
 
-* **Regra 4**: Se o email for _Aberto_, as rejeições serão ignoradas. Se o email não tiver sido aberto, _Devolvido_ tem precedência sobre _Devolvido temporariamente_ e _Entregue_.
+* **Regra 4**: se o email estiver _Aberto_, as rejeições serão ignoradas. Se o email não tiver sido aberto, _Com rejeição permanente_ terá prioridade sobre _Com rejeição temporária_ e _Entregue_.
 
 >[!NOTE]
 >
@@ -63,5 +63,5 @@ Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por ex
 
 >[!MORELIKETHIS]
 >
->* [Filtrar ativos nos relatórios de email do Campaign](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Filtrar Assets em Relatórios de email de campanha](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [Relatório de desempenho do link de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)

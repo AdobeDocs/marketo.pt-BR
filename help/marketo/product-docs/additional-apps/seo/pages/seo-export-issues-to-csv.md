@@ -7,15 +7,15 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
 # SEO - Exportar problemas para CSV {#seo-export-issues-to-csv}
 
-Você pode exportar seus [problema de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) para um arquivo CSV se você quiser compartilhar essas informações com pessoas fora do Marketo. Veja como.
+Você pode exportar os dados de [problemas de página](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) para um arquivo CSV se quiser compartilhar essas informações com pessoas fora do Marketo. Veja como.
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -23,7 +23,7 @@ Você pode exportar seus [problema de página](/help/marketo/product-docs/additi
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Este é o [Detalhamento de Página Detalhada](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Resultados da otimização da página]** é uma lista de todos os problemas com essa página específica.
+   Este é o [Detalhamento de Página](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Resultados da Otimização de Página]** é uma lista de todos os problemas com essa página específica.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
@@ -31,4 +31,4 @@ Você pode exportar seus [problema de página](/help/marketo/product-docs/additi
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
-Perfeita! Agora você baixou todos os problemas desta página em um arquivo CSV.
+Perfeito! Agora você baixou todos os problemas desta página em um arquivo CSV.

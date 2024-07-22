@@ -5,8 +5,8 @@ exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 1%
+source-wordcount: '259'
+ht-degree: 0%
 
 ---
 
@@ -24,25 +24,25 @@ Veja como configurar sua integração de eventos ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. Clique em **Funções** e depois **Nova Função**.
+1. Clique na guia **Funções** e depois em **Nova Função**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. Insira um Nome de Função. Abra o **API de acesso** e selecione &quot;Objeto personalizado de leitura-gravação&quot; e &quot;Pessoa de leitura-gravação&quot;. Clique em **Criar**.
+1. Insira um Nome de Função. Abra o menu **Acessar API** e selecione &quot;Objeto Personalizado de Leitura-Gravação&quot; e &quot;Pessoa de Leitura-Gravação&quot;. Clique em **Criar**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
 ## Criar um novo usuário {#create-a-new-user}
 
-1. Ainda em Usuários e funções, clique no botão **Usuários** e clique em **Convidar novo usuário**.
+1. Ainda em Usuários e funções, clique na guia **Usuários** e em **Convidar novo usuário**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
-1. Insira as informações do novo usuário e clique em **Próxima**.
+1. Insira as informações do novo usuário e clique em **Avançar**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Selecione a função Somente API ON24 que você acabou de criar. Selecione o **Somente API** caixa de seleção Clique em **Próxima**.
+1. Selecione a função Somente API ON24 que você acabou de criar. Marque a caixa de seleção **Somente API**. Clique em **Avançar**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -60,11 +60,11 @@ Veja como configurar sua integração de eventos ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. Clique em **Novo** depois **Novo serviço**.
+1. Clique em **Novo** e depois em **Novo serviço**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Escolha um nome para exibição. Clique em **Serviço** e selecione **Personalizado**. Insira uma descrição. Clique na lista suspensa Somente API do usuário e selecione o usuário criado [nas etapas acima](#create-a-new-user). Clique em **Criar**.
+1. Escolha um nome para exibição. Clique no menu suspenso **Serviço** e selecione **Personalizado**. Insira uma descrição. Clique na lista suspensa Somente Usuário da API e selecione o usuário criado [nas etapas acima](#create-a-new-user). Clique em **Criar**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -84,4 +84,4 @@ Veja como configurar sua integração de eventos ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. Com a ID do cliente, o segredo do cliente e a identidade salvos, navegue até a conta do ON24. O restante das etapas são executadas lá e [destacado aqui](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.
+1. Com a ID do cliente, o segredo do cliente e a identidade salvos, navegue até a conta do ON24. O restante das etapas são executadas lá e estão [descritas aqui](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.

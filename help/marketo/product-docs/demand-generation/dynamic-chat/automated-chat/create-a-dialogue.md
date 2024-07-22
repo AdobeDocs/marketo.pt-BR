@@ -18,7 +18,7 @@ Veja como criar uma nova caixa de diálogo.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Clique em **[!UICONTROL Criar novo]** botão.
+1. Clique no botão **[!UICONTROL Criar novo]**.
 
    ![](assets/create-a-dialogue-2.png)
 
@@ -34,5 +34,5 @@ Em seguida, saiba como [criar um fluxo](/help/marketo/product-docs/demand-genera
 
 >[!MORELIKETHIS]
 >
->* [Critérios de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Critério de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [Designer de Stream](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

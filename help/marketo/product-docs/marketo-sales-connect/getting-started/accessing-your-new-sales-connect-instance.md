@@ -22,11 +22,11 @@ Depois que o Sales Connect for comprado, uma nova página de integração será 
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Clique em **Conexão de vendas**.
+1. Clique em **Sales Connect**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. Selecione de uma lista de administradores do Marketo a serem convidados e clique em **Enviar convite**.
+1. Selecione de uma lista de administradores do Marketo a convidar e clique em **Enviar Convite**.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 
@@ -34,4 +34,4 @@ O usuário receberá um email com etapas para obter acesso à conta do Sales Con
 
 >[!NOTE]
 >
->Usuários adicionais irão **não** ser adicionado por meio do Marketo e, em vez disso, será adicionado por meio da página Gerenciamento de usuários do Sales Connect. [Clique aqui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) para saber mais sobre como adicionar usuários.
+>Outros usuários **não** serão adicionados por meio do Marketo e serão adicionados através da página Gerenciamento de Usuários do Sales Connect. [Clique aqui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) para saber mais sobre como adicionar outros usuários.

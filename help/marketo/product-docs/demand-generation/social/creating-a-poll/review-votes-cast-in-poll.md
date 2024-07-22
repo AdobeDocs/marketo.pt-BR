@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Quem votou em quê na sua pesquisa? Vamos descobrir.
 
-1. Entrada **Atividades de marketing**, selecione a pesquisa e clique no botão **Participantes** guia.
+1. Em **Atividades de marketing**, selecione a enquete e clique na guia **Participantes**.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Clique no número no campo **Votos** coluna.
+1. Clique no número na coluna **Votos**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -29,4 +29,4 @@ Quem votou em quê na sua pesquisa? Vamos descobrir.
 
    >[!MORELIKETHIS]
    >
-   >Saiba mais sobre o alcance social e o impacto de seus aplicativos no [Exibir desempenho social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >Saiba mais sobre o alcance social e o impacto de seus aplicativos em [Exibir desempenho social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).

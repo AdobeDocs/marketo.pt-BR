@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,18 +17,18 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Por padrão, o Marketo Sales Insight usa o **Pontuação do lead** campo para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
+Por padrão, o Marketo Sales Insight usa o campo **Pontuação do lead** para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 
 >[!TIP]
 >
->Se você ainda não tiver seus campos de pontuação personalizados, veja como [criar](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) as mesmas.
+>Se você ainda não tiver seus campos de pontuação personalizados, veja como [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Definição**
 >
 >* **Estrelas**: as estrelas representam a pontuação total do lead em comparação com outros leads.
->* **Chamas**: As chamas representam a urgência - o quanto a pontuação de um lead mudou recentemente.
+>* **Chamas**: as chamas representam a urgência - quanto a pontuação de um lead mudou recentemente.
 >
 
 1. Em **Admin**, clique em **Sales Insight**.

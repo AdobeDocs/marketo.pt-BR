@@ -6,7 +6,7 @@ exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ As versões mais recentes do Apple Safari para Mac e Windows são totalmente com
 
 Os Webhooks são aprimorados para evitar tokens no URL/carga útil e também podem atualizar os campos de clientes potenciais do Marketo analisando respostas XML/JSON de sistemas de terceiros (não disponível na Spark SMB Edition).
 
-## Ponto de Extremidade de API SOAP atualizado {#updated-soap-api-endpoint}
+## Ponto de extremidade de API SOAP atualizado {#updated-soap-api-endpoint}
 
-O endpoint da API SOAP preferencial foi atualizado, o que é mostrado em Administração -> API SOAP. Atualize suas chamadas para usar este novo ponto de extremidade. As chamadas de API para o endpoint antigo foram descontinuadas, mas continuarão funcionando. (API SOAP não disponível no Spark SMB Edition)
+O endpoint da API de SOAP preferencial foi atualizado, o que é mostrado em Administração -> API de SOAP. Atualize suas chamadas para usar este novo ponto de extremidade. As chamadas de API para o endpoint antigo foram descontinuadas, mas continuarão funcionando. (API SOAP não disponível no Spark SMB Edition)
 
 ## Suporte móvel para guias do Facebook {#mobile-support-for-facebook-tabs}
 
@@ -33,4 +33,4 @@ As guias do facebook publicadas no Marketo detectarão dispositivos móveis e os
 
 ## Em breve: suporte para vários modelos {#coming-soon-support-for-multiple-models}
 
-Estamos estabelecendo as bases para oferecer suporte a vários modelos de ciclo de receita, votou a ideia #1 para a RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo [Filtros de Smart List e Adicionar opções em Etapas de fluxo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) para suportar a seleção de um modelo e um estágio. Também estamos removendo os campos Estágio da Receita Principal e Modelo de Ciclo de Receita Principal da guia de grade de Cliente Potencial da Smart List.
+Estamos estabelecendo as bases para oferecer suporte a vários modelos de ciclo de receita, votou a ideia #1 para a RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo [Filtros de Smart List e Adicionar Opções em Etapas de Fluxo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md), para oferecer suporte à seleção de um modelo e estágio. Também estamos removendo os campos Estágio da Receita Principal e Modelo de Ciclo de Receita Principal da guia de grade de Cliente Potencial da Smart List.

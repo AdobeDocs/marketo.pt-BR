@@ -18,16 +18,16 @@ O uso do conteúdo dinâmico nas páginas de aterrissagem envolve seu público-a
 >[!PREREQUISITES]
 >
 >* [Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Criar uma página de aterrissagem de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Adicionar um novo formulário a uma página de aterrissagem de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Criar uma Página de Aterrissagem de Formato Livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Adicionar um Novo Formulário a uma Página de Aterrissagem de Formato Livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione a Landing Page e clique em **Editar rascunho**.
+1. Selecione sua Landing Page e clique em **Editar rascunho**.
 
    ![](assets/landingpageeditdraft-1.jpg)
 
@@ -49,17 +49,17 @@ O uso do conteúdo dinâmico nas páginas de aterrissagem envolve seu público-a
 
 ## Tornar o elemento dinâmico {#make-element-dynamic}
 
-1. Arraste e solte os elementos de conteúdo dinâmico de sob **Estático** para **Dinâmico**.
+1. Arraste e solte os elementos de conteúdo dinâmico de **Estático** para **Dinâmico**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. Também é possível criar elementos **Estático** ou **Dinâmico** do elemento **Configurações**.
+1. Você também pode tornar os elementos **Estáticos** ou **Dinâmicos** do elemento **Configurações**.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## Aplicar conteúdo dinâmico {#apply-dynamic-content}
 
-1. Selecione um elemento em um segmento, clique no ícone de configurações e clique em **Editar**. Repita o procedimento para cada segmento.
+1. Selecione um elemento em um segmento, clique no ícone de configurações e em **Editar**. Repita o procedimento para cada segmento.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
@@ -79,5 +79,5 @@ Voila! Agora você pode enviar conteúdo direcionado.
 
 >[!MORELIKETHIS]
 >
->* [Pré-visualizar uma página de aterrissagem com conteúdo dinâmico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Uso de conteúdo dinâmico em um email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [Visualizar uma Página de Aterrissagem com Conteúdo Dinâmico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Usando Conteúdo Dinâmico em um Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

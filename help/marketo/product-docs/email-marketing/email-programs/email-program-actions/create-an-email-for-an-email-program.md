@@ -16,19 +16,19 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir um público-alvo com uma lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Definir um público-alvo importando uma lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir um Público-alvo com uma Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Definir um Público-alvo importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
-Depois de criar seu programa de email e definir seu público-alvo, decida qual email você está enviando. Você pode [escolha um email existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou criar um do zero. Veja como criar um novo email.
+Depois de criar seu programa de email e definir seu público-alvo, decida qual email você está enviando. Você pode [escolher um email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existente ou criar um do zero. Veja como criar um novo email.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/one.png)
 
-1. Selecione seu programa de email. No **E-mail** bloco, clique em **Novo email**.
+1. Selecione seu programa de email. No bloco **Email**, clique em **Novo Email**.
 
    ![](assets/newemaildashboard.png)
 
-1. Insira um **Nome**, selecione o template de sua escolha e clique em **Criar**.
+1. Insira um **Nome**, selecione o modelo de sua escolha e clique em **Criar**.
 
    ![](assets/three.png)
 
@@ -44,4 +44,4 @@ Depois de criar seu programa de email e definir seu público-alvo, decida qual e
 
    ![](assets/five.png)
 
-Ótimo! Agora que criamos um email que queremos enviar, vamos  [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) ou saltar direto para [agendamento do seu programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+Ótimo! Agora que criamos um email que queremos enviar, vamos [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) ou pular diretamente para [agendando seu programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

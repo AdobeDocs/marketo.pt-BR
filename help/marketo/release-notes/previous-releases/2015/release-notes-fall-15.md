@@ -6,7 +6,7 @@ exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '999'
 ht-degree: 2%
 
 ---
@@ -45,11 +45,11 @@ Crie facilmente objetos personalizados na interface do usuário do administrador
 
 [Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Estamos animados em anunciar o lançamento de uma atualização para nossa extensão Google Mail Sales Insight! Visualize-o no  [Loja Chrome](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Estamos animados em anunciar o lançamento de uma atualização para nossa extensão Google Mail Sales Insight! Exiba-o na [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Essa atualização inclui muitos novos recursos e funcionalidades:
 
-* Antes da contratação, os vendedores podem ver informações relevantes sobre seus clientes potenciais diretamente no Google Mail, incluindo cargos, perfis do twitter, informações da empresa, fotos e muito mais.
+* Antes da contratação, os vendedores podem ver informações relevantes sobre seus clientes potenciais diretamente no Google Mail, incluindo cargos, perfis de twitter, informações da empresa, fotos e muito mais.
 * Os vendedores podem ver em tempo real com o que os prospetos de conteúdo estão se envolvendo em todos os canais, como emails abertos ou clicados, eventos online ou presenciais assistidos, páginas da Web visitadas, eBooks baixados e muito mais.
 * Os emails enviados pelo Google Mail são conectados no Marketo e rastreados em tempo real. Isso permite que os vendedores vejam quando os prospetos estão visualizando seus emails para que possam acompanhar na hora certa. O Marketo Sales Insight for Google Mail também facilita que os vendedores aproveitem os modelos criados por marketing para enviar belos convites, ofertas e outros tipos de conteúdo.
 
@@ -61,19 +61,19 @@ Essa atualização inclui muitos novos recursos e funcionalidades:
 * [Enviar exemplo](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Visualização](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personalize facilmente as notificações por push com o [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Personalize facilmente as notificações por push com [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-Também é possível [pré-visualização](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou enviar uma [amostra](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) notificação por push antes de implantá-la nos clientes.
+Você também pode [visualizar](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) ou enviar uma notificação por push de [amostra](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) antes de implantá-la nos clientes.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
 ![](assets/image2015-10-1-13-3a46-3a20.png)
 
-## Listas inteligentes do Moments {#smart-campaigns-in-moments}
+## Campanhas inteligentes em momentos {#smart-campaigns-in-moments}
 
-[Listas inteligentes do Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+[Campanhas inteligentes em momentos](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
 As estatísticas nos emails enviados por meio de Campanhas inteligentes agora estão disponíveis em Momentos. Outros recursos nesta atualização incluem:
 
@@ -86,7 +86,7 @@ As estatísticas nos emails enviados por meio de Campanhas inteligentes agora es
 
 ## RTP - Análise de conteúdo e Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Análise de conteúdo](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e RECOMMENDATIONS
+[Análise de conteúdo](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e Recommendations
 
 O RTP Content Analytics mostra o desempenho de seus ativos de conteúdo da Web provenientes de visitas regulares à Web e também de visitas geradas pelo mecanismo de recomendação de conteúdo do RTP.
 
@@ -94,10 +94,10 @@ O RTP Content Analytics mostra o desempenho de seus ativos de conteúdo da Web p
 * Aumente o consumo de conteúdo ativando o conteúdo no mecanismo de conteúdo preditivo do RTP para recomendar automaticamente o melhor conteúdo aos visitantes certos
 * Detalhe cada ativo de conteúdo para ver métricas, gráficos e desempenho mais detalhados
 
-A página de Ativos da RTP agora está dividida em Análises de conteúdo e Recommendations de conteúdo.
+A página Assets da RTP agora está dividida em Análise de conteúdo e Recommendations de conteúdo.
 
-* **Análise de conteúdo:** Mostra as exibições e os clientes potenciais diretos de todo o conteúdo da Web descoberto e definido, ajudando você a analisar o conteúdo com melhor desempenho
-* **Recommendations de conteúdo**: mostra impressões e cliques do conteúdo recomendado da RTP e da atribuição de lead associada. Você também pode editar e ativar recomendações de conteúdo desta página para a [barra](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e [mídia avançada](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) recomendações.
+* **Análise de Conteúdo:** mostra as exibições e os clientes potenciais diretos de todo o conteúdo da Web descoberto e definido, ajudando você a analisar o conteúdo com melhor desempenho
+* **Recommendations de Conteúdo**: mostra impressões e cliques do conteúdo recomendado da RTP e da atribuição de lead associada. Você também pode editar e habilitar recomendações de conteúdo desta página para as recomendações da [barra](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e da [mídia avançada](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
 
 * Todos os dados de clientes potenciais diretos nessas duas páginas foram atualizados retrospectivamente desde o início do ano (1º de janeiro de 2015).
 
@@ -125,7 +125,7 @@ Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* Não preencher células vazias da tabela com `&nbsp;`
+* Não preencher células de tabela vazias com `&nbsp;`
 
 * Botão Maximizar/minimizar adicionado ao editor de origem do HTML
 * As propriedades de tabela pré-existentes agora são identificadas e exibidas na caixa de diálogo Propriedades da tabela

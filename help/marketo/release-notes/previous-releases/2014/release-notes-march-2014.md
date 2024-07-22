@@ -17,7 +17,7 @@ Os recursos a seguir estão incluídos na versão de março de 2014. Verifique a
 
 ## Botão Atualizar do painel do programa de email {#email-program-dashboard-refresh-button}
 
-Use o [botão atualizar](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md) para obter métricas de email atualizadas por minuto sobre seu envio de email ou seu teste AB!
+Use o [botão Atualizar](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md) para obter métricas de email atualizadas sobre seu envio de email ou seu teste AB!
 
 ![](assets/image2014-9-22-11-3a35-3a15.png)
 
@@ -35,13 +35,13 @@ Ao usar o [relatório de desempenho do programa](/help/marketo/product-docs/core
 
 ## Programas inclusivos e operacionais para análises {#inclusive-and-operational-programs-for-analytics}
 
-Agora você pode [incluir programas sem custos do período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) no Revenue Explorer e no Analytics, definindo a opção Analytics Behavior como &quot;Inclusive&quot; ao editar Canais de programa. Você também pode excluir programas operacionais de gerar relatórios por completo, escolhendo &quot;Operacional&quot;.
+Agora você pode [incluir programas sem custos de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) no Gerenciador de Receita e nos Analisadores, definindo a opção Comportamento do Analytics como &quot;Inclusivo&quot; ao editar Canais de Programa. Você também pode excluir programas operacionais de gerar relatórios por completo, escolhendo &quot;Operacional&quot;.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
 ## Opções híbridas e implícitas para conversão de leads {#hybrid-and-implicit-options-for-lead-conversion}
 
-Você pode alterar a maneira como a Marketo vincula contatos e oportunidades para as métricas de conversão de clientes potenciais na Análise de clientes potenciais. Você pode [alterar a configuração de atribuição](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) para uma de três opções. A alteração dessa configuração não modifica dados do Marketo ou do CRM; ela simplesmente altera a forma como seus relatórios são executados e podem ser revertidos a qualquer momento.
+Você pode alterar a maneira como a Marketo vincula contatos e oportunidades para as métricas de conversão de clientes potenciais na Análise de clientes potenciais. Você pode [alterar a configuração de atribuição](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) para uma das três opções. A alteração dessa configuração não modifica dados do Marketo ou do CRM; ela simplesmente altera a forma como seus relatórios são executados e podem ser revertidos a qualquer momento.
 
 A configuração Explícito somente tratará os contatos com funções em uma oportunidade como clientes potenciais convertidos (comportamento padrão). Implícito tratará todos os contatos associados à conta na oportunidade, independentemente da função, como convertidos. O Hybrid tratará os contatos com funções como convertidos se estiverem disponíveis; se não houver nenhum, trataremos todos os contatos na conta como convertidos.
 
@@ -51,12 +51,12 @@ Lembrando que essa configuração também altera as métricas de atribuição do
 
 ## Idioma adicional do usuário {#additional-user-language}
 
-Selecione o seu [Idioma do aplicativo Marketo](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Veja a interface do Marketo Lead Management no seu idioma preferido — agora com suporte para japonês.
+Selecione Seu [Idioma Do Aplicativo Marketo](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Veja a interface do Marketo Lead Management no seu idioma preferido — agora com suporte para japonês.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Blog de desenvolvedores do Marketo {#marketo-developer-blog}
 
-A variável [Blog do desenvolvedor do Marketo](https://developers.marketo.com/blog/) O é dedicado aos desenvolvedores da Web e engenheiros de software que atendem às necessidades em rápida evolução do profissional de marketing moderno. Você pode assinar anúncios sobre novas opções de integração, atualizações de versão da API e uma nova série de artigos explicativos que incluem amostras de código e práticas recomendadas para a integração com a plataforma Marketo.
+O [blog do Marketo Developer](https://developers.marketo.com/blog/) é dedicado aos desenvolvedores da Web e engenheiros de software que oferecem suporte às necessidades em rápida evolução do profissional de marketing moderno. Você pode assinar anúncios sobre novas opções de integração, atualizações de versão da API e uma nova série de artigos explicativos que incluem amostras de código e práticas recomendadas para a integração com a plataforma Marketo.
 
-A variável [primeiro artigo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) nesta série, você será orientado sobre como recuperar com eficiência as informações sobre as pessoas (clientes/contatos/clientes potenciais) armazenadas no Marketo usando a API.
+O [primeiro artigo](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) desta série mostra como recuperar com eficiência as informações sobre as pessoas (clientes/contatos/clientes potenciais) armazenadas no Marketo usando a API.

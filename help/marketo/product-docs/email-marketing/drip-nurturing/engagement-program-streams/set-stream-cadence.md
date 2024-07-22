@@ -6,7 +6,7 @@ exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 2%
 
 ---
@@ -17,19 +17,19 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
 ## Definir cadência {#set-cadence}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Localize e selecione seu programa de engajamento, clique no link **Fluxos** e clique em **Definir Cadência de Fluxo**.
+1. Localize e selecione seu programa de envolvimento, clique na guia **Fluxos** e clique em **Definir Cadência de Fluxo**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Selecione com que frequência você deseja que a cadência se repita. Você pode escolher **Semanalmente** ou **Mensal**.
+1. Selecione com que frequência você deseja que a cadência se repita. Você pode escolher **Semanalmente** ou **Mensalmente**.
 
 ## Semanal {#weekly}
 
-1. Selecionar **Semanalmente**.
+1. Selecione **Semanalmente**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
@@ -51,9 +51,9 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
    >[!TIP]
    >
-   >Você pode definir sua cadência para ser executada todos os dias ao selecionar **Repetições: semanalmente** / **A cada: 1 semana** / **Ligado**: todos os dias.
+   >Você pode definir sua cadência para execução todos os dias ao escolher **Repetições: Semanalmente** / **A cada: 1 Semana** / **Em**: todos os dias.
 
-   Agora escolha a Hora. Marque a caixa se desejar usar [Fuso horário do recipient](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(ou seja, delivery de acordo com fusos horários locais) e clique em **Salvar**.
+   Agora escolha a Hora. Marque a caixa se desejar usar [Fuso Horário do Destinatário](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (ou seja, entregar de acordo com fusos horários locais) e clique em **Salvar**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -73,7 +73,7 @@ Pronto! Continue lendo se quiser configurar uma cadência mensal.
 
 ## Mensal {#monthly}
 
-1. Selecionar **Mensal** para saber com que frequência ele se repete.
+1. Selecione **Mensalmente** para saber com que frequência ele se repete.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ Pronto! Continue lendo se quiser configurar uma cadência mensal.
    >
    >Como alternativa, você pode escolher o dia da semana.
 
-1. Escolher um **Hora** e clique em **Salvar**.
+1. Escolha uma **Hora** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
@@ -109,5 +109,5 @@ Agora você sabe como configurar uma cadência de fluxo!
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre o fuso horário do recipient](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Agendar programas de engajamento com fuso horário do recipient](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [Noções Básicas sobre o Fuso Horário do Destinatário](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [Agendar Programas de Envolvimento com o Fuso Horário do Destinatário](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

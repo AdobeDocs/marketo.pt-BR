@@ -6,7 +6,7 @@ exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '404'
 ht-degree: 4%
 
 ---
@@ -17,9 +17,9 @@ Os recursos a seguir estão incluídos na Versão de agosto de 2014. Verifique a
 
 ## Licenças do Calendário de Marketing {#marketing-calendar-licenses}
 
-Depois de 5 de setembro de 2014, apenas 5 usuários poderão ter acesso gratuito ao calendário de marketing. Certifique-se de [Emitir/Revogar uma licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aos usuários de sua escolha antes, para acesso ininterrupto.
+Depois de 5 de setembro de 2014, apenas 5 usuários poderão ter acesso gratuito ao calendário de marketing. Certifique-se de [Emitir/Revogar uma Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) para os usuários de sua escolha antes para ter acesso ininterrupto.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Novas permissões de usuário {#new-user-permissions}
 
@@ -35,7 +35,7 @@ As novas permissões de usuário a seguir foram adicionadas:
 
 ## Exportar usuários e funções do administrador {#export-users-and-roles-from-admin}
 
-Agora você pode [Exportar uma lista de usuários e funções](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) do Marketo. Você também pode incluir um carimbo de data e hora de &quot;Último logon&quot; na exportação.
+Agora você pode [Exportar uma Lista de Usuários e Funções](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Você também pode incluir um carimbo de data e hora de &quot;Último logon&quot; na exportação.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -57,7 +57,7 @@ Para melhorar a capacidade de entrega, todos os emails de saída serão assinado
 >
 >O DKIM será implantado lentamente, você pode não vê-lo por algumas semanas.
 
-## Atualizações de personalização em tempo real {#real-time-personalization-updates}
+## Atualizações do Real-Time Personalization {#real-time-personalization-updates}
 
 Adicionamos rótulos à página da campanha para que você possa adicionar tags ao seu conteúdo cardíaco.
 
@@ -93,6 +93,6 @@ Os usuários administradores agora podem bloquear usuários devido a várias ten
 
 ## Controle de rastreamento {#tracking-control}
 
-Agora é possível excluir IPs específicos de todos os rastreamentos e relatórios na Personalização em tempo real.
+Agora é possível excluir IPs específicos de todos os rastreamentos e relatórios no Real-Time Personalization.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

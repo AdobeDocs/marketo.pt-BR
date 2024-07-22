@@ -6,7 +6,7 @@ exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Execute um relatório para analisar pessoas, seus programas, landing pages, emails e ativos sociais.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,7 +25,7 @@ Execute um relatório para analisar pessoas, seus programas, landing pages, emai
 
    >[!NOTE]
    >
-   >Você também pode criar relatórios do **Analytics** guia.
+   >Você também pode criar relatórios na guia **Analytics**.
 
 1. Clique com o botão direito no programa e selecione **Novo ativo local**.
 
@@ -35,13 +35,13 @@ Execute um relatório para analisar pessoas, seus programas, landing pages, emai
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Selecionar o relatório **Tipo**.
+1. Selecione o relatório **Type**.
 
    ![](assets/choosereport.png)
 
    >[!TIP]
    >
-   >Consulte [Visão geral do tipo de relatório](https://docs.marketo.com/display/DOCS/Report+Type+Overview) para obter uma breve descrição de cada um deles.
+   >Consulte [Visão geral do tipo de relatório](https://docs.marketo.com/display/DOCS/Report+Type+Overview) para obter uma breve descrição de cada um.
 
 1. Dê um nome ao seu relatório.
 
@@ -53,7 +53,7 @@ Execute um relatório para analisar pessoas, seus programas, landing pages, emai
 
 1. Defina o período do seu relatório. Consulte [Alterar um intervalo de tempo do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) para obter mais detalhes.
 
-1. Clique em **Relatório** para ver suas estatísticas.
+1. Clique na guia **Relatório** para ver suas estatísticas.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
@@ -63,8 +63,8 @@ Execute um relatório para analisar pessoas, seus programas, landing pages, emai
 
    >[!NOTE]
    >
-   >Você pode rapidamente acabar com muitos relatórios. Lembre-se de [excluir um relatório](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) você não precisa mais.
+   >Você pode rapidamente acabar com muitos relatórios. Lembre-se de [excluir um relatório](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) que não é mais necessário.
 
    >[!MORELIKETHIS]
    >
-   >Você pode [alterar um intervalo de tempo do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [assinar um relatório básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar um relatório para o Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar pessoas em um relatório com uma lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)e muito mais.
+   >Você pode [alterar um período de tempo do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [assinar um relatório básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [exportar um relatório para o Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrar pessoas em um relatório com uma lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) e muito mais.

@@ -6,26 +6,26 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 18%
+source-wordcount: '200'
+ht-degree: 23%
 
 ---
 
 # Gerenciar dados da pessoa {#manage-person-data}
 
-Aproveite os dados de pessoas para personalização na Web selecionando campos de pessoas para usar na segmentação.
+Aproveite os dados de pessoas para o Web Personalization selecionando campos de pessoas para usar na segmentação.
 
-1. Ir para **Configurações da conta**.
+1. Vá para **Configurações da conta**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Ir para **Banco de dados**.
+1. Ir para **Banco de Dados**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Adição de um campo Nova pessoa {#adding-a-new-person-field}
 
-1. Selecionar **Campo a ser adicionado** no menu suspenso para adicionar um campo de dados de pessoa à lista.
+1. Selecione o **Campo a ser adicionado** no menu suspenso para adicionar um campo de dados de pessoa à lista.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -41,7 +41,7 @@ Aproveite os dados de pessoas para personalização na Web selecionando campos d
 
    >[!NOTE]
    >
-   >**Gerenciar campos de Dados da pessoa**
+   >**Gerenciando campos de Dados da Pessoa**
    >
    >* Somente campos de dados de pessoas podem ser incluídos
    >* Você pode adicionar até 30 campos de dados pessoais
@@ -64,7 +64,7 @@ Aproveite os dados de pessoas para personalização na Web selecionando campos d
   <tr> 
    <td><p>título</p></td> 
    <td><p>Título</p></td> 
-   <td><p>Cargo</p></td> 
+   <td><p>Nome do cargo</p></td> 
   </tr> 
   <tr> 
    <td><p>avaliação</p></td> 
@@ -78,7 +78,7 @@ Aproveite os dados de pessoas para personalização na Web selecionando campos d
   </tr> 
   <tr> 
    <td><p>leadStatus</p></td> 
-   <td><p>StatusDoCliente Potencial</p></td> 
+   <td><p>LeadStatus</p></td> 
    <td><p>Status</p></td> 
   </tr> 
   <tr> 
@@ -88,7 +88,7 @@ Aproveite os dados de pessoas para personalização na Web selecionando campos d
   </tr> 
   <tr> 
    <td><p>leadRole</p></td> 
-   <td><p>FunçãoDeCliente Potencial</p></td> 
+   <td><p>LeadRole</p></td> 
    <td><p>Função</p></td> 
   </tr> 
   <tr> 
@@ -99,7 +99,7 @@ Aproveite os dados de pessoas para personalização na Web selecionando campos d
  </tbody> 
 </table>
 
-Os seguintes campos de clientes em potencial são fornecidos prontos para uso para novas contas de Personalização da Web:
+Os seguintes campos de clientes em potencial são fornecidos prontos para uso para novas contas do Web Personalization:
 
 >[!MORELIKETHIS]
 >

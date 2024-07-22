@@ -6,7 +6,7 @@ exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e tamb�
 
 ## Pré-visualizar uma campanha da Web na página de criação {#preview-a-web-campaign-on-the-creation-page}
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -29,17 +29,17 @@ Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e tamb�
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. Em Visualizar no site, adicione o URL da página e clique em **Visualizar**. Uma nova janela/guia é aberta mostrando a pré-visualização da campanha.
+1. Em Visualizar no site, adicione a URL da página e clique em **Visualizar**. Uma nova janela/guia é aberta mostrando a pré-visualização da campanha.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Clique em **Compartilhar** para abrir um email com um URL fixo da pré-visualização da campanha.
+   >Clique em **Compartilhar** para abrir um email com uma URL fixa da pré-visualização da campanha.
 
    >[!NOTE]
    >
-   >Você também tem a opção de instalar um plug-in do navegador (seja [Cromo](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência de visualização da sua campanha. Consulte a seção abaixo.
+   >Você também tem a opção de instalar um plug-in de navegador (o [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência de visualização da sua campanha. Consulte a seção abaixo.
 
 ## Visualizar uma campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -57,7 +57,7 @@ Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e tamb�
 
    ![](assets/six.png)
 
-1. Volte para o Marketo. Adicione o URL da página e clique em **Visualizar**.
+1. Volte para o Marketo. Adicione a URL da página e clique em **Visualizar**.
 
    ![](assets/seven.png)
 
@@ -67,7 +67,7 @@ Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e tamb�
 
 ## Pré-visualizar uma campanha da Web na página de campanhas da Web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Ao consultar a lista de suas campanhas da Web, basta escolher uma campanha e clicar no link **Visualizar** ícone.
+1. Ao consultar a lista de suas campanhas da Web, basta escolher uma campanha e clicar no ícone **Visualizar**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -77,7 +77,7 @@ Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e tamb�
 
 Crie um segmento e uma campanha de sandbox.
 
-1. Ir para **Segmentos**.
+1. Vá para **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -95,7 +95,7 @@ Crie um segmento e uma campanha de sandbox.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Conclua o criativo da campanha e clique em **Launch**.
+1. Conclua o criativo da campanha e clique em **Iniciar**.
 
    ![](assets/click-launch.jpg)
 
@@ -109,4 +109,4 @@ Crie um segmento e uma campanha de sandbox.
 
 >[!NOTE]
 >
->As campanhas de redirecionamento não podem ser visualizadas. A única maneira de testá-los é usando um segmento de sandbox (que se destina a páginas específicas - &#42;sandbox=redirecionar&#42;)
+>As campanhas de redirecionamento não podem ser visualizadas. A única maneira de testá-los é usando um segmento de sandbox (que é direcionado por páginas específicas - &#42;sandbox=redirect&#42;)

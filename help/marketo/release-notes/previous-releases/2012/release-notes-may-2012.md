@@ -6,7 +6,7 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Usando as novas propriedades de Espera Avançada, você pode configurar a etapa 
 
 Figura 1. Especificar a Etapa de Espera que terminará em um Dia Útil
 
-## Ativos arquivados ocultos {#archived-assets-hidden}
+## Assets arquivado oculto {#archived-assets-hidden}
 
 Os ativos arquivados são automaticamente filtrados de sugestão automática, listas suspensas e relatórios, facilitando a localização do que você está procurando!
 
@@ -55,7 +55,7 @@ Figura 5. Fazer check-in
 
 ## URL de confirmação do webinário aprimorado {#enhanced-webinar-confirmation-url}
 
-Agora disponível para ON24 e Adobe Connect! Incluir um link exclusivo no email de confirmação para cada participante registrado usando o novo `{{member.webinar URL}}` token. Os aprimoramentos do Adobe Connect também incluem a capacidade de ativar/desativar o email de informações da conta de Adobe que inclui a ID de logon e a senha do usuário.
+Agora disponível para ON24 e Adobe Connect! Inclua um link exclusivo no email de confirmação para cada participante registrado usando o novo token `{{member.webinar URL}}`. Os aprimoramentos do Adobe Connect também incluem a capacidade de ativar/desativar o email de informações da conta de Adobe que inclui a ID de logon e a senha do usuário.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -99,7 +99,7 @@ Figura 11. Configuração do Microsoft Dynamics
 
 ## Aprimoramentos do Marketo Sales Insight {#marketo-sales-insight-enhancements}
 
-**Opções de Cancelamento de Inscrição de Rodapé**
+**Opções de Cancelamento de Inscrição do Rodapé**
 
 Configure quando e se o rodapé de cancelamento de inscrição é exibido para emails enviados pelo Sales Insight.
 

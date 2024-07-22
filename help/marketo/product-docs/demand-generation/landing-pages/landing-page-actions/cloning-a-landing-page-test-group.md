@@ -15,23 +15,23 @@ ht-degree: 0%
 
 No Design Studio, você pode localizar e duplicar um grupo de teste de landing page.
 
-1. Clique com o botão direito do mouse em uma página não aprovada. Selecionar **Clonar**.
+1. Clique com o botão direito do mouse em uma página não aprovada. Selecione **Clone**.
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 
-1. Dê uma nova página clonada **Nome**. As páginas clonadas são exibidas na parte inferior da pasta atual.
+1. Dê um novo **Nome** a esta página clonada. As páginas clonadas são exibidas na parte inferior da pasta atual.
 
    ![](assets/image2015-4-27-16-3a10-3a10.png)
 
-1. Agora crie um novo grupo de teste clicando em **Novo** e separação **Novo grupo de teste**.
+1. Agora crie um novo grupo de teste clicando em **Novo** e selecionando **Novo Grupo de Teste**.
 
    ![](assets/image2015-4-27-15-3a49-3a54.png)
 
-1. Na caixa de diálogo Criar novas páginas iniciais, digite o novo grupo de teste **Nome**.
+1. Na caixa de diálogo Criar Novas Páginas de Aterrissagem, insira o novo grupo de teste **Nome**.
 
    ![](assets/image2015-4-27-15-3a58-3a13.png)
 
-1. Na parte inferior da caixa de diálogo, selecione as páginas clonadas na **Páginas de aterrissagem disponíveis** e clique na seta apontando para a direita para incluí-la na **Páginas de destino testadas**. Faça isso para todas as landing pages desejadas nesse grupo.
+1. Na parte inferior da caixa de diálogo, selecione as páginas clonadas na lista **Páginas de Aterrissagem Disponíveis** e clique na seta apontando para a direita para incluí-las nas **Páginas de Aterrissagem Testadas**. Faça isso para todas as landing pages desejadas nesse grupo.
 
    ![](assets/image2015-4-27-16-3a3-3a22.png)
 

@@ -6,7 +6,7 @@ exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Rastreie e associe os custos de criação de clientes potenciais e de aquisiçã
 
 ## Definir um Custo do Período {#define-a-period-cost}
 
-1. Acesse o **Configuração** do seu programa ou evento.
+1. Acesse a guia **Configuração** do seu Programa ou Evento.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Arrastar e soltar **Custo do Período** à tela e à **Novo Custo** é exibida.
+1. Arraste e solte **Custo do Período** na tela e a caixa de diálogo **Novo Custo** será exibida.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Insira o **Mês do Programa** que deseja associar ao custo definido.
+1. Digite o **Mês do Programa** que você deseja associar ao custo definido.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
@@ -47,13 +47,13 @@ Rastreie e associe os custos de criação de clientes potenciais e de aquisiçã
    >
    >A moeda (por exemplo, USD, EUR etc.) é uma configuração global gerenciada por um administrador do Marketo
 
-1. Insira um descritivo **Nota** (opcional) e clique em **Salvar**.
+1. Insira uma **Nota** descritiva (opcional) e clique em **Salvar**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
 ## Editar um Custo do Período {#edit-a-period-cost}
 
-1. Clique com o botão direito do mouse no Custo do Período e selecione **Editar** no menu pop-up para abrir a variável **Editar Custo** caixa de diálogo.
+1. Clique com o botão direito no Custo do Período e selecione **Editar** no menu pop-up para abrir a caixa de diálogo **Editar Custo**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,10 +63,10 @@ Rastreie e associe os custos de criação de clientes potenciais e de aquisiçã
 
 ## Excluir um Custo do Período {#delete-a-period-cost}
 
-1. Clique com o botão direito do mouse no Custo do Período que deseja deletar e selecione **Excluir** no menu pop-up para exibir a variável **Excluir Custo** prompt.
+1. Clique com o botão direito do mouse no Custo do Período que deseja excluir e selecione **Excluir** no menu pop-up para exibir o prompt **Excluir Custo**.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Clique em **Excluir** para deletar permanentemente o Custo do Período, ou **Cancelar** para voltar.
+1. Clique em **Excluir** para excluir permanentemente o Custo do Período ou em **Cancelar** para voltar.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

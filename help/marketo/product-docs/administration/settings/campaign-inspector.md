@@ -16,11 +16,11 @@ Use o Inspetor de campanhas para exibir/pesquisar todas as suas Campanhas inteli
 
 ## Ativar o Inspetor de campanha {#enable-campaign-inspector}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Clique em **[!UICONTROL Tórax Tesouro]**.
+1. Clique em **[!UICONTROL Tesouro]**.
 
    ![](assets/campaign-inspector-2.png)
 
@@ -28,7 +28,7 @@ Use o Inspetor de campanhas para exibir/pesquisar todas as suas Campanhas inteli
 
    ![](assets/campaign-inspector-3.png)
 
-1. Selecione o **[!UICONTROL Ativado]** e clique em **[!UICONTROL Salvar]**.
+1. Marque a caixa de seleção **[!UICONTROL Habilitado]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ Depois de habilitada, a guia Inspetor de campanha pode ser encontrada ao lado da
 
 ![](assets/campaign-inspector-5.png)
 
-Clique em **[!UICONTROL Campanhas ativas]** para filtrar por diferentes tipos de campanhas.
+Clique no menu suspenso **[!UICONTROL Campanhas ativas]** para filtrar por diferentes tipos de campanhas.
 
 ![](assets/campaign-inspector-6.png)
 

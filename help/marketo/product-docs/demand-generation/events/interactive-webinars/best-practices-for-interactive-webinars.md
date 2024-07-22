@@ -2,7 +2,8 @@
 description: Práticas recomendadas para webinários interativos - Documentação do Marketo - Documentação do produto
 title: Práticas recomendadas para webinários interativos
 feature: Interactive Webinars
-source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
+exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '1650'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * Crie um Webinar interativo (IW) de amostra e clone-o sempre para evitar começar do zero.
 
-* Reutilize as salas do Adobe Connect se entregar o mesmo conteúdo novamente mais tarde. Navegue até **Limpar conteúdo do pods** no menu Pods para limpar o histórico do bate-papo e os resultados da última sessão. Isso simplesmente limpa o conteúdo da sala. Todos os dados das sessões anteriores continuarão disponíveis no Marketo Engage.
+* Reutilize as salas do Adobe Connect se entregar o mesmo conteúdo novamente mais tarde. Navegue até **Limpar conteúdo dos pods** no menu Pods para limpar o histórico do chat e os resultados de sondagem/questionário da última sessão. Isso simplesmente limpa o conteúdo da sala. Todos os dados das sessões anteriores continuarão disponíveis no Marketo Engage.
 
 * Evite agendar sessões consecutivas. Certifique-se de ter pelo menos 30 minutos de tempo de preparação antes do início do webinário. Isso permitirá que você carregue qualquer alteração de última hora na apresentação, ajuste o microfone e a câmera e deixe qualquer novo apresentador confortável com a interface.
 
@@ -41,7 +42,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * Use seu site/blog, mídias sociais, publicidade paga e promoções de parceiros para alcançar um público mais amplo e impulsionar registros.
 
-* Envie emails de lembrete para convidados registrados 2 a 3 dias antes do webinário _e_ no dia do evento para garantir que eles não se esqueçam e possam participar.
+* Envie emails de lembrete para convidados registrados 2 a 3 dias antes do webinário _e_ no dia do evento para garantir que eles não se esqueçam disso e possam participar.
 
 ### Criar uma sala {#designing-a-room}
 
@@ -66,25 +67,25 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 * Ative o lembrete de gravação nas Preferências de sala se você pretende gravar a sessão. O lembrete será exibido 5 minutos após a reunião se a gravação não tiver sido iniciada.
 
 * Ative a área Host e Apresentador e configure-a com pods relevantes. Essa área só é visível para hosts e apresentadores e pode ser usada para colaborar nos bastidores. Alguns pods a serem incluídos aqui seriam:
-   * Painel de engajamento para monitorar o envolvimento do participante em tempo real. [Clique aqui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para assistir a um vídeo curto sobre como usar o painel Engajamento.
+   * Painel de engajamento para monitorar o envolvimento do participante em tempo real. [Clique aqui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para assistir a um vídeo curto sobre como usar o painel Envolvimento.
    * Pod de chat para permitir conversas privadas entre membros da equipe de apresentação.
    * Pod de notas para postar mensagens de lembrete, perguntas para o apresentador ou respostas de perguntas padrão que você pode copiar e colar para obter respostas rápidas a consultas comuns.
 
-* Pods personalizados são aplicativos de terceiros que podem ser usados para estender a funcionalidade de uma sala do Adobe Connect. Os pods personalizados podem ser baixados de `apps.adobeconnect.com` como arquivos .pod ou .zip que podem ser compartilhados no pod Compartilhar.
+* Pods personalizados são aplicativos de terceiros que podem ser usados para estender a funcionalidade de uma sala do Adobe Connect. Os Pods personalizados podem ser baixados de `apps.adobeconnect.com` como arquivos .pod ou .zip, que podem ser compartilhados no pod Compartilhar.
    * Alguns pods personalizados populares são: Tempo de contagem regressiva, Relógio, Tesoura de papel de pedra, Word Cloud, Titler.
-   * [Clique aqui](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para assistir a um vídeo curto sobre como usar pods personalizados.
+   * [Clique aqui](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para assistir a um pequeno vídeo sobre como usar pods personalizados.
 
 **Privacidade: para manter a confidencialidade das informações do participante, verifique as configurações abaixo:**
 
-* **Marcador de atividade**: o Acionador exibe informações sobre quem está falando no momento e alerta quando os participantes entram/saem da sala. O ticker de atividade pode ser removido ao desmarcar a opção &quot;Mostrar ticker de atividade&quot; na seção &quot;Barra de menus&quot; nas Preferências da sala.
+* **Marcador de Atividades**: o Marcador de Atividades exibe informações sobre quem está falando no momento e alerta quando os participantes entram/saem da sala. O ticker de atividade pode ser removido ao desmarcar a opção &quot;Mostrar ticker de atividade&quot; na seção &quot;Barra de menus&quot; nas Preferências da sala.
 
-* **Pod de perguntas e respostas**: O nome do participante que enviou a pergunta e o nome do host/apresentador que respondeu podem estar ocultos. Isso pode ser feito desmarcando as opções de Privacidade na seção &quot;Pod de perguntas e respostas&quot; nas Preferências da sala.
+* **Pod de perguntas e respostas**: o nome do participante que enviou a pergunta e o nome do host/apresentador que respondeu podem estar ocultos. Isso pode ser feito desmarcando as opções de Privacidade na seção &quot;Pod de perguntas e respostas&quot; nas Preferências da sala.
 
-* **Painel de bate-papo**: o Painel de bate-papo é uma área de bate-papo que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de chat.
+* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
 
-* **Chat privado**: Desative o bate-papo privado para impedir que os participantes possam enviar um ping para outro participante. Isso pode ser feito ao desmarcar a opção &quot;Permitir que os participantes conversem de forma privada&quot; na seção &quot;Bate-papo&quot; nas Preferências da sala.
+* **Chat Privado**: desative o chat privado para impedir que os participantes possam enviar ping para outro participante. Isso pode ser feito ao desmarcar a opção &quot;Permitir que os participantes conversem de forma privada&quot; na seção &quot;Bate-papo&quot; nas Preferências da sala.
 
-* **Pod de participantes**: mova o pod Participantes para a área Host e Apresentador.
+* **Pod de participantes**: mova o pod de participantes para a área Host e Apresentador.
 
 ## Entrega {#delivery}
 
@@ -98,9 +99,9 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * Os participantes podem entrar no quarto 15 minutos antes do início programado. Mude para o layout da sala de espera 15 minutos antes do início agendado para os participantes que chegarem cedo.
 
-* Use a Área de Host e Apresentador como uma área de backstage para coordenar de forma privada. [Clique aqui](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} para assistir a um vídeo curto sobre a área Host e Apresentador.
+* Use a Área de Host e Apresentador como uma área de backstage para coordenar de forma privada. [Clique aqui](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} para assistir a um pequeno vídeo na área Host e Apresentador.
 
-* Use o Modo de preparação para fazer alterações de última hora de forma privada. [Clique aqui](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} para assistir a um vídeo curto sobre o Modo de preparação.
+* Use o Modo de preparação para fazer alterações de última hora de forma privada. [Clique aqui](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} para assistir a um pequeno vídeo sobre o Modo de Preparação.
 
 * Use o Painel de Envolvimento para manter uma guia sobre os níveis de interesse do participante. Pule para uma pesquisa, faça uma pergunta de acordo/desacordo, inicie uma pergunta no pod Chat ou use o pod personalizado do Word Cloud para obter respostas dos participantes e aumentar os níveis de engajamento.
 

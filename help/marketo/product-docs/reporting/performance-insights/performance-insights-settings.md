@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 12%
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 >
 >Dependendo do painel em que estiver, você verá diferentes opções de configuração.
 
-## Exibir sucesso de programas por {#view-program-success-by}
+## Exibir o sucesso do programa por {#view-program-success-by}
 
 **Painel de envolvimentos - Contribuição e tendência**
 
@@ -40,7 +40,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 
 ## Configuração do período anterior {#previous-period-configuration}
 
-**Envolvimento, pipeline, painéis de receita - somente contribuição**
+**Envolvimento, Pipeline, Painéis de Receita - Somente contribuição**
 
 <table> 
  <tbody> 
@@ -87,9 +87,9 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
  </tbody> 
 </table>
 
-## Cálculo de custos {#cost-calculation}
+## Cálculo de Custo {#cost-calculation}
 
-**Painéis de pipeline e receita - Contribuição e tendência**
+**Painéis de Pipeline e Receita - Contribuição e Tendência**
 
 <table> 
  <tbody> 

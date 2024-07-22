@@ -16,11 +16,11 @@ Saiba como fazer alterações no webinário interativo.
 
 ## Modificar um webinário interativo {#modify-an-interactive-webinar}
 
-1. Selecione o programa de evento desejado e clique em **Alterar Sala/Modelo**.
+1. Selecione o Programa de Eventos desejado e clique em **Alterar Sala/Modelo**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. O quarto será carregado. Se quiser alterar a sala, selecione uma no menu suspenso Salas. Para apenas atualizar seu modelo, clique em **Usar sala**.
+1. O quarto será carregado. Se quiser alterar a sala, selecione uma no menu suspenso Salas. Para apenas atualizar seu modelo, clique em **Usar Sala**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -28,15 +28,15 @@ Saiba como fazer alterações no webinário interativo.
 >
 >Mudar sua sala é opcional e não é necessário para atualizar seu modelo.
 
-1. Clique em **Refine seu webinário agora**.
+1. Clique Em **Refinar Seu Webinário Agora**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
-1. Selecione as preferências de áudio/vídeo e clique em **Entrar na sala**.
+1. Selecione suas preferências de áudio/vídeo e clique em **Entrar na sala**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. Quando terminar de fazer as modificações, clique em **Sala de saída**.
+1. Quando terminar de fazer as modificações, clique em **Sair da Sala**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
@@ -56,19 +56,19 @@ Saiba como fazer alterações no webinário interativo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-8.png)
 
-1. Clique no menu suspenso Ações do programa e selecione **Clonar**.
+1. Clique na lista suspensa Ações do programa e selecione **Clonar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-9.png)
 
    >[!TIP]
    >
-   >Além disso, é possível clicar com o botão direito do mouse no Programa de evento na árvore e selecionar **Clonar** a partir daí.
+   >Você também pode clicar com o botão direito do mouse no Programa de evento na árvore e selecionar **Clonar** a partir daí.
 
-1. Dê um nome ao programa clonado, defina o Workspace e o Destino (se desejar que o programa fique em outro lugar) e clique em **Salvar**.
+1. Dê um nome ao programa clonado, defina Workspace e Destino (se desejar que o programa fique em outro lugar) e clique em **Salvar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 
@@ -86,13 +86,13 @@ Saiba como fazer alterações no webinário interativo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-13.png)
 
-1. Clique no menu suspenso Ações do programa e selecione **Excluir**.
+1. Clique no menu suspenso Ações do Programa e selecione **Excluir**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-14.png)
 
    >[!TIP]
    >
-   >Além disso, é possível clicar com o botão direito do mouse no Programa de evento na árvore e selecionar **Excluir** a partir daí.
+   >Você também pode clicar com o botão direito do mouse no Programa de evento na árvore e selecionar **Excluir**.
 
 1. Clique em **Excluir**.
 

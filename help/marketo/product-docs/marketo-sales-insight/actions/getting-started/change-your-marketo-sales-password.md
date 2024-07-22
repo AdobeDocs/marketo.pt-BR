@@ -5,8 +5,8 @@ exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 1%
+source-wordcount: '177'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ Precisa alterar sua senha? Veja como.
 
    ![](assets/change-your-marketo-sales-password-1.png)
 
-1. A página Meu perfil é aberta por padrão. Em Detalhes da conta, selecione a variável **Alterar senha** caixa de seleção
+1. A página Meu perfil é aberta por padrão. Em Detalhes da conta, marque a caixa de seleção **Alterar senha**.
 
    ![](assets/change-your-marketo-sales-password-2.png)
 
@@ -39,7 +39,7 @@ Precisa alterar sua senha? Veja como.
 
 ## Alterar a senha ao sair {#change-your-password-while-signed-out}
 
-1. Navegue até a [Login do Sales Connect](https://toutapp.com/login) página. Insira seu endereço de email e clique em **Logon**.
+1. Navegue até a página [Login do Sales Connect](https://toutapp.com/login). Digite seu endereço de email e clique em **Logon**.
 
    ![](assets/change-your-marketo-sales-password-4.png)
 
@@ -47,7 +47,7 @@ Precisa alterar sua senha? Veja como.
 
    ![](assets/change-your-marketo-sales-password-5.png)
 
-1. Insira o endereço de email associado à conta e clique em **Enviar e-mail de redefinição**.
+1. Digite o endereço de email associado à conta e clique em **Enviar email de redefinição**.
 
    ![](assets/change-your-marketo-sales-password-6.png)
 

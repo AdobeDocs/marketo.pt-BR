@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Para impedir a sincronização de registros que não têm um endereço de email, siga estas regras.
 
-* Quando um cliente potencial for criado OU quando o campo de endereço de email do cliente potencial for atualizado, verifique se o cliente potencial tem um endereço de email e, em caso positivo, altere Sincronizar para Marcar para **[!UICONTROL True]**. Caso contrário, altere para **[!UICONTROL Falso]**.
+* Quando um cliente potencial for criado OU quando o campo de endereço de email do cliente potencial for atualizado, verifique se ele tem um endereço de email e, em caso positivo, altere Sincronizar para Mkto para **[!UICONTROL True]**. Caso contrário, altere para **[!UICONTROL Falso]**.
 
-* Quando um contato for criado OU quando o campo de endereço de email do contato for atualizado, verifique se o contato tem um endereço de email e, em caso positivo, altere Sincronizar para Mkto para **[!UICONTROL True]** e altere Sync para Mkto para **[!UICONTROL True]** no registro Account. Caso contrário, altere para **[!UICONTROL Falso]**.
+* Quando um contato for criado OU quando o campo de endereço de email do contato for atualizado, verifique se o contato tem um endereço de email e, em caso positivo, altere Sync para Mkto para **[!UICONTROL True]** e altere Sync para Mkto para **[!UICONTROL True]** no registro de Conta. Caso contrário, altere para **[!UICONTROL Falso]**.
 
-* Quando o campo Nome da empresa (parentcustomerid) do contato for atualizado, verifique se o campo Sincronizar com Mkto do contato é verdadeiro. Se estiver, altere Sync para Mkto na conta para **[!UICONTROL True]** também.
+* Quando o campo Nome da empresa (parentcustomerid) do contato for atualizado, verifique se o campo Sincronizar com Mkto do contato é verdadeiro. Se for, altere também Sync para Mkto na conta para **[!UICONTROL True]**.
 
-* Quando o campo Cliente em potencial (customerid) da oportunidade ou Contato (parentcontactid) for atualizado, verifique se o campo Sincronizar com Mkto da conta é verdadeiro ou se o campo Sincronizar com Mkto do contato é verdadeiro. Se for, altere Sync para Mkto na oportunidade de **[!UICONTROL True]** também.
+* Quando o campo Cliente em potencial (customerid) da oportunidade ou Contato (parentcontactid) for atualizado, verifique se o campo Sincronizar com Mkto da conta é verdadeiro ou se o campo Sincronizar com Mkto do contato é verdadeiro. Se for, altere Sync para Mkto na oportunidade para **[!UICONTROL True]** também.

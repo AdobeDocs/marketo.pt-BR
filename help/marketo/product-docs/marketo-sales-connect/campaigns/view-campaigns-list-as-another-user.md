@@ -19,11 +19,11 @@ Como administrador, você pode visualizar campanhas como qualquer usuário.
 >
 >**Permissões de administrador necessárias**
 
-1. No aplicativo web, clique em **Campanhas**.
+1. No aplicativo Web, clique em **Campanhas**.
 
    ![](assets/one-5.png)
 
-1. Clique em **Exibir como** e selecione o usuário desejado.
+1. Clique no menu suspenso **Exibir como** e selecione o usuário desejado.
 
    ![](assets/two-4.png)
 

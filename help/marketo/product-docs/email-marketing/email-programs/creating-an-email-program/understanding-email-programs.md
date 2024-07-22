@@ -17,7 +17,7 @@ Envie emails, crie testes A/B e rastreie os resultados em um só lugar.
 
 ## Painel de controle {#control-panel}
 
-Quatro caixas mantêm você concentrado. **Público** define &quot;quem&quot;, **E-mail** fornece o &quot;quê&quot;, **Agendar** define &quot;quando&quot; e **Aprovação** O torna pronto para ser usado.
+Quatro caixas mantêm você concentrado. O **Público-alvo** define o &quot;quem&quot;, o **Email** fornece o &quot;quê&quot;, a **Agenda** define o &quot;quando&quot; e a **Aprovação** prepara o envio.
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ Saiba mais sobre os seguintes testes A/B:
 
 >[!CAUTION]
 >
->Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email, referenciando-o em uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se precisar reutilizar um email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso, o, pois copia o email, mas cria um novo com uma nova ID de email.
+>Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email referenciando-o em uma Campanha Inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se você precisar reutilizar um email, [clone-o](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, pois ele copia o email, mas cria um novo com uma nova ID.
 
 Aproveite os frutos do seu trabalho. Os painéis mostram rapidamente o desempenho do programa de email e do teste A/B.
 
@@ -68,7 +68,7 @@ Use um programa de email dentro de um programa padrão para manter as coisas org
 
 >[!NOTE]
 >
->Programas de email não podem ser aninhados em [programas de envolvimento](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Eles também não podem ser reenviados e só podem executar um teste de cada vez.
+>Os programas de email não podem ser aninhados em [programas de envolvimento](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Eles também não podem ser reenviados e só podem executar um teste de cada vez.
 
 ## Configurações de programação {#schedule-settings}
 
@@ -79,5 +79,5 @@ Agora que você entende Programas de email, comece a usar um dos artigos relacio
 >* [Criar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
 >* [Definir um público-alvo com uma lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [Agendar seu programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Criar um Email para um Programa de Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Agendar Seu Programa De Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

@@ -4,7 +4,7 @@ title: Sincronizar dados de ação de vendas com o Marketo e o Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
 source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1068'
 ht-degree: 3%
 
 ---
@@ -22,8 +22,8 @@ Essa sincronização pode ser ativada na guia Configuração das ações do Sale
 O diagrama acima mostra como os dados de atividades e tarefas das pessoas podem ser sincronizados entre sistemas. Algumas observações:
 
 * Os registros de pessoas são sincronizados com as Ações de insight de vendas do Marketo Engage, tornando o Marketo Engage a fonte da verdade para os dados de pessoas das Ações de insight de vendas
-* Ações do Marketo Engage e do Sales Insight [ter um mecanismo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) para coletar e sincronizar o status de cancelamento de inscrição no Salesforce
-* O status Cancelar inscrição não é sincronizado das Ações de vendas para o Marketo Engage, mas as Ações do Sales Insight podem ser configuradas para verificar o status Cancelar inscrição de pessoas no Marketo antes de permitir que os vendedores enviem um email com [Verificação de cancelamento de inscrição no Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* As ações do Marketo Engage e do Sales Insight [têm um mecanismo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) para coletar e sincronizar o status de cancelamento de inscrição no Salesforce
+* O status de cancelamento de inscrição não é sincronizado das Ações de vendas para o Marketo Engage, mas as Ações de insight de vendas podem ser configuradas para verificar o status de cancelamento de inscrição de pessoas no Marketo antes de permitir que os vendedores enviem um email com [Verificação de cancelamento de inscrição do Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 Abaixo estão algumas perguntas frequentes relacionadas ao funcionamento da sincronização de unificação de dados.
 
@@ -71,7 +71,7 @@ Configurar quais campos de Marketo Engage sincronizar com Ações de insights de
 
 ## Por que as ações de Insight de vendas têm seu próprio banco de dados? {#why-does-actions-have-its-own-database}
 
-As Ações de insights de vendas têm seu próprio aplicativo web com um banco de dados dedicado de pessoas e atividades para fornecer um espaço de trabalho otimizado que é criado e projetado para equipes de vendas. Isso permite que gerentes e vendedores tenham um espaço para desenvolver e gerenciar sua estratégia de engajamento sem conceder acesso ou privilégios ao espaço de trabalho principal do Marketo Engage, que é otimizado para especialistas em operações de marketing.
+As Ações de insights de vendas têm seu próprio aplicativo web com um banco de dados dedicado de pessoas e atividades para fornecer um espaço de trabalho otimizado que é criado e projetado para equipes de vendas. Isso permite que gerentes e vendedores tenham um espaço para desenvolver e gerenciar sua estratégia de engajamento   sem conceder acesso ou privilégios ao espaço de trabalho principal do Marketo Engage, que é otimizado para especialistas em operações de marketing.
 
 ## Como as duplicatas são tratadas? {#how-are-duplicates-handled}
 
@@ -98,7 +98,7 @@ Veja abaixo uma lista das atividades que fazem logon no Marketo:
 * Enviar e-mail de vendas
 * Abrir e-mail de vendas
 * Clicar em e-mail de vendas
-* Respondido para o e-mail de vendas
+* Respondeu ao e-mail de vendas
 * E-mail de vendas foi devolvido
 * Chamada de vendas recebida
 * Adicionar a campanha de vendas
@@ -116,8 +116,8 @@ O diagrama acima mostra quais informações estão registradas no Salesforce. At
 
 >[!MORELIKETHIS]
 >
->* [Sincronização de cancelamentos de assinatura com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
->* [Verificação de cancelamentos de inscrições no Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+>* [Sincronizando cancelamentos de assinatura com Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+>* [Verificação de Cancelamento de Inscrição do Marketo](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Sincronizar atividades de vendas com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
->* [Lembrete de sincronização de tarefas com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [Sincronização de tarefas de lembrete com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Iniciar Sincronização de Dados](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)

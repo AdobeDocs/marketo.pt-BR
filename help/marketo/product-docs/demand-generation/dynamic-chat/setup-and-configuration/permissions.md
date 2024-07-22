@@ -2,11 +2,11 @@
 description: Permissões — Documentação do Marketo — Documentação do produto
 title: Permissões
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 10%
+ht-degree: 5%
 
 ---
 
@@ -20,11 +20,11 @@ Há cinco perfis padrão com permissões predefinidas que podem ser editadas no 
 
    ![](assets/permissions-1.png)
 
-1. No **Perfis de produto** selecione o perfil que deseja editar. Neste exemplo, estamos escolhendo **Agente em tempo real**.
+1. Na guia **Perfis de produto**, selecione o perfil que deseja editar. Neste exemplo, estamos escolhendo **Live Agent**.
 
    ![](assets/permissions-2.png)
 
-1. Clique em **Permissões** guia.
+1. Clique na guia **Permissões**.
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ Há cinco perfis padrão com permissões predefinidas que podem ser editadas no 
 
    ![](assets/permissions-4.png)
 
-1. Os itens de permissão disponíveis estão listados à esquerda. Você pode optar por adicionar permissões uma por uma ou todas de uma vez. Neste exemplo, há apenas um disponível, então estamos adicionando esse. Clique em **+** assinatura.
+1. Os itens de permissão disponíveis estão listados à esquerda. Você pode optar por adicionar permissões uma por uma ou todas de uma vez. Neste exemplo, há apenas um disponível, então estamos adicionando esse. Clique no sinal **+**.
 
    ![](assets/permissions-5.png)
 
@@ -54,11 +54,11 @@ Agora é possível repetir esse processo para qualquer/todas as outras áreas de
 
    ![](assets/permissions-8.png)
 
-1. No **Perfis de produto** clique em **Novo perfil**.
+1. Na guia **Perfis de produto**, clique em **Novo perfil**.
 
    ![](assets/permissions-9.png)
 
-1. **Nome** seu perfil de produto. Como opção, você pode fornecer um nome de exibição e/ou descrição e optar por notificar os usuários quando eles forem adicionados/removidos. Clique em **Salvar** quando terminar.
+1. **Nomeie** seu perfil de produto. Como opção, você pode fornecer um nome de exibição e/ou descrição e optar por notificar os usuários quando eles forem adicionados/removidos. Clique em **Salvar** quando terminar.
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ Agora é possível repetir esse processo para qualquer/todas as outras áreas de
 
    ![](assets/permissions-11.png)
 
-1. Agora, siga as etapas 3 a 6 do [seção acima](#edit-existing-permissions) para cada área desejada.
+1. Agora siga as etapas 3 a 6 da [seção acima](#edit-existing-permissions) para cada área desejada.
 
 ## Lista de permissões {#list-of-permissions}
 
@@ -84,10 +84,10 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
     <td>Gerenciamento de Conversas</td>
     <td><li>Exibir caixas de diálogo</li>
     <li>Gerenciar caixas de diálogo (criar, excluir)</li>
-    <li>Caixas de diálogo de publicação</li>
+    <li>Caixas de diálogo do Publish</li>
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
-    <li>Publicar Fluxos de Conversação</li></td>
+    <li>Fluxos de conversa do Publish</li></td>
   </tr>
   <tr>
     <td>Chat ao vivo</td>
@@ -116,15 +116,15 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
     <td><li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Gerenciar regras personalizadas (adicionar, editar, excluir)</li>
-    <li>Exibir lista de contas <b>*</b></li>
-    <li>Gerenciar contas (adicionar, editar, excluir) <b>*</b></li>
+    <li>Exibir Lista de Contas <b>*</b></li>
+    <li>Gerenciar Contas (adicionar, editar, excluir) <b>*</b></li>
     <li>Gerenciar configurações de Chatbot</li>
     <li>Gerenciar configurações de fluxos de conversa</li>
     <li>Gerenciar privacidade e segurança</li>
     <li>Gerenciar integrações</li>
     <li>Gerenciar agentes</li>
-    <li>Exibir equipes de agentes <b>*</b></li>
-    <li>Gerenciar equipes de agentes (adicionar, editar, excluir) <b>*</b></li></td>
+    <li>Exibir Equipes de Agentes <b>*</b></li>
+    <li>Gerenciar Equipes de Agentes (adicionar, editar, excluir) <b>*</b></li></td>
   </tr>
 </tbody>
 </table>
@@ -150,18 +150,18 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <td><i>Gerenciamento de Conversas</i>
     <li>Exibir caixas de diálogo</li>
     <li>Gerenciar caixas de diálogo (criar, excluir)</li>
-    <li>Caixas de diálogo de publicação</li>
+    <li>Caixas de diálogo do Publish</li>
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
-    <li>Publicar Fluxos de Conversação</li>
+    <li>Fluxos de conversa do Publish</li>
     <br>
     <i>Chat ao vivo</i>
     <li>n/d</li>
     <br>
-    <i>Encontros</i>
+    <i>Reuniões</i>
     <li>n/d</li>
     <br>
-    <i>Analytics</i>
+    <i>Análises</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
@@ -169,11 +169,11 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <i>Configurações do agente</i>
     <li>n/d</li>
     <br>
-    <i>Configurações de admin</i>
+    <i>Configurações do administrador</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
-    <li>Exibir lista de contas <b>*</b></li>
-    <li>Exibir equipes de agentes <b>*</b></li>
+    <li>Exibir Lista de Contas <b>*</b></li>
+    <li>Exibir Equipes de Agentes <b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -185,10 +185,10 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <i>Chat ao vivo</i>
     <li>Exibir minhas conversas</li>
     <br>
-    <i>Encontros</i>
+    <i>Reuniões</i>
     <li>n/d</li>
     <br>
-    <i>Analytics</i>
+    <i>Análises</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
@@ -198,11 +198,11 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <li>Conectar seu calendário</li>
     <li>Gerenciar Disponibilidade de Calendário</li>
     <br>
-    <i>Configurações de admin</i>
+    <i>Configurações do administrador</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
-    <li>Exibir lista de contas <b>*</b></li>
-    <li>Exibir equipes de agentes <b>*</b></li>
+    <li>Exibir Lista de Contas <b>*</b></li>
+    <li>Exibir Equipes de Agentes <b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -214,10 +214,10 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <i>Chat ao vivo</i>
     <li>n/d</li>
     <br>
-    <i>Encontros</i>
+    <i>Reuniões</i>
     <li>n/d</li>
     <br>
-    <i>Analytics</i>
+    <i>Análises</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
@@ -226,11 +226,11 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <li>Conectar seu calendário</li>
     <li>Gerenciar Disponibilidade de Calendário</li>
     <br>
-    <i>Configurações de admin</i>
+    <i>Configurações do administrador</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
-    <li>Exibir lista de contas <b>*</b></li>
-    <li>Exibir equipes de agentes <b>*</b></li>
+    <li>Exibir Lista de Contas <b>*</b></li>
+    <li>Exibir Equipes de Agentes <b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -238,18 +238,18 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <td><i>Gerenciamento de Conversas</i>
     <li>Exibir caixas de diálogo</li>
     <li>Gerenciar caixas de diálogo (criar, excluir)</li>
-    <li>Caixas de diálogo de publicação</li>
+    <li>Caixas de diálogo do Publish</li>
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
-    <li>Publicar Fluxos de Conversação</li>
+    <li>Fluxos de conversa do Publish</li>
     <br>
     <i>Chat ao vivo</i>
     <li>n/d</li>
     <br>
-    <i>Encontros</i>
+    <i>Reuniões</i>
     <li>n/d</li>
     <br>
-    <i>Analytics</i>
+    <i>Análises</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
@@ -258,17 +258,17 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <i>Configurações do agente</i>
     <li>n/d</li>
     <br>
-    <i>Configurações de admin</i>
+    <i>Configurações do administrador</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Gerenciar regras personalizadas (adicionar, editar, excluir)</li>
-    <li>Exibir lista de contas <b>*</b></li>
-    <li>Gerenciar contas (adicionar, editar, excluir) <b>*</b></li>
+    <li>Exibir Lista de Contas <b>*</b></li>
+    <li>Gerenciar Contas (adicionar, editar, excluir) <b>*</b></li>
     <li>Gerenciar configurações de Chatbot</li>
     <li>Gerenciar configurações de fluxos de conversa</li>
     <li>Gerenciar privacidade e segurança</li>
     <li>Gerenciar integrações</li>
-    <li>Exibir equipes de agentes <b>*</b></li>
+    <li>Exibir Equipes de Agentes <b>*</b></li>
     </td>
   </tr>
   <tr>
@@ -281,10 +281,10 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <li>Exibir minhas conversas</li>
     <li>Exibir Todas as Conversas</li>
     <br>
-    <i>Encontros</i>
+    <i>Reuniões</i>
     <li>Gerenciar Todas as Reuniões</li>
     <br>
-    <i>Analytics</i>
+    <i>Análises</i>
     <li>Exibir Relatórios de Desempenho Global</li>
     <li>Exibir Relatórios de Bate-papo ao Vivo</li>
     <li>Exibir Relatórios de Reuniões</li>
@@ -295,15 +295,15 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <li>Conectar seu Calendário</li>
     <li>Gerenciar Disponibilidade de Calendário</li>
     <br>
-    <i>Configurações de admin</i>
+    <i>Configurações do administrador</i>
     <li>Exibir Round-robin</li>
     <li>Exibir Regras Personalizadas</li>
     <li>Gerenciar regras personalizadas (adicionar, editar, excluir)</li>
-    <li>Exibir lista de contas <b>*</b></li>
-    <li>Gerenciar contas (adicionar, editar, excluir) <b>*</b></li>
+    <li>Exibir Lista de Contas <b>*</b></li>
+    <li>Gerenciar Contas (adicionar, editar, excluir) <b>*</b></li>
     <li>Gerenciar agentes</li>
-    <li>Exibir equipes de agentes <b>*</b></li>
-    <li>Gerenciar equipes de agentes <b>*</b></li>
+    <li>Exibir Equipes de Agentes <b>*</b></li>
+    <li>Gerenciar Equipes de Agentes <b>*</b></li>
     </td>
   </tr>
 </tbody>

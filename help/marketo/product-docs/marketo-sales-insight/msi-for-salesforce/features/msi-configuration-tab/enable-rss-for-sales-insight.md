@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Se os usuários do Marketo quiserem exibir seu feed principal não apenas no Salesforce, mas também em um feed RSS, um administrador do Marketo deverá habilitá-lo primeiro. É fácil.
 
-1. Em Meu Marketo, clique em **Admin** e depois **Sales Insight**.
+1. Em Meu Marketo, clique em **Admin** e depois em **Sales Insight**.
 
    ![](assets/set-up-rss-1-hands.png)
 
@@ -27,11 +27,11 @@ Se os usuários do Marketo quiserem exibir seu feed principal não apenas no Sal
 
    ![](assets/rss-settings-tab.png)
 
-1. Na caixa de diálogo Editar configurações, marque a opção **RSS feed** e clique em **Salvar**.
+1. Na caixa de diálogo Editar configurações, marque a caixa de seleção **RSS feed** e clique em **Salvar**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   O RSS feed agora é exibido como **Ativado**.
+   O RSS feed agora é exibido como **Habilitado**.
 
    ![](assets/rss-final-box.png)
 

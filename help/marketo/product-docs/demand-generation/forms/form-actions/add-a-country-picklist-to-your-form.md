@@ -15,27 +15,27 @@ ht-degree: 1%
 
 Siga estas instruções para converter o campo País em um menu suspenso com uma lista de todos os países.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/editform-1.png)
 
-1. Clique em **+** assinatura.
+1. Clique no sinal **+**.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Localizar e selecionar **País**.
+1. Localize e selecione **País**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Com o **País** campo selecionado altere o **Tipo de campo** para **Selecionar**.
+1. Com o campo **País** selecionado, altere o **Tipo de Campo** para **Selecionar**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Editar** o **Valores** para adicionar a lista de países que os usuários podem escolher.
+1. **Edite** os **Valores** para adicionar a lista de países que os usuários podem escolher.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
@@ -65,7 +65,7 @@ Siga estas instruções para converter o campo País em um menu suspenso com uma
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

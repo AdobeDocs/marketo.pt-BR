@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Enviar emails do Marketo e ações do Campaign e da lista de favoritos no Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Vá para a área Detalhes do cliente potencial no Salesforce1 e clique no **Relacionados** guia.
+1. Vá para a área Detalhes do cliente potencial no Salesforce1 e clique na guia **Relacionados**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Quais campanhas inteligentes aparecem? Aqueles com acionadores &quot;A campanha é solicitada&quot;. Saiba como configurar um [campanha acionada usando &quot;A campanha é solicitada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Quais campanhas inteligentes aparecem? Aqueles com acionadores &quot;A campanha é solicitada&quot;. Saiba como configurar uma campanha [acionada usando &quot;Campanha solicitada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Legal, agora seus vendedores podem participar ativamente do esforço de marketing.
 

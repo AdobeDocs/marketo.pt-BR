@@ -19,7 +19,7 @@ Siga estas etapas para criar um Relatório de análise de email que mostrará in
 >
 >Nem todos compraram este recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Launch **Gerenciador de Receita**.
+1. Iniciar o **Gerenciador de Receita**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
@@ -27,11 +27,11 @@ Siga estas etapas para criar um Relatório de análise de email que mostrará in
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Selecionar **Análise de email** e clique em **OK**.
+1. Selecione a área **Análise de email** e clique em **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Localize o **Enviado (Semana)** ponto amarelo e clique com o botão direito do mouse. Clique em **Filtro**.
+1. Localize o ponto amarelo **Enviado (Semana)** e clique com o botão direito nele. Clique em **Filtro**.
 
    >[!NOTE]
    >
@@ -39,19 +39,19 @@ Siga estas etapas para criar um Relatório de análise de email que mostrará in
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Marcar **Semana enviada atual** e clique em **OK**.
+1. Verifique **Semana Enviada Atual** e clique em **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Localize e clique duas vezes na guia **Canal do programa** ponto amarelo.
+1. Localize e clique duas vezes no **Canal do programa** ponto amarelo.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Localize e clique duas vezes na guia **Nome do e-mail** ponto amarelo.
+1. Localize e clique duas vezes no **Nome do email** ponto amarelo.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Localize e clique duas vezes na guia **Enviado**, **Aberto** e **Clicado** pontos azuis.
+1. Localize e clique duas vezes nos pontos azuis **Enviado**, **Aberto** e **Clicado**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 

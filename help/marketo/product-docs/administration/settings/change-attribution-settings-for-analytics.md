@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Você pode alterar a maneira como a Marketo vincula contatos a oportunidades para atribuição de primeiro e de vários contatos, métricas de conversão de clientes potenciais e o sinalizador de oportunidade influenciada por marketing.
 
-Essas configurações afetarão [!UICONTROL Gerenciador de Receita] relatórios no âmbito do [Análise de oportunidade do programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análise de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)e nas áreas de Análise de clientes potenciais. Tal afetará igualmente a [!UICONTROL Analisador de programa] relatório.
+Essas configurações afetarão os relatórios do [!UICONTROL Explorador de Receita] nas áreas [Análise de Oportunidade do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análise de Oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) e Análise de Cliente Potencial. Isso também afetará o relatório do [!UICONTROL Program Analyzer].
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 
@@ -25,7 +25,7 @@ Essas configurações afetarão [!UICONTROL Gerenciador de Receita] relatórios 
 
    ![](assets/change-attribution-settings-for-analytics-2.png)
 
-1. Clique em **[!UICONTROL Editar]** link em **[!UICONTROL Atribuição]**.
+1. Clique no link **[!UICONTROL Editar]** em **[!UICONTROL Atribuição]**.
 
    ![](assets/change-attribution-settings-for-analytics-3.png)
 
@@ -49,4 +49,4 @@ Essas configurações afetarão [!UICONTROL Gerenciador de Receita] relatórios 
 
 >[!CAUTION]
 >
->Ao usar **[!UICONTROL Implícito]**, o Marketo sempre examinará todos os contatos associados à conta, independentemente da função. **A Marketo recomenda usar [!UICONTROL Explícito] modo**. Usar [!UICONTROL Implícito] pode criar falsos positivos, ou seja, pessoas com crédito por uma oportunidade apesar de não terem influência real na oportunidade. Uso [!UICONTROL Implícito] com cautela.
+>Ao usar **[!UICONTROL Implícito]**, o Marketo sempre examinará todos os contatos associados à conta, independentemente da função. A **Marketo recomenda usar o modo [!UICONTROL Explicit]**. Usar [!UICONTROL Implícito] pode criar falsos positivos, ou seja, pessoas com crédito por uma oportunidade, apesar de não terem influência real na oportunidade. Use [!UICONTROL Implícito] com cuidado.

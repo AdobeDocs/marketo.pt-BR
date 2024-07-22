@@ -6,17 +6,17 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '434'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 # Adicionar acesso ao Sales Insight aos perfis {#add-sales-insight-access-to-profiles}
 
-Veja como criar um perfil com acesso ao Sales Insight e remover o acesso de outros perfis. Isso é para usuários que já instalaram o [Pacote de AppExchange do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Veja como criar um perfil com acesso ao Sales Insight e remover o acesso de outros perfis. Isso é para usuários que já instalaram o [pacote de AppExchanges do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->Se você já tiver concedido acesso ao Sales Insight a todos os perfis, deverá [remover acesso em nível de perfil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} para usar este conjunto de permissões.
+>Se você já tiver concedido acesso ao Sales Insight a todos os perfis, deverá [remover o acesso em nível de perfil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} para usar este conjunto de permissões.
 
 ## Criar um novo perfil para o Sales Insight {#create-a-new-profile-for-sales-insight}
 
@@ -24,9 +24,9 @@ Se você tiver um perfil dedicado para seus usuários do Sales Insight, ignore e
 
 1. No Salesforce, acesse a página Configuração.
 
-1. Procure perfis na Localização rápida e selecione o **Perfil** opção.
+1. Procure perfis na Localização Rápida e selecione a opção **Perfil**.
 
-1. Clique em **Novo perfil** na parte superior da página.
+1. Clique no botão **Novo Perfil** na parte superior da página.
 
 1. Escolha um perfil para clonar e dê um nome a ele (por exemplo: Usuário do Sales Insight).
 
@@ -36,11 +36,11 @@ Se você tiver um perfil dedicado para seus usuários do Sales Insight, ignore e
 
 1. Volte para a sua Lista de perfis.
 
-1. Clique em **Editar** para o novo perfil que você acabou de criar (ou para qualquer outro perfil existente ao qual você gostaria de conceder acesso ao Sales Insight).
+1. Clique no link **Editar** para o novo perfil recém-criado (ou qualquer outro perfil existente ao qual você deseja conceder acesso ao Sales Insight).
 
 1. Na página de edição, será necessário alterar algumas configurações.
 
-   **Para perfis com acesso permitido ao Sales Insight**:
+   **Para perfis que têm acesso permitido ao Sales Insight**:
 
    * Em Configurações da guia, altere as guias do Marketo para Padrão Ativado
    * Em Permissões de objeto personalizado, marque Ler, Criar, Editar e Excluir na configuração do Marketo Sales Insight (se o usuário precisar ter acesso às configurações - normalmente usadas para administradores)
@@ -54,7 +54,7 @@ Se você tiver um perfil dedicado para seus usuários do Sales Insight, ignore e
 
 ## Criar layout para insights de vendas {#create-layout-for-sales-insight}
 
-1. Vá para a página Configuração e clique em **Configuração do aplicativo** > **Personalizar** > **Clientes potenciais** > **Layouts de página**. Em seguida, clique no link **Novo** botão.
+1. Vá para a página Instalação e clique em **Instalação do aplicativo** > **Personalizar** > **Clientes potenciais** > **Layouts de página**. Clique no botão **Novo**.
 
 1. Clonar o layout de escolha e dar ao layout um nome apropriado (por exemplo: Layout de insight de vendas).
 
@@ -64,9 +64,9 @@ Se você tiver um perfil dedicado para seus usuários do Sales Insight, ignore e
 
 ## Atribuir perfil ao layout {#assign-profile-to-layout}
 
-1. Volte para a seção Layouts de página e clique no link **Atribuição do layout da página** botão.
+1. Volte para a seção Layouts de página e clique no botão **Atribuição de layout de página**.
 
-1. Selecionar **Editar atribuição**.
+1. Selecione **Editar atribuição**.
 
 1. Selecione o perfil Sales Insight na lista e, em seguida, selecione o layout Sales insight na lista suspensa &quot;Select Page Layout&quot;.
 

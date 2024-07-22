@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Siga estas etapas para criar manualmente uma conta nomeada.
 
-1. Em Contas Nomeadas, clique no link **Novo** e selecione **Criar Conta Nomeada**.
+1. Em Contas Nomeadas, clique no menu suspenso **Novo** e selecione **Criar Conta Nomeada**.
 
    ![](assets/two-1.png)
 
@@ -29,4 +29,4 @@ Siga estas etapas para criar manualmente uma conta nomeada.
 
 >[!MORELIKETHIS]
 >
->[Adicionar pessoas a uma conta nomeada](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[Adicionar Pessoas a uma Conta Nomeada](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)

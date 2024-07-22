@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Você pode combinar valores de vários campos ou criar um valor condicional usando um campo de fórmula Marketo Engage.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. Clique em **[!UICONTROL Novo campo personalizado]**.
+1. Clique em **[!UICONTROL Novo Campo Personalizado]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Selecionar **[!UICONTROL Fórmula]** para o **[!UICONTROL Tipo]**.
+1. Selecione **[!UICONTROL Fórmula]** para o **[!UICONTROL Tipo]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. Insira um **[!UICONTROL Nome]** para o campo e clique em **[!UICONTROL Criar]**.
+1. Insira um **[!UICONTROL Nome]** para o seu campo e clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Localize e selecione o campo de fórmula e clique em **[!UICONTROL Editar regras]**.
+1. Localize e selecione o campo de fórmula e clique em **[!UICONTROL Editar Regras]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -53,6 +53,6 @@ Você pode combinar valores de vários campos ou criar um valor condicional usan
 
 >[!NOTE]
 >
->Os campos de fórmula podem ser usados em Landing Pages, emails e colunas de Smart List. Os emails com campos de fórmula podem _não_ ser enviado usando uma campanha em lote. Use um [token de script de email](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) neste cenário.
+>Os campos de fórmula podem ser usados em Landing Pages, emails e colunas de Smart List. Emails com campos de fórmula _não_ podem ser enviados usando uma campanha em lote. Use um [token de script de email](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) neste cenário.
 
 Bom trabalho! Agora você tem um campo inteligente que sabe que saudação incluir com base no gênero. Divirta-se com isso e seja criativo.

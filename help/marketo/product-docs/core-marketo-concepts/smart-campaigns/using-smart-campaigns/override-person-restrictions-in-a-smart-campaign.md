@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Substituir restrições de pessoa em uma campanha inteligente {#override-person-restrictions-in-a-smart-campaign}
 
-O Marketo Engage permite que você defina o número máximo de pessoas que podem se qualificar para uma Campanha Inteligente; isso ajuda a evitar enviar um email para todo o banco de dados acidentalmente. Se você quiser _substituir_ esse limite, veja como.
+O Marketo Engage permite que você defina o número máximo de pessoas que podem se qualificar para uma Campanha Inteligente; isso ajuda a evitar enviar um email para todo o banco de dados acidentalmente. Se você deseja _substituir_ esse limite, veja como.
 
 >[!PREREQUISITES]
 >
->Certifique-se de [ativar restrições de pessoa para Campanhas inteligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} no Marketo Admin.
+>Certifique-se de [habilitar as restrições de pessoa para Campanhas inteligentes](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} no Marketo Admin.
 
-1. Entrada **[!UICONTROL Atividades de marketing]**, vá para a Campanha inteligente e clique em **[!UICONTROL Agendar]**.
+1. Em **[!UICONTROL Atividades de marketing]**, vá para sua Campanha inteligente e clique em **[!UICONTROL Agendar]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 

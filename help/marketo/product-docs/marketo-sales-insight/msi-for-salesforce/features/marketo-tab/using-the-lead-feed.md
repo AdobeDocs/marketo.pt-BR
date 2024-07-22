@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Uso do feed de cliente em potencial {#using-the-lead-feed}
 
-O Feed de lead é uma lista atualizada por minuto de eventos interessantes feitos por seus leads. Você o encontrará no lado direito ao clicar na guia Marketo. É como um feed RSS ou Twitter. As atualizações mais recentes estão no topo da lista. Use isso para saltar em leads enquanto você ainda está fresco em suas mentes.
+O Feed de lead é uma lista atualizada por minuto de eventos interessantes feitos por seus leads. Você o encontrará no lado direito ao clicar na guia Marketo. É como um RSS ou feed do Twitter - as atualizações mais recentes estão no topo da lista. Use isso para saltar em leads enquanto você ainda está fresco em suas mentes.
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ Você também pode obter atualizações do Feed principal por RSS feed.  Um feed
 
 >[!NOTE]
 >
->O administrador do Marketo da sua empresa deve [ativar RSS feeds](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que isso funcione.
+>O administrador do Marketo da sua empresa deve [habilitar os RSS feeds](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) para que isso funcione.
 
 Para obter atualizações de RSS, você precisará de duas coisas: o link RSS e um leitor de feed RSS. Você pode obter o link RSS clicando no ícone RSS no feed do lead:
 

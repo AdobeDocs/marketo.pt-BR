@@ -6,7 +6,7 @@ exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '213'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Conecte o Marketo com sua conta do Box para copiar facilmente arquivos no design
 
 ## Plug-in do Gmail {#gmail-plugin}
 
-Se você usar o Marketo Sales Insight, bem como o Gmail, poderá instalar nosso novo plug-in do Gmail por meio da loja Chrome. O plug-in permite registrar mensagens com o Marketo, carregar modelos de email do Marketo e enviar mensagens com recursos de rastreamento do Marketo.
+Se você usar o Marketo Sales Insight, bem como o Gmail, poderá instalar nosso novo plug-in do Gmail por meio da loja da Chrome. O plug-in permite registrar mensagens com o Marketo, carregar modelos de email do Marketo e enviar mensagens com recursos de rastreamento do Marketo.
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
@@ -37,7 +37,7 @@ O recurso Análise de email como um todo será ativado em fases durante abril e 
 
 ## APIs de programa {#program-apis}
 
-Suporte para programas na chamada de API SOAP, incluindo acesso somente leitura a dados de programas, como: contagens de associação de programas, adquiridos por, sucesso, configurações, canais, tags, tokens e custos. Consulte a documentação da API SOAP para obter mais detalhes.
+Suporte para programas na chamada à API SOAP, incluindo acesso somente leitura a dados de programas, como: contagens de associação de programas, adquiridas por, sucesso, configurações, canais, tags, tokens e custos. Consulte a documentação da API do SOAP para obter mais detalhes.
 
 ## Aprimoramento do ON24 {#on-enhancement}
 

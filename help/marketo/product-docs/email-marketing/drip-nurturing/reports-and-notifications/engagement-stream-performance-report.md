@@ -17,11 +17,11 @@ Quer saber como está o desempenho do seu conteúdo de engajamento? Experimente 
 
 ## Criar o relatório {#create-the-report}
 
-1. Localize e selecione seu programa de engajamento e, em **Novo** click **Novo ativo local**.
+1. Localize e selecione seu programa de envolvimento, em **Novo**, clique em **Novo ativo local**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Selecionar **Relatório**.
+1. Selecione **Relatório**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -32,7 +32,7 @@ Quer saber como está o desempenho do seu conteúdo de engajamento? Experimente 
    Selecione Desempenho do fluxo de engajamento como o Tipo de relatório.
    ![](assets/engagementreportchoose.png)
 
-1. Dê um nome ao seu relatório e clique em **Criar**.
+1. Nomeie seu relatório e clique em **Criar**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ Quer saber como está o desempenho do seu conteúdo de engajamento? Experimente 
 
    ![](assets/engagementperformancereport.jpg)
 
-1. No **Configuração** clique duas vezes na guia **Email do programa de engajamento** filtro.
+1. Na guia **Configuração**, clique duas vezes no filtro **Email do Programa de Envolvimento**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Selecione os emails que deseja relatar e clique em **Aplicar**.
+1. Selecione o(s) email(s) que deseja relatar e clique em **Aplicar**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Executar relatório {#run-report}
 
-1. Para executar o relatório, basta clicar no botão **Relatório** guia.
+1. Para executar o relatório, basta clicar na guia **Relatório**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

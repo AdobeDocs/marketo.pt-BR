@@ -15,31 +15,31 @@ ht-degree: 1%
 
 E se você quiser enviar um email para um cliente potencial em nome do Proprietário do cliente potencial?  Veja como.
 
-1. Localize o email, selecione-o e clique em **Editar rascunho**.
+1. Encontre seu email, selecione-o e clique em **Editar Rascunho**.
 
    ![](assets/one.png)
 
-1. Clique em **De** (exclua qualquer nome existente) e clique no botão **Inserir token** botão.
+1. Clique no campo **De** (exclua qualquer nome existente) e clique no botão **Inserir token**.
 
    ![](assets/two.png)
 
-1. Comece a digitar &quot;`{{lead.Lead Owner`&quot; e selecione o **`{{lead.Lead Owner First Name}}`** token.
+1. Comece a digitar &quot;`{{lead.Lead Owner`&quot; e selecione o token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Insira um valor padrão caso o cliente potencial ainda não tenha um proprietário potencial e clique em **Inserir**.
+1. Insira um valor padrão caso o cliente potencial ainda não tenha um proprietário de cliente potencial e clique em **Inserir**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Clique em após o primeiro token, adicione um espaço e clique em **Inserir token** botão.
+1. Clique depois do primeiro token, adicione um espaço e clique no botão **Inserir token**.
 
    ![](assets/five.png)
 
-1. Comece a digitar &quot;`{{lead.Lead Owner`&quot; e selecione o **`{{lead.Lead Owner Last Name}}`** token.
+1. Comece a digitar &quot;`{{lead.Lead Owner`&quot; e selecione o token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Insira um valor padrão caso o cliente potencial ainda não tenha um proprietário potencial e clique em **Inserir**.
+1. Insira um valor padrão caso o cliente potencial ainda não tenha um proprietário de cliente potencial e clique em **Inserir**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -51,14 +51,14 @@ E se você quiser enviar um email para um cliente potencial em nome do Propriet�
 
    ![](assets/eight.png)
 
-1. Comece a digitar &quot;`{{lead.Lead Owner`&quot; e selecione o **`{{lead.Lead Owner Email Address}}`** token.
+1. Comece a digitar &quot;`{{lead.Lead Owner`&quot; e selecione o token **`{{lead.Lead Owner Email Address}}`**.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Insira um valor padrão caso o cliente potencial ainda não tenha um proprietário potencial e clique em **Inserir**.
+1. Insira um valor padrão caso o cliente potencial ainda não tenha um proprietário de cliente potencial e clique em **Inserir**.
 
    ![](assets/ten.png)
 
-1. Verifique se **Responder para** e **Assunto** os campos estão preenchidos e pronto!
+1. Verifique se os campos **Responder-para** e **Assunto** estão preenchidos, e pronto!
 
    ![](assets/eleven.png)

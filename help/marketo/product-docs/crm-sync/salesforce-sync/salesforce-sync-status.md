@@ -22,11 +22,11 @@ As etapas de Sincronização refletem as operações de push ou pull por cada ti
 
 ## Exibir Status de Sincronização {#view-sync-status}
 
-1. Clique em **[!UICONTROL Admin]**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Em [!UICONTROL Integração], clique em **Salesforce**, depois o **[!UICONTROL Status da sincronização]** guia.
+1. Em [!UICONTROL Integração], clique em **Salesforce**, depois na guia **[!UICONTROL Status de sincronização]**.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,7 +40,7 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Selecione o intervalo de data e hora e clique nas listas suspensas para filtrar por [!UICONTROL Tipo de objeto], [!UICONTROL Tipo de operação], e/ou [!UICONTROL Tipo de Status].
+1. Selecione o intervalo de data e hora e clique no(s) menu(s) suspenso(s) para filtrar por [!UICONTROL Tipo de Objeto], [!UICONTROL Tipo de Operação] e/ou [!UICONTROL Tipo de Status].
 
    ![](assets/salesforce-sync-status-5.png)
 
@@ -107,7 +107,7 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
    <td colspan="1"></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Item malsucedido</td> 
+   <td colspan="1">Falha no item</td> 
    <td colspan="1">Número de registros cuja sincronização falhou</td> 
    <td colspan="1"><br></td> 
   </tr>  
@@ -135,19 +135,19 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
    <td colspan="1">Tipo de conta</td> 
   </tr> 
   <tr> 
-   <td colspan="1">objetos  personalizados</td> 
+   <td colspan="1">Objetos personalizados</td> 
   </tr>  
   <tr> 
    <td colspan="1">Campanha</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Membro de campanha Status</td> 
+   <td colspan="1">Status de membro de campanha</td> 
   </tr>
   <tr> 
    <td colspan="1">Contato</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Modelo de email</td> 
+   <td colspan="1">Modelo de e-mail</td> 
   </tr>  
   <tr> 
    <td colspan="1">Evento</td> 
@@ -159,7 +159,7 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
    <td colspan="1">Oportunidade</td> 
   </tr>  
   <tr> 
-   <td colspan="1">Função de contato de oportunidade</td> 
+   <td colspan="1">Função de contato em oportunidades</td> 
   </tr>  
   <tr> 
    <td colspan="1">Tarefa</td> 
@@ -249,4 +249,4 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
  </tbody> 
 </table>
 
-&#42;A configuração da marca no nível de assinatura decide o rótulo - &quot;Líder&quot; ou &quot;Pessoa&quot; no relatório.
+&#42;A configuração de identidade visual no nível de assinatura decide o rótulo - &quot;Líder&quot; ou &quot;Pessoa&quot; no relatório.

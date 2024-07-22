@@ -16,7 +16,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de março de 20
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
@@ -26,7 +26,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Aprimorado Usado pelo componente para obter detalhes do modelo da página de aterrissagem e detalhes do formulário**: a guia Novo usado por fornece informações adicionais em Detalhes do modelo de página de aterrissagem e Detalhes do formulário, incluindo mais detalhes sobre os ativos que usaram um ativo selecionado. Faça análises em listas longas de ativos por meio dos recursos de pesquisa, classificação e filtragem.
+* **Uso Avançado pelo Componente para Detalhes do Modelo da Página de Aterrissagem e Detalhes do Formulário**: a guia Novo Usado pela Interface do Usuário fornece informações adicionais em Detalhes do Modelo da Página de Aterrissagem e Detalhes do Formulário, incluindo mais detalhes sobre os ativos que usaram um ativo selecionado. Faça análises em listas longas de ativos por meio dos recursos de pesquisa, classificação e filtragem.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tbody>
 </table>
 
-* **Remover alternância e experiência clássica das páginas de aterrissagem**: a desativação da opção de alternância e da experiência clássica para páginas de aterrissagem ajudará você a adotar completamente a nova experiência. A nova experiência permite a utilização completa das funcionalidades fornecidas com esses ativos sem precisar depender da experiência antiga ou alternar constantemente entre as duas experiências.
+* **Remover Alternância e Experiência Clássica das Páginas de Aterrissagem**: a desativação da Alternância e a Experiência Clássica das Páginas de Aterrissagem ajudarão você a adotar completamente a nova experiência. A nova experiência permite a utilização completa das funcionalidades fornecidas com esses ativos sem precisar depender da experiência antiga ou alternar constantemente entre as duas experiências.
 
 <table> 
   <tr> 
@@ -54,7 +54,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tbody>
 </table>
 
-* **Melhorias no desempenho dos nós de árvore**: aqueles com um grande número de nós de árvore observarão uma melhoria significativa no desempenho.
+* **Melhorias no Desempenho dos Nós de Árvore**: Aqueles com um grande número de nós de árvore verão uma melhoria significativa no desempenho.
 
 <table> 
   <tr> 
@@ -72,7 +72,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Atualize a Integração do Marketo Facebook para usar a Atualização da API do Facebook Graph**: com a recente atualização do Facebook para a API Graph v15 da Facebook, agora há um limite de 500 públicos-alvo personalizados que podem ser criados para uma conta de anúncio específica.
+* **Atualize a Integração do Marketo Facebook para usar a Atualização da API do Facebook Graph**: com a atualização recente do Facebook para a API do Facebook Graph v15, agora há um limite de 500 públicos-alvo personalizados que podem ser criados para uma conta de anúncio específica.
 
 <table> 
   <tr> 
@@ -94,7 +94,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 </br>
 
-* **Relatório de engajamento na caixa de diálogo do Dynamic Chat**: fornece uma visualização do envolvimento da caixa de diálogo ao longo do tempo, incluindo a capacidade de filtrar por tipo de visitante e tipo de envolvimento para fornecer melhor visibilidade aos usuários.
+* **Relatório de engajamento na caixa de diálogo do Dynamic Chat**: fornece uma exibição do engajamento na caixa de diálogo ao longo do tempo, incluindo a capacidade de filtrar por tipo de visitante e tipo de engajamento para fornecer melhor visibilidade aos usuários.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Funções e permissões para o Dynamic Chat**: apresenta funções e permissões ao Dynamic Chat, permitindo que os administradores limitem a visibilidade e o uso de diferentes áreas do aplicativo para tipos de usuários selecionados.
+* **Funções e permissões para o Dynamic Chat**: apresenta funções e permissões para o Dynamic Chat, permitindo que os administradores limitem a visibilidade e o uso de diferentes áreas do aplicativo para tipos de usuários selecionados.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Bate-papo como canal do programa para o Dynamic Chat**: cria um novo canal de programa &quot;Chat&quot; para rastrear a progressão do programa para as pessoas adquiridas pelo Dynamic Chat. Por exemplo, um profissional de marketing tem um programa associado a uma caixa de diálogo do Dynamic Chat para capturar novos leads. Agora, eles podem atribuir esse programa ao canal de bate-papo para que possam rastrear quando os leads são membros do programa e quando eles alcançaram o sucesso.
+* **Chat como um Canal de programa para o Dynamic Chat**: cria um novo Canal de programa &quot;Chat&quot; para rastrear a progressão do programa para as pessoas adquiridas pelo Dynamic Chat. Por exemplo, um profissional de marketing tem um programa associado a uma caixa de diálogo do Dynamic Chat para capturar novos leads. Agora, eles podem atribuir esse programa ao canal de bate-papo para que possam rastrear quando os leads são membros do programa e quando eles alcançaram o sucesso.
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Atributos inferidos para o Dynamic Chat**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro de pessoa para novas pessoas adquiridas pela Dynamic Chat.
+* **Atributos inferidos para Dynamic Chat**: garante que os dados de IP inferidos (cidade, estado, país etc.) é gravado no registro de pessoa para novas pessoas adquiridas pela Dynamic Chat.
 
 <table> 
   <tr> 
@@ -150,7 +150,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Suporte de idioma adicional para o Dynamic Chat**: Agora é possível escolher entre nove idiomas compatíveis para exibir o conteúdo de Dynamic Chat estático no.
+* **Suporte de idioma adicional para o Dynamic Chat**: agora você pode escolher entre nove idiomas compatíveis para exibir o conteúdo de Dynamic Chat estático.
 
 <table> 
   <tr> 
@@ -164,7 +164,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Ir para o nó na visualização do Stream Designer para Dynamic Chat**: Salte diretamente para um nó no Stream Designer do painel de visualização.
+* **Ir para o Nó na Visualização do Stream Designer para Dynamic Chat**: ir diretamente para um nó no Stream Designer a partir do painel de visualização.
 
 <table> 
   <tr> 
@@ -180,4 +180,4 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 ## Anúncios {#announcements}
 
-* **_Webinário de lançamento do produto_**: [Webinário da versão de março e maio de 2023 do Marketo Engage](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar da Versão do Produto_**: [Webinar da Versão de Marketo Engage de março e maio de 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

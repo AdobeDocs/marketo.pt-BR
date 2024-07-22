@@ -6,7 +6,7 @@ exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ Conectar-se ao Outlook significa que você receberá rastreamento de resposta, a
 
    ![](assets/two.png)
 
-1. Clique em **Conexão de email** guia.
+1. Clique na guia **Conexão de email**.
 
    ![](assets/three.png)
 
@@ -39,11 +39,11 @@ Conectar-se ao Outlook significa que você receberá rastreamento de resposta, a
 
    ![](assets/four.png)
 
-1. Selecionar **Eu uso o Outlook para enviar emails** e clique em **Próxima**.
+1. Selecione **Eu uso o Outlook para enviar emails** e clique em **Avançar**.
 
    ![](assets/five-a.png)
 
-1. Selecione a versão do Outlook que você está usando e clique em **Próxima**. Neste exemplo, estamos escolhendo Outlook Online.
+1. Selecione a versão do Outlook que você está usando e clique em **Avançar**. Neste exemplo, estamos escolhendo Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -68,7 +68,7 @@ Conectar-se ao Outlook significa que você receberá rastreamento de resposta, a
 
    ![](assets/seven-a.png)
 
-1. Se você não estiver conectado ao Outlook, insira suas informações de logon e clique em **Próxima**. Se estiver, escolha a conta à qual deseja se conectar e clique em **Próxima**. Neste exemplo, já estamos conectados.
+1. Se você não estiver conectado ao Outlook, insira suas informações de logon e clique em **Avançar**. Se você estiver, escolha a conta à qual deseja se conectar e clique em **Avançar**. Neste exemplo, já estamos conectados.
 
    ![](assets/eight-a.png)
 
@@ -94,7 +94,7 @@ Conectar-se ao Exchange no local significa que você receberá rastreamento de r
 
    ![](assets/two.png)
 
-1. Clique em **Conexão de email** guia.
+1. Clique na guia **Conexão de email**.
 
    ![](assets/three.png)
 
@@ -102,11 +102,11 @@ Conectar-se ao Exchange no local significa que você receberá rastreamento de r
 
    ![](assets/four.png)
 
-1. Selecionar **Eu uso o Outlook para enviar emails** e clique em **Próxima**.
+1. Selecione **Eu uso o Outlook para enviar emails** e clique em **Avançar**.
 
    ![](assets/five-a.png)
 
-1. Selecione a versão do Outlook que você está usando e clique em **Próxima**. Neste exemplo, estamos escolhendo Exchange no local.
+1. Selecione a versão do Outlook que você está usando e clique em **Avançar**. Neste exemplo, estamos escolhendo Exchange no local.
 
    ![](assets/six-b.png)
 

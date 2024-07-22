@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. No [!UICONTROL Campos] clique em **[!UICONTROL Ações de campo]** e **[!UICONTROL Editar campo]**.
+1. Na guia [!UICONTROL Campos], clique em **[!UICONTROL Ações de Campo]** e **[!UICONTROL Editar Campo]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 Quando não precisar mais de um campo em um objeto personalizado, você poderá excluí-lo.
 
-1. Na guia Campos, clique em **[!UICONTROL Ações de campo]** e **[!UICONTROL Excluir campo]**.
+1. Na guia Campos, clique em **[!UICONTROL Ações do Campo]** e **[!UICONTROL Excluir Campo]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
@@ -55,4 +55,4 @@ Se foi!
 
 >[!NOTE]
 >
->[Adicionar campos de objeto personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[Adicionar campos de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)

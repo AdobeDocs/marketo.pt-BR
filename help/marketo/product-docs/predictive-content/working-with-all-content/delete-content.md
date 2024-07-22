@@ -19,7 +19,7 @@ Quando você não precisa mais de um conteúdo, é fácil se livrar dele.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Clique em **Ações de conteúdo** e selecione **Excluir conteúdo**.
+1. Clique no menu suspenso **Ações de Conteúdo** e selecione **Excluir Conteúdo**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 

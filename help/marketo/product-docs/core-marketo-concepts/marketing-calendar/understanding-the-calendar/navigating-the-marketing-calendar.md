@@ -6,8 +6,8 @@ exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 2%
+source-wordcount: '173'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ Navegar pelo Calendário de marketing é fácil. Veja como.
 
 >[!PREREQUISITES]
 >
->Verifique se você tem um [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - caso contrário, o bloco Calendário de marketing não será exibido em Minha Marketo.
+>Verifique se você tem uma [licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}; caso contrário, o bloco do Calendário de marketing não aparecerá em Minha Marketo.
 
 >[!NOTE]
 >
 >Campanhas inteligentes recorrentes não são suportadas no Calendário de marketing.
 
-1. Vá para a **Calendário de marketing**.
+1. Vá para o **Calendário de marketing**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -33,7 +33,7 @@ Navegar pelo Calendário de marketing é fácil. Veja como.
 
 ## Alteração entre modos {#change-between-modes}
 
-1. Clique em **[!UICONTROL 3 semanas]** ou **[!UICONTROL Month]** para alternar entre os modos.
+1. Clique nas guias **[!UICONTROL 3 semanas]** ou **[!UICONTROL Mês]** para alternar entre os modos.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,15 +41,15 @@ Navegar pelo Calendário de marketing é fácil. Veja como.
 
 A exibição Agenda exibe todas as entradas como uma lista.
 
-1. Clique em **[!UICONTROL Filtro]** menu suspenso.
+1. Clique no menu suspenso **[!UICONTROL Filtro]**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selecione o **[!UICONTROL Agenda]** exibição.
+1. Selecione a exibição **[!UICONTROL Agenda]**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   Ótimo! Esta é uma ótima visão para ver tudo o que está planejado.
+   Fantástico! Esta é uma ótima visão para ver tudo o que está planejado.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
@@ -67,8 +67,8 @@ Você também pode usar esses atalhos de teclado.
 | Encaminhar no tempo | alt/opt + down |
 | Ir para &quot;hoje&quot; | alt/opt + t |
 
-Ótimo! Estas são as noções básicas. Você também pode personalizar a visualização usando filtros.
+Fantástico! Estas são as noções básicas. Você também pode personalizar a visualização usando filtros.
 
 >[!MORELIKETHIS]
 >
->[Filtrar o calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[Filtrando o Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

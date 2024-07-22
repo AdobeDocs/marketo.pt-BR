@@ -48,7 +48,7 @@ O Cartão de histórico Cancelar inscrição ajuda administradores e usuários a
 
 >[!NOTE]
 >
->Só haverá um cartão Cancelar inscrição do histórico se a pessoa tiver _inscrito novamente_ em algum momento.
+>Só haverá um cartão de Histórico de Cancelamento de Inscrição se a pessoa tiver _assinado novamente_ em algum momento.
 
 ![](assets/unsubscribe-overview-5.png)
 
@@ -75,4 +75,4 @@ O Cartão de histórico Cancelar inscrição ajuda administradores e usuários a
 
 >[!MORELIKETHIS]
 >
->[Personalizar mensagem do link de cancelamento de inscrição](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+>[Personalizar Mensagem do Link de Cancelamento de Inscrição](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)

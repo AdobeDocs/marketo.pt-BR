@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ao criar um aplicativo social, você pode escolher qual URL será compartilhado nas publicações dos participantes.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ Ao criar um aplicativo social, você pode escolher qual URL será compartilhado 
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. No editor de aplicativo social, acesse **Configurações do aplicativo** e depois **Opções avançadas**.
+1. No editor de aplicativos sociais, vá para **Configurações do Aplicativo** e depois para **Opções Avançadas**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -38,8 +38,8 @@ Ao criar um aplicativo social, você pode escolher qual URL será compartilhado 
    >Compartilhar publicações pode vincular a três lugares:
    >
    >* **Página de referência**: a página que contém o aplicativo.
-   >* **Outra página de aterrissagem**: uma landing page do Marketo diferente das do menu suspenso.
-   >* **URL externo**: uma landing page que não é da Marketo.
+   >* **Outra página de aterrissagem**: uma página de aterrissagem do Marketo diferente das páginas na lista suspensa.
+   >* **URL Externa**: Uma página de aterrissagem que não seja da Marketo.
 
 >[!MORELIKETHIS]
 >

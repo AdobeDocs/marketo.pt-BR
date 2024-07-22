@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 1%
 
 ---
@@ -16,13 +16,13 @@ Acelere os esforços de prospecção com inteligência baseada em marketing e fe
 
 >[!NOTE]
 >
->As Ações do Marketo Sales Insight são um aplicativo baseado na Web que se integra à interface do usuário do Salesforce por meio da [Pacote do Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
+>As Ações do Marketo Sales Insight são um aplicativo baseado na Web que se integra à interface do usuário do Salesforce por meio do [pacote do Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
 
 >[!AVAILABILITY]
 >
->No momento, esse recurso está sendo implantado para todos os usuários do Sales Insight. Se você quiser ter prioridade na implantação, envie um email para `sales-insights(at)adobe(dot)com`.
+>No momento, esse recurso está sendo implantado para todos os usuários do Sales Insight. Se você quiser ser priorizado na implantação, envie um email para `sales-insights(at)adobe(dot)com`.
 
-Para obter uma visão geral em vídeo das ações do Sales Insight, [clique aqui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+Para obter uma visão geral em vídeo das Ações do Sales Insight, [clique aqui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -32,7 +32,7 @@ As seguintes ações estão disponíveis no menu suspenso &quot;Escolher ações
 
 * Enviar e-mail de vendas
    * Os emails de vendas têm controle de exibição, clique e resposta (quando o canal de entrega está configurado)
-   * Inclui Personalização de email, Assinatura personalizada e anexos
+   * Inclui Email Personalization, Assinatura Personalizada e anexos
    * Compartilhamento de modelos e relatórios
    * Compartilhamento em equipe, emails em grupo e capacidade de CC/CCO
    * A atividade de email de vendas será registrada no registro pessoal do Marketo
@@ -84,7 +84,7 @@ As seguintes ações estão disponíveis no início da navegação:
 
 * Enviar Email de Vendas - Capacidade de enviar emails de grupos personalizados ou com modelos com rastreamento de exibição, clique e resposta para todos os contatos associados a uma conta/oportunidade
    * Os emails de vendas têm controle de exibição, clique e resposta (quando o canal de entrega está configurado)
-   * Inclui Personalização de email, Assinatura personalizada e anexos
+   * Inclui Email Personalization, Assinatura Personalizada e anexos
    * Compartilhamento de modelos e relatórios
    * Compartilhamento em equipe, emails em grupo e capacidade de CC/CCO
    * A atividade de email de vendas será registrada no registro pessoal do Marketo
@@ -142,7 +142,7 @@ As seguintes ações embutidas estão disponíveis para clientes potenciais/cont
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
-**Guia E-mail**
+**Guia Email**
 
 * Todos os emails de vendas enviados serão registrados aqui. As atividades também serão registradas no registro de pessoa do Marketo
 * As colunas incluem Assunto, Abrir, Clicar, Respondido (disponível somente para email de vendas com canal de entrega configurado), Remetente e Data
@@ -163,7 +163,7 @@ As seguintes ações embutidas estão disponíveis para clientes potenciais/cont
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
-**Feed ativo**
+**Feed Dinâmico**
 
 * Capacidade de ver atualizações em tempo real sobre atividades de vendas, juntamente com o recurso de encaixe de tela
 * Os botões de email, chamada e cadência incorporados tornam cada insight do cliente acionável
@@ -185,7 +185,7 @@ Os filtros e acionadores incluem:
 * Enviar e-mail de vendas
 * E-mail de vendas aberto
 * Email de vendas clicado
-* Respondido para o e-mail de vendas
+* Respondeu ao e-mail de vendas
 * Recebida chamada de vendas
 * Adicionado à Campanha de vendas
 * Removido da campanha de vendas

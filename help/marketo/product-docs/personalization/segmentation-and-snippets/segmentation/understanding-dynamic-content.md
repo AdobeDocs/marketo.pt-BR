@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Compreensão do conteúdo dinâmico {#understanding-dynamic-content}
 
-A personalização é muito mais do que apenas &quot;Olá&quot; `{{First_Name}}`&quot;. Com o conteúdo dinâmico do Marketo, você pode personalizar como pessoas diferentes veem uma página de aterrissagem ou email.
+A personalização é muito mais do que apenas &quot;Olá, `{{First_Name}}`&quot;. Com o conteúdo dinâmico do Marketo, você pode personalizar como pessoas diferentes veem uma página de aterrissagem ou email.
 
 ![](assets/artboard-1.png)
 
@@ -25,7 +25,7 @@ Primeiro, você precisa dividir suas pessoas em subgrupos. Isso é chamado de [s
 >
 >**Definição**
 >
->A segmentação categoriza o público-alvo em diferentes subgrupos com base em um [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) regra. Esses grupos são chamados de segmentos.
+>A segmentação categoriza seu público em diferentes subgrupos com base em uma regra de [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Esses grupos são chamados de segmentos.
 
 Por exemplo, se tivermos uma segmentação chamada Setor, alguns dos segmentos podem ser: Saúde, Tecnologia, Finanças, Bens de consumo etc.
 
@@ -37,9 +37,9 @@ Depois de criar diferentes segmentos, você pode adicionar blocos de conteúdo d
 
 ![](assets/artboard-3.png)
 
-## Blocos de conteúdo {#snippets}
+## Bl. conteúdo {#snippets}
 
-[Trechos](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) são uma ferramenta útil no Marketo. Crie uma vez e use-a em vários lugares! Se você atualizar o trecho, todos os ativos (landing pages ou emails) que usam o trecho serão atualizados automaticamente.
+Os [trechos](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) são uma ferramenta útil no Marketo. Crie uma vez e use-a em vários lugares! Se você atualizar o trecho, todos os ativos (landing pages ou emails) que usam o trecho serão atualizados automaticamente.
 
 >[!NOTE]
 >

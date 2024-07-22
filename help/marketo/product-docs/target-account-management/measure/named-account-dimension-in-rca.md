@@ -17,7 +17,7 @@ Crie relatórios baseados em receita usando a dimensão Conta nomeada específic
 
 >[!NOTE]
 >
->**Dimension** - atributos (representados por pontos amarelos) que fornecem visualizações diferentes das medidas.
+>**Dimension** - atributos (representados por pontos amarelos) que fornecem exibições diferentes das medidas.
 
 ![](assets/one-2.png)
 

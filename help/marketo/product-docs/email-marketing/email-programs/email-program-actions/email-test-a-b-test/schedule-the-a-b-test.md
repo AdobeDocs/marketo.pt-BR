@@ -6,8 +6,8 @@ exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 6%
+source-wordcount: '211'
+ht-degree: 0%
 
 ---
 
@@ -23,19 +23,19 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 >
 >Para testes de Data/Hora, você só precisa definir quando receber o resumo dos resultados do teste.
 
-1. Selecione o **Enviar teste** data.
+1. Selecione a data **Enviar Teste**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Selecione o **Enviar teste** hora.
+1. Selecione a hora **Enviar teste**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
    >[!NOTE]
    >
-   >Enviar teste e Enviar Vencedor devem ter um intervalo de pelo menos 4 horas. No entanto, para envios maiores, talvez você queira aguardar 24 horas para ter tempo suficiente para obter bons resultados.
+   >Enviar teste e Enviar vencedor devem ter pelo menos 4 horas de intervalo. No entanto, para envios maiores, talvez você queira aguardar 24 horas para ter tempo suficiente para obter bons resultados.
 
-1. Faça a mesma coisa para **Enviar vencedor**. Insira os destinatários da notificação (opcional) e clique em **Próxima**.
+1. Faça a mesma coisa para **Enviar Vencedor**. Insira os destinatários da notificação (opcional) e clique em **Avançar**.
 
    >[!NOTE]
    >
@@ -45,13 +45,13 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 
    >[!NOTE]
    >
-   >Se você optar por declarar um vencedor manualmente, definirá **Envio de relatório** data/hora em vez de **Concluir envio** data/hora.
+   >Se você decidir declarar um vencedor manualmente, definirá **Data/hora do Envio de Relatório** em vez de **Data/hora do Término do Endereçamento**.
 
    Super! Quando terminar, revise o resumo e clique em Fechar.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Você perceberá o **Agendar** O bloco foi atualizado.
+   Você perceberá que o bloco **Agenda** foi atualizado.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
@@ -63,4 +63,4 @@ Depois de adicionar um teste A/B a um programa de email e definir os critérios 
 
    >[!MORELIKETHIS]
    >
-   >[Aprovar/cancelar aprovação de um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+   >[Aprovar/Cancelar aprovação de um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)

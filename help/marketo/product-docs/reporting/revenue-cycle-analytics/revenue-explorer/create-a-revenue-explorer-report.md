@@ -21,9 +21,9 @@ O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de
 
 >[!IMPORTANT]
 >
->A pasta Lixeira no Gerenciador de ciclo de receita foi ocultada temporariamente devido a um problema técnico. No momento, estamos trabalhando em uma correção e seus arquivos estão seguros. Contate [Suporte para Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se houver arquivos que você precise restaurar.
+>A pasta Lixeira no Gerenciador de ciclo de receita foi ocultada temporariamente devido a um problema técnico. No momento, estamos trabalhando em uma correção e seus arquivos estão seguros. Entre em contato com o [Suporte ao Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se houver arquivos que você precise restaurar.
 
-1. Vá para a **Gerenciador de Receita** área.
+1. Vá para a área **Gerenciador de Receita**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
@@ -41,5 +41,5 @@ O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de
 
 >[!MORELIKETHIS]
 >
->[Adicionar campos a um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[Adição de Medidas Personalizadas a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>[Adicionando Campos a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Adicionando Medidas Personalizadas a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

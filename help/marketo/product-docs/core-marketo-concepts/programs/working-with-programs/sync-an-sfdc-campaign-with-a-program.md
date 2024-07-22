@@ -7,13 +7,13 @@ feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Sincronizar uma campanha SFDC com um programa {#sync-an-sfdc-campaign-with-a-program}
 
-O Marketo Engage permite sincronizar seus programas com [!DNL Salesforce] campanhas para manter a mesma lista de pessoas em ambos os sistemas, incluindo seus status. Vamos começar!
+O Marketo Engage permite sincronizar seus programas com as campanhas do [!DNL Salesforce] para manter a mesma lista de pessoas nos dois sistemas, incluindo seus status. Vamos começar!
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ O Marketo Engage permite sincronizar seus programas com [!DNL Salesforce] campan
 >
 >Ao sincronizar uma campanha do SFDC com um programa Marketo Engage, as ações implícitas do SFDC (por exemplo, adicionar à campanha do SFDC, Sincronizar com o SFDC) serão desativadas para campanhas filho do programa.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,15 +31,15 @@ O Marketo Engage permite sincronizar seus programas com [!DNL Salesforce] campan
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Clique em **[!UICONTROL Ações do programa]** e selecione **[!UICONTROL Sincronização de campanha do Salesforce]**.
+1. Clique em **[!UICONTROL Ações do programa]** e selecione **[!UICONTROL Sincronização da campanha do Salesforce]**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Selecionar **[!UICONTROL Criar novo]** ou escolha um existente [!DNL Salesforce] campanha.
+1. Selecione **[!UICONTROL Criar novo]** ou escolha uma campanha [!DNL Salesforce] existente.
 
    >[!TIP]
    >
-   >Se você selecionar um existente [!DNL Salesforce] campaign, certifique-se de [corresponder aos status do programa da [!DNL Salesforce] campanha e o programa Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
+   >Se você selecionar uma campanha [!DNL Salesforce] existente, certifique-se de [corresponder aos status dos programas da [!DNL Salesforce] campanha e do programa Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Insira um nome para a nova campanha e clique em **[!UICONTROL Salvar]**.
 

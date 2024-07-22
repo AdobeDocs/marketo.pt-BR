@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Depois de adicionar conteúdo ao seu fluxo, talvez você queira alterar a prioridade. O conteúdo é sempre entregue de cima para baixo em cada elenco e nenhum conteúdo é enviado duas vezes para a mesma pessoa.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione seu programa de engajamento e clique no link **Fluxos** guia.
+1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
 
    ![](assets/cloneasteam-1.jpg)
 

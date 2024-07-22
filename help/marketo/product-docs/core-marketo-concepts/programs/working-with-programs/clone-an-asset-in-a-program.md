@@ -13,15 +13,15 @@ ht-degree: 2%
 
 # Clonar um ativo em um programa {#clone-an-asset-in-a-program}
 
-Clonagem de um programa clona _tudo_. Às vezes, você só deseja clonar um ativo. Veja como.
+Clonar um programa clona _tudo_. Às vezes, você só deseja clonar um ativo. Veja como.
 
 >[!NOTE]
 >
->Será necessário executar etapas adicionais para [clonar um grupo de teste de landing page](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
+>Você precisará executar etapas adicionais para [clonar um grupo de teste de página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
 
 ## Clonar um ativo local {#clone-a-local-asset}
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -39,7 +39,7 @@ Clonagem de um programa clona _tudo_. Às vezes, você só deseja clonar um ativ
 
    >[!TIP]
    >
-   >Também é possível clonar um ativo para um programa diferente. Use o **[!UICONTROL Programa]** para fazer a seleção.
+   >Também é possível clonar um ativo para um programa diferente. Use o menu suspenso **[!UICONTROL Programa]** para fazer sua seleção.
 
 1. Ótimo! Agora você deve ver o novo ativo clonado.
 

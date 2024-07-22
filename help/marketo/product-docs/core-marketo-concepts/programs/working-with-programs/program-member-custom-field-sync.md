@@ -1,16 +1,16 @@
 ---
 description: Sincronização de campo personalizado do membro do programa - Documentação do Marketo - Documentação do produto
-title: Sincronização de Campo Personalizado de Membro do Programa
+title: Sincronizar campos personalizados de membros de programas
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 8%
+source-wordcount: '355'
+ht-degree: 11%
 
 ---
 
-# Sincronização de Campo Personalizado de Membro do Programa {#program-member-custom-field-sync}
+# Sincronizar campos personalizados de membros de programas {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 8%
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Clique em **[!DNL Salesforce]** e, em seguida, clique em **[!UICONTROL Editar]** ao lado de Sincronização de campo personalizado do membro do programa.
+1. Clique em **[!DNL Salesforce]** e em **[!UICONTROL Editar]** ao lado de Sincronização de Campo Personalizado de Membro do Programa.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -69,7 +69,7 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Clique em **[!DNL Salesforce]** e, em seguida, clique em **[!UICONTROL Editar]** ao lado de Sincronização de campo personalizado do membro do programa.
+1. Clique em **[!DNL Salesforce]** e em **[!UICONTROL Editar]** ao lado de Sincronização de Campo Personalizado de Membro do Programa.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,9 +79,9 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
 
    >[!TIP]
    >
-   >É possível selecionar a variável **[!UICONTROL Mapeado]** para ver apenas os campos mapeados.
+   >Você pode marcar a caixa de seleção **[!UICONTROL Mapeado]** para ver apenas campos mapeados.
 
-1. Desmapeie clicando no ícone **X** ao lado do campo.
+1. Desmapeie clicando no **X** ao lado do campo.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -98,7 +98,7 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
   </colgroup>
   <tbody>
     <tr>
-      <th>Tipo de dados SFDC</th>
+      <th>Tipo de dados do SFDC</th>
       <th>Tipo de Dados do Campo Personalizado do Membro do Programa</th>
     </tr>
     <tr>
@@ -143,7 +143,7 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
     </tr>
     <tr>
       <td>Datetime</td>
-      <td>Datetime</td>
+      <td>Data/hora</td>
     </tr>
     <tr>
       <td>Pesquisa (referência)</td>
@@ -158,6 +158,6 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
 
 >[!MORELIKETHIS]
 >
->* [Alterar dados dos membros do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [Alterar Dados de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
 >* [Exibir dados na grade de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [Sincronização do SFDC - Sincronização do Campaign](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [Sincronização SFDC - Sincronização de Campanha](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

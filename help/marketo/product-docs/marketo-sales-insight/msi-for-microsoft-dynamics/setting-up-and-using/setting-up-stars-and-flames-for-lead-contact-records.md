@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Estrelas e chamas em registros de lead/contato dependem dos campos Pontuação do lead, Pontuação relativa, Urgência e Prioridade. Esses campos estarão disponíveis por padrão após a instalação e configuração da solução MSI. Se você não tiver o Stars and Flames, uma configuração/personalização anterior poderia ter resultado na remoção deles. Siga as etapas abaixo para adicioná-las.
 
-1. No Microsoft Dynamics, clique no menu suspenso Vendas e selecione **Configurações**. Clique em **Personalizações**, depois **Personalizar o sistema**.
+1. No Microsoft Dynamics, clique no menu suspenso Vendas e selecione **Configurações**. Clique em **Personalizações** e em **Personalizar o Sistema**.
 
 1. No painel esquerdo, clique em **Entidades**.
 
-1. Localize e clique em **Lead**, depois **Forms**, em seguida, selecione o formulário que deseja editar.
+1. Localize e clique em **Lead**, depois em **Forms** e selecione o formulário que deseja editar.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Clique em **Marketo Sales Insight** no painel lateral esquerdo. No painel direito, clique no menu suspenso Filtro e selecione **Campos personalizados**.
+1. Clique em **Marketo Sales Insight** no painel esquerdo. No painel direito, clique no menu suspenso Filtro e selecione **Campos Personalizados**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
 1. Arraste e solte o seguinte: Pontuação do lead, Pontuação relativa, Urgência e Campos de prioridade. Organize-os de uma maneira que funcione melhor para você. Você também pode formatar qualquer campo clicando duas vezes nele.
 
-1. Quando terminar, clique em **Salvar e fechar**.
+1. Quando terminar, clique em **Salvar e Fechar**.

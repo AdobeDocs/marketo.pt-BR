@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Adicionar colunas personalizadas a um relatório de pessoa {#add-custom-columns-to-a-person-report}
 
-Você pode filtrar ainda mais as métricas em seus relatórios de pessoa usando [listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) como colunas personalizadas.
+Você pode filtrar ainda mais as métricas em seus relatórios de pessoa usando suas [listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) como colunas personalizadas.
 
-1. Vá para a **Atividades de marketing** (ou **Analytics**).
+1. Vá para a área **Atividades de marketing** (ou **Analytics**).
 
    ![](assets/ma-1.png)
 
-1. Selecione o relatório e clique no link **Configuração** guia.
+1. Selecione seu relatório e clique na guia **Configuração**.
 
    ![](assets/two-1.png)
 
-1. Arrastar sobre **Colunas personalizadas**.
+1. Arraste mais de **Colunas personalizadas**.
 
    ![](assets/three-1.png)
 
@@ -31,10 +31,10 @@ Você pode filtrar ainda mais as métricas em seus relatórios de pessoa usando 
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. Você conseguiu! Clique em **Relatório** para ver seu relatório com as novas colunas.
+1. Você conseguiu! Clique na guia **Relatório** para ver seu relatório com as novas colunas.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >Também é possível [Adicionar Colunas de Oportunidade a um Relatório de Cliente Potencial](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
+   >Você também pode [Adicionar Colunas de Oportunidade a um Relatório de Cliente Potencial](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).

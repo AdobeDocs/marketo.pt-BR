@@ -1,33 +1,33 @@
 ---
 unique-page-id: 3571900
-description: Visão geral da personalização da Web - Documentação do Marketo - Documentação do produto
-title: Visão geral da personalização da Web
+description: Visão geral do Web Personalization - Documentação do Marketo - Documentação do produto
+title: Visão geral do Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '836'
 ht-degree: 2%
 
 ---
 
-# Visão geral da personalização da Web {#web-personalization-overview}
+# Visão geral do Web Personalization {#web-personalization-overview}
 
 ## Introdução {#introduction}
 
-Para novos clientes do Marketo, a Personalização em tempo real é dividida em quatro aplicativos, acessados por meio desses dois blocos: Personalização da Web e IA de conteúdo.
+Para novos clientes do Marketo, o Real-Time Personalization é dividido em quatro aplicativos, acessados por meio desses dois blocos: Web Personalization e ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->A Personalização da Web e a IA de conteúdo estão disponíveis em todos os idiomas suportados pela Marketo (inglês, francês, alemão, japonês, português e espanhol).
+>O Web Personalization e o ContentAI estão disponíveis em todos os idiomas compatíveis com a Marketo (inglês, francês, alemão, japonês, português e espanhol).
 
-Os clientes existentes continuam a acessar os aplicativos por meio do bloco Personalização em tempo real até a renovação, momento em que usarão o logon acima.
+Os clientes existentes continuam a acessar os aplicativos por meio do bloco Real-Time Personalization até a renovação, momento em que usarão o logon acima.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Ao clicar no bloco Personalização da Web, a página Painel é exibida. Clique no bloco IA de conteúdo e vá diretamente para a página Recommendations de conteúdo.
+Ao clicar no bloco Web Personalization, a página Painel é exibida. Clique no bloco IA de conteúdo e vá diretamente para a página Recommendations de conteúdo.
 
 Os quatro aplicativos são:
 
@@ -36,17 +36,17 @@ Os quatro aplicativos são:
 * Redirecionamento de site
 * IA de conteúdo
 
-A variável **Personalização da Web** O bloco é seu ponto de acesso para criar campanhas personalizadas da web. Marketing pela Web baseado em conta e redirecionamento pela Web. É possível adicionar conteúdo na página Análise de conteúdo.
+O bloco **Web Personalization** é seu ponto de acesso para criar campanhas personalizadas da Web. Marketing pela Web baseado em conta e redirecionamento pela Web. É possível adicionar conteúdo na página Análise de conteúdo.
 
-**Marketing pela Web baseado em conta** O funciona com a Personalização da Web e com recursos de Contas nomeadas. A página Contas nomeadas fornece informações gráficas sobre clientes existentes, total de engajamentos e tendências organizacionais, bem como uma lista das contas. Você também pode criar novas contas nomeadas lá.
+O **Marketing pela Web baseado em conta** funciona com o Web Personalization e com recursos de Contas nomeadas. A página Contas nomeadas fornece informações gráficas sobre clientes existentes, total de engajamentos e tendências organizacionais, bem como uma lista das contas. Você também pode criar novas contas nomeadas lá.
 
-**Redirecionamento de site** O oferece o poder de remarketing para públicos segmentados. Você pode definir segmentos, mas não pode usar Contas nomeadas no filtro.
+**Redirecionamento de site** dá a você o poder de recomercializar para públicos segmentados. Você pode definir segmentos, mas não pode usar Contas nomeadas no filtro.
 
-**IA de conteúdo** O é o local para fornecer recomendações de conteúdo. É possível adicionar conteúdo facilmente à página Recommendations de conteúdo.
+**ContentAI** é o local para fornecer recomendações de conteúdo. É possível adicionar conteúdo facilmente à página Recommendations de conteúdo.
 
 >[!NOTE]
 >
->Para acessar o Marketing pela Web com base em conta ou o Redirecionamento de site, clique no bloco Personalização da Web, mesmo se você não tiver o aplicativo Personalização da Web.
+>Para acessar o Marketing pela Web baseado em conta ou o Redirecionamento de site, clique no bloco Web Personalization, mesmo se não tiver o aplicativo Web Personalization.
 
 ## Organizações {#organizations}
 
@@ -69,13 +69,13 @@ O painel direito da página Organizações oferece os seguintes recursos e insig
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Ícone Planilha</strong>: Situado na parte superior direita do painel, o ícone baixa a tabela Organizações no formato CSV para uso offline</p><p><strong>Definir alerta de email</strong>: envia um email ao usuário conectado sempre que a organização selecionada visita o site</p><p><strong>Clientes potenciais</strong>: abre a tabela de clientes potenciais para a organização selecionada</p><p><strong>Compartilhar</strong>: abre uma janela pop-up para enviar um email e compartilhar os detalhes da organização que visitou a página da Web</p><p><strong>Ícone de localização</strong>: exibe o país e a cidade da organização selecionada</p><p><strong>Links</strong>: Jigsaw, Whois, Linkedin, Google, Twitter abre uma nova janela com informações adicionais da respectiva página da Web, oferecendo informações adicionais sobre a organização selecionada</p><p><strong>Pesquisar</strong>: exibe a palavra-chave usada se o visitante chegou por meio de um mecanismo de pesquisa</p><p><strong>Referenciadores</strong>: mostra o link do URL da página que fez a referência do tráfego para o site</p><p><strong>Visitantes</strong>: exibe o número de visitas, o número de páginas visualizadas pela organização selecionada e seu endereço de email (se eles preencheram um formulário de envio) e a hora e a data da última visita</p><p><strong>Sequência de cliques</strong>: exibe uma tabela da atividade do usuário e o caminho do URL no site, além do tempo de visita a cada página</p></td> 
+   <td><p><strong>Ícone de Planilha</strong>: situado na parte superior direita do painel, o ícone baixa a tabela Organizações no formato CSV para uso offline</p><p><strong>Definir Alerta por Email</strong>: envia um email ao usuário conectado sempre que a organização selecionada visitar o site</p><p><strong>Clientes potenciais</strong>: abre a tabela de clientes potenciais para a organização selecionada</p><p><strong>Compartilhar</strong>: abre uma janela pop-up para enviar emails e compartilhar os detalhes da organização que visitou a página da Web</p><p><strong>Ícone de local</strong>: exibe o país e a cidade da organização selecionada</p><p><strong>Links</strong>: Quebra-cabeça, Buri, Linkedin, Google, Twitter abre uma nova janela com informações adicionais da respectiva página da Web, oferecendo informações adicionais sobre a organização selecionada</p><p><strong>Pesquisa</strong>: exibe a palavra-chave usada se o visitante tiver chegado por meio de um mecanismo de pesquisa</p><p><strong>Referenciadores</strong>: mostra o link da URL da página que fez a referência do tráfego ao seu site</p><p><strong>Visitantes</strong>: exibe o número de visitas, o número de páginas visualizadas pela organização selecionada e seus endereços de email (se eles preencheram um formulário de envio) e a hora e a data da última visita</p><p><strong>Sequência de cliques</strong>: exibe uma tabela da atividade do usuário e o caminho da URL no site, e quanto tempo eles visitaram cada página</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Compartilhar organizações**
+**Compartilhar Organizações**
 
 Deseja compartilhar as informações do visitante do seu site com um colega? Clique em uma organização e, em seguida, clique no link Compartilhar no painel do lado direito.
 

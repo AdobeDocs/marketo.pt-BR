@@ -6,14 +6,14 @@ exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
 # Especificar Meta para Oferta de Referência {#specify-goal-for-referral-offer}
 
-Quando você [criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), é necessário definir a meta de preenchimento. A meta pode ser definida por atividade de pessoa na página da Web, como visitas de página ou inscrições. Você pode até mesmo usar um [evento JavaScript personalizado](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
+Quando você [cria uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), é necessário definir a meta de preenchimento. A meta pode ser definida por atividade de pessoa na página da Web, como visitas de página ou inscrições. Você pode até mesmo usar um [evento personalizado do JavaScript](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
 Como alternativa, você pode usar um acionador de lista inteligente no Marketo para aguardar qualquer marco, como uma oportunidade que está sendo criada para a pessoa indicada.
 
@@ -25,7 +25,7 @@ Exemplo de metas:
 * 2 compras referidas de comércio eletrônico
 * 5 participantes do webinário indicados
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -33,23 +33,23 @@ Exemplo de metas:
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. No editor de oferta de referência, acesse **Configurações do aplicativo** > **Detalhes da oferta**.
+1. No editor de oferta de referência, vá para **Configurações do Aplicativo** > **Detalhes da Oferta**.
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
-1. Em **Configurações**, escolha um tipo de evento na **Meta de preenchimento** menu suspenso.
+1. Em **Configurações**, escolha um tipo de evento na lista suspensa **Meta de Atendimento**.
 
    ![](assets/image2014-9-19-15-3a6-3a56.png)
 
 >[!TIP]
 >
->Se você planeja usar a variável **Atribuir crédito ao referenciador** etapa de fluxo, você deve selecionar **Acionador da lista inteligente** como o tipo de meta de preenchimento aqui.
+>Se você planeja usar a etapa de fluxo **Dar Crédito ao Referenciador**, selecione **Acionador da Smart List** como o tipo de meta de preenchimento aqui.
 
 * Visitas referenciadas: os participantes da oferta recebem crédito por cada visita de um amigo à página que hospeda sua oferta.
 * Inscrições referenciadas: os participantes da oferta recebem crédito por cada amigo que se inscreve na oferta.
-* Acionador da lista inteligente: os participantes da oferta recebem crédito por cada amigo que atende às condições de um [lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) acionar em uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Por exemplo, você pode usar um acionador que é acionado quando um cliente potencial indicado se inscreve em um webinário.
+* Acionador da lista inteligente: os participantes da oferta recebem crédito por cada amigo que atende às condições de um acionador de [lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) em uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Por exemplo, você pode usar um acionador que é acionado quando um cliente potencial indicado se inscreve em um webinário.
 
-* Evento JavaScript personalizado: os participantes da oferta recebem crédito por cada amigo que aciona um evento JavaScript definido na sua página. Consulte [Script de conversão para eventos personalizados](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+* Evento JavaScript personalizado: os participantes da oferta recebem crédito por cada amigo que aciona um evento JavaScript definido em sua página. Consulte [Script de conversão para eventos personalizados](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
@@ -57,4 +57,4 @@ Exemplo de metas:
 
 >[!MORELIKETHIS]
 >
->Em seguida, é possível [selecionar os emails de inscrição e de preenchimento](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) para enviar da sua oferta de referência.
+>Em seguida, você pode [selecionar os emails de inscrição e de preenchimento](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) a serem enviados a partir da sua oferta de referência.

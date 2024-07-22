@@ -6,7 +6,7 @@ exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
 source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Para usar o plug-in MSI do Marketo no Outlook, é necessário autorizá-lo.
 
 >[!IMPORTANT]
 >
->A Microsoft lançou um [nova versão do Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>A Microsoft lançou uma [nova versão do Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Esta nova versão não oferece suporte ao plug-in MSI Outlook existente. O plug-in MSI Outlook continuará a funcionar para áreas de trabalho do Windows que executam a versão clássica do Outlook. Para saber mais sobre o novo Outlook para Windows para organizações, [clique aqui](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Clique em qualquer um dos botões de Mensagem Marketo.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Quando a caixa de diálogo Autorizar plug-in do Marketo for exibida, clique em **Código da solicitação**.
+1. Quando a caixa de diálogo Autorizar plug-in do Marketo for exibida, clique em **Solicitar código**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 

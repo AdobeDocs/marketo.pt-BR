@@ -2,11 +2,11 @@
 description: NUR-YYYY-MM-Advanced Nurture - Documentação do Marketo - Documentação do produto
 title: NUR-AAAA-MM-Enfermagem Avançada
 feature: Programs
-exl-id: cd266cad-843b-4329-ad40-2f3d0acd4948
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 17%
+source-wordcount: '490'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 17%
 
 Este é um exemplo de Programas de enfermagem avançados utilizando o Programa de engajamento do Marketo Engage. Os Programas de email aninhados impedem que as pessoas recebam conteúdo que já consumiram ou controlam o tipo de conteúdo que devem consumir em cada fluxo. O relatório de atribuição pode ser executado para cada Programa de email aninhado individual. Canais: o &quot;Nurture&quot; e um canal dedicado &quot;Nurture Email&quot; para os Programas de email aninhados enviam um email de informativo utilizando um Programa de email Marketo Engage. O email pode incluir ou não incluir um teste A/B.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -29,22 +29,22 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Nutrição</td> 
    <td>01 - Membro 
-<br/>02 - Envolvido - Sucesso</td>
+<br/>02 - Envolvido - Êxito</td>
    <td>Inclusivo</td>
-   <td>Envolvimento</td>
+   <td>Engajamento</td>
   </tr>
   <tr> 
    <td>E-mail de criação</td> 
    <td>01 - Ignorar 
 <br/>02 - Enviado
-<br/>03 - Envolvido - Sucesso</td>
+<br/>03 - Envolvido - Êxito</td>
    <td>Inclusivo</td>
    <td>Padrão</td>
   </tr>
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -132,12 +132,12 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Ativos (Contêm programas aninhados e as pastas de ativos também residem em programas aninhados para conter emails)</td>
+   <td>Assets (Contêm programas aninhados e as pastas de ativos também residem em programas aninhados para conter emails)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Programas aninhados (atividades na pasta de ativos)</td>
+   <td>Programas aninhados (atividades na pasta Assets)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
@@ -183,19 +183,19 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original
    * Usar modelo de destino - _Recomendado_
 
 * **Imagens com o mesmo nome**
    * Manter ambos os arquivos
-   * Substituir item desta inscrição - _Recomendado_
+   * Substituir item nesta assinatura - _Recomendado_
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
 
@@ -213,4 +213,4 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;04 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ seus emails serão enviados.
+>Não se esqueça de ativar a campanha &quot;04 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de enviar seus emails.

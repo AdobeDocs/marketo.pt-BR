@@ -6,7 +6,7 @@ exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ A opção Sem rascunho é ativada automaticamente para todas as funções de Adm
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
@@ -33,25 +33,25 @@ A opção Sem rascunho é ativada automaticamente para todas as funções de Adm
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Vá para a **[!UICONTROL Funções]** , selecione uma função e clique em **[!UICONTROL Editar Função]**.
+1. Vá para a guia **[!UICONTROL Funções]**, selecione uma função e clique em **[!UICONTROL Editar Função]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Expanda a **[!UICONTROL Acessar o Design Studio]** opção.
+1. Expanda a opção **[!UICONTROL Access Design Studio]**.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Expanda a **[!UICONTROL Trecho de acesso]** opção.
+1. Expanda a opção **[!UICONTROL Trecho de Acesso]**.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Expanda a **[!UICONTROL Aprovar trecho]** e verifique a **[!UICONTROL Sem rascunho]** caixa. Clique em **[!UICONTROL Salvar]**.
+1. Expanda a permissão **[!UICONTROL Aprovar trecho]** e marque a caixa **[!UICONTROL Sem rascunho]**. Depois clique em **[!UICONTROL Salvar]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Para desativar a opção Sem rascunho, siga as etapas de 1 a 4 acima, desmarque a caixa de seleção Sem rascunho e clique em **[!UICONTROL Salvar]**.
+>Para desabilitar a opção Sem rascunho, siga as etapas de 1 a 4 acima, desmarque a caixa de seleção Sem rascunho e clique em **[!UICONTROL Salvar]**.
 
 >[!MORELIKETHIS]
 >

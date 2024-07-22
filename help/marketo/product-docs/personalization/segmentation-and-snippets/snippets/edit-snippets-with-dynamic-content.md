@@ -22,11 +22,11 @@ Use a Segmentação em trechos para gerenciar facilmente o conteúdo dinâmico e
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Clique no seu **Trecho** e depois **Editar rascunho**.
+1. Clique no seu **trecho** e depois em **Editar rascunho**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
@@ -34,13 +34,13 @@ Use a Segmentação em trechos para gerenciar facilmente o conteúdo dinâmico e
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Enter **Segmentação** e clique em **Salvar**.
+1. Insira **Segmentação** e clique em **Salvar**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## Aplicar conteúdo dinâmico {#apply-dynamic-content}
 
-1. Clique em um **Segmento** e, em seguida, edite o conteúdo. Repetir para cada segmento
+1. Clique em um **Segmento** e edite o conteúdo. Repetir para cada segmento
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 
@@ -53,4 +53,4 @@ Não foi simples? Agora você está pronto para usar esses trechos em Emails e L
 >[!MORELIKETHIS]
 >
 >* [Adicionar um trecho a um email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
->* [Adicionar um snippet a uma landing page](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
+>* [Adicionar um trecho a uma página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)

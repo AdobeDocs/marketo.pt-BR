@@ -19,23 +19,23 @@ O Revenue Cycle Analytics pode criar relatórios sobre campos personalizados do 
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **Admin** seção.
+1. Vá para a seção **Admin**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Selecionar **Análise do ciclo de receita**.
+1. Selecione **Análise do ciclo de receita**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Clique no link **Sincronização de campo personalizado** e escolha a área de análise de sua escolha.
+1. Clique na guia **Sincronização de campo personalizado** e escolha a área de análise de sua escolha.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Selecione o campo para o qual deseja habilitar a sincronização e clique em **Editar Opção de Sincronização**.
+1. Selecione o campo para o qual você deseja habilitar a sincronização e clique em **Editar Opção de Sincronização**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Altere o **Status da sincronização** para **Ativado**.
+1. Altere o **Status de sincronização** para **Habilitado**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 

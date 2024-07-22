@@ -5,14 +5,14 @@ exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 1%
+source-wordcount: '268'
+ht-degree: 0%
 
 ---
 
 # Etapa 1 de 3: Instalar a solução da Marketo com conexão de servidor a servidor {#step-1-of-3-install-the-marketo-solution-s2s}
 
-Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instalar a solução Marketo no Dynamics. **Permissões de administrador do Dynamics são necessárias**.
+Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instalar a solução Marketo no Dynamics. **Permissões de Administrador do Dynamics são necessárias**.
 
 >[!CAUTION]
 >
@@ -24,17 +24,17 @@ Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instal
 
 >[!PREREQUISITES]
 >
->[Baixe a solução de gerenciamento líder da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[Baixar a Solução Marketo de Gerenciamento de Clientes Potenciais](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
 
-1. Efetue logon no [Microsoft Office 365](https://login.microsoftonline.com/){target="_blank"}.
+1. Faça logon no [Microsoft Office 365](https://login.microsoftonline.com/){target="_blank"}.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. Clique em ![](assets/image2015-3-16-16-3a1-3a13.png) e selecione **[!UICONTROL CRM]**.
+1. Clique no menu ![](assets/image2015-3-16-16-3a1-3a13.png) e selecione **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Clique em ![](assets/image2015-5-13-10-3a5-3a8.png) menu. No menu suspenso, selecione **[!UICONTROL Configurações]** e selecione **[!UICONTROL Soluções]**.
+1. Clique no menu ![](assets/image2015-5-13-10-3a5-3a8.png). No menu suspenso, selecione **[!UICONTROL Configurações]** e selecione **[!UICONTROL Soluções]**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
@@ -42,11 +42,11 @@ Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instal
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Clique em **[!UICONTROL Escolher arquivo]**. Selecione a solução de gerenciamento líder da Marketo que você [baixado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Clique em **[!UICONTROL Próximo]**.
+1. Clique em **[!UICONTROL Escolher arquivo]**. Selecione a solução de gerenciamento de clientes potenciais da Marketo que você [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. Exiba as Informações da Solução e clique em **[!UICONTROL Exibir detalhes do pacote de soluções]**.
+1. Exiba as Informações da Solução e clique em **[!UICONTROL Exibir detalhes do pacote da solução]**.
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
@@ -54,7 +54,7 @@ Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instal
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Agora, na página Informações da solução, clique em **[!UICONTROL Próxima]**.
+1. Agora, de volta à página Informações da solução, clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
@@ -82,7 +82,7 @@ Antes de sincronizar o Microsoft Dynamics 365 e o Marketo, é necessário instal
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Selecionar **[!UICONTROL Gerenciamento de clientes em potencial da Marketo]** e clique em **[!UICONTROL Publicar todas as personalizações]**.
+1. Selecione **[!UICONTROL Marketo Lead Management]** e clique em **[!UICONTROL Todas as Personalizações do Publish]**.
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

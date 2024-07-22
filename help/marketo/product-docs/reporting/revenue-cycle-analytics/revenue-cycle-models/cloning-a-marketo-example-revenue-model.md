@@ -15,11 +15,11 @@ ht-degree: 0%
 
 A Marketo tem exemplos de modeladores de receita para ajudar a inspirar você. Clonar esses modeladores e torná-los seus próprios. Veja como:
 
-1. Vá para a **Analytics** área.
+1. Vá para a área **Analytics**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Selecionar **Modelador de ciclo de receita** e clique em **Exemplos do Marketo**.
+1. Selecione a pasta **Revenue Cycle Modeler** e clique em **Marketo Examples**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,7 +27,7 @@ A Marketo tem exemplos de modeladores de receita para ajudar a inspirar você. C
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Em Ações do Modelo, selecione **Clonar modelo**.
+1. Em Ações do Modelo, selecione **Clonar Modelo**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 

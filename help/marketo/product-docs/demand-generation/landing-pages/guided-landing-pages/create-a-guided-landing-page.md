@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Os modos de landing page são definidos pelo template. [Saiba mais](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) sobre modelos de página de aterrissagem guiados e de formato livre.
+>Os modos de landing page são definidos pelo template. [Saiba mais](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) sobre modelos de página de aterrissagem guiados e de forma livre.
 
 >[!PREREQUISITES]
 >
->Para usar um modelo personalizado, primeiro você deve [criar um modelo de página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+>Para usar um modelo personalizado, primeiro [crie um modelo de página de aterrissagem guiado](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 ## Criar uma página de aterrissagem guiada em um programa {#create-a-guided-landing-page-in-a-program}
 
 As páginas de aterrissagem guiadas podem ser criadas como ativos locais de um programa ou no Design Studio para serem usadas globalmente.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/one-1.png)
 
@@ -33,33 +33,33 @@ As páginas de aterrissagem guiadas podem ser criadas como ativos locais de um p
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Clique em **Novo** menu suspenso. Selecionar **Novo ativo local**.
+1. Clique no menu suspenso **Novo**. Selecione **Novo ativo local**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Selecionar **Landing Page**.
+1. Selecione **Página Inicial**.
 
    ![](assets/four.png)
 
-1. Nomeie sua página de aterrissagem. Clique em **Modelo** e selecione **Modelo guiado**.
+1. Nomeie sua página de aterrissagem. Clique no menu suspenso **Modelo** e selecione **Modelo Guiado**.
 
    >[!NOTE]
    >
-   >Os modelos de página de aterrissagem guiados têm a ![—](assets/image2015-5-26-9-3a26-3a51.png) ícone ao lado deles. Os modelos guiados são estruturados para que possam permanecer totalmente responsivos.
+   >Os modelos de página de aterrissagem guiados têm o ícone ![—](assets/image2015-5-26-9-3a26-3a51.png) ao lado deles. Os modelos guiados são estruturados para que possam permanecer totalmente responsivos.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
 ## Criar uma página de aterrissagem no Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Ir para **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/six.png)
 
-1. Clique em **Novo** menu suspenso. Selecionar **Nova página de aterrissagem**.
+1. Clique no menu suspenso **Novo**. Selecione **Nova Página De Aterrissagem**.
 
    ![](assets/seven.png)
 
-1. Nomeie sua página de aterrissagem. Clique em **Modelo** e selecione **Modelo guiado**.
+1. Nomeie sua página de aterrissagem. Clique no menu suspenso **Modelo** e selecione **Modelo Guiado**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
@@ -69,6 +69,6 @@ As páginas de aterrissagem guiadas podem ser criadas como ativos locais de um p
 
 >[!TIP]
 >
->O URL é construído automaticamente a partir dos nomes do programa e da landing page. Para alterar o URL, edite o **URL da página** campo.
+>O URL é construído automaticamente a partir dos nomes do programa e da landing page. Para alterar a URL, edite o campo **URL da página**.
 >
->Limpe a **Abrir no editor** se não quiser que o editor seja aberto imediatamente depois de clicar em **Criar**.
+>Desmarque a caixa de seleção **Abrir no editor** se não quiser que o editor seja aberto imediatamente após clicar em **Criar**.

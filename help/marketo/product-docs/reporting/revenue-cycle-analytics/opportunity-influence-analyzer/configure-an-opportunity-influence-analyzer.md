@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Configurar um analisador de influência de oportunidade {#configure-an-opportunity-influence-analyzer}
 
-Uma vez que [criar um Analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md), é possível configurar os tipos de [momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) que estão incluídos.
+Depois de [criar um Analisador de Influência de Oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md), você poderá configurar os tipos de [momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) incluídos.
 
 >[!PREREQUISITES]
 >
->[Criar um analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[Criar um Analisador de Influência de Oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. Clique em **Analytics**.
 
@@ -27,7 +27,7 @@ Uma vez que [criar um Analisador de influência de oportunidade](/help/marketo/p
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Se houver muitos momentos interessantes no gráfico do analisador, você poderá reduzi-los desmarcando as pessoas na variável **Configurações** ou ao reduzir os tipos de momentos interessantes.
+   Se houver muitos momentos interessantes no gráfico do analisador, você poderá reduzi-los ao desmarcar pessoas no painel **Configurações** ou ao reduzir os tipos de momentos interessantes.
 
 1. Para configurar quais tipos de momentos interessantes incluir, vá para a guia Configuração e arraste no filtro Momentos interessantes.
 
@@ -41,7 +41,7 @@ Uma vez que [criar um Analisador de influência de oportunidade](/help/marketo/p
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Clique em cada tipo de momento interessante desejado. Clique em **Salvar**.
+1. Clique em cada tipo de momento interessante desejado. Depois clique em **Salvar**.
 
 1. Clique na guia principal para ver o histórico da oportunidade apenas com os tipos selecionados de momentos interessantes.
 
@@ -49,4 +49,4 @@ Uma vez que [criar um Analisador de influência de oportunidade](/help/marketo/p
 
 >[!MORELIKETHIS]
 >
->[Conte a história de marketing com um analisador de influência da oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[Conte a história de marketing com um analisador de influência de oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

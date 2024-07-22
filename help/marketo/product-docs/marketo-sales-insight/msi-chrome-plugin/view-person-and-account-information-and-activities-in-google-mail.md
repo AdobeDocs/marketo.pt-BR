@@ -49,4 +49,4 @@ Clique no ícone do Marketo para abrir o painel.
 
 >[!MORELIKETHIS]
 >
->[Uso do Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Usando o Marketo Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

@@ -5,7 +5,7 @@ exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '407'
 ht-degree: 7%
 
 ---
@@ -77,13 +77,13 @@ A permissão para os objetos mencionados abaixo, classes apex e páginas de for�
 
 1. Faça logon em sua conta do Salesforce.
 
-1. Clique em **Configuração**.
+1. Clique em **Instalação**.
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Em Administrador, clique em **Gerenciar usuários**, depois **Perfis**.
+1. Em Administrador, clique em **Gerenciar usuários** e depois em **Perfis**.
 
-1. Clique no perfil que deseja atualizar e **Editar**.
+1. Clique no perfil que você deseja atualizar e **Editar**.
 
 1. Role para baixo até &quot;Configurações personalizadas da guia&quot; em Configurações da guia.
 
@@ -113,7 +113,7 @@ A permissão para os objetos mencionados abaixo, classes apex e páginas de for�
 
 1. Na seção &quot;Classes apex ativadas&quot;, selecione todas as classes que comecem com &quot;mkto_si&quot;. Isso deve somar até 159 classes.
 
-1. Clique em **Remover**, depois **Salvar**.
+1. Clique em **Remover** e depois em **Salvar**.
 
    ![](assets/remove-sales-insight-access-4.png)
 
@@ -121,7 +121,7 @@ A permissão para os objetos mencionados abaixo, classes apex e páginas de for�
 
 1. Na seção &quot;Páginas habilitadas do Visualforce&quot;, selecione todas as páginas que comecem com &quot;mkto_si&quot;. Isso deve somar até 64 páginas.
 
-1. Clique em **Remover**, depois **Salvar**.
+1. Clique em **Remover** e depois em **Salvar**.
 
    ![](assets/remove-sales-insight-access-5.png)
 
@@ -129,7 +129,7 @@ A permissão para os objetos mencionados abaixo, classes apex e páginas de for�
 
 1. Selecione &quot;Configurações do Marketo Sales Insight.mkto_si.Marketo&quot; e &quot;Preferências do Marketo Sales Insight.mkto_si.User&quot;.
 
-1. Clique em **Remover**, depois **Salvar**.
+1. Clique em **Remover** e depois em **Salvar**.
 
    ![](assets/remove-sales-insight-access-6.png)
 

@@ -6,7 +6,7 @@ exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Configurar](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) a Chave corporativa.
+>[Configurar](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) a Chave da Empresa.
 
 Execute a seguinte linha de comando como &#39;System&#39; ou uma conta de usuário Administrativo com a opção /i para instalar.
 
@@ -53,7 +53,7 @@ Para especificar um local dos arquivos de log, especifique o caminho do arquivo 
 >
 >O local de armazenamento do arquivo de log deve existir ou a instalação será anulada.
 
-Consulte [Lista completa de switches da Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) se quiser tentar diferentes níveis de log ou de interface do usuário.
+Consulte [a lista completa de opções da Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) se desejar experimentar níveis de log ou níveis de interface de usuário diferentes.
 
 >[!MORELIKETHIS]
 >

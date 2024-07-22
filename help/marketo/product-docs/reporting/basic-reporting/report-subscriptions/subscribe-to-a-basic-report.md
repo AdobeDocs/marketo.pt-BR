@@ -17,19 +17,19 @@ Para receber atualizações automáticas de um relatório básico ou compartilh�
 
 >[!NOTE]
 >
->Para assinaturas de relatório do Revenue Cycle Explorer, consulte [Assinar um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Para assinaturas de relatório do Revenue Cycle Explorer, consulte [Assinar um Relatório do Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Selecione seu relatório na árvore de navegação e clique no link **Assinaturas** guia.
+1. Selecione seu relatório na árvore de navegação e clique na guia **Assinaturas**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Também é possível assinar relatórios do **Analytics** guia.
+   >Você também pode assinar relatórios na guia **Analytics**.
 
 1. Clique em **Nova Assinatura de Relatório**.
 
@@ -49,4 +49,4 @@ Para receber atualizações automáticas de um relatório básico ou compartilh�
 
    >[!MORELIKETHIS]
    >
-   >Saiba como [gerenciar todas as assinaturas de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um só lugar.
+   >Saiba como [gerenciar todas as suas assinaturas de relatórios](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) em um único local.

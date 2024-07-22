@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -30,15 +30,15 @@ Essas credenciais são usadas para conectar sua conta do Salesforce à sua inst�
 ## Configurações de pontuação de pessoa {#person-score-settings}
 
 * **Estrelas**: as estrelas representam a pontuação total do lead em comparação a outros leads.
-* **Chamas**: As chamas representam a urgência - o quanto a pontuação de um lead mudou recentemente.
+* **Chamas**: as chamas representam a urgência - quanto a pontuação de um lead foi alterada recentemente.
 
 Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 
-1. No **Admin** da Marketo, clique em **Sales Insight**.
+1. Na área **Administrador** do Marketo, clique em **Sales Insight**.
 
    ![](assets/four.png)
 
-1. Em Configurações de pontuação de lead, clique em **Editar**.
+1. Em Configurações de Pontuação de Cliente Potencial, clique em **Editar**.
 
    ![](assets/five.png)
 
@@ -56,7 +56,7 @@ Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcul
 
    >[!TIP]
    >
-   >Se você ainda não tiver seus campos de pontuação personalizados, veja como [criar](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Se você ainda não tiver seus campos de pontuação personalizados, veja como [criá-los](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -66,7 +66,7 @@ Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcul
 
 ![](assets/nine.png)
 
-**Configurações de cancelamento de inscrição:**
+**Configurações de Cancelamento de Inscrição:**
 
 Você pode escolher entre as seguintes configurações de cancelamento de inscrição para emails sem modelo, padrão e operacionais
 
@@ -75,17 +75,17 @@ Você pode escolher entre as seguintes configurações de cancelamento de inscri
 * Respeitar as configurações de cancelamento de inscrição quando houver mais de 5 destinatários
 * Ignorar configurações de cancelamento de inscrição
 
-**Ativar possibilidade de bloquear modelos:**
+**Habilitar a capacidade de bloquear modelos:**
 
 Quando ativados, os usuários MSI não poderão editar modelos ao enviar emails do Salesforce
 
-**Ativar feed RSS:**
+**Habilitar RSS Feed:**
 
 Quando ativado, os usuários do MSI podem visualizar seu feed de lead em um feed RSS (além do feed de lead no Salesforce). O RSS feed só poderá funcionar se o recurso &quot;Expiração do token&quot; estiver desativado.
 
 **Expiração do token:**
 
-A expiração do token é controlada no Gerenciador de recursos. Para ativá-la/desativá-la, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Quando ativado, todos os tokens do Marketo expiram em 10 minutos. Quando desativados, os tokens do Marketo não expiram.
+A expiração do token é controlada no Gerenciador de recursos. Para habilitá-lo/desabilitá-lo, entre em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Quando ativado, todos os tokens do Marketo expiram em 10 minutos. Quando desativados, os tokens do Marketo não expiram.
 
 Os tokens gerados antes da ativação da Expiração do token não terão um tempo de expiração para validação, portanto, não expirarão mesmo se o recurso estiver ativado no momento.
 

@@ -17,7 +17,7 @@ Ao criar uma oferta de indicação ou um sorteio, você pode enviar um código p
 
 ## Fazer upload de códigos promocionais {#upload-promo-codes}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -25,11 +25,11 @@ Ao criar uma oferta de indicação ou um sorteio, você pode enviar um código p
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. No editor de oferta de referência, acesse **Configurações do aplicativo** e depois **Detalhes da oferta**.
+1. No editor de oferta de referência, vá para **Configurações do Aplicativo** e depois para **Detalhes da Oferta**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Em Emails, selecione **Usar códigos promocionais** e em Fazer upload de códigos, clique em **Procurar** para selecionar o arquivo de códigos promocionais do sistema.
+1. Em Emails, selecione **Usar Códigos Promocionais** e em Carregar Códigos, clique em **Procurar** para selecionar o arquivo de códigos promocionais do sistema.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -51,16 +51,16 @@ Depois que os participantes começarem a receber sua recompensa de oferta, você
 
 >[!NOTE]
 >
->Somente usuários do Marketo com _Acessar prêmios_ permissão têm acesso a essas informações. Consulte  [Gerenciamento de funções e permissões de usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Somente usuários do Marketo com _permissão para acessar prêmios_ têm acesso a essas informações. Consulte [Gerenciando Funções e Permissões de Usuário](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione a oferta ou sorteios de referência e clique no link **Participantes** guia.
+1. Selecione sua oferta de indicação ou sorteio e clique na guia **Participantes**.
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Aqui você deve ver algumas entradas. Clique no número no campo **Códigos promocionais** coluna para ver os códigos promocionais enviados a esse participante e quando.
+1. Aqui você deve ver algumas entradas. Clique no número na coluna **Códigos promocionais** para ver os códigos promocionais enviados para esse participante e quando.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

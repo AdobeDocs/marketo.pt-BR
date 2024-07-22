@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -47,7 +47,7 @@ O gráfico de barras exibe o desempenho do programa em todos os canais (dez prog
 
 >[!TIP]
 >
->Se desejar que as barras no gráfico sejam dimensionadas à medida que você rolar pelos grupos, selecione a **Dimensionar eixo Y para ajustar** caixa de seleção
+>Se desejar que as barras no gráfico sejam dimensionadas à medida que você rolar pelos grupos, marque a caixa de seleção **Dimensionar eixo Y para ajustar**.
 
 Passe o mouse sobre uma barra para ver mais detalhes.
 
@@ -61,12 +61,12 @@ A grade de dados abaixo funciona como uma planilha, mostrando todas as métricas
 
 ![](assets/9.png)
 
-| **Oportunidades conquistadas** | A parte do crédito (em valor numérico) que o programa recebeu por influenciar a oportunidade conquistada |
+| **Oportunidades Ganhadas** | A parte do crédito (em valor numérico) que o programa recebeu por influenciar a oportunidade conquistada |
 |---|---|
-| **Receita conquistada** | A parte do crédito (em valor monetário) que o programa recebeu por influenciar a oportunidade conquistada |
+| **Receita Ganha** | A parte do crédito (em valor monetário) que o programa recebeu por influenciar a oportunidade conquistada |
 | **Custo** | Custo total do programa |
 | **Custo por oportunidade conquistada** | A proporção do custo do programa e a parte do crédito (em valor numérico) que o programa recebeu por influenciar a criação de novas oportunidades |
-| **Receita Ganha para Taxa de Custo** | A proporção da parte do crédito (em valor monetário) que o programa recebeu por influenciar as oportunidades conquistadas e o custo do programa |
+| **Taxa De Receitas Ganhas Por Custo** | A proporção da parte do crédito (em valor monetário) que o programa recebeu por influenciar as oportunidades conquistadas e o custo do programa |
 
 Expanda um canal para ver seus dez principais programas, com os programas restantes combinados.
 

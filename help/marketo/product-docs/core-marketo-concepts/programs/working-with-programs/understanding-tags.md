@@ -47,7 +47,7 @@ Cada tipo de tag terá valores para sua escolha.
 
 ## Canal {#channel}
 
-Os canais são usados para informar como as [membros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} movido pelo seu programa. Cada canal tem um conjunto de status de progressão e um status definido para sucesso igual.
+Canais são usados para informar como os seus [membros](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} se movimentaram pelo seu programa. Cada canal tem um conjunto de status de progressão e um status definido para sucesso igual.
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ Os canais são usados para informar como as [membros](/help/marketo/product-docs
 
 >[!MORELIKETHIS]
 >
->* [Criar tags personalizadas](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [Criar Marcas Personalizadas](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
 >* [Criar um canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

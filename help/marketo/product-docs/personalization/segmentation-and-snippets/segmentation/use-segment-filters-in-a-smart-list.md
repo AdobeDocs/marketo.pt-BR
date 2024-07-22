@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Otimize o desempenho de suas Smart Lists usando filtros de segmento.
 
-1. Na lista inteligente criada, procure pela palavra **Segmento**, arraste e solte o filtro.
+1. Na lista inteligente que você criou, pesquise a palavra **Segmento**, arraste e solte o filtro.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 

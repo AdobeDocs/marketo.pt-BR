@@ -5,7 +5,7 @@ exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
 source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
 
-1. Clique em **[!UICONTROL Admin]** na parte superior da página. Outra nova guia deve ser aberta.
+1. Clique em **[!UICONTROL Administrador]** na parte superior da página. Outra nova guia deve ser aberta.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
 
@@ -70,11 +70,11 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 >[!NOTE]
 >
->Isso se aplica à versão 4.0.0.14 e posterior do Marketo. Para versões anteriores, todos os usuários devem ter a função de usuário sincronizar. Para atualizar o Marketo, consulte [Atualizar a solução Marketo para Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Isso se aplica à versão 4.0.0.14 e posterior do Marketo. Para versões anteriores, todos os usuários devem ter a função de usuário sincronizar. Para atualizar sua Marketo, consulte [Atualizar a Solução da Marketo para o Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->A configuração de idioma do Usuário de sincronização [deve ser definido como inglês](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>A configuração de idioma do Usuário de Sincronização [ deve ser definida como Inglês](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
 
 1. Em **[!UICONTROL Configurações]**, clique em **[!UICONTROL Segurança]**.
 
@@ -84,7 +84,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
    ![](assets/assign2.png)
 
-1. Você verá uma lista de usuários aqui. Selecione o usuário Marketo Sync dedicado ou entre em contato com [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (ADFS) para criar um usuário dedicado para o Marketo.
+1. Você verá uma lista de usuários aqui. Selecione o usuário dedicado do Marketo Sync ou contate o administrador do [Ative Diretory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (ADFS) para criar um usuário dedicado para o Marketo.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -92,17 +92,17 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
    ![](assets/assign4.png)
 
-1. Marque Marketo Sync User e clique em **[!UICONTROL OK]**.
+1. Verifique o usuário de sincronização do Marketo e clique em **[!UICONTROL OK]**.
 
    ![](assets/assign5.png)
 
    >[!TIP]
    >
-   >Se você não vir a função, volte para [etapa 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) e importe a solução.
+   >Se você não vir a função, volte para a [etapa 1 de 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) e importe a solução.
 
    >[!NOTE]
    >
-   >Quaisquer atualizações feitas em seu CRM pelo Usuário do Sync _não_ ser sincronizado com o Marketo.
+   >Quaisquer atualizações feitas em seu CRM pelo Usuário da Sincronização _não_ serão sincronizadas com o Marketo novamente.
 
 ## Configurar a solução da Marketo {#configure-marketo-solution}
 
@@ -114,13 +114,13 @@ Quase pronto! Temos apenas algumas últimas configurações antes de passar para
 
    >[!NOTE]
    >
-   >Se a Configuração do Marketo estiver ausente, tente atualizar a página. Se o problema persistir, [publicar a solução da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"} ou tente fazer logout e login novamente.
+   >Se a Configuração do Marketo estiver ausente, tente atualizar a página. Se o problema persistir, [publique a Solução da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"} ou tente fazer logoff e logon novamente.
 
 1. Clique em **[!UICONTROL Padrão]**.
 
    ![](assets/configure2.png)
 
-1. Clique em **[!UICONTROL Usuário do Marketo]** e selecione o usuário de sincronização.
+1. Clique no campo **[!UICONTROL Usuário do Marketo]** e selecione o usuário de sincronização.
 
    ![](assets/configure3.png)
 
@@ -128,14 +128,14 @@ Quase pronto! Temos apenas algumas últimas configurações antes de passar para
 
    ![](assets/configure4.png)
 
-1. Clique em **[!UICONTROL Publicar todas as personalizações]**.
+1. Clique em **[!UICONTROL Todas as personalizações do Publish]**.
 
    ![](assets/publish-all-customizations1.png)
 
 ## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
 
-* Se quiser restringir o número de registros sincronizados, [configurar um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} agora.
-* Execute o [Validar a sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} processo. Ele verifica se as configurações iniciais foram feitas corretamente.
+* Se quiser restringir o número de registros sincronizados, [configure um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} agora.
+* Execute o processo [Validar sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}. Ele verifica se as configurações iniciais foram feitas corretamente.
 * Faça logon no Usuário do Marketo Sync no Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]

@@ -19,15 +19,15 @@ Precisa alterar o endereço de email, o nome ou o número de telefone da conta? 
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-account-settings-1.png)
 
-1. Selecionar **[!UICONTROL Minha conta]**.
+1. Selecione **[!UICONTROL Minha conta]**.
 
    ![](assets/edit-account-settings-2.png)
 
-1. Selecionar **[!UICONTROL Editar configurações da conta]**.
+1. Selecione **[!UICONTROL Editar configurações da conta]**.
 
    ![](assets/edit-account-settings-3.png)
 

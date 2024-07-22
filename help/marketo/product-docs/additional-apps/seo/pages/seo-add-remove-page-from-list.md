@@ -17,11 +17,11 @@ Deseja gerenciar suas páginas? Você pode fazer isso facilmente criando uma lis
 
 ## Adicionar página a uma lista {#add-page-to-a-list}
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passe o mouse sobre a página que deseja adicionar a uma lista. Clique em **[!UICONTROL Adicionar/Remover da Lista]**.
+1. Passe o mouse sobre a página que deseja adicionar a uma lista. Clique Em **[!UICONTROL Adicionar/Remover Da Lista]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -41,15 +41,15 @@ Sim! Agora, você deve ver sua página adicionada à lista.
 
 ## Remover página de uma lista {#remove-page-from-a-list}
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. No **[!UICONTROL Páginas]** clique na lista que deseja limpar.
+1. Na guia **[!UICONTROL Páginas]**, clique na lista que deseja limpar.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passe o mouse sobre a página que deseja remover. Clique em **[!UICONTROL Adicionar/Remover da Lista]**.
+1. Passe o mouse sobre a página que deseja remover. Clique Em **[!UICONTROL Adicionar/Remover Da Lista]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,4 +61,4 @@ Sim! Agora, você deve ver sua página adicionada à lista.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-Feito. Sua página é removida da lista.
+Concluído. Sua página é removida da lista.

@@ -6,7 +6,7 @@ exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '1000'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de cadeia de caracteres {#create-custom-field-group-string-editor}
 
-1. Clique em **Banco de dados de clientes potenciais**.
+1. Clique em **Banco de Dados de Cliente Potencial**.
 
    ![](assets/one.png)
 
@@ -44,7 +44,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/two.png)
 
-1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeias de caracteres (consulte tabela na seção anterior). O país é usado aqui.
+1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). O país é usado aqui.
 
    ![](assets/three.png)
 
@@ -60,7 +60,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/five.png)
 
-1. Por padrão, todos os valores de dados são colocados no subgrupo &quot;Outros&quot;. Para categorizar os valores de dados, clique em **Adicionar grupo** para criar um subgrupo e dar um nome a ele.
+1. Por padrão, todos os valores de dados são colocados no subgrupo &quot;Outros&quot;. Para categorizar os valores de dados, clique em **Adicionar Grupo** para criar um subgrupo e nomeá-lo.
 
    >[!NOTE]
    >
@@ -92,7 +92,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de número inteiro {#create-custom-field-group-integer-editor}
 
-1. Clique em **Banco de dados de clientes potenciais**.
+1. Clique em **Banco de Dados de Cliente Potencial**.
 
    ![](assets/one.png)
 
@@ -100,7 +100,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/two.png)
 
-1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeias de caracteres (consulte tabela na seção anterior). A receita anual é usada aqui.
+1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). A receita anual é usada aqui.
 
    ![](assets/nine.png)
 
@@ -116,13 +116,13 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/eleven.png)
 
-   O editor de número inteiro permite criar vários subgrupos para definir cada subgrupo por tamanho. Neste exemplo, três grupos serão criados para pequenas, médias e empresas.
+   O editor de número inteiro permite criar vários subgrupos para definir cada subgrupo por tamanho. Neste exemplo, três grupos serão criados para pequenas empresas, Medium e empresas.
 
-1. Para adicionar o primeiro grupo, digite um nome no campo **Nome do grupo** (exemplo: Pequeno) e insira um valor máximo no campo **Intervalo do grupo** (exemplo: 200000). Clique em **Adicionar grupo**.
+1. Para adicionar o primeiro grupo, digite um nome no campo **Nome do Grupo** (exemplo: Pequeno) e digite um valor máximo no campo **Intervalo do Grupo** (exemplo: 200000). Clique em **Adicionar Grupo**.
 
    ![](assets/twelve.png)
 
-   Uma entrada de grupo vazia é exibida abaixo do grupo que acabou de ser inserido. O exemplo abaixo mostra uma entrada para pequenas, médias e empresas.
+   Uma entrada de grupo vazia é exibida abaixo do grupo que acabou de ser inserido. O exemplo abaixo mostra uma entrada para pequenas empresas, Medium e empresas.
 
    >[!NOTE]
    >
@@ -146,7 +146,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de datas {#create-custom-field-group-date-editor}
 
-1. Clique em **Banco de dados de clientes potenciais**.
+1. Clique em **Banco de Dados de Cliente Potencial**.
 
    ![](assets/one.png)
 
@@ -154,7 +154,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/two.png)
 
-1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeias de caracteres (consulte tabela na seção anterior). A data de aquisição é usada aqui.
+1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). A data de aquisição é usada aqui.
 
    ![](assets/fourteen.png)
 
@@ -172,7 +172,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    O editor de datas permite criar vários subgrupos e definir cada subgrupo por data. Neste exemplo, três grupos serão criados: Q1-15 Leads, Q2-15 Leads e Q3-15 Leads.
 
-1. Para adicionar o primeiro grupo, digite um nome no campo **Nome do grupo** (exemplo: Q1-15 Leads) e insira uma data no campo de data que representa a data em que o lead foi adquirido ou antes (exemplo: 31/3/2015 para o último dia de Q1-15). Clique em **Adicionar grupo**.
+1. Para adicionar seu primeiro grupo, insira um nome no campo **Nome do Grupo** (exemplo: Q1-15 Leads) e insira uma data no campo de data que representa a data em que o lead foi adquirido ou anterior (exemplo: 31/3/2015 para o último dia de Q1-15). Clique em **Adicionar Grupo**.
 
    ![](assets/sixteen.png)
 

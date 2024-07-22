@@ -21,7 +21,7 @@ Os resultados mostram todas as suas contas conhecidas detalhadas por nível. A �
 
 ![](assets/results.png)
 
-Embora seja opcional, recomendamos marcar a caixa de seleção Promover automaticamente, pois economizará muito tempo. No entanto, se você quiser analisar cada conta e [adicioná-los manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), basta deixar a caixa desmarcada.
+Embora seja opcional, recomendamos marcar a caixa de seleção Promover automaticamente, pois economizará muito tempo. No entanto, se você quiser passar por cada conta e [adicioná-las manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), basta deixar a caixa desmarcada.
 
 <table> 
  <tbody> 
@@ -158,13 +158,13 @@ Clique na lista suspensa Adicionar indicador ICP para inserir indicadores adicio
 
 ![](assets/add-icp.png)
 
-Marcar a caixa Exportar permite que você veja o indicador ICP na página Detalhes da conta nomeada, bem como usar o indicador ICP selecionado como restrições no [filtros de conta nomeados](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+Marcar a caixa Exportar permite que você veja o indicador ICP na página de detalhes da Conta Nomeada, bem como usar o indicador ICP selecionado como restrições em [filtros de conta nomeados](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Os indicadores ICP são incluídos como restrições em **Membro da Conta Nomeada** Filtros e acionadores.
+>Os indicadores ICP estão incluídos como restrições em **Membro da Conta Nomeada** Filtros e Acionadores.
 
 Indicador Peso é o que controla o nível de importância que cada indicador recebe em seu modelo.
 
@@ -174,6 +174,6 @@ Clique em Refresh Model para que as alterações entrem em vigor.
 
 ![](assets/refresh-button.png)
 
-Quando terminar de ajustar o modelo (depois de atualizá-lo), volte para a guia Resultados do Modelo e clique em **Salvar e aplicar classificações**.
+Quando terminar de ajustar o modelo (depois de atualizá-lo), volte para a guia Resultados do Modelo e clique em **Salvar e Aplicar Classificações**.
 
 ![](assets/ranks.png)

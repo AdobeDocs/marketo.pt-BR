@@ -5,7 +5,7 @@ exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ O Salesforce usa o protocolo OAuth para permitir que os usuários de aplicativos
 
    ![](assets/setting-up-oauth-2-2.png)
 
-1. Clique em **[!UICONTROL Ativar configurações do OAuth]** caixa de seleção Para o URL de retorno, insira `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Selecione todos os Escopos OAuth disponíveis e clique em **[!UICONTROL Adicionar]**.
+1. Clique na caixa de seleção **[!UICONTROL Habilitar configurações do OAuth]**. Para a URL de Retorno, digite `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect`. Selecione todos os Escopos OAuth disponíveis e clique em **[!UICONTROL Adicionar]**.
 
    ![](assets/setting-up-oauth-2-3.png)
 
@@ -46,7 +46,7 @@ O Salesforce usa o protocolo OAuth para permitir que os usuários de aplicativos
 
 >[!CAUTION]
 >
->Ainda na página Novo aplicativo conectado, role para baixo e verifique se a caixa de seleção &quot;Exigir chave de prova para troca de código (PKCE)&quot; está _NOT_ marcado, pois interferiria na configuração.
+>Enquanto ainda estiver na página Novo aplicativo conectado, role para baixo e verifique se a caixa de seleção &quot;Exigir chave de prova para troca de código (PKCE)&quot; está _NÃO_ marcada, pois isso interferiria na configuração.
 
 ## Configurar o Marketo {#set-up-marketo}
 
@@ -62,21 +62,21 @@ O Salesforce usa o protocolo OAuth para permitir que os usuários de aplicativos
 >
 Oculte todos os campos desnecessários no Marketo do usuário de sincronização antes de clicar em **[!UICONTROL Sincronizar campos]**. Depois de clicar em Sincronizar campos, todos os campos que o usuário puder ver no SFDC serão criados no Marketo permanentemente e não poderão ser excluídos.
 
-1. Na seção Admin do Marketo, clique em **[!UICONTROL CRM]**, depois **[!UICONTROL Sincronizar com o Salesforce]**.
+1. Na seção Admin do Marketo, clique em **[!UICONTROL CRM]** e em **[!UICONTROL Sincronizar com o Salesforce]**.
 
    ![](assets/setting-up-oauth-2-7.png)
 
-1. Adicione as informações da Chave do consumidor e do Segredo do consumidor que você gravou anteriormente e clique em e **[!UICONTROL Salvar]**.
+1. Adicione as informações da Chave do consumidor e do Segredo do consumidor gravadas anteriormente e clique em e **[!UICONTROL Salvar]**.
 
    ![](assets/setting-up-oauth-2-8.png)
 
-1. Na página de sincronização do Marketo Salesforce, clique no link **[!UICONTROL Fazer logon com o Salesforce]** botão.
+1. Na página de sincronização do Marketo Salesforce, clique no botão **[!UICONTROL Fazer logon com o Salesforce]**.
 
    ![](assets/setting-up-oauth-2-9.png)
 
    >[!CAUTION]
    >
-   Se você estiver vendo os campos Nome de usuário/Senha/Token e não um botão &quot;Fazer logon com o Salesforce&quot;, sua assinatura do Marketo será habilitada para a Autenticação básica. Consulte [Configurar o Marketo com autenticação básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Depois que a sincronização começar a usar um conjunto de credenciais, não haverá alternância de credenciais ou assinatura do Salesforce. Se quiser usar o Oauth 2.0, entre em contato com a Equipe de conta do Adobe (seu gerente de conta).
+   Se você estiver vendo os campos Nome de usuário/Senha/Token e não um botão &quot;Fazer logon com o Salesforce&quot;, sua assinatura do Marketo será habilitada para a Autenticação básica. Consulte [Configurar o Marketo com Autenticação Básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Depois que a sincronização começar a usar um conjunto de credenciais, não haverá alternância de credenciais ou assinatura do Salesforce. Se quiser usar o Oauth 2.0, entre em contato com a Equipe de conta do Adobe (seu gerente de conta).
 
 1. Um pop-up com a página de logon do salesforce será exibido. Insira suas credenciais de &quot;Usuário da sincronização do Marketo&quot; e faça logon.
 
@@ -90,11 +90,11 @@ Oculte todos os campos desnecessários no Marketo do usuário de sincronização
 
    ![](assets/setting-up-oauth-2-12.png)
 
-1. Em alguns minutos, uma janela pop-up será exibida no Marketo. Clique em **[!UICONTROL Confirmar credenciais]**.
+1. Em alguns minutos, uma janela pop-up será exibida no Marketo. Clique em **[!UICONTROL Confirmar Credenciais]**.
 
    ![](assets/setting-up-oauth-2-13.png)
 
-1. Após a conclusão da Sincronização de campo, clique em **[!UICONTROL Iniciar a sincronização do Salesforce]**.
+1. Após a conclusão da Sincronização de Campo, clique em **[!UICONTROL Iniciar Sincronização do Salesforce]**.
 
    ![](assets/setting-up-oauth-2-14.png)
 
@@ -108,7 +108,7 @@ Sua sincronização entre o Marketo e o Salesforce está em andamento.
 
 >[!MORELIKETHIS]
 >
-* [Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+* [Etapa 1 de 3: adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 * [Etapa 2 de 3: Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
 * [Instalar o pacote Marketo Sales Insight no Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 * [Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}

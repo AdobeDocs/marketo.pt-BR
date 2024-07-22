@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '495'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Se você quiser sincronizar cancelamentos de assinatura com um campo de recusa n
 * O campo Recusar deve estar instalado no Salesforce
 * Os registros de pessoa no Marketo Sales devem ter uma ID do Salesforce
 
-**Cancelamentos de assinatura por push**
+**Cancelamentos de Assinatura por Push**
 
 Quando um cancelamento de inscrição é coletado no Marketo Sales, enviamos para o Salesforce em tempo real e atualizamos qualquer um dos campos de opção de não participação que você selecionou para sincronização. Se você desativou a sincronização do Salesforce, ainda enviaremos o cancelamento de inscrição para a opção de não participação de email.
 
-**Cancelar assinatura da sincronização**
+**Cancelar Assinatura da Sincronização**
 
 Após habilitar a sincronização de cancelamento de inscrição (Etapa 3 abaixo), você ativará a sincronização noturna. A sincronização ocorre uma vez por dia, por volta das 20h PST. Ele sincronizará bidirecionalmente todas as cancelamentos de subscrições no Marketo Sales com o campo Recusa no Salesforce.
 
@@ -40,11 +40,11 @@ Os usuários podem decidir se desejam sincronizar seus cancelamentos de assinatu
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. Em Configurações do administrador, selecione **Cancelamentos de assinatura**.
+1. Em Configurações do administrador, selecione **Cancelar assinatura**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. Clique em **Integrações** guia. Em Sincronizar com o Salesforce, habilite a sincronização noturna.
+1. Clique na guia **Integrações**. Em Sincronizar com o Salesforce, habilite a sincronização noturna.
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -54,20 +54,20 @@ Os usuários podem decidir se desejam sincronizar seus cancelamentos de assinatu
 
    | Campo | Descrição |
    |---|---|
-   | **Sincronizar com o campo de cancelamento de opção do Salesforce** | Selecionado por padrão, atualiza somente o campo Recusa do Salesforce. |
-   | **Sincronizar com o campo de cancelamento do Marketo Sales** | Se quiser separar cancelamentos de assinatura de Vendas e Marketing, escolha esta opção para atualizar os [Campo Recusa de vendas do Marketo.](#msoo) |
+   | **Sincronizar com o campo Recusa do Salesforce** | Selecionado por padrão, atualiza somente o campo Recusa do Salesforce. |
+   | **Sincronizar com o campo Recusa do Marketo Sales** | Se quiser separar cancelamentos de assinatura de Vendas e Marketing, escolha esta opção para atualizar o campo [Recusa/aceitação de vendas do Marketo.](#msoo) |
 
 ## Instalação do campo Recusa no layout da página {#installing-the-opt-out-field-in-the-page-layout}
 
-**Cancelamento de opção de e-mail**
+**Opção de não participação de email**
 
 Recusa de email é um campo padrão no Salesforce que está disponível para instalação no Salesforce. Você precisa ser um administrador do Salesforce para instalá-lo.
 
-1. Ir para [Salesforce.com](https://salesforce.com) e faça logon.
+1. Acesse o [Salesforce.com](https://salesforce.com) e faça logon.
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
-1. Clique no seu nome de usuário e selecione **Configuração**.
+1. Clique no seu nome de usuário e selecione **Instalação**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
@@ -75,15 +75,15 @@ Recusa de email é um campo padrão no Salesforce que está disponível para ins
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 
-1. Selecionar **Layouts de página**.
+1. Selecione **Layouts de Página**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-8.png)
 
-1. Selecionar **Editar** ao lado do layout da página, você deseja adicionar o campo a.
+1. Selecione **Editar** ao lado do layout de página ao qual você deseja adicionar o campo.
 
    ![](assets/syncing-unsubscribes-with-salesforce-9.png)
 
-1. Selecionar **Campos**.
+1. Selecione **Campos**.
 
    ![](assets/syncing-unsubscribes-with-salesforce-10.png)
 
@@ -95,8 +95,8 @@ Recusa de email é um campo padrão no Salesforce que está disponível para ins
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
-## Cancelamento de inscrição no Marketo Sales Engage {#marketo-sales-opt-out}
+## Desativação de Marketo Sales {#marketo-sales-opt-out}
 
-O campo Recusa de vendas do Marketo é um campo personalizado disponível para usuários que instalaram o pacote Marketo Sales Insight [da AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+O campo Recusa de vendas do Marketo é um campo personalizado disponível para usuários que instalaram o pacote do Marketo Sales Insight [do AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Depois de instalar com êxito o pacote Marketo Sales Insight da AppExchange no Salesforce, você verá o campo Marketo Sales Opt Out disponível para você.
+Depois de instalar com êxito o pacote Marketo Sales Insight do AppExchange no Salesforce, você verá o campo Marketo Sales Opt Out disponível para você.

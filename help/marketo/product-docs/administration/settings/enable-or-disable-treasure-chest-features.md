@@ -19,19 +19,19 @@ O Treasure Chest possui características experimentais divertidas que não são 
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
-1. Clique em **[!UICONTROL Tórax Tesouro]**.
+1. Clique em **[!UICONTROL Tesouro]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. Clique em **[!UICONTROL Editar]** para o recurso que deseja ativar ou desativar.
+1. Clique em **[!UICONTROL Editar]** para o recurso que deseja habilitar ou desabilitar.
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. Verifique a **[!UICONTROL Ativado]** para ativar ou desmarcar para desativar, e clique em **[!UICONTROL Salvar]**.
+1. Marque a caixa **[!UICONTROL Habilitado]** para habilitar ou desmarque para desabilitar e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

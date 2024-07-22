@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Visão geral dos relatórios avançados do programa {#advanced-program-reporting-overview}
 
-**Gerenciador de Ciclo de Receita** O inclui várias áreas de análise e uma grande variedade de novas métricas que permitem medir a eficácia do programa.
+**O Gerenciador de Ciclo de Receita** inclui várias áreas de análise e uma grande variedade de novas métricas que permitem medir a eficácia do programa.
 
 ![](assets/rev.png)
 
@@ -29,17 +29,17 @@ Cada área de análise contém diferentes conjuntos de dados e métricas no Gere
 
 * **[Análise de custo do programa](understanding-the-program-cost-analysis-area.md)** - Veja o ROI de todos os seus programas.
 
-* **[Análise de participação no programa](understanding-the-program-membership-analysis-area.md)** - Veja os resultados por canal, participação, critérios de sucesso etc.
+* **[Análise de participação no programa](understanding-the-program-membership-analysis-area.md)** - Veja os resultados por canal, participação, critérios de sucesso, etc.
 
-* **[Análise de oportunidade do programa](understanding-the-program-opportunity-analysis-area.md)** - Oportunidades geradas com base na distribuição, receita e ROI.
+* **[Análise de oportunidade do programa](understanding-the-program-opportunity-analysis-area.md)** - Oportunidades geradas com base na distribuição, na receita e no ROI.
 
-* **[Análise do estágio de receita do programa](understanding-the-program-revenue-stage-analysis-area.md)** - Novos nomes que atingiram estágios de sucesso específicos no modelo de ciclo de receita.
+* **[Análise do Estágio da Receita do Programa](understanding-the-program-revenue-stage-analysis-area.md)** - Novos nomes que atingiram estágios de sucesso específicos dentro do seu modelo de ciclo de receita.
 
 ## Analisadores de programa {#program-analyzers}
 
-* **Analisador de programa** - Identifique rapidamente os programas bem-sucedidos ou não e concentre seus recursos adequadamente.
+* **Analisador de programas** - Identifique rapidamente os programas bem-sucedidos ou não e concentre seus recursos adequadamente.
 
-* **Analisador de influência da oportunidade** - Comprove a contribuição do Marketing avaliando o impacto dos programas e dos principais envolvimentos que geraram oportunidades.
+* **Analisador de Influência da Oportunidade** - Comprove a contribuição de Marketing medindo o impacto dos programas e dos principais envolvimentos que geraram oportunidades.
 
 ## Opções de relatório {#report-options}
 

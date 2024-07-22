@@ -17,7 +17,7 @@ Momentos interessantes são a chave para se comunicar com sua equipe de vendas p
 
 >[!AVAILABILITY]
 >
->Eles estão disponíveis para o Marketo Sales Insight e [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) somente clientes.
+>Eles estão disponíveis somente para clientes do Marketo Sales Insight e do [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
 
 ## O que é um momento interessante? {#what-is-an-interesting-moment}
 
@@ -29,29 +29,29 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
 ## Como criar um momento interessante?  {#how-do-i-create-an-interesting-moment}
 
-1. Escolha um [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), de preferência uma equipe de vendas achará interessante se acionada.
+1. Escolha uma [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), de preferência uma que sua equipe de vendas achará interessante se for acionada.
 
    ![](assets/using-interesting-moments-1.png)
 
-1. Arraste sobre o **Momentos interessantes** etapa do fluxo.
+1. Arraste sobre a etapa de fluxo **Momentos interessantes**.
 
    ![](assets/using-interesting-moments-2.png)
 
-1. Selecione um **type** (Email, Marco ou Web).
+1. Selecione um **tipo** (Email, Marco ou Web).
 
    ![](assets/using-interesting-moments-3.png)
 
-1. Escreva uma mensagem para sua equipe de vendas no **Descrição** que explica por que essa ação é importante.
+1. Escreva uma mensagem para sua equipe de vendas no campo **Descrição** que explique por que essa ação é importante.
 
    ![](assets/using-interesting-moments-4.png)
 
    >[!NOTE]
    >
-   >O Marketo também adicionará a data em que ocorreu e como o momento interessante foi adicionado (ou seja, ação de lead > etapa de fluxo, API SOAP).
+   >O Marketo também adicionará a data em que ocorreu e como o momento interessante foi adicionado (ou seja, ação principal > etapa de fluxo, API SOAP).
 
 ## Como isso pode ficar ainda mais interessante?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Adicione-os no campo de descrição para fornecer à sua equipe de vendas informações mais específicas, como a linha de assunto do email que o cliente potencial abriu ou por quem foi enviado. Verifique quais tokens estão disponíveis para uso no [Tokens de momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) glossário.
+Tokens! Adicione-os no campo de descrição para fornecer à sua equipe de vendas informações mais específicas, como a linha de assunto do email que o cliente potencial abriu ou por quem foi enviado. Confira quais tokens estão disponíveis para uso no glossário [Tokens para momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md).
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Tokens! Adicione-os no campo de descrição para fornecer à sua equipe de venda
 
 ## Como se parece um momento interessante no Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Momentos interessantes serão exibidos em uma [log de atividades do cliente potencial](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
+Momentos interessantes serão exibidos em um [log de atividades do cliente potencial](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/using-interesting-moments-5.png)
 
 ## Como se parece um momento interessante no Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Depois de ter [aplicativo Marketo Sales Insight instalado](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), momentos interessantes serão exibidos nas páginas de lead, contato, conta ou oportunidade. Elas também aparecem no painel Sales Insight no feed de lead, nas Melhores opções e na Lista de observação.
+Depois que você [instalar o aplicativo Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), momentos interessantes serão exibidos nas páginas de cliente potencial, contato, conta ou oportunidade. Elas também aparecem no painel Sales Insight no feed de lead, nas Melhores opções e na Lista de observação.
 
 ![](assets/using-interesting-moments-6.png)
 

@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Iniciar/Pausar uma campanha da Web {#launch-pause-a-web-campaign}
 
-Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) em seu site, uma [em substituição de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), um recurso de widget ou um alerta por email.
+Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) no seu site, uma [substituição de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), um recurso de widget ou um alerta por email.
 
 Você pode iniciar ou pausar uma campanha da Web de duas maneiras a partir da página Campanhas da Web ou da página Definir campanhas da Web.
 
-1. Clique em **Personalização da Web**.
+1. Clique em **Web Personalization**.
 
    ![](assets/one-1.png)
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/two-1.png)
 
-1. Se a campanha for iniciada, clique em **Lançado** para alterar o status da campanha para **Pausado**, para pausar a campanha.
+1. Se a campanha for iniciada, clique em **Iniciada** para alterar o status da campanha para **Pausada** e pausar a campanha.
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
-1. Se a campanha estiver pausada, clique em **Pausado** para alterar o status da campanha para **Lançado**. Isso ativará e iniciará a campanha.
+1. Se a campanha estiver pausada, clique em **Pausado** para alterar o status da campanha para **Iniciado**. Isso ativará e iniciará a campanha.
 
    ![](assets/image2014-11-26-17-3a28-3a59.png)
 
@@ -41,12 +41,12 @@ Você pode iniciar ou pausar uma campanha da Web de duas maneiras a partir da p�
 
    ![](assets/image2014-11-26-17-3a31-3a37.png)
 
-1. Clique em **Salvar** para salvar e pausar a campanha. Clique em **Launch** para iniciar e ativar a campanha.
+1. Clique em **Salvar** para salvar e pausar a campanha. Clique em **Iniciar** para iniciar e ativar a campanha.
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
 >[!MORELIKETHIS]
 >
->* [Criar uma campanha de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Criar uma RTP na campanha de região](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Criar uma campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Criar uma Campanha de Diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Criar um RTP na campanha de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Criar uma Campanha do Widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

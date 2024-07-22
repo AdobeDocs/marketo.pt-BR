@@ -6,8 +6,8 @@ exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1387'
-ht-degree: 3%
+source-wordcount: '1386'
+ht-degree: 10%
 
 ---
 
@@ -32,7 +32,7 @@ Além disso, há um novo requisito de responsabilidade para poder demonstrar com
 
 ## A Quem Se Aplica? {#to-whom-does-it-apply}
 
-O RGPD aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços para titulares de dados na UE e no EEE e/ou que acompanhe os seus comportamentos. Se você faz negócios com titulares de dados na Europa que envolvem o processamento de seus dados pessoais, esta legislação se aplica a você. As penalidades por não conformidade são significativas, com multas elevadas para aqueles que violam o regulamento; a multa máxima por uma única violação é de 20 milhões de euros ou 4% do volume de negócios mundial anual, o que for maior.
+O GDPR aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços para titulares de dados na UE e no EEE e/ou que acompanhe os seus comportamentos. Se você faz negócios com titulares de dados na Europa que envolvem o processamento de dados pessoais, esta legislação se aplica a você. As penalidades por não conformidade são significativas, com multas elevadas para quem viola o regulamento; a multa máxima por uma única violação é de 20 milhões de euros ou 4% do volume de negócios mundial anual, o que for maior.
 
 ## Implicações para o marketing {#implications-for-marketing}
 
@@ -42,7 +42,7 @@ A maneira como os profissionais de marketing abordam essas expectativas mais alt
 
 Há dois aspectos principais do GDPR em que os profissionais de marketing precisam analisar práticas passadas, atuais e futuras. O primeiro é o consentimento do indivíduo para processar seus dados pessoais, e o segundo é a responsabilidade, ou seja, poder demonstrar como os princípios do GDPR estão sendo seguidos.
 
-Fornecemos informações abrangentes sobre consentimento e responsabilidade na plataforma Marketo em nosso e-book, [GDPR e o profissional de marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Neste artigo, no entanto, vamos nos concentrar especificamente nos novos recursos no Marketo Sales Connect que ajudarão sua organização a seguir as regras do GDPR.
+Fornecemos informações abrangentes sobre consentimento e responsabilidade na plataforma da Marketo em nosso e-book, [GDPR e O profissional de marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Neste artigo, no entanto, vamos nos concentrar especificamente nos novos recursos no Marketo Sales Connect que ajudarão sua organização a seguir as regras do GDPR.
 
 ## Conformidade com o GDPR no Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -50,7 +50,7 @@ O Marketo Sales Connect é um aplicativo eficiente — parte da Plataforma de en
 
 ## Cartão de conformidade {#compliance-card}
 
-O Marketo Sales Connect inclui um Cartão de Conformidade na Exibição de Detalhes da Pessoa para fornecer informações-chave sobre o Tipo de Autorização de um contato, bem como seu Tipo de Origem. Isso permite que os usuários adicionem e rastreiem facilmente informações essenciais à privacidade dos dados e os ajuda a tomar decisões mais informadas sobre a estratégia de campanha/alcance.
+O Marketo Sales Connect inclui um Cartão de Conformidade na Exibição de Detalhes da Pessoa para fornecer informações-chave sobre o Tipo de Autorização de um contato, bem como seu Tipo de Source. Isso permite que os usuários adicionem e rastreiem facilmente informações essenciais à privacidade dos dados e os ajuda a tomar decisões mais informadas sobre a estratégia de campanha/alcance.
 
 ![](assets/1.png)
 
@@ -68,9 +68,9 @@ Os usuários têm várias opções para escolher, incluindo:
 * Interesse público/Autoridade oficial
 * Outro
 
-Tipo de fonte de contato
+Tipo de Source de Contato
 
-No novo Cartão de conformidade, os usuários podem rastrear a origem de um contato. O Tipo de origem define de onde vieram as informações de um contato quando carregadas inicialmente no Marketo Sales Connect. Entender o tipo de origem de um contato também ajuda nas decisões relacionadas às práticas de alcance, bem como determinar quais outros sistemas ou locais os dados pessoais são armazenados, garantindo que cada envolvimento esteja em conformidade com a legislação do GDPR.
+No novo Cartão de conformidade, os usuários podem rastrear a origem de um contato. O Tipo de Source define de onde vieram as informações de um contato quando carregadas inicialmente no Marketo Sales Connect. Entender o tipo de origem de um contato também ajuda nas decisões relacionadas às práticas de alcance, bem como determinar quais outros sistemas ou locais os dados pessoais são armazenados, garantindo que cada envolvimento esteja em conformidade com a legislação do GDPR.
 
 Novamente, os usuários têm várias opções suspensas para escolher, incluindo:
 
@@ -82,11 +82,11 @@ Novamente, os usuários têm várias opções suspensas para escolher, incluindo
 
 Editar o cartão de conformidade
 
-Quando a Exibição de Detalhes da Pessoa estiver aberta, clique em **Editar** no Cartão de conformidade.
+Quando a Exibição de Detalhes da Pessoa estiver aberta, clique em **Editar** no Cartão de Conformidade.
 
 ![](assets/four.png)
 
-Você verá dois menus suspensos: Tipo de autorização e Tipo de origem.
+Você verá dois menus suspensos: Tipo de autorização e Tipo de Source.
 
 ![](assets/5.png)
 
@@ -94,13 +94,13 @@ Se você escolher &quot;Consentimento&quot; como o Tipo de autorização, dois c
 
 ![](assets/6.png)
 
-Se &quot;Outro&quot; for escolhido como Tipo de Autorização ou Tipo de Origem, você poderá inserir texto para descrever o Tipo de Origem.
+Se &quot;Outro&quot; for escolhido como Tipo de autorização ou Tipo de Source, você poderá inserir texto para descrever o Tipo de Source.
 
 ![](assets/7.png)
 
-Ações em massa** O Marketo Sales Connect também permite a atualização dos tipos de Autorização e Origem de um contato em massa, economizando um tempo valioso no processo de conformidade.
+Ações em massa** O Marketo Sales Connect também permite a atualização dos tipos de Autorização e Source de um contato em massa, economizando um tempo valioso no processo de conformidade.
 
-Quando você seleciona um ou mais contatos da página Pessoas, os botões Autorização e Origem são exibidos no contêiner superior. Usando esses botões, você pode definir a Autorização ou Origem de vários contatos simultaneamente.
+Quando você seleciona um ou mais contatos na página Pessoas, os botões Autorização e Source são exibidos no contêiner superior. Usando esses botões, você pode definir a Autorização ou Source de vários contatos simultaneamente.
 
 ![](assets/eight.jpg)
 
@@ -112,11 +112,11 @@ Depois que o Tipo de autorização for atualizado, você receberá uma janela po
 
 ![](assets/10.png)
 
-Da mesma forma, o Tipo de origem pode ser atualizado em massa também clicando no modal Origem.
+Da mesma forma, o Tipo de Source pode ser atualizado em massa também clicando no modal do Source.
 
 ![](assets/11.png)
 
-Depois de selecionar o Tipo de origem correto para os contatos selecionados, uma janela de confirmação será exibida para confirmar a atualização bem-sucedida.
+Depois de selecionar o Tipo de Source correto para os contatos selecionados, uma janela de confirmação será exibida para confirmar a atualização bem-sucedida.
 
 ![](assets/12.png)
 
@@ -180,13 +180,13 @@ Para exportar informações de contato, clique nos três pontos verticais no Cab
 
 Uma área do GDPR comumente mal compreendida envolve contatos que cancelam a inscrição no banco de dados da organização. Para seguir as novas regras de proteção de dados daqueles que optam por cancelar a inscrição, a seguinte funcionalidade foi incluída no Marketo Sales Connect:
 
-**Links para cancelar inscrição:** Os links de cancelamento de inscrição serão anexados automaticamente a todos os emails enviados pelo aplicativo Web do Sales Connect para garantir que os contatos tenham uma maneira acessível de recusar.\
-**Cancelar assinatura da sincronização:** Os usuários podem sincronizar cancelamentos de assinatura de e para seu CRM (Salesforce) para garantir que os cancelamentos estejam atualizados.\
-**Cancelar inscrição no histórico:** Os usuários podem ver recusas e recusas históricas na Exibição de detalhes da pessoa.\
-**Cancelar inscrição da remoção:** A aceitação de um contato não assinado de volta requer que o usuário tenha privilégios de administrador e demonstre que o contato deu novo consentimento para entrar em contato com ele.
+**Links para Cancelar Inscrição:** Links para cancelar inscrição serão anexados automaticamente a todos os emails enviados do aplicativo Web do Sales Connect para garantir que os contatos tenham uma maneira acessível de recusar.\
+**Cancelar assinatura da sincronização:** os usuários podem sincronizar cancelamentos de assinatura de e para seu CRM (Salesforce) para garantir que os cancelamentos estejam atualizados.\
+**Histórico de cancelamento de inscrição:** Os usuários podem ver recusas e recusas históricas na exibição de Detalhes da pessoa.\
+**Remoção da inscrição cancelada:** para se inscrever novamente, o usuário deve ter privilégios de administrador e demonstrar que o contato deu novo consentimento para contatá-lo.
 
 ## Atualizações futuras {#future-updates}
 
 Como uma defensora entusiasmada da potência e da centralização do cliente na economia do engajamento, a Marketo entende a importância de colocar a privacidade e a proteção de dados nas mãos do titular dos dados. Assim como em outras leis de proteção de dados, a conformidade com o GDPR requer o compromisso da Marketo e de nossos clientes. Este artigo tem como objetivo ajudar você a usar o Marketo de maneira apropriada para oferecer suporte à conformidade com o GDPR da sua organização.
 
-Continuaremos a acompanhar de perto as orientações do GDPR aplicáveis emitidas pelas autoridades reguladoras e pela legislação relacionada. As atualizações serão publicadas em nossa Central de Confiabilidade em [trust.marketo.com](https://trust.marketo.com).
+Continuaremos a acompanhar de perto as orientações do GDPR aplicáveis emitidas pelas autoridades reguladoras e pela legislação relacionada. As atualizações serão postadas em nossa Central de Confiabilidade em [trust.marketo.com](https://trust.marketo.com).

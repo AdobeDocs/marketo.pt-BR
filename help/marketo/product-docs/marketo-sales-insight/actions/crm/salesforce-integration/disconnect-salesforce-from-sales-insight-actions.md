@@ -26,7 +26,7 @@ ht-degree: 1%
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. Na guia Conexões e personalizações, clique em **Desconectar**.
+1. Na guia Conexões e Personalizações, clique em **Desconectar**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
@@ -40,6 +40,6 @@ ht-degree: 1%
 
 PICC
 
-1. Na guia Conexões e personalizações, clique em **Desconectar**.
+1. Na guia Conexões e Personalizações, clique em **Desconectar**.
 
 PICC

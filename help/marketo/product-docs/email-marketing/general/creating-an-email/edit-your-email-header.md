@@ -6,7 +6,7 @@ exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 O cabeçalho do email no Marketo é totalmente personalizável. Ele consiste em quatro campos:
 
-* **De** - O nome do remetente como você quer que ele seja exibido
-* **Do endereço** - O endereço de email do remetente como você deseja que ele seja exibido
-* **Responder para** - O endereço de email para o qual você deseja que a resposta de uma pessoa seja enviada (pode ser diferente do Endereço de origem)
+* **De** - O nome do remetente como você deseja que ele seja exibido
+* **Do Endereço** - O endereço de email do remetente como você deseja que ele seja exibido
+* **Responder-para** - O endereço de email para o qual você deseja que a resposta de uma pessoa seja enviada (pode ser diferente do Endereço de Origem)
 * **Assunto** - A linha de assunto do email
 
 Para editar esses valores, clique em cada campo e insira suas informações.
@@ -26,7 +26,7 @@ Para editar esses valores, clique em cada campo e insira suas informações.
 
 >[!TIP]
 >
->Para definir um padrão De nome e De e-mail, consulte [Alterar o padrão de email e rótulo de](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>Para definir um padrão De Nome e De Email, consulte [Alterar o padrão de Email e Rótulo de Origem](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 Se quiser usar um token, clique primeiro dentro do campo desejado e, em seguida, clique no ícone de token.
 
@@ -50,4 +50,4 @@ Se exceder 50 caracteres, o contador ficará vermelho para alertá-lo.
 
 >[!MORELIKETHIS]
 >
->[Visão geral do Editor de email v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>[Visão geral do Editor de Email v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)

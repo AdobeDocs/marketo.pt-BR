@@ -13,11 +13,11 @@ ht-degree: 2%
 
 Abaixo você encontrará todos os recursos incluídos na versão de junho de 2024. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
-As notas de versão especificamente para o Adobe Dynamic Chat [pode ser encontrado aqui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+As Notas de versão específicas para o Adobe Dynamic Chat [podem ser encontradas aqui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
@@ -42,7 +42,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   </tr>
      <tr> 
-   <td><strong>Campos inferidos no Forms</strong>: a fonte de dados usada para preencher campos inferidos quando uma pessoa é criada por meio do preenchimento de formulário sem nenhuma atividade anterior da Web foi atualizada para usar a mesma fonte de dados que outros métodos de coleção de pessoas. Os dados de campo inferidos agora são consistentes em todos os pontos de coleta.</td> 
+   <td><strong>Campos inferidos no Forms</strong>: a fonte de dados usada para preencher campos inferidos quando uma pessoa é criada por meio do preenchimento de formulário sem nenhuma atividade anterior na Web foi atualizada para usar a mesma fonte de dados que outros métodos de coleção de pessoas. Os dados de campo inferidos agora são consistentes em todos os pontos de coleta.</td> 
    <td>Remetido</td>
    <td>n/d</td>
   </tr>
@@ -52,4 +52,4 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-* **Reautenticação do linkedIn necessária**: a LinkedIn está atualizando as APIs de marketing usadas pelas integrações do Marketo Engage LinkedIn. Essas alterações exigirão a reautenticação de todos os serviços do LinkedIn LaunchPoint em seu **Admin** > **LaunchPoint** entre 26 de julho e 15 de dezembro de 2024, para evitar a interrupção do serviço. Você pode encontrar instruções sobre como fazer isso [aqui para o líder Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} e [aqui para públicos correspondentes](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. O serviço de formulário de geração de lead tem um tipo de &quot;Geração de lead da LinkedIn&quot; e o serviço de Público-alvo correspondente tem um tipo de &quot;Públicos-alvo correspondentes da LinkedIn&quot;. Para obter mais informações, consulte [Perguntas frequentes sobre migração](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **Reautenticação do LinkedIn necessária**: a LinkedIn está atualizando suas APIs de marketing usadas pelas integrações do Marketo Engage LinkedIn. Essas alterações exigirão a reautenticação de todos os serviços do LinkedIn LaunchPoint no menu **Admin** > **LaunchPoint** entre 26 de julho e 15 de dezembro de 2024 para evitar a interrupção do serviço. Você pode encontrar instruções sobre como fazer isso [aqui para a Geração de Clientes Potenciais Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} e [aqui para Públicos Correspondentes](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. O serviço de formulário de geração de lead tem um tipo de &quot;Geração de lead da LinkedIn&quot; e o serviço de Público-alvo correspondente tem um tipo de &quot;Públicos-alvo correspondentes da LinkedIn&quot;. Para obter mais informações, consulte as [Perguntas frequentes sobre migração](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.

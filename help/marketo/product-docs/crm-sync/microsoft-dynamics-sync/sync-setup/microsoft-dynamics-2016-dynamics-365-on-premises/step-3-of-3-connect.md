@@ -5,8 +5,8 @@ exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
 source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 2%
+source-wordcount: '404'
+ht-degree: 3%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 2%
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. Selecionar **[!DNL Microsoft]**.
+1. Selecione **[!DNL Microsoft]**.
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Clique em **[!UICONTROL Editar]** in **[!UICONTROL Inserir credenciais]**.
+1. Clique em **[!UICONTROL Editar]** em **[!UICONTROL Inserir credenciais]**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -43,23 +43,23 @@ ht-degree: 2%
    >
    >Verifique se suas credenciais estão corretas, pois não é possível reverter as alterações subsequentes no esquema após o envio. Se credenciais incorretas forem salvas, será necessário obter uma nova assinatura do Marketo.
 
-1. Insira o **[!UICONTROL Nome de usuário]**, **[!UICONTROL Senha]** a Microsoft Dynamics **[!UICONTROL URL]**, e uma **ID/segredo do cliente**. Clique em **[!UICONTROL Salvar]** quando terminar.
+1. Insira o **[!UICONTROL Nome de Usuário]**, **[!UICONTROL Senha]**, a **[!UICONTROL URL]** do Microsoft Dynamics e um **Segredo/ID do Cliente**. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
    >* Se seu Marketo foi provisionado antes de outubro de 2020, ID do cliente e Segredo são campos opcionais. Caso contrário, elas são obrigatórias. A obtenção dessas informações dependerá da versão do MSD que você estiver usando.
-   >* O Nome de Usuário no Marketo deve corresponder ao Nome de Usuário para o usuário de sincronização no CRM. O formato pode ser `user@domain.com` ou DOMAIN\user.
-   >* Se você não souber o URL, [saiba como encontrá-lo aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >* O Nome de Usuário no Marketo deve corresponder ao Nome de Usuário para o usuário de sincronização no CRM. O formato pode ser `user@domain.com` ou DOMÍNIO\usuário.
+   >* Se você não souber a URL, [saiba como encontrá-la aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
    >[!TIP]
    >
-   >Não sabe o URL? Mostraremos como encontrar seus [URL do Serviço de Organização do Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) aqui.
+   >Não sabe o URL? Mostraremos como encontrar sua [URL do Dynamics Organization Service](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) aqui.
 
 ## Selecionar campos para a sincronização {#select-fields-to-sync}
 
-1. Clique em **[!UICONTROL Editar]** in **[!UICONTROL Selecionar campos para sincronização]**.
+1. Clique em **[!UICONTROL Editar]** em **[!UICONTROL Selecionar campos para sincronização]**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -69,7 +69,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->O Marketo armazena uma referência aos campos a serem sincronizados. Se você excluir um campo no Dynamics, recomendamos fazer isso com o [sincronização desabilitada](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Then refresh the schema in Marketo by editing and saving the [Select Fields to Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>O Marketo armazena uma referência aos campos a serem sincronizados. Se você excluir um campo no Dynamics, recomendamos fazê-lo com a [sincronização desabilitada](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Em seguida, atualize o esquema no Marketo editando e salvando os [Selecionar campos para sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
 
 ## Sincronizar campos para um filtro personalizado {#sync-fields-for-a-custom-filter}
 
@@ -79,7 +79,7 @@ Se você criou um filtro personalizado, selecione os novos campos que serão sin
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clique em **[!UICONTROL Editar]** em Detalhes da sincronização de campo.
+1. Clique em **[!UICONTROL Editar]** em Detalhes da Sincronização de Campo.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -89,7 +89,7 @@ Se você criou um filtro personalizado, selecione os novos campos que serão sin
 
 ## Ativar sincronização {#enable-sync}
 
-1. Clique em **[!UICONTROL Editar]** in **[!UICONTROL Habilitar sincronização]**.
+1. Clique em **[!UICONTROL Editar]** em **[!UICONTROL Habilitar sincronização]**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 

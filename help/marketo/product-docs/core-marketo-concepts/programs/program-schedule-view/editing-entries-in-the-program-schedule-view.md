@@ -21,7 +21,7 @@ Você pode fazer edições nos diferentes elementos do seu programa na visualiza
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Digite um novo nome e pressione **[!UICONTROL Entrar/Retornar]** no teclado para confirmar a alteração.
+1. Digite um novo nome e pressione **[!UICONTROL Enter/Return]** no teclado para confirmar a alteração.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 

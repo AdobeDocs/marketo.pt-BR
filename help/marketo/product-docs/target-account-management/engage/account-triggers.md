@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Ouça e aja em atividades comportamentais importantes no nível da conta em diferentes canais (por exemplo, email, Web, anúncios) usando acionadores no nível da conta.
 
-Selecione a campanha inteligente e clique em **[!UICONTROL Lista inteligente]**.
+Selecione sua campanha inteligente e clique em **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Digite &quot;Conta nomeada&quot; na caixa de pesquisa para localizar os acionado
 
 ![](assets/two-1.png)
 
-Arraste o acionador desejado para a tela. Neste exemplo, estamos usando _Adicionado à conta nomeada_.
+Arraste o acionador desejado para a tela. Neste exemplo, estamos usando _Adicionado à Conta Nomeada_.
 
 ![](assets/three-1.png)
 
@@ -43,4 +43,4 @@ Pronto! Depois de concluir o restante da campanha inteligente, lembre-se de ativ
 
 >[!MORELIKETHIS]
 >
->[Filtros de conta](/help/marketo/product-docs/target-account-management/engage/account-filters.md)
+>[Filtros de Conta](/help/marketo/product-docs/target-account-management/engage/account-filters.md)

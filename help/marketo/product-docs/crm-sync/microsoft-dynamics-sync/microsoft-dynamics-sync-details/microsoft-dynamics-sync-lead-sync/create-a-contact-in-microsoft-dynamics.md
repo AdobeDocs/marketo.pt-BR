@@ -21,13 +21,13 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Clique em **[!UICONTROL Sincronizar como]** e selecione **[!UICONTROL Contato]**. Clique em **[!UICONTROL Executar agora]**.
+1. Clique em **[!UICONTROL Sincronizar como]** e selecione **[!UICONTROL Contato]**. Clique em **[!UICONTROL Executar Agora]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Ao usar o &quot;[!UICONTROL Sincronizar pessoa com o Microsoft]&quot;ação de fluxo (somente em uma Campanha de acionador), o lead/contato será criado em tempo real no Dynamics.
+   >Ao usar a ação de fluxo &quot;[!UICONTROL Sincronizar Pessoa com o Microsoft]&quot; (somente em uma Campanha de Gatilho), o cliente potencial/contato será criado em tempo real no Dynamics.
 
 1. A Marketo qualifica esse registro de Cliente Potencial no Dynamics em um Contato que não está associado a nenhuma Conta no Dynamics.
 

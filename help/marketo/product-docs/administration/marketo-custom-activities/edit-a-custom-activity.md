@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Precisa fazer alterações em uma atividade personalizada que você já criou? Veja como.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-a-custom-activity-1.png)
 
@@ -27,7 +27,7 @@ Precisa fazer alterações em uma atividade personalizada que você já criou? V
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Clique em **[!UICONTROL Ações de atividade personalizadas]** e selecione **[!UICONTROL Editar atividade]**.
+1. Clique em **[!UICONTROL Ações personalizadas da atividade]** e selecione **[!UICONTROL Editar atividade]**.
 
    ![](assets/edit-a-custom-activity-4.png)
 

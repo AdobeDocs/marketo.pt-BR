@@ -6,7 +6,7 @@ exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ A Área de análise de email se concentra nas métricas de email. Este artigo ap
 
 >[!AVAILABILITY]
 >
->Isso está disponível para usuários com o Select Edition ou [Análise do ciclo de receita](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) complementar. Confira os detalhes com seu representante de vendas.
+>Isso está disponível para usuários com o complemento Select Edition ou [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Confira os detalhes com seu representante de vendas.
 
 ## Grade de Aquecimento de Atividades de Clique de Email {#email-click-activity-heat-grid}
 

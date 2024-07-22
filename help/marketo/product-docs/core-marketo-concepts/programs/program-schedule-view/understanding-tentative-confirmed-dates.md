@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Noções básicas sobre datas provisórias/confirmadas {#understanding-tentative-confirmed-dates}
 
-Campanhas inteligentes e programas de e-mail têm um recurso poderoso para serem marcados como **[!UICONTROL Tentativa]** ou **[!UICONTROL Confirmado]**. É assim que funcionam.
+Campanhas inteligentes e programas de email têm um recurso poderoso para serem marcados como **[!UICONTROL Provisórios]** ou **[!UICONTROL Confirmados]**. É assim que funcionam.
 
 ## Tentativa {#tentative}
 
-Datas não confirmadas transmitem a intenção. Pense nisso como _lápis_ algo no calendário. As entradas provisórias não serão executadas - elas são somente marcadores de posição.
+Datas não confirmadas transmitem a intenção. Pense nisso como _desenhando_ algo no calendário. As entradas provisórias não serão executadas - elas são somente marcadores de posição.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -47,7 +47,7 @@ As entradas confirmadas serão definitivamente executadas. Eles têm regras, ati
 
 ## Concluído  {#finished}
 
-As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Quando uma entrada é executada e **[!UICONTROL Concluído]**, não é possível movê-lo ou torná-lo tentativo. (Sem alterar a realidade e interromper o fluxo contínuo de tempo.)
+As entradas concluídas já foram executadas. Eles só podem estar no passado (obviamente). Depois que uma entrada é executada e está **[!UICONTROL Concluída]**, não é possível movê-la ou torná-la provisória. (Sem alterar a realidade e interromper o fluxo contínuo de tempo.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

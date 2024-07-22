@@ -19,11 +19,11 @@ Você pode adicionar scripts personalizados, CSS ou outro HTML às páginas de a
 >
 >O Suporte da Marketo não está configurado para ajudar na solução de problemas de HTML personalizado. Para obter assistência para o HTML, consulte um desenvolvedor da Web.
 
-1. Selecione a landing page e clique em **Editar rascunho**.
+1. Selecione sua página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. No editor de páginas de aterrissagem, arraste o **HTML** elemento.
+1. No editor de páginas de aterrissagem, arraste o elemento **HTML**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 

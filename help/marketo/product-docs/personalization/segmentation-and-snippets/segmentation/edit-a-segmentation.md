@@ -17,21 +17,21 @@ Fazer alterações em suas segmentações existentes é fácil. Aqui está a bai
 
 ## Criar um rascunho de segmentação {#create-a-segmentation-draft}
 
-1. Vá para a **Banco de dados**.
+1. Vá para o **Banco de Dados**.
 
    ![](assets/db.png)
 
-1. Na segmentação, clique em **Ações de segmentação** e depois **Criar rascunho**.
+1. Na segmentação, clique em **Ações de segmentação** e depois em **Criar rascunho**.
 
    ![](assets/two.png)
 
-1. A variável **Status** alterações em Aprovado com rascunho. A **Rascunho** é criada na sua segmentação.
+1. O **Status** muda para Aprovado com Rascunho. Uma pasta de **Rascunho** é criada na sua segmentação.
 
    ![](assets/three.png)
 
 ## Adicionar, editar ou excluir segmentos {#add-edit-or-delete-segments}
 
-1. Na segmentação, clique em **Ações de segmentação** e depois **Editar segmentos**.
+1. Na segmentação, clique em **Ações de segmentação** e depois em **Editar segmentos**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Fazer alterações em suas segmentações existentes é fácil. Aqui está a bai
    >
    >Você só pode Editar segmentos de um rascunho e não da Segmentação aprovada.
 
-1. **Adicionar segmento**, **Editar** existente (renomeie ou altere o pedido) ou **Excluir** qualquer segmento.
+1. **Adicionar segmento**, **Editar** existente (renomear ou alterar a ordem) ou **Excluir** qualquer segmento.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +49,11 @@ Fazer alterações em suas segmentações existentes é fácil. Aqui está a bai
 
    >[!CAUTION]
    >
-   >A exclusão afeta todo o conteúdo dinâmico associado em emails, landing pages e trechos. **Não há opção para desfazer**. Verifique a **Usado por** para ver o que usa esse segmento.
+   >A exclusão afeta todo o conteúdo dinâmico associado em emails, landing pages e trechos. **Não há desfazer**. Verifique a guia **Usado por** para ver o que usa esse segmento.
 
 ## Editar regras de segmento {#edit-segment-rules}
 
-1. No rascunho **Segmento**, vá para **Lista inteligente**. Aplicar regras semelhantes a [Definição de regras de segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. No rascunho **Segmento**, vá para a **Lista Inteligente**. Aplicar regras semelhantes a [Definindo Regras de Segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

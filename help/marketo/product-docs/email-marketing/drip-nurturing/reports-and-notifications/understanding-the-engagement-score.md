@@ -6,7 +6,7 @@ exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ A pontuação de engajamento facilita a visualização da eficiência do conteú
 
 ![](assets/highestengagementwidget.jpg)
 
-A pontuação é baseada em um algoritmo proprietário que leva em conta o comportamento envolvido (Abrir, Clicar, Sucesso do programa) e o comportamento desenvolvido (Cancelar inscrição). Ele é comparado a emails estilo gotejamento e nutrição para dar uma média de 50. Para dar às pessoas a chance de se envolver com seu conteúdo, a pontuação de engajamento é calculada 72 horas após cada elenco. Além disso, a pontuação abrange apenas dados de **seus últimos três** casts.
+A pontuação é baseada em um algoritmo proprietário que leva em conta o comportamento envolvido (Abrir, Clicar, Sucesso do programa) e o comportamento desenvolvido (Cancelar inscrição). Ele é comparado a emails estilo gotejamento e nutrição para dar uma média de 50. Para dar às pessoas a chance de se envolver com seu conteúdo, a pontuação de engajamento é calculada 72 horas após cada elenco. Além disso, a pontuação só cobre dados de **suas últimas três** execuções.
 
 >[!NOTE]
 >
->Quando programas são usados como conteúdo em fluxos, a pontuação de engajamento é baseada na associação ao programa e no status de sucesso, **não** interação de email (cliques, aberturas, cancelamentos de assinatura).
+>Quando programas são usados como conteúdo em fluxos, a pontuação de envolvimento é baseada na associação ao programa e no status de sucesso, **não** interação por email (cliques, aberturas, cancelamentos de assinatura).
 
 As pontuações de engajamento são universais para todos os clientes. Você pode compará-los para ver quem tem o conteúdo mais envolvente.
 
@@ -33,4 +33,4 @@ As pontuações de engajamento são universais para todos os clientes. Você pod
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre programas de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
+>[Noções Básicas sobre Programas de Participação](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)

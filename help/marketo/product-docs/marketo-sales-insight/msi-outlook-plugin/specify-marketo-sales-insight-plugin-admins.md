@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Você pode especificar quais contatos deseja que apareçam no aviso por email enviado aos usuários quando os convidar para configurar o MSI no Outlook.
 
-1. Em Meu Marketo, clique em **Admin** e depois **Sales Insight**.
+1. Em Meu Marketo, clique em **Admin** e depois em **Sales Insight**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Clique em **Suplemento de email** guia.
+1. Clique na guia **Suplemento de email**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Clique em **Especificar contato do plug-in**.
+1. Clique em **Especificar Contato de Plug-in**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -39,4 +39,4 @@ Você pode especificar quais contatos deseja que apareçam no aviso por email en
 
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
-   Perfeita!
+   Perfeito!

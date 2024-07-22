@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11380986
-description: Editar um espaço de trabalho — Documentação do Marketo — Documentação do produto
-title: Editar um espaço de trabalho
+description: Editar uma documentação do Workspace - Marketo Docs - Documentação do produto
+title: Editar uma Workspace
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Editar um espaço de trabalho {#edit-a-workspace}
+# Editar uma Workspace {#edit-a-workspace}
 
-Às vezes, é necessário fazer alterações em um Espaço de trabalho. É fácil.
+Às vezes, é necessário fazer alterações em uma Workspace. É fácil.
 
 >[!NOTE]
 >
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Expanda os espaços de trabalho com [Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Detalhe os espaços de trabalho com [Noções básicas sobre espaços de trabalho e partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-a-workspace-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/edit-a-workspace-2.png)
 
-1. Selecione o espaço de trabalho que deseja editar e clique em **[!UICONTROL Editar espaço de trabalho]**.
+1. Selecione o espaço de trabalho que deseja editar e clique em **[!UICONTROL Editar Workspace]**.
 
    ![](assets/edit-a-workspace-3.png)
 
@@ -39,17 +39,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Você pode [criar mais partições de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} se você precisar deles.
+   >Você pode [criar mais partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} se precisar delas.
 
    ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
-   >A variável **[!UICONTROL Todas as partições de pessoas]** caixa de seleção significa que este espaço de trabalho pode usar todas as partições de clientes potenciais no sistema.
+   >A caixa de seleção **[!UICONTROL Todas as Partições de Pessoa]** significa que este espaço de trabalho pode usar todas as partições de cliente potencial no sistema.
 
    >[!NOTE]
    >
-   >A variável **[!UICONTROL Partição de pessoa principal]** O atua como padrão e é onde todas as pessoas serão atribuídas.
+   >A **[!UICONTROL Partição de Pessoa Principal]** atua como padrão e é onde todas as pessoas serão atribuídas.
 
    Se você ativou vários domínios com marca, é possível alterá-los para um domínio com marca primária diferente. Clique em **[!UICONTROL Salvar]**.
 
@@ -61,5 +61,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Criar um novo espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
->* [Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}
+>* [Criar um Novo Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>* [Noções básicas sobre espaços de trabalho e partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}

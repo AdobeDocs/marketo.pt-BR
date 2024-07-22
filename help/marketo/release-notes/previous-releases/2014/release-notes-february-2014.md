@@ -6,7 +6,7 @@ exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '365'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Os seguintes recursos estão incluídos na versão de fevereiro de 2014. Verifiq
 
 ## Pontuação de envolvimento como critérios obtidos {#engagement-score-as-winning-criteria}
 
-[Usar a pontuação de engajamento](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) para determinar a variante vencedora no teste A/B split ou no teste Champion/Challenger. O teste deve ser executado por um mínimo de 24 horas, para fornecer uma pontuação de engajamento adequada.
+[Use a pontuação de envolvimento](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) para determinar a variante vencedora no teste A/B split ou no teste Champion/Challenger. O teste deve ser executado por um mínimo de 24 horas, para fornecer uma pontuação de engajamento adequada.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
@@ -29,23 +29,23 @@ Os seguintes recursos estão incluídos na versão de fevereiro de 2014. Verifiq
 
 ## Pessoas/Clientes potenciais bloqueados para envio {#people-leads-blocked-from-mailing}
 
-[Clique nas pessoas/clientes potenciais bloqueados para envio por email](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) número para ver quem não receberá o email por ter cancelado a inscrição, ter um endereço de email inválido ou em branco ou ter o marketing suspenso.
+[Clique no número de pessoas/clientes potenciais impedidos de enviar](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) para ver quem não receberá o email por ter sua assinatura cancelada, lista de bloqueios, email inválido ou em branco ou suspensão de marketing.
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
 ## Exportar dados do programa de email {#export-email-program-data}
 
-[Exportar métricas de email para o Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), incluindo dados da variante de Teste AB.
+[Exportar métricas de email para o Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), incluindo dados de variantes do Teste AB.
 
-## [!UICONTROL Pontuação de engajamento] in [!UICONTROL Desempenho do fluxo de engajamento] Relatório {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Pontuação de engajamento] no relatório [!UICONTROL Desempenho do fluxo de engajamento] {#engagement-score-in-engagement-stream-performance-report}
 
-Adicionamos a Pontuação de engajamento ao [[!UICONTROL Desempenho do fluxo de engajamento] Relatório](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para ajudá-lo a ver a eficiência do conteúdo em seu programa de engajamento.
+Adicionamos a Pontuação de engajamento ao [[!UICONTROL Relatório de desempenho da transmissão de engajamento]](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) para ajudar você a ver a eficiência do conteúdo em seu programa de engajamento.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
 ## Detalhes do programa na análise de e-mail {#program-details-in-email-analysis}
 
-[Agora é possível agrupar suas métricas de email por Nome do programa, Canal e Tags](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). O nome do programa é adicionado ao campo Nome do email quando o email é um ativo local do Programa. O novo campo Nome do programa mostra o nome do programa da campanha inteligente que enviou o email. Isso pode ser diferente do programa no campo Nome do email se o email for um ativo local de um programa diferente.
+[Agora você pode agrupar suas métricas de email por Nome do Programa, Canal e Marcas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). O nome do programa é adicionado ao campo Nome do email quando o email é um ativo local do Programa. O novo campo Nome do programa mostra o nome do programa da campanha inteligente que enviou o email. Isso pode ser diferente do programa no campo Nome do email se o email for um ativo local de um programa diferente.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
@@ -61,6 +61,6 @@ Os seguintes nomes de filtro e acionador foram atualizados:
 
 ## Melhorias de formulários 2.0 {#forms-enhancements}
 
-Fornecemos ao Forms 2.0 várias atualizações de &quot;qualidade de vida&quot; com esta versão. Além de ativar a criação progressiva de perfis em formulários incorporados, fizemos alterações no fluxo de trabalho e no UX que facilitarão o uso da funcionalidade mais avançada no editor, [incluindo as regras de visibilidade](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), páginas de agradecimento avançadas e campos ocultos.
+Fornecemos ao Forms 2.0 várias atualizações de &quot;qualidade de vida&quot; com esta versão. Além de ativar a criação progressiva de perfis em formulários inseridos, fizemos alterações no fluxo de trabalho e no UX que facilitarão o uso de funcionalidades mais avançadas no editor, [incluindo as regras de visibilidade](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), páginas de agradecimento avançadas e campos ocultos.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

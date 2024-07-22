@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Se você precisar de resultados de listas ou Smart Lists fora do Marketo, poderá exportar facilmente para o Excel. Veja como.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Selecione a lista ou a Smart List que deseja exportar e vá para a **[!UICONTROL Pessoas]** guia.
+1. Selecione a lista ou lista inteligente que deseja exportar e vá para a guia **[!UICONTROL Pessoas]**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,22 +27,22 @@ Se você precisar de resultados de listas ou Smart Lists fora do Marketo, poder�
 
    ![](assets/exportpeople.png)
 
-1. Selecionar **[!UICONTROL Colunas visíveis]** e clique em **[!UICONTROL Exportar]**.
+1. Selecione **[!UICONTROL Colunas Visíveis]** e clique em **[!UICONTROL Exportar]**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Se você escolher **[!UICONTROL Todas as colunas]**, a exportação será maior em tamanho e demorará mais para ser gerada/baixada.
+   >Se você escolher **[!UICONTROL Todas as colunas]**, a exportação será maior em tamanho e levará mais tempo para gerar/baixar.
 
    >[!TIP]
    >
-   >Se os registros de pessoa contiverem caracteres estrangeiros que não são renderizados corretamente na exportação, tente alterar o tipo de arquivo no **[!UICONTROL Formato]** menu suspenso.
+   >Se os registros de pessoa contiverem caracteres estrangeiros que não são renderizados corretamente na exportação, tente alterar o tipo de arquivo no menu suspenso **[!UICONTROL Formato]**.
 
-1. A exportação será executada. Depois de concluir, você pode clicar em **[!UICONTROL Baixar agora]** para pegar o arquivo.
+1. A exportação será executada. Depois de concluído, você pode clicar em **[!UICONTROL Baixar agora]** para capturar o arquivo.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Se a exportação demorar um pouco, você sempre poderá fazer logoff e voltar a ela mais tarde. A variável **[!UICONTROL Baixar agora]** link pode ser acessado selecionando **[!UICONTROL Mostrar status da exportação]** no **[!UICONTROL Ações da lista]** e é válido por uma semana.
+   >Se a exportação demorar um pouco, você sempre poderá fazer logoff e voltar a ela mais tarde. O link **[!UICONTROL Baixar agora]** pode ser acessado selecionando **[!UICONTROL Mostrar Status de Exportação]** no menu **[!UICONTROL Ações de Lista]**, e é válido por uma semana.

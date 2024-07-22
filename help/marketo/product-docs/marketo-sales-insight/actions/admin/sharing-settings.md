@@ -5,7 +5,7 @@ exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -20,15 +20,15 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente admini
 
 ## Definir Suas Configurações De Compartilhamento {#configure-your-sharing-settings}
 
-1. No [aplicativo web](https://toutapp.com/login), clique no ícone de engrenagem e selecione **Configurações**.
+1. No [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/sharing-settings-1.png)
 
-1. Em Configurações do administrador, selecione **Compartilhamento de acesso**.
+1. Em Configurações de Administração, selecione **Acesso de Compartilhamento**.
 
    ![](assets/sharing-settings-2.png)
 
-1. Verifique se **Configurações de compartilhamento** está ativado. Isso significa que, por padrão, somente Administradores poderão compartilhar modelos nas categorias do modelo.
+1. Verifique se as **Configurações de Compartilhamento** estão habilitadas. Isso significa que, por padrão, somente Administradores poderão compartilhar modelos nas categorias do modelo.
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente admini
 
    ![](assets/sharing-settings-4.png)
 
-1. Clique em **Adicionar equipes para acesso**.
+1. Clique em **Adicionar equipes para acessar**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente admini
    >
    >Se você não vir nenhuma equipe, precisará ir para o Gerenciamento de Equipe e criar uma equipe de usuários.
 
-1. Clique em **Adicionar equipes para acesso** para salvar.
+1. Clique em **Adicionar Equipes para Acesso** para salvar.
 
    ![](assets/sharing-settings-7.png)
 

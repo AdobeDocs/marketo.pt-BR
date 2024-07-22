@@ -19,9 +19,9 @@ Os seguintes recursos estão incluídos na versão do verão de 1916. Verifique 
 
 O Marketing baseado em conta da Marketo oferece tudo o que é essencial em uma plataforma unificada:
 
-* **Target** - Detecção de contas, correspondência entre lead e conta e listas de contas nomeadas
-* **Envolver** - Personalização baseada em conta, envolvimento entre canais e fluxos de trabalho específicos da conta
-* **Medir** - Insights em nível de conta e de lista, pontuação de engajamento na conta e impacto no pipeline e na receita
+* **Target** - Descoberta de Conta, Correspondência entre Lead e Conta e Listas de Contas Nomeadas
+* **Envolvimento** - Personalization baseado em conta, Envolvimento entre canais e Fluxos de Trabalho específicos da conta
+* **Medida** - Insights de conta e nível de lista, Pontuação de envolvimento de conta e Impacto de pipeline e receita
 
 ![](assets/abm-5-acme.png)
 
@@ -60,7 +60,7 @@ Anteriormente, todas as variáveis especificadas em Modelos de email 2.0 eram &q
 **Atualizações de sintaxe**
 
 * Agora você pode usar &quot;mktoAddByDefault&quot; em módulos especificados em Modelos de email 2.0 para indicar quais módulos devem ser exibidos em novos emails por padrão. Isso é muito mais conveniente se você estiver criando um template de email com um grande número de módulos.
-* Em elementos de imagem, agora é possível especificar se a imagem subjacente `<img>` As propriedades &quot;height&quot; e &quot;width&quot; do elemento HTML devem ser bloqueadas ou editáveis para o usuário final. mktoLockImgSize=&quot;true&quot; fará com que a altura/largura seja bloqueada (mesmo se a imagem for alterada). Da mesma forma, mktoLockImgStyle=&quot;true&quot; fará com que a propriedade &quot;style&quot; seja bloqueada.
+* Em elementos de imagem, agora é possível especificar se as propriedades &quot;height&quot; e &quot;width&quot; do elemento HTML `<img>` subjacente devem ser bloqueadas ou editáveis para o usuário final. mktoLockImgSize=&quot;true&quot; fará com que a altura/largura seja bloqueada (mesmo se a imagem for alterada). Da mesma forma, mktoLockImgStyle=&quot;true&quot; fará com que a propriedade &quot;style&quot; seja bloqueada.
 
 **Pesquisa de código**
 
@@ -68,9 +68,9 @@ Use a nova funcionalidade de pesquisa para localizar e substituir com eficiênci
 
 ![](assets/2nd-screenshot.png)
 
-**Suporte a token em elementos de imagem**
+**Suporte a Token em Elementos de Imagem**
 
-Os tokens agora podem ser usados na área &quot;URL externo&quot; da experiência de inserção de imagem! Se você especificou imagens com `{{my.tokens}}`, agora você pode consultar esses tokens no Editor de email 2.0. Observe que a imagem ainda aparecerá quebrada na tela do Editor de email 2.0. Porém, você os verá renderizados em Visualização e Enviar amostra antes de enviar seu email.
+Os tokens agora podem ser usados na área &quot;URL externo&quot; da experiência de inserção de imagem! Se você especificou imagens com `{{my.tokens}}`, agora é possível fazer referência a esses tokens no Editor de Email 2.0. Observe que a imagem ainda aparecerá quebrada na tela do Editor de email 2.0. Porém, você os verá renderizados em Visualização e Enviar amostra antes de enviar seu email.
 
 ## Vários domínios de marca {#multiple-branding-domains}
 
@@ -96,7 +96,7 @@ Especifique um atraso para que as campanhas da Web reajam no site.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Exportação de conteúdo do Analytics e do Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Exportação do Content Analytics e do Recommendations](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 Exibir dados de análises de conteúdo e recomendações offline.
 
@@ -110,6 +110,6 @@ Novidades e melhorias!
 
 ## [Configurações de privacidade](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Os profissionais de marketing podem usar as configurações de privacidade para decidir se rastreiam ou não os visitantes que usam os recursos de Munchkin e Personalização da Web. O nível de rastreamento é controlado usando a configuração Não rastrear do navegador, um cookie de opção de não participação ou um IP não específico. Esses métodos podem afetar o valor e a funcionalidade do Marketo em áreas específicas, mas se o profissional de marketing não mudar nada, a funcionalidade do Marketo permanecerá a mesma.
+Os profissionais de marketing podem usar as configurações de privacidade para decidir se rastreiam ou não os visitantes que usam os recursos do Munchkin e do Web Personalization. O nível de rastreamento é controlado usando a configuração Não rastrear do navegador, um cookie de opção de não participação ou um IP não específico. Esses métodos podem afetar o valor e a funcionalidade do Marketo em áreas específicas, mas se o profissional de marketing não mudar nada, a funcionalidade do Marketo permanecerá a mesma.
 
 Esse recurso será lançado gradualmente para os clientes ao longo de um período de seis semanas. Se precisar dele imediatamente, entre em contato com o Suporte da Marketo.

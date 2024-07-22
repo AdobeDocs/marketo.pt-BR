@@ -2,10 +2,10 @@
 description: Modelo da página de aterrissagem de início rápido - Documentação do Marketo - Documentação do produto
 title: Modelo de página de aterrissagem de início rápido
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Alguns dos programas iniciais na Biblioteca de referência de Marketo Engage con
 >
 >Saiba mais sobre [Modelos de página de aterrissagem guiados](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo de seções {#sections-summary}
 
@@ -49,7 +49,8 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 * Elemento de texto de parágrafo para atualizar a cópia de parágrafo
 * Elemento de formulário a ser adicionado em um formulário
 * Elemento de texto abaixo do formulário para editar o texto e os links da política de privacidade
-* Variáveis a serem editadas: Cor do plano de fundo da seção
+* Variáveis a editar:
+Cor do plano de fundo da seção
    * Cor do plano de fundo diretamente atrás do formulário
    * Raio da borda da caixa ao redor do formulário (tornando-a com cantos curvos ou, se definida como &quot;0&quot;, quadrada fora dos cantos)
    * Mostrar ou ocultar a seção inteira
@@ -81,7 +82,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 * **Raio da borda do botão**: ajusta o botão de formulário para ser arredondado ou retangular
 * **Cor do botão**: atualiza a cor do botão no formulário
-* **Cor da focalização do botão**: altera a cor do estado de flutuação do botão no formulário
+* **Cor de foco do botão**: altera a cor do estado de foco do botão no formulário
 * **Cor do link**: atualiza a cor dos links na página
-* **Espaçamento superior da seção**: adiciona espaço acima de cada seção, exceto a seção de logotipo
+* **Espaçamento Superior da Seção**: adiciona espaço acima de cada seção, exceto a seção do logotipo
 * **Espaçamento inferior da seção**: adiciona espaço abaixo de cada seção, exceto a seção de logotipos

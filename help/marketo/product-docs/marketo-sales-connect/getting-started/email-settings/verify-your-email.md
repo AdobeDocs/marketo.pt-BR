@@ -23,7 +23,7 @@ Se você tiver uma identidade de email que não foi verificada, siga as etapas a
 
    ![](assets/verify-your-email-2.png)
 
-1. Em Endereço e assinatura, encontre a identidade de email que deseja verificar e clique em **Reenviar Verificar Email**. Um novo email de verificação será enviado.
+1. Em Endereço e Assinatura, encontre a identidade de email que você deseja verificar e clique em **Reenviar Verificar Email**. Um novo email de verificação será enviado.
 
    ![](assets/verify-your-email-3.png)
 

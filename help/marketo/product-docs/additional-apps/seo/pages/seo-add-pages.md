@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você tem páginas! O SEO da Marketo rastreará automaticamente seu site e os rastreará. Caso tenhamos perdido alguns, coloque-os no aplicativo SEO desta forma:
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 

@@ -16,7 +16,7 @@ ht-degree: 0%
 Estes são alguns detalhes:
 
 * O Marketo Engage não exclui pessoas automaticamente apenas porque os clientes em potencial foram excluídos no Salesforce. Em vez disso, o sinalizador &quot;SFDC está excluído&quot; está definido como verdadeiro. É possível acionar esse campo para exclusão no Marketo, se desejado.
-* [Excluir pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"} ação de fluxo. Isso exclui uma pessoa no MKTO, mas você tem a opção de excluir no `Salesforce` também.
+* Ação de fluxo [Excluir Pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"}. Isso exclui uma pessoa no MKTO, mas você também tem a opção de excluir no `Salesforce`.
 
-* [Excluir do SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"} Ação de fluxo: exclui um cliente potencial no SFDC, mas você tem a opção de excluir uma pessoa no Marketo também.
-* Se um cliente em potencial for excluído no Salesforce (mas uma pessoa não for excluída no Marketo) e, em seguida, passar pela [Sincronizar com o Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} ação de fluxo, então criaria um novo lead no Salesforce.
+* [Ação de fluxo Excluir do SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"}: isso exclui um cliente potencial no SFDC, mas você também tem a opção de excluir uma pessoa no Marketo.
+* Se um cliente potencial for excluído no Salesforce (mas uma pessoa não for excluída no Marketo) e, em seguida, executar a ação de fluxo [Sincronizar com o Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, ele criará um novo cliente potencial no Salesforce.

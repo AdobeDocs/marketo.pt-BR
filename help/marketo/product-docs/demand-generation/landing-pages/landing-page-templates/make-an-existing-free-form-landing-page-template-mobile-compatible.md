@@ -17,15 +17,15 @@ Isso pode ser feito em dois lugares, o Editor de modelo e o Editor de landing pa
 
 ## Atualizar a partir do Editor de modelo {#upgrade-from-the-template-editor}
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Selecionar **Modelos**.
+1. Selecione **Modelos**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Selecione um modelo no qual **Compatível com dispositivos móveis** é **Não**.
+1. Selecione um modelo em que **Compatível com Dispositivos Móveis** seja **Não**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
@@ -33,7 +33,7 @@ Isso pode ser feito em dois lugares, o Editor de modelo e o Editor de landing pa
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Clique em **Torne o dispositivo móvel compatível**.
+1. Clique em **Tornar o Mobile compatível**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
@@ -69,7 +69,7 @@ Se você fizer alterações no modelo, clique em Ações do modelo e selecione V
 
 Ao editar uma landing page e clicar na guia móvel, às vezes você notará que o template não foi atualizado. Não tema! Você pode atualizá-lo lá mesmo.
 
-1. Clique em **Dispositivo móvel** guia.
+1. Clique na guia **Mobile**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
@@ -81,4 +81,4 @@ Ao editar uma landing page e clicar na guia móvel, às vezes você notará que 
    >
    >Ativar a versão móvel de um modelo criará rascunhos de qualquer landing page que o use.
 
-Ótimo! Agora você pode [personalizar a visualização móvel](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas as landing pages que usam esse template.
+Fantástico! Agora você pode [personalizar a exibição móvel](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas as páginas de aterrissagem que usam este modelo.

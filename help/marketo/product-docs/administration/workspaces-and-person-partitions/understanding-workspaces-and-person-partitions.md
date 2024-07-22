@@ -17,7 +17,7 @@ ht-degree: 3%
 
 >[!CAUTION]
 >
->Os espaços de trabalho podem ser configurados de forma complexa. Contato [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para descobrir se eles são certos para você.
+>Os espaços de trabalho podem ser configurados de forma complexa. Contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para saber se ele é adequado para você.
 
 Os espaços de trabalho são áreas separadas no Marketo que contêm ativos de marketing, como programas, páginas de aterrissagem, emails e muito mais. Elas podem ser usadas por várias pessoas. Cada usuário tem acesso a um ou mais espaços de trabalho.
 
@@ -28,7 +28,7 @@ Os espaços de trabalho são áreas separadas no Marketo que contêm ativos de m
 >Alguns motivos para usar um espaço de trabalho:
 >
 >* Geografia: Os departamentos de marketing da Europa, Ásia e América do Norte recebem um espaço de trabalho
->* Unidade de negócios: [!DNL Quicken], [!DNL Quickbooks] e [!DNL TurboTax] cada obtenha um espaço de trabalho
+>* Unidade de Negócios: [!DNL Quicken], [!DNL Quickbooks] e [!DNL TurboTax] cada uma tem um espaço de trabalho
 >
 >Em cada caso, a separação ocorre porque os ativos de marketing são completamente diferentes. Se eles compartilharem ativos de marketing, os espaços de trabalho podem não ser a ferramenta certa para você.
 
@@ -44,11 +44,11 @@ Veja como compartilhar ativos entre espaços de trabalho. Funciona da mesma form
 >
 >A pasta principal que contém seus ativos é a única pasta que pode ser compartilhada, não as pastas secundárias.
 
-1. Clique em **[!UICONTROL Banco de dados]**.
+1. Clique em **[!UICONTROL Banco de Dados]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Clique com o botão direito do mouse na pasta Segmentação e clique em **[!UICONTROL Nova pasta]**.
+1. Clique com o botão direito na pasta Segmentação e clique em **[!UICONTROL Nova pasta]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
@@ -60,11 +60,11 @@ Veja como compartilhar ativos entre espaços de trabalho. Funciona da mesma form
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Clique com o botão direito do mouse e selecione **[!UICONTROL Compartilhar pasta]**.
+1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Compartilhar Pasta]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Selecione os espaços de trabalho com os quais deseja compartilhar a pasta e clique em **[!UICONTROL Salvar]**. A caixa de diálogo Compartilhar pasta exibirá somente os espaços de trabalho que você tem permissão para visualizar.
+1. Selecione o(s) espaço(s) de trabalho com os quais deseja compartilhar a pasta e clique em **[!UICONTROL Salvar]**. A caixa de diálogo Compartilhar pasta exibirá somente os espaços de trabalho que você tem permissão para visualizar.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -80,7 +80,7 @@ Você pode compartilhar esses itens entre espaços de trabalho.
 * Campanhas inteligentes
 * [Listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [Segmentações](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* Blocos de conteúdo
+* Bl. conteúdo
 
 ## Clonagem entre espaços de trabalho {#cloning-across-workspaces}
 
@@ -93,13 +93,13 @@ Para ativos que não são modelos, é melhor cloná-los como ativos locais dentr
 
 >[!IMPORTANT]
 >
->Embora todos os itens listados acima possam ser clonados entre espaços de trabalho, emails, formulários e páginas de aterrissagem _deve estar dentro de um programa_ no momento da clonagem.
+>Embora todos os itens listados acima possam ser clonados entre Espaços de Trabalho, emails, formulários e Páginas de Aterrissagem, _devem estar dentro de um programa_ no momento da clonagem.
 
 >[!NOTE]
 >
 >Ao clonar ativos que têm modelos, esses modelos devem ser compartilhados com o espaço de trabalho de destino.
 
-## Mover ativos para outros espaços de trabalho {#moving-assets-to-other-workspaces}
+## Mover o Assets para outros espaços de trabalho {#moving-assets-to-other-workspaces}
 
 Para mover ativos para um novo espaço de trabalho, coloque-os em uma pasta e arraste a pasta para outro espaço de trabalho.
 
@@ -109,9 +109,9 @@ Para mover ativos para um novo espaço de trabalho, coloque-os em uma pasta e ar
 
 ## Partições de pessoas {#person-partitions}
 
-As partições de pessoas atuam como bancos de dados separados. Cada partição tem seu próprio pessoal que não remove a duplicação nem combina com outras partições. Se você achar que tem um caso de uso comercial que pode exigir registros duplicados com o mesmo endereço de email, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+As partições de pessoas atuam como bancos de dados separados. Cada partição tem seu próprio pessoal que não remove a duplicação nem combina com outras partições. Se você achar que tem um caso de uso comercial que pode exigir registros duplicados com o mesmo endereço de email, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-Você pode atribuir partições de pessoa a  [espaços de trabalho](create-a-new-workspace.md) nas seguintes configurações:
+Você pode atribuir partições de pessoas a [espaços de trabalho](create-a-new-workspace.md) nas seguintes configurações:
 
 * um espaço de trabalho para uma partição de pessoa (1:1)
 * um espaço de trabalho para muitas partições de pessoas (1:x)

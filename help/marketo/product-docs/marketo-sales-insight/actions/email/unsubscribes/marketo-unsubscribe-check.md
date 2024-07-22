@@ -24,11 +24,11 @@ A Verificação de cancelamento de inscrição do Marketo usa a conexão de sua 
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. Em Configurações do administrador, clique em **Cancelamentos de assinatura**.
+1. Em Configurações do administrador, clique em **Cancelar assinatura**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Clique em **Integrações** guia. Na seção Cancelar inscrição da verificação do Marketo, clique no controle deslizante para ativar a verificação.
+1. Clique na guia **Integrações**. Na seção Cancelar inscrição da verificação do Marketo, clique no controle deslizante para ativar a verificação.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

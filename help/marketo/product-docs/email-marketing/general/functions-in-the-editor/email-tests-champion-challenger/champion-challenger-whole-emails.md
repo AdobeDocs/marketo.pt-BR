@@ -17,9 +17,9 @@ Testar emails inteiros entre si. Quando o teste terminar, envie o executor super
 
 >[!PREREQUISITES]
 >
->[Adicione um Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Adicionar um Especialista/Desafiador de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. No editor de teste de email, selecione **Emails inteiros** no **Tipo de teste** menu suspenso.
+1. No editor de teste de email, selecione **Emails Completos** no menu suspenso **Tipo de Teste**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Testar emails inteiros entre si. Quando o teste terminar, envie o executor super
    >
    >Lembre-se: o email original é o campeão. Os adversários competem contra isso.
 
-1. Localize e selecione o **Desafiadores** e-mail(s), depois clique em **Clonar**.
+1. Localize e selecione o(s) email(s) **Desafiadores** e clique em **Clonar**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,7 +47,7 @@ Testar emails inteiros entre si. Quando o teste terminar, envie o executor super
 
    Para obter confiança estatística, verifique se a porcentagem atribuída aos desafiantes inclui pessoas suficientes para que o teste seja válido. Não se deixe enganar por resultados inconclusivos.
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
@@ -55,4 +55,4 @@ Testar emails inteiros entre si. Quando o teste terminar, envie o executor super
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: defina critérios de Champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Especialista/Desafiador: Definir Critérios Especialistas](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

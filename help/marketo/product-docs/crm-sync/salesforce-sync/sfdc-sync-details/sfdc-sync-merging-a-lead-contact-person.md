@@ -6,7 +6,7 @@ exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Às vezes é melhor apenas listar as regras. Aqui vamos nós:
 
-* Ao mesclar dois leads em **Salesforce**, a sincronização normal informa ao Marketo Engage e os leads são mesclados automaticamente como pessoas no Marketo.
-* Mesclar duas pessoas em **Marketo** na verdade, invoca o mesmo processo que mesclá-los como leads no Salesforce. Ele ainda funciona automaticamente.
+* Ao mesclar dois clientes em potencial no **Salesforce**, a sincronização normal informa ao Marketo Engage e os clientes em potencial são mesclados automaticamente como pessoas no Marketo.
+* Mesclar duas pessoas no **Marketo** invoca o mesmo processo que mesclá-las como clientes em potencial no Salesforce. Ele ainda funciona automaticamente.
 * Mesclar um **lead (pessoa) em um contato** funciona da mesma maneira. Você acaba com um único contato de ambos os lados.
 * Ao mesclar, a pontuação padrão é somada.
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Detalhes para obter mais informações sobre [mesclar pessoas no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Aprofundamento para obter mais informações sobre [mesclando pessoas no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

@@ -17,11 +17,11 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo!
 
 >[!PREREQUISITES]
 >
->Você deve [Configurar a integração do Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Você deve [Configurar a Integração do Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. No Facebook Power Editor, selecione uma campanha, um anúncio e clique em **Editar**.
 
-1. Em **Links**, clique no link **Exibir no aplicativo móvel** link.
+1. Em **Links**, clique no link **Exibir no aplicativo móvel**.
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
@@ -29,7 +29,7 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo!
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. No dispositivo móvel, toque em **Notificação** no aplicativo móvel do Facebook.
+1. Em seu dispositivo móvel, toque em **Notificações** no aplicativo móvel do Facebook.
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
@@ -45,7 +45,7 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo!
    >
    >Este é apenas um exemplo, que usa um Plano de ação Saiba mais. O Plano de ação da unidade de anúncio principal pode ser diferente.
 
-1. É aqui que a magia acontece! Depois de enviar o formulário, [criar uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados principal que usa o **Formulário de anúncios de clientes potenciais da Facebook preenchido** filtro. Insira o Nome do formulário do anúncio de cliente potencial do formulário que acabou de enviar.
+1. É aqui que a magia acontece! Depois de enviar o formulário, [crie uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados de clientes potenciais que usa o **Formulário de Anúncios de Clientes Potenciais do Facebook Preenchido**. Insira o Nome do formulário do anúncio de cliente potencial do formulário que acabou de enviar.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -57,4 +57,4 @@ Isso é legal ou o quê?
 
 >[!NOTE]
 >
->[Ativar/desativar anúncios de clientes potenciais da Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Habilitar/Desabilitar Anúncios De Cliente Potencial Da Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

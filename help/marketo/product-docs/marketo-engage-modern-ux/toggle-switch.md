@@ -46,11 +46,11 @@ A nova experiência será carregada.
 
 ![](assets/toggle-switch-5.png)
 
-Para ativá-lo para _all_ clique no ícone de engrenagem ao lado da chave liga/desliga.
+Para habilitá-lo para _todos_ recursos, clique no ícone de engrenagem ao lado da chave de alternância.
 
 ![](assets/toggle-switch-6.png)
 
-Selecionar **Ativar para todos os recursos disponíveis** e clique em **OK**.
+Selecione **Habilitar para todos os recursos disponíveis** e clique em **OK**.
 
 ![](assets/toggle-switch-7.png)
 

@@ -23,21 +23,21 @@ Configure o Marketo Sales Insight no Salesforce Professional Edition seguindo as
 
 >[!NOTE]
 >
->**São necessárias permissões de administrador.**
+>**Permissões de administrador são necessárias.**
 
 ## Configurar o Sales Insight no Marketo Engage {#configure-sales-insight-in-marketo}
 
 1. Para obter as credenciais do Marketo Sales Insight da sua conta do Marketo, abra uma nova janela do navegador.
 
-1. Vá para a **[!UICONTROL Admin]** e selecione **[!UICONTROL Sales Insight]**.
+1. Vá para a área **[!UICONTROL Administrador]** e selecione **[!UICONTROL Sales Insight]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1-1.png)
 
-1. Clique em **[!UICONTROL Editar configuração da API]**.
+1. Clique em **[!UICONTROL Editar Configuração de API]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2-1.png)
 
-1. Insira uma chave secreta de API de sua escolha e clique em **[!UICONTROL Salvar]**. NÃO use um E comercial (`&`) na sua chave secreta de API.
+1. Insira uma chave secreta de API de sua escolha e clique em **[!UICONTROL Salvar]**. NÃO use um E comercial (`&`) na chave secreta da API.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3-1.png)
 
@@ -45,33 +45,33 @@ Configure o Marketo Sales Insight no Salesforce Professional Edition seguindo as
    >
    >Sua chave secreta de API é como uma senha para sua organização e deve ser segura.
 
-1. Para preencher as credenciais, clique em **[!UICONTROL Exibir]** no _[!UICONTROL Configuração da API Rest]_ painel.
+1. Para preencher as credenciais, clique em **[!UICONTROL Exibir]** no painel _[!UICONTROL Configuração da API Rest]_.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 
-1. Quando aparecer uma caixa de diálogo de confirmação, clique em **[!UICONTROL OK]**.
+1. Quando você vir uma caixa de diálogo de confirmação, clique em **[!UICONTROL OK]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5-1.png)
 
 ## Configurar o Sales Insight no Salesforce {#configure-sales-insight-in-salesforce}
 
-1. No Salesforce, clique em **[!UICONTROL Configuração]**.
+1. No Salesforce, clique em **[!UICONTROL Configurar]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6-1.png)
 
-1. Procure por &quot;local remoto&quot; e selecione **[!UICONTROL Configurações do site remoto]**.
+1. Procure por &quot;site remoto&quot; e selecione **[!UICONTROL Configurações do Site Remoto]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7-1.png)
 
-1. Clique em **[!UICONTROL Novo local remoto]**.
+1. Clique em **[!UICONTROL Novo Site Remoto]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Insira o Nome do local remoto (pode ser algo semelhante a `MarketoSoapAPI`). Insira o URL do site remoto, que é o URL de host do Marketo no painel Configuração da API Soap no Marketo Engage. Clique em **[!UICONTROL Salvar]**. Agora você criou configurações de site remoto para a API Soap.
+1. Insira o Nome do Site Remoto (pode ser algo semelhante a `MarketoSoapAPI`). Insira o URL do site remoto, que é o URL de host do Marketo no painel Configuração da API Soap no Marketo Engage. Clique em **[!UICONTROL Salvar]**. Agora você criou configurações de site remoto para a API Soap.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
-1. Clique em **[!UICONTROL Novo local remoto]** novamente.
+1. Clique novamente em **[!UICONTROL Novo Site Remoto]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
@@ -81,7 +81,7 @@ Configure o Marketo Sales Insight no Salesforce Professional Edition seguindo as
 
 Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchanges não podem mais conceder permissão a objetos padrão, e o acesso deve ser concedido aos objetos relevantes do Salesforce a partir do perfil do usuário do Salesforce. Conceda as permissões necessárias seguindo estas etapas.
 
-1. Clique em **[!UICONTROL Configuração]**.
+1. Clique em **[!UICONTROL Instalação]**.
 
 1. Pesquise &quot;Perfis&quot; em Localização rápida.
 
@@ -93,23 +93,23 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchange
 
 ## Personalizar layouts de página {#customize-page-layouts}
 
-1. Clique em **[!UICONTROL Configuração]**.
+1. Clique em **[!UICONTROL Instalação]**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
-1. Procure por &quot;layout da página&quot; e selecione o **[!UICONTROL Layout da página]** em **[!UICONTROL Clientes potenciais]**.
+1. Procure por &quot;layout de página&quot; e selecione o **[!UICONTROL Layout de Página]** em **[!UICONTROL Clientes potenciais]**.
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
-1. Clique em **[!UICONTROL Visualforce Páginas]** à esquerda. Arrastar **[!UICONTROL Seção]** para o layout abaixo da seção Links personalizados.
+1. Clique em **[!UICONTROL Visualforce Pages]** à esquerda. Arraste **[!UICONTROL Seção]** para o layout abaixo da seção Links Personalizados.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Insira &quot;Marketo Sales Insight&quot; como o **[!UICONTROL Nome da seção]**. Selecionar **[!UICONTROL 1-coluna]** e clique em **[!UICONTROL OK]**.
+1. Insira &quot;Marketo Sales Insight&quot; como o **[!UICONTROL Nome da seção]**. Selecione **[!UICONTROL 1-Coluna]** e clique em **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Arrastar e soltar **Lead** na nova seção.
+1. Arraste e solte **Lead** na nova seção.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
@@ -117,7 +117,7 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchange
    >
    >O nome dessa caixa é alterado com base no tipo de objeto. Por exemplo, se você estiver modificando o layout de página para Contatos, ele exibirá Contato.
 
-1. Clique duas vezes no ícone **[!UICONTROL Lead]** bloco que você acabou de adicionar.
+1. Clique duas vezes no bloco **[!UICONTROL Lead]** que você acabou de adicionar.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
@@ -127,31 +127,31 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchange
 
    >[!NOTE]
    >
-   >Marcar **[!UICONTROL Mostrar barras de rolagem]** se você precisar de acesso para rolar pelas atividades.
+   >Marque **[!UICONTROL Mostrar barras de rolagem]** se precisar de acesso para rolar pelas atividades.
 
    >[!TIP]
    >
    >A altura recomendada para os objetos Contas e Oportunidades é de 410 pixels.
 
-1. Clique em **[!UICONTROL Campos]** à esquerda. Em seguida, pesquise e arraste o **[!UICONTROL Envolvimento]** rótulo na caixa **[!UICONTROL Marketo Sales Insight]** layout.
+1. Clique em **[!UICONTROL Campos]** à esquerda. Em seguida, pesquise e arraste o rótulo **[!UICONTROL Envolvimento]** para o layout **[!UICONTROL Marketo Sales Insight]**.
 
    ![](assets/image2015-5-22-16-3a32-3a46-1.png)
 
 1. Repita a etapa anterior para os seguintes campos:
 
-   * [!UICONTROL Envolvimento]
-   * [!UICONTROL Valor da pontuação relativa]
-   * [!UICONTROL Valor de urgência]
-   * [!UICONTROL Data do último momento interessante]
+   * [!UICONTROL Compromisso]
+   * [!UICONTROL Valor de Pontuação Relativo]
+   * [!UICONTROL Valor de Urgência]
+   * [!UICONTROL Data do Último Momento Interessante]
    * [!UICONTROL Última Descrição de Momento Interessante]
-   * [!UICONTROL Última origem de momento interessante]
+   * [!UICONTROL Último Source de Momento Interessante]
    * [!UICONTROL Último tipo de momento interessante]
 
 1. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Para adicionar seções da página do Visualforce para **[!UICONTROL Contato]**, **[!UICONTROL Conta]**, e **[!UICONTROL Oportunidade]**, repita as etapas de 5 a 7.
+1. Para adicionar seções de página do Visualforce para **[!UICONTROL Contato]**, **[!UICONTROL Conta]** e **[!UICONTROL Oportunidade]**, repita as etapas de 5 a 7.
 
 1. Repita as etapas 8 a 10 para adicionar campos do Sales Insight para **[!UICONTROL Contato]**. Certifique-se de salvar após as alterações.
 
@@ -159,7 +159,7 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchange
 
 Os campos de pessoa do Marketo devem ser mapeados para campos de contato do Salesforce para garantir que a conversão funcione corretamente. Siga estas etapas para mapeá-las.
 
-1. Clique em **[!UICONTROL Configuração]**.
+1. Clique em **[!UICONTROL Instalação]**.
 
    ![](assets/image2015-5-22-14-3a40-3a39-1.png)
 
@@ -167,7 +167,7 @@ Os campos de pessoa do Marketo devem ser mapeados para campos de contato do Sale
 
    ![](assets/image2015-6-1-9-3a54-3a50-1.png)
 
-1. Clique em **[!UICONTROL Mapear campos de lead]**.
+1. Clique em **[!UICONTROL Mapear campos de cliente em potencial]**.
 
    ![](assets/image2015-6-1-9-3a58-3a48-1.png)
 
@@ -175,7 +175,7 @@ Os campos de pessoa do Marketo devem ser mapeados para campos de contato do Sale
 
    ![](assets/image2015-6-1-10-3a9-3a53-1.png)
 
-1. Selecionar **[!UICONTROL Contact.Engagement]** na lista.
+1. Selecione **[!UICONTROL Contact.Engagement]** na lista.
 
    ![](assets/image2015-6-1-10-3a12-3a11-1.png)
 
@@ -199,11 +199,11 @@ Os campos de pessoa do Marketo devem ser mapeados para campos de contato do Sale
 
 ## Guia de configuração do Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
-1. No Salesforce, clique na guia **+** no final da barra de guias e clique em **[!UICONTROL Configuração do Marketo Sales Insight]**.
+1. No Salesforce, clique em **+** no final da barra de guias e clique em **[!UICONTROL Configuração do Marketo Sales Insight]**.
 
-1. Copie as credenciais do painel API Soap em [Página do administrador do Sales Insight da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} e cole-os na seção API SOAP da página Configuração do Salesforce Sales Insight.
+1. Copie as credenciais do painel API Soap na [página Admin. do Sales Insight do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} e cole-as na seção API Soap da página Configuração do Salesforce Sales Insight.
 
-1. Copie as credenciais de **[!UICONTROL API Rest]** painel no [Página do administrador do Sales Insight da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} e cole-os na seção API Rest da página Configuração do Salesforce Sales Insight.
+1. Copie as credenciais do painel **[!UICONTROL API Rest]** na [página Admin. do Sales Insight da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} e cole-as na seção API Rest da página Configuração do Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
@@ -211,7 +211,7 @@ Você poderá ver os campos Marketo Sales Insight para clientes potenciais, cont
 
 >[!NOTE]
 >
->Se o teste de diagnóstico falhar, [adicionar mais campos ao layout da página](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} O pode corrigir o problema.
+>Se o teste de diagnóstico falhar, [adicionar mais campos ao layout de página](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} poderá corrigir o problema.
 
 >[!NOTE]
 >
@@ -221,4 +221,4 @@ Você poderá ver os campos Marketo Sales Insight para clientes potenciais, cont
 >
 >* [Prioridade, Urgência, Pontuação Relativa e Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
 >* [Adicionar a guia Marketo ao Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"}
->* [Adicionar acesso ao Sales Insight aos perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>* [Adicionar Acesso ao Sales Insight aos Perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

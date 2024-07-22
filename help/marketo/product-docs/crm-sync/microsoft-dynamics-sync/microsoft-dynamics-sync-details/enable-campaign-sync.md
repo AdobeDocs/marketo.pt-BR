@@ -22,7 +22,7 @@ Essa opção permite que o Marketo Engage adicione e remova membros do MS Dynami
 >
 >**Permissões de administrador necessárias**
 
-1. Em Meu Marketo, clique em **[!UICONTROL Admin]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -34,7 +34,7 @@ Essa opção permite que o Marketo Engage adicione e remova membros do MS Dynami
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Selecione o **[!UICONTROL Habilitar a sincronização de campanha do Microsoft Dynamics]** e clique em **[!UICONTROL Salvar]**.
+1. Marque a caixa de seleção **[!UICONTROL Habilitar a sincronização de campanha do Microsoft Dynamics]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/enable-campaign-sync-4.png)
 

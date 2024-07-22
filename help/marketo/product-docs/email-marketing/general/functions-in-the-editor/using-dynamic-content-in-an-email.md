@@ -6,7 +6,7 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ Use o Conteúdo dinâmico em emails para enviar informações direcionadas aos s
 
 >[!NOTE]
 >
->O uso de variáveis no conteúdo dinâmico em um email só é compatível com o uso de Campanhas de acionador. É necessário **não** compatível ao usar Campanhas em lote.
+>O uso de variáveis no conteúdo dinâmico em um email só é compatível com o uso de Campanhas de acionador. **Não** suportado ao usar Campanhas em Lote.
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu email e clique em **Editar rascunho**.
+1. Selecione seu email e clique em **Editar Rascunho**.
 
    ![](assets/1.2.png)
 
-1. Neste exemplo, estamos tornando a Linha de assunto dinâmica. Clique no campo Assunto e, em seguida, clique no link **Tornar dinâmico** botão.
+1. Neste exemplo, estamos tornando a Linha de assunto dinâmica. Clique no campo Assunto e no botão **Tornar dinâmico**.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Você também pode tornar um elemento dentro do email dinâmico. Para fazer isso, selecione a área, clique no ícone de engrenagem e selecione **Tornar dinâmico** (ou [Substituir pelo trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), dependendo do que você estiver fazendo).
+   >Você também pode tornar um elemento dentro do email dinâmico. Para fazer isso, selecione a área, clique no ícone de engrenagem e selecione **Tornar dinâmico** (ou [Substituir por trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), dependendo do que você estiver fazendo).
 
 1. Insira o nome da Segmentação, selecione-o e clique em **Salvar**.
 
@@ -75,5 +75,5 @@ Doce! Agora você pode enviar emails flexíveis para seu público-alvo.
 
 >[!MORELIKETHIS]
 >
->* [Pré-visualizar um email com conteúdo dinâmico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
->* [Usar conteúdo dinâmico em uma landing page](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
+>* [Visualizar um Email com Conteúdo Dinâmico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Usar Conteúdo Dinâmico em uma Página de Aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

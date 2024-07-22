@@ -29,7 +29,7 @@ Na Campanha inteligente, localize e selecione a campanha do Dynamics à qual des
 >Se não for possível ver uma campanha do Dynamics na lista de campanhas:
 >
 >* Verifique se a Sincronização do Campaign está funcional
->* A campanha não está ativa no [!DNL Microsoft Dynamics]
+>* A campanha não está ativa em [!DNL Microsoft Dynamics]
 
 O sistema cria automaticamente uma Lista de marketing estática específica da campanha, cada uma para leads e contatos, à qual a pessoa será adicionada. É uma ação única e, uma vez para sincronizações subsequentes da campanha, a mesma Lista de marketing é usada. O padrão de nomenclatura adotado para o nome estático da Lista de marketing é `Mkto-leads-<uniqueID>` para clientes potenciais e `Mkto-contacts-<uniqueID>` para contatos.
 
@@ -52,4 +52,4 @@ Na Campanha inteligente, localize e selecione a campanha do Dynamics da qual des
 >Se você não vir uma campanha do Dynamics na lista de campanhas:
 >
 >* Verifique se a Sincronização do Campaign está funcional
->* A campanha não está ativa no [!DNL Microsoft Dynamics]
+>* A campanha não está ativa em [!DNL Microsoft Dynamics]

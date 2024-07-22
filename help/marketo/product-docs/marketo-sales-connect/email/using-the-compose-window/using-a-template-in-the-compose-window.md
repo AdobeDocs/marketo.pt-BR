@@ -6,7 +6,7 @@ exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Localização e uso de modelos {#finding-and-using-templates}
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/one-6.png)
 
@@ -41,17 +41,17 @@ ht-degree: 0%
 
 ## Fixando Categorias de Modelo na Janela Compor {#pinning-template-categories-in-the-compose-window}
 
-Favorito **até cinco** categorias de modelo específicas para obter acesso rápido aos modelos mais usados.
+Marque **até cinco** categorias de modelo específicas para obter acesso rápido aos modelos mais usados.
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/one-6.png)
 
-1. Clique em **+** ícone ao lado de Favoritos.
+1. Clique no ícone **+** ao lado de Favoritos.
 
    ![](assets/pinning-two.png)
 
-1. Clique em **Fixar uma Categoria** e selecione a categoria desejada.
+1. Clique no menu suspenso **Fixar uma Categoria** e selecione a categoria desejada.
 
    ![](assets/pinning-three.png)
 
@@ -67,6 +67,6 @@ Favorito **até cinco** categorias de modelo específicas para obter acesso ráp
 
    >[!NOTE]
    >
-   >**Favoritos** está lá por padrão. Ele contém templates de email favoritos, não categorias.
+   >Por padrão, **Favoritos** estão lá. Ele contém templates de email favoritos, não categorias.
 
    A categoria selecionada agora está fixada.

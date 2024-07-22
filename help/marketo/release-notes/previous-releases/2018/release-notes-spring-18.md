@@ -31,13 +31,13 @@ Impulsione mais pipeline e receita fortalecendo as vendas com inteligência, con
 
 **ToutApp**
 
-* **Cartão de conformidade**: garanta a conformidade com o GDPR capturando a fonte de contatos de vendas e os detalhes do consentimento do cliente para receber comunicações.
-* **Atualização da Política de Senha**: mantenha seus dados mais seguros com requisitos mais rígidos para criação, redefinição e expiração de senha (atende aos requisitos de conformidade Soc II - Tipo 1).
-* **Experiência simplificada de configuração de conta**: configure sua conta e conecte-se mais rápido ao Gmail, Outlook e outros sistemas.
+* **Cartão de Conformidade**: garanta a conformidade com o GDPR capturando a fonte dos contatos de vendas e os detalhes do consentimento do cliente para receber comunicações.
+* **Atualização da Política de Senha**: mantenha seus dados mais seguros com requisitos mais rigorosos para criação, redefinição e expiração de senha (atende aos requisitos de conformidade Soc II - Tipo 1).
+* **Experiência simplificada de configuração de conta**: configure sua conta e conecte-a mais rapidamente ao Gmail, ao Outlook e a outros sistemas.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/)
+[Marketo Sky Abrir Beta](https://help.marketo.com/)
 
 Acesse o Marketo Sky open beta para obter acesso a mais de 100 novos recursos de aumento de produtividade, incluindo:
 
@@ -49,15 +49,15 @@ Acesse o Marketo Sky open beta para obter acesso a mais de 100 novos recursos de
 
 [Desempenho Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Comparação do Período Ano a Ano**
+**Comparação De Período Ano A Ano**
 
 Obtenha insights mais relevantes comparando os resultados com o mesmo período do ano anterior.
 
-**Tendência para vários canais**
+**Tendências para vários canais**
 
 Compare o desempenho de vários canais ao longo do tempo.
 
-**Sincronização e filtragem de campo personalizado de oportunidade**
+**Sincronização e Filtragem de Campo Personalizado de Oportunidade**
 
 Filtrar resultados por Campos personalizados de oportunidade, como uma região de vendas específica. Para campos numéricos ou de moeda, defina valores mínimos e máximos, como um valor mínimo de Oportunidade, e gere insights para intervalos de dados específicos.
 
@@ -77,7 +77,7 @@ Defina o objetivo do algoritmo de otimização da IA de conteúdo para gerar mai
 
 ## Integração e APIs {#integration-and-apis}
 
-[APIs de lista estática](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+[APIs de Lista Estática](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Gerencie listas entre o Marketo e outros sistemas mais facilmente com novas APIs bidirecionais para criar, ler, atualizar e excluir listas estáticas remotamente sem realizar nenhuma ação na interface do usuário do Marketo.
 

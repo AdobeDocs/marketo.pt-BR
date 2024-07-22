@@ -17,7 +17,7 @@ Os recursos a seguir estão incluídos na versão de dezembro de 2014. Verifique
 
 ## Relatórios de insights de vendas {#sales-insight-reports}
 
-A variável [Relatório de desempenho de e-mail do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permite que você veja as métricas de email por email e Representante de vendas. Ele é compatível com emails enviados por meio do Salesforce, Microsoft Dynamics, plug-in do Outlook e plug-in do Gmail.
+O [Relatório de desempenho de email de insight de vendas](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permite que você veja as métricas de email por email e Representante de vendas. Ele é compatível com emails enviados por meio do Salesforce, Microsoft Dynamics, plug-in do Outlook e plug-in do Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ A variável [Relatório de desempenho de e-mail do Sales Insight](/help/marketo/
 
 ## Públicos Personalizados do Facebook {#facebook-custom-audiences}
 
-Depois que o administrador do Marketo adicionar [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), você pode criar, atualizar ou [substituir um público-alvo personalizado do Facebook por clientes em potencial de uma lista estática ou inteligente do Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Procure o novo ícone do Facebook na parte inferior da grade de clientes potenciais de qualquer lista estática ou inteligente.
+Depois que o administrador do Marketo tiver adicionado o [Facebook via Administrador > Ponto de inicialização](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), você poderá criar, atualizar ou [substituir facilmente um Público-alvo personalizado do Facebook por clientes potenciais de uma lista estática ou inteligente do Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Procure o novo ícone do Facebook na parte inferior da grade de clientes potenciais de qualquer lista estática ou inteligente.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Clonagem aprimorada em espaços de trabalho  {#improved-cloning-across-workspaces}
 
-[Clonagem de um programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) para outro espaço de trabalho nunca foi tão fácil! Ao clicar em clonar, você seleciona o espaço de trabalho de destino. Não é mais necessário clonar em uma pasta e depois movê-la!
+[Clonar um programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) para outro espaço de trabalho nunca foi tão fácil! Ao clicar em clonar, você seleciona o espaço de trabalho de destino. Não é mais necessário clonar em uma pasta e depois movê-la!
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Depois que o administrador do Marketo adicionar [Facebook via Admin > Launchpoin
 
 ## Aprimoramentos na importação de listas {#list-import-improvements}
 
-[Importar arquivos](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codificado em UTF-16, Shift-JIS ou EUC-JP. Continuamos a suportar arquivos codificados UTF-8.
+[Importar arquivos](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) codificados em UTF-16, Shift-JIS ou EUC-JP. Continuamos a suportar arquivos codificados UTF-8.
 
 ## Rastreamento de link no script de email {#link-tracking-in-email-scripting}
 
@@ -69,7 +69,7 @@ Detalhes completos estarão disponíveis após o lançamento em [https://experie
 
 ## Aprimoramentos de compatibilidade do Munchkin Javascript {#munchkin-javascript-compatibility-enhancements}
 
-Fizemos várias melhorias no Munchkin para garantir que ele continue a ser carregado rapidamente e funcionar conforme desejado em casos com outro JavaScript na página.
+Fizemos várias pequenas melhorias no Munchkin para garantir que ele continue a ser carregado rapidamente e funcionar conforme desejado em casos com outros JavaScript na página.
 
 A implantação será preparada a partir de meados de dezembro e continuará pelos próximos meses.
 

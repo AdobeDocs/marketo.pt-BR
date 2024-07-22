@@ -2,10 +2,10 @@
 description: Visão geral da biblioteca de importação do programa - Documentação do Marketo - Documentação do produto
 title: Visão geral da biblioteca de importação do programa
 feature: Programs
-exl-id: 1271c60b-1bcd-458a-bfdc-af0d5535743c
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,41 +14,41 @@ ht-degree: 0%
 
 A Biblioteca de referência do Marketo Engage inclui vários programas iniciais que você pode importar diretamente para a instância do Marketo para iniciar rapidamente a criação de programas que ajudarão a dar suporte à sua equipe.
 
-A biblioteca inclui programas como: email, engajamento, evento, pontuação, capacidade de entrega e operacional. Todos os programas foram desenvolvidos pela Equipe de produtos do Adobe e verificados pelo [Serviços profissionais globais](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} em um esforço para maximizar a qualidade e a eficácia.
+A biblioteca inclui programas como: email, engajamento, evento, pontuação, capacidade de entrega e operacional. Todos os programas foram desenvolvidos pela Equipe de Produtos do Adobe e avaliados pela nossa equipe [global de Serviços Profissionais](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, em um esforço para maximizar a qualidade e a eficácia.
 
 ## Exemplos de programas disponíveis {#available-program-examples}
 
-* [EM-AAAA-MM-DD-Envio de único email](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
+* [Envio de email simples em AAAA-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/em-yyyy-mm-dd-single-email-send.md){target="_blank"}
 
-* [NL-YYYY-MM-Newsletter](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
+* [Boletim informativo/MM/NL-YYYY](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
 
-* [Programa de webinário WBN-YYYY-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
+* [Programa do webinário WBN-YYYY-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
-* [Programa de eventos EV-AAAA-MM-DD](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
+* [Programa de eventos DD-MM-AAAA](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
 
-* [Programa de feiras de vendas em DD/MM/TS-YYYY](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
+* [Programa do Tradeshow no formato DD-MM-TS-AAAA](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
 
-* [NUR-AAAA-MM-Enfermagem Simples](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
+* [Enfermagem simples de NUR-YYYY-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
 
-* [NUR-AAAA-MM-Enfermagem Avançada](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
+* [NUR-YYYY-MM-Advanced Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-advanced-nurture.md){target="_blank"}
 
 * [Conteúdo de CT-YYYY-MM na página de aterrissagem do Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md){target="_blank"}
 
-* [Página de aterrissagem de conteúdo não Marketo CT-YYYY-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
+* [Página de aterrissagem de conteúdo não Marketo CT-YYYY-MM-Content](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
-* [Programa de solicitação da Web WR-YYYY-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+* [Programa de Solicitação Web WR-YYYY-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
 
-* [Página de aterrissagem OA-YYYY-MM-Online Advertising Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
+* [Página de aterrissagem OA-YYYY-MM-Online do Advertising Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
 
-* [Gerenciamento de dados OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
+* [Gerenciamento de OP-Data](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
 
 * [Gerenciamento OP-Lead](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
 
 * [OP-Scoring-Behavior](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md){target="_blank"}
 
-* [Pontuação OP-Demográfica](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
+* [Demográfico de Pontuação OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-demographic.md){target="_blank"}
 
-* [API de aquisição OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
+* [API-OP-Acquisition](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
 
 * [Gerenciamento de Entregabilidade OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
 

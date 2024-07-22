@@ -31,7 +31,7 @@ Queremos que os emails do Sales Connect pareçam uma experiência perfeita ao en
 
    ![](assets/add-your-email-signature-4.png)
 
-1. Insira o texto (ou imagens) desejado e clique em **Salvar**.
+1. Insira o texto (ou imagens) desejado(s) e clique em **Salvar**.
 
    ![](assets/add-your-email-signature-5.png)
 

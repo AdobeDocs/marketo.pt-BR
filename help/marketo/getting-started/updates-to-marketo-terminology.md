@@ -71,15 +71,15 @@ Em alguns casos, a palavra &quot;lead&quot; é simplesmente removida.
  </tbody> 
 </table>
 
-Cliente Potencial e Pessoa **são a mesma coisa**.
+O cliente em potencial e a Pessoa **são a mesma coisa**.
 
 ## Tokens {#tokens}
 
-Tokens com a palavra lead **não estão alterando**. Lamentamos qualquer confusão; no entanto, alterar todos os tokens para corresponder à nova terminologia quebraria muitos tokens em uso no momento. Portanto, você ainda verá tokens como &quot;`{{lead.First Name}}`.&quot; Não há tokens específicos para pessoas.
+Os tokens com a palavra lead neles **não são alterados**. Lamentamos qualquer confusão; no entanto, alterar todos os tokens para corresponder à nova terminologia quebraria muitos tokens em uso no momento. Portanto, você ainda verá tokens como &quot;`{{lead.First Name}}`&quot;. Não há tokens específicos para pessoas.
 
 >[!NOTE]
 >
->Há *é* um token chamado &quot;Notas de pessoa&quot;, no entanto, esse token estava sempre lá. Normalmente, é usado para um campo de descrição no CRM, se for o caso.
+>Existe *um* token chamado &quot;Notas de pessoa&quot;, no entanto esse token sempre esteve lá. Normalmente, é usado para um campo de descrição no CRM, se for o caso.
 
 ## Gerenciamento de campos {#field-management}
 
@@ -110,9 +110,9 @@ Os campos que continham o termo Cliente Potencial foram substituídos por Pessoa
 
 >[!NOTE]
 >
->Para obter uma lista completa dos nomes de campos afetados, visite este [Artigo de suporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
+>Para obter uma lista completa dos nomes de campos afetados, consulte este [Artigo de suporte](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## A Personalização em tempo real (RTP) agora é a Personalização da Web {#real-time-personalization-rtp-is-now-web-personalization}
+## O Real-Time Personalization (RTP) agora é o Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table> 
  <colgroup> 
@@ -139,10 +139,10 @@ Os campos que continham o termo Cliente Potencial foram substituídos por Pessoa
 
 Além da alteração de nome, agora ela consiste em quatro aplicativos separados:
 
-| **[Personalização da Web](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Tem seu próprio bloco na tela inicial |
+| **[Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Tem seu próprio bloco na tela inicial |
 |---|---|
-| **[Marketing pela Web baseado em conta](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Acessível por meio do bloco Personalização da Web |
-| **[Redirecionamento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Acessível por meio do bloco Personalização da Web |
+| **[Marketing pela Web baseado em conta](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Acessível por meio do bloco do Web Personalization |
+| **[Redirecionamento personalizado](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Acessível por meio do bloco do Web Personalization |
 | **[Conteúdo preditivo](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Tem seu próprio bloco na tela inicial |
 
 >[!NOTE]

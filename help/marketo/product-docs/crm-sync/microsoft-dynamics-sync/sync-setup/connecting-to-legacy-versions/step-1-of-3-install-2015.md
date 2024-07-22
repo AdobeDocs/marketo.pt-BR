@@ -6,8 +6,8 @@ exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 1%
+source-wordcount: '296'
+ht-degree: 0%
 
 ---
 
@@ -21,17 +21,17 @@ Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, pr
 
 >[!PREREQUISITES]
 >
->Se estiver usando o Microsoft Dynamics no local, você deve ter [Implantação voltada para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configurado. Observação: o documento IFD é baixado automaticamente quando você clica no link.
+>Se você estiver usando o Microsoft Dynamics No Local, deve ter o [Implantação para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configurado. Observação: o documento IFD é baixado automaticamente quando você clica no link.
 >
->[Baixe a solução de gerenciamento líder da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de começar.
+>[Baixe a Solução de Gerenciamento de Clientes Potenciais da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de começar.
 
 >[!NOTE]
 >
->**Permissões de administrador do Dynamics necessárias**.
+>**Permissões de Administrador do Dynamics necessárias**.
 >
 >Você precisa de privilégios de administrador do CRM para executar esta sincronização.
 
-1. Faça logon no Dynamics. Clique em **[!UICONTROL Microsoft Dynamics CRM]** e selecione **[!UICONTROL Configurações]**.
+1. Faça logon no Dynamics. Clique no menu suspenso **[!UICONTROL Microsoft Dynamics CRM]** e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -43,11 +43,11 @@ Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, pr
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Clique em **[!UICONTROL Procurar]** e selecione a solução que você [baixado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Próximo]**.
+1. Clique em **[!UICONTROL Procurar]** e selecione a solução que você [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Exiba as Informações da Solução e clique em **[!UICONTROL Exibir detalhes do pacote de soluções]**.
+1. Exiba as Informações da Solução e clique em **[!UICONTROL Exibir detalhes do pacote da solução]**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -55,7 +55,7 @@ Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, pr
 
    ![](assets/step6.png)
 
-1. Na página Informações da solução, clique em **[!UICONTROL Próxima]**.
+1. Na página Informações da solução, clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -79,11 +79,11 @@ Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, pr
 
    ![](assets/image2015-3-13-9-54-39.png)
 
-1. O Gerenciamento de clientes potenciais da Marketo agora aparecerá no **[!UICONTROL Todas as soluções]** página.
+1. O Gerenciamento de Clientes Potenciais da Marketo agora aparecerá na página **[!UICONTROL Todas as Soluções]**.
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. Selecione a solução da Marketo e clique em **[!UICONTROL Publicar todas as personalizações]**.
+1. Selecione a solução da Marketo e clique em **[!UICONTROL Todas as personalizações do Publish]**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 

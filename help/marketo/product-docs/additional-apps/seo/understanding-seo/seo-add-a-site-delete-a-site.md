@@ -21,7 +21,7 @@ Para que o Marketo extraia dados (links de entrada e recomendações) relevantes
 
 ## [!UICONTROL Adicionar um site] {#add-a-site}
 
-1. Clique na lista suspensa Admin e selecione **[!UICONTROL Admin]**.
+1. Clique na lista suspensa Administrador e selecione **[!UICONTROL Administrador]**.
 
    >[!NOTE]
    >
@@ -29,7 +29,7 @@ Para que o Marketo extraia dados (links de entrada e recomendações) relevantes
 
    ![](assets/one.png)
 
-1. Clique em **[!UICONTROL Adicionar site]**.
+1. Clique em **[!UICONTROL Adicionar Site]**.
 
    ![](assets/two.png)
 
@@ -37,7 +37,7 @@ Para que o Marketo extraia dados (links de entrada e recomendações) relevantes
 
    >[!TIP]
    >
-   >Você também pode adicionar um **[!UICONTROL URL do blog]** se você tiver um.
+   >Você também pode adicionar uma **[!UICONTROL URL do blog]**, se você tiver uma.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -49,7 +49,7 @@ Para que o Marketo extraia dados (links de entrada e recomendações) relevantes
 
 Se você estiver rastreando mais de um site, também poderá excluir um site que não esteja mais interessado em otimizar.
 
-1. Clique na lista suspensa Admin e selecione **[!UICONTROL Admin]**.
+1. Clique na lista suspensa Administrador e selecione **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
@@ -67,4 +67,4 @@ Se você estiver rastreando mais de um site, também poderá excluir um site que
 
    >[!NOTE]
    >
-   >Você só pode excluir um site se tiver mais de um. Se você tiver apenas um, poderá executar uma redefinição selecionando o site e clicando em **[!UICONTROL Redefinir]**. A redefinição de um site _excluir todos os dados do site_ e recriar o site.
+   >Você só pode excluir um site se tiver mais de um. Se você tiver apenas um, poderá executar uma redefinição selecionando o site e clicando em **[!UICONTROL Redefinir]**. Redefinir um site _excluirá todos os dados do site_ e recriará o site.

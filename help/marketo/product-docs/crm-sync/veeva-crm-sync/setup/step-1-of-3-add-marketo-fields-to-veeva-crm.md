@@ -5,8 +5,8 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 8%
+source-wordcount: '527'
+ht-degree: 7%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 O Marketo Engage usa um conjunto de campos para capturar determinados tipos de informações relacionadas a marketing. Se você quiser esses dados em Veeva CRM, por favor, siga as instruções abaixo.
 
-`1.` Criar um campo personalizado no Veeva CRM nos objetos de contato: Pontuação
+`1.` Crie um campo personalizado no Veeva CRM nos objetos de contato: Pontuação
 
 `2.` Você pode criar campos adicionais, se desejar (consulte a tabela abaixo).
 
@@ -30,11 +30,11 @@ Adicione um campo personalizado ao cliente potencial e aos objetos de contato no
 
 Execute as seguintes etapas para que o campo Score o adicione.
 
-1. Faça logon no Veeva CRM e clique em **[!UICONTROL Configuração]**.
+1. Faça logon no Veeva CRM e clique em **[!UICONTROL Instalação]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Clique em **[!UICONTROL Objetos e campos]** e selecione **[!UICONTROL Gerenciador de objetos]**.
+1. Clique em **[!UICONTROL Objetos e Campos]** e selecione **[!UICONTROL Gerenciador de Objetos]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,9 +42,9 @@ Execute as seguintes etapas para que o campo Score o adicione.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Clique em **[!UICONTROL Contato]** objeto.
+1. Clique no objeto **[!UICONTROL Contato]**.
 
-1. Selecionar **[!UICONTROL Campos e Relações]**.
+1. Selecione **[!UICONTROL Campos e Relações]**.
 
 1. Clique em **[!UICONTROL Novo]**.
 
@@ -54,11 +54,11 @@ Execute as seguintes etapas para que o campo Score o adicione.
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Clique em **[!UICONTROL Próximo]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Insira o **[!UICONTROL Rótulo do campo]**, **[!UICONTROL Length]**, e **[!UICONTROL Nome do campo]** para o campo, conforme mostrado na tabela abaixo.
+1. Insira o **[!UICONTROL Rótulo do campo]**, **[!UICONTROL Comprimento]** e **[!UICONTROL Nome do campo]** para o campo, conforme mostrado na tabela abaixo.
 
 <table>
  <tbody>
@@ -88,11 +88,11 @@ Casas decimais 0</td>
 >
 >Os campos de texto e número exigem comprimento, mas os campos de Data/Hora não. Uma descrição é opcional.
 
-1. Clique em **[!UICONTROL Próximo]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Especifique as configurações de acesso e clique em **[!UICONTROL Próxima]**.
+1. Especifique as configurações de acesso e clique em **[!UICONTROL Avançar]**.
 
 1. Defina todas as funções como Visível e Somente leitura.
 
@@ -105,7 +105,7 @@ Casas decimais 0</td>
 
 1. Escolha os layouts de página que devem exibir o campo.
 
-1. Clique em **[!UICONTROL Salvar e novo]** para voltar e criar cada um dos outros dois campos personalizados.
+1. Clique em **[!UICONTROL Salvar e Novo]** para voltar e criar cada um dos outros dois campos personalizados.
 
 1. Clique em **[!UICONTROL Salvar]** quando terminar com todos os três.
 
@@ -126,43 +126,43 @@ OPCIONAL: Use o procedimento acima para qualquer campo personalizado adicional d
    <th>Atributos do campo
   </tr>
   <tr>
-   <td>Cidade inferida</td>
+   <td>Cidade indicada</td>
    <td>mkto71_Cidade_inferida</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Empresa inferida</td>
+   <td>Empresa indicada</td>
    <td>mkto71_Inferred_Company</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>País inferido</td>
+   <td>País indicado</td>
    <td>mkto71_Inferred_Country</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Área metropolitana inferida</td>
+   <td>Área metropolitana indicada</td>
    <td>mkto71_Inferred_Metropolitan_Area</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Código de área telefônica inferido</td>
+   <td>Código de área telefônica indicado</td>
    <td>mkto71_Inferred_Phone_Area_Code</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Código postal inferido</td>
+   <td>Código postal indicado</td>
    <td>mkto71_Inferred_Postal_Code</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Região inferida</td>
+   <td>Estado/região indicado</td>
    <td>mkto71_Inferred_State_Region</td>
    <td>Texto</td>
    <td>Comprimento 255</td>

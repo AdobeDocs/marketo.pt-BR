@@ -23,8 +23,8 @@ Estes são sete cenários e resultados possíveis que devem ser considerados par
 |---|---|---|
 | Uma campanha em um programa padrão separado e independente | Não é membro do programa padrão | Sim |
 | Uma campanha em um programa padrão separado e independente | Um membro do programa padrão | Não |
-| Uma campanha em um programa padrão acionada a partir de uma conversão na variável **igual** Programa CEE | Um membro do programa padrão | Não |
-| Uma campanha em um programa padrão acionada a partir de uma conversão na variável **igual** Programa CEE | Não é membro do programa padrão | Sim |
-| Uma campanha em um programa padrão que é acionada a partir de uma conversão em um **diferente** Programa CEE | Um membro do programa padrão | Não |
-| Uma campanha em um programa padrão que é acionada a partir de uma conversão em um **diferente** Programa CEE | Não é membro do programa padrão | Sim |
-| A **diferente** Programa CEE usando um fluxo inteligente | Um membro de ambos os programas da CEE | Não |
+| Uma campanha em um programa padrão que é acionada a partir de uma conversão no programa CEE **same** | Um membro do programa padrão | Não |
+| Uma campanha em um programa padrão que é acionada a partir de uma conversão no programa CEE **same** | Não é membro do programa padrão | Sim |
+| Uma campanha em um programa padrão que é acionada a partir de uma conversão em um programa CEE **diferente** | Um membro do programa padrão | Não |
+| Uma campanha em um programa padrão que é acionada a partir de uma conversão em um programa CEE **diferente** | Não é membro do programa padrão | Sim |
+| Um programa CEE **different** usando um fluxo inteligente | Um membro de ambos os programas da CEE | Não |

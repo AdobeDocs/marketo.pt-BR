@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ Os links nos emails de assinatura de relatório expiram após três dias. Para a
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** seção.
+1. Vá para a seção **[!UICONTROL Admin]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
@@ -27,7 +27,7 @@ Os links nos emails de assinatura de relatório expiram após três dias. Para a
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. Clique em **[!UICONTROL Editar expiração de URL]**.
+1. Clique em **[!UICONTROL Editar expiração da URL]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
@@ -37,4 +37,4 @@ Os links nos emails de assinatura de relatório expiram após três dias. Para a
 
 >[!IMPORTANT]
 >
->Essa configuração se aplica somente a links em relatórios e alertas. Ele faz **não** aplicar ao email [baixar relatório](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) links ou emails de marketing.
+>Essa configuração se aplica somente a links em relatórios e alertas. Isso **não** se aplica ao link de email [relatório de download](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) ou aos emails de marketing.

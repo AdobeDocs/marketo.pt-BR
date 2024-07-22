@@ -17,7 +17,7 @@ No Analytics, explore dados agregados para entrega e engajamento de email. Use o
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filtragem](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) O está disponível para ajudar você a se aprofundar em métricas específicas.
+A [Filtragem](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) está disponível para ajudá-lo a detalhar métricas específicas.
 
 ![](assets/filter-field.png)
 
@@ -63,4 +63,4 @@ Você também pode especificar o que vê (da esquerda para a direita): Tudo, Pú
 
 >[!MORELIKETHIS]
 >
->[Visão geral dos envios do Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Visão Geral De Envios De Insights De Email](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

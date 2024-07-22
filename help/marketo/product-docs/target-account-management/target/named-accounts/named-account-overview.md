@@ -61,7 +61,7 @@ As contas nomeadas retêm as pessoas das empresas que você está direcionando. 
   </tr> 
   <tr> 
    <td><strong>Código SIC</strong></td> 
-   <td><span><strong>S</strong>padrão <strong>I</strong>industrial <strong>C</strong>Classificação - código de quatro dígitos para classificar setores<br></span></td> 
+   <td><span>Classificação <strong>S</strong>padrão <strong>I</strong>industrial <strong>C</strong>- código de quatro dígitos para classificar indústrias<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Receita</strong></td> 

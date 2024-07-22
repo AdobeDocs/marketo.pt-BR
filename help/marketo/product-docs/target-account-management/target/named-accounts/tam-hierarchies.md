@@ -6,7 +6,7 @@ exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ As empresas podem ter várias divisões e subsidiárias. Essas empresas geralmen
 
 Com as Hierarquias TAM, você pode obter rapidamente informações sobre uma hierarquia inteira ou contas individuais no Painel de Contas Nomeadas.
 
-**Hierarquia não usada**
+**Hierarquia Não Usada**
 
 ![](assets/before.png)
 
-**Uso da Hierarquia**
+**Usando Hierarquia**
 
 ![](assets/after.png)
 
@@ -35,6 +35,6 @@ Com as Hierarquias TAM, você pode obter rapidamente informações sobre uma hie
 >
 >A interface do Marketo só será exibida até 10 níveis abaixo (contas de filhos e netos da conta principal). No entanto, não há limite para o número de contas de filhos que você pode criar.
 
-Direcionar e gerar relatórios sobre hierarquias inteiras com [um clique](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Direcione e relate hierarquias inteiras com [um clique](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

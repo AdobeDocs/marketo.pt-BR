@@ -19,6 +19,6 @@ Você pode personalizar suas preferências de email para determinar quando será
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indique sobre o que você deseja ser alertado por email e clique em **[!UICONTROL Salvar]**.
+1. Indique sobre o que você gostaria de ser alertado por email e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)

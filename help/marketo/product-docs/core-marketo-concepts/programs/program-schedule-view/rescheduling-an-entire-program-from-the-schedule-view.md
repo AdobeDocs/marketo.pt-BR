@@ -19,7 +19,7 @@ Ao clonar um programa ou evento com datas, você provavelmente desejará reagend
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Selecione o menu suspenso Ação de evento. Escolher **[!UICONTROL Reprogramar Entradas]**.
+1. Selecione o menu suspenso Ação de evento. Escolha **[!UICONTROL Reagendar Entradas]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ Ao clonar um programa ou evento com datas, você provavelmente desejará reagend
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Clique em **[!UICONTROL Reprogramar]**.
+1. Clique em **[!UICONTROL Reagendar]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
@@ -41,7 +41,7 @@ Ao clonar um programa ou evento com datas, você provavelmente desejará reagend
 
 >[!NOTE]
 >
->Os ativos que já foram executados não serão movidos.
+>O Assets que já foi executado não será movido.
 
 Agora tudo está reprogramado. Ajuste quaisquer datas específicas, conforme necessário.
 

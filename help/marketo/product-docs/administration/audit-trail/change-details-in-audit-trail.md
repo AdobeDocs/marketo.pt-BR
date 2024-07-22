@@ -6,8 +6,8 @@ exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1913'
-ht-degree: 15%
+source-wordcount: '1902'
+ht-degree: 14%
 
 ---
 
@@ -40,7 +40,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o "nome do espaço de trabalho" do espaço de trabalho <br>Local "Pasta da campanha" ou "programa de engajamento" <br>Nome de programa clonado "novo nome"</td> 
+   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Local "pasta de campanha" ou "programa de engajamento" <br>Nome do programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -117,7 +117,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Removida segmentação</td> 
+   <td>Segmentação removida</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -125,7 +125,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Removido o bloco de conteúdo</td> 
+   <td>Bloco de conteúdo removido</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -149,11 +149,11 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Design studio" na pasta "foldername" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa"<br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Design studio" na pasta "foldername" <br>Nome de ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa"<br>Nome de ativo clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para o "Design studio" na pasta "nome da pasta"<br>ou<br>Transferido para "Atividades de marketing" para "Nome do programa"</td> 
+   <td>Movido para o "Design studio" na pasta "nome da pasta"<br>ou<br>Movido para "Atividades de marketing" no "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -165,7 +165,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Rascunho</td> 
-   <td>O email foi redigido porque o trecho "snippet name" foi aprovado<br>ou<br>O email foi redigido porque o modelo "nome do modelo" foi aprovado</td> 
+   <td>O email foi rascunhado porque o trecho "nome do trecho" foi aprovado<br>ou<br>O email foi rascunhado porque o modelo "nome do modelo" foi aprovado</td> 
   </tr> 
    <td rowspan="17">Programa de e-mail</td> 
    <td>Criar</td> 
@@ -177,7 +177,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o "nome do espaço de trabalho" do espaço de trabalho <br>Local "Pasta da campanha ou programa de engajamento" <br>Nome de programa clonado "novo nome"</td> 
+   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Local "Pasta da campanha ou programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -217,7 +217,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Editar o "nome do comportamento" do comportamento de análise<br>Antigo "nome de comportamento" de comportamento</td> 
+   <td>Editar comportamento de análise "nome do comportamento"<br>Comportamento antigo "nome do comportamento"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
@@ -258,7 +258,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nome da pasta" <br> Nome do ativo clonado "name"</td> 
+   <td>Clonado para "nome da pasta" <br> Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -269,7 +269,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td rowspan="23">Programa de envolvimento</td> 
+   <td rowspan="23">Programa de engajamento</td> 
    <td>Criar</td> 
    <td>Tipo de canal "tipo de canal"<br> ou<br> Clonado de "nome do programa"</td> 
   </tr> 
@@ -279,7 +279,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o "nome do espaço de trabalho" do espaço de trabalho <br>Local "Pasta da campanha ou programa de engajamento" <br>Nome de programa clonado "novo nome"</td> 
+   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Local "Pasta da campanha ou programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -303,7 +303,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Modificar fluxo de programas</td> 
-   <td>Adicionar conteúdo<br>Nome do fluxo "nome do fluxo"<br>Digite "Email" ou "Programa"<br>Nome "nome de email" ou "nome do programa"<br>Campanha inteligente "nome da campanha inteligente"</td> 
+   <td>Adicionar conteúdo<br>Nome do fluxo "nome do fluxo"<br>Digite "Email" ou "Programa"<br>Nome "nome do email" ou "nome do programa"<br>Smart Campaign "nome da campanha inteligente"</td> 
   </tr> 
   <tr> 
    <td>Modificar fluxo de programas</td> 
@@ -335,7 +335,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Editar o "nome do comportamento" do comportamento de análise<br>Antigo "nome de comportamento" de comportamento</td> 
+   <td>Editar comportamento de análise "nome do comportamento"<br>Comportamento antigo "nome do comportamento"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
@@ -376,7 +376,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para o "nome do espaço de trabalho" do espaço de trabalho <br>Local "pasta da campanha" ou "programa de envolvimento" <br>Nome de programa clonado "novo nome"</td> 
+   <td>Clonado para o espaço de trabalho "nome do espaço de trabalho" <br>Local "pasta de campanha" ou "programa de envolvimento" <br>Nome do programa clonado "novo nome"</td> 
   </tr> 
   <tr> 
    <td>Editar canal</td> 
@@ -408,7 +408,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
-   <td>Editar o "nome do comportamento" do comportamento de análise<br>Antigo "nome de comportamento" de comportamento</td> 
+   <td>Editar comportamento de análise "nome do comportamento"<br>Comportamento antigo "nome do comportamento"</td> 
   </tr> 
   <tr> 
    <td>Modificar configuração do programa</td> 
@@ -474,7 +474,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Editadas configurações de formulário </td> 
+   <td>Configurações de formulário editadas </td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -482,11 +482,11 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Design studio" na pasta "foldername" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa"<br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Design studio" na pasta "foldername" <br>Nome de ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa"<br>Nome de ativo clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para o "Design studio" na pasta "nome da pasta"<br>ou<br>Transferido para "Atividades de marketing" para "Nome do programa"</td> 
+   <td>Movido para o "Design studio" na pasta "nome da pasta"<br>ou<br>Movido para "Atividades de marketing" no "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Formulários</td> 
@@ -494,7 +494,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
    <td>Usado por # ativos </td> 
   </tr> 
   <tr> 
-   <td rowspan="9">Página</td> 
+   <td rowspan="9">Página de destino</td> 
    <td>Criar</td> 
    <td>Criado usando o modelo "nome do modelo" <br>ou <br>Clonado de "nome do ativo"</td> 
   </tr> 
@@ -520,11 +520,11 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Design studio" na pasta "foldername"<br>Nome do ativo clonado "name"<br>URL de ativo clonado "www.url.com"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa" <br>Nome do ativo clonado "name"<br>URL de ativo clonado "www.url.com"</td> 
+   <td>Clonado para "Design studio" na pasta "foldername"<br>Nome de ativo clonado "name"<br>URL de ativo clonado "www.url.com"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa" <br>Nome de ativo clonado "name"<br>URL de ativo clonado "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Mover</td> 
-   <td>Movido para o "Design studio" na pasta "nome da pasta"<br> ou<br> Transferido para "Atividades de marketing" para "Nome do programa"</td> 
+   <td>Movido para o "Design studio" na pasta "nome da pasta"<br> ou<br> Movido para "Atividades de marketing" no "nome do programa"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -539,7 +539,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td rowspan="8">Modelo de página de destino</td> 
+   <td rowspan="8">Modelo de página</td> 
    <td>Criar</td> 
    <td><p>Em branco<br>ou<br>Clonado de "nome do ativo"</p></td> 
   </tr> 
@@ -557,7 +557,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nome da pasta" <br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "nome da pasta" <br>Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Exportar</td> 
@@ -582,7 +582,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Banco de dados de pessoas" na pasta "foldername" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa"<br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Banco de Dados de Pessoa" na pasta "foldername" <br>Nome de ativo clonado "name"<br>ou<br>Clonado para "Atividades de Marketing" no "nome do programa"<br>Nome de ativo clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -627,7 +627,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Programas" no "nome do programa" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Pasta" na pasta "nome da pasta"<br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Programas" no "nome do programa" <br>Nome do ativo clonado "nome"<br>ou<br>Clonado para "Pasta" na pasta "nome da pasta"<br>Nome do ativo clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Modificar a configuração da lista inteligente</td> 
@@ -664,7 +664,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "Banco de dados de pessoas" na pasta "foldername" <br>Nome do ativo clonado "name"<br>ou<br>Clonado para "Atividades de marketing" no "nome do programa" <br>Nome do ativo clonado "name"</td> 
+   <td>Clonado para "Banco de Dados de Pessoa" na pasta "foldername" <br>Nome de ativo clonado "name"<br>ou<br>Clonado para "Atividades de Marketing" no "nome do programa" <br>Nome de ativo clonado "name"</td> 
   </tr> 
   <tr> 
    <td>Modificar a configuração da lista inteligente</td> 
@@ -673,7 +673,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   <tr> 
    <td rowspan="11">Bloco de conteúdo</td> 
    <td>Criar</td> 
-   <td><p>Em branco<br>ou<br>Clonado de "snippet name"</p></td> 
+   <td><p>Em branco<br>ou<br>Clonado de "nome do trecho"</p></td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -681,7 +681,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Removida segmentação</td> 
+   <td>Segmentação removida</td> 
   </tr> 
   <tr> 
    <td>Editar</td> 
@@ -701,7 +701,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Clonar</td> 
-   <td>Clonado para "nome da pasta" <br>Nome de trecho clonado "name"</td> 
+   <td>Clonado para "nome da pasta" <br>Nome do trecho clonado "nome"</td> 
   </tr> 
   <tr> 
    <td>Aprovar</td> 
@@ -718,7 +718,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
  </tbody> 
 </table>
 
-## Trilha de auditoria de admin. {#admin-audit-trail}
+## Trilha de auditoria de administrador. {#admin-audit-trail}
 
 <table> 
  <colgroup> 
@@ -728,7 +728,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Área de admin</th> 
+   <th>Área de administrador</th> 
    <th>Ação</th> 
    <th>Detalhes da alteração</th> 
   </tr> 
@@ -754,7 +754,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   <tr> 
    <td rowspan="3">Função<br><br></td> 
    <td>Criar</td> 
-   <td>Função criada com "nome da função" (OBSERVAÇÃO: se precisar de detalhes sobre permissões adicionadas, entre em contato com o suporte) - <br>mostra um instantâneo das permissões atribuídas à função</td> 
+   <td>Função criada com "nome da função" (OBSERVAÇÃO: se você precisar de detalhes sobre permissões adicionadas, contate o suporte) - <br>mostra um instantâneo das permissões atribuídas à função</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -762,7 +762,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   </tr> 
   <tr> 
    <td>Editar</td> 
-   <td>Função editada de "nome anterior" para "novo nome" (OBSERVAÇÃO: se você precisar de detalhes sobre permissões editadas, entre em contato com o suporte) - <br>mostra um instantâneo das permissões atribuídas à função<br></td> 
+   <td>Função editada de "nome anterior" para "novo nome" (OBSERVAÇÃO: se você precisar de detalhes sobre permissões editadas, contate o suporte) - <br>mostra um instantâneo das permissões atribuídas à função<br></td> 
   </tr> 
   <tr> 
    <td>Relatório da lista inteligente</td> 
@@ -772,7 +772,7 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
   <tr> 
    <td rowspan="7">Usuário<br><br><br><br></td> 
    <td>Criar (convite)</td> 
-   <td>Usuário convidado com: Email "endereço de email", Nome "nome e sobrenome", Acesso expira "em branco ou com data", Usuário da API "verdadeiro ou falso" - <br>mostra um instantâneo de funções e espaços de trabalho atribuídos ao usuário</td> 
+   <td>Usuário convidado com: Email "endereço de email", Nome "nome e sobrenome", Acesso Expira "em branco ou com data", Usuário da API "verdadeiro ou falso" - <br>mostra um instantâneo de funções e espaços de trabalho atribuídos ao usuário</td> 
   </tr> 
   <tr> 
    <td colspan="1">Excluir</td> 
@@ -799,9 +799,9 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
    <td>Redefinição de senha para nome "name" e email "email"</td> 
   </tr> 
   <tr> 
-   <td rowspan="2">Espaço de trabalho</td> 
+   <td rowspan="2">Área de trabalho</td> 
    <td>Criar</td> 
-   <td>Espaço de trabalho criado com o nome "nome do espaço de trabalho"</td> 
+   <td>Workspace criado com o nome "nome do espaço de trabalho"</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
@@ -812,4 +812,4 @@ A Trilha de auditoria oferece muitos insights sobre quem está fazendo o quê na
 
 >[!MORELIKETHIS]
 >
->[Filtragem na trilha de auditoria](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+>[Filtragem na Trilha de Auditoria](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)

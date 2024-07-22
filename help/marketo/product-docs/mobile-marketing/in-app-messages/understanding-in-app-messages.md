@@ -22,9 +22,9 @@ Use as mensagens no aplicativo para se envolver diretamente com os clientes enqu
 
 >[!NOTE]
 >
->**Exemplo 1**: a promoção &quot;Vendas de verão&quot; aparece ao abrir o aplicativo.
+>**Exemplo 1**: a promoção &quot;Vendas de Verão&quot; aparece ao abrir o aplicativo.
 >
->**Exemplo 2**: Ao assistir a um vídeo médico, agende uma consulta médica e isso aciona um cupom de US$ 40 de desconto.
+>**Exemplo 2**: ao assistir a um vídeo médico, agende uma visita médica e ela acionará um cupom de desconto de US$ 40.
 
 Antes de criar e enviar mensagens no aplicativo para seu aplicativo móvel, você precisará do administrador do Marketo e do desenvolvedor de aplicativos móveis para executar algumas configurações.  Há três etapas para o processo de produção de mensagens no aplicativo:
 
@@ -34,10 +34,10 @@ O administrador do Marketo e o desenvolvedor de aplicativos móveis trabalham ju
 
 ## Etapa 2: criar uma mensagem no aplicativo {#step-create-an-in-app-message}
 
-Você [criar uma mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) usando o editor online.
+Você [cria uma mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) usando o editor online.
 
 ## Etapa 3: enviar. {#step-send}
 
-Crie um programa para [enviar a mensagem](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Você cria um programa para [enviar a mensagem](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 Você está a caminho.

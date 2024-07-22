@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Antes de publicar, você pode ver o formulário neste pré-visualizador de formulário rápido e simples.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,19 +23,19 @@ Antes de publicar, você pode ver o formulário neste pré-visualizador de formu
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Em **Ações do formulário**, clique em **Visualizar**.
+1. Em **Ações de Formulário**, clique em **Visualizar**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. O editor de formulários será aberto no **pré-visualização** modo.
+1. O editor de formulários será aberto no modo **visualização**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Clique em **Editar rascunho** voltar para **editar** modo.
+1. Clique em **Editar rascunho** para voltar para o modo **editar**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Volte facilmente clicando em **Visualizar rascunho**.
+1. Retorne facilmente clicando em **Visualizar Rascunho**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 

@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Instale facilmente o Call com o Marketo Sales Connect, envie o email de vendas do Marketo e adicione ao Campaign. Você precisará ter privilégios de administrador no Salesforce para instalar esses campos.
 
-1. Efetue logon no [Salesforce.com.](https://salesforce.com)
+1. Faça logon em [Salesforce.com.](https://salesforce.com)
 1. Clique em **Personalizar**.
-1. Clique em **Clientes potenciais**.
+1. Clique em **clientes em potencial**.
 1. Clique em **Layouts de página**.
-1. Clique em **Editar** ao lado do Layout de lead, você deseja adicionar os botões a.
+1. Clique em **Editar** ao lado do Layout de Cliente Potencial ao qual você deseja adicionar os botões.
 1. Clique em **Botões**.
 1. Arraste e solte os botões Conexão de Vendas para a seção Detalhes de Lead.
 1. Clique em **Salvar**.

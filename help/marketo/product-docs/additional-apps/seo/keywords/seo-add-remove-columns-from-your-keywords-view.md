@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Você pode ajustar a visualização de palavras-chave para exibir os dados nos quais está mais interessado.
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -31,10 +31,10 @@ Você pode ajustar a visualização de palavras-chave para exibir os dados nos q
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
-   Ótimo! Agora você personalizou sua visualização de palavra-chave.
+   Fantástico! Agora você personalizou sua visualização de palavra-chave.
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
    >[!MORELIKETHIS]
    >
-   >[Noções básicas sobre palavras-chave - Exibição de resumo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Noções Básicas sobre Palavras-chave - Exibição Resumida](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

@@ -27,11 +27,11 @@ Deseja criar um link para uma imagem na sua página de aterrissagem em outra pá
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copie ou digite o link na variável **linkUrl** caixa.
+1. Copie ou digite o link na caixa **linkUrl**.
 
    ![](assets/add-link.png)
 
-   Parabéns! Agora você adicionou com êxito um link a uma imagem na página de aterrissagem. Agora você pode [visualizar a página](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) para vê-lo em ação.
+   Parabéns! Agora você adicionou com êxito um link a uma imagem na página de aterrissagem. Agora você pode [visualizar a página](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) para vê-la em ação.
 
 >[!TIP]
 >

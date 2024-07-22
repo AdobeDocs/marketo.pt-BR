@@ -2,11 +2,11 @@
 description: Programa de webinário WBN-YYYY-MM-DD - Documentação do Marketo - Documentação do produto
 title: Programa de webinário WBN-YYYY-MM-DD
 feature: Programs
-exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 19%
+source-wordcount: '591'
+ht-degree: 15%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Este é um exemplo de um programa de webinário com gerenciamento de registro, três emails de convite, lembrete de participação e emails de acompanhamento utilizando um Programa de evento Marketo Engage.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -29,11 +29,11 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Evento</td> 
    <td>01 - Convidado 
-   <br/>02 - Em lista de espera
+   <br/>02 - Em Lista de Espera
    <br/>03 - Registrado
-   <br/>04 - Sem exibição
+   <br/>04 - Sem programa
    <br/>05 - Participou - Êxito
-   <br/>06 - Participou sob demanda - Sucesso</td>
+   <br/>06 - Participou sob demanda - Êxito</td>
    <td>Inclusivo</td>
    <td>Evento
    <p>(Integrado: evento com webinário)</td>
@@ -41,7 +41,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -92,17 +92,17 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td>Inscrição em Evento FM</td>
   </tr>
   <tr> 
-   <td>Página</td> 
+   <td>Página de destino</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
   <tr> 
-   <td>Página</td> 
+   <td>Página de destino</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>02 - LP - Obrigado</td>
   </tr>
   <tr> 
-   <td>Página</td> 
+   <td>Página de destino</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>03 - PA - Sob Demanda</td>
   </tr>
@@ -159,8 +159,8 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Assets - Ativos criativos 
-<br/>(subpastas para Email, Landing Pages e Forms)</td>
+   <td>Assets - Abriga todos os ativos criativos 
+<br/>(subpastas para Email, Páginas de Aterrissagem e Forms)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
@@ -221,7 +221,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td><code>{{my.Event-Description}}</code></td>
    <td>Clique duas vezes para obter detalhes  
 <br/><code><--My Event Description Here--></code> 
-<br/>Edite essa descrição de evento no nível do programa, na guia Meus tokens. 
+<br/>Edite esta descrição de evento no nível do programa, na guia Meus Tokens. 
 <br/>Você aprenderá: 
 <li>Marcador 1</li>
 <li>Marcador 2</li>
@@ -292,19 +292,19 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original
    * Usar modelo de destino - _Recomendado_
 
 * **Imagens com o mesmo nome**
    * Manter ambos os arquivos
-   * Substituir item desta inscrição - _Recomendado_
+   * Substituir item nesta assinatura - _Recomendado_
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
 
@@ -325,7 +325,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;05 - Participou (Sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ seus emails serão enviados.
+>Não se esqueça de ativar a campanha &quot;05 - Participou (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de enviar seus emails.
 
 >[!IMPORTANT]
 >

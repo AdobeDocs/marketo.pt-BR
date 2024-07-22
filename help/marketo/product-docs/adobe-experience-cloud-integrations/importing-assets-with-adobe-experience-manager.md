@@ -1,19 +1,19 @@
 ---
 unique-page-id: 37355768
-description: Importar ativos com o Adobe Experience Manager - Documentação do Marketo - Documentação do produto
-title: Importação de ativos com o Adobe Experience Manager
+description: Importação do Assets com o Adobe Experience Manager - Documentação do Marketo - Documentação do produto
+title: Importação do Assets com o Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-# Importação de ativos com o Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
+# Importação do Assets com o Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e importem ativos AEM para a Marketo [!DNL Design Studio]. **São necessárias permissões de administrador**.
+O Seletor de ativos permite que os clientes da Marketo acessem, selecionem e importem ativos AEM para a Marketo [!DNL Design Studio]. **Permissões de administrador necessárias**.
 
 >[!AVAILABILITY]
 >
@@ -21,17 +21,17 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 >[!PREREQUISITES]
 >
->Certifique-se de que você já executou o [Configuração do AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
+>Verifique se você já executou a [Configuração do AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->No momento, esse recurso é totalmente compatível apenas com o [!DNL Firefox]. Não é compatível com o [!DNL Safari]e pode não funcionar na versão mais recente do [!DNL Chrome], dependendo do seu [!DNL SameSite] configurações de cookie.
+>Atualmente, este recurso só tem suporte total no [!DNL Firefox]. Não há suporte no [!DNL Safari], e ele pode não funcionar na versão mais recente do [!DNL Chrome], dependendo das suas configurações de cookie do [!DNL SameSite].
 
 1. Clique em **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Clique na lista suspensa New e selecione **[!UICONTROL Importar do Adobe Experience Manager]**.
+1. Clique no menu suspenso Novo e selecione **[!UICONTROL Importar do Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -65,4 +65,4 @@ O Seletor de ativos permite que os clientes do Marketo acessem, selecionem e imp
 
 * Todos os usuários na sua instância poderão exibir/acessar as imagens importadas.
 
-* As imagens não são atualizadas automaticamente. Se uma imagem importada para o Marketo [!DNL Design Studio] for atualizado no AEM, você deverá importá-lo manualmente novamente para o Marketo.
+* As imagens não são atualizadas automaticamente. Se uma imagem importada para o Marketo [!DNL Design Studio] for atualizada no AEM, você deverá importá-la manualmente novamente para o Marketo.

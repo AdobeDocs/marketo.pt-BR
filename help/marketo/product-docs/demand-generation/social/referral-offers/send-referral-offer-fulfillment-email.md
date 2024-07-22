@@ -18,7 +18,7 @@ Recompense seus clientes com cupons e códigos de desconto usando o email de pre
 >[!PREREQUISITES]
 >
 >* [Usar emails em promoções sociais](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Criar uma Oferta de Indicação](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 ## Configurar Entrega de Abastecimento {#set-up-fulfillment-delivery}
 
@@ -34,29 +34,29 @@ Recompense seus clientes com cupons e códigos de desconto usando o email de pre
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Selecione um **Email de inscrição**.
+1. Selecione um **Email de Abastecimento**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
    >[!NOTE]
    >
-   >Saiba mais sobre [uso de emails em promoções sociais](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Saiba mais sobre [como usar emails em promoções sociais](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Clique em **Entrega de Abastecimento** e selecione **meta de ativação automática**.
+1. Clique na lista suspensa **Entrega de Abastecimento** e selecione **automático na meta**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
-   A mensagem selecionada em **Email de inscrição** serão automaticamente enviadas às pessoas que atingirem a meta.
+   A mensagem selecionada em **Email de Abastecimento** será enviada automaticamente para as pessoas que atingirem a meta.
 
 ## Envio manual {#manual-send}
 
 Você pode enviar um email de preenchimento manualmente para uma pessoa depois que ela atingir a meta.
 
-1. Selecione a oferta de referência e clique no link **Participantes** guia.
+1. Selecione a oferta de referência e clique na guia **Participantes**.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Clique em **Filtrar por** e selecione **Meta**.
+1. Clique na opção **Filtrar por** e selecione **Meta**.
 
    >[!NOTE]
    >
@@ -68,8 +68,8 @@ Você pode enviar um email de preenchimento manualmente para uma pessoa depois q
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Clique com o botão direito e selecione **Enviar email de preenchimento**.
+1. Clique com o botão direito do mouse e selecione **Enviar Email de Abastecimento**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
-Ótimo! Essas pessoas agora receberão o email de cumprimento e ficarão entusiasmadas com sua recompensa.
+Fantástico! Essas pessoas agora receberão o email de cumprimento e ficarão entusiasmadas com sua recompensa.

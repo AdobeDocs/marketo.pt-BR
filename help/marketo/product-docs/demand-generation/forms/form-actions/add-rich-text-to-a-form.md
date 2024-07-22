@@ -15,19 +15,19 @@ ht-degree: 1%
 
 Use Rich Text em um formulário para adicionar instruções ou outras informações entre campos. Dê uma olhada.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Clique em **+** assinatura.
+1. Clique no sinal **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Selecionar **Rich Text**.
+1. Selecione **Rich Text**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -47,7 +47,7 @@ Use Rich Text em um formulário para adicionar instruções ou outras informaç�
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -57,4 +57,4 @@ Use Rich Text em um formulário para adicionar instruções ou outras informaç�
 
 >[!TIP]
 >
->Você sabia que também pode [adicionar regras de visibilidade](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) para um bloco rich text?
+>Você sabia que também pode [adicionar regras de visibilidade](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a um bloco de rich text?

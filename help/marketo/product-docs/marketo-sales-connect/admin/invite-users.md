@@ -19,7 +19,7 @@ Adicionar usuários é rápido e fácil!
 
    ![](assets/one.png)
 
-1. Em Configurações do administrador, selecione **User Management**.
+1. Em Configurações de administração, selecione **Gerenciamento de usuários**.
 
    ![](assets/invite-team-members-2.png)
 
@@ -27,7 +27,7 @@ Adicionar usuários é rápido e fácil!
 
    ![](assets/invite-team-members-3.png)
 
-1. Insira os endereços de email das pessoas físicas que deseja adicionar e clique em **Próxima**.
+1. Digite os endereços de email das pessoas físicas que você deseja adicionar e clique em **Avançar**.
 
    ![](assets/four.png)
 

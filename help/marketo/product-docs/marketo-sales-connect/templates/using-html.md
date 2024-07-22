@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 1. Copie o código-fonte de seus emails na ferramenta usada para criar emails no HTML (por exemplo, o Editor de email do Marketo).
 
-1. Clique em **Origem** no editor de modelos.
+1. Clique no botão **Source** no editor de modelo.
 
 1. Cole o código-fonte lá.
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se você vir o erro &quot;Erro - para remover as tags style/java/html&quot;, significa que você tem algum estilo não compatível. Você deve pesquisar o estilo da palavra no código-fonte e excluir tudo de `<style>` até `</style>`.
+>Se você vir o erro &quot;Erro - para remover as tags style/java/html&quot;, significa que você tem algum estilo não compatível. Você deve procurar o código Source para o estilo da palavra e excluir tudo de `<style>` até `</style>`.

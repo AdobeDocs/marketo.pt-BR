@@ -6,7 +6,7 @@ exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ A atribuição ajuda a medir o sucesso do programa. Alguns programas são destin
 
 ## Atribuição de primeiro contato (FT) {#first-touch-ft-attribution}
 
-A atribuição de Primeiro contato (FT) responde a um **pergunta empresarial simples**, &quot;Quais programas são bons em adquirir novos nomes lucrativos?&quot;
+A atribuição First-Touch (FT) responde a uma **pergunta comercial simples**: &quot;Quais programas são bons em adquirir novos nomes lucrativos?&quot;
 
 ## Atribuição multitoque {#multi-touch-attribution}
 
-O multitoque responde a uma **pergunta de negócios complicada**, &quot;Quais programas são mais influentes no avanço das pessoas no ciclo de vendas ao longo do tempo?&quot;
+O recurso multitoque responde a uma **complicada pergunta sobre negócios**, &quot;Quais programas são mais influentes no avanço das pessoas no ciclo de vendas ao longo do tempo?&quot;
 
 ## Regras de atribuição {#rules-of-attribution}
 
@@ -42,7 +42,7 @@ Nos exemplos a seguir, é possível aplicar essas regras e entender tudo o que v
 >[!MORELIKETHIS]
 >
 >* [Exemplo de atribuição 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [Exemplo 2 de atribuição](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Exemplo de atribuição 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [Exemplo de atribuição 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [Exemplo de atribuição 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 

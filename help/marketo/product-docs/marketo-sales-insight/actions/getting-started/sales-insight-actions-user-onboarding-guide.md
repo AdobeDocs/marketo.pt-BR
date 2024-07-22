@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->As Ações do Marketo Sales Insight são um aplicativo baseado na Web que se integra à interface do usuário do Salesforce por meio da [Pacote do Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
+>As Ações do Marketo Sales Insight são um aplicativo baseado na Web que se integra à interface do usuário do Salesforce por meio do [pacote do Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
 
 >[!PREREQUISITES]
 >
@@ -43,23 +43,23 @@ Os novos usuários precisarão seguir as etapas abaixo.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. Clique em **Início**.
+1. Clique em **Iniciar**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
-1. Escolha o cliente de email que você usa (Gmail ou Outlook) e clique em **Próxima**.
+1. Escolha o cliente de email que você usa (Gmail ou Outlook) e clique em **Avançar**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-7.png)
 
-1. Insira seu endereço de email e clique em **Próxima**.
+1. Digite seu endereço de email e clique em **Avançar**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-8.png)
 
-1. Digite sua senha e clique em **Próxima**.
+1. Digite sua senha e clique em **Avançar**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
@@ -75,7 +75,7 @@ Os novos usuários precisarão seguir as etapas abaixo.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. Insira sua assinatura personalizada e clique em **Salvar** (se desejar fazer isso posteriormente por meio da página de perfil, clique em **Ignorar**).
+1. Insira sua assinatura personalizada e clique em **Salvar** (se quiser fazer isso mais tarde por meio da página de perfil, clique em **Ignorar**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
@@ -83,11 +83,11 @@ Os novos usuários precisarão seguir as etapas abaixo.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. Você verá a opção de exibir uma introdução rápida às Ações de Vendas do Marketo. Clique em **Próxima** para exibir ou **Agora não** para salvar para mais tarde.
+1. Você verá a opção de exibir uma introdução rápida às Ações de Vendas do Marketo. Clique em **Avançar** para exibir ou **Não Agora** para salvar para mais tarde.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. Quando terminar o tour, ou se o ignorou, escolha se deseja fazer logon diretamente no aplicativo web ou na conta do Salesforce, onde você pode acessar todos os recursos no painel MSI (neste exemplo, estamos escolhendo **Iniciar Salesforce**).
+1. Quando terminar o tour, ou se o tiver ignorado, escolha se deseja fazer logon diretamente no aplicativo Web ou na sua conta do Salesforce, onde você pode acessar todos os recursos do painel MSI (neste exemplo, estamos escolhendo **Iniciar o Salesforce**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 

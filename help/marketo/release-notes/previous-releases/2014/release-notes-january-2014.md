@@ -6,14 +6,14 @@ exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 2%
 
 ---
 
 # Notas de versão: janeiro de 2014 {#release-notes-january}
 
-Os recursos a seguir estão incluídos na versão de janeiro de 2014. Verifique o seu [Edição Marketo](https://www.marketo.com/pricing/) para disponibilidade de recursos.
+Os recursos a seguir estão incluídos na versão de janeiro de 2014. Verifique sua [Marketo Edition](https://www.marketo.com/pricing/) para a disponibilidade de recursos.
 
 ## Forms 2.0 {#forms}
 
@@ -25,7 +25,7 @@ Assuma o controle do processo de criação de formulários e interrompa os desen
 
 Os designs de tema, a personalização de botões e os layouts flexíveis permitem que você crie formulários de aparência moderna que se encaixem perfeitamente na aparência do site.
 
-**Visibilidade condicional e lógica da página de acompanhamento:**
+**Visibilidade condicional e Lógica da página de acompanhamento:**
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
@@ -33,7 +33,7 @@ Deseja que o &quot;Estado&quot; seja exibido somente se um usuário selecionar E
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
-**Incorpore facilmente o Forms em suas próprias páginas de destino:**
+**Incorpore facilmente o Forms em suas próprias páginas de aterrissagem:**
 
 Longe vão os dias de levantar código html de formulários colocados em páginas de aterrissagem do Marketo e soltá-los em um iFrame. Basta pegar o código incorporado e colocá-lo na página de aterrissagem onde deseja que o formulário seja renderizado. Dois modos - normal e lightbox - fornecem ainda mais flexibilidade com o Marketo Forms em seu site.
 
@@ -41,12 +41,12 @@ Longe vão os dias de levantar código html de formulários colocados em página
 
 ## Limites de comunicação para o programa de email {#communication-limits-for-email-program}
 
-[Definir limites de comunicação em um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) para garantir que você não se comunique excessivamente com o banco de dados. Se uma pessoa ultrapassar o limite definido, ela não receberá o email.
+[Defina Limites de Comunicação em um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) para garantir que você não se comunique excessivamente com o banco de dados. Se uma pessoa ultrapassar o limite definido, ela não receberá o email.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Campos adicionais na análise de associação de programa {#additional-fields-in-program-membership-analysis}
 
-Agora você pode adicionar e agrupar seus [Análise de participação no programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) métricas por cliente potencial e atributos da empresa. Por exemplo, é possível adicionar o campo Setor para ver a divisão dos membros e os sucessos do programa.
+Agora você pode adicionar e agrupar suas métricas da [Análise de Associação do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) por cliente potencial e atributos da empresa. Por exemplo, é possível adicionar o campo Setor para ver a divisão dos membros e os sucessos do programa.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

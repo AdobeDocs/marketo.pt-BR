@@ -21,7 +21,7 @@ Para garantir um delivery de alto nível, assinamos automaticamente todos os ema
 
 Você pode personalizar a assinatura DKIM para refletir os domínios de sua escolha. Veja como.
 
-1. Vá para a **Admin** seção.
+1. Vá para a seção **Admin**.
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -29,11 +29,11 @@ Você pode personalizar a assinatura DKIM para refletir os domínios de sua esco
    >
    >Se você configurar uma assinatura DKIM personalizada da maneira antiga, ela continuará a funcionar e deverá aparecer aqui.
 
-1. Clique em **E-mail**.
+1. Clique em **Email**.
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Clique em **SPF/DKIM** , depois **Adicionar domínio**.
+1. Clique na guia **SPF/DKIM** e depois em **Adicionar Domínio**.
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
@@ -66,11 +66,11 @@ Você pode personalizar a assinatura DKIM para refletir os domínios de sua esco
    >
    >Observe que, ao fazer isso, o DKIM não será assinado para o seu domínio até que o novo registro seja publicado e validado pelo nosso sistema. Planeje a alteração de acordo, pois pode levar de 24 a 48 horas até que o novo registro DKIM seja totalmente propagado pela Internet.
 
-1. Envie o **Registro de host** e **Valor TXT** para a sua TI. Peça a eles que criem o registro para você e verifique se ele se propaga para todos os servidores de nomes associados ao domínio do. A verificação DKIM do Marketo exige que a chave DKIM seja propagada para todos os servidores de nomes associados ao domínio que está sendo assinado pelo DKIM.
+1. Envie o **Registro do Host** e o **Valor TXT** para sua TI. Peça a eles que criem o registro para você e verifique se ele se propaga para todos os servidores de nomes associados ao domínio do. A verificação DKIM do Marketo exige que a chave DKIM seja propagada para todos os servidores de nomes associados ao domínio que está sendo assinado pelo DKIM.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. Depois de confirmar que criou o registro, volte para a Marketo, selecione seu domínio e clique em **Verificar DNS**.
+1. Depois que ele confirmar que criou o registro, volte para a Marketo, selecione seu domínio e clique em **Verificar DNS**.
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

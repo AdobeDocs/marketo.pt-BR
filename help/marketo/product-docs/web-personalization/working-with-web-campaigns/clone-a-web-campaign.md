@@ -17,7 +17,7 @@ Use o recurso de clonagem na página Campanhas da Web para copiar as configuraç
 
 ## Criar uma campanha de clonagem {#create-a-clone-campaign}
 
-1. Ir para **Campanhas da Web**.
+1. Vá para **Campanhas da Web**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
@@ -39,6 +39,6 @@ Use o recurso de clonagem na página Campanhas da Web para copiar as configuraç
 
 >[!MORELIKETHIS]
 >
->* [Criar uma campanha de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Criar uma RTP na campanha de região](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Criar uma campanha de widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Criar uma Campanha de Diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Criar um RTP na campanha de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Criar uma Campanha do Widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

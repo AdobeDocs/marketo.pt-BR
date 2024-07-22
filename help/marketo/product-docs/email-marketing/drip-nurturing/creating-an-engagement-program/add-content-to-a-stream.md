@@ -15,23 +15,23 @@ ht-degree: 1%
 
 Depois de criar seu programa de engajamento, é necessário adicionar conteúdo ao(s) fluxo(s). Você pode adicionar emails ou programas a um fluxo.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Selecione seu programa de engajamento e vá para a **Fluxos** guia.
+1. Selecione seu programa de envolvimento e vá para a guia **Fluxos**.
 
    ![](assets/add-content-to-a-stream-2.png)
 
    Você pode adicionar conteúdo de duas maneiras diferentes:
 
-**Botão Adicionar conteúdo**
+**Botão Adicionar Conteúdo**
 
-1. Clique em **Adicionar conteúdo** botão.
+1. Clique no botão **Adicionar conteúdo**.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Escolher **E-mail** _ou_ **Programa**, em seguida, selecione o email ou programa/campanha inteligente que deseja adicionar.
+1. Escolha o **Email** _ou_ **Programa** e selecione o email ou programa/campanha inteligente que deseja adicionar.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -41,16 +41,16 @@ Depois de criar seu programa de engajamento, é necessário adicionar conteúdo 
 
 **+ Ícone**
 
-1. Clique em **+** ícone, escolha **E-mail** _ou_ **Programa**, em seguida, selecione o email ou programa/campanha inteligente que deseja adicionar.
+1. Clique no ícone **+**, escolha **Email** _ou_ **Programa** e selecione o email ou programa/campanha inteligente que deseja adicionar.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Uma campanha inteligente deve conter as **Membro do programa de engajamento** para que funcione corretamente.
+   >Uma campanha inteligente deve conter o filtro **Membro do Programa de Envolvimento** para que funcione corretamente.
 
 Excelente trabalho! Agora você sabe como adicionar conteúdo aos fluxos do seu programa. Adicione o quanto precisar para sua criação. Consulte o artigo relacionado abaixo para obter mais detalhes.
 
 >[!MORELIKETHIS]
 >
->[Adicionar um programa a um fluxo de programa de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[Adicionando um Programa a um Fluxo de Programa de Envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

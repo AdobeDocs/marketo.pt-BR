@@ -6,8 +6,8 @@ exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 1%
+source-wordcount: '292'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Criar listas inteligentes para dispositivos móveis {#create-mobile-smart-lists}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
@@ -29,7 +29,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/three-1.png)
 
-1. Clique em **Lista inteligente**.
+1. Clique em **Smart List**.
 
    ![](assets/four-1.png)
 
@@ -41,11 +41,11 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/six-1.png)
 
-1. Definir email para **é qualquer**.
+1. Definir Email como **é qualquer**.
 
    ![](assets/seven.png)
 
-1. Clique em **Adicionar Restrição** e selecione **Platform**.
+1. Clique em **Adicionar restrição** e selecione **Plataforma**.
 
    ![](assets/eight.png)
 
@@ -53,19 +53,19 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
    >
    >Usamos o filtro Email aberto neste exemplo. Você também pode usar o filtro de Email clicado, pois ele tem a restrição Plataforma.
 
-1. Definir plataforma como **iOS**.
+1. Defina Plataforma como **iOS**.
 
    ![](assets/nine.png)
 
    >[!NOTE]
    >
-   >Pelo menos uma pessoa deve ter aberto um de seus emails em um dispositivo iOS para que a sugestão automática do Marketo possa encontrá-lo. Se ele não aparecer, você poderá digitá-lo manualmente e salvar.
+   >Pelo menos uma pessoa deve ter aberto um de seus emails em um dispositivo iOS para que a sugestão automática do Marketo possa encontrá-lo. Se ele não aparecer, digite-o manualmente e salve.
 
    Agora crie uma segunda lista inteligente para a plataforma &quot;Android&quot;. Depois disso, vá para a próxima seção.
 
 ## Criar um Relatório de Desempenho de Pessoas {#create-a-people-performance-report}
 
-1. Em Atividades de marketing, selecione o programa que hospeda o **iOS** e **Android** listas inteligentes.
+1. Em Atividades de marketing, selecione o programa que está hospedando suas listas inteligentes do **iOS** e do **Android**.
 
    ![](assets/ten.png)
 
@@ -77,7 +77,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/twelve.png)
 
-1. Definir tipo para **Desempenho de pessoas**.
+1. Defina o Tipo como **Desempenho de pessoas**.
 
    ![](assets/thirteen.png)
 
@@ -89,7 +89,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Adicionar Smart Lists para dispositivos móveis como colunas {#add-mobile-smart-lists-as-columns}
 
-1. No relatório que acabou de criar, clique em **Configuração** e, em seguida, arraste **Colunas personalizadas** na tela.
+1. No relatório que acabou de criar, clique em **Configurar** e arraste **Colunas personalizadas** para a tela.
 
    ![](assets/fifteen.png)
 

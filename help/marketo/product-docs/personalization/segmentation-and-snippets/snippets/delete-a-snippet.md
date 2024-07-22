@@ -7,7 +7,7 @@ feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 1%
 
 Exclua um trecho desnecessário.
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Vá para o trecho e em **Ações do trecho** clique em **Excluir**.
+1. Vá para o seu trecho e em **Ações do trecho** clique em **Excluir**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
@@ -35,4 +35,4 @@ Exclua um trecho desnecessário.
    >
    >Você só pode excluir um trecho que não seja aprovado e não seja usado por nenhum ativo.
 
-Feito! Não é possível recuperá-lo, portanto, antes de clicar no botão Excluir, tenha certeza.
+Concluído! Não é possível recuperá-lo, portanto, antes de clicar no botão Excluir, tenha certeza.

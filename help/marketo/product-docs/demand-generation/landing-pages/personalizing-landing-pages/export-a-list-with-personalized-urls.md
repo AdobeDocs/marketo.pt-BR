@@ -15,18 +15,18 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Ativar URLs personalizados para sua conta](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
->* [Ativar URLs personalizados para uma página inicial](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
+>* [Habilitar URLs personalizados para sua conta](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Habilitar URLs personalizadas para uma Página de Aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Selecione sua lista ou lista inteligente, clique no botão **Clientes potenciais** para obter os resultados e clique no ícone do excel. INLINE Verifique se você tem **Código exclusivo do Marketo** e **Nome exclusivo do Marketo** [colunas visíveis](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Selecione sua lista ou lista inteligente, clique na guia **Clientes Potenciais** para obter os resultados e clique no ícone do Excel. INLINE Verifique se você tem **Código exclusivo do Marketo** e **Nome exclusivo do Marketo** [colunas visíveis](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Marcar **Incluir URL personalizado**, localize e selecione a landing page para a qual deseja gerar PURLs.
+1. Marque **Incluir URL personalizada**, localize e selecione a página de aterrissagem para a qual deseja gerar PURLs.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. Selecione o **URL**.
+1. Selecione a **URL**.
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. Quando a exportação for concluída, clique na guia **Baixar agora** para salvar o arquivo.
+1. Quando a exportação for concluída, clique no link **Baixar Agora** para salvar o arquivo.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 

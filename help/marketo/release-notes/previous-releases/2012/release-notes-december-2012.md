@@ -6,24 +6,24 @@ exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '401'
 ht-degree: 1%
 
 ---
 
 # Notas de versão: dezembro de 2012 {#release-notes-december}
 
-A versão de dezembro inclui a muito aguardada **Encaminhar para o amigo** recurso, bem como vários outros utilitários! Observe que os recursos marcados com um asterisco (&#42;) estão disponíveis somente na Select Edition e no RCA (Revenue Cycle Analytics).
+A versão de dezembro inclui o muito esperado recurso **Encaminhar para Amigo**, bem como vários outros utilitários! Observe que os recursos marcados com um asterisco (&#42;) estão disponíveis apenas na Select Edition e no RCA (Revenue Cycle Analytics).
 
 ## Encaminhar para amigo {#forward-to-friend}
 
-Permita o compartilhamento de conteúdo com outras pessoas incluindo um **Encaminhar para o amigo** em seus emails. A adição de novos filtros e acionadores ajudará você a identificar seus influenciadores, identificando usuários que encaminharam um email e aqueles que receberam os emails encaminhados.
+Habilite o compartilhamento de conteúdo com outras pessoas incluindo o link **Encaminhar para Amigo** nos seus emails. A adição de novos filtros e acionadores ajudará você a identificar seus influenciadores, identificando usuários que encaminharam um email e aqueles que receberam os emails encaminhados.
 
-Para incluir um **Encaminhar para o amigo** convite no email, abra-o no editor e insira a variável `{{system.forwardToFriendLink}}` token.
+Para incluir um convite **Encaminhar para Amigo** no email, abra-o no editor e insira o token `{{system.forwardToFriendLink}}`.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Use os acionadores e filtros correspondentes para identificar os usuários que usaram a **Encaminhar para o amigo** e aqueles que receberam o email.
+Use os disparadores e filtros correspondentes para identificar os usuários que usaram o link **Encaminhar para um Amigo** e aqueles que receberam o email.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -51,16 +51,16 @@ O Sales Insight agora está disponível para clientes do Microsoft Dynamics!
 
 Sincronizar dados de oportunidade entre o Marketo e o Microsoft Dynamics.
 
-## Relatório de oportunidades influenciadas por marketing&#42; {#marketing-influenced-opportunities-report}
+## Relatório de Oportunidades Influenciadas por Marketing&#42; {#marketing-influenced-opportunities-report}
 
-Visualize qual porcentagem do pipeline e da receita de sua empresa foi influenciada por seus programas de marketing. Entrada **Gerenciador de Receita**, agora você pode criar relatórios personalizados com o novo ponto amarelo &quot;Oportunidade influenciada por marketing&quot; na Análise de oportunidades. Você também pode usar os dois relatórios a seguir na pasta Padrão:
+Visualize qual porcentagem do pipeline e da receita de sua empresa foi influenciada por seus programas de marketing. No **Gerenciador de receita**, agora é possível criar relatórios personalizados com o novo ponto amarelo &quot;Oportunidade influenciada por marketing&quot; na Análise de oportunidade. Você também pode usar os dois relatórios a seguir na pasta Padrão:
 
 * Influência de marketing nas oportunidades criadas
 * Influência de Marketing em Oportunidades Fechadas Ganhas
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Campos de oportunidade personalizados na Análise de oportunidade do programa&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Campos de Oportunidade Personalizados na Análise de Oportunidade do Programa&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 Adicione campos de oportunidade personalizados para enriquecer seus relatórios de Análise de oportunidade de programa no Explorador de receita.
 
@@ -70,6 +70,6 @@ Adicione campos de oportunidade personalizados para enriquecer seus relatórios 
 
 Você já se perguntou quais campanhas estão usando uma ação de fluxo específica, como Pontuação de alteração ou Solicitar campanha? Ou onde um determinado filtro está sendo usado? O novo Inspetor de campanha (disponível no Treasure Chest) permite identificar essas campanhas, bem como campanhas ativas e campanhas com erros.
 
-Ir para **Admin** > **Tórax Tesouro** para habilitar o **Inspetor de campanha**.
+Vá para **Admin** > **Treasure Chest** para habilitar o **Inspetor de Campanha**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

@@ -19,22 +19,22 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Definição:** Um membro é uma pessoa que tem um status em um programa.
+>**Definição:** um membro é uma pessoa que tem um status em um programa.
 
 ## Como as pessoas se tornam membros de um programa {#how-people-become-members-of-a-program}
 
-1. Uma pessoa preenche um [formulário em uma página de destino](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} no programa.
+1. Uma pessoa preenche um [formulário em uma página de aterrissagem](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} no programa.
 
    1. A pessoa terá automaticamente o primeiro status na progressão.
 
-1. Você [importar membros para o programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} de um arquivo CSV.
+1. Você [importa membros para o programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} de um arquivo CSV.
 
    1. A pessoa terá automaticamente o primeiro status na progressão.
 
-1. Você usa o [alterar status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} etapa do fluxo.
-1. Uma pessoa se registra ou participa de um [webinário sincronizado com um programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
-1. Uma pessoa é [criado usando o aplicativo de check-in Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. Uma pessoa é adicionada a uma campanha SFDC, que é [sincronizado com o programa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
+1. Você usa a etapa de fluxo [alterar status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}.
+1. Uma pessoa registra ou participa de um [webinário sincronizado com um programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
+1. Uma pessoa foi [criada usando o aplicativo de check-in Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
+1. Uma pessoa é adicionada a uma Campanha SFDC, que está [sincronizada com o programa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## Status do programa {#program-statuses}
 
-Os status do programa são as etapas pelas quais as pessoas passam em um programa (por exemplo, Convidado, RSVP, Presente, Não comparecer). Essas etapas são definidas pela variável [channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Os status do programa são as etapas pelas quais as pessoas passam em um programa (por exemplo, Convidado, RSVP, Presente, Não comparecer). Estas etapas são definidas pelo [canal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -60,9 +60,9 @@ O objetivo de um programa é criar uma interação significativa com a pessoa ou
 
 ## Programa de aquisição {#acquisition-program}
 
-Quando um novo nome entra no sistema como um membro do programa, a Marketo define automaticamente esse programa como &quot;aquisição&quot;. Isso estabelece crédito para [Atribuição de primeiro contato](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
+Quando um novo nome entra no sistema como um membro do programa, a Marketo define automaticamente esse programa como &quot;aquisição&quot;. Isso estabelece crédito para [atribuição First-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Usar tags em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
->* [Criar um relatório de desempenho do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>* [Usar marcas em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
+>* [Criar um Relatório de Desempenho de Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

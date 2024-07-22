@@ -18,7 +18,7 @@ Siga as etapas abaixo para personalizar os cabeçalhos do link de rastreamento d
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/email-tracking-link-headers-2.png)
 

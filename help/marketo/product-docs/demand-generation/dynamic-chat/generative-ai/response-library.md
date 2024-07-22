@@ -20,7 +20,7 @@ Em um local, visualize todas as suas perguntas, o status de aprovação e o nome
 
    ![](assets/response-library-1.png)
 
-1. Clique em **[!UICONTROL Biblioteca de resposta]** guia.
+1. Clique na guia **[!UICONTROL Biblioteca de resposta]**.
 
    ![](assets/response-library-2.png)
 
@@ -44,9 +44,9 @@ Em um local, visualize todas as suas perguntas, o status de aprovação e o nome
 
 >[!NOTE]
 >
->Todas as perguntas e respostas geradas recebem a função &quot;[!UICONTROL precisa de revisão]&quot; por padrão. Somente &quot;[!UICONTROL aprovado]&quot;as perguntas e respostas são disponibilizadas aos visitantes do chat.
+>Por padrão, todas as perguntas e respostas geradas recebem o status &quot;[!UICONTROL precisa de revisão]&quot;. Apenas &quot;[!UICONTROL perguntas e respostas aprovadas]&quot; são disponibilizadas para os visitantes do chat.
 
-1. No **[!UICONTROL Biblioteca de resposta]**, clique na pergunta desejada.
+1. Na **[!UICONTROL Biblioteca de respostas]**, clique na pergunta desejada.
 
    ![](assets/response-library-7.png)
 
@@ -85,7 +85,7 @@ As instruções sobre como fazer edições em massa no arquivo do Excel baixado 
 </tbody>
 </table>
 
-1. Depois de concluir as edições no arquivo, volte para a **[!UICONTROL Biblioteca de resposta]** e clique em **[!UICONTROL Fazer upload de respostas]**.
+1. Depois de concluir as edições no arquivo, volte para a guia **[!UICONTROL Biblioteca de respostas]** e clique em **[!UICONTROL Carregar respostas]**.
 
    ![](assets/response-library-9.png)
 

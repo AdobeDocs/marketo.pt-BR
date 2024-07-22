@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Se você não está vendo seu registro de chamadas no Salesforce, talvez seja porque não conseguimos localizar um cliente em potencial/contato no Salesforce.
 
-Para chamadas para registrar no cliente potencial/contato correto, o Sales Connect precisa ter a ID do Salesforce. A melhor maneira de adicionar a ID do Salesforce ao Sales Connect é usando nosso [Push para Conexão de Vendas](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) recurso. Ao usar o Push to Sales Connect, incluímos a ID do Salesforce na migração de contatos.
+Para chamadas para registrar no cliente potencial/contato correto, o Sales Connect precisa ter a ID do Salesforce. A melhor maneira de adicionar a ID do Salesforce ao Sales Connect é usando nosso recurso [Enviar para o Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). Ao usar o Push to Sales Connect, incluímos a ID do Salesforce na migração de contatos.

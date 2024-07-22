@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Nem todos os problemas de página podem ser úteis para você. Veja como remover um.
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. No [!UICONTROL Páginas] clique em **[!UICONTROL Problemas]**.
+1. Na seção [!UICONTROL Páginas], clique em **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
@@ -27,7 +27,7 @@ Nem todos os problemas de página podem ser úteis para você. Veja como remover
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Clicando **[!UICONTROL Excluir]** removerá permanentemente este problema de página.
+1. Clicar em **[!UICONTROL Excluir]** removerá permanentemente esse problema de página.
 
    >[!CAUTION]
    >

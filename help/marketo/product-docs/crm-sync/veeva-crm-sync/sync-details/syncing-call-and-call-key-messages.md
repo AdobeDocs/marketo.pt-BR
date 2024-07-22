@@ -5,8 +5,8 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 5%
+source-wordcount: '478'
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ Os objetos de mensagem de chamada e chamada principais no Veeva CRM são sincron
 >
 >O Marketo retém dados de chamada de até seis meses a partir da data da Chamada.
 
-**Quais são os acionadores/filtros relacionados à Chamada e à Mensagem principal da Chamada?**
+**Quais são os acionadores/filtros relacionados à Chamada e à Mensagem da Chave de Chamada?**
 
 Gatilhos:
 
@@ -114,42 +114,42 @@ Os seguintes campos nas mensagens Call e Call Key são sincronizados e podem ser
       <td>Tipo de registro</td>
     </tr>
     <tr>
-      <td>Mensagem da chave de chamada</td>
+      <td>Chamar mensagem principal</td>
       <td>Chamada</td>
       <td>Pesquisa a chamada. Cada mensagem principal está associada a uma chamada.</td>
       <td>Call2_vod_c</td>
-      <td>Principal-Detalhe(Chamada)</td>
+      <td>Master-Detail(Chamada)</td>
     </tr>
     <tr>
-      <td>Mensagem da chave de chamada</td>
+      <td>Chamar mensagem principal</td>
       <td>Categoria</td>
       <td>Registra a categoria da mensagem. Usado principalmente para relatórios.</td>
       <td>Category_vod_c</td>
       <td>Lista de seleção</td>
     </tr>
     <tr>
-      <td>Mensagem da chave de chamada</td>
+      <td>Chamar mensagem principal</td>
       <td>Nome da Apresentação do CLM</td>
       <td>Nome da Apresentação do CLM carimbada</td>
       <td>Clm_Presentation_Name_vod_c</td>
       <td>Texto (80)</td>
     </tr>
     <tr>
-      <td>Mensagem da chave de chamada</td>
+      <td>Chamar mensagem principal</td>
       <td>Nome da mensagem principal</td>
       <td>Nome da mensagem principal carimbada</td>
       <td>Key_Message_Name_vod_c</td>
       <td>Texto (80)</td>
     </tr>
     <tr>
-      <td>Mensagem da chave de chamada</td>
+      <td>Chamar mensagem principal</td>
       <td>Nome do produto</td>
       <td> </td>
       <td>Nome_do_Produto_c</td>
       <td>Fórmula (Texto)</td>
     </tr>
     <tr>
-      <td>Mensagem da chave de chamada</td>
+      <td>Chamar mensagem principal</td>
       <td>Reação</a>
       </td>
       <td>Escolha a lista de reação à mensagem. Edite a lista de opções para alterar os valores da reação.</td>

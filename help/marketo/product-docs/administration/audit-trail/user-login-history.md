@@ -6,7 +6,7 @@ exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -24,12 +24,12 @@ O Histórico de logon do usuário identifica as pessoas que fazem logon por:
 * Data e hora de logon
 * Nome e endereço de email do usuário
 * Função
-* Espaço de trabalho
+* Área de trabalho
 * Endereço IP
 
 Para exibir o Histórico de Login do Usuário:
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/user-login-history-1.png)
 
@@ -37,7 +37,7 @@ Para exibir o Histórico de Login do Usuário:
 
    ![](assets/user-login-history-2.png)
 
-1. Clique em **[!UICONTROL Histórico de logon]** guia. A lista mostra os logons mais recentes.
+1. Clique na guia **[!UICONTROL Histórico de Logon]**. A lista mostra os logons mais recentes.
 
    ![](assets/user-login-history-3.png)
 
@@ -53,11 +53,11 @@ Para exibir o Histórico de Login do Usuário:
 
    ![](assets/user-login-history-6.png)
 
-1. Selecione os usuários na lista **[!UICONTROL Usuários]** menu suspenso.
+1. Selecione os usuários no menu suspenso **[!UICONTROL Usuários]**.
 
    ![](assets/user-login-history-7.png)
 
-1. Verifique a **[!UICONTROL Somente Logons com Falha]** para exibir somente os logons com falha em sua pesquisa.
+1. Marque a caixa **[!UICONTROL Somente Logons com Falha]** para exibir somente os logons com falha em sua pesquisa.
 
    ![](assets/user-login-history-8.png)
 

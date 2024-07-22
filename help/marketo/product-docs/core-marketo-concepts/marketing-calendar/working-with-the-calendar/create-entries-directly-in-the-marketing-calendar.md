@@ -20,7 +20,7 @@ O Marketo permite criar entradas diretamente no seu Calendário de marketing usa
 * Programas de e-mail
 * Campanhas inteligentes
 
-1. Clique em **[!UICONTROL Calendário]** bloco.
+1. Clique no bloco **[!UICONTROL Calendário]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -38,7 +38,7 @@ O Marketo permite criar entradas diretamente no seu Calendário de marketing usa
 
    >[!TIP]
    >
-   >Observe que você também pode criar **Campanhas inteligentes**, **Programas de e-mail** e **Entradas básicas** do mesmo modo.
+   >Observe que você também pode criar **Campanhas inteligentes**, **Programas de email** e **Entradas básicas** da mesma maneira.
 
 1. Quando terminar a edição, feche o modo de foco do programa.
 

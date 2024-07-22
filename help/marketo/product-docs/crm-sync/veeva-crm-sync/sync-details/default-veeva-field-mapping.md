@@ -6,7 +6,7 @@ feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 42%
+ht-degree: 44%
 
 ---
 
@@ -34,7 +34,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
     </tr>
     <tr>
       <td>Data de criação</td>
-      <td>SFDC - Data de criação</td>
+      <td>Data de criação SFDC</td>
     </tr>
     <tr>
       <td>Descrição do contato</td>
@@ -42,7 +42,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
     </tr>
     <tr>
       <td>Email</td>
-      <td>Endereço de email</td>
+      <td>Endereço de e-mail</td>
     </tr>
     <tr>
       <td>Fax comercial</td>
@@ -73,11 +73,11 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
       <td>Pontuação</td>
     </tr>
     <tr>
-      <td>CidadeDeEndereçamento</td>
+      <td>MailingCity</td>
       <td>Cidade</td>
     </tr>
     <tr>
-      <td>PaísDeEndereçamento</td>
+      <td>MailingCountry</td>
       <td>País</td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
     </tr>
     <tr>
       <td>Título</td>
-      <td>Cargo</td>
+      <td>Nome do cargo</td>
     </tr>
   </tbody>
 </table>
@@ -130,24 +130,24 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
       <td>Receita anual</td>
     </tr>
     <tr>
-      <td>Cidade de faturamento</td>
-      <td>Cidade de faturamento</td>
+      <td>Cidade de cobrança</td>
+      <td>Cidade de cobrança</td>
     </tr>
     <tr>
-      <td>País de faturamento</td>
-      <td>País de faturamento</td>
+      <td>País de cobrança</td>
+      <td>País de cobrança</td>
     </tr>
     <tr>
       <td>Código postal/CEP de cobrança</td>
-      <td>Código postal de faturamento</td>
+      <td>Código postal de cobrança</td>
     </tr>
     <tr>
       <td>Estado/Província de Cobrança</td>
-      <td>Estado de faturamento</td>
+      <td>Estado de cobrança</td>
     </tr>
     <tr>
       <td>Rua de Cobrança</td>
-      <td>Endereço de faturamento</td>
+      <td>Endereço de cobrança</td>
     </tr>
     <tr>
       <td>Descrição da conta</td>
@@ -183,7 +183,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
     </tr>
     <tr>
       <td>Tipo de conta</td>
-      <td>Tipo do SFDC</td>
+      <td>SFDC - Tipo</td>
     </tr>
     <tr>
       <td>Site</td>
@@ -214,7 +214,7 @@ Esses campos são criados no Marketo, mas não podem ser ajustados pelos cliente
     </tr>
     <tr>
       <td>Veeva Type</td>
-      <td>Contato. Se estiver vazio, o lead existirá somente como uma pessoa no Marketo</td>
+      <td>Entre em contato com. Se estiver vazio, o lead existirá somente como uma pessoa no Marketo</td>
     </tr>
     <tr>
       <td>Data de criação da Veeva</td>

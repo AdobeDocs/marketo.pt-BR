@@ -31,13 +31,13 @@ Estes são alguns relatórios que você pode criar na área Análise de oportuni
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
-1. Oportunidade Fechada por Origem de Cliente Potencial
+1. Oportunidade Fechada pelo Lead Source
 
    Este relatório detalha todas as oportunidades fechadas por origem de lead e fornece uma visão geral clara de quais origens estão funcionando e quais não estão.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. Hora de Fechamento por Origem
+1. Tempo para fechar pela Source
 
    Este relatório demonstra o relacionamento entre a média de dias para fechar uma oportunidade e a origem de lead.
 
@@ -80,16 +80,16 @@ A Análise de Oportunidades oferece acesso a todas as dimensões relacionadas a 
    | Incluído na lista de bloqueios | Incluir na lista de bloqueios A liderança é mudada |
    | Convertido em oportunidade | O cliente em potencial é convertido em uma oportunidade |
    | E-mail inválido | Se o cliente potencial tem um endereço de email válido |
-   | Marketing suspenso | O cliente potencial está suspenso de emails de marketing |
-   | Endereço de email | Endereço de email do lead |
-   | Cargo | Cargo do lead |
+   | Campanha de marketing suspensa | O cliente potencial está suspenso de emails de marketing |
+   | Endereço de e-mail | Endereço de email do lead |
+   | Nome do cargo | Cargo do lead |
    | Nome completo | Nome completo do lead |
    | Tipo de fonte original | Tipo de origem original do lead |
-   | Tipo de fonte de registro | Tipo de origem registrada do lead |
+   | Registrar tipo de Source | Tipo de origem registrada do lead |
    | Endereço de e-mail do proprietário do lead | Endereço de email do proprietário principal |
    | Nome do cargo do proprietário do lead | Cargo do proprietário potencial |
    | Nome do Proprietário Cliente Potencial | Nome do proprietário potencial |
-   | Fonte do lead | Origem do lead |
+   | Fonte do lead | Fonte do lead |
    | Status do lead | Status do lead |
 
 1. Cronograma de Criação de Cliente Potencial
@@ -153,6 +153,6 @@ A Análise de Oportunidades oferece acesso a todas as dimensões relacionadas a 
 
 >[!MORELIKETHIS]
 >
->* [Criar um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
->* [Adicionar campos a um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Criar um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Adicionando Campos a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
 >* [Assinar um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

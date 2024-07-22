@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Você pode exportar qualquer relatório do explorador de receita e compartilhá-lo com qualquer pessoa.
 
-1. Clique no ícone de engrenagem e selecione **Exportar** e selecione um formato de arquivo.
+1. Clique no ícone de engrenagem, selecione **Exportar** e selecione um formato de arquivo.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -27,7 +27,7 @@ Você pode exportar qualquer relatório do explorador de receita e compartilhá-
    >* Excel
    >* CSV
 
-1. Selecione o desejado **Formato da página** e **Orientação** e clique em **Exportar**.
+1. Selecione o **Formato de Página** e a **Orientação** desejados e clique em **Exportar**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 

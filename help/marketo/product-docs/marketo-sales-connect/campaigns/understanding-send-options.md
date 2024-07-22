@@ -26,7 +26,7 @@ Escolherei quando enviar este email
 Enviar este email no seguinte horário
 
 * Quando você inicia sua campanha adicionando pessoas a ela, nós agendamos o email para este horário.
-* Você sempre tem a opção de escolher um novo &quot;enviar em&quot; momento quando estiver iniciando sua campanha.
+* Você sempre tem a opção de escolher um novo &quot;enviar em&quot; momento em que inicia sua campanha.
 
 Criar uma tarefa; eu mesmo vou enviar este e-mail
 
@@ -46,7 +46,7 @@ Enviar este e-mail no mesmo horário que o e-mail anterior desta campanha
 Enviar este email no seguinte horário
 
 * Quando você inicia sua campanha adicionando pessoas a ela, nós agendamos o email para este horário.
-* Você sempre tem a opção de escolher um novo &quot;enviar em&quot; momento quando estiver iniciando sua campanha.
+* Você sempre tem a opção de escolher um novo &quot;enviar em&quot; momento em que inicia sua campanha.
 
 Criar uma tarefa; eu mesmo vou enviar este e-mail
 

@@ -15,19 +15,19 @@ ht-degree: 2%
 
 Quando as pessoas esgotam todo o conteúdo em um fluxo, o Marketo pode enviar uma notificação. Você pode desativar/ativar as notificações com base nas suas necessidades. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione um programa de engajamento e clique no link **Configuração** guia.
+1. Selecione um programa de envolvimento e clique na guia **Configuração**.
 
    ![](assets/setuptab.jpg)
 
-1. Clique duas vezes **Notificações de Conteúdo Esgotado**.
+1. Clique duas vezes em **Notificações de Conteúdo Esgotado**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Selecionar **Desligado** (ou **Ligado**) e clique em **Salvar**.
+1. Selecione **Desativado** (ou **Ativado**) e clique em **Salvar**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

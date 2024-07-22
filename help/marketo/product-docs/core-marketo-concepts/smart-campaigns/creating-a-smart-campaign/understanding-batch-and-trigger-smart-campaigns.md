@@ -7,7 +7,7 @@ feature: Smart Campaigns
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -27,14 +27,14 @@ As campanhas em lote só terão filtros na seção de lista inteligente (ou seja
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Clicar no **[!UICONTROL Agendar]** confirmará que a Campanha inteligente está definida como &quot;Lote&quot;.
+Clicar na guia **[!UICONTROL Agendamento]** confirmará que a Campanha inteligente está definida como &quot;Em lote&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Campanhas inteligentes em lote**
 
 * Pode ser programado para recorrências, como diariamente, semanalmente e mensalmente. Você também pode executá-las apenas uma vez.
-* Estão visíveis no [exibição do cronograma do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Qualquer item depois de uma etapa &quot;Aguardar&quot; na Campanha inteligente não será incluído na visualização.
+* Estão visíveis na [exibição de agendamento de programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Qualquer item depois de uma etapa &quot;Aguardar&quot; na Campanha inteligente não será incluído na visualização.
 
 <br> 
 
@@ -50,15 +50,15 @@ Se uma Campanha inteligente usar pelo menos um acionador na seção Smart List, 
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Clicar no **[!UICONTROL Agendar]** confirmará que a Campanha inteligente está definida como &quot;Acionado&quot;.
+Clicar na guia **[!UICONTROL Agendamento]** confirmará que a Campanha inteligente está definida como &quot;Acionado&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**Acionar campanhas**
+**Acionar Campanhas**
 
 * Não é possível agendar recorrências. Elas só podem ser definidas como ativas ou inativas.
 * É possível definir mais de um acionador. No entanto, se algum acionador for acionado, as ações da campanha serão executadas.
 
 >[!TIP]
 >
->Use o [log de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} para ver o que aconteceu passo a passo nas Campanhas inteligentes. Você pode encontrar o log de atividades na última guia da página de detalhes de uma pessoa.
+>Use o [log de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} para ver o que ocorreu passo a passo em suas Campanhas Inteligentes. Você pode encontrar o log de atividades na última guia da página de detalhes de uma pessoa.

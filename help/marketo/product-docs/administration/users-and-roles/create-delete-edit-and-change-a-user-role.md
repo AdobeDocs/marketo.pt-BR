@@ -7,13 +7,13 @@ feature: Users and Roles
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
 # Criar, Deletar, Editar e Alterar uma Atribuição do Usuário {#create-delete-edit-and-change-a-user-role}
 
-**Funções** agrupe um conjunto de permissões. **Permissões** permite fazer coisas no Marketo. Você atribui um **função** a um usuário. Fácil como torta.
+**Funções** agrupam um conjunto de permissões. **Permissões** permitem que você faça coisas no Marketo. Você atribui uma **função** a um usuário. Fácil como torta.
 
 >[!NOTE]
 >
@@ -24,14 +24,14 @@ ht-degree: 2%
 >As seguintes funções são funções do sistema e não podem ser editadas ou excluídas:
 >
 >* Administrador
->* Administrador de produto do Adobe
+>* Administrador de produtos da Adobe
 >* Usuário padrão
 >* Editor de RTP
 >* Iniciador de RTP
 
 ## Criar uma função {#create-a-role}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 2%
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. Vá para a **[!UICONTROL Funções]** e clique em **[!UICONTROL Nova Função]**.
+1. Vá para a guia **[!UICONTROL Funções]** e clique em **[!UICONTROL Nova Função]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 2%
 
 ## Excluir uma função {#delete-a-role}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -57,7 +57,7 @@ ht-degree: 2%
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. No **[!UICONTROL Funções]** , selecione uma função e clique em **[!UICONTROL Excluir Função]**.
+1. Na guia **[!UICONTROL Funções]**, selecione uma função e clique em **[!UICONTROL Excluir função]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
@@ -75,7 +75,7 @@ ht-degree: 2%
 >
 >Para editar sua própria função de usuário, é necessário fazer logon como outro usuário com direitos de Administrador.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -83,11 +83,11 @@ ht-degree: 2%
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Clique em **[!UICONTROL Funções]** guia.
+1. Clique na guia **[!UICONTROL Funções]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
-1. Selecione a função que deseja editar e clique em **[!UICONTROL Editar Função]**.
+1. Selecione a função que você deseja editar e clique em **[!UICONTROL Editar Função]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
@@ -105,7 +105,7 @@ ht-degree: 2%
 
 ## Alterar a função de um usuário {#change-a-users-role}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 

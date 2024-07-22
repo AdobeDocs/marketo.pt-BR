@@ -19,4 +19,4 @@ Revise as atividades da Web mais recentes do seu cliente potencial, citando a co
 
 ## Atividades da Web anônimas {#anonymous-web-activities}
 
-A guia Anonymous Web Activities mostra todas **anônimo** atividades da web de visitantes da página da web. Revise as atividades da Web mais recentes citando a contagem de visitas à página.
+A guia Atividades Anônimas na Web mostra todas as **atividades anônimas** da Web para visitantes da página da Web. Revise as atividades da Web mais recentes citando a contagem de visitas à página.

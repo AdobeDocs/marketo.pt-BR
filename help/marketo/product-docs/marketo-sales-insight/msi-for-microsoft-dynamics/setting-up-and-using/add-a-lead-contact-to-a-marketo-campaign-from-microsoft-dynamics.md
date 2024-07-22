@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Você pode adicionar leads/contatos às campanhas inteligentes do Marketo de forma rápida e fácil diretamente do Microsoft Dynamics. Veja como.
 
-1. No Dynamics, acesse o **Vendas** área.
+1. No Dynamics, vá para a área **Vendas**.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,16 +27,16 @@ Você pode adicionar leads/contatos às campanhas inteligentes do Marketo de for
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Clique em **..** e selecione **Adicionar ao Marketo Campaign**.
+1. Clique em **...** e selecione **Adicionar ao Marketo Campaign**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. Selecione a campanha do Marketo à qual deseja adicionar clientes em potencial ou contatos e clique em **Adicionar**.
+1. Selecione a campanha do Marketo à qual você deseja adicionar clientes potenciais ou contatos e clique em **Adicionar**.
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >Para que a campanha apareça no menu suspenso, use o  [**A campanha é solicitada** acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), tendo o Sales Insight como fonte, ao configurar a campanha.
+   >Para que a campanha apareça na lista suspensa, use o acionador [**Campanha solicitada**](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), com o Sales Insight como origem, ao configurar a campanha.
 
 E isso é tudo, pessoal! Agora você tem o poder das campanhas inteligentes do Marketo diretamente do Dynamics.

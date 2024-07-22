@@ -17,17 +17,17 @@ Quer experimentar um endereço diferente de sem confusão? Veja como.
 
 >[!PREREQUISITES]
 >
->[Adicione um Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Adicionar um Especialista/Desafiador de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. No editor de teste de email, selecione **Do endereço** no **Tipo de teste** menu suspenso.
+1. No editor de teste de email, selecione **Do Endereço** no menu suspenso **Tipo de Teste**.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >O primeiro Endereço do remetente é designado como o **Campeão**. Os endereços subsequentes de são chamados **Desafiadores**.
+   >O primeiro endereço De é designado como o **Champion**. Os endereços subsequentes de são chamados **Desafiadores**.
 
-1. Insira o **Do nome** (à esquerda) e **Do endereço** (certo) para os desafiantes.
+1. Digite o **De Nome** (à esquerda) e o **De Endereço** (à direita) para os desafiantes.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,7 +47,7 @@ Quer experimentar um endereço diferente de sem confusão? Veja como.
 
    Para obter confiança estatística, escolha uma porcentagem que inclua pessoas suficientes para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
@@ -55,4 +55,4 @@ Quer experimentar um endereço diferente de sem confusão? Veja como.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: defina critérios de Champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Especialista/Desafiador: Definir Critérios Especialistas](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

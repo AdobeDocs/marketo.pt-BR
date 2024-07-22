@@ -6,7 +6,7 @@ exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
 source-git-commit: c0375ae1a08fa2bc77f4128abfe5017db69e6ca8
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,12 @@ Se você está se perguntando o que precisa para fazer login e usar o Marketo En
 >
 >O iOS e o Android ainda não são compatíveis.
 
-* Computador ou laptop em execução [!DNL Windows], Mac OS X (ou superior) ou Linux
+* Computador ou laptop executando [!DNL Windows], Mac OS X (ou superior) ou Linux
 * Teclado e mouse
 * Monitor com resolução mínima de 1280 x 768
-* Navegador atualizado, consulte [Navegadores compatíveis](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} para obter detalhes
+* Navegador atualizado. Consulte [Navegadores suportados](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} para obter detalhes
 * Conexão com a Internet
 
 >[!NOTE]
 >
->Se sua equipe de TI restringir o acesso à Web usando uma inclui na lista de permissões, peça para eles adicionarem `*.marketo.com`, `*.adobe.com`, e `*.adobe.net` para permitir todos os recursos de Marketo Engage e websockets.
+>Se sua equipe de TI restringir o acesso à Web usando uma inclui na lista de permissões, peça para adicionar `*.marketo.com`, `*.adobe.com` e `*.adobe.net` para permitir todos os recursos de Marketo Engage e soquetes da Web.

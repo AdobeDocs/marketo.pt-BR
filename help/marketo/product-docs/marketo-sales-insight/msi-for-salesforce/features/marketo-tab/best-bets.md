@@ -18,7 +18,7 @@ A guia Melhores Opções inclui uma lista de todos os seus clientes potenciais a
 >
 >Tenha cuidado para não exceder 1.000 Melhores Opções, caso contrário, a página poderá parar de carregar. Se isso ocorrer, use os filtros para restringir o número total de Melhores Opções.
 
-**Opções de filtro**
+**Opções de Filtro**
 
 Você pode clicar em cada um dos seguintes botões para ver as Melhores Opções:
 
@@ -27,13 +27,13 @@ Você pode clicar em cada um dos seguintes botões para ver as Melhores Opções
 * Contatos da conta: você pode ver as Melhores Opções para todos os contatos que pertencem a contas atribuídas a você no CRM, mesmo que o contato em si não esteja atribuído a você
 * Contatos da Oportunidade: você pode ver as Melhores Opções para todos os contatos que pertencem a Oportunidades atribuídas a você no CRM, mesmo que o contato em si não esteja atribuído a você
 
-**Itens a Observar**
+**Anotações**
 
 Os botões Cliente Potencial e Contato são selecionados por padrão. É possível selecionar uma ou mais opções de filtro, e no mínimo uma das quatro opções sempre deverá ser selecionada.
 
 Não é possível &quot;Ocultar&quot; um cliente potencial ou contato que você não possui.
 
-**Engajamento em linha**
+**Envolvimento Embutido**
 
 Ao clicar no menu de dados na coluna Ações, você pode acessar um cliente potencial ou contato específico usando as seguintes opções de envolvimento:
 

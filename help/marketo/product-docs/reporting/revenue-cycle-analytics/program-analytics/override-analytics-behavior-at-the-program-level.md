@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # Substituir o comportamento do Analytics no nível do programa {#override-analytics-behavior-at-the-program-level}
 
-Você pode definir a variável [comportamento do analytics no nível administrativo nos canais](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) mas você também pode substituí-lo no nível do programa. Veja como:
+Você pode definir o [comportamento do Analytics no nível de administrador nos canais](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mas também pode substituí-lo no nível de programa. Veja como:
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Você pode definir a variável [comportamento do analytics no nível administrat
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. No **Configuração** arraste Comportamento do Analytics para a tela.
+1. Na guia **Configuração**, arraste o Comportamento do Analytics para a tela.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -33,12 +33,12 @@ Você pode definir a variável [comportamento do analytics no nível administrat
    >
    >**Definição**
    >
-   >* **Inclusivo** - Essa opção garantirá que o programa esteja disponível para relatórios no explorador e nos analisadores de receita, independentemente de você ter incluído um custo de período ou não.
-   >* **Operacional** - Esta opção faz com que o programa não seja exibido no Gerenciador de receita ou nos analisadores.
+   >* **Inclusivo** - Essa opção garantirá que o programa esteja disponível para relatórios no Gerenciador de receita e nos analisadores, independentemente de você ter incluído um custo de período ou não.
+   >* **Operacional** - Esta opção faz com que o programa não apareça no Gerenciador de Receitas nem nos Analisadores.
 
    >[!NOTE]
    >
-   >O comportamento padrão (se essa configuração não for aplicada) é o programa ser incluído no Analytics **SOMENTE se houver pelo menos um custo de período**, até mesmo um com zero dólares atribuídos.
+   >O comportamento padrão (se esta configuração não for aplicada) é o programa ser incluído no Analytics **SOMENTE se houver pelo menos um custo de período**, mesmo um com zero dólares atribuídos.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 

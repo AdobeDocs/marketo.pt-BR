@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,11 +17,11 @@ Você sabia que pode adicionar anotações aos problemas da página como lembret
 
 ## Adicionar observações na seção Problemas da página {#adding-notes-in-page-issues-section}
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Na guia Páginas, clique em **[!UICONTROL Problemas]**.
+1. Na guia de páginas, clique em **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
@@ -35,11 +35,11 @@ Você sabia que pode adicionar anotações aos problemas da página como lembret
 
 >[!TIP]
 >
->Você pode excluir a nota clicando no pequeno **x** no canto superior esquerdo.
+>Você pode excluir a anotação clicando no pequeno **x** no canto superior esquerdo.
 
 ## Adicionar notas no detalhamento da página {#add-notes-in-page-detail-drill-down}
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -47,7 +47,7 @@ Você sabia que pode adicionar anotações aos problemas da página como lembret
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Passe o mouse sobre o problema de página ao qual você gostaria de adicionar uma observação e clique em **[!UICONTROL Adicionar Nota]**.
+1. Passe o mouse sobre o problema de página ao qual você gostaria de adicionar uma observação e clique em **[!UICONTROL Adicionar observação]**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 

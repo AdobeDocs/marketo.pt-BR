@@ -7,7 +7,7 @@ feature: Tags
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 1%
 
 Os status do programa são os pontos de verificação através de um caminho de programas (canal). Se você fizer um status por engano ou não precisar mais dele, sinta-se livre para excluí-lo.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Clique em **[!UICONTROL Tags]**.
+1. Clique em **[!UICONTROL Marcas]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Selecione o canal do qual deseja remover um status e, em **[!UICONTROL Ações de tag]**, clique em **[!UICONTROL Editar]**.
+1. Selecione o canal do qual deseja remover um status e, em **[!UICONTROL Ações de Marca]**, clique em **[!UICONTROL Editar]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Clique no vermelho **X** para remover o status, em seguida, clique em **[!UICONTROL Salvar]**.
+1. Clique no **X** vermelho para remover o status e, em seguida, clique em **[!UICONTROL Salvar]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
@@ -35,4 +35,4 @@ Os status do programa são os pontos de verificação através de um caminho de 
    >
    >Se alguma pessoa estiver atualmente atribuída ao status em questão, você não poderá excluí-la, mas pode ocultá-la.
 
-Muito bem! Também é possível [excluir um canal inteiro](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se for necessário.
+Muito bem! Você também pode [excluir um canal inteiro](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), se necessário.

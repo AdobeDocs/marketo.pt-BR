@@ -20,13 +20,13 @@ A Presença local oferece a opção de fazer com que pareça que você está cha
 
    ![](assets/local-presence-1.png)
 
-1. Selecione o **Usar Presença Local** caixa de seleção
+1. Marque a caixa de seleção **Usar Presença Local**.
 
    ![](assets/local-presence-2.png)
 
 ## Perguntas frequentes {#faq}
 
-**Meu contato pode me ligar de volta para este novo número?**
+**Meu contato pode me ligar novamente para este novo número?**
 
 Não, a presença local só funciona para chamadas de saída. O chamador não pode ligar de volta para este &quot;novo&quot; número.
 
@@ -34,10 +34,10 @@ Não, a presença local só funciona para chamadas de saída. O chamador não po
 
 Oferecemos todas as funcionalidades de telefone de vendas para chamadas somente nos Estados Unidos.
 
-**O número de presença local é sempre o mesmo quando chamo um código de área?**
+**O número de presença local é sempre o mesmo quando eu chamo um código de área?**
 
 O número provavelmente sempre será o mesmo ao chamar um código de área.
 
-**O meu número inteiro muda ou apenas o código de área ao usar presença local?**
+**O meu número inteiro muda ou apenas o código de área ao usar a presença local?**
 
 Seu número inteiro será alterado.

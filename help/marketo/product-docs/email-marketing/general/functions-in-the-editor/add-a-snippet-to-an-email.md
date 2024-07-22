@@ -21,13 +21,13 @@ Os trechos são blocos reutilizáveis de rich text e gráficos que podem ser usa
 
 >[!NOTE]
 >
->Não é possível incorporar nenhum [Sintaxe de email do Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)em trechos; será **não** trabalhar em um email. Os trechos devem ser apenas conteúdo do corpo (HTML + TEXT).
+>Você não pode incorporar nenhuma [sintaxe de email do Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)em trechos; ela **não** funcionará em um email. Os trechos devem ser apenas conteúdo do corpo (HTML + TEXT).
 
-1. Localize o email, selecione-o e clique em **Editar rascunho**.
+1. Encontre seu email, selecione-o e clique em **Editar Rascunho**.
 
    ![](assets/one-2.png)
 
-1. Selecione a área editável a ser convertida em trecho, clique no ícone de engrenagem e selecione **Substituir pelo trecho**.
+1. Selecione a área editável que você deseja converter em um trecho, clique no ícone de engrenagem e selecione **Substituir pelo trecho**.
 
    ![](assets/two-2.png)
 
@@ -43,6 +43,6 @@ Os trechos são blocos reutilizáveis de rich text e gráficos que podem ser usa
 
    >[!NOTE]
    >
-   >Cada vez que você atualizar e aprovar o trecho, as alterações serão refletidas no email. O email será redigido, a menos que você aprove o trecho com [Sem rascunho](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
+   >Cada vez que você atualizar e aprovar o trecho, as alterações serão refletidas no email. O email será rascunhado a menos que você aprove o trecho com [Sem rascunho](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 Essa é uma maneira rápida e fácil de reutilizar conteúdo dinâmico.

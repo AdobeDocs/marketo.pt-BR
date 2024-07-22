@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 1%
 
 Adicionar pessoas à sua Inclui na lista de bloqueios as impede de receber sua correspondência.
 
-1. Criar um novo [programa padrão](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} e nomeie-o como &quot;Adicionar à Inclui na lista de bloqueios&quot;.
+1. Crie um novo [programa padrão](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} e nomeie-o como &quot;Adicionar ao arquivo de Inclui na lista de bloqueios&quot;.
 
 1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo ativo local]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Selecionar **[!UICONTROL Lista inteligente]**.
+1. Selecione **[!UICONTROL Smart List]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. Dê um nome à lista e clique em **[!UICONTROL Criar]**.
+1. Nomeie sua lista e clique em **[!UICONTROL Criar]**.
 
    ![](assets/add-person-to-blocklist-3.png)
 
@@ -49,7 +49,7 @@ Adicionar pessoas à sua Inclui na lista de bloqueios as impede de receber sua c
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Arrastar e soltar **[!UICONTROL Membro da lista inteligente]**.
+1. Arraste e solte **[!UICONTROL Membro da Smart List]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,19 +57,19 @@ Adicionar pessoas à sua Inclui na lista de bloqueios as impede de receber sua c
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Clique em **[!UICONTROL Fluxo]** guia. Arraste e solte a **[!UICONTROL Alterar valor dos dados]** Ação de fluxo.
+1. Clique na guia **[!UICONTROL Fluxo]**. Arraste e solte a Ação de Fluxo **[!UICONTROL Alterar Valor de Dados]**.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. No **[!UICONTROL Atributo]** seleção suspensa **[!UICONTROL Bloco listado]** e defina **[!UICONTROL Novo Valor]** para **[!UICONTROL true]**.
+1. No menu suspenso **[!UICONTROL Atributo]**, selecione **[!UICONTROL Bloqueio Listado]** e defina **[!UICONTROL Novo Valor]** como **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Clique em **[!UICONTROL Agendar]** e selecione **[!UICONTROL Executar uma vez]**.
+1. Clique na guia **[!UICONTROL Agendar]** e selecione **[!UICONTROL Executar Uma Vez]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Selecionar **[!UICONTROL Executar agora]** e clique em **[!UICONTROL Executar]**.
+1. Selecione **[!UICONTROL Executar agora]** e clique em **[!UICONTROL Executar]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
@@ -81,4 +81,4 @@ Essas pessoas não receberão mais emails.
 
 >[!TIP]
 >
->Criar um [Acionar o Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} usar **Alterar valor dos dados** com **Bloco listado é verdadeiro** para todas as pessoas no futuro que tiverem atributos habilitados para inclui na lista de bloqueios.
+>Crie uma [Campanha de Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} usando **Alterar Valor de Dados** com **A Lista de Bloqueios é verdadeira** para todas as pessoas no futuro que tiverem atributos habilitados para inclui na lista de bloqueios.

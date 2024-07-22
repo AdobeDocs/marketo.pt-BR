@@ -2,7 +2,8 @@
 description: Criar uma mensagem SMS - Documentação do Marketo - Documentação do produto
 title: Criar uma mensagem SMS
 feature: Mobile Marketing
-source-git-commit: 5ec5e462d76cf6de45378cc2293bd37e7ac24510
+exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 2%
@@ -15,13 +16,13 @@ Veja como criar uma mensagem SMS.
 
 >[!AVAILABILITY]
 >
->Esse recurso está disponível como um complemento para sua conta da Adobe Marketo Engage. Para ser provisionado adequadamente, ele deve ser adquirido por meio do Adobe. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes. A integração nativa de SMS do Marketo Vibes está disponível nos EUA e no Canadá. Para outros países, uma conexão via Webhooks do Marketo pode ser usada por [entrar em contato diretamente com as Vibes](https://www.vibes.com/talk-to-sales).
+>Esse recurso está disponível como um complemento para sua conta da Adobe Marketo Engage. Para ser provisionado adequadamente, ele deve ser adquirido por meio do Adobe. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes. A integração nativa de SMS do Marketo Vibes está disponível nos EUA e no Canadá. Para outros países, uma conexão via Webhooks do Marketo pode ser utilizada ao [contatar a Vibes diretamente](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >
->[Adicionar vibrações como um serviço do LaunchPoint](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
+>[Adicionar Vibrações como um Serviço do LaunchPoint](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/create-an-sms-message-1.png)
 
@@ -29,7 +30,7 @@ Veja como criar uma mensagem SMS.
 
    ![](assets/create-an-sms-message-2.png)
 
-1. Selecionar **Mensagem SMS**.
+1. Selecione **Mensagem SMS**.
 
    ![](assets/create-an-sms-message-3.png)
 
@@ -57,7 +58,7 @@ Veja como criar uma mensagem SMS.
    >
    >Conformidade com SMS: todas as mensagens SMS de saída devem incluir o Nome da marca ou a Descrição do programa. As instruções HELP e STOP devem ser fornecidas pelo menos uma vez por mês por assinante para programas de mensagem recorrentes.
 
-1. Selecione o desejado **Token**, insira um opcional **Valor padrão** e clique em **Criar**.
+1. Selecione o **Token** desejado, insira um **Valor Padrão** opcional e clique em **Criar**.
 
    ![](assets/create-an-sms-message-7.png)
 
@@ -73,17 +74,17 @@ Veja como criar uma mensagem SMS.
    >
    >Os dois links de rastreamento são selecionados por padrão. Se você desmarcar Incluir mkt_tok, ainda permitirá que o link seja rastreado, mas após o redirecionamento, o URL de destino não incluirá o parâmetro da string de consulta mkt_tok. Esse parâmetro é usado pelas páginas de aterrissagem do Marketo e pelo Munchkin para garantir o rastreamento adequado das atividades das pessoas (como quando uma pessoa opta por não participar).
 
-1. Se quiser usar um URL externo, selecione **URL externo**, insira/cole o URL e clique em **Inserir**.
+1. Se, em vez disso, você quiser usar uma URL externa, selecione **URL externa**, insira/cole a URL e clique em **Inserir**.
 
    ![](assets/create-an-sms-message-10.png)
 
    >[!NOTE]
    >
-   >Ao manter a opção &quot;Rastrear link&quot; selecionada, o Marketo modificará automaticamente o URL para fins de rastreamento. Se você optar por desativar o rastreamento, o URL será exibido na mensagem inalterado (por exemplo, `www.adobe.com`).
+   >Ao manter a opção &quot;Rastrear link&quot; selecionada, o Marketo modificará automaticamente o URL para fins de rastreamento. Se você optar por desabilitar o rastreamento, a URL será exibida na mensagem inalterada (por exemplo, `www.adobe.com`).
 
    >[!CAUTION]
    >
-   >Recomenda-se _não_ use encurtadores de URL (por exemplo, Bitly), já que as operadoras podem sinalizar sua mensagem como spam.
+   >É recomendável _não_ usar encurtadores de URL (por exemplo, Bitly), já que as operadoras podem sinalizar sua mensagem como spam.
 
 1. O link é exibido na mensagem.
 

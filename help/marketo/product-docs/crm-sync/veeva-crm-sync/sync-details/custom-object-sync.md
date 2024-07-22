@@ -26,15 +26,15 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
 
 ## Habilitar objeto personalizado {#enable-custom-object}
 
-1. No Marketo, clique em **[!UICONTROL Admin]**, depois **[!UICONTROL Sincronização de objetos Veeva]**.
+1. No Marketo, clique em **[!UICONTROL Admin]** e depois em **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. Se este for seu primeiro Objeto Personalizado, clique em **[!UICONTROL Esquema de sincronização]**.
+1. Se este for seu primeiro Objeto Personalizado, clique em **[!UICONTROL Sincronizar Esquema]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. Clique em **[!UICONTROL Desabilitar Sincronização Global]**.
+1. Clique em **[!UICONTROL Desabilitar sincronização global]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -54,11 +54,11 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
 
    ![](assets/custom-object-sync-5.png)
 
-1. Clique em **[!UICONTROL Habilitar sincronização]** novamente.
+1. Clique em **[!UICONTROL Habilitar Sincronização]** novamente.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Volte para o **[!UICONTROL Veeva]** guia.
+1. Volte para a guia **[!UICONTROL Veeva]**.
 
    ![](assets/custom-object-sync-7.png)
 
@@ -66,7 +66,7 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
 
    ![](assets/custom-object-sync-8.png)
 
-1. Para exibir todos os objetos personalizados Veeva, clique em **[!UICONTROL Admin]** e **[!UICONTROL Sincronização de objetos Veeva]**.
+1. Para exibir todos os seus objetos personalizados Veeva, clique em **[!UICONTROL Admin]** e **[!UICONTROL Sincronização de Objetos Veeva]**.
 
    ![](assets/custom-object-sync-9.png)
 
@@ -79,4 +79,4 @@ Excelente! Agora você pode usar dados desse objeto personalizado em Campanhas i
 >[!MORELIKETHIS]
 >
 >* [Sincronizando Mensagens de Chamada e Chave de Chamada](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
->* [Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>* [Adicionar/Remover Campo de Objeto Personalizado como Lista Inteligente/Restrições do Acionador](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

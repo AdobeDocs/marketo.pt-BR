@@ -5,7 +5,7 @@ exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/sync-before-deleting-them-in-dynamics-2.png)
 
-1. Clique em **[!UICONTROL Desativar sincronização]**.
+1. Clique em **[!UICONTROL Desabilitar sincronização]**.
 
    ![](assets/sync-before-deleting-them-in-dynamics-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Clicando **[!UICONTROL Salvar]** é necessário salvar o esquema atualizado para a sincronização, mesmo se nenhuma alteração tiver sido feita.
+>É necessário clicar em **[!UICONTROL Salvar]** para salvar o esquema atualizado para a sincronização, mesmo que nenhuma alteração tenha sido feita.
 
 >[!NOTE]
 >

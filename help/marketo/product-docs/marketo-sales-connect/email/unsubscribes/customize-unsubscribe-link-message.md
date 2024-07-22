@@ -6,7 +6,7 @@ exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
 
 ## Personalize mensagens para si mesmo {#customize-messaging-for-yourself}
 
-1. Faça logon no [aplicativo web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/one.png)
 
-1. Em Minha conta, selecione **Cancelamentos de assinatura**.
+1. Em Minha conta, selecione **Cancelar assinatura**.
 
    ![](assets/two-1.png)
 
@@ -47,11 +47,11 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
 
 ## Definir o cancelamento de inscrição para a sua equipe {#set-unsubscribe-messaging-for-your-team}
 
-1. Faça logon no [aplicativo web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
 
    ![](assets/six.png)
 
-1. Em Configurações do administrador, selecione **Cancelamentos de assinatura**.
+1. Em Configurações do administrador, selecione **Cancelar assinatura**.
 
    ![](assets/eight.png)
 
@@ -59,6 +59,6 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
 
    ![](assets/seven.png)
 
-1. Selecionar **Estou definindo as mensagens padrão para minha equipe** para que as mensagens sejam aplicadas a todos os usuários.
+1. Selecione **Estou definindo as mensagens padrão para minha equipe** para que as mensagens se apliquem a todos os usuários.
 
    ![](assets/eleven.png)

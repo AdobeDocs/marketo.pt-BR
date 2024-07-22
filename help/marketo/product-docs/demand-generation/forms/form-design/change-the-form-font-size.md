@@ -19,19 +19,19 @@ O Marketo facilita a personalização da aparência dos formulários. Talvez voc
 >
 >Essa configuração afeta o rótulo do formulário, o texto de entrada e o texto do botão de envio.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Em **Configurações do formulário**, Selecionar **Configurações**.
+1. Em **Configurações De Formulário**, Selecione **Configurações**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Selecione o **Tamanho da fonte** você quer.
+1. Selecione o **Tamanho da Fonte** desejado.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
@@ -39,7 +39,7 @@ O Marketo facilita a personalização da aparência dos formulários. Talvez voc
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    >[!NOTE]
    >

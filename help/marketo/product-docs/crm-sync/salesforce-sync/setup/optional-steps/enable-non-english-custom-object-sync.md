@@ -21,15 +21,15 @@ Se o usuário de sincronização do Marketo estiver definido com um idioma difer
 
 ## Contornando-Se {#getting-around-it}
 
-1. Efetue logon no [!DNL Salesforce] usando o usuário markto sync.
+1. Faça logon em [!DNL Salesforce] usando a marcação para sincronizar usuário.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. No nome de usuário, acesse **[!UICONTROL Configuração]**.
+1. No nome de usuário, vá para **[!UICONTROL Instalação]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Em **[!UICONTROL Informações pessoais]**, clique em **[!UICONTROL Minhas informações pessoais]**.
+1. Em **[!UICONTROL Informações Pessoais]**, clique em **[!UICONTROL Minhas Informações Pessoais]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
@@ -45,11 +45,11 @@ Se o usuário de sincronização do Marketo estiver definido com um idioma difer
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. De volta ao Marketo, em **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objetos]**, clique em **[!UICONTROL Atualizar esquema]**.
+1. De volta ao Marketo, em **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**, clique em **[!UICONTROL Atualizar Esquema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Isso obterá a lista de objetos em inglês. Agora, selecione o objeto de sua escolha e clique em **[!UICONTROL Habilitar sincronização]**.
+1. Isso obterá a lista de objetos em inglês. Agora selecione o objeto de sua escolha e clique em **[!UICONTROL Habilitar Sincronização]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 

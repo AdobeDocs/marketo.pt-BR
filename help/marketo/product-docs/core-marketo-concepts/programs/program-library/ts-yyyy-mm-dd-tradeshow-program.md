@@ -2,11 +2,11 @@
 description: Programa de feiras de vendas TS-YYYY-MM-DD-Marketo Docs - Documentação do produto
 title: Programa de feiras de vendas em DD/MM/TS-YYYY
 feature: Programs
-exl-id: 32e4d07e-e9fd-4906-acc4-5f97c09f3c44
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 20%
+source-wordcount: '410'
+ht-degree: 15%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Este é um exemplo de um programa de feiras com convites e emails de acompanhamento utilizando um Programa de Marketo Engage Event.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -29,18 +29,18 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Evento</td> 
    <td>01-Convidado 
-   <br/>02 - Em Lista de Espera
+   <br/>02-Em Lista De Espera
    <br/>03-Registrado
-   <br/>Cabine Visitada em 04
-   <br/>05-Envolvido no Show - Sucesso
-   <br/>06-Envolvido em um Post Show - Sucesso</td>
+   <br/>04-Cabine Visitada
+   <br/>05-Envolvido no Programa - Sucesso
+   <br/>06-Envolvido no Post Show - Sucesso</td>
    <td>Inclusivo</td>
    <td>Evento</td>
   </tr>
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,8 +93,8 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Assets - Ativos criativos 
-<br/>(subpastas para páginas de e-mail e de aterrissagem)</td>
+   <td>Assets - Abriga todos os ativos criativos 
+<br/>(subpastas para Email e Páginas de Aterrissagem)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
@@ -180,19 +180,19 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original
    * Usar modelo de destino - _Recomendado_
 
 * **Imagens com o mesmo nome**
    * Manter ambos os arquivos
-   * Substituir item desta inscrição - _Recomendado_
+   * Substituir item nesta assinatura - _Recomendado_
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
 
@@ -211,7 +211,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;03 - Engajado pelo e-mail de acompanhamento (sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ seus emails serão enviados.
+>Não se esqueça de ativar a campanha &quot;03 - Engajado pelo e-mail de acompanhamento (sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de enviar seus emails.
 
 >[!IMPORTANT]
 >

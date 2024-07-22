@@ -15,7 +15,7 @@ ht-degree: 0%
 
 É possível substituir o domínio primário da marca por email. Isso alterará a forma como os links são marcados quando o email é enviado.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Nem todos os usuários têm permissões para definir o domínio da marca com base no email. Entre em contato com seu administrador se você não visualizar o [!UICONTROL Domínios com marca] menu suspenso.
+   >Nem todos os usuários têm permissões para definir o domínio da marca com base no email. Entre em contato com seu administrador se você não visualizar o menu suspenso [!UICONTROL Domínios com marca].

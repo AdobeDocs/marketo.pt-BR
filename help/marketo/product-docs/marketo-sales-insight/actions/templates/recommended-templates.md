@@ -5,7 +5,7 @@ exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Os Modelos recomendados de ação do Sales Insight ajudam você a obter as mensa
 
    ![](assets/recommended-templates-3.png)
 
-1. Selecione o **Tornar um modelo recomendado** e clique em **Salvar**.
+1. Marque a caixa de seleção **Criar um Modelo Recomendado** e clique em **Salvar**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ Os Modelos recomendados de ação do Sales Insight ajudam você a obter as mensa
 
 ## Todos vs. Qualquer um {#all-vs-any}
 
-Selecionar **Todos** se desejar que o modelo seja recomendado quando todos os critérios forem atendidos. Selecionar **Qualquer** se desejar que o modelo seja recomendado quando qualquer um dos critérios for atendido.
+Selecione **Todos** se quiser que o modelo seja recomendado quando todos os critérios forem atendidos. Selecione **Qualquer** se desejar que o modelo seja recomendado quando qualquer um dos critérios for atendido.
 
 ## Definição de critérios {#setting-criteria}
 
@@ -48,11 +48,11 @@ Agora, selecione sua condição. Quando suas condições para o campo dinâmico 
 
 **Igual a**: o valor deve ser uma correspondência exata (por exemplo, Marketo é igual a Marketo)
 
-**Does Not Equal**: o valor deve ser qualquer item, exceto uma correspondência exata (por exemplo, Marketing Nation não é igual a Marketing)
+**Não é igual**: o valor deve ser qualquer item menos uma correspondência exata (por exemplo, a Nação de Marketing não é igual a Marketing)
 
 **Contém**: só precisa conter o valor (por exemplo, Marketo Rocks! contém Marketo)
 
-**Não contém**: o valor não deve estar no campo dinâmico (por exemplo, Marketo Rocks! não contém Awesome)
+**Não Contém**: o valor não deve estar no campo dinâmico (por exemplo, Marketo Rocks! não contém Awesome)
 
 ## Como Se Parece Um Modelo Recomendado {#what-a-recommended-template-looks-like}
 

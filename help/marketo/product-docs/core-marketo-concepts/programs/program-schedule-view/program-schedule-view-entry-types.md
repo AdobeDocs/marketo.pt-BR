@@ -7,17 +7,17 @@ feature: Programs
 source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 15%
+ht-degree: 12%
 
 ---
 
 # Tipos de Entrada de Exibição de Calendário do Programa {#program-schedule-view-entry-types}
 
-Há oito tipos de entrada incorporados diferentes que estarão visíveis e disponíveis para uso na visualização do cronograma do programa. Também é possível [criar tipos de entrada personalizados](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) na seção Admin.
+Há oito tipos de entrada incorporados diferentes que estarão visíveis e disponíveis para uso na visualização do cronograma do programa. Você também pode [criar tipos de entrada personalizados](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) na seção de Administrador.
 
 >[!NOTE]
 >
->As campanhas inteligentes recorrentes são **não** compatível com a exibição de agendamento.
+>As Campanhas inteligentes recorrentes **não** são suportadas no modo de exibição de agendamento.
 
 <table> 
  <thead> 

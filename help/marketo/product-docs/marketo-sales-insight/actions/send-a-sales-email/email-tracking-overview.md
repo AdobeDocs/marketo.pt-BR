@@ -5,7 +5,7 @@ exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Isso significa que se você enviar um email para flynn@flynnsarcade.com e ele re
 
 ## Como rastrear anexos de email {#how-to-track-your-email-attachments}
 
-O Sales Connect oferece rastreamento nos seus anexos (.doc, .ppt, .pdf) para que você possa ver quando eles foram abertos/baixados e quais páginas seu destinatário está procurando. Permitiremos que você use nosso recurso de anexos rastreáveis de ambos os [aplicativo web](https://toutapp.com/login) e Gmail (ou aplicativos Google).
+O Sales Connect oferece rastreamento nos seus anexos (.doc, .ppt, .pdf) para que você possa ver quando eles foram abertos/baixados e quais páginas seu destinatário está procurando. Permitiremos que você use nosso recurso de anexos rastreáveis do [aplicativo web](https://toutapp.com/login) e do Gmail (ou aplicativos Google).
 
 >[!NOTE]
 >
@@ -34,13 +34,13 @@ O Sales Connect oferece rastreamento nos seus anexos (.doc, .ppt, .pdf) para que
 
 **Como enviar seu primeiro anexo rastreável**
 
-1. Escreva um email ou edite um modelo e clique no **Conteúdo** botão.
+1. Componha um email ou edite um modelo e clique no botão **Conteúdo**.
 
 1. Faça upload do anexo e envie-o. Oferecemos suporte a PDF, documentos do Word e apresentações do PowerPoint.
 
-1. Selecionar **Adicionar ao email**.
+1. Selecione **Adicionar ao email**.
 
-1. Clique em **Enviar** e acione o seu Feed ativo. Você verá seus destinatários à medida que eles abrirem e navegarem pelos anexos.
+1. Clique em **Enviar** e acione o Feed Ativo. Você verá seus destinatários à medida que eles abrirem e navegarem pelos anexos.
 
 >[!TIP]
 >

@@ -17,7 +17,7 @@ Você provavelmente quer ver a aparência da sua landing page antes de ativá-la
 
 ## Visualizar uma página de aterrissagem {#preview-a-landing-page-1}
 
-1. Selecione uma landing page e clique em **Visualizar página**.
+1. Selecione uma página de aterrissagem e clique em **Visualizar página**.
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
@@ -25,23 +25,23 @@ Você provavelmente quer ver a aparência da sua landing page antes de ativá-la
    >
    >O rascunho é a versão em que você está trabalhando, não a versão em tempo real que os clientes veem.
 
-1. Além disso, é possível clicar com o botão direito do mouse na landing page e selecionar **Visualizar**.
+1. Você também pode clicar com o botão direito do mouse na sua página de aterrissagem e selecionar **Visualizar**.
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
 ## Visualizar um rascunho de página de aterrissagem {#preview-a-landing-page-draft}
 
-1. Clique com o botão direito do mouse em uma landing page aprovada que tenha uma versão de rascunho e clique em **Visualizar rascunho**.
+1. Clique com o botão direito em uma página de aterrissagem aprovada que tenha uma versão de rascunho e clique em **Visualizar rascunho**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
 ## Visualizar um rascunho de página de aterrissagem ao editar {#preview-a-landing-page-draft-while-editing}
 
-1. Selecione uma landing page e clique em **Editar rascunho**.
+1. Selecione uma página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. Em qualquer momento durante seu trabalho no editor de páginas de aterrissagem, você pode clicar em **Visualizar rascunho**.
+1. Em qualquer momento durante seu trabalho no editor de páginas de aterrissagem, você pode clicar em **Visualizar Rascunho**.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 

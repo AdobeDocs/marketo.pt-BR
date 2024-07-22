@@ -6,7 +6,7 @@ feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -20,11 +20,11 @@ Visualize um resumo dos erros encontrados durante o processo de sincronização.
 
 ## Exibir Erros de Sincronização {#view-sync-errors}
 
-1. Clique em **[!UICONTROL Admin]**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Em Integração, clique em **Salesforce**, depois o **[!UICONTROL Erros de sincronização]** guia.
+1. Em Integração, clique em **Salesforce** e, em seguida, na guia **[!UICONTROL Erros de sincronização]**.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -34,7 +34,7 @@ Visualize um resumo dos erros encontrados durante o processo de sincronização.
 
 | Campo | Descrição |
 |---|---|
-| Falha em | Nível de registro _ou_ Nível da tarefa |
+| Falha em | Nível de Registro _ou_ Nível de Trabalho |
 | Data/hora da falha | Detalhes do erro |
 | Tipo de erro | Mensagem de retorno do SFDC |
 

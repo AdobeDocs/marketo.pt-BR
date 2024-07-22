@@ -5,7 +5,7 @@ exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ O Marketo Sales oferece várias opções para enviar emails. Este artigo analisa
 
 ## Recomendado: Gmail ou Exchange via conexão de email {#recommended-gmail-or-exchange-via-email-connection}
 
-O Marketo Sales permite uma configuração simplificada e a capacidade aprimorada de delivery por meio do serviço de conexão de email. A conexão de email permite que cada usuário se conecte aos seus [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) ou [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) para que o Marketo Sales seja utilizado como o canal de entrega preferido para todos os emails de vendas do Marketo.
+O Marketo Sales permite uma configuração simplificada e a capacidade aprimorada de delivery por meio do serviço de conexão de email. A conexão de email permite que cada usuário se conecte à sua conta do [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) ou do [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) para o Marketo Sales para ser utilizado como o canal de entrega preferido para todos os emails de Vendas do Marketo.
 
 O uso do Gmail ou do Exchange vem com algumas vantagens distintas em relação a outras opções de canal de entrega:
 
@@ -24,13 +24,13 @@ O uso do Gmail ou do Exchange vem com algumas vantagens distintas em relação a
 * Os métodos de autenticação, como SPF e DKIM, já estão configurados e gerenciados pela sua equipe de TI, portanto, não há nenhuma configuração adicional.
 * O envio de emails em uma determinada rede de email (ou seja, o envio de um email como usuário do Exchange para uma empresa que recebe emails por meio do Exchange) pode ajudar a aumentar ainda mais a capacidade de entrega.
 
-É importante observar que esses canais de entrega têm seus próprios limites de envio, que são aplicados pela Microsoft e pela Google. Para combater isso, usamos um mecanismo de controle para ajudar os usuários a ficar dentro desses limites. Saiba mais sobre [limitação de email aqui](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+É importante observar que esses canais de entrega têm seus próprios limites de envio, que são aplicados pela Microsoft e pela Google. Para combater isso, usamos um mecanismo de controle para ajudar os usuários a ficar dentro desses limites. Saiba mais sobre a [limitação de email aqui](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
 >Por padrão, o plug-in O365 sempre usará o canal de entrega do Exchange e o plug-in Gmail sempre usará o canal de entrega do Gmail para enviar emails dos plug-ins.
 
-**Rastreamento de rejeição**: o Marketo Sales pode detectar rejeições de usuários do Exchange Online ou do Gmail detectando a mensagem de rejeição enviada para a caixa de entrada do remetente. Essas notificações de rejeição serão agrupadas em Análises de modelo, Análises de campanha e Notificações de feed ao vivo para os usuários. O rastreamento de rejeição não é compatível com clientes locais do Exchange.
+**Rastreamento de Rejeição**: o Marketo Sales pode detectar rejeições de usuários do Exchange Online ou do Gmail detectando a mensagem de rejeição enviada para a caixa de entrada do remetente. Essas notificações de rejeição serão agrupadas em Análises de modelo, Análises de campanha e Notificações de feed ao vivo para os usuários. O rastreamento de rejeição não é compatível com clientes locais do Exchange.
 
 ## Canal de entrega personalizado via SMTP {#custom-delivery-channel-via-smtp}
 
@@ -59,6 +59,6 @@ Os servidores de e-mail da Marketo não se integram ao Marketo Sales. Os servido
 >[!MORELIKETHIS]
 >
 >* [Conexão de email para usuários do Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Conexão de email para usuários do Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
->* [Configuração de um canal de entrega personalizado](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
->* [Limitação da conexão de email](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+>* [Conexão de Email para Usuários do Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Configurando um Canal de Entrega Personalizado](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+>* [Limitação da Conexão de Email](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

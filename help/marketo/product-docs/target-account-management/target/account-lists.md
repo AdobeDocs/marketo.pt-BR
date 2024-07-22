@@ -6,7 +6,7 @@ exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 1%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 1%
 
 Uma lista de contas é uma coleção de contas nomeadas que podem ser segmentadas juntas. As listas de contas permitem que você direcione contas nomeadas por setor, local ou tamanho da empresa.
 
-Além das listas de contas, você também pode criar listas de contas dinâmicas geradas de Exibições de Contas públicas do CRM. Uma Exibição de conta do CRM é um conjunto de regras que atua como filtro ao exibir contas. Por exemplo, você pode usá-lo para encontrar contas em que o setor é da área de saúde *e* A receita é superior a US$ 100 milhões.
+Além das listas de contas, você também pode criar listas de contas dinâmicas geradas de Exibições de Contas públicas do CRM. Uma Exibição de conta do CRM é um conjunto de regras que atua como filtro ao exibir contas. Por exemplo, você pode usá-lo para encontrar contas em que o setor de saúde seja *e* a receita seja superior a US$ 100 milhões.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->As listas de contas criadas no Gerenciamento de contas do Marketo Target estão disponíveis automaticamente ao criar listas inteligentes e campanhas da Web no [Personalização da Web](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>As listas de contas criadas no Gerenciamento de Contas do Marketo Target são disponibilizadas automaticamente ao criar listas inteligentes e campanhas da Web no [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Criar uma nova lista de contas {#create-a-new-account-list}
 
-1. Clique em **Novo** e selecione **Criar nova lista de contas**.
+1. Clique no menu suspenso **Novo** e selecione **Criar nova lista de contas**.
 
    ![](assets/1a.png)
 
@@ -33,7 +33,7 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 
    ![](assets/three-0.png)
 
-1. Depois de criar sua lista de contas, comece em [adicionar contas nomeadas a ele](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
+1. Depois de criar sua lista de contas, comece a [adicionar contas nomeadas a ela](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -41,11 +41,11 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 
 ## Criar uma nova lista de contas dinâmicas {#create-a-new-dynamic-account-list}
 
-1. Clique em **Novo** e selecione **Criar nova lista dinâmica**.
+1. Clique no menu suspenso **Novo** e selecione **Criar Nova Lista Dinâmica**.
 
    ![](assets/1.png)
 
-1. Na caixa de diálogo, selecione uma **Exibição da Conta do CRM** no menu suspenso ou digite o nome para pesquisá-lo.
+1. Na caixa de diálogo, selecione uma **Exibição da Conta do CRM** no menu suspenso ou digite o nome a ser pesquisado.
 
    ![](assets/image2017-7-18-9-48-23.png)
 
@@ -61,9 +61,9 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 
 >[!NOTE]
 >
->Essas etapas se aplicam somente às listas de contas. _Dinâmico_ As listas de contas usam o nome de suas Exibições de Contas do CRM associadas.
+>Essas etapas se aplicam somente às listas de contas. As listas de contas _Dinâmicas_ usam o nome de seus Modos de Exibição de Conta do CRM associados.
 
-1. Selecione a conta que deseja renomear, clique no link **Ações da lista de contas** e selecione **Renomear lista de contas**.
+1. Selecione a conta que deseja renomear, clique no menu suspenso **Ações da Lista de Contas** e selecione **Renomear Lista de Contas**.
 
    ![](assets/three.png)
 
@@ -81,7 +81,7 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 >
 >Essas etapas são as mesmas para listas de contas e listas de contas dinâmicas.
 
-1. Selecione a conta que deseja excluir, clique no link **Ações da lista de contas** e selecione **Excluir lista de contas**.
+1. Selecione a conta que deseja excluir, clique no menu suspenso **Ações da Lista de Contas** e selecione **Excluir Lista de Contas**.
 
    ![](assets/five.png)
 
@@ -91,5 +91,5 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 
 >[!MORELIKETHIS]
 >
->* [Adicionar uma conta nomeada existente a uma lista de contas](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Adicionar uma Conta Nomeada Existente a uma Lista de Contas](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Insights da lista de contas](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

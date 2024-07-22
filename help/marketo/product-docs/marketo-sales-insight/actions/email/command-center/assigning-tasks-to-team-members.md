@@ -18,7 +18,7 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 >
 >Só é possível atribuir tarefas a contatos compartilhados.
 
-1. No aplicativo web, clique em **Centro de comando**.
+1. No aplicativo Web, clique em **Centro de Comando**.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
@@ -50,6 +50,6 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Adicione todos os detalhes importantes que sejam relevantes para o seu colega de equipe (opcional) e clique em **Criar**.
+1. Adicione todos os detalhes importantes que sejam relevantes para o seu colega de equipe (opcional), e clique em **Criar**.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

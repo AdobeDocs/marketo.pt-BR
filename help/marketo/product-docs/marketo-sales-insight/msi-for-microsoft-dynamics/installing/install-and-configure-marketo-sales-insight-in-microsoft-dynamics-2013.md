@@ -6,7 +6,7 @@ exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -19,13 +19,13 @@ O Marketo Sales Insight é uma ferramenta fantástica para fornecer à sua equip
 >
 >Conclua sua integração Marketo-Microsoft.
 >
->[Baixar a solução correta](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) para a sua versão do Microsoft Dynamics CRM.
+>[Baixe a solução correta](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) para a sua versão do Microsoft Dynamics CRM.
 
 ## Importar solução {#import-solution}
 
 OK, agora é hora de importar a solução Marketo Sales Insight para o Microsoft Dynamics.
 
-1. Em **Microsoft Dynamics CRM** click **Configurações**.
+1. Em **Microsoft Dynamics CRM**, clique em **Configurações**.
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
@@ -53,11 +53,11 @@ OK, agora é hora de importar a solução Marketo Sales Insight para o Microsoft
 
    ![](assets/image2014-12-12-9-3a5-3a45.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2014-12-12-9-3a5-3a55.png)
 
-1. A solução será carregada. Você pode visualizar o conteúdo do pacote se desejar. Clique em **Próxima**.
+1. A solução será carregada. Você pode visualizar o conteúdo do pacote se desejar. Clique em **Avançar**.
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
@@ -69,7 +69,7 @@ OK, agora é hora de importar a solução Marketo Sales Insight para o Microsoft
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. Ótimo! Você deve ver a solução agora. Se não estiver lá, atualize a tela.
+1. Fantástico! Você deve ver a solução agora. Se não estiver lá, atualize a tela.
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 
@@ -81,15 +81,15 @@ Vamos vincular sua instância do Marketo ao Sales Insight in Dynamics.
 >
 >É necessário ter direitos de administrador.
 
-1. Faça logon no Marketo e acesse o **Admin** seção.
+1. Faça logon no Marketo e vá para a seção **Administrador**.
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. No **Sales Insight** clique na seção **Editar configuração da API**.
+1. Na seção **Sales Insight**, clique em **Editar configuração de API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copie o **Host do Marketo**, **URL da API**, e **ID de usuário da API** para uso em uma etapa posterior. Insira um **Chave secreta da API** de sua escolha e clique em **Salvar**.
+1. Copie o **Host do Marketo**, a **URL da API** e a **ID de Usuário da API** para usar em uma etapa posterior. Insira uma **Chave secreta de API** de sua escolha e clique em **Salvar**.
 
    >[!CAUTION]
    >
@@ -99,7 +99,7 @@ Vamos vincular sua instância do Marketo ao Sales Insight in Dynamics.
 
    >[!NOTE]
    >
-   >Os seguintes campos devem ser sincronizados com o Marketo para _Cliente Potencial e Contato_ para que o Sales Insight funcione:
+   >Os seguintes campos devem ser sincronizados com o Marketo para que _o cliente potencial e o contato_ funcionem:
    >
    >* Prioridade
    >* Urgência
@@ -107,7 +107,7 @@ Vamos vincular sua instância do Marketo ao Sales Insight in Dynamics.
    >
    >Se algum desses campos estiver ausente, você verá uma mensagem de erro no Marketo com o nome dos campos ausentes. Para corrigir isso, execute [este procedimento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. De volta ao Microsoft Dynamics, acesse **Configurações**.
+1. De volta ao Microsoft Dynamics, vá para **Configurações**.
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
@@ -119,7 +119,7 @@ Vamos vincular sua instância do Marketo ao Sales Insight in Dynamics.
 
    ![](assets/image2014-12-12-9-3a8-3a8.png)
 
-1. Insira as informações obtidas do Marketo anteriormente e clique em **Salvar**.
+1. Insira as informações que você obteve do Marketo anteriormente e clique em **Salvar**.
 
    ![](assets/image2014-12-12-9-3a8-3a17.png)
 
@@ -127,7 +127,7 @@ Vamos vincular sua instância do Marketo ao Sales Insight in Dynamics.
 
 Por fim, você pode conceder a usuários específicos acesso ao Marketo Sales Insight.
 
-1. Ir para **Configurações**.
+1. Vá para **Configurações**.
 
    ![](assets/image2014-12-12-9-3a8-3a34.png)
 
@@ -135,11 +135,11 @@ Por fim, você pode conceder a usuários específicos acesso ao Marketo Sales In
 
    ![](assets/image2014-12-12-9-3a8-3a42.png)
 
-1. Selecione os usuários aos quais você deseja conceder acesso ao Sales Insight e clique em **Gerenciar Funções**.
+1. Selecione os usuários aos quais você deseja conceder acesso ao Sales Insight e clique em **Gerenciar funções**.
 
    ![](assets/image2014-12-12-9-3a9-3a13.png)
 
-1. Selecione o **Marketo Sales Insight** e clique em **OK**.
+1. Selecione a função **Marketo Sales Insight** e clique em **OK**.
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
@@ -151,4 +151,4 @@ Agora você desbloqueou o potencial do Marketo Sales Insight para sua equipe de 
 
 >[!MORELIKETHIS]
 >
->[Configuração de Estrelas e Chamas para Registros de Cliente Potencial/Contato](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[Configurando Estrelas e Chamas para Registros de Cliente Potencial/Contato](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

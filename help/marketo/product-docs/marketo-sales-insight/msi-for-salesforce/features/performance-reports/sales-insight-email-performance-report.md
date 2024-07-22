@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -21,15 +21,15 @@ Visualize o desempenho de emails enviados por meio do Salesforce, Microsoft Dyna
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Clique em **Desempenho de e-mail do Sales Insight**.
+1. Clique em **Desempenho de email do Sales Insight**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Clique em **Configuração** e escolha os valores desejados.
+1. Clique na guia **Configuração** e escolha os valores desejados.
 
    ![](assets/three.png)
 
-1. Clique em **Relatório** guia.
+1. Clique na guia **Relatório**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,11 +47,11 @@ Visualize o desempenho de emails enviados por meio do Salesforce, Microsoft Dyna
 
 Você pode exibir este relatório agrupado por Representante de vendas alterando suas configurações.
 
-1. Clique em **Configuração**. Clique duas vezes **E-mail**.
+1. Clique em **Instalação**. Clique duas vezes em **Email**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Selecionar emails do grupo por **Representante de Vendas**.
+1. Selecione Agrupar emails de **Representante de vendas**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
@@ -59,7 +59,7 @@ Você pode exibir este relatório agrupado por Representante de vendas alterando
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Clique em **Relatório** guia.
+1. Clique na guia **Relatório**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

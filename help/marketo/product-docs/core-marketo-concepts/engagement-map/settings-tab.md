@@ -1,8 +1,8 @@
 ---
 description: Guia Configurações - Documentação do Marketo - Documentação do produto
 title: Guia Configurações
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -15,9 +15,9 @@ A guia Settings é o local de todas as configurações da campanha, incluindo os
 
 Ele inclui as três seções a seguir.
 
-* **Regras de qualificação**: determina quantas vezes cada pessoa pode executar pelo fluxo do Smart Campaign.
+* **Regras de qualificação**: determina quantas vezes cada pessoa pode executar o fluxo da Campanha Inteligente.
 
-* **Execuções Individuais**: pode ser usado para agendar execuções únicas imediatamente ou no futuro.
+* **Execuções individuais**: podem ser usadas para agendar execuções únicas imediatamente ou no futuro.
 
 * **Recorrência**: usado para agendar uma recorrência diária, semanal ou mensal.
 
@@ -46,7 +46,7 @@ O modal de recorrência inclui a capacidade de configurar um agendamento recorre
 A guia Configurações também inclui uma visão geral rápida da Campanha inteligente. Ele inclui o seguinte:
 
 * Status da campanha
-* Criado(a) em
+* Criado em
 * Última modificação
 * Modo de lista inteligente
 * Status da lista inteligente:

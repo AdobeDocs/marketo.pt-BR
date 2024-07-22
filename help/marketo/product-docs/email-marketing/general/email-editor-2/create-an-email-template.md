@@ -6,7 +6,7 @@ exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Siga estas etapas para criar um novo template de email.
 
    ![](assets/three-1.png)
 
-1. Para começar a editar seu novo modelo, clique em **Editar rascunho**.
+1. Para começar a editar seu novo modelo, clique em **Editar Rascunho**.
 
    ![](assets/4.png)
 
@@ -53,15 +53,15 @@ Se você criou um email que gostaria de salvar como modelo para uso futuro, siga
 
    ![](assets/one.png)
 
-1. Localize e selecione seu email e clique em **Editar rascunho**.
+1. Localize e selecione seu email e clique em **Editar Rascunho**.
 
    ![](assets/two-1.png)
 
-1. Clique em **Ações de email** e selecione **Salvar como modelo**.
+1. Clique no menu suspenso **Ações de email** e selecione **Salvar como modelo**.
 
    ![](assets/four-1.png)
 
-1. Clique em **Pasta** selecione onde deseja que o modelo fique e clique em **Salvar**.
+1. Clique no menu suspenso **Pasta**, selecione onde deseja que o modelo fique e clique em **Salvar**.
 
    ![](assets/five-1.png)
 

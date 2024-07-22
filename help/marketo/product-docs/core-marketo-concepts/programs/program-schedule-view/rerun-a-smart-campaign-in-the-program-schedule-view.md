@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode criar facilmente novas execuções de uma Campanha inteligente existente diretamente da visualização do cronograma do programa.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ Você pode criar facilmente novas execuções de uma Campanha inteligente existe
 
    >[!TIP]
    >
-   >Também é possível fazer isso no [foco do programa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Você também pode fazer isso no [foco do programa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! Assim, você agendou outra execução para essa Campanha Inteligente. Se essa Campanha inteligente continha etapas de envio de email, você as verá também.

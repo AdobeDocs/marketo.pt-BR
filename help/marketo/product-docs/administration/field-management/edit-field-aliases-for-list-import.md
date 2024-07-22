@@ -19,11 +19,11 @@ Ao importar uma lista com cabeçalhos desconhecidos, você pode criar aliases de
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
@@ -31,7 +31,7 @@ Ao importar uma lista com cabeçalhos desconhecidos, você pode criar aliases de
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. No **[!UICONTROL Ações de campo]** , clique em **[!UICONTROL Editar Aliases de Importação]**.
+1. No menu suspenso **[!UICONTROL Ações de Campo]**, clique em **[!UICONTROL Editar Aliases de Importação]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
@@ -41,7 +41,7 @@ Ao importar uma lista com cabeçalhos desconhecidos, você pode criar aliases de
 
 >[!TIP]
 >
->Clique em **[!UICONTROL Adicionar outro]** e insira mais aliases, se precisar deles.
+>Clique em **[!UICONTROL Adicionar outro]** e insira mais aliases se precisar deles.
 
 Olhe para isso! Agora, se você importar uma planilha com uma coluna chamada &quot;DOB&quot;, o Marketo a reconhecerá automaticamente como &quot;Data de nascimento&quot; e importará os dados para o campo correto.
 

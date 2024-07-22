@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Use o menu Ações de objetos personalizados para editar ou excluir um objeto personalizado.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
@@ -33,7 +33,7 @@ Use o menu Ações de objetos personalizados para editar ou excluir um objeto pe
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. Clique em **[!UICONTROL Ações do objeto personalizado]** e clique em **[!UICONTROL Editar objeto]**.
+1. Clique na guia **[!UICONTROL Ações de Objeto Personalizado]** e clique em **[!UICONTROL Editar Objeto]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
@@ -45,13 +45,13 @@ Use o menu Ações de objetos personalizados para editar ou excluir um objeto pe
 
 ## Excluir um objeto personalizado {#delete-a-custom-object}
 
-É fácil excluir um objeto personalizado, mas você precisa ter cuidado. Os objetos personalizados podem ser conectados a outros objetos ou a listas inteligentes. Portanto, o Marketo avisa antes de permitir que você clique **[!UICONTROL Excluir]**.
+É fácil excluir um objeto personalizado, mas você precisa ter cuidado. Os objetos personalizados podem ser conectados a outros objetos ou a listas inteligentes. Portanto, a Marketo avisa antes de permitir que você clique em **[!UICONTROL Excluir]**.
 
 >[!CAUTION]
 >
 >Não é possível restaurar um objeto personalizado depois de excluí-lo.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
@@ -63,7 +63,7 @@ Use o menu Ações de objetos personalizados para editar ou excluir um objeto pe
 
    ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
-1. Clique em **[!UICONTROL Ações do objeto personalizado]** e selecione **[!UICONTROL Excluir objeto]**.
+1. Clique em **[!UICONTROL Ações de Objeto Personalizado]** e selecione **[!UICONTROL Excluir Objeto]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
@@ -75,7 +75,7 @@ Use o menu Ações de objetos personalizados para editar ou excluir um objeto pe
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. Se o objeto personalizado já estiver aprovado, haverá maior risco se você excluí-lo. Então, você vai receber esse aviso mais forte. Enter **[!UICONTROL Eu entendo]**, verifique a **[!UICONTROL Não é possível desfazer]** e clique em **[!UICONTROL Excluir]**.
+1. Se o objeto personalizado já estiver aprovado, haverá maior risco se você excluí-lo. Então, você vai receber esse aviso mais forte. Insira **[!UICONTROL Entendo]**, marque a caixa de seleção **[!UICONTROL Não é possível desfazer]** e clique em **[!UICONTROL Excluir]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 
@@ -85,4 +85,4 @@ Use o menu Ações de objetos personalizados para editar ou excluir um objeto pe
 
 >[!MORELIKETHIS]
 >
->[Aprovar um objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>[Aprovar um Objeto Personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)

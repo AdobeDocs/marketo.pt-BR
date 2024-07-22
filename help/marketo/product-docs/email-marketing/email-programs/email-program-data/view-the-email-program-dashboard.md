@@ -17,11 +17,11 @@ Confira o desempenho do seu programa de email (com ou sem um teste A/B) com esse
 
 >[!CAUTION]
 >
->Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email, referenciando-o em uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se precisar reutilizar um email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso, o, pois copia o email, mas cria um novo com uma nova ID de email.
+>Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email referenciando-o em uma Campanha Inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se você precisar reutilizar um email, [clone-o](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, pois ele copia o email, mas cria um novo com uma nova ID.
 
 ## Selecione seu programa de email {#select-your-email-program}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -51,5 +51,5 @@ Como alternativa, se você não tiver adicionado um teste A/B *ou* se o teste fo
 
 >[!MORELIKETHIS]
 >
->* [Usar o painel do programa de email - Exibição de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Usar o painel do programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Usar o Painel do Programa de Email - Modo de Exibição de Teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Usar o Painel do Programa de Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

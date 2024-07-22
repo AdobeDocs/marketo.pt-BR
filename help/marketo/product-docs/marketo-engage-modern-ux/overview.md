@@ -50,9 +50,9 @@ Há muitos recursos novos de árvore disponíveis.
 
 >[!NOTE]
 >
->Fazer uma pesquisa na árvore exibirá apenas os primeiros 250 resultados. Se, após uma pesquisa, você não conseguir localizar seu ativo, use o [Pesquisa global](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) função.
+>Fazer uma pesquisa na árvore exibirá apenas os primeiros 250 resultados. Se após uma pesquisa você não conseguir localizar seu ativo, use a função [Pesquisa global](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
-**Marketo Classic versus a nova Marketo**
+**Marketo Classic vs. a nova Marketo**
 
 <table> 
  <tbody>

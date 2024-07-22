@@ -6,7 +6,7 @@ exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ No Editor de email 2.0, um módulo é uma seção do seu email definida no model
 
    >[!NOTE]
    >
-   >A maioria dos Modelos iniciais do Marketo contém Módulos. Você também pode [crie o seu próprio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >A maioria dos Modelos iniciais do Marketo contém Módulos. Você também pode [criar o seu próprio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. Na extremidade direita do email, clique em **Módulos**.
 
@@ -59,7 +59,7 @@ Há duas maneiras de mover um módulo.
 
    ![](assets/nine-2.png)
 
-1. Clique no ícone de engrenagem e selecione **Mover para cima** ou **Mover para baixo**, dependendo de onde você deseja que o módulo seja enviado.
+1. Clique no ícone de engrenagem e selecione **Mover para cima** ou **Mover para baixo**, dependendo de onde você deseja que o módulo vá.
 
    ![](assets/ten-2.png)
 

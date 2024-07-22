@@ -18,7 +18,7 @@ Existem dois tipos de colunas de ação rápida na grade de email. Ações de em
 
 As ações rápidas de email são dinâmicas e atualizadas dependendo das ações mais relevantes para o status do email que você está visualizando. Há no máximo duas ações rápidas de email visíveis para cada status de email. Você pode ver quais ações rápidas de email estarão disponíveis para cada status abaixo.
 
-**Entregues**
+**Entregue**
 
 | Status | Descrição |
 |---|---|
@@ -39,12 +39,12 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Nota:</strong> Os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Rascunho e Programado**
+**Rascunho e Agendado**
 
 <table> 
  <colgroup> 
@@ -58,7 +58,7 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Nota:</strong> Os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,7 +77,7 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td><p>Excluirá o email.<br><strong>Nota:</strong> Os emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
 </table>

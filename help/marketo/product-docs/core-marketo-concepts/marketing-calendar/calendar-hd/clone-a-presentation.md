@@ -19,7 +19,7 @@ Clonar uma apresentação para reutilização em locais diferentes.
 
    ![](assets/image2015-3-26-12-3a22-3a6.png)
 
-1. Clique com o botão direito na apresentação e selecione **[!UICONTROL Clonar]**.
+1. Clique com o botão direito do mouse na apresentação e selecione **[!UICONTROL Clonar]**.
 
    ![](assets/image2015-3-26-12-3a22-3a47.png)
 

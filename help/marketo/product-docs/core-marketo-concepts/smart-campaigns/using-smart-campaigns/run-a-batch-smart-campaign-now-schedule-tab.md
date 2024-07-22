@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1146933
 description: Executar uma campanha inteligente em lote agora | Guia Programação - Documentação do Marketo - Documentação do produto
-title: Executar uma campanha inteligente em lote agora Guia Programação
+title: Executar uma campanha inteligente em lote agora | Guia Programação
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
@@ -11,15 +11,15 @@ ht-degree: 0%
 
 ---
 
-# Executar uma campanha inteligente em lote agora Guia Programação {#run-a-batch-smart-campaign-now-schedule-tab}
+# Executar uma campanha inteligente em lote agora | Guia Programação {#run-a-batch-smart-campaign-now-schedule-tab}
 
 Quando terminar de criar a Campanha em lote, você pode optar por executá-la agora ou posteriormente. Veja como executá-lo imediatamente.
 
-1. Selecione a Campanha em lote, vá para a **[!UICONTROL Agendar]** e clique em **[!UICONTROL Executar uma vez]**.
+1. Selecione a Campanha em lote, vá para a guia **[!UICONTROL Agendar]** e clique em **[!UICONTROL Executar uma vez]**.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
-1. Verifique se **[!UICONTROL Executar agora]** estiver selecionada e clique em **[!UICONTROL Executar]**.
+1. Verifique se **[!UICONTROL Executar Agora]** está selecionado e clique em **[!UICONTROL Executar]**.
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-2.png)
 
@@ -27,9 +27,9 @@ Quando terminar de criar a Campanha em lote, você pode optar por executá-la ag
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Fácil! Também é possível [agendar execuções para mais tarde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} se preferir.
+   Fácil! Você também pode [agendar execuções para mais tarde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}, se preferir.
 
    >[!NOTE]
    >
-   >* [Agendar uma campanha inteligente em lote para execução posterior](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}
-   >* [Programar uma campanha em lote recorrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}
+   >* [Agendar uma Campanha Inteligente em Lote para Execução Posterior](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}
+   >* [Agendar uma Campanha em Lote Recorrente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}

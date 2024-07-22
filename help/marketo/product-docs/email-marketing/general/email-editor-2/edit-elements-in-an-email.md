@@ -7,7 +7,7 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '502'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ Os emails podem conter quatro elementos diferentes: Rich text, Imagens, Trechos 
 
 ## Como editar o elemento de rich text {#how-to-edit-the-rich-text-element}
 
-1. Localize o email, selecione-o e clique em **Editar rascunho**.
+1. Encontre seu email, selecione-o e clique em **Editar Rascunho**.
 
    ![](assets/one-edited.png)
 
-1. O editor de email será aberto. Selecione o Rich text, clique no ícone de engrenagem e selecione **Editar**.
+1. O editor de email será aberto. Selecione Rich text, clique no ícone de engrenagem e selecione **Editar**.
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Imagens, Trechos 
 
    >[!NOTE]
    >
-   >Você também pode adicionar imagens, tokens, tabelas e outros elementos. Consulte [Uso do Editor de Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Você também pode adicionar imagens, tokens, tabelas e outros elementos. Consulte [Usando o Editor de Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Imagens, Trechos 
 
    ![](assets/five.png)
 
-1. Clique no elemento de imagem que deseja editar, clique no ícone de engrenagem e selecione **Editar**.
+1. Clique no elemento de imagem que você deseja editar, clique no ícone de engrenagem e selecione **Editar**.
 
    ![](assets/six.png)
 
@@ -67,7 +67,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Imagens, Trechos 
    >
    >Se quiser usar um token Marketo, use essa opção. Lembre-se de que, ao usar um token, a imagem aparecerá quebrada no editor, mas será renderizada no modo de Visualização e no email Enviar amostra.
 
-   Para usar um URL externo, cole primeiro o URL da imagem. Altere as dimensões para atender às suas necessidades e adicione texto alternativo (opcional). Pressione **Trocar**.
+   Para usar um URL externo, cole primeiro o URL da imagem. Altere as dimensões para atender às suas necessidades e adicione texto alternativo (opcional). Em seguida, pressione **Swap**.
 
    ![](assets/eight.png)
 
@@ -81,21 +81,21 @@ Os emails podem conter quatro elementos diferentes: Rich text, Imagens, Trechos 
 
    ![](assets/ten.png)
 
-   Altere as dimensões para atender às suas necessidades, altere o Texto alternativo (opcional) e pressione **Trocar**.
+   Altere as dimensões de acordo com suas necessidades, altere o Texto Alt (opcional) e pressione **Trocar**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Se estiver substituindo uma imagem, será necessário verificar a **Substituir imagem existente** que aparece abaixo do URL/nome da imagem.
+   >Se você estiver substituindo uma imagem, será necessário marcar a caixa **Substituir imagem existente** que aparece abaixo do URL/nome da imagem.
 
-   **Estúdio de desenvolvimento**
+   **Design Studio**
 
    Para inserir uma imagem do Design Studio, basta localizá-la...
 
    ![](assets/twelve.png)
 
-   ...e insira-o. Altere as dimensões para atender às suas necessidades, altere o Texto alternativo (opcional) e pressione **Trocar**.
+   ...e insira-o. Altere as dimensões de acordo com suas necessidades, altere o Texto Alt (opcional) e pressione **Trocar**.
 
    ![](assets/thirteen.png)
 
@@ -109,7 +109,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Imagens, Trechos 
 
    ![](assets/fifteen.png)
 
-1. Localize o trecho, selecione-o e clique em **Salvar**.
+1. Localize o seu trecho, selecione-o e clique em **Salvar**.
 
    ![](assets/sixteen.png)
 
@@ -127,7 +127,7 @@ Os emails podem conter quatro elementos diferentes: Rich text, Imagens, Trechos 
 
    ![](assets/twenty.png)
 
-1. Cole no URL do vídeo no Vimeo ou YouTube. Em seguida, clique fora da caixa de URL para que a visualização seja carregada. Altere as dimensões de acordo com suas necessidades, adicione o Texto alternativo (opcional) e pressione **Inserir**.
+1. Cole no URL do vídeo no Vimeo ou YouTube. Em seguida, clique fora da caixa de URL para que a visualização seja carregada. Altere as dimensões de acordo com suas necessidades, adicione Texto Alternativo (opcional) e pressione **Inserir**.
 
    ![](assets/twentyone.png)
 

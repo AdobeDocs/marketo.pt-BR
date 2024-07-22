@@ -16,15 +16,15 @@ Saiba como enviar uma lista estática para o LinkedIn, Facebook ou Google.
 
 ## Como enviar uma lista {#how-to-send-a-list}
 
-1. No Marketo Engage, selecione sua lista, clique no link **[!UICONTROL Ações da lista]** e selecione **[!UICONTROL Enviar para a rede de publicidade]**.
+1. No Marketo Engage, selecione sua lista, clique no menu suspenso **[!UICONTROL Ações da Lista]** e selecione **[!UICONTROL Enviar para a Rede de Publicidade]**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Escolha entre LinkedIn, Facebook ou Google (as outras opções não estão disponíveis no momento). Neste exemplo, estamos escolhendo **[!UICONTROL LinkedIn]**. Clique em **[!UICONTROL Próxima]**.
+1. Escolha entre LinkedIn, Facebook ou Google (as outras opções não estão disponíveis no momento). Neste exemplo, estamos escolhendo **[!UICONTROL LinkedIn]**. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
-1. Clique em **[!UICONTROL Público]** e selecione o público-alvo desejado.
+1. Clique no menu suspenso **[!UICONTROL Público-alvo]** e selecione o público-alvo desejado.
 
    ![](assets/send-a-list-to-an-ad-network-3.png)
 
@@ -32,13 +32,13 @@ Saiba como enviar uma lista estática para o LinkedIn, Facebook ou Google.
    >
    >Se precisar verificar, você pode ver o público-alvo de destino com o qual uma lista está sendo sincronizada por meio da guia Status.
 
-1. Escolha o tipo de push desejado e clique em **[!UICONTROL Atualizar]**.
+1. Escolha o Tipo de push desejado e clique em **[!UICONTROL Atualizar]**.
 
    ![](assets/send-a-list-to-an-ad-network-4.png)
 
    >[!NOTE]
    >
-   >Se você selecionar &quot;Ativar sincronização contínua do público-alvo&quot;, o Marketo manterá a lista atualizada na Rede de publicidade escolhida, à medida que a lista for alterada na instância do Marketo. Ambos adicionamos _e_ remova as pessoas do público-alvo se elas forem adicionadas ou removidas da lista estática.
+   >Se você selecionar &quot;Ativar sincronização contínua do público-alvo&quot;, o Marketo manterá a lista atualizada na Rede de publicidade escolhida, à medida que a lista for alterada na instância do Marketo. Ambos adicionamos _e_ removemos pessoas do público-alvo se elas forem adicionadas ou removidas da lista estática.
 
 1. E é isso! Clique em **[!UICONTROL OK]** para sair.
 
@@ -46,7 +46,7 @@ Saiba como enviar uma lista estática para o LinkedIn, Facebook ou Google.
 
 ## Perguntas frequentes {#faq}
 
-**Uma única lista estática pode ser sincronizada com vários públicos-alvo de anúncios?**
+**Uma única lista estática pode ser sincronizada com vários públicos de anúncios?**
 
 Não, uma lista só pode ser sincronizada para um único público-alvo de destino.
 

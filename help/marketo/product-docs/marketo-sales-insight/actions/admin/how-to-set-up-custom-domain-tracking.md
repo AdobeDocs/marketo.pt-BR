@@ -32,10 +32,10 @@ Depois de confirmar com sua equipe de TI que o CNAME está configurado corretame
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Em Configurações do administrador, selecione **Rastreamento**.
+1. Em Configurações do administrador, selecione **Acompanhamento**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. Na guia Rastreamento de domínio personalizado, digite seu CNAME e clique em **Conectar**.
+1. Na guia Custom Domain Tracking, digite seu CNAME e clique em **Conectar**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

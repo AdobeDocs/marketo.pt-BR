@@ -31,7 +31,7 @@ A Correspondência básica usa apenas endereços de email, mas a nova Correspond
 
 Essa API fornece uma interface mais rápida para sincronizar objetos personalizados no Marketo. Você pode importar arquivos de planilha CSV, TSV ou SSV para o Marketo como objetos personalizados.
 
-## [Exportação de campanhas de personalização da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Exportação de Campanhas do Web Personalization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 Exporte todos os detalhes e análises do Web Campaign em um formato CSV. Em seguida, é possível visualizar os dados em um layout conveniente.
 
@@ -39,13 +39,13 @@ Exporte todos os detalhes e análises do Web Campaign em um formato CSV. Em segu
 
 ## Localização {#localization}
 
-Os aplicativos Personalização da Web, Conteúdo preditivo e Insights de email agora estão disponíveis em japonês, alemão e espanhol. Você [selecione seu idioma e localidade](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para exibir seu conteúdo nesses idiomas.
+Os aplicativos Web Personalization, Conteúdo preditivo e Insights de email agora estão disponíveis em japonês, alemão e espanhol. Você [seleciona seu idioma e localidade](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para exibir seu conteúdo nesses idiomas.
 
 ![](assets/japanese-web-personalization.png)
 
 ## Aprimoramentos de marketing com base em conta {#account-based-marketing-enhancements}
 
-**[Importar Contas Nomeadas](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
+**[Importar contas nomeadas](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 Com a opção Importação de conta nomeada, crie ou atualize vários registros de uma só vez por meio de upload de CSV.
 
@@ -59,13 +59,13 @@ Use Conta Nomeada ou Lista de Contas como dimensões nos Insights de email.
 
 ## Aprimoramentos de conteúdo preditivo {#predictive-content-enhancements}
 
-**[Filtrar por fonte ativada](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrar por Source Habilitada](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtre partes de Conteúdo preditivo que são ativadas para Email, Mídia avançada ou Barra de recomendação.
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[Filtrar o Analytics por origem](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrar análises por Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtre a Análise de conteúdo preditivo para fontes específicas - Email, Mídia avançada ou Barra de recomendações.
 
@@ -89,7 +89,7 @@ Os desenvolvedores agora têm controle adicional sobre a entrega de notificaçõ
 
 Melhore seu direcionamento com uma nova opção de filtro, &quot;Membro da lista de vibrações&quot;.
 
-## [Descontinuação do Editor de Rich Text e Editor de formulário herdado 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Descontinuação do Editor de Rich Text e do Editor de Formulário 1.0 herdados](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 A partir de 1º de agosto de 2017, os clientes que ainda usam o Editor de Rich Text e o Editor de formulário 1.0 herdados passarão automaticamente para a nova experiência.
 

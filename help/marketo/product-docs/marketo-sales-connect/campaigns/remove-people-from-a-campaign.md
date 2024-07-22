@@ -21,7 +21,7 @@ Além disso, você pode remover pessoas da própria campanha, remover pessoas de
 
 ## Remover uma pessoa diretamente de uma campanha {#remove-a-person-directly-from-a-campaign}
 
-1. No Sales Connect, clique no link **Campanhas** guia.
+1. No Sales Connect, clique na guia **Campanhas**.
 
    ![](assets/one.png)
 
@@ -33,17 +33,17 @@ Além disso, você pode remover pessoas da própria campanha, remover pessoas de
 
    ![](assets/three.png)
 
-1. Localize a pessoa que deseja remover e clique em **Remover**.
+1. Localize a pessoa que você deseja remover e clique em **Remover**.
 
    ![](assets/four.png)
 
-1. (ETAPA OPCIONAL) Você também pode remover várias pessoas de uma só vez clicando nas caixas de seleção ao lado de seus nomes e clicando no ícone **Remover** botão na parte superior.
+1. (ETAPA OPCIONAL) Você também pode remover várias pessoas de uma só vez clicando nas caixas de seleção ao lado de seus nomes e clicando no botão **Remover** na parte superior.
 
    ![](assets/five.png)
 
 ## Remover uma pessoa de uma campanha na página Pessoas {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. No Sales Connect, clique no link **Pessoas** guia.
+1. No Sales Connect, clique na guia **Pessoas**.
 
    ![](assets/one-a.png)
 
@@ -51,13 +51,13 @@ Além disso, você pode remover pessoas da própria campanha, remover pessoas de
 
    ![](assets/two-a.png)
 
-1. O painel Exibição de detalhes da pessoa é aberto à direita. Clique em **Histórico** guia seguida pela guia **Remover** botão.
+1. O painel Exibição de detalhes da pessoa é aberto à direita. Clique na guia **Histórico** seguida pelo botão **Remover**.
 
    ![](assets/three-a.png)
 
 ## Remover um grupo de pessoas de uma campanha {#remove-a-group-of-people-from-a-campaign}
 
-1. No Sales Connect, clique no link **Pessoas** guia.
+1. No Sales Connect, clique na guia **Pessoas**.
 
    ![](assets/one-b.png)
 
@@ -69,6 +69,6 @@ Além disso, você pode remover pessoas da própria campanha, remover pessoas de
 
    ![](assets/three-b.png)
 
-1. Clique em **Ações** e escolha **Remover Selecionados Da Campanha**.
+1. Clique em **Ações** e escolha **Remover seleção da campanha**.
 
    ![](assets/four-b.png)

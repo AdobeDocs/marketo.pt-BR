@@ -17,7 +17,7 @@ Os emails começam no estado de rascunho. Geralmente, eles não estão disponív
 
 ## Aprove-o usando o menu de ações de email {#approve-it-using-the-email-actions-menu}
 
-1. Localize e selecione seu email, clique no link **Ações de email** e selecione **Aprovar**.
+1. Localize e selecione seu email, clique no menu suspenso **Ações de Email** e selecione **Aprovar**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Os emails começam no estado de rascunho. Geralmente, eles não estão disponív
 
 ## Aprovar seu email no editor de email {#approve-your-email-in-the-email-editor}
 
-1. No email, clique no link **Ações de email** e selecione **Aprovar e fechar**.
+1. No seu email, clique no menu suspenso **Ações de Email** e selecione **Aprovar e Fechar**.
 
    ![](assets/three.png)
 

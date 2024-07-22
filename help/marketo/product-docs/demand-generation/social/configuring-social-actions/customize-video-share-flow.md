@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Personalizar fluxo de compartilhamento de vídeo {#customize-video-share-flow}
 
-Quando você [criar um compartilhamento de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), você pode personalizar quando e onde o prompt de compartilhamento será exibido.
+Ao [criar um compartilhamento de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), você pode personalizar quando e onde o prompt de compartilhamento será exibido.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Quando você [criar um compartilhamento de vídeo](/help/marketo/product-docs/de
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. No editor de compartilhamento de vídeo, acesse **Configurações do aplicativo** > **Opções avançadas**.
+1. No editor de compartilhamento de vídeo, vá para **Configurações do Aplicativo** > **Opções Avançadas**.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +33,4 @@ Quando você [criar um compartilhamento de vídeo](/help/marketo/product-docs/de
 
 >[!MORELIKETHIS]
 >
->O próximo passo é [configurar o que acontece após o compartilhamento de vídeo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>A próxima etapa é [configurar o que acontece após o compartilhamento de vídeo](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

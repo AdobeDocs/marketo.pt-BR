@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Ao fazer grandes alterações nas configurações de sincronização ou campo, você deve desativar a sincronização enquanto configura o. Veja como:
 
-1. Vá para a **[!UICONTROL Admin]** seção.
+1. Vá para a seção **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. Em **[!UICONTROL Salesforce]**, clique em **[!UICONTROL Desativar sincronização]**.
+1. Em **[!UICONTROL Salesforce]**, clique em **[!UICONTROL Desabilitar sincronização]**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 

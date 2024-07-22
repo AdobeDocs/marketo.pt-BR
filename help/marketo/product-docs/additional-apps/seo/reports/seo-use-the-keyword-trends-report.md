@@ -6,8 +6,8 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '179'
+ht-degree: 3%
 
 ---
 
@@ -34,9 +34,9 @@ Nesse relatório, você pode ver como é classificado em palavras-chave ao longo
    | Item | Descrição |
    |---|---|
    | [!UICONTROL Palavras-chave] | O número de palavras-chave que você está rastreando. |
-   | [!UICONTROL Classificar URLs] | O número de URLs na classificação do site no intervalo definido. |
-   | [!UICONTROL Méd. classificação] | A classificação média das palavras-chave no intervalo definido. |
-   | [!UICONTROL Méd. pesquisas] | O número médio de pesquisas nessas palavras-chave que ocorreram durante o intervalo definido (nos últimos 30 dias), na pesquisa Google dos EUA |
+   | [!UICONTROL URLs de classificação] | O número de URLs na classificação do site no intervalo definido. |
+   | [!UICONTROL Média classificação] | A classificação média das palavras-chave no intervalo definido. |
+   | [!UICONTROL Média pesquisas] | O número médio de pesquisas nessas palavras-chave que ocorreram durante o intervalo definido (nos últimos 30 dias), na pesquisa Google dos EUA |
 
 ## Filtrar dados {#filtering-data}
 
@@ -62,4 +62,4 @@ Nesse relatório, você pode ver como é classificado em palavras-chave ao longo
 
    >[!NOTE]
    >
-   >[Uso do relatório de tendências de classificação competitiva do KW](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[Usando o Relatório de Tendências de Classificação do KW Competitivo](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

@@ -5,7 +5,7 @@ exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '525'
 ht-degree: 1%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 1%
 
 ## Criar um modelo {#create-a-new-template}
 
-1. Navegue até a **Modelos** guia.
+1. Navegue até a guia **Modelos**.
 
    ![](assets/manage-templates-1.png)
 
-1. Clique em **Criar modelo**.
+1. Clique em **Criar Modelo**.
 
    ![](assets/manage-templates-2.png)
 
-1. Escolha um **Nome** e **Categoria** para seu modelo de email, depois clique em **Criar**.
+1. Escolha um **Nome** e uma **Categoria** para o modelo de email e clique em **Criar**.
 
    ![](assets/manage-templates-3.png)
 
@@ -63,7 +63,7 @@ A área Detalhes do modelo contém várias guias.
 
 Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ainda serão privados por padrão.
 
-1. Navegue até a **Modelos** guia.
+1. Navegue até a guia **Modelos**.
 
    ![](assets/manage-templates-5.png)
 
@@ -71,13 +71,13 @@ Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ai
 
    ![](assets/manage-templates-6.png)
 
-1. Clique em **Compartilhar** botão.
+1. Clique no botão **Compartilhar**.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Os modelos que foram compartilhados com você serão exibidos na **Modelos de Equipe** no lado esquerdo da página Modelos. As equipes só estão disponíveis para usuários Premium.
+   >Os modelos que foram compartilhados com você aparecerão no cabeçalho **Modelos de Equipe** à esquerda da página Modelos. As equipes só estão disponíveis para usuários Premium.
 
 1. Clique na lista suspensa Compartilhar com e selecione as equipes com as quais você deseja compartilhar.
 
@@ -91,7 +91,7 @@ Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ai
 
 É possível adicionar modelos de qualquer categoria à lista Favoritos. Isso gera automaticamente uma nova categoria na parte superior da lista para que você possa acessar rapidamente os modelos que mais usa.
 
-1. Navegue até a **Modelos** guia.
+1. Navegue até a guia **Modelos**.
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ai
 
 ## Personalizar exibição de modelo {#customize-template-view}
 
-No **Exibir** , você pode optar por ver: todos os modelos, seus modelos, modelos favoritos, modelos compartilhados, modelos não compartilhados ou modelos não usados (modelos que não foram usados nos últimos 90 dias).
+No menu suspenso **Exibir**, você pode optar por ver: todos os modelos, seus modelos, modelos favoritos, compartilhados, não compartilhados ou não usados (modelos que não foram usados nos últimos 90 dias).
 
 ![](assets/manage-templates-13.png)
 

@@ -6,8 +6,8 @@ exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 1%
+source-wordcount: '118'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [Criar um email somente texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [Criar um Email Somente Texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
 >* [Editar elementos em um email](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 Os links de texto de email podem ser rastreados no Marketo. Vamos ver como funciona. 1. Selecione seu email e clique em Editar Rascunho.
@@ -26,7 +26,7 @@ Os links de texto de email podem ser rastreados no Marketo. Vamos ver como funci
 
    ![](assets/two-8.png)
 
-1. Insira o URL com colchetes duplos, desta forma: `[[www.domain.com/path/page.html]]`.
+1. Insira a URL com colchetes duplos, desta forma: `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 

@@ -15,11 +15,11 @@ ht-degree: 1%
 
 O Marketo oferece a capacidade de compartilhar modelos entre espaços de trabalho. Veja como.
 
-1. Vá para a **Analytics** seção.
+1. Vá para a seção **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Clique com o botão direito do mouse no **Meus modelos** e clique em **Nova pasta**.
+1. Clique com o botão direito na pasta **Meus Modelos** e clique em **Nova Pasta**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,11 +27,11 @@ O Marketo oferece a capacidade de compartilhar modelos entre espaços de trabalh
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Arraste os modelos que deseja compartilhar na **Compartilhar pasta**.
+1. Arraste os modelos que você deseja compartilhar na **Pasta de Compartilhamento**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
-1. Clique com o botão direito do mouse na sua pasta e clique em **Compartilhar pasta**.
+1. Clique com o botão direito do mouse na sua pasta e clique em **Compartilhar Pasta**.
 
    ![](assets/image2014-10-3-14-3a6-3a9.png)
 
@@ -39,7 +39,7 @@ O Marketo oferece a capacidade de compartilhar modelos entre espaços de trabalh
    >
    >O compartilhamento de um modelo com outro espaço de trabalho permite que esses usuários executem relatórios com base no modelo.
 
-1. Selecione os espaços de trabalho com os quais deseja compartilhar a pasta e clique em **Salvar**.
+1. Selecione os espaços de trabalho com os quais você deseja compartilhar a pasta e clique em **Salvar**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 

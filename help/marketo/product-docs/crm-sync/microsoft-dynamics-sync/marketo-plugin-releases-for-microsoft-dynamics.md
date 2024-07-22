@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão mais recente dos plug-ins para o Marketo. Periodicamente, o Marketo atualiza esses plug-ins, para que você possa retornar ao mesmo lugar para baixar a nova versão.
 
-[Baixar o plug-in mais recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} correspondente à sua versão do Dynamics.
+[Baixe o plug-in mais recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} correspondente à sua versão do Dynamics.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## Atualização da Solução Dynamics {#updating-your-dynamics-solution}
 
-1. Importar a versão mais recente da solução sobre a versão existente do Dynamics CRM (por exemplo: se o Dynamics CRM tiver a versão 1.4 e a versão mais recente for a 1.5, você importaria _sobre_ versão 1.4).
+1. Importe a versão mais recente da solução sobre a versão existente do Dynamics CRM (por exemplo: se o Dynamics CRM tiver a versão 1.4 e a versão mais recente for a 1.5, você importaria _sobre_ a versão 1.4).
 
-1. Você verá o seguinte pop-up. Selecionar **Atualizar** e **Manter personalizações** e, em seguida, clique em **Importar**.
+1. Você verá o seguinte pop-up. Selecione **Atualizar** e **Manter personalizações** e clique em **Importar**.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 
@@ -137,4 +137,4 @@ Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão
 
 >[!MORELIKETHIS]
 >
->[Baixe a solução de gerenciamento líder da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[Baixar a Solução Marketo de Gerenciamento de Clientes Potenciais](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

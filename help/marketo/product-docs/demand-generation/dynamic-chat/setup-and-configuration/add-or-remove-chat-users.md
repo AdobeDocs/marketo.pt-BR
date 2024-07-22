@@ -32,11 +32,11 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
    >
    >Se você tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa.
 
-1. Clique em **[!UICONTROL Usuários]** guia.
+1. Clique na guia **[!UICONTROL Usuários]**.
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Clique em **[!UICONTROL Adicionar usuário]** botão.
+1. Clique no botão **[!UICONTROL Adicionar Usuário]**.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. Clique em **+** e selecione o perfil de produto desejado.
+1. Clique no ícone do **+** e selecione o perfil de produto desejado.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -60,19 +60,19 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
 Se a função Marketo do usuário de bate-papo recém-adicionada ainda não tiver a permissão Dynamic Chat, veja como adicioná-la.
 
-1. No Marketo, clique em **[!UICONTROL Admin]** e selecione **[!UICONTROL Usuários e funções]**.
+1. No Marketo, clique em **[!UICONTROL Administrador]** e selecione **[!UICONTROL Usuários e funções]**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Clique em **[!UICONTROL Funções]** guia.
+1. Clique na guia **[!UICONTROL Funções]**.
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. Na lista, selecione a função que deseja modificar e clique em **[!UICONTROL Editar Função]**.
+1. Na lista, selecione a função que você deseja modificar e clique em **[!UICONTROL Editar Função]**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Selecionar **[!UICONTROL Dynamic Chat de acesso]** e clique em **[!UICONTROL Salvar]**.
+1. Selecione **[!UICONTROL Acessar Dynamic Chat]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -90,7 +90,7 @@ Se a função Marketo do usuário de bate-papo recém-adicionada ainda não tive
    >
    >Se você tiver mais de uma assinatura do Marketo, selecione a desejada antes da próxima etapa.
 
-1. Clique em **[!UICONTROL Usuários]** guia.
+1. Clique na guia **[!UICONTROL Usuários]**.
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -98,7 +98,7 @@ Se a função Marketo do usuário de bate-papo recém-adicionada ainda não tive
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Clique em **[!UICONTROL Remover usuário]** botão.
+1. Clique no botão **[!UICONTROL Remover Usuário]**.
 
    ![](assets/add-or-remove-chat-users-16.png)
 
@@ -109,4 +109,4 @@ Se a função Marketo do usuário de bate-papo recém-adicionada ainda não tive
 >[!MORELIKETHIS]
 >
 >* [Usuários do Adobe Admin Console](https://helpx.adobe.com/br/enterprise/using/users.html){target="_blank"}
->* [Gerenciar usuários individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Gerenciar Usuários Individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

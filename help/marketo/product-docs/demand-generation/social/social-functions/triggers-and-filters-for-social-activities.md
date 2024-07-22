@@ -19,11 +19,11 @@ Os aplicativos sociais no Marketo têm seus próprios acionadores e filtros espe
 >
 >Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Para usar o social _acionadores_, selecione a campanha inteligente e clique no link **Lista inteligente** guia. À direita, clique no sinal de + para expandir **Triggers**, depois **Social**.
+1. Para usar os _acionadores_ sociais, selecione sua campanha inteligente e clique na guia **Smart List**. À direita, clique no + para expandir **Triggers** e **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Para usar o social _filtros_, clique no link **+** para expandir o **Filtros**.
+1. Para usar os _filtros_ sociais, clique em **+** para expandir os **Filtros**.
 
    ![](assets/two-282-29.png)
 
@@ -44,4 +44,4 @@ Os aplicativos sociais no Marketo têm seus próprios acionadores e filtros espe
 
    >[!MORELIKETHIS]
    >
-   >[Exibir desempenho social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
+   >[Exibir Desempenho Social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)

@@ -5,7 +5,7 @@ exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 5%
 
 ---
@@ -36,7 +36,7 @@ Atribuímos automaticamente uma fonte a cada contato que entra no banco de dados
 
 ## Autorização {#authorization}
 
-Em conformidade com [GDPR](https://eugdpr.org/), use a autorização para indicar como você recebeu permissão para se envolver com esses contatos.
+Em conformidade com o [GDPR](https://eugdpr.org/), use a autorização para indicar como você recebeu permissão para se envolver com esses contatos.
 
 ![](assets/bulk-actions-on-people-4.png)
 

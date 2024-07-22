@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Use colunas para classificar os dados no relatório e facilitar a localização dos números mais importantes.
 
-1. Ir para **Analytics** (ou **Atividades de marketing**).
+1. Vá para **Analytics** (ou **Atividades de marketing**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu relatório na árvore de navegação e clique no link **Relatório** guia.
+1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório**.
 
    ![](assets/reports2.jpg)
 
@@ -33,4 +33,4 @@ Use colunas para classificar os dados no relatório e facilitar a localização 
 
    >[!MORELIKETHIS]
    >
-   >[Selecionar Colunas do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[Selecionar Colunas de Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

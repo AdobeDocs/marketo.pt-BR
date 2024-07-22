@@ -16,65 +16,65 @@ Abaixo você encontrará todos os recursos incluídos na versão de junho de 202
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
 
-Os recursos a seguir começarão a ser lançados em **24 de junho de 2022**, com uma implantação em fases dos recursos restantes nas semanas subsequentes (a menos que especificado de outra forma).
+Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implantação em fases dos recursos restantes nas semanas seguintes (a menos que especificado de outra forma).
 
 ## Ambiente de dados de marketing {#marketing-data-environment}
 
-* **Expor campos CreatedAt/UpdatedAt para objetos personalizados**: oferece a capacidade de inspecionar esses campos na tela Detalhes da pessoa para obter informações adicionais.
+* **Expor campos CreatedAt/UpdatedAt para Objetos Personalizados**: oferece a capacidade de inspecionar esses campos na tela de Detalhes da pessoa para obter informações adicionais.
 
 ## Orquestração entre canais {#cross-channel-orchestration}
 
-* **Usabilidade aprimorada do Stream Designer para Dynamic Chat**: adicione cartões diretamente da tela do Stream Designer sem a necessidade de arrastar e soltar. A interface Dynamic Chat também foi aprimorada para oferecer melhor visibilidade do conteúdo em cartões individuais.
+* **Usabilidade de Stream Designer aprimorada para Dynamic Chat**: adicione cartões diretamente da tela Stream Designer sem a necessidade de arrastar e soltar. A interface Dynamic Chat também foi aprimorada para oferecer melhor visibilidade do conteúdo em cartões individuais.
 
-* **Regras Avançadas de Roteamento de Compromissos para o Dynamic Chat**: o Dynamic Chat oferece mais opções para o roteamento de compromissos direcionados. Especifique quais compromissos de agente devem ser encaminhados com base nos atributos de Marketo Engage, garantindo que os clientes potenciais sejam encaminhados aos agentes apropriados.
+* **Regras Avançadas de Roteamento de Compromissos para Dynamic Chat**: o Dynamic Chat oferece mais opções para roteamento de compromissos direcionados. Especifique quais compromissos de agente devem ser encaminhados com base nos atributos de Marketo Engage, garantindo que os clientes potenciais sejam encaminhados aos agentes apropriados.
 
-* **Relatórios avançados de diálogo para o Dynamic Chat**: visualize o desempenho de suas campanhas do Dynamic Chat com mais detalhes usando visualizações de dados totalmente novas para métricas de engajamento e conversão.
+* **Relatórios de Caixa de Diálogo Avançada para o Dynamic Chat**: visualize o desempenho de suas campanhas do Dynamic Chat com mais detalhes usando visualizações de dados totalmente novas para métricas de envolvimento e conversão.
 
-* **Dessincronizar atributos de Marketo Engage não utilizados para o Dynamic Chat**: não sincronize atributos de Marketo Engage da sua assinatura de Dynamic Chat que não são usados, ajudando você a facilitar a limpeza dos dados e permitindo que atributos alternativos sejam sincronizados conforme necessário.
+* **Não sincronizar Atributos de Marketo Engage Não Utilizados para Dynamic Chat**: Não sincronizar atributos de Marketo Engage da sua assinatura de Dynamic Chat que não são utilizados, ajudando a facilitar a limpeza dos dados e permitindo que atributos alternativos sejam sincronizados conforme necessário.
 
 ## Experiência da próxima geração
 
-**Novas Visualizações de Alternância**: as exibições abaixo agora estão disponíveis na Experiência de próxima geração:
+**Novos Modos de Exibição de Alternância**: os modos de exibição abaixo agora estão disponíveis na Experiência da Próxima Geração:
 
-* [Exibição de detalhes do email](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [Exibição da lista de e-mails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [Exibir detalhes do email](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [Exibição da Lista de Emails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Automação de experiência {#experience-automation}
 
-* **Exclusões da regra de validação do campo de formulário global**: exclua formulários específicos das Regras de validação de formulário global para que as centrais de assinaturas e outros fluxos de trabalho críticos para os negócios possam aceitar todos os valores.
+* **Exclusões de Regra de Validação do Campo de Formulário Global**: exclua formulários específicos das Regras de Validação do Formulário Global para que as centrais de assinaturas e outros fluxos de trabalho críticos comerciais possam aceitar todos os valores.
 
 * **Etapas de fluxo de autoatendimento**: expanda a conectividade entre o Marketo Engage e o restante da pilha com a capacidade de criar etapas de fluxo personalizadas para uso em Campanhas inteligentes. Os usuários e parceiros do Marketo Engage podem aproveitar essa funcionalidade para permitir o uso de serviços Web externos em Campanhas de acionador, em lote e de executáveis, em contraste com Webhooks, que só podem ser usados em Campanhas de acionador.
 
-* **Rastreamento de link agnóstico do protocolo Munchkin**: estenda o suporte para rastreamento do `tel` e `mailto` links com Munchkin para rastrear um conjunto expandido de comportamentos da web.
+* **Rastreamento de Link Agnóstico de Protocolo do Munchkin**: estenda o suporte ao rastreamento de links `tel` e `mailto` com Munchkin para rastrear um conjunto expandido de comportamentos da Web.
 
-* **Métodos HTTP adicionais para webhooks**: especifique PUT, PATCH e DELETE como tipos de solicitação para interagir com os serviços da Web.
+* **Métodos HTTP adicionais para webhooks**: especifique PUT, PATCH e DELETE como tipos de solicitação para interagir com serviços Web.
 
 ## Sales Insight {#sales-insight}
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Permissão de Insight de vendas definida no Salesforce**: os administradores podem fornecer acesso ao Sales Insight a um conjunto limitado de pessoas no nível do usuário, em vez do nível do perfil, por meio do conjunto de permissões do aplicativo Marketo, que faz parte do pacote Sales Insight Salesforce.
+* **Conjunto de permissões do Sales Insight no Salesforce**: os administradores podem fornecer acesso ao Sales Insight a um conjunto limitado de pessoas em um nível de usuário, em vez do nível de perfil, por meio do conjunto de permissões do aplicativo Marketo, que faz parte do pacote Sales Insight Salesforce.
 
-* **Atualização do meu bloco do Marketo - Ações do Sales Insight**: os administradores do Marketo (e os usuários que eles designarem) agora podem navegar rapidamente para a instância de Ações do Sales Insight por meio de um novo bloco Ações do Sales Insight localizado na página Meu Marketo.
+* **Atualização do meu bloco do Marketo - Ações do Sales Insight**: os administradores do Marketo (e os usuários que eles designam) agora podem navegar rapidamente para a instância de Ações do Sales Insight por meio de um novo bloco de Ações do Sales Insight localizado na página Meu Marketo.
 
-## Conexão de vendas {#sales-connect}
+## Sales Connect {#sales-connect}
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Atualização da API do Salesforce**: com a versão do Salesforce no verão de 22, as versões herdadas da API 21-30 não serão mais compatíveis com o Salesforce. Com esta versão do Marketo Engage, todas as solicitações do Sales Connect usando versões de API herdadas foram atualizadas para permanecer em uma versão compatível. Para obter detalhes completos sobre os planos de retirada da API do Salesforce, clique em [aqui](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
+* **Atualização da API do Salesforce**: com a versão do Salesforce do verão de 22, as versões herdadas da API 21-30 não serão mais suportadas pelo Salesforce. Com esta versão do Marketo Engage, todas as solicitações do Sales Connect usando versões de API herdadas foram atualizadas para permanecer em uma versão compatível. Para obter detalhes completos sobre os planos de retirada da API do Salesforce, clique [aqui](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
 
 ## Aprimoramentos na API {#api-enhancements}
 
-* **Novos recursos de filtragem para a API de extração de membros de programa em massa**: filtre por status de associação de programa, conteúdo atualizado em, cadência ou esgotado para refinar o conjunto de dados extraído.
+* **Novos recursos de filtragem para API de Extração de Membro de Programa em Massa**: filtre por status de associação de programa, updatedAt, cadência ou conteúdo esgotado para refinar o conjunto de dados extraído.
 
-* **Aprimoramento da API de extração de membro do programa em massa**: especifique até 10 programas durante a criação do trabalho para melhorar a taxa de transferência.
+* **Aprimoramento da API de Extração de Membro de Programa em Massa**: especifique até 10 programas durante a criação do trabalho para melhorar a taxa de transferência.
 
 ## Anúncios {#announcements}
 
-* **Substituição do Forms - Forms 1.0, endpoint de captura/salvamento de clientes potenciais e versões sem script de formulários**: o suporte aos ativos do Forms 1.0 será completamente removido do Marketo Engage até outubro de 2022. Todos os ativos existentes do Forms 1.0 deixarão de funcionar. Os formulários Marketo Engage exigirão que o JavaScript seja carregado nas páginas de aterrissagem e sites.
+* **Substituição do Forms - Forms 1.0, ponto de extremidade de captura/salvamento de clientes potenciais e versões sem script de formulários**: o suporte para ativos do Forms 1.0 será completamente removido do Marketo Engage até outubro de 2022. Todos os ativos existentes do Forms 1.0 deixarão de funcionar. Os formulários de Marketo Engage exigirão que o JavaScript seja carregado nas páginas de aterrissagem e sites.
 
-**_Webinário de lançamento do produto_**
+**_Webinar de lançamento de produto_**
 
-[Webinário da versão de Marketo Engage de junho e agosto de 2022](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Webinar da versão de junho e agosto de 2022 do Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

@@ -17,15 +17,15 @@ Você pode organizar os problemas da página em listas. Você também pode remov
 
 ## Adicionar problemas de página a uma lista {#add-page-issues-to-a-list}
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. No **[!UICONTROL Páginas]** clique em **[!UICONTROL Problemas]**.
+1. Na guia **[!UICONTROL Páginas]**, clique em **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Passe o mouse sobre o problema de página que deseja adicionar. Clique em **[!UICONTROL Adicionar/Remover da Lista]**.
+1. Passe o mouse sobre o problema de página que deseja adicionar. Clique Em **[!UICONTROL Adicionar/Remover Da Lista]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -39,11 +39,11 @@ Você pode organizar os problemas da página em listas. Você também pode remov
 
 ## Remover problema de página de uma lista {#remove-page-issue-from-a-list}
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Na guia Páginas, clique em **[!UICONTROL Problemas]**.
+1. Na guia de páginas, clique em **[!UICONTROL Problemas]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +51,7 @@ Você pode organizar os problemas da página em listas. Você também pode remov
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Passe o mouse sobre o problema de página que deseja remover. Clique em **[!UICONTROL Adicionar/Remover da Lista]**.
+1. Passe o mouse sobre o problema de página que deseja remover. Clique Em **[!UICONTROL Adicionar/Remover Da Lista]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

@@ -19,17 +19,17 @@ Se você tiver uma Campanha inteligente antiga que não é mais necessária, é 
 >
 >Certifique-se antes de excluir. Depois que você exclui uma Campanha inteligente, ela não pode ser restaurada.
 
-1. Vá para a **[!UICONTROL Atividades de marketing]** área.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navegue até a Campanha inteligente inativa. No **[!UICONTROL Ações da campanha]** selecione **[!UICONTROL Excluir]**.
+1. Navegue até a Campanha inteligente inativa. No menu suspenso **[!UICONTROL Ações de Campanha]**, selecione **[!UICONTROL Excluir]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Para cancelar o processamento de uma Campanha inteligente ativa sem excluí-la completamente, saiba como [abortar uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Para cancelar o processamento de uma Campanha Inteligente ativa sem excluí-la completamente, saiba como [cancelar uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
 1. Clique em **[!UICONTROL Excluir]** para confirmar.
 

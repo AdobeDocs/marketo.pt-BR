@@ -6,8 +6,8 @@ exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '456'
-ht-degree: 28%
+source-wordcount: '468'
+ht-degree: 22%
 
 ---
 
@@ -19,24 +19,24 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
 
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+>* [Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Etapa 1: &#x200B;criar um programa de envolvimento {#step-create-an-engagement-program}
 
-1. Vá para a **[!UICONTROL Atividades de marketing]** área.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. Selecione o **Aprendizado** , clique no link **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo programa]**.
+1. Selecione a pasta **Aprendizado**, clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo programa]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. Insira um **[!UICONTROL Nome]** e selecione **[!UICONTROL Envolvimento]** para o **[!UICONTROL Tipo de programa]**.
+1. Insira um **[!UICONTROL Nome]** e selecione **[!UICONTROL Envolvimento]** para o **[!UICONTROL Tipo de Programa]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. Verifique se **[!UICONTROL Canal]** o campo é **[!UICONTROL Enfermagem]** e clique em **[!UICONTROL Criar]**.
+1. Verifique se o campo **[!UICONTROL Canal]** é **[!UICONTROL Fomento]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -48,7 +48,7 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
 
    ![](assets/drip-drip-nurture-5.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/drip-drip-nurture-6.png)
 
@@ -58,9 +58,9 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
 
    >[!NOTE]
    >
-   >Não está vendo o editor de e-mail? Seu navegador provavelmente bloqueou a janela. Ativar pop-ups de `app.marketo.com` no navegador e clique em **[!UICONTROL Editar rascunho]** na barra de menu superior.
+   >Não está vendo o editor de e-mail? Seu navegador provavelmente bloqueou a janela. Habilite os pop-ups de `app.marketo.com` no seu navegador e clique em **[!UICONTROL Editar Rascunho]** na barra de menu superior.
 
-1. Digite o assunto.
+1. Insira um assunto.
 
    ![](assets/drip-drip-nurture-8.png)
 
@@ -72,7 +72,7 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. Em **[!UICONTROL Ações de email]**, clique em **[!UICONTROL Aprovar e fechar]**.
+1. Em **[!UICONTROL Ações de email]**, clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
@@ -88,17 +88,17 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
 
 Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento usando os e-mails que criou.
 
-1. Selecione seu programa de engajamento e clique no link **[!UICONTROL Fluxos]** guia.
+1. Selecione seu programa de engajamento e clique na guia **[!UICONTROL Fluxos]**.
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. Clique em **[!UICONTROL Adicionar conteúdo]** no fluxo.
+1. Clique no botão **[!UICONTROL Adicionar conteúdo]** no fluxo.
 
    ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >Você também pode usar a variável **+** ícone.
+   >Você também pode usar o ícone **+**.
 
 1. Deixe o tipo &quot;Email&quot; selecionado. Localize e selecione os dois emails criados.
 
@@ -122,7 +122,7 @@ Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento u
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. Edite as configurações de acordo com a programação desejada e clique em **[!UICONTROL Salvar]**.
+1. Edite as configurações de acordo com o agendamento desejado e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -134,7 +134,7 @@ Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento u
 
 ## Etapa 6: adicionar uma pessoa de teste ao programa de envolvimento {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vá para a **[!UICONTROL Banco de dados]** área.
+1. Vá para a área **[!UICONTROL Banco de Dados]**.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -146,26 +146,26 @@ Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento u
    >
    >Certifique-se de que a pessoa de teste tenha um endereço de email válido para que você possa confirmar o recebimento de emails ao testar.
 
-1. Clique com o botão direito do mouse na pessoa e clique em **[!UICONTROL Programas]** e **[!UICONTROL Adicionar ao programa de engajamento...]**.
+1. Clique com o botão direito do mouse na pessoa e clique em **[!UICONTROL Programas]** e **[!UICONTROL Adicionar ao Programa de Participação...]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Selecione o **[!UICONTROL Programa]** e **[!UICONTROL Fluxo]** e, em seguida, clique em **[!UICONTROL Executar agora]**.
+1. Selecione seu **[!UICONTROL Programa]** e **[!UICONTROL Fluxo]** e clique em **[!UICONTROL Executar Agora]**.
 
    ![](assets/drip-drip-nurture-22.png)
 
-1. Missão cumprida!
+1. Missão concluída!
 
-1. Agora você deverá receber e-mails no momento e na cadência especificados.
+1. Você deve receber um email na hora e cadência especificadas.
 
    >[!NOTE]
    >
    >Saiba mais sobre [Programas de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
-## Missão cumprida! {#mission-complete}
+## Missão concluída! {#mission-complete}
 
 <br> 
 
 [Missão 5: Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[Missão 7: personalizar um e-mail ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[Missão 7: Personalizar um email ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

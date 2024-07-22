@@ -17,18 +17,18 @@ ht-degree: 0%
 >
 >Este recurso está disponível somente:
 >
->* Para uso somente com objetos personalizados do Marketo, não com objetos personalizados sincronizados por meio da [!DNL Salesforce] ou [!DNL Microsoft Dynamics] integração
+>* Para uso somente com objetos personalizados do Marketo, não com objetos personalizados sincronizados por meio da integração [!DNL Salesforce] ou [!DNL Microsoft Dynamics] nativa
 >* Como acionador, não como filtro
 >
->Contate [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitar os Acionadores de Alteração de Objeto Personalizado.
+>Contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitar os Acionadores de Alteração de Objeto Personalizado.
 
-Em uma lista inteligente de campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Também é possível criar uma lista inteligente que use uma _alterar_ em um objeto personalizado como um acionador. Por exemplo, use-o para enviar um email quando um nome de curso for atualizado.
+Em uma lista inteligente de campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Você também pode criar uma lista inteligente que usa uma _alteração_ em um objeto personalizado como um disparador. Por exemplo, use-o para enviar um email quando um nome de curso for atualizado.
 
 >[!NOTE]
 >
 >Uma entrada do log de atividades não é criada quando um registro de objeto personalizado é alterado.
 
-1. No Marketo Engage, acesse **[!UICONTROL Atividades de marketing]**.
+1. No Marketo Engage, vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ Em uma lista inteligente de campanha inteligente, é possível acionar uma açã
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Selecione o [!UICONTROL atributo de acionador].
+1. Selecione o [!UICONTROL atributo do acionador].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

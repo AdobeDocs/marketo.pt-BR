@@ -25,21 +25,21 @@ Selecionada por padrão, essa opção simplesmente exibe a campanha no carregame
 
 Especifique um atraso (em total de segundos) para que as campanhas da Web reajam no site.
 
-1. Clique em **Exibir em** e selecione **Atraso**.
+1. Clique no menu suspenso **Exibir em** e selecione **Atraso**.
 
    ![](assets/d1.png)
 
-1. Clique em **Aguardar** e selecione o tempo desejado.
+1. Clique no menu suspenso **Aguardar** e selecione o tempo desejado.
 
    ![](assets/d2.png)
 
 ## Rolar {#scroll}
 
-1. Clique em **Exibir em** e selecione **Rolagem**.
+1. Clique no menu suspenso **Exibir em** e selecione **Rolar**.
 
    ![](assets/s1.png)
 
-1. Clique em **Quando** e selecione quando deseja que sua campanha da web seja exibida.
+1. Clique na lista suspensa **Quando** e selecione quando deseja que sua campanha da Web seja exibida.
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ Especifique um atraso (em total de segundos) para que as campanhas da Web reajam
 
 A intenção de saída exibirá a campanha da Web ao sair do navegador com o cursor do mouse.
 
-1. Clique em **Exibir em** e selecione **Intenção de saída**.
+1. Clique no menu suspenso **Exibir em** e selecione **Propósito de saída**.
 
    ![](assets/ei1.png)
 
@@ -74,4 +74,4 @@ A intenção de saída exibirá a campanha da Web ao sair do navegador com o cur
 
 >[!TIP]
 >
->Quer ver como seus efeitos escolhidos serão antecipados? Confira por meio de um [Visualização da campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Quer ver como seus efeitos escolhidos serão antecipados? Confira através de uma [Visualização do Web Campaign](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

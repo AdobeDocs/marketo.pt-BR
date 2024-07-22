@@ -19,7 +19,7 @@ Veja como criar um segmento usando valores de Dados de pessoas conhecidas.
 >
 >[Gerenciar dados da pessoa](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. Ir para **Segmentos**.
+1. Vá para **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
@@ -31,7 +31,7 @@ Veja como criar um segmento usando valores de Dados de pessoas conhecidas.
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Na Segmentação de perfil, arraste **Banco de dados** sobre a tela.
+1. Na Segmentação de Perfil, arraste o **Banco de Dados** para a tela.
 
    ![](assets/four-1.png)
 

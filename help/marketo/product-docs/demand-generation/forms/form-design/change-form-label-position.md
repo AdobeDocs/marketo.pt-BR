@@ -13,21 +13,21 @@ ht-degree: 2%
 
 # Alterar a posição do rótulo do formulário {#change-form-label-position}
 
-Quando [criação de um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos dos campos de formulário com muita facilidade. Veja como.
+Ao [criar um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos de campo de formulário com muita facilidade. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Selecionar **Configurações**.
+1. Selecione **Configurações**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Selecione o **Posição do rótulo** você quer.
+1. Selecione a **Posição do Rótulo** desejada.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -40,7 +40,7 @@ Quando [criação de um formulário](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    >[!NOTE]
    >
@@ -56,4 +56,4 @@ Muito bem! Você vê como foi fácil alterar as posições das etiquetas em um f
 
 >[!MORELIKETHIS]
 >
->[Alterar a Família de Fontes do Formulário](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[Alterar a Família de Fontes de Formulário](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

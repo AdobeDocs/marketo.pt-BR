@@ -29,8 +29,8 @@ Se o CRM fornecer um endereço CCO, você poderá usar a seção &quot;outro&quo
 
 1. Clique em **Configurações**.
 1. Clique em **CRM**.
-1. Clique em **Conectar** em Outros CRM.
-1. Clique em **Configurar**, em seguida, cole seu endereço CCO abaixo de Enviar email para CCO.
+1. Clique em **Conectar** em Outros CRMs.
+1. Clique em **Configurar** e cole seu endereço CCO abaixo de Enviar email para Cco.
 1. Clique em **Salvar** e seu endereço CCO será salvo no Sales Connect.
 
    Agora os emails serão registrados em seu CRM via CCO.

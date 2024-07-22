@@ -19,18 +19,18 @@ Como administrador, você pode habilitar a gravação de chamadas para suas cham
 
    ![](assets/one.png)
 
-1. Em Configurações do administrador, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/two.png)
 
-1. Role para baixo até Sales Connect Phone Settings (Configurações do telefone do Sales Connect) e selecione a opção **Habilitar gravação de chamada** alternar.
+1. Role para baixo até Sales Connect Phone Settings e selecione a opção **Habilitar gravação de chamada**.
 
    ![](assets/three.png)
 
-1. Se desejar que seus vendedores possam ativar ou desativar a gravação de chamadas, clique em **Gravação opcional para todos os membros da equipe**. Se quiser que todas as chamadas sejam gravadas automaticamente, clique em **Registrar todas as chamadas**.
+1. Se quiser dar aos seus vendedores a capacidade de habilitar ou desabilitar a gravação de chamadas para eles mesmos, clique em **Gravação opcional para todos os membros da equipe**. Se quiser que todas as chamadas sejam gravadas automaticamente, clique em **Gravar todas as chamadas**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Configurações de consentimento de duas partes](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
+>[Configurações de Consentimento Duplo](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)

@@ -19,7 +19,7 @@ Se deseja excluir um filtro no Calendário de marketing, você chegou ao lugar c
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. Clique no vermelho **x**.
+1. Clique no **x** vermelho.
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 

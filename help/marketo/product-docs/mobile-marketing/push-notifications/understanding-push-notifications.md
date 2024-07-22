@@ -6,7 +6,7 @@ exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ O administrador do Marketo e o desenvolvedor de aplicativos móveis trabalham ju
 
 ## Etapa 2: criar uma notificação por push {#step-create-a-push-notification}
 
-[Crie suas mensagens](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) e visualize como ele é exibido em dispositivos Android e iOS.
+[Crie sua mensagem](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) e visualize como ela é exibida em dispositivos Android e iOS.
 
 ## Etapa 3: enviar. {#step-send}
 
-[As notificações por push podem ser enviadas](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) usando campanhas inteligentes de acionador e lote. Muito legal, não é?
+[As notificações por push podem ser enviadas](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) usando campanhas inteligentes de gatilho e lote. Muito legal, não é?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

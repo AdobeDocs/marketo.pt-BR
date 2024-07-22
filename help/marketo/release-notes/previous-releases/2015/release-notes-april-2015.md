@@ -6,8 +6,8 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 10%
+source-wordcount: '326'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ Os recursos a seguir estão incluídos na versão de abril de 2015. Verifique a 
 >
 >Esse recurso será lançado na terça-feira, 28 de abril.
 
-O novo [Página inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permite acesso rápido para executar relatórios ad-hoc em tipos de relatórios disponíveis.
+A nova [Página inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) habilita o acesso rápido para executar relatórios ad hoc em tipos de relatórios disponíveis.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -41,7 +41,7 @@ Com o Marketo Mobile Engagement, oferecer experiências móveis atraentes é fá
 
 [Integração com acelerador de leads do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Estenda sua estratégia de criação de clientes potenciais para exibição paga e anúncios sociais. A variável [integração de rede de publicidade](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator permite criar com segurança um segmento de público-alvo no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de público-alvo do LinkedIn podem ser estimulados com uma sequência de anúncios relevantes.
+Estenda sua estratégia de criação de clientes potenciais para exibição paga e anúncios sociais. A [integração da rede de anúncios](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator permite criar com segurança um segmento de público-alvo no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de público-alvo do LinkedIn podem ser estimulados com uma sequência de anúncios relevantes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

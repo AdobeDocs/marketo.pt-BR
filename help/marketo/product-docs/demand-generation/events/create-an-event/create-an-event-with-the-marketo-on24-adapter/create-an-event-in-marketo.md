@@ -19,10 +19,10 @@ Veja como os dados são trocados:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Ao criar o evento do Marketo, selecione **Webinário** como o Tipo de canal. Você pode editar esse canal em Administração, bem como criar um novo canal. Se você criar um novo canal, ele deverá ser do tipo **Evento com webinário** para que a integração funcione. Consulte [Criar um canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} para obter mais informações.
+Ao criar o evento do Marketo, selecione **Webinar** como o Tipo de canal. Você pode editar esse canal em Administração, bem como criar um novo canal. Se você criar um novo canal, ele deverá ser do tipo **Evento com Webinar** para que a integração funcione. Consulte [Criar um canal de programa](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} para obter mais informações.
 
-O próximo passo é [defina as configurações do evento e sincronize o Marketo com seu webinário](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
+A próxima etapa é [definir as configurações do evento e sincronizar o Marketo com o seu webinário](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre os eventos do adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Noções Básicas sobre os Eventos do Adaptador Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

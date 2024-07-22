@@ -7,13 +7,13 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
 # Momentos interessantes no Salesforce1 {#interesting-moments-in-salesforce}
 
-[Usar momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) O é a chave para se comunicar com sua equipe de vendas por meio do aplicativo Marketo Sales Insight. Agora, com o Marketo Sales Insight for Salesforce1, você pode fazer o mesmo com seu smartphone!
+[Usar momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) é a chave para se comunicar com sua equipe de vendas por meio do aplicativo Marketo Sales Insight. Agora, com o Marketo Sales Insight for Salesforce1, você pode fazer o mesmo com seu smartphone!
 
 >[!AVAILABILITY]
 >
@@ -25,11 +25,11 @@ ht-degree: 2%
 
    ![](assets/one.png)
 
-1. Clique em **Relacionados** para ver Momentos interessantes, Atividade da Web, Email e Pontuação.
+1. Clique na guia **Relacionados** para ver Momentos interessantes, Atividade da Web, Email e Pontuação.
 
    ![](assets/two.png)
 
 >[!MORELIKETHIS]
 >
->* [Momento interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
->* [Tokens de momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [Momento Interessante](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
+>* [Tokens para Momentos Interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)

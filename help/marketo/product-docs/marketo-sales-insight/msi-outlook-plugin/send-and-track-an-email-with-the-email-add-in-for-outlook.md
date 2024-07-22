@@ -6,7 +6,7 @@ exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
 >[!PREREQUISITES]
 >
->Caso ainda não o tenha feito, instale o [Suplemento de email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Caso ainda não o tenha feito, instale o [suplemento de email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
    >
    >Se você incluir vários recipients no email, todas as atividades serão rastreadas no primeiro recipient.
 
-1. Redija o email normalmente e clique em **Enviar e rastrear**.
+1. Redija seu email normalmente e clique em **Enviar e Rastrear**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,7 +41,7 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
    >[!TIP]
    >
-   >Se quiser usar um modelo do Marketo, consulte [Enviar e Rastrear no Outlook Usando um Modelo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Se quiser usar um modelo do Marketo, consulte [Enviar e Rastrear do Outlook Usando um Modelo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Dê uma olhada na visualização e clique em **Enviar**.
 
@@ -59,4 +59,4 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
 >[!MORELIKETHIS]
 >
->[Registrar emails de entrada de seus clientes em potencial no Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Registrar Emails De Entrada De Seus Clientes Potenciais No Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

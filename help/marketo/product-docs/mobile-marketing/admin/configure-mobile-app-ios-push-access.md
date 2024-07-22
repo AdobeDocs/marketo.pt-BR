@@ -7,17 +7,17 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Configurar o acesso por push do iOS para aplicativos móveis {#configure-mobile-app-ios-push-access}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecionar **Aplicativos móveis**.
+1. Selecione **Aplicativos móveis**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,13 +31,13 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >Você precisará de um **Certificado** e **Senha** do desenvolvedor de aplicativos móveis. O desenvolvedor recebe isso ao fazer logon no Centro de membros do desenvolvedor do Apple, configurar e baixar um certificado de notificação por push para seu aplicativo e exportar o conteúdo. O desenvolvedor define a senha ao fazer a exportação. **IMPORTANTE**: o certificado deve ser apropriado para o tipo de ambiente que você está usando — sandbox ou produção. Verifique isso com o administrador do Marketo ou com o desenvolvedor de aplicativos móveis.
+   >Você precisará de um **Certificado** e uma **Senha** do desenvolvedor de aplicativos móveis. O desenvolvedor recebe isso ao fazer logon no Centro de membros do desenvolvedor do Apple, configurar e baixar um certificado de notificação por push para seu aplicativo e exportar o conteúdo. O desenvolvedor define a senha ao fazer a exportação. **IMPORTANTE**: o certificado deve ser apropriado para o tipo de ambiente que você está usando — Sandbox ou Produção. Verifique isso com o administrador do Marketo ou com o desenvolvedor de aplicativos móveis.
 
-1. Selecione o Certificado, digite a Senha e clique em **Salvar**.
+1. Selecione seu Certificado, digite sua Senha e clique em **Salvar**.
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 
-Muito bem! Configure também o aplicativo com o Android.
+Ótimo trabalho! Certifique-se de configurar o aplicativo com o Android.
 
 >[!MORELIKETHIS]
 >

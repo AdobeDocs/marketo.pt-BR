@@ -13,17 +13,17 @@ ht-degree: 1%
 
 # Fazer Transição De Pessoas Entre Fluxos De Envolvimento {#transition-people-between-engagement-streams}
 
-Os programas de engajamento podem ter mais de um fluxo. Se você [adicionar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), convém definir uma maneira de mover as pessoas de um fluxo para outro. Elas são chamadas de **regras de transição.**
+Os programas de engajamento podem ter mais de um fluxo. Se você [adicionar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), desejará definir uma maneira de as pessoas moverem-se de um fluxo para outro. Elas são chamadas de **regras de transição.**
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione seu programa de engajamento multi-streaming e vá para **Fluxos**.
+1. Selecione seu programa de envolvimento multi-streaming e vá para **Streams**.
 
    ![](assets/multistream.jpg)
 
-1. Clique em **Regras de transição** para o fluxo que você deseja transferir de outros fluxos, em seguida, clique em **Editar regras de transição**.
+1. Clique em **Regras de transição** para o fluxo que você deseja obter de outros fluxos e clique em **Editar regras de transição**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -35,7 +35,7 @@ Os programas de engajamento podem ter mais de um fluxo. Se você [adicionar um f
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Vamos definir o operador como **é qualquer** para que as pessoas se mudem para qualquer oportunidade adicional.
+1. Vamos definir o operador como **é qualquer** para que as pessoas se movam para qualquer oportunidade adicional.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
@@ -53,4 +53,4 @@ Os programas de engajamento podem ter mais de um fluxo. Se você [adicionar um f
 
    >[!NOTE]
    >
-   >As etapas descritas acima *fazer* aplicam-se às pessoas que estão [ao pausar](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) também.
+   >As etapas descritas acima *não* aplicam-se também às pessoas que estão [em pausa](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).

@@ -27,7 +27,7 @@ Se sua equipe de marketing disponibilizou modelos, veja como usá-los para econo
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. Faça todas as edições e clique em **Enviar e rastrear**.
+1. Faça todas as edições e clique em **Enviar e Rastrear**.
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -43,4 +43,4 @@ Se sua equipe de marketing disponibilizou modelos, veja como usá-los para econo
 
 >[!MORELIKETHIS]
 >
->[Registrar emails de entrada de seus clientes em potencial no Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Registrar Emails De Entrada De Seus Clientes Potenciais No Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

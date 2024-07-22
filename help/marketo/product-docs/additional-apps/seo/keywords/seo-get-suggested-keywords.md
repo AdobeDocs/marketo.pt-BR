@@ -17,23 +17,23 @@ A SEO da Marketo pode sugerir quais palavras-chave você deve rastrear. Podemos 
 
 ## Obter Sugestões de Palavra-chave usando uma Palavra-chave {#get-keyword-suggestions-using-a-keyword}
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Clique em **[!UICONTROL Obter sugestões]**.
+1. Clique em **[!UICONTROL Obter Sugestões]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Insira um **[!UICONTROL Palavra-chave]**. Clique em **[!UICONTROL Sugerir palavras-chave]**.
+1. Insira uma **[!UICONTROL Palavra-chave]**. Clique em **[!UICONTROL Sugerir palavras-chave]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Você sabia que pode  [adicionar sua palavra-chave a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) aqui?
+   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) bem aqui?
 
-1. Selecione as palavras-chave sugeridas. Clique em **[!UICONTROL Adicionar selecionado]**.
+1. Selecione as palavras-chave sugeridas. Clique em **[!UICONTROL Adicionar selecionados]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -45,27 +45,27 @@ A SEO da Marketo pode sugerir quais palavras-chave você deve rastrear. Podemos 
 
 ## Obter Sugestões de Palavra-chave de um URL  {#get-keyword-suggestions-from-a-url}
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Clique em **[!UICONTROL Obter sugestões]**.
+1. Clique em **[!UICONTROL Obter Sugestões]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Definir **[!UICONTROL Sugerir por]** para **[!UICONTROL URL]**.
+1. Defina **[!UICONTROL Sugerir por]** para **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Insira um **[!UICONTROL URL]** e clique em **[!UICONTROL Sugerir palavras-chave]**.
+1. Insira uma **[!UICONTROL URL]** e clique em **[!UICONTROL Sugerir palavras-chave]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
    >[!TIP]
    >
-   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) aqui?
+   >Você sabia que pode [adicionar sua palavra-chave a uma lista nova ou existente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) bem aqui?
 
-1. Selecione as palavras-chave sugeridas. Clique em **[!UICONTROL Adicionar selecionado]**.
+1. Selecione as palavras-chave sugeridas. Clique em **[!UICONTROL Adicionar selecionados]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 

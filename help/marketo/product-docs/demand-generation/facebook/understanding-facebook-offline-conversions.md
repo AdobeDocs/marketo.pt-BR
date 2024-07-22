@@ -6,7 +6,7 @@ exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,9 @@ As campanhas de anúncios de clientes potenciais da facebook geram clientes pote
 >
 >Sem conversões offline, o anunciante provavelmente investiria mais dinheiro no anúncio 3. Com dados de conversão offline, o anunciante terá mais probabilidade de investir no Ad 1.
 
-Você pode [configurar conversões offline do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) para enviar o desempenho de anúncio offline para o Facebook.
+Você pode [configurar Conversões Offline do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) para enviar desempenho de anúncio offline para o Facebook.
 
-1. Verifique se o [Integração com o facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) O está atualizado.
+1. Verifique se a sua [integração com o Facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) está atualizada.
 1. Mapear estágios no seu Modelo de ciclo de receita para estágios de conversão offline no Facebook.
 1. Quando um lead da Facebook é gerado a partir de um anúncio de lead da Facebook e atinge um estágio mapeado, a Marketo envia dados de conversão offline para a Facebook várias vezes por dia, por meio de uma API segura e automatizada. Os dados são exibidos no Relatório do Facebook Ads Manager.
 

@@ -2,11 +2,11 @@
 description: Programa de evento EV-YYYY-MM-DD - Documentação do Marketo - Documentação do produto
 title: Programa de eventos EV-AAAA-MM-DD
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
-ht-degree: 20%
+source-wordcount: '561'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Este é um exemplo de um programa de evento com uma página de registro, três emails de convite e emails de acompanhamento utilizando um Programa de evento Marketo Engage. Adequado para todos os eventos em que você precisa de inscrições, incluindo shows, almoços, jantares ou apresentações em eventos de feiras comerciais.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -29,17 +29,17 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Evento</td> 
    <td>01-Convidado 
-<br/>02 - Em Lista de Espera
+<br/>02-Em Lista De Espera
 <br/>03-Registrado
-<br/>04 - Sem programa
-<br/>05-Participou-Êxito</td>
+<br/>04-Nenhum Programa
+<br/>05-Êxito-Participou</td>
    <td>Inclusivo</td>
    <td>Evento</td>
   </tr>
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -84,12 +84,12 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td>04b - Email - Acompanhamento - NãoMostrar</td>
   </tr>
   <tr> 
-   <td>Página</td> 
+   <td>Página de destino</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01a - LP - Registro</td>
   </tr>
   <tr> 
-   <td>Página</td> 
+   <td>Página de destino</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01b - LP - Obrigado</td>
   </tr>
@@ -151,8 +151,8 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Assets - Ativos criativos 
-<br/>(subpastas para páginas de e-mail e de aterrissagem)</td>
+   <td>Assets - Abriga todos os ativos criativos 
+<br/>(subpastas para Email e Páginas de Aterrissagem)</td>
   </tr>
   <tr> 
    <td>Pasta</td> 
@@ -208,7 +208,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td><code>{{my.Content-Description}}</code></td>
    <td>Clique duas vezes para obter detalhes  
 <br/><code><--My Content Description Here--></code> 
-<br/>Edite essa descrição de conteúdo no nível do programa, na guia Meus tokens. 
+<br/>Edite esta descrição de conteúdo no nível do programa, na guia Meus Tokens. 
 <br/>Você aprenderá: 
 <li>Marcador 1</li>
 <li>Marcador 2</li>
@@ -299,19 +299,19 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original
    * Usar modelo de destino - _Recomendado_
 
 * **Imagens com o mesmo nome**
    * Manter ambos os arquivos
-   * Substituir item desta inscrição - _Recomendado_
+   * Substituir item nesta assinatura - _Recomendado_
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
 
@@ -330,7 +330,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;06-Participou (Sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ o formulário está disponível e os emails são enviados.
+>Não se esqueça de ativar a campanha &quot;06-Participou (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de o seu formulário estar online e os emails serem enviados.
 
 >[!IMPORTANT]
 >

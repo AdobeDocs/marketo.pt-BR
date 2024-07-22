@@ -23,11 +23,11 @@ Siga estas etapas para criar um relatório de Análise de programa que mostrará
 
    ![](assets/one.png)
 
-1. Clique em **Criar novo** depois **Relatório**.
+1. Clique em **Criar novo** e depois em **Relatório**.
 
    ![](assets/two.png)
 
-1. Selecionar **Análise de participação no programa** e clique em **OK**.
+1. Selecione **Análise de Associação de Programa** e clique em **OK**.
 
    ![](assets/three.png)
 
@@ -47,13 +47,13 @@ Viu como foi fácil?
 
 ![](assets/seven.png)
 
-Você pode adicionar rapidamente um atributo de lead, como _Nome completo_ para ver quem são os membros.
+Você pode adicionar rapidamente um atributo de cliente potencial, como _Nome Completo_, para ver quem são os membros.
 
 >[!TIP]
 >
 >Há muitos atributos de cliente potencial/empresa entre os quais escolher. Dê uma olhada!
 
-1. Localize e clique duas vezes na guia **Nome completo** ponto amarelo.
+1. Localize e clique duas vezes no ponto amarelo **Nome Completo**.
 
    ![](assets/eight.png)
 

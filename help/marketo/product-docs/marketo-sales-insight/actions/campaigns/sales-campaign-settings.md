@@ -30,11 +30,11 @@ Ative a opção Ignorar fins de semana para que todas as etapas que teriam sido 
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Clique em **Configurações** guia.
+1. Clique na guia **Configurações**.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Selecione o **Ignorar fins de semana** caixa de seleção
+1. Marque a caixa de seleção **Ignorar fins de semana**.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -50,11 +50,11 @@ Se você estiver usando conexão de email, detectaremos rejeições com base na 
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Clique em **Configurações** guia.
+1. Clique na guia **Configurações**.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Selecione o **Remover na rejeição** caixa de seleção
+1. Marque a caixa de seleção **Remover na rejeição**.
 
    ![](assets/sales-campaign-settings-8.png)
 
@@ -70,11 +70,11 @@ Se o rastreamento de respostas estiver habilitado para Gmail ou Exchange, podemo
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Clique em **Configurações** guia.
+1. Clique na guia **Configurações**.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Em **Se ocorrer uma resposta**, faça as seleções desejadas.
+1. Em **Se Ocorrer uma Resposta**, faça a(s) seleção(ões) desejada(s).
 
    ![](assets/sales-campaign-settings-12.png)
 
@@ -82,4 +82,4 @@ Se o rastreamento de respostas estiver habilitado para Gmail ou Exchange, podemo
 >
 >* [Criar uma campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >* [Noções básicas sobre as opções de envio do Sales Campaign para etapas de email](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
->* [Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [Tipos de Etapa da Campanha de Vendas e Tarefas de Lembrete](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

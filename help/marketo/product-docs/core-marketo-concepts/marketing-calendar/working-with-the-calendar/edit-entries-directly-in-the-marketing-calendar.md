@@ -17,11 +17,11 @@ Quando estiver no modo de foco do programa, você poderá fazer rapidamente alte
 
 ## Ativar foco do programa {#enable-program-focus}
 
-1. Clique em **[!UICONTROL Calendário]** bloco.
+1. Clique no bloco **[!UICONTROL Calendário]**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selecione uma entrada que pertença ao programa no qual deseja se concentrar e clique em **[!UICONTROL Mostrar foco do programa]**.
+1. Selecione uma entrada que pertença ao programa no qual você deseja se concentrar e clique em **[!UICONTROL Mostrar Foco do Programa]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 

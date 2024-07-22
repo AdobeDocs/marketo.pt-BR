@@ -27,15 +27,15 @@ As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão
 
 Para criar um novo tipo de tag:
 
-1. Vá para a **[!UICONTROL Admin]** seção.
+1. Vá para a seção **[!UICONTROL Admin]**.
 
    ![](assets/create-custom-tags-1.png)
 
-1. Clique em **[!UICONTROL Tags]**.
+1. Clique em **[!UICONTROL Marcas]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo tipo de tag]**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo Tipo de Marca]**.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ Para criar um novo tipo de tag:
 
    ![](assets/create-custom-tags-4.png)
 
-1. Insira o valor desejado para o Tipo de tag. Clique em **[!UICONTROL Adicionar outro]** para informar valores adicionais.
+1. Insira o valor desejado para o Tipo de tag. Clique em **[!UICONTROL Adicionar outro]** para inserir valores adicionais.
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,12 +57,12 @@ Para criar um novo tipo de tag:
 
    >[!NOTE]
    >
-   >* Selecionar &quot;[!UICONTROL Obrigatório]&quot; se quiser que essa tag seja adicionada sempre que um novo programa for criado.
-   >* Removendo um tipo de programa do[!UICONTROL Aplicável a]A lista &#39; excluirá a tag e seus valores de todos os programas existentes desse tipo. Se você quiser preservar os valores de tag existentes e tornar essa tag opcional, prossiga para _all_ tipos de programas listados, deixe a caixa de seleção &quot;Obrigatório&quot; desmarcada.
+   >* Selecione &quot;[!UICONTROL Obrigatório]&quot; se quiser que essa marca seja adicionada sempre que um novo programa for criado.
+   >* A remoção de um tipo de programa da lista &#39;[!UICONTROL Aplica-se a]&#39; excluirá a marca e seus valores de todos os programas existentes desse tipo. Se você quiser preservar os valores de marca existentes e tornar esta marca opcional avançando para _todos_ os tipos de programas listados, deixe a caixa de seleção &quot;Obrigatório&quot; desmarcada.
 
    >[!TIP]
    >
-   >Se você quiser que uma tag semelhante seja obrigatória para alguns tipos de programas, mas opcional para outros, será necessário configurar duas tags separadas, cada uma se aplicando a tipos de programas diferentes, com uma com &quot;[!UICONTROL Obrigatório]&quot; selecionado e o outro com &quot;[!UICONTROL Obrigatório]&quot; não selecionado.
+   >Se você quiser tornar uma marca semelhante necessária para alguns tipos de programas, mas opcional para outros, precisará configurar duas marcas separadas, cada uma se aplicando a tipos de programas diferentes, uma com &quot;[!UICONTROL Obrigatório]&quot; selecionado e a outra com &quot;[!UICONTROL Obrigatório]&quot; não selecionado.
 
 1. Clique em **[!UICONTROL Criar]**.
 

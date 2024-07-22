@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Os programas são um dos elementos mais importantes no Marketo. Você vai usá-los muito!
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione a pasta do novo programa. Selecionar **[!UICONTROL Novo]** e clique em **[!UICONTROL Novo programa]**.
+1. Selecione a pasta do novo programa. Selecione **[!UICONTROL Novo]** e clique em **[!UICONTROL Novo programa]**.
 
    ![](assets/leadlifecycle.jpg)
 
@@ -29,4 +29,4 @@ Os programas são um dos elementos mais importantes no Marketo. Você vai usá-l
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>[Noções Básicas Sobre Programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.

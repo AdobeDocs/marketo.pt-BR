@@ -6,8 +6,8 @@ exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 4%
+source-wordcount: '230'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Os recursos a seguir estão incluídos na versão de março.
 
 ## Arquivos de calendário do Marketo {#marketo-calendar-files}
 
-Criar um arquivo de calendário como **Meu token** para ser usado em seus emails de confirmação e lembrete do evento. Esse arquivo de calendário integrado (por exemplo, arquivo .ics) renderizará todos os tokens, incluindo Meus tokens e o `{{member.webinar URL}}` token.
+Crie um arquivo de calendário como um **Meu token** para ser usado em seus emails de confirmação e lembrete de eventos. Esse arquivo de calendário integrado (por exemplo, arquivo .ics) renderizará todos os tokens, incluindo Meus Tokens e o token `{{member.webinar URL}}`.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
@@ -31,7 +31,7 @@ Você pode criar uma etapa de espera que aguardará 14 dias antes do aniversári
 
 ## Sorteios sociais {#social-sweepstakes}
 
-Um sorteio dá aos seus clientes uma chance de ganhar um prêmio e contar aos amigos sobre você. Você seleciona vencedores aleatórios dos participantes e os envia por email.
+Um sorteio dá aos seus clientes potenciais a chance de ganhar um prêmio e contar aos amigos sobre você. Você seleciona vencedores aleatórios dos participantes e os envia por email.
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 

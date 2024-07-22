@@ -17,7 +17,7 @@ Ao decidir ativar o Editor de email v2.0, você observará vários novos recurso
 
 **Seletor de modelos de e-mail**
 
-Ao criar um novo email, você é levado para a [Seletor de modelos de email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Ao criar um novo email, você é levado ao [Seletor de Modelo de Email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -41,7 +41,7 @@ A alternância entre as versões de HTML e Texto do seu email agora está em uma
 
 **Cabeçalho do email**
 
-Quer mais espaço de design? O cabeçalho do email pode ser ocultado depois que você terminar [editando](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Basta clicar neste ícone...
+Quer mais espaço de design? O cabeçalho do email poderá ser ocultado depois que você terminar de [editá-lo](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Basta clicar neste ícone...
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -49,7 +49,7 @@ Quer mais espaço de design? O cabeçalho do email pode ser ocultado depois que 
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**Pré-visualizar seu email**
+**Visualizar seu email**
 
 Por padrão, o email mostra como seria em uma área de trabalho, conforme indicado pelo ícone azul destacado. Se você clicar no ícone à direita...
 
@@ -73,7 +73,7 @@ A visualização padrão é desktop...
 
 **Ações de email**
 
-Em **Ações de email** Você perceberá alguns novos recursos. **Fazer upload de uma imagem ou arquivo**, e **Capturar imagens da Web**. Você também pode salvar o próprio email como um novo template de email. Tudo o que você tem que fazer é dar-lhe um nome e um destino.
+Em **Ações de email**, você observará alguns novos recursos. **Carregar uma Imagem ou um Arquivo** e **Capturar Imagens da Web**. Você também pode salvar o próprio email como um novo template de email. Tudo o que você tem que fazer é dar-lhe um nome e um destino.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -85,7 +85,7 @@ Em **Ações de email** Você perceberá alguns novos recursos. **Fazer upload d
 >
 >**[Capturar imagens da Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona exatamente como no Design Studio.
 
-**Desativar rastreamento aberto** Em **Configurações de email**, é possível desativar o rastreamento aberto, se necessário.
+**Desabilitar o rastreamento de aberturas** Em **Configurações de email**, você pode desabilitar o rastreamento de aberturas, se necessário.
 
 ![](assets/email-editor-v2-overview-13.png)
 
@@ -103,7 +103,7 @@ Muitos recursos novos excelentes! Divirta-se!
 
 >[!NOTE]
 >
->Se você quiser se aprofundar ainda mais, confira isso [vídeo](https://nation.marketo.com/videos/1463).
+>Se você deseja se aprofundar, assista a este [vídeo](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >

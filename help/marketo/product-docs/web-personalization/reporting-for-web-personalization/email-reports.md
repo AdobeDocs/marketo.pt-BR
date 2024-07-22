@@ -6,16 +6,16 @@ exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '416'
 ht-degree: 2%
 
 ---
 
 # Relatórios de e-mails {#email-reports}
 
-Para personalizar qual relatório de email automatizado o usuário recebe, consulte o  [Seção Configurações do usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Para personalizar qual relatório de email automatizado o usuário recebe, consulte a [seção Configurações do Usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
-## Relatórios de email de personalização da Web {#web-personalization-email-reports}
+## Relatórios de email do Web Personalization {#web-personalization-email-reports}
 
 Relatórios de email diários ou semanais são enviados para o endereço de email do usuário, fornecendo os dados mais recentes de organização, pessoa, campanha e desempenho dos ativos.
 
@@ -39,17 +39,17 @@ O Relatório de pessoas diário/semanal envia ao usuário um email com as 100 pe
 
 O Relatório de campanhas em tempo real com melhor desempenho envia ao usuário um email sobre as campanhas em tempo real com melhor desempenho, mostrando o nome da campanha, as impressões, os cliques, o segmento ao qual a campanha reagiu e a taxa de conversão da campanha.
 
-## Relatório de Ativos com Melhor Desempenho {#top-performing-assets-report}
+## Relatório do Assets com melhor desempenho {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
-O Relatório de ativos com melhor desempenho envia ao usuário um email sobre os ativos de conteúdo com melhor desempenho, mostrando o nome do ativo e a porcentagem de correspondências em comparação a outros ativos.
+O relatório Assets com melhor desempenho envia ao usuário um email sobre os ativos de conteúdo com melhor desempenho, mostrando o nome do ativo e a porcentagem de correspondências em comparação a outros ativos.
 
 ## Relatório de ativos recomendados {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
-O Relatório de ativos recomendados envia ao usuário um email com todo o conteúdo e o número de cliques que vieram do conteúdo exibido no Mecanismo de recomendação de conteúdo.
+O Relatório Assets recomendado envia ao usuário um email com todo o conteúdo e o número de cliques que vieram do conteúdo exibido no Mecanismo de recomendação de conteúdo.
 
 ## Relatório resumido {#summary-report}
 
@@ -61,12 +61,12 @@ O relatório de Resumo envia ao usuário um email (mensal ou trimestral) de toda
 >
 >**Definições**
 >
->**Conversão direta**: um visitante da Web que clica em uma campanha personalizada ou em um ativo de conteúdo recomendado e na mesma sessão de visita continua a preencher qualquer formulário no site com seu endereço de email.
+>**Conversão direta**: um visitante da Web que clica em uma campanha personalizada ou em um ativo de conteúdo recomendado e, na mesma sessão de visita, continua preenchendo qualquer formulário no site com seu endereço de email.
 >
->**Conversão assistida**: um visitante da Web que preenche qualquer formulário no site e deixa seu endereço de email, enquanto em uma visita anterior (nos últimos 6 meses) clicava em uma campanha personalizada ou ativo de conteúdo recomendado.
+>**Conversão assistida**: um visitante da Web que preenche qualquer formulário do site e deixa seu endereço de email, enquanto em uma visita anterior (nos últimos 6 meses) clicava em uma campanha personalizada ou ativo de conteúdo recomendado.
 
 >[!NOTE]
 >
->A Personalização da Web do Marketo captura o endereço de email do visitante da Web para qualquer formulário preenchido no site. Exibido na página Pessoas da personalização da Web, é a pessoa usada no relatório de Resumo.
+>O Marketo Web Personalization captura o endereço de email do visitante da Web para qualquer formulário concluído no site. Exibido na página Pessoas da Web Personalization, é a pessoa usada no relatório de Resumo.
 
-Para personalizar qual relatório de email automatizado o usuário recebe, consulte o [Seção Configurações do usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Para personalizar qual relatório de email automatizado o usuário recebe, consulte a [seção Configurações do Usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

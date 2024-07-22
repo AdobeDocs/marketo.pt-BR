@@ -5,7 +5,7 @@ exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '1013'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Veja como rastrear o progresso de suas metas e entender as previsões da Marketo
 
 >[!PREREQUISITES]
 >
->Para acessar a maioria desses recursos, habilite o [alternância de próxima geração](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} para Programas de evento.
+>Para acessar a maioria desses recursos, habilite a [alternância de próxima geração](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} para Programas de Evento.
 
 >[!NOTE]
 >
@@ -24,11 +24,11 @@ Veja como rastrear o progresso de suas metas e entender as previsões da Marketo
 
 ## Rastreamento de metas e registros projetados
 
-1. Você pode encontrar detalhes de rastreamento de meta na **[!UICONTROL Relatórios]** do seu programa de evento. Neste exemplo específico, há 150 membros registrados até agora contra uma meta de 200 (75%).
+1. Você pode encontrar detalhes de rastreamento de metas na guia **[!UICONTROL Relatórios]** do seu programa de eventos. Neste exemplo específico, há 150 membros registrados até agora contra uma meta de 200 (75%).
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Você também verá seus **[!UICONTROL Projetado]** registros. Passe o mouse sobre o ícone de informações para ver um detalhamento desse número por segmento de Probabilidade.
+Você também verá seus **[!UICONTROL Registros]** projetados. Passe o mouse sobre o ícone de informações para ver um detalhamento desse número por segmento de Probabilidade.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -54,14 +54,14 @@ Todos os membros (registrados e ainda não registrados) são categorizados com b
 
 ## Programas semelhantes
 
-Você pode obter alguns insights sobre seu evento atual observando o desempenho passado de programas semelhantes. Esta seção mostra até 5 programas semelhantes dos últimos 6 meses, com o número/porcentagem de membros que foram _Registrado_ ou superior.
+Você pode obter alguns insights sobre seu evento atual observando o desempenho passado de programas semelhantes. Esta seção mostra até 5 programas semelhantes dos últimos 6 meses, com o número/porcentagem de membros que foram _Registrados_ ou superior.
 
 Ao calcular programas semelhantes, incluímos os seguintes fatores, entre outros:
 
 * Tipo de programa
 * Canal do programa
 * Tamanho do público-alvo
-* Marcas de programa
+* Tags do programa
 * Duração de tempo desde a criação até o início do evento
 * Duração do evento
 
@@ -69,13 +69,13 @@ Ao calcular programas semelhantes, incluímos os seguintes fatores, entre outros
 
 ## Recomendações
 
-Na parte superior do [!UICONTROL Relatórios] Você pode encontrar recomendações orientadas por IA/ML com base em seu progresso. Verifique periodicamente se há dicas e insights úteis.
+Na parte superior da página [!UICONTROL Relatórios], você pode encontrar recomendações orientadas por IA/ML com base em seu progresso. Verifique periodicamente se há dicas e insights úteis.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Previsões no Nível da Pessoa
 
-Clique em **[!UICONTROL Membros]** para exibir todos os membros do programa. Passe o mouse sobre **[!UICONTROL Probabilidade de registro]** ou **[!UICONTROL Probabilidade de presença]** para ver porcentagens e categorizações exatas. Em seguida, você pode executar ações em membros de uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; de registro) e direcioná-los especificamente para aumentar potencialmente seus números de registro.
+Clique na guia **[!UICONTROL Membros]** para exibir todos os membros do programa. Passe o mouse sobre as barras **[!UICONTROL Probabilidade de Inscrição]** ou **[!UICONTROL Probabilidade de Presença]** para ver as porcentagens e as categorizações exatas. Em seguida, você pode executar ações em membros de uma categoria específica (por exemplo, todos na categoria &quot;Menos provável&quot; de registro) e direcioná-los especificamente para aumentar potencialmente seus números de registro.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -109,7 +109,7 @@ R: As práticas recomendadas incluem o seguinte:
 
 i. Você cria um programa e, em seguida, uma Campanha inteligente usa filtros preditivos com &quot;maior que X&quot;, o que resultaria em uma certa quantidade de pessoas (digamos, 1000) e você executaria a campanha.
 
-ii) Após 24 horas, no [!UICONTROL Relatórios] na guia, é possível ver os registros projetados que são calculados com base na probabilidade de registrar valores de todas as pessoas convidadas no momento.
+ii) Após 24 horas, na guia [!UICONTROL Relatórios], é possível ver os registros projetados que são calculados com base na probabilidade de registrar valores de todas as pessoas convidadas no momento.
 
 iii) Se os registros projetados forem menores que a meta, será necessário convidar mais pessoas. Nesse ponto, você pode ver os insights que informam qual era o limite que funcionava em programas anteriores.
 
@@ -119,19 +119,19 @@ iv) Você pode criar uma nova Campanha inteligente com esse limite para convidar
 
 v. A qualquer momento, se você quiser entender por que um número projetado está sendo exibido, é possível alternar para ver a distribuição de públicos-alvo entre segmentos, suas taxas de conversão do passado e aplicar essas taxas de conversão ao público-alvo atual (veja a captura de tela abaixo).
 
-**P: O que é o gráfico Segmentos por registro?**
+**P: Qual é o gráfico Segmentos por Registro?**
 
 R: Três barras, cada uma representando um segmento (Altamente provável, Provável, Menos provável).
 
-**Linha pontilhada roxa:** Taxa média de conversa para registro nesse segmento, com base em programas semelhantes anteriores.
+**Linha pontilhada violeta:** Taxa média de conversa para registro nesse segmento, com base em programas semelhantes anteriores.
 
-**Barra azul:** Porcentagem de registro de todas as pessoas nesse segmento.
+**Barra azul:** porcentagem de registro de todas as pessoas nesse segmento.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Por exemplo, digamos que 100 pessoas tenham probabilidade de se registrar > 50% e 60 dessas 100 pessoas registradas. Altamente provável que tenha 60% de conversão. Assim, todos os membros adicionados ao programa têm a probabilidade de registrar valores, então eles são colocados em segmentos e de acordo com o número de pessoas registradas em cada taxa de conversão de segmento é calculada.
 
-**P: O que significa &quot;Registrado e superior&quot;?**
+**P: O que significa &quot;Registrado e Superior&quot;?**
 
 R: Qualquer pessoa que esteja listada como registrada ou qualquer outro status com um número de etapa igual ou superior.
 

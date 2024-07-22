@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Para backups e outros fins, o Marketo permite baixar o conteúdo em HTML de um email.
 
-1. Localize o email e selecione-o. No **Ações de email** clique na lista suspensa **Baixar HTML**.
+1. Localize o email e selecione-o. No menu suspenso **Ações de email**, clique em **Baixar HTML**.
 
    ![](assets/one-4.png)
 

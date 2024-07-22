@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 2%
 
 >[!TIP]
 >
->É possível adicionar pessoas a uma lista usando [Importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou o [Adicionar à etapa de fluxo da lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
+>Você pode adicionar pessoas a uma lista usando a [etapa de fluxo Importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou a [etapa Adicionar à Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
 Com esse filtro, é possível extrair membros de outra lista fazendo referência a ele nas regras da Smart List. Veja como.
 
-1. Selecione uma Smart List e clique no botão **[!UICONTROL Lista inteligente]** guia.
+1. Selecione uma Smart List e clique na guia **[!UICONTROL Smart List]**.
 
    ![](assets/smartlist-sltab.png)
 
-1. No painel de filtros do lado direito, procure e arraste a variável **[!UICONTROL Membro da lista]** filtro na tela de desenho.
+1. No painel de filtros do lado direito, procure e arraste o filtro **[!UICONTROL Membro da Lista]** para a tela.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147124
-description: Uso da guia Ativos - Documentação do Marketo - Documentação do produto
-title: Uso da guia Ativos
+description: Uso da guia Assets - Documentação do Marketo - Documentação do produto
+title: Uso da guia Assets
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
@@ -11,13 +11,13 @@ ht-degree: 4%
 
 ---
 
-# Uso da guia Ativos {#using-the-assets-tab}
+# Uso da guia Assets {#using-the-assets-tab}
 
 A tela do ativo é uma representação visual do programa de evento ou padrão. Você pode usá-lo para adicionar ativos locais, bem como para interagir com os existentes.
 
-## Adicionar ativos {#adding-assets}
+## Adição do Assets {#adding-assets}
 
-Clique em **[!UICONTROL Assets]** no programa desejado. Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
+Clique na guia **[!UICONTROL Assets]** no programa desejado. Escolha qualquer um dos ativos abaixo e adicione-os ao seu programa.
 
 ![](assets/programassets.png)
 
@@ -37,7 +37,7 @@ Você pode clicar com o botão direito do mouse no cabeçalho se quiser interagi
 >
 >Arraste e solte para reorganizar as colunas de ativos.
 
-Os ativos que não são locais ao seu programa serão assim:
+Os Assets que não são locais ao seu programa serão assim:
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 

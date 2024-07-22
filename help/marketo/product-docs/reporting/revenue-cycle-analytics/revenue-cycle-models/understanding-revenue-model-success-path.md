@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -15,16 +15,16 @@ ht-degree: 4%
 
 ## Caminho de sucesso {#success-path}
 
-No modelo, o caminho verde também conhecido como **Caminho de sucesso** é o caminho ideal de como um lead faz a transição linear para uma empresa fechada/conquistada.
+No modelo, o caminho verde também conhecido como **Caminho de Sucesso** é o caminho ideal de como um cliente potencial faz a transição linear para um negócio fechado/conquistado.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Exemplo de estágios em um caminho de sucesso:
 
 | **NOME DO ESTÁGIO DO CAMINHO DE SUCESSO** | **DEFINIÇÃO** |
 |---|---|
-| **Revisar novos nomes** | Revisar se novos nomes são qualificados |
-| **Cliente em potencial** | Clientes potenciais qualificados que ainda não estão prontos para vendas |
+| **Revisar Novos Nomes** | Revisar se novos nomes são qualificados |
+| **Prospecto** | Clientes potenciais qualificados que ainda não estão prontos para vendas |
 | **Lead** | Clientes potenciais qualificados de marketing (&quot;prontos para vendas&quot;) |
 | **Oportunidade** | Clientes potenciais aceitos pelas vendas, trabalhando ativamente |
 | **Cliente** | Transações conquistadas fechadas |
@@ -42,7 +42,7 @@ Reconhecendo que nem todos os leads seguem um &quot;caminho de sucesso&quot; lin
 | **Desqualificado** | Nomes marcados como perfil não incluído |
 | **Inativo** | Clientes potenciais que deixaram de responder |
 | **Reciclado** | Qualificado, mas precisa de mais carinho (vinculado ao cliente potencial) |
-| **Perdida** | Perda de oportunidades (cuidados contínuos) |
+| **Perdidas** | Perda de oportunidades (cuidados contínuos) |
 
 >[!TIP]
 >

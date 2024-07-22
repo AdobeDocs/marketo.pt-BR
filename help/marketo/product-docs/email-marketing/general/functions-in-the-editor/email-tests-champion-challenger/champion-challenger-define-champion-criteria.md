@@ -17,11 +17,11 @@ Depois de configurar o tipo de teste, é necessário definir os critérios de ca
 
 >[!PREREQUISITES]
 >
->[Adicione um Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Adicionar um Especialista/Desafiador de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Critérios de campeão padrão {#standard-champion-criteria}
 
-1. Selecione uma das opções disponíveis **Critérios de campeão**.
+1. Escolha um dos **Critérios de Especialista** disponíveis.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +29,11 @@ Depois de configurar o tipo de teste, é necessário definir os critérios de ca
    >
    >Rastrearemos essa métrica e enviaremos um relatório com os dados por email.
 
-1. Se você selecionou um dos padrões **Critérios de campeão**, prossiga e vá para [Champion/Challenger: configurar alertas de relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Se você escolheu um dos **Critérios de Especialistas** padrão, vá em frente e vá para [Especialistas/Desafiadores: Configurar alertas de relatórios](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Critérios de especialista personalizados {#custom-champion-criteria}
 
-1. Se você quiser ficar bonito, você pode ir personalizado, selecionando **Conversão personalizada** e clicando em **Editar**.
+1. Se quiser se fantasiar, você pode personalizar selecionando **Conversão personalizada** e clicando em **Editar**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -59,4 +59,4 @@ Depois de configurar o tipo de teste, é necessário definir os critérios de ca
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: configurar alertas de relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[Champion/Challenger: Configurar Alertas De Relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

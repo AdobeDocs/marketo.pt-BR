@@ -6,28 +6,28 @@ exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 3%
 
 ---
 
 # Campos obrigatórios para sincronização do Marketo com o Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Esses campos *deve* ser sincronizado com a Marketo para que o cliente potencial e o contato do Sales Insight funcionem:
+Estes campos *devem* ser sincronizados com a Marketo para que o cliente potencial e o contato do Sales Insight funcionem:
 
 * Prioridade
 * Urgência
 * Pontuação relativa
 
-Se algum desses campos estiver ausente, você verá uma mensagem de erro no Marketo com o nome dos campos ausentes. Para corrigir isso, verifique em sua instância se os campos estão sincronizados para **Lead** e **Contato**. Caso contrário, adicione-os.
+Se algum desses campos estiver ausente, você verá uma mensagem de erro no Marketo com o nome dos campos ausentes. Para corrigir isso, verifique sua instância para ter certeza de que os campos estão sincronizados para **Lead** e **Contato**. Caso contrário, adicione-os.
 
 Veja como verificar e adicionar campos de sincronização.
 
-1. Acesse Administrador e clique em **Microsoft Dynamics**.
+1. Vá para Admin e clique em **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clique em **Editar** em Detalhes da sincronização de campo.
+1. Clique em **Editar** em Detalhes da Sincronização de Campo.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -57,4 +57,4 @@ Veja como verificar e adicionar campos de sincronização.
 
 >[!MORELIKETHIS]
 >
->[Configuração de Estrelas e Chamas para Registros de Cliente Potencial/Contato](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[Configurando Estrelas e Chamas para Registros de Cliente Potencial/Contato](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

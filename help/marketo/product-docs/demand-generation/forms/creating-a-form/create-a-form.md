@@ -6,7 +6,7 @@ exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Crie e use um formulário em uma página de aterrissagem para gerar novos nomes.
 
 >[!NOTE]
 >
->Saiba o que a Marketo está fazendo com o [mantenha seus formulários seguros](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Saiba o que a Marketo está fazendo para [manter seus formulários seguros](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -31,7 +31,7 @@ Crie e use um formulário em uma página de aterrissagem para gerar novos nomes.
 
    ![](assets/newlocalasset.png)
 
-1. Selecionar **Formulário**.
+1. Selecione o **Formulário**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
@@ -47,5 +47,5 @@ Doce! Agora que o formulário foi criado, vamos vesti-lo.
 
 >[!MORELIKETHIS]
 >
->* [Selecionar um tema do formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
->* [Adicionar um conjunto de campos a um formulário](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
+>* [Selecionar um tema de formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [Adicionar um FieldSet a um Formulário](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)

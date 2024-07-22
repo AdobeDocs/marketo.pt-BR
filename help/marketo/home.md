@@ -22,9 +22,9 @@ ht-degree: 16%
 
 ## Artigos populares
 
-* [Compreender o [!DNL Salesforce] Sincronizar](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Compreendendo a  [!DNL Salesforce] Sincronização](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Compreender o [!DNL Microsoft Dynamics] Sincronizar](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Compreendendo a  [!DNL Microsoft Dynamics] Sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Noções básicas sobre campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

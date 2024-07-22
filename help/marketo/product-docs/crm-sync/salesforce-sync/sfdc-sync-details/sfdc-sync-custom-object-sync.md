@@ -6,7 +6,7 @@ exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 >[!PREREQUISITES]
 >
->Para usar um objeto personalizado, ele deve estar associado a um [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} objeto no Salesforce.
+>Para usar um objeto personalizado, ele deve ser associado a um objeto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"} ou [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} no Salesforce.
 
 >[!IMPORTANT]
 >
@@ -29,15 +29,15 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 ## Habilitar objeto personalizado  {#enable-custom-object}
 
-1. Clique em **[!UICONTROL Admin]** e a variável **[!UICONTROL Sincronização de objetos do Salesforce]** link.
+1. Clique em **[!UICONTROL Admin]** e no link **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Se este for seu primeiro Objeto Personalizado, clique em **[!UICONTROL Esquema de sincronização]**.
+1. Se este for seu primeiro Objeto Personalizado, clique em **[!UICONTROL Sincronizar Esquema]**.
 
    ![](assets/rtaimage-2.png)
 
-1. Clique em **[!UICONTROL Desabilitar Sincronização Global]**.
+1. Clique em **[!UICONTROL Desabilitar sincronização global]**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -59,7 +59,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Clique em **[!UICONTROL Habilitar sincronização]** novamente.
+1. Clique em **[!UICONTROL Habilitar Sincronização]** novamente.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -67,7 +67,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
    >
    >Não se esqueça de reativar a sincronização global.
 
-1. Volte para o **Salesforce** guia.
+1. Volte para a guia **Salesforce**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -75,7 +75,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Para exibir todos os objetos personalizados do Salesforce, clique em **[!UICONTROL Admin]** e a variável **[!UICONTROL Sincronização de objetos do Salesforce]** (igual à etapa 1 acima).
+1. Para exibir todos os seus objetos personalizados do Salesforce, clique em **[!UICONTROL Admin]** e no link **[!UICONTROL Sincronização de Objetos do Salesforce]** (o mesmo da etapa 1 acima).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
@@ -85,6 +85,6 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
 ### O que vem a seguir: {#whats-next}
 
-[Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[Adicionar/Remover Campo de Objeto Personalizado como Lista Inteligente/Restrições do Acionador](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
 Excelente! Agora você pode usar dados desse objeto personalizado em campanhas inteligentes e listas inteligentes.

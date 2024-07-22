@@ -6,7 +6,7 @@ exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
@@ -41,7 +41,7 @@ Neste exemplo, vermelho indica que o valor diminuiu ao longo do intervalo de dat
 
 ## Clientes potenciais adquiridos {#acquired-leads}
 
-A variável **Clientes potenciais adquiridos** O cartão mostra um relatório de tendência mês a mês do número de novos leads.
+O cartão **Clientes Potenciais Adquiridos** mostra um relatório de tendência mês a mês do número de novos clientes potenciais.
 
 >[!NOTE]
 >
@@ -51,18 +51,18 @@ A variável **Clientes potenciais adquiridos** O cartão mostra um relatório de
 
 ## Novos leads {#new-leads}
 
-A variável **[!UICONTROL Novos clientes em potencial]** O cartão mostra um relatório de tendência mês a mês do número total de novos leads em sua instância nos últimos seis meses.
+O cartão **[!UICONTROL Novos clientes em potencial]** mostra um relatório de tendência mês a mês do número total de novos clientes em potencial na sua instância nos últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Cancelamentos de inscrição {#unsubscribes}
 
-A variável **[!UICONTROL Cancelamentos de assinatura]** O cartão mostra um relatório de tendências mês a mês da taxa de cancelamento de inscrição nos últimos seis meses.
+O cartão **[!UICONTROL Cancelamentos de assinatura]** mostra um relatório de tendências mês a mês sobre a taxa de cancelamento de assinatura nos últimos seis meses.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
 >[!MORELIKETHIS]
 >
 >* [Noções básicas sobre o Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Compreensão de cartões de evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Compreensão dos cartões do programa de email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Compreendendo os Cartões de Eventos](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Compreendendo Cartões de Programa de Email](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

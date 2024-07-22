@@ -20,7 +20,7 @@ Ao enviar um email por meio do Marketo Sales, você tem a opção de adicionar u
 
 ## Adicionar um anexo {#add-an-attachment}
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
@@ -38,7 +38,7 @@ Ao enviar um email por meio do Marketo Sales, você tem a opção de adicionar u
 
    >[!NOTE]
    >
-   >Se precisar fazer upload de um arquivo, clique no link **Fazer upload de conteúdo** no canto superior direito da janela.
+   >Se precisar carregar um arquivo, clique no botão **Carregar conteúdo** no canto superior direito da janela.
 
    O anexo aparece na parte inferior do email.
 
@@ -58,13 +58,13 @@ Ao enviar um email por meio do Marketo Sales, você tem a opção de adicionar u
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Selecione o conteúdo que deseja adicionar, clique no link **O conteúdo é rastreado** e clique em **Inserir**.
+1. Selecione o conteúdo que deseja adicionar, clique no controle deslizante **Conteúdo é Rastreado** e clique em **Inserir**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Se precisar fazer upload de um arquivo, clique no link **Fazer upload de conteúdo** no canto superior direito da janela.
+   >Se precisar carregar um arquivo, clique no botão **Carregar conteúdo** no canto superior direito da janela.
 
    O conteúdo aparece como um link em seu email. O recipient pode clicar no link para baixar o conteúdo.
 
@@ -76,7 +76,7 @@ Ao enviar um email por meio do Marketo Sales, você tem a opção de adicionar u
 
 ## Atualizações de conteúdo rastreável {#trackable-content-updates}
 
-**Visualizador de conteúdo rastreável**
+**Visualizador de Conteúdo Rastreável**
 
 Quando um cliente potencial clica em um conteúdo rastreável no seu email, ele abre um visualizador de conteúdo.
 
@@ -96,7 +96,7 @@ No visualizador de conteúdo, os clientes em potencial podem fazer as seguintes 
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
-**Eventos de conteúdo rastreável no feed ativo**
+**Eventos de Conteúdo Rastreável no Feed Dinâmico**
 
 Quando um lead clicar no link do nosso documento, você verá um evento de clique. Você pode clicar nesse link para visualizar o conteúdo. Desde que você esteja conectado à sua conta de Ações no navegador, não contaremos esses cliques como eventos.
 

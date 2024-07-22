@@ -6,7 +6,7 @@ exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Se você estiver recebendo um &quot;Erro inesperado&quot; no Gmail ao tentar enviar um email, provavelmente precisará redefinir sua conexão com o Gmail.
 
-1. Ir para **Configurações** > **Acompanhamento de email** > **Gerenciar**.
+1. Vá para **Configurações** > **Acompanhamento de email** > **Gerenciar**.
 
-1. Clique em **Desconectar-se do Gmail**.
+1. Clique em **Desconectar do Gmail**.
 
-1. Após desconectar, clique em **Conectar-se ao Google**.
+1. Depois de desconectar, clique em **Conectar-se ao Google**.
 
-   Depois de se reconectar, volte para o Gmail, atualize a página e tente enviar o email novamente. Se ainda não funcionar, [enviar um tíquete](https://nation.marketo.com/t5/Support/ct-p/Support) à nossa Equipe de suporte.
+   Depois de se reconectar, volte para o Gmail, atualize a página e tente enviar o email novamente. Se ainda não funcionar, [envie um tíquete](https://nation.marketo.com/t5/Support/ct-p/Support) para nossa Equipe de Suporte.

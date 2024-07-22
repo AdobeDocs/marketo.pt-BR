@@ -21,7 +21,7 @@ Você pode adicionar qualquer título na página Todo o conteúdo ao conteúdo p
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Clique em **Ações de conteúdo** e selecione **Aprovar para conteúdo preditivo**.
+1. Clique no menu suspenso **Ações de Conteúdo** e selecione **Aprovar para Conteúdo Preditivo**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
@@ -33,7 +33,7 @@ Você também pode aprovar títulos para conteúdo preditivo diretamente no pop-
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Verifique a **Aprovar para conteúdo preditivo** no pop-up Editar conteúdo e clique em **Salvar**.
+1. Marque a caixa **Aprovar Conteúdo Preditivo** no pop-up Editar Conteúdo e clique em **Salvar**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

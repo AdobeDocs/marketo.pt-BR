@@ -14,23 +14,23 @@ ht-degree: 0%
 
 As pastas do Campaign ajudam você a manter um espaço de trabalho organizado. Siga estas etapas simples e você está a caminho da mágica da automação.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecionar **[!UICONTROL Novo]**.
+1. Selecione **[!UICONTROL Novo]**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Selecionar **[!UICONTROL Nova pasta do Campaign]**.
+1. Selecione **[!UICONTROL Nova Pasta de Campanha]**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Insira um **[!UICONTROL Nome]** para a pasta da campanha.
+1. Digite um **[!UICONTROL Nome]** para a pasta da campanha.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Opcional: insira um **[!UICONTROL Descrição]** e clique em **[!UICONTROL Criar]**.
+1. Opcional: Insira uma **[!UICONTROL Descrição]** e clique em **[!UICONTROL Criar]**.
 
    >[!TIP]
    >
@@ -38,11 +38,11 @@ As pastas do Campaign ajudam você a manter um espaço de trabalho organizado. S
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Ótimo! Você acabou de criar uma pasta de campanha. Dê uma olhada na árvore.
+   Fantástico! Você acabou de criar uma pasta de campanha. Dê uma olhada na árvore.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Agora quando [criação de um novo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), você verá essa pasta de campanha como uma opção.
+   Agora, ao [criar um novo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), você verá esta pasta de campanha como uma opção.
 
 >[!MORELIKETHIS]
 >

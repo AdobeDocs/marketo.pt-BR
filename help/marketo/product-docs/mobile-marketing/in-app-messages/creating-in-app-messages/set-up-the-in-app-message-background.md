@@ -6,7 +6,7 @@ exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Selecionar um plano de fundo para a mensagem é uma etapa importante para conclu
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Para definir uma cor, clique em **Cor** e, em seguida, o quadrado da seleção de cores. Selecione a cor clicando nela ou digitando os códigos hexadecimais ou RGB no seletor de cores.
+1. Para definir uma cor, clique em **Cor** e, em seguida, no quadrado de seleção de cor. Selecione a cor clicando nela ou digitando os códigos hexadecimais ou RGB no seletor de cores.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,7 +31,7 @@ Selecionar um plano de fundo para a mensagem é uma etapa importante para conclu
    >
    >Branco simples, o padrão, geralmente é um vencedor.
 
-1. Se quiser usar um plano de fundo, clique em **Imagem** e, em seguida, o **Selecionar imagem** link.
+1. Se quiser usar um plano de fundo, clique em **Imagem** e depois no link **Selecionar Imagem**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
@@ -47,7 +47,7 @@ Selecionar um plano de fundo para a mensagem é uma etapa importante para conclu
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Aplicar uma borda de imagem opcional. A configuração padrão é **Desligado**. Primeiro, selecione a cor clicando nela ou digitando os números hexadecimais ou RGB no seletor de cores.
+1. Aplique uma borda de imagem opcional. A configuração padrão é **Desativada**. Primeiro, selecione a cor clicando nela ou digitando os números hexadecimais ou RGB no seletor de cores.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -65,12 +65,12 @@ Selecionar um plano de fundo para a mensagem é uma etapa importante para conclu
 
    >[!NOTE]
    >
-   >Para ações de toque para planos de fundo, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, deep links são tratados de forma diferente para Apple e Android. Se a mensagem for para apenas uma plataforma ou outra, deixe a outra na configuração padrão ou selecione **Nenhum**.
+   >Para ações de toque para planos de fundo, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, os deep links são tratados de forma diferente para o Apple e o Android. Se a sua mensagem vai para apenas uma plataforma ou outra, deixe a outra na configuração padrão ou selecione **Nenhum**.
 
-   Para concluir o trabalho, seu último passo é [configurar o botão Dispensar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   Para concluir o trabalho, sua última etapa é [configurar o botão Ignorar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Noções básicas sobre mensagens no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Noções Básicas Sobre Mensagens No Aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
    >* [Enviar uma mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
    >* [Escolha um layout para a mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

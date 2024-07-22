@@ -6,8 +6,8 @@ exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 2%
+source-wordcount: '80'
+ht-degree: 0%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Clonar um fluxo por vários motivos, incluindo o teste de diferentes ordens e diferentes cadências.
 
-1. Selecione seu programa de engajamento e vá para a **Fluxos** guia.
+1. Selecione seu programa de envolvimento e vá para a guia **Fluxos**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Clique no ícone de engrenagem do fluxo e clique em **Clonar**.
+1. Clique no ícone de engrenagem do fluxo e em **Clone**.
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

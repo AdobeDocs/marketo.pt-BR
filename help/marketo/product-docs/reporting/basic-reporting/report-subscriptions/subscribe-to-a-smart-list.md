@@ -6,8 +6,8 @@ exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 1%
+source-wordcount: '428'
+ht-degree: 0%
 
 ---
 
@@ -36,27 +36,27 @@ As assinaturas são específicas do espaço de trabalho. Por exemplo, essa lista
 
 ## Criar uma assinatura de lista inteligente {#create-a-smart-list-subscription}
 
-1. Vá para a **Banco de dados** ou **Atividades de marketing**.
+1. Vá para o **Banco de Dados** ou **Atividades de Marketing**.
 
    ![](assets/db.png)
 
-1. Selecione a lista inteligente para a qual deseja criar uma assinatura. Clique em **Ações da lista** e selecione **Nova Assinatura de Lista Inteligente**.
+1. Selecione a lista inteligente para a qual deseja criar uma assinatura. Clique em **Listar Ações** e selecione **Nova Assinatura da Smart List**.
 
    ![](assets/three.png)
 
-1. Forneça uma assinatura **Nome**, selecione ou insira os endereços de email da **Destinatários**.
+1. Dê um **Nome** à sua assinatura e selecione ou insira os endereços de email dos **Destinatários**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Clique em **Frequência** e selecione uma frequência.
+1. Clique na lista **Frequência** e selecione uma frequência.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Defina o **Encerrar Entrega** data. É possível selecionar **Nunca** ou uma data de calendário.
+1. Defina a data de **Término da Entrega**. Você pode selecionar **Nunca** ou uma data de calendário.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Clique em **Formato** e escolha na lista.
+1. Clique em **Formatar** e escolha na lista.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -64,7 +64,7 @@ As assinaturas são específicas do espaço de trabalho. Por exemplo, essa lista
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. A nova assinatura da lista inteligente é exibida na parte superior da lista na guia Subscriptions. Clique em **Enviar** se desejar enviar agora e não esperar até o delivery de email agendado.
+1. A nova assinatura da lista inteligente é exibida na parte superior da lista na guia Subscriptions. Clique em **Enviar** se desejar enviar agora e não aguardar a entrega agendada de email.
 
    ![](assets/eight.png)
 
@@ -80,7 +80,7 @@ Os recipients receberão um email com uma opção para baixar o relatório, bem 
 
 >[!NOTE]
 >
->Se a variável [Administrador de assinatura segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) está definida como **Sim**, somente as pessoas com acesso à instância do Marketo poderão baixar o relatório.
+>Se a configuração [Administrador de Assinatura Segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) estiver definida como **Sim**, somente as pessoas com acesso à instância do Marketo poderão baixar o relatório.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -102,5 +102,5 @@ Para excluir uma subscrição, selecione-a na guia subscriptions e clique em Del
 
 >[!MORELIKETHIS]
 >
->* [Editar uma assinatura de lista inteligente](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [Proteger a Configuração de Administrador de Assinatura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [Editar uma Assinatura de Smart List](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Proteger a Configuração de Administrador da Assinatura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

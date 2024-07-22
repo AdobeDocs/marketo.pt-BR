@@ -15,7 +15,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de maio de 2023
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
@@ -81,4 +81,4 @@ Os webinários interativos serão lançados gradualmente. Para solicitar acesso 
 
 ## Anúncios {#announcements}
 
-* **_Webinário de lançamento do produto_**: [Webinário da versão de março e maio de 2023 do Marketo Engage](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar da Versão do Produto_**: [Webinar da Versão de Marketo Engage de março e maio de 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

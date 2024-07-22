@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Um trecho não aprovado não pode ser usado em emails ou landing pages.
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Vá para o trecho e verifique se ele não está **Usado por** quaisquer ativos.
+1. Vá para o trecho e verifique se ele não é **Usado por** nenhum ativo.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Se o trecho for usado por outros ativos, remova essas associações antes de continuar.
 
-1. Entrada **Ações do trecho**, clique em **Cancelar aprovação**.
+1. Em **Ações de Trecho**, clique em **Cancelar Aprovação**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 

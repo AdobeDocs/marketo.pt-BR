@@ -2,11 +2,11 @@
 description: OP-Scoring-Demographic - Documentação do Marketo - Documentação do produto
 title: Pontuação OP-Demográfica
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 38%
+source-wordcount: '310'
+ht-degree: 34%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 38%
 
 Este é um exemplo de um Programa Operacional avançado (tokenizado), que utiliza um Programa padrão Marketo Engage para pontuação demográfica. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação demográfica&quot;.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -52,7 +52,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -99,7 +99,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Campanha inteligente</td> 
    <td> </td>
-   <td>Cargo</td>
+   <td>Nome do cargo</td>
   </tr>
   <tr> 
    <td>Campanha inteligente</td> 
@@ -235,11 +235,11 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original - _Recomendado_
    * Usar modelo de destino
 
@@ -247,7 +247,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    * Manter ambos os arquivos - _Recomendado_
    * Substituir item desta inscrição
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos - _Recomendado_
    * Substituir modelo existente
 

@@ -17,7 +17,7 @@ Se você tiver executado uma Smart List e alguns minutos tiverem passado, os res
 
 ## Atualizar resultados {#refresh-results}
 
-1. Para atualizar os dados no **[!UICONTROL Pessoas]** de uma Smart List, clique no ícone atualizar.
+1. Para atualizar dados na guia **[!UICONTROL Pessoas]** de uma Smart List, clique no ícone de atualização.
 
    ![](assets/refreshbutton.png)
 
@@ -31,4 +31,4 @@ Se você tiver executado uma Smart List e alguns minutos tiverem passado, os res
 
 >[!MORELIKETHIS]
 >
->[Exportar Pessoas para o Excel a partir de uma Lista ou Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}
+>[Exportar Pessoas para o Excel de uma Lista ou Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}

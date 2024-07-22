@@ -17,7 +17,7 @@ A sobreposição global na visualização de programação do programa permite q
 
 >[!PREREQUISITES]
 >
->Você deve ter um [Licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} para utilizar esse recurso.
+>Você deve ter uma [licença do Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} para utilizar esse recurso.
 
 ## Usar a sobreposição global {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ A sobreposição global na visualização de programação do programa permite q
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Selecionar **[!UICONTROL Sobreposição]** no canto inferior direito.
+1. Selecione **[!UICONTROL Sobreposição]** no canto inferior direito.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +39,9 @@ A sobreposição global na visualização de programação do programa permite q
 
 ## Usar um filtro salvo como sobreposição {#use-a-saved-filter-as-an-overlay}
 
-Se você tiver [salvou um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, você pode usá-lo como uma sobreposição na exibição de cronograma do programa.
+Se você [salvou um filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, poderá usá-lo como uma sobreposição na exibição do cronograma do programa.
 
-1. Clique em **[!UICONTROL Sobreposição]** e selecione a definição do filtro.
+1. Clique na lista suspensa **[!UICONTROL Sobreposição]** e selecione sua definição de filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
@@ -51,4 +51,4 @@ Se você tiver [salvou um filtro no Calendário de marketing](/help/marketo/prod
 
    >[!MORELIKETHIS]
    >
-   >[Criação de sobreposições personalizadas na visualização de programação](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}
+   >[Criando Sobreposições Personalizadas na Exibição de Agendamento do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

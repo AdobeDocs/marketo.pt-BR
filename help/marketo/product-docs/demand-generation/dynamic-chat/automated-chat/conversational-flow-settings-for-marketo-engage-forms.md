@@ -26,27 +26,27 @@ Tornar o Marketo Engage Forms conversacional, integrando-os aos Fluxos de conver
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. Na página de edição do formulário, clique em **[!UICONTROL Configurações do formulário]**, depois **[!UICONTROL Configurações]**.
+1. Na página de edição do formulário, clique em **[!UICONTROL Configurações de Formulário]** e depois em **[!UICONTROL Configurações]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Clique em **[!UICONTROL Configurações de fluxo de conversa]** controle deslizante para ativar.
+1. Clique no controle deslizante **[!UICONTROL Configurações de fluxo de conversa]** para habilitar.
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Um modal Opção padrão será exibido. Selecione sua preferência. Neste exemplo, estamos escolhendo **[!UICONTROL Usar fluxo de conversa]**.
+1. Um modal Opção padrão será exibido. Selecione sua preferência. Neste exemplo, estamos escolhendo **[!UICONTROL Usar Fluxo de Conversação]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Selecione o desejado **[!UICONTROL Fluxo de conversa]** e **[!UICONTROL Tipo de entrega]**.
+1. Selecione o **[!UICONTROL Fluxo de Conversação]** e o **[!UICONTROL Tipo de Entrega]** desejados.
 
    ![](assets/conversational-flow-settings-6.png)
 
    >[!NOTE]
    >
-   >[Saiba mais sobre Fluxos de conversa](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+   >[Saiba mais sobre Fluxos de Conversação](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **ETAPA OPCIONAL**: Você pode clicar em **[!UICONTROL Adicionar seleção]** para direcionar os visitantes do chat que atendem a um critério específico. Você pode somar até nove escolhas para um total de dez.
+   **ETAPA OPCIONAL**: você pode clicar em **[!UICONTROL Adicionar opção]** para direcionar os visitantes do chat que atendem a um critério específico. Você pode somar até nove escolhas para um total de dez.
 
    ![](assets/conversational-flow-settings-7.png)
 
@@ -54,7 +54,7 @@ Tornar o Marketo Engage Forms conversacional, integrando-os aos Fluxos de conver
    >
    >Antes do envio do formulário, o navegador do visitante deve ter um cookie criado como uma pessoa conhecida para se qualificar para membro da Static/Smart List.
 
-   **ETAPA OPCIONAL**: Clique no botão **+** faça logon em cada etapa para adicionar mais atributos, permitindo restringir o público-alvo direcionado (os atributos disponíveis são os campos escolhidos para o formulário). Neste exemplo, estamos direcionando os escritores técnicos de Adobe na Califórnia.
+   **ETAPA OPCIONAL**: clique no sinal **+** em cada etapa para adicionar mais atributos, permitindo restringir o público-alvo direcionado (os atributos disponíveis são os campos escolhidos para o formulário). Neste exemplo, estamos direcionando os escritores técnicos de Adobe na Califórnia.
 
    ![](assets/conversational-flow-settings-8.png)
 
@@ -62,7 +62,7 @@ Tornar o Marketo Engage Forms conversacional, integrando-os aos Fluxos de conver
    >
    >Critérios Lógica definida como &quot;todos&quot; significa que cada atributo deve ser atendido para se qualificar. Critérios Lógica definida como &quot;qualquer&quot; significa que qualquer um dos atributos será suficiente.
 
-   **ETAPA OPCIONAL**: Se você adicionar duas ou mais opções, poderá reordená-las clicando nas setas para cima/para baixo.
+   **ETAPA OPCIONAL**: se você adicionar duas ou mais opções, poderá reordená-las clicando nas setas para cima/para baixo.
 
    ![](assets/conversational-flow-settings-9.png)
 

@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Defina a seguinte configuração para começar a usar o novo Painel de insights.
 
 1. Abra uma nova guia em seu navegador para obter as credenciais do Marketo Sales Insights de sua conta da Marketo.
 
-1. Vá para a **Admin** área.
+1. Vá para a área **Administrador**.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
@@ -39,15 +39,15 @@ Defina a seguinte configuração para começar a usar o novo Painel de insights.
 
 ## Configurar o Sales Insight no Salesforce {#configure-sales-insight-in-salesforce}
 
-1. No Salesforce, clique em **Configuração**.
+1. No Salesforce, clique em **Configurar**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Procure por e selecione **Configurações do site remoto**.
+1. Procure e selecione **Configurações de Site Remoto**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Clique em **Novo local remoto**.
+1. Clique em **Novo Site Remoto**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 

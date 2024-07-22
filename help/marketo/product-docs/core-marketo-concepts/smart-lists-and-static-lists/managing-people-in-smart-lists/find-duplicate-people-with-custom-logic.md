@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -19,28 +19,28 @@ O Marketo Engage tem uma Lista inteligente do sistema que encontra pessoas dupli
 >
 >[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vá para a **[!UICONTROL Atividades de marketing]** área.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
 ![](assets/ma-2.png)
 
-1. Selecione sua lista inteligente, clique no botão **[!UICONTROL Lista inteligente]** guia.
+1. Selecione sua Smart List, clique na guia **[!UICONTROL Smart List]**.
 
    ![](assets/two-4.png)
 
-1. Localize e arraste o **[!UICONTROL Duplicar campos]** filtro na tela de desenho.
+1. Localize e arraste o filtro **[!UICONTROL Duplicar Campos]** para a tela.
 
    ![](assets/three-4.png)
 
 1. Escolha uma das quatro opções disponíveis:
 
-   * Endereço de email
+   * Endereço de e-mail
    * Nome completo
    * Sobrenome
    * Atualizado em
 
    >[!NOTE]
    >
-   >Todos os campos, com exceção do Endereço de email, fazem distinção entre maiúsculas e minúsculas. Portanto, usar &quot;john doe&quot; no campo Nome completo _não_ retorna resultados para João da Silva.
+   >Todos os campos, com exceção do Endereço de email, fazem distinção entre maiúsculas e minúsculas. Portanto, o uso de &quot;john doe&quot; no campo Nome Completo _não_ retornaria resultados para John Doe.
 
    ![](assets/four-2.png)
 

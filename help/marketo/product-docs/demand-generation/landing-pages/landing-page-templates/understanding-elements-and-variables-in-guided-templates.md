@@ -6,8 +6,8 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 4%
+source-wordcount: '189'
+ht-degree: 2%
 
 ---
 
@@ -23,12 +23,12 @@ Os elementos são os diferentes conteúdos que compõem uma landing page. Eles p
 
 Ao editar uma landing page guiada, os elementos serão exibidos se forem marcados como editáveis no template. Os elementos terão os seguintes ícones:
 
-* ![--](assets/image2015-5-20-12-3a30-3a48.png) Imagem
-* ![—](assets/image2015-5-20-12-3a31-3a33.png)Formulário do Marketo
-* ![--](assets/image2015-5-20-12-3a41-3a21.png)Texto
-* ![--](assets/image2015-5-20-12-3a42-3a47.png)Vídeo
+* ![—](assets/image2015-5-20-12-3a30-3a48.png) Imagem
+* ![—](assets/image2015-5-20-12-3a31-3a33.png)Formulário Marketo
+* ![—](assets/image2015-5-20-12-3a41-3a21.png)Texto
+* ![—](assets/image2015-5-20-12-3a42-3a47.png)Vídeo
 * ![—](assets/image2015-5-20-12-3a44-3a17.png)Botão Compartilhar do Marketo
-* ![—](assets/image2015-5-20-12-3a43-3a21.png)Enquete do Marketo
+* ![—](assets/image2015-5-20-12-3a43-3a21.png)Votação Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Referência do Marketo
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Sweepstakes do Marketo
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Fragmento do Marketo

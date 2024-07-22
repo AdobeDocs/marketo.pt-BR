@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 14%
+ht-degree: 12%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 14%
 
 Para ver as estatísticas de oportunidades nos relatórios de pessoa, você pode adicionar colunas de oportunidade.
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione seu relatório na árvore de navegação e clique no link **Configuração** guia.
+1. Selecione seu relatório na árvore de navegação e clique na guia **Configuração**.
 
    ![](assets/two.png)
 
-1. Clique duas vezes **Colunas de Oportunidade**.
+1. Clique duas vezes em **Colunas de oportunidade**.
 
    ![](assets/three.png)
 
-1. Selecionar **Mostrado** no menu suspenso.
+1. Selecione **Mostrado** no menu suspenso.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Clique em **Relatório** para ver seu relatório com as métricas de oportunidade.
+1. Clique na guia **Relatório** para ver seu relatório com as métricas de oportunidade.
 
    ![](assets/five.png)
 
@@ -51,8 +51,8 @@ Para ver as estatísticas de oportunidades nos relatórios de pessoa, você pode
 
    | Coluna | Descrição |
    |---|---|
-   | Nenhuma oportunidade | Número de pessoas que estão *não* um contato de oportunidade principal. |
-   | Dias - Nenhuma oportunidade | Idade média, em dias, das pessoas que *não* um contato principal. |
+   | Nenhuma oportunidade | Número de pessoas que *não* são um contato de oportunidade principal. |
+   | Dias - Nenhuma oportunidade | Idade média, em dias, das pessoas que *não* são contatos primários. |
    | Possui oportunidade | Número de pessoas que são um contato de oportunidade principal. |
    | Possui oportunidade - % | Porcentagem de pessoas que são um contato de oportunidade principal. |
    | Dias até a oportunidade | Número médio de dias para conversão de pessoa em contato de oportunidade principal. |
@@ -60,7 +60,7 @@ Para ver as estatísticas de oportunidades nos relatórios de pessoa, você pode
    | Valor médio da oportunidade | Soma dos valores de oportunidade, dividida pelo número de oportunidades. |
    | Total de oportunidades | Número de todas as oportunidades. |
    | Fechado | Número de oportunidades que foram fechadas, ganhas ou perdidas. |
-   | Obtido | Número de oportunidades que foram conquistadas. |
+   | Obtida | Número de oportunidades que foram conquistadas. |
    | % obtida | Porcentagem de oportunidades que foram conquistadas. |
    | Valor total obtido | Soma dos valores de oportunidade conquistada. |
    | Dias para fechamento | Número médio de dias para fechar oportunidades. |
@@ -68,4 +68,4 @@ Para ver as estatísticas de oportunidades nos relatórios de pessoa, você pode
 
    >[!MORELIKETHIS]
    >
-   >Saiba como [gerenciar o tamanho do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Saiba como [gerenciar o tamanho do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

@@ -6,7 +6,7 @@ exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Para garantir a conformidade com as leis de consentimento de duas partes dos EUA
 
 >[!PREREQUISITES]
 >
->Antes de seguir as etapas abaixo, você deve primeiro [habilitar gravação de chamada](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Antes de seguir as etapas abaixo, primeiro você deve [habilitar a gravação de chamadas](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Clique no ícone Configurações e selecione **Configurações**.
 
    ![](assets/one-1.png)
 
-1. Em Configurações do administrador, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/two-1.png)
 
-1. Role para baixo até Sales Connect Phone Settings (Configurações do telefone do Sales Connect) e clique em **Gerenciar aviso de gravação**.
+1. Role para baixo até Configurações de Telefone do Sales Connect e clique em **Gerenciar aviso de gravação**.
 
    ![](assets/three-1.png)
 
@@ -43,7 +43,7 @@ Para garantir a conformidade com as leis de consentimento de duas partes dos EUA
 
    ![](assets/five.png)
 
-1. Quando o upload estiver concluído, selecione os dados (três pontos) no gerenciador de arquivos e clique em **Selecionar como aviso de consentimento**. Clique em **OK** quando terminar.
+1. Após concluir o carregamento, selecione os dados (três pontos) no gerenciador de arquivos e clique em **Selecionar como Aviso de Consentimento**. Clique em **OK** quando terminar.
 
    ![](assets/six.png)
 

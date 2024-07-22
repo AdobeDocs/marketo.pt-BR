@@ -56,7 +56,7 @@ Você pode configurar qualquer uma das colunas disponíveis para ficarem visíve
    <td colspan="1">Mostra os grupos aos quais o destinatário do email pertence.</td> 
   </tr> 
   <tr> 
-   <td>Cargo</td> 
+   <td>Nome do cargo</td> 
    <td>Título do destinatário do email.</td> 
   </tr> 
   <tr> 
@@ -122,7 +122,7 @@ Você pode configurar o layout seguindo estas etapas.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Selecione o **Emails** seção.
+1. Selecione a seção **Emails**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

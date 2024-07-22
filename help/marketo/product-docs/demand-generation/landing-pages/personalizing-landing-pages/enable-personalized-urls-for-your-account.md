@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ URLs personalizados são excelentes para campanhas de email impresso.
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **Admin** e clique em **Landing Pages**.
+1. Vá para a seção **Admin** e clique em **Páginas de Aterrissagem**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
@@ -27,7 +27,7 @@ URLs personalizados são excelentes para campanhas de email impresso.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Verifique a **Ativar URLs personalizados** e clique em **Salvar**.
+1. Marque a caixa **Habilitar URLs personalizados** e clique em **Salvar**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
@@ -40,5 +40,5 @@ Excelente trabalho! Agora que você ativou os PURLs da sua conta, é possível a
 >Exemplo:
 >
 >1. AnnaJones
->1. AnnaJones2
->1. AnnaJones3
+>1. AnnaJones2Name
+>1. AnnaJones3Name

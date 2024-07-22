@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -44,10 +44,10 @@ Personalize relatórios do explorador de receita arrastando e soltando campos de
 
    ![](assets/image2015-3-24-15-3a53-3a5.png)
 
-   Ótimo! Agora você tem um relatório completo!
+   Fantástico! Agora você tem um relatório completo!
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
 >[!MORELIKETHIS]
 >
->[Exclusão de um Campo em um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[Excluindo um Campo em um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

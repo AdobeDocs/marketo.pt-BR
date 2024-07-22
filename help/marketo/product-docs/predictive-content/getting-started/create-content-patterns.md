@@ -6,16 +6,16 @@ exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '367'
 ht-degree: 2%
 
 ---
 
 # Criar padrões de conteúdo {#create-content-patterns}
 
-Quando você define padrões de conteúdo, o conteúdo é descoberto automaticamente quando um visitante da Web clica na página da Web de HTML relevante ao padrão de conteúdo. Ele é usado para adicionar páginas de HTML (posts de blog, comunicados de imprensa, artigos de notícias) como partes de conteúdo para a página Todo o conteúdo. Quando a descoberta automática se baseia em padrões de conteúdo, ela descobre e rastreia páginas HTML relacionadas ao padrão de URL definido quando um visitante da Web visualiza ou clica em um link para a página. Essa parte do conteúdo (o URL, o nome da página e os metadados, incluindo o URL da imagem e a descrição) é adicionada à página Todo o conteúdo para preparar conteúdo preditivo. Para a descoberta automática de outro conteúdo, como PDF e vídeo incorporado, é necessário [habilitar descoberta de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Quando você define padrões de conteúdo, o conteúdo é descoberto automaticamente quando um visitante da Web clica na página da Web de HTML relevante ao padrão de conteúdo. Ele é usado para adicionar páginas de HTML (posts de blog, comunicados de imprensa, artigos de notícias) como partes de conteúdo para a página Todo o conteúdo. Quando a descoberta automática se baseia em padrões de conteúdo, ela descobre e rastreia páginas HTML relacionadas ao padrão de URL definido quando um visitante da Web visualiza ou clica em um link para a página. Essa parte do conteúdo (o URL, o nome da página e os metadados, incluindo o URL da imagem e a descrição) é adicionada à página Todo o conteúdo para preparar conteúdo preditivo. Para a descoberta automática de outros conteúdos, como PDF e vídeos incorporados, é necessário [habilitar a descoberta de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Ir para **Configurações de conteúdo**.
+1. Vá para **Configurações de Conteúdo**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
@@ -33,13 +33,13 @@ Quando você define padrões de conteúdo, o conteúdo é descoberto automaticam
 
    >[!NOTE]
    >
-   >Os itens na lista suspensa à direita refletem as categorias configuradas quando você [categorias criadas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+   >Os itens na lista suspensa à direita refletem as categorias configuradas quando você [criou categorias](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
 1. Clique em **+** para adicionar outro caminho.
 
    ![](assets/url-patterns-add2.png)
 
-1. Adicione a extensão e a categoria do caminho adicional e clique em **Salvar**.
+1. Adicione a extensão e a categoria para o caminho adicional e clique em **Salvar**.
 
    ![](assets/url-patterns-save.png)
 
@@ -47,8 +47,8 @@ Quando você define padrões de conteúdo, o conteúdo é descoberto automaticam
 
 * Você pode usar um curinga em qualquer lugar em uma expressão (Exemplo: _domain.com/&#42;_, _domain.com/&#42;blog&#42;_)
 
-* Recomendamos usar /&#42; no final de uma expressão para continuar a descoberta do padrão (Exemplo: _domain.com/blog/&#42;_ descobre todas as postagens na pasta Blog)
-* Os padrões de conteúdo não diferenciam maiúsculas de minúsculas (exemplo: _domain.com/Blog/&#42;_ descobre todas as páginas html em _domain.com/Blog_ e _domain.com/blog_)
+* Recomendamos usar /&#42; no final de uma expressão para continuar a descoberta de padrões (Exemplo: _domain.com/blog/&#42;_ descobre todas as postagens na pasta Blog)
+* Os padrões de conteúdo não diferenciam maiúsculas de minúsculas (Exemplo: _domain.com/Blog/&#42;_ descobre todas as páginas html em _domain.com/Blog_ e _domain.com/blog_)
 
 * Os parâmetros de URL não são descobertos (isso evita descobrir vários itens com o mesmo URL de conteúdo, mas com parâmetros diferentes)
 

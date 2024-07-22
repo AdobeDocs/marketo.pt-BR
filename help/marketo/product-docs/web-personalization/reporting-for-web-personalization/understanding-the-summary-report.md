@@ -6,7 +6,7 @@ exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -23,34 +23,34 @@ O relatório de Resumo é uma exibição mensal de todas as campanhas e do desem
 >
 >Conversão assistida: um visitante da Web que preenche qualquer formulário do site e deixa o endereço de email, que em uma visita anterior (nos últimos 6 meses) clicou em uma campanha personalizada ou ativo de conteúdo recomendado.
 
-Na Personalização da Web, acesse **Analytics** e **Relatório de resumo**.
+No Web Personalization, vá para **Analytics** e **Relatório de resumo**.
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Selecionar **Month** e clique em **Mostrar relatório**.
+Selecione **Mês** e clique em **Mostrar Relatório**.
 
 ![](assets/2.png)
 
-A primeira parte do relatório está relacionada às campanhas e exibições de Personalização da Web:
+A primeira parte do relatório está relacionada às campanhas e exibições personalizadas do Web Personalization:
 
-* **Cliques** - todos os cliques nas campanhas de Personalização da Web
-* **Conversões diretas** - todos os visitantes que clicaram em uma campanha de Personalização da Web durante a visita e preencheram um formulário
-* **Taxa de conversão direta** - a porcentagem de visitantes que se tornaram um lead direto depois de clicar em uma campanha de Personalização da Web. Cliques em potencial diretos divididos por cliques
-* **Conversões assistidas** - todos os visitantes que preencheram um formulário e clicaram em uma campanha de Personalização da Web em uma visita anterior (nos últimos 6 meses)
-* **Dicas** - dicas para otimizar os desempenhos da campanha de Personalização da Web
-* **Principais campanhas** - as campanhas com melhor desempenho durante o período selecionado, ordenadas pelo número de cliques
+* **Cliques** - todos os cliques nas campanhas do Web Personalization
+* **Conversões diretas** - todos os visitantes que clicaram em uma campanha do Web Personalization durante a visita e preencheram um formulário
+* **Taxa de conversão direta** - a porcentagem de visitantes que se tornaram clientes em potencial diretos depois de clicar em uma campanha do Web Personalization. Cliques em potencial diretos divididos por cliques
+* **Conversões assistidas** - todos os visitantes que preencheram um formulário e clicaram em uma campanha do Web Personalization em uma visita anterior (nos últimos 6 meses)
+* **Dicas** - dicas para otimizar os desempenhos de campanha do Web Personalization
+* **Campanhas mais populares** - as campanhas com melhor desempenho durante o período selecionado, ordenadas por número de cliques
 
 ![](assets/3.png)
 
-A segunda parte do relatório está relacionada ao Conteúdo recomendado do mecanismo de recomendação de conteúdo da Personalização da Web. Ele exibe:
+A segunda parte do relatório está relacionada ao Conteúdo recomendado do mecanismo de recomendação de conteúdo do Web Personalization. Ele exibe:
 
-* **Cliques** - todos os cliques no conteúdo recomendado de Personalização da Web
+* **Cliques** - todos os cliques no conteúdo recomendado do Web Personalization
 * **Conversões diretas** - todos os visitantes que clicaram no conteúdo recomendado durante a visita e preencheram um formulário
-* **Taxa de conversão direta** - a porcentagem de visitantes que se tornaram um lead direto depois de clicar no conteúdo recomendado. Cliques em potencial diretos divididos por cliques
+* **Taxa de conversão direta** - a porcentagem de visitantes que se tornaram clientes em potencial diretos depois de clicar no conteúdo recomendado. Cliques em potencial diretos divididos por cliques
 * **Conversões assistidas** - todos os visitantes que preencheram um formulário e clicaram no conteúdo recomendado em uma visita anterior (nos últimos 6 meses)
-* **Dicas** - dicas para otimizar usando o Mecanismo de recomendação de conteúdo
-* **Principais Recommendations** - o conteúdo recomendado com melhor desempenho durante o período selecionado, ordenado pelo número de cliques
+* **Dicas** - dicas para otimizar usando o Mecanismo de Recomendação de Conteúdo
+* **Recommendations Principais** - o conteúdo recomendado com melhor desempenho durante o período selecionado, ordenado pelo número de cliques
 
 >[!NOTE]
 >
->A Personalização da Web do Marketo captura o endereço de email do visitante da Web para qualquer formulário preenchido no site. Exibido na página de clientes potenciais de personalização da Web, é o cliente potencial usado no relatório de Resumo.
+>O Marketo Web Personalization captura o endereço de email do visitante da Web para qualquer formulário concluído no site. Exibido na página de clientes potenciais do Web Personalization, é o cliente potencial usado no relatório de Resumo.

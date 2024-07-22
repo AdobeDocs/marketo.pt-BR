@@ -17,7 +17,7 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
 
 >[!IMPORTANT]
 >
->Este artigo é apenas para aqueles que _não_ use [Marketo com identidade Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Se você fizer isso, as configurações descritas abaixo poderão ser acessadas no seu [perfil da conta Adobe](https://account.adobe.com/profile).
+>Este artigo é somente para aqueles que _não_ usam [Marketo com Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Se você fizer isso, as configurações descritas abaixo poderão ser acessadas em seu [perfil de conta do Adobe](https://account.adobe.com/profile).
 
 ## Idiomas suportados {#supported-languages}
 
@@ -30,11 +30,11 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
 
 ## Alterar idioma, local e fuso horário do usuário {#change-user-language-locale-and-time-zone}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. Selecionar **[!UICONTROL Minha conta]**.
+1. Selecione **[!UICONTROL Minha conta]**.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
@@ -42,7 +42,7 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Altere o **[!UICONTROL Idioma]**.
+1. Altere seu **[!UICONTROL Idioma]**.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,11 +50,11 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
    >
    >Você também tem a opção de alterar apenas seu idioma clicando no menu suspenso de idioma na parte superior da página de logon.
 
-1. Altere o **[!UICONTROL Localidade]**.
+1. Altere sua **[!UICONTROL Localidade]**.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Altere o **[!UICONTROL Fuso Horário]**.
+1. Altere seu **[!UICONTROL Fuso Horário]**.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 

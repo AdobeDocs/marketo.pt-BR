@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Veja como configurar ações em massa no Salesforce Lightning.
 
-1. No Salesforce, clique no ícone Configurar e selecione **Configuração**.
+1. No Salesforce, clique no ícone Configurar e selecione **Configurar**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Clique em **Gerenciador de objetos** guia.
+1. Clique na guia **Gerenciador de objetos**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. Localize e selecione o **Lead** rótulo.
+1. Localize e selecione o rótulo **Lead**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. Clique em **Layouts de pesquisa para o Salesforce Classic**.
+1. Clique em **Pesquisar layouts para o Salesforce Classic**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
@@ -35,7 +35,7 @@ Veja como configurar ações em massa no Salesforce Lightning.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. Em Botões Personalizados, localize e selecione **Adicionar ao Marketo Campaign (relâmpago)** e **Enviar email do Marketo (relâmpago)**. Clique em **Adicionar** botão.
+1. Em Botões Personalizados, localize e selecione **Adicionar ao Marketo Campaign (lightning)** e **Enviar Email do Marketo (lightning)**. Clique no botão **Adicionar**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 

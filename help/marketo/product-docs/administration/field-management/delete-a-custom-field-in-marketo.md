@@ -17,17 +17,17 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Talvez você queira se livrar de um campo criado no passado se não tiver mais um uso para ele. Infelizmente, não é possível excluir campos no Marketo, mas você _pode_ ocultá-los da interface do usuário.
+Talvez você queira se livrar de um campo criado no passado se não tiver mais um uso para ele. Infelizmente, não é possível excluir campos no Marketo, mas você _pode_ ocultá-los da interface.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/delete-a-custom-field-in-marketo-2.png)
 
-1. Clique em **[!UICONTROL Ações de campo]** e selecione **[!UICONTROL Ocultar campo]**.
+1. Clique no menu suspenso **[!UICONTROL Ações do Campo]** e selecione **[!UICONTROL Ocultar Campo]**.
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 

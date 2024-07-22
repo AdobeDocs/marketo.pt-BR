@@ -24,7 +24,7 @@ No lado superior direito da tela Caixa de entrada do agente, você tem a opção
 
 >[!IMPORTANT]
 >
->**Isso substituirá** o [disponibilidade do chat ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} estabelecido em Configurações do agente. O status permanecerá até que você o alterne de volta ou para o próximo bloco de tempo em sua disponibilidade.
+>**Isso substituirá** a [disponibilidade do chat ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} que você estabeleceu nas Configurações do Agente. O status permanecerá até que você o alterne de volta ou para o próximo bloco de tempo em sua disponibilidade.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ No lado superior direito da tela Caixa de entrada do agente, você tem a opção
 
 ## Notificações de bate-papo ao vivo {#live-chat-notifications}
 
-Saiba mais sobre notificações na [Visão geral do bate-papo ao vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Saiba mais sobre notificações na [Visão Geral do Chat ao Vivo](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversas {#conversations}
 
@@ -52,7 +52,7 @@ No lado direito da tela da Caixa de entrada do agente, você poderá ver (de cim
 
 ## Encerrar uma sessão {#end-a-session}
 
-Os agentes podem encerrar manualmente uma sessão clicando no link **Encerrar sessão** botão ao lado das informações do visitante.
+Os agentes podem encerrar manualmente uma sessão simplesmente clicando no botão **Encerrar sessão** ao lado das informações do visitante.
 
 ![](assets/agent-inbox-6.png)
 
@@ -62,11 +62,11 @@ Os agentes podem encerrar manualmente uma sessão clicando no link **Encerrar se
 >
 >Esse recurso faz parte da IA gerativa, disponível por meio da assinatura do Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
 
-Atalhos, ativados pela IA gerativa [Biblioteca de resposta](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)O, é uma ótima maneira de obter ajuda em tempo real ao conversar com um visitante. Basta digitar uma barra (`/`) na caixa de texto e escolha `ask` ou `search`.
+Os atalhos, viabilizados pela [Biblioteca de resposta](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) da IA gerativa, são uma ótima maneira de obter ajuda imediata ao conversar com um visitante. Basta digitar uma barra (`/`) na caixa de texto e escolher `ask` ou `search`.
 
 ![](assets/agent-inbox-7.png)
 
-**Perguntar** é para obter ajuda com as respostas a uma pergunta.
+**Solicitar** ajuda com respostas a uma pergunta.
 
 1. Digite ou escolha `/ask` na caixa de texto. Digite sua pergunta e pressione Enter no teclado.
 
@@ -76,7 +76,7 @@ Atalhos, ativados pela IA gerativa [Biblioteca de resposta](/help/marketo/produc
 
    ![](assets/agent-inbox-9.png)
 
-**Pesquisar** é para ajudar a encontrar páginas relacionadas a texto específico.
+A **Pesquisa** é para ajudar a encontrar páginas relacionadas a texto específico.
 
 1. Digite ou escolha `/search` na caixa de texto.
 

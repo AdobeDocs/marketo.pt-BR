@@ -6,7 +6,7 @@ exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -65,11 +65,11 @@ Neste exemplo, escolheremos taxa de abertura para as primeiras três semanas de 
 
 Deseja excluir um dos Gráficos Rápidos? É fácil!
 
-1. Clique em **Gráficos rápidos** ícone.
+1. Clique no ícone **Gráficos rápidos**.
 
    ![](assets/nine.png)
 
-1. Passe o mouse sobre o gráfico desejado, mas não clique nele. Ao passar o cursor do mouse, um X será exibido. Clique em **X**.
+1. Passe o mouse sobre o gráfico desejado, mas não clique nele. Ao passar o cursor do mouse, um X será exibido. Clique no **X**.
 
    ![](assets/ten.png)
 

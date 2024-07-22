@@ -15,12 +15,12 @@ ht-degree: 0%
 
 O recurso Descoberta de conteúdo detecta e marca automaticamente o conteúdo já existente (incluindo estudos de caso, publicações de blog, vídeos, press releases etc.) em seu site e rastreia o número de visualizações desses materiais.  O conteúdo preditivo usa o conteúdo descoberto, empregando análises preditivas para determinar qual é o conteúdo com melhor desempenho e recomenda o melhor conteúdo para a pessoa certa.
 
-1. Ir para **Configurações de conteúdo**.
+1. Vá para **Configurações de Conteúdo**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Transformar a Descoberta de Conteúdo em **Ligado**.
+1. Ativar **Descoberta de Conteúdo**.
 
    ![](assets/content-discovery-on-hand.png)
 
-Configurar a Descoberta de conteúdo como Ativada detectará automaticamente um conteúdo de PDF ou vídeo quando qualquer visitante da Web clicar no arquivo ou assistir ao vídeo. Esse conteúdo (URL, nome de conteúdo e URL da imagem) é adicionado e rastreado na página Todo o conteúdo. Quando um vídeo é descoberto automaticamente, descobrimos um vídeo quando um visitante da Web clica e assiste a um vídeo incorporado do YouTube, Vimeo ou Wistia. Para a descoberta automática de outro conteúdo, seria necessário [criar padrões de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).
+Configurar a Descoberta de conteúdo como Ativada detectará automaticamente um conteúdo de PDF ou vídeo quando qualquer visitante da Web clicar no arquivo ou assistir ao vídeo. Esse conteúdo (URL, nome de conteúdo e URL da imagem) é adicionado e rastreado na página Todo o conteúdo. Quando um vídeo é descoberto automaticamente, descobrimos um vídeo quando um visitante da Web clica e assiste a um vídeo incorporado do YouTube, Vimeo ou Wistia. Para descobrir automaticamente outros conteúdos, você precisaria [criar padrões de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).

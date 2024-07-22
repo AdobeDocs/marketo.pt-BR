@@ -23,7 +23,7 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
 >
 >As informações neste artigo são para usuários que fazem logon diretamente em login.marketo.com e não se aplicam a usuários que se autenticam com o Adobe ID. Não é possível impor restrições de IP em logons de logon único (SSO) neste momento.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
@@ -35,15 +35,15 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Escolha se deseja **Permitir** ou **Bloquear** endereços específicos, insira os endereços e clique em **[!UICONTROL Salvar]**.
+1. Escolha se deseja **Permitir** ou **Bloquear** endereços específicos, insira o(s) endereço(s) e clique em **[!UICONTROL Salvar]**.
 
    >[!NOTE]
    >
    >**Definição**
    >
-   >* **[!UICONTROL Endereços IP permitidos]**: a adição de endereços IP permitidos é inclusiva. Ele incluirá todos os endereços IP especificados e excluirá todo o resto.
+   >* **[!UICONTROL Endereços IP permitidos]**: a adição de endereços IP permitidos é uma inclusão. Ele incluirá todos os endereços IP especificados e excluirá todo o resto.
    >* **[!UICONTROL Bloquear endereços IP]**: impede que IPs específicos acessem o Marketo.
-   >* **[!UICONTROL Desativar restrições de IP]**: marcar essa opção impedirá que qualquer/todas as regras de restrição funcionem. Use isso para fins de teste.
+   >* **[!UICONTROL Desabilitar Restrições de IP]**: marcar essa opção impedirá que qualquer/todas as regras de restrição funcionem. Use isso para fins de teste.
 
    >[!NOTE]
    >

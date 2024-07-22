@@ -7,17 +7,17 @@ feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Editar seu domínio de marca padrão com espaços de trabalho {#edit-your-default-branding-domain-with-workspaces}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -31,7 +31,7 @@ ht-degree: 0%
    >
    >Não é possível adicionar outro domínio até que você edite o domínio genérico pela primeira vez.
 
-1. Insira o nome do domínio padrão e clique em **[!UICONTROL Próxima]**.
+1. Digite o nome do domínio padrão e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 >
 >Ao adicionar domínios de marca adicionais, você pode optar por tornar esse domínio primário para um ou mais espaços de trabalho, e todos os emails não enviados existentes serão definidos como &quot;Padrão&quot; e todos os emails recém-criados serão padronizados para o domínio primário. Você pode substituí-lo por email.
 
-Agora, você pode [adicionar outros domínios de marca](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) necessário para os espaços de trabalho.
+Agora você pode [adicionar outros domínios de marca](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) necessários para os espaços de trabalho.

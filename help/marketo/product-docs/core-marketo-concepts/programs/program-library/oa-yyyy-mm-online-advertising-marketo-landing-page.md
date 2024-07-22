@@ -1,20 +1,20 @@
 ---
-description: Página de aterrissagem da Marketo de publicidade online OA-YYYY-MM-Marketo Docs - Documentação do produto
-title: Página de aterrissagem OA-YYYY-MM-Online Advertising Marketo
+description: Página de aterrissagem on-line do Advertising Marketo OA-YYYY-MM - Documentação do Marketo - Documentação do produto
+title: Página de aterrissagem on-line do Advertising Marketo OA-YYYY-MM
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 17%
+source-wordcount: '485'
+ht-degree: 12%
 
 ---
 
-# Página de aterrissagem OA-YYYY-MM-Online Advertising Marketo {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# Página de aterrissagem on-line do Advertising Marketo OA-YYYY-MM {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Este é um exemplo de um programa de rastreamento de anúncios online, incluindo uma Página de aterrissagem do Marketo com formulário de registro e utilizando um Programa padrão do Marketo. O link para a oferta pode ser exibido na página de agradecimento, enviado em um email de agradecimento ou em ambos.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -29,14 +29,14 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Publicidade on-line</td> 
    <td>01 - Membro 
-<br/>02 - Envolvido - Sucesso</td>
+<br/>02 - Envolvido - Êxito</td>
    <td>Inclusivo</td>
    <td>Padrão</td>
   </tr>
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -56,12 +56,12 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td>01-Email-Obrigado</td>
   </tr>
   <tr> 
-   <td>Página</td> 
+   <td>Página de destino</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
    <tr> 
-   <td>Página</td> 
+   <td>Página de destino</td> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>02 - LP - Obrigado</td>
   </tr>
@@ -93,7 +93,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Ativos - hospeda todos os ativos criativos 
+   <td>Assets - hospeda todos os ativos criativos 
 <br/>(subpastas para emails e Landing Pages)  </td>
   </tr>
   <tr> 
@@ -125,7 +125,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td><code>{{my.Content-Description}}</code></td>
    <td>Clique duas vezes para obter detalhes  
 <br/><code><--My Content Description Here--></code> 
-<br/>Edite essa descrição de conteúdo no nível do programa, na guia Meus tokens. 
+<br/>Edite esta descrição de conteúdo no nível do programa, na guia Meus Tokens. 
 <br/>Você aprenderá: 
 <li>Marcador 1</li>
 <li>Marcador 2</li>
@@ -173,19 +173,19 @@ IMAGEM DO PROGRAMA
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original
    * Usar modelo de destino - _Recomendado_
 
 * **Imagens com o mesmo nome**
    * Manter ambos os arquivos
-   * Substituir item desta inscrição - _Recomendado_
+   * Substituir item nesta assinatura - _Recomendado_
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
 
@@ -198,7 +198,7 @@ CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 * Considere atualizar os modelos no programa importado para utilizar modelos com a marca atual ou atualize o modelo recém-importado para refletir a marca adicionando um trecho ou as informações apropriadas de logotipo/rodapé.
 
-* Use as etiquetas do programa para filtrar os relatórios de suas várias fontes de publicidade online.
+* Use as tags do programa para filtrar os relatórios de várias fontes do Advertising online.
 
 * Considere atualizar a convenção de nomenclatura deste exemplo de programa para alinhar-se à sua convenção de nomenclatura.
 
@@ -208,7 +208,7 @@ CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;02 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça isso _antes_ o formulário está disponível e os emails são enviados.
+>Não se esqueça de ativar a campanha &quot;02 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de o seu formulário estar online e os emails serem enviados.
 
 >[!IMPORTANT]
 >

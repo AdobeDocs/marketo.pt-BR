@@ -7,7 +7,7 @@ feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -15,22 +15,22 @@ ht-degree: 2%
 
 Você pode definir um intervalo de tempo para que o conteúdo fique ativo em seu fluxo. Veja como.
 
-1. Selecione seu programa de engajamento e vá para a **Fluxos** guia.
+1. Selecione seu programa de envolvimento e vá para a guia **Fluxos**.
 
    ![](assets/cloneasteam-2.jpg)
 
-1. Clique no ícone de engrenagem do conteúdo que deseja agendar e selecione **Editar Disponibilidade**.
+1. Clique no ícone de engrenagem do conteúdo que você deseja agendar e selecione **Editar Disponibilidade**.
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Selecione o **Ativo desde** data e depois a variável **Ativo até** data e clique em **Salvar**.
+1. Selecione a data **Ativo de**, depois a data **Ativo até** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Você pode sair **Ativo até** em branco para disponibilizar o conteúdo para sempre.
+   >Você pode deixar **Ativo até** em branco para disponibilizar o conteúdo para sempre.
 
-   Perfeita! Você verá o ícone de relógio ao lado do conteúdo agendado. Ele ficará ativo e inativo de acordo com o agendamento definido.
+   Perfeito! Você verá o ícone de relógio ao lado do conteúdo agendado. Ele ficará ativo e inativo de acordo com o agendamento definido.
 
    ![](assets/image2014-9-15-17-3a36-3a4.png)

@@ -6,8 +6,8 @@ exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 2%
+source-wordcount: '178'
+ht-degree: 0%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Eventos permitem automatizar eventos online e offline. Registre o status dos seus funcionários à medida que eles avançam por diferentes estágios e obtenha medidas precisas do ROI para suas iniciativas de marketing.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma.png)
 
-1. Selecione a pasta do novo programa. Selecionar **Novo** e clique em **Novo programa**.
+1. Selecione a pasta do novo programa. Selecione **Novo** e clique em **Novo programa**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
@@ -31,7 +31,7 @@ Eventos permitem automatizar eventos online e offline. Registre o status dos seu
 
    >[!NOTE]
    >
-   >Os canais definem os diferentes status que uma pessoa pode ter em um programa. Saiba mais sobre [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) aqui.
+   >Os canais definem os diferentes status que uma pessoa pode ter em um programa. Saiba mais sobre a [associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) aqui.
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
@@ -43,15 +43,15 @@ Eventos permitem automatizar eventos online e offline. Registre o status dos seu
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Para agendar o evento, selecione **Exibição do Calendário** e clique nele no calendário para abrir o pop-up. Insira datas e horas.
+1. Para agendar seu evento, selecione **Exibição Agendada** e clique nele no calendário para abrir o pop-up. Insira datas e horas.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Deslizar a barra para **Confirmado** quando terminar.
+1. Deslize a barra para **Confirmado** quando terminar.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Depois que o evento for criado, crie o [landing pages](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulários](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), e [emails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) para convidar seus convidados! Você também vai querer se familiarizar com o [exibição do cronograma do programa](https://docs.marketo.com/display/docs/program+schedule+view).
+Depois que o evento for criado, crie as [páginas de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulários](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [emails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) para convidar os convidados! Familiarize-se também com a [exibição do cronograma do programa](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

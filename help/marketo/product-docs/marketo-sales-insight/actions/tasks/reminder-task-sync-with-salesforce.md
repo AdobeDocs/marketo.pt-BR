@@ -14,7 +14,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Para saber como habilitar o check-out da Sincronização de Tarefas [Sincronizar tarefas/lembretes de ações do Sales Insight com tarefas do Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Para saber como habilitar a Sincronização de Tarefas, confira [Sincronizar Tarefas/Lembretes de Ações de Insight de Vendas com Tarefas do Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 Quando as configurações de sincronização de tarefas estiverem habilitadas, os usuários verão suas tarefas de lembrete sincronizadas bidirecionalmente com o Salesforce. Isso significa que os usuários podem gerenciar tarefas das ações Salesforce ou Sales Insight e ter certeza de que os sistemas permanecerão alinhados.
 
@@ -63,7 +63,7 @@ Abaixo está uma lista dos campos de tarefa de lembrete em Ações do Sales Insi
 
 ## Sincronizando pela primeira vez as tarefas de ações do Sales Insight com o Salesforce {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-Quando você ativa a sincronização entre as Ações do Sales Insight e as tarefas do Salesforce pela primeira vez, importamos suas tarefas do Salesforce. Iremos **não** insira quaisquer tarefas atuais que você tenha em Ações do Sales Insight no Salesforce. Para reduzir a desordem e as duplicatas, as únicas tarefas que são sincronizadas das Ações de insight de vendas no Salesforce são as tarefas criadas *após* sincronize as ações do Sales Insight com o SFDC.
+Quando você ativa a sincronização entre as Ações do Sales Insight e as tarefas do Salesforce pela primeira vez, importamos suas tarefas do Salesforce. Nós **não** transferiremos quaisquer tarefas atuais que você tenha em Ações de insights de vendas para o Salesforce. Para reduzir a desordem e as duplicatas, as únicas tarefas que são sincronizadas das Ações do Sales Insight no Salesforce são tarefas criadas *depois* de você sincronizar as Ações do Sales Insight com o SFDC.
 
 Veja o que acontece quando você sincroniza as Ações do Sales Insight e as tarefas do SFDC:
 
@@ -77,8 +77,8 @@ Veja o que acontece quando você sincroniza as Ações do Sales Insight e as tar
 
 Após a sincronização inicial, todas as tarefas que você criar, editar, concluir ou excluir nas Ações do Sales Insight serão sincronizadas com sua lista de tarefas no Salesforce. Qualquer coisa criada, editada, concluída ou excluída no Salesforce atualizará sua lista de tarefas em Ações de insight de vendas.
 
-Para ativar esta sincronização, marque a caixa de sincronização no [Página Configurações](https://toutapp.com/login) no aplicativo web.
+Para ativar esta sincronização, marque a caixa de sincronização na [página Configurações](https://toutapp.com/login) do aplicativo Web.
 
 >[!NOTE]
 >
->O campo assunto de uma tarefa pode ser atualizado em Ações de Insight de vendas e essa atualização será sincronizada no campo assunto do Salesforce da tarefa sincronizada correspondente, se você estiver usando o `{{activity_subject}}` campo dinâmico no seu [Personalização dos detalhes da atividade](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) configurações. Por outro lado, quaisquer atualizações feitas no campo de assunto no Salesforce _não_ sincronizar para o campo de assunto da tarefa de lembrete de Ações do Sales Insight.
+>O campo de assunto de uma tarefa pode ser atualizado em Ações de Insight de vendas e essa atualização será sincronizada no campo de assunto do Salesforce para a tarefa sincronizada correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` nas configurações de [Personalização de detalhes da atividade](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Por outro lado, qualquer atualização feita no campo de assunto no Salesforce _não_ sincronizará com o campo de assunto da tarefa de lembrete de Ações do Sales Insight.

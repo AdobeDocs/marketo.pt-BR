@@ -18,7 +18,7 @@ Veja uma lista de todas as tarefas e seus detalhes de acompanhamento, incluindo 
 
    ![](assets/activity-log-1.png)
 
-1. Clique em **[!UICONTROL Log de atividades]** guia.
+1. Clique na guia **[!UICONTROL Log de atividades]**.
 
    ![](assets/activity-log-2.png)
 

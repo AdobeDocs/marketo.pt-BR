@@ -16,15 +16,15 @@ Você pode adicionar botões do Marketo aos seus Layouts do Salesforce. Veja um 
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Clique em **Configuração**. Procure por &quot;layout de pesquisa&quot; e clique no link **Layouts de pesquisa** em **Clientes potenciais**.
+1. Clique em **Instalação**. Procure por &quot;layout de pesquisa&quot; e clique em **Layouts de Pesquisa** em **Clientes Potenciais**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Clique em **Editar** no **Exibição da lista de clientes potenciais** linha.
+1. Clique em **Editar** na **Exibição da lista de clientes potenciais** linha.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Adicionar **Adicionar ao Marketo Campaign**, **Enviar email do Marketo**, e **Adicionar à lista de observação** botões para **Botões Selecionados** e **Salvar**.
+1. Adicione **Adicionar à Campanha do Marketo**, **Enviar Email do Marketo** e **Adicionar à Lista de Interesse** aos **Botões Selecionados** e **Salvar**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

@@ -6,7 +6,7 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '454'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Suas Melhores Opções são seus leads e contatos com a maior urgência e pontua
 
 >[!NOTE]
 >
->Se suas melhores opções não corresponderem aos seus clientes em potencial e contatos, fale com alguém em sua empresa que tenha acesso à Marketo sobre como atualizar seus [Regras de pontuação](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Se suas melhores opções não corresponderem aos seus clientes em potencial e contatos, fale com alguém da sua empresa que tenha acesso à Marketo sobre a atualização das suas [Regras de Pontuação](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Como a urgência e a pontuação relativa são calculadas
 

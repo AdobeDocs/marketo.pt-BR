@@ -21,6 +21,6 @@ Siga estas etapas simples para excluir um modelo.
 
 1. Selecione o modelo que deseja remover.
 
-1. Clique no menu suspenso no canto superior direito e clique em **Excluir**.
+1. Clique no menu suspenso no canto superior direito e em **Excluir**.
 
 1. Clique em **Excluir** para confirmar.

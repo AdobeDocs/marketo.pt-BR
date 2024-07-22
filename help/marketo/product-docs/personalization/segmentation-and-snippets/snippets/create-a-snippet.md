@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Criar um trecho {#create-a-snippet}
 
-Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e **landing pages**.
+Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e **páginas de aterrissagem**.
 
-1. Vá para a **Design Studio.**
+1. Vá para o **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Clique em **Novo** e depois **Novo trecho**.
+1. Clique em **Novo** e em **Novo trecho**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,9 +27,9 @@ Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e *
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Bom trabalho! Simplifique o seu trabalho criando trechos para o seu conteúdo dinâmico. Agora você pode seguir em frente e [adicionar conteúdo ao novo trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Bom trabalho! Simplifique o seu trabalho criando trechos para o seu conteúdo dinâmico. Agora você pode [adicionar conteúdo ao seu novo trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
 >* [Adicionar conteúdo a um trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
->* [Compreensão do conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
+>* [Noções básicas sobre conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

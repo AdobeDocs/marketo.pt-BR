@@ -19,7 +19,7 @@ Quando tiver ativado o LinkedIn Lead Gen Forms, você poderá usá-los como filt
 >
 >Quando as pessoas enviam suas informações em um Formulário do Lead Gen da LinkedIn, essas informações são enviadas para a Marketo imediatamente, disponibilizando o formulário no menu suspenso Nome do formulário do Lead Gen. Os nomes dos formulários não estarão visíveis até que pelo menos uma pessoa tenha enviado o formulário.
 
-1. Use o **Preenche O Formulário De Geração De Clientes Potenciais Da LinkedIn** acione a ação imediatamente ou o **Formulário de geração de clientes potenciais da LinkedIn preenchido** filtrar para campanhas em lote agendadas ou filtragem de lista inteligente padrão.
+1. Use o gatilho **Preencher Formulário do Lead Gen da LinkedIn** para realizar uma ação imediatamente ou o filtro **Preencher Formulário do Lead Gen da LinkedIn** para campanhas em lote agendadas ou filtragem de lista inteligente padrão.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 

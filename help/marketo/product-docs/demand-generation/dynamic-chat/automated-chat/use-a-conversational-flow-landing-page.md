@@ -17,17 +17,17 @@ Incorporar um fluxo de conversa de Dynamic Chat diretamente em uma página de at
 
 >[!PREREQUISITES]
 >
->Criar uma [Fluxo de conversa](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) que contenha apenas um **Reserva da reunião** cartão.
+>Crie um [Fluxo de Conversação](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) simples que contenha apenas um cartão **Reserva de reunião**.
 
 ## Páginas de aterrissagem guiadas {#guided-landing-pages}
 
-Incorpore o seguinte código ao modelo de Página de aterrissagem guiada: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
+Incorpore o seguinte código no modelo de Página de Aterrissagem Guiada: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
 
 Abra o modelo Página de aterrissagem guiada no editor e selecione o espaço reservado para Fluxo de conversa.
 
 Clique no menu suspenso Fluxo de conversa e selecione o CF criado na Etapa 1.
 
-Sempre manter Tipo de Entrega como **Em linha**. Clique em **Inserir**.
+Sempre manter o Tipo de Entrega como **Em linha**. Clique em **Inserir**.
 
 O Fluxo de conversa que você acabou de inserir será exibido como um Elemento à direita.
 

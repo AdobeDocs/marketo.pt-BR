@@ -16,12 +16,12 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
 >[!PREREQUISITES]
 >
->* [Editar a função da API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} para garantir que tenha a **Pessoa de leitura-gravação** permissão (encontrada no menu suspenso Access API).
->* [Criar um usuário da API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} no Marketo.
->* Ir para **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Encontre o nome da função que acabou de criar e clique em **[!UICONTROL Exibir detalhes]**. Copiar e salvar as informações em **[!UICONTROL ID do cliente]** e **[!UICONTROL Segredo do cliente]**, pois pode ser necessário para a Etapa 7.
+>* [Edite a Função de API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} para verificar se ela tem a permissão **Pessoa de Leitura-Gravação** (localizada no menu suspenso Access API).
+>* [Criar um Usuário de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} no Marketo.
+>* Vá para **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Encontre o nome da função que você acabou de criar e clique em **[!UICONTROL Exibir Detalhes]**. Copie e salve as informações na **[!UICONTROL ID do Cliente]** e no **[!UICONTROL Segredo do Cliente]**, como você poderia precisar para a Etapa 7.
 >* No Marketo, crie uma lista estática ou localize e selecione uma que você já criou. Você precisará da ID dele.
 
-1. Efetue logon no [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
+1. Faça logon no [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
@@ -52,13 +52,13 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Se você estiver escolhendo Nova conta, poderá encontrar sua ID do Munchkin acessando **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (também faz parte do URL do Marketo depois de conectado). ID/segredo do cliente que você deve ter seguindo os pré-requisitos na parte superior deste artigo.
+   >Se você estiver escolhendo Nova Conta, poderá encontrar sua ID do Munchkin em **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (também faz parte da URL da Marketo depois de conectado). ID/segredo do cliente que você deve ter seguindo os pré-requisitos na parte superior deste artigo.
 
 1. Escolha a conta de destino e clique em **[!UICONTROL Selecionar]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Inserir um destino **[!UICONTROL Nome]** e uma Descrição opcional. Clique na lista suspensa Criação de pessoas e escolha &quot;Corresponder pessoas existentes do Marketo e Criar pessoas ausentes no Marketo&quot; _ou_ &quot;Corresponder somente a pessoas existentes do Marketo&quot; (neste exemplo, estamos escolhendo o anterior). Você também deve escolher um **[!UICONTROL Workspace]**.
+1. Insira um **[!UICONTROL Nome]** de Destino e uma Descrição opcional. Clique na lista suspensa Criação de pessoas e escolha &quot;Corresponder pessoas existentes do Marketo e Criar pessoas ausentes no Marketo&quot; _ou_ &quot;Corresponder somente pessoas existentes do Marketo&quot; (neste exemplo, estamos escolhendo a primeira). Você também deve escolher um **[!UICONTROL Workspace]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -70,11 +70,11 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
-1. Selecione o destino criado e clique em **[!UICONTROL Próxima]**.
+1. Selecione o destino criado e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-11.png)
 
-1. Escolha o segmento que deseja enviar para o Marketo e clique em **[!UICONTROL Próxima]**.
+1. Escolha o segmento que deseja enviar para o Marketo e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
 
@@ -100,13 +100,13 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use o [Descrever solicitação de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
+   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
 
-1. Mapeie o Sobrenome e o Nome da empresa clicando em **[!UICONTROL Adicionar Novo Mapeamento]** novamente e repetindo a Etapa 15 duas vezes, escolhendo **[!UICONTROL lastName]** e depois **[!UICONTROL companyName]**.
+1. Mapeie o Sobrenome e o Nome da Empresa clicando em **[!UICONTROL Adicionar Novo Mapeamento]** novamente e repita a Etapa 15 duas vezes, escolhendo **[!UICONTROL lastName]** e depois **[!UICONTROL companyName]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
-1. Agora é hora de mapear o endereço de email. Clique em **[!UICONTROL Adicionar Novo Mapeamento]** novamente.
+1. Agora é hora de mapear o endereço de email. Clique novamente em **[!UICONTROL Adicionar novo mapeamento]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-17.png)
 
@@ -114,19 +114,19 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    ![](assets/push-an-adobe-experience-platform-segment-18.png)
 
-1. Clique no botão de opção Selecionar namespace de identidade e escolha **[!UICONTROL E-mail]** e, em seguida, clique em **[!UICONTROL Selecionar]**.
+1. Clique no botão de opção Selecionar Namespace de Identidade, escolha **[!UICONTROL Email]** e clique em **[!UICONTROL Selecionar]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
    >[!IMPORTANT]
    >
-   >Mapeamento de email e/ou ECID do **[!UICONTROL Namespace de identidade]** A guia é a coisa mais importante a ser feita para garantir que a pessoa corresponda no Marketo. O mapeamento de email garantirá a mais alta taxa de correspondência.
+   >Mapear o email e/ou a ECID da guia **[!UICONTROL Namespace de identidade]** é a coisa mais importante a ser feita para garantir que a pessoa corresponda no Marketo. O mapeamento de email garantirá a mais alta taxa de correspondência.
 
 1. Agora é hora de escolher os campos de origem. Para email, clique no ícone de cursor.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
 
-1. Clique no botão de opção Selecionar namespace de identidade, localize e selecione **[!UICONTROL E-mail]** e, em seguida, clique em **[!UICONTROL Selecionar]**.
+1. Clique no botão de opção Selecionar Namespace de Identidade, localize e selecione **[!UICONTROL Email]** e clique em **[!UICONTROL Selecionar]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
@@ -134,18 +134,18 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
-1. Deixe marcado o botão de opção Selecionar atributos. Procure por &quot;empresa&quot; e selecione **[!UICONTROL companyName]** e, em seguida, clique em **[!UICONTROL Selecionar]**.
+1. Deixe marcado o botão de opção Selecionar atributos. Procure por &quot;empresa&quot; e selecione **[!UICONTROL companyName]** e clique em **[!UICONTROL Selecionar]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-1. Mapeie os campos de origem para Sobrenome e Nome clicando no ícone do cursor para cada um e repita a Etapa 23 duas vezes, escolhendo **[!UICONTROL lastName]** e depois **[!UICONTROL firstName]**.
+1. Mapeie os campos de origem para Sobrenome e Nome clicando no ícone de cursor para cada e repita a Etapa 23 duas vezes, escolhendo **[!UICONTROL lastName]** e depois **[!UICONTROL firstName]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. Clique em **[!UICONTROL Próxima]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Revise as alterações e clique em **[!UICONTROL Concluir]**.
+1. Revise suas alterações e clique em **[!UICONTROL Concluir]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)

@@ -19,7 +19,7 @@ As campanhas só podem ser compartilhadas se estiverem visíveis. Veja como faze
 
    ![](assets/one.png)
 
-1. Clique em **Lista inteligente** guia.
+1. Clique na guia **Smart List**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ As campanhas só podem ser compartilhadas se estiverem visíveis. Veja como faze
 
    ![](assets/three.png)
 
-1. Para origem, escolha &quot;é&quot; **API do serviço Web**.
+1. Para origem, escolha &quot;is&quot; **API de Serviço da Web**.
 
    ![](assets/4.png)
 
-1. Clique em **Fluxo** guia.
+1. Clique na guia **Fluxo**.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ As campanhas só podem ser compartilhadas se estiverem visíveis. Veja como faze
 
    ![](assets/six.png)
 
-1. Em Tipo, selecione **Web**.
+1. Para Tipo, selecione **Web**.
 
    ![](assets/seven.png)
 
@@ -47,6 +47,6 @@ As campanhas só podem ser compartilhadas se estiverem visíveis. Veja como faze
 
    ![](assets/eight.png)
 
-1. Clique em **Agendar** e **Ativar** a campanha.
+1. Clique na guia **Agendar** e **Ativar** a campanha.
 
    ![](assets/nine.png)

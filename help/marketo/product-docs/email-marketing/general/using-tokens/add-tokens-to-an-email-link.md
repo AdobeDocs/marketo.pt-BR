@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Para inserir parâmetros extras e específicos de pessoas em seus links, é possível usar tokens. Veja como.
 
-1. Selecione seu email e clique no link **Editar rascunho** guia.
+1. Selecione seu email e clique na guia **Editar rascunho**.
 
    ![](assets/one.png)
 
@@ -23,7 +23,7 @@ Para inserir parâmetros extras e específicos de pessoas em seus links, é poss
 
    ![](assets/two.png)
 
-1. Localize ou escreva o texto para o link. Realce-a e clique no botão **Inserir/Editar link** ícone.
+1. Localize ou escreva o texto para o link. Destaque-o e clique no ícone **Inserir/Editar link**.
 
    ![](assets/three.png)
 
@@ -39,4 +39,4 @@ Para inserir parâmetros extras e específicos de pessoas em seus links, é poss
 
 >[!MORELIKETHIS]
 >
->[Utilização de URLs em Meus tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+>[Usando URLs em Meus Tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

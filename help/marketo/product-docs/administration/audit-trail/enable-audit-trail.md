@@ -7,7 +7,7 @@ feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,15 +21,15 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
 
 ## Ativar trilha de auditoria para uma função {#enable-audit-trail-for-a-role}
 
-1. Clique em **[!UICONTROL Admin]**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/enable-audit-trail-1.png)
 
-1. Selecionar **[!UICONTROL Usuários e funções]** e clique em **[!UICONTROL Funções]**.
+1. Selecione **[!UICONTROL Usuários e funções]** e clique em **[!UICONTROL Funções]**.
 
    ![](assets/enable-audit-trail-2.png)
 
-1. Selecione a função para a qual deseja habilitar a Trilha de auditoria e clique em **[!UICONTROL Editar Função]**.
+1. Selecione a função para a qual você deseja habilitar a Trilha de Auditoria e clique em **[!UICONTROL Editar Função]**.
 
    ![](assets/enable-audit-trail-3.png)
 
@@ -37,7 +37,7 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
    >
    >Você também tem a opção aqui de criar uma nova função e conceder a ela acesso à Trilha de auditoria.
 
-1. Expanda a **[!UICONTROL Administrador de acesso]** permissão. Selecionar **[!UICONTROL Acessar trilha de auditoria]** e/ou **[!UICONTROL Acessar histórico de logon]**, dependendo das suas necessidades. Clique em **[!UICONTROL Salvar]**.
+1. Expanda a permissão **[!UICONTROL Acessar Administrador]**. Selecione **[!UICONTROL Acessar trilha de auditoria]** e/ou **[!UICONTROL Acessar histórico de logon]**, dependendo das suas necessidades. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -45,21 +45,21 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
    >
    >**Definição**
    >
-   >**[!UICONTROL Acessar trilha de auditoria]**: oferece aos usuários acesso a [!UICONTROL Registro de auditoria do ativo] e [!UICONTROL Registro de auditoria do administrador].
+   >**[!UICONTROL Trilha de Auditoria de Acesso]**: Dá aos usuários acesso à [!UICONTROL Trilha de Auditoria de Ativos] e à [!UICONTROL Trilha de Auditoria de Admin].
    >
-   >**[!UICONTROL Acessar histórico de logon]**: oferece aos usuários acesso a [Histórico de logon do usuário](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
+   >**[!UICONTROL Acessar Histórico de Logon]**: Dá aos usuários acesso ao [Histórico de Logon do Usuário](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## Atribuir função de trilha de auditoria a um usuário {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Criar](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) ou [habilitar](#enable-audit-trail) uma função existente, fornecendo permissões de Trilha de auditoria.
+>[Crie](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) ou [habilite](#enable-audit-trail) uma função existente, concedendo a ela permissões de Trilha de Auditoria.
 
-1. Entrada **[!UICONTROL Usuários e funções]**, clique em **[!UICONTROL Usuários]**.
+1. Em **[!UICONTROL Usuários e funções]**, clique em **[!UICONTROL Usuários]**.
 
    ![](assets/enable-audit-trail-5.png)
 
-1. Selecione o usuário ao qual você deseja conceder acesso à Trilha de auditoria e clique em **[!UICONTROL Editar Usuário]**.
+1. Selecione o usuário ao qual você deseja conceder acesso ao registro de auditoria e clique em **[!UICONTROL Editar usuário]**.
 
    ![](assets/enable-audit-trail-6.png)
 
@@ -73,7 +73,7 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
 
    >[!CAUTION]
    >
-   >Se você tiver espaços de trabalho ativados, certifique-se de marcar a caixa de seleção da função, que seleciona todos os espaços de trabalho. Desmarcar um espaço de trabalho individual ocultará a Trilha de auditoria. Isso significa que você verá os dados da Trilha de auditoria para cada espaço de trabalho. Você tem a opção de ocultar espaços de trabalho ao [filtragem](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Se você tiver espaços de trabalho ativados, certifique-se de marcar a caixa de seleção da atribuição, que seleciona todos os espaços de trabalho. Desmarcar um espaço de trabalho individual ocultará a Trilha de auditoria. Isso significa que você verá os dados da Trilha de auditoria para cada espaço de trabalho. Você tem a opção de ocultar espaços de trabalho ao [filtrar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Clique em **[!UICONTROL Salvar]**.
 

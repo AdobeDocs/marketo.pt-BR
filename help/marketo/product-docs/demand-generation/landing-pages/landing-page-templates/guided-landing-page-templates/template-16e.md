@@ -6,14 +6,14 @@ exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Modelo 16-E {#template-16e}
 
-Clique com o botão direito do mouse para [baixar modelo 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
+Clique com o botão direito do mouse para [baixar o Modelo 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 

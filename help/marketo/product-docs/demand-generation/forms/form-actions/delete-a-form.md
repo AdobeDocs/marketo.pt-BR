@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Se você tiver um formulário de que não precisa e que não está sendo usado, é possível excluí-lo. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Se você tiver um formulário de que não precisa e que não está sendo usado, 
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Em **Ações do formulário**, clique em **Excluir Formulário**.
+1. Em **Ações de formulário**, clique em **Excluir formulário**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -41,4 +41,4 @@ Se você tiver um formulário de que não precisa e que não está sendo usado, 
 
 >[!CAUTION]
 >
->Se você excluir um formulário que está sendo usado pelo seu site público, não verá um aviso e o formulário será corrompido. Considere  [arquivá-la](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) em vez disso.
+>Se você excluir um formulário que está sendo usado pelo seu site público, não verá um aviso e o formulário será corrompido. Considere [arquivá-lo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).

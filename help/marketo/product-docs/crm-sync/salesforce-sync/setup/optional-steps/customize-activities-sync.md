@@ -15,11 +15,11 @@ ht-degree: 12%
 
 Se você não usar o Marketo Sales Insight, o Marketo Engage poderá criar registros do histórico de atividades do Salesforce para determinados eventos. Veja como ativá-los.
 
-1. Ir para **[!UICONTROL Admin]**.
+1. Vá para **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Clique em **[!DNL Salesforce]** e, em seguida, clique em **[!UICONTROL Editar Opções de Sincronização]**.
+1. Clique em **[!DNL Salesforce]** e em **[!UICONTROL Editar Opções de Sincronização]**.
 
    ![](assets/two-1.png)
 
@@ -29,7 +29,7 @@ Se você não usar o Marketo Sales Insight, o Marketo Engage poderá criar regis
 
    >[!NOTE]
    >
-   >Depois de habilitado, o Marketo enviará o histórico de atividades correspondente a três meses. Dependendo da quantidade de dados, _isso pode levar vários dias para ser concluído_. As atualizações que ocorrem durante o push inicial de Atividades podem ser atrasadas até que a sincronização inicial de Atividades seja concluída.
+   >Depois de habilitado, o Marketo enviará o histórico de atividades correspondente a três meses. Dependendo da quantidade de dados, _a conclusão pode demorar vários dias_. As atualizações que ocorrem durante o push inicial de Atividades podem ser atrasadas até que a sincronização inicial de Atividades seja concluída.
 
 <table> 
  <colgroup> 
@@ -44,7 +44,7 @@ Se você não usar o Marketo Sales Insight, o Marketo Engage poderá criar regis
  </thead> 
  <tbody> 
   <tr> 
-   <td>Formulário preenchido</td> 
+   <td>Preencheu formulário</td> 
    <td>Preencheu qualquer formulário do Marketo</td> 
   </tr> 
   <tr> 
@@ -64,7 +64,7 @@ Se você não usar o Marketo Sales Insight, o Marketo Engage poderá criar regis
    <td>Abertura de um email (sem bloqueio de imagens)</td> 
   </tr> 
   <tr> 
-   <td>Clicou no link no email</td> 
+   <td>Clicou em link de e-mail</td> 
    <td>Clicou em um link em um email enviado pelo Marketo</td> 
   </tr> 
   <tr> 
@@ -96,8 +96,8 @@ Se você não usar o Marketo Sales Insight, o Marketo Engage poderá criar regis
 
 >[!NOTE]
 >
->&quot;E-mail de vendas recebido&quot; faz _não_ média de entrega. O status de Entregue não é capturado para emails enviados pelo Sales Insight.
+>&quot;Email de vendas recebido&quot; _não_ significa entregue. O status de Entregue não é capturado para emails enviados pelo Sales Insight.
 
 >[!TIP]
 >
->Se você estiver interessado em obter mais informações sobre o Marketo no Salesforce, consulte nossa [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} produto.
+>Se você estiver interessado em obter mais informações do Marketo no Salesforce, confira nosso produto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.

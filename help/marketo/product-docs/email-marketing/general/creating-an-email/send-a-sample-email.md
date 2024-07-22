@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Enviar um email de amostra {#send-a-sample-email}
 
-É rápido e fácil enviar amostras de um email. Para enviar um email de conteúdo dinâmico, consulte [Pré-visualizar um email com conteúdo dinâmico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+É rápido e fácil enviar amostras de um email. Para enviar um email de conteúdo dinâmico, consulte [Visualizar um Email com Conteúdo Dinâmico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->Você deve ter o **Acessar Banco de Dados - Executar Ações de Fluxo Único** permissão para enviar emails de amostra.
+>Você deve ter a permissão **Acessar Banco de Dados - Executar Ações de Fluxo Único** para enviar emails de amostra.
 
 ## Enviar um email de amostra {#send-a-sample-email-1}
 
-1. Localize e selecione seu email. Clique em **Ações de email** e selecione **Enviar amostra**.\
+1. Localize e selecione seu email. Clique no menu suspenso **Ações de email** e selecione **Enviar Amostra**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -38,15 +38,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Se você quiser resolver tokens como uma pessoa específica, escolha essa pessoa na **lista suspensa pessoa** na Etapa 2.
+   >Se você quiser resolver tokens como uma pessoa específica, escolha essa pessoa no menu suspenso **pessoa** na Etapa 2.
 
 ## Enviar um email de amostra ao editar {#send-a-sample-email-while-editing}
 
-1. Localize o email, selecione-o e clique no link **Editar rascunho** guia.
+1. Encontre seu email, selecione-o e clique na guia **Editar rascunho**.
 
    ![](assets/three-281-29.jpg)
 
-1. Clique em **Ações de email**, selecione **Enviar amostra**.
+1. Clique em **Ações de email**, selecione **Enviar Amostra**.
 
    ![](assets/four.png)
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >O campo de acionamento só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
+   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar um email de amostra com base em um segmento {#send-a-sample-email-based-on-a-segment}
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 >
 >[Aplicar segmentação ao email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Localize o email, selecione-o e clique no link **Editar rascunho** guia.
+1. Encontre seu email, selecione-o e clique na guia **Editar rascunho**.
 
    ![](assets/three-281-29.jpg)
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. Clique em **Visualizar por** e selecione **Segmentação**.
+1. Clique no menu suspenso **Exibir por** e selecione **Segmentação**.
 
    ![](assets/2.png)
 
@@ -90,6 +90,6 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Você também pode enviar um email de amostra com base em um segmento no modo de edição do seu email. Clique em **Ações de email** selecione **Enviar amostra**, em seguida, escolha seu segmento.
+   >Você também pode enviar um email de amostra com base em um segmento no modo de edição do seu email. Clique no menu suspenso **Ações de email**, selecione **Enviar Amostra** e escolha seu segmento.
 
 É muito importante obter uma amostra do seu conteúdo antes de lançar uma campanha. Meça duas vezes, corte uma vez!

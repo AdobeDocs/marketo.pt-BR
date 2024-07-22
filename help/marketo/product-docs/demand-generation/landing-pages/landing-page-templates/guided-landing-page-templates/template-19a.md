@@ -6,14 +6,14 @@ exl-id: 365b4442-da1b-4346-b0a4-2512b46f8677
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 1%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
 # Modelo 19A {#template-19a}
 
-Clique com o botão direito do mouse para [baixar modelo 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
+Clique com o botão direito para [baixar o Modelo 19A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19a.html)
 
 ![](assets/image2015-9-16-16-3a46-3a31.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Altere sua senha do Marketo com estas etapas simples.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/change-your-marketo-password-1.png)
 
@@ -27,7 +27,7 @@ Altere sua senha do Marketo com estas etapas simples.
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. Digite a Senha antiga e a Nova senha e clique em **[!UICONTROL Salvar]**.
+1. Digite a Senha Antiga e a Nova Senha e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/change-your-marketo-password-4.png)
 

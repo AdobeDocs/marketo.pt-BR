@@ -6,7 +6,7 @@ exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
 source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '221'
 ht-degree: 2%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 2%
 
 Na verdade, há vários tipos diferentes de cancelamentos de assinatura integrados no Marketo. Todos são representados por campos no objeto pessoa, como Nome.
 
-Todos esses campos são incorporados à sua assinatura do Marketo. Todos são do tipo booleano (caixa de seleção). Eles podem ser usados no Forms ou [Alterar valor dos dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) etapas de fluxo.
+Todos esses campos são incorporados à sua assinatura do Marketo. Todos são do tipo booleano (caixa de seleção). Eles podem ser usados nas etapas de fluxo Forms ou [Alterar Valor de Dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Inscrição cancelada {#unsubscribed}
 
-Isso é usado na página de cancelamento de inscrição padrão. Se uma pessoa marcar essa caixa ou clicar no link de cancelamento de inscrição em um email, ela não receberá mais emails de marketing. No entanto, receberão [emails operacionais](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+Isso é usado na página de cancelamento de inscrição padrão. Se uma pessoa marcar essa caixa ou clicar no link de cancelamento de inscrição em um email, ela não receberá mais emails de marketing. No entanto, eles receberão [emails operacionais](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-## Marketing suspenso {#marketing-suspended}
+## Campanha de marketing suspensa {#marketing-suspended}
 
 Este campo é definido pelo usuário para colocar pessoas em um cancelamento de inscrição temporário. As pessoas só poderão atingir esse status se forem alteradas manualmente ou se uma etapa do fluxo de alteração de valor de dados for utilizada.
 
@@ -35,6 +35,6 @@ Este status bloqueia a correspondência de uma pessoa por 24 horas após uma rej
 
 ## Incluído na lista de bloqueios {#blocklisted}
 
-[Use isso para pessoas como concorrentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Qualquer pessoa que você quiser receber **não** e-mails — operacionais, de marketing etc. Eles não ganham nada!
+[Use isto para pessoas como concorrentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Qualquer pessoa que quiser receber emails **não**—operacional, de marketing etc. Eles não ganham nada!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

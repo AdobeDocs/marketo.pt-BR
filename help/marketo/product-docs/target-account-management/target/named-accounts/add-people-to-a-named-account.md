@@ -17,7 +17,7 @@ Há três maneiras diferentes de adicionar pessoas manualmente a uma conta nomea
 
 ## Ação de fluxo único {#single-flow-action}
 
-1. Clique em **Banco de dados**.
+1. Clique em **Banco de Dados**.
 
    ![](assets/one-2.png)
 
@@ -25,17 +25,17 @@ Há três maneiras diferentes de adicionar pessoas manualmente a uma conta nomea
 
    ![](assets/two.png)
 
-1. Clique na pessoa para selecioná-la. Clique em **Ações da pessoa** , clique em **Marketing** e selecione **Adicionar à Conta Nomeada**.
+1. Clique na pessoa para selecioná-la. Clique no menu suspenso **Ações da pessoa**, clique em **Marketing** e selecione **Adicionar à conta nomeada**.
 
    ![](assets/three.png)
 
-1. Clique em **Conta nomeada** selecione a Conta nomeada desejada e clique em **Executar agora**.
+1. Clique no menu suspenso **Conta Nomeada**, selecione a Conta Nomeada desejada e clique em **Executar Agora**.
 
    ![](assets/four.png)
 
 ## Etapa de fluxo de campanha inteligente {#smart-campaign-flow-step}
 
-1. Selecione a Campanha inteligente e clique em **Fluxo**.
+1. Selecione sua Campanha inteligente e clique em **Fluxo**.
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ Há três maneiras diferentes de adicionar pessoas manualmente a uma conta nomea
 
    ![](assets/seven.png)
 
-1. Clique em **Conta nomeada** e selecione a Conta nomeada desejada.
+1. Clique no menu suspenso **Conta nomeada** e selecione a Conta Nomeada desejada.
 
    ![](assets/eight.png)
 
@@ -55,15 +55,15 @@ Há três maneiras diferentes de adicionar pessoas manualmente a uma conta nomea
 
 ## Importação de lista {#list-import}
 
-1. Selecione sua lista, clique no botão **Ações da lista** e selecione **Importar lista**.
+1. Selecione sua lista, clique no menu suspenso **Ações de Lista** e selecione **Importar Lista**.
 
    ![](assets/nine.png)
 
-1. Depois de escolher o arquivo e as configurações, clique em **Próxima**.
+1. Depois de escolher o arquivo e as configurações, clique em **Avançar**.
 
    ![](assets/ten.png)
 
-1. Mapeie os campos desejados. Verifique se **Conta nomeada** o campo é mapeado.
+1. Mapeie os campos desejados. Verifique se o campo **Conta Nomeada** está mapeado.
 
    ![](assets/eleven.png)
 

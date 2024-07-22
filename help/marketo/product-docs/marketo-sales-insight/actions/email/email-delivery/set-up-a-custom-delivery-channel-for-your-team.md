@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Além de configurar o servidor SMTP, o [a identidade do email deve ser verificada](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) antes de enviar emails.
+>* Além de configurar o servidor SMTP, sua [identidade de email deve ser verificada](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) antes que você possa enviar emails.
 >* Recomendamos trabalhar com sua equipe de TI ou fornecedor de servidor SMTP para obter as credenciais de servidor corretas para seu servidor SMTP.
 >* Não é possível conectar o servidor Gmail e Exchange usando as credenciais do servidor SMTP. Use nosso serviço de conexão de email para integrar com esses provedores.
 
@@ -26,15 +26,15 @@ ht-degree: 0%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Em Configurações do administrador, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Clique em **Canal de entrega da equipe** guia.
+1. Clique na guia **Canal de entrega da equipe**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. Insira suas credenciais do servidor SMTP e clique em **Conectar**.
+1. Insira suas credenciais do Servidor SMTP e clique em **Conectar**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [Conexão de email para usuários do Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [Conexão de email para usuários do Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [Conexão de Email para Usuários do Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

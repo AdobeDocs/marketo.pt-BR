@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Com essa integração, você pode enviar dados de público-alvo de Marketo Engage estático e Smart Lists para o Facebook para serem usados como Públicos-alvo personalizados em Campanhas de anúncios do Facebook. Veja como configurar isso.
 
-1. Ir para o Marketo **[!UICONTROL Admin]**.
+1. Vá para o **[!UICONTROL Administrador]** do Marketo.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Ir para **[!UICONTROL LaunchPoint]**, clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo serviço]**.
+1. Vá para **[!UICONTROL LaunchPoint]**, clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo Serviço]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Insira um **[!UICONTROL Nome de exibição]** para o seu serviço e selecione o **[!UICONTROL Públicos-alvo personalizados do facebook]** serviço do **[!UICONTROL Serviço]** menu suspenso.
+1. Insira um **[!UICONTROL Nome para Exibição]** para seu serviço e selecione o serviço **[!UICONTROL Públicos-alvo Personalizados do Facebook]** no menu suspenso **[!UICONTROL Serviço]**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -35,7 +35,7 @@ Com essa integração, você pode enviar dados de público-alvo de Marketo Engag
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie públicos-alvo em várias contas do Ad Manager, o usuário do Facebook autorizado nas etapas a seguir precisa ter acesso a *all* dessas contas.
+   >Para que o Marketo envie públicos-alvo através de várias contas do Ad Manager, o usuário do Facebook autorizado nas etapas a seguir precisa ter acesso a *todas* dessas contas.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
@@ -45,7 +45,7 @@ Com essa integração, você pode enviar dados de público-alvo de Marketo Engag
 
    >[!NOTE]
    >
-   >Você _deve_ use uma conta do Facebook Business Manager para que a integração de Públicos personalizados funcione. Para saber como configurar uma conta do Business Manager, consulte [Ajuda do facebook](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
+   >Você _deve_ usar uma conta do Facebook Business Manager para que a integração de Públicos personalizados funcione. Para saber como configurar uma conta do Business Manager, consulte a [Ajuda do Facebook](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
 
 1. Se solicitado, clique em **[!UICONTROL OK]** para aceitar a instalação do aplicativo Marketo no Facebook.
 
@@ -55,7 +55,7 @@ Com essa integração, você pode enviar dados de público-alvo de Marketo Engag
 
    >[!NOTE]
    >
-   >**Correspondência básica** O usa somente endereços de email. **Correspondência avançada** O usa sete campos adicionais, o que aumenta a taxa de correspondência, para obter mais conversão. No entanto, se a política de privacidade da sua empresa não permitir o compartilhamento de campos adicionais ou se os dados não os incluírem, selecione Correspondência básica.
+   >**Correspondência Básica** usa apenas endereços de email. **Correspondência avançada** usa sete campos adicionais, o que aumenta a taxa de correspondência, para mais conversão. No entanto, se a política de privacidade da sua empresa não permitir o compartilhamento de campos adicionais ou se os dados não os incluírem, selecione Correspondência básica.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Com essa integração, você pode enviar dados de público-alvo de Marketo Engag
 
    >[!CAUTION]
    >
-   >Oh, antes de ir, certifique-se de [Aceitar os termos de públicos-alvo personalizados da Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} na sua conta da Facebook. Sem fazer isso, as atualizações de público-alvo falharão.
+   >Oh, antes de ir, certifique-se de [Aceitar os Termos de Públicos-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} em sua conta do Facebook! Sem fazer isso, as atualizações de público-alvo falharão.
 
 >[!MORELIKETHIS]
 >

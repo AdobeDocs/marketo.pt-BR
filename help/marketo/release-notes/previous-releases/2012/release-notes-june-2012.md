@@ -6,7 +6,7 @@ exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Nas páginas existentes de resumo do Programa e da Campanha, adicionamos também
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Usado por para ativos {#used-by-for-assets}
+## Usado por para o Assets {#used-by-for-assets}
 
 Adicionamos uma nova guia às Páginas de resumo de ativos, chamada Usado por!
 
@@ -65,7 +65,7 @@ Ao agendar uma campanha, você pode clicar no link para ver a lista de clientes 
 
 ## Etapa de espera - Token de lead e meu token {#wait-step-lead-token-and-my-token}
 
-Na versão de maio, adicionamos opções avançadas à etapa Fluxo de espera. Com essas alterações, você pode especificar um dia, data e hora úteis. Nesta versão, adicionamos a capacidade de usar um token na etapa de espera. Por exemplo, talvez você queira usar `{{lead.Birthday}}` para enviar um email no aniversário ou use `{{my.Event Date}}` para enviar um lembrete final do webinário.
+Na versão de maio, adicionamos opções avançadas à etapa Fluxo de espera. Com essas alterações, você pode especificar um dia, data e hora úteis. Nesta versão, adicionamos a capacidade de usar um token na etapa de espera. Por exemplo, você pode querer usar `{{lead.Birthday}}` para enviar um email no aniversário ou usar `{{my.Event Date}}` para enviar um lembrete final de webinário.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

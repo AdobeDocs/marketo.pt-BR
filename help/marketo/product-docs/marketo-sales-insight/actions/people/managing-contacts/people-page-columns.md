@@ -8,7 +8,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
@@ -22,7 +22,7 @@ Você tem a opção de personalizar quais informações de contato você vê esc
 
    ![](assets/people-page-columns-1.png)
 
-1. Role pela tela e selecione as colunas desejadas (você também pode clicar em **Selecionar tudo** se desejar cada coluna). Clique em fora da lista ao concluir.
+1. Role pela tela e selecione as colunas desejadas (você também pode clicar em **Selecionar tudo** se quiser todas as colunas). Clique em fora da lista ao concluir.
 
    ![](assets/people-page-columns-2.png)
 
@@ -48,7 +48,7 @@ Você tem a opção de personalizar quais informações de contato você vê esc
   </tr> 
   <tr> 
    <td colspan="1">Email (padrão)</td> 
-   <td colspan="1">Endereço de email</td> 
+   <td colspan="1">Endereço de e-mail</td> 
   </tr> 
   <tr> 
    <td colspan="1">Telefone</td> 
@@ -67,7 +67,7 @@ Você tem a opção de personalizar quais informações de contato você vê esc
    <td>Campanha de vendas da pessoa no momento</td> 
   </tr> 
   <tr> 
-   <td># Campanhas</td> 
+   <td>Nº de campanhas</td> 
    <td>Número total de campanhas de vendas das quais a pessoa fez parte</td> 
   </tr> 
   <tr> 
@@ -99,11 +99,11 @@ Você tem a opção de personalizar quais informações de contato você vê esc
    <td>Número de tarefas abertas para esta pessoa</td> 
   </tr> 
   <tr> 
-   <td># Exibições</td> 
+   <td>Nº de exibições</td> 
    <td>Número total de visualizações por essa pessoa</td> 
   </tr> 
   <tr> 
-   <td># Cliques</td> 
+   <td>Nº de cliques</td> 
    <td>Número total de cliques por essa pessoa</td> 
   </tr> 
   <tr> 
@@ -120,7 +120,7 @@ Você tem a opção de personalizar quais informações de contato você vê esc
   </tr> 
   <tr> 
    <td>Origem</td> 
-   <td>Origem de onde a pessoa foi criada</td> 
+   <td>Source de onde a pessoa foi criada</td> 
   </tr> 
   <tr> 
    <td>Grupos (padrão)</td> 

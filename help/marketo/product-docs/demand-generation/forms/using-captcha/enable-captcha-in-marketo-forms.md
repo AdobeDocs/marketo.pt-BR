@@ -22,11 +22,11 @@ Você pode ativar/desativar o CAPTCHA por formulário.
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Clique em **Configurações do formulário**, depois **Configurações**.
+1. Clique em **Configurações de Formulário** e depois em **Configurações**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. Abra o menu suspenso CAPTCHA e selecione **Ativado**.
+1. Abra o menu suspenso CAPTCHA e selecione **Habilitado**.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
@@ -34,7 +34,7 @@ Você pode ativar/desativar o CAPTCHA por formulário.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
@@ -46,4 +46,4 @@ Pode levar alguns minutos para que as alterações nessa lista se propaguem do G
 
 >[!MORELIKETHIS]
 >
->[Configuração do reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
+>[Configurando o reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)

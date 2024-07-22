@@ -34,7 +34,7 @@ As visualizações são rastreadas baixando um pequeno pixel de imagem invisíve
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. Na caixa de diálogo Opções do Outlook, clique em **Central de confiança**.
+1. Na caixa de diálogo Opções do Outlook, clique em **Central de Confiabilidade**.
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
@@ -42,7 +42,7 @@ As visualizações são rastreadas baixando um pequeno pixel de imagem invisíve
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Clique em Download automático no menu à esquerda e selecione a **Não baixar imagens automaticamente no email HTML ou em itens RSS** caixa de seleção
+1. Clique em Download Automático no menu à esquerda e marque a caixa de seleção **Não baixar imagens automaticamente no email HTML ou em itens RSS**.
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
@@ -62,10 +62,10 @@ As visualizações são rastreadas baixando um pequeno pixel de imagem invisíve
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. Em Email, escolha **Lendo**.
+1. Em Email, escolha **Leitura**.
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. Em Segurança, clique na guia **Nunca** botão de opção.
+1. Em Segurança, clique no botão de opção **Nunca**.
 
    ![](assets/how-do-i-prevent-self-views-10.png)

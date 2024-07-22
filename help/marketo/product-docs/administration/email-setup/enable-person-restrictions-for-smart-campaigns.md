@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ativar restrições de pessoa para campanhas inteligentes {#enable-person-restrictions-for-smart-campaigns}
 
-Há um recurso no Marketo para limitar a _máximo_ número de pessoas que podem se qualificar para uma Campanha inteligente. Isso evita enviar acidentalmente um email para todo o banco de dados.
+Há um recurso no Marketo para limitar o _número máximo_ de pessoas que podem se qualificar para uma Campanha Inteligente. Isso evita enviar acidentalmente um email para todo o banco de dados.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Há um recurso no Marketo para limitar a _máximo_ número de pessoas que podem 
 >
 >Isso se aplica somente a campanhas em lote e programas de email.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
-1. Clique em **[!UICONTROL Campanha inteligente]**.
+1. Clique em **[!UICONTROL Campanha Inteligente]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
@@ -49,9 +49,9 @@ Há um recurso no Marketo para limitar a _máximo_ número de pessoas que podem 
 
    >[!CAUTION]
    >
-   >Esse limite é aplicado a todas as Campanhas inteligentes, mas pode ser substituído no nível da campanha. Saiba como [substituir restrições de pessoa em uma Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >Esse limite é aplicado a todas as Campanhas inteligentes, mas pode ser substituído no nível da campanha. Saiba como [substituir restrições de pessoa em uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
-Feito! Você acabou de ligar o interruptor de segurança.
+Concluído! Você acabou de ligar o interruptor de segurança.
 
 >[!MORELIKETHIS]
 >

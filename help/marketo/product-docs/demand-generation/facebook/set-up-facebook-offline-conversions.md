@@ -6,8 +6,8 @@ exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 5%
+source-wordcount: '310'
+ht-degree: 2%
 
 ---
 
@@ -17,32 +17,32 @@ Ao enviar dados de conversão offline de volta para o Facebook para as pessoas c
 
 >[!PREREQUISITES]
 >
->* Você deve [Configurar anúncios de cliente potencial do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* Você deve ter um modelo aprovado no [Modelador de ciclo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>* Você deve [configurar os anúncios de cliente potencial da Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Você deve ter um modelo aprovado em [Revenue Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 ## Configuração de administração {#admin-configuration}
 
-1. Ir para o Marketo **Admin**.
+1. Vá para o **Administrador** do Marketo.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Ir para **LaunchPoint** e clique duas vezes no serviço Facebook Lead Ads criado anteriormente.
+1. Vá para **LaunchPoint** e clique duas vezes no serviço Facebook Lead Ads criado anteriormente.
 
    >[!NOTE]
    >
-   >Se ainda não tiver feito isso, vá em frente e [Configurar Anúncios De Cliente Potencial Da Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), então volte aqui.
+   >Se ainda não tiver feito isso, [Configure os anúncios de cliente potencial da Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) e volte aqui.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Se desejar, edite o **Nome de exibição** para incluir conversões offline. Clique em **Próxima**.
+1. Se desejar, edite o **Nome para Exibição** para incluir Conversões Offline. Clique em **Avançar**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Marcar **Habilitar conversões offline** e clique em **Próxima**.
+1. Marque **Habilitar Conversões Offline** e clique em **Avançar**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
@@ -50,13 +50,13 @@ Ao enviar dados de conversão offline de volta para o Facebook para as pessoas c
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Doce! Você está na metade da habilitação de Conversões Offline do Facebook. Vamos passar para o Modelador de ciclo de receita para mapear os estágios.
+   Doce! Você está na metade da habilitação de Conversões Offline do Facebook. Vamos passar para o Revenue Cycle Modeler para mapear os estágios.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Configuração do Modelador de Ciclo de Receita {#revenue-cycle-modeler-configuration}
+## Configuração do Modeler do ciclo de receita {#revenue-cycle-modeler-configuration}
 
-1. Ir para **Analytics**.
+1. Vá para **Analytics**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
@@ -68,8 +68,8 @@ Ao enviar dados de conversão offline de volta para o Facebook para as pessoas c
    >
    >Atualmente, há 10 eventos do Facebook para os quais você pode mapear Estágios do ciclo de receita:
    >
-   >* Adiciona às Informações de pagamento
-   >* Adiciona ao Carrinho
+   >* Adições de informações de pagamento
+   >* Adiciona ao carrinho
    >* Adiciona à lista de desejos
    >* Registros concluídos
    >* Check-outs iniciados
@@ -79,7 +79,7 @@ Ao enviar dados de conversão offline de volta para o Facebook para as pessoas c
    >* Pesquisas
    >* Exibições de conteúdo
 
-1. Selecione o estágio que deseja mapear e na **Conversão do facebook** selecione o Evento Facebook para o qual deseja mapeá-lo. Repita esta etapa para mapear todos os estágios no seu RCM para estágios de conversão offline no Facebook.
+1. Selecione o estágio que deseja mapear e, no menu suspenso **Conversão do Facebook**, selecione o Evento do Facebook para o qual deseja mapeá-lo. Repita esta etapa para mapear todos os estágios no seu RCM para estágios de conversão offline no Facebook.
 
    ![](assets/1-1.png)
 
@@ -95,7 +95,7 @@ Ao enviar dados de conversão offline de volta para o Facebook para as pessoas c
 
    >[!CAUTION]
    >
-   >Verifique sua conta da Facebook e certifique-se de que [anúncios estão associados](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) para o Conjunto de eventos de conversões offline do Marketo. Se não estiverem, a atribuição de anúncio pode não funcionar.
+   >Verifique sua conta do Facebook e certifique-se de que todos os [anúncios estejam associados](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) ao Conjunto de Eventos de Conversões Offline do Marketo. Se não estiverem, a atribuição de anúncio pode não funcionar.
 
    >[!NOTE]
    >

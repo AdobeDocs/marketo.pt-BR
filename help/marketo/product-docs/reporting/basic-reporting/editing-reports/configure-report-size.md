@@ -6,7 +6,7 @@ exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Por padrão, os relatórios do Marketo são limitados a no máximo 5.000 linhas, mas você pode alterar esse limite.
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Selecione seu relatório na árvore de navegação e clique no link **Configuração** guia.
+1. Selecione seu relatório na árvore de navegação e clique na guia **Configuração**.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. Clique duas vezes **Exportar linhas disponíveis**.
+1. Clique duas vezes em **Exportar linhas disponíveis**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 

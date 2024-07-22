@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Configurar notificação por push para dispositivos móveis {#configure-mobile-push-notification}
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
-1. Selecione o ativo de push e clique em **Editar rascunho**.
+1. Selecione seu ativo de push e clique em **Editar rascunho**.
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
-1. Ir para **Configuração**.
+1. Ir para **Instalação**.
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Insira o texto da mensagem ou selecione o ícone de token para adicionar tokens. Em seguida, selecione um **Toque em Ação**.
+1. Insira o texto da mensagem ou selecione o ícone de token para adicionar tokens. Em seguida, selecione uma **Ação de toque**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -49,11 +49,11 @@ ht-degree: 0%
    >
    >Há três tipos de ações de toque:
    >
-   >**Iniciar aplicativo** - **Este aplicativo** abre a página inicial do aplicativo quando a notificação é tocada. **Personalizado** O usa um deep link para abrir outras áreas do aplicativo ou qualquer outro aplicativo para o qual você tenha o link (consulte [URIs de deep link](#Deeplink) abaixo para obter detalhes).
+   >**Iniciar Aplicativo** - **Este Aplicativo** abre a home page do seu aplicativo quando a notificação é tocada. **Personalizado** usa um deep link para abrir outras áreas do aplicativo ou qualquer outro aplicativo para o qual você tenha o link (consulte [URIs de deep link](#Deeplink) abaixo para obter detalhes).
    >
-   >**Landing Page** - leva você a uma página de aterrissagem do Marketo especificada.
+   >**Página de aterrissagem** - leva você a uma página de aterrissagem do Marketo especificada.
    >
-   >**URL externo** - leva você a uma página de aterrissagem que não seja da Marketo.
+   >**URL externa** - direciona você a uma página de aterrissagem que não seja da Marketo.
 
 1. Para inserir um deep link para uma ação de toque personalizada, clique em Personalizado e insira o [URI do deep link](#Deeplink) no campo.
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -93,8 +93,8 @@ Um URI de deep link é composto de três partes: nome do esquema, caminho e iden
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções para definir URIs de deep link. Portanto, peça ao desenvolvedor para enviar os URIs (links) para as páginas que você está interessado em usar. Isso garantirá que os URIs inseridos nas mensagens de push apontem para os locais corretos. Seu desenvolvedor pode [encontre mais informações aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções para definir URIs de deep link. Portanto, peça ao desenvolvedor para enviar os URIs (links) para as páginas que você está interessado em usar. Isso garantirá que os URIs inseridos nas mensagens de push apontem para os locais corretos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
->[Enviar uma notificação por push em dispositivo móvel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+>[Enviar uma Notificação por Push Móvel](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

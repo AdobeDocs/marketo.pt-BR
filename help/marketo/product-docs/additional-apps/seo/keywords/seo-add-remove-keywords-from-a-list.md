@@ -17,7 +17,7 @@ Você pode manter todas as suas palavras-chave agradáveis e organizadas usando 
 
 ## Adicionar a uma lista {#add-to-a-list}
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
@@ -31,7 +31,7 @@ Você pode manter todas as suas palavras-chave agradáveis e organizadas usando 
 
    >[!TIP]
    >
-   >Você também pode criar uma nova lista para suas palavras-chave. Basta digitar o nome em **[!UICONTROL Criar uma nova lista]**.
+   >Você também pode criar uma nova lista para suas palavras-chave. Digite o nome em **[!UICONTROL Criar uma nova lista]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -41,7 +41,7 @@ Opa! Selecione sua lista para ver as novas palavras-chave.
 
 Você também pode remover palavras-chave de uma lista.
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 

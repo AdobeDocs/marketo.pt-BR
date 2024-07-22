@@ -2,10 +2,10 @@
 description: Configurações do agente - Documentação do Marketo - Documentação do produto
 title: Configurações do agente
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Configure seu calendário e defina a disponibilidade da reunião/bate-papo ao vi
 
 >[!PREREQUISITES]
 >
->Certifique-se de que seus agentes receberam a permissão apropriada [permissões](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>Verifique se os seus agentes receberam as [permissões](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} apropriadas.
 
 ![](assets/agent-settings-1.png)
 
@@ -78,7 +78,7 @@ Defina o fuso horário e a disponibilidade de hora/dia da semana para receber re
 
 >[!TIP]
 >
->Você pode selecionar vários blocos de tempo no mesmo dia (por exemplo, sexta-feira das 8a-12p _e_ 1p-5p) clicando no link **+** assine à direita.
+>Você pode selecionar vários blocos de tempo no mesmo dia (por exemplo, sexta-feira das 8a-12p _e_ 1p-5p) clicando no sinal **+** à direita.
 
 ## Disponibilidade do bate-papo ao vivo {#live-chat-availability}
 
@@ -86,12 +86,12 @@ Defina seu fuso horário e disponibilidade de hora/dia da semana para receber ba
 
 ![](assets/agent-settings-5.png)
 
-Se você estiver conectado ao aplicativo, receberá uma notificação no aplicativo de um chat recebido. Se você não estiver conectado, receberá uma notificação do navegador (se tiver [configurar](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Se você estiver conectado ao aplicativo, receberá uma notificação no aplicativo de um chat recebido. Se você não estiver conectado, receberá uma notificação do navegador (se tiver [configurado isso](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->A variável [alternância de disponibilidade](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} na Caixa de entrada do agente **substituirá** o que você insere na guia Disponibilidade do chat ao vivo. Portanto, se você estiver programado como disponível de 1p a 5p, mas precisar fazer uma pausa rápida em 3p, não será necessário alterar as configurações do agente. O status de alternância de disponibilidade permanecerá até que você o altere manualmente ou até que o próximo bloco de tempo em sua disponibilidade seja atingido.
+>O botão de [disponibilidade](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} na Caixa de Entrada do Agente **substituirá** o que você inserir na guia Disponibilidade do Chat ao Vivo. Portanto, se você estiver programado como disponível de 1p a 5p, mas precisar fazer uma pausa rápida em 3p, não será necessário alterar as configurações do agente. O status de alternância de disponibilidade permanecerá até que você o altere manualmente ou até que o próximo bloco de tempo em sua disponibilidade seja atingido.
 
 >[!TIP]
 >
->Você pode selecionar vários blocos de tempo no mesmo dia (por exemplo, sexta-feira das 8a-12p _e_ 1p-5p) clicando no link **+** assine à direita.
+>Você pode selecionar vários blocos de tempo no mesmo dia (por exemplo, sexta-feira das 8a-12p _e_ 1p-5p) clicando no sinal **+** à direita.

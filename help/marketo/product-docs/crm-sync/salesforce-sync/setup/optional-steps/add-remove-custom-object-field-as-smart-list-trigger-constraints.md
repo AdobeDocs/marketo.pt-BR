@@ -19,15 +19,15 @@ O Marketo Engage fornece controle preciso sobre a sincronização de objetos per
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **[!UICONTROL Admin]**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Clique em **[!UICONTROL Admin]** e depois **[!UICONTROL Sincronização de objetos do Salesforce]**.
+1. Clique em **[!UICONTROL Admin]** e depois em **[!UICONTROL Sincronização de Objetos do Salesforce]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Sincronização de objetos do Salesforce]** aparecerá na coluna à esquerda.
+1. **[!UICONTROL Sincronização de Objetos do Salesforce]** aparece na coluna esquerda.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,15 +35,15 @@ O Marketo Engage fornece controle preciso sobre a sincronização de objetos per
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Clique em **[!UICONTROL Editar campos visíveis]**.
+1. Clique em **[!UICONTROL Editar Campos Visíveis]**.
 
    >[!TIP]
    >
-   >Se a variável **[!UICONTROL Editar campos visíveis]** estiver acinzentado, o objeto está sendo usado atualmente em uma Smart List ou Campanha inteligente. Remova todas as associações para continuar.
+   >Se o botão **[!UICONTROL Editar Campos Visíveis]** estiver esmaecido, o objeto está sendo usado atualmente em uma Smart List ou Campanha Inteligente. Remova todas as associações para continuar.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Se a sincronização global estiver ativada, clique em **[!UICONTROL Desabilitar Sincronização Global]**.
+1. Se sua sincronização global estiver habilitada, clique em **[!UICONTROL Desabilitar Sincronização Global]**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
@@ -55,7 +55,7 @@ O Marketo Engage fornece controle preciso sobre a sincronização de objetos per
    >
    >Por padrão, todos os campos são selecionados para serem restrições em filtros.
 
-1. Clique no link **[!UICONTROL Campos]** para confirmar as alterações.
+1. Clique na guia **[!UICONTROL Campos]** para confirmar as alterações.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 

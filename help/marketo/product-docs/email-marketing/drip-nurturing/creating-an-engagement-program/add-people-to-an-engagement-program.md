@@ -16,9 +16,9 @@ ht-degree: 3%
 Há várias maneiras de as pessoas se tornarem membros de um programa de engajamento:
 
 * [Adicionar ao programa de envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Alterar cadência do programa de engajamento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) etapa do fluxo
-* [Alterar fluxo do programa de engajamento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) etapa do fluxo
-* [Alterar status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) etapa do fluxo
+* [Alterar Cadência do Programa de Envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) etapa de fluxo
+* [Etapa de fluxo Alterar Fluxo do Programa de Envolvimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
+* Etapa de fluxo [Alterar Status do Programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 * Se uma pessoa preencher um formulário local para um programa de envolvimento
 * Importação de membros para um programa de engajamento (por meio da guia Membros dentro do programa)
 * Se você estiver usando o Salesforce como seu CRM e tiver uma campanha do Salesforce vinculada ao seu programa de engajamento, adicionar alguém à campanha do Salesforce no lado do CRM também a tornará um membro do programa de engajamento.

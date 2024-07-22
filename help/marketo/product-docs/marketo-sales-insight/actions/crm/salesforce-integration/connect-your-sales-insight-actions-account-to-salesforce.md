@@ -24,7 +24,7 @@ Siga estas etapas simples para conectar a conta de Ações do Sales Insight ao S
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. Na guia Conexões e personalizações, clique em **Salesforce** depois **Conectar**.
+1. Na guia Conexões e Personalizações, clique em **Salesforce** e em **Conectar**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
@@ -42,7 +42,7 @@ Siga estas etapas simples para conectar a conta de Ações do Sales Insight ao S
 
 1. Em Minha conta, selecione **Salesforce**.
 
-1. Na guia Conexões e personalizações, clique em **Salesforce** depois **Conectar**.
+1. Na guia Conexões e Personalizações, clique em **Salesforce** e em **Conectar**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 

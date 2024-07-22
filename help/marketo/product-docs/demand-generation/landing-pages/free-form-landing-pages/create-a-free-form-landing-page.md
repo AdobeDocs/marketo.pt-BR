@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ Páginas de aterrissagem de forma livre podem ser criadas como ativos locais de 
 
 >[!NOTE]
 >
->Os modos de landing page são definidos pelo template. [Saiba mais](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) sobre modelos de página de aterrissagem guiados e de formato livre.
+>Os modos de landing page são definidos pelo template. [Saiba mais](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) sobre modelos de página de aterrissagem guiados e de forma livre.
 
 ## Criar uma página de aterrissagem de forma livre em um programa {#create-a-free-form-landing-page-in-a-program}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ Páginas de aterrissagem de forma livre podem ser criadas como ativos locais de 
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Clique em **Novo**. Selecionar **Novo ativo local**.
+1. Clique em **Novo**. Selecione **Novo ativo local**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. Clique em **Landing Page**.
+1. Clique em **Página de aterrissagem**.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -51,15 +51,15 @@ Páginas de aterrissagem de forma livre podem ser criadas como ativos locais de 
 
 >[!TIP]
 >
->O URL é construído automaticamente a partir dos nomes do programa e da landing page. Para alterar o URL, edite o **URL da página** campo.
+>O URL é construído automaticamente a partir dos nomes do programa e da landing page. Para alterar a URL, edite o campo **URL da página**.
 
 ## Criar uma página de aterrissagem de forma livre no Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Clique em **Novo**, depois **Nova página de aterrissagem**.
+1. Clique em **Nova** e depois em **Nova Página de Aterrissagem**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 

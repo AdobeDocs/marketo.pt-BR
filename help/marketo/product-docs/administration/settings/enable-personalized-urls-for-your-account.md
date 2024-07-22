@@ -19,7 +19,7 @@ URLs personalizados são excelentes para campanhas de email impresso.
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
@@ -31,11 +31,11 @@ URLs personalizados são excelentes para campanhas de email impresso.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Verifique a **[!UICONTROL Ativar URLs personalizados]** e clique em **[!UICONTROL Salvar]**.
+1. Marque a caixa **[!UICONTROL Habilitar URLs personalizados]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Excelente trabalho! Agora que você ativou os PURLs para sua conta, é possível [habilitá-los para páginas de aterrissagem individuais](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Excelente trabalho! Agora que você habilitou os PURLs para sua conta, é possível [habilitá-los para páginas de aterrissagem individuais](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

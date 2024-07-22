@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
 
 >[!PREREQUISITES]
 >
->[Criar uma landing page guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[Criar uma página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vá para a **Atividades de marketing** área.
+1. Vá para a área **Atividades de marketing**.
 
    ![](assets/one.png)
 
-1. Localize e selecione sua página de aterrissagem e clique em **Editar rascunho**.
+1. Localize e selecione sua página de aterrissagem e clique em **Editar Rascunho**.
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
    >
    >Os elementos disponíveis nas páginas de aterrissagem guiadas são definidos pelo template. Se você não vir um formulário no painel Elementos, selecione um novo modelo ou fale com o criador do modelo.
 
-1. Clique duas vezes no ícone **Formulário** no painel elemento.
+1. Clique duas vezes no **Formulário** no painel de elementos.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -57,4 +57,4 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Agora basta fechar o editor de landing page e [aprovar o rascunho da página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Agora basta fechar o editor de páginas de aterrissagem e [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

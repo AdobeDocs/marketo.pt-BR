@@ -4,7 +4,8 @@ title: Comunidade Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Comunidade Adobe Marketo Engage {#marketo-engage-community}
 
-A variável [Comunidade Adobe Marketo Engage](https://nation.marketo.com/) (também conhecido como Nação de marketing) é o local para saber mais sobre sua instância de Marketo Engage de outros usuários e funcionários da Marketo. Antes de entrar, familiarize-se com o [Diretrizes da Comunidade](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+A [Comunidade do Adobe Marketo Engage](https://nation.marketo.com/) (também conhecida como Nação de marketing) é o local para saber mais sobre sua instância de Marketo Engage de outros usuários e funcionários da Marketo. Antes de começar, familiarize-se com as [Diretrizes da comunidade](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registrar seu nome de usuário {#register-your-username}
 
@@ -33,7 +34,7 @@ CAPTURA DE TELA
 
 ## Configurar seu perfil {#set-up-your-profile}
 
-Quando conectado à Nação de marketing, clique no ícone de avatar padrão e selecione **[!UICONTROL Minhas configurações]** para atualizar suas preferências, altere sua foto do avatar, controle de tags e muito mais.
+Quando você fizer logon na Nação de Marketing, clique no ícone de avatar padrão e selecione **[!UICONTROL Minhas configurações]** para atualizar suas preferências, alterar a foto do avatar, controlar marcação e muito mais.
 
 CAPTURA DE TELA
 
@@ -85,7 +86,7 @@ CAPTURA DE TELA
 
 Siga as etapas abaixo para mesclar o histórico em vários perfis da comunidade. Recomenda-se substituir o Perfil da comunidade que tenha menos atividade da comunidade nele, pois os dados substituídos não podem ser recuperados.
 
-Enviar um email para `ccare@marketo.com` para solicitar que os dados de seus diferentes perfis da comunidade sejam mesclados ao perfil associado à sua assinatura de produção primária. Quando os perfis forem mesclados, você perderá a atividade histórica do perfil substituído de sua escolha.
+Envie um email para `ccare@marketo.com` para solicitar que os dados de seus diferentes perfis da comunidade sejam mesclados ao perfil associado à sua assinatura de produção primária. Quando os perfis forem mesclados, você perderá a atividade histórica do perfil substituído de sua escolha.
 
 Na sua solicitação, especifique os seguintes detalhes:
 

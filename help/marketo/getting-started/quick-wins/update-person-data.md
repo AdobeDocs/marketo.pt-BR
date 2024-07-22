@@ -6,8 +6,8 @@ exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 26%
+source-wordcount: '166'
+ht-degree: 19%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 26%
 
 >[!PREREQUISITES]
 >
->* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+>* [Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Imagine que, em sua recente feira de negócios, uma pessoa tenha fornecido informações adicionais de contato. Veja como atualizar os dados da pessoa.
 
 ## Encontre a pessoa que você precisa atualizar {#find-the-person-you-need-to-update}
 
-1. Vá para o **[!UICONTROL Banco de dados]**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/update-person-data-1.png)
 
@@ -42,7 +42,7 @@ Imagine que, em sua recente feira de negócios, uma pessoa tenha fornecido infor
 
    >[!TIP]
    >
-   >Há várias maneiras de atualizar dados pessoais no Marketo. Consulte [Importar uma lista de pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >Há várias maneiras de atualizar dados pessoais no Marketo. Consulte [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [Alterar Valor dos Dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## Atualizar os dados da pessoa {#update-the-person-data}
 
@@ -60,6 +60,6 @@ Excelente! Você atualizou seus dados pessoais.
 
 <br> 
 
-[◄ Missão 8: alertar o representante de vendas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[Missão 8: Alertar o Representante de Vendas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Missão 10: &#x200B;redirecionar uma página ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Missão 10: Redirecionar uma página de aterrissagem ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

@@ -16,17 +16,17 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Definir um público-alvo com uma lista inteligente](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Definir um público-alvo importando uma lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Definir um Público-alvo com uma Smart List](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) ou [Definir um Público-alvo importando uma Lista](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Escolher um email existente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) ou [Criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Escolha um Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) Existente ou [Crie um Email para um Programa de Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
->* [Agendar seu programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Agendar Seu Programa De Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 ## Aprovar seu programa de email {#approve-your-email-program}
 
 Agora que seu programa está pronto para ser concluído, o passo final é aprová-lo. Veja como:
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ Agora que seu programa está pronto para ser concluído, o passo final é aprov�
    >
    >Se você não aprovar seu programa de email, o email não será enviado.
 
-1. No **Aprovação** lado a lado, vá em frente e clique em **Aprovar programa**.
+1. No bloco **Aprovação**, vá em frente e clique em **Aprovar programa**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -45,7 +45,7 @@ Agora que seu programa está pronto para ser concluído, o passo final é aprov�
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
-   Perfeita! Você está pronto. Seu email será enviado no horário agendado.
+   Perfeito! Você está pronto. Seu email será enviado no horário agendado.
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
@@ -53,7 +53,7 @@ Agora que seu programa está pronto para ser concluído, o passo final é aprov�
 
 Se você mudar de ideia e decidir que não quer que ele seja lançado, poderá cancelar a aprovação do programa de email.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ Se você mudar de ideia e decidir que não quer que ele seja lançado, poderá c
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. No **Aprovação** bloco, basta clicar em **Cancelar aprovação de programa**.
+1. No bloco **Aprovação**, clique em **Cancelar aprovação do programa**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

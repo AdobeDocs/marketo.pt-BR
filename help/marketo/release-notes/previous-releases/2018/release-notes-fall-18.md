@@ -6,8 +6,8 @@ exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 3%
+source-wordcount: '857'
+ht-degree: 2%
 
 ---
 
@@ -19,13 +19,13 @@ Clique nos links de título para exibir artigos detalhados para cada recurso, se
 
 ## Melhorias da plataforma principal {#core-platform-enhancements}
 
-**[Personalização na Web](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
 Agora a personalização na Web oferece suporte a mais de uma área de trabalho
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Suporte a SFDC Lightning**: os usuários que migram para o Lightning ou que atualmente o usam podem aproveitar o MSE para um envolvimento mais inteligente na jornada do comprador.
+* **Suporte ao SFDC Lightning**: os usuários que estão migrando para o Lightning ou utilizando-o no momento podem aproveitar o MSE para obter um engajamento mais inteligente na jornada do comprador.
 
 * **Suporte expandido: Microsoft Office**
 
@@ -38,16 +38,16 @@ Agora a personalização na Web oferece suporte a mais de uma área de trabalho
 
 ## Marketo Sky {#marketo-sky}
 
-Para obter mais detalhes e atualizações, consulte nossa [Notas de versão do Sky](https://help.marketo.com).
+Para obter mais detalhes e atualizações, verifique as [notas de versão da Sky](https://help.marketo.com).
 
-* **Projetar atualizações do sistema**
+* **Criar Atualizações do Sistema**
 
 * Atualizações de design: a paleta de cores atualizada, bem como o uso consistente de cores, espaçamento, layout, sombras e animação
 * Atualizações de tipografia para melhorar a compreensão
 * Aprimoramentos de design na navegação em árvore: uso funcional de cores, tipografia mais clara, nova iconografia e medalhas para verificações rápidas de status
 * Telas de resumo do programa recriadas
 
-* **Página inicial de atividades de marketing**: acesse rapidamente funções comuns diretamente da página inicial de Atividades de marketing.
+* **Página inicial de Atividades de marketing**: acesse rapidamente funções comuns diretamente da página inicial de Atividades de marketing.
 
    * Execute ações específicas (ou seja, inicie novos programas e campanhas inteligentes) e veja informações importantes sobre os programas atuais, como programas e campanhas programadas para execução hoje, programas e ativos atualizados recentemente e o número total de campanhas de acionador ativas.
 
@@ -55,26 +55,26 @@ Para obter mais detalhes e atualizações, consulte nossa [Notas de versão do S
 * Página inicial do Design Studio: crie novos ativos, arraste e solte imagens e arquivos e gerencie todos os ativos existentes.
 * Exibições de lista do Design Studio: os usuários agora podem exibir modelos de página de aterrissagem e de email no formato de exibição de lista, permitindo navegação rápida e ações em massa em um único tipo de ativo.
 * Páginas de detalhes do ativo do Design Studio: economize tempo e dores de cabeça ao exibir, organizar e executar ações em massa em todos os ativos em um único local.
-* **Programas padrão agora disponíveis no Marketo Sky**: o Marketo Sky agora é compatível com programas padrão, o estilo de programa versátil que permite criar qualquer campanha que você possa imaginar.
-* **Programas de e-mail - Fase 1**: Agora você pode exibir programas de email no Sky. Veja o novo design e [dê a sua opinião](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **Programas Padrão Agora Disponíveis no Marketo Sky**: o Marketo Sky agora oferece suporte a programas padrão, o estilo de programa versátil que permite criar qualquer campanha que você possa imaginar.
+* **Programas de email - Fase 1**: agora você pode ver programas de email no Sky. Dê uma olhada no novo design e [dê a sua opinião](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analytics {#analytics}
 
 **Bizible**
 
-* **Reduzir a dependência necessária do CRM**
+* **Reduzir a dependência necessária no CRM**
 
    * Com a nova opção de definir regras do Campaign nas configurações da Bizible, os clientes não precisam mais começar a instalar um pacote ou uma solução no CRM para começar a usar a Bizible. Agora é tão fácil quanto configurar uma conta, configurar as conexões de anúncio e CRM e, em seguida, percorrer as configurações e configurações padrão. Esperamos que isso melhore significativamente os tempos de integração da nossa equipe de engenharia de vendas.
 
-* **Discover GD**
+* **Descubra a GA**
 
    * A Discover não está na versão beta e começou a ser distribuída para novos clientes. Também estamos migrando nossa base de clientes atual do Bizible Measure para o Bizible Discover. Com a mudança de beta para GA, fizemos atualizações no esquema do banco de dados para permitir consultas mais eficientes e complexas.
 
-* **Login único**
+* **Logon único**
 
    * Os clientes agora podem fazer logon no aplicativo Web Bizible usando o provedor de identidade e as credenciais da empresa, que estão em conformidade com os requisitos de segurança corporativa.
 
-**[Aprimoramentos de insights de desempenho do Marketo](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Aprimoramentos dos Insights de Desempenho do Marketo](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Aprimoramentos de usabilidade**
 
@@ -83,8 +83,8 @@ Para obter mais detalhes e atualizações, consulte nossa [Notas de versão do S
    * Configuração de ajuste de escala: o gráfico de barras do painel principal é mais facilmente legível para ajudar a comparar o desempenho do programa ao longo do tempo.
    * Ícone de Alertas: o ícone de novos alertas exibe todos os alertas ativos relacionados a problemas de qualidade de dados e notificações de configuração.
 
-* **Compromisso por data de atividade**: os usuários podem optar por visualizar as métricas de Envolvimento por data de atividade ou período de custo.
-* **Filtros de contas nomeadas ABM**: filtre os painéis Pipeline e Receita por Contas nomeadas específicas.
+* **Envolvimento por data de atividade**: os usuários podem optar por visualizar as métricas de Envolvimento por data de atividade ou período de custo.
+* **Filtros de contas nomeadas do ABM**: filtre os painéis Pipeline e Receita com contas nomeadas específicas.
 
 ## Redes de publicidade {#ad-networks}
 
@@ -94,7 +94,7 @@ Implementamos um token de atualização em nossas soluções de redirecionamento
 
 ## API {#api}
 
-**API REST de mapas de leads**
+**API REST do mapa de clientes potenciais**
 
 O Marketo agora é compatível com o uso de campos de disposição de email por meio das APIs de cliente potencial (incluindo Inclusão na lista de bloqueios, Marketing suspenso, Email suspenso e Urgência relativa).
 

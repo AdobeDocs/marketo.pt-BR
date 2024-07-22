@@ -21,15 +21,15 @@ Se você não tiver mais uso para um campo no Marketo Engage, poderá ocultá-lo
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. Localize o campo, selecione-o e, em **[!UICONTROL Ações de campo]** click **[!UICONTROL Ocultar campo]**.
+1. Localize o campo, selecione-o e, em **[!UICONTROL Ações do Campo]**, clique em **[!UICONTROL Ocultar Campo]**.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -49,15 +49,15 @@ Se você não tiver mais uso para um campo no Marketo Engage, poderá ocultá-lo
 
 ## Reexibir um campo {#unhide-a-field}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Localize e selecione o campo. No [!UICONTROL Ações de campo] , clique em **[!UICONTROL Reexibir campo]**.
+1. Localize e selecione o campo. No menu suspenso [!UICONTROL Ações do Campo], clique em **[!UICONTROL Reexibir Campo]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

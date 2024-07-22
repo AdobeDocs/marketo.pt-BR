@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Isso se aplica somente a Listas de contas, **não** Listas de contas dinâmicas.
+>Isso se aplica somente a Listas de Contas, **não** Listas de Contas Dinâmicas.
 
 1. Selecione a linha da conta nomeada à qual deseja adicionar.
 
    ![](assets/four-1.png)
 
-1. Clique em **Ações da Conta Nomeada** e selecione **Adicionar à lista de contas**.
+1. Clique no menu suspenso **Ações de Contas Nomeadas** e selecione **Adicionar à Lista de Contas**.
 
    ![](assets/five-1.png)
 
-1. Clique em **Lista de contas** selecione a lista de contas desejada e clique em **Adicionar**.
+1. Clique no menu suspenso **Lista de Contas**, selecione a lista de contas desejada e clique em **Adicionar**.
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Criar uma conta nomeada](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[Criar uma Conta Nomeada](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

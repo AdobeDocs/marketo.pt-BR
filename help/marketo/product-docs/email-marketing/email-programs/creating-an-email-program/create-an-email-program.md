@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Use programas de email para enviar um email de maneira rápida e fácil para um grupo de pessoas.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/one.png)
 
-1. Selecione a pasta na qual deseja criar o programa e clique no link **Novo** e selecione **Novo programa**.
+1. Selecione a pasta na qual deseja criar o programa, clique no menu suspenso **Novo** e selecione **Novo programa**.
 
    ![](assets/two.png)
 
-1. Insira um Nome, selecione **E-mail** como o Tipo de programa e clique em **Criar**.
+1. Digite um Nome, selecione **Email** como o Tipo de Programa e clique em **Criar**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Ao selecionar **E-mail** como Tipo de programa, o canal será automaticamente definido como **Envio de email**. Você pode alterá-lo se quiser.
+   >Ao selecionar **Email** como Tipo de Programa, o Canal será automaticamente definido como **Envio de Email**. Você pode alterá-lo se quiser.
 
    ![](assets/four.png)
 

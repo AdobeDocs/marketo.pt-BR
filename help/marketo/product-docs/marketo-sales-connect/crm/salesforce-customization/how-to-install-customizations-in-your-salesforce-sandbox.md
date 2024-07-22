@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Conecte as vendas Conecte-se à sua sandbox do Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
+>[Conecte o Sales Connect à sua sandbox do Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-3.png)
 

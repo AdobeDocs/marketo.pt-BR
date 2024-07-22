@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Listas estáticas são um grupo de pessoas já no banco de dados. Veja como criar um.
 
-1. Ir para **[!UICONTROL Banco de dados]**.
+1. Ir para **[!UICONTROL Banco de Dados]**.
 
    ![](assets/db.png)
 
-1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Nova lista]**.
+1. Clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Nova lista]**.
 
    ![](assets/two.png)
 

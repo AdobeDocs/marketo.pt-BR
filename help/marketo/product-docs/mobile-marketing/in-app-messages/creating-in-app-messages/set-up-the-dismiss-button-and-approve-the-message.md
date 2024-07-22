@@ -6,7 +6,7 @@ exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ O botão Dispensar tem muitas opções que permitem configurá-lo da maneira que
 
 Todas as seleções de gráficos, texto e botões foram salvas automaticamente. Agora, você está pronto para terminar o trabalho.
 
-1. Para visualizar a mensagem no aplicativo, clique no link **Ações de mensagem** e selecione **Visualizar**.
+1. Para visualizar a mensagem no aplicativo, clique no menu suspenso **Ações de Mensagem** e selecione **Visualizar**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ Todas as seleções de gráficos, texto e botões foram salvas automaticamente. 
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Se estiver satisfeito com a mensagem no aplicativo, clique em **Aprovar e fechar**.
+1. Se você estiver satisfeito com a mensagem no aplicativo, clique em **Aprovar e fechar**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >Também é possível selecionar **Aprovar e fechar** diretamente do menu suspenso Ações de mensagem (consulte a etapa 1), mas por que não visualizar a mensagem primeiro, apenas para ter segurança?
+   >Você também pode selecionar **Aprovar e fechar** diretamente no menu suspenso Ações de Mensagem (veja a etapa 1), mas por que não visualizar a mensagem primeiro, apenas para ter segurança?
 
 1. Para fechar o editor sem aprovação, basta fechar a guia. Ele é salvo automaticamente, para que você possa devolvê-lo e aprová-lo posteriormente.
 
@@ -71,9 +71,9 @@ Todas as seleções de gráficos, texto e botões foram salvas automaticamente. 
 
 Tantas escolhas, mas agora você tem uma mensagem no aplicativo de ótima aparência, pronta para ser enviada!
 
-Agora é hora de [envie sua mensagem](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Agora é hora de [enviar sua mensagem](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre mensagens no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Noções Básicas Sobre Mensagens No Aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Escolha um layout para a mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

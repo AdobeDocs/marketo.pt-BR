@@ -19,11 +19,11 @@ Ih! Acerte os freios! Esse programa de email não deve ser enviado.
 >
 >Este artigo tem como objetivo ajudar você a impedir que os emails saiam antes de serem enviados. Não há como recuperar emails enviados.
 
-1. Em um programa de email, clique em **Anular programa**.
+1. Em um programa de email, clique em **Anular Programa**.
 
    ![](assets/dashboardleads.jpg)
 
-1. Clique em **Anular** para confirmação completa.
+1. Clique em **Abortar** para obter confirmação completa.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

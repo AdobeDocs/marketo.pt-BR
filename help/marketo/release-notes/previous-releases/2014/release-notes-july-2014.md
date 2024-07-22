@@ -17,7 +17,7 @@ Os recursos a seguir estão incluídos na versão de julho de 2014. Verifique a 
 
 ## Calendário de marketing {#marketing-calendar}
 
-Veja todos os seus eventos, e-mails e muito mais em todos os programas. [Este novo produto](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) estará disponível sem custo para clientes com 10 ou menos usuários do Marketo Lead Management ou da caixa de diálogo.
+Veja todos os seus eventos, e-mails e muito mais em todos os programas. [Este novo produto](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) estará disponível sem custo para clientes com 10 ou menos usuários do Marketo Lead Management ou da Caixa de Diálogo.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -56,7 +56,7 @@ Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Co
 
 ## Importação rápida de lista {#fast-list-import}
 
-Terminar **50 vezes mais rápido**, seus arquivos serão ampliados no Marketo! As opções de importação antigas &quot;Normal&quot; e &quot;Otimizado para novos clientes em potencial&quot; foram substituídas por &quot;Padrão (Importação rápida)&quot;.
+Mais de **50x mais rápido**, seus arquivos serão ampliados para o Marketo! As opções de importação antigas &quot;Normal&quot; e &quot;Otimizado para novos clientes em potencial&quot; foram substituídas por &quot;Padrão (Importação rápida)&quot;.
 
 A opção &quot;Ignorar novos clientes em potencial e atualizações&quot; permanece inalterada.
 
@@ -68,7 +68,7 @@ A implantação será preparada a partir de meados de julho e continuará pelos 
 * Mais compatível com outros JavaScript no seu site
 * Totalmente testado em muitos sites no ano passado!
 
-## RTP: modelos de campanha de personalização em tempo real {#rtp-real-time-personalization-campaign-templates}
+## RTP: modelos de campanha em tempo real do Personalization {#rtp-real-time-personalization-campaign-templates}
 
 A página RTP Definir Campanha agora [inclui modelos prontos](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Escolha entre uma variedade de estilos, incluindo webinários, estudos de caso, e-books.
 
@@ -78,7 +78,7 @@ A página RTP Definir Campanha agora [inclui modelos prontos](/help/marketo/prod
 
 ## RTP: melhorias na API do JavaScript {#rtp-javascript-api-enhancements}
 
-Nova chamada de API RTP para obter dados do visitante em tempo real, como organização, setor, localização e correspondência de código de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código do segmento. Consulte nossa [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter a documentação completa.
+Nova chamada de API RTP para obter dados do visitante em tempo real, como organização, setor, localização e correspondência de código de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código do segmento. Consulte nosso [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter a documentação completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

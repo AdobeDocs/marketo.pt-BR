@@ -17,9 +17,9 @@ Mova uma Campanha inteligente entre diferentes programas ou pastas usando o recu
 
 >[!CAUTION]
 >
->Como as regras não serão alteradas, se a Smart List ou as Etapas de fluxo da campanha fizerem referência ao programa original, será necessário atualizar manualmente essas informações para refletir o novo programa, da mesma forma que _não_ atualização automática.
+>Como as regras não serão alteradas, se a Smart List ou as Etapas de fluxo da campanha fizerem referência ao programa original, será necessário atualizar manualmente essas informações para refletir o novo programa, pois elas _não_ serão atualizadas automaticamente.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
@@ -27,7 +27,7 @@ Mova uma Campanha inteligente entre diferentes programas ou pastas usando o recu
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Selecione o **[!UICONTROL Para]** (destino), **[!UICONTROL Programa]** e opcional **[!UICONTROL Pasta]**. Selecionar **[!UICONTROL Mover]**.
+1. Selecione o **[!UICONTROL Para]** (destino), **[!UICONTROL Programa]** e a **[!UICONTROL Pasta]** opcional. Selecione **[!UICONTROL Mover]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

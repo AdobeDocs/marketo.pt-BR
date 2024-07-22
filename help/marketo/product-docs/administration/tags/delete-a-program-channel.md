@@ -17,20 +17,20 @@ Os canais do programa são uma coleção de status ou pontos de verificação pe
 
 Se você fizer um por acidente ou não precisar mais de um, é possível excluí-lo.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/delete-a-program-channel-1.png)
 
-1. Clique em **[!UICONTROL Tags]**.
+1. Clique em **[!UICONTROL Marcas]**.
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Selecione o canal que deseja excluir. No **[!UICONTROL Ações de tag]** , clique em **[!UICONTROL Excluir]**.
+1. Selecione o canal que deseja excluir. No menu suspenso **[!UICONTROL Ações de Marca]**, clique em **[!UICONTROL Excluir]**.
 
    >[!TIP]
    >
-   >Se o canal estiver associado a algum programa, não será possível excluir, apenas ocultar.
+   >Se o canal estiver associado a algum programa, não será possível excluí-lo, apenas ocultar.
 
    ![](assets/delete-a-program-channel-3.png)
 
-Também é possível [excluir status específicos dos canais](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+Você também pode [excluir status específicos dos canais](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).

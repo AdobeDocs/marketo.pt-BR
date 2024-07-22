@@ -5,7 +5,7 @@ exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '111'
 ht-degree: 2%
 
 ---
@@ -18,13 +18,14 @@ Os artigos listados abaixo ajudarão você a configurar e saber mais sobre o Mar
 
 Criação do perfil de produto e do administrador do produto.
 
-[Criar um perfil de produto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
+[Criar um Perfil de Produto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
 [Adicionar um administrador de produto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
 
 ## Gerenciamento de usuários {#user-management}
 
-Adição e remoção de usuários. Concluído pelo administrador do produto (ou administrador do sistema).
+Adição e remoção de usuários. Concluído pelo administrador do produto (ou pelo sistema)
+Admin).
 
 [Adicionar um usuário](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}
 
@@ -42,7 +43,7 @@ Somente API Marketo Engage Os usuários devem ser criados e gerenciados no Marke
 
 ## Logon do usuário {#user-sign-in}
 
-[Logon do usuário com o Adobe ID](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+[Entrada de usuário com o Adobe ID](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 
 ## Perguntas frequentes {#faq}
 

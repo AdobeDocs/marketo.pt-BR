@@ -6,7 +6,7 @@ exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vamos criar um segmento básico direcionado a todos os visitantes da Web dos EUA e do setor de serviços financeiros.
 
-1. Ir para **Segmentos**.
+1. Vá para **Segmentos**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
@@ -27,11 +27,11 @@ Vamos criar um segmento básico direcionado a todos os visitantes da Web dos EUA
 
    ![](assets/segment-name.png)
 
-1. Arrastar **Localização** no menu direito e solte-o no editor de segmentos.
+1. Arraste **Local** do menu à direita e solte-o no editor de segmentos.
 
    ![](assets/location-drag-hand.jpg)
 
-1. Selecione um país para adicionar no menu suspenso. Selecione o **Estados Unidos**.
+1. Selecione um país para adicionar no menu suspenso. Selecione os **Estados Unidos**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -39,17 +39,17 @@ Vamos criar um segmento básico direcionado a todos os visitantes da Web dos EUA
    >
    >O número de cidades é limitado a 300 por segmento.
 
-1. Arrastar **Setores** no menu direito e solte-o no editor de segmentos.
+1. Arraste **Indústrias** do menu à direita e solte-o no editor de segmentos.
 
    ![](assets/industries-hand.jpg)
 
-1. Selecione Setores a serem adicionados no menu suspenso. Selecione o **Setor de serviços financeiros**.
+1. Selecione Setores a serem adicionados no menu suspenso. Selecione o **Setor de Serviços Financeiros**.
 
    ![](assets/segment-industries.png)
 
    Agora você configurou um segmento básico para todos os prospetos que visitam seu site nos EUA e no Setor Financeiro.
 
-1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir a campanha** para acessar a página Campanhas.
+1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir a campanha** para ir para a página Campanhas.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

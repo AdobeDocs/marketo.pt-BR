@@ -6,7 +6,7 @@ exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '441'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Segmentação é um grupo de segmentos, que são um grupo direcionado de indiví
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## Blocos de conteúdo {#snippets}
+## Bl. conteúdo {#snippets}
 
 _Disponível para versões Pro e Enterprise_
 
@@ -72,7 +72,7 @@ O Do nome, Do e-mail, Responder para (NOVO) e Assunto são exibidos no editor. T
 * Mozilla Firefox 9.0
 * Google Chrome 16
 * Microsoft Internet Explorer 8 e 9
-* **Nota**: não oferecemos mais suporte ao Internet Explorer 7
+* **Observação**: não há mais suporte para o Internet Explorer 7
 
 ## Gerenciamento do programa {#program-management}
 

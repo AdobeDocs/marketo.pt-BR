@@ -16,14 +16,14 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Criar uma página de aterrissagem de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Adicionar um novo formulário a uma página de aterrissagem de forma livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [Criar uma Página de Aterrissagem de Formato Livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Adicionar um Novo Formulário a uma Página de Aterrissagem de Formato Livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 O uso de conteúdo dinâmico em páginas de aterrissagem envolve as pessoas com informações direcionadas.
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -53,7 +53,7 @@ O uso de conteúdo dinâmico em páginas de aterrissagem envolve as pessoas com 
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Também é possível tornar os elementos Estáticos ou Dinâmicos a partir do elemento **Configurações**.
+1. Você também pode tornar os elementos Estáticos ou Dinâmicos a partir do elemento **Configurações**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
@@ -79,5 +79,5 @@ Voila! Agora você pode enviar conteúdo direcionado.
 
 >[!MORELIKETHIS]
 >
->* [Pré-visualizar uma página de aterrissagem com conteúdo dinâmico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Uso de conteúdo dinâmico em um email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [Visualizar uma Página de Aterrissagem com Conteúdo Dinâmico](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Usando Conteúdo Dinâmico em um Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

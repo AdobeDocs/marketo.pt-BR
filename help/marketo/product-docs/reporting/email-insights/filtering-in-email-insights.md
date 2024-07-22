@@ -6,7 +6,7 @@ exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -59,10 +59,10 @@ Escolha entre intervalos de datas predefinidos comuns, selecione datas específi
 
 >[!NOTE]
 >
->Os intervalos de datas se aplicam à página do Analytics e à página Envios. A variável **Comparar** no entanto, essa opção só é aplicável à página do Analytics.
+>Os intervalos de datas se aplicam à página do Analytics e à página Envios. No entanto, a opção **Comparar** só se aplica à página do Analytics.
 
 ## Marketing baseado em conta {#account-based-marketing}
 
-Se você usar [Gerenciamento de conta do Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), há filtros específicos para você.
+Se você usa o [Gerenciamento de Conta do Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), há filtros específicos para você.
 
 ![](assets/abm.png)

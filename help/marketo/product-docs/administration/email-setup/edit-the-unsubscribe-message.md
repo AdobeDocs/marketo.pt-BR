@@ -17,15 +17,15 @@ ht-degree: 1%
 >
 >**Permissões de administrador necessárias**
 
-Ao enviar emails de marketing (não-[operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), o texto para cancelar a inscrição e os links são anexados à parte inferior. Você pode alterar os padrões. Veja como.
+Ao enviar emails de marketing (não-[operacionais](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), o texto de cancelamento de inscrição e os links são anexados à parte inferior. Você pode alterar os padrões. Veja como.
 
 ## Onde fazer a edição {#where-to-make-the-edit}
 
-1. Vá para a **[!UICONTROL Admin]** seção.
+1. Vá para a seção **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-unsubscribe-message-1.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/edit-the-unsubscribe-message-2.png)
 
@@ -36,24 +36,24 @@ Ao enviar emails de marketing (não-[operacional](/help/marketo/product-docs/ema
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
-1. Edite o **[!UICONTROL Cancelar inscrição do HTML]** e **[!UICONTROL Cancelar inscrição do texto]** de acordo com sua preferência e clique em **[!UICONTROL Salvar alterações]**.
+1. Edite as versões de **[!UICONTROL Cancelar inscrição do HTML]** e **[!UICONTROL Cancelar inscrição do texto]** de sua preferência e clique em **[!UICONTROL Salvar alterações]**.
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   É isso aí. _Certifique-se de testar!_ Você não quer que seus emails de marketing tenham links de cancelamento de inscrição desfeitos.
+   É isso aí. _Não deixe de testar!_ Você não quer que seus emails de marketing tenham links de cancelamento de inscrição desfeitos.
 
 >[!TIP]
 >
->É possível personalizar a posição do HTML de cancelamento de inscrição no email usando [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>Você pode personalizar a posição do HTML de cancelamento de inscrição no seu email usando [tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
 
 ## Texto de cancelamento de inscrição padrão {#default-unsubscribe-text}
 
 Se precisar reverter para o cancelamento de inscrição padrão do sistema, copie/cole o seguinte:
 
 [!UICONTROL Cancelar inscrição do HTML]:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Cancelar inscrição do texto]:
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` [!UICONTROL Cancelar Assinatura Do Texto]:
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]
 >
->[Edite a mensagem &quot;Exibir como página da Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[Editar a Mensagem &quot;Exibir como Página da Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)

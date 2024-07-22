@@ -6,8 +6,8 @@ exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 1%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,13 @@ Será necessário baixar e instalar uma Solução Marketo Engage na conta do Mic
 
 >[!CAUTION]
 >
->É imprescindível baixar a solução da Marketo mais recente _antes_ executar qualquer atualização.
+>É fundamental que você baixe a Solução da Marketo mais recente _antes_ de executar qualquer atualização.
 
 >[!NOTE]
 >
 >No momento, o Marketo só oferece suporte a certificados SSL compatíveis com o Java 7.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
@@ -35,11 +35,11 @@ Será necessário baixar e instalar uma Solução Marketo Engage na conta do Mic
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Selecionar **[!DNL Microsoft]**.
+1. Selecione **[!DNL Microsoft]**.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Selecionar **[!UICONTROL Baixar solução da Marketo]**.
+1. Selecione **[!UICONTROL Baixar Solução da Marketo]**.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
@@ -47,4 +47,4 @@ Será necessário baixar e instalar uma Solução Marketo Engage na conta do Mic
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-Ótimo! Um arquivo zip da solução agora será baixado para o dispositivo.
+Fantástico! Um arquivo zip da solução agora será baixado para o dispositivo.

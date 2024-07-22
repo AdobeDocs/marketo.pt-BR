@@ -5,7 +5,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Siga as etapas abaixo para saber como conceder o consentimento/as permissões ne
     </tbody> 
    </table>
 
-   O URL final deve ser semelhante a: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
+   A URL final deve ser mais ou menos assim: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
 
 1. Abra o URI que você criou em qualquer navegador.
 
@@ -71,7 +71,7 @@ Siga as etapas abaixo para saber como conceder o consentimento/as permissões ne
 
 ## Conceder consentimento a todos os usuários {#grant-consent-for-all-users}
 
-Como administrador, você também pode consentir com as permissões delegadas de um aplicativo em nome de todos os usuários em seu locatário. O consentimento administrativo impede que a caixa de diálogo de consentimento apareça para cada usuário no locatário e pode ser feito no portal do Azure por usuários com a função de administrador. Saiba quais funções de administrador podem [consentimento para permissões delegadas aqui](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Como administrador, você também pode consentir com as permissões delegadas de um aplicativo em nome de todos os usuários em seu locatário. O consentimento administrativo impede que a caixa de diálogo de consentimento apareça para cada usuário no locatário e pode ser feito no portal do Azure por usuários com a função de administrador. Saiba quais funções de administrador podem [consentir com permissões delegadas aqui](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. No portal do Azure, navegue até a página inicial do aplicativo.
 
@@ -79,7 +79,7 @@ Como administrador, você também pode consentir com as permissões delegadas de
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Clique em **[!UICONTROL Dar consentimento administrativo]** (para locatário) botão.
+1. Clique no botão **[!UICONTROL Dar consentimento administrativo]** (para locatário).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 

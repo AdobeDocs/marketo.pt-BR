@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Um administrador pode optar por exigir logon para visualizar um relatório.
 
-1. Clique em **Admin** e depois **Configurações de logon**.
+1. Clique em **Admin** e depois em **Configurações de Logon**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Clique em **Editar** para Configurações do relatório de Smart List.
+1. Clique em **Editar** para Configurações de Relatório de Lista Inteligente.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Selecionar **Sim** para exigir um logon para baixar relatórios.
+1. Selecione **Sim** para exigir um logon para baixar relatórios.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

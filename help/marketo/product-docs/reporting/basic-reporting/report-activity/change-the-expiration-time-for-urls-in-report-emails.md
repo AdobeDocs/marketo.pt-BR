@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Os links nos emails de assinatura de relatório expiram após três dias. Para alterar a hora de expiração desses links, siga estas etapas.
 
-1. Em **Admin**, clique em **Configurações de logon**.
+1. Em **Admin**, clique em **Configurações de Logon**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Clique no link **Editar expiração de URL** botão.
+1. Clique no botão **Editar expiração da URL**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 

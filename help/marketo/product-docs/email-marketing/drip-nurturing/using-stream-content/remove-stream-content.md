@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Remover conteúdo do fluxo {#remove-stream-content}
 
-Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo do fluxo, [arquivamento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) O preserva todo o histórico associado ao conteúdo. Se você não se importar em perder as estatísticas históricas de algum conteúdo e quiser removê-lo, veja como fazer isso.
+Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo de fluxo, o [arquivamento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) preserva todo o histórico associado ao conteúdo. Se você não se importar em perder as estatísticas históricas de algum conteúdo e quiser removê-lo, veja como fazer isso.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de engajamento e clique no link **Fluxos** guia.
+1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
 
    ![](assets/cloneasteam-3.jpg)
 
@@ -29,6 +29,6 @@ Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conte
 
    >[!CAUTION]
    >
-   >Remova o conteúdo somente se você não se importar com o histórico. Se quiser preservar o histórico, [arquivar](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) em vez disso.
+   >Remova o conteúdo somente se você não se importar com o histórico. Se quiser preservar o histórico, [arquive-o](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
    Pronto! Agora você sabe como remover um conteúdo.

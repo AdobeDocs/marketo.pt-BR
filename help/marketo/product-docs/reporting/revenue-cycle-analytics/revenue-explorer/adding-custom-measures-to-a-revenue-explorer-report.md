@@ -21,9 +21,9 @@ No exemplo abaixo, você está criando uma medida calculada para rejeições tem
 >
 >Você precisa de pelo menos uma métrica no relatório, mas ela não precisa ser uma das medidas usadas para definir sua medida personalizada.
 
-1. Extraia os campos necessários para o relatório. Consulte [Adicionar campos a um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obter detalhes.
+1. Extraia os campos necessários para o relatório. Consulte [Adicionando Campos a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obter detalhes.
 
-1. Clique com o botão direito do mouse em uma métrica existente (célula azul) e clique em **Medida Definida pelo Usuário** e selecione **Medida Calculada**.
+1. Clique com o botão direito em uma métrica existente (célula azul), clique em **Medida Definida pelo Usuário** e selecione **Medida Calculada**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -49,4 +49,4 @@ No exemplo abaixo, você está criando uma medida calculada para rejeições tem
 
    >[!MORELIKETHIS]
    >
-   >[Adicionar campos a um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[Adicionando Campos a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

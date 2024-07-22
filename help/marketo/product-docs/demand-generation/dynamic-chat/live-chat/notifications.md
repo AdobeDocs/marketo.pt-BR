@@ -4,7 +4,8 @@ title: Notificações
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+exl-id: b06da576-39a4-41db-8e29-302083baca36
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
@@ -15,7 +16,7 @@ ht-degree: 1%
 
 Para receber notificações do navegador para bate-papo ao vivo, todos os agentes de bate-papo ao vivo devem ativar as notificações do navegador para Dynamic Chat quando solicitado.
 
-Os agentes de bate-papo ao vivo verão um banner na parte superior da tela quando fizerem logon com a mensagem &quot;Ative as notificações do navegador para receber notificações de bate-papo ao vivo&quot;. Clique em **Ativar**.
+Os agentes de bate-papo ao vivo verão um banner na parte superior da tela quando fizerem logon com a mensagem &quot;Ative as notificações do navegador para receber notificações de bate-papo ao vivo&quot;. Clique em **Habilitar**.
 
 ![](assets/live-chat-overview-4.png)
 
@@ -27,7 +28,7 @@ Os agentes de bate-papo ao vivo serão solicitados pelo navegador a mostrar as n
 
 ### Chrome para Windows
 
-O Google descreve as etapas para ativar notificações do navegador para Windows no [este artigo](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+A Google descreve as etapas para habilitar notificações do navegador para Windows em [este artigo](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
 
 ### Chrome para SO Mac
 
@@ -35,7 +36,7 @@ O Google descreve as etapas para ativar notificações do navegador para Windows
 
 ## Ativar notificações no Firefox{#enable-notifications-in-firefox}
 
-O Firefox descreve as etapas para várias versões de navegador e sistemas operacionais no [este artigo](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+O Firefox descreve as etapas para várias versões de navegadores e sistemas operacionais no [este artigo](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
 
 ## Notificações do SO {#os-notifications}
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aprovar várias páginas de aterrissagem de uma vez {#approve-multiple-landing-pages-at-once}
 
-1. Ir para **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Não clique no nome real da landing page; esses são links e direcionarão você à própria página.
 
-1. Com as páginas de aterrissagem selecionadas, acesse **Ações da landing page** e clique em **Aprovar**.
+1. Com suas páginas de aterrissagem selecionadas, vá para **Ações da página de aterrissagem** e clique em **Aprovar**.
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 

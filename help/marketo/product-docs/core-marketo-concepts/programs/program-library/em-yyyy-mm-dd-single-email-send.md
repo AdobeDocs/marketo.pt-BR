@@ -2,11 +2,11 @@
 description: Envio de email único em AAAA-MM-DD-Marketo - Documentação do produto
 title: EM-AAAA-MM-DD-Envio de único email
 feature: Programs
-exl-id: 4dbf3234-a95e-420a-8975-cf86585fb3fc
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 23%
+source-wordcount: '280'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 23%
 
 Este exemplo envia um único email utilizando um Programa de email Marketo Engage. O email pode incluir ou não incluir um teste A/B.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a equipe de conta do Adobe ou visite o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} página.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -29,14 +29,14 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Email</td> 
    <td>01-Membro 
-<br/>02-Envolvido-Sucesso</td>
+<br/>02-Engajado-Sucesso</td>
    <td>Inclusivo</td>
    <td>Email</td>
   </tr>
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -69,8 +69,8 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   <tr> 
    <td>Pasta</td> 
    <td> </td>
-   <td>Assets - Ativos criativos 
-<br/>(subpastas para páginas de e-mail e de aterrissagem)  </td>
+   <td>Assets - Abriga todos os ativos criativos 
+<br/>(subpastas para Email e Páginas de Aterrissagem)  </td>
   </tr>
   <tr> 
    <td>Pasta</td> 
@@ -116,19 +116,19 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original
    * Usar modelo de destino - _Recomendado_
 
 * **Imagens com o mesmo nome**
    * Manter ambos os arquivos
-   * Substituir item desta inscrição - _Recomendado_
+   * Substituir item nesta assinatura - _Recomendado_
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos
    * Substituir modelo existente - _Recomendado_
 
@@ -144,4 +144,4 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a Campanha &quot;01-Engajado&quot; para rastreamento do sucesso! Faça isso _antes_ o formulário está disponível e os emails são enviados.
+>Não se esqueça de ativar a Campanha &quot;01-Engajado&quot; para rastreamento do sucesso! Faça _antes_ de o seu formulário estar online e os emails serem enviados.

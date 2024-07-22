@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Salvar um filtro permite alternar entre diferentes definições de filtro.
 
 >[!PREREQUISITES]
 >
->[Filtrar o calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[Filtrando o Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
 
 1. Defina o filtro.
 
@@ -35,8 +35,8 @@ Salvar um filtro permite alternar entre diferentes definições de filtro.
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Se desejar, você pode [enviar uma cópia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} da definição para outros usuários do Marketo.
+   Se desejar, você pode [enviar uma cópia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} da definição para outros usuários da Marketo.
 
    >[!NOTE]
    >
-   >[Compartilhamento de uma definição de filtro no Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[Compartilhando uma Definição de Filtro no Calendário de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Configurar Quando O Botão Social É Aberto {#configure-when-social-button-opens}
 
-Ao criar uma [botão social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), você pode configurar quando o botão apresenta o prompt de compartilhamento.
+Ao criar um [botão de redes sociais](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), você pode configurar quando o botão apresentará o prompt de compartilhamento.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/ma-3.png)
 
@@ -23,7 +23,7 @@ Ao criar uma [botão social](/help/marketo/product-docs/demand-generation/landin
 
    ![](assets/image2014-9-22-16-3a35-3a50.png)
 
-1. No editor de aplicativo social, acesse **Configurações do aplicativo** > **Opções avançadas**.
+1. No editor de aplicativos sociais, vá para **Configurações do Aplicativo** > **Opções Avançadas**.
 
    ![](assets/image2014-9-22-16-3a36-3a6.png)
 
@@ -31,9 +31,9 @@ Ao criar uma [botão social](/help/marketo/product-docs/demand-generation/landin
 
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
-   * **Ao clicar:** Quando uma pessoa clica no botão social.
-   * **Ao carregar a página:** Assim que a landing page que contém o botão social for carregada no navegador de uma pessoa.
-   * **Passar o mouse:** Quando uma pessoa passa o mouse sobre o botão social.
+   * **Ao clicar:** Quando uma pessoa clicar no botão social.
+   * **Ao carregar a página:** assim que a página de aterrissagem que contém o botão social for carregada no navegador de uma pessoa.
+   * **Mouse sobre:** quando uma pessoa passa o mouse sobre o botão social.
 
    >[!MORELIKETHIS]
    >

@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Navegação na página inicial do Analytics {#navigating-the-analytics-home-page}
 
-1. Vá para a **Analytics** área.
+1. Vá para a área **Analytics**.
 
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
@@ -29,4 +29,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre meus relatórios e relatórios de grupo](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)
+>[Entendendo meus relatórios e relatórios de grupo](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)

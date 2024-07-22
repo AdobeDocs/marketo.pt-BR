@@ -5,8 +5,8 @@ exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 0%
+source-wordcount: '286'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sistema** Os administradores são criados apenas no nível da Adobe Org. Se você precisar de mais de um, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Os administradores do **Sistema** são criados apenas no nível da Organização Adobe. Se você precisar de mais de um, contate o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Adicionar um administrador de produto {#add-a-product-admin}
 
@@ -34,11 +34,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Clique em **[!UICONTROL Administradores]** guia.
+1. Clique na guia **[!UICONTROL Administradores]**.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Clique em **[!UICONTROL Adicionar administrador]** botão.
+1. Clique no botão **[!UICONTROL Adicionar Administrador]**.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Clique em **+** assinatura. Clique na divisa ao lado da assinatura de Marketo Engage desejada (se houver mais de uma) e selecione o perfil de produto desejado.
+1. Clique no sinal **+**. Clique na divisa ao lado da assinatura de Marketo Engage desejada (se houver mais de uma) e selecione o perfil de produto desejado.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
@@ -82,11 +82,11 @@ O usuário receberá dois emails. O primeiro email notifica que receberam direit
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Clique em **[!UICONTROL Administradores]** guia.
+1. Clique na guia **[!UICONTROL Administradores]**.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Selecione o Administrador que deseja remover e clique no link **[!UICONTROL Remover administrador]** botão.
+1. Selecione o Administrador que deseja remover e clique no botão **[!UICONTROL Remover Administrador]**.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 

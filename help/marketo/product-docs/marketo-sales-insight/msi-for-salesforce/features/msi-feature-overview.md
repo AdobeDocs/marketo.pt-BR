@@ -46,7 +46,7 @@ Páginas do Visualforce:
 * Cliente em potencial - Inclui a opção de clicar no hiper &quot;Ir para a lista completa&quot;, você será direcionado para uma nova guia no Salesforce, onde o painel MSI estará visível em um layout de página completo
 * Lista Completa de Clientes Potenciais - Não inclui a opção &quot;Ir para Lista Completa&quot;
 * Lead Mobile - visível no aplicativo móvel do Salesforce
-* Ponte de contato de cliente potencial - Exibe o painel MSI do contato adicionado no campo ID de contato MSI
+* Bridge de Contato de Cliente Potencial - Exibe o painel MSI do contato adicionado no campo ID de Contato MSI
 
 Campos:
 
@@ -62,7 +62,7 @@ Campos:
 * Urgência
 * Valor de urgência
 * Exibir no Marketo - clique neste campo para abrir uma exibição não editável do cliente potencial no Marketo. Inclui: Informações do lead, Informações da empresa, Informações do lead SFDC, Campos personalizados SFDC, Log de atividades
-* Id de contato MSI - Adicione um contato do Salesforce a esse campo e inclua o painel &quot;Lead Contact Bridge&quot; no layout do lead para ver o painel MSI do contato
+* ID de contato MSI - Adicione um contato do Salesforce a esse campo e inclua o painel &quot;Bridge de contato de cliente potencial&quot; no layout de clientes potenciais para ver o painel MSI do contato
 
 ## Layout do contato {#contact-layout}
 
@@ -107,7 +107,7 @@ Ações:
 * Enviar e-mail do Marketo
 * Adicionar/Remover da Lista de Controle
 
-Os seguintes recursos são **não disponível** na página Layout da conta:
+Os seguintes recursos **não estão disponíveis** na página Layout da Conta:
 
 * Estrelas e chamas
 
@@ -130,7 +130,7 @@ Ações:
 * Enviar e-mail do Marketo
 * Adicionar/Remover da Lista de Controle
 
-Os seguintes recursos são **não disponível** na página Layout da oportunidade:
+Os seguintes recursos **não estão disponíveis** na página Layout da oportunidade:
 
 * Estrelas e chamas
 

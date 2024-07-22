@@ -7,7 +7,7 @@ exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ As ações do Sales Insight oferecem a você a capacidade de registrar automatic
 * Deve registrar emails por meio do registro da API
 * Deve poder [rastrear uma resposta](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
 * Deve estar conectado ao Salesforce
-* É necessário ter o Salesforce [Chamadas de API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) disponível
+* Deve ter [chamadas de API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) do Salesforce disponíveis
 
 ## Ativar o registro de respostas {#enable-reply-logging}
 
-1. Para ativar o registro de respostas, você pode ir para a página de configurações do Salesforce. Depois que o registro da API for desmarcado, você verá a opção para marcar _Registrar respostas_.
+1. Para ativar o registro de respostas, você pode ir para a página de configurações do Salesforce. Depois que o log da API for desmarcado, você verá a opção para verificar _Registrar Respostas_.
 
    >[!NOTE]
    >
@@ -33,12 +33,12 @@ As ações do Sales Insight oferecem a você a capacidade de registrar automatic
 
 ## Definição do tipo para responder no Salesforce {#setting-type-to-reply-in-salesforce}
 
-Obter dados significativos de seus relatórios do Salesforce é importante. Ter a capacidade de ter o campo Tipo preenchido como &quot;Resposta&quot; permite que você obtenha esses dados por meio de seus relatórios. Faça parceria com seu `Salesforce admin` para obter esta configuração.
+Obter dados significativos de seus relatórios do Salesforce é importante. Ter a capacidade de ter o campo Tipo preenchido como &quot;Resposta&quot; permite que você obtenha esses dados por meio de seus relatórios. Faça parceria com o `Salesforce admin` para obter essa configuração.
 
-1. Ir para **Configuração** > **Personalizar** > **Atividades** > **Campos de tarefa**.
+1. Vá para **Configuração** > **Personalizar** > **Atividades** > **Campos de Tarefa**.
 1. Clique em **Tipo**.
-1. Em Valores da Lista de Escolha de Tipo de Tarefa, clique em **Novo**.
-1. Digite &quot;Responder&quot; na caixa vazia. Certifique-se de colocar a letra &#39;R&#39; em maiúscula e clicar em **Salvar**.
+1. Em Valores da Lista de Escolha de Tipos de Tarefa, clique em **Novo**.
+1. Digite &quot;Responder&quot; na caixa vazia. Certifique-se de colocar &#39;R&#39; em maiúsculas e clique em **Salvar**.
 
    >[!NOTE]
    >

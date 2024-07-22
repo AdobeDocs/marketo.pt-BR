@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Os retângulos nas páginas de aterrissagem são ótimos para realçar uma área do texto.
 
-1. Selecione uma página de aterrissagem de formato livre e clique em **Editar rascunho**.
+1. Selecione uma página de aterrissagem de forma livre e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -23,11 +23,11 @@ Os retângulos nas páginas de aterrissagem são ótimos para realçar uma área
    >
    >O designer da página de aterrissagem de forma livre é aberto em uma nova janela.
 
-1. Arraste sobre o **Retângulo** elemento.
+1. Arraste sobre o elemento **Retângulo**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Selecione o retângulo e use o **Folha de Propriedades** para fazer as alterações necessárias.
+1. Selecione o retângulo e use a **Folha de Propriedades** para fazer as alterações necessárias.
 
    >[!TIP]
    >

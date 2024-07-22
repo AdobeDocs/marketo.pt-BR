@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Sua equipe de vendas pode enviar emails e rastreá-los para aberturas e cliques diretamente do Microsoft Dynamics. Veja como.
 
-1. No Dynamics, acesse o **Vendas** área.
+1. No Dynamics, vá para a área **Vendas**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Selecione um **Exibição do sistema**.
+1. Selecione uma **Exibição de Sistema**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ Sua equipe de vendas pode enviar emails e rastreá-los para aberturas e cliques 
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Clique em **..** e clique em **Enviar email do Marketo**.
+1. Clique na guia **...** e em **Enviar Email do Marketo**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -35,13 +35,13 @@ Sua equipe de vendas pode enviar emails e rastreá-los para aberturas e cliques 
    >
    >Você pode [publicar emails como modelos](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) para a equipe de vendas usar.
 
-1. Adicione um assunto, redija o email e clique em **Enviar e-mail**. (Escolha um template se precisar de um.)
+1. Adicione um assunto, escreva seu email e clique em **Enviar Email**. (Escolha um template se precisar de um.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
    >[!TIP]
    >
-   >Você pode clicar em **Enviar email de teste** primeiro, e o email será enviado a você (endereço de email principal no Microsoft Dynamics) antes do envio do email real.
+   >Você pode clicar em **Enviar Email de Teste** primeiro e o email será enviado a você (endereço de email principal no Microsoft Dynamics) antes do envio do email real.
 
    >[!NOTE]
    >
@@ -51,4 +51,4 @@ Muito bem! Agora você sabe como enviar emails rastreados do Marketo diretamente
 
 >[!MORELIKETHIS]
 >
->[Adicionar um cliente potencial/contato a uma campanha do Marketo no Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[Adicionar um Cliente Potencial/Contato a uma Campanha do Marketo no Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)

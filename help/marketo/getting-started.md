@@ -19,13 +19,13 @@ ht-degree: 11%
 
 O que é Marketo Engage? Ótima pergunta!
 
-[Saiba mais sobre o Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[Aprender Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Configuração {#get-set-up}
 
 Com uma pequena ajuda da sua equipe de TI, você pode fazer isso rapidamente.
 
-[Iniciar configuração](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[Iniciar Instalação](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Ganhe algumas vitórias rápidas {#get-some-quick-wins}
 
@@ -38,7 +38,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <img alt="Conectar" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configurar e adicionar uma pessoa</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configure e adicione uma pessoa</a>
     </div>
     <br>
   </td>
@@ -46,7 +46,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="Importar" src="getting-started/assets/getting-started.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. Enviar um e-mail</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. Enviar um email</a>
     </div>
     <br>
   </td>
@@ -64,7 +64,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <img alt="Conectar" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. Pontuação simples</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. Pontuação Simples</a>
     </div>
     <br>
   </td>
@@ -72,7 +72,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="Importar" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Resposta automática de email</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Resposta Automática de Email</a>
     </div>
     <br>
   </td>
@@ -83,7 +83,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <img alt="Email" src="getting-started/assets/getting-started-6.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importar uma lista de pessoas</a>
+    <a href="getting-started/quick-wins/import-a-list-of-people.md">6. Importar uma Lista de Pessoas</a>
     </div>
     <br>
   </td>
@@ -92,7 +92,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <img alt="Conectar" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Enfermagem por gotejamento</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Alimentação por Gotejamento</a>
     </div>
     <br>
   </td>
@@ -118,7 +118,7 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
       <img alt="Conectar" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10. Atualizar dados da pessoa</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10. Atualizar Dados Da Pessoa</a>
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
 
 ## ETAPA 4 Parabéns! Você está pronto para a Nação  {#congrats-youre-ready-for-the-nation}
 
-Confira o [Nação de marketing](https://nation.marketo.com){target="_blank"}!
+Dê uma olhada na [Nação de marketing](https://nation.marketo.com){target="_blank"}!

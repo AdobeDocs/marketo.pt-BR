@@ -5,7 +5,7 @@ title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Uma sandbox da Marketo não pode ser sincronizada com o seu CRM normal se já es
 ## O que você deve saber sobre sandboxes {#things-to-know-about-sandboxes}
 
 * Depois que a equipe de conta do Adobe configurar sua sandbox e enviar o convite, você deverá usar um endereço de email de logon diferente da instância de produção do Marketo.
-* Se quiser adicionar usuários, o processo será o mesmo que [adição de usuários na produção](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon no Marketo.
+* Se quiser adicionar usuários, o processo é o mesmo que [adicionar usuários na produção](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon no Marketo.
 * A sandbox da Marketo começará vazia, mas terá os mesmos recursos disponíveis que a instância de produção.
-* Se você criar um programa em sua sandbox e quiser movê-lo para a produção, é possível executar um [importação de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* Se você criar um programa em sua sandbox e quiser movê-lo para a produção, poderá executar uma [importação de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * As sandboxes são limitadas para que as instâncias de produção não sejam afetadas negativamente pelos ambientes de teste. Você pode enviar até 20 emails por execução de campanha.
 
 >[!CAUTION]
@@ -34,7 +34,7 @@ Uma sandbox da Marketo não pode ser sincronizada com o seu CRM normal se já es
 
 ## Cópia da instância {#instance-copy}
 
-É possível enviar um caso de suporte solicitando uma cópia de instância única para preencher sua sandbox. A cópia da instância não trará _tudo_ No entanto. Consulte [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter detalhes.
+É possível enviar um caso de suporte solicitando uma cópia de instância única para preencher sua sandbox. No entanto, a cópia da instância não trará _tudo_. Consulte o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter detalhes.
 
 >[!NOTE]
 >

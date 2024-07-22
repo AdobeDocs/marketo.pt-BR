@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359799
-description: Publicar um Sweepstakes - Documentação do Marketo - Documentação do produto
-title: Publicar um Sweepstakes
+description: Sweepstakes do Publish a - Documentação do Marketo - Documentação do produto
+title: Sweepstakes do Publish a
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Publicar um Sweepstakes {#publish-a-sweepstakes}
+# Sweepstakes do Publish a {#publish-a-sweepstakes}
 
-Depois que você [criar um sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode publicá-los nas páginas de aterrissagem do Marketo, no seu site e no Facebook.
+Depois de [criar um sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você poderá publicá-lo nas páginas de aterrissagem do Marketo, em seu site e em seu Facebook.
 
 >[!AVAILABILITY]
 >
@@ -26,7 +26,7 @@ Depois que você [criar um sorteio](/help/marketo/product-docs/demand-generation
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Localize a seção Inserir elementos no lado direito da página. Arrastar sobre **Sorteios**.
+1. Localize a seção Inserir elementos no lado direito da página. Arraste mais de **Sweepstakes**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
@@ -38,7 +38,7 @@ Depois que você [criar um sorteio](/help/marketo/product-docs/demand-generation
    >
    >Você precisa aprovar seu sorteio para disponibilizá-lo aqui.
 
-   Parabéns! Aprove a landing page e seu sorteio está online. Também é possível [publicar a landing page no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [coloque o sorteio em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+   Parabéns! Aprove a landing page e seu sorteio está online. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar os sorteios em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >

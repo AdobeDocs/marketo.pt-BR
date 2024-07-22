@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Por padrão, um novo modelo inicia você com seis estágios de receita. Esse mod
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Observe que todas elas estão em um fundo verde. Isso é chamado de **Caminho de sucesso**. Saiba mais sobre o caminho de sucesso [aqui](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Observe que todas elas estão em um fundo verde. Isso é chamado de **Caminho de Sucesso**. Saiba mais sobre o caminho de sucesso [aqui](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **Estágios** são os marcos de uma progressão de leads em direção às suas metas.
 
-**Transições** são mostradas como setas e controlam como os leads se movem entre estágios.
+**As transições** são mostradas como setas e controlam como os clientes em potencial se movem entre estágios.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Isso se parece com uma caixa e é o mais básico dos estágios. O Analytics rast
 
 ## Estágio do SLA {#sla-stage}
 
-É uma abreviação de **Contrato de nível de serviço** estágio. A intenção aqui é que alguns estágios exijam a imposição de um limite de tempo.
+É a forma abreviada para o estágio **Contrato de Nível de Serviço**. A intenção aqui é que alguns estágios exijam a imposição de um limite de tempo.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Um estágio de Porta é destinado a situações em que você deseja filtrar lead
 >
 >**Exemplo**
 >
->Uma porta pode ser usada para clientes potenciais que fazem parte de uma **lista de contas nomeadas** para separar isso do processo normal.
+>Uma porta pode ser usada para clientes potenciais que fazem parte de uma **lista de contas nomeadas** para separá-la do processo normal.
 
 ## Transições {#transitions}
 
@@ -95,13 +95,13 @@ Lost é um bom item a ser adicionado, mas observe que não está no caminho verd
 
 >[!MORELIKETHIS]
 >
->* [Criar um novo modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [Criar um Novo Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Usando Estágios de Inventário de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Usando Estágios De Inventário De Modelo De Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [Uso dos Estágios de Portão do Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [Usando Estágios de Portão de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Uso dos estágios de SLA do modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Usando Estágios de SLA de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
 >* [Relatório sobre seu modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >

@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Você pode desativar um programa de envolvimento com o toque de um botão. Isso impedirá que qualquer conteúdo seja enviado. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,11 +27,11 @@ Você pode desativar um programa de envolvimento com o toque de um botão. Isso 
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Clique duas vezes **Status do programa**.
+1. Clique duas vezes em **Status do programa**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Selecionar **Desligado** e clique em **Salvar**.
+1. Selecione **Desativado** e clique em **Salvar**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

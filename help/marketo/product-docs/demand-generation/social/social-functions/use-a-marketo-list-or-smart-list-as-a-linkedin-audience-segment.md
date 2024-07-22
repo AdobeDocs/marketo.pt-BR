@@ -6,7 +6,7 @@ exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Integre seu pessoal da Marketo aos públicos da LinkedIn.
 >
 >[Adicionar públicos-alvo correspondentes do LinkedIn como um serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. Vá para a **Banco de dados**.
+1. Vá para o **Banco de Dados**.
 
    ![](assets/db.png)
 
@@ -27,11 +27,11 @@ Integre seu pessoal da Marketo aos públicos da LinkedIn.
 
    ![](assets/two.png)
 
-1. Clique em **Pessoas** guia.
+1. Clique na guia **Pessoas**.
 
    ![](assets/three-1.png)
 
-1. Clique em **Enviar via Ponte de Anúncios** ícone ![—](assets/image2015-4-20-18-3a18-3a41.png) na parte inferior da lista.
+1. Clique no ícone ![—](assets/image2015-4-20-18-3a18-3a41.png) **Enviar por meio do Ad Bridge** na parte inferior da lista.
 
    ![](assets/four-1.png)
 
@@ -39,15 +39,15 @@ Integre seu pessoal da Marketo aos públicos da LinkedIn.
    >
    >Ao usar integrações de rede de anúncios para enviar um público-alvo para o LinkedIn, o Marketo envia somente o endereço de email.
 
-1. Selecionar **LinkedIn** e clique em **Próxima**.
+1. Selecione **LinkedIn** e clique em **Avançar**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Selecione um **Público-alvo da linkedIn**.
+1. Selecione um **Público-alvo do LinkedIn**.
 
    >[!NOTE]
    >
-   >Clicando **+Novo público-alvo** O criará um público-alvo no LinkedIn Campaign Manager.
+   >Clicar em **+Novo público-alvo** criará um público-alvo no LinkedIn Campaign Manager.
 
    ![](assets/6.png)
 
@@ -63,4 +63,4 @@ Integre seu pessoal da Marketo aos públicos da LinkedIn.
    >
    >Aguarde 15 minutos para que a sincronização ocorra.
 
-Toque cinco! Seus dados agora serão integrados aos públicos da LinkedIn. Para obter informações sobre como fazer upload de listas para a LinkedIn para direcionamento de contas e contatos, visite [Centro de ajuda das Soluções de marketing da linkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
+Toque cinco! Seus dados agora serão integrados aos públicos da LinkedIn. Para obter informações sobre como carregar listas para a LinkedIn para direcionamento de contas e contatos, visite o [centro de ajuda de soluções de marketing da LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).

@@ -5,8 +5,8 @@ exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 1%
+source-wordcount: '171'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ Precisa alterar sua senha? Veja como.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. A página Meu perfil é aberta por padrão. Em Detalhes da conta, selecione a variável **Alterar senha** caixa de seleção
+1. A página Meu perfil é aberta por padrão. Em Detalhes da conta, marque a caixa de seleção **Alterar senha**.
 
    ![](assets/change-your-sales-connect-password-2.png)
 
@@ -39,11 +39,11 @@ Precisa alterar sua senha? Veja como.
 
 ## Alterar a senha ao sair {#change-your-password-while-signed-out}
 
-1. Navegue até a [Login do Sales Connect](https://toutapp.com/login) e clique em **Esqueceu a senha**.
+1. Navegue até a página [Login do Sales Connect](https://toutapp.com/login) e clique em **Esqueceu a senha**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. Insira o endereço de email associado à conta e clique em **Enviar e-mail de redefinição**.
+1. Digite o endereço de email associado à conta e clique em **Enviar email de redefinição**.
 
    ![](assets/change-your-sales-connect-password-5.png)
 

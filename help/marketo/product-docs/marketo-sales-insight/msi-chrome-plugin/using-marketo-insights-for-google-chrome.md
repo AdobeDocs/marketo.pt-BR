@@ -41,7 +41,7 @@ Envie e rastreie qualquer email do Google com o Marketo Insights para Google Chr
    >
    >Como opção, clique na seta dupla para expandir para uma exibição em tela cheia.
 
-1. Se quiser preencher previamente o email com um modelo publicado do Marketo, clique em **Mais opções** e selecione **Carregar modelo do Marketo**.
+1. Para preencher previamente o seu email com um modelo do Marketo publicado, clique em **Mais Opções** e selecione **Carregar Modelo do Marketo**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
@@ -49,13 +49,13 @@ Envie e rastreie qualquer email do Google com o Marketo Insights para Google Chr
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. Insira seu conteúdo, um endereço de email e clique em **Enviar**.
+1. Digite seu conteúdo, um endereço de email e clique em **Enviar**.
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >As mensagens são rastreadas somente quando a variável **Enviar** botão é roxo.
+   >As mensagens são rastreadas somente quando o botão **Enviar** é roxo.
 
 1. O email logo aparecerá no Marketo Sales Insight e todas as aberturas e cliques serão rastreados.
 

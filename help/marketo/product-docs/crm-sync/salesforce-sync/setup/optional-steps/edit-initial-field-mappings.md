@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Esse recurso só pode ser acessado antes da sincronização inicial com o Salesforce. Quando a variável **[!UICONTROL Sincronizar agora]** for pressionado, isso não poderá mais ser feito.
+>Esse recurso só pode ser acessado antes da sincronização inicial com o Salesforce. Depois que o botão **[!UICONTROL Sincronizar Agora]** for pressionado, isso não poderá mais ser feito.
 
 Durante a sincronização inicial com o Salesforce, o Marketo Engage combina automaticamente campos personalizados com nomes semelhantes em um único campo no lado do Marketo para garantir que os dados possam ser trocados com objetos de cliente potencial e de contato no CRM. Este artigo explica como personalizar esses mapeamentos.
 
 ## Mapear campos não mapeados {#map-unmapped-fields}
 
-Quando você vir um campo na variável [!UICONTROL Campos não mapeados] significa que não está mapeado para um campo semelhante no cliente potencial ou contato no Salesforce. Você pode consertar isso.
+Quando você vê um campo na pasta [!UICONTROL Campos não mapeados], significa que ele não está mapeado para um campo semelhante no cliente potencial ou contato no Salesforce. Você pode consertar isso.
 
 1. Clique em **[!UICONTROL Editar Mapeamentos]**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Abra o **[!UICONTROL Campos personalizados não mapeados]** pasta.
+1. Abra a pasta **[!UICONTROL Campos Personalizados Não Mapeados]**.
 
    ![](assets/two.png)
 
@@ -63,7 +63,7 @@ Se você tiver campos nomeados de forma semelhante no cliente potencial e no obj
 
 ## Redefinir esquema {#reset-schema}
 
-1. Se fizer algumas alterações no esquema do Salesforce ao trabalhar nos mapeamentos, você poderá extrair as alterações clicando em **[!UICONTROL Redefinir esquema]**.
+1. Se você fizer algumas alterações no esquema no Salesforce enquanto estiver trabalhando nos mapeamentos, poderá obter as alterações clicando em **[!UICONTROL Redefinir esquema]**.
 
    * Todas as alterações de mapeamento serão redefinidas.
    * A redefinição do esquema só adicionará campos, não removerá (mesmo se você os ocultar do usuário de sincronização).

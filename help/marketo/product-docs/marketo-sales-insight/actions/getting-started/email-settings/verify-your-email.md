@@ -5,7 +5,7 @@ exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ Se você tiver uma identidade de email que não foi verificada, siga as etapas a
 
    ![](assets/verify-your-email-2.png)
 
-1. Em Endereço e assinatura, localize o email que deseja verificar e clique em **Reenviar email de verificação**. Um novo email de verificação será enviado.
+1. Em Endereço e Assinatura, localize o email que deseja verificar e clique em **Reenviar Email de Verificação**. Um novo email de verificação será enviado.
 
    ![](assets/verify-your-email-3.png)
 
@@ -36,4 +36,4 @@ Se você tiver uma identidade de email que não foi verificada, siga as etapas a
 
 >[!NOTE]
 >
->Se você não receber o email de verificação, verifique sua pasta de spam. Se não estiver lá, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se você não receber o email de verificação, verifique sua pasta de spam. Se não estiver lá, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).

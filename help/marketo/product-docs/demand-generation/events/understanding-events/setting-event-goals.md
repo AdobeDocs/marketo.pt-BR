@@ -24,15 +24,15 @@ Atribua metas específicas aos eventos e veja o desempenho deles.
 
    ![](assets/setting-event-goals-1.png)
 
-1. Escolha o [!UICONTROL Pasta do Campaign], dê ao seu evento um [!UICONTROL Nome], selecione o [!UICONTROL Tipo de programa] e [!UICONTROL Canal]. Clique em **[!UICONTROL Criar]** quando terminar.
+1. Escolha a [!UICONTROL Pasta de Campanha], dê ao seu evento um [!UICONTROL Nome], selecione o [!UICONTROL Tipo de Programa] e o [!UICONTROL Canal]. Clique em **[!UICONTROL Criar]** quando terminar.
 
    ![](assets/setting-event-goals-2.png)
 
-1. No seu evento, clique no link **[!UICONTROL Relatórios]** guia.
+1. Em seu evento, clique na guia **[!UICONTROL Relatórios]**.
 
    ![](assets/setting-event-goals-3.png)
 
-1. Inserir a meta para [!UICONTROL Registrado] clicando em **[!UICONTROL Definir uma meta]**. Digite o número em e pressione Enter.
+1. Insira a meta para [!UICONTROL Registrado] clicando em **[!UICONTROL Definir uma meta]**. Digite o número em e pressione Enter.
 
    ![](assets/setting-event-goals-4.png)
 
@@ -46,4 +46,4 @@ Atribua metas específicas aos eventos e veja o desempenho deles.
 >
 >Você não pode definir metas para um evento após seu início.
 
-E é isso! Verifique o status da meta do evento clicando no link [!UICONTROL Relatórios] guia.
+E é isso! Verifique o status da meta do evento clicando na guia [!UICONTROL Relatórios].

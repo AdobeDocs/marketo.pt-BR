@@ -21,7 +21,7 @@ Os registros de lead tornam-se verdadeiros ou falsos com base nas regras de flux
 
 | Se o filtro de sincronização do registro perdido for: | e o filtro de sincronização do registro vencedor é: | Este é o resultado no Marketo |
 |---|---|---|
-| True | True | O registro vencedor continua a sincronização com o Marketo |
-| Falso | Falso | O recorde de vitórias continua a _não_ sincronizar com o Marketo |
-| Falso | True | O registro vencedor será sincronizado com o Marketo |
-| True | Falso | O registro vencedor não será sincronizado com o Marketo |
+| Verdadeiro | Verdadeiro | O registro vencedor continua a sincronização com o Marketo |
+| Falso | Falso | O registro vencedor continua a _não_ sincronizar com o Marketo |
+| Falso | Verdadeiro | O registro vencedor será sincronizado com o Marketo |
+| Verdadeiro | Falso | O registro vencedor não será sincronizado com o Marketo |

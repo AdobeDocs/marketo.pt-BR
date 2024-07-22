@@ -15,7 +15,7 @@ ht-degree: 0%
 
 É possível exportar os resultados de palavras-chave para compartilhar com a equipe ou criar um relatório.
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 

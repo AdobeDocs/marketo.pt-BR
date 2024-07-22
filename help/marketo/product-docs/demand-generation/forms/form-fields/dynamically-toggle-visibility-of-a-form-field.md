@@ -15,25 +15,25 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [Adicionar uma lista de opções de país ao formulário](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [Adicionar uma lista de opções do país ao seu formulário](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Um recurso realmente interessante do Marketo Forms é que você pode ocultar/mostrar campos de formulário dinamicamente ou [fieldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+Um recurso muito interessante dos formulários do Marketo é que você pode ocultar/mostrar dinamicamente campos ou [conjuntos de campos](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 
 >[!NOTE]
 >
 >**Exemplo**
 >
->Neste exemplo, vamos ocultar a variável **Estado** campo, a menos que **País** é selecionado como &quot;Estados Unidos&quot;.
+>Neste exemplo, vamos ocultar o campo **Estado**, a menos que **País** esteja selecionado como &quot;Estados Unidos&quot;.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/editform-1.png)
 
-1. Selecione o campo que deseja ocultar/mostrar dinamicamente e clique no link **Regras de visibilidade**.
+1. Selecione o campo que deseja ocultar/mostrar dinamicamente e clique no link para **Regras de visibilidade**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -59,7 +59,7 @@ Um recurso realmente interessante do Marketo Forms é que você pode ocultar/mos
 
    >[!NOTE]
    >
-   >Anteriormente, convertemos o País em um tipo de campo de lista de opções e [adicionados todos os países como valores](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Anteriormente convertemos País em um tipo de campo de lista de opções e [adicionamos todos os países como valores](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Clique em **Salvar**.
 
@@ -69,6 +69,6 @@ E é isso! Agora, quando as pessoas preencherem este formulário e selecionarem 
 
 >[!IMPORTANT]
 >
->O comportamento do campo de formulário funcionará perfeitamente quando os valores de campo forem definidos/atualizados por meio de um script personalizado usando [Funções da API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} no Forms 2.0.
+>O comportamento do campo de formulário funcionará perfeitamente quando os valores de campo forem definidos/atualizados por meio de script personalizado usando [funções de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} no Forms 2.0.
 >
->Campos condicionais podem não funcionar como esperado se os valores de campo forem modificados por scripts externos diferentes da API JavaScript do Forms 2.0.
+>Campos condicionais podem não funcionar como esperado se os valores de campo forem modificados por scripts externos diferentes da API do JavaScript do Forms 2.0.

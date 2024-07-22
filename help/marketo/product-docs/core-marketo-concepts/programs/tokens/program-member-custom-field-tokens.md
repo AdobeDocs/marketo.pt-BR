@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ Com o apoio dos recursos de Campos personalizados de membros do programa, o supo
 
 Os tokens PMCF terão suporte no domínio membro da família de tokens.
 
-Os tokens de membro são usados para campos no escopo de Membro do programa. A partir do estado atual, os Tokens de membro também são usados para inserir valores exclusivos de parceiros de serviços integrados. `{{member.webinar url}}` O token resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo provedor de serviços. {{member.registration code}} resolve para o código de registro fornecido pelo provedor de serviços.
+Os tokens de membro são usados para campos no escopo de Membro do programa. A partir do estado atual, os Tokens de membro também são usados para inserir valores exclusivos de parceiros de serviços integrados. O token `{{member.webinar url}}` resolve automaticamente a URL de confirmação exclusiva da pessoa gerada pelo provedor de serviços. {{member.registration code}} resolve para o código de registro fornecido pelo provedor de serviços.
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ Os tokens de membro são usados para campos no escopo de Membro do programa. A p
 
 Você pode inserir tokens de campos personalizados do membro do programa em emails, landing pages, SMS, notificações por push e webhooks.
 
-**E-mails**
+**Emails**
 
-1. Selecione o email desejado e clique em **[!UICONTROL Editar rascunho]**.
+1. Selecione o email desejado e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,7 +41,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Localize e selecione o Token do campo personalizado de membro do programa desejado, insira um valor padrão e clique em **[!UICONTROL Inserir]**.
+1. Localize e selecione o Token de Campo Personalizado de Membro de Programa desejado, insira um valor padrão e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -53,9 +53,9 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 >
 >Não se esqueça de aprovar seu e-mail.
 
-**Páginas**
+**Páginas de aterrissagem**
 
-1. Selecione a Landing Page e clique em **[!UICONTROL Editar rascunho]**.
+1. Selecione sua Landing Page e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,7 +75,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Insira um valor padrão e clique em **[!UICONTROL Inserir]**.
+1. Insira um Valor padrão e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -89,7 +89,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Clique em **`{{ Token`** botão.
+1. Clique no botão **`{{ Token`**.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -111,7 +111,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Clique na mensagem no editor e clique no botão `{{` botão para obter o seletor de token.
+1. Clique na mensagem no editor e no botão `{{` para obter o seletor de token.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
@@ -119,7 +119,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Clique em **[!UICONTROL Concluir]** para salvar e sair (ou **[!UICONTROL Próxima]** para revisar primeiro).
+1. Clique em **[!UICONTROL Concluir]** para salvar e sair (ou em **[!UICONTROL Avançar]** para examinar primeiro).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

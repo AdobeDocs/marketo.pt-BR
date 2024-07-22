@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## Criar uma categoria {#create-a-category}
 
-1. Clique em **Modelos** guia.
+1. Clique na guia **Modelos**.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Clique em **+** ícone ao lado de **Categorias**.
+1. Clique no ícone **+** ao lado de **Categorias**.
 
    ![](assets/manage-template-categories-2.png)
 
@@ -30,25 +30,25 @@ ht-degree: 0%
 
 ## Renomear uma categoria de modelo {#rename-a-template-category}
 
-1. Clique em **Modelos** guia.
+1. Clique na guia **Modelos**.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Passe o mouse sobre o modelo que deseja renomear e clique nos dados (três pontos). Selecionar **Renomear**.
+1. Passe o mouse sobre o modelo que deseja renomear e clique nos dados (três pontos). Selecione **Renomear**.
 
    ![](assets/manage-template-categories-5.png)
 
-1. Digite o novo nome. Pressione Enter (ou apenas clique em qualquer outro lugar na tela) para salvar.
+1. Digite o novo nome. Pressione Enter (ou apenas clique em outro lugar na tela) para salvar.
 
    ![](assets/manage-template-categories-6.png)
 
 ## Excluir uma categoria de modelo {#delete-a-template-category}
 
-1. Clique em **Modelos** guia.
+1. Clique na guia **Modelos**.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Passe o mouse sobre o modelo que deseja renomear e clique nos dados (três pontos). Selecionar **Excluir**.
+1. Passe o mouse sobre o modelo que deseja renomear e clique nos dados (três pontos). Selecione **Excluir**.
 
    ![](assets/manage-template-categories-8.png)
 

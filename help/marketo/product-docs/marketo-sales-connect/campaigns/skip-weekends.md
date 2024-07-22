@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ao automatizar uma campanha, você provavelmente não quer que seus emails sejam enviados em um sábado ou domingo. Caso contrário, você poderá ignorar os finais de semana.
 
-1. No Sales Connect, clique no link **Campanhas** guia.
+1. No Sales Connect, clique na guia **Campanhas**.
 
    ![](assets/one-2.png)
 
@@ -27,7 +27,7 @@ Ao automatizar uma campanha, você provavelmente não quer que seus emails sejam
 
    ![](assets/three-2.png)
 
-1. Selecione o **Ignorar fins de semana** caixa de seleção
+1. Marque a caixa de seleção **Ignorar fins de semana**.
 
    ![](assets/four-2.png)
 

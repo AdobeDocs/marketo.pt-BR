@@ -23,7 +23,7 @@ As ofertas de indicação oferecem às pessoas um incentivo para encaminhar seus
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. No **Galeria de ativos locais**, clique em **Oferta de indicação**.
+1. Na **Galeria de Ativos Locais**, clique em **Oferta de Referência**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,31 +33,31 @@ As ofertas de indicação oferecem às pessoas um incentivo para encaminhar seus
 
    >[!TIP]
    >
-   >Para economizar tempo, você pode usar o **Clonar de** opção para copiar todas as configurações de uma oferta de referência existente.
+   >Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de uma oferta de referência existente.
 
    O editor de oferta de referência é aberto em uma nova janela. As configurações padrão são todas adequadas, mas é necessário adicionar um link para as regras da oferta (termos e condições). O link aparecerá na parte inferior das telas de mensagem de compartilhamento. Mostraremos como na próxima etapa.
 
-1. Clique em **Opções avançadas**.
+1. Clique em **Opções Avançadas**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Adicione um link para as regras da sua oferta. Insira o **URL**.
+1. Adicione um link para as regras da sua oferta. Insira a **URL**.
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >Nesta tela, você também pode adicionar um link de política de privacidade. Consulte  [Adicionar sua política de privacidade a um aplicativo social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >Nesta tela, você também pode adicionar um link de política de privacidade. Consulte [Adicionar sua política de privacidade a um aplicativo social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
 1. Clique em **Concluir**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    >[!TIP]
    >
-   >Para alterar qualquer padrão na sua oferta de referência, clique em **Voltar**. Para salvar seu trabalho para posteriormente sem aprovação, clique em **Fechar**.
+   >Para alterar qualquer padrão na sua oferta de referência, clique em **Voltar**. Para salvar seu trabalho para mais tarde sem aprovação, clique em **Fechar**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -71,4 +71,4 @@ Parabéns! Você criou sua oferta de referência.
 
 >[!MORELIKETHIS]
 >
->O próximo passo é [publicar sua oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) em uma página de aterrissagem, em seu site ou no Facebook.
+>A próxima etapa é [publicar sua oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) em uma página de aterrissagem, em seu site ou no Facebook.

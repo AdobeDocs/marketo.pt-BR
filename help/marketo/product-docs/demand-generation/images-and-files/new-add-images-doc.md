@@ -4,9 +4,10 @@ title: Novo Documento Adicionar Imagens
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 2154c444be9654474fcc2d1b8e9983983f44846f
+exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
+source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '291'
 ht-degree: 6%
 
 ---
@@ -17,15 +18,15 @@ Você tem várias opções para adicionar novos arquivos/imagens ao repositório
 
 ## Carregar imagem ou arquivo {#upload-image-or-file}
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Selecionar **[!UICONTROL Imagens e arquivos]**
+1. Selecionar **[!UICONTROL Imagens e Arquivos]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Fazer upload de imagem ou arquivo]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Carregar imagem ou arquivo]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -47,15 +48,15 @@ Texto
 
 1. Siga as etapas 1 e 2 [de cima](#upload-image-or-file).
 
-1. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Importar imagem ou arquivo]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Importar imagem ou arquivo]**.
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Selecione o **[!UICONTROL Web]** e clique em **[!UICONTROL Próxima]**.
+1. Selecione a opção **[!UICONTROL Web]** e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. Digite ou cole o URL para a imagem desejada e clique em **Próxima**.
+1. Digite ou cole a URL para a imagem desejada e clique em **Avançar**.
 
 PICC
 
@@ -69,11 +70,11 @@ Texto
 
 1. Siga as etapas 1 e 2 [de cima](#upload-image-or-file).
 
-1. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Importar imagem ou arquivo]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Importar imagem ou arquivo]**.
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Selecione o **[!UICONTROL Caixa]** e clique em **[!UICONTROL Próxima]**.
+1. Selecione a opção **[!UICONTROL Caixa]** e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
@@ -81,11 +82,11 @@ Texto
    >
    >Se ainda não tiver feito isso, você será solicitado a fazer logon em sua conta do Box para conceder acesso.
 
-1. Selecione a pasta Caixa desejada e clique em **[!UICONTROL Próxima]**.
+1. Selecione a pasta Caixa desejada e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/add-images-and-files-to-marketo-12.png)
 
-1. Selecione as imagens desejadas e clique em **[!UICONTROL Próxima]**.
+1. Selecione as imagens desejadas e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
@@ -99,11 +100,11 @@ Texto
 
 1. Siga as etapas 1 e 2 [de cima](#upload-image-or-file).
 
-1. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Importar imagem ou arquivo]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Importar imagem ou arquivo]**.
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Selecione o **[!UICONTROL Adobe Experience Manager]** e clique em **[!UICONTROL Próxima]**.
+1. Selecione a opção **[!UICONTROL Adobe Experience Manager]** e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

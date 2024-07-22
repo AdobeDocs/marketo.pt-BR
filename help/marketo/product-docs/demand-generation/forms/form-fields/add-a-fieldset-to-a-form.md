@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Os conjuntos de campos são legais. Eles agrupam vários campos. Você também pode controlar um bloco inteiro de uma só vez!
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Clique em **+** assinar e selecionar **Fieldset**.
+1. Clique no sinal **+** e selecione **Fieldset**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
@@ -31,7 +31,7 @@ Os conjuntos de campos são legais. Eles agrupam vários campos. Você também p
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Arraste os campos desejados para a **fieldset**.
+1. Arraste os campos desejados para o **fieldset**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 

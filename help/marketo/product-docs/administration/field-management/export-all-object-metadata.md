@@ -6,7 +6,7 @@ feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 10%
+ht-degree: 13%
 
 ---
 
@@ -29,15 +29,15 @@ Esse recurso permite exportar todos os objetos e seus metadados.
 
 ## Exportar metadados do objeto {#export-object-metadata}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. Clique em **[!UICONTROL Exportar todos os objetos]**.
+1. Clique em **[!UICONTROL Exportar Todos os Objetos]**.
 
    ![](assets/export-all-object-metadata-3.png)
 

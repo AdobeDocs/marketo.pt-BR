@@ -6,7 +6,7 @@ exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 1%
 
 ---
@@ -25,25 +25,25 @@ Para acessar o Email Insights, basta clicar no bloco em My Marketo (ou na tela i
 
 ## Analytics {#analytics}
 
-Uso [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) explorar os dados agregados de série temporal para métricas de entrega e envolvimento de email.
+Use o [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) para explorar os dados de série temporal agregados para métricas de entrega e envolvimento de email.
 
 ![](assets/emailanalytics.jpg)
 
 **Filtros**
 
-Usado avançado [filtros](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) para detalhar os resultados por Público, Conteúdo ou Plataforma. Os mesmos filtros se aplicam ao Analytics e ao Sends.
+Usado [filtros](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) avançados para analisar os resultados por Público-alvo, Conteúdo ou Plataforma. Os mesmos filtros se aplicam ao Analytics e ao Sends.
 
 ![](assets/filter.png)
 
 **Gráficos rápidos**
 
-[Gráficos rápidos](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) são miniaturas criadas e salvas, fornecendo uma visualização rápida dos gráficos que são importantes para você.
+[Gráficos rápidos](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) são miniaturas que você cria e salva, fornecendo uma visualização rápida de gráficos que são importantes para você.
 
 ![](assets/three.png)
 
 ## Envios {#sends}
 
-No [Envios](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) examine as características das comunicações recentes por email.
+Na página [Envios](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md), examine as características das comunicações recentes por email.
 
 ![](assets/two.png)
 
@@ -59,9 +59,9 @@ Clique nas barras de Métricas para converter as cores em números.
 
 ## Dimension personalizado {#custom-dimensions}
 
-Todas as dimensões padrão do Marketo estão incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. [Dimensões personalizadas](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) consistem em segmentações e tags de programa.
+Todas as dimensões padrão do Marketo estão incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. [As dimensões personalizadas](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) consistem em segmentações e marcas de programa.
 
 >[!MORELIKETHIS]
 >
 >* [Visão geral do Email Insights Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
->* [Visão geral dos envios do Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>* [Visão Geral De Envios De Insights De Email](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

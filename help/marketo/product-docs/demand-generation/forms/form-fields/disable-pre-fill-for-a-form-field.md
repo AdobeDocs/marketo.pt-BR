@@ -17,17 +17,17 @@ Quando um visitante da Web é conhecido (com cookie), os formulários do Marketo
 
 >[!NOTE]
 >
->**Preenchimento prévio do formulário** é ativado por padrão. As configurações de preenchimento prévio do nível da página de aterrissagem e do nível do administrador superam a configuração do nível de formulário:
+>O **Preenchimento prévio do formulário** está habilitado por padrão. As configurações de preenchimento prévio do nível da página de aterrissagem e do nível do administrador superam a configuração do nível de formulário:
 >
 >Formulário > Página de aterrissagem > Administrador
 
 ## Como desativar o preenchimento prévio {#how-to-disable-pre-fill}
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -35,7 +35,7 @@ Quando um visitante da Web é conhecido (com cookie), os formulários do Marketo
    >
    >O Preenchimento prévio de formulário não funciona ao incorporar um formulário em suas próprias páginas. Ele só funciona em landing pages do Marketo.
 
-1. Selecione um dos campos e defina **Preenchimento prévio do formulário** para **Desabilitado**.
+1. Selecione um dos campos e defina **Preenchimento prévio do formulário** como **Desabilitado**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -47,12 +47,12 @@ Quando um visitante da Web é conhecido (com cookie), os formulários do Marketo
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
 ## Campos sensíveis {#sensitive-fields}
 
-Quando você [marcar um campo como confidencial](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), impedindo que seus valores sejam preenchidos previamente em formulários, você verá isso na opção Preenchimento prévio.
+Ao [marcar um campo como confidencial](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md), impedindo que seus valores sejam preenchidos previamente em formulários, você verá isso na opção Preenchimento prévio.
 
 ![](assets/disable-pre-fill.png)

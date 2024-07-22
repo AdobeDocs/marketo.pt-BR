@@ -6,7 +6,7 @@ exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para 
 >   * [Editar conteúdo preditivo para mídia avançada](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} ou
 >   * [Editar Conteúdo Preditivo para a Barra de Recomendação](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [Aprovar um Título para Conteúdo Preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 ## Adição de conteúdo preditivo usando o Editor de email 2.0 {#adding-predictive-content-using-the-email-editor}
 
@@ -37,15 +37,15 @@ Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para 
 
    ![](assets/one.png)
 
-1. Selecione seu email e clique em **Editar rascunho**.
+1. Selecione seu email e clique em **Editar Rascunho**.
 
    ![](assets/two.png)
 
-1. Clique na imagem que deseja tornar preditiva. Quando o ícone de engrenagem aparecer, clique nele e selecione **Ativar ContentAI** (ContentAI é o antigo nome para Conteúdo preditivo).
+1. Clique na imagem que deseja tornar preditiva. Quando o ícone de engrenagem aparecer, clique nele e selecione **Habilitar ContentAI** (ContentAI é o antigo nome do Conteúdo preditivo).
 
    ![](assets/three.png)
 
-1. Para selecionar uma ou mais categorias, clique no link **Categorias** , faça sua(s) seleção(ões) e clique em **Aplicar**.
+1. Para selecionar uma ou mais categorias, clique no menu suspenso **Categorias**, faça sua(s) seleção(ões) e clique em **Aplicar**.
 
    ![](assets/four.png)
 
@@ -67,9 +67,9 @@ Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para 
 
    >[!NOTE]
    >
-   >A imagem não está selecionada **_até que o recipient abra o email_**. Portanto, o que você vê na visualização é apenas um exemplo e não será necessariamente a imagem que o recipient vê.
+   >A imagem não é selecionada **_até que o destinatário abra o email_**. Portanto, o que você vê na visualização é apenas um exemplo e não será necessariamente a imagem que o recipient vê.
 
-1. Quando terminar de visualizar o email, clique no link **Visualizar ações** e selecione **Aprovar e fechar**. Ou se ainda tiver que editar, clique em **Editar rascunho** à direita.
+1. Quando terminar de visualizar seu email, clique no menu suspenso **Ações de Visualização** e selecione **Aprovar e Fechar**. Ou se ainda tiver que fazer edições, clique em **Editar rascunho** à direita.
 
    ![](assets/eight.png)
 
@@ -85,9 +85,9 @@ Após aprovar seu email, ele será equipado com Conteúdo preditivo e pronto par
 
 ## Adicionar conteúdo preditivo quando o editor de email 2.0 não estiver sendo usado {#adding-predictive-content-when-not-using-the-email-editor}
 
-Se você não estiver usando um [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} , a adição de Conteúdo preditivo ao seu email pode ser feita simplesmente marcando uma imagem no seu modelo como um elemento de imagem editável do Marketo.
+Se você não estiver usando um modelo de [Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"}, a adição de Conteúdo preditivo ao email pode ser feita simplesmente marcando uma imagem no modelo como um elemento de imagem editável do Marketo.
 
-Saiba mais sobre o [Sintaxe específica do Marketo aqui](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
+Saiba mais sobre a [sintaxe específica do Marketo aqui](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Este é um exemplo de como o código deve parecer (este é apenas um exemplo, não copie o código abaixo exatamente).
 

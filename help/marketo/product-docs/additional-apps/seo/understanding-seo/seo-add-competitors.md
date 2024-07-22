@@ -19,11 +19,11 @@ Adicionar concorrentes permitirá que você acompanhe seu desempenho nas mesmas 
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Clique em **[!UICONTROL Concorrentes]** guia.
+1. Clique na guia **[!UICONTROL Concorrentes]**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
@@ -31,7 +31,7 @@ Adicionar concorrentes permitirá que você acompanhe seu desempenho nas mesmas 
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Digite o **[!UICONTROL Nome]** e **[!UICONTROL URL]** do seu concorrente.
+1. Digite o **[!UICONTROL Nome]** e a **[!UICONTROL URL]** do seu concorrente.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Adicione campos personalizados a contas, mapeie-os para seu CRM e use-os para Descoberta de Conta do CRM no Marketo.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/admin.png)
 
-1. Clique em **Gerenciamento de campo**, depois **Novo campo personalizado**.
+1. Clique em **Gerenciamento de campos**, depois em **Novo campo personalizado**.
 
    ![](assets/two-4.png)
 
-1. Clique em **Objeto** e selecione **Conta nomeada**.
+1. Clique no menu suspenso **Objeto** e selecione **Conta Nomeada**.
 
    ![](assets/three-3.png)
 
-1. Clique em **Tipo** e selecione um tipo.
+1. Clique no menu suspenso **Tipo** e selecione um tipo.
 
    ![](assets/four-3.png)
 
@@ -35,7 +35,7 @@ Adicione campos personalizados a contas, mapeie-os para seu CRM e use-os para De
 
    ![](assets/five-3.png)
 
-1. Depois que o campo for criado, selecione-o na árvore à direita. Clique em **Ações de campo** e selecione **Mapear para campo do CRM**.
+1. Depois que o campo for criado, selecione-o na árvore à direita. Clique no menu suspenso **Ações do Campo** e selecione **Mapear para Campo do CRM**.
 
    ![](assets/six-2.png)
 

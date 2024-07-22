@@ -15,15 +15,15 @@ ht-degree: 7%
 
 O Marketo Engage tem algumas Smart Lists integradas muito úteis. Vamos dar uma olhada!
 
-1. Vá para a **[!UICONTROL Banco de dados]**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/db.png)
 
-1. Abra o **[!UICONTROL Listas inteligentes do sistema]** pasta para revelar a coleção.
+1. Abra a pasta **[!UICONTROL Smart Lists do Sistema]** para revelar a coleção.
 
    ![](assets/two.png)
 
-1. Para ver um exemplo: Selecione **[!UICONTROL Todas as pessoas]** e, em seguida, clique na guia **[!UICONTROL Pessoas]** guia.
+1. Para ver um exemplo: Selecione **[!UICONTROL Todas as pessoas]** e clique na guia **[!UICONTROL Pessoas]**.
 
    ![](assets/three.png)
 
@@ -36,10 +36,10 @@ Aqui está um resumo do que as Smart Lists integradas fazem:
 | Nome da lista | Descrição |
 |---|---|
 | Todas as pessoas | Todas as pessoas no banco de dados do Marketo |
-| Pessoas que cancelaram a inscrição | Essas pessoas só podem receber emails operacionais; isso geralmente é controlado pela própria pessoa. |
-| Marketing suspenso | Essas pessoas só podem receber emails operacionais; geralmente, isso é controlado por você, o profissional de marketing. |
+| Pessoas com inscrição cancelada | Essas pessoas só podem receber emails operacionais; isso geralmente é controlado pela própria pessoa. |
+| Campanha de marketing suspensa | Essas pessoas só podem receber emails operacionais; geralmente, isso é controlado por você, o profissional de marketing. |
 | Lista de bloqueios | Essas pessoas não receberão nenhum email. |
-| Endereços de email com mensagens rejeitadas | Pessoas com um endereço de email não entregue ou que rejeitam seu email. |
+| Endereços de e-mail com mensagens devolvidas | Pessoas com um endereço de email não entregue ou que rejeitam seu email. |
 | Possíveis duplicatas | Pessoas que podem ser duplicadas no banco de dados do Marketo. |
 
 >[!NOTE]

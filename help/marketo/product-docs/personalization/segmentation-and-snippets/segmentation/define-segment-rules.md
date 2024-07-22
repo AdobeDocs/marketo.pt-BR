@@ -6,7 +6,7 @@ exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -19,21 +19,21 @@ A definição de Regras de segmento permite categorizar suas pessoas em diferent
 >
 >[Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. Vá para a **Banco de dados.**
+1. Ir para o **Banco de Dados.**
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Selecionar **Segmentação** na árvore e, em seguida, clique em um determinado **Segmento**.
+1. Selecione **Segmentação** na árvore e clique em um **Segmento** específico.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Clique em **Lista inteligente** e adicionar filtros.
+1. Clique em **Smart List** e adicione filtros.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
    >[!CAUTION]
    >
-   >No momento, os segmentos não são compatíveis _No passado_ e _No período_  operadores em filtros. Isso ocorre porque as segmentações só verificam atualizações quando um valor de dados de alteração é registrado. Esses valores são _não_ registrado para itens que mudam automaticamente, como campos de fórmula e datas. Além disso, operadores de data com intervalos de datas relativos não são compatíveis, pois são calculados no momento da aprovação da segmentação, não no momento de uma atividade Alterar valor de dados.
+   >Atualmente, os segmentos não oferecem suporte aos operadores _No Passado_ e _No Período_ em filtros. Isso ocorre porque as segmentações só verificam atualizações quando um valor de dados de alteração é registrado. Esses valores são _não_ registrados para coisas que mudam automaticamente, como campos de fórmulas e datas. Além disso, operadores de data com intervalos de datas relativos não são compatíveis, pois são calculados no momento da aprovação da segmentação, não no momento de uma atividade Alterar valor de dados.
 
    >[!NOTE]
    >
@@ -47,11 +47,11 @@ A definição de Regras de segmento permite categorizar suas pessoas em diferent
    >
    >O comportamento do registro de atividades para campos de Conta pode afetar a qualificação. Portanto, desaconselhamos o uso de campos Account ao definir regras de segmento.
 
-1. Clique em **Pessoas (Rascunho)** para ver as pessoas que podem se qualificar para ser membros deste segmento.
+1. Clique na guia **Pessoas (Rascunho)** para exibir as pessoas que podem se qualificar para serem membros deste segmento.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Ir para **Ações de segmentação**. Clique em **Aprovar**.
+1. Vá para **Ações de segmentação**. Clique em **Aprovar**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -59,7 +59,7 @@ A definição de Regras de segmento permite categorizar suas pessoas em diferent
    >
    >O número total de segmentos que você pode criar em uma segmentação depende do número e do tipo de filtros usados e também da complexidade da lógica dos seus segmentos. Embora você possa criar até 100 segmentos usando campos padrão, usar outros tipos de filtros pode aumentar a complexidade e sua segmentação pode deixar de ser aprovada. Alguns exemplos são: campos personalizados, membro de lista, campos de proprietário de lead e estágios de receita.
    >
-   >Se você receber uma mensagem de erro durante a aprovação e precisar de assistência para reduzir a complexidade da segmentação, entre em contato com [Suporte ao Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se você receber uma mensagem de erro durante a aprovação e precisar de assistência para reduzir a complexidade da segmentação, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Confira o painel para obter uma visão geral rápida dos segmentos em um gráfico de pizza, bem como as regras aplicadas.
 
@@ -69,7 +69,7 @@ Bom trabalho! Esses segmentos serão úteis em vários lugares do Marketo.
 
 >[!NOTE]
 >
->Uma pessoa pode se qualificar para segmentos diferentes, mas eventualmente pertence a apenas um que depende do [ordem de prioridade dos segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
+>Uma pessoa pode se qualificar para diferentes segmentos, mas eventualmente pertence a apenas um que depende da [ordem de prioridade dos segmentos](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md).
 
 >[!NOTE]
 >

@@ -17,7 +17,7 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
 
 ## Aprovar uma landing page {#approve-a-landing-page}
 
-1. Selecione uma página de aterrissagem, vá para **Ações da landing page** e clique em **Aprovar**.
+1. Selecione uma página de aterrissagem, vá para **Ações da página de aterrissagem** e clique em **Aprovar**.
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Você também pode clicar com o botão direito do mouse na sua landing page e depois clicar em **Aprovar**.
+1. Você também pode clicar com o botão direito na sua página de aterrissagem e em **Aprovar**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,21 +35,21 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
 
 ## Cancelar aprovação de uma landing page {#unapprove-a-landing-page}
 
-1. Selecione uma página de aterrissagem, vá para **Ações da landing page** e clique em **Cancelar aprovação**.
+1. Selecione uma página de aterrissagem, vá para **Ações da página de aterrissagem** e clique em **Cancelar aprovação**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Além disso, é possível clicar com o botão direito do mouse na landing page e depois clicar em **Cancelar aprovação**.
+1. Você também pode clicar com o botão direito do mouse na sua página de aterrissagem e clicar em **Cancelar aprovação**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
 >[!NOTE]
 >
->Sua landing page não aprovada não está mais publicada na Web e não gerará nenhuma atividade adicional. Os visitantes que acessarem páginas de aterrissagem não aprovadas e suas guias do Facebook verão [Página de fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>Sua landing page não aprovada não está mais publicada na Web e não gerará nenhuma atividade adicional. Os visitantes que acessarem páginas de aterrissagem não aprovadas e suas Guias do Facebook verão a [Página de Fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Excluir uma landing page {#delete-a-landing-page}
 
-1. Selecione uma página de aterrissagem, vá para **Ações da landing page** e clique em **Excluir**.
+1. Selecione uma página de aterrissagem, vá para **Ações da página de aterrissagem** e clique em **Excluir**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
    >
    >Não é possível excluir uma página aprovada. Cancelar sua provação primeiro.
 
-1. Você também pode clicar com o botão direito do mouse na sua landing page e depois clicar em **Excluir**.
+1. Você também pode clicar com o botão direito na sua página de aterrissagem e em **Excluir**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -77,7 +77,7 @@ Deseja excluir mais de uma página de aterrissagem por vez? Veja como.
    >
    >Você também pode utilizar ctrl+clique para excluir várias páginas de aterrissagem que não são sequenciais.
 
-1. Clique em **Ações da landing page** e selecione **Excluir**.
+1. Clique no menu suspenso **Ações da página de aterrissagem** e selecione **Excluir**.
 
    ![](assets/three.png)
 
@@ -85,4 +85,4 @@ Deseja excluir mais de uma página de aterrissagem por vez? Veja como.
 
    ![](assets/four.png)
 
-Ótimo! Agora você sabe como aprovar, cancelar a aprovação e excluir landing pages.
+Fantástico! Agora você sabe como aprovar, cancelar a aprovação e excluir landing pages.

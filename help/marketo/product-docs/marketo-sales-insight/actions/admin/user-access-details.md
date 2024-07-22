@@ -51,7 +51,7 @@ Os administradores podem interromper as campanhas em nome dos usuários.
    * Os usuários podem compartilhar grupos com todos
    * Os usuários podem compartilhar grupos apenas com as equipes às quais pertencem
    * Os usuários terão visibilidade de todas as pessoas em seu banco de dados de Ações
-   * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador Principal que excluiu o usuário
+   * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador principal que excluiu o usuário
 
 * Página Gerenciamento da Equipe:
 
@@ -62,4 +62,4 @@ Os administradores podem interromper as campanhas em nome dos usuários.
    * Os usuários podem compartilhar modelos com todos
    * Os usuários podem compartilhar modelos em categorias que os administradores permitem
    * Quando um usuário é removido de uma equipe, seus modelos não são compartilhados com essa equipe
-   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador Principal que excluiu o usuário
+   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador principal que excluiu o usuário

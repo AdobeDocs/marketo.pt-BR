@@ -16,13 +16,13 @@ As caixas de diálogo são conversas individuais. Em cada caixa de diálogo, voc
 
 ## Critérios de público {#audience-criteria}
 
-A variável [Critérios de público-alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} seção de uma caixa de diálogo é onde você definirá onde e para quem sua conversa será exibida
+A seção [Critério de Público-Alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} de uma Caixa de Diálogo é onde você definirá onde e para quem sua conversa será exibida
 
 ![](assets/dialogue-overview-1.png)
 
 ## Designer de fluxo {#stream-designer}
 
-A variável [Designer de fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} seção de uma caixa de diálogo é onde você projetará a conversa que deseja ter com os visitantes do site.
+A seção [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} de uma caixa de diálogo é onde você irá projetar a conversa que deseja ter com os visitantes do site.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -64,10 +64,10 @@ A guia Relatórios é onde você poderá ver as métricas sobre o desempenho da 
 
 Você pode desativar (e reativar) todas as caixas de diálogo publicadas ao mesmo tempo.
 
-1. No Dynamic Chat, clique no botão **[!UICONTROL Configuração]** guia.
+1. No Dynamic Chat, clique na guia **[!UICONTROL Configuração]**.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Alterne a **[!UICONTROL Chat habilitado]** desligue para desativar (e ligue novamente para reativar) todas as caixas de diálogo.
+1. Alterne a opção **[!UICONTROL Chat Habilitado]** para desabilitar (e ligar novamente para habilitar novamente) todas as caixas de diálogo.
 
    ![](assets/dialogue-overview-5.png)

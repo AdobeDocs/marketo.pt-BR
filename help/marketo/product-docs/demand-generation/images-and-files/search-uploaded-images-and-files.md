@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Saiba como realizar uma pesquisa para uma imagem ou arquivo.
 
-1. Vá para a **[!UICONTROL Design Studio]**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Clique em **[!UICONTROL Imagens e arquivos]** para obter a lista completa de todos os arquivos carregados.
+1. Clique em **[!UICONTROL Imagens e Arquivos]** para obter a lista completa de todos os arquivos carregados.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
@@ -33,5 +33,5 @@ Saiba como realizar uma pesquisa para uma imagem ou arquivo.
 
 >[!MORELIKETHIS]
 >
->* [Substituir uma imagem ou arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
->* [Organize suas imagens e arquivos usando pastas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+>* [Substituir uma Imagem ou Arquivo Carregado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Organize imagens e arquivos usando pastas](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

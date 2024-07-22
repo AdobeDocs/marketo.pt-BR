@@ -6,7 +6,7 @@ exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Os clientes com o Salesforce Professional Edition terão que seguir essas etapas
 
 ## Instalação {#installation}
 
-1. Em Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
+1. No Sales Connect, clique no ícone de engrenagem no canto superior direito e selecione **Configurações**.
 
    ![](assets/one-4.png)
 
@@ -34,17 +34,17 @@ Os clientes com o Salesforce Professional Edition terão que seguir essas etapas
 
    >[!CAUTION]
    >
-   >Se estiver conectado, você verá um botão verde &quot;Instalar&quot;. **NÃO** clique neste botão, prossiga para a etapa 4.
+   >Se estiver conectado, você verá um botão verde &quot;Instalar&quot;. **NÃO** clique neste botão; em vez disso, vá para a etapa 4.
 
-1. Faça logon na conta do Salesforce à qual você está conectado e clique em [este link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Faça logon na conta do Salesforce à qual você está conectado e clique em [neste link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Você será enviado para a página Instalação do Sales Connect.
 
    ![](assets/install-package.png)
 
 1. Escolha os usuários para os quais deseja instalar personalizações: somente administrador, todos os usuários ou perfis específicos.
-1. Clique no link **Instalar** botão para instalar a personalização.
+1. Clique no botão **Instalar** para instalar a personalização.
 1. Para confirmar a instalação bem-sucedida, faça logon em sua conta do Salesforce.
-1. Clique em **Configuração**, procure por &quot;Pacotes instalados&quot; na barra de pesquisa e clique em **Pacotes instalados**.
+1. Clique em **Instalação**, procure por &quot;Pacotes Instalados&quot; na barra de pesquisa e clique em **Pacotes Instalados**.
 
    Você verá as Personalizações do Marketo Sales Connect aqui.
 

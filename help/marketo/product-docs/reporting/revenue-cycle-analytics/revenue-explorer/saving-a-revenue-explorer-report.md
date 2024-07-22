@@ -27,7 +27,7 @@ Os relatórios do Revenue Explorer podem ser salvos no arquivo de sua escolha.
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   Isso é tudo! Agora você pode acessar o arquivo no **Procurar Arquivos**.
+   Isso é tudo! Agora você pode acessar seu arquivo em **Procurar Arquivos**.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 

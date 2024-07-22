@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Criar um usuário somente de API {#create-an-api-only-user}
 
-Se quiser integrar ao Marketo por meio da [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, será necessário criar um usuário somente de API. Veja como.
+Se você quiser integrar com o Marketo por meio da [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, será necessário criar um usuário somente de API. Veja como.
 
 >[!IMPORTANT]
 >
->Se estiver criando API Somente para usuários em uma assinatura integrada ao Adobe Identity, suas etapas serão diferentes e [pode ser encontrado aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Se você estiver criando somente API de usuários em uma assinatura que foi integrada à Identidade Adobe, suas etapas serão diferentes e [poderá ser encontrado aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Se quiser integrar ao Marketo por meio da [REST API](https://experienceleague.ad
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-an-api-only-user-1.png)
 
@@ -39,7 +39,7 @@ Se quiser integrar ao Marketo por meio da [REST API](https://experienceleague.ad
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. Insira um email, nome e sobrenome como usuário somente da API. Clique em **[!UICONTROL Próxima]**.
+1. Insira um email, nome e sobrenome como usuário somente da API. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/create-an-api-only-user-4.png)
 
@@ -47,7 +47,7 @@ Se quiser integrar ao Marketo por meio da [REST API](https://experienceleague.ad
    >
    >Adicione um motivo opcional ou uma data de expiração de acesso. As datas de expiração de acesso são úteis para funcionários de curto prazo.
 
-1. Selecione o **[!UICONTROL Somente API]** e verifique a **[!UICONTROL Somente API]** caixa de seleção Clique em **[!UICONTROL Próxima]**.
+1. Selecione a função **[!UICONTROL Somente API]** e marque a caixa de seleção **[!UICONTROL Somente API]**. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/create-an-api-only-user-5.png)
 

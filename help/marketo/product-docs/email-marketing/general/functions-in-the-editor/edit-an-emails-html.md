@@ -7,7 +7,7 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## Editar HTML {#edit-html}
 
-1. Selecione seu email e clique em **Editar rascunho**.
+1. Selecione seu email e clique em **Editar Rascunho**.
 
    ![](assets/teamspidey.jpg)
 
@@ -33,17 +33,17 @@ ht-degree: 1%
    >
    >Mude o que quiser. Você pode substituir o HTML inteiro ou fazer pequenos ajustes.
 
-1. Clique em **Ações de código** para baixar o código como um arquivo .html, embutir seu CSS ou validar o HTML.
+1. Clique no menu suspenso **Ações de Código** para baixar o código como um arquivo .html, embutir seu CSS ou validar o HTML.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >A prática recomendada para emails é tornar todos os estilos em linha. Vários clientes de email não são compatíveis com CSS no `<head>` seção.
+   >A prática recomendada para emails é tornar todos os estilos em linha. Vários clientes de email não oferecem suporte para CSS na seção `<head>`.
 
 ## Quebra de um email de seu modelo {#breaking-an-email-from-its-template}
 
-Essas alterações de código **não** Interromper um email com base em seu modelo:
+Estas alterações de código **não** interromperão um email de seu modelo:
 
 * Editar o conteúdo de qualquer módulo (incluindo adicionar novos elementos dentro do módulo)
 * Adicionar um novo módulo ao contêiner
@@ -52,7 +52,7 @@ Essas alterações de código **não** Interromper um email com base em seu mode
 * Alteração de atributos específicos do mkto (por exemplo, &quot;mktoName&quot; ou &quot;mktoImgUrl&quot;) de qualquer Elemento fora de um Módulo
 * Editar o conteúdo de qualquer elemento (rich text, imagem, vídeo etc.) fora de um módulo
 
-Estas coisas que você pode fazer no editor de código **irá** separar o email do modelo:
+As seguintes ações que você pode executar no editor de código **quebrarão o email com base em seu modelo:**
 
 * Alterar qualquer coisa no código fora de um elemento ou módulo
 * Adicionar ou alterar atributos não mkto (por exemplo, &quot;id&quot; ou &quot;style&quot;) de qualquer elemento fora de um módulo
@@ -62,11 +62,11 @@ Estas coisas que você pode fazer no editor de código **irá** separar o email 
 
 Use a funcionalidade Código de pesquisa para localizar e substituir com eficiência o conteúdo no código de HTML do seu email.
 
-1. No código do seu email, clique em **Código de pesquisa**.
+1. No código do seu email, clique em **Pesquisar código**.
 
    ![](assets/five-2.png)
 
-1. Insira o que deseja localizar e clique em **Localizar próximo** para pesquisar para frente ou **Localizar anterior** para pesquisar para trás. Você também tem a opção de **Substituir** e **Substituir tudo**.
+1. Insira o que você deseja localizar e clique em **Localizar Próximo** para avançar a pesquisa ou em **Localizar Anterior** para retroceder. Você também tem a opção de **Substituir** e **Substituir tudo**.
 
    ![](assets/six-1.png)
 
@@ -76,6 +76,6 @@ Use a funcionalidade Código de pesquisa para localizar e substituir com eficiê
 
    >[!NOTE]
    >
-   >O Código de pesquisa também está disponível no [Editor de modelo de email](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
+   >O Código de Pesquisa também está disponível no [editor de Modelo de Email](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 Recomendamos que você continue a editar seus emails usando a funcionalidade integrada do Marketo, mas esse editor de código oferece flexibilidade se você precisar.

@@ -20,24 +20,24 @@ A limitação de conexão de email permite que os administradores do Sales Conne
 
 Quando os limites são constantemente excedidos, isso pode ser visto às vezes como um comportamento suspeito do provedor de canal de entrega, causando falha nos emails e, às vezes, até mesmo uma conta é desativada.
 
-**Notas/destaques**
+**Notas/Destaques**
 
 * Ativado automaticamente quando um usuário se conecta ao Gmail ou ao Exchange
 * Pode ser personalizado se você quiser aumentar ou diminuir as configurações da recomendação para atender às suas necessidades
 * Limita apenas emails enviados pelo Gmail ou Exchange, não limita o canal de entrega personalizado
 * A limitação da Conexão de email enfileira emails de cada usuário individual separadamente, pois cada usuário tem sua própria conexão com o provedor de email
 
-**Definição das configurações de limitação da conexão de email**
+**Definindo as Configurações de Limitação da Conexão de Email**
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Em Configurações do administrador, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. No cartão de Limitação de conexão de email à direita, clique no **Ativar limitação de email** controle deslizante.
+1. No cartão Limitação da conexão de email à direita, clique no controle deslizante **Habilitar limitação de email**.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -65,7 +65,7 @@ Business/Empresa
 * 30 por minuto
 * 500 recipients por email
 
-Mais informações [pode ser encontrado aqui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Mais informações [podem ser encontradas aqui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -73,7 +73,7 @@ Mais informações [pode ser encontrado aqui](https://docs.microsoft.com/en-us/o
 * 2 emails por segundo (limite de API)
 * 2.000 recipients por mensagem (máximo de 500 para recipients externos)
 
-Mais informações [pode ser encontrado aqui](https://support.google.com/a/answer/166852?hl=en).
+Mais informações [podem ser encontradas aqui](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server (2010, 2013)**
 
@@ -81,6 +81,6 @@ Os limites são definidos pelo departamento de TI da organização, pois o servi
 
 >[!MORELIKETHIS]
 >
->* [Visão geral do canal de entrega](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
+>* [Visão Geral Do Canal De Entrega](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Conexão de email para usuários do Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [Conexão de email para usuários do Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [Conexão de Email para Usuários do Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

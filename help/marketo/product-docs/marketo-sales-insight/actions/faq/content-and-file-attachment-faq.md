@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ## Qual é a diferença entre conteúdo e um anexo de arquivo? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **anexo de arquivo** é como um anexo de arquivo que você usaria em seu cliente de email normal.
+Um **anexo de arquivo** é como um anexo de arquivo que você usaria em seu cliente de email normal.
 
-**Conteúdo** é o que usamos para descrever qualquer arquivo (PPT, PDF, documento do Word etc.) que você gostaria que fosse rastreado pelas Ações do Sales Insight.
+**Conteúdo** é o que usamos para descrever qualquer arquivo (PPT, PDF, documento do Word, etc.) que você gostaria que fosse rastreado pelas Ações do Sales Insight.
 
 Depois de clicar nesse botão, você pode escolher um arquivo já carregado ou fazer upload de um novo arquivo a ser rastreado. Em seguida, inserimos um link no email ou modelo que você está usando.
 

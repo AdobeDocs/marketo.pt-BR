@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se você quiser ver como o conteúdo ficará dentro de um mecanismo de pesquisa, adicionamos um pequeno atalho útil.
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 

@@ -6,7 +6,7 @@ exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Marketing ou Vendas quer um novo campo. Ou talvez tenha esquecido um na seleção de campo inicial. Ou suas necessidades mudaram. Em qualquer caso, você pode usar a Sincronização rápida para ressincronizar campos específicos.
 
-Normalmente, você usará a Sincronização rápida para adicionar um novo campo e atualizar os valores. No entanto, há casos em que você pode querer sincronizar um campo existente. Você pode restringir a sincronização de campo com base em um intervalo de datas atualizado ou criado. Consulte [Opções de Sincronização Avançadas](#Advanced_Sync_Options) abaixo para obter detalhes.
+Normalmente, você usará a Sincronização rápida para adicionar um novo campo e atualizar os valores. No entanto, há casos em que você pode querer sincronizar um campo existente. Você pode restringir a sincronização de campo com base em um intervalo de datas atualizado ou criado. Consulte [Opções Avançadas de Sincronização](#Advanced_Sync_Options) abaixo para obter detalhes.
 
 A Sincronização Rápida pode sincronizar valores nulos. Por exemplo, se você estiver usando os valores A e B e alterar um valor B em Dinâmica para nulo, ele sincronizará o valor nulo com o Marketo.
 
@@ -63,11 +63,11 @@ E se você quiser sincronizar um campo existente, mas isso apenas para um conjun
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Clique em **[!UICONTROL Sincronização avançada]**.
+1. Clique em **[!UICONTROL Sincronização Avançada]**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Escolher **[!UICONTROL Atualizado]** e selecione um intervalo de datas usando os seletores de data. Clique em **[!UICONTROL Salvar]**.
+1. Escolha **[!UICONTROL Atualizado]** e selecione um intervalo de datas usando os seletores de data. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 

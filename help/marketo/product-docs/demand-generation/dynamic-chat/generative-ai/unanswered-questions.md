@@ -22,7 +22,7 @@ Veja todas as perguntas que o chatbot não pôde responder e/ou as que os visita
 
    ![](assets/unanswered-questions-1.png)
 
-1. Clique em **[!UICONTROL Perguntas não respondidas]** guia.
+1. Clique na guia **[!UICONTROL Perguntas não respondidas]**.
 
    ![](assets/unanswered-questions-2.png)
 

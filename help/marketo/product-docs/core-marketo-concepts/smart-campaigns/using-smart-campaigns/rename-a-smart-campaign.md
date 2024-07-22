@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Você pode alterar o nome de uma Campanha inteligente existente. Veja como.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/rename-a-smart-campaign-1.png)
 

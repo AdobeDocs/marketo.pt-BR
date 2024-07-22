@@ -17,7 +17,7 @@ Use objetos personalizados no Marketo para rastrear métricas específicas para 
 
 >[!NOTE]
 >
->Você pode configurar objetos personalizados para funcionarem de um para muitos ou de muitos para muitos. Você cria o objeto inicial da mesma maneira, mas as etapas são diferentes quando começa a adicionar campos ao objeto. Consulte  [Noções básicas sobre objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações.
+>Você pode configurar objetos personalizados para funcionarem de um para muitos ou de muitos para muitos. Você cria o objeto inicial da mesma maneira, mas as etapas são diferentes quando começa a adicionar campos ao objeto. Consulte [Entendendo os objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Use objetos personalizados no Marketo para rastrear métricas específicas para 
 
 Este exemplo mostra um objeto personalizado Car para uso em uma estrutura de um para muitos. Posteriormente, você criará um objeto personalizado do curso e um objeto intermediário para usar em uma estrutura muitos para muitos.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -41,17 +41,17 @@ Este exemplo mostra um objeto personalizado Car para uso em uma estrutura de um 
 
    >[!NOTE]
    >
-   >A variável [!UICONTROL Objetos personalizados do Marketo] A guia exibe todos os objetos personalizados à direita e detalhes de todos os aprovados, incluindo o número de registros e campos na atualização mais recente.
+   >A guia [!UICONTROL Objetos Personalizados do Marketo] exibe todos os objetos personalizados à direita e detalhes de todos os aprovados, incluindo o número de registros e campos na atualização mais recente.
 
-1. Insira um [!UICONTROL Nome de exibição]. A variável [!UICONTROL Nome da API] e [!UICONTROL Nome no Plural] preencha automaticamente. Insira um [!UICONTROL Descrição] (opcional).
+1. Insira um [!UICONTROL Nome para Exibição]. O [!UICONTROL Nome da API] e o [!UICONTROL Nome do Plural] são preenchidos automaticamente. Insira uma [!UICONTROL Descrição] (opcional).
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo [!UICONTROL Nome no Plural] e o campo **[!UICONTROL Mostrar em Detalhes de Cliente Potencial]** controle deslizante.
+   >Você pode editar esses campos ao criá-los, mas depois de salvá-los, você só poderá editar o campo [!UICONTROL Nome no Plural] e o controle deslizante **[!UICONTROL Mostrar Detalhes do Cliente Potencial]**.
 
-1. Puxe a **[!UICONTROL Mostrar em Detalhes de Cliente Potencial]** controle deslizante sobre para exibir **[!UICONTROL Mostrar]** se quiser exibir dados do objeto personalizado na página Banco de Dados. Clique em **[!UICONTROL Salvar]**.
+1. Puxe o controle deslizante **[!UICONTROL Mostrar em Detalhes do Cliente Potencial]** para exibir **[!UICONTROL Mostrar]** se desejar exibir dados do objeto personalizado na página Banco de Dados. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -59,11 +59,11 @@ Este exemplo mostra um objeto personalizado Car para uso em uma estrutura de um 
 
    ![](assets/create-marketo-custom-objects-6.png)
 
-   A próxima etapa é adicionar campos a [crie seu objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
+   A próxima etapa é adicionar campos para [criar seu objeto personalizado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >Você só pode preencher Objetos personalizados do Marketo por meio de uma importação de lista ou pelo [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Você só pode preencher Objetos Personalizados do Marketo por meio de uma importação de lista ou pela [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Criar um objeto personalizado para uma estrutura muitos para muitos {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -73,7 +73,7 @@ Este exemplo mostra um objeto personalizado do curso, que você usará para cria
 >
 >Para uma relação muitos para muitos, não é necessário criar um link no objeto personalizado. Em vez disso, você adicionará dois links ao objeto intermediário (veja abaixo).
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -85,15 +85,15 @@ Este exemplo mostra um objeto personalizado do curso, que você usará para cria
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Insira um [!UICONTROL Nome de exibição]. A variável [!UICONTROL Nome da API] e [!UICONTROL Nome no Plural] preencha automaticamente. Insira um [!UICONTROL Descrição] (opcional).
+1. Insira um [!UICONTROL Nome para Exibição]. O [!UICONTROL Nome da API] e o [!UICONTROL Nome do Plural] são preenchidos automaticamente. Insira uma [!UICONTROL Descrição] (opcional).
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo [!UICONTROL Nome no Plural] e o campo **[!UICONTROL Mostrar em Detalhes de Cliente Potencial]** controle deslizante.
+   >Você pode editar esses campos ao criá-los, mas depois de salvá-los, você só poderá editar o campo [!UICONTROL Nome no Plural] e o controle deslizante **[!UICONTROL Mostrar Detalhes do Cliente Potencial]**.
 
-1. Puxe a **[!UICONTROL Mostrar em Detalhes de Cliente Potencial]** controle deslizante sobre para exibir **[!UICONTROL Mostrar]** se quiser exibir dados do objeto personalizado na página Banco de Dados. Clique em **[!UICONTROL Salvar]**.
+1. Puxe o controle deslizante **[!UICONTROL Mostrar em Detalhes do Cliente Potencial]** para exibir **[!UICONTROL Mostrar]** se desejar exibir dados do objeto personalizado na página Banco de Dados. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,7 +103,7 @@ Este exemplo mostra um objeto personalizado do curso, que você usará para cria
 
    >[!NOTE]
    >
-   >Você só pode preencher Objetos personalizados do Marketo por meio de uma importação de lista ou pelo [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Você só pode preencher Objetos Personalizados do Marketo por meio de uma importação de lista ou pela [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 A próxima etapa é criar o objeto intermediário (veja abaixo). Mas antes disso, é necessário criar um campo para vincular com ele.
 
@@ -115,7 +115,7 @@ Use um objeto intermediário para conectar um objeto personalizado a pessoas ou 
 >
 >Não é necessário criar um objeto intermediário para uma estrutura de objeto personalizado de um para muitos.
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/create-marketo-custom-objects-13.png)
 
@@ -127,24 +127,24 @@ Use um objeto intermediário para conectar um objeto personalizado a pessoas ou 
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Insira um [!UICONTROL Nome de exibição]. A variável [!UICONTROL Nome da API] e [!UICONTROL Nome no Plural] preencha automaticamente. Insira um [!UICONTROL Descrição] (opcional).
+1. Insira um [!UICONTROL Nome para Exibição]. O [!UICONTROL Nome da API] e o [!UICONTROL Nome do Plural] são preenchidos automaticamente. Insira uma [!UICONTROL Descrição] (opcional).
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >Você pode editar esses campos ao criá-los, mas depois que eles forem salvos, você só poderá editar o campo [!UICONTROL Nome no Plural] e o campo [!UICONTROL Mostrar em Detalhes de Cliente Potencial] controle deslizante.
+   >Você pode editar esses campos ao criá-los, mas depois de salvá-los, você só poderá editar o campo [!UICONTROL Nome no Plural] e o controle deslizante [!UICONTROL Mostrar Detalhes do Cliente Potencial].
 
-1. Puxe a **[!UICONTROL Mostrar em Detalhes de Cliente Potencial]** controle deslizante sobre para exibir **Mostrar** se quiser exibir dados do objeto personalizado na página Banco de Dados. Clique em **Salvar**.
+1. Puxe o controle deslizante **[!UICONTROL Mostrar em Detalhes do Cliente Potencial]** para exibir **Mostrar** se desejar exibir dados do objeto personalizado na página Banco de Dados. Clique em **Salvar**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 
 1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que está em um estado Rascunho.
 
-   A próxima etapa é que você [adicionar campos de link](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) para conectar seu objeto intermediário a uma pessoa/empresa e um objeto personalizado.
+   A próxima etapa é [adicionar campos de link](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) para conectar seu objeto intermediário a uma pessoa/empresa e a um objeto personalizado.
 
 >[!MORELIKETHIS]
 >
->* [Adicionar campos de objeto personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Adicionar campos de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Adicionar campos de link de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Noções básicas sobre objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

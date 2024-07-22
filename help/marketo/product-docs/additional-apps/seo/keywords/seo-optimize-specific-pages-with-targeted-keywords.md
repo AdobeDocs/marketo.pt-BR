@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Algumas palavras-chave vão muito bem com determinadas páginas. É assim que você combina a palavra-chave perfeita com sua página perfeita. Isso fornecerá os dados mais precisos e as melhores recomendações para melhoria.
 
-1. Vá para a **[!UICONTROL Páginas]** seção.
+1. Vá para a seção **[!UICONTROL Páginas]**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)
 

@@ -19,11 +19,11 @@ Como administrador, você pode exportar ativos relacionados de um campo para que
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. Clique em **[!UICONTROL Gerenciamento de campo]**.
+1. Clique em **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -31,11 +31,11 @@ Como administrador, você pode exportar ativos relacionados de um campo para que
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Clique em **[!UICONTROL Ações de campo]** e selecione **[!UICONTROL Exportação Usada Por]**.
+1. Clique no menu suspenso **[!UICONTROL Ações do Campo]** e selecione **[!UICONTROL Exportar Usado por]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Um [!DNL Excel] o arquivo será exportado. Abra-o para visualizar seu conteúdo.
+1. Um arquivo [!DNL Excel] será exportado. Abra-o para visualizar seu conteúdo.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

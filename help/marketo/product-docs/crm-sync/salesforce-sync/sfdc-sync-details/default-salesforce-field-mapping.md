@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 57%
+ht-degree: 59%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 57%
 
 Inicialmente, ao sincronizar sua conta do Marketo Engage com o Salesforce, a Marketo faz automaticamente essas associações entre seus campos integrados do Salesforce e do Marketo. O Marketo também sincronizará seus campos personalizados em clientes potenciais, contas, oportunidades e contatos.
 
-## Campos de lead {#lead-fields}
+## Campos de leads {#lead-fields}
 
 | Campo SFDC | Campo do Marketo |
 |---|---|
 | Receita anual | Receita anual |
 | Cidade | Cidade |
 | Empresa | Nome da empresa |
-| Data de conversão | Data de conversão do SFDC  |
+| Data de conversão | SFDC - Data de conversão |
 | País | País |
-| Data de criação | SFDC - Data de criação |
+| Data de criação | Data de criação SFDC |
 | Descrição | Observações sobre a pessoa |
-| Email | Endereço de email |
+| Email | Endereço de e-mail |
 | Fax | Número de fax |
 | Nome | Nome |
 | Cancelamento de opção de e-mail | Inscrição cancelada |
@@ -45,7 +45,7 @@ Inicialmente, ao sincronizar sua conta do Marketo Engage com o Salesforce, a Mar
 | Estado/Província | Estado |
 | Status | Status |
 | Rua | Endereço |
-| Título | Cargo |
+| Título | Nome do cargo |
 | Site | Site |
 
 ## Campos de contato {#contact-fields}
@@ -53,9 +53,9 @@ Inicialmente, ao sincronizar sua conta do Marketo Engage com o Salesforce, a Mar
 | Campo SFDC | Campo do Marketo |
 |---|---|
 | Data de nascimento | Data de nascimento |
-| Data de criação | SFDC - Data de criação |
+| Data de criação | Data de criação SFDC |
 | Descrição do contato | Observações sobre a pessoa |
-| Email | Endereço de email |
+| Email | Endereço de e-mail |
 | Fax comercial | Número de fax |
 | Nome | Nome |
 | Cancelamento de opção de e-mail | Inscrição cancelada |
@@ -63,26 +63,26 @@ Inicialmente, ao sincronizar sua conta do Marketo Engage com o Salesforce, a Mar
 | Sobrenome | Sobrenome |
 | Fonte do lead | Origem |
 | Pontuação do lead | Pontuação |
-| CidadeDeEndereçamento | Cidade |
-| PaísDeEndereçamento | País |
+| MailingCity | Cidade |
+| MailingCountry | País |
 | MailingPostalCode | Código postal |
 | MailingState | Estado |
 | MailingStreet | Endereço |
 | Celular | Número do celular |
 | Telefone comercial | Número de telefone |
 | Saudação | Saudação |
-| Título | Cargo |
+| Título | Nome do cargo |
 
 ## Campos de conta {#account-fields}
 
 | Campo SFDC | Campo do Marketo |
 |---|---|
 | Receita anual | Receita anual |
-| Cidade de faturamento | Cidade de faturamento |
-| País de faturamento | País de faturamento |
-| Código postal/CEP de cobrança | Código postal de faturamento |
-| Estado/Província de Cobrança | Estado de faturamento |
-| Rua de Cobrança | Endereço de faturamento |
+| Cidade de cobrança | Cidade de cobrança |
+| País de cobrança | País de cobrança |
+| Código postal/CEP de cobrança | Código postal de cobrança |
+| Estado/Província de Cobrança | Estado de cobrança |
+| Rua de Cobrança | Endereço de cobrança |
 | Descrição da conta | Observações sobre a empresa |
 | Setor | Setor |
 | Excluído | SFDC é excluído |
@@ -91,7 +91,7 @@ Inicialmente, ao sincronizar sua conta do Marketo Engage com o Salesforce, a Mar
 | Telefone da conta | Telefone principal |
 | Código SIC | Código SIC |
 | Site da conta | Site |
-| Tipo de conta | Tipo do SFDC |
+| Tipo de conta | SFDC - Tipo |
 | Site | Site |
 
 ## Campos de sistema relacionados ao Salesforce no Marketo (somente leitura) {#salesforce-related-system-fields-in-marketo-read-only}
@@ -101,6 +101,6 @@ Esses campos são criados no Marketo, mas não podem ser ajustados pelos cliente
 | Campo | Descrição |
 |---|---|
 | SFDC - ID | A ID do Salesforce de 18 caracteres |
-| Tipo do SFDC | Cliente Potencial ou Contato. Se estiver vazio, o lead existirá somente como uma pessoa no Marketo |
-| SFDC - Data de criação | Data de criação no SFDC (pode ser diferente de Criado no Marketo) |
+| SFDC - Tipo | Cliente Potencial ou Contato. Se estiver vazio, o lead existirá somente como uma pessoa no Marketo |
+| Data de criação SFDC | Data de criação no SFDC (pode ser diferente de Criado no Marketo) |
 | SFDC excluído | A pessoa costumava estar no SFDC, mas foi excluída e agora reside somente no Marketo |

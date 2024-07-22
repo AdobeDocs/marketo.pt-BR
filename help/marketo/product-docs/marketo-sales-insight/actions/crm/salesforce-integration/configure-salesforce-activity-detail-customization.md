@@ -5,7 +5,7 @@ exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '699'
 ht-degree: 1%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* Ações do Salesforce e Sales Insight [deve estar conectado](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* Registrar atividade de email por meio da API [deve ser ativado](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* As ações do Salesforce e do Sales Insight [devem estar conectadas](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* A atividade de email de log via API [deve ser habilitada](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 A Personalização dos detalhes da atividade permite que os administradores configurem as informações que farão logon na Tarefa do Salesforce - Campo de assunto, quando uma atividade de ações de insight de vendas/tarefa de lembrete for sincronizada com o Salesforce.
 
 >[!NOTE]
 >
->* As atualizações feitas no campo assunto em Ações de insight de vendas de uma tarefa de lembrete serão refletidas no campo assunto da tarefa correspondente do Salesforce, se você estiver usando o `{{activity_subject}}` campo dinâmico na Personalização dos detalhes da atividade.
+>* As atualizações feitas no campo de assunto em Ações de insight de vendas de uma tarefa de lembrete serão refletidas no campo de assunto da tarefa do Salesforce correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` na Personalização dos detalhes da atividade.
 >* Quebras de linha não são suportadas ao registrar informações no campo de assunto do Salesforce. Quaisquer quebras de linha no editor de Personalização de Detalhes da Atividade serão removidas quando um assunto da tarefa de vendas for atualizado.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -127,7 +127,7 @@ Ao configurar os detalhes da atividade, considere quais dados seriam mais releva
    >
    >Embora não seja obrigatório, quebrar o texto adicionado em colchetes pode facilitar para algumas pessoas discernir entre os dados quando eles são preenchidos em um campo de assunto no Salesforce. Exemplo: `[Sales Insight Actions] - {{Activity_type}}`
 
-1. Adicione outros campos dinâmicos desejados clicando no link **Adicionar campo dinâmico** botão.
+1. Adicione outros campos dinâmicos desejados clicando no botão **Adicionar Campo Dinâmico**.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -146,4 +146,4 @@ Ao configurar os detalhes da atividade, considere quais dados seriam mais releva
 >[!MORELIKETHIS]
 >
 >* [Sincronizar atividades de vendas com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
->* [Lembrete de sincronização de tarefas com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [Sincronização de tarefas de lembrete com o Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)

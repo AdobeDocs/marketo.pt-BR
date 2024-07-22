@@ -26,10 +26,10 @@ Neste artigo, você encontrará informações sobre o comportamento esperado ass
    * Filtros preditivos - [!DNL Sky/Classic]
    * Registros projetados - [!DNL Sky/Classic]
    * Previsões de probabilidade de nível de lead - [!DNL Sky/Classic]
-   * Metas e rastreamento - [!DNL Sky] somente
-   * Insights e recomendações - [!DNL Sky] somente
-* A ativação inicial leva **24 a 48 horas** para que todos os processos sejam concluídos após a ativação do PA. Você verá todos os recursos de Públicos-alvo preditivos e Filtros preditivos na interface, mas pode levar até 24 horas para que esses recursos comecem a funcionar.
-* **As previsões só serão geradas para novas campanhas que são criadas após a ativação do recurso.**
+   * Metas e rastreamento - somente [!DNL Sky]
+   * Insights e recomendações - somente [!DNL Sky]
+* A ativação inicial leva de **24-48 horas** para que todos os processos sejam concluídos após a habilitação do PA. Você verá todos os recursos de Públicos-alvo preditivos e Filtros preditivos na interface, mas pode levar até 24 horas para que esses recursos comecem a funcionar.
+* **As previsões só serão geradas para novas campanhas que forem criadas após a ativação do recurso.**
 
 **Há algumas considerações adicionais específicas para filtros preditivos**:
 
@@ -39,7 +39,7 @@ Neste artigo, você encontrará informações sobre o comportamento esperado ass
 * Para executar uma campanha inteligente, os filtros de probabilidade precisam ser usados junto com outros filtros comuns.
 * O recurso Regras salvas não está disponível para uso em campanhas que contêm filtros preditivos.
 * Você pode usar **até 5** filtros preditivos em uma lista inteligente.
-* Filtros preditivos podem processar um **máximo de 1 milhão de clientes potenciais qualificados**.
+* Os filtros preditivos podem processar um **máximo de 1 milhão de clientes potenciais qualificados**.
 * Você pode ter **até 50 programas ativos** com filtros preditivos. Um programa ativo é qualquer programa que usa filtros preditivos e foi agendado pelo menos uma vez.
 
 ## Quando os registros projetados não estão disponíveis?

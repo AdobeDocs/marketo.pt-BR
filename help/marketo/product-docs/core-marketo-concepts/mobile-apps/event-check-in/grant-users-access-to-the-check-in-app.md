@@ -6,7 +6,7 @@ exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ O Marketo Engage tem uma função de usuário especial para o aplicativo de chec
 
 ## Criar uma nova função de usuário para dispositivos móveis {#create-a-new-user-role-for-mobile}
 
-1. Clique em **[!UICONTROL Admin]**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
@@ -29,11 +29,11 @@ O Marketo Engage tem uma função de usuário especial para o aplicativo de chec
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Clique em **[!UICONTROL Funções]** e clique em **[!UICONTROL Nova Função]**.
+1. Clique na guia **[!UICONTROL Funções]** e em **[!UICONTROL Nova Função]**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Digite um nome para a nova função e uma descrição opcional. Verifique a **[!UICONTROL Acessar aplicativo móvel]** e clique em **[!UICONTROL Criar]**.
+1. Digite um nome para a nova função e uma descrição opcional. Marque a caixa **[!UICONTROL Acessar Aplicativo Móvel]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -41,7 +41,7 @@ O Marketo Engage tem uma função de usuário especial para o aplicativo de chec
 
 ## Convidar novos usuários para o aplicativo de check-in {#invite-new-users-for-the-check-in-app}
 
-1. Clique em **[!UICONTROL Usuários]** guia.
+1. Clique na guia **[!UICONTROL Usuários]**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 

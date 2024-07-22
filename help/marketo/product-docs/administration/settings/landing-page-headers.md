@@ -22,7 +22,7 @@ Siga as etapas abaixo para personalizar alguns dos cabeçalhos HTTP nos domínio
 
    ![](assets/landing-page-headers-2.png)
 
-1. Clique em **[!UICONTROL Editar]** ao lado de Cabeçalhos HTTP de landing page.
+1. Clique em **[!UICONTROL Editar]** ao lado de Cabeçalhos HTTP de landing pages.
 
    ![](assets/landing-page-headers-3.png)
 

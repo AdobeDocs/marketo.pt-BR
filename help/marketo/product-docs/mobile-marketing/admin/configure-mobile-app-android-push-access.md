@@ -7,17 +7,17 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Configurar o acesso por push do Android para aplicativos móveis {#configure-mobile-app-android-push-access}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecionar **Aplicativos móveis**.
+1. Selecione **Aplicativos móveis**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Em **Tipo de acesso por push**, selecione **Android** e clique em **Configurar.**
+1. Em **Tipo de Acesso por Push**, selecione **Android** e clique em **Configurar.**
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >Você precisará de um **Chave da API do servidor** e **Número do Projeto** do desenvolvedor de aplicativos móveis. O desenvolvedor recebe isso fazendo logon no Google Play Developer Console para registrar seu aplicativo e ativar as mensagens na nuvem.
+   >Você precisará de uma **Chave de API do Servidor** e do **Número do Projeto** do desenvolvedor de aplicativos para dispositivos móveis. O desenvolvedor recebe isso ao fazer logon no Google Play Developer Console para registrar seu aplicativo e ativar as mensagens na nuvem.
 
 1. Insira a chave da API do servidor e o número do projeto. Clique em **Salvar**.
 

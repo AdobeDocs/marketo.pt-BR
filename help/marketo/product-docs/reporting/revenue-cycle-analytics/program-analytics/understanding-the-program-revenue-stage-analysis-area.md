@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Essa área de análise permite analisar a eficácia de programas individuais ou ver resultados resumidos por canal. Ele fornece insights sobre quantos dos novos nomes gerados atingiram estágios de caminho de sucesso específicos no modelo de ciclo de receita.
 
-**Exemplos de perguntas comerciais que você pode responder usando essa área de análise incluem**:
+**Exemplos de perguntas comerciais que você pode responder usando esta área de análise incluem**:
 
 Quantos novos nomes de um determinado programa já atingiram um estágio específico no meu modelo?
 
@@ -29,7 +29,7 @@ Quantos dias leva para chegar ao estágio atual?
 
 ![](assets/three-3.png)
 
-**Dimension e Medidas da Análise do Estágio da Receita do Programa**
+**Dimension e Medidas de Análise do Estágio de Receita do Programa**
 
 Dimension e medidas são categorizadas por funcionalidade e são representadas por pontos amarelos ou azuis no sistema: amarelo para dimensões e azul para medidas. Use dimensões e medidas da análise do estágio de receita do programa para responder a perguntas específicas em seu relatório.
 
@@ -39,7 +39,7 @@ Para exibir as dimensões ou medidas disponíveis em uma categoria, clique na se
 >
 >Para obter mais informações sobre uma dimensão ou medida específica enquanto estiver no relatório, passe o mouse sobre ela.
 
-**Atributos do modelo**
+**Atributos do Modelo**
 
 <table> 
  <tbody> 
@@ -93,7 +93,7 @@ Para exibir as dimensões ou medidas disponíveis em uma categoria, clique na se
  </tbody> 
 </table>
 
-**Período do custo do programa**
+**Período de Custo do Programa**
 
 <table> 
  <tbody> 
@@ -153,4 +153,4 @@ Para exibir as dimensões ou medidas disponíveis em uma categoria, clique na se
 
 >[!MORELIKETHIS]
 >
->[Criar um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Criar um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

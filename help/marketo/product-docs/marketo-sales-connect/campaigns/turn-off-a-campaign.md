@@ -21,7 +21,7 @@ Precisa encerrar automaticamente uma campanha quando um recipient responder? Vej
 
 ## Desativar uma campanha para uma pessoa {#turn-off-a-campaign-for-one-person}
 
-Depois de criar sua campanha, basta ir para a **Configurações** e escolha o comportamento desejado da campanha se alguém responder.
+Depois de criar sua campanha, vá para a guia **Configurações** e escolha como você gostaria que a campanha se comportasse se alguém respondesse.
 
 Ambas as opções encerrarão a campanha e o recipient não receberá mais emails de você.
 

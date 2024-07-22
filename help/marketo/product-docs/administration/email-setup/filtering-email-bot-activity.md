@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Usamos dois métodos separados para confirmar a atividade do bot:
 
-* Corresponder com [Lista de bot do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: atividades que correspondem a qualquer item na lista UA/IP (Agente do usuário/endereço IP) do IAB serão marcadas como bots.
+* Correspondência com [Lista de bot interativa do Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: as atividades que correspondem a qualquer item na lista UA/IP (Agente do usuário/endereço IP) do IAB serão marcadas como bots.
 * Correspondência com o padrão de proximidade: quando duas ou mais atividades acontecem ao mesmo tempo (em menos de um segundo), elas são identificadas como bots. Os atributos considerados durante a comparação são:
    * ID do lead (deve ser o mesmo)
    * Ativo de email (deve ser o mesmo)
@@ -31,35 +31,35 @@ Em relação à atividade de clique em links de email e abertura de email, novos
 
 ## Selecionar tipo de filtro {#select-filter-type}
 
-1. Clique em **[!UICONTROL Admin]**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Clique em **[!UICONTROL E-mail]**.
+1. Clique em **[!UICONTROL Email]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Clique em **[!UICONTROL Atividade de bot]** guia.
+1. Clique na guia **[!UICONTROL Atividade de bot]**.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Há dois controles deslizantes para escolher. Você pode ativar apenas um ou ambos. Se você habilitar **[!UICONTROL Corresponder com Lista IAB]**, escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot].
+1. Há dois controles deslizantes para escolher. Você pode ativar apenas um ou ambos. Se você habilitar **[!UICONTROL Corresponder com a Lista IAB]**, escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. Se você habilitar **[!UICONTROL Corresponder com Padrão de Proximidade]**, escolha se deseja [!UICONTROL registrar atividade de bot] _ou_ [!UICONTROL filtrar atividade de bot]. Você também pode definir a quantidade de segundos para **Duração entre atividades** (o padrão é 0, o máximo é 3).
+1. Se você habilitar a **[!UICONTROL Correspondência com o Padrão de Proximidade]**, escolha se deseja [!UICONTROL registrar a atividade de bot] _ou_ [!UICONTROL filtrar a atividade de bot]. Você também pode definir a quantidade de segundos para **Duração entre atividades** (o padrão é 0, o máximo é 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->Com **Duração entre atividades** definido como 0 segundos, identificaremos as atividades de email que estão ocorrendo exatamente no mesmo segundo. Se várias atividades de email ocorrerem dentro da quantidade designada de segundos, elas serão identificadas como atividade de bot.
+>Com a **Duração Entre Atividades** definida como 0 segundos, identificaremos as atividades de email que estão ocorrendo exatamente no mesmo segundo. Se várias atividades de email ocorrerem dentro da quantidade designada de segundos, elas serão identificadas como atividade de bot.
 
 >[!IMPORTANT]
 >
->* Se você escolher [!UICONTROL Filtrar atividade de bot], você poderá ver uma queda nas aberturas e cliques no email, à medida que as atividades falsas forem eliminadas.
+>* Se você escolher [!UICONTROL Filtrar atividade de bot], poderá ver uma queda nas aberturas e cliques de email, já que as atividades falsas serão eliminadas.
 
-**ETAPA OPCIONAL**: Para desativar qualquer um dos recursos, basta desmarcar o respectivo controle deslizante. Se você fizer isso, os dados não serão redefinidos.
+**ETAPA OPCIONAL**: para desabilitar qualquer um dos recursos, basta desmarcar o respectivo controle deslizante. Se você fizer isso, os dados não serão redefinidos.
 
 >[!TIP]
 >

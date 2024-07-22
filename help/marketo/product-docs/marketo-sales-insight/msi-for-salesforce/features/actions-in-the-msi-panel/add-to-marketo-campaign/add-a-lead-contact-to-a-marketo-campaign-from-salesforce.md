@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10099167
-description: Escolha uma ação no Sales Insight - Documentos da Marketo - Documentação do produto
-title: Escolher uma ação no Insight de vendas
+description: Escolha uma ação no Sales Insight - Marketo Docs - Documentação do produto
+title: Escolher uma ação no Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
@@ -10,7 +10,7 @@ ht-degree: 5%
 
 ---
 
-# Escolher uma ação no Insight de vendas {#choose-an-action-in-sales-insight}
+# Escolher uma ação no Sales Insight {#choose-an-action-in-sales-insight}
 
 As seguintes ações estão disponíveis no menu suspenso Sales Insight no Salesforce Classic e Lightning:
 
@@ -20,34 +20,35 @@ As seguintes ações estão disponíveis no menu suspenso Sales Insight no Sales
 
 Cada um desses recursos pode ser acessado de:
 
-**Layout de página com ação única**
+**Layout da página com uma única ação**
 
-* Painel de Layout de lead: Ação única e pode ser controlada pelo perfil do usuário
-* Painel Layout de Contato: Ação única e pode ser controlada pelo perfil do usuário
-* Botão de Layout de Lead: Ação única e não pode ser controlada pelo perfil do usuário
-* Botão Layout de Contato: Ação única e não pode ser controlada pelo perfil do usuário
+* Painel de layout de cliente potencial: Uma única ação e pode ser controlada pelo perfil do usuário
+* Painel de layout de contato: Uma única ação e pode ser controlada pelo perfil do usuário
+* Botão Layout do Lead: Uma única ação e não pode ser controlada pelo perfil do usuário
+* Botão Layout do Contato: Uma única ação e não pode ser controlada pelo perfil do usuário
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
 **Layout da página com ação de grupo**
 
-Painel Layout da conta: A ação do grupo e pode ser controlada pelo Painel de Layout da Oportunidade do perfil do usuário: Ação do grupo e pode ser controlada pelo perfil do usuário
+Painel de layout da conta: Ação de grupo e pode ser controlada pelo perfil do usuário
+Painel de layout de oportunidade: Ação de grupo e pode ser controlada pelo perfil do usuário
 
 ![](assets/-.png)
 
-**Guia Melhores Propostas**
+**guia Melhores Opções**
 
-* Guia Ações em massa Melhores Opções: Ação do grupo e pode ser controlada pelo perfil do usuário
+* Guia Ações em massa de melhores opções: ação em grupo e pode ser controlada pelo perfil do usuário
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-* Guia Melhores ações em linha: Ação única e pode ser controlada pelo perfil do usuário
+* Guia Ações embutidas de melhores opções: ação única e pode ser controlada pelo perfil do usuário
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
 **Exibição de lista com ação em massa**
 
-* Exibição da lista de clientes potenciais: Ação em massa e não pode ser controlada pelo perfil do usuário
-* Exibição da lista de contatos: Ação em massa e não pode ser controlada pelo perfil do usuário
+* Exibição da Lista de Clientes Potenciais: ação em massa e não pode ser controlada pelo perfil do usuário
+* Exibição da Lista de Contatos: ação em massa e não pode ser controlada pelo perfil do usuário
 
-   ![](assets/-.png)
+  ![](assets/-.png)

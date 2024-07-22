@@ -6,16 +6,16 @@ exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
 # Mapear campos personalizados para o Marketo {#map-custom-fields-to-marketo}
 
-Você pode coletar mais do que as informações padrão que a Facebook armazena por padrão, como a frequência com que alguém usa seu serviço de delivery online. Você pode fazer isso ao [criação de perguntas personalizadas](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) nos seus anúncios de clientes potenciais do Facebook.
+Você pode coletar mais do que as informações padrão que a Facebook armazena por padrão, como a frequência com que alguém usa seu serviço de delivery online. Você pode fazer isso [criando perguntas personalizadas](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) nos seus anúncios de cliente potencial do Facebook.
 
-No entanto, **O Marketo não iniciará automaticamente a coleta desses dados**. Para que o Marketo comece a capturar valores de campos personalizados, você **deve** mapeie esses campos personalizados para um campo no Marketo.
+No entanto, o **Marketo não iniciará automaticamente a coleta desses dados**. Para que o Marketo comece a capturar valores de campos personalizados, você **deve** mapear esses campos personalizados para um campo no Marketo.
 
 Veja como configurar isso na área LaunchPoint do Administrador.
 
@@ -23,19 +23,19 @@ Veja como configurar isso na área LaunchPoint do Administrador.
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para a área Admin e clique em **LaunchPoint**. Em Serviços Instalados, localize e edite **Anúncios de clientes potenciais do facebook**.
+1. Vá para a área de Administração e clique em **LaunchPoint**. Em Serviços Instalados, localize e edite os **Facebook Lead Ads**.
 
    ![](assets/image2017-10-24-9-3a32-3a16.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Deixar a conta autorizada como está — fazer **não** fazer alterações. Clique em **Próxima**.
+1. Deixe a conta autorizada como está. **não** faça alterações. Clique em **Avançar**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Como antes, deixe as páginas selecionadas como estão — faça **não** fazer alterações. Clique em **Próxima**.
+1. Como antes, deixe as páginas selecionadas como estão. **não** faça alterações. Clique em **Avançar**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
@@ -51,7 +51,7 @@ Veja como configurar isso na área LaunchPoint do Administrador.
    >
    >Somente os campos que foram salvos em modelos de formulário do Facebook aparecerão como opções aqui.
 
-1. Clique em **Campo do Marketo** coluna. Digite para procurar o campo para o qual deseja mapear. Depois de selecionar um campo, clique em **Salvar**.
+1. Clique na coluna **Campo do Marketo**. Digite para procurar o campo para o qual deseja mapear. Depois de selecionar um campo, clique em **Salvar**.
 
    ![](assets/image2017-10-24-11-3a16-3a42.png)
 
@@ -61,4 +61,4 @@ Veja como configurar isso na área LaunchPoint do Administrador.
 
 >[!CAUTION]
 >
->Você **deve** passe por esse processo para qualquer novo campo do Facebook para que o Marketo colete os dados.
+>Você **deve** passar por esse processo para qualquer novo campo do Facebook para que o Marketo colete os dados.

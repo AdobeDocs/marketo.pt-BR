@@ -6,8 +6,8 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ Os campos e botões abaixo são criados pela API de metadados no Salesforce CRM.
 
    ![](assets/three.png)
 
-1. Clique em **Conectar-se ao Salesforce**.
+1. Clique em **Conectar ao Salesforce**.
 
    ![](assets/four.png)
 
@@ -49,7 +49,7 @@ As atualizações do pacote de Personalização do Salesforce incluirão melhori
 >
 >**Permissões de administrador necessárias.**
 
-1. No [aplicativo web](https://www.toutapp.com), clique no ícone de engrenagem e selecione **Configurações**.
+1. No [aplicativo Web](https://www.toutapp.com), clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
@@ -57,7 +57,7 @@ As atualizações do pacote de Personalização do Salesforce incluirão melhori
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. O cartão Personalização do Sales Connect mostrará se há atualizações disponíveis. Clique em **Personalizações de atualização**.
+1. O cartão Personalização do Sales Connect mostrará se há atualizações disponíveis. Clique em **Atualizar Personalizações**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
@@ -75,9 +75,9 @@ Depois de concluído, seu cartão mostrará &quot;Suas personalizações do Sale
 
 ## Campos de atividades personalizadas {#custom-activity-fields}
 
-O Marketo detectará a criação de novos campos e fará um preenchimento retroativo de dados único, um remapeamento e uma sincronização contínua de valores na **novo** somente campos. Campos antigos não serão atualizados.
+O Marketo detectará a criação de novos campos e então fará um preenchimento retroativo de dados único, um remapeamento e uma sincronização contínua de valores somente nos campos **novos**. Campos antigos não serão atualizados.
 
-| **Nome do campo** | **Descrição** |
+| **Nome do Campo** | **Descrição** |
 |---|---|
 | ID de presença local da chamada MSE | Como usuário, você pode escolher Presença local como opção ao fazer chamadas do telefone MSE. As chamadas recebidas mostrarão um número local para o receptor. |
 | URL de Gravação de Chamada MSE | As chamadas podem ser gravadas e um link para a gravação será registrado aqui. |
@@ -118,8 +118,8 @@ O Marketo detectará a criação de novos campos e fará um preenchimento retroa
    <td>Descrição do compromisso.</td> 
   </tr> 
   <tr> 
-   <td>MSE - Última fonte de engajamento de marketing</td> 
-   <td>Fonte do engajamento de marketing.</td> 
+   <td>MSE - Último Source de envolvimento de marketing</td> 
+   <td>Source do envolvimento de marketing.</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE - Último Tipo de Compromisso de Marketing</td> 
@@ -150,7 +150,7 @@ O Marketo detectará a criação de novos campos e fará um preenchimento retroa
 
 ## Botões {#buttons}
 
-| **Nome do botão** | **Descrição** |
+| **Nome do Botão** | **Descrição** |
 |---|---|
 | Enviar Email MSE | Envie emails de Vendas do Salesforce. |
 | Adicionar à campanha MSE | Adicionar às campanhas do MSE do Salesforce. |
@@ -159,14 +159,14 @@ O Marketo detectará a criação de novos campos e fará um preenchimento retroa
 
 ## Botões de ação em massa {#bulk-action-buttons}
 
-| **Nome do botão** | **Descrição** |
+| **Nome do Botão** | **Descrição** |
 |---|---|
 | Adicionar à campanha MSE | Adicionar às campanhas do MSE do Salesforce. |
 | Encaminhar para o MSE | Contato por push do Salesforce para o MSE. |
 
 ## Guias do usuário {#user-guides}
 
-[Relatórios personalizados MSE no Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Relatórios personalizados do MSE no Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
 [MSE para Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 

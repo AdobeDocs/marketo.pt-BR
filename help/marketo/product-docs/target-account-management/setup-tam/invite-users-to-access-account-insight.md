@@ -6,7 +6,7 @@ exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Siga estas etapas para fornecer aos usuários acesso ao Account Insight.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/admin-1.png)
 
-1. Clique em **Usuários e funções** na árvore. Em seguida, clique no link **Usuários de Vendas** e **Convidar Novo Usuário de Vendas**.
+1. Clique em **Usuários e funções** na árvore. Clique na guia **Usuários de Vendas** e **Convidar Novo Usuário de Vendas**.
 
    ![](assets/two-6.png)
 
@@ -29,23 +29,23 @@ Siga estas etapas para fornecer aos usuários acesso ao Account Insight.
    >
    >Ao convidar novos usuários (não Marketo) por meio da lista de usuários do CRM, você pode convidar várias pessoas de cada vez. O convite por email é 1 para 1.
 
-1. Clique em **Usuário do CRM** e selecione o usuário desejado.
+1. Clique no menu suspenso **Usuário do CRM** e selecione o usuário desejado.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Se você escolher **Convidar usuário por email**, basta inserir o nome, sobrenome e endereço de email e prosseguir para a etapa 4.
+   >Se você escolher **Convidar Usuário por email**, basta inserir seu nome, sobrenome e endereço de email e continuar na etapa 4.
 
 1. Para definir uma data de expiração para o acesso do usuário (opcional), clique no ícone do calendário. É definido como &quot;nunca&quot; por padrão.
 
    ![](assets/four-5.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/five-5.png)
 
-1. Verifique a **Insight da conta** e clique em **Próxima**.
+1. Marque a caixa de seleção **Insight de conta** e clique em **Avançar**.
 
    ![](assets/six-3.png)
 

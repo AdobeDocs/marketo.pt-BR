@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Siga as etapas abaixo para exportar seu esquema de metadados de atividade personalizado.
 
-1. Em Meu Marketo, clique em **[!UICONTROL Admin]**.
+1. Em Minha Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/custom-activity-metadata-export-1.png)
 
@@ -26,7 +26,7 @@ Siga as etapas abaixo para exportar seu esquema de metadados de atividade person
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. Clique em **[!UICONTROL Ações de atividade personalizadas]** e selecione **[!UICONTROL Atividade de exportação]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de atividade personalizadas]** e selecione **[!UICONTROL Atividade de exportação]**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

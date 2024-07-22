@@ -6,7 +6,7 @@ exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '407'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 
 ## Email em massa {#bulk-email}
 
-1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de leads desejada.
+1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de clientes potenciais desejados.
 
    ![](assets/one-6.png)
 
@@ -33,22 +33,22 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
    >
    >Se você já estiver na lista que será usada, precisará executá-la novamente escolhendo-a no menu suspenso para garantir que os botões de ação em massa do MSC sejam exibidos. Esse é um comportamento do Salesforce que não pode ser alterado.
 
-1. Clique na lista suspensa de setas (na extremidade direita da tela) e selecione **Email com MSC**.
+1. Clique na lista suspensa de setas (na extremidade direita da tela) e selecione **Email with MSC**.
 
    ![](assets/two-6.png)
 
 1. Um email do MSC será exibido. Ele inclui os seguintes recursos:
 
-   a) O campo &quot;Até&quot; mostra &quot;Todos os recebimentos&quot; - isso corresponde à lista de clientes em potencial escolhida na Exibição da Lista de Clientes Potenciais\
+   a. O campo &quot;Até&quot; mostra &quot;Todos os recebimentos&quot; - isso corresponde à lista de clientes em potencial escolhida na Exibição da Lista de Clientes Potenciais\
    b. Esta lista está visível no painel esquerdo chamado &quot;Composição em massa&quot; - você pode adicionar/remover destinatários aqui\
    c. Você pode escolher um modelo ou criar seu próprio email\
    d. Você pode enviar o email imediatamente ou agendar o envio posteriormente
 
    ![](assets/three-5.png)
 
-## Adicionar à campanha  {#add-to-campaign}
+## Adicionar à campanha {#add-to-campaign}
 
-1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de leads desejada.
+1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de clientes potenciais desejados.
 
    ![](assets/four-4.png)
 
@@ -56,21 +56,21 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 
    ![](assets/five-4.png)
 
-1. Um pop-up &quot;Adicionar pessoas à sua campanha&quot; será exibido. Clique em **Próxima** e passe pelo fluxo de campanha típico para acionar uma campanha de MSC.
+1. Um pop-up &quot;Adicionar pessoas à sua campanha&quot; será exibido. Clique em **Avançar** e passe pelo fluxo de campanha típico para acionar uma campanha MSC.
 
    ![](assets/six-1.png)
 
 ## Enviar por push ao Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de leads desejada.
+1. No Salesforce, clique na guia **Clientes potenciais** e escolha a lista de clientes potenciais desejados.
 
    ![](assets/seven-2.png)
 
-1. Clique na lista suspensa de setas (na extremidade direita da tela) e selecione **Enviar para MSC**.
+1. Clique na lista suspensa de setas (na extremidade direita da tela) e selecione **Enviar para o MSC**.
 
    ![](assets/eight-2.png)
 
-1. Uma nova guia chamada &quot;Salesforce Bridge&quot; será aberta. Clique em **Vá para Grupo →** botão.
+1. Uma nova guia chamada &quot;Salesforce Bridge&quot; será aberta. Clique no botão **Prosseguir para o grupo →**.
 
    ![](assets/nine-2.png)
 
@@ -85,4 +85,4 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 >[!MORELIKETHIS]
 >
 >* [Enviando Emails por Email de Grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [Escrevendo emails em massa com Selecionar e enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [Compondo Emails em Massa com Selecionar e Enviar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

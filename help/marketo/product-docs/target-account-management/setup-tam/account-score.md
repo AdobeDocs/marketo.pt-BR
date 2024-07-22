@@ -6,8 +6,8 @@ exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 1%
+source-wordcount: '355'
+ht-degree: 2%
 
 ---
 
@@ -44,7 +44,7 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 
 >[!NOTE]
 >
->Para calcular pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketo TAM agrega automaticamente pontuações de clientes potenciais às pontuações de contas. Como exemplo, pegaremos dois dos exemplos acima (_Pontuação de juros do produto da conta_ e _Pontuação de engajamento na Web da conta_).
+>Para calcular pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketo TAM agrega automaticamente pontuações de clientes potenciais às pontuações de contas. Como exemplo, vamos usar dois dos exemplos acima (_Pontuação de interesse do produto da conta_ e _Pontuação de envolvimento da Web da conta_).
 >
 >Primeiro, crie campos de pontuação de lead que capturem detalhes relevantes de cada lead de uma conta de destino.\
 >Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:\
@@ -57,11 +57,11 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 
 Depois de configurar a pontuação de lead, continue seguindo as etapas abaixo.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/account-score-1.png)
 
-1. Clique em **Gerenciamento de conta do Target**.
+1. Clique em **Gerenciamento de Conta de Destino**.
 
    ![](assets/account-score-2.png)
 
@@ -71,9 +71,9 @@ Depois de configurar a pontuação de lead, continue seguindo as etapas abaixo.
 
    >[!NOTE]
    >
-   >Você pode escolher até **cinco** para calcular a Pontuação da conta.
+   >Você pode escolher até **cinco** campos para calcular a Pontuação da conta.
 
-1. Insira o nome da Pontuação da conta, clique no ícone **Selecionar pontuação de pessoa** e selecione a pontuação correspondente.
+1. Insira o nome da Pontuação da conta, clique no menu suspenso **Selecionar pontuação de pessoa** e selecione a pontuação correspondente.
 
    ![](assets/account-score-4.png)
 

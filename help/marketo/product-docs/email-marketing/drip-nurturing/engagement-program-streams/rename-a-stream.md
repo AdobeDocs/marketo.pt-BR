@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se quiser se manter organizado, poderá renomear seus fluxos. Veja como fazer isso.
 
-1. Localize e selecione seu programa de engajamento e clique em **Fluxos**.
+1. Localize e selecione seu programa de envolvimento e clique em **Fluxos**.
 
    ![](assets/cloneasteam-1.jpg)
 

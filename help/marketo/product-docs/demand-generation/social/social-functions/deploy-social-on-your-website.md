@@ -25,11 +25,11 @@ Você pode implantar aplicativos sociais em seu próprio site para engajar seu p
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Selecionar **Código de inserção** em Ações do aplicativo social.
+1. Selecione **Incorporar código** em Ações do aplicativo social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copie o código do cabeçalho da página do site (`<head>`) e corpo (`<body>`).
+1. Copie o código do cabeçalho (`<head>`) e do corpo da página do site (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -41,7 +41,7 @@ Você pode implantar aplicativos sociais em seu próprio site para engajar seu p
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Se precisar definir o tamanho do aplicativo social para dimensões específicas na página, adicione o **outerHeight** e **outerWidth** opções para o segundo trecho de código. Por exemplo, é possível adicionar `options='{"outerHeight":400, "outerWidth":600}'`, como em:
+1. Se você precisar definir o tamanho do aplicativo social para dimensões específicas na sua página, adicione as opções **outerHeight** e **outerWidth** ao segundo trecho de código. Por exemplo, você pode adicionar `options='{"outerHeight":400, "outerWidth":600}'`, como em:
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -49,6 +49,6 @@ Você pode implantar aplicativos sociais em seu próprio site para engajar seu p
 
    >[!MORELIKETHIS]
    >
-   >* [Botão Personalizar aplicativo social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Botão Personalizar Aplicativo Social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
    >* [Definir Requisito de Compartilhamento Social](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [Publicar páginas de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Páginas de aterrissagem do Publish para o Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)

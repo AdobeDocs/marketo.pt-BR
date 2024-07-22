@@ -19,7 +19,7 @@ O Painel de controle do banco de dados serve como um instantâneo para ajudá-lo
 >
 >Cada espaço de trabalho tem seu próprio painel de banco de dados.
 
-Para chegar lá, selecione **[!UICONTROL Banco de dados]** do seu Marketo.
+Para chegar lá, selecione **[!UICONTROL Banco de Dados]** em Minha Marketo.
 
 ![](assets/database-dashboard-1.png)
 
@@ -31,6 +31,6 @@ Os gráficos indicam o número total de pessoas, o número de pessoas comerciali
 >
 >Deseja obter informações mais específicas ou oportunas sobre seu pessoal? Experimente um [Relatório de Desempenho de Pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
-**Total de pessoas:** O número total de pessoas do espaço de trabalho listado.
+**Total de Pessoas:** O número de pessoas de todas as horas do espaço de trabalho listado.
 
-**Pessoas Comercializáveis:** O número de pessoas ocasionais para o espaço de trabalho listado, _menos o seguinte_ incluir na lista de bloqueios : pessoas sem um endereço de email, pessoas cujo email foi rejeitado, pessoas que estão registradas, pessoas que cancelaram a inscrição, pessoas atualmente definidas como Marketing Suspenso.
+incluir na lista de bloqueios **Pessoas Comercializáveis:** o número total de pessoas do espaço de trabalho listadas, _menos o seguinte_: pessoas sem um endereço de email, pessoas cujo email foi rejeitado, pessoas que estão registradas, pessoas que cancelaram a assinatura, pessoas atualmente definidas como Marketing Suspenso.

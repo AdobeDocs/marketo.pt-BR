@@ -17,7 +17,7 @@ Você tem tantos segmentos que a rolagem está se tornando complicada? Use rótu
 
 ## Marcar um segmento {#tag-a-segment}
 
-1. Faça logon na Personalização da Web e acesse **Segmentos**.
+1. Faça logon no Web Personalization e acesse **Segmentos**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -29,7 +29,7 @@ Você tem tantos segmentos que a rolagem está se tornando complicada? Use rótu
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Para criar um novo rótulo, clique em **Definir rótulo**, digite o novo nome de rótulo e clique em **Criar novo**.
+1. Ou, para criar um novo rótulo, clique em **Definir Rótulo**, insira o novo nome de rótulo e clique em **Criar Novo**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

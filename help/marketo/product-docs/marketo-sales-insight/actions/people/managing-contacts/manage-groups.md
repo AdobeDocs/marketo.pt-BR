@@ -23,7 +23,7 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
  </colgroup> 
  <tbody> 
   <tr> 
-   <th>Agrupar</th> 
+   <th>Grupo</th> 
    <th>Descrição</th> 
   </tr> 
   <tr> 
@@ -47,11 +47,11 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
 ## Criar um grupo {#create-a-group}
 
-1. Na página Pessoas, clique na guia **+** ao lado de Grupos.
+1. Na página Pessoas, clique em **+** ao lado de Grupos.
 
    ![](assets/manage-groups-1.png)
 
-1. Nomeie o grupo e clique em **Criar**.
+1. Nomeie seu grupo e clique em **Criar**.
 
    ![](assets/manage-groups-2.png)
 
@@ -63,7 +63,7 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
    ![](assets/manage-groups-3.png)
 
-1. Clique em **Ações do grupo** e selecione **Criar contato e adicionar ao grupo**.
+1. Clique em **Ações do Grupo** e selecione **Criar Contato e adicionar ao Grupo**.
 
    ![](assets/manage-groups-4.png)
 
@@ -71,7 +71,7 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
    >
    >Isso adicionará um contato de cada vez. Para adicionar vários contatos ao mesmo tempo, siga [estas etapas](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Preencha as informações do contato e clique em **Criar** (ou **Criar e adicionar novo** para adicionar outro).
+1. Preencha as informações do contato e clique em **Criar** (ou **Criar e Adicionar Novo** para adicionar outro).
 
    ![](assets/manage-groups-5.png)
 
@@ -95,7 +95,7 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
    ![](assets/manage-groups-8.png)
 
-   Você ainda é o proprietário do grupo, mas agora ele aparecerá em _Grupos de Equipes_.
+   Você ainda é o proprietário do grupo, mas ele agora aparecerá em _Grupos de Equipe_.
 
 ## Deixar de compartilhar um grupo {#unshare-a-group}
 
@@ -107,7 +107,7 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
    ![](assets/manage-groups-10.png)
 
-1. Clique em **X** ao lado da equipe com a qual você compartilhou o grupo, clique em fora da modal.
+1. Clique no **X** ao lado da equipe com a qual você compartilhou o grupo e clique fora do modal.
 
    ![](assets/manage-groups-11.png)
 

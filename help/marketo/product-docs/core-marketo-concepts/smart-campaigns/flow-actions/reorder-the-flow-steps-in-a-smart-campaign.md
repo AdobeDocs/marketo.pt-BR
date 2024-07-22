@@ -17,9 +17,9 @@ As etapas de fluxo são executadas de cima para baixo. Veja como reordenar as et
 
 >[!PREREQUISITES]
 >
->[Adicionar uma etapa de fluxo a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Adicionar uma Etapa de Fluxo a uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. Em sua campanha inteligente **[!UICONTROL Fluxo]** , basta arrastar e soltar a etapa de fluxo para o local desejado.
+1. Na guia **[!UICONTROL Fluxo]** do Smart Campaign, basta arrastar e soltar a etapa de fluxo para o local desejado.
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

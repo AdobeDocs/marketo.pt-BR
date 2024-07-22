@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Para habilitar as IDs, você precisa adquirir os códigos e fornecê-los ao seu 
 >
 >Para ativar esse recurso, entre em contato com o Suporte e solicite o &quot;Modo de segurança Vespa&quot;.
 
-1. No Marketo, selecione **Admin** e clique em **Aplicativos e dispositivos móveis**.
+1. No Marketo, selecione **Admin** e clique em **Aplicativos e Dispositivos Móveis**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -33,7 +33,7 @@ Para habilitar as IDs, você precisa adquirir os códigos e fornecê-los ao seu 
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Verifique a **Ativar segurança** caixa de seleção Clique em **Salvar**.
+1. Marque a caixa de seleção **Habilitar Segurança**. Clique em **Salvar**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

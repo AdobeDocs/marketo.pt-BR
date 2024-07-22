@@ -17,7 +17,7 @@ Saiba mais sobre os painéis disponíveis em MPI.
 
 ![](assets/1-4.png)
 
-## Envolvimento {#engagement}
+## Engajamento {#engagement}
 
 O painel Engajamento ajuda a medir a eficácia de seus programas de criação e de aquisição de novos nomes.
 
@@ -25,7 +25,7 @@ O painel Engajamento ajuda a medir a eficácia de seus programas de criação e 
 
 Medir o envolvimento do público-alvo
 
-Escolha o **Sucessos** para medir o envolvimento do público-alvo em seus programas de criação. O sucesso é uma medida de interação significativa no Marketo.
+Escolha a métrica **Êxitos** para medir o envolvimento do público-alvo em seus programas de criação. O sucesso é uma medida de interação significativa no Marketo.
 
 ![](assets/3-4.png)
 
@@ -37,7 +37,7 @@ O objetivo de um programa é criar uma interação significativa com a pessoa ou
 
 Medição de nova aquisição de nome
 
-Escolha o **Novos nomes** para medir a eficácia dos seus novos programas de aquisição de nomes.
+Escolha a métrica **Novos nomes** para medir a eficácia dos novos programas de aquisição de nomes.
 
 ![](assets/4-3.png)
 

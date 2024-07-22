@@ -6,7 +6,7 @@ exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
 >[!PREREQUISITES]
 >
->* Conclua o [Redirecionamento com dados de personalização da Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) configuração
->* Revisão [Remarketing com a ajuda do Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) documentação.
+>* Concluir a configuração [Redirecionamento com Dados do Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Revise a documentação de [Remarketing com a Ajuda do Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645).
 
 ## Criação de um público de remarketing no Google {#creating-a-remarketing-audience-in-google}
 
-1. Faça logon nos Google Analytics. Clique em **Admin**, **Conta**, **Propriedade**. Clique em **Definições de público** e **Públicos-alvo**.
+1. Faça logon nos Google Analytics. Clique em **Administrador**, **Conta**, **Propriedade**. Clique em **Definições de público-alvo** e **Públicos-alvo**.
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
@@ -30,11 +30,11 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **Configuração do link**: Link para sua conta do Google Adwords. **Definir público-alvo**: Clique **Criar novo**.
+1. **Configuração de Link**: Link para sua conta do Google Adwords. **Definir Público**: Clique Em **Criar Novo**.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. No Construtor de público-alvo, clique em **Sequências** e **Localizar os dados RTP** em Dimension personalizados, Variáveis personalizadas, Eventos.
+1. No Construtor de público-alvo, clique em **Sequências** e **Localize os dados RTP** em Dimension personalizados, variáveis personalizadas, eventos.
 
 >[!TIP]
 >
@@ -55,35 +55,35 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 **Exemplo de público-alvo de remarketing de dados de público-alvo segmentados RTP**
 
 1. Clique em **Sequências.**
-1. Selecionar **Rótulo do evento.**
-1. Enter **Nome do público segmentado** (como aparece na RTP).
+1. Selecione **Rótulo de Evento.**
+1. Digite **Nome do Público-alvo Segmentado** (como aparece no RTP).
 1. Clique em **Aplicar**.
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
 
-**Exemplo de público-alvo de dados do setor da RTP**
+**Exemplo de público-alvo de dados da indústria RTP**
 
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. Clique em **Sequências**.
-1. Selecionar **RTP-Setor**.
-1. Enter **Nome do setor** (p. ex. Serviços financeiros, educação...).
+1. Selecione **RTP-Industry**.
+1. Insira o **Nome do setor** (por exemplo, Serviços financeiros, educação...).
 1. Clique em **Aplicar**.
-1. Insira um **Nome do público**. Clique em **Salvar**.
+1. Insira um **Nome do público-alvo**. Clique em **Salvar**.
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 
 ## Criar uma campanha de anúncio de remarketing no Google AdWords {#create-a-remarketing-ad-campaign-in-google-adwords}
 
-1. Fazer logon em **Google Adwords**. Clique em **Campanhas**, selecione **Exibir somente rede**.
+1. Faça logon no **Google Adwords**. Clique em **Campanhas**, selecione **Exibir somente rede**.
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. Enter **Nome da campanha**, Selecionar **Digite Remarketing.**
+1. Insira O **Nome Da Campanha** E Selecione **Digitar Remarketing.**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. Enter **Nome do grupo de anúncios,** inserir **CPC aprimorado**, Selecionar **Lista de remarketing**.
+1. Insira o **Nome do Grupo de Anúncios** insira **CPC Aprimorado**, selecione **Lista de Remarketing**.
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
@@ -94,5 +94,5 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
 >[!MORELIKETHIS]
 >
->* [Redirecionamento com dados de personalização da Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Redirecionamento com dados do Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Remarketing personalizado no Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)

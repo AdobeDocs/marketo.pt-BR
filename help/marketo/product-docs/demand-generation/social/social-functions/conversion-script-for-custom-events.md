@@ -7,21 +7,21 @@ feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Script de conversão para eventos personalizados {#conversion-script-for-custom-events}
 
-Você define a meta de preenchimento ao criar uma oferta de referência. Se a ação que conta para a meta for um evento específico em sua própria página da Web, você poderá usar um script de conversão para chamar nossa API JavaScript.
+Você define a meta de preenchimento ao criar uma oferta de referência. Se a ação que conta para a meta for um evento específico em sua própria página da Web, você poderá usar um script de conversão para chamar nossa API do JavaScript.
 
 ## Recuperar o script de conversão {#retrieve-the-conversion-script}
 
-1. No editor de oferta de referência, clique em **Detalhes da oferta** e selecione **Evento JavaScript do cliente** no menu suspenso da meta de preenchimento.
+1. No editor de oferta de referência, clique em **Detalhes da oferta** e selecione **Evento do JavaScript para cliente** na lista suspensa de meta de preenchimento.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Copie o script superior na caixa cinza e coloque-o na sua página da Web no `<body>` específicos. O script inferior é colocado dentro do `<header>` específicos.
+1. Copie o script superior na caixa cinza e coloque-o em sua página da Web nas marcas `<body>`. O script inferior é colocado dentro das marcas `<header>`.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -31,11 +31,11 @@ Você define a meta de preenchimento ao criar uma oferta de referência. Se a a�
 
 ## Recuperar o script de carregamento {#retrieve-the-loader-script}
 
-1. Selecione a oferta de referência na árvore e clique em **Ações da oferta de referência** e **Código de inserção**.
+1. Selecione a oferta de referência da árvore e clique em **Ações da Oferta de Referência** e **Incorporar Código**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Clique com o botão direito do mouse no **Código do cabeçalho** e insira-o no cabeçalho da página da Web. Em seguida, faça o mesmo para o **Código do corpo**.
+1. Clique com o botão direito do mouse no **Código do cabeçalho** e insira-o no cabeçalho da sua página da Web. Em seguida, faça o mesmo para o **Código do corpo**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -47,16 +47,16 @@ Cole os scripts de conversão no HTML para o corpo e o cabeçalho. Em seguida, c
 
 ## Conectar o script de conversão {#connecting-the-conversion-script}
 
-Aqui você escreverá uma função JavaScript que usa o ID de HTML específico de qualquer elemento de página no qual você deseja acionar a conclusão da meta. Por exemplo:
+Aqui você escreverá uma função JavaScript que usa a ID de HTML específica de qualquer elemento de página que você deseja acionar a conclusão da meta. Por exemplo:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
 Neste exemplo, há um botão na página da Web com uma ID de &quot;#myButtonId&quot;. Quando esse botão for clicado, a pessoa será registrada como tendo concluído a meta.
 
-Ótimo! Seu site agora está capturando metas personalizadas de promoção social com o Marketo.
+Fantástico! Seu site agora está capturando metas personalizadas de promoção social com o Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Especificar Meta para Oferta de Referência](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Especificar Meta para Oferta de Indicação](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
+>* [Criar uma Oferta de Indicação](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 >* [Implantar o Social no seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

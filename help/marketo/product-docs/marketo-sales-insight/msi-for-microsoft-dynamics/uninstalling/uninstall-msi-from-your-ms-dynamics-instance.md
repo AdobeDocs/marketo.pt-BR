@@ -6,7 +6,7 @@ exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Para desinstalar o MSI da instância do MS Dynamics, execute etapas no Marketo e
 
 >[!PREREQUISITES]
 >
->[Desabilitar a sincronização global do MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
+>[Desabilitar a Sincronização Global do MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
 
 1. No Marketo, clique em **Admin**.
 
@@ -31,11 +31,11 @@ Para desinstalar o MSI da instância do MS Dynamics, execute etapas no Marketo e
 
    ![](assets/seven.png)
 
-1. Selecione o **Desativar sincronização** e clique em **Salvar**.
+1. Marque a caixa de seleção **Desabilitar sincronização** e clique em **Salvar**.
 
    >[!NOTE]
    >
-   >Verifique se você [desativar a sincronização global do MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) antes de desabilitar a sincronização de campo.
+   >Certifique-se de [desabilitar a Sincronização Global do MS Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) antes de desabilitar a sincronização de campo.
 
    ![](assets/eight.png)
 
@@ -45,9 +45,9 @@ Para desinstalar o MSI da instância do MS Dynamics, execute etapas no Marketo e
 
 1. Clique em **Soluções**.
 
-1. Selecionar **Marketo Sales Insight** e clique no ícone excluir.
+1. Selecione **Marketo Sales Insight** e clique no ícone excluir.
 
-1. Quando o modal Desinstalar solução for exibido, clique em **OK**.
+1. Quando o modal Desinstalar Solução aparecer, clique em **OK**.
 
    Geralmente, leva cerca de 20 minutos para a solução MS Dynamics ser totalmente desinstalada. No entanto, se você tiver uma instância grande do MS Dynamics, poderá demorar um pouco mais.
 

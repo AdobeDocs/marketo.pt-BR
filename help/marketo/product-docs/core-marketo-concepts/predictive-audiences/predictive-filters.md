@@ -5,8 +5,8 @@ exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
 source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 0%
+source-wordcount: '410'
+ht-degree: 3%
 
 ---
 
@@ -14,29 +14,29 @@ ht-degree: 0%
 
 Como parte do Predictive Audiences, o Marketo oferece um grupo de filtros baseados em IA/ML em Smart Lists nas Campanhas inteligentes.
 
-![Imagem um](assets/predictive-filters-1.png)
+![Imagem 1](assets/predictive-filters-1.png)
 
 >[!NOTE]
 >
 >Os filtros &quot;Probabilidade de participação&quot; e &quot;Probabilidade de registro&quot; só podem ser usados em Programas de evento. É possível usar as opções &quot;Probabilidade de cancelamento de inscrição&quot;, &quot;Semelhança de membros de programa&quot; e &quot;Semelhança de membros de lista inteligente&quot; em todos os tipos de programas.
 
-## Probabilidade de participação {#likelihood-to-attend}
+## Probabilidade de participar {#likelihood-to-attend}
 
-Esse filtro é usado para restringir efetivamente seu público-alvo. Isso ajuda a direcionar e convidar clientes potenciais com uma probabilidade maior de **participando** seu webinário ou evento. Observe que o &quot;Programa de probabilidade de participação&quot; será seu programa de evento atual.
+Esse filtro é usado para restringir efetivamente seu público-alvo. Isso o ajudará a direcionar e convidar clientes potenciais com maior probabilidade de **participar** do seu webinário ou evento. Observe que o &quot;Programa de probabilidade de participação&quot; será seu programa de evento atual.
 
-![Imagem dois](assets/predictive-filters-2.png)
+![Imagem Dois](assets/predictive-filters-2.png)
 
-## Probabilidade de registro {#likelihood-to-register}
+## Probabilidade de inscrever-se {#likelihood-to-register}
 
-Semelhante ao _Probabilidade de participação_ use esse filtro para restringir seu público-alvo e direcionar clientes potenciais que têm uma probabilidade maior de **registrando** para seu webinário ou evento.
+Semelhante ao filtro _Probabilidade de participação_, use esse filtro para restringir seu público-alvo e os clientes potenciais do público-alvo que tenham uma probabilidade maior de **se registrar** no seu webinário ou evento.
 
 ![Imagem três](assets/predictive-filters-3.png)
 
-## Probabilidade de cancelamento de inscrição {#likelihood-to-unsubscribe}
+## Probabilidade de cancelar a inscrição {#likelihood-to-unsubscribe}
 
 Isso filtra o público-alvo determinando se ele tem uma alta ou baixa probabilidade de cancelar a assinatura nas próximas duas semanas. Você pode usá-lo para direcionar condutores de alta fadiga de forma diferente e com mais eficiência. O limite de cancelamento de inscrição é dinâmico e orientado por um modelo de IA que considera vários atributos, incluindo o lead time no banco de dados e as atividades de lead.
 
-![Imagem quatro](assets/predictive-filters-4.png)
+![Imagem Quatro](assets/predictive-filters-4.png)
 
 >[!NOTE]
 >
@@ -48,9 +48,9 @@ Esses dois filtros ajudam você a expandir seu público-alvo atual direcionando 
 
 Clique em **[!UICONTROL Adicionar Restrição]** para escolher os critérios de sucesso para os membros do(s) programa(s) selecionado(s).
 
-Clique em **+** ícone para adicionar facilmente vários programas/Smart Lists a um filtro.
+Clique no ícone **+** para adicionar facilmente vários programas/Smart Lists a um filtro.
 
-![Imagem cinco](assets/predictive-filters-5.png)
+![Imagem Cinco](assets/predictive-filters-5.png)
 
 ## Itens a Observar {#things-to-note}
 

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrar um relatório de desempenho de página inicial {#filter-a-landing-page-performance-report}
 
-Concentre seus [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) em páginas de aterrissagem em seus programas (ativos locais), no Design Studio (ativos globais) ou naqueles que foram arquivados.
+Concentre seu [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) nas páginas de aterrissagem de seus programas (ativos locais), no Design Studio (ativos globais) ou naquelas que foram arquivadas.
 
-1. Ir para **Analytics** (ou **Atividades de marketing**).
+1. Vá para **Analytics** (ou **Atividades de marketing**).
 
    ![](assets/analyticstile.png)
 
@@ -23,13 +23,13 @@ Concentre seus [relatório de desempenho da página de aterrissagem](/help/marke
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Clique em **Configuração** e arraste um filtro.
+1. Clique na guia **Configuração** e arraste um filtro.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Páginas de destino do Design Studio:** Ativos globais, gerenciados no Design Studio.
-   * **Páginas de aterrissagem de atividades de marketing:** Ativos locais em programas na guia Atividades de marketing.
-   * **Páginas de destino arquivadas:** Páginas de destino inativas e desativadas.
+   * **Páginas de Aterrissagem do Design Studio:** Ativos globais, gerenciados no Design Studio.
+   * **Páginas de aterrissagem de atividades de marketing:** ativos locais em programas na guia Atividades de marketing.
+   * **Páginas de aterrissagem arquivadas:** páginas de aterrissagem inativas e desativadas.
 
 1. Escolha as pastas e páginas de aterrissagem específicas a serem incluídas no relatório.
 
@@ -39,6 +39,6 @@ Concentre seus [relatório de desempenho da página de aterrissagem](/help/marke
    >
    >Se você selecionar uma pasta, seu relatório incluirá tudo o que a pasta contém no momento em que o relatório é executado.
 
-1. Pronto! Clique em **Relatório** para ver o relatório filtrado.
+1. Pronto! Clique na guia **Relatório** para ver seu relatório filtrado.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

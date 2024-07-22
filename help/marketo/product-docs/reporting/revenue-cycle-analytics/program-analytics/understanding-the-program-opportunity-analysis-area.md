@@ -6,7 +6,7 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 20%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 20%
 
 A área Análise de oportunidade de programa permite analisar a eficácia de programas individuais ou ver os resultados resumidos por canal do programa.
 
-**Exemplos de perguntas comerciais que você pode responder usando essa área de análise incluem**:
+**Exemplos de perguntas comerciais que você pode responder usando esta área de análise incluem**:
 
 Quantas oportunidades foram associadas a um determinado programa e quantas delas ganhamos?
 
@@ -169,7 +169,7 @@ Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e e
   </tr> 
   <tr> 
    <td>Atributos da oportunidade</td> 
-   <td>Oportunidade fechada<br>Nome da oportunidade*<br>Nome do proprietário da oportunidade<br>Estágio da oportunidade<br>Tipo de oportunidade</td> 
+   <td>Oportunidade Fechada<br>Nome da Oportunidade*<br>Nome do Proprietário da Oportunidade<br>Estágio da Oportunidade<br>Tipo de Oportunidade</td> 
   </tr> 
   <tr> 
    <td>Cronograma da oportunidade</td> 
@@ -177,7 +177,7 @@ Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e e
   </tr> 
   <tr> 
    <td>Atributos do programa</td> 
-   <td>Canal do programa<br>Nome do programa</td> 
+   <td>Canal do Programa<br>Nome do Programa</td> 
   </tr> 
   <tr> 
    <td>Período do custo do programa</td> 
@@ -186,8 +186,8 @@ Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e e
  </tbody> 
 </table>
 
-*&#42;Todas as oportunidades que deram qualquer tipo de crédito de atribuição a um programa. As oportunidades podem ser influenciadas por um ou mais leads e um ou mais programas.*
+*&#42;Todas as Oportunidades que deram qualquer tipo de crédito de atribuição a um Programa. As oportunidades podem ser influenciadas por um ou mais clientes potenciais e por um ou mais Programas.*
 
 >[!MORELIKETHIS]
 >
->[Criar um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Criar um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

@@ -30,12 +30,12 @@ A sincronização entre Veeva e Marketo Engage é bidirecional somente para camp
 
 * [Contas Pessoais](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Usuários
-* [Chamar e chamar objetos principais](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
-* [Objetos personalizados](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
+* [Chamar e Chamar Objetos de Chave](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [Objetos Personalizados](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## O que você deve saber {#things-to-know}
 
-* A variável [credenciais inseridas no Marketo Engage para Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} são usados para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
+* As [credenciais inseridas no Marketo Engage para Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} são usadas para sincronizar dados. Somente os dados aos quais essas credenciais têm acesso serão incluídos.
 
 * O Veeva CRM é baseado em force.com e a Marketo Engage de experiência avançada com a plataforma é herdada para essa sincronização.
 

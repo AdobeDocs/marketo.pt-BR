@@ -6,7 +6,7 @@ exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Use o Analisador de programas para identificar seus programas mais e menos efica
 
 >[!PREREQUISITES]
 >
->[Criar um analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Criar um Analisador de Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. Clique em **Analytics**.
 
@@ -37,7 +37,7 @@ Use o Analisador de programas para identificar seus programas mais e menos efica
 
    >[!TIP]
    >
-   >Uma maneira rápida de filtrar programas para apenas um canal é selecionar **Exibir** > **Por canal**, clique na bolha desse canal e clique no nome do canal na caixa de diálogo pop-up.
+   >Uma maneira rápida de filtrar programas para apenas um canal é selecionar **Exibir** > **Por Canal**, clicar no balão desse canal e clicar no nome do canal na caixa de diálogo pop-up.
 
 1. Use o menu suspenso Eixo X para escolher uma métrica para o eixo horizontal. Começaremos com o Custo do programa.
 
@@ -53,7 +53,7 @@ Use o Analisador de programas para identificar seus programas mais e menos efica
 
    >[!TIP]
    >
-   >Você também pode tentar melhorar a visualização alterando de uma escala linear para logarítmica, ou vice-versa. Use o **Escala** na parte superior.
+   >Você também pode tentar melhorar a visualização alterando de uma escala linear para logarítmica, ou vice-versa. Use o menu **Escala** na parte superior.
 
 1. Explore o gráfico resultante.
 
@@ -67,13 +67,13 @@ Use o Analisador de programas para identificar seus programas mais e menos efica
 
    >[!NOTE]
    >
-   >Muitas das métricas que você pode escolher no analisador de programa estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante compreender a [diferença entre atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Muitas das métricas que você pode escolher no analisador de programa estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a [diferença entre a atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Veja as bolhas mudarem de tamanho no gráfico.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Ao adicionar **(FT) Receitas obtidas** No entanto, vemos rapidamente que, embora a Origami Expo tenha adquirido muitos nomes novos, isso resulta em relativamente pouca receita. Além disso, vemos que o programa Paper Fest 12 está recebendo menos, mas nomes melhores, já que influencia mais receita conquistada (bolha maior).
+   Ao adicionar **(FT) Receita Ganha**, vemos rapidamente que, embora a Origami Expo tenha adquirido muitos novos nomes, isso resulta em relativamente pouca receita. Além disso, vemos que o programa Paper Fest 12 está recebendo menos, mas nomes melhores, já que influencia mais receita conquistada (bolha maior).
 
 1. Use o menu suspenso Cor para adicionar uma quarta métrica. Examinaremos a receita (FT) para investimento.
 
@@ -87,7 +87,7 @@ Vemos que o programa Paper Fest 12 não só influencia mais receita (bolha maior
 
 >[!TIP]
 >
->Você pode comparar rapidamente os programas em um canal com aqueles em outro. Use apenas o **Filtro de canal** na parte superior da janela para adicionar mais canais.
+>Você pode comparar rapidamente os programas em um canal com aqueles em outro. Basta usar o **Filtro de canal** na parte superior da janela para adicionar mais canais.
 
 >[!MORELIKETHIS]
 >

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 As etapas a seguir permitirão utilizar campos personalizados em relatórios RCA.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/one.png)
 
-1. Clique em **Análise do ciclo de receita**, depois **Sincronização de campo personalizado**.
+1. Clique em **Análise do Ciclo de Receita**, depois em **Sincronização de Campo Personalizado**.
 
    ![](assets/two.png)
 
-1. Selecione o **Nome do campo** e, em seguida, clique em **Editar Opção de Sincronização**.
+1. Selecione seu **Nome do Campo** e clique em **Editar Opção de Sincronização**.
 
    ![](assets/three.png)
 
-1. Em Status de sincronização, selecione **Ativado** e, em seguida, clique em **Salvar**.
+1. Em Status da sincronização, selecione **Habilitado** e clique em **Salvar**.
 
    ![](assets/four.png)
 

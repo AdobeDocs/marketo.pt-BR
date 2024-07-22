@@ -6,7 +6,7 @@ exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Descubra quem tem compartilhado seu conteúdo e votado em suas pesquisas criando
 
 ## Perfis sociais {#social-profiles}
 
-Agora é possível coletar informações sobre seus leads ao compartilharem conteúdo ou preencherem formulários usando seus perfis sociais. Isso inclui os identificadores do Facebook, LinkedIn e Twitter, o número de amigos que eles têm e muito mais.
+Agora é possível coletar informações sobre seus leads ao compartilharem conteúdo ou preencherem formulários usando seus perfis sociais. Isso inclui os manipuladores do Facebook, LinkedIn e Twitter, o número de amigos que eles têm e muito mais.
 
 ## Assinaturas de Relatório do Gerenciador de Receita {#revenue-explorer-report-subscriptions}
 

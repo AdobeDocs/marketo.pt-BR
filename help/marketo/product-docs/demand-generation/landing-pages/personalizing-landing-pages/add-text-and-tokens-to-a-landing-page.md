@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Adicionar Rich Text à Landing Page {#add-rich-text-to-your-landing-page}
 
-1. Selecione a landing page e clique em **Editar rascunho**.
+1. Selecione sua página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >O designer da landing page é aberto em uma nova janela.
 
-1. Arraste sobre o **Rich Text** elemento.
+1. Arraste sobre o elemento **Rich Text**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
@@ -45,7 +45,7 @@ Os tokens são textos dinâmicos que podem personalizar a página de aterrissage
 >
 >Coisas como Nome vem do registro de pessoa. Outros tokens vêm da guia Meus tokens no programa.
 
-1. Selecione a landing page e clique em **Editar rascunho**.
+1. Selecione sua página de aterrissagem e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 

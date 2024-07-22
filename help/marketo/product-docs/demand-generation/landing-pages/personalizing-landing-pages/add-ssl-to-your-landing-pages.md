@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A criptografia SSL (Secure Socket Layer) permite que você torne seguras todas as suas Landing Pages para uma instância Marketo Engage.
 
-Ao preencher um formulário da Web ou visitar uma landing page hospedada pelo Marketo Engage, por padrão as informações são enviadas por protocolo não seguro (HTTP). De acordo com a política da empresa, talvez você queira proteger as informações enviadas à Marketo no (HTTPS). Por exemplo, quando você visita `http://info.mydomain.com/` será agora `https://info.mydomain.com/`.
+Ao preencher um formulário da Web ou visitar uma landing page hospedada pelo Marketo Engage, por padrão as informações são enviadas por protocolo não seguro (HTTP). De acordo com a política da empresa, talvez você queira proteger as informações enviadas à Marketo no (HTTPS). Por exemplo, quando você visitar `http://info.mydomain.com/`, agora será `https://info.mydomain.com/`.
 
 Marketo Engage rastreia &quot;Visited Web Page&quot; e &quot;Click Link on Web Page&quot; por padrão sobre protocolo HTTP não seguro. Para ter os links de rastreamento protegidos com seu próprio certificado, o Marketo precisa criar um servidor não compartilhado separado para habilitá-lo. Proteger todos os aspectos da interação de um contato com você normalmente significa proteger tanto as páginas de aterrissagem quanto os links de rastreamento.
 

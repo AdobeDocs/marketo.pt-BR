@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Essa opção permite que o Marketo Engage sincronize sua associação e status de programa com campanhas do Salesforce e vice-versa.
 
-1. Ir para **[!UICONTROL Admin]** e clique em **[!DNL Salesforce]**.
+1. Vá para **[!UICONTROL Admin]** e clique em **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. Clique em **[!UICONTROL Editar Configurações de Sincronização]**.
+1. Clique em **[!UICONTROL Editar configurações de sincronização]**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Marcar **[!UICONTROL Habilitar a sincronização de campanhas do Salesforce]** e clique em **[!UICONTROL Salvar]**.
+1. Marque **[!UICONTROL Habilitar a sincronização de campanha do Salesforce]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
@@ -36,5 +36,5 @@ Essa opção permite que o Marketo Engage sincronize sua associação e status d
 >[!MORELIKETHIS]
 >
 >* [Sincronização SFDC: Sincronização de Campanha](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
->* [Definir sobrenome e valores da empresa do cliente potencial padrão](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
+>* [Definir Sobrenome e Valores de Empresa do Cliente Potencial Padrão](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
 >* [Personalizar sincronização de atividades](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"}

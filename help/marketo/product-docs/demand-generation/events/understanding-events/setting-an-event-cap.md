@@ -8,7 +8,7 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -31,22 +31,22 @@ Limite a quantidade de pessoas que podem se registrar no seu evento com um limit
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. Na Visão geral, localize [!UICONTROL Limite de evento] e clique em **[!UICONTROL Não definido]**.
+1. Na Visão geral, encontre [!UICONTROL Limite de eventos] e clique em **[!UICONTROL Não definido]**.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. Insira a quantidade máxima de pessoas que você deseja registrar no evento e clique em **[!UICONTROL Próxima]**.
+1. Insira a quantidade máxima de pessoas que você deseja registrar no evento e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Clique em [!UICONTROL Página de registro] e selecione a landing page que atuará como sua página de registro.
+1. Clique no menu suspenso [!UICONTROL Página de Registro] e selecione a página de aterrissagem que atuará como página de registro.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. Clique em **[!UICONTROL Inscrição na página inteira]** e selecione a landing page que atuará como sua página completa de registro. Clique em **[!UICONTROL Definir e ativar]** quando terminar.
+1. Clique no menu suspenso **[!UICONTROL Página completa de registro]** e selecione a página de aterrissagem que atuará como a página completa de registro. Clique em **[!UICONTROL Definir e Habilitar]** quando terminar.
 
    ![](assets/setting-an-event-cap-5.png)
 
-   Pronto. Se decidir editar os detalhes do limite de eventos, clique no texto azul ao lado de [!UICONTROL Limite de evento].
+   Está tudo pronto. Se decidir editar os detalhes do limite de eventos, clique no texto azul ao lado de [!UICONTROL Limite de eventos].
 
    ![](assets/setting-an-event-cap-6.png)

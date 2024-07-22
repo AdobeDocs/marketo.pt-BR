@@ -17,11 +17,11 @@ Confira o desempenho de seus programas de email com essa exibição de painel.
 
 >[!CAUTION]
 >
->Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email, referenciando-o em uma Campanha inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se precisar reutilizar um email, [clonar](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} em vez disso, o, pois copia o email, mas cria um novo com uma nova ID de email.
+>Para obter relatórios precisos, evite _reutilizar_ um email de um programa de email referenciando-o em uma Campanha Inteligente ou movendo o ativo do programa de email iniciado para um novo. Isso agregará todos os dados em cada painel de relatórios anexado a esse email. Se você precisar reutilizar um email, [clone-o](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, pois ele copia o email, mas cria um novo com uma nova ID.
 
 >[!NOTE]
 >
->Se o seu programa tiver um teste A/B, verifique o [Painel de programa de email - Visualização de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
+>Se o seu programa tiver um teste A/B, confira o [Painel do Programa de Email - Exibição de Teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -51,7 +51,7 @@ Este gráfico mostra o número de emails abertos/clicados durante períodos espe
 
 ## Resumo - Participação {#summary-engagement}
 
-Isso mostra o [pontuação de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+Isto mostra a você a [pontuação geral do engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,15 +63,15 @@ O restante dos dados exibirá Opens, Clicks, Click/Open Ratio e Unsubscribes.
 
 >[!TIP]
 >
->A variável **Cancelar inscrição** A taxa no exemplo acima era tão pequena que o Marketo ampliou para dar a você uma melhor aparência. O segundo número dentro da barra é apenas adicionado para escala.
+>A taxa de **Cancelamento de inscrição** no exemplo acima era tão pequena que o Marketo ampliou para dar a você uma melhor aparência. O segundo número dentro da barra é apenas adicionado para escala.
 
 >[!NOTE]
 >
 >**Definição**
 >
->**Aberturas** são contados quando o destinatário do email baixa as imagens do email, o que inclui um pixel de rastreamento inserido pelo Marketo. Se o recipient visualizar o email, mas optar por não baixar as imagens, isso não contará como uma abertura. Se as imagens forem carregadas no painel de visualização do recipient, isso geralmente contará como uma abertura, mas variará com base no cliente de email.
+>**Aberturas** são contadas quando o destinatário do email baixa as imagens do email, o que inclui um pixel de rastreamento inserido pela Marketo. Se o recipient visualizar o email, mas optar por não baixar as imagens, isso não contará como uma abertura. Se as imagens forem carregadas no painel de visualização do recipient, isso geralmente contará como uma abertura, mas variará com base no cliente de email.
 >
->**Clique para abrir** mede a porcentagem de emails que foram abertos e tiveram um link clicado no email. Pegamos o número de cliques únicos dividido pelo número de aberturas únicas e, em seguida, multiplicamos por 100 para mostrá-lo como uma porcentagem.
+>**Clicar para Abrir** mede a porcentagem de emails que foram abertos e tiveram um link clicado no email. Pegamos o número de cliques únicos dividido pelo número de aberturas únicas e, em seguida, multiplicamos por 100 para mostrá-lo como uma porcentagem.
 
 ## Atualizar painel {#refresh-dashboard}
 
@@ -81,4 +81,4 @@ Para ver os dados mais atualizados, basta clicar no ícone de atualização no p
 
 >[!MORELIKETHIS]
 >
->[Usar o painel do programa de email - Exibição de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
+>[Usar o Painel do Programa de Email - Modo de Exibição de Teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

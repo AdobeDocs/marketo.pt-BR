@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Substituir uma imagem ou arquivo carregado {#replace-an-uploaded-image-or-file}
 
-1. Vá para a **[!UICONTROL Design Studio]**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Clique em **[!UICONTROL Imagens e arquivos]**.
+1. Clique em **[!UICONTROL Imagens e Arquivos]**.
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. Selecione o ativo que deseja substituir. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Substituir imagem ou arquivo]**.
+1. Selecione o ativo que deseja substituir. Clique no menu suspenso **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Substituir imagem ou arquivo]**.
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -45,5 +45,5 @@ Bom trabalho!
 
 >[!MORELIKETHIS]
 >
->* [Pesquisar imagens e arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [Localizar o URL de uma imagem ou arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [Pesquisar Imagens e Arquivos Carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Localizar a URL de uma Imagem ou Arquivo Carregado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

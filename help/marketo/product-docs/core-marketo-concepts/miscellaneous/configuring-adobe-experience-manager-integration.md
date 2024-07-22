@@ -25,7 +25,7 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 >
 >* Essa integração só funciona com implementações locais do AEM e não é compatível com implementações do AEM Cloud Service.
 >
->* Atualmente, esse recurso é totalmente compatível apenas com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie do SameSite.
+>* Atualmente, esse recurso é totalmente compatível apenas com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie SameSite.
 
 1. Navegue até a Adobe Experience Manager (o URL é específico da sua empresa).
 
@@ -35,7 +35,7 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
    ![](assets/two.png)
 
-1. Entrada **[!UICONTROL Ferramentas]**, clique em **[!UICONTROL Operações]** e selecione **[!UICONTROL Console da Web]**.
+1. Em **[!UICONTROL Ferramentas]**, clique em **[!UICONTROL Operações]** e selecione **[!UICONTROL Console da Web]**.
 
    ![](assets/2a.png)
 
@@ -43,19 +43,19 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
    ![](assets/three.png)
 
-1. Clique em **+** assine à direita.
+1. Clique no sinal **+** à direita.
 
    ![](assets/four.png)
 
-1. No **[!UICONTROL Origens permitidas (Regexp)]** caixa de texto, digite `https://.*\.marketo\.com` e clique em **[!UICONTROL Salvar]**.
+1. Na caixa de texto **[!UICONTROL Origens permitidas (Regexp)]**, digite `https://.*\.marketo\.com` e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/five-psd.png)
 
-1. No cabeçalho na parte superior da página, clique em **[!UICONTROL Console da Web]** e selecione **[!UICONTROL Informações do sistema]**.
+1. No cabeçalho na parte superior da página, clique em **[!UICONTROL Console da Web]** e selecione **[!UICONTROL Informações do Sistema]**.
 
    ![](assets/six.png)
 
-1. Em Informações do servidor, clique na guia **[!UICONTROL Restart]** botão.
+1. Em Informações do Servidor, clique no botão **[!UICONTROL Reiniciar]**.
 
    ![](assets/seven.png)
 
@@ -75,6 +75,6 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
    ![](assets/eleven.png)
 
-1. Insira o URL do AEM e clique em **[!UICONTROL OK]**.
+1. Insira a URL do AEM e clique em **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)

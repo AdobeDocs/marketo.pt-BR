@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # Anexar um conteúdo {#attaching-a-piece-of-content}
 
-Adicione conteúdo rastreável clicando no link **Conteúdo** e o upload de um arquivo. Qualquer conteúdo rastreado anteriormente será exibido para você selecionar na janela pop-up sem precisar fazer upload novamente.
+Adicione o conteúdo rastreável clicando no botão **Conteúdo** e carregando um arquivo. Qualquer conteúdo rastreado anteriormente será exibido para você selecionar na janela pop-up sem precisar fazer upload novamente.
 
 >[!NOTE]
 >
->Para rastrear os anexos de email, é necessário adicioná-los por meio desse botão.
+>Para rastrear seus anexos de email, você precisará adicioná-los por meio desse botão.

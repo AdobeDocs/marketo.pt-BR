@@ -16,7 +16,7 @@ As configurações do Gerenciamento de logon permitem que os administradores def
 
 >[!NOTE]
 >
->Por padrão, a opção Somente Salesforce será selecionada para instâncias de Ações de insight de vendas. Recomendamos essa configuração para que os usuários possam [logon automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) do Salesforce.
+>Por padrão, a opção Somente Salesforce será selecionada para instâncias de Ações de insight de vendas. Recomendamos essa configuração para que os usuários possam [fazer logon automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) do Salesforce.
 
 ## Atualizar Configurações de Gerenciamento de Logon {#update-login-management-settings}
 
@@ -30,7 +30,7 @@ Para atualizar suas preferências de gerenciamento de logon, siga estas etapas.
 
    ![](assets/login-management-settings-1.png)
 
-1. Em Configurações do administrador, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/login-management-settings-2.png)
 
@@ -44,7 +44,7 @@ Salesforce Only significa que os usuários só podem autenticar para usar as Aç
 
 ### Como um novo usuário na minha instância ativa a conta dele quando &quot;Salesforce Only&quot; está selecionado? {#activate-when-salesforce-only-is-selected}
 
-Ao clicar no link **Introdução** no email de convite, os novos usuários serão enviados para uma tela de ativação de conta, onde serão solicitados a conectar sua instância do Salesforce para ativar a conta de Ações de insights de vendas.
+Ao clicar no botão **Introdução** no email de convite, novos usuários serão enviados para uma tela de ativação de conta, onde serão solicitados a conectar sua instância do Salesforce para ativar a conta de Ações de Insight de Vendas.
 
 ![](assets/login-management-settings-4.png)
 
@@ -54,13 +54,13 @@ Ao navegar para nossa tela de logon, os usuários digitarão primeiro seu endere
 
 >[!NOTE]
 >
->Isso se refere apenas aos usuários que navegam diretamente para a tela de logon. Os usuários que estiverem acessando Ações do Salesforce serão conectados com [Logon automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+>Isso se refere apenas aos usuários que navegam diretamente para a tela de logon. Os usuários que estão acessando Ações do Salesforce serão conectados com [Logon automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ![](assets/login-management-settings-5.png)
 
 ### Como a autenticação de usuário é tratada para Ações quando um usuário acessa um recurso Ações do Salesforce e &quot;Somente Salesforce&quot; é selecionado? {#how-is-user-authentication-handled}
 
-Quando um usuário clica em uma das ações (Chamada, Email, Campanha, Tarefas, Lista de campanhas etc.), usamos a autenticação SFDC para conectá-lo automaticamente à conta de Ações de insights de vendas. Chamamos essa autenticação [Logon automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+Quando um usuário clica em uma das ações (Chamada, Email, Campanha, Tarefas, Lista de campanhas etc.), usamos a autenticação SFDC para conectá-lo automaticamente à conta de Ações de insights de vendas. Chamamos esta autenticação de [Logon automático](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ## Perguntas frequentes sobre todos os métodos de logon {#all-login-methods-faq}
 

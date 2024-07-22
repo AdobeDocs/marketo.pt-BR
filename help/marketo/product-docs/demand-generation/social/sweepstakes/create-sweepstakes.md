@@ -5,7 +5,7 @@ title: Criar sorteios
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Um sorteio dá às pessoas a chance de ganhar um prêmio em troca de contar aos 
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. Na Galeria de ativos locais, clique em **Sorteios**.
+1. Na Galeria de Ativos Locais, clique em **Sweepstakes**.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -32,11 +32,11 @@ Um sorteio dá às pessoas a chance de ganhar um prêmio em troca de contar aos 
 
    >[!TIP]
    >
-   >Para economizar tempo, você pode usar o **Clonar de** opção para copiar todas as configurações de um sorteio existente.
+   >Para economizar tempo, use a opção **Clonar de** para copiar todas as configurações de um sorteio existente.
 
    O editor de sorteios é aberto em uma nova janela. As configurações padrão estão corretas, mas ainda é necessário configurar alguns detalhes. Mostraremos como nas próximas etapas.
 
-1. Clique em **Detalhes do sorteio**.
+1. Clique em **Detalhes do Sweepstakes**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -48,7 +48,7 @@ Um sorteio dá às pessoas a chance de ganhar um prêmio em troca de contar aos 
    >
    >Para desenhos diários e semanais, as horas de início e término são fixadas às 12h e 23h59, respectivamente. Para um desenho único, você pode escolher suas próprias horas de início e término.
 
-1. Clique em **Opções avançadas**.
+1. Clique em **Opções Avançadas**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -66,13 +66,13 @@ Um sorteio dá às pessoas a chance de ganhar um prêmio em troca de contar aos 
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Clique em **Aprovar e fechar**.
+1. Clique em **Aprovar e Fechar**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >Para alterar os padrões em seus sorteios, clique em **Voltar**. Para salvar seu trabalho para posteriormente sem aprovação, clique em **Fechar**.
+   >Para alterar qualquer um dos padrões em seu sorteio, clique em **Voltar**. Para salvar seu trabalho para mais tarde sem aprovação, clique em **Fechar**.
 
 Se houver algum problema no sorteio, você será solicitado a resolvê-lo antes que o sorteio seja aprovado.
 
@@ -80,4 +80,4 @@ Parabéns! Você criou um sorteio.
 
 >[!MORELIKETHIS]
 >
->O próximo passo é [publicar seus sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), mas você pode alterar a aparência e as configurações dos sorteios. Iniciar com [personalização de estilos de sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>A próxima etapa é [publicar seus sorteios](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), mas você pode alterar a aparência e as configurações dos seus sorteios. Comece com [personalizando seus estilos de sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

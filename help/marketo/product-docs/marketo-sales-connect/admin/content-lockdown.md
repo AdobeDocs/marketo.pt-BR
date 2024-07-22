@@ -17,16 +17,16 @@ Ao ativar o bloqueio de conteúdo, impeça que usuários não administradores ed
 
 >[!NOTE]
 >
->Usuários **irá** ainda pode editar o conteúdo de um email no momento do envio ou ao iniciar uma campanha.
+>Os usuários **ainda poderão** editar o conteúdo de um email no momento do envio ou ao iniciar uma campanha.
 
 1. No Sales Connect, clique no ícone de configurações e selecione **Configurações**.
 
    ![](assets/one-4.png)
 
-1. Em Configurações do administrador, clique em **Geral**.
+1. Em Configurações de administração, clique em **Geral**.
 
    ![](assets/two-4.png)
 
-1. Role para baixo até Bloqueio de conteúdo. Ativar a barra deslizante fará _disable_ a capacidade dos membros da equipe de criar/editar modelos e/ou campanhas.
+1. Role para baixo até Bloqueio de conteúdo. Ativar qualquer um dos controles deslizantes _desabilitará_ a capacidade dos membros da sua equipe de criar/editar modelos e/ou campanhas.
 
    ![](assets/three-4.png)

@@ -5,8 +5,8 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 42%
+source-wordcount: '823'
+ht-degree: 44%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 42%
 
 Inicialmente, ao sincronizar sua conta do Marketo Engage com o Microsoft, o Marketo faz automaticamente essas associações entre seus campos integrados do Dynamics e do Marketo.  O Marketo também sincronizará seus campos personalizados em clientes potenciais, contas, oportunidades e contatos.
 
-## Campos de lead {#lead-fields}
+## Campos de leads {#lead-fields}
 
 <table>
   <colgroup>
@@ -30,7 +30,7 @@ Inicialmente, ao sincronizar sua conta do Marketo Engage com o Microsoft, o Mark
     </tr>
     <tr>
       <td>Microsoft - Data de criação</td>
-      <td>Criado em</td>
+      <td>Criado(a) em</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -56,17 +56,17 @@ Inicialmente, ao sincronizar sua conta do Marketo Engage com o Microsoft, o Mark
     <tr>
       <td>Email</td>
       <td>Email</td>
-      <td>emailaddress1</td>
+      <td>endereço_de_email1</td>
     </tr>
     <tr>
-      <td>Cargo</td>
-      <td>Cargo</td>
+      <td>Nome do cargo</td>
+      <td>Nome do cargo</td>
       <td>título do trabalho</td>
     </tr>
     <tr>
       <td>Telefone</td>
       <td>Telefone comercial</td>
-      <td>telephone1</td>
+      <td>telefone1</td>
     </tr>
     <tr>
       <td>Celular</td>
@@ -166,7 +166,7 @@ Inicialmente, ao sincronizar sua conta do Marketo Engage com o Microsoft, o Mark
     <tr>
       <td>Microsoft - Telefone residencial</td>
       <td>Telefone residencial</td>
-      <td>telephone2</td>
+      <td>telefone2</td>
     </tr>
     <tr>
       <td>Método Preferencial De Contato Da Microsoft</td>
@@ -244,7 +244,7 @@ Os campos de cliente em potencial abaixo são sincronizados para uso interno.
       <th>Nome da API do MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietário(a)</td>
+      <td>Proprietário</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -270,7 +270,7 @@ Os campos de cliente em potencial abaixo são sincronizados para uso interno.
     </tr>
     <tr>
       <td>Microsoft - Data de criação</td>
-      <td>Criado em</td>
+      <td>Criado(a) em</td>
       <td>createdon</td>
     </tr>
     <tr>
@@ -296,17 +296,17 @@ Os campos de cliente em potencial abaixo são sincronizados para uso interno.
     <tr>
       <td>Email</td>
       <td>Email</td>
-      <td>emailaddress1</td>
+      <td>endereço_de_email1</td>
     </tr>
     <tr>
-      <td>Cargo</td>
-      <td>Cargo</td>
+      <td>Nome do cargo</td>
+      <td>Nome do cargo</td>
       <td>título do trabalho</td>
     </tr>
     <tr>
       <td>Telefone</td>
       <td>Telefone comercial</td>
-      <td>telephone1</td>
+      <td>telefone1</td>
     </tr>
     <tr>
       <td>Celular</td>
@@ -376,7 +376,7 @@ Os campos de cliente em potencial abaixo são sincronizados para uso interno.
     <tr>
       <td>Microsoft - Telefone residencial</td>
       <td>Telefone residencial</td>
-      <td>telephone2</td>
+      <td>telefone2</td>
     </tr>
     <tr>
       <td>Método Preferencial De Contato Da Microsoft</td>
@@ -459,7 +459,7 @@ Os campos Contato abaixo são sincronizados para uso interno.
       <th>Nome da API do MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietário(a)</td>
+      <td>Proprietário</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -493,22 +493,22 @@ Os campos Contato abaixo são sincronizados para uso interno.
       <td>accountid</td>
     </tr>
     <tr>
-      <td>Endereço de faturamento</td>
+      <td>Endereço de cobrança</td>
       <td>Endereço 1: Rua 1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Cidade de faturamento</td>
+      <td>Cidade de cobrança</td>
       <td>Endereço 1: Cidade</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>País de faturamento</td>
+      <td>País de cobrança</td>
       <td>Endereço 1: País/Região</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Código postal de faturamento</td>
+      <td>Código postal de cobrança</td>
       <td>Endereço 1: CEP</td>
       <td>address1_postalcode</td>
     </tr>
@@ -525,7 +525,7 @@ Os campos Contato abaixo são sincronizados para uso interno.
     <tr>
       <td>Telefone principal</td>
       <td>Telefone principal</td>
-      <td>telephone1</td>
+      <td>telefone1</td>
     </tr>
     <tr>
       <td>Tipo de negócio</td>
@@ -603,7 +603,7 @@ Os campos Conta abaixo são sincronizados para uso interno.
       <th>Nome da API do MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietário(a)</td>
+      <td>Proprietário</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ Os campos Conta abaixo são sincronizados para uso interno.
       <th>Nome da API do MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietário(a)</td>
+      <td>Proprietário</td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -702,7 +702,7 @@ Os campos abaixo são criados no Marketo, mas não podem ser ajustados pelos usu
       <th>Descrição</th>
     </tr>
     <tr>
-      <td>Tipo Microsoft</td>
+      <td>Microsoft - Tipo</td>
       <td>Cliente Potencial ou Contato. Se estiver vazio, o lead existirá somente como uma pessoa no Marketo</td>
     </tr>
     <tr>

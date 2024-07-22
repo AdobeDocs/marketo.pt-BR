@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,9 +17,9 @@ Veja como configurar seu conteúdo preditivo para a Barra de recomendações.
 
 >[!PREREQUISITES]
 >
->O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o conteúdo.
+>O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o Conteúdo.
 
-1. No **Conteúdo preditivo** clique em um título para abrir o editor.
+1. Na página **Conteúdo preditivo**, clique em um título para abrir o editor.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 

@@ -13,7 +13,7 @@ ht-degree: 11%
 
 # Visão geral do tipo de relatório {#report-type-overview}
 
-Quando você [criar um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), escolha o tipo de relatório desejado.
+Quando você [cria um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), escolha o tipo de relatório desejado.
 
 ## Relatórios mais usados {#most-used-reports}
 

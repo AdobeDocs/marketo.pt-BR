@@ -5,7 +5,7 @@ exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
 ## Enviando um email de grupo {#sending-a-group-email}
 
-1. Clique em **Pessoas** guia.
+1. Clique na guia **Pessoas**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. Clique no botão Ações de grupo e selecione **Grupo de email**.
+1. Clique no botão Ações do Grupo e selecione **Grupo de email**.
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -34,9 +34,9 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
 ## Editar um email de grupo {#editing-a-group-email}
 
-1. Crie um email de grupo usando [Etapas 1-3 acima](#sending-a-group-email).
+1. Crie um email de grupo usando as [Etapas 1-3 acima](#sending-a-group-email).
 
-1. [Escolher um modelo](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)ou preencha seu email.
+1. [Escolha um modelo](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md) ou preencha seu email.
 
    ![](assets/sending-emails-via-group-email-5.png)
 
@@ -44,7 +44,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Selecione o recipient desejado e clique em **Visualizar campos dinâmicos**. Visualize a pré-visualização à direita.
+1. Selecione o destinatário desejado e clique em **Visualizar Campos Dinâmicos**. Visualize a pré-visualização à direita.
 
    ![](assets/sending-emails-via-group-email-7.png)
 
@@ -55,4 +55,4 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 >[!MORELIKETHIS]
 >
 >* [Opções de envio em massa](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
->* [Usando um modelo na janela Compor](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Usando um Modelo na Janela de Composição](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

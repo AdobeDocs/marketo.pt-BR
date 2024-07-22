@@ -6,7 +6,7 @@ exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
 ## Enviando um email de grupo {#sending-a-group-email}
 
-1. Clique em **Pessoas** guia.
+1. Clique na guia **Pessoas**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
    ![](assets/two-3.png)
 
-1. Clique no botão Ações de grupo e selecione **Grupo de email**.
+1. Clique no botão Ações do Grupo e selecione **Grupo de email**.
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
 ## Editar um email de grupo {#editing-a-group-email}
 
-1. Crie um email de grupo usando [Etapas 1-3 acima](#sending-a-group-email).
+1. Crie um email de grupo usando as [Etapas 1-3 acima](#sending-a-group-email).
 
 1. Escolha um modelo ou preencha seu email.
 
@@ -49,7 +49,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
    ![](assets/edit-four.png)
 
-1. Clique em **Visualizar campos dinâmicos** e visualize a pré-visualização à direita.
+1. Clique em **Visualizar Campos Dinâmicos** e exiba a visualização à direita.
 
    ![](assets/edit-five.png)
 
@@ -60,4 +60,4 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 >[!MORELIKETHIS]
 >
 >* [Opções de envio em massa](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [Usando um modelo na janela Compor](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Usando um Modelo na Janela de Composição](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

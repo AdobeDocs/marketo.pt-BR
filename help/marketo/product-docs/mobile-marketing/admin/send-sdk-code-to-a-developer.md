@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Antes de criar mensagens no aplicativo ou notificações por push, você deve ter seu desenvolvedor configurado e inicializar o SDK do aplicativo móvel para as plataformas Android e iOS.
 
-* [Instruções para Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Instruções para o Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 * [Instruções para o iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## Enviar código SDK para um desenvolvedor {#send-sdk-code-to-a-developer-1}
@@ -26,11 +26,11 @@ Antes de criar mensagens no aplicativo ou notificações por push, você deve te
 
 Veja como fazer isso.
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecionar **Aplicativos móveis**.
+1. Selecione **Aplicativos móveis**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,11 +38,11 @@ Veja como fazer isso.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Clique em **Ações do aplicativo móvel** e selecione **Enviar para desenvolvedor**.
+1. Clique em **Ações do Aplicativo Móvel** e selecione **Enviar para Desenvolvedor**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Insira um endereço de email e clique em **Enviar**.
+1. Digite um endereço de email e clique em **Enviar**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 

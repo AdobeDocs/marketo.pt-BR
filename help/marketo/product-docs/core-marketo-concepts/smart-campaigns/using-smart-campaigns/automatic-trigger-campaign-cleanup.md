@@ -6,7 +6,7 @@ exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 3%
 
 ---
@@ -23,11 +23,11 @@ Uma vez por trimestre, o Marketo encontrará Campanhas inteligentes que permanec
 
 Claro! Uma vez por trimestre, você receberá uma notificação com uma semana de antecedência, mostrando todas as campanhas que pretendemos desativar.
 
-1. Clique em **[!UICONTROL Notificação]** ícone.
+1. Clique no ícone **[!UICONTROL Notificações]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. Clique em **[!UICONTROL Limpeza de Campanha do Acionador Ocioso Agendada]**. Em seguida, clique no link **[!UICONTROL Essas campanhas do acionador ocioso serão desativadas]** link.
+1. Clique em **[!UICONTROL Limpeza de Campanha do Acionador Ocioso Agendada]**. Em seguida, clique no link **[!UICONTROL Estas Campanhas de Gatilho Ocioso serão desativadas]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
@@ -39,7 +39,7 @@ Claro! Uma vez por trimestre, você receberá uma notificação com uma semana d
 
 Desativaremos apenas campanhas de acionadores que estiveram ativas por mais de 6 meses, mas que tiveram 0 pessoas qualificadas nesse período de tempo.
 
-## Aguardar! Esta campanha não! {#wait-not-this-campaign}
+## Espere! Esta campanha não! {#wait-not-this-campaign}
 
 Não se preocupe - o relógio em qualquer Campanha Inteligente pode ser redefinido por:
 
@@ -52,7 +52,7 @@ Qualquer um redefinirá o contador de 6 meses.
 
 Absolutamente - uma semana após a notificação original, desativaremos as campanhas listadas (menos qualquer uma que tenha qualificado pelo menos uma pessoa ou que tenha sido desativada/reativada) e postaremos uma notificação de confirmação.
 
-1. Selecione o **[!UICONTROL Limpeza de Campanha do Acionador Ocioso Agendada]** notificação. Clique em **[!UICONTROL Essas Campanhas De Acionador Ocioso]** link.
+1. Selecione a notificação **[!UICONTROL Limpeza de Campanha do Acionador Ocioso]** Agendada. Clique no link **[!UICONTROL Estas Campanhas de Acionador Ocioso]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

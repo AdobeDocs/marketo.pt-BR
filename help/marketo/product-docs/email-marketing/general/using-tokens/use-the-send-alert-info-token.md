@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2952678
-description: Usar o token de envio de informações de alerta {{SP_Send_Alert_Info}} - Documentação do Marketo - Documentação do produto
+description: Usar o Token de Informações de Alerta de Envio {{SP_Send_Alert_Info}} - Documentação do Marketo - Documentação do produto
 title: Usar o token de envio de informações de alerta
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
 
 # Usar o token de envio de informações de alerta {#use-the-send-alert-info-token-sp-send-alert-info}
 
-A variável `{{SP_Send_Alert_Info}}` token é um token especial a ser usado ao criar emails de alerta para a equipe de vendas.
+O token `{{SP_Send_Alert_Info}}` é um token especial a ser usado ao criar emails de alerta para a equipe de vendas.
 
 >[!TIP]
 >
->Esse token funciona somente conforme o esperado ao enviar o email que o contém com a [Enviar alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) etapa do fluxo. Ele não funcionará quando usado em uma etapa do fluxo Enviar email.
+>Este token funciona somente conforme o esperado ao enviar o email contendo-o com a etapa de fluxo [Enviar Alerta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Ele não funcionará quando usado em uma etapa do fluxo Enviar email.
 
 Exemplo de alerta:
 
@@ -25,9 +25,9 @@ Exemplo de alerta:
 
 >[!NOTE]
 >
->Atenção! Os URLs nos alertas têm datas de expiração, portanto, verifique se têm uma cadência compatível com esses tipos de mensagens. As datas de expiração são [configurado por um administrador](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Atenção! Os URLs nos alertas têm datas de expiração, portanto, verifique se têm uma cadência compatível com esses tipos de mensagens. As datas de expiração estão [configuradas por um Administrador](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
-As seguintes informações estão incluídas como parte da `{{SP_Send_Alert_Info}}`:
+As seguintes informações estão incluídas como parte de `{{SP_Send_Alert_Info}}`:
 
 * Nome e sobrenome como um link para os detalhes da pessoa no Marketo
 * Um link para a pessoa em seu CRM
@@ -48,11 +48,11 @@ As seguintes informações estão incluídas como parte da `{{SP_Send_Alert_Info
 
    ![](assets/two-3.png)
 
-1. Coloque o cursor onde deseja que o token esteja e clique no link **Inserir token** botão.
+1. Coloque o cursor onde deseja que o token fique e clique no botão **Inserir token**.
 
    ![](assets/three-3.png)
 
-1. Localize e selecione o **`{{SP_Send_Alert_Info}}`** e clique em **Inserir**.
+1. Localize e selecione o token **`{{SP_Send_Alert_Info}}`** e clique em **Inserir**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 

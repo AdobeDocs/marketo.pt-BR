@@ -6,7 +6,7 @@ exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Siga as etapas abaixo para configurar a MPI.
 
 ## Configuração da oportunidade {#opportunity-setup}
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/admin.png)
 
@@ -27,7 +27,7 @@ Siga as etapas abaixo para configurar a MPI.
 
    >[!NOTE]
    >
-   >Se você não tiver a RCA, precisará selecionar **Análise do programa** para a Etapa 2.
+   >Se você não tiver a RCA, precisará selecionar **Análise de programa** para a Etapa 2.
 
 1. Em Atribuição, clique em **Editar**.
 
@@ -46,7 +46,7 @@ Siga as etapas abaixo para configurar a MPI.
    >Certifique-se de que todas as oportunidades tenham os campos apropriados preenchidos:
    >
    >* Valor da oportunidade
-   >* É fechado
+   >* Está fechado
    >* É obtido
    >* Data de criação (não pode ser definida no seu caso)
    >* Data de fechamento (não pode ser definida no seu caso)
@@ -64,15 +64,15 @@ Atualizar os custos do programa por, pelo menos, 12 meses. Você pode fazer isso
 
    ![](assets/select-program.png)
 
-1. Clique em **Configuração** guia.
+1. Clique na guia **Configuração**.
 
    ![](assets/setup-tab.png)
 
-1. Arrastar **Custo do Período** sobre a tela.
+1. Arraste **Custo do Período** para a tela.
 
    ![](assets/period-cost.png)
 
-1. Defina o Mês do programa para pelo menos 12 meses atrás e clique em **Ok**.
+1. Defina o Mês do Programa para pelo menos 12 meses atrás e clique em **Ok**.
 
    ![](assets/set-period.png)
 
@@ -82,15 +82,15 @@ Atualizar os custos do programa por, pelo menos, 12 meses. Você pode fazer isso
 
 Em seguida, revise o comportamento do Analytics para indicar se um canal específico deve ser incluído no Analytics. Defina o comportamento do Analytics (Normal, Inclusivo, Operacional).
 
-1. Clique em **Admin**.
+1. Clique em **Administrador**.
 
    ![](assets/admin.png)
 
-1. Clique em **Tags**.
+1. Clique em **Marcas**.
 
    ![](assets/tags.png)
 
-1. Clique em **+** para expandir a Lista de canais.
+1. Clique em **+** para expandir a lista Canal.
 
    ![](assets/channel.png)
 
@@ -98,7 +98,7 @@ Em seguida, revise o comportamento do Analytics para indicar se um canal especí
 
    ![](assets/channel-click.png)
 
-1. Clique em **Comportamento do Analytics** e selecione o comportamento desejado.
+1. Clique no menu suspenso **Comportamento do Analytics** e selecione o comportamento desejado.
 
    ![](assets/edit-channel.png)
 

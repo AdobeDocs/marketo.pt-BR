@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Ao provisionar as ações do Sales Insight, o Marketo enviará automaticamente suas credenciais para as Ações e conectará sua instância à Marketo. Esta etapa é obrigatória **somente se você não estiver vendo a conexão estabelecida** após o provisionamento da instância do Sales Connect. Se sua conexão for estabelecida, você verá suas credenciais inseridas na página Configurações de administração do Marketo e uma opção para desconectar.
+>Ao provisionar as ações do Sales Insight, o Marketo enviará automaticamente suas credenciais para as Ações e conectará sua instância à Marketo. Esta etapa é necessária **somente se você não estiver vendo a conexão estabelecida** após o provisionamento da instância do Sales Connect. Se sua conexão for estabelecida, você verá suas credenciais inseridas na página Configurações de administração do Marketo e uma opção para desconectar.
 
 ## Adquirir credenciais antes de conectar o Sales Connect ao Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
@@ -26,7 +26,7 @@ Você precisará obter um conjunto de credenciais no Marketo. Essas credenciais 
 
 PICC
 
-1. Na árvore, clique em **Conexão de vendas**.
+1. Na árvore, clique em **Sales Connect**.
 
 PICC
 
@@ -44,10 +44,10 @@ PICC
 
 PICC
 
-1. Em Configurações do administrador, selecione **Marketo**.
+1. Em Configurações do Administrador, selecione **Marketo**.
 
 PICC
 
-1. Insira as credenciais do Marketo fornecidas pelo administrador do Marketo e clique em **Conectar**.
+1. Insira as credenciais do Marketo fornecidas pelo Administrador do Marketo e clique em **Conectar**.
 
 PICC

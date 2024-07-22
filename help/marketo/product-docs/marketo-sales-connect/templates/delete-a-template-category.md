@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Excluir uma categoria de modelo {#delete-a-template-category}
 
-1. Clique no ícone de menu ao lado de uma categoria e clique em **Excluir**.
+1. Clique no ícone de menu ao lado de uma categoria e em **Excluir**.
 
 1. Clique em **Excluir** para confirmar.
 

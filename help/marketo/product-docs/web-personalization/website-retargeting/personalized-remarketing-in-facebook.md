@@ -6,8 +6,8 @@ exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 6%
+source-wordcount: '291'
+ht-degree: 8%
 
 ---
 
@@ -17,14 +17,14 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
 >[!PREREQUISITES]
 >
->* Conclua o [Redirecionamento com dados de personalização da Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) configuração
->* Revise o [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Documentação do facebook sobre Públicos-alvo personalizados](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Remarketing.
+>* Concluir a configuração de [Redirecionamento com Dados do Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Revise a documentação do [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook sobre Públicos-alvo personalizados](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Remarketing.
 
 ## Criação de um público-alvo no Facebook {#creating-an-audience-in-facebook}
 
-1. No Facebook, acesse seu [Guia Público-alvo](https://www.facebook.com/ads/audience_manager) no Gerenciador de anúncios.
+1. No Facebook, acesse sua [guia Público-alvo](https://www.facebook.com/ads/audience_manager) do Ads Manager.
 
-1. Clique em **Ferramentas** e selecione **Públicos-alvo**.
+1. Clique em **Ferramentas** e selecione **Públicos**.
 
    ![](assets/one-1.png)
 
@@ -32,7 +32,7 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
    ![](assets/two-1.png)
 
-1. Selecionar **Tráfego no site**.
+1. Selecione **Tráfego de Site**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
@@ -44,11 +44,11 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Na lista Evento, selecione **Remarketing RTP** e selecione um parâmetro.
+1. Na lista Evento, selecione **RTP Remarketing** e selecione um parâmetro.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Para este exemplo, selecione Setor a conter **Educação**. Enter **Educação** e editar **No último** para ser de 180 dias. Insira o nome do público-alvo: **Setor de Educação**. Clique em **Criar público-alvo**.
+1. Neste exemplo, selecione o Setor para conter **Educação**. Insira **Educação** e edite **Nos Últimos** para ter 180 dias. Insira O Nome Do Público: **Setor De Educação**. Clique em **Criar Público**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -83,7 +83,7 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
         <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td> 
        </tr> 
        <tr> 
-        <td colspan="1">Agrupar</td> 
+        <td colspan="1">Grupo</td> 
         <td colspan="1"><p>Empresarial</p><p>SMB</p></td> 
        </tr> 
        <tr> 
@@ -103,13 +103,13 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
 ## Direcione seu público com um anúncio {#target-your-audience-with-an-ad}
 
-Para obter detalhes adicionais, consulte [Documentação da facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+Para obter detalhes adicionais, consulte [a documentação da Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Vá para o Gerenciador de anúncios e clique em **Criar anúncio**.
+1. Vá para o Gerenciador de Anúncios, clique em **Criar Anúncio**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Selecionar **Enviar pessoas para o seu site** como o objetivo da sua campanha.
+1. Selecione **Enviar pessoas para o seu site** como objetivo da campanha.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -129,5 +129,5 @@ Para obter detalhes adicionais, consulte [Documentação da facebook](https://de
 
 >[!MORELIKETHIS]
 >
->* [Redirecionamento com dados de personalização da Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Redirecionamento com dados do Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Remarketing personalizado no Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

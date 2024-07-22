@@ -6,7 +6,7 @@ exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ O Marketo unifica o TAM e o gerenciamento de clientes potenciais em uma única s
 
 O Marketo TAM consiste em três componentes:
 
-**1) Target**
+**1) Destino**
 
 * Descoberta de Conta
 * Correspondência entre lead e conta
@@ -35,11 +35,11 @@ O Marketo TAM consiste em três componentes:
 
 **2) Interagir**
 
-* Personalização baseada em conta
+* Personalization baseado em conta
 * Cross-Channel Engagement
 * Fluxos de trabalho específicos da conta
 
-**3) Medir**
+**3) Medida**
 
 * Insights de conta e nível de lista
 * Pontuação de engajamento da conta
@@ -47,10 +47,10 @@ O Marketo TAM consiste em três componentes:
 
 O Marketing com base em conta da Marketo também oferece várias ferramentas para personalizar a experiência de conta nomeada em todos os canais.
 
-* Personalização de email e página de aterrissagem
+* Personalization de email e página de aterrissagem
 * Personalização na Web
-* URL [Personalização](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* Anúncio [Personalização](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* URL [Personalization](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Anúncio [Personalization](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [Personalizado](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing
 
 Estou dentro! Como começar?

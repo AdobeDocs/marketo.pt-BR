@@ -46,7 +46,7 @@ Se você tentar enviar pessoas para a Facebook sem aceitar os Termos de serviço
 
 ## Limpeza de campanha com gatilho ociosa {#idle-trigger-campaign-cleanup}
 
-Desative Campanhas inteligentes acionadas que não recebem mais nenhuma atividade. Saiba mais sobre  [limpeza automática do acionador da campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Desative Campanhas inteligentes acionadas que não recebem mais nenhuma atividade. Saiba mais sobre [limpeza automática da campanha de acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ Você será notificado quando atingir sua cota diária. A cota é redefinida a c
 
 >[!NOTE]
 >
->Alguns códigos de erro que você pode receber estão descritos em nosso [Documentação do desenvolvedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

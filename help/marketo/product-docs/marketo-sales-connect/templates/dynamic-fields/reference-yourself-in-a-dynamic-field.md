@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Campos dinâmicos são nossa forma de mala direta.
 
-Permitimos personalizar seus modelos de email com atributos predefinidos, como `{{my_name}}` ou `{{my_title}}`. Esses campos permitem que você faça referência a si mesmo rapidamente nos modelos de email.
+Permitimos que você personalize seus modelos de email com atributos predefinidos como `{{my_name}}` ou `{{my_title}}`. Esses campos permitem que você faça referência a si mesmo rapidamente nos modelos de email.
 
-Para adicionar um campo dinâmico autorreferenciável a um modelo, basta selecionar aquele que deseja usar na lista suspensa **Campos dinâmicos do MSE** no editor de modelos.
+Para adicionar um campo dinâmico autorreferenciável a um modelo, basta selecionar aquele que deseja usar no botão **Campos Dinâmicos do MSE** no editor de modelo.

@@ -19,15 +19,15 @@ A exclusão de imagens ou arquivos é rápida e fácil.
 >
 >Depois de excluídos, imagens/arquivos são completamente removidos do Marketo Engage e não podem ser recuperados.
 
-1. Vá para a **[!UICONTROL Design Studio]**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. Selecionar **[!UICONTROL Imagens e arquivos]**
+1. Selecionar **[!UICONTROL Imagens e Arquivos]**
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Localize e selecione a imagem/arquivo desejado. Clique em **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Excluir]**.
+1. Localize e selecione a imagem/arquivo desejado. Clique no menu suspenso **[!UICONTROL Ações de imagem e arquivo]** e selecione **[!UICONTROL Excluir]**.
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
@@ -37,10 +37,10 @@ A exclusão de imagens ou arquivos é rápida e fácil.
 
    >[!NOTE]
    >
-   >Os ativos não serão excluídos se estiverem em uso no momento.
+   >O Assets não excluirá se estiverem em uso no momento.
 
 >[!MORELIKETHIS]
 >
->* [Substituir uma imagem ou arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
->* [Pesquisar imagens e arquivos carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [Localizar o URL de uma imagem ou arquivo carregado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [Substituir uma Imagem ou Arquivo Carregado](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Pesquisar Imagens e Arquivos Carregados](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [Localizar a URL de uma Imagem ou Arquivo Carregado](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Criando Contatos {#creating-contacts}
 
-1. Na página Pessoas, clique na guia **Ações do grupo** e selecione **Criar contato**.
+1. Na página Pessoas, clique no botão **Ações de Grupo** e selecione **Criar Contato**.
 
    ![](assets/one-2.png)
 
-1. Insira o nome/sobrenome e o endereço de email, juntamente com qualquer outra informação que desejar. Clique em **Criar** quando terminar, ou **Criar e adicionar novo** para adicionar mais contatos.
+1. Insira o nome/sobrenome e o endereço de email, juntamente com qualquer outra informação que desejar. Clique em **Criar** quando terminar ou em **Criar e Adicionar Novo** para adicionar mais contatos.
 
    ![](assets/two-2.png)
 

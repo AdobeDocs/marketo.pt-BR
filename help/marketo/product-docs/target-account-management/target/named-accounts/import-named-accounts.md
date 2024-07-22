@@ -15,27 +15,27 @@ ht-degree: 1%
 
 Já tem um CSV cheio de contas de destino em potencial? Importe-os diretamente para o TAM!
 
-1. Clique em **Novo** e selecione **Importar Contas Nomeadas**.
+1. Clique no menu suspenso **Novo** e selecione **Importar contas nomeadas**.
 
    ![](assets/inaone.png)
 
-1. Uma nova janela será aberta. Clique em **Procurar**, em seguida, selecione o arquivo de contas nomeadas que deseja importar.
+1. Uma nova janela será aberta. Clique em **Procurar** e selecione o arquivo de contas nomeadas que deseja importar.
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >No arquivo, forneça [tanta informação](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) possível. Você só pode adicionar informações firmográficas; nada que o Marketo calcule (ou seja, Pipeline). Para criar contas nomeadas com base em contas do CRM, basta exportar o nome da conta e a ID do CRM do seu CRM para um arquivo CSV, usar a opção Nome da conta e mapear a ID do CRM durante o processo de importação. Para vincular corretamente uma conta do CRM a uma conta nomeada, você deve fornecer o nome exato da conta do CRM.
+   >Em seu arquivo, forneça [o máximo de informações](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) possível. Você só pode adicionar informações firmográficas; nada que o Marketo calcule (ou seja, Pipeline). Para criar contas nomeadas com base em contas do CRM, basta exportar o nome da conta e a ID do CRM do seu CRM para um arquivo CSV, usar a opção Nome da conta e mapear a ID do CRM durante o processo de importação. Para vincular corretamente uma conta do CRM a uma conta nomeada, você deve fornecer o nome exato da conta do CRM.
 
-1. Escolha entre dois modos de desduplicação: Nome da conta ou Nome do domínio. Neste exemplo, vamos escolher Conta. Clique em **Modos** e selecione **Por nome de conta**.
+1. Escolha entre dois modos de desduplicação: Nome da conta ou Nome do domínio. Neste exemplo, vamos escolher Conta. Clique no menu suspenso **Modos** e selecione **Por nome de conta**.
 
    ![](assets/inathree.png)
 
    >[!NOTE]
    >
-   >Se você escolher **Por Modo de Domínio**, os campos conta nomeada e domínio devem ser incluídos.
+   >Se você escolher **Por Modo de Domínio**, os campos de conta nomeada e de domínio deverão ser incluídos.
 
-1. Para escolher a qual lista de contas sua conta nomeada será adicionada, clique no link **Lista de contas** e faça sua seleção.
+1. Para escolher a qual lista de contas sua conta nomeada será adicionada, clique no menu suspenso **Lista de Contas** e faça sua seleção.
 
    ![](assets/inafour.png)
 
@@ -43,15 +43,15 @@ Já tem um CSV cheio de contas de destino em potencial? Importe-os diretamente p
    >
    >Você também pode criar uma nova Lista de contas simplesmente digitando seu nome na caixa suspensa.
 
-1. Para enviar uma notificação da importação, clique no link **Enviar alerta para** e selecione um usuário do Marketo. Você _não é possível_ insira manualmente um endereço de email.
+1. Para enviar uma notificação sobre a importação, clique no menu suspenso **Enviar Alerta para** e selecione um usuário do Marketo. Você _não pode_ inserir um endereço de email manualmente.
 
    ![](assets/inafive-2.png)
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/inasix-2.png)
 
-1. Mapeie cada campo clicando duas vezes na variável **Campo do Marketo** e selecionando o campo apropriado. Clique em **Próxima** quando terminar.
+1. Mapeie cada campo clicando duas vezes no menu suspenso **Campo do Marketo** e selecionando o campo apropriado. Clique em **Avançar** quando terminar.
 
    ![](assets/inaseven.png)
 

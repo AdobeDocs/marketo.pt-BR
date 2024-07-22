@@ -2,7 +2,8 @@
 description: Relatórios de SMS - Documentação do Marketo - Documentação do produto
 title: Relatórios de SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 4%
@@ -15,7 +16,7 @@ O Painel de mensagens SMS fornece análises úteis sobre suas mensagens.
 
 ## Acessar o painel {#access-the-dashboard}
 
-1. Para exibir os relatórios, selecione a mensagem SMS desejada. Clique em **Exibir** e selecione **Painel**.
+1. Para exibir os relatórios, selecione a mensagem SMS desejada. Clique no menu suspenso **Exibir** e selecione **Painel**.
 
    ![](assets/sms-reporting-1.png)
 

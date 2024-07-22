@@ -19,7 +19,7 @@ Há muitas maneiras de colocar uma pessoa no Marketo Engage. Se você precisar c
 >
 >O Marketo não é compatível com endereços de email que contêm emojis.
 
-1. Vá para a **[!UICONTROL Banco de dados]**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/db-1.png)
 

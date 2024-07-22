@@ -15,11 +15,11 @@ ht-degree: 5%
 
 É fácil reordenar campos em um formulário do Marketo. Veja como.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione o formulário e clique em **Editar formulário**.
+1. Selecione seu formulário e clique em **Editar Formulário**.
 
    ![](assets/editform.png)
 

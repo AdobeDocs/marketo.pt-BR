@@ -19,11 +19,11 @@ As Campanhas inteligentes são a ferramenta mais importante do Marketo Engage. E
 >
 >Saiba mais sobre [Campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Clique com o botão direito no programa desejado e selecione **[!UICONTROL Nova campanha inteligente]**.
+1. Clique com o botão direito no programa desejado e selecione **[!UICONTROL Nova Campanha Inteligente]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -39,5 +39,5 @@ As Campanhas inteligentes são a ferramenta mais importante do Marketo Engage. E
 
    >[!MORELIKETHIS]
    >
-   >* [Definir lista inteligente para o Smart Campaign | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [Definir lista inteligente para o Smart Campaign | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Definir lista inteligente para campanha inteligente | Lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [Definir lista inteligente para campanha inteligente | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

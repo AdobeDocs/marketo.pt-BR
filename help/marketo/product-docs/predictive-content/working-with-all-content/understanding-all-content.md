@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,12 +19,12 @@ A página Todo o conteúdo exibe todo o conteúdo que foi descoberto ou adiciona
 
 Os campos de página incluem:
 
-* **Título**: O nome do conteúdo
-* **Categorias**: criado por você e usado para agrupar seus resultados preditivos para web ou email
-* **Visualizações**: Total de cliques no conteúdo da Web descoberto (incluindo todas as fontes)
+* **Título**: o nome do conteúdo
+* **Categorias**: criadas por você e usadas para agrupar seus resultados preditivos para email ou Web
+* **Exibições**: total de cliques no conteúdo da Web descoberto (incluindo todas as fontes)
 * **Conversões**: o número de visitantes que visualizaram um conteúdo e preencheram um formulário na mesma visita
-* **Índice de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques
-* **Aprovar para preditivo**: O ícone é exibido se o conteúdo for aprovado
+* **Taxa de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques
+* **Aprovar para preditiva**: o ícone exibe se o conteúdo é aprovado
 
 Você pode adicionar um novo conteúdo e rastreá-lo, remover um conteúdo ou aprovar um conteúdo. Após aprovar o conteúdo, você pode editá-lo na página Conteúdo preditivo.
 
@@ -32,7 +32,7 @@ Você pode adicionar um novo conteúdo e rastreá-lo, remover um conteúdo ou ap
 
 Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a data ou o intervalo de datas para a análise de conteúdo, usando configurações padrão ou personalizadas.
 
-1. No **Todo o conteúdo** clique no ícone de filtro e, em **Categoria**, selecione uma ou mais categorias de conteúdo.
+1. Na página **Todo o Conteúdo**, clique no ícone de filtro e, em **Categoria**, selecione uma ou mais categorias de conteúdo.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -50,7 +50,7 @@ Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a 
 
 >[!MORELIKETHIS]
 >
->* [Adicionar novo conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Adicionar Novo Conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
 >* [Excluir conteúdo](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
->* [Aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Aprovar um Título para Conteúdo Preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 >* [Cancelar aprovação de um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)

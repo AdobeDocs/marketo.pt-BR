@@ -17,13 +17,13 @@ Ao criar uma página de aterrissagem de formato livre, você pode usar guias par
 
 >[!NOTE]
 >
->Os guias estão disponíveis somente no **Forma livre** editor de página de aterrissagem.
+>Os guias só estão disponíveis no editor de página de aterrissagem do **Formato livre**.
 
-1. Selecione um **Landing Page** e clique em **Editar rascunho**.
+1. Selecione uma **Landing Page** e clique em **Editar rascunho**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Clique em **Ações da landing page** e selecione **Mostrar Guias**.
+1. Clique em **Ações da página de aterrissagem** e selecione **Mostrar guias**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

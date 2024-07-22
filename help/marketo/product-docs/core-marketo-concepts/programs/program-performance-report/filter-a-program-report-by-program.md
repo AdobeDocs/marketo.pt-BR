@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrar um relatório de programa por programa {#filter-a-program-report-by-program}
 
-Concentre seus [relatório de desempenho do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} em programas específicos para comparar o seu desempenho.
+Concentre seu [relatório de desempenho do programa](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} em programas específicos para comparar seu desempenho.
 
-1. Ir para **[!UICONTROL Atividades de marketing]** (ou **[!UICONTROL Analytics]**).
+1. Vá para **[!UICONTROL Atividades de marketing]** (ou **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Concentre seus [relatório de desempenho do programa](/help/marketo/product-docs
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Clique em **[!UICONTROL Configuração]** guia e arraste sobre **[!UICONTROL Programas]**.
+1. Clique na guia **[!UICONTROL Instalação]** e arraste por **[!UICONTROL Programas]**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,10 +35,10 @@ Concentre seus [relatório de desempenho do programa](/help/marketo/product-docs
    >
    >Se você selecionar uma pasta, seu relatório incluirá tudo o que a pasta contém no momento em que o relatório é executado.
 
-1. Isso é tudo! Clique em **[!UICONTROL Relatório]** guia para ver _apenas_ os programas selecionados em seu relatório.
+1. Isso é tudo! Clique na guia **[!UICONTROL Relatório]** para ver _apenas_ os programas selecionados em seu relatório.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
 >[!NOTE]
 >
->[Filtrar um relatório de programa por tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[Filtrar um Relatório de Programa por Marca](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

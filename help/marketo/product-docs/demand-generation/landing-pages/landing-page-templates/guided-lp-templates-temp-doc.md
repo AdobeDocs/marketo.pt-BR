@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lista de modelos de página de aterrissagem guiada {#guided-landing-page-template-list}
 
-Procure nossa coleção de modelos de exemplo, para uso com o [Editor de página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada modelo é totalmente responsivo e baseado na estrutura do Bootstrap.
+Procure nossa coleção de modelos de exemplo, para usar com o [Editor de página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada modelo é totalmente responsivo e baseado na estrutura do Bootstrap.
 
 >[!NOTE]
 >
@@ -24,10 +24,10 @@ Para importar um template para o Marketo:
 1. Clique no nome do modelo para ampliá-lo.
 1. Baixe o modelo escolhido.
 1. No Marketo, navegue até o **Design Studio.**
-1. Clique em **Landing Pages** na árvore à esquerda, selecione **Modelos.**
+1. Clique em **Páginas de Aterrissagem** na árvore do lado esquerdo e selecione **Modelos.**
 
-1. Na barra de menus, clique em **Importar modelo.**
-1. Escolha o arquivo baixado, digite um nome de modelo e clique em **Importar** (certifique-se de escolher um nome descritivo e indicar que o modo de edição é **Guiado**).
+1. Na barra de menus, clique em **Importar Modelo.**
+1. Escolha o arquivo baixado, insira um nome de modelo e clique em **Importar** (certifique-se de escolher um nome descritivo e indicar que o modo de edição é **Guiado**).
 
 <table>
 <tr>

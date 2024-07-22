@@ -17,7 +17,7 @@ Você pode ver estatísticas detalhadas do programa e do canal no Analisador de 
 
 >[!PREREQUISITES]
 >
->[Criar um analisador de programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Criar um Analisador de Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
@@ -31,13 +31,13 @@ Você pode ver estatísticas detalhadas do programa e do canal no Analisador de 
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Para ver as estatísticas específicas de um canal ou programa (dependendo da **Exibir** selecione ), clique na bolha correspondente.
+1. Para ver as estatísticas específicas de um canal ou programa (dependendo da **Exibição** selecionada), clique na bolha correspondente.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Muitas das métricas que você pode escolher no analisador de programa estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante compreender a [diferença entre atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Muitas das métricas que você pode escolher no analisador de programa estão disponíveis com cálculos de primeiro toque (FT) e multitoque (MT). É importante entender a [diferença entre a atribuição FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Para comparar todos os programas de um único canal, clique no nome do canal na caixa de diálogo pop-up.
 
@@ -49,7 +49,7 @@ Você pode ver estatísticas detalhadas do programa e do canal no Analisador de 
 
    >[!NOTE]
    >
-   >Clicar em um único canal altera sua visualização para Por programa, filtrado apenas para esse canal. Para retornar a todos os canais, selecione **Exibir** > **Por canal**.
+   >Clicar em um único canal altera sua visualização para Por programa, filtrado apenas para esse canal. Para retornar a todos os canais, selecione **Exibir** > **Por Canal**.
 
 1. Para abrir o Explorador de ciclo de receita para pesquisar ainda mais uma estatística, clique nesse número na caixa de diálogo pop-up.
 

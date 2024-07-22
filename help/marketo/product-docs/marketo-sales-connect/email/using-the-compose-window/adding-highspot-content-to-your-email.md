@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se você for um cliente do Highspot, poderá inserir facilmente conteúdo do Highspot nos emails do Sales Connect.
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso, neste exemplo estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
 
    ![](assets/one-5.png)
 
@@ -23,7 +23,7 @@ Se você for um cliente do Highspot, poderá inserir facilmente conteúdo do Hig
 
    ![](assets/two-5.png)
 
-1. Clique no local do email em que deseja inserir o conteúdo do ponto mais alto. Clique na lista suspensa de setas (ao lado do ícone de anexo) e selecione **Highspot**.
+1. Clique no local do email em que deseja inserir o conteúdo do ponto mais alto. Clique na lista suspensa de setas (ao lado do ícone de anexo) e selecione **Ponto de destaque**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Se você for um cliente do Highspot, poderá inserir facilmente conteúdo do Hig
 
    ![](assets/four-5.png)
 
-1. Selecione o conteúdo desejado e clique no link **Adicionar conteúdo** botão.
+1. Selecione o conteúdo desejado e clique no botão **Adicionar conteúdo**.
 
    ![](assets/five-3.png)
 

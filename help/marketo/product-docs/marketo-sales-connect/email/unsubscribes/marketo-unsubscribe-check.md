@@ -21,11 +21,11 @@ A Verificação de cancelamento de inscrição do Marketo usa a conexão de sua 
 
 ## Ativando {#turning-it-on}
 
-1. No aplicativo web, clique no ícone de engrenagem e selecione **Configurações**.
+1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
 
    ![](assets/one-2.png)
 
-1. Em Configurações do administrador, clique em **Cancelamentos de assinatura**.
+1. Em Configurações do administrador, clique em **Cancelar assinatura**.
 
    ![](assets/two-3.png)
 
@@ -45,4 +45,4 @@ A verificação de cancelamento de inscrição do Marketo...
 * Requer o estabelecimento de uma conexão com o Marketo
 * É uma configuração global
 * Bloqueia emails enviados do aplicativo Web, clientes de email e Salesforce
-* Registrará um email com falha ou impedirá que um usuário envie quando tentar enviar para todos os fluxos de trabalho (envio de plug-in de email, envio individual, envio de campanha de vendas, seleção múltipla e envio), exceto para [emails de grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), no qual evitaremos que os emails sejam enviados silenciosamente
+* Registrará um email com falha ou impedirá que um usuário envie quando tentar enviar para todos os fluxos de trabalho (envio de plug-in de email, envio individual, envio de campanha de vendas, seleção múltipla e envio), exceto para [emails de grupo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), nos quais impediremos que os emails sejam enviados silenciosamente

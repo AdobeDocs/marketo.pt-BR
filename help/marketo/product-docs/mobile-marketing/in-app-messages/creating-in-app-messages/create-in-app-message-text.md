@@ -35,7 +35,7 @@ Clique na área de texto para trabalhar com seu estilo de texto e conteúdo.
    >
    >Um tamanho de texto muito grande pode ultrapassar o máximo de três linhas visíveis de texto.
 
-1. Escolha um estilo de texto opcional, para ênfase: **Negrito**, _Itálico_, ou Sublinhado.
+1. Escolha um estilo de tipo opcional, com ênfase: **Negrito**, _Itálico_ ou Sublinhado.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -81,9 +81,9 @@ Clique na área de texto para trabalhar com seu estilo de texto e conteúdo.
 
    As alterações feitas nos tokens usados em um programa de mensagens no aplicativo aprovado não entrarão em vigor na mensagem no aplicativo até que o programa seja pausado e retomado.
 
-Você é dourado. Em seguida, é necessário [configurar o botão de mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Você é dourado. Em seguida, você precisa [configurar o botão de mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >
->* [Noções básicas sobre mensagens no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Noções Básicas Sobre Mensagens No Aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Escolha um layout para a mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

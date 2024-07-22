@@ -17,7 +17,7 @@ Crie categorias em Conteúdo preditivo para agrupar seus resultados preditivos n
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Ao editar o conteúdo descoberto, adicione categorias na tela de edição. Clique em **Categorias** e selecione-as no menu suspenso.
+Ao editar o conteúdo descoberto, adicione categorias na tela de edição. Clique no campo **Categorias** e selecione-as no menu suspenso.
 
 ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Ao adicionar conteúdo, você pode marcá-lo com categorias selecionadas na jane
 
 Veja como criar tags de categoria.
 
-1. Ir para **Configurações de conteúdo**.
+1. Vá para **Configurações de Conteúdo**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
@@ -37,11 +37,11 @@ Veja como criar tags de categoria.
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. As tags de categoria existentes são exibidas. Insira uma nova tag de categoria e clique em **Criar novo**.
+1. As tags de categoria existentes são exibidas. Insira uma nova marca de categoria e clique em **Criar novo**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Você pode remover uma tag de categoria clicando no ícone **x** ao lado dele.
+1. Você pode remover uma marca de categoria clicando no **x** ao lado dela.
 
    ![](assets/remove-category-tag-updated.png)
 

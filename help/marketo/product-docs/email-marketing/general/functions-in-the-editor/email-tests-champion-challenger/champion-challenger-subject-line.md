@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adicione um Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Adicionar um Especialista/Desafiador de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. No editor de teste de email, selecione **Linha de assunto** no **Tipo de teste** menu suspenso.
+1. No editor de teste de email, selecione **Linha de assunto** no menu suspenso **Tipo de teste**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Em um teste de assunto, a primeira linha de assunto inserida é designada como **Campeão**. As linhas de assunto subsequentes são chamadas **Desafiadores**.
+   >Em um teste de assunto, a primeira linha de assunto inserida é designada como o **Campeão**. As linhas de assunto subsequentes são chamadas **Desafiadores**.
 
-1. Inserir linha(s) de assunto para a **Desafiadores**.
+1. Insira a(s) linha(s) de assunto para os **Desafiadores**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    Para obter confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes para que o teste seja válido. Não se deixe enganar por resultados inconclusivos.
 
-1. Clique em **Próxima**.
+1. Clique em **Avançar**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: defina critérios de Champion](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Especialista/Desafiador: Definir Critérios Especialistas](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

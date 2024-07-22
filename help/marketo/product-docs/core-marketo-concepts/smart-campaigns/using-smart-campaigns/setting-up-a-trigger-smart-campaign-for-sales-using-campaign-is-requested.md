@@ -19,8 +19,8 @@ Um dos recursos mais interessantes do Marketo é a capacidade de permitir que os
 >
 >Exemplos de campanhas inteligentes a serem solicitadas:
 >
->1. **Enriquecimento a longo prazo** - quando eles não têm um orçamento este ano e você só quer ficar no radar
->1. **Ciclo de vendas ativo** - quando o vendedor não quer mensagens para a pessoa, exceto as suas próprias. (use o sinalizador de suspensão de marketing para cancelar a inscrição temporariamente)
+>1. **Enfermagem de longo prazo** - quando eles não têm um orçamento para este ano e você só quer continuar no radar
+>1. **Ciclo de vendas ativo** - quando o vendedor não deseja receber mensagens para ele, exceto as suas. (use o sinalizador de suspensão de marketing para cancelar a inscrição temporariamente)
 >
 >Seja criativo. O que o vendedor gostaria de automatizar? Basta pedir-lhes e ligá-lo!
 
@@ -28,17 +28,17 @@ Um dos recursos mais interessantes do Marketo é a capacidade de permitir que os
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Localize e arraste o **[!UICONTROL A campanha é solicitada]** acione para a tela.
+1. Localize e arraste o acionador **[!UICONTROL Campanha solicitada]** para a tela.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. As opções de origem indicam que tipo de solicitação será atendida. Para a funcionalidade do Salesforce, escolha **[!UICONTROL Sales Insight]**.
+1. As opções de origem indicam que tipo de solicitação será atendida. Para a funcionalidade do Salesforce, escolha o **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
-   >Os operadores de origem são para segurança. Você pode restringir a campanha a solicitações feitas apenas por fontes específicas, como outras Campanhas inteligentes ou desenvolvedores. Escolher **[!UICONTROL É Qualquer]** na primeira caixa se desejar permitir solicitações de todas as fontes.
+   >Os operadores de origem são para segurança. Você pode restringir a campanha a solicitações feitas apenas por fontes específicas, como outras Campanhas inteligentes ou desenvolvedores. Escolha **[!UICONTROL É Qualquer]** na primeira caixa se desejar permitir solicitações de todas as fontes.
    >
-   >_Lembrar_ Em seguida, ao escolher Sales Insight, ele será exibido magicamente na caixa para vendas. Não exagere. Muitos serão ignorados por eles.
+   >_Lembre-se_ que, ao escolher Sales Insight, ele aparecerá magicamente na caixa para vendas. Não exagere. Muitos serão ignorados por eles.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

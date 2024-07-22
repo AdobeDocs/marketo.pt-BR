@@ -1,8 +1,8 @@
 ---
 description: Guia Mapa de engajamento - Documentação do Marketo - Documentação do produto
 title: Guia Mapa de engajamento
-exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
+exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Etapas de Fluxo: Se uma Etapa de Fluxo incluir opções, este cartão mostrará 
 * Lista de condições de escolha associadas à Etapa de fluxo
 * Editar etapa do fluxo
 
-Etapas de fluxo: se uma Etapa de fluxo não _não_ incluir quaisquer opções, este cartão mostrará os atributos associados à Etapa de fluxo. Ao clicar nele, um painel deslizante será exibido com as seguintes informações:
+Etapas de Fluxo: se uma Etapa de Fluxo _não_ incluir opções, este cartão mostrará os atributos associados à Etapa de Fluxo. Ao clicar nele, um painel deslizante será exibido com as seguintes informações:
 
 * Campanha à qual a Etapa de fluxo pertence
 * Lista de atributos associados à Etapa de fluxo
@@ -69,7 +69,7 @@ Etapas de fluxo: se uma Etapa de fluxo não _não_ incluir quaisquer opções, e
    * Lista de condições de escolha associadas à Etapa de fluxo
    * Editar etapa do fluxo
 
-* Se uma Campanha Executar ou Solicitar incluir opções, clicar no cartão de fluxo expandirá para mostrar todas as opções em cartões individuais. Ao clicar no botão _opção_ expandirá a campanha associada à escolha específica, bem como revelará um painel deslizante com as seguintes informações:
+* Se uma Campanha Executar ou Solicitar incluir opções, clicar no cartão de fluxo expandirá para mostrar todas as opções em cartões individuais. Clicar no cartão _opção_ expandirá a campanha associada à escolha específica e revelará um painel deslizante com as seguintes informações:
 
    * Campanha à qual a escolha pertence
    * Editar escolha

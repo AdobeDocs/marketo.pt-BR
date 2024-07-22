@@ -16,15 +16,15 @@ O Marketo oferece uma variedade de módulos de relatórios para diferentes neces
 
 ## Relatórios básicos {#basic-reporting}
 
-Você pode configurar [relatórios básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} em programas ou na área do Analytics. Os relatórios básicos são compostos de diferentes tipos de relatórios prontos para uso com a flexibilidade para filtrar, classificar e ajustar intervalos de tempo.
+Você pode configurar [relatórios básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} dentro de programas ou na área do Analytics. Os relatórios básicos são compostos de diferentes tipos de relatórios prontos para uso com a flexibilidade para filtrar, classificar e ajustar intervalos de tempo.
 
 ## Email Insights {#email-insights}
 
-Use o Analytics e os envios para obter [insights avançados](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} nos emails de dados históricos.
+Use o Analytics e o Sends para obter [insights avançados](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sobre emails de dados históricos.
 
-## Performance Insights {#performance-insights}
+## Desempenho Insights {#performance-insights}
 
-[Insights de desempenho](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} A aborda o desempenho do canal e do programa para envolvimento, pipeline e geração de receita.
+[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} aborda o desempenho do canal e o desempenho do programa para envolvimento, pipeline e geração de receita.
 
 ## Relatórios Avançados do BI Analytics {#advanced-bi-analytics-reporting}
 

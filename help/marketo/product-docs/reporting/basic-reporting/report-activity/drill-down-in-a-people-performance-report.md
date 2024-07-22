@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Detalhe um Relatório de Desempenho de Pessoas para ver informações adicionais sobre pessoas.
 
-1. Clique em **Relatório** para exibir qualquer relatório existente.
+1. Clique na guia **Relatório** para exibir qualquer relatório existente.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Detalhe um Relatório de Desempenho de Pessoas para ver informações adicionais
 
    ![](assets/two.png)
 
-1. Clique em **Drill-Down**.
+1. Clique em **Detalhamento**.
 
    ![](assets/three.png)
 
-1. No **Drill-Down** selecione o atributo que deseja detalhar. Clique em **Drill-Down**.
+1. Na janela pop-up **Detalhar**, selecione o atributo que deseja detalhar. Em seguida, clique em **Detalhamento**.
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ Detalhe um Relatório de Desempenho de Pessoas para ver informações adicionais
 
    ![](assets/five.png)
 
-1. Para salvar os resultados (opcional), clique no link **Exportar** no canto inferior esquerdo.
+1. Para salvar os resultados (opcional), clique no ícone **Exportar** no canto inferior esquerdo.
 
    ![](assets/six.png)

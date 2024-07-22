@@ -19,7 +19,7 @@ Os emails têm recursos limitados (CSS limitado e sem JavaScript ou formulários
 >
 >Ao criar um novo email, a opção Exibir como página da Web não está ativada. Se você ativá-lo e clonar o email, essa configuração será copiada.
 
-1. Selecione seu email e clique em **Editar rascunho**.
+1. Selecione seu email e clique em **Editar Rascunho**.
 
    ![](assets/one-5.png)
 
@@ -27,7 +27,7 @@ Os emails têm recursos limitados (CSS limitado e sem JavaScript ou formulários
 
    ![](assets/two-5.png)
 
-1. Verifique a **Incluir Modo de Exibição como Página da Web** e clique em **Salvar**.
+1. Marque a caixa **Incluir exibição como página da Web** e clique em **Salvar**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ Veja um exemplo de como ele é:
 >
 >Você não verá o link Exibir como página da Web até enviar o email. Envie a si mesmo um teste para visualizar.
 
-Para alterar o texto padrão, consulte [Edite a mensagem &quot;Exibir como página da Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Para alterar o texto padrão, consulte [Editar a Mensagem &quot;Exibir como Página da Web&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Criação de uma campanha inteligente em lote na visualização de programação {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-É possível criar novas Campanhas inteligentes e [executar novamente as existentes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} no seu programa na exibição de programação do programa.
+Você pode criar novas Campanhas inteligentes e [executar novamente as existentes](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} dentro do seu programa a partir da exibição do cronograma do programa.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Escolha um nome para a entrada, que se tornará a nova Campanha inteligente. Pressione a **[!UICONTROL Entrar/Retornar]** para confirmar o nome.
+1. Escolha um nome para a entrada, que se tornará a nova Campanha inteligente. Pressione a tecla **[!UICONTROL Enter/Return]** para confirmar o nome.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Clique em **[!UICONTROL Tipo]** e escolha **[!UICONTROL Campanha inteligente]**.
+1. Clique no menu suspenso **[!UICONTROL Tipo]** e escolha **[!UICONTROL Campanha inteligente]**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/four.png)
 
-1. Escolha o seu [Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} regras.
+1. Escolha suas regras da [Campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
    ![](assets/changeprogramstatus-hands.png)
 

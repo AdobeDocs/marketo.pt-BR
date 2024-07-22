@@ -21,13 +21,13 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Não é possível incorporar nenhum [Sintaxe de email do Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) em trechos; será **não** trabalhar em um email. Os trechos devem ser apenas conteúdo do corpo (HTML + TEXT).
+>Você não pode incorporar nenhuma [sintaxe de email do Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) em trechos; isso **não** funcionará em um email. Os trechos devem ser apenas conteúdo do corpo (HTML + TEXT).
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. Selecione o **Trecho** e clique em **Editar rascunho**.
+1. Selecione seu **trecho** e clique em **Editar rascunho**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,17 +35,17 @@ Você pode adicionar três tipos de conteúdo a um trecho.
 
 ## Adicionar token {#add-token}
 
-1. Arraste e solte a **Token** elemento.
+1. Arraste e solte o elemento **Token**.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Enter **Token** e clique em **Inserir**.
+1. Insira o **Token** e clique em **Inserir**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Adicionar imagem/arquivo {#add-image-file}
 
-1. Arraste e solte a **Imagem/Arquivo** elemento.
+1. Arraste e solte o elemento **Image/File**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Você pode adicionar três tipos de conteúdo a um trecho.
    >
    >Você pode adicionar suas próprias imagens ou arquivos ao Marketo. Saiba mais sobre [imagens e arquivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Selecione o **Imagem** a ser usado e clique em **Inserir**.
+1. Selecione a **Imagem** a ser usada e clique em **Inserir**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,7 +71,7 @@ Você pode adicionar três tipos de conteúdo a um trecho.
    >
    >Use as ferramentas de formatação para personalizar o texto.
 
-1. Para Emails, clique no link **Versão de texto** guia.
+1. Para Emails, clique na guia **Versão do Texto**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 

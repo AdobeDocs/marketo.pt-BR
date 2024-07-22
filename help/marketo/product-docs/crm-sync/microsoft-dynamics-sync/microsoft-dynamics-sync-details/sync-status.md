@@ -6,7 +6,7 @@ exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,11 @@ Você pode manter guias sobre a taxa de transferência e o backlog atuais do pro
 
 ## Guia Status de sincronização {#sync-status-tab}
 
-1. Clique em **[!UICONTROL Admin]**, depois **[!UICONTROL Microsoft Dynamics]**.
+1. Clique em **[!UICONTROL Admin]** e depois em **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Clique em **[!UICONTROL Status da sincronização]** guia.
+1. Clique na guia **[!UICONTROL Status de sincronização]**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ Você pode manter guias sobre a taxa de transferência e o backlog atuais do pro
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Clique em **[!UICONTROL Exibir]** e selecione **[!UICONTROL Última hora]** para exibir informações de taxa de transferência.
+1. Clique no menu suspenso **[!UICONTROL Exibir]** e selecione **[!UICONTROL Última Hora]** para exibir as informações de taxa de transferência.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,4 +55,4 @@ Procurar, pesquisar ou exportar clientes em potencial (e outros objetos) que nã
 
 >[!MORELIKETHIS]
 >
->[Tipos de notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}
+>[Tipos de Notificação](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

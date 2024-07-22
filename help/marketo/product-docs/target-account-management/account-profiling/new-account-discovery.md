@@ -6,7 +6,7 @@ exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
 
 >[!TIP]
 >
->É recomendável pressionar a &lt;barra de espaço> **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja observando os dados mais recentes. Esta atualização pode levar até 24 horas.
+>É recomendável pressionar o botão **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja vendo os dados mais recentes. Esta atualização pode levar até 24 horas.
 
-1. Em Meu Marketo, clique em **Gerenciamento de conta do Target**.
+1. Em Meu Marketo, clique em **Gerenciamento de Conta de Destino**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Clique em **Criação de perfil da conta** guia.
+1. Clique na guia **Perfil da conta**.
 
    ![](assets/two-2.png)
 
-1. Clique em **Novas contas** guia.
+1. Clique na guia **Novas contas**.
 
    ![](assets/three-1.png)
 
@@ -43,7 +43,7 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
 
    ![](assets/four-1.png)
 
-1. Clique em **Salvar tudo e criar lista** na parte inferior direita da página.
+1. Clique em **Salvar tudo e criar lista** no canto inferior direito da página.
 
    ![](assets/five-1.png)
 
@@ -57,7 +57,7 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
 
    >[!NOTE]
    >
-   >Para salvá-la em uma Lista de contas existente, selecione essa opção, clique no menu suspenso e selecione a Lista de contas desejada e clique em **Próxima**.
+   >Para salvá-la em uma Lista de Contas existente, selecione essa opção, clique no menu suspenso e selecione a Lista de Contas desejada e clique em **Avançar**.
 
 1. Clique em **Salvar**.
 
@@ -65,7 +65,7 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
 
    >[!NOTE]
    >
-   >Você só pode salvar até 5.000 contas de cada vez. Se a sua pesquisa produzir 10.000 resultados, você terá que salvar os primeiros 5.000, redefinir os filtros e salvar os próximos 5.000. A variável **total** o limite da conta é de um milhão.
+   >Você só pode salvar até 5.000 contas de cada vez. Se a sua pesquisa produzir 10.000 resultados, você terá que salvar os primeiros 5.000, redefinir os filtros e salvar os próximos 5.000. O limite de contas de **total** é de um milhão.
 
 1. Clique em **OK**.
 
@@ -73,4 +73,4 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
 
    >[!TIP]
    >
-   >Depois que suas contas forem salvas, você poderá usar um [público correspondente no LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) para direcioná-los.
+   >Depois que suas contas forem salvas, você poderá usar um [público-alvo correspondente no LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) para direcioná-las.

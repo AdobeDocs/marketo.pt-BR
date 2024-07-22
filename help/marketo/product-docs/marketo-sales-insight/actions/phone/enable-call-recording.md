@@ -18,18 +18,18 @@ Como administrador, você pode ativar a gravação de chamadas para suas chamada
 
    ![](assets/enable-call-recording-1.png)
 
-1. Em Configurações do administrador, clique em **Discador**.
+1. Em Configurações do Administrador, clique em **Discador**.
 
    ![](assets/enable-call-recording-2.png)
 
-1. Selecione o **Habilitar gravação de chamada** alternar.
+1. Selecione a opção **Habilitar gravação de chamadas**.
 
    ![](assets/enable-call-recording-3.png)
 
-1. Se desejar que seus vendedores possam ativar ou desativar a gravação de chamadas, clique em **Gravação opcional para todos os membros da equipe**. Se quiser que todas as chamadas sejam gravadas automaticamente, clique em **Registrar todas as chamadas**.
+1. Se quiser dar aos seus vendedores a capacidade de habilitar ou desabilitar a gravação de chamadas para eles mesmos, clique em **Gravação opcional para todos os membros da equipe**. Se quiser que todas as chamadas sejam gravadas automaticamente, clique em **Gravar todas as chamadas**.
 
    ![](assets/enable-call-recording-4.png)
 
 >[!MORELIKETHIS]
 >
->[Configurações de consentimento de dois participantes](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
+>[Configurações de Consentimento Duplo](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)

@@ -61,7 +61,7 @@ Exibe o conteúdo de conversão principal por taxa de conversão para o interval
 >
 >**Definição**
 >
->**Índice de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques.
+>**Taxa de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques.
 
 ## Conteúdo em alta {#trending-content}
 

@@ -21,9 +21,9 @@ Uma partição de pessoa é como ter um segundo (ou terceiro) banco de dados. Um
 
 >[!PREREQUISITES]
 >
->[Criar uma partição de pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
+>[Criar uma Partição de Pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Vá para a **[!UICONTROL Admin]** área.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
@@ -31,11 +31,11 @@ Uma partição de pessoa é como ter um segundo (ou terceiro) banco de dados. Um
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. No **[!UICONTROL Partições de pessoas]** selecione a partição de pessoa que deseja editar e clique em **[!UICONTROL Editar Partição de Pessoas]**.
+1. Na guia **[!UICONTROL Partições de Pessoa]**, selecione a partição de pessoa que deseja editar e clique em **[!UICONTROL Editar Partição de Pessoa]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Informe a Partição de Pessoa **[!UICONTROL Nome]**, o **[!UICONTROL Espaços de trabalho]** a que pertencem e clique em **[!UICONTROL Salvar]**.
+1. Insira a Partição de Pessoa **[!UICONTROL Nome]**, os **[!UICONTROL Espaços de Trabalho]** aos quais pertencem e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

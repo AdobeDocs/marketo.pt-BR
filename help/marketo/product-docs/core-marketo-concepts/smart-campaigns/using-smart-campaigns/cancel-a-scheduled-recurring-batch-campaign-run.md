@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Se você tiver uma Campanha em lote recorrente que não deseja mais, cancele as execuções futuras. Veja como.
 
-1. Selecione a Campanha inteligente e clique no link **Agendar** guia.
+1. Selecione a Campanha inteligente e clique na guia **Agendar**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
@@ -25,9 +25,9 @@ Se você tiver uma Campanha em lote recorrente que não deseja mais, cancele as 
 
    >[!TIP]
    >
-   >Você pode cancelar uma única execução clicando no ícone ![x vermelho](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) ao lado dele. Saiba como [cancelar uma execução de campanha em lote agendada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >Você pode cancelar uma única execução clicando no ![x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) vermelho ao lado dele. Saiba como [cancelar uma execução de campanha em lote agendada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. Definir programação para **[!UICONTROL Nenhum]** e clique em **[!UICONTROL Salvar]**.
+1. Defina a Agenda como **[!UICONTROL Nenhuma]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 

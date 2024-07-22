@@ -21,7 +21,7 @@ Você pode cancelar a aprovação de qualquer título para conteúdo preditivo n
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Clique em **Ações de conteúdo** e selecione **Cancelar aprovação para conteúdo preditivo**.
+1. Clique no menu suspenso **Ações de conteúdo** e selecione **Cancelar aprovação para conteúdo preditivo**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -33,7 +33,7 @@ Você pode cancelar a aprovação de um título enquanto o edita.
 
    ![](assets/click-icon-hand.png)
 
-1. Desmarque a opção **Aprovar para conteúdo preditivo** e clique em **Salvar**.
+1. Desmarque a caixa **Aprovar para Conteúdo Preditivo** e clique em **Salvar**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 

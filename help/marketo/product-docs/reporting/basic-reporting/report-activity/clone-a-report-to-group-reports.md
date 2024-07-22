@@ -15,26 +15,26 @@ ht-degree: 0%
 
 Qualquer relatório em **Meus relatórios** só fica visível para você. E se você quisesse tornar o relatório acessível a todos os outros? Veja como fazer isso:
 
-1. No **Analytics** clique no link desejado [relatório salvo](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. Na área **Analytics**, clique no [relatório salvo](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) desejado.
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
-   >Como alternativa, um relatório salvo pode ser clonado para **Relatórios de grupo** arrastando o relatório para a pasta.
+   >Como alternativa, um relatório salvo pode ser clonado para **Agrupar relatórios** arrastando-o para a pasta.
 
-1. Clique em **Ações de Relatório** e selecione **Clonar relatório**.
+1. Clique em **Ações de Relatório** e selecione **Clonar Relatório**.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. Clique em **Clonar para** e selecione seu grupo. Selecione o **Pasta**.
+1. Clique no menu suspenso **Clonar para** e selecione seu grupo. Selecione a **Pasta**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Nome** o relatório e clique em **Clonar**.
+1. **Nomeie** o relatório e clique em **Clonar**.
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Legal! Seu relatório agora aparecerá em **Relatórios de grupo**.
+   Legal! Seu relatório será exibido em **Relatórios de Grupo**.
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)

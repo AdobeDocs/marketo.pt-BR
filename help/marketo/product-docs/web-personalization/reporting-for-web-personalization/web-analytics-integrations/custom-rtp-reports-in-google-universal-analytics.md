@@ -6,8 +6,8 @@ exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 5%
+source-wordcount: '387'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->[Integrar o RTP ao Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP com o Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 Este artigo explica como configurar relatórios personalizados de RTP para o Google Universal Analytics (GUA).  Os dados enviados do RTP para o GUA podem ser configurados como dois relatórios personalizados separados chamados:
 
@@ -28,25 +28,25 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 
 1. Clique em **Personalização** no menu superior.
 
-1. Clique em **+Novo relatório personalizado**.
+1. Clique em **+Novo Relatório Personalizado**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## Relatório RTP B2B {#rtp-b-b-report}
 
-1. Atribuir um nome ao relatório **Relatório RTP B2B**.
+1. Nomeie o relatório **Relatório B2B RTP**.
 
-1. Nomeie a primeira guia **Setor**.
+1. Nomeie a 1ª guia **Setor**.
 
 >[!NOTE]
 >
->Você vai **Duplicar esta guia** e criar outros semelhantes - etapa 5)
+>Você **Duplicará esta guia** e criará outras semelhantes - etapa 5)
 
-1. Selecione o **Explorer** tipo de relatório.
+1. Selecione o tipo de relatório **Explorer**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. No **Grupos de métricas** selecione as métricas relevantes para sua empresa.
+1. Na seção **Grupos de Métricas**, selecione as métricas relevantes para sua empresa.
 
    a. Recomendamos o seguinte:
 
@@ -55,14 +55,14 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 1. Duplique esta guia 4 vezes e nomeie-as:
 
    1. **Setor**
-   1. **Agrupar**
+   1. **Grupo**
    1. **Categoria**
    1. **ABM**
    1. **Organizações**
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. No **Drill-downs de Dimension** defina as dimensões relevantes para cada guia, conforme abaixo.
+1. Na seção **Dimension Drill-downs**, defina as dimensões relevantes para cada guia, conforme abaixo.
 
 <table> 
  <thead> 
@@ -83,7 +83,7 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Agrupar</td> 
+   <td>Grupo</td> 
    <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -101,7 +101,7 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
  </tbody> 
 </table>
 
-1. Não definir filtros e definir este relatório para ficar disponível por **Todos os Dados do Site** (ou altere, se relevante para uma conta específica do Analytics).
+1. Não defina filtros e defina este relatório para ficar disponível para **Todos os dados do site** (ou altere se relevante para a conta específica do Analytics).
 
 1. Clique em **Salvar**.
 
@@ -109,7 +109,7 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 
 ## Relatório de engajamento RTP {#rtp-engagement-report}
 
-1. Atribuir um nome ao relatório **Relatório de engajamento RTP**.
+1. Nomeie o relatório **Relatório de Envolvimento RTP**.
 
 1. Defina o nome da primeira guia como **Todos os envolvimentos**.
 
@@ -117,7 +117,7 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 >
 >Você duplicará essa guia e criará outras semelhantes - etapa 5)
 
-1. Selecione o **Explorer** tipo de relatório.
+1. Selecione o tipo de relatório **Explorer**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
@@ -127,15 +127,15 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 
 1. Duplique esta guia 4 vezes e nomeie-as:
 
-   1. **Todos os envolvimentos**
-   1. **Envolvimento por setor**
-   1. **Envolvimento por grupo**
-   1. **Envolvimento por categoria**
+   1. **Todos os Compromissos**
+   1. **Participação por setor**
+   1. **Participação por Grupo**
+   1. **Participação por Categoria**
    1. **Participação da ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. No **Drill-downs de Dimension** defina as dimensões relevantes para cada guia, conforme abaixo:
+1. Na seção **Dimension Drill-downs**, defina as dimensões relevantes para cada guia, conforme abaixo:
 
 <table> 
  <thead> 
@@ -213,13 +213,13 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
    <td>Excluir</td> 
    <td>Rótulo do evento</td> 
    <td>Expressão regular</td> 
-   <td>#</td> 
+   <td>Nº</td> 
    <td colspan="1">Permite filtrar a partir de seus relatórios da campanha usando # no nome da campanha</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Definir este relatório para estar disponível para **Todos os Dados do Site** (ou alterar se necessário).
+1. Defina este relatório para estar disponível para **Todos os Dados do Site** (ou altere se necessário).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -229,6 +229,6 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 
 >[!MORELIKETHIS]
 >
->[Integrar o RTP ao Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[Integrar RTP com o Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
 >[Painéis RTP personalizados no Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4719179
-description: Uso do editor de rich text de personalização da Web - Documentação do Marketo - Documentação do produto
-title: Uso do editor de rich text de personalização da Web
+description: Uso do editor de rich text do Web Personalization - Documentação do Marketo - Documentação do produto
+title: Uso do editor de rich text do Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 6%
 
 ---
 
-# Uso do editor de rich text de personalização da Web {#using-the-web-personalization-rich-text-editor}
+# Uso do editor de rich text do Web Personalization {#using-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)
 
-O editor de rich text de Personalização da Web encontrado na página Definir campanhas permite a formatação de texto, vinculação e inserção de imagem. Ele inclui opções de formatação semelhantes aos processadores de texto padrão.
+O editor de rich text do Web Personalization encontrado na página Definir campanhas permite a formatação, vinculação e inserção de imagem do texto. Ele inclui opções de formatação semelhantes aos processadores de texto padrão.
 
 Os ícones importantes no editor de rich text incluem:
 
@@ -34,7 +34,7 @@ Os ícones importantes no editor de rich text incluem:
   <tr> 
    <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><strong>Inserir imagem do Design Studio</strong></td> 
-   <td colspan="1"><em>Depois</em> clicando no <strong>Inserir/Editar imagem</strong> ícone, use esta opção para selecionar imagens do seu Marketo Design Studio</td> 
+   <td colspan="1"><em>Depois</em> de clicar no ícone <strong>Inserir/Editar Imagem</strong>, use esta opção para selecionar imagens do seu Marketo Design Studio</td> 
   </tr> 
   <tr> 
    <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
@@ -51,8 +51,8 @@ Os ícones importantes no editor de rich text incluem:
 
 >[!NOTE]
 >
->Uso de tokens da Web [dados de pessoas](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) no Marketo Database, que é gerenciado na Personalização da Web, em Configurações da conta > Banco de dados. Se o token da Web for um novo campo de banco de dados que ainda não está em Configurações da conta > Banco de dados, ele será adicionado automaticamente e poderá levar até 24 horas para ser ativado.
+>Os Web Tokens usam [dados de pessoas](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) do Banco de Dados do Marketo que são gerenciados no Web Personalization em Configurações da conta > Banco de dados. Se o token da Web for um novo campo de banco de dados que ainda não está em Configurações da conta > Banco de dados, ele será adicionado automaticamente e poderá levar até 24 horas para ser ativado.
 
 >[!MORELIKETHIS]
 >
->[Uso do Editor de Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+>[Usando o Editor de Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)

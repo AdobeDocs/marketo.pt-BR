@@ -4,8 +4,8 @@ title: Desinstale o Marketo Sales Connect do Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '1190'
-ht-degree: 8%
+source-wordcount: '1192'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
 ## Remover campos de Conexão de Vendas do Layout da Página {#remove-sales-connect-fields-from-page-layout}
 
-1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configuração**.
+1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configurar**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-1.png)
 
@@ -23,7 +23,7 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
    ![](assets/uninstall-salesforce-lightning-customization-package-2.png)
 
-1. Role para baixo e selecione **Lead**.
+1. Role para baixo até e selecione **Lead**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-3.png)
 
@@ -53,7 +53,7 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
 1. Há 10 tipos de campos MSC que podem ser adicionados a esta seção. Remova todos os campos adicionados ou simplesmente exclua a seção inteira.
 
-1. Clique em **Salvamento rápido** quando terminar.
+1. Clique em **Salvar rapidamente** quando terminar.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-8.png)
 
@@ -71,7 +71,7 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
-1. Clique em **Salvamento rápido** quando terminar.
+1. Clique em **Salvar rapidamente** quando terminar.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
@@ -87,13 +87,13 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
    >[!NOTE]
    >
-   >A abreviatura MSE _é_ Conexão de vendas. É apenas o nome anterior, &quot;Marketo Sales Engage&quot;.
+   >A abreviação MSE _is_ Sales Connect. É apenas o nome anterior, &quot;Marketo Sales Engage&quot;.
 
-1. Clique em **Salvar** quando terminar com a página de clientes potenciais.
+1. Clique em **Salvar** quando terminar de usar a página de clientes potenciais.
 
 ## Remover os Botões de Ação em Massa da Conexão de Vendas da Exibição da Lista de Clientes Potenciais {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configuração**.
+1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configurar**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-14.png)
 
@@ -101,19 +101,19 @@ Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce 
 
    ![](assets/uninstall-salesforce-lightning-customization-package-15.png)
 
-1. Role para baixo e selecione **Lead**.
+1. Role para baixo até e selecione **Lead**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-16.png)
 
-1. Clique em **Layouts de pesquisa**.
+1. Clique em **Pesquisar Layouts**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-17.png)
 
-1. Clique na seta ao lado de Exibição em lista e selecione **Editar**.
+1. Clique na seta ao lado da Exibição de Lista e selecione **Editar**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. Selecionar **Adicionar à campanha MSC**, **Email com MSC**, e **Enviar para MSC** e clique na seta Remover. Clique em **Salvar**.
+1. Selecione **Adicionar à Campanha MSC**, **Email com MSC** e **Enviar para MSC** e clique na seta Remover. Depois clique em **Salvar**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -121,25 +121,25 @@ Você não deve mais ver os botões na exibição da lista de clientes potenciai
 
 ## Remover Configuração MSC para Contatos {#remove-msc-configuration-for-contacts}
 
-1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configuração**.
+1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configurar**.
 
 1. Clique em **Gerenciador de objetos**.
 
-1. Role para baixo e selecione **Contato**.
+1. Role para baixo até e selecione **Contato**.
 
 1. Clique em **Layouts de página**.
 
-1. Clique em **Layout do contato**.
+1. Clique em **Layout do Contato**.
 
 1. Repita as etapas das três seções.
 
 ## Remover Configuração MSC para Oportunidade {#remove-msc-configuration-for-opportunity}
 
-1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configuração**.
+1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configurar**.
 
 1. Clique em **Gerenciador de objetos**.
 
-1. Role para baixo e selecione **Oportunidade**.
+1. Role para baixo até e selecione **Oportunidade**.
 
 1. Clique em **Layouts de página**.
 
@@ -151,11 +151,11 @@ A visualização da oportunidade tem apenas um botão - &quot;Enviar email MSE&q
 
 ## Remover Configuração do MSC para a Conta {#remove-msc-configuration-for-account}
 
-1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configuração**.
+1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configurar**.
 
 1. Clique em **Gerenciador de objetos**.
 
-1. Role para baixo e selecione **Conta**.
+1. Role para baixo até e selecione **Conta**.
 
 1. Clique em **Layouts de página**.
 
@@ -171,19 +171,19 @@ A exibição Conta tem apenas um botão - &quot;Enviar email do MSE&quot; e os s
 
 1. Clique em **Personalizar minhas guias**.
 
-1. Selecione a opção Caixa de Saída de Vendas do Marketo à direita. Clique na seta Remover e clique em **Salvar**.
+1. Selecione a opção Caixa de Saída de Vendas do Marketo à direita. Clique na seta Remover e em **Salvar**.
 
 ## Excluir Pacote de Conexão de Vendas {#delete-sales-connect-package}
 
 Depois de remover todos os objetos da sua conta do Salesforce, siga as etapas abaixo.
 
-1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configuração**.
+1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configurar**.
 
 1. Na caixa Localização Rápida, informe &quot;Classes de Apex&quot;.
 
-1. Clique em **Excluir** ao lado de todas as entradas &quot;MarketoSalesConnectionCustomization&quot; ou &quot;MarketoSalesEngageCustomization&quot; na lista.
+1. Clique em **Excluir** ao lado de todas as entradas &quot;MarketoSalesConnectionCustomization&quot; ou &quot;MarketoSalesEngageCustomization&quot; na sua lista.
 
-Tudo pronto!
+Pronto!
 
 Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua instância do Salesforce:
 
@@ -314,8 +314,8 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>Texto</td>
  </tr>
  <tr>
-  <td>MSC - Última fonte de engajamento de marketing</td>
-  <td>Fonte do engajamento de marketing</td>
+  <td>MSC - Último envolvimento de marketing Source</td>
+  <td>Source do engajamento de marketing</td>
   <td>
   <p>Conta 
   <p>Contato 

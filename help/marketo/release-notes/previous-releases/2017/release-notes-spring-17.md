@@ -15,13 +15,13 @@ ht-degree: 4%
 
 Os seguintes recursos estão incluídos na versão da primavera de 17. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
-Clique nos links de título para exibir artigos detalhados para cada recurso. **Nota**: Se um tópico tiver vários subtítulos, os links serão colocados lá.
+Clique nos links de título para exibir artigos detalhados para cada recurso. **Observação**: se um tópico tiver vários subtítulos, os links serão colocados lá.
 
-## [Líder de geração de Forms da linkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [Líder de Geração Forms da LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[Líder de geração de Forms da linkedIn](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) são uma maneira mais direta de uma empresa executar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e sincronize-os com o Marketo, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de clientes potenciais.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) são uma maneira mais direta de uma empresa executar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e sincronize-os com o Marketo, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de clientes potenciais.
 
-A integração do Marketo com o LinkedIn Lead Gen Forms captura automaticamente as informações que um lead fornece no formulário Lead Gen. As ações e notificações de acompanhamento podem então ser automatizadas utilizando o novo **Preenche O Formulário De Geração De Clientes Potenciais Da LinkedIn** acionador e filtro.
+A integração do Marketo com o LinkedIn Lead Gen Forms captura automaticamente as informações que um lead fornece no formulário Lead Gen. As ações e notificações de acompanhamento podem ser automatizadas usando o novo acionador e filtro **Preencher Formulário de Líder de Geração da LinkedIn**.
 
 ![](assets/release-notes-image.png)
 
@@ -35,21 +35,21 @@ Longe vão os dias de limpeza de modelos desatualizados no Sales Insight. Defina
 
 ![](assets/four-281-29.png)
 
-## [APIs de extração em massa para pessoas e atividades](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [APIs de Extração em Massa para Pessoas e Atividades](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Transfira facilmente grandes quantidades de dados pessoais e de atividades do Marketo para seus sistemas externos.
 
 ## Aprimoramentos de ABM {#abm-enhancements}
 
-**[Campos Personalizados em Contas Nomeadas ABM](https://docs.marketo.com/x/1wnG)**
+**[Campos Personalizados em Contas com Nome ABM](https://docs.marketo.com/x/1wnG)**
 
 O Marketo ABM agora permite criar até 10 campos personalizados em suas Contas nomeadas. Você pode mapear esses Campos personalizados para campos no seu objeto Conta do CRM e o Marketo ABM sincronizará os dados, permitindo estender suas Contas nomeadas ABM e ajudar a impulsionar seu marketing.
 
-**[Pontuação de percentil em contas nomeadas ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[Pontuação de percentil em contas ABM nomeadas](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 As pontuações de contas nomeadas podem variar muito. O Marketo ABM agora calcula automaticamente um percentil para cada uma de suas pontuações, para que você possa ver de perto onde cada conta nomeada está entre suas outras contas nomeadas.
 
-**[APIs da lista de contas ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[APIs da Lista de Contas ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Aproveite as vantagens das integrações avançadas e robustas de parceiros ABM com o suporte aprimorado à API para Listas de contas nomeadas.
 
@@ -57,7 +57,7 @@ Aproveite as vantagens das integrações avançadas e robustas de parceiros ABM 
 
 ![](assets/dialogoptions.png)
 
-**[Campanha Da Web Ao Rolar](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+**[Campanha Da Web Na Rolagem](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Os novos efeitos do Web Campaign fornecem aos visitantes da Web uma experiência mais personalizada. Defina suas Campanhas da Web personalizadas para serem exibidas somente quando um visitante da Web rolar para baixo em sua página da Web. Você pode definir que suas Campanhas da Web de diálogo sejam exibidas ao rolar com base em:
 
@@ -89,7 +89,7 @@ Archive é um novo status do Web Campaign que permite arquivar Campanhas da Web 
 
 **[Localização](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-A Personalização da Web agora é oferecida em todos os idiomas suportados pela Marketo (inglês, japonês, alemão, espanhol, francês e português).
+O Web Personalization agora é oferecido em todos os idiomas suportados pela Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
 ## Melhorias preditivas {#predictive-enhancements}
 
@@ -97,6 +97,6 @@ A Personalização da Web agora é oferecida em todos os idiomas suportados pela
 
 O conteúdo preditivo agora é oferecido em todos os idiomas suportados pela Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
-## [Descontinuação do Editor de Rich Text e Editor de formulário herdado 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Descontinuação do Editor de Rich Text e do Editor de Formulário 1.0 herdados](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 A partir de 1º de agosto de 2017, os clientes que ainda usam o Editor de Rich Text e o Editor de formulário 1.0 herdados passarão automaticamente para a nova experiência.

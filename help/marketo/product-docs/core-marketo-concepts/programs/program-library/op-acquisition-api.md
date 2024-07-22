@@ -2,11 +2,11 @@
 description: OP-Acquisition-API - Documentação do Marketo - Documentação do produto
 title: API de aquisição OP
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 27%
+ht-degree: 19%
 
 ---
 
@@ -33,7 +33,7 @@ Este programa de exemplo é para processos operacionais para rastrear a aquisiç
  </tbody> 
 </table>
 
-## O programa contém os seguintes ativos {#program-contains-the-following-assets}
+## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -64,11 +64,11 @@ Este programa de exemplo é para processos operacionais para rastrear a aquisiç
 
 ## Regras de conflito {#conflict-rules}
 
-* **Marcas de programa**
-   * Criar tags nesta assinatura - _Recomendado_
+* **Marcas do programa**
+   * Criar marcas nesta assinatura - _Recomendado_
    * Ignorar
 
-* **Modelo de landing page com o mesmo nome**
+* **Modelo de página de aterrissagem com o mesmo nome**
    * Copiar modelo original - _Recomendado_
    * Usar modelo de destino
 
@@ -76,7 +76,7 @@ Este programa de exemplo é para processos operacionais para rastrear a aquisiç
    * Manter ambos os arquivos - _Recomendado_
    * Substituir item desta inscrição
 
-* **Modelos de e-mail com o mesmo nome**
+* **Modelos de email com o mesmo nome**
    * Manter ambos os modelos - _Recomendado_
    * Substituir modelo existente
 

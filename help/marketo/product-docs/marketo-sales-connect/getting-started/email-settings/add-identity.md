@@ -37,4 +37,4 @@ Adicione uma identidade quando tiver vários endereços de email dos quais envia
 
 >[!MORELIKETHIS]
 >
->[Adicionar sua assinatura de email](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+>[Adicione Sua Assinatura De Email](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

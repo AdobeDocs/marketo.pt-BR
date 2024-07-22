@@ -16,7 +16,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de outubro de 2
 
 >[!AVAILABILITY]
 >
->Recursos indicados por uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
@@ -26,7 +26,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Sincronização de Campo Personalizado de Membro do Programa**: capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências do participante durante o registro do evento, como comida, sessões, controles etc.) com campos de membro do Campaign no Salesforce.
+* **Sincronização de Campo Personalizado de Membro do Programa**: capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências de participante durante o registro do evento, como alimentação, sessões, controles etc.) com campos de membro do Campaign no Salesforce.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tbody>
 </table>
 
-* **Integração de Privacy Service Adobe**: Harmonize com o Privacy Service para automatizar a conformidade com as regulamentações de privacidade de dados em produtos Experience Cloud. Atualmente, esse serviço está disponível apenas para clientes do Marketo Engage que integraram ao sistema Adobe Identity Management.
+* **Integração do Adobe Privacy Service**: harmonize com o Privacy Service para automatizar a conformidade com as regulamentações de privacidade de dados em produtos Experience Cloud. Atualmente, esse serviço está disponível apenas para clientes do Marketo Engage que integraram ao sistema Adobe Identity Management.
 
 <table> 
   <tr> 
@@ -58,7 +58,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Telas atualizadas na experiência da próxima geração**: estamos fornecendo telas adicionais e atualizadas na experiência de última geração que oferecem um design atualizado e melhorias de usabilidade acessíveis por meio de uma chave de alternância:
+* **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
    * Detalhes do modelo de landing page
    * Lista de modelos de email
@@ -89,7 +89,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tbody>
 </table>
 
-* **Relatar Modais de Filtro de Ativos**: Novo design para modelos de configuração de relatório que exibem uma nova árvore de ativos no menu de configuração e um filtro para Data de criação e modificação.
+* **Modais de filtro de ativo de relatório**: novo design para modelos de configuração de relatório exibindo uma nova árvore de ativos no menu de configuração e um filtro para Data de criação e modificação.
 
 <table> 
   <tr> 
@@ -107,7 +107,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Importação de Cliente Potencial em Massa: Associação de Vendedor**: paridade com a API REST do cliente potencial para associar clientes potenciais a vendedores durante o processo de importação de clientes potenciais em massa, reduzindo a complexidade e o número de chamadas de API necessárias.
+* **Importação de Cliente Potencial em Massa: associação de Vendedor**: paridade com a API REST de Cliente Potencial para poder associar clientes potenciais a Vendedores durante o processo de importação de cliente potencial em massa, reduzindo a complexidade e o número de chamadas de API necessárias.
 
 <table> 
   <tr> 
@@ -127,7 +127,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Integração do Sales Insight com o Dynamic Chat**: o Painel de insights agora inclui atividades do Dynamic Chat na Grade inteligente, juntamente com um resumo semanal e cartões de detalhes.
+* **Integração do Sales Insight com o Dynamic Chat**: o Painel de Insights agora inclui atividades de Dynamic Chat na Smart Grid, além de um resumo semanal e cartões de detalhes.
 
 <table> 
   <tr> 
@@ -145,7 +145,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 Os seguintes recursos seguem um formato Agile e são lançados em várias datas antes ou depois da data de lançamento padrão. Verifique abaixo cada recurso para obter seu status.
 
-* **Organizar fluxos de diálogo automaticamente para o Dynamic Chat**: Melhore sua tela de diálogo lotada, organizando tudo na tela em um formato limpo e fácil de ler com o pressionamento de um botão por meio da opção Organizar automaticamente.
+* **Fluxos de Caixa de Diálogo de Organização Automática para Dynamic Chat**: Melhore sua tela de Caixa de Diálogo lotada organizando tudo na tela em um formato limpo e fácil de ler com o pressionamento de um botão por meio da Organização Automática.
 
 <table> 
   <tr> 
@@ -154,12 +154,12 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tr>
   <tr> 
    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Ícones do Designer de fluxo</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Ícones de Designer de fluxo</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Links de Reunião para Dynamic Chat**: opção para incluir automaticamente um link de Equipes ou Reunião para o Google e Outlook em cada convite de calendário enviado aos visitantes.
+* **Links de Reunião para Dynamic Chat**: opção para incluir automaticamente um link de Equipes ou Reunião para Google e Outlook em cada convite de calendário enviado aos visitantes.
 
 <table> 
   <tr> 
@@ -173,7 +173,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-* **Suporte a tipos de dados adicionais para Dynamic Chat**: três novos tipos de dados (booleano, inteiro, flutuante) permitem que você aproveite mais campos de Marketo Engage existentes no Dynamic Chat para coisas como direcionamento com base em pontuações ou fazer perguntas aos visitantes sim/não.
+* **Suporte para tipos de dados adicionais para o Dynamic Chat**: três novos tipos de dados (booleano, inteiro, flutuante) permitem que você aproveite mais campos de Marketo Engage existentes no Dynamic Chat para coisas como direcionamento com base em pontuações ou fazer perguntas aos visitantes sim/não.
 
 <table> 
   <tr> 
@@ -189,6 +189,6 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 ## Anúncios {#announcements}
 
-* **Forms 1.0**: a desativação do Forms 1.0 será concluída com a versão de outubro. Os ativos do Forms 1.0 não poderão mais enviar dados para o Marketo Engage e retornarão erros se forem tentados.
+* **Forms 1.0**: a descontinuação do Forms 1.0 será concluída com a versão de outubro. Os ativos do Forms 1.0 não poderão mais enviar dados para o Marketo Engage e retornarão erros se forem tentados.
 
-* **Sem Script Forms**: o Forms não funcionará mais quando o Javascript estiver desativado no navegador. O envio do formulário exigirá que o Javascript esteja habilitado.
+* **No-Script Forms**: o Forms não funcionará mais quando o Javascript estiver desabilitado no navegador. O envio do formulário exigirá que o Javascript esteja habilitado.

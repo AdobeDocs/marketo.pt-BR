@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Assim como na guia Results das campanhas inteligentes, você pode ver as mesmas informações nos programas de email.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ Assim como na guia Results das campanhas inteligentes, você pode ver as mesmas 
    >
    >Se o programa de email já tiver sido executado, você será direcionado diretamente ao painel do programa de email.
 
-1. Em **Exibir**, selecione **Painel de controle do Campaign**.
+1. Em **Exibir**, selecione **Painel de Controle**.
 
    ![](assets/controlpanelview.jpg)
 
-1. No **Público** bloco, clique em **Exibir resultados**.
+1. No bloco **Público-alvo**, clique em **Exibir resultados**.
 
    ![](assets/audiencetile.jpg)
 

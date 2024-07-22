@@ -6,7 +6,7 @@ exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Palavras-chave são frases digitadas pelas pessoas nos mecanismos de pesquisa. A
 
 >[!NOTE]
 >
->Se você tiver muitas palavras-chave, você pode [importá-los com um arquivo CSV](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
+>Se você tiver muitas palavras-chave, poderá [importá-las com um arquivo CSV](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. Vá para a **[!UICONTROL Palavras-chave]** seção.
+1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 

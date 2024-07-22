@@ -6,7 +6,7 @@ exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ O Account Insight é um plug-in do Chrome que revela TAM acionável e insights d
 >
 >* O Account Insight está incluído para todos os clientes que têm o TAM e o Marketo Sales Insight. Para clientes que possuem apenas o TAM, o Account Insight está disponível como um complemento adquirido. Cada cliente está limitado a 250 estações do Account Insight. Entre em contato com seu representante de vendas para obter mais detalhes. Ele não está disponível para clientes que não têm TAM.
 >
->* Este plug-in não é compatível com o [Autenticação de identidade Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} neste momento.
+>* Este plug-in não é compatível com a [autenticação de identidade de Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} no momento.
 
 >[!CAUTION]
 >
->O plug-in Insight de conta não funcionará em assinaturas com [Somente SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (logon único) ativado.
+>O plug-in Insight de conta não funcionará em assinaturas com [somente SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (logon único) habilitado.
 
 >[!CAUTION]
 >
@@ -73,7 +73,7 @@ O feed de atividades mostra atividades recentes, que remontam a sete dias.
 
 ![](assets/af1.png)
 
-Clique em **Filtro** para filtrar por tipos de atividades diferentes.
+Clique no menu suspenso **Filtro** para filtrar por tipos de atividades diferentes.
 
 ![](assets/af2.png)
 

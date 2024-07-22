@@ -6,7 +6,7 @@ exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Personalize uma apresentação selecionando uma imagem de fundo.
 >
 >[Criar uma Apresentação](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
-1. Clique com o botão direito em uma apresentação e selecione **[!UICONTROL Exibir configuração]**.
+1. Clique com o botão direito do mouse em uma apresentação e selecione **[!UICONTROL Exibir Instalação]**.
 
    >[!NOTE]
    >
@@ -27,7 +27,7 @@ Personalize uma apresentação selecionando uma imagem de fundo.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Arrastar e soltar **[!UICONTROL Imagem de plano de fundo]** da árvore direita para a tela de desenho.
+1. Arraste e solte **[!UICONTROL Imagem de Plano de Fundo]** da árvore direita na tela.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -35,11 +35,11 @@ Personalize uma apresentação selecionando uma imagem de fundo.
 
    >[!TIP]
    >
-   >Para uma aparência mais limpa, use uma imagem que seja **1920 x 1080** ou **1280 x 720**.
+   >Para aparência mais limpa, use uma imagem com **1920 x 1080** ou **1280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Clique em **[!UICONTROL Visualizar]** para conferir.
+1. Clique em **[!UICONTROL Visualizar]** para fazer check-out.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

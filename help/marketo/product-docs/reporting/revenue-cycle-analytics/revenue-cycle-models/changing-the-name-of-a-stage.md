@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Mudar de ideia? Não é um problema. Renomear um estágio no modelador de ciclo de receita é fácil.
 
-1. Vá para a **Analytics** área.
+1. Vá para a área **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
@@ -31,4 +31,4 @@ Mudar de ideia? Não é um problema. Renomear um estágio no modelador de ciclo 
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Está vendo? Calma! Lembre-se de [Aprovar seu modelo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
+   Está vendo? Calma! Lembre-se de [Aprovar seu Modelo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).

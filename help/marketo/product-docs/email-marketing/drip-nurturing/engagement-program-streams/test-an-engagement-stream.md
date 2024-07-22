@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los um pedaço por vez.
 
-1. Ir para **Atividades de marketing**.
+1. Vá para **Atividades de marketing**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los um pedaç
 
    ![](assets/two.png)
 
-1. Clique em **Ações do programa** e selecione **Testar fluxo**.
+1. Clique em **Ações do Programa** e selecione **Testar Fluxo**.
 
    ![](assets/three.png)
 
-1. Selecione sua pessoa na lista **Pessoa de teste** menu suspenso. Lembre-se, o conteúdo realmente será enviado, portanto, lembre-se disso ao escolher.
+1. Selecione sua pessoa no menu suspenso **Pessoa de Teste**. Lembre-se, o conteúdo realmente será enviado, portanto, lembre-se disso ao escolher.
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +37,12 @@ Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los um pedaç
 
    >[!TIP]
    >
-   >Se a pessoa de teste que você está procurando não existir, use o **Criar pessoa** opção para criar um em tempo real.
+   >Se a pessoa de teste que você está procurando não existir, use a opção **Criar pessoa** para criar uma imediatamente.
 
    Clique em Initial Stream (Fluxo inicial), selecione o fluxo que deseja testar e clique em Run Cast (Executar conversão).
    ![](assets/five-rubiks.png)
 
-1. Depois que a pessoa passa pelo [regras de transição](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que você configurou anteriormente, clique no ícone Atualizar.
+1. Depois que a pessoa passar pelas [regras de transição](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) configuradas anteriormente, clique no ícone Atualizar.
 
    ![](assets/six-rubiks.png)
 

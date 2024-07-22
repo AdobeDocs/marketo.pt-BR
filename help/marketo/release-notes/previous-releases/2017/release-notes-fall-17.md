@@ -39,11 +39,11 @@ Com esse novo recurso, agora é possível reter e entregar emails de acordo com 
 >
 >Se você ainda não conseguir ativar o Fuso horário do destinatário em seus programas de email e engajamento, não entre em pânico! Estamos gradualmente habilitando esse recurso para todos os clientes.
 
-## [Revisar exemplos de emails por segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## [Analisar Emails de Exemplo por Segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 O Marketo tem uma nova opção para escolher um segmento ao enviar emails de amostra para revisão. Não é mais necessário determinar manualmente a qual segmento um lead pertence, facilitando o envio de emails com conteúdo dinâmico para segmentos diferentes.
 
-## [Perguntas personalizadas sobre a geração de líderes da linkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Perguntas Personalizadas da Geração de Clientes Potenciais da LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 Personalize seus formulários do LinkedIn Lead Gen para coletar atributos de lead personalizados. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre uma entrada de texto de linha única ou perguntas de múltipla escolha e mapear de volta aos campos de cliente potencial do Marketo.
 
@@ -62,7 +62,7 @@ O Marketo ABM agora sincroniza e exibe contas do CRM sem contatos. Inclua novas 
 
 ## Análises do ContentAI {#contentai-analytics}
 
-**[Novo Filtro da Lista de Contas ABM](https://docs.marketo.com/x/1BPG)**
+**[Novo Filtro de Lista de Contas ABM](https://docs.marketo.com/x/1BPG)**
 
 Visualize e compare o desempenho do conteúdo nas Listas de contas do ABM para otimizar o conteúdo existente. A IA de conteúdo mostra:
 
@@ -86,7 +86,7 @@ Economize tempo reutilizando ativos criativos e imagens em vários canais no Mar
 
 ## Integração  {#integration}
 
-**[API de visualização de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[API de Visualização de Email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Agora você pode visualizar remotamente emails fora do Marketo, simplificando o processo de localização de conteúdo de email e reduzindo erros.
 

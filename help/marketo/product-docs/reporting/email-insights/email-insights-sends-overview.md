@@ -17,7 +17,7 @@ Na página Envios, examine as características das comunicações recentes por e
 
 ![](assets/one.png)
 
-Uso [filtragem](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) para especificar os emails que deseja ver.
+Use [filtragem](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) para especificar quais emails você deseja ver.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ No lado direito da página há várias informações sobre os emails enviados.
 
 ![](assets/two-1.png)
 
-**Tipo** indica o tipo de ativo usado.
-**Recipient** número é quantas pessoas receberam o email.
-**Métricas de entrega** fornece uma visualização rápida de quantos emails foram entregues, estão pendentes ou foram rejeitados.\
-**Métricas de engajamento** fornece uma visualização rápida de quantos recipients abriram, clicaram e cancelaram a inscrição de um email.
-**Pontuação** é do seu email [Pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Type** indica o tipo de ativo usado.
+O número de **Destinatário** é a quantidade de pessoas que receberam o email.
+**Métricas de Entrega** fornece uma visão rápida de quantos emails foram entregues, estão pendentes ou foram rejeitados.\
+**Métricas de engajamento** oferece uma visão rápida de quantos destinatários abriram, clicaram e cancelaram a assinatura de um email.
+**Pontuação** é a [Pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) do seu email.
 
 Por padrão, seus emails são classificados pelos mais recentes, mas você pode classificá-los por qualquer métrica disponível.
 

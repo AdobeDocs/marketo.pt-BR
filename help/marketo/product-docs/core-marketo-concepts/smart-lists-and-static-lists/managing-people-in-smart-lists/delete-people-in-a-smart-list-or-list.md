@@ -6,7 +6,7 @@ exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
 source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Ir para **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma-1.png)
 
-1. Selecione a lista/lista inteligente que contém todas as pessoas que você deseja excluir e vá para a **[!UICONTROL Pessoas]** guia.
+1. Selecione a lista/lista inteligente que contém todas as pessoas que você deseja excluir e vá para a guia **[!UICONTROL Pessoas]**.
 
    ![](assets/two-1.png)
 
@@ -37,13 +37,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se os resultados se estenderem por várias páginas, clique em **[!UICONTROL Selecionar tudo]** selecionará todas as pessoas em todas as páginas.
+   >Se os resultados se estenderem por várias páginas, ao clicar em **[!UICONTROL Selecionar tudo]**, serão selecionadas todas as pessoas em todas as páginas.
 
 1. Para remover completamente as pessoas do Marketo, clique em **[!UICONTROL Excluir pessoa]**.
 
    ![](assets/four-1.png)
 
-1. Definir **[!UICONTROL Remover do CRM]** para **[!UICONTROL true]** se você quiser excluir os registros do seu CRM também.
+1. Defina **[!UICONTROL Remover do CRM]** como **[!UICONTROL true]** se desejar excluir os registros do seu CRM também.
 
    ![](assets/five.png)
 
@@ -55,16 +55,16 @@ ht-degree: 0%
    >
    >Se sua Marketo não estiver vinculada ao seu CRM, a opção ficará esmaecida, como na captura de tela.
 
-1. Clique em **[!UICONTROL Executar agora]**.
+1. Clique em **[!UICONTROL Executar Agora]**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Se você estiver excluindo mais de 50 pessoas, verá isso. Digite o número de pessoas que você está excluindo, verifique a **[!UICONTROL Não é possível desfazer]** e clique em **[!UICONTROL Excluir]**.
+1. Se você estiver excluindo mais de 50 pessoas, verá isso. Digite o número de pessoas que você está excluindo, marque a caixa **[!UICONTROL Não é possível desfazer]** e clique em **[!UICONTROL Excluir]**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Para exibir os resultados da deleção em massa, clique em **[!UICONTROL Exibir resultados]** na caixa pop-up Ação de fluxo único no canto superior direito da tela. Os tempos de exclusão podem variar bastante, dependendo de vários fatores.
+   >Para exibir os resultados da exclusão em massa, clique em **[!UICONTROL Exibir resultados]** na caixa pop-up Ação de fluxo único no canto superior direito da tela. Os tempos de exclusão podem variar bastante, dependendo de vários fatores.
 
    Este é um excelente recurso. Tenha cuidado ao usá-lo!

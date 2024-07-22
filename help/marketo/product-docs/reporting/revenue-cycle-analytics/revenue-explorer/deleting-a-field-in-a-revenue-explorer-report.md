@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Às vezes, você pode arrastar um campo errado para o relatório. Veja como removê-lo:
 
-1. Arraste o campo que deseja remover para a **lixeira** ícone na parte inferior direita do relatório.
+1. Arraste o campo que você deseja remover para o ícone **lixeira** na parte inferior direita do relatório.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Salvar um relatório do Gerenciador de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Salvando um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

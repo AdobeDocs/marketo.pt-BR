@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->A linkedIn está atualizando as APIs de marketing usadas pelas integrações do Marketo Engage LinkedIn. Essas alterações exigirão a reautenticação de todos os serviços do LinkedIn LaunchPoint em seu **Admin** > **LaunchPoint** entre 7 de junho e 15 de dezembro de 2024, para evitar a interrupção do serviço. Para obter mais informações, consulte [Perguntas frequentes sobre migração](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>A linkedIn está atualizando as APIs de marketing usadas pelas integrações do Marketo Engage LinkedIn. Essas alterações exigirão a reautenticação de todos os serviços do LinkedIn LaunchPoint no menu **Admin** > **LaunchPoint** entre 7 de junho e 15 de dezembro de 2024 para evitar a interrupção do serviço. Para obter mais informações, consulte as [Perguntas frequentes sobre migração](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 Conecte sua conta Marketo Engage com o LinkedIn Matched Audiences para usar uma lista estática do Marketo ou uma Smart List como um segmento de público do LinkedIn.
 
-1. Vá para a **[!UICONTROL Admin]** seção.
+1. Vá para a seção **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Selecionar **[!UICONTROL LaunchPoint]**.
+1. Selecione **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecionar **[!UICONTROL Novo]** e **[!UICONTROL Novo serviço]**.
+1. Selecione **[!UICONTROL Novo]** e **[!UICONTROL Novo serviço]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Insira um **[!UICONTROL Nome de exibição]** e escolha **[!UICONTROL Públicos-alvo correspondentes do linkedIn]**. Clique em **[!UICONTROL Criar]**.
+1. Insira um **[!UICONTROL Nome para exibição]** e escolha **[!UICONTROL Públicos-alvo correspondentes do LinkedIn]**. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -45,7 +45,7 @@ Conecte sua conta Marketo Engage com o LinkedIn Matched Audiences para usar uma 
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie públicos-alvo em várias contas de anúncio do LinkedIn, o usuário do LinkedIn autorizado nas etapas a seguir precisa ter acesso a *all* dessas contas de anúncio no Gerenciador de campanhas.
+   >Para que o Marketo envie públicos-alvo através de várias contas de anúncio do LinkedIn, o usuário do LinkedIn autorizado nas etapas a seguir precisa ter acesso a *todas* dessas contas de anúncio em seu Gerenciador de campanhas.
 
 1. O linkedIn abre em uma nova guia. Aqui, faça logon na sua conta do LinkedIn.
 
@@ -65,4 +65,4 @@ Conecte sua conta Marketo Engage com o LinkedIn Matched Audiences para usar uma 
 
 >[!MORELIKETHIS]
 >
->[Usar uma lista Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+>[Usar uma lista do Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

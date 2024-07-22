@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Marketo Moments {#marketo-moments}
 
-No almoço, mas precisa reagendar um email? O aplicativo Marketo Moments, disponível no App Store ou Google Play, permite ver o desempenho de suas campanhas de email e evento em tempo real, bem como as novidades futuras de seu telefone iPhone, iPad ou Android.
+No almoço, mas precisa reagendar um email? O aplicativo Marketo Moments, disponível na App Store ou no Google Play, oferece a capacidade de ver o desempenho de suas campanhas de email e evento em tempo real, bem como o que está por vir no futuro, em seu celular iPhone, iPad ou Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -48,10 +48,10 @@ Você configurou várias campanhas RTP personalizadas e notou que algumas delas 
 
 ## API da empresa {#company-api}
 
-**Acesso a objeto da empresa por meio da API REST**: A API REST agora fornece acesso ao objeto da Marketo Company (também conhecida como Account). Isso significa que você pode ler, atualizar e excluir objetos da empresa criados no Marketo e associar clientes em potencial a essas empresas usando a API de cliente potencial atualizada.
+**Acesso ao objeto da empresa por meio da REST API**: a REST API agora fornece acesso ao objeto da Marketo Company (também conhecida como Account). Isso significa que você pode ler, atualizar e excluir objetos da empresa criados no Marketo e associar clientes em potencial a essas empresas usando a API de cliente potencial atualizada.
 
-Saiba mais [mais]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) em nosso guia de referência para a API da empresa.
+Saiba [mais]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) em nosso guia de referência para a API da empresa.
 
 ## Acessar a entregabilidade de email {#access-email-deliverability}
 
-**Acessar a ferramenta de entregabilidade de email**: essa nova permissão permite que administradores concedam aos usuários acesso à ferramenta Entregabilidade de email.
+**Acessar Ferramenta de Entrega de Email**: essa nova permissão permite que administradores concedam aos usuários acesso à ferramenta de Entrega de Email.

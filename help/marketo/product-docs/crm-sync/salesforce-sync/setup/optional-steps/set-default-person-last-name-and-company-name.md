@@ -15,15 +15,15 @@ ht-degree: 0%
 
 O Salesforce requer (no mínimo) o sobrenome e o nome da empresa para seus clientes em potencial e contatos. Registros incompletos não serão sincronizados com o Salesforce. Se quiser sincronizar registros parciais, defina valores padrão para o Marketo para usar com o Salesforce.
 
-1. Ir para **[!UICONTROL Admin]** e clique em **[!DNL Salesforce]**.
+1. Vá para **[!UICONTROL Admin]** e clique em **[!DNL Salesforce]**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Clique em **[!UICONTROL Editar Opções de Sincronização]**.
+1. Clique em **[!UICONTROL Editar opções de sincronização]**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Insira um **[!UICONTROL Sobrenome da pessoa padrão]** e uma **[!UICONTROL Empresa pessoal padrão]** e, em seguida, clique em **[!UICONTROL Salvar]**.
+1. Insira um **[!UICONTROL Sobrenome da pessoa padrão]** e uma **[!UICONTROL Empresa da pessoa padrão]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/sync-options-hands.png)
 

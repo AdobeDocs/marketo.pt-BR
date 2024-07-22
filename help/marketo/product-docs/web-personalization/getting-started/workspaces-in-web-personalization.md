@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17727499
-description: Espaços de trabalho na Personalização da Web - Documentação do Marketo - Documentação do produto
-title: Espaços de trabalho na personalização da Web
+description: Espaços de trabalho no Web Personalization - Documentação do Marketo - Documentação do produto
+title: Espaços de trabalho no Web Personalization
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Espaços de trabalho na personalização da Web {#workspaces-in-web-personalization}
+# Espaços de trabalho no Web Personalization {#workspaces-in-web-personalization}
 
-A Personalização da Web é compatível com vários espaços de trabalho para campanhas da Web e segmentos da Web.
+O Web Personalization oferece suporte a vários espaços de trabalho para campanhas da Web e segmentos da Web.
 
 ## Alternar espaços de trabalho {#switch-workspaces}
 
@@ -21,13 +21,13 @@ Para alternar entre espaços de trabalho na personalização da Web, clique no �
 
 ![](assets/ss7.png)
 
-## Alterar o espaço de trabalho de um segmento {#change-a-segments-workspace}
+## Alterar o Workspace de um segmento {#change-a-segments-workspace}
 
-1. Vá para a **Segmentos** selecione um segmento e clique no ícone editar.
+1. Vá para a página **Segmentos**, selecione um segmento e clique no ícone de edição.
 
    ![](assets/ss4.png)
 
-1. Selecione um espaço de trabalho diferente do **Workspace** menu suspenso.
+1. Selecione um espaço de trabalho diferente no menu suspenso **Workspace**.
 
    ![](assets/ss6.png)
 

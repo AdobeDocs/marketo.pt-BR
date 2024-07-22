@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Ativar limites de comunicação](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
+>[Habilitar Limites de Comunicação](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
 Não é uma boa ideia enviar email para alguém várias vezes ao dia, ou muitas vezes em uma semana, certo? Felizmente, o Marketo Engage tem limites de comunicação para ajudar.
 
@@ -23,11 +23,11 @@ Não é uma boa ideia enviar email para alguém várias vezes ao dia, ou muitas 
 >
 >Quando qualquer pessoa excede os limites definidos de comunicação, o Marketo bloqueia emails não operacionais (emails operacionais sempre são enviados).
 
-1. Na Campanha inteligente, clique na guia **[!UICONTROL Agendar]** e depois **[!UICONTROL Editar configurações]**.
+1. Na Campanha inteligente, clique na guia **[!UICONTROL Agendar]** e depois em **[!UICONTROL Editar configurações]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. Verifique a **[!UICONTROL Bloquear emails não operacionais]** e clique em **[!UICONTROL Salvar]**.
+1. Marque a caixa de seleção **[!UICONTROL Bloquear emails não operacionais]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ Não é uma boa ideia enviar email para alguém várias vezes ao dia, ou muitas 
 
 >[!TIP]
 >
->Para tornar isso o padrão, edite o [limites de comunicação](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} na seção Admin.
+>Para tornar isso o padrão, edite seus [limites de comunicação](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} na seção de Administrador.
 
 Agora você pode ter certeza de que não está enviando muitos emails acidentalmente para seu público-alvo.

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Você também pode ajustar como essas mensagens de cancelamento de inscrição aparecem no **Fuso horário e cancelamentos de assinatura** guia em **Configurações**.
+>Você também pode ajustar como essas mensagens de cancelamento de inscrição aparecem na guia **Fuso horário e cancelamentos de inscrição** em **configurações**.

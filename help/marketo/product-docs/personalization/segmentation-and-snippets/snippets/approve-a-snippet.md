@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Um trecho precisa ser aprovado antes do uso.
 
-1. Vá para a **Design Studio**.
+1. Vá para o **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Clique no seu **Trecho**. Em **Ações do trecho**, clique em **Aprovar**.
+1. Clique no seu **trecho**. Em **Ações de trecho**, clique em **Aprovar**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 

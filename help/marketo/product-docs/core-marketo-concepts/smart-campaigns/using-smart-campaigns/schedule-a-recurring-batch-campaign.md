@@ -6,7 +6,7 @@ exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
 source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 A Recorrência permite executar uma Campanha em Lote regularmente. Por exemplo - uma vez por semana, às terças-feiras às 10h.
 
-1. Selecione a Campanha inteligente, vá para a página **[!UICONTROL Agendar]** e clique em **[!UICONTROL Agendar Recorrência]**.
+1. Selecione a Campanha inteligente, vá para a guia **[!UICONTROL Agendar]** e clique em **[!UICONTROL Agendar recorrência]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-1.png)
 
-1. Clique em **[!UICONTROL Agendar]** e selecione **[!UICONTROL Semanalmente]**.
+1. Clique no menu suspenso **[!UICONTROL Agendar]** e selecione **[!UICONTROL Semanalmente]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-2.png)
 
@@ -31,13 +31,13 @@ A Recorrência permite executar uma Campanha em Lote regularmente. Por exemplo -
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. Sair &quot;[!UICONTROL Repetir a cada]&quot; como 1, selecione Terça-feira e clique em **[!UICONTROL Salvar]**.
+1. Deixe &quot;[!UICONTROL Repetir a cada]&quot; como 1, selecione Terça-feira e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 
    >[!NOTE]
    >
-   >Para uma duração de execução específica, você pode clicar no ícone de calendário ao lado de **[!UICONTROL Encerra em]** e escolha a data final.
+   >Para uma duração de execução específica, você pode clicar no ícone de calendário ao lado de **[!UICONTROL Terminar em]** e escolher a data de término.
 
 As recorrências agendadas são exibidas na parte inferior da guia Schedule.
 
@@ -45,4 +45,4 @@ As recorrências agendadas são exibidas na parte inferior da guia Schedule.
 
 >[!NOTE]
 >
->A guia Schedule mostrará as próximas três ocorrências para referência. Clicar no vermelho **X** cancelará essa execução específica.
+>A guia Schedule mostrará as próximas três ocorrências para referência. Clicar no **X** vermelho cancelará essa execução específica.

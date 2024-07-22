@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Melhores opções no Salesforce1 {#best-bets-in-salesforce}
 
-Seu [Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) são seus leads e contatos com a maior urgência e pontuação relativa. Somente os clientes em potencial que você possui estão visíveis nessa lista, e ela é atualizada conforme as pontuações dos clientes em potencial mudam.
+Suas [Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) são seus clientes potenciais e contatos com a maior urgência e pontuação relativa. Somente os clientes em potencial que você possui estão visíveis nessa lista, e ela é atualizada conforme as pontuações dos clientes em potencial mudam.
 
 1. Vá para a área do Marketo no aplicativo Salesforce.
 
@@ -24,4 +24,4 @@ Seu [Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for
 >[!MORELIKETHIS]
 >
 >* [Momentos interessantes no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Enviar emails do Marketo e ações do Campaign e da lista de favoritos no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [Enviar email do Marketo e ações do Campaign e da Lista de favoritos no Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

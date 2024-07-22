@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ A seção email oferece uma visualização rápida de todos os seus emails e sim
  </tr>
  <tr>
   <th rowspan="2">Enviado</th>
-  <td>Entregues</td>
+  <td>Entrega</td>
   <td>Emails que foram entregues ao recipient.</td>
  </tr>
  <tr>
@@ -39,16 +39,16 @@ A seção email oferece uma visualização rápida de todos os seus emails e sim
  </tr>
  <tr>
   <th rowspan="3">Pendente</th>
-  <td>Agendado</td>
+  <td>Programado</td>
   <td>Emails programados para serem enviados no momento. Depois que um email é enviado, ele é movido para a pasta entregue.</td>
  </tr>
  <tr>
   <td>Rascunho</td>
   <td>Emails que foram salvos como rascunho.<br/>
-  <strong>Nota</strong>: somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</td>
+  <strong>Observação</strong>: somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</td>
  </tr>
  <tr>
-  <td>em andamento</td>
+  <td>Em andamento</td>
   <td>Esse é um estado intermediário em que os emails entram quando estão no movimento de envio. Os emails devem estar em andamento por alguns instantes.</td>
  </tr>
  <tr>
@@ -60,12 +60,12 @@ A seção email oferece uma visualização rápida de todos os seus emails e sim
  <tr>
   <td>Devolvido</td>
   <td>Emails que foram rejeitados do servidor de email dos recipients.<br/>
-  <strong>Nota</strong>: isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos servidores MSC como um canal de entrega.</td>
+  <strong>Observação</strong>: isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</td>
  </tr>
  <tr>
   <td>Spam</td>
   <td>Emails que foram marcados manualmente como spam pelo recipient.<br/>
-  <strong>Nota</strong>: isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos servidores MSC como um canal de entrega.</td>
+  <strong>Observação</strong>: isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</td>
  </tr>
 </table>
 

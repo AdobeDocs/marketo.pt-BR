@@ -34,7 +34,7 @@ Adicione uma identidade quando tiver vários endereços de email dos quais envia
 
    ![](assets/add-identity-4.png)
 
-1. Você receberá um email &quot;Verifique o endereço de email&quot;. Para verificar, clique em **Verificar endereço de email**.
+1. Você receberá um email &quot;Verifique o endereço de email&quot;. Para verificar, clique em **Verificar Endereço de Email**.
 
    ![](assets/add-identity-5.png)
 
