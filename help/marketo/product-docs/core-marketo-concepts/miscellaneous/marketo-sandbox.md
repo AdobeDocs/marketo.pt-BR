@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo Sandbox — Documentação do Marketo — Documentação do produto
 title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ Uma sandbox da Marketo não pode ser sincronizada com o seu CRM normal se já es
 
 ## O que você deve saber sobre sandboxes {#things-to-know-about-sandboxes}
 
-* Depois que a equipe de conta do Adobe configurar sua sandbox e enviar o convite, você deverá usar um endereço de email de logon diferente da instância de produção do Marketo.
 * Se quiser adicionar usuários, o processo é o mesmo que [adicionar usuários na produção](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon no Marketo.
 * A sandbox da Marketo começará vazia, mas terá os mesmos recursos disponíveis que a instância de produção.
 * Se você criar um programa em sua sandbox e quiser movê-lo para a produção, poderá executar uma [importação de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
