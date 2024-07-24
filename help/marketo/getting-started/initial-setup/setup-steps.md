@@ -4,9 +4,9 @@ short-description: Apenas começando a usar o Adobe Marketo Engage? Saiba quais 
 title: Etapas de configuração
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1708'
+source-wordcount: '1705'
 ht-degree: 0%
 
 ---
@@ -187,13 +187,13 @@ incluir:mktomail.com
 
 `b.` Para DKIM, crie Registros de Recursos DNS para cada domínio que gostaríamos de configurar. Abaixo estão os Registros do host e Valores TXT para cada domínio que estaremos assinando:
 
-**`[DKIMDomain1]`**: O Registro do Host é **`[HostRecord1]`** e o Valor TXT é **[TXTValue1]**.
+**`[DKIMDomain1]`**: O Registro do Host é **`[HostRecord1]`** e o Valor TXT é **`[TXTValue1]`**.
 
 **`[DKIMDomain2]`**: O Registro do Host é **`[HostRecord2]`** e o Valor TXT é **`[TXTValue2]`**.
 
 `[`Copie o **HostRecord** e o **TXTValue** para cada **DKIMDomain** configurado após seguir as [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Não se esqueça de verificar cada domínio em **Admin > Email > DKIM** depois que sua equipe de TI concluir esta etapa.`]`
 
-`5)` Precisamos garantir que haja um registro MX válido para nossos domínios FROM **[FromDomain1]**, **[FromDomain2]** etc. Você pode confirmar? Caso contrário, configure o para mapear para nosso registro MX de domínio corporativo. Isso garantirá que possamos processar respostas/respostas automáticas para nossas correspondências do Marketo.
+`5)` Precisamos garantir que haja um registro MX válido para nossos domínios FROM **`[FromDomain1]`**, **`[FromDomain2]`**, etc. Você pode confirmar? Caso contrário, configure o para mapear para nosso registro MX de domínio corporativo. Isso garantirá que possamos processar respostas/respostas automáticas para nossas correspondências do Marketo.
 
 Avise-me quando você concluir essas etapas, para que eu possa concluir o processo de configuração com o Marketo.
 

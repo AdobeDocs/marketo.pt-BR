@@ -4,34 +4,47 @@ title: Gerenciamento de Salas
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
 
 # Gerenciamento de Salas {#room-management}
 
-As salas de webinários interativos alimentadas pela Adobe Connect foram projetadas para facilitar eventos online envolventes e colaborativos. Esses webinários armazenam uma quantidade de conteúdo e gravações em salas de webinários criadas por membros autorizados da organização. Como membro com o direito de criar uma sala, você pode acessá-la e gerenciá-la de um local centralizado.
-
-Use as etapas a seguir para gerenciar e acessar as salas ou gravações criadas.
-
-1. Selecione a guia Design Studio na barra de menu superior.
-1. No painel de navegação esquerdo, selecione Modelos de webinários interativos > Gerenciar salas.
-1. Acesse e gerencie Salas ou Gravações na barra de menu superior.
+As salas de webinários interativas alimentadas pela Adobe Connect foram projetadas para facilitar eventos online envolventes e colaborativos. Esses webinários armazenam uma quantidade de conteúdo e gravações em salas de webinários criadas por membros autorizados da organização. Como membro com o direito de criar uma sala, você pode acessá-la e gerenciá-la de um local centralizado.
 
 ## Gerenciar e acessar Salas {#manage-and-access-rooms}
+
+1. Selecione a guia Design Studio na barra de menu superior.
+
+1. No painel de navegação esquerdo, selecione Webinars interativos > Gerenciar salas.
+
+1. Acesse e gerencie Salas ou Gravações na barra de menu superior.
+
+NOVO CABEÇALHO
 
 Uma sala de webinar interativa é um espaço virtual projetado para hospedar eventos online ao vivo, envolvendo os participantes, onde eles podem interagir ativamente com o apresentador e outros participantes. Nessas salas, você pode encontrar o conteúdo carregado e gravações de webinários.
 
 Para exibir a lista de todas as salas, selecione Salas na barra de menu superior. Você pode encontrar todas as salas que criou, juntamente com o conteúdo carregado (vincule aqui onde é explicado como fazer upload do conteúdo) e gravações (vincule aqui onde as gravações são explicadas) nessas salas. Você também pode visualizar o número de gravações, o tamanho do arquivo na sala e a data do último acesso para as respectivas salas.
 
-TABELA
-
-* Gravações: visualize o número de gravações disponíveis em uma sala.
-* Tamanho do arquivo na sala: Visualize o tamanho de arquivo combinado do conteúdo e das gravações disponíveis na sala.
-* Último acesso em: mostra a data em que esta sala foi acessada pela última vez. Você pode classificar as informações com base na linha do tempo.
+<table><tbody>
+  <tr>
+    <td><b>Gravações</td>
+    <td>Veja o número de gravações disponíveis em uma sala.</td>
+  </tr>
+  <tr>
+    <td><b>Tamanho do arquivo na sala</td>
+    <td>Visualize o tamanho de arquivo combinado do conteúdo e das gravações disponíveis em uma sala.</td>
+  </tr>
+  <tr>
+    <td><b>Último acesso em</td>
+    <td>Mostra a data em que a sala foi acessada pela última vez. Você pode classificar as informações com base na linha do tempo.</td>
+  </tr>
+</tbody>
+</table>
 
 CAPTURA DE TELA
 
@@ -94,7 +107,7 @@ Você pode executar as seguintes ações a partir desse hub centralizado:
 
 As gravações são recursos inestimáveis, capturando a essência das discussões, apresentações e sessões de perguntas e respostas ao vivo. Eles permitem que os participantes revisitem os principais insights, detalhes perdidos ou conceitos complexos em seu próprio ritmo.
 
-Depois de selecionar Gravações na barra superior, você será direcionado para Minhas gravações, onde poderá exibir uma lista de todas as gravações carregadas.
+Clique na guia Gravações para ver uma lista de todas as gravações carregadas.
 
 Em Minha gravação, você pode encontrar todas as gravações disponíveis na sala que criou. Você também pode visualizar seu respectivo tamanho, data e hora e duração das gravações.
 
