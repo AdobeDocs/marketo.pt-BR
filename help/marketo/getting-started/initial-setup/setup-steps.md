@@ -1,13 +1,13 @@
 ---
-description: Etapas De Configuração - Documentação Do Marketo - Documentação Do Produto
-short-description: Apenas começando a usar o Adobe Marketo Engage? Saiba quais etapas devem ser concluídas antes de mergulhar no.
+description: Etapas de configuração - Documentos do Marketo - Documentação do produto
+short-description: Começou a usar o Adobe Marketo Engage agora? Saiba quais etapas você precisa concluir antes de se aprofundar nesse recurso.
 title: Etapas de configuração
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
 source-wordcount: '1705'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 description: Glossário do Marketo Engage - Documentação do Marketo - Documentação do produto
-short-description: Conheça os termos de Marketo Engage e suas definições para ajudá-lo a se familiarizar rapidamente.
+short-description: Conheça os termos do Marketo Engage e suas definições para familiarizar-se rapidamente com o recurso.
 title: Glossário do Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '4098'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -244,7 +244,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td colspan="1">Um tipo de programa no Marketo. Um programa genérico que você usará quando um email, evento ou programa de engajamento não for relevante. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Avaliação do delivery</strong></td> 
+   <td colspan="1"><strong>Estratégia e definição</strong></td> 
    <td colspan="1">A capacidade de uma mensagem de email alcançar a caixa de entrada do destinatário pretendido, que pode ser afetada por <strong>spam</strong> e filtros do lado do cliente. Diferente de "Entregue", que indica apenas que o email foi entregue ao servidor do recipient.</td> 
   </tr> 
   <tr> 
@@ -631,7 +631,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td colspan="1">As partições de pessoa atuam como <strong>bancos de dados</strong> separados. Cada partição tem seu próprio pessoal que não remove a duplicação nem combina com outras partições.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Perfil</strong></a></td> 
    <td colspan="1">No <strong>Gerenciamento de conta de destino</strong> da Marketo, as personas são um subconjunto de um público-alvo, permitindo um direcionamento mais específico.</td> 
   </tr> 
   <tr> 
@@ -873,7 +873,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td>Um recurso complementar que fornece uma plataforma de direcionamento e personalização, ajudando os usuários do Marketo a envolver visitantes conhecidos e anônimos em tempo real, com base em quem eles são e o que fazem.</td> 
   </tr>
   <tr> 
-   <td><strong>Webinar</strong></td> 
+   <td><strong>Webinário</strong></td> 
    <td>Um seminário baseado na web. No Marketo, os webinars podem ser conduzidos por vários <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">parceiros de eventos diferentes.</a></strong></td> 
   </tr> 
   <tr> 
