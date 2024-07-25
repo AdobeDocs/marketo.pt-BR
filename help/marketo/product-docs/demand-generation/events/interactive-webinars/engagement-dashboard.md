@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1742'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ Visualize o engajamento para os seguintes tipos de sessões em um webinário int
 
 1. Vá para **[!UICONTROL Atividades de marketing]**.
 
-   CAPTURA DE TELA
+   ![](assets/engagement-dashboard-1.png)
 
 1. Selecione o evento desejado.
 
-   CAPTURA DE TELA
+   ![](assets/engagement-dashboard-2.png)
 
 1. Na Visão Geral, clique em **[!UICONTROL Exibir Painel de Envolvimento]**.
 
-   CAPTURA DE TELA
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ Você pode exibir os seguintes detalhes no painel de engajamento.
 
 Essa interface fornece uma visualização consolidada do desempenho do evento para sessões ativas e sob demanda. No painel esquerdo, selecione Resumo de eventos para visualizar as métricas gerais.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ Fornece uma visão geral do desempenho de um evento na sessão ativa. A visão g
 
 No painel esquerdo, selecione **[!UICONTROL Envolvimento]** para exibir o desempenho da sessão ativa. **[!UICONTROL Clique em Resumo de engajamento (PDF)]** para baixar o resumo de desempenho da sessão em tempo real. A visão geral fornece dados em diferentes seções.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-5.png)
 
 **Métricas principais**
 
 Exiba o número de inscrições, participantes e envolvimento na sessão em tempo real.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ CAPTURA DE TELA
 
 Saiba mais sobre o engajamento médio ao longo do tempo durante a sessão ao vivo pelos gráficos de engajamento. Os hosts podem monitorar como os níveis de engajamento flutuam, permitindo que eles identifiquem momentos críticos de alta ou baixa interação. Veja quanto da pontuação média de engajamento foi obtida pelos participantes engajados em diferentes layouts.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-7.png)
 
 Ao passar o mouse sobre o gráfico, exiba as seguintes informações:
 
@@ -161,7 +161,7 @@ Ao passar o mouse sobre o gráfico, exiba as seguintes informações:
 
 Você pode visualizar as interações dos participantes de diferentes pods. Ele fornece informações como Pesquisas respondidas, Perguntas feitas, Interagir com o chat, Clicou em pelo menos um link e Baixou pelo menos um arquivo.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-8.png)
 
 Selecione **[!UICONTROL Ir para interações]** para exibir as respostas das pesquisas, métricas de QnA e reações dos participantes durante a sessão. Veja como os participantes estão envolvidos em pods de Interações e baixe relatórios de interação da seção abaixo.
 
@@ -171,7 +171,7 @@ Veja como os participantes interagem e se envolvem na sessão em Interações. R
 
 No painel esquerdo, selecione **[!UICONTROL Interações]** para ver como os participantes estão envolvidos em pods.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-9.png)
 
 Selecione a guia **[!UICONTROL Pesquisas]** na barra de menus para exibir perguntas e respostas adicionadas à pesquisa. Essa guia mostra as seguintes informações:
 
@@ -182,7 +182,7 @@ Selecione a guia **[!UICONTROL Pesquisas]** na barra de menus para exibir pergun
 
 Selecione a guia **[!UICONTROL Outras interações]** na barra de menus para exibir o envolvimento em outros pods e baixar seus relatórios.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-10.png)
 
 Selecione **[!UICONTROL Baixar relatórios de interação]** no menu suspenso para baixar relatórios de pods diferentes. Baixe o relatório de QnA, o relatório de Links e arquivos e o relatório de Reações aqui para obter um melhor rastreamento.
 
@@ -192,7 +192,7 @@ As informações de engajamento nos pods estão disponíveis em diferentes seç�
 
 Exiba os seguintes atributos do pod de Perguntas e respostas.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-11.png)
 
 * Total de perguntas feitas.
 * Número de perguntas não respondidas.
@@ -204,7 +204,7 @@ CAPTURA DE TELA
 
 Exibir as reações dos participantes daqui, como concordar, discordar, aplaudir e rir durante a sessão.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-12.png)
 
 No gráfico de reações, visualize os seguintes detalhes:
 
@@ -218,7 +218,7 @@ No gráfico de reações, visualize os seguintes detalhes:
 
 Visualize os links adicionados ao pod de links da Web durante a sessão e o número de cliques no link compartilhado. O pod Weblinks permite adicionar links de fontes fora do webinário para gerar engajamento.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-13.png)
 
 No gráfico, exiba os seguintes detalhes:
 
@@ -231,7 +231,7 @@ No gráfico, exiba os seguintes detalhes:
 
 Visualize os arquivos adicionados ao pod de arquivos durante a sessão e o número de downloads únicos. O pod Arquivos permite adicionar arquivos e fornecer recursos para gerar engajamento.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-14.png)
 
 No gráfico, exiba os seguintes detalhes:
 
@@ -243,7 +243,7 @@ No gráfico, exiba os seguintes detalhes:
 
 No painel esquerdo, selecione **[!UICONTROL Atividade sob demanda]** para exibir o resumo das gravações. Você também pode baixar um relatório para atividade sob demanda.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-15.png)
 
 Em atividades por demanda, visualize as seguintes métricas:
 
@@ -258,7 +258,7 @@ Em atividades por demanda, visualize as seguintes métricas:
 
 No painel esquerdo, selecione **[!UICONTROL Atividade do participante]** para exibir informações consolidadas sobre o nível de envolvimento de cada participante. Exibir como este compromisso é classificado em níveis a partir do nível de envolvimento do Participante. Clique em **[!UICONTROL Relatório de atividades do usuário (CSV)]** para baixar o relatório e melhorar o rastreamento.
 
-CAPTURA DE TELA
+![](assets/engagement-dashboard-16.png)
 
 Exiba os seguintes detalhes da tabela:
 
@@ -277,7 +277,7 @@ Baixe relatórios para diferentes atividades e pods de um hub centralizado como 
 
 1. Selecione **[!UICONTROL Baixar tudo (.zip)]** para baixar relatórios para todas as atividades e pods, tudo de uma vez.
 
-CAPTURA DE TELA
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >

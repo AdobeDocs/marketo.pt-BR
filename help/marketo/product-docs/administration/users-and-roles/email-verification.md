@@ -3,9 +3,9 @@ description: Verificação de email - Documentação do Marketo - Documentação
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Quando um Administrador convida um usuário, ele é automaticamente verificado d
 
 >[!IMPORTANT]
 >
->A exceção ao acima é, _em uma assinatura somente SSO_, Administradores receberão um novo convite de usuário, mas usuários não administradores não receberão. Os usuários que não são administradores ainda devem passar pelo processo de verificação de email para garantir a migração de seus registros. Os usuários podem enviar a si mesmos o link de verificação de email clicando no ícone de Perfil e indo para **Minha Conta** > **Configurações da Conta** e clicando em **Reenviar Verificação**.
+>A exceção ao acima é, _em uma assinatura somente SSO_, Administradores receberão um novo convite de usuário, mas usuários não administradores não receberão. Os usuários que não são administradores ainda devem passar pelo processo de verificação de email para garantir a migração de seus registros. Os usuários podem enviar a si mesmos o link de verificação de email clicando no ícone &quot;Meu Perfil&quot; e navegando até **Minha Conta** > **Configurações da Conta** > **Reenviar Verificação**.
 
 ![](assets/email-verification-1.png)
 
