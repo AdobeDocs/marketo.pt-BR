@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
+source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Para exibir a lista de todas as suas salas, selecione **[!UICONTROL Salas]** na 
 </tbody>
 </table>
 
-CAPTURA DE TELA
+![](assets/room-management-3.png)
 
 Você pode executar as seguintes ações a partir dessa interface centralizada:
 
@@ -82,7 +82,7 @@ A guia Content permite visualizar os arquivos carregados, seu tipo, tamanho, dat
 </tbody>
 </table>
 
-CAPTURA DE TELA
+![](assets/room-management-4.png)
 
 Você pode executar as seguintes ações na guia Content:
 
@@ -96,14 +96,14 @@ Você pode executar as seguintes ações na guia Content:
 
 A guia Gravações permite exibir todas as gravações disponíveis nesta sala. Cada gravação é exibida com detalhes como tamanho, data e hora da gravação e duração.
 
-CAPTURA DE TELA
+![](assets/room-management-5.png)
 
 Você pode executar as seguintes ações a partir desse hub centralizado:
 
 * Clique no botão **[!UICONTROL Iniciar sala]** para iniciar e entrar na sala.
 * Use a barra de pesquisa para localizar a gravação que você está procurando.
 * Clique no ícone Baixar arquivo para baixar um arquivo em seu dispositivo. Selecione dois ou mais arquivos para baixar em massa.
-* Clique no ícone Copiar gravação para copiar o URL de gravação.
+* Clique no ícone Copiar link de gravação para copiar o URL de gravação.
 * Clique no ícone Editar Gravação para fazer alterações na gravação.
 * Clique no ícone Excluir para remover a gravação. Quando uma gravação é excluída, ela não pode ser recuperada.
 * Selecione uma gravação para reproduzi-la no dispositivo.
@@ -112,18 +112,17 @@ Você pode executar as seguintes ações a partir desse hub centralizado:
 
 As gravações são recursos inestimáveis, capturando a essência das discussões, apresentações e sessões de perguntas e respostas ao vivo. Eles permitem que os participantes revisitem os principais insights, detalhes perdidos ou conceitos complexos em seu próprio ritmo.
 
-Clique na guia **Gravações** para ver uma lista de todas as gravações carregadas.
+Clique na guia **[!UICONTROL Gravações]** para ver uma lista de todas as gravações carregadas.
 
-Em Minha gravação, você pode encontrar todas as gravações disponíveis na sala que criou. Você também pode visualizar seu respectivo tamanho, data e hora e duração das gravações.
+Em **[!UICONTROL Minhas gravações]**, você pode encontrar todas as gravações disponíveis na sala que criou. Você também pode visualizar seu respectivo tamanho, data e hora e duração das gravações.
 
-CAPTURA DE TELA
+![](assets/room-management-6.png)
 
 Você pode executar as seguintes ações a partir desse hub centralizado:
 
 * Use a barra de pesquisa para localizar a gravação que você está procurando. Também é possível pesquisar em uma linha do tempo selecionando um Intervalo de datas.
-* Selecione Copiar link de gravação   para copiar o URL de gravação.
-* Editar a gravação. (adicione um link para editar a gravação na palavra &quot;editar&quot;)
-* Selecione Editar Gravação para fazer alterações na gravação. (adicione um link para editar a gravação na palavra &quot;editar&quot;)
-* Selecione Mostrar página vinculada   para exibir as informações sobre a sala onde a gravação selecionada está disponível.
-* Use Excluir sala para remover a gravação. Depois que uma gravação é excluída, ela não pode ser recuperada.
+* Clique no ícone Copiar link de gravação para copiar o URL de gravação.
+* Clique no ícone Editar Gravação para fazer alterações na gravação.
+* Clique no ícone Mostrar página vinculada para exibir as informações sobre a sala na qual a gravação selecionada está disponível.
+* Clique no ícone Excluir para remover a gravação. Quando uma gravação é excluída, ela não pode ser recuperada.
 * Selecione uma gravação para reproduzi-la no dispositivo.
