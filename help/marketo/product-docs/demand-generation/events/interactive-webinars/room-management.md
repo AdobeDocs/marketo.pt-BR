@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # Gerenciamento de Salas {#room-management}
 
-As salas de webinários interativas alimentadas pela Adobe Connect foram projetadas para facilitar eventos online envolventes e colaborativos. Esses webinários armazenam uma quantidade de conteúdo e gravações em salas de webinários criadas por membros autorizados da organização. Como membro com o direito de criar uma sala, você pode acessá-la e gerenciá-la de um local centralizado.
+As salas de webinários interativas alimentadas pela Adobe Connect foram projetadas para facilitar eventos online envolventes e colaborativos. Esses webinários armazenam conteúdo e gravações criadas e usadas durante o webinário. Como membro com o direito de criar salas, você pode acessá-las e gerenciá-las de um local central.
+
+>[!NOTE]
+>
+>Você só pode acessar as salas criadas para um webinário, e não as salas de outros membros da organização.
 
 ## Gerenciar e acessar Salas e Gravações {#manage-and-access-rooms-and-recordings}
 

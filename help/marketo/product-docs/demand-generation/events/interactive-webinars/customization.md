@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,43 @@ Você pode personalizar as seguintes opções:
 * Logotipo
 * Planos de fundo de vídeo virtual
 
+## Conceder permissões {#grant-permissions}
+
+Antes que qualquer usuário em sua organização possa personalizar seus Webinars interativos, um administrador de Marketo Engage deve primeiro adicionar acesso às funções desejadas.
+
+1. No Marketo Engage, clique em **[!UICONTROL Admin]**.
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. Clique em **[!UICONTROL Usuários e funções]** e, em seguida, na guia **[!UICONTROL Funções]**.
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. Clique duas vezes na função à qual você deseja adicionar as permissões.
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. Clique para abrir o **[!UICONTROL Access Design Studio]**.
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. Marque a caixa de seleção **[!UICONTROL Acessar personalização de webinários interativos]**.
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## Personalizar telas interativas do webinário {#customize-interactive-webinar-screens}
 
 1. Vá para o **Design Studio**.
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. Clique em **Webinars Interativos** e selecione **Personalizar Webinars**.
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. É possível personalizar a interface da Sala, as telas Imediatas ou os planos de fundo de vídeo Virtual.
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### Personalizar a interface da sala {#customize-the-room-interface}
 
@@ -47,7 +71,7 @@ Para personalizar a aparência de uma sala, selecione a guia Interface de sala n
 
 1. No painel direito, personalize as seguintes preferências:
 
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **Logotipo personalizado**: selecione Carregar logotipo e procure a imagem de seu dispositivo. O tamanho da imagem não deve exceder 50 x 31 pixels e pode estar em formatos de arquivo diferentes: .svg, .gif, .jpg e .png. É possível alterar ou excluir o logotipo.
 
@@ -65,7 +89,7 @@ Para personalizar a aparência de uma sala, selecione a guia Interface de sala n
 
 1. Selecione **[!UICONTROL Aplicar]** para salvar as alterações. Para redefinir para as configurações padrão, clique em **[!UICONTROL Redefinir para o padrão]**.
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### Personalizar telas intermediárias {#customize-intermediate-screens}
 
@@ -75,7 +99,7 @@ Para personalizar a aparência de uma sala, selecione a guia Telas intermediári
 
 1. No painel direito, personalize a imagem de Plano de fundo selecionando **Carregar imagem** e procure um logotipo na imagem. O tamanho da imagem não deve exceder 1920 x 1080 pixels e pode estar em diferentes formatos de arquivo: .svg, .gif, .jpg e .png. É possível alterar ou excluir o logotipo, se desejado.
 
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -91,7 +115,7 @@ Use os planos de fundo definidos pela organização durante os eventos para exib
 
 1. Clique no botão de alternância para permitir planos de fundo personalizados em seus eventos e salas.
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. Selecione **Carregar plano de fundo** para carregar um plano de fundo personalizado. O tamanho da imagem não deve exceder 1920 x 1080 pixels e pode estar em diferentes formatos de arquivo: .svg, .gif, .jpg e .png.
 
@@ -109,6 +133,6 @@ O Adobe Connect fornece nove planos de fundo padrão prontos para uso. Você pod
 
 Use o botão de alternância para controlar a disponibilidade desses planos de fundo padrão em seus eventos e salas.
 
-![](assets/interactive-webinars-customization-8.png)
+![](assets/interactive-webinars-customization-13.png)
 
 Selecione **Aplicar** para salvar as alterações ou **Redefinir para o padrão** para redefinir para as configurações padrão.
