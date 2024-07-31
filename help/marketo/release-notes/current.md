@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
+source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 6%
+source-wordcount: '523'
+ht-degree: 7%
 
 ---
 
@@ -76,6 +76,16 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 ## Anúncios {#announcements}
 
 * **Novo site de documentação do desenvolvedor**: como parte de nosso esforço contínuo para aprimorar a experiência do usuário do Marketo Engage, migraremos toda a documentação do desenvolvedor para o site da Adobe Experience League e do Adobe Developer em julho de 2024. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **Desativação de recursos sociais**: na quarta-feira, 31 de julho de 2024, o Marketo Engage iniciará a desativação dos seguintes recursos sociais no produto:
+
+   * Pesquisas
+   * Botão social
+   * Oferta da recomendação
+   * Compartilhamento de vídeo
+   * Sorteios
+
+Os usuários não poderão mais criar, clonar ou incorporar esses recursos do Social no Marketo Engage. Os ativos sociais existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Descontinuação do Token de Acesso no Parâmetro de Consulta**: o suporte para autenticação usando tokens de acesso em um parâmetro de consulta de uma chamada à API REST do Marketo Engage será removido em uma versão futura (data específica a ser definida). As integrações existentes devem migrar para o uso do cabeçalho de Autorização [descrito aqui](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. O novo desenvolvimento deve usar somente o cabeçalho de autorização para autenticação com Marketo Engage.
 
