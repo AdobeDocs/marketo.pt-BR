@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 7%
+source-wordcount: '521'
+ht-degree: 6%
 
 ---
 
@@ -33,8 +33,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr> 
    <td><strong>Painel de Envolvimento para Webinars interativos</strong>: obtenha uma exibição de desempenho de webinário agregado, bem como uma exibição abrangente do engajamento para cada participante durante o webinário, para que você possa decidir quais leads devem ser direcionados por meio das ferramentas de orquestração de Marketo Engage.</td> 
-    <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+    <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Painel de engajamento</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr> 
    <td><strong>Gerenciamento de Salas para Webinars Interativos</strong>: acesse salas individuais criadas (e faça modificações, se necessário), bem como acesse o conteúdo e a gravação (e limpe-as, se necessário, para otimizar o armazenamento).</td> 
-    <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+    <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gerenciamento de Salas</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr> 
    <td><strong>Personalização de webinários para webinários interativos</strong>: forneça uma experiência de marca uniforme e aprovada pela organização usando uma interface de sala comum, telas intermediárias (como telas de fundo de entrada de participantes), bem como telas de fundo de vídeo personalizadas, para que a estratégia do webinário possa se alinhar mais facilmente à estratégia da marca.</td> 
-    <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+    <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Personalização de webinários interativos</a></td>
   </tr>
   <tr> 
    <td> </td> 

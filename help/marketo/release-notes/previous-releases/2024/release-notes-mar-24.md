@@ -1,12 +1,12 @@
 ---
 description: Notas de versão - março de 2024 - Documentação do Marketo - Documentação do produto
-title: Notas de versão - março de 2024
+title: Notas de versão - Março de 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 2%
+source-wordcount: '350'
+ht-degree: 4%
 
 ---
 
@@ -53,8 +53,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
     <tr> 
    <td><strong>Metadados de atividade de API</strong>: 
    Metadados como Agente do usuário, Plataforma e Dispositivo agora são incluídos em atividades da Web e de email, ajudando a fornecer insights consistentes sobre essas atividades por meio da API REST do Marketo.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
  </tbody> 
 </table>
