@@ -4,9 +4,9 @@ description: Pesquisa do Publish a - Documentação do Marketo - Documentação 
 title: Publish a Poll
 exl-id: 5c603b84-5cd7-4604-9301-e6f277af8dc0
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Depois de [criar uma enquete](/help/marketo/product-docs/demand-generation/socia
 
 >[!IMPORTANT]
 >
->Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Não é mais possível criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Navegue até a página de aterrissagem e abra-a para edição.
 

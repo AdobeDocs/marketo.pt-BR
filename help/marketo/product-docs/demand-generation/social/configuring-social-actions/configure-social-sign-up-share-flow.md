@@ -4,9 +4,9 @@ description: Configurar Fluxo De Inscrição/Compartilhamento Social - Documenta
 title: Configurar O Fluxo De Inscrição/Compartilhamento Social
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ao criar um aplicativo social, você pode configurar as opções de rede social 
 
 >[!IMPORTANT]
 >
->Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Não é mais possível criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Selecionar redes para compartilhamento {#select-networks-for-sharing}
 
@@ -51,7 +51,7 @@ Ao criar um aplicativo social, você pode configurar as opções de rede social 
    >
    >Em um compartilhamento de vídeo, a miniatura é gerada automaticamente.
 
-   If you choose **Add Dynamic content**, the values of the page&#39;s **OpenGraph** tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. Consulte a próxima etapa.
+   Se você escolher **Adicionar conteúdo dinâmico**, os valores das marcas **OpenGraph** da página (og:title, og:caption e og:description) e a miniatura serão adicionados automaticamente às postagens do Facebook. Consulte a próxima etapa.
 
    Se você escolher **Adicionar conteúdo estático**, insira o título, a legenda, a descrição e carregue uma imagem. Consulte as próximas duas etapas.
 
@@ -79,7 +79,7 @@ Ao criar um aplicativo social, você pode configurar as opções de rede social 
 
 1. Clique em **Avançar**.
 
-If you choose the values of the page&#39;s tags (og:title, og:caption, and og:description) and the thumbnail are automatically added to Facebook posts. Consulte a próxima etapa.
+Se você escolher os valores das tags da página (og:title, og:caption e og:description) e a miniatura será adicionada automaticamente às publicações do Facebook. Consulte a próxima etapa.
 
 ## Configurar a mensagem de Twitter {#configure-the-twitter-message}
 
