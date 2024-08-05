@@ -4,16 +4,20 @@ description: Adicionar um botão do Social em uma página de aterrissagem - Docu
 title: Adicionar um botão do Social em uma página de aterrissagem
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
 # Adicionar um botão do Social em uma página de aterrissagem {#add-a-social-button-on-a-landing-page}
 
 Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amigos. Solte-o nas landing pages, no Facebook e no seu site.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

@@ -1,23 +1,27 @@
 ---
 unique-page-id: 10098812
-description: Configurar atribuição de receita para campanhas do Digital Advertising - Documentação do Marketo - Documentação do produto
-title: Configurar atribuição de receita para campanhas do Digital Advertising
+description: Configurar atribuição de receita para campanhas de publicidade digital – documentos do Marketo – Documentação do produto
+title: Configurar atribuição de receita para campanhas de publicidade digital
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
 
-# Configurar atribuição de receita para campanhas do Digital Advertising {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Configurar atribuição de receita para campanhas de publicidade digital {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
-Veja como configurar a atribuição de receita para campanhas e canais de publicidade digitais. Depois de configurá-lo, você pode fazer a atribuição de receita de primeiro e de multitoque para anúncios digitais da mesma forma que em outros programas da Marketo.
+Veja como configurar a atribuição de receita para campanhas e canais de publicidade digitais. Depois de configurá-lo, você pode fazer receita atribuição de primeiro e multi toque para anúncios digitais da mesma forma que em outros programas da Marketo.
 
-Depois de configurar seu primeiro programa de publicidade no Marketo, você pode cloná-lo e atualizá-lo para outros canais. Por exemplo, clone um programa LinkedIn em um Facebook.
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, começamos o processo de descontinuação desse recurso. Você não poderá criar novas ativos. A ativos continuará a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-Com programas separados, você pode rastrear o número de conversões de cada um e ver seus programas no Analisador de programas, no Analisador de influência de oportunidades e em outros recursos do Marketo Analytics.
+Depois de configurar seu primeiro publicidade programa no Marketo, você pode clonar e atualizá-lo para outros canais. Por exemplo, clonar um programa do LinkedIn em um site do Facebook.
+
+Com programas separados, você pode faixa o número de conversões de cada um e ver seus programas no Analisador de Programas, Analisador de Influência de Oportunidades e outros recursos do Marketo Analytics.
 
 >[!PREREQUISITES]
 >
@@ -49,25 +53,25 @@ Ao contrário de alguns programas (como email) que podem ser executados periodic
    >
    >**Exemplo**
    >
-   >Uma sequência de consulta transmitida pelo URL ajuda a Marketo a saber em qual campanha de publicidade alguém clicou quando se tornou uma pessoa no Marketo.
+   >Um sequência de consulta passado pela URL ajuda a Marketo a saber quais campanha publicitária alguém clicou quando se tornou uma pessoa no Marketo.
    >
-   >Você pode criar uma metodologia de sequência de consulta que inclua todas as variáveis que deseja medir. O Marketo usa essas variáveis para adicionar pessoas aos seus diferentes programas.
+   >É possível criar uma sequência de consulta metodologia que inclua todas as variáveis que deseja medir. A Marketo usa essas variáveis para adicionar pessoas aos seus diferentes programas.
    >
-   >Por exemplo, você pode usar Canal type_Channel_Asset_Region. Pode ser semelhante a: SP_FB_NewGuide_US. **Observação**: abreviações economizam espaço.
+   >Por exemplo, você pode usar a type_Channel__Asset__Region de Canal. Pode ser semelhante a: SP_FB_NewGuide_US. **Observação**: abreviações economizam espaço.
    >
-   >Ou configure-o como Channel_Adsource_AssetName_Region_UniqueIdNumber. Pode ser semelhante a: Social-Paid_Facebook_NewGuide_NA_123.
+   >Ou configure-o como Channel_Adsource_AssetName_Region_UniqueIdNumber. Isso pode parecer curtir: Paid_Facebook_NewGuide_NA_123 com Social.
 
-## Criar uma campanha inteligente para novos nomes {#create-a-smart-campaign-for-new-names}
+## Criar uma Campaign inteligente para nomes de Novo {#create-a-smart-campaign-for-new-names}
 
-1. Na campanha inteligente, crie uma lista inteligente que contenha dois acionadores e dois filtros, conforme mostrado.
+1. Na campanha inteligente, crie uma lista inteligente que contenha dois acionadores e dois filtros, como mostrado.
 
    ![](assets/image2016-3-23-13-3a59-3a24.png)
 
    >[!NOTE]
    >
-   >A cadeia de caracteres de consulta usada nos dois disparadores e no filtro **Nome do Programa que Capturou** é exclusiva para você. As cadeias de caracteres de consulta mostradas aqui são somente para fins de exemplo. Se você clonou o campo, basta substituir esses campos.
+   >O sequência de consulta usado nos dois acionadores e o **filtro Programa que Capturou Nome** é exclusivo para você. As sequências de caracteres do query mostradas aqui são, por exemplo, apenas. Se você clonou o campo, basta substituir esses campos.
 
-1. Crie uma etapa de fluxo para alterar o atributo para **Programa de aquisição** e defina o Novo valor para o valor definido para campanhas sociais pagas.
+1. Criar uma etapa de fluxo para alterar o atributo para **o Programa** de aquisição e definir o Novo Valor para o valor que você definiu para o campanhas sociais pago.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
@@ -96,9 +100,9 @@ Você precisa de uma segunda campanha inteligente para alterar o status das pess
 Depois de configurar o programa e as campanhas, crie o novo anúncio.
 
 1. Vá para o canal; por exemplo, LinkedIn ou Facebook.
-1. Crie um novo anúncio.
-1. Selecione uma landing page do Marketo como destino da Chamada para ação na campanha.
-1. Adicione a cadeia de caracteres de consulta ao URL.
+1. Criar um novo publicidade.
+1. Selecione um landing page do Marketo como destino da Frase de chamariz no campanha.
+1. Adicione a sequência de consulta ao URL.
 
    >[!NOTE]
    >
@@ -108,7 +112,7 @@ Depois de configurar o programa e as campanhas, crie o novo anúncio.
    >
    >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >* **origem** é a Pessoa Source usada como um identificador de canal
+   >* **source** é a Pessoa Origem usada como um identificador canal
    >* **comentário** é o identificador exclusivo criado para cada programa
    >* **camp** é a campanha no Facebook, LinkedIn ou Google
    >* **kk** é a palavra-chave ou o nome do ativo que você deseja capturar

@@ -4,16 +4,20 @@ description: Adicionar sua política de privacidade a um aplicativo social - Doc
 title: Adicionar sua política de privacidade a um aplicativo social
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 1%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
 # Adicionar sua política de privacidade a um aplicativo social {#add-your-privacy-policy-to-a-social-app}
 
 Ao criar um aplicativo social, você pode adicionar um link para a política de privacidade da sua empresa.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vá para **Atividades de marketing**.
 

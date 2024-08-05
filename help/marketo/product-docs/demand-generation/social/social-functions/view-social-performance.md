@@ -4,9 +4,9 @@ description: Exibir desempenho social - Documentação do Marketo - Documentaç�
 title: Exibir desempenho social
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Exibir desempenho social {#view-social-performance}
 
 Veja as atividades sociais geradas pelos seus aplicativos sociais. O Painel social fornece informações sobre as várias interações sociais geradas pelos seus aplicativos sociais e permite rastrear o desempenho de um aplicativo social.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

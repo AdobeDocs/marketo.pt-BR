@@ -4,16 +4,20 @@ description: Acionadores e filtros para atividades sociais - Documentação do M
 title: Acionadores e filtros para atividades sociais
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 23%
+source-wordcount: '193'
+ht-degree: 21%
 
 ---
 
 # Acionadores e filtros para atividades sociais {#triggers-and-filters-for-social-activities}
 
 Os aplicativos sociais no Marketo têm seus próprios acionadores e filtros especiais.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

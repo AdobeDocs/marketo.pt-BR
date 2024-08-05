@@ -4,16 +4,20 @@ description: Oferta de indicação do Publish - Documentação do Marketo - Docu
 title: Publish uma oferta de referência
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 
 # Publish uma oferta de referência {#publish-a-referral-offer}
 
-Depois de [criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você poderá publicá-la nas páginas de aterrissagem do Marketo, no Facebook e no seu site.
+Depois de [criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você poderá publicá-la nas suas Páginas de Aterrissagem do Marketo, no Facebook e no seu site.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Navegue até a página de aterrissagem e abra-a para edição.
 
@@ -31,7 +35,7 @@ Depois de [criar uma oferta de referência](/help/marketo/product-docs/demand-ge
 >
 >É necessário aprovar sua oferta de referência para disponibilizá-la aqui.
 
-Parabéns! Aprove a landing page e sua oferta de referência será ativada. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar a oferta em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Parabéns! Aprove a landing page e sua oferta de referência será ativada. Você também pode [publicar a Página de Aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar a oferta em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

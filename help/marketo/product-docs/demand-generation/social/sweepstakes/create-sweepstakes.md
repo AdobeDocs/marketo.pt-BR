@@ -3,16 +3,20 @@ unique-page-id: 2359795
 description: Criar Sweepstakes - Documentação do Marketo - Documentação do produto
 title: Criar sorteios
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 1%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
 # Criar sorteios {#create-sweepstakes}
 
 Um sorteio dá às pessoas a chance de ganhar um prêmio em troca de contar aos amigos sobre você. Você pode soltá-lo em landing pages, em seu site e até mesmo no Facebook.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

@@ -4,9 +4,9 @@ description: Gerenciar dados do perfil social - Documentação do Marketo - Docu
 title: Gerenciar dados do perfil social
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '339'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 5%
 # Gerenciar dados do perfil social {#manage-social-profile-data}
 
 Quando alguém interage com um [aplicativo social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) do Marketo ou autoriza sua rede social a preencher previamente um formulário do Marketo com o [preenchimento de formulário social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), o Marketo captura todos os dados disponíveis em seu perfil social. Você pode exibir essas informações na [página Detalhes da Pessoa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) ou adicioná-las como uma coluna em uma [exibição personalizada de uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 O preenchimento de formulário social e os aplicativos sociais capturam conjuntos de campos ligeiramente diferentes; consulte a seção para cada um abaixo.
 

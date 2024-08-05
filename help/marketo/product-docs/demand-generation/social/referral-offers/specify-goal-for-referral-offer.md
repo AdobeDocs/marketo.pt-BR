@@ -4,9 +4,9 @@ description: Especificar meta para oferta de referência - Documentação do Mar
 title: Especificar Meta para Oferta de Referência
 exl-id: 9869eb66-53df-4ea8-903f-e6650add8da2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,11 @@ ht-degree: 0%
 
 Quando você [cria uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), é necessário definir a meta de preenchimento. A meta pode ser definida por atividade de pessoa na página da Web, como visitas de página ou inscrições. Você pode até mesmo usar um [evento personalizado do JavaScript](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md).
 
-Como alternativa, você pode usar um acionador de lista inteligente no Marketo para aguardar qualquer marco, como uma oportunidade que está sendo criada para a pessoa indicada.
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
+Como alternativa, você pode usar um acionador de lista inteligente no Marketo Engage para aguardar qualquer marco, como uma oportunidade que está sendo criada para a pessoa indicada.
 
 Exemplo de metas:
 

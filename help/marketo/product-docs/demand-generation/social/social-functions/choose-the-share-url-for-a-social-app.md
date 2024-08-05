@@ -4,16 +4,20 @@ description: Escolha o URL de compartilhamento para um aplicativo social - Docum
 title: Escolha o URL de compartilhamento para um aplicativo social
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 1%
 
 ---
 
 # Escolha o URL de compartilhamento para um aplicativo social {#choose-the-share-url-for-a-social-app}
 
 Ao criar um aplicativo social, você pode escolher qual URL será compartilhado nas publicações dos participantes.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vá para **Atividades de marketing**.
 

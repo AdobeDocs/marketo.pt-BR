@@ -4,16 +4,20 @@ description: Habilitar o preenchimento de formulário social em um formulário (
 title: Habilitar Preenchimento de formulário social em um formulário (Social)
 exl-id: 675d0499-b127-40fa-84ef-1c6ecfae8e2e
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 1%
+source-wordcount: '153'
+ht-degree: 3%
 
 ---
 
 # Habilitar Preenchimento de formulário social em um formulário (Social) {#enable-social-form-fill-on-a-form-social}
 
 Permita que os visitantes preencham o formulário usando a rede social. Você obtém automaticamente dados extras e eles obtêm uma experiência mais rápida. Veja como.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

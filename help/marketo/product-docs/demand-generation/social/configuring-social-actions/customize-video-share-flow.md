@@ -4,16 +4,20 @@ description: Personalizar fluxo de compartilhamento de vídeo - Documentação d
 title: Personalizar fluxo de compartilhamento de vídeo
 exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 1%
 
 ---
 
 # Personalizar fluxo de compartilhamento de vídeo {#customize-video-share-flow}
 
 Ao [criar um compartilhamento de vídeo](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), você pode personalizar quando e onde o prompt de compartilhamento será exibido.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vá para **Atividades de marketing**.
 

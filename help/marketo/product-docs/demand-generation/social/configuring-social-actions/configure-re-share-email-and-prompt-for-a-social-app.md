@@ -4,9 +4,9 @@ description: Configure o e-mail de re-compartilhamento e o prompt para um aplica
 title: Configurar o e-mail de recompartilhamento e o prompt para um aplicativo social
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Configurar o e-mail de recompartilhamento e o prompt para um aplicativo social {#configure-re-share-email-and-prompt-for-a-social-app}
 
 Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou um [sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode convidar participantes para compartilhar sua oferta com mais amigos como parte do processo de inscrição, bem como fornecer texto padrão para o email de compartilhamento.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Configurar o fluxo de progresso de rastreamento para uma oferta de 
 title: Configurar o fluxo de progresso da trilha para uma oferta de referência
 exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Configurar o fluxo de progresso da trilha para uma oferta de referência {#configure-track-progress-flow-for-a-referral-offer}
 
 Ao [criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você pode configurar os prompts que mostram aos participantes o progresso em direção à recompensa.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vá para **Atividades de marketing**.
 

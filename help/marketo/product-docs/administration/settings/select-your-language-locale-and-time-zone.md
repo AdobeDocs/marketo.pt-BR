@@ -4,10 +4,10 @@ description: Selecione o idioma, a localidade e o fuso horário - Documentação
 title: Selecione seu idioma, localidade e fuso horário
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
 
 >[!IMPORTANT]
 >
->Este artigo é somente para aqueles que _não_ usam [Marketo com Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Se você fizer isso, as configurações descritas abaixo poderão ser acessadas em seu [perfil de conta do Adobe](https://account.adobe.com/profile).
+>Este artigo é somente para aqueles que _não_ usam [Marketo com Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Se você fizer isso, as configurações descritas abaixo poderão ser acessadas em seu [perfil de conta do Adobe](https://account.adobe.com/profile){target="_blank"}.
 
 ## Idiomas suportados {#supported-languages}
 

@@ -3,16 +3,20 @@ unique-page-id: 2359799
 description: Sweepstakes do Publish a - Documentação do Marketo - Documentação do produto
 title: Sweepstakes do Publish a
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
 # Sweepstakes do Publish a {#publish-a-sweepstakes}
 
 Depois de [criar um sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você poderá publicá-lo nas páginas de aterrissagem do Marketo, em seu site e em seu Facebook.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

@@ -4,16 +4,20 @@ description: Use códigos promocionais para preenchimento de ofertas - Documenta
 title: Usar códigos promocionais para preenchimento de ofertas
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
 # Usar códigos promocionais para preenchimento de ofertas {#use-promo-codes-for-offer-fulfillment}
 
 Ao criar uma oferta de indicação ou um sorteio, você pode enviar um código promocional (cupom) para cada vencedor. Para resgatar a recompensa, eles usam o código, por exemplo, na página de check-out de uma compra no seu site.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Fazer upload de códigos promocionais {#upload-promo-codes}
 

@@ -4,9 +4,9 @@ description: Usar emails em promoções sociais - Documentação do Marketo - Do
 title: Usar emails em promoções sociais
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Usar emails em promoções sociais {#use-emails-in-social-promotions}
 
 Ao criar uma [oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) ou um [sorteio](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), você pode incluir emails a serem enviados quando a pessoa se inscrever e novamente quando ela tiver ganho a recompensa.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!TIP]
 >

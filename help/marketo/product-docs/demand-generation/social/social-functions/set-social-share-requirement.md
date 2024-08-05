@@ -4,16 +4,20 @@ description: Definir Requisito De Compartilhamento Social - Documentação Do Ma
 title: Definir Requisito de Compartilhamento Social
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 
 ---
 
 # Definir Requisito de Compartilhamento Social {#set-social-share-requirement}
 
 Ao [criar uma oferta de referência](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), você pode exigir que as pessoas compartilhem a oferta para se inscrever ou torná-la opcional.
+
+>[!IMPORTANT]
+>
+>Em 31 de julho de 2024, iniciamos o processo de desativação desse recurso. Você não poderá criar novos ativos. Os ativos existentes continuarão a funcionar até 31 de janeiro de 2025. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vá para **Atividades de marketing**.
 
