@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
-ht-degree: 3%
+source-wordcount: '9348'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
    + Instalação inicial {#initial-setup}
       + [Etapas de configuração](getting-started/initial-setup/setup-steps.md)
       + [Configurar Protocolos](getting-started/initial-setup/configure-protocols-for-marketo.md)
-      + [Configuração de usuário](getting-started/initial-setup/user-setup.md)
+      + [Configuração do usuário](getting-started/initial-setup/user-setup.md)
    + Implementando uma Nova Instância de Marketo Engage {#implementing-a-new-marketo-engage-instance}
       + [Onde começar](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Novas Práticas Recomendadas Da Instância: Lista De Verificação Da Seção Admin](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
@@ -219,7 +219,7 @@ ht-degree: 3%
          + [Definir Configurações Padrão de Local para uma Assinatura](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Noções básicas sobre configurações de privacidade](product-docs/administration/settings/understanding-privacy-settings.md)
          + [Uso de uma Universal ID para logon de assinatura](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
-      + Marcas {#tags}
+      + Tags {#tags}
          + [Criar uma nova tag de programa e valores de tag](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Criar um canal de programa](product-docs/administration/tags/create-a-program-channel.md)
          + [Criar tags personalizadas](product-docs/administration/tags/create-custom-tags.md)
@@ -726,6 +726,7 @@ ht-degree: 3%
             + [Criar um webinário interativo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Adicionar uma equipe ao webinário](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Criação de webinários interativos](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Fornecer um webinário interativo](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Modelos](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Personalização](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [Gerenciamento de Salas](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1653,7 +1654,7 @@ ht-degree: 3%
          + [Utilização das opções de SMS em uma campanha inteligente](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [Relatórios de SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [Glossário de SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalization {#personalization}
+   + Personalização {#personalization}
       + Segmentação e trechos {#segmentation-and-snippets}
          + Segmentação {#segmentation}
             + [Aprovar uma segmentação](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1702,7 +1703,7 @@ ht-degree: 3%
          + [Editar conteúdo preditivo para emails](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Editar conteúdo preditivo para mídia avançada](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Editar Conteúdo Preditivo para a Barra de Recomendação](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Relatório {#reporting}
+   + Relatórios {#reporting}
       + [Visão geral dos relatórios](product-docs/reporting/reporting-overview.md)
       + Relatório Básico {#basic-reporting}
          + Criando Relatórios {#creating-reports}
@@ -1742,7 +1743,7 @@ ht-degree: 3%
             + [Proteger a Configuração de Administrador de Assinatura](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
             + [Assinar um relatório básico](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Inscrever-se em uma lista inteligente](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
-         + Tipos de Relatório {#report-types}
+         + Tipos de relatórios {#report-types}
             + [Relatório de atividades de campanha](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Relatório de desempenho de email da campanha](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Relatório de atividades da empresa na Web](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
@@ -1814,7 +1815,7 @@ ht-degree: 3%
             + [Noções básicas sobre modelos de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
             + [Uso dos Estágios de Portão do Modelo de Receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Usando Estágios de Inventário de Modelo de Receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [Uso dos estágios de SLA do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [Estágios do SLA do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Uso de transições do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [Uso do Analisador de caminho de sucesso](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Gerenciador de Receita {#revenue-explorer}
@@ -1856,7 +1857,7 @@ ht-degree: 3%
          + [Configurar insight da conta](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Visão geral do plug-in Insight da conta](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Convidar usuários a acessar o Account Insight](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Destino {#target}
+      + Target {#target}
          + Contas Nomeadas {#named-accounts}
             + [Visão Geral da Conta Nomeada](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Importar contas nomeadas](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
