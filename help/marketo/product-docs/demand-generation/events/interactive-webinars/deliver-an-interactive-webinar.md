@@ -2,7 +2,7 @@
 description: Fornecer um webinário interativo - Documentação do Marketo - Documentação do produto
 title: Fornecer um webinário interativo
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ Seu webinário interativo está pronto para começar. Saiba tudo o que precisa s
 
 1. Se você for um coanfitrião ou um apresentador, clique no link personalizado no email recebido para o webinário.
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. Selecione suas preferências de áudio/vídeo e clique em **Entrar na sala**.
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. Selecione o layout a ser mostrado para os primeiros ingressos.
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ Seu webinário interativo está pronto para começar. Saiba tudo o que precisa s
 
 1. Você pode gravar a sessão, se necessário. Selecione **Gravar sessão** no menu sala. A gravação pode ser interrompida posteriormente no mesmo menu.
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. Sua sessão começa no horário designado.
 
 1. Clique no nome da sala. Na lista suspensa, selecione **Área de apresentação e apresentador** para conversar ou compartilhar anotações com a equipe de apresentação nos bastidores. A área de host e apresentador é aberta no lado direito da tela. Somente hosts/co-hosts e apresentadores podem ver essa parte da tela.
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. Quando a sessão estiver concluída, clique no ícone de seta vermelha e selecione **Encerrar sessão para todos**.
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ Os participantes podem participar do webinário clicando no link personalizado r
 
 1. Os participantes que iniciarem o link do evento mais de 15 minutos antes do início agendado verão uma landing page informando que devem aguardar o início do evento.
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. Os participantes precisam selecionar suas preferências de áudio e clicar em Entrar na sala. Os participantes que ingressarem em uma sala do Adobe Connect pela primeira vez também verão um pop-up do navegador para obter permissão de microfone. O Adobe Connect precisa desse acesso para que os participantes possam usar o microfone posteriormente na sala.
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ As discussões dentro dos pods de Chat são sempre gravadas. Portanto, se as dis
 
 A discussão no Painel de bate-papo não é gravada. O Painel de Bate-papo também libera o espaço que teria sido ocupado pelo pod de bate-papo dentro do layout. Portanto, se as discussões de bate-papo não adicionarem valor à gravação de espectadores, use o Painel de Bate-papo em vez de pods de bate-papo ao projetar a sala.
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 Saiba mais sobre o [Painel de Chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
@@ -115,7 +113,7 @@ Para usar o Modo de preparação:
 
 1. Clique no ícone da chave inglesa na parte inferior do Painel de layouts.
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. No painel Layouts, escolha o layout que deseja ajustar. Mova, oculte ou exiba pods conforme necessário. Você também pode atualizar o conteúdo em pods como carregar uma nova versão da apresentação em um pod de compartilhamento.
 
