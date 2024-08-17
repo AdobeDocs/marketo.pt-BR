@@ -3,9 +3,9 @@ description: Noções básicas sobre a assinatura do Marketo e a migração de u
 title: Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Como parte da migração, sua assinatura e o gerenciamento de usuários passarã
 
 * **Usuários entrarão com a Identidade Adobe**. O Adobe migrará os usuários existentes para o Adobe Admin Console. Os usuários farão logon nas assinaturas do Marketo usando sua nova Identidade de Adobe - seja um Adobe ID ou Adobe Federated ID (SSO).
 
-* **As URLs serão diferentes após a migração**. No entanto, os números de ID dos seus ativos permanecem inalterados. Além disso, os marcadores salvos anteriormente ainda deverão levá-lo ao local correto. Converse com sua equipe de TI e certifique-se de que ela adicione o domínio abaixo (incluindo o asterisco) para permitir todos os recursos de Marketo Engage e websockets:
+* **As URLs serão diferentes após a migração**. Após a migração, o Marketo Engage deixará de ser distribuído do experience.adobe.com para o Adobe Experience Cloud. Incluir na lista de permissões Você precisará trabalhar com sua equipe de TI para classificar todos os domínios de Adobe [na parte superior deste artigo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage.
 
-_*.experience.adobe.com_
+Os números de ID dos seus ativos permanecem inalterados. E os links e marcadores anteriores para ativos Marketo Engage no domínio engage-xx.marketo.com _continuarão a funcionar._ No entanto, primeiro você deve fazer logon na instância do Marketo Engage para o URL para o qual está navegando. Por exemplo, para navegar até um marcador de uma Campanha inteligente em uma instância com a ID do Munchkin 123-ABC-456, é necessário primeiro fazer logon na instância do Marketo Engage com a ID do Munchkin 123-ABC-456.
 
 ## O que não está mudando? {#what-is-not-changing}
 

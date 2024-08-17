@@ -3,9 +3,9 @@ description: Perguntas frequentes sobre o Adobe Identity Management - Documenta�
 title: Perguntas frequentes sobre o Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1279'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ As assinaturas existentes do Marketo serão migradas para o Sistema Adobe Identi
 
 **Após a migração, as URLs do Marketo Engage permanecerão as mesmas?**
 
-Nº Os URLs serão diferentes após a migração. No entanto, os números de ID dos seus ativos permanecem inalterados. Além disso, os marcadores salvos anteriormente ainda deverão levá-lo ao local correto.
+Não. Os URLs serão diferentes após a migração.
 
 **Há algo que precisamos fazer para nos prepararmos para a alteração da URL?**
 
-Sim. Converse com sua equipe de TI e certifique-se de que ela adicione o domínio abaixo (incluindo o asterisco) para permitir todos os recursos de Marketo Engage e websockets:
+Sim. Após a migração, o Marketo Engage deixará de ser distribuído do experience.adobe.com para o Adobe Experience Cloud. Incluir na lista de permissões Você precisará trabalhar com sua equipe de TI para classificar todos os domínios de Adobe [na parte superior deste artigo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage.
 
-_*.experience.adobe.com_
+Links e marcadores anteriores para ativos Marketo Engage no domínio engage-xx.marketo.com _continuarão a funcionar._ No entanto, primeiro você deve fazer logon na instância do Marketo Engage para o URL para o qual está navegando. Por exemplo, para navegar até um marcador de uma Campanha inteligente em uma instância com a ID do Munchkin 123-ABC-456, é necessário primeiro fazer logon na instância do Marketo Engage com a ID do Munchkin 123-ABC-456.
 
 **Qual é a diferença entre um Administrador de Produto do Adobe e um Administrador de Marketo Engage?**
 
@@ -58,7 +58,7 @@ Mesmo se você tiver outros produtos Adobe, não poderá acessar o Marketo com A
 
 **As funções de usuário do Marketo (em espaços de trabalho) são gerenciadas no Adobe Admin Console?**
 
-Nº O gerenciamento de Função do usuário (em espaços de trabalho) é concluído no Marketo Engage.
+Não. O gerenciamento de Função do usuário (em espaços de trabalho) é concluído no Marketo Engage.
 
 **Sou um Administrador do Marketo em uma assinatura integrada do IMS e não tenho acesso ao Admin Console. Como obter acesso?**
 
@@ -94,11 +94,11 @@ No momento, o Adobe IMS não oferece suporte a nada como o recurso de autorizaç
 
 **Ainda é possível usar o recurso &quot;Logon na Caixa de Diálogo Convidar Usuário&quot; para tornar o logon de um usuário exclusivo em seu email?**
 
-Nº O fluxo de trabalho do Convite de usuário não está mais ativo quando uma assinatura é habilitada para IMS, portanto, o recurso não é mais válido. A identidade Adobe exige que a identidade de um usuário seja orientada por seu email.
+Não. O fluxo de trabalho do Convite de usuário não está mais ativo quando uma assinatura é habilitada para IMS, portanto, o recurso não é mais válido. A identidade Adobe exige que a identidade de um usuário seja orientada por seu email.
 
 **Para o Adobe IMS, temos a opção de usar Adobe ID, Enterprise ID ou Federated ID?**
 
-Sim, você determina o tipo de identidade para ter o suporte da sua organização. Mais informações podem ser encontradas aqui: [Visão geral da identidade](https://helpx.adobe.com/enterprise/using/identity.html) e aqui: [Configurar identidade](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
+Sim, você determina o tipo de identidade para ter o suporte da sua organização. Mais informações podem ser encontradas aqui: [Visão geral da identidade](https://helpx.adobe.com/br/enterprise/using/identity.html) e aqui: [Configurar identidade](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Quais cartões de produto são compatíveis com o Adobe Admin Console?**
 
