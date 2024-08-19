@@ -4,7 +4,7 @@ title: Introdução aos webinários interativos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
+source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Introdução aos webinários interativos {#get-started-with-interactive-webinars}
 
 Você leu a [Visão geral dos webinários interativos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} e está pronto para mergulhar. Siga as etapas abaixo para começar.
+
+<p>
 
 **Etapa Um**: [Adicionar Usuários](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} — Saiba como adicionar (e remover posteriormente, se desejado) usuários para acessar webinários interativos.
 
@@ -26,6 +28,8 @@ Você leu a [Visão geral dos webinários interativos](/help/marketo/product-doc
 **Etapa Cinco**: [Promova Seu Webinário](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — Aprenda dicas valiosas sobre como promover seu evento futuro.
 
 **Etapa Seis**: [Forneça Seu Webinário Interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — Tudo o que você precisa saber sobre como apresentar seu webinário.
+
+<p>
 
 Pronto! Depois que o webinário terminar, veja como ele foi executado usando o útil [Painel de Envolvimento](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}.
 
