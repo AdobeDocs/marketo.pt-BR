@@ -2,9 +2,9 @@
 description: Introdução aos webinários interativos - Documentação do Marketo - Documentação do produto
 title: Introdução aos webinários interativos
 feature: Interactive Webinars
-source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
+source-git-commit: a6787323c0df5353eaed5c5bcf69aca7f73ef84a
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,10 @@ Pronto!
 
 ## Documentação adicional {#additional-documentation}
 
-Depois que o webinário terminar, veja como ele foi executado usando o painel útil na tela Visão geral do evento. Você pode ver o engajamento detalhado de seu público-alvo no [Painel de engajamento](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Você pode aproveitar o envolvimento do webinário para direcionar o público de forma personalizada através de Filtros inteligentes e Acionadores em [Fluxos de trabalho de eventos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. E saiba como monitorar o desempenho On-Demand através dos [Webinars On-Demand](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
+Depois que o webinário terminar, veja como ele foi executado usando o painel útil na tela Visão geral do evento. Você pode ver o engajamento detalhado de seu público-alvo no [Painel de engajamento](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Aproveite o envolvimento do webinário para direcionar o público de forma personalizada usando Filtros inteligentes e Acionadores em [Fluxos de trabalho de eventos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. E saiba como monitorar o desempenho On-Demand através dos [Webinars On-Demand](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 
 Temos mais artigos de ajuda sobre este tópico, incluindo [Práticas recomendadas para webinários interativos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, como [personalizar seus webinários](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} para refletir suas necessidades/marcas, criar modelos em toda a organização usando [Modelos para webinários interativos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} e como gerenciar salas e gravações no [Gerenciamento de salas](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}.
+
+ 
 
 Aproveite os Webinars interativos (viabilizados pelo Adobe Connect)!
