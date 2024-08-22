@@ -2,13 +2,52 @@
 description: Migração de suporte para Marketo Engage - Documentação do Marketo - Documentação do produto
 title: Migração de suporte para Marketo Engage
 feature: Marketo with Adobe Identity
-source-git-commit: 0b54d32a388bd5382332b8f8f3ff73a7dc9a3ce6
+hide: true
+hidefromtoc: true
+exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
+source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
 workflow-type: tm+mt
-source-wordcount: '18'
-ht-degree: 0%
+source-wordcount: '467'
+ht-degree: 1%
 
 ---
 
 # Migração de suporte para Marketo Engage {#marketo-engage-support-migration}
 
-Em breve.
+Saiba mais sobre as próximas alterações na sua experiência com o Suporte da Adobe Marketo Engage. As alterações foram projetadas para aprimorar a experiência do usuário e simplificar as tarefas administrativas.
+
+## Admin Console Marketo Engage {#marketo-engage-admin-console}
+
+A primeira atualização envolve a introdução da nova [Adobe Admin Console](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"} para usuários Marketo Engage. O Adobe Admin Console oferece a capacidade de gerenciar usuários e assinaturas com mais eficiência. Com esta atualização, você terá maior controle das suas funções administrativas sem nenhum impacto sobre a forma como você usa atualmente os produtos Adobe. Isso significa que você pode continuar suas operações diárias sem problemas, beneficiando-se das capacidades administrativas aprimoradas.
+
+## Atualização e migração do portal de suporte do Marketo Engage {#marketo-engage-support-portal}
+
+A segunda atualização melhorará significativamente a maneira como você envia tíquetes de suporte. Anteriormente, você usava o portal [Nação de marketing](https://nation.marketo.com/){target="_blank"} para enviar solicitações de suporte. A partir de agora, esse processo será simplificado com o redirecionamento de todos os envios de tíquetes de suporte para a Adobe Experience League. A Nação de marketing permanecerá o lar da comunidade Marketo Engage/Measure por enquanto. Em breve, moveremos esses recursos também para a Adobe Experience League.
+
+## O que está mudando? {#whats-changing}
+
+* **Os Administradores do Sistema gerenciarão os usuários e seu acesso por meio da Adobe Admin Console** — Adicione e remova usuários como Administradores de Suporte/Administradores de Suporte do Produto para todas as suas assinaturas do Adobe.
+
+* **Os PSAs (Administradores de Suporte do Produto) usarão o Experience League para a criação e o gerenciamento de casos de Suporte** — o Adobe atribuirá a função de Administrador de Suporte do Produto aos usuários migrados listados como um Contato Autorizado na Nação de Marketing.
+
+>[!NOTE]
+>
+>Os contatos autorizados são administradores de suporte ao produto no Adobe.
+
+* **Migração de casos** — os casos abertos ficarão visíveis no Adobe Experience League e todos os casos fechados anteriormente serão arquivados. Esta migração **não** afetará o nível de serviço do(s) caso(s) aberto(s).
+
+## Como saberei quando a migração de suporte foi concluída? {#support-migration-has-been-completed}
+
+A migração de Suporte ocorrerá após a conclusão da migração de Usuário para todas as assinaturas. Se você foi adicionado como um PSA como parte da Migração de suporte, receberá um email depois que a migração do usuário for concluída, indicando que você foi adicionado como administrador de suporte para entrar em contato com o Suporte para essas assinaturas específicas. Isso acionará um redirecionamento automático da Nação de marketing para o Adobe Experience League para todos os envios de casos. Continue a enviar casos de suporte por meio da Marketing Nation até que o redirecionamento automático seja ativado.
+
+## Recursos adicionais {#additional-resources}
+
+* Saiba como você pode usar o [Adobe Admin Console para gerenciar seus direitos de Adobe](https://helpx.adobe.com/br/enterprise/using/admin-roles.html){target="_blank"} em toda a organização.
+
+* Mais informações sobre como fazer logon no Marketo Engage com um Adobe ID [podem ser encontradas aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
+
+* Saiba mais sobre o [Adobe Experience League](https://experienceleague.adobe.com/?lang=pt-BR){target="_blank"}.
+
+## Ainda tem dúvidas? {#still-have-questions}
+
+Se você ainda tiver dúvidas sobre a migração de sua assinatura e/ou suporte, entre em contato conosco em `marketocares@adobe.com`.
