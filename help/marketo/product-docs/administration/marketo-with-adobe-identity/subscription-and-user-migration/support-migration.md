@@ -2,19 +2,17 @@
 description: Migração de suporte para Marketo Engage - Documentação do Marketo - Documentação do produto
 title: Migração de suporte para Marketo Engage
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Migração de suporte para Marketo Engage {#marketo-engage-support-migration}
 
-Saiba mais sobre as próximas alterações na sua experiência com o Suporte da Adobe Marketo Engage. As alterações foram projetadas para aprimorar a experiência do usuário e simplificar as tarefas administrativas.
+Saiba mais sobre as próximas alterações no processo de suporte do Adobe Marketo Engage. As atualizações foram projetadas para simplificar suas tarefas administrativas e aprimorar sua experiência geral.
 
 ## Admin Console Marketo Engage {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ A segunda atualização melhorará significativamente a maneira como você envia
 
 ## Como saberei quando a migração de suporte foi concluída? {#support-migration-has-been-completed}
 
-A migração de Suporte ocorrerá após a conclusão da migração de Usuário para todas as assinaturas. Se você foi adicionado como um PSA como parte da Migração de suporte, receberá um email depois que a migração do usuário for concluída, indicando que você foi adicionado como administrador de suporte para entrar em contato com o Suporte para essas assinaturas específicas. Isso acionará um redirecionamento automático da Nação de marketing para o Adobe Experience League para todos os envios de casos. Continue a enviar casos de suporte por meio da Marketing Nation até que o redirecionamento automático seja ativado.
+A migração de Suporte ocorrerá após a conclusão da migração de Usuário para todas as assinaturas. Se você foi adicionado como um PSA como parte da Migração de suporte, receberá um email depois que a migração do usuário for concluída, indicando que você foi adicionado como administrador de suporte para entrar em contato com o Suporte da Adobe para essas assinaturas específicas. Isso acionará um redirecionamento automático da Nação de marketing para o Adobe Experience League para todos os envios de casos. Continue a enviar casos de suporte por meio da Marketing Nation até que o redirecionamento automático seja ativado.
 
 ## Recursos adicionais {#additional-resources}
 
