@@ -3,9 +3,9 @@ description: Perguntas frequentes sobre o Dynamic Chat - Documentação do Marke
 title: Perguntas frequentes sobre o Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Isso provavelmente indica que você não foi adicionado como um usuário Dynamic
 
 **Como faço para acessar a transcrição de uma conversa em andamento?**
 
-As transcrições de Dynamic Chat podem ser acessadas para qualquer lead conhecido que tenha se envolvido com uma caixa de diálogo de Dynamic Chat por meio da atividade &quot;Engajado com a caixa de diálogo&quot; no Marketo Engage.
+As transcrições de Dynamic Chat podem ser acessadas para qualquer lead conhecido que tenha se envolvido com uma caixa de diálogo de Dynamic Chat por meio da atividade &quot;Engajado com a caixa de diálogo&quot; no Marketo Engage e cujo Status da conversa seja &quot;Concluído&quot; ou &quot;Descartado&quot;.
 
 **Depois que um visitante se envolve em uma Caixa de Diálogo, ele pode reiniciar a conversa ou voltar para uma pergunta anterior?**
 
@@ -88,7 +88,7 @@ Uma caixa de diálogo é uma conversa exibida automaticamente para visitantes da
 
 **Há uma maneira de usar o Dynamic Chat para reservar reuniões diretamente de um email?**
 
-Sim. [Saiba como](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Sim! [Saiba como](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **O que significam exatamente termos como &quot;Envolvido&quot; ou &quot;Pessoas Adquiridas&quot;?**
 
@@ -100,4 +100,4 @@ Há vários termos usados no Dynamic Chat. As definições para muitos deles pod
 
 **Posso usar Dynamic Chat sem Marketo Engage?**
 
-Nº Embora o Dynamic Chat seja um aplicativo separado do Marketo Engage, os dois estão inextricavelmente vinculados.
+Não. Embora o Dynamic Chat seja um aplicativo separado do Marketo Engage, os dois estão inextricavelmente vinculados.
