@@ -3,10 +3,10 @@ description: Notas de versão do Dynamic Chat - Documentação do Marketo - Docu
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1472'
-ht-degree: 0%
+source-wordcount: '1869'
+ht-degree: 3%
 
 ---
 
@@ -16,9 +16,71 @@ As versões do Adobe Dynamic Chat operam em um modelo de entrega contínua que p
 
 A página de Notas de versão padrão do Marketo Engage [pode ser encontrada aqui](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## Versão de agosto de 2024 {#august-release}
+
+**Data de lançamento: 23 de agosto de 2024**
+
+### Formatar suas mensagens de conversa de maneira personalizada {#custom-format-conversation-messages}
+
+Os designers de fluxo agora oferecem suporte a [inserir HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} para personalizar a aparência das suas conversas.
+
+![](assets/dynamic-chat-aug-2024-release-1.png)
+
+### Rolagem de Chatbot para a parte inferior {#chatbot-scroll-to-bottom}
+
+Um ícone foi adicionado ao chatbot para que os visitantes da Web pulem diretamente para a última mensagem. Isso ajuda os visitantes a rolar pelo texto para voltar à conversa rapidamente.
+
+![](assets/dynamic-chat-aug-2024-release-2.png)
+
+### Notificações de pulso principais {#core-pulse-notifications}
+
+Agora os usuários recebem uma [notificação por email](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} quando uma reserva de reunião ou um chat ao vivo falha.
+
+![](assets/dynamic-chat-aug-2024-release-3.png)
+
+### Suporte para várias conversas {#support-for-multiple-conversations}
+
+O chatbot agora oferece suporte a várias conversas. Os visitantes do site podem participar de conversas diferentes em páginas diferentes ao mesmo tempo, com a capacidade de alternar entre elas.
+
+![](assets/dynamic-chat-aug-2024-release-4.png)
+
+### Classificação padrão de conteúdo {#default-sorting-for-content}
+
+Por padrão, os logs de conversa, as perguntas não respondidas e as tabelas de geração de perguntas são classificadas por data de criação (da mais recente para a mais antiga).
+
+### Resolução de lead em tempo real {#real-time-lead-resolution}
+
+Durante uma conversa com um cliente potencial anônimo e uma ID de email é fornecida, resolvemos se existe um registro de cliente potencial conhecido com essa ID de email e usamos esse registro para personalização em tempo real. Se encontrarmos vários registros, os mesclamos em tempo real. Esse comportamento é implementado para Caixas de diálogo e Fluxos de conversa.
+
+### Sincronização de clientes em potencial sem cookies do Marketo Engage {#syncing-leads-without-cookies}
+
+Anteriormente, quando a sincronização de Marketo Engage era ativada, o Dynamic Chat só sincronizava leads conhecidos com uma ou mais IDs de cookie do Marketo Engage. Agora, todos os leads conhecidos (ID de cookie presente ou não) serão sincronizados no Dynamic Chat e poderão ser usados para a personalização de conversas.
+
+### Envio de dados adicionais do visitante para Fluxos de conversa {#pass-additional-visitor-data}
+
+Se você estiver capturando informações do visitante por outros canais, como formulários ou logon, agora é possível passar essas informações diretamente para o Dynamic Chat.
+
+![](assets/dynamic-chat-aug-2024-release-5.png)
+
+### Dados inferidos atualizados {#refreshed-inferred-data}
+
+A maioria das conversas em um site é com visitantes anônimos. Você ainda pode direcioná-los por meio de dados inferidos, que dependem dos IPs de visitantes. Atualizamos nosso banco de dados de IPs e os respectivos dados inferidos que agora aceitam quatro vezes mais IPs.
+
+### Som adicionado à notificação do navegador do agente {#sound-added-to-agent-browser-notification}
+
+Quando um chat ao vivo é atribuído a um agente, ele recebe uma notificação do navegador. Mas ocasionalmente eles não os veem. Adicionamos um som de notificação para ajudar a impedir que notificações perdidas continuem.
+
+![](assets/dynamic-chat-aug-2024-release-6.png)
+
+### Capacidade de atualizar o perfil de cliente potencial durante o chat ao vivo {#update-lead-profile-during-live-chat}
+
+Durante um bate-papo ao vivo, os agentes desejam capturar informações sobre o visitante e atualizar o respectivo perfil. Agora há uma opção para atualizar os valores de atributo dos objetos de cliente potencial e da empresa.
+
+![](assets/dynamic-chat-aug-2024-release-7.png)
+
 ## Versão de junho de 2024 {#june-release}
 
-**Data de lançamento: 6 de junho de 2024**
+**Data de lançamento: sexta-feira, 6 de junho de 2024**
 
 ### Cartão de fluxo de conversa {#conversational-flow-card}
 
@@ -38,7 +100,7 @@ A página Limites de uso mostra informações importantes, como detalhes do paco
 
 ## Versão de maio de 2024 {#may-release}
 
-**Data de lançamento: 15 de maio de 2024**
+**Data de lançamento: quinta-feira, 15 de maio de 2024**
 
 ### Biblioteca de respostas pré-aprovadas {#pre-approved-response-library}
 
@@ -76,7 +138,7 @@ Oriente os visitantes da Web com uma frase de chamariz para conduzir as conversa
 
 ## Versão de abril de 2024 {#april-release}
 
-**Data de lançamento: 23 de abril de 2024**
+**Data de lançamento: quarta-feira, 23 de abril de 2024**
 
 ### Fluxos de conversa agora disponíveis para todos os usuários {#conversational-flows-available-to-all-users}
 
@@ -177,7 +239,7 @@ Quando lançamos o Dynamic Chat em 2022, não havia suporte para bate-papo ao vi
 
 ## Versão de fevereiro de 2024 {#february-release}
 
-**Data de lançamento: 22 de fevereiro de 2024**
+**Data de lançamento: sexta-feira, 22 de fevereiro de 2024**
 
 ### Página Conversas {#conversations-page}
 
@@ -195,7 +257,7 @@ A ramificação condicional permite criar ramificações nos fluxos de diálogo 
 
 ## Versão de janeiro de 2024 {#january-release}
 
-**Data de lançamento: 24 de janeiro de 2024**
+**Data de lançamento: quinta-feira, 24 de janeiro de 2024**
 
 ### Configuração de limite de chat ao vivo simultâneo no gerenciamento de agente {#Concurrent-live-chat-limit-setting}
 
