@@ -3,10 +3,10 @@ description: Adicionar uma equipe ao webinário - Documentação do Marketo - Do
 title: Adicionar uma equipe ao webinário
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
@@ -36,7 +36,7 @@ O apresentador é uma função externa que participa da entrega da experiência 
 
    >[!NOTE]
    >
-   >Se você selecionar **Usuário interno do webinário interativo**, bastará clicar no menu suspenso **Hosts disponíveis** e escolher na lista de pessoas que foram adicionadas como usuários de webinários interativos no Marketo Engage.
+   >Se você selecionar **Usuário interno do webinário interativo**, bastará clicar no menu suspenso **Hosts disponíveis** e escolher na lista de pessoas que foram adicionadas como usuários de webinários interativos no Marketo Engage. Os hosts existentes não se verão nessa lista suspensa, pois já são hosts.
 
 1. Insira o nome, sobrenome e endereço de email do co-host desejado. Clique em **Adicionar**.
 

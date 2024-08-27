@@ -3,9 +3,9 @@ description: Práticas recomendadas para webinários interativos - Documentaçã
 title: Práticas recomendadas para webinários interativos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 ## Preparação pré-evento {#pre-event-preparation}
 
 ### Criação de um evento {#creating-an-event}
+
+>[!TIP]
+>
+>A experiência da Web móvel de Webinars interativos não é responsiva, portanto, recomendamos usar o aplicativo Adobe Connect para obter uma experiência de webinar contínua em seu dispositivo móvel. Observe que o aplicativo Adobe Connect não está disponível atualmente nas lojas de aplicativos na China.
 
 * Crie um Webinar interativo (IW) de amostra e clone-o sempre para evitar começar do zero.
 
