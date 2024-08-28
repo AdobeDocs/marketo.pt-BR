@@ -4,9 +4,9 @@ description: Configuração e adição de uma pessoa - Documentação do Marketo
 title: Configurar e adicionar uma pessoa
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Há algumas coisas a fazer antes de começar as missões.
 
-## Etapa 1: Fazer logon no Marketo {#step-log-in-to-marketo}
+## Etapa 1: Fazer logon no Marketo Engage {#step-log-in-to-marketo}
 
-1. [Faça logon no Marketo](https://app.marketo.com){target="_blank"} usando as credenciais recebidas por email.
+1. [Faça logon no Marketo Engage](https://app.marketo.com){target="_blank"} usando as credenciais recebidas por email.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -59,7 +59,9 @@ Adicione a si mesmo como pessoa no Marketo para que possa enviar emails de teste
 
    >[!CAUTION]
    >
-   >A Marketo **não** oferece suporte a endereços de email que contêm emojis.
+   >* Verifique se os endereços de email contêm apenas caracteres ASCII.
+   >
+   >* A Marketo **não** oferece suporte a endereços de email que contêm emojis.
 
 1. Para exibir suas pessoas, abra as [!UICONTROL Listas Inteligentes do Sistema] no menu esquerdo e clique em **[!UICONTROL Todas as Pessoas]**.
 
