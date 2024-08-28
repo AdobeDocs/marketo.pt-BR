@@ -3,7 +3,7 @@ description: Notas de versão do Dynamic Chat - Documentação do Marketo - Docu
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
 source-wordcount: '1869'
 ht-degree: 3%
@@ -68,7 +68,7 @@ A maioria das conversas em um site é com visitantes anônimos. Você ainda pode
 
 ### Som adicionado à notificação do navegador do agente {#sound-added-to-agent-browser-notification}
 
-Quando um chat ao vivo é atribuído a um agente, ele recebe uma notificação do navegador. Mas ocasionalmente eles não os veem. Adicionamos um som de notificação para ajudar a impedir que notificações perdidas continuem.
+Quando um chat ao vivo é atribuído a um agente, ele recebe uma notificação do navegador. Mas ocasionalmente eles não os veem. Adicionamos um [som de notificação](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} para ajudar a evitar notificações perdidas a partir de agora.
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
