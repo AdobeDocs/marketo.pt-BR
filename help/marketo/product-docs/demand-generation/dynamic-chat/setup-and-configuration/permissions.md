@@ -3,9 +3,9 @@ description: Permissões — Documentação do Marketo — Documentação do pro
 title: Permissões
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 5%
 
 ---
@@ -32,7 +32,7 @@ Há cinco perfis padrão com permissões predefinidas que podem ser editadas no 
 
    ![](assets/permissions-4.png)
 
-1. Os itens de permissão disponíveis estão listados à esquerda. Você pode optar por adicionar permissões uma por uma ou todas de uma vez. Neste exemplo, há apenas um disponível, então estamos adicionando esse. Clique no sinal **+**.
+1. Os itens de permissão disponíveis estão listados à esquerda. Você pode optar por adicionar permissões uma por uma ou todas de uma vez. Clique no sinal **+**.
 
    ![](assets/permissions-5.png)
 
