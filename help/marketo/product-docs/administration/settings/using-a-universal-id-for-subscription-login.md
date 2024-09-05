@@ -4,9 +4,9 @@ description: Uso de uma Universal ID para logon de assinatura - Documentação d
 title: Uso de uma Universal ID para logon de assinatura
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ Com uma Universal ID para várias assinaturas, somente você pode alterar a senh
 ## Alternância entre assinaturas {#switching-between-subscriptions}
 
 Usando uma Universal ID, você pode ver a assinatura à qual está conectado e selecionar outras assinaturas às quais você tem acesso de logon. Na maioria dos casos, você pode alternar entre elas sem precisar fazer logoff e logon novamente.
+
+Se o [Logon Único](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) e a Universal ID estiverem habilitados, você deverá ter a permissão &quot;Ignorar Logon Único&quot; definida para alternar entre assinaturas.
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 

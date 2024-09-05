@@ -4,9 +4,9 @@ description: Restringir o logon do usuário somente ao SSO - Documentação do M
 title: Login de usuário restrito apenas a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '251'
 ht-degree: 5%
 
 ---
@@ -45,7 +45,7 @@ Se você estiver [usando SSO](/help/marketo/product-docs/administration/addition
 
 >[!TIP]
 >
->Se você selecionar **[!UICONTROL Exigir SSO]**, poderá excluir uma [função de usuário](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) dessa restrição marcando a opção **[!UICONTROL Ignorar Logon Único]** ao configurar a função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo por meio da tela de logon.
+>Se você selecionar **[!UICONTROL Exigir SSO]**, poderá excluir uma [função de usuário](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) dessa restrição marcando a opção **[!UICONTROL Ignorar Logon Único]** ao configurar a função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo por meio da tela de logon. Se o SSO e a Universal ID estiverem habilitados, você deve ter a permissão &quot;Ignorar logon único&quot; definida para alternar entre as assinaturas.
 
 >[!CAUTION]
 >
