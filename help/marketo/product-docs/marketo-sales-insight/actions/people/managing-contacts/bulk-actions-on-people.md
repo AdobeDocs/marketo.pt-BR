@@ -3,9 +3,9 @@ description: Ações em massa em pessoas — Documentação do Marketo — Docum
 title: Ações em massa em pessoas
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 5%
 
 ---
@@ -45,9 +45,3 @@ Em conformidade com o [GDPR](https://eugdpr.org/), use a autorização para indi
 Faça um cancelamento de inscrição em massa nos contatos que não desejam mais receber sua correspondência.
 
 ![](assets/bulk-actions-on-people-5.png)
-
-## Excluir {#delete}
-
-Excluir contatos em massa. Etapas completas podem ser encontradas [aqui](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
-
-![](assets/bulk-actions-on-people-6.png)
