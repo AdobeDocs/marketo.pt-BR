@@ -4,10 +4,10 @@ description: Programação de lançamento - Documentação do Marketo - Document
 title: Programação de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
+source-git-commit: 46a2170aab30abdb5d9e77219fc56fc2537d1c59
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '115'
+ht-degree: 12%
 
 ---
 
@@ -45,21 +45,6 @@ _As datas/recursos de lançamento estão sujeitos a alterações_
   <tr> 
    <td>Janeiro de 25</td>
    <td>17 de janeiro de 2025</td>
-   <td>Dentro do Cronograma</td>
-  </tr>
-  <tr> 
-   <td>Março de 2025</td>
-   <td>7 de março de 2025</td>
-   <td>Dentro do Cronograma</td>
-  </tr>
-  <tr> 
-   <td>Abril de 25</td>
-   <td>25 de abril de 2025</td>
-   <td>Dentro do Cronograma</td>
-  </tr>
-  <tr> 
-   <td>Junho de 25</td>
-   <td>6 de junho de 2025</td>
    <td>Dentro do Cronograma</td>
   </tr>
  </tbody>
