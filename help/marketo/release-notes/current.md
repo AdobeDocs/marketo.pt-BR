@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
+source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 9%
+source-wordcount: '363'
+ht-degree: 7%
 
 ---
 
@@ -74,4 +74,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-Em 17 de setembro de 2024, o [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 começará a ser implantado em instâncias Marketo Engage que têm a configuração &quot;Munchkin Beta&quot; habilitada em **Admin** > **Treasure Chest**. Ele está programado para começar a implantação em todas as outras instâncias em 29 de outubro. Esta versão atualiza a criação do cookie do Munchkin. Não há alterações na funcionalidade.
+* **Nova Versão do Munchkin**: em 17 de setembro de 2024, o [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 começará a ser implantado em instâncias Marketo Engage que têm a configuração &quot;Munchkin Beta&quot; habilitada em **Admin** > **Treasure Chest**. Ele está programado para começar a implantação em todas as outras instâncias em 29 de outubro. Esta versão atualiza a criação do cookie do Munchkin. Não há alterações na funcionalidade.
+
+* **Descontinuação do código QR**: em 4 de outubro de 2024, o recurso de código QR usado em notificações por push e ativos de mensagens no aplicativo será descontinuado. Isso inclui o uso de códigos QR para um novo dispositivo de teste, bem como a criação de novos ativos com códigos QR. Descontinuar os recursos com uso mais baixo permite realocar seus recursos para a manutenção geral do Marketo Engage.
