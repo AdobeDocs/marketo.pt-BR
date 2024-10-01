@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 6%
+source-wordcount: '513'
+ht-degree: 7%
 
 ---
 
@@ -65,6 +65,34 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
    <tr> 
    <td><strong>Botão Minha conta no painel de navegação</strong>: para aqueles que migraram para o Adobe Identity Management System, um novo botão "Minha conta" no painel de navegação esquerdo permite configurar seu fuso horário e acessar os detalhes da assinatura.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Métricas de lista de pendências de sincronização do Salesforce</strong>: agora você pode monitorar a taxa de transferência de sincronização e as tendências de lista de pendências para planejar e agendar atualizações do CRM para obter uma experiência de sincronização ideal.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Melhorias no Relatório de desempenho de email</strong>: várias melhorias foram feitas nas métricas de relatório de email e no rastreamento de atividades, oferecendo insights adicionais e melhorando a precisão.
+   <ul>
+   <li>Filtrar pessoas excluídas e mescladas das métricas de desempenho de email</li>
+   <li>Emails agora classificados como <i>abortados</i> após aguardar três dias para atividade de resposta</li>
+   <li>O email da conta abre no nível da campanha</li>
+   <li>Acompanhamento de atividades de email aprimorado por meio do refinamento da localização do pixel de rastreamento</li>
+   </td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
