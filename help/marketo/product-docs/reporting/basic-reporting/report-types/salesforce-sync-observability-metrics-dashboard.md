@@ -4,14 +4,14 @@ title: Painel de métricas de observação de sincronização do Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
-# Painel de métricas de observação de sincronização do Salesforce {#salesforce-sync-observability-metrics-dashboard}
+# Métricas de backlog de sincronização do Salesforce  {#salesforce-sync-backlog-metrics}
 
 Revise suas taxas de transferência de desempenho de sincronização e sincronize listas de pendências com este painel.
 

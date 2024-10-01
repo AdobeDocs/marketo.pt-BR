@@ -3,7 +3,7 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -32,7 +32,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
     <tr> 
-   <td><strong>Dados de Registro Aprimorados no Painel de Envolvimento para Webinars Interativos</strong>: Você pode ver quais empresas tiveram mais presenças e fazer com que a empresa, o título e o setor sejam atualizados em nível de cliente potencial nos relatórios disponíveis no Painel de Envolvimento.</td> 
+   <td><strong>Dados de Registro Aprimorados no Painel de Envolvimento para Webinars Interativos</strong>: Agora você pode ver quais empresas tiveram mais presenças e atualizar a empresa, o título e o setor em nível de cliente potencial nos relatórios disponíveis no Painel de Envolvimento.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
