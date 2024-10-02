@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
+source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 7%
+source-wordcount: '485'
+ht-degree: 6%
 
 ---
 
@@ -72,18 +72,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Métricas de lista de pendências de sincronização do Salesforce</strong>: agora você pode monitorar a taxa de transferência de sincronização e as tendências de lista de pendências para planejar e agendar atualizações do CRM para obter uma experiência de sincronização ideal.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
   </tr>
    <tr> 
    <td><strong>Melhorias no Relatório de desempenho de email</strong>: várias melhorias foram feitas nas métricas de relatório de email e no rastreamento de atividades, oferecendo insights adicionais e melhorando a precisão.
