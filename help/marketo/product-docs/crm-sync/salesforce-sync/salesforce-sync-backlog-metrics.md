@@ -4,7 +4,7 @@ title: Métricas de backlog de sincronização do Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Se a atualização for feita no lado do Marketo Engage ou no lado do CRM, ela ac
 
 Quando uma grande quantidade de atualizações é feita (como a partir de uma alteração de valor de campo), muitos registros são alterados, causando novos SysModStamps. Um grande número de atualizações de registros de pessoas precisa ser ressincronizado entre o Marketo Engage e o CRM, às vezes criando uma lista de pendências temporária.
 
-## Práticas recomendadas para gerenciar registros pendentes de sincronização {#best-practices-for-managing-sync-backlogs}
+## Práticas recomendadas para gerenciar registros pendentes de sincronização {#best-practices}
 
 **Campos sincronizados**: verifique se os campos sincronizados são apenas aqueles que precisam ser sincronizados. As alterações nos campos aumentam o backlog de sincronização e os campos de prioridade mais baixa podem estar parando ou atrasando campos mais importantes em sincronização. Entre em contato com o [Suporte para Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para remover campos em sincronização.
 
@@ -105,4 +105,4 @@ Quando uma grande quantidade de atualizações é feita (como a partir de uma al
 
 **Agendar atualizações em massa durante horas não críticas**: revise seus padrões de sincronização de dados para identificar períodos não críticos. Veja se as atualizações em massa podem ser agendadas durante esses períodos não críticos.
 
-Se você estiver seguindo todas as práticas recomendadas acima e ainda estiver enfrentando listas de pendências significativas, contate o [Suporte de Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Se você estiver seguindo todas as práticas recomendadas acima e ainda estiver com listas de pendências significativas, contate o [Suporte de Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
