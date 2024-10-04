@@ -4,10 +4,10 @@ title: Criar um modelo de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 5%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -39,13 +39,21 @@ LISTAR CADA ETAPA ATÉ GET PARA O MARKETO?
 
 ## Criar seu modelo {#design-your-template}
 
-Na tela de design, você pode escolher algumas opções. Crie do zero, importe seu próprio HTML ou escolha um modelo salvo (uma de nossas amostras ou uma de sua preferência).
+Na página Criar seu modelo, você pode escolher entre algumas opções. Crie do zero, importe seu próprio HTML ou selecione um modelo existente (uma de nossas amostras ou uma que você já salvou).
 
 >[!BEGINTABS]
 
 >[!TAB Design do zero]
 
-1. Selecione **Design do zero**.
+Defina o conteúdo adicionando e movendo elementos estruturais com ações simples de arrastar e soltar.
+
+## Criar do zero {#design-from-scratch}
+
+1. Na página Criar seu modelo, selecione **Criar do zero**.
+
+   CAPTURA DE TELA
+
+1. texto.
 
    CAPTURA DE TELA
 
@@ -55,13 +63,39 @@ Na tela de design, você pode escolher algumas opções. Crie do zero, importe s
 
 >[!TAB Importar HTML]
 
-1. Selecione Importar HTML.
+Você pode importar conteúdo de HTML existente para criar seus modelos de email. O conteúdo pode ser:
+
+* Um arquivo HTML com uma folha de estilos incorporada
+
+* Um arquivo .zip que inclui um arquivo HTML, a folha de estilos (.css) e as imagens
+
+>[!NOTE]
+>
+>Não há restrições na estrutura do arquivo .zip. No entanto, as referências devem ser relativas e se encaixar na estrutura de árvore da pasta .zip.
+
+## Importar seu HTML {#import-your-html}
+
+1. Na página Criar seu modelo, selecione **Importar HTML**.
 
    CAPTURA DE TELA
 
-1. Texto.
+1. Arraste e solte o arquivo de HTML ou .zip desejado e clique em **Importar**.
 
    CAPTURA DE TELA
+
+   >[!CAUTION]
+   >
+   >Usar uma marca `<table>` como a primeira camada em um arquivo de HTML pode causar perda de estilo, incluindo configurações de plano de fundo e largura na marca de camada superior.
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+NA CONTA DE TESTE: CONFIGURAÇÕES/ESTILOS/CONVERSOR HTML
 
 >[!TAB Modelos de exemplo]
 
