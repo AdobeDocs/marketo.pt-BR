@@ -4,9 +4,9 @@ description: Relatório de desempenho de email - Documentação do Marketo - Doc
 title: Relatório de desempenho de email
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '493'
 ht-degree: 2%
 
 ---
@@ -35,17 +35,41 @@ Para ver o desempenho de seus emails com estatísticas como entregue, aberto, cl
 
    [Selecione as Colunas do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho de Email:
 
-   | Coluna | Descrição |
-   |---|---|
-   | Devolvido permanentemente | O email foi rejeitado devido a uma condição permanente, como endereço de email inexistente. |
-   | Devolvido temporariamente | O email foi rejeitado devido a uma condição temporária, como um servidor inativo ou uma caixa de entrada cheia. |
-   | Pendente | Esse número é calculado subtraindo o número de emails Delivered, Bounce e Soft Bounce do número total de Sent. |
-   | Link clicado | Número de destinatários de email que clicaram em um link no email. |
-   | Inscrição cancelada | Número de destinatários de email que clicaram no link **Cancelar inscrição** no email e preencheram o formulário. |
+   <table><thead>
+<tr>
+    <th>Coluna</th>
+    <th>Descrição</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Devolvido permanentemente</td>
+    <td>O email foi rejeitado devido a uma condição permanente, como endereço de email inexistente.</td>
+  </tr>
+  <tr>
+    <td>Devolvido temporariamente</td>
+    <td>O email foi rejeitado devido a uma condição temporária, como um servidor inativo ou uma caixa de entrada cheia.</td>
+  </tr>
+  <tr>
+    <td>Pendente</td>
+    <td>Esse número é calculado subtraindo o número de emails Delivered, Bounce e Soft Bounce do número total de Sent.</td>
+  </tr>
+  <tr>
+    <td>Link clicado</td>
+    <td>Número de destinatários de email que clicaram em um link no email.</td>
+  </tr>
+  <tr>
+    <td>Inscrição cancelada</td>
+    <td>Número de recipients do email que clicaram no link Cancelar inscrição no email e preencheram o formulário.</td>
+  </tr>
+  <tr>
+    <td>Anulado(s)</td>
+    <td>Número de emails que não puderam ser entregues e nenhum evento de devolução foi recebido. Um email é automaticamente chamado de Abortado se uma resposta não for recebida dentro de três dias do envio do email.</td>
+  </tr>
+</tbody></table>
 
-   >[!NOTE]
-   >
-   >Os links de cancelamento de inscrição e endereços de email clicados em um email não serão registrados em Links clicados no relatório.
+>[!NOTE]
+>
+>Os links de cancelamento de inscrição e endereços de email clicados em um email não serão registrados em Links clicados no relatório.
 
 Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por exemplo, se alguém clicou em um link em um email, obviamente abriu o email primeiro. Seguimos estas regras específicas para o Relatório de desempenho de email:
 
@@ -57,9 +81,13 @@ Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por ex
 
 * **Regra 4**: se o email estiver _Aberto_, as rejeições serão ignoradas. Se o email não tiver sido aberto, _Com rejeição permanente_ terá prioridade sobre _Com rejeição temporária_ e _Entregue_.
 
+* **Regra 5**: se nenhuma atividade de email for recebida três dias após seu envio, ela será considerada _Anulada_.
+
 >[!NOTE]
 >
->Vários envios da mesma campanha para a mesma pessoa são contados apenas uma vez.
+>* Vários envios da mesma campanha para a mesma pessoa são contados apenas uma vez.
+>
+>* Vários envios de campanhas diferentes para a mesma pessoa são contados separadamente.
 
 >[!MORELIKETHIS]
 >
