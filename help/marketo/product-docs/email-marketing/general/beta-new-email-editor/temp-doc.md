@@ -4,7 +4,7 @@ title: Documento temporário
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 3%
@@ -39,6 +39,7 @@ Insira campos de personalização para personalizar seu conteúdo de atributos d
 Clique em Ativar conteúdo de condição para adicionar conteúdo dinâmico e adaptar o conteúdo aos perfis direcionados com base em regras condicionais.
 Clique na guia Links no painel esquerdo para exibir todos os URLs do conteúdo que serão rastreados. Você pode modificar o Tipo de rastreamento ou Rótulo e adicionar Tags, se necessário.
 Se necessário, você pode personalizar ainda mais seu email clicando em Alternar para o editor de código no menu avançado. Isso permite editar o código fonte do email, por exemplo, para adicionar tags de rastreamento ou HTML personalizadas.
+
 CUIDADO
 Você não pode reverter para o designer visual neste email depois de alternar para o editor de código.
 

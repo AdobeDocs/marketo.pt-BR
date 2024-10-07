@@ -4,16 +4,20 @@ title: Criar um modelo de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '302'
+ht-degree: 2%
 
 ---
 
 # Criar um modelo de email {#create-an-email-template}
 
 Texto de introdução aqui.
+
+>[!IMPORTANT]
+>
+>Este artigo é somente para membros do New Marketo Engage Email Editor fechado beta. Por favor, não difunda.
 
 1. Faça logon no [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
@@ -118,3 +122,7 @@ NA CONTA DE TESTE: CONFIGURAÇÕES/ESTILOS/CONVERSOR HTML
    CAPTURA DE TELA
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[Como acessar um modelo de email](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}
