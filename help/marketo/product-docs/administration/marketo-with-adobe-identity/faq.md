@@ -3,9 +3,9 @@ description: Perguntas frequentes sobre o Adobe Identity Management - Documenta�
 title: Perguntas frequentes sobre o Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ O sistema Adobe Identity Management consiste em três componentes.
 
 **Quando as assinaturas de Marketo Engage existentes serão integradas ao IMS?**
 
-As assinaturas existentes do Marketo serão migradas para o Sistema Adobe Identity Management ainda este ano. O Suporte da Marketo não poderá fornecer atualizações relacionadas à migração do Adobe IMS. A equipe da conta do Adobe entrará em contato com a linha do tempo estimada para os próximos meses.
+Atualmente, as assinaturas de Marketo Engage existentes estão sendo migradas para o Adobe IMS após qualquer evento de vendas, que inclui renovações, eventos de recontratação e/ou adendos. As migrações fora de um evento de vendas agora são compatíveis a partir de outubro de 2024.
 
 **Após a migração, as URLs do Marketo Engage permanecerão as mesmas?**
 
@@ -50,7 +50,13 @@ Sim. Aqueles que foram integrados ao Adobe IMS não podem utilizar todas as APIs
 
 **Com quem contatar para obter suporte se estivermos integrados ao IMS?**
 
-Você seguiria o procedimento padrão para contatar o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Migração pré-usuário: casos de suporte a arquivos na [Comunidade da Nação de Marketing](https://nation.marketo.com/t5/support/ct-p/Support) ou email `customercare@marketo.com`.
+
+* Migração pós-usuário: casos de suporte a arquivos na [Comunidade da Nação de Marketing](https://nation.marketo.com/t5/support/ct-p/Support) ou email `customercare@marketo.com`.
+
+* Conclusão da migração pós-suporte: os administradores de suporte de produtos podem arquivar casos por meio do portal de suporte do Experience League.
+
+Se tiver o Ultimate Success, você terá acesso ao Admin Console Migration White Glove Service. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter assistência.
 
 **Se eu usar uma Identidade de Adobe para acessar outros aplicativos de Adobe, posso usá-la para acessar o Marketo?**
 
@@ -106,13 +112,13 @@ As placas de produto compatíveis são: Marketo Engage, Marketo Measure, Marketo
 
 **E se meu logon de usuário não corresponder ao meu email quando eu migrar para uma Identidade Adobe?**
 
-Os usuários atuais do Marketo com logons diferentes de seus endereços de email não farão mais logon com essa credencial depois de migrados para uma Identidade Adobe. As identidades Adobe sempre são autenticadas com o endereço de email de um usuário.
+Os usuários atuais do Marketo Engage com logons diferentes de seu endereço de email não farão mais logon com essa credencial depois de migrados para uma Identidade do Adobe. As identidades Adobe sempre são autenticadas com o endereço de email de um usuário. Você pode atualizar um endereço de email de identidade do Adobe em [account.adobe.com](https://account.adobe.com){target="_blank"}.
 
 **O que acontece após a migração da Identidade do Adobe se minha assinatura usar configurações de restrição de IP?**
 
 Quando as assinaturas são integradas à Identidade do Adobe, as configurações de restrição de IP não são migradas para o Adobe Admin Console. As configurações de restrição de IP da Marketo incluem permitir somente o acesso de endereços IP específicos e bloquear o acesso de endereços IP específicos. No momento, o Adobe Identity Management System não oferece suporte aos recursos de restrição de IP.
 
-A partir de 2024, o Adobe Identity Management System lançará um recurso para oferecer suporte somente a endereços IP específicos, oferecendo suporte a uma transição para usuários do Marketo que atualmente utilizam esse recurso. Aqueles que atualmente usam esse recurso não serão submetidos à migração do usuário até que o recurso seja lançado. Depois que o recurso for entregue, os usuários serão notificados sobre a migração que está sendo agendada. Mais informações sobre o recurso serão fornecidas quando disponíveis.
+A partir do início de 2025, o Adobe Identity Management System lançará um recurso para oferecer suporte somente a endereços IP específicos, oferecendo suporte a uma transição para usuários do Marketo que atualmente utilizam esse recurso. Aqueles que atualmente usam esse recurso não serão submetidos à migração do usuário até que o recurso seja lançado. Depois que o recurso for entregue, os usuários serão notificados sobre a migração que está sendo agendada. Mais informações sobre o recurso serão fornecidas quando disponíveis.
 
 Os usuários que atualmente usam a restrição de IP, bloqueando endereços específicos do acesso, não poderão mais usar esse recurso após serem migrados para a Identidade do Adobe, pois ele não é compatível com o Sistema Adobe Identity Management.
 
@@ -123,3 +129,9 @@ Quando as assinaturas são integradas à Identidade do Adobe, o Logon único (SS
 **Tenho mais de uma assinatura, mas nem todas têm o Logon Único habilitado. O que acontece após a migração de identidade do Adobe?**
 
 Quando as assinaturas são integradas à Identidade do Adobe, o Logon único (SSO) é configurado no nível da Organização do Adobe. Isso significa que o SSO se aplica a todas as instâncias de produto na Adobe Org. Quando o SSO estiver configurado, ele será aplicado a todas as instâncias do Marketo nessa Adobe Org. Anteriormente, o Marketo oferecia suporte a essa configuração no nível da instância. Isso não é suportado pelo sistema Adobe Identity Management.
+
+**Agora preciso entrar no Experience Cloud para acessar o Marketo Engage. Há uma maneira de simplificar este fluxo?**
+
+Sim. Você pode criar um marcador do navegador do link que é iniciado depois de clicar no botão **Iniciar** na página de entrada da instância do Marketo Engage para ignorar essa página a partir de agora.
+
+![](assets/faq-1.png)
