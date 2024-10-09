@@ -4,20 +4,20 @@ description: Selecione o idioma, a localidade e o fuso horário - Documentação
 title: Selecione seu idioma, localidade e fuso horário
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 7%
+source-wordcount: '215'
+ht-degree: 4%
 
 ---
 
 # Selecione seu idioma, localidade e fuso horário {#select-your-language-locale-and-time-zone}
 
-Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto. Veja como alterar o idioma, a localidade e o fuso horário da instância do Marketo Engage.
+Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto. Veja como alterar o idioma, a localidade e o fuso horário da sua assinatura do Marketo Engage.
 
 >[!IMPORTANT]
 >
->Este artigo é somente para aqueles que _não_ usam [Marketo com Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Se você fizer isso, as configurações descritas abaixo poderão ser acessadas em seu [perfil de conta do Adobe](https://account.adobe.com/profile){target="_blank"}.
+>Se a sua assinatura do Marketo Engage tiver sido migrada para o [Marketo com Identidade do Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, somente o [fuso horário](#change-your-time-zone) neste artigo se aplica a você. Para alterar seu idioma e/ou localidade, essas configurações devem ser acessadas em seu [perfil de conta do Adobe](https://account.adobe.com/profile){target="_blank"}.
 
 ## Idiomas suportados {#supported-languages}
 
@@ -28,7 +28,9 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
 * Português
 * Espanhol
 
-## Alterar idioma, local e fuso horário do usuário {#change-user-language-locale-and-time-zone}
+## Alterar idioma, localidade e fuso horário do usuário {#change-user-language-locale-and-time-zone}
+
+Siga estas etapas para chegar à área correta e escolha a configuração que deseja alterar.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -42,7 +44,9 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Altere seu **[!UICONTROL Idioma]**.
+### Alterar idioma {#change-your-language}
+
+1. Clique no menu suspenso **[!UICONTROL Idioma]** e faça sua seleção.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -50,18 +54,22 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
    >
    >Você também tem a opção de alterar apenas seu idioma clicando no menu suspenso de idioma na parte superior da página de logon.
 
-1. Altere sua **[!UICONTROL Localidade]**.
+### Alterar localidade {#change-your-locale}
+
+1. Clique no menu suspenso **[!UICONTROL Local]** e faça sua seleção.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Altere seu **[!UICONTROL Fuso Horário]**.
+### Alterar fuso horário {#change-your-time-zone}
+
+1. Clique no menu suspenso **[!UICONTROL Fuso horário]** e faça sua seleção.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Clique em **[!UICONTROL Salvar]**.
+## Salvar {#save}
+
+1. Depois de alterar as configurações desejadas, clique em **[!UICONTROL Salvar]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
-Excelente! Seu navegador será atualizado e você verá as alterações refletidas.
-
-![](assets/select-your-language-locale-and-time-zone-8.png)
+Pronto! Seu navegador será atualizado e você verá as alterações refletidas.

@@ -3,10 +3,10 @@ description: Configuração do administrador - Documentação do Marketo - Docum
 title: Configuração de administração
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '222'
+ht-degree: 2%
 
 ---
 
@@ -24,7 +24,7 @@ Depois de adicionado como um administrador de sistema do Adobe para o Marketo En
 
    ![](assets/admin-setup-2.png)
 
-## Criar um perfil de produto {#create-a-product-profile}
+## Criar um perfil do produto {#create-a-product-profile}
 
 Depois que o administrador do sistema acessar o Admin Console, é hora de criar um perfil de produto. É assim que seus usuários/administradores obtêm acesso ao Marketo Engage.
 
@@ -44,9 +44,11 @@ Depois que o administrador do sistema acessar o Admin Console, é hora de criar 
 
    ![](assets/admin-setup-5.png)
 
-1. Dê um nome ao Perfil de Produto (o Nome de Exibição e a Descrição são opcionais) e clique em **[!UICONTROL Salvar]**.
+1. Dê um nome ao Perfil de Produto (o Nome para Exibição e a Descrição são opcionais) e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/admin-setup-6.png)
+
+1. Nenhum serviço precisa ser selecionado. Clique em **[!UICONTROL Salvar]**.
 
 >[!NOTE]
 >
