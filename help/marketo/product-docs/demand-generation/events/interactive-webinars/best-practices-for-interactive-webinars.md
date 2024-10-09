@@ -3,9 +3,9 @@ description: Práticas recomendadas para webinários interativos - Documentaçã
 title: Práticas recomendadas para webinários interativos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '1691'
+source-wordcount: '1704'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * Evite agendar sessões consecutivas. Certifique-se de ter pelo menos 30 minutos de tempo de preparação antes do início do webinário. Isso permitirá que você carregue qualquer alteração de última hora na apresentação, ajuste o microfone e a câmera e deixe qualquer novo apresentador confortável com a interface.
 
-* Atribua funções aos membros da equipe. Adicione-os como Co-hosts e Apresentadores. Hosts e Apresentadores podem entrar na sala antes dos participantes.
+* Atribua funções aos membros da equipe. Adicione-os como Co-hosts e Apresentadores. Hosts e Apresentadores podem entrar na sala antes dos participantes. Mas certifique-se de [projetar seu Webinar interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes_ de adicionar Co-hosts e Apresentadores.
 
 ### Promoção do evento {#promoting-your-event}
 

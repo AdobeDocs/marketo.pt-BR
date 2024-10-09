@@ -3,16 +3,20 @@ description: Adicionar uma equipe ao webinário - Documentação do Marketo - Do
 title: Adicionar uma equipe ao webinário
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '411'
+ht-degree: 0%
 
 ---
 
 # Adicionar uma equipe ao webinário {#add-a-webinar-team}
 
 Uma Equipe de webinários em webinários interativos consiste em todas as funções que contribuem para a entrega bem-sucedida do webinário no Adobe Connect. Isso inclui apresentadores e co-hosts.
+
+>[!IMPORTANT]
+>
+>É altamente recomendável que você [crie seu webinário](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes_ de adicionar apresentadores ou co-hosts.
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ O apresentador é uma função externa que participa da entrega da experiência 
 
 >[!PREREQUISITES]
 >
->[Criar um webinário interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [Criar um webinário interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [Criar seu webinário interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## Adicionar um Co-host {#add-a-co-host}
 
@@ -70,4 +76,4 @@ O apresentador é uma função externa que participa da entrega da experiência 
 
 >[!MORELIKETHIS]
 >
->[Criar um webinário interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[Criar um webinário interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
