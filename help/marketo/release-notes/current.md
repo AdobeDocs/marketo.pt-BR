@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 6%
+source-wordcount: '483'
+ht-degree: 5%
 
 ---
 
@@ -54,8 +54,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
    <tr> 
    <td><strong>Contagem da Smart List "Definida para Afetar"</strong>: veja quantas pessoas serão afetadas ao editar as regras de qualificação de uma Campanha Inteligente.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
    <tr> 
    <td><strong>Botão Minha conta no painel de navegação</strong>: para aqueles que migraram para o Adobe Identity Management System, um novo botão "Minha conta" no painel de navegação esquerdo permite configurar seu fuso horário e acessar os detalhes da assinatura.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   <tr> 
    <td> </td> 
