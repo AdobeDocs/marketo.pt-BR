@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '487'
 ht-degree: 5%
 
 ---
@@ -78,7 +78,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <ul>
    <li>Filtrar pessoas excluídas e mescladas das métricas de desempenho de email</li>
    <li>Emails agora classificados como <i>abortados</i> após aguardar três dias para atividade de resposta</li>
-   <li>O email da conta abre no nível da campanha</li>
+   <li>As aberturas de email são contadas como abertas separadamente, para cada Campanha Inteligente</li>
    <li>Acompanhamento de atividades de email aprimorado por meio do refinamento da localização do pixel de rastreamento</li>
    </td> 
    <td>Remetido</td>

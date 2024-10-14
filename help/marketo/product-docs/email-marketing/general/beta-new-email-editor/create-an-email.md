@@ -4,9 +4,9 @@ title: Criar um email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -222,7 +222,7 @@ CAPTURA DE TELA
 
 ## Referenciar um email {#reference-an-email}
 
-Após criar um email no novo editor, você pode referenciá-lo em Campanhas inteligentes ou Listas inteligentes como faria com qualquer outro email.
+Após criar um email no novo editor, você pode referenciá-lo em Campanhas inteligentes e/ou Listas inteligentes como faria com qualquer outro email.
 
 * Faça referência a ele em uma Smart List [seguindo as etapas habituais](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
