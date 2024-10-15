@@ -4,7 +4,7 @@ title: Modelos de e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 1c29810774d3c2cdcac19381edfc7388d67b45ee
+source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
 workflow-type: tm+mt
 source-wordcount: '1411'
 ht-degree: 1%
@@ -310,7 +310,7 @@ Esta ação pode ser tomada a partir de:
 * Página de listagem _Modelos de email_ - Clique no ícone Mais ações (três pontos) do modelo de email desejado e escolha Editar.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MKTO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
 ```
 
 Esta ação direciona você à página _Criar modelo_ ou à página do editor de conteúdo visual com base no último status salvo do modelo de email. Aqui, você pode editar o conteúdo do seu modelo de email conforme necessário. Consulte Criar modelos de email para obter informações sobre as opções de edição.
