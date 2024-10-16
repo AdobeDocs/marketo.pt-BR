@@ -4,30 +4,26 @@ title: Métricas de backlog de sincronização do Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 38929abef0f64762c92b153630ce75373ba7a300
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
 # Métricas de backlog de sincronização do Salesforce  {#salesforce-sync-backlog-metrics}
 
-A lista de pendências de sincronização representa os registros com sincronização pendente de Salesforce para Marketo Engage e vice-versa. Garantir que o backlog permaneça sob controle resultará em sincronizações tranquilas e oportunas.
-
->[!NOTE]
->
->A lista de pendências abrange os números de pós-atualizações de sincronização pendentes em ambos os lados, e não aqueles que são realizados pelas etapas de fluxo de sincronização, como as etapas de fluxo [Sincronizar Pessoa com o SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} ou [Sincronizar Pessoa com o Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"}.
+O backlog de sincronização é o nome usado para a sincronização pendente de registros. Conta para registros com sincronização pendente de Salesforce para Marketo Engage e vice-versa. Garantir que o backlog permaneça sob controle levará a sincronizações suaves e temporais. O backlog cobre os números pendentes de atualizações de publicação de sincronização em ambos os lados, e não aqueles que são realizados pelas etapas de fluxo de sincronização, como o lead de sincronização para as etapas de fluxo do SFDC.
 
 ## Como acessar o {#how-to-access}
 
 1. No Marketo Engage, vá para a área **Admin**.
 
-   CAPTURA DE TELA
+   ![](assets/salesforce-sync-backlog-metrics-1.png)
 
 1. Selecione **Salesforce**.
 
-   CAPTURA DE TELA
+   ![](assets/salesforce-sync-backlog-metrics-2.png)
 
 ## Sincronizar Tendência de Backlog {#sync-backlog-trend}
 
@@ -35,7 +31,7 @@ A tendência do acúmulo reflete as alterações nos acúmulos registrados nos �
 
 O backlog é observado em um intervalo de tempo específico de 4 horas no eixo x. Esse valor é para todos os objetos em sincronia. Esse é o total do backlog no Salesforce e no Marketo Engage aguardando para sincronização.
 
-CAPTURA DE TELA
+![](assets/salesforce-sync-backlog-metrics-3.png)
 
 ## Throughput de Sincronização e Backlog {#sync-throughput-and-backlog}
 
@@ -45,7 +41,7 @@ As estatísticas refletem a taxa de transferência e o status do backlog para ca
 >
 >As estatísticas são atualizadas continuamente, não por dia.
 
-CAPTURA DE TELA
+![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -95,14 +91,18 @@ Quando uma grande quantidade de atualizações é feita (como a partir de uma al
 
 ## Práticas recomendadas para gerenciar registros pendentes de sincronização {#best-practices}
 
-**Campos sincronizados**: verifique se os campos sincronizados são apenas aqueles que precisam ser sincronizados. As alterações nos campos aumentam o backlog de sincronização e os campos de prioridade mais baixa podem estar parando ou atrasando campos mais importantes em sincronização. Entre em contato com o [Suporte para Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para remover campos em sincronização.
+**Campos visíveis para o Usuário de Sincronização**: verifique se os campos visíveis para sincronização são apenas aqueles que precisam ser sincronizados e têm valor para esforços de marketing. Qualquer atualização em um registro no Salesforce que atualize o carimbo de data e hora da última modificação enfileirará um registro no backlog de sincronização, e a sincronização de campos desnecessários poderá retardar campos mais importantes em sincronização. Se os campos desnecessários estiverem ocultos do usuário de sincronização, as atualizações nesses campos resultarão em um salto muito mais rápido do que uma atualização. Fale com o administrador do Salesforce para analisar as práticas recomendadas aqui e atualizar quais campos estão visíveis para o usuário de sincronização do Marketo.
 
-**Campos sensíveis**: alguns campos têm tendência a atualizações frequentes (por exemplo, campos de moeda que estão sujeitos a alterações de moeda). Verifique se eles precisam ser sincronizados ou se os campos precisam ser criados de forma diferente.
+**Ocultar ou filtrar registros desnecessários**: se um registro não for comercializável, poderá estar desperdiçando recursos de sincronização. Se o usuário de sincronização não conseguir vê-la, então não desperdiçará recursos tentando sincronizá-la. O [Suporte para Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} pode ajudar a configurar um filtro de sincronização para impedir que os registros sejam sincronizados com base em critérios adicionais. Mais informações sobre a configuração de um Filtro de Sincronização Personalizado [podem ser encontradas aqui](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. É altamente recomendável usar campos de índice no Salesforce (entre em contato com a salesforce para obter mais informações).
 
-**Objetos personalizados**: revise periodicamente objetos personalizados em sincronia e remova todos os que não precisem mais ser sincronizados.
+**Agendar atualizações em massa durante horas não críticas**: revise seus padrões de sincronização de dados para identificar períodos não críticos. Verifique se as atualizações em massa podem ser agendadas nesses períodos não críticos, se possível.
 
-**Atividades**: verifique se há atividades em sincronização que possam ser removidas da sincronização.
+**Campos Atualizados com Frequência**: alguns campos estão sujeitos a atualizações frequentes. Por exemplo, campos de moeda que estão sujeitos a alterações de moeda. Verifique se eles precisam ser sincronizados ou se os campos devem ser criados de forma diferente. Se você tiver outros campos que são atualizados com frequência e não são necessários, oculte-os do usuário de sincronização. Certifique-se de discutir com suas integrações de administrador do SFDC que podem estar atualizando campos.
 
-**Agendar atualizações em massa durante horas não críticas**: revise seus padrões de sincronização de dados para identificar períodos não críticos. Veja se as atualizações em massa podem ser agendadas durante esses períodos não críticos.
+**Objetos personalizados**: revise periodicamente [objetos personalizados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar e desabilitar aqueles que não precisam mais ser sincronizados.
 
-Se você estiver seguindo todas as práticas recomendadas acima e ainda estiver com listas de pendências significativas, contate o [Suporte de Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+**Atividades**: [Verifique se alguma atividade](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitou a sincronização que pode ser removida da sincronização.  Essas atividades só são sincronizadas uma vez por dia por lead.
+
+**Revisar erros de sincronização**: a manipulação de exceções pode retardar a sincronização. A revisão das notificações do usuário e a resolução de erros podem melhorar a integridade da sincronização.
+
+**Contate o Suporte**: se você estiver seguindo todas as práticas recomendadas acima e ainda estiver com listas de pendências significativas, contate o [Suporte de Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}.
