@@ -4,9 +4,9 @@ title: Criação de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1474'
 ht-degree: 1%
 
 ---
@@ -196,14 +196,38 @@ Quando estiver pronto, clique em Salvar
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-Abra a árvore de navegação para acessar estruturas específicas e suas colunas/componentes para uma edição mais granular.
+Abra a árvore de navegação para acessar estruturas específicas e suas colunas/componentes para uma edição mais granular. Para acessar o, clique no ícone da Árvore de navegação.
 
-1. Para acessar o, clique no ícone da Árvore de navegação.
+![](assets/authoring-layers-settings-styles-1.png)
 
-CAPTURA DE TELA
+O exemplo abaixo descreve as etapas para ajustar o preenchimento e o alinhamento vertical dentro de um componente de estrutura composto por colunas.
 
+1. Selecione a coluna no componente de estrutura diretamente na tela ou usando a _Árvore de navegação_ exibida à esquerda.
 
+1. Na barra de ferramentas da coluna, clique na ferramenta _[!UICONTROL Selecionar uma coluna]_ e escolha a que deseja editar.
 
+   Também é possível selecioná-la na árvore de estrutura. Os parâmetros editáveis para essa coluna são exibidos nas guias _[!UICONTROL Configurações]_ e _[!UICONTROL Estilos]_ à direita.
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. Para editar as propriedades da coluna, clique na guia _[!UICONTROL Estilos]_ à direita e altere-os de acordo com suas necessidades:
+
+   * Para **[!UICONTROL Plano de fundo]**, altere a cor do plano de fundo conforme necessário.
+
+     Desmarque a caixa de seleção para um plano de fundo transparente. Habilite a configuração **[!UICONTROL Imagem de plano de fundo]** para usar uma imagem como plano de fundo em vez de uma cor sólida.
+
+   * Para o **[!UICONTROL Alinhamento]**, selecione o ícone _Superior_, _Meio_ ou _Inferior_.
+   * Para **[!UICONTROL Preenchimento]**, defina o preenchimento para todos os lados.
+
+     Selecione **[!UICONTROL Preenchimento diferente para cada lado]** se desejar ajustar o preenchimento. Clique no ícone _Bloquear_ para interromper a sincronização.
+
+   * Expanda a seção **[!UICONTROL Avançado]** para definir estilos embutidos para a coluna.
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. Repita essas etapas conforme necessário para ajustar o alinhamento e o preenchimento das outras colunas no componente.
+
+1. Salve as alterações.
 
 ### Personalizar conteúdo {#personalize-content}
 
