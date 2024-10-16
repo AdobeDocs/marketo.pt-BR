@@ -4,9 +4,9 @@ title: Modelos de e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1728'
 ht-degree: 1%
 
 ---
@@ -149,8 +149,6 @@ Escolha um dos modelos prontos para uso para um head start no design do modelo d
 
 1. Cada componente pode ser personalizado por meio das guias Configurações ou Estilo. Altere a fonte, o estilo do texto, a margem e muito mais.
 
-CAPTURA DE TELA
-
 ### Adicionar o Assets {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ O exemplo abaixo descreve as etapas para ajustar o preenchimento e o alinhamento
 
 ### Personalizar conteúdo {#personalize-content}
 
-Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é diferente.
+Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é diferente. O exemplo abaixo descreve a adição de um token de nome com texto de fallback.
 
-1. Selecione o componente de texto e clique no ícone **Adicionar personalização**.
+1. Selecione o componente de texto. Coloque o cursor onde deseja que o token apareça e clique no ícone **Adicionar personalização**.
 
-   CAPTURA DE TELA
+   ![](assets/personalize-content-1.png)
 
 1. Clique no [tipo de token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} desejado.
 
-   CAPTURA DE TELA
+   ![](assets/personalize-content-2.png)
 
-1. Clique em + ou ... para adicionar um token ao espaço em branco.
+1. Encontre o token desejado e clique no ícone **...** (se você clicar no ícone +, será adicionado um token sem texto de fallback).
 
-   CAPTURA DE TELA
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Texto de fallback&quot; é o novo termo do editor para o valor padrão. Exemplo: ``{{lead.First Name:default=Friend}}``
+   >&quot;Texto de fallback&quot; é o novo termo do editor para o valor padrão. Exemplo: ``{{lead.First Name:default=Friend}}``. É recomendado caso não haja valor para a pessoa no campo escolhido.
 
-1. Clique em **Salvar** quando terminar.
+1. Defina o texto de fallback e clique em **Adicionar**.
+
+   ![](assets/personalize-content-4.png)
+
+1. Clique em **Salvar**.
 
 ### Editar rastreamento de URL {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
 
 1. Clique no ícone Links para exibir todos os URLs do email.
 
-   CAPTURA DE TELA
+   ![](assets/edit-url-tracking-1.png)
 
 1. Clique no ícone de lápis para editar o rastreamento dos links desejados.
 
-   CAPTURA DE TELA
+1. Clique no menu suspenso **Tipo de rastreamento** e faça sua seleção.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?

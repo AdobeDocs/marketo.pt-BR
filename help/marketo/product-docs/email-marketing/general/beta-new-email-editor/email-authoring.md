@@ -4,9 +4,9 @@ title: Criação de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 1%
 
 ---
@@ -141,7 +141,7 @@ Escolha um dos modelos prontos para uso para um head start no design do modelo d
    >
    >Selecione o componente de coluna n:n para definir o número de colunas de sua escolha (entre três e 10). Você também pode definir a largura de cada coluna movendo as setas abaixo dela.
 
-   CAPTURA DE TELA
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ Escolha um dos modelos prontos para uso para um head start no design do modelo d
 
 1. Na seção Conteúdo, arraste sobre os itens desejados e solte-os em um ou mais componentes da estrutura.
 
-   CAPTURA DE TELA
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. Cada componente pode ser personalizado por meio das guias Configurações ou Estilo. Altere a fonte, o estilo do texto, a margem e muito mais.
-
-CAPTURA DE TELA
 
 ### Adicionar o Assets {#add-assets}
 
@@ -261,11 +259,13 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
 
 1. Clique no ícone Links para exibir todos os URLs do email.
 
-   CAPTURA DE TELA
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. Clique no ícone de lápis para editar o rastreamento dos links desejados.
 
-   CAPTURA DE TELA
+1. Clique no menu suspenso **Tipo de rastreamento** e faça sua seleção.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ Quando o conteúdo da mensagem é definido, você pode usar perfis de teste para
 
 Para visualizar seu conteúdo de email, clique em **Simular conteúdo** e adicione um perfil de teste para verificar sua mensagem usando os dados do perfil de teste.
 
-CAPTURA DE TELA
+![](assets/test-your-email-1.png)
 
 ## Referenciar um email {#reference-an-email}
 
