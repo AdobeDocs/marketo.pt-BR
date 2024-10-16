@@ -4,9 +4,9 @@ title: Criação de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1259'
 ht-degree: 1%
 
 ---
@@ -43,9 +43,9 @@ Pronto. Agora é hora de projetar seu email.
 
 ## Escolha seu tipo de conteúdo {#choose-your-content-type}
 
-1. No email que acabou de criar, clique em **+ Adicionar conteúdo de email**.
+1. No email que acabou de criar, clique em **Adicionar conteúdo de email**.
 
-   CAPTURA DE TELA
+   ![](assets/choose-your-content-type-1.png)
 
 1. A página _Criar seu email_ é carregada. Você pode escolher entre algumas opções:
 
@@ -83,11 +83,9 @@ Você pode importar conteúdo de HTML existente para criar seu email. O conteúd
 
 1. Na página Criar seu modelo, selecione **Importar HTML**.
 
-   CAPTURA DE TELA
+1. Arraste e solte o arquivo de HTML ou .zip desejado (ou selecione um arquivo do seu computador) e clique em **Importar**.
 
-1. Arraste e solte o arquivo de HTML ou .zip desejado e clique em **Importar**.
-
-   CAPTURA DE TELA
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ Há dois tipos de modelos para escolher.
 
 >[!TAB Modelos de exemplo]
 
-Escolha um de nossos modelos prontos para uso para iniciar o design do seu email.
+Escolha um dos modelos prontos para uso para um head start no design do modelo de email.
 
-1. Na página Criar seu email, selecione **Modelos de exemplo**.
+1. A guia Modelos de amostra é aberta por padrão.
 
-   CAPTURA DE TELA
+1. Selecione o template que deseja usar.
 
-1. Selecione o modelo desejado.
+   ![](assets/authoring-sample-templates-1.png)
 
-   CAPTURA DE TELA
+1. Clique em **Usar este modelo**.
 
-1. Uma pré-visualização é exibida. Para confirmar sua seleção, clique em **Usar este modelo**.
+   ![](assets/authoring-sample-templates-2.png)
 
-   CAPTURA DE TELA
+1. Edite o conteúdo conforme desejado usando o designer de conteúdo visual.
 
 >[!TAB Modelos salvos]
 
-Escolha um dos modelos criados anteriormente.
+1. Clique na guia **Modelos salvos** e selecione o modelo desejado.
 
-1. Na página Criar seu email, selecione **Modelos salvos**.
+   ![](assets/authoring-saved-templates-1.png)
 
-   CAPTURA DE TELA
+1. Clique em **Usar este modelo**.
 
-1. Selecione o modelo desejado.
+   ![](assets/authoring-saved-templates-2.png)
 
-   CAPTURA DE TELA
-
-1. Uma pré-visualização é exibida. Para confirmar sua seleção, clique em **Usar este modelo**.
-
-   CAPTURA DE TELA
+1. Edite o conteúdo conforme desejado usando o designer de conteúdo visual.
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ CAPTURA DE TELA
 
 ### Personalizar conteúdo {#personalize-content}
 
-Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é diferente.
+Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é diferente. O exemplo abaixo descreve a adição de um token de nome com texto de fallback.
 
-1. Selecione o componente de texto e clique no ícone **Adicionar personalização**.
+1. Selecione o componente de texto. Coloque o cursor onde deseja que o token apareça e clique no ícone **Adicionar personalização**.
 
-   CAPTURA DE TELA
+   ![](assets/authoring-personalize-content-1.png)
 
 1. Clique no [tipo de token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} desejado.
 
-   CAPTURA DE TELA
+   ![](assets/authoring-personalize-content-2.png)
 
-1. Clique em + ou ... para adicionar um token ao espaço em branco.
+1. Encontre o token desejado e clique no ícone **...** (se você clicar no ícone +, será adicionado um token sem texto de fallback).
 
-   CAPTURA DE TELA
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Texto de fallback&quot; é o novo termo do editor para o valor padrão. Exemplo: ``{{lead.First Name:default=Friend}}``
+   >&quot;Texto de fallback&quot; é o novo termo do editor para o valor padrão. Exemplo: ``{{lead.First Name:default=Friend}}``. É recomendado caso não haja valor para a pessoa no campo escolhido.
 
-1. Clique em **Salvar** quando terminar.
+1. Defina o texto de fallback e clique em **Adicionar**.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. Clique em **Salvar**.
 
 ### Editar rastreamento de URL {#edit-url-tracking}
 

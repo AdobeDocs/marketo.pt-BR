@@ -3,9 +3,9 @@ description: Noções básicas sobre as opções de envio do Sales Campaign para
 title: Noções básicas sobre as opções de envio do Sales Campaign para etapas de email
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 3e1db4c113df7278eadcf1b61ee225989e70452b
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '750'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Se for a primeira etapa e o primeiro dia na Campanha de vendas, você terá as s
 
 ### Criar uma tarefa; eu mesmo vou enviar este e-mail {#first-step-create-a-task}
 
-* Esta opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
+* Essa opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
 * Depois de fazer essa seleção, ao iniciar sua Campanha de vendas, colocaremos essas tarefas na fila do Centro de comando e do Feed ao vivo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
 
    * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
@@ -46,6 +46,10 @@ Para qualquer dia/etapa subsequente em sua Campanha de vendas, você terá as se
 * Essa opção enviará o email ao mesmo tempo que o email diretamente antes dele.
 * Ele ainda será enviado no dia em que estiver associado.
 
+>[!IMPORTANT]
+>
+>Enviar um email ao mesmo tempo que o email anterior não é suportado para emails enviados no mesmo dia. Em vez disso, o email será enviado no horário do email enviado do dia anterior. Se essa opção estiver selecionada para um email no primeiro dia da campanha (não recomendado), esse email será enviado imediatamente no início da campanha.
+
 ### Enviar este email no seguinte horário {#subsequent-send-at-following-time}
 
 * Quando você inicia sua Campanha de vendas adicionando pessoas a ela, agendamos o email para este horário.
@@ -53,7 +57,7 @@ Para qualquer dia/etapa subsequente em sua Campanha de vendas, você terá as se
 
 ### Criar uma tarefa; eu mesmo vou enviar este e-mail {#subsequent-create-a-task}
 
-* Esta opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
+* Essa opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
 * Depois de fazer essa seleção, ao iniciar sua Campanha de vendas, as Ações do Sales Insight enfileirarão essas tarefas no Command Center e no Feed ativo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
 
    * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.

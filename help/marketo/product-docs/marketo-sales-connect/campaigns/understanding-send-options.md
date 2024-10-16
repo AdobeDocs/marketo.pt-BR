@@ -4,10 +4,10 @@ description: Noções básicas sobre as opções de envio - Documentação do Ma
 title: Noções básicas sobre as opções de envio
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 5%
+source-wordcount: '609'
+ht-degree: 0%
 
 ---
 
@@ -19,18 +19,18 @@ Se for o primeiro passo e o primeiro dia do Campaign, você terá as seguintes o
 
 ![](assets/image2019-10-25-10-43-19.png)
 
-Escolherei quando enviar este email
+**Escolherei quando enviar este email**
 
 * Essa opção permite escolher a hora &quot;enviar em&quot; para o primeiro email do Campaign quando você inicia o Campaign adicionando pessoas.
 
-Enviar este email no seguinte horário
+**Enviar este email no seguinte horário**
 
 * Quando você inicia sua campanha adicionando pessoas a ela, nós agendamos o email para este horário.
 * Você sempre tem a opção de escolher um novo &quot;enviar em&quot; momento em que inicia sua campanha.
 
-Criar uma tarefa; eu mesmo vou enviar este e-mail
+**Criar uma tarefa; eu mesmo enviarei este email**
 
-* Esta opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
+* Essa opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
 * Depois de fazer essa seleção, quando você iniciar sua campanha, colocaremos essas tarefas na fila do Command Center e do Feed ativo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
 
    * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
@@ -38,24 +38,28 @@ Criar uma tarefa; eu mesmo vou enviar este e-mail
 
 Para quaisquer dias/etapas subsequentes do Campaign, você terá as seguintes opções:
 
-Enviar este e-mail no mesmo horário que o e-mail anterior desta campanha
+**Enviar este email ao mesmo tempo que o email anterior nesta Campanha**
 
 * Essa opção enviará o email ao mesmo tempo que o email diretamente antes dele.
 * Ele ainda será enviado no dia em que estiver associado.
 
-Enviar este email no seguinte horário
+>[!IMPORTANT]
+>
+>Enviar um email ao mesmo tempo que o email anterior não é suportado para emails enviados no mesmo dia. Em vez disso, o email será enviado no horário do email enviado do dia anterior. Se essa opção estiver selecionada para um email no primeiro dia da campanha (não recomendado), esse email será enviado imediatamente no início da campanha.
+
+**Enviar este email no seguinte horário**
 
 * Quando você inicia sua campanha adicionando pessoas a ela, nós agendamos o email para este horário.
 * Você sempre tem a opção de escolher um novo &quot;enviar em&quot; momento em que inicia sua campanha.
 
-Criar uma tarefa; eu mesmo vou enviar este e-mail
+**Criar uma tarefa; eu mesmo enviarei este email**
 
-* Esta opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
+* Essa opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
 * Depois de fazer essa seleção, quando você iniciar sua campanha, o Tout enfileirará essas tarefas para você no Command Center e no Feed ativo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
 
    * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
    * Se você abrir essa tarefa no Gmail ou Outlook, ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
 
-Encadear este email no email anterior
+**Encadear este email no email anterior**
 
 * Essa opção de envio será um acompanhamento do email anterior e anexará o corpo do email anterior à parte inferior desse email.

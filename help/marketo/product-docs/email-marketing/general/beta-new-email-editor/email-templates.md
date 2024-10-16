@@ -4,16 +4,16 @@ title: Modelos de e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
 
 # Modelos de e-mail {#email-templates}
 
-Texto de introdução aqui.
+Para um processo de design acelerado e aprimorado, é possível criar modelos de email independentes para reutilizar facilmente o conteúdo personalizado.
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ Texto de introdução aqui.
 
 Na página _Criar seu modelo_, você pode escolher entre algumas opções. [Criar do zero](#design-from-scratch), [importar seu próprio HTML](#import-html) ou [selecionar um modelo existente](#choose-a-template) (uma de nossas amostras ou uma que você já salvou).
 
+![](assets/design-your-template-1.png)
+
 ### Criar do zero {#design-from-scratch}
 
 Defina o conteúdo adicionando e movendo elementos estruturais com ações simples de arrastar e soltar.
 
 1. Na página _Criar seu modelo_, selecione **Criar do zero**.
-
-   CAPTURA DE TELA
 
 1. Adicionar [estrutura e conteúdo](#add-structure-and-content).
 
@@ -71,11 +71,9 @@ Você pode importar conteúdo de HTML existente para criar seus modelos de email
 
 1. Na página _Criar seu modelo_, selecione **Importar HTML**.
 
-   CAPTURA DE TELA
+1. Arraste e solte o arquivo de HTML ou .zip desejado (ou selecione um arquivo do seu computador) e clique em **Importar**.
 
-1. Arraste e solte o arquivo de HTML ou .zip desejado e clique em **Importar**.
-
-   CAPTURA DE TELA
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ Há dois tipos de modelos para escolher.
 
 >[!TAB Modelos de exemplo]
 
-Escolha um dos quatro modelos prontos para uso para um head start no design do modelo de email.
+Escolha um dos modelos prontos para uso para um head start no design do modelo de email.
 
-1. Selecione Modelos de amostra.
+1. A guia Modelos de amostra é aberta por padrão.
 
-   CAPTURA DE TELA
+1. Selecione o template que deseja usar.
 
-1. Texto.
+   ![](assets/sample-templates-1.png)
 
-   CAPTURA DE TELA
+1. Clique em **Usar este modelo**.
+
+   ![](assets/sample-templates-2.png)
+
+1. Edite o conteúdo conforme desejado usando o designer de conteúdo visual.
 
 >[!TAB Modelos salvos]
 
-1. Selecione Modelos salvos.
+1. Clique na guia **Modelos salvos** e selecione o modelo desejado.
 
-   CAPTURA DE TELA
+   ![](assets/saved-templates-1.png)
 
-1. Texto.
+1. Clique em **Usar este modelo**.
 
-   CAPTURA DE TELA
+   ![](assets/saved-templates-2.png)
+
+1. Edite o conteúdo conforme desejado usando o designer de conteúdo visual.
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ Escolha um dos quatro modelos prontos para uso para um head start no design do m
    >
    >Selecione o componente de coluna n:n para definir o número de colunas de sua escolha (entre três e 10). Você também pode definir a largura de cada coluna movendo as setas abaixo dela.
 
-   CAPTURA DE TELA
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ Escolha um dos quatro modelos prontos para uso para um head start no design do m
 
 1. Na seção Conteúdo, arraste sobre os itens desejados e solte-os em um ou mais componentes da estrutura.
 
-   CAPTURA DE TELA
+   ![](assets/add-structure-and-content-2.png)
 
 1. Cada componente pode ser personalizado por meio das guias Configurações ou Estilo. Altere a fonte, o estilo do texto, a margem e muito mais.
 
@@ -194,6 +198,30 @@ Abra a árvore de navegação para acessar estruturas específicas e suas coluna
 
 CAPTURA DE TELA
 
+
+O exemplo abaixo descreve como ajustar o preenchimento e o alinhamento vertical dentro de um componente de estrutura composto por três colunas.
+
+Selecione o componente de estrutura diretamente no email ou usando a Árvore de navegação disponível no menu à esquerda.
+
+Na barra de ferramentas, clique em Selecionar uma coluna e escolha a que deseja editar. Também é possível selecioná-la na árvore de estrutura.
+
+Os parâmetros editáveis para essa coluna são exibidos na guia Estilos.
+
+
+
+Em Alinhamento, selecione Superior, Meio ou Inferior.
+
+
+
+Em Preenchimento, defina o preenchimento para todos os lados.
+
+Selecione Diferente de preenchimento para cada lado se desejar ajustar o preenchimento. Clique no ícone de bloqueio para interromper a sincronização.
+
+
+
+Continue de forma semelhante para ajustar o alinhamento e o preenchimento das outras colunas.
+
+Salve as alterações.
 
 
 
