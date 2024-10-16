@@ -4,16 +4,16 @@ title: Criação de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 1%
 
 ---
 
 # Criação de email {#email-authoring}
 
-Texto de introdução aqui.
+Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email Designer.
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ Os erros impedem que você envie ou teste o email até que sejam resolvidos:
 
 * **A versão do email da mensagem está vazia**: esse erro ocorre quando o conteúdo do email não foi configurado.
 
-## Testar seu email
+## Testar seu email {#test-your-email}
 
 Quando o conteúdo da mensagem é definido, você pode usar perfis de teste para pré-visualizá-la, enviar provas e controlar a forma como ela é renderizada em clientes populares de desktop, dispositivos móveis e baseados na Web. Se você inseriu conteúdo personalizado, é possível verificar como ele é exibido na mensagem usando os dados do perfil de teste.
 
