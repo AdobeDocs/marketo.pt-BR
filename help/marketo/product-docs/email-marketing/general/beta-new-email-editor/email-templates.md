@@ -4,7 +4,7 @@ title: Modelos de e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1728'
 ht-degree: 1%
@@ -93,9 +93,9 @@ Agora você pode personalizar o arquivo importado, conforme necessário, com o e
 
 Há dois tipos de modelos para escolher.
 
-* Modelos de exemplo: o Marketo Engage oferece quatro modelos de email prontos para uso.
+* **Modelos de exemplo**: o Marketo Engage oferece quatro modelos de email predefinidos.
 
-* Modelos salvos: são modelos criados do zero usando o menu Modelos ou um email que você criou e optou por salvar como modelo.
+* **Modelos salvos**: são modelos criados do zero usando o menu Modelos ou um email que você criou e optou por salvar como modelo.
 
 >[!BEGINTABS]
 
