@@ -4,9 +4,9 @@ description: Configurar protocolos para o Marketo Engage - Documentação do Mar
 title: Configurar protocolos para o Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 06c19a48e84b192cd52ea5d0ce6104ac52a85e8e
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '2147'
+source-wordcount: '2145'
 ht-degree: 0%
 
 ---
@@ -300,9 +300,6 @@ As tabelas a seguir cobrem todos os servidores Marketo Engage que fazem chamadas
  <tbody>
   <tr>
    <th>Bloco IP (Notação CIDR)</th>
-  </tr>
-  <tr>
-   <td>94.236.119.0/26</td>
   </tr>
   <tr>
    <td>103.237.104.0/22</td>
