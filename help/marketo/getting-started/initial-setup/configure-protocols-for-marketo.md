@@ -4,9 +4,9 @@ description: Configurar protocolos para o Marketo Engage - Documentação do Mar
 title: Configurar protocolos para o Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
+source-git-commit: 06c19a48e84b192cd52ea5d0ce6104ac52a85e8e
 workflow-type: tm+mt
-source-wordcount: '2149'
+source-wordcount: '2147'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,6 @@ Quando seu grupo de marketing usa o Marketo Engage para enviar emails de teste (
 
 Incluir na lista de permissões Adicione esses endereços IP ao seu arquivo de pesquisa corporativo:
 
-94.236.119.0/26
-
 103.237.104.0/22
 
 130.248.172.0/24
@@ -110,22 +108,22 @@ Sua equipe de marketing também deve ter enviado informações de DKIM (Domain K
 
    Copie o HostRecord e o TXTValue para cada DKIMDomain que você configurou depois de seguir as [instruções aqui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Não se esqueça de verificar cada domínio em Admin > Email > DKIM depois que sua equipe de TI concluir esta etapa.
 
-## Etapa 4: configurar DMARC {#set-up-dmarc}
+## Etapa 4: configurar o DMARC {#set-up-dmarc}
 
-DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) é um protocolo de autenticação usado para ajudar as organizações a proteger seu domínio contra o uso não autorizado. O DMARC estende os protocolos de autenticação existentes, como SPF e DKIM, para informar aos servidores destinatários quais ações eles devem tomar se ocorrer uma falha na autenticação em seu domínio. Embora o DMARC seja opcional no momento, ele é altamente recomendado, pois protegerá melhor a marca e a reputação de sua organização. Os principais provedores, como Google e Yahoo, exigirão o uso do DMARC para remetentes em massa a partir de fevereiro de 2024.
+O DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) é um protocolo de autenticação usado para ajudar as organizações a proteger seu domínio contra o uso não autorizado. O DMARC estende os protocolos de autenticação existentes, como SPF e DKIM, para informar aos servidores recipients quais ações devem ser tomadas se ocorrer uma falha na autenticação em seu domínio. Embora o DMARC seja opcional no momento, ele é altamente recomendado, pois protegerá melhor a marca e a reputação de sua organização. Os principais provedores, como Google e Yahoo, exigirão o uso do DMARC para remetentes em massa a partir de fevereiro de 2024.
 
 Para que o DMARC funcione, você deve ter pelo menos um dos seguintes registros TXT de DNS:
 
 * Um SPF válido
 * Um registro DKIM válido para o domínio FROM: (recomendado para Marketo Engage)
 
-Além disso, você deve ter um registro TXT de DNS específico do DMARC para seu FROM: Domain. Opcionalmente, um endereço de email de sua escolha pode ser definido para indicar para onde os relatórios DMARC devem ir na organização, para que você possa monitorar os relatórios.
+Além disso, você deve ter um registro TXT de DNS específico da DMARC para o seu FROM: Domain. Opcionalmente, um endereço de email de sua escolha pode ser definido para indicar para onde os relatórios do DMARC devem ir na organização, para que você possa monitorar os relatórios.
 
-Como prática recomendada, é recomendável implantar lentamente a implementação DMARC escalando sua política DMARC de p=none, para p=quarantine, para p=reject conforme você obtém a compreensão do impacto potencial do DMARC e definir sua política DMARC para alinhamento relaxado no SPF e DKIM.
+Como prática recomendada, é recomendável implantar lentamente a implementação do DMARC, escalando sua política do DMARC de p=none para p=quarantine, para p=reject conforme você entende o impacto potencial do DMARC e definir sua política do DMARC para alinhamento relaxado no SPF e DKIM.
 
-### Fluxo de trabalho de exemplo do DMARC {#dmarc-example-workflow}
+### Exemplo de fluxo de trabalho do DMARC {#dmarc-example-workflow}
 
-1. Se estiver configurado para receber relatórios DMARC, você deve fazer o seguinte...
+1. Se estiver configurado para receber relatórios do DMARC, você deve fazer o seguinte...
 
    I. Analise o feedback e os relatórios que você recebe e usa (p=none), o que instrui o destinatário a não executar nenhuma ação contra mensagens com falha de autenticação, mas ainda enviar relatórios de email ao remetente.
 
@@ -145,9 +143,9 @@ Como prática recomendada, é recomendável implantar lentamente a implementaç�
 >
 >Use essa política com cuidado e determine se é apropriada para sua organização.
 
-### Relatório DMARC {#dmarc-reporting}
+### Relatórios do DMARC {#dmarc-reporting}
 
-O DMARC oferece a capacidade de receber relatórios sobre emails que falham no SPF/DKIM. Há dois relatórios diferentes gerados por servidores ISP como parte do processo de autenticação que os remetentes podem receber por meio das tags RUA/RUF em sua política DMARC.
+O DMARC oferece a capacidade de receber relatórios sobre emails com falha no SPF/DKIM. Há dois relatórios diferentes gerados por servidores ISP como parte do processo de autenticação que os remetentes podem receber por meio das tags RUA/RUF em sua política do DMARC.
 
 * Relatórios agregados (RUA): não contém nenhuma PII (Informações de identificação pessoal) que seja sensível ao GDPR (Regulamento Geral sobre a Proteção de Dados).
 
@@ -161,7 +159,7 @@ O principal uso desses relatórios é receber uma visão geral dos emails que s�
 
 * Registro direcionando para um endereço de email para receber relatórios: `v=DMARC1; p=none;  rua=mailto:emaill@domain.com;     ruf=mailto:email@domain.com`
 
-### Tags DMARC e o que elas fazem {#dmarc-tags-and-what-they-do}
+### Tags do DMARC e suas funções {#dmarc-tags-and-what-they-do}
 
 Os registros DMARC têm vários componentes chamados tags DMARC. Cada tag tem um valor que especifica um determinado aspecto do DMARC.
 
@@ -179,14 +177,14 @@ Os registros DMARC têm vários componentes chamados tags DMARC. Cada tag tem um
   <tr>
     <td>v</td>
     <td>Obrigatório</td>
-    <td>Essa marca DMARC especifica a versão. Há apenas uma versão a partir de agora, portanto, terá um valor fixo de v=DMARC1</td>
+    <td>Esta tag DMARC especifica a versão. Há apenas uma versão a partir de agora, portanto, terá um valor fixo de v=DMARC1</td>
     <td>V=DMARC1 DMARC1</td>
     <td>DMARC1</td>
   </tr>
   <tr>
     <td>p</td>
     <td>Obrigatório</td>
-    <td>Mostra a política DMARC selecionada e direciona o destinatário para relatar, colocar em quarentena ou rejeitar emails que não passaram nas verificações de autenticação.</td>
+    <td>Mostra a política do DMARC selecionada e direciona o destinatário para relatar, colocar em quarentena ou rejeitar emails que não passaram nas verificações de autenticação.</td>
     <td>p=nenhum, colocar em quarentena ou rejeitar</td>
     <td>-</td>
   </tr>
@@ -198,7 +196,7 @@ Os registros DMARC têm vários componentes chamados tags DMARC. Cada tag tem um
     <br>1: gerar relatório se algo falhar 
     <br>d: gerar relatório se o DKIM falhar 
     <br>s: gerar relatório se o SPF falhar</td>
-    <td>1 (recomendado para relatórios DMARC)</td>
+    <td>1 (recomendado para relatórios do DMARC)</td>
   </tr>
   <tr>
     <td>pct</td>
@@ -224,7 +222,7 @@ Os registros DMARC têm vários componentes chamados tags DMARC. Cada tag tem um
   <tr>
     <td>sp</td>
     <td>Opcional</td>
-    <td>Especifica a política DMARC para subdomínios do domínio pai.</td>
+    <td>Especifica a política do DMARC para subdomínios do domínio pai.</td>
     <td>sp=reject</td>
     <td>-</td>
   </tr>
@@ -245,28 +243,28 @@ Os registros DMARC têm vários componentes chamados tags DMARC. Cada tag tem um
 </tbody>
 </table>
 
-Para obter detalhes completos sobre o DMARC e todas as suas opções, visite [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
+Para obter detalhes completos sobre a DMARC e todas as suas opções, visite [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
 
 ### DMARC e MARKETO ENGAGE {#dmarc-and-marketo-engage}
 
-Há dois tipos de alinhamento para DMARC — alinhamento DKIM e alinhamento SPF.
+Há dois tipos de alinhamento para o DMARC — alinhamento DKIM e alinhamento SPF.
 
 >[!NOTE]
 >
->É recomendável fazer o alinhamento DMARC no DKIM vs SPF para o Marketo Engage.
+>É recomendável fazer o alinhamento do DMARC no DKIM vs SPF para o Marketo Engage.
 
-* DMARC alinhado ao DKIM — Para configurar DMARC alinhado ao DKIM, você deve:
+* DMARC alinhado com DKIM — Para configurar o DMARC alinhado com DKIM, é necessário:
 
    * Configurar DKIM para o FROM: domínio da mensagem. Use as instruções [neste artigo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
-   * Configurar DMARC para o domínio FROM:/DKIM que foi configurado anteriormente
+   * Configure o DMARC para o domínio FROM:/DKIM que foi configurado anteriormente
 
-* SPF alinhado ao DMARC — Para configurar o SPF alinhado ao DMARC por meio do caminho de retorno com marca, você deve:
+* SPF alinhado à DMARC — Para configurar o SPF alinhado à DMARC por meio de um caminho de retorno com marca, você deve:
 
    * Configurar o domínio do caminho de retorno com marca
       * Configurar o registro SPF apropriado
       * Altere o registro MX para apontar de volta para o MX padrão do data center do qual seu email será enviado
 
-   * Configurar DMARC para o domínio do caminho de retorno
+   * Configurar o DMARC para o domínio do caminho de retorno com marca
 
 * Se você estiver enviando emails do Marketo Engage por meio de um IP dedicado e ainda não tiver implementado um caminho de retorno com marca, ou se não tiver certeza se já implementou, abra um tíquete com [Suporte para Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
@@ -292,7 +290,7 @@ Os Marketo Engage [Webhooks](/help/marketo/product-docs/administration/additiona
 
 **Sincronização do CRM**
 
-Marketo Engage [Sincronização do Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} e [Sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} são mecanismos de integração que fazem solicitações HTTP de saída em APIs publicadas pelo seu fornecedor de CRM. Você deve garantir que sua organização de TI não bloqueie o acesso das APIs do fornecedor de CRM a nenhum dos blocos de endereço IP abaixo.
+Marketo Engage [Sincronização do Salesforce CRM](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} e [Sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} são mecanismos de integração que fazem solicitações HTTP de saída para APIs publicadas pelo seu fornecedor de CRM. Você deve garantir que sua organização de TI não bloqueie o acesso das APIs do fornecedor de CRM a nenhum dos blocos de endereço IP abaixo.
 
 **Blocos de Endereço IP de Saída do Marketo Engage**
 
