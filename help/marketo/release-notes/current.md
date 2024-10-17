@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
+source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 5%
 
 ---
@@ -83,6 +83,17 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    </td> 
    <td>Remetido</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Relatório de desempenho de email</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Métricas de lista de pendências de sincronização do Salesforce</strong>: monitore a taxa de transferência de sincronização e as tendências de lista de pendências para planejar e agendar atualizações do CRM para obter uma experiência de sincronização ideal.
+   </td> 
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Métricas de backlog de sincronização do Salesforce</a></td>
   </tr>
  </tbody> 
 </table>
