@@ -4,7 +4,7 @@ title: Criação de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 1%
@@ -160,7 +160,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
 ```
 
 1. Para acessar suas imagens, clique no ícone Seletor de ativos.
@@ -191,7 +191,7 @@ Quando estiver pronto, clique em Salvar
 ### Camadas, configurações e estilos {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH WILL CHECK
 ```
 
 Abra a árvore de navegação para acessar estruturas específicas e suas colunas/componentes para uma edição mais granular. Para acessar o, clique no ícone da Árvore de navegação.
@@ -268,9 +268,9 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
    ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
-   LABEL?
+   LABEL? - just what URL shows as (ex: my site)
    
-   TAGS?
+   TAGS? - NILESH WILL CHECK ON HOW THEY WORK
    ```
 
    <table><tbody>

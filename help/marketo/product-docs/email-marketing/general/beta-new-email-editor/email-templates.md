@@ -4,7 +4,7 @@ title: Modelos de e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1728'
 ht-degree: 1%
@@ -156,7 +156,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
 ```
 
 1. Para acessar suas imagens, clique no ícone Seletor de ativos.
@@ -187,7 +187,7 @@ Quando estiver pronto, clique em Salvar
 ### Camadas, configurações e estilos {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH IS CHECKING
 ```
 
 Abra a árvore de navegação para acessar estruturas específicas e suas colunas/componentes para uma edição mais granular. Para acessar o, clique no ícone da Árvore de navegação.
@@ -266,7 +266,7 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
    ```
    LABEL?
    
-   TAGS?
+   TAGS? - NILESH IS LOOKING INTO IT
    ```
 
    <table><tbody>
@@ -342,7 +342,7 @@ Esta ação pode ser tomada a partir de:
 * Página de listagem _Modelos de email_ - Clique no ícone Mais ações (três pontos) do modelo de email desejado e escolha Editar.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
 ```
 
 Esta ação direciona você à página _Criar modelo_ ou à página do editor de conteúdo visual com base no último status salvo do modelo de email. Aqui, você pode editar o conteúdo do seu modelo de email conforme necessário. Consulte Criar modelos de email para obter informações sobre as opções de edição.
