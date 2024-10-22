@@ -4,20 +4,20 @@ description: Habilitar sincronização para uma entidade personalizada - Documen
 title: Habilitar Sincronização para uma Entidade Personalizada
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Habilitar Sincronização para uma Entidade Personalizada {#enable-sync-for-a-custom-entity}
 
-Se você precisar que os dados de entidade personalizados do Dynamics estejam disponíveis no Marketo Engage, veja como habilitar a sincronização para eles.
+Se você precisar que os dados de entidade personalizados do Dynamics estejam disponíveis no Marketo Engage, veja como habilitar a sincronização para eles. **Permissões de administrador necessárias**.
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Permissões de administrador necessárias**
+>Para usar um objeto personalizado, ele deve ser associado a um objeto [lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md){target="_blank"} ou [account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md){target="_blank"} na Microsoft Dynamics.
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ Se você precisar que os dados de entidade personalizados do Dynamics estejam di
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Selecione os campos que deseja sincronizar ou usar como [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/ou acionadores (para registros adicionados, _não_ atualizados) em Smart Lists. Quando terminar, clique em **[!UICONTROL Habilitar Sincronização]**.
+1. Selecione os campos que deseja sincronizar ou usar como [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} e/ou acionadores (para registros adicionados, _não_ atualizados) em Smart Lists. Quando terminar, clique em **[!UICONTROL Habilitar Sincronização]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
