@@ -3,9 +3,9 @@ description: Serviço de etapa de fluxo - Documentação do Marketo - Documenta�
 title: Serviço de etapa de fluxo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1234'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Clique em **[!UICONTROL Avançar]** para ir até a seção Inserir Credenciais d
 Para acessar o serviço que está sendo instalado, o Marketo deve ter credenciais de API válidas. Essas credenciais devem ser fornecidas a você pelo seu provedor de serviços. Os serviços têm três opções de autenticação diferentes, portanto, você pode ver um dos três prompts diferentes de credenciais: **Chave de API**, que tem apenas um campo de entrada, **Autenticação Básica**, que requer um nome de usuário e senha, e também pode exigir um campo chamado Realm, e **OAuth2**, usando a concessão _Credenciais de Cliente_, que requer uma _ID de Cliente_ e _Segredo de Cliente_.
 
 Quando você salvar suas credenciais, o Marketo tentará chamar o endpoint de status do serviço para verificar se elas são válidas. Se as credenciais fornecidas forem inválidas, você verá um erro indicando isso.
+
+>[!CAUTION]
+>
+>Se um provedor de serviços for criado e excluído, você não poderá reutilizar seu nome de provedor de serviços, API, acionador ou filtro a partir de agora.
 
 ## Guia de integração (opcional) {#onboarding-guide}
 
