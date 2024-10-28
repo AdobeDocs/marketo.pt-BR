@@ -4,9 +4,9 @@ title: Criação de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1524'
+source-wordcount: '1455'
 ht-degree: 1%
 
 ---
@@ -155,38 +155,23 @@ Escolha um dos modelos prontos para uso para um head start no design do modelo d
 
 ### Adicionar o Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
-```
+Adicione imagens armazenadas na seção [Imagens e Arquivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} da instância do Marketo Engage.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
-```
+>[!NOTE]
+>
+>Você só pode adicionar imagens no novo designer, sem outros tipos de arquivo no momento.
 
 1. Para acessar suas imagens, clique no ícone Seletor de ativos.
 
-   CAPTURA DE TELA
+   ![](assets/authoring-add-assets-1.png)
 
 1. Arraste e solte a imagem desejada em um componente de estrutura.
 
-   CAPTURA DE TELA
+   ![](assets/authoring-add-assets-2.png)
 
    >[!NOTE]
    >
    >Para substituir uma imagem existente, selecione-a e clique em **Selecionar um ativo** na guia Configurações à direita.
-
-Clique em Ativar conteúdo de condição para adicionar conteúdo dinâmico e adaptar o conteúdo aos perfis direcionados com base em regras condicionais.
-
-
-
-Se necessário, você pode personalizar ainda mais seu email clicando em Alternar para o editor de código no menu avançado. Isso permite editar o código fonte do email, por exemplo, para adicionar tags de rastreamento ou HTML personalizadas.
-
-CUIDADO
-Você não pode reverter para o designer visual neste email depois de alternar para o editor de código.
-
-Quando o conteúdo estiver pronto, clique no botão Simular conteúdo para verificar a renderização. Você pode escolher a visualização de desktop ou móvel.
-
-Quando estiver pronto, clique em Salvar
 
 ### Camadas, configurações e estilos {#layers-settings-styles}
 
