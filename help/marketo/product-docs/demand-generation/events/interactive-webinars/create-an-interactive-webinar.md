@@ -3,9 +3,9 @@ description: Criar um webinário interativo - Documentação do Marketo - Docume
 title: Criar um webinário interativo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Crie um Webinário interativo em algumas etapas fáceis.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
+   >[!CAUTION]
+   >
+   >[Os ativos de Notificação por Push para Dispositivos Móveis](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} **não** são suportados em Webinars Interativos.
+
 1. Dê um nome ao programa. Em Tipo de programa, selecione **Evento**.
 
    ![](assets/create-an-interactive-webinar-3.png)
@@ -37,10 +41,6 @@ Crie um Webinário interativo em algumas etapas fáceis.
 1. Escolha **Webinars interativos** e clique em **Avançar**.
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >Informações sobre webinários de parceiros podem ser encontradas aqui.
 
 1. Dê um título ao seu webinário. Defina o tamanho máximo do público-alvo e a duração.
 
