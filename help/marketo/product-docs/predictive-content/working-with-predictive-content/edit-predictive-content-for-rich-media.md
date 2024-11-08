@@ -4,10 +4,10 @@ description: Editar conteúdo preditivo para mídia avançada - Documentação d
 title: Editar conteúdo preditivo para mídia avançada
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,10 @@ Veja como configurar seu conteúdo preditivo para mídia avançada.
 1. Você perceberá que pode ter imagens separadas para Email e Mídia avançada. Para adicionar/alterar a imagem, cole o URL da imagem na caixa de texto.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >Imagens JPEG com o modelo de cores CMYK não são compatíveis com mídia avançada. Os JPEG devem ser convertidos em sRGB usando um perfil de cores. Certifique-se de escolher essa configuração ao exportar do editor de imagens.
 
 1. Digite uma **Descrição**.
 
