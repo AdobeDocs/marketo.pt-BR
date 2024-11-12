@@ -4,10 +4,10 @@ title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 4%
+source-wordcount: '446'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 ## Versão de setembro/outubro de 2024 {#august-release}
 
-### Análise aprimorada de bate-papo ao vivo {#enhanced-live-chat-analytics}
+### Análise de chat ao vivo aprimorada {#enhanced-live-chat-analytics}
 
 Vários aprimoramentos foram feitos no Painel do Analytics, incluindo:
 
@@ -33,7 +33,7 @@ Vários aprimoramentos foram feitos no Painel do Analytics, incluindo:
 
 CAPTURA DE TELA
 
-### Pontuação da conversa
+### Pontuação de conversa {#conversation-scoring}
 
 Quantifique seus leads com base na qualidade da interação de chat e use essa métrica como um Acionador/Filtro em Campanhas inteligentes do Marketo Engage. Use o novo atributo _pontuação da conversa_ nas seguintes atividades:
 
@@ -59,7 +59,7 @@ CAPTURA DE TELA
 
 CAPTURA DE TELA
 
-### Nova Lógica de Criação de Cliente Potencial {#new-lead-creation-logic}
+### Nova lógica de criação de clientes potenciais {#new-lead-creation-logic}
 
 Se um cliente potencial preencher um formulário com o email `abc@test.com` e for cookie como xyz, depois preencher o mesmo formulário com o email `def@test.com`, um novo cliente potencial será criado, mas o cookie xyz será associado ao novo cliente potencial e removido do cliente potencial `abc@test.com`.
 
@@ -68,3 +68,21 @@ A partir de então, `abc@test.com` será um cliente em potencial sem cookie. UM 
 Assim, quando um visitante com cookie abc chega em uma página e fornece uma ID de email como `abc@p.com`:
 
 TABELA
+
+### Tempo de carregamento do fluxo de conversa otimizado {#optimized-conversation-flow-load-time}
+
+Para melhorar a experiência do usuário, um carregador shimmer agora é exibido em vez de um espaço em branco enquanto o fluxo de conversa é carregado. CONVERSA OU CONVERSA???
+
+**Antes**
+
+GIF
+
+**Depois**
+
+GIF
+
+### Opção para herdar fonte {#option-to-inherit-font}
+
+Como usuário, eu gostaria de ativar meu chatbot para herdar diretamente a fonte da página da Web em que está sendo carregada, em vez de gerenciar a fonte da minha marca no Dynamic Chat
+
+Observação: após ativar essa opção, o Chatbot usará a fonte definida na tag body da página
