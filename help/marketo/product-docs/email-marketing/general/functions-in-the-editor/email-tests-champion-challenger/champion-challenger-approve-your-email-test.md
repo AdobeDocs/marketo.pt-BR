@@ -4,9 +4,9 @@ description: Champion/Challenger - Aprove Seu Teste De Email - Marketo Docs - Do
 title: Champion/Challenger - Aprove Seu Teste De E-Mail
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ A etapa final na configuração do teste de email para aprová-lo. Veja como.
 
 >[!PREREQUISITES]
 >
->[Champion/Challenger: Configurar Alertas De Relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+>[Configurar alertas de relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts)
 
 1. Vá para **Atividades de marketing**.
 

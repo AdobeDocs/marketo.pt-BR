@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
-source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 3%
@@ -46,7 +46,7 @@ Quantifique seus leads com base na qualidade da interação de chat e use essa m
 
 * O valor da pontuação será de 0, 1, 2, 3 (o valor padrão é nulo)
 
-* Quando a conversa for concluída ou descartada, na atividade, salve o valor de pontuação e publique que que ele não pode ser editado???? (o que essa frase significa)
+* Quando a conversa for concluída ou descartada, na atividade, salve o valor de pontuação e publique que que não pode ser editado   ???? (o que essa frase significa)
 
 * Definição de uma pontuação:
 
