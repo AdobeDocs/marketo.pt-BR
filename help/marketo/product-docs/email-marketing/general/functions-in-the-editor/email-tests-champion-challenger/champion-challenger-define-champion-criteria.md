@@ -4,7 +4,7 @@ description: Champion/Challenger — defina critérios de Champion — Marketo D
 title: Champion/Challenger - defina os critérios do Champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 2%
@@ -29,7 +29,7 @@ Depois de configurar o tipo de teste, é necessário definir os critérios de ca
    >
    >Rastrearemos essa métrica e enviaremos um relatório com os dados por email.
 
-1. Se você escolheu um dos **Critérios de Especialistas** padrão, vá em frente e vá para [configuração de alertas de relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts)!
+1. Se você escolheu um dos **Critérios de Especialistas** padrão, vá em frente e vá para [configuração de alertas de relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)!
 
 ## Critérios de especialista personalizados {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ Depois de configurar o tipo de teste, é necessário definir os critérios de ca
 
    >[!MORELIKETHIS]
    >
-   >[Especialista/Desafiador: Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[Especialista/Desafiador: Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
