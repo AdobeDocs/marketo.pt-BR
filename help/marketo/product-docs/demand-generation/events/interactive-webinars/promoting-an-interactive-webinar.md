@@ -3,9 +3,9 @@ description: Promover um webinário interativo - Documentação do Marketo - Doc
 title: Promover um webinário interativo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Depois que os membros forem adicionados ou importados para o programa, você pod
 >
 >Se você quiser adicionar um co-host ou apresentador como membro do público-alvo do programa Evento de webinário interativo, use uma ID de email diferente para ele, caso contrário, ele receberá um erro &quot;este email já está registrado&quot;.
 
-O email pode conter detalhes específicos do programa, bem como incluir um URL de página de aterrissagem que redirecionaria o recipient para uma página específica onde mais informações sobre o webinário (por exemplo, conteúdo, informações do apresentador etc.) pode ser adicionado. Essa landing page pode ser criada como um ativo local no programa de evento de webinários interativos.
+O email pode conter detalhes específicos do programa, bem como incluir um URL de página de aterrissagem que redirecionaria o recipient para uma página específica onde mais informações sobre o webinário (por exemplo, conteúdo, informações do apresentador etc.) podem ser adicionadas. Essa landing page pode ser criada como um ativo local no programa de evento de webinários interativos.
 
 Você pode solicitar o registro para esse webinário ativando um formulário na página de aterrissagem e vinculando os cliques do formulário ao registro ativado no programa de evento de webinário interativo. Uma campanha pode ser criada usando envios de formulários como um acionador e alterando o Status do programa de &quot;convidado&quot; para &quot;registrado&quot;.
 
@@ -41,3 +41,22 @@ Os links estão disponíveis no lado direito da guia Visão geral no Programa de
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 Webinars interativos permitem solicitar registro antes, durante ou depois de um webinário. Em todos os casos, bastaria compartilhar o URL do webinário com o lead. Clicar no link antes do início do webinário os envia para uma página de aterrissagem pré-webinário. Clicar nele durante o webinário os leva para o webinário em andamento. Clicar nele depois do webinário os leva para uma gravação do webinário.
+
+## Tokens de webinários interativos {#interactive-webinars-tokens}
+
+Use tokens para promover Webinars interativos em emails e Landing Pages sem precisar adicionar manualmente os detalhes do webinário. Isso melhora a eficiência geral, pois qualquer alteração feita nos metadados do webinário (como título do webinário, data de início etc.) será refletida automaticamente em seus ativos.
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**Lista de tokens**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle

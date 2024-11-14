@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 5%
+source-wordcount: '507'
+ht-degree: 4%
 
 ---
 
@@ -32,19 +32,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
     <tr> 
-   <td><strong>Dados de Registro Aprimorados no Painel de Envolvimento para Webinars Interativos</strong>: Agora você pode ver quais empresas tiveram mais presenças e atualizar a empresa, o título e o setor em nível de cliente potencial nos relatórios disponíveis no Painel de Envolvimento.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong>Tokenization para Webinars interativos</strong>: agora você pode usar tokens para promover Webinars interativos em emails e Landing Pages sem precisar adicionar manualmente os detalhes do webinário.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promover um webinário interativo</a></td>
   </tr>
   <tr> 
    <td> </td> 
