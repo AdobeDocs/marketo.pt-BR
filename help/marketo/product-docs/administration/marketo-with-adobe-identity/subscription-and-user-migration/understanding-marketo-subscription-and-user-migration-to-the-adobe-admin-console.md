@@ -3,9 +3,9 @@ description: Noções básicas sobre a assinatura do Marketo e a migração de u
 title: Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1513'
+source-wordcount: '1553'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Como parte da migração, sua assinatura e o gerenciamento de usuários passarã
 
 * **As URLs serão diferentes após a migração**. Após a migração, o Marketo Engage deixará de ser distribuído do experience.adobe.com para o Adobe Experience Cloud. Incluir na lista de permissões Você precisará trabalhar com sua equipe de TI para classificar todos os domínios de Adobe [na parte superior deste artigo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage.
 
-Os números de ID dos seus ativos permanecem inalterados. E os links e marcadores anteriores para ativos Marketo Engage no domínio engage-xx.marketo.com _continuarão a funcionar._ No entanto, primeiro você deve fazer logon na instância do Marketo Engage para o URL para o qual está navegando. Por exemplo, para navegar até um marcador de uma Campanha inteligente em uma instância com a ID do Munchkin 123-ABC-456, é necessário primeiro fazer logon na instância do Marketo Engage com a ID do Munchkin 123-ABC-456.
+Os números de ID dos seus ativos permanecem inalterados. E os links e marcadores anteriores para ativos Marketo Engage no domínio engage-xx.marketo.com _continuarão a funcionar._ No entanto, primeiro você deve fazer logon na instância do Marketo Engage para o URL para o qual está navegando. Por exemplo, para navegar até um marcador para uma Campanha inteligente na instância com a Munchkin ID 123-ABC-456, é necessário primeiro fazer logon na instância do Marketo Engage com a Munchkin ID 123-ABC-456.
 
 ## O que não está mudando? {#what-is-not-changing}
 
@@ -82,6 +82,8 @@ Como administrador de produto do Marketo, é recomendável garantir que todos os
 
 * Verifique o status de [verificação de email](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} para todos os usuários na área de Administração do Marketo. Incentive os usuários que não verificaram seus endereços de email a fazê-lo e ajude-os a resolver quaisquer desafios na conclusão do processo de verificação.
 
+* Procure na sua caixa de entrada de e-mails as notificações de usuário &quot;bloqueadas&quot;. Aconselhe os usuários que foram bloqueados a redefinir suas senhas para restabelecer o acesso ao Marketo Engage antes do dia da migração.
+
 * Prepare todos os usuários para a migração futura para o Adobe Identity.
 
 >[!NOTE]
@@ -90,7 +92,7 @@ Como administrador de produto do Marketo, é recomendável garantir que todos os
 
 >[!IMPORTANT]
 >
->Se um usuário do Marketo Engage não verificar seu endereço de email, ele não será migrado para uma Adobe ID e perderá o acesso à assinatura do Marketo após a conclusão da migração para a assinatura. Para recuperar o acesso, um administrador de produto do Marketo precisaria adicioná-los como um novo usuário.
+>Se um usuário do Marketo Engage não verificar seu endereço de email ou for bloqueado no momento da migração do usuário, ele não será migrado para uma Adobe ID e perderá o acesso à assinatura do Marketo após a conclusão da migração da assinatura. Para recuperar o acesso, um administrador de produto do Marketo precisaria adicioná-los como um novo usuário.
 
 ### O que esperar no dia da migração {#what-to-expect-on-migration-day}
 

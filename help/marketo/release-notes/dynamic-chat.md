@@ -3,10 +3,10 @@ description: Notas de versão do Dynamic Chat - Documentação do Marketo - Docu
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1869'
-ht-degree: 3%
+source-wordcount: '2427'
+ht-degree: 2%
 
 ---
 
@@ -16,9 +16,137 @@ As versões do Adobe Dynamic Chat operam em um modelo de entrega contínua que p
 
 A página de Notas de versão padrão do Marketo Engage [pode ser encontrada aqui](/help/marketo/release-notes/current.md){target="_blank"}.
 
+## Versão de setembro/outubro de 2024 {#sep-oct-release}
+
+### Análise de chat ao vivo aprimorada {#enhanced-live-chat-analytics}
+
+Vários aprimoramentos foram feitos no Painel do Analytics, incluindo:
+
+* Contagem total solicitada do bate-papo ao vivo: número de visitantes solicitados para um &quot;bate-papo com o agente&quot;
+
+* Total de bate-papos ao vivo conectados: número de visitantes conectados versus total solicitado para um &quot;bate-papo com o agente&quot;
+
+* Total de solicitações de bate-papo em tempo real perdidas: número de visitantes autônomos versus total solicitado para um &quot;bate-papo com o agente&quot;
+
+* Duração média do chat em minutos: analise a &quot;duração média do chat&quot; entre visitantes e seus agentes
+
+* Average Agent Response Time in Seconds: analise o &quot;tempo médio&quot; gasto pelos agentes para responder às perguntas e respostas do bate-papo ao vivo
+
+* Painel diário: solicitações de bate-papo ao vivo conectadas com sucesso, solicitações de bate-papo ao vivo perdidas, classificar e filtrar atividades recentes de bate-papo ao vivo
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### Pontuação de conversa {#conversation-scoring}
+
+Quantifique seus leads com base na qualidade da interação de chat e use essa métrica como um Acionador/Filtro em Campanhas inteligentes do Marketo Engage. Use o novo atributo _pontuação da conversa_ nas seguintes atividades:
+
+* Engajado com um diálogo
+* Envolvido com um fluxo de conversa
+* Envolvido com um agente
+
+**O que observar:**
+
+* O valor da pontuação será de 0, 1, 2, 3 (o valor padrão é nulo)
+
+* Quando a conversa é concluída ou descartada, o valor de pontuação não pode ser editado
+
+* Definição de uma pontuação:
+
+   * Na caixa de entrada do agente - durante um chat ao vivo, o agente pode atualizar ou definir uma pontuação para a conversa, que é armazenada na atividade de conversa
+
+   * No designer de fluxo - no cartão de meta, o usuário pode atualizar ou definir uma pontuação para a conversa
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### Nova lógica de criação de clientes potenciais {#new-lead-creation-logic}
+
+Se um cliente potencial preencher um formulário com o email `abc@test.com` e for cookie como xyz, depois preencher o mesmo formulário com o email `def@test.com`, um novo registro de pessoa será criado, mas o cookie xyz será associado à nova pessoa e removido da pessoa `abc@test.com`.
+
+Assim, quando um visitante com cookie abc chega em uma página e fornece uma ID de email como `abc@test.com`:
+
+<table><thead>
+  <tr>
+    <th>Visitor</th>
+    <th>Cookie</th>
+    <th>Email fornecido</th>
+    <th>Comportamento esperado</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Anônimo</td>
+    <td>abc</td>
+    <td>Não existe no banco de dados</td>
+    <td>Criar uma nova pessoa</td>
+  </tr>
+  <tr>
+    <td>Anônimo</td>
+    <td>abc</td>
+    <td>Existe no Banco de Dados</td>
+    <td>Mesclar pessoa</td>
+  </tr>
+  <tr>
+    <td>Anônimo</td>
+    <td>xyz</td>
+    <td>Existe no Banco de Dados</td>
+    <td>Mesclar pessoa</td>
+  </tr>
+  <tr>
+    <td>Pessoa conhecida</td>
+    <td>abc</td>
+    <td>Igual à pessoa existente</td>
+    <td>Atualizar pessoa</td>
+  </tr>
+  <tr>
+    <td>Pessoa conhecida</td>
+    <td>abc</td>
+    <td>Diferente da pessoa existente</td>
+    <td>Se já existir uma pessoa conhecida, transfira o cookie e resolva esse perfil. Se não houver nenhuma pessoa com esse email, crie um novo registro de pessoa e transfira o cookie</td>
+  </tr>
+  <tr>
+    <td>Pessoa conhecida</td>
+    <td>xyz</td>
+    <td>Igual à pessoa existente</td>
+    <td>Adicionar novo cookie à mesma pessoa</td>
+  </tr>
+  <tr>
+    <td>Pessoa conhecida</td>
+    <td>xyz</td>
+    <td>Diferente da pessoa existente</td>
+    <td>este cenário não é possível como se fosse um novo cookie de   padrão considerado como novo perfil anônimo</td>
+  </tr>
+</tbody></table>
+
+### Tempo de carregamento do fluxo de conversa otimizado {#optimized-conversation-flow-load-time}
+
+Para melhorar a experiência do usuário, um carregador de brilho agora é exibido em vez de um espaço em branco enquanto o Fluxo de conversa é carregado.
+
+**Antes**
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**Depois**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### Opção para herdar fonte {#option-to-inherit-font}
+
+Agora você pode ativar o chatbot para herdar diretamente a fonte da página da Web em que está sendo hospedada, em vez de gerenciar a fonte da marca no Dynamic Chat. Ao habilitar essa opção, o chatbot utiliza a fonte definida na tag `<body>` da página.
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Integração do Demandbase com o Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Os usuários do Demandbase podem trazer sua própria licença do Demandbase e ativar a integração. Use os atributos de pessoa do Demandbase para direcionamento de caixa de diálogo, identidade visual condicional e roteamento personalizado.
+
+A resolução desses valores de atributo em relação a uma pessoa seria feita em tempo real e são armazenados no respectivo perfil de pessoa.
+
 ## Versão de agosto de 2024 {#august-release}
 
-**Data de lançamento: 23 de agosto de 2024**
+**Data de lançamento: sábado, 23 de agosto de 2024**
 
 ### Formatar suas mensagens de conversa de maneira personalizada {#custom-format-conversation-messages}
 
