@@ -3,16 +3,16 @@ description: Visão geral do Adobe Identity Management - Documentação do Marke
 title: Visão geral do Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 8d4a542687119e7e4044b26eeafcc71315609f19
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # Visão geral do Adobe Identity Management {#adobe-identity-management-overview}
 
-Todas as novas assinaturas do Adobe Marketo Engage (31 de julho de 2023 ou posterior) são integradas ao sistema Adobe Identity Management. Atualmente, as assinaturas de Marketo Engage existentes estão sendo migradas para o Sistema Adobe Identity Management em qualquer evento de vendas, que inclui renovações, eventos de recontratação e/ou adendos. No momento, não há suporte para migrações fora de um evento de vendas.
+Todas as novas assinaturas do Adobe Marketo Engage (31 de julho de 2023 ou posterior) são integradas ao sistema Adobe Identity Management. Atualmente, as assinaturas de Marketo Engage existentes estão sendo migradas para o Sistema Adobe Identity Management em qualquer evento de vendas, que inclui renovações, eventos de recontratação e/ou adendos. As migrações fora de um evento de vendas são compatíveis a partir de outubro de 2024. Os administradores do Marketo receberão uma notificação com 2 a 4 semanas de antecedência se houver planos de que sua assinatura seja migrada para fora de um evento de vendas.
 
 >[!NOTE]
 >
