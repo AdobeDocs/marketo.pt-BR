@@ -4,7 +4,7 @@ description: Atualizar uma lista ou lista inteligente - Documentação do Market
 title: Atualizar uma lista ou lista inteligente
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Se você tiver executado uma Smart List e alguns minutos tiverem passado, os res
 
 1. Para atualizar dados na guia **[!UICONTROL Pessoas]** de uma Smart List, clique no ícone de atualização.
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. A Smart List é executada novamente e mostra um conjunto de resultados mais atualizado.
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
