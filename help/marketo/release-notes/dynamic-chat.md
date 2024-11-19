@@ -3,7 +3,7 @@ description: Notas de versão do Dynamic Chat - Documentação do Marketo - Docu
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 2%
@@ -120,29 +120,29 @@ Assim, quando um visitante com cookie abc chega em uma página e fornece uma ID 
   </tr>
 </tbody></table>
 
-### Tempo de carregamento do fluxo de conversa otimizado {#optimized-conversation-flow-load-time}
-
-Para melhorar a experiência do usuário, um carregador de brilho agora é exibido em vez de um espaço em branco enquanto o Fluxo de conversa é carregado.
-
-**Antes**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**Depois**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### Opção para herdar fonte {#option-to-inherit-font}
 
 Agora você pode ativar o chatbot para herdar diretamente a fonte da página da Web em que está sendo hospedada, em vez de gerenciar a fonte da marca no Dynamic Chat. Ao habilitar essa opção, o chatbot utiliza a fonte definida na tag `<body>` da página.
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Integração do Demandbase com o Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
 Os usuários do Demandbase podem trazer sua própria licença do Demandbase e ativar a integração. Use os atributos de pessoa do Demandbase para direcionamento de caixa de diálogo, identidade visual condicional e roteamento personalizado.
 
 A resolução desses valores de atributo em relação a uma pessoa seria feita em tempo real e são armazenados no respectivo perfil de pessoa.
+
+### Tempo de carregamento do fluxo de conversa otimizado {#optimized-conversation-flow-load-time}
+
+Para melhorar a experiência do usuário, um carregador de brilho agora é exibido em vez de um espaço em branco enquanto o Fluxo de conversa é carregado.
+
+**Antes**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**Depois**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## Versão de agosto de 2024 {#august-release}
 
