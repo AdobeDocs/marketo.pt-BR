@@ -3,20 +3,20 @@ description: Promover um webinário interativo - Documentação do Marketo - Doc
 title: Promover um webinário interativo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Promover um webinário interativo {#promoting-an-interactive-webinar}
 
-A promoção de um webinário interativo é semelhante à promoção de um webinário de parceiro por meio do Launchpoint. Ao criar um programa de evento Webinar interativo, você pode adicionar membros a um programa executando uma campanha ou importando membros para o programa. Para verificar os membros que foram adicionados ao Programa de evento de webinários interativos, clique na guia Membros.
+A promoção de um webinário interativo é semelhante à promoção de um webinário de parceiro por meio do Launchpoint. Ao criar um programa de evento Webinar interativo, você pode adicionar membros executando uma campanha ou importando membros para o programa. Para verificar os membros que foram adicionados ao Programa de Evento de Webinars Interativos, clique na guia **Membros**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-Depois que os membros forem adicionados ou importados para o programa, você poderá criar uma campanha de email dentro do Programa de evento de webinário interativo para enviar um convite a todos os membros do programa e alterar seu status como &quot;convidado&quot; depois que o email for entregue.
+Depois que os membros forem adicionados ou importados, você poderá criar uma campanha de email dentro do Programa de evento de webinário interativo para enviar um convite a todos os membros do programa e alterar seu status para &quot;convidado&quot; depois que o email for entregue.
 
 >[!NOTE]
 >
