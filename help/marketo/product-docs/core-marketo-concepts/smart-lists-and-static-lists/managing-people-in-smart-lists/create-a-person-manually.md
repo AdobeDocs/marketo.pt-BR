@@ -4,9 +4,9 @@ description: Criar uma pessoa manualmente - Documentação do Marketo - Document
 title: Criar uma pessoa manualmente
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,12 @@ Há muitas maneiras de colocar uma pessoa no Marketo Engage. Se você precisar c
 
 1. Vá para o **[!UICONTROL Banco de Dados]**.
 
-   ![](assets/db-1.png)
+   ![](assets/create-a-person-manually-1.png)
 
 1. Em **[!UICONTROL Novo]**, clique em **[!UICONTROL Nova pessoa]**.
 
-   ![](assets/two-2.png)
+   ![](assets/create-a-person-manually-2.png)
 
 1. Insira as informações da pessoa e clique em **[!UICONTROL Criar]**.
 
-   ![](assets/three-2.png)
-
-Essa é uma maneira rápida e fácil de adicionar uma única pessoa ao Marketo.
+   ![](assets/create-a-person-manually-3.png)

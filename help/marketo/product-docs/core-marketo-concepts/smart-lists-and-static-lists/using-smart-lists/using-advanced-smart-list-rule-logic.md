@@ -4,7 +4,7 @@ description: Utilização Da Lógica De Regra Avançada Da Smart List - Document
 title: Utilização da Lógica de Regra Avançada da Smart List
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com
 
 1. Selecione **[!UICONTROL Usar filtros avançados]** no menu suspenso.
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com
 
 1. A caixa de texto **[!UICONTROL Filtros avançados]** exibirá &quot;e&quot; como o valor padrão entre todos os filtros.
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. Digite um par de parênteses ao redor de &quot;2 e 3&quot;.
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ Neste exemplo, digamos que você queira encontrar pessoas na Califórnia _e_ com
 
 1. Altere o &quot;e&quot; entre &quot;2 e 3&quot; para &quot;ou&quot;.
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## Use parênteses ao misturar &quot;And&quot; e &quot;Or&quot; {#use-parentheses-when-mixing-and-and-or}
 
 A combinação da lógica &quot;and&quot; e &quot;or&quot; exige parênteses para deixar sua intenção clara.
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## Use parênteses aninhados para quatro ou mais filtros, se necessário {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Dependendo da sua intenção, talvez seja necessário adicionar parênteses aninhados ao usar quatro ou mais filtros.
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >
