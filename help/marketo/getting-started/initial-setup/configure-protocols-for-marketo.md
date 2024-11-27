@@ -4,9 +4,9 @@ description: Configurar protocolos para o Marketo Engage - Documentação do Mar
 title: Configurar protocolos para o Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -86,9 +86,9 @@ Alguns sistemas antisspam usam o campo Return-Path do email em vez do endereço 
 >
 >O Postini emprega uma tecnologia exclusiva e requer o incluir na lista de permissões de intervalos IP. Consulte [Incluindo na lista de permissões com Postini](https://nation.marketo.com/docs/DOC-1066).
 
-## Etapa 3: configurar SPF e DKIM {#step-set-up-spf-and-dkim}
+## Etapa 3: configurar o SPF e o DKIM {#step-set-up-spf-and-dkim}
 
-Sua equipe de marketing também deve ter enviado informações de DKIM (Domain Keys Identified Mail) para serem adicionadas ao registro de recurso DNS (também listadas abaixo). Siga as etapas para configurar com êxito o DKIM e o SPF (Estrutura de política do remetente) e, em seguida, notifique a equipe de marketing de que isso foi atualizado.
+Sua equipe de marketing também deve ter enviado informações do DKIM (Domain Keys Identified Mail) para que sejam adicionadas ao registro de recursos DNS (também listadas abaixo). Siga as etapas para configurar com êxito o DKIM e o SPF (Sender Policy Framework) e, em seguida, notifique sua equipe de marketing de que isso foi atualizado.
 
 1. Para configurar o SPF, adicione a seguinte linha às suas entradas de DNS:
 
@@ -100,7 +100,7 @@ Sua equipe de marketing também deve ter enviado informações de DKIM (Domain K
 
    Substitua CompanyDomain pelo domínio principal do site (por exemplo: &quot;`(company.com/)`&quot;) e CorpIP pelo endereço IP do servidor de email corporativo (por exemplo, &quot;255.255.255.255&quot;). Se você for enviar emails de vários domínios pelo Marketo Engage, a equipe de TI deve adicionar essa linha para cada domínio (em uma linha).
 
-1. Para DKIM, crie Registros de Recursos DNS para cada domínio que gostaríamos de configurar. Abaixo estão os Registros do host e Valores TXT para cada domínio que estaremos assinando:
+1. Para o DKIM, crie Registros de Recursos de DNS para cada domínio que gostaríamos de configurar. Abaixo estão os Registros do host e Valores TXT para cada domínio que estaremos assinando:
 
    `[DKIMDomain1]`: O Registro do Host é `[HostRecord1]` e o Valor TXT é `[TXTValue1]`.
 
@@ -110,7 +110,7 @@ Sua equipe de marketing também deve ter enviado informações de DKIM (Domain K
 
 ## Etapa 4: configurar o DMARC {#set-up-dmarc}
 
-O DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) é um protocolo de autenticação usado para ajudar as organizações a proteger seu domínio contra o uso não autorizado. O DMARC estende os protocolos de autenticação existentes, como SPF e DKIM, para informar aos servidores recipients quais ações devem ser tomadas se ocorrer uma falha na autenticação em seu domínio. Embora o DMARC seja opcional no momento, ele é altamente recomendado, pois protegerá melhor a marca e a reputação de sua organização. Os principais provedores, como Google e Yahoo, exigirão o uso do DMARC para remetentes em massa a partir de fevereiro de 2024.
+O DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) é um protocolo de autenticação usado para ajudar as organizações a proteger seu domínio contra o uso não autorizado. O DMARC estende os protocolos de autenticação existentes, como SPF e DKIM, para informar aos servidores recipients quais ações eles devem tomar caso ocorra uma falha na autenticação em seus domínios. Embora o DMARC seja opcional no momento, ele é altamente recomendado, pois protegerá melhor a marca e a reputação de sua organização. Os principais provedores, como Google e Yahoo, exigirão o uso do DMARC para remetentes em massa a partir de fevereiro de 2024.
 
 Para que o DMARC funcione, você deve ter pelo menos um dos seguintes registros TXT de DNS:
 
@@ -119,7 +119,7 @@ Para que o DMARC funcione, você deve ter pelo menos um dos seguintes registros 
 
 Além disso, você deve ter um registro TXT de DNS específico da DMARC para o seu FROM: Domain. Opcionalmente, um endereço de email de sua escolha pode ser definido para indicar para onde os relatórios do DMARC devem ir na organização, para que você possa monitorar os relatórios.
 
-Como prática recomendada, é recomendável implantar lentamente a implementação do DMARC, escalando sua política do DMARC de p=none para p=quarantine, para p=reject conforme você entende o impacto potencial do DMARC e definir sua política do DMARC para alinhamento relaxado no SPF e DKIM.
+Como prática recomendada, é recomendável implantar lentamente a implementação do DMARC, escalando sua política do DMARC de p=none para p=quarantine, para p=reject conforme você entende o impacto potencial do DMARC e definir sua política do DMARC para alinhamento relaxado no SPF e no DKIM.
 
 ### Exemplo de fluxo de trabalho do DMARC {#dmarc-example-workflow}
 
@@ -131,7 +131,7 @@ Como prática recomendada, é recomendável implantar lentamente a implementaç�
 
    III. Determine se o SPF ou o DKIM estão alinhados e transmita a autenticação para todos os emails legítimos.
 
-   IV. Revise os relatórios para garantir que os resultados sejam o que você espera com base em suas políticas SPF/DKIM.
+   IV. Revise os relatórios para garantir que os resultados sejam os esperados com base em suas políticas SPF/DKIM.
 
 1. Continue para ajustar a política para (p=quarentena), que instrui o servidor de email de recebimento a colocar em quarentena emails que não são autenticados (geralmente significa colocar essas mensagens na pasta de spam).
 
@@ -229,7 +229,7 @@ Os registros DMARC têm vários componentes chamados tags DMARC. Cada tag tem um
   <tr>
     <td>adkim</td>
     <td>Opcional</td>
-    <td>Pode ser Estrito (s) ou Relaxado ®. Alinhamento simples significa que o domínio usado na assinatura DKIM pode ser um subdomínio do endereço "De". Alinhamento estrito significa que o domínio usado na assinatura DKIM deve corresponder exatamente ao domínio usado no endereço "De".</td>
+    <td>Pode ser Estrito (s) ou Relaxado ®. Alinhamento simples significa que o domínio usado na assinatura do DKIM pode ser um subdomínio do endereço "De". Alinhamento estrito significa que o domínio usado na assinatura do DKIM deve corresponder exatamente ao domínio usado no endereço "De".</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
@@ -251,11 +251,11 @@ Há dois tipos de alinhamento para o DMARC — alinhamento DKIM e alinhamento SP
 
 >[!NOTE]
 >
->É recomendável fazer o alinhamento do DMARC no DKIM vs SPF para o Marketo Engage.
+>É recomendável fazer o alinhamento do DMARC no DKIM em relação ao SPF para o Marketo Engage.
 
-* DMARC alinhado com DKIM — Para configurar o DMARC alinhado com DKIM, é necessário:
+* DMARC alinhado à DKIM — Para configurar o DMARC alinhado à DKIM, você deve:
 
-   * Configurar DKIM para o FROM: domínio da mensagem. Use as instruções [neste artigo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Configure o DKIM para o FROM: domínio da sua mensagem. Use as instruções [neste artigo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Configure o DMARC para o domínio FROM:/DKIM que foi configurado anteriormente
 
 * SPF alinhado à DMARC — Para configurar o SPF alinhado à DMARC por meio de um caminho de retorno com marca, você deve:
@@ -369,13 +369,20 @@ As tabelas a seguir cobrem todos os servidores Marketo Engage que fazem chamadas
    <tr>
    <td>54 237 141 197</td>
   </tr>
+  <tr>
+   <td>124.47.174.193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130.248.168.16</td>
-  </tr>
   </tr>
    <tr>
    <td>130.248.168.17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
