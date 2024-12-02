@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360344
-description: "Exibir Mapeamentos de Campos entre o Marketo e o  [!DNL Salesforce]  - Documentação do Marketo - Documentação do Produto"
-title: "Exibir Mapeamentos de Campos entre o Marketo e o  [!DNL Salesforce]"
+description: Exibir mapeamentos de campo entre o Marketo e o  [!DNL Salesforce]  - Documentação do Marketo - Documentação do produto
+title: Exibir Mapeamentos de Campo entre o Marketo e  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5

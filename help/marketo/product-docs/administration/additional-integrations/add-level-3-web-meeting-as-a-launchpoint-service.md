@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512292
-description: "Adicionar [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service - Documentação do Marketo - Documentação do produto"
-title: "Adicionar [!DNL Level 3 Web Meeting] como [!DNL LaunchPoint Service]"
+description: Adicionar o  [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service - Documentação do Marketo - Documentação do produto
+title: Adicionar [!DNL Level 3 Web Meeting] como [!DNL LaunchPoint Service]
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b

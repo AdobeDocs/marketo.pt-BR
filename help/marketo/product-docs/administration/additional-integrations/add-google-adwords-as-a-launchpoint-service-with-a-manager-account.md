@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504893
-description: "Adicionar o  [!DNL Google AdWords] as a [!DNL Launchpoint] Service com uma Conta de Gerente - Documentação do Marketo - Documentação do Produto"
-title: "Adicionar [!DNL Google AdWords] como um [!DNL Launchpoint] Serviço com uma Conta de Gerente"
+description: Adicionar o  [!DNL Google AdWords] as a [!DNL Launchpoint] Service com uma Conta de Gerente - Documentação do Marketo - Documentação do produto
+title: Adicionar [!DNL Google AdWords] como um [!DNL Launchpoint] Serviço com uma Conta de Gerente
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

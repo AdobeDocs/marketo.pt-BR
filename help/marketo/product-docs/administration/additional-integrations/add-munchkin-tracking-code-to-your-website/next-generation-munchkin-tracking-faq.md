@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10096583
-description: "Perguntas frequentes sobre rastreamento da próxima geração [!DNL Munchkin] Marketo Docs - Documentação do produto"
-title: "Perguntas frequentes sobre o Acompanhamento da Próxima Geração [!DNL Munchkin] "
+description: Perguntas frequentes sobre rastreamento da próxima geração [!DNL Munchkin] Marketo Docs - Documentação do produto
+title: 'Perguntas frequentes sobre o Acompanhamento da Próxima Geração [!DNL Munchkin] '
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
@@ -27,7 +27,7 @@ Ainda não temos uma data exata, mas verifique se há atualizações aqui.
 
 ## Será necessário fazer alguma alteração no rastreamento de [!DNL Munchkin] em meu site? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Nº O código de rastreamento [!DNL Munchkin] permanece o mesmo. Não é necessário fazer alterações no site.
+Não. O código de rastreamento [!DNL Munchkin] permanece o mesmo. Não é necessário fazer alterações no site.
 
 >[!NOTE]
 >
