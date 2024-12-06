@@ -3,9 +3,9 @@ description: Adicionar ou remover um usuário - Documentação do Marketo - Docu
 title: Adicionar ou remover um usuário
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -58,6 +58,10 @@ O usuário receberá um email para fazer logon no Marketo Engage.
 
 ## Remover um usuário {#remove-a-user}
 
+>[!NOTE]
+>
+>Você precisa ser um Administrador do sistema para remover um usuário.
+
 1. Faça logon no [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-9.png)
@@ -87,4 +91,4 @@ O usuário receberá um email notificando que não tem mais acesso ao Marketo En
 >[!MORELIKETHIS]
 >
 >* [Usuários do Adobe Admin Console](https://helpx.adobe.com/br/enterprise/using/users.html){target="_blank"}
->* [Gerenciar Usuários Individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Gerenciar Usuários Individualmente](https://helpx.adobe.com/br/enterprise/using/manage-users-individually.html){target="_blank"}
