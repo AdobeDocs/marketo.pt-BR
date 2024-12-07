@@ -3,9 +3,9 @@ description: Promover um webinário interativo - Documentação do Marketo - Doc
 title: Promover um webinário interativo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Webinars interativos permitem solicitar registro antes, durante ou depois de um 
 
 ## Tokens de webinários interativos {#interactive-webinars-tokens}
 
-Use tokens para promover Webinars interativos em emails e Landing Pages sem precisar adicionar manualmente os detalhes do webinário. Isso melhora a eficiência geral, pois qualquer alteração feita nos metadados do webinário (como título do webinário, data de início etc.) será refletida automaticamente em seus ativos.
+Use tokens para promover Webinars interativos em emails e Landing Pages sem precisar adicionar detalhes do webinário manualmente. Isso melhora a eficiência geral, pois qualquer alteração feita nos metadados do webinário (como título do webinário, data de início etc.) será refletida automaticamente em seus ativos.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 

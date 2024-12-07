@@ -4,20 +4,16 @@ description: Personalizações do Sales Connect para CRM - Documentação do Mar
 title: Personalizações do Sales Connect para CRM
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '701'
-ht-degree: 0%
+source-wordcount: '690'
+ht-degree: 2%
 
 ---
 
 # Personalizações do Sales Connect para CRM {#sales-connect-customizations-for-crm}
 
-Os campos e botões abaixo são criados pela API de metadados no Salesforce CRM. Depois que os campos forem criados, os administradores deverão configurar os layouts de página em seus CRMs para expô-los. As instruções podem ser encontradas [aqui](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
-
->[!NOTE]
->
->Isso afeta os clientes do ToutApp e do Sales Connect.
+Os campos e botões abaixo são criados pela API de metadados no Salesforce CRM. Depois que os campos forem criados, os administradores deverão configurar os layouts de página em seus CRMs para expô-los. As instruções [podem ser encontradas aqui](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
 
 ## Como instalar personalizações no Salesforce {#how-to-install-customizations-in-salesforce}
 
@@ -25,7 +21,7 @@ Os campos e botões abaixo são criados pela API de metadados no Salesforce CRM.
 
    ![](assets/one.png)
 
-1. Em Configurações do administrador, selecione **Salesforce**.
+1. Em Configurações do Administrador, selecione **Salesforce**.
 
    ![](assets/two.png)
 
@@ -53,7 +49,7 @@ As atualizações do pacote de Personalização do Salesforce incluirão melhori
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Em Configurações do administrador, clique em **Salesforce**.
+1. Em Configurações do Administrador, clique em **Salesforce**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
@@ -77,97 +73,166 @@ Depois de concluído, seu cartão mostrará &quot;Suas personalizações do Sale
 
 O Marketo detectará a criação de novos campos e então fará um preenchimento retroativo de dados único, um remapeamento e uma sincronização contínua de valores somente nos campos **novos**. Campos antigos não serão atualizados.
 
-| **Nome do Campo** | **Descrição** |
-|---|---|
-| ID de presença local da chamada MSE | Como usuário, você pode escolher Presença local como opção ao fazer chamadas do telefone MSE. As chamadas recebidas mostrarão um número local para o receptor. |
-| URL de Gravação de Chamada MSE | As chamadas podem ser gravadas e um link para a gravação será registrado aqui. |
-| Campanha MSE | Registra o nome da campanha do MSE da qual o Contato/Cliente Potencial é membro. |
-| URL da campanha MSE | Registra o URL da campanha que foi criada no MSE. Clicar nisso abrirá a campanha no aplicativo Web do MSE. |
-| Etapa atual da campanha MSE | Se um contato/cliente potencial fizer parte de uma campanha, esse campo registrará o nome da etapa na qual o cliente potencial/contato está no momento. |
-| Anexo de email do MSE exibido | Registra dados quando um email é enviado com um anexo e o anexo é visualizado pelo recipient. |
-| Email MSE clicado | Registra uma marca de seleção quando o recipient clica em um link de um email. |
-| Email do MSE respondido | Registra uma marca de seleção quando o destinatário responde a um email. |
-| Status de email do MSE | Mostra se um email foi enviado/está em andamento/foi rejeitado (o rastreamento dos emails devolvidos depende do canal de delivery usado). |
-| Modelo de email MSE | Registra o nome do modelo MSE que foi usado no email enviado ao lead/contato. |
-| URL de modelo de email do MSE | Registra o URL do modelo que foi criado no MSE. Clicar nisso abrirá o modelo no aplicativo Web do MSE. |
-| URL de email do MSE | Clicar nesse URL abrirá o Centro de comando no MSE e obterá a guia de histórico Exibição de detalhes de pessoas, onde você poderá ver o email enviado. |
-| Email do MSE Exibido | Registra uma marca de seleção quando o destinatário visualiza um email. |
+<table><thead>
+  <tr>
+    <th>Nome do campo</th>
+    <th>Descrição</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>ID de presença local da chamada MSE</td>
+    <td>Como usuário, você pode escolher Presença local como opção ao fazer chamadas do telefone MSE. As chamadas recebidas mostrarão um número local para o receptor.</td>
+  </tr>
+  <tr>
+    <td>URL de Gravação de Chamada MSE</td>
+    <td>As chamadas podem ser gravadas e um link para a gravação será registrado aqui.</td>
+  </tr>
+  <tr>
+    <td>Campanha MSE</td>
+    <td>Registra o nome da campanha do MSE da qual o Contato/Cliente Potencial é membro.</td>
+  </tr>
+  <tr>
+    <td>URL da campanha MSE</td>
+    <td>Registra o URL da campanha que foi criada no MSE. Clicar nisso abrirá a campanha no aplicativo Web do MSE.</td>
+  </tr>
+  <tr>
+    <td>Etapa atual da campanha MSE</td>
+    <td>Se um contato/cliente potencial fizer parte de uma campanha, esse campo registrará o nome da etapa na qual o cliente potencial/contato está no momento.</td>
+  </tr>
+  <tr>
+    <td>Anexo de email do MSE exibido</td>
+    <td>Registra dados quando um email é enviado com um anexo e o anexo é visualizado pelo recipient.</td>
+  </tr>
+  <tr>
+    <td>Email MSE clicado</td>
+    <td>Registra uma marca de seleção quando o recipient clica em um link de um email.</td>
+  </tr>
+  <tr>
+    <td>Email do MSE respondido</td>
+    <td>Registra uma marca de seleção quando o destinatário responde a um email.</td>
+  </tr>
+  <tr>
+    <td>Status de email do MSE</td>
+    <td>Mostra se um email foi enviado/está em andamento/foi rejeitado (o rastreamento dos emails devolvidos depende do canal de delivery usado).</td>
+  </tr>
+  <tr>
+    <td>Modelo de email MSE</td>
+    <td>Registra o nome do modelo MSE que foi usado no email enviado ao lead/contato.</td>
+  </tr>
+  <tr>
+    <td>URL de modelo de email do MSE</td>
+    <td>Registra o URL do modelo que foi criado no MSE. Clicar nisso abrirá o modelo no aplicativo Web do MSE.</td>
+  </tr>
+  <tr>
+    <td>URL de email do MSE</td>
+    <td>Clicar nesse URL abrirá o Centro de comando no MSE e obterá a guia de histórico Exibição de detalhes de pessoas, onde você poderá ver o email enviado.</td>
+  </tr>
+  <tr>
+    <td>Email do MSE Exibido</td>
+    <td>Registra uma marca de seleção quando o destinatário visualiza um email.</td>
+  </tr>
+</tbody></table>
 
 ## Campos de Log de Roll-Up {#roll-up-logging-fields}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Nome do campo</strong></td> 
-   <td><strong>Descrição</strong></td> 
-  </tr> 
-  <tr> 
-   <td>MSE - Último engajamento de marketing</td> 
-   <td>Último envolvimento recebido de Marketing. </td> 
-  </tr> 
-  <tr> 
-   <td>MSE - Última data de compromisso de marketing</td> 
-   <td>Carimbo de data e hora do envolvimento do Marketing.</td> 
-  </tr> 
-  <tr> 
-   <td>MSE - Última Descrição de Compromisso de Marketing</td> 
-   <td>Descrição do compromisso.</td> 
-  </tr> 
-  <tr> 
-   <td>MSE - Último Source de envolvimento de marketing</td> 
-   <td>Source do envolvimento de marketing.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Último Tipo de Compromisso de Marketing</td> 
-   <td colspan="1">Tipo de contrato.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Última atividade por vendas<br></td> 
-   <td colspan="1">Última atividade de saída executada pela equipe de vendas.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Última Resposta</td> 
-   <td colspan="1">Último email de resposta ao Email de vendas.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Campanha de vendas atual</td> 
-   <td colspan="1">Registra o nome da campanha do MSE da qual o lead/contato é membro.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Último contrato de vendas</td> 
-   <td colspan="1">Último envolvimento recebido de Vendas. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - Recusa</td> 
-   <td colspan="1">Campo de recusa.</td> 
-  </tr> 
- </tbody> 
-</table>
+<table><thead>
+  <tr>
+    <th>Nome do campo</th>
+    <th>Descrição</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE - Último engajamento de marketing</td>
+    <td>Último envolvimento recebido de Marketing.</td>
+  </tr>
+  <tr>
+    <td>MSE - Última data de compromisso de marketing</td>
+    <td>Carimbo de data e hora do envolvimento do Marketing.</td>
+  </tr>
+  <tr>
+    <td>MSE - Última Descrição de Compromisso de Marketing</td>
+    <td>Descrição do compromisso.</td>
+  </tr>
+  <tr>
+    <td>MSE - Último Source de envolvimento de marketing</td>
+    <td>Source do envolvimento de marketing.</td>
+  </tr>
+  <tr>
+    <td>MSE - Último Tipo de Compromisso de Marketing</td>
+    <td>Tipo de contrato.</td>
+  </tr>
+  <tr>
+    <td>MSE - Última atividade por vendas</td>
+    <td>Última atividade de saída executada pela equipe de vendas.</td>
+  </tr>
+  <tr>
+    <td>MSE - Última Resposta</td>
+    <td>Último email de resposta ao Email de vendas.</td>
+  </tr>
+  <tr>
+    <td>MSE - Campanha de vendas atual</td>
+    <td>Registra o nome da campanha do MSE da qual o lead/contato é membro.</td>
+  </tr>
+  <tr>
+    <td>MSE - Último contrato de vendas</td>
+    <td>Último envolvimento recebido de Vendas.</td>
+  </tr>
+  <tr>
+    <td>MSE - Recusa</td>
+    <td>Campo de recusa.</td>
+  </tr>
+</tbody></table>
 
 ## Botões {#buttons}
 
-| **Nome do Botão** | **Descrição** |
-|---|---|
-| Enviar Email MSE | Envie emails de Vendas do Salesforce. |
-| Adicionar à campanha MSE | Adicionar às campanhas do MSE do Salesforce. |
-| Encaminhar para o MSE | Contato por push do Salesforce para o MSE. |
-| Chamar com MSE | Faça chamadas de vendas do Salesforce. |
+<table><thead>
+  <tr>
+    <th>Nome do botão</th>
+    <th>Descrição</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Enviar Email MSE</td>
+    <td>Envie emails de Vendas do Salesforce.</td>
+  </tr>
+  <tr>
+    <td>Adicionar à campanha MSE</td>
+    <td>Adicionar às campanhas do MSE do Salesforce.</td>
+  </tr>
+  <tr>
+    <td>Encaminhar para o MSE</td>
+    <td>Contato por push do Salesforce para o MSE.</td>
+  </tr>
+  <tr>
+    <td>Chamar com MSE</td>
+    <td>Faça chamadas de vendas do Salesforce.</td>
+  </tr>
+</tbody>
+</table>
 
 ## Botões de ação em massa {#bulk-action-buttons}
 
-| **Nome do Botão** | **Descrição** |
-|---|---|
-| Adicionar à campanha MSE | Adicionar às campanhas do MSE do Salesforce. |
-| Encaminhar para o MSE | Contato por push do Salesforce para o MSE. |
+<table><thead>
+  <tr>
+    <th>Nome do botão</th>
+    <th>Descrição</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Adicionar à campanha MSE</td>
+    <td>Adicionar às campanhas do MSE do Salesforce.</td>
+  </tr>
+  <tr>
+    <td>Encaminhar para o MSE</td>
+    <td>Contato por push do Salesforce para o MSE.</td>
+  </tr>
+</tbody>
+</table>
 
 ## Guias do usuário {#user-guides}
 
-[Relatórios personalizados do MSE no Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Relatórios personalizados do MSE no Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/reports-and-dashboards.pdf)
 
-[MSE para Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[MSE para Salesforce Classic](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)
 
-[MSE para Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[MSE para Salesforce Lightning](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/sfdc-guide-lightning.pdf)
