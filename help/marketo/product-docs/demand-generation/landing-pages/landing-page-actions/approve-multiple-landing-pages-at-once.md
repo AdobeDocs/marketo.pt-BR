@@ -4,9 +4,9 @@ description: Aprovar várias páginas de aterrissagem de uma só vez - Documenta
 title: Aprovar várias páginas de aterrissagem de uma vez
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 1. Vá para o **Design Studio**.
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. Clique em **Landing Pages**.
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. Mantenha pressionada a tecla Ctrl (Windows) ou Command (Mac) e clique para selecionar várias landing pages.
+1. Selecione as Landing Pages desejadas.
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
-   >Não clique no nome real da landing page; esses são links e direcionarão você à própria página.
+   >Não clique no nome real da Landing Page; esses são links e direcionarão você até a própria página.
 
-1. Com suas páginas de aterrissagem selecionadas, vá para **Ações da página de aterrissagem** e clique em **Aprovar**.
+1. Com suas Páginas de Aterrissagem selecionadas, clique no menu suspenso **Ações da Página de Aterrissagem** e selecione **Aprovar**.
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   Lá vai você! Agora é possível aprovar várias landing pages de maneira rápida e fácil.
+1. Clique em **Aprovar**.
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >

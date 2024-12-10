@@ -3,7 +3,7 @@ description: Glossário de ícones clássico - Documentação do Marketo - Docum
 title: Glossário de ícone do Classic
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 34%
@@ -140,7 +140,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr> 
    <td><img src="assets/image2015-1-8-16-3a34-3a53.png"> 
     </td> 
-   <td>Local</td> 
+   <td>Localização</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-16-3a36-3a19.png"> 
@@ -316,7 +316,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr> 
    <td><img src="assets/image2015-1-9-11-3a6-3a26.png"> 
     </td> 
-   <td>Campanhas em lote programadas</td> 
+   <td>Campanhas em lote agendadas</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a25-3a43.png"> 
@@ -381,7 +381,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a0.png"> 
     </td> 
-   <td>Incorporar código</td> 
+   <td>Código de inserção</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a53-3a40.png"> 
@@ -885,3 +885,4 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   </tr> 
  </tbody> 
 </table>
+ 

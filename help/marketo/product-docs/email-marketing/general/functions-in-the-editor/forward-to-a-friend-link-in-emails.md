@@ -4,7 +4,7 @@ description: Encaminhar para um link de amigo em emails - Documentação do Mark
 title: Encaminhar para um Amigo por e-mail
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Encaminhar para um Amigo por e-mail {#forward-to-a-friend-link-in-emails}
 
-Adicionar o link ‘Encaminhar para o amigo’ aos seus emails permite rastrear pessoas que receberam um email encaminhado por meio desse link e automaticamente as adiciona como uma nova pessoa se ainda não estiverem no banco de dados.
+Adicionar o link &#39;Encaminhar para o amigo&#39; aos seus emails permite rastrear pessoas que receberam um email encaminhado por meio desse link e automaticamente as adiciona como uma nova pessoa se ainda não estiverem no banco de dados.
 
-Por exemplo, digamos que Keith use o link &#39;Encaminhar para o amigo&#39; para encaminhar o email a uma pessoa desconhecida, Mark. Mark é automaticamente adicionado como uma nova pessoa, recebe seu próprio cookie atribuído e qualquer atividade de email e da Web é vinculada a ele. No entanto, se Keith usa o botão de avanço em seu cliente de e-mail, Mark é incorretamente cozido como Keith, e sua atividade é registrada como Keith.
+Por exemplo, digamos que Keith use o link &#39;Encaminhar para o Amigo&#39; para encaminhar o email a uma pessoa desconhecida, Mark. Mark é automaticamente adicionado como uma nova pessoa, recebe seu próprio cookie atribuído e qualquer atividade de email e da Web é vinculada a ele. No entanto, se Keith usa o botão de avanço em seu cliente de e-mail, Mark é incorretamente cozido como Keith, e sua atividade é registrada como Keith.
 
 ## Adicionar o link a um modelo de email {#add-the-link-to-an-email-template}
 
@@ -29,7 +29,7 @@ Por exemplo, digamos que Keith use o link &#39;Encaminhar para o amigo&#39; para
 
 1. Cole o seguinte código de HTML onde deseja que o link &#39;Encaminhar para Amigo&#39; apareça (se precisar de ajuda com esta parte, entre em contato com seu desenvolvedor da Web):
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -42,7 +42,7 @@ Por exemplo, digamos que Keith use o link &#39;Encaminhar para o amigo&#39; para
 
    >[!CAUTION]
    >
-   >Não é recomendável usar o estilo **position:relative** no modelo de email. Isso pode criar problemas com a posição e exibição da caixa &#39;Encaminhar para um amigo&#39;.
+   >Não é recomendável usar o estilo **position:relative** no modelo de email. Ele pode criar problemas com a posição e a exibição da caixa &#39;Encaminhar para um amigo&#39;.
 
 1. Clique em **Visualizar rascunho** para verificar se a aparência do modelo é a desejada.
 
@@ -52,7 +52,7 @@ Por exemplo, digamos que Keith use o link &#39;Encaminhar para o amigo&#39; para
    >
    >Lembre-se de aprovar o rascunho do modelo para aplicar as alterações.
 
-   Agora, todos os emails que usam esse modelo terão o link &#39;Encaminhar para um amigo&#39;. Quando o recipient do email clicar nele, ele será direcionado para uma versão da Web do email com a caixa &quot;Encaminhar para um amigo&quot;:
+   Agora, todos os emails que usam esse modelo terão o link &#39;Encaminhar para um amigo&#39;. Quando o recipient do email clicar nele, ele será direcionado para uma versão da Web do email com a caixa &#39;Encaminhar para um amigo&#39;:
 
    ![](assets/f2afbox.png)
 
@@ -74,7 +74,7 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
    >[!NOTE]
    >
-   >Este token é o URL da versão da Web do email com uma caixa &quot;Encaminhar para o amigo&quot;.
+   >Esse token é o URL da versão da Web do email com uma caixa &quot;Encaminhar para o amigo&quot;.
 
 1. Escreva o texto a ser exibido no link (por exemplo, &quot;Encaminhar para um amigo&quot;).
 
@@ -122,9 +122,9 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de atividades da 
 
    ![](assets/sixteen.png)
 
-1. Para exibir uma pessoa por ID, copie e cole a **ID de pessoa** no final da URL (o início dessa URL dependerá da instância do Marketo):
+1. Para exibir uma pessoa por ID, copie e cole a **ID de pessoa** no final da URL (o início da URL dependerá da instância do Marketo):
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >
@@ -134,12 +134,12 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de atividades da 
 
    >[!NOTE]
    >
-   >Se o amigo que recebe o encaminhamento for uma pessoa desconhecida, uma nova pessoa será criada com a opção &quot;Encaminhar para o amigo&quot; marcada como o **Source** da pessoa.
+   >Se o amigo que recebe o encaminhamento for uma pessoa desconhecida, uma nova pessoa será criada com &quot;Encaminhar para o amigo&quot; marcado como o **Source** da pessoa.
    >Se o email for um ativo local de um programa, ele será marcado como o **Programa de aquisição** da pessoa.
 
 ## Acionar ou filtrar usando atividade de encaminhamento {#trigger-or-filter-using-forwarding-activity}
 
-Há seis acionadores/filtros que você pode usar para acionar ações de fluxo ou filtrar pessoas por atividade &quot;Encaminhar para um amigo&quot; enviada e recebida.
+Há seis acionadores/filtros que você pode usar para acionar ações de fluxo ou filtrar pessoas por atividades &quot;Encaminhar para um amigo&quot; enviadas e recebidas.
 
 Em uma lista inteligente de campanha inteligente, se pesquisar por &quot;encaminhar&quot;, você encontrará os acionadores e filtros disponíveis.
 
