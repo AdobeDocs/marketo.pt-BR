@@ -3,9 +3,9 @@ description: Promover um webinário interativo - Documentação do Marketo - Doc
 title: Promover um webinário interativo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Depois que um membro estiver no status &quot;registrado&quot; do programa em um 
 
 Após alguns minutos do registro, o URL do webinário do membro é preenchido na Guia Membros. Se não conseguir localizar a coluna para o URL do webinário, verifique se a coluna foi adicionada à visualização. Este é um URL personalizado para cada membro registrado poder entrar no webinário no horário agendado sem exigir autenticação. Os tokens trocados internamente cuidam da autenticação dos membros.
 
-Você pode usar tokens para incluir o URL do webinário para membros individuais em uma campanha de email para comunicar que foram registrados no evento e usar o URL de ingresso para entrar no webinário no horário agendado. Os tokens de calendário podem ser usados na mesma campanha de email para garantir que a programação do webinário possa ser adicionada aos calendários dos membros.
+Você pode usar o `{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} para incluir a URL do webinário para membros individuais em uma campanha por email para comunicar que eles foram registrados no evento e usar a URL de ingresso para entrar no webinário no horário agendado. Os tokens de calendário podem ser usados na mesma campanha de email para garantir que a programação do webinário possa ser adicionada aos calendários dos membros.
 
 Os links estão disponíveis no lado direito da guia Visão geral no Programa de evento para criar uma Página de aterrissagem, bem como uma campanha de email. O restante das promoções relacionadas a um evento permanecem as mesmas que webinários de parceiros usando a integração do Launchpoint.
 
