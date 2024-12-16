@@ -4,9 +4,9 @@ description: Criar um evento com zoom - Documentação do Marketo - Documentaç�
 title: Criar um evento com zoom
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >* [Adicionar Zoom como um Serviço do LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Criar um Novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Definir as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)apropriadas para rastrear o envolvimento
+>* Definir as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) apropriadas para rastrear o envolvimento
 
 Primeiro, crie seu webinário em Zoom. Certas configurações na criação do Zoom são usadas pelo Marketo e algumas somente são usadas pelo Zoom.
 
@@ -103,4 +103,4 @@ Agora, vamos mergulhar no Marketo!
 
    >[!TIP]
    >
-   >Pode levar até 48 horas para que os dados sejam exibidos no Marketo. Se, após esse tempo de espera, você ainda não vir nada, selecione **Atualizar do Provedor de Webinar** no menu Ações de Eventos, na guia **Resumo** do seu evento.
+   >Pode levar até 48 horas para que os dados sejam exibidos no Marketo. Se depois de aguardar tanto tempo você ainda não vir nada, selecione **Atualizar do Provedor de Webinar** no menu Ações de Evento na guia **Resumo** do evento e clique no ícone de atualização na parte inferior direita da tela.

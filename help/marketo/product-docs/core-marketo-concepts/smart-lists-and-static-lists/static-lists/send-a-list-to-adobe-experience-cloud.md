@@ -4,9 +4,9 @@ description: Enviar uma lista para o Adobe Experience Cloud - Documentação do 
 title: Enviar uma lista para o Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '784'
 ht-degree: 1%
 
 ---
@@ -94,28 +94,30 @@ Você pode interromper a sincronização da sua lista a qualquer momento.
 
 **Compartilhando com a Adobe Analytics**
 
-Para clientes que possuem o Adobe Audience Manager e o Adobe Analytics, essa integração permitirá que os públicos-alvo sejam compartilhados do Marketo com seus Conjuntos de relatórios do Adobe Analytics. No entanto, há algumas etapas de configurações adicionais que precisam ser executadas no Adobe Audience Manager para habilitar isso. Consulte a [documentação da Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} para obter mais informações sobre como configurar esta página.
+* Para clientes que possuem o Adobe Audience Manager e o Adobe Analytics, essa integração permitirá que os públicos-alvo sejam compartilhados do Marketo com seus Conjuntos de relatórios do Adobe Analytics. No entanto, há algumas etapas de configurações adicionais que precisam ser executadas no Adobe Audience Manager para habilitar isso. Consulte a [documentação da Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} para obter mais informações sobre como configurar esta página.
+
+* Se uma lista estiver vazia ou não tiver pessoas com valores ECID, o nome da lista não será enviado para ser referenciado fora do Marketo Engage.
 
 **Uso de características para clientes da Adobe Audience Manager**
 
 Ao iniciar uma exportação de lista no Marketo, você observará as seguintes alterações refletidas na instância do Adobe Audience Manager:
 
-* Para todos os clientes em potencial na lista exportada, o Marketo gravará uma característica usando os emails com hash dos clientes em potencial como um Identificador entre dispositivos. O nome da característica corresponderá ao Nome do público-alvo de destino especificado durante a exportação.
-* Para todas as ECIDs que a Marketo conseguiu corresponder aos clientes em potencial na lista exportada, o Marketo gravará uma característica usando o Identificador de dispositivo ECID. O nome da característica corresponderá ao Nome do público-alvo de destino especificado durante a exportação.
+* Para todas as Pessoas na Lista exportada, o Marketo gravará uma característica usando seus emails com hash como um Identificador entre dispositivos. O nome da característica corresponderá ao Nome do público-alvo de destino especificado durante a exportação.
+* Para todos os ECIDs que o Marketo conseguiu corresponder às Pessoas na Lista exportada, o Marketo gravará uma característica usando o Identificador de dispositivo ECID. O nome da característica corresponderá ao Nome do público-alvo de destino especificado durante a exportação.
 * O Marketo também criará um segmento na sua instância do Audience Manager usando a característica da ECID como o único critério de segmentação. O nome do segmento corresponderá ao Nome do público-alvo de destino especificado durante a exportação.
 
 ## Perguntas frequentes {#faq}
 
 **Por que o tamanho da lista no Marketo é diferente do tamanho na Adobe?**
 
-Por baixo dos panos, a integração do público-alvo funciona sincronizando os cookies do Marketo Munchkin com o cookie Adobe ECID correspondente. O Marketo só pode compartilhar dados de associação de clientes potenciais para os quais a Marketo sincronizou uma ECID. Para obter os melhores resultados possíveis, é recomendável carregar o script de rastreamento munchkin.js do Marketo em paralelo ao código de rastreamento de Adobe visitor.js em todas as páginas em que você está interessado em rastrear para fins de marketing.
+Por baixo dos panos, a integração de público-alvo funciona sincronizando os cookies do Marketo Munchkin com o cookie Adobe ECID correspondente. O Marketo só pode compartilhar dados de associação de pessoas para as quais a Marketo sincronizou uma ECID. Para obter os melhores resultados possíveis, é recomendável carregar o script de rastreamento munchkin.js do Marketo em paralelo ao código de rastreamento de Adobe visitor.js em todas as páginas em que você está interessado em rastrear para fins de marketing.
 
 **Como funciona a sincronização de cookies?**
 
 Quando a sincronização de cookies estiver ativada para sua assinatura do Marketo, o munchkin.js da Marketo tentará capturar e armazenar ECIDs de Adobe para a Organização IMS da Adobe especificada durante a configuração de integração e corresponderá essas ECIDs ao identificador de cookie do Marketo correspondente. Isso permite que perfis de usuários anônimos da Marketo sejam enriquecidos com Adobe ECIDs.
 
-Uma outra etapa é necessária para associar o perfil de usuário anônimo a um Perfil principal, que é identificado usando um email de texto sem formatação. [está descrito aqui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} como isto funciona exatamente.
+Uma outra etapa é necessária para associar o perfil de usuário anônimo a um Perfil de pessoa, que é identificado usando um email de texto sem formatação. [está descrito aqui](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} como isto funciona exatamente.
 
 **Que informações são compartilhadas?**
 
-Essa integração só compartilha informações de associação de lista da Marketo para o Adobe (por exemplo, o conhecimento de que o Lead X é um membro da Lista Y). Nenhum atributo de lead adicional é compartilhado com o Adobe por meio dessa integração.
+Essa integração só compartilha informações de associação de lista da Marketo para o Adobe (por exemplo, o conhecimento de que a Pessoa X é membro da Lista Y). Nenhum atributo de pessoa adicional é compartilhado para o Adobe por meio dessa integração.

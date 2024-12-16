@@ -4,7 +4,7 @@ description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterp
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 6%
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->[Etapa 1 de 3: adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[Etapa 1 de 3: Adicionar Campos do Marketo à Salesforce (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
 Neste artigo, você configurará as permissões do usuário no perfil do Salesforce e criará uma conta de integração Marketo-Salesforce.
 
@@ -37,7 +37,7 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Selecione **[!UICONTROL Usuário padrão]**, nomeie o perfil como &quot;Marketo-Salesforce Sync&quot; e clique em **[!UICONTROL Salvar]**.
+1. Selecione **[!UICONTROL Usuário padrão]**, nomeie o perfil como &quot;Sincronização Marketo-Salesforce&quot; e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -124,27 +124,27 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>Objeto</p></th> 
-   <th colspan="1" rowspan="1"><p>Campos</p></th> 
+   <th>Objeto</th> 
+   <th>Campos</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Conta</p></td> 
-   <td colspan="1" rowspan="1"><p>Campo de tipo</p></td> 
+   <td>Conta</td> 
+   <td>Campo de tipo</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Evento</p></td> 
-   <td colspan="1" rowspan="1"><p>Todos os campos</p></td> 
+   <td>Evento</td> 
+   <td>Todos os campos</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Tarefa</p></td> 
-   <td colspan="1" rowspan="1"><p>Todos os campos</p></td> 
+   <td>Tarefa</td> 
+   <td>Todos os campos</td> 
   </tr> 
  </tbody> 
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)
 
-## Criar conta de sincronização do Marketo-Salesforce {#create-marketo-salesforce-sync-account}
+## Criar conta de sincronização Marketo-Salesforce {#create-marketo-salesforce-sync-account}
 
 >[!TIP]
 >
@@ -154,7 +154,7 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 
    ![](assets/sfdc-new-users.png)
 
-1. Preencha os campos obrigatórios. Em seguida, selecione a **[!UICONTROL Licença de usuário: Salesforce]** e o Perfil que você criou anteriormente. Clique em **[!UICONTROL Salvar]** quando terminar.
+1. Preencha os campos obrigatórios. Em seguida, selecione a **[!UICONTROL Licença de usuário: Salesforce]** e o Perfil criado anteriormente. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

@@ -4,9 +4,9 @@ description: Gerenciamento de funções e permissões do usuário - Documentaç�
 title: Gerenciamento de funções e permissões de usuário
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ Se você precisar alterar as permissões associadas a uma função existente, ed
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Altere o **[!UICONTROL Nome da Função]** e a **[!UICONTROL Descrição]**, se necessário, e altere a seleção das **[!UICONTROL Permissões]** associadas.
+1. Altere o **[!UICONTROL Nome da Função]** e a **[!UICONTROL Descrição]**, se necessário, altere a seleção de **[!UICONTROL Permissões]** associadas e clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
