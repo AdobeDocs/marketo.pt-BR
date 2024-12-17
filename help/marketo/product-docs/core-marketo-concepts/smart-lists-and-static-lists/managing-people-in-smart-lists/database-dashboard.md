@@ -4,9 +4,9 @@ description: Painel de banco de dados - Documentação do Marketo - Documentaç�
 title: Painel do Banco de Dados
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ O Painel de controle do banco de dados serve como um instantâneo para ajudá-lo
 
 >[!NOTE]
 >
->Cada espaço de trabalho tem seu próprio painel de banco de dados.
+>* O Painel do banco de dados é atualizado automaticamente a cada 24-32 horas. Você pode executar uma atualização manual a qualquer momento clicando no texto &quot;última atualização&quot; no lado direito da tela.
+>
+>* Cada espaço de trabalho tem seu próprio painel de banco de dados.
 
 Para chegar lá, selecione **[!UICONTROL Banco de Dados]** em Minha Marketo.
 
