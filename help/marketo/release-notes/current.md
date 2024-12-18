@@ -3,7 +3,7 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 6%
@@ -41,23 +41,21 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>Cancelar o registro de inscritos de um evento em webinários interativos</strong>: agora, se você não quiser um inscrito em seu webinário por qualquer motivo, poderá cancelar o registro deles. O fluxo de trabalho remove o inscrito do Programa de evento do Marketo e do Adobe Connect.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>Desabilitar Campanhas no Arquivo Morto</strong>: desabilite campanhas de gatilho ativas e cancele todas as execuções de campanhas em lote agendadas em uma pasta quando ela for arquivada. Como há uma verificação de permissões adicional para pastas de arquivamento que contêm campanhas ativas (Ativar Campanha de Acionador e Campanha em Lote de Agendamento), esse recurso fica desabilitado por padrão com esta versão e pode ser habilitado navegando até <b>Admin</b> &gt; <b>Treasure Chest</b> na sua assinatura do Marketo Engage.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
