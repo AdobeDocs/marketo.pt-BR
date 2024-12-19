@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360362
-description: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited) - Documentação do Marketo - Documentação do produto
-title: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)
+description: Etapa 1 de 3 - Adicionar campos do Marketo à Salesforce (Enterprise/Unlimited) - Documentação do Marketo - Documentação do produto
+title: Etapa 1 de 3 - Adicionar campos do Marketo à Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 9%
 
 ---
 
-# Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Etapa 1 de 3: Adicionar campos do Marketo à Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
@@ -25,13 +25,13 @@ O Marketo usa um conjunto de campos para capturar determinados tipos de informa�
 
 Todos esses campos personalizados são opcionais e não são necessários para sincronizar o Marketo e o Salesforce. Como prática recomendada, é recomendado criar campos para Pontuação, Programa de aquisição e Data de aquisição.
 
-## Adicionar campos do Marketo ao Salesforce {#add-marketo-fields-to-salesforce}
+## Adicionar campos do Marketo à Salesforce {#add-marketo-fields-to-salesforce}
 
 Adicione três campos personalizados aos objetos de cliente potencial e contato no Salesforce listados acima. Se quiser adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
 
 Execute as etapas a seguir para cada um dos três campos personalizados para adicioná-los. Comece com Pontuação.
 
-1. Faça logon no Salesforce e clique em **[!UICONTROL Configuração]**.
+1. Faça logon no Salesforce e clique em **[!UICONTROL Instalação]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -238,11 +238,11 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
 >[!NOTE]
 >
->Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis no Salesforce quando o novo campo for criado. O Marketo sincronizará os dados com o Salesforce na próxima atualização do registro em qualquer sistema (ou seja, uma atualização de qualquer um dos campos sincronizados entre o Marketo e o Salesforce).
+>Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis no Salesforce quando o novo campo for criado. O Marketo sincronizará os dados com o Salesforce na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos sincronizados entre o Marketo e o Salesforce).
 
 ## Mapear campos personalizados para conversões {#map-custom-fields-for-conversions}
 
-Um campo personalizado no objeto de cliente potencial no Salesforce deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transferidos quando ocorrer uma conversão.
+Um campo personalizado no objeto de cliente potencial no Salesforce deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transportados quando ocorrer uma conversão.
 
 1. No canto superior direito, clique em **[!UICONTROL Instalação]**.
 
@@ -270,4 +270,4 @@ Um campo personalizado no objeto de cliente potencial no Salesforce deve ser map
 
 >[!MORELIKETHIS]
 >
->[Etapa 2 de 3: Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>[Etapa 2 de 3: Criar um Usuário do Salesforce para Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
