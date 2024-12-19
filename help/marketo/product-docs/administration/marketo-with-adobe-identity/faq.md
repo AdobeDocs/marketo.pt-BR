@@ -3,9 +3,9 @@ description: Perguntas frequentes sobre o Adobe Identity Management - Documenta�
 title: Perguntas frequentes sobre o Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
 workflow-type: tm+mt
-source-wordcount: '1484'
+source-wordcount: '1521'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Não. Os URLs serão diferentes após a migração.
 
 Sim. Após a migração, o Marketo Engage deixará de ser distribuído do experience.adobe.com para o Adobe Experience Cloud. Incluir na lista de permissões Você precisará trabalhar com sua equipe de TI para classificar todos os domínios de Adobe [na parte superior deste artigo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage.
 
-Links e marcadores anteriores para ativos Marketo Engage no domínio engage-xx.marketo.com _continuarão a funcionar._ No entanto, primeiro você deve fazer logon na instância do Marketo Engage para o URL para o qual está navegando. Por exemplo, para navegar até um marcador de uma Campanha inteligente em uma instância com a ID do Munchkin 123-ABC-456, é necessário primeiro fazer logon na instância do Marketo Engage com a ID do Munchkin 123-ABC-456.
+Links e marcadores anteriores para ativos Marketo Engage no domínio engage-xx.marketo.com _continuarão a funcionar._ No entanto, primeiro você deve fazer logon na instância do Marketo Engage para o URL para o qual está navegando. Por exemplo, para navegar até um marcador para uma Campanha inteligente na instância com a Munchkin ID 123-ABC-456, é necessário primeiro fazer logon na instância do Marketo Engage com a Munchkin ID 123-ABC-456.
 
 **Qual é a diferença entre um Administrador de Produto do Adobe e um Administrador de Marketo Engage?**
 
@@ -56,7 +56,7 @@ Sim. Aqueles que foram integrados ao Adobe IMS não podem utilizar todas as APIs
 
 * Conclusão da migração pós-suporte: os administradores de suporte de produtos podem arquivar casos por meio do portal de suporte do Experience League.
 
-Se tiver o Ultimate Success, você terá acesso ao Admin Console Migration White Glove Service. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter assistência.
+Se tiver sucesso no Ultimate, você terá acesso ao Admin Console Migration White Glove Service. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter assistência.
 
 **Se eu usar uma Identidade de Adobe para acessar outros aplicativos de Adobe, posso usá-la para acessar o Marketo?**
 
@@ -130,9 +130,13 @@ Quando as assinaturas são integradas à Identidade do Adobe, o Logon único (SS
 
 Quando as assinaturas são integradas à Identidade do Adobe, o Logon único (SSO) é configurado no nível da Organização do Adobe. Isso significa que o SSO se aplica a todas as instâncias de produto na Adobe Org. Quando o SSO estiver configurado, ele será aplicado a todas as instâncias do Marketo nessa Adobe Org. Anteriormente, o Marketo oferecia suporte a essa configuração no nível da instância. Isso não é suportado pelo sistema Adobe Identity Management.
 
-**Há alguma alteração necessária para CNAMEs, SPF ou DKIM que usamos atualmente para o Marketo Engage após a migração da Identidade do Adobe?**
+**Há alguma alteração necessária para CNAMEs, SPF ou DKIM que usamos atualmente para o Marketo Engage após a migração da Identidade Adobe?**
 
 Não, não há nenhum impacto nessas configurações.
+
+**Como posso evitar que as sessões atinjam o tempo limite?**
+
+Em [Configurações Avançadas](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings), você pode personalizar a vida útil máxima da sessão desejada (são necessárias permissões de Administrador do Sistema). É recomendável estabelecer essa configuração após a migração do produto, mas antes da migração do usuário.
 
 **Agora preciso entrar no Experience Cloud para acessar o Marketo Engage. Há uma maneira de simplificar este fluxo?**
 
