@@ -4,10 +4,10 @@ description: Descrições das permissões de função - Documentação do Market
 title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 16%
+source-wordcount: '1448'
+ht-degree: 15%
 
 ---
 
@@ -44,6 +44,7 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acesso [[!DNL Data.com]](https://data.com) - Concede aos usuários acesso à ação de fluxo Data.com
 * Acessar administrador de email - Concede aos usuários acesso ao Administrador de email para alterar as configurações padrão, como domínios de cancelamento de inscrição e identidade visual
 * Parceiros de evento de acesso - Fornece aos usuários acesso ao LaunchPoint no Administrador
+* Compartilhamento de público-alvo do Experience Cloud - Dá aos usuários acesso para sincronizar um público-alvo do Adobe Experience Cloud para o Marketo Engage
 * Gerenciamento de campos de acesso - Concede aos usuários acesso ao Gerenciamento de campos no Administrador
 * Acessar upload de arquivo - Oferece aos usuários a capacidade de carregar imagens e arquivos no Design Studio
 * Acessar páginas de aterrissagem - Concede aos usuários acesso às páginas de aterrissagem no Admin
