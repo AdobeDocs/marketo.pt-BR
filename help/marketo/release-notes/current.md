@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 7%
 
 ---
 
@@ -61,6 +61,16 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 <br/>
 
 ## Anúncios {#announcements}
+
+* **Descontinuação de recursos sociais**: na quarta-feira, 31 de julho de 2024, o Marketo Engage iniciou a desativação dos seguintes recursos sociais no produto:
+
+   * Pesquisas
+   * Botão social
+   * Oferta da recomendação
+   * Compartilhamento de vídeo
+   * Sorteios
+
+A partir de então, os usuários não foram capazes de criar, clonar ou incorporar qualquer um desses recursos sociais no Marketo Engage. Os ativos sociais existentes continuarão a funcionar até 31 de janeiro de 2025. Em 1º de fevereiro de 2025, os ativos sociais deixarão de funcionar. Os recursos sociais incorporados às Páginas de aterrissagem precisarão ser removidos. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Obter Atualização da API de Membros do Programa**: Melhoramos a API [Obter Membros do Programa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} para oferecer suporte à capacidade de recuperar o identificador dos membros do programa. Isso é feito adicionando a id à lista de campos especificados no parâmetro fields da solicitação de API.
 
