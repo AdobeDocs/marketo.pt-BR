@@ -3,9 +3,9 @@ description: Migração para a identidade do Adobe - Documentação do Marketo -
 title: Migrar para a identidade do Adobe
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
 workflow-type: tm+mt
-source-wordcount: '2300'
+source-wordcount: '2317'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,10 @@ O administrador pode escolher uma data entre 8 e 30 dias no futuro. Quando uma d
 Todas as assinaturas do Marketo com fuso horário dos EUA serão migradas a partir da meia-noite, hora padrão do Pacífico, da data de início da migração do usuário. A migração de usuário para todas as outras assinaturas começará à meia-noite do fuso horário especificado da assinatura. Quando a migração de usuário de uma assinatura for iniciada, o gerenciamento de usuários não estará mais disponível na área de administração do Marketo e só será obtido na Adobe Admin Console. O gerenciamento de funções permanece na guia Usuários e funções na área de Administração do Marketo, bem como no gerenciamento de usuários local (somente API).
 
 O Adobe migrará automaticamente todos os administradores do Marketo com emails verificados primeiro. Quando os administradores do Marketo migrarem para a Identidade do Adobe, eles serão adicionados ao Adobe Admin Console como administrador de produto da assinatura do Marketo e receberão a função de administrador de produto do Adobe no aplicativo do Marketo (juntamente com quaisquer outras funções que tenham tido anteriormente) e terão seu Adobe ID qualificado para a assinatura. Os administradores receberão dois emails. Um indicando que foi atribuído como um Administrador de produto Adobe e o outro indicando que o Adobe ID tem direito ao produto Marketo.
+
+>[!IMPORTANT]
+>
+>Você deve clicar no botão **Aceitar convite** no email de direito para acessar o Marketo Engage com sua Adobe ID.
 
 **Email do administrador do produto Marketo**
 
@@ -177,7 +181,7 @@ Os administradores de produtos da Marketo poderão selecionar usuários para mig
 
 Por exemplo, um administrador pode selecionar um grupo de &quot;usuários avançados&quot; para os quais deseja migrar primeiro. Depois que essas migrações de usuários forem concluídas com êxito, eles poderão selecionar diferentes grupos de usuários com base em variáveis como espaço de trabalho/negócios ou função/função para realizar mais migrações de usuários em lote pelo. Ou podem decidir migrar o restante dos usuários nas assinaturas após o sucesso do primeiro lote. O objetivo é fornecer a maior flexibilidade na distribuição de IDs de Adobe para os usuários.
 
-Todas as migrações de usuários ocorrem simultaneamente e devem ser concluídas com êxito em sessenta segundos. Enquanto a migração de usuário está ocorrendo para um usuário específico, ele pode perder o acesso por até 1 minuto, e isso somente se o usuário estiver conectado ao aplicativo. Após a conclusão da migração do usuário, ele receberá um email sobre como fazer logon no Marketo Engage com uma identidade Adobe. O usuário precisa aceitar o convite através do link do botão no email. Depois de aceitar o convite, o usuário deve fazer logon com uma Adobe ID. As instruções sobre como entrar no Marketo Engage com um Adobe ID [podem ser encontradas aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
+Todas as migrações de usuários ocorrem simultaneamente e devem ser concluídas com êxito em sessenta segundos. Enquanto a migração de usuário está ocorrendo para um usuário específico, ele pode perder o acesso por até 1 minuto, e isso somente se o usuário estiver conectado ao aplicativo. Após a conclusão da migração do usuário, ele receberá um email sobre como fazer logon no Marketo Engage com uma identidade Adobe. O usuário precisa aceitar o convite através do link do botão no email _antes_ de entrar com uma Adobe ID. As instruções sobre como entrar no Marketo Engage com uma Adobe ID [podem ser encontradas aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
