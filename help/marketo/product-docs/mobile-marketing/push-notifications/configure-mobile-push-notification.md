@@ -4,9 +4,9 @@ description: Configurar notificação por push para dispositivos móveis - Docum
 title: Configurar notificação por push para dispositivos móveis
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
+source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,27 @@ ht-degree: 0%
 
 1. Vá para a área **Atividades de marketing**.
 
-![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
+   ![](assets/configure-mobile-push-notification-1.png)
 
 1. Selecione seu ativo de push e clique em **Editar rascunho**.
 
-   ![](assets/image2016-8-23-16-3a49-3a48.png)
+   ![](assets/configure-mobile-push-notification-2.png)
 
-1. Ir para **Instalação**.
+1. Em **Configurar**, selecione o aplicativo desejado. As plataformas Android e Apple são ativadas por padrão.
 
-   ![](assets/image2016-8-23-16-3a51-3a56.png)
+   ![](assets/configure-mobile-push-notification-3.png)
 
-1. Selecione o aplicativo desejado. As plataformas Android e Apple são ativadas por padrão.
-
-   ![](assets/image2016-8-23-16-3a53-3a33.png)
-
-1. Se a sua mensagem por push se aplicar a apenas uma plataforma (por exemplo, casos para iPhones), você poderá excluir a outra plataforma deslizando seu seletor para Desativado.
-
-   ![](assets/image2016-8-23-16-3a41-3a48.png)
+   >[!NOTE]
+   >
+   >Se sua mensagem de push se aplicar a apenas uma plataforma (por exemplo, iOS), você poderá excluir a outra plataforma deslizando manualmente seu seletor para **Desabilitado**.
 
 1. Clique em **Avançar**.
 
-   ![](assets/image2016-8-23-16-3a43-3a28.png)
+   ![](assets/configure-mobile-push-notification-4.png)
 
-1. Insira o texto da mensagem ou selecione o ícone de token para adicionar tokens. Em seguida, selecione uma **Ação de toque**.
+1. Insira o texto da mensagem ou selecione o ícone do token para adicionar tokens (neste editor, os tokens são formatados como [normalmente são](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) - você pode usar vários tokens). Selecione uma **Ação de toque**.
 
-   ![](assets/image2015-9-14-16-3a7-3a43.png)
+   ![](assets/configure-mobile-push-notification-5.png)
 
    >[!NOTE]
    >
@@ -55,17 +51,9 @@ ht-degree: 0%
    >
    >**URL externa** - direciona você a uma página de aterrissagem que não seja da Marketo.
 
-1. Para inserir um deep link para uma ação de toque personalizada, clique em Personalizado e insira o [URI do deep link](#deep-link-uris) no campo.
+1. Para inserir um deep link para uma ação de toque personalizada, selecione **Personalizado** e insira o [URI do deep link](#deep-link-uris) no campo.
 
-   ![](assets/image2016-7-28-16-3a19-3a13.png)
-
-1. Para inserir tokens, selecione um token, insira um valor padrão e clique em Insert.
-
-   >[!NOTE]
-   >
-   >Os tokens são exibidos onde você coloca o cursor na caixa de texto. Você pode usar mais de um token.
-
-   ![](assets/image2015-8-10-14-3a48-3a52.png)
+   ![](assets/configure-mobile-push-notification-6.png)
 
    >[!NOTE]
    >
@@ -73,15 +61,15 @@ ht-degree: 0%
 
 1. Somente para o iOS, marque a caixa de seleção para informar ao aplicativo para reproduzir um som quando a mensagem chegar. O Android reproduz o som automaticamente.
 
-   ![](assets/ios-tap-and-notification-hand.png)
+   ![](assets/configure-mobile-push-notification-7.png)
 
 1. Visualize a outra plataforma e clique em **Concluir**.
 
-   ![](assets/image2015-9-14-16-3a12-3a34.png)
+   ![](assets/configure-mobile-push-notification-8.png)
 
 1. Clique em **Aprovar e Fechar**.
 
-   ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
+   ![](assets/configure-mobile-push-notification-9.png)
 
 Parabéns! Agora, a notificação por push está pronta para ser enviada.
 
@@ -91,7 +79,7 @@ Quando os assinantes clicam em um botão em uma mensagem por push, ele pode lev�
 
 Um URI de deep link é composto de três partes: nome do esquema, caminho e identificador. No exemplo abaixo, &quot;myappname&quot; é o schema. &quot;products&quot; é o caminho e &quot;purple-shirt&quot; é o identificador. Quando o cliente toca, ele é direcionado especificamente para o item de camisa roxa nas páginas de produto do aplicativo.
 
-![](assets/image2016-7-29-12-3a49-3a1.png)
+![](assets/configure-mobile-push-notification-10.png)
 
 Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções para definir URIs de deep link. Portanto, peça ao desenvolvedor para enviar os URIs (links) para as páginas que você está interessado em usar. Isso garantirá que os URIs inseridos nas mensagens de push apontem para os locais corretos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
