@@ -4,9 +4,9 @@ description: Adicionar logon único a um portal - Documentação do Marketo - Do
 title: Adicionar Logon Único a um Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 
 >[!IMPORTANT]
 >
->Isso não se aplica a assinaturas integradas à Identidade do Adobe. Para assinaturas integradas à Identidade do Adobe, o Logon único é configurado no nível da Organização Adobe no Adobe Admin Console. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
+>Isso não se aplica a assinaturas integradas à Identidade do Adobe. Para assinaturas integradas à Identidade do Adobe, o Logon único é configurado no nível da Organização Adobe no Adobe Admin Console. O Adobe Admin Console só oferece suporte a SP iniciados no momento. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 
 >[!NOTE]
 >
->O Marketo só é compatível com o provedor de identidade iniciado (também conhecido como iniciado por IdP), no qual o usuário inicia primeiro a página de logon do Idp, se autentica e depois navega até o My Marketo.
+>O Marketo só é compatível com o iniciado pelo Provedor de identidade (também conhecido como iniciado por IdP), no qual o usuário inicia primeiro a página de logon de IdP, autentica e navega até My Marketo. Se sua assinatura do Marketo tiver sido movida para o Admin Console, a Adobe Admin Console oferecerá suporte apenas ao Provedor de serviços iniciado (também conhecido como SP iniciado) no momento. Pode haver alterações feitas na sua experiência com SSO.
 
 ## Observações adicionais {#additional-notes}
 
