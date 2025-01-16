@@ -4,9 +4,10 @@ title: Criação de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1504'
 ht-degree: 1%
 
 ---
@@ -18,6 +19,10 @@ Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email 
 >[!IMPORTANT]
 >
 >Este artigo é destinado apenas aos membros do novo Marketo Engage Email Designer beta. Por favor, não difunda.
+
+>[!PREREQUISITES]
+>
+>Para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Criar um email {#create-an-email}
 

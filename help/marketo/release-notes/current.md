@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '523'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
     <tr> 
-   <td><strong>Novo Designer de email</strong>: crie emails modernos e eficientes usando o novo Designer de email nativo no Marketo Engage. Acesse um dos modelos de email predefinidos e prontos para uso ou crie facilmente o seu próprio modelo. Use conteúdo dinâmico e acesse imagens dos serviços em nuvem da Adobe Experience Manager.</td> 
+   <td><strong>Novo Designer de email</strong>: crie emails modernos e eficientes usando o novo Designer de email nativo no Marketo Engage. Acesse um dos modelos de email predefinidos e prontos para uso ou crie facilmente o seu próprio modelo. Use conteúdo dinâmico e acesse imagens dos serviços em nuvem da Adobe Experience Manager.
+   <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o <a href="https://nation.marketo.com/t5/support/ct-p/Support">Suporte da Marketo</a>.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
