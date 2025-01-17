@@ -3,9 +3,9 @@ description: Critérios de público-alvo - Documentação do Marketo - Documenta
 title: Critérios de público
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -129,7 +129,9 @@ Formatos aceitáveis:
 
 >[!NOTE]
 >
->O uso de um asterisco atua como um curinga &quot;catch-all&quot; (global). Assim, o `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E o `https://website.com/folder/*` colocaria a caixa de diálogo em cada página de HTML na pasta subsequente (por exemplo: nesse caso, digamos que a pasta seja &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+>* O uso de um asterisco atua como um curinga &quot;catch-all&quot; (global). Assim, o `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E o `https://website.com/folder/*` colocaria a caixa de diálogo em cada página de HTML na pasta subsequente (por exemplo: nesse caso, digamos que a pasta seja &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+>
+>* Os parâmetros de URL não são suportados no momento.
 
 **Exclusões**
 
