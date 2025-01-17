@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
 workflow-type: tm+mt
-source-wordcount: '9383'
+source-wordcount: '9388'
 ht-degree: 4%
 
 ---
@@ -802,6 +802,7 @@ ht-degree: 4%
       + Imagens e Arquivos {#images-and-files}
          + [Novo Documento Adicionar Imagens](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [Adicionar imagens e arquivos ao Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [Editar Assets com Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [Excluir uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [Localizar o URL de uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [Capturar as imagens de uma página da Web](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
