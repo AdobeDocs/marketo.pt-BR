@@ -4,7 +4,7 @@ description: Notas de versão - 20 de outubro - Documentação do Marketo - Docu
 title: Notas de versão - outubro de 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Os seguintes recursos estão incluídos na versão de outubro de 2020. Verifique
 
 ## Marketing por e-mail {#email-marketing}
 
-* **Aumento de emails em lote ![(star)](assets/yellow-star.png)**: envie mais emails com uma taxa de transferência aumentada de até 5 milhões de emails em lote por hora. As opções abrangentes de capacidade de entrega de email eliminam a necessidade de aguardar entre lotes de email - envie todos os emails no prazo e de acordo com sua programação.
+* **Aumento de emails em lote** ![(star)](assets/yellow-star.png): envie mais emails com uma taxa de transferência aumentada de até 5 milhões de emails em lote por hora. As opções abrangentes de capacidade de entrega de email eliminam a necessidade de aguardar entre lotes de email - envie todos os emails no prazo e de acordo com sua programação.
 
 ## Marketing no site {#website-marketing}
 
@@ -57,9 +57,9 @@ Os seguintes recursos estão incluídos na versão de outubro de 2020. Verifique
 
 * **Gerenciamento de campos**: encontre facilmente nomes de campos de API com o novo recurso de entrada de metadados no registro de campo; não é necessário exportar todos os campos para planilhas para descobrir o nome do campo. Crie integrações com aplicativos do LaunchPoint, conecte bancos de dados ou use nossas APIs abertas de qualquer maneira que seja adequado à sua organização.
 
-* **Novas Opções de Exportação de Metadados**: exporte metadados de objetos personalizados para objetos personalizados selecionados em uma planilha para facilitar o compartilhamento. Além disso, os metadados de qualquer um ou todos os objetos de assinatura podem ser exportados, como lead, empresa, atividades padrão e personalizadas, tags e canais. Os dados podem ser extraídos por administradores e compartilhados rapidamente com as equipes de engenharia para fins de análise e design.
+* **Novas Opções de Exportação de Metadados**: exporte metadados de objetos personalizados para objetos personalizados selecionados em uma planilha para facilitar o compartilhamento. Além disso, os metadados de qualquer objeto de assinatura ou todos eles podem ser exportados, como lead, empresa, atividades padrão e personalizadas, tags e canais. Os dados podem ser extraídos por administradores e compartilhados rapidamente com as equipes de engenharia para fins de análise e design.
 
-* **Campo personalizado de oportunidade**: obtenha mais informações sobre registros de oportunidade com campos personalizados de oportunidade exibidos em Marketo Engage. Exibir dados de campos personalizados de oportunidade do Salesforce CRM, Microsoft Dynamics 365 CRM, integrações nativas de vendas ou por meio de outras integrações de API. Ter total visibilidade dos detalhes da oportunidade e do pipeline permite que você orquestre o engajamento em coordenação com as Vendas, aumente as conversões e ajude a fechar negócios com mais rapidez.
+* **Campo personalizado de oportunidade**: obtenha mais informações sobre registros de oportunidade com campos personalizados de oportunidade exibidos em Marketo Engage. Exibir dados de campos personalizados da oportunidade do Salesforce CRM, Microsoft Dynamics 365 CRM, integrações nativas de vendas ou por meio de outras integrações de API. Ter total visibilidade dos detalhes da oportunidade e do pipeline permite que você orquestre o engajamento em coordenação com as Vendas, aumente as conversões e ajude a fechar negócios com mais rapidez.
 
 ## Lançamento durante todo o trimestre {#releasing-throughout-the-quarter}
 
