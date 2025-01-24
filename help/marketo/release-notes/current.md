@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 7%
+source-wordcount: '551'
+ht-degree: 6%
 
 ---
 
@@ -32,8 +32,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
     <tr> 
-   <td><strong>Novo Designer de email</strong>: crie emails modernos e eficientes usando o novo Designer de email nativo no Marketo Engage. Acesse um dos modelos de email predefinidos e prontos para uso ou crie facilmente o seu próprio modelo. Use conteúdo dinâmico e acesse imagens dos serviços em nuvem da Adobe Experience Manager.
-   <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o <a href="https://nation.marketo.com/t5/support/ct-p/Support">Suporte da Marketo</a>.</td> 
+   <td><strong>Novo Designer de email</strong>: crie emails modernos e eficientes usando o novo Designer de email nativo no Marketo Engage. Acesse um dos modelos de email predefinidos e prontos para uso ou crie facilmente o seu próprio modelo. Use conteúdo dinâmico e acesse imagens dos serviços em nuvem da Adobe Experience Manager. Use a funcionalidade Gen-AI do Acelerador de conteúdo para criar e-mails inovadores e de alto desempenho em escala.
+   <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o <a href="https://nation.marketo.com/t5/support/ct-p/Support">Suporte da Marketo</a>. Para obter acesso à funcionalidade Gen-AI do Acelerador de conteúdo, entre em contato com a equipe de conta do Adobe.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
