@@ -3,9 +3,9 @@ description: Torne uma campanha de marketing visível nas ações do Sales Insig
 title: Tornar uma campanha de marketing visível nas ações de insights de vendas
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Com as Ações de insights de vendas, os usuários terão acesso a um novo aplic
 
    >[!NOTE]
    >
-   >Se você quiser mostrar a campanha de marketing para usuários que estão utilizando _Adicionar à Campanha de Marketing_ a partir do aplicativo Web toutapp.com (isso também inclui se você tiver o aplicativo Web incorporado ao CRM por meio do objeto Caixa de Saída de Vendas do Marketo), defina-o como &quot;API de Serviço da Web&quot;. Se desejar que a campanha de marketing seja exibida quando um usuário usar as ações no painel MSI no Salesforce nos botões de lead, contato, página da conta ou ação em massa nas exibições de lead e lista de contatos, atualize-a para &quot;Sales Insight&quot;
+   >Se você quiser mostrar a campanha de marketing para usuários que estão utilizando _Adicionar à Campanha de Marketing_ a partir do aplicativo Web toutapp.com (isso também inclui se você tiver o aplicativo Web incorporado ao CRM por meio do objeto Caixa de Saída de Vendas do Marketo), defina a origem solicitada da campanha como &quot;API do Serviço da Web&quot;. Se desejar que a campanha de marketing seja exibida quando um usuário usar as ações no painel MSI no Salesforce nos botões de cliente potencial, contato, página de conta ou ação em massa nas exibições de cliente potencial e lista de contatos, atualize a origem solicitada da campanha para &quot;Insight de vendas&quot;
 
 1. Clique na guia **Fluxo**.
 
