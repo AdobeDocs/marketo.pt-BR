@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: 03d6ff3567910ac12898c9b428d14f5d60323039
 workflow-type: tm+mt
-source-wordcount: '9388'
+source-wordcount: '9391'
 ht-degree: 4%
 
 ---
@@ -740,6 +740,7 @@ ht-degree: 4%
             + [Webinários sob demanda](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
             + [Fluxos de trabalho de evento](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [Painel de engajamento](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
+            + [MSI para IW](product-docs/demand-generation/events/interactive-webinars/msi-for-iw.md)
       + Facebook {#facebook}
          + [Adicionar clientes em potencial a um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Criar um público-alvo personalizado no Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
