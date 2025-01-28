@@ -3,7 +3,7 @@ title: Fragmentos
 description: Saiba como criar e usar fragmentos de conteúdo visual como componentes reutilizáveis para emails e modelos de email.
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2428'
 ht-degree: 3%
@@ -76,13 +76,13 @@ CAPTURA DE TELA
 
 ### Filtrar a lista de fragmentos {#filter-the-fragments-list}
 
-Use a barra de pesquisa para localizar um fragmento por nome. Clique no ícone _Filtro_ ( ![Ícone Mostrar ou ocultar filtros](../assets/do-not-localize/icon-filter.svg) ) para mostrar as opções de filtro disponíveis e escolher as configurações desejadas.
+Use a barra de pesquisa para localizar um fragmento por nome. Clique no ícone _Filtro_ ( ![Ícone Mostrar ou ocultar filtros](assets/icon-filter.svg) ) para mostrar as opções de filtro disponíveis e escolher as configurações desejadas.
 
 CAPTURA DE TELA
 
 ### Personalizar a exibição da coluna {#customize-the-column-display}
 
-Personalize as colunas que deseja exibir na tabela clicando no ícone _Personalizar tabela_ ( ![Ícone Personalizar tabela](../assets/do-not-localize/icon-column-settings.svg) ) na parte superior direita.
+Personalize as colunas que deseja exibir na tabela clicando no ícone _Personalizar tabela_ ( ![Ícone Personalizar tabela](assets/icon-column-settings.svg) ) na parte superior direita.
 
 Na caixa de diálogo, selecione as colunas desejadas e clique em **[!UICONTROL Aplicar]**.
 
