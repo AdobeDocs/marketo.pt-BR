@@ -4,7 +4,8 @@ title: Modelos de e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
 source-wordcount: '1714'
 ht-degree: 1%
@@ -352,4 +353,4 @@ Na página de listagem _Modelos de email_, selecione vários modelos marcando as
 
 >[!MORELIKETHIS]
 >
->[Criação de email](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: saiba como criar, projetar e fazer referência a um email no novo designer.
+>[Criação de email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: saiba como criar, projetar e fazer referência a um email no novo designer.

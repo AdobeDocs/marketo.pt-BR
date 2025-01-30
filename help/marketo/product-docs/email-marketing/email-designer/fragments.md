@@ -3,10 +3,11 @@ title: Fragmentos
 description: Saiba como criar e usar fragmentos de conteúdo visual como componentes reutilizáveis para emails e modelos de email.
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 3%
+source-wordcount: '2371'
+ht-degree: 1%
 
 ---
 
@@ -25,13 +26,13 @@ Fragmentos visuais são blocos visuais predefinidos criados usando o editor de c
 
 ## Acessar e gerenciar fragmentos {#access-and-manage-fragments}
 
-Para acessar fragmentos visuais, vá para a navegação à esquerda e clique em **[!UICONTROL Gerenciamento de Conteúdo]** > **[!UICONTROL Fragmentos]**. Essa ação abre uma página de listagem com todos os fragmentos criados na instância listada em uma tabela.
+Para acessar fragmentos visuais, acesse o Design Studio. Na árvore à esquerda, clique em **[!UICONTROL Fragmentos (Novo)]**.
 
 CAPTURA DE TELA
 
-A tabela é classificada pela coluna _[!UICONTROL Modificado]_, com os fragmentos atualizados mais recentemente na parte superior por padrão. Clique no título da coluna para alterar entre crescente e decrescente.
+Por padrão, a tabela é classificada pela coluna _[!UICONTROL Modificado]_, com os fragmentos atualizados mais recentemente na parte superior. Clique em outros títulos de coluna para alterar a classificação. Clique novamente para alternar entre crescente e decrescente.
 
-### Status do fragmento e ciclo de vida
+### Status do fragmento {#fragment-status}
 
 O status do fragmento determina sua disponibilidade para uso em um email ou modelo de email e as alterações que você pode fazer nele.
 
@@ -121,17 +122,7 @@ CAPTURA DE TELA
 
 ### Adicionar estrutura e conteúdo {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="Adicionar componentes da estrutura"
->abstract="Os componentes de estrutura definem o layout do fragmento. Arraste e solte um componente de **Estrutura** na tela para começar a criação do conteúdo do fragmento."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="Sobre os componentes de conteúdo"
->abstract="Os componentes de conteúdo são espaços reservados de conteúdo vazios que você pode usar para criar o layout de um fragmento."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### Adicionar ativos
 
