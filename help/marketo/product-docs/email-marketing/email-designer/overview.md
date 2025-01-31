@@ -1,13 +1,11 @@
 ---
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ Bem-vindo à nova Adobe Marketo Engage Email Designer.
 >
 >Para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-O novo Email Designer é a mais recente inovação do Marketo Engage, criada para fornecer uma experiência renovada de criação de modelos de email e email para melhorar a produtividade e a eficiência. Ele oferece um editor visual de arrastar e soltar, além de modelos padrão prontos para uso. Crie facilmente modelos de email personalizados sem precisar gastar dinheiro com fornecedores.
+O novo designer de email é a mais recente inovação no Marketo Engage, criada para fornecer uma experiência renovada de criação de modelos de email e email para melhorar a produtividade e a eficiência, fornecendo um editor visual de arrastar e soltar, juntamente com modelos padrão prontos para uso. Crie facilmente modelos de email personalizados sem precisar gastar dinheiro com fornecedores.
 
 Os emails criados no novo designer podem ser usados em Programas de email, bem como em Listas inteligentes/Campanhas. Novos e poderosos aprimoramentos para o designer serão lançados em breve.
 
@@ -55,7 +53,7 @@ modelos no designer, reduzindo a necessidade de desenvolvedores web externos. No
 
 **O novo designer de email oferece suporte ao idioma do AMP?**
 
-No momento, a versão base não é compatível com AMP.
+No momento, ele não é compatível com AMP.
 
 **O conteúdo dinâmico por atributo é ótimo, mas o conteúdo dinâmico por segmento ainda funciona?**
 

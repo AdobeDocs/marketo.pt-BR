@@ -1,11 +1,9 @@
 ---
 description: Criação de email - Documentação do Marketo - Documentação do produto
 title: Criação de email
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
@@ -22,7 +20,7 @@ Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email 
 
 ## Criar um email {#create-an-email}
 
-Os emails do Designer de email só podem ser criados no Design Studio e referenciados em Campanhas/Listas inteligentes, ou criados/usados diretamente em Programas de email no momento.
+Emails do designer de email só podem ser criados no Design Studio e referenciados em Campanhas/Listas inteligentes, ou criados/usados diretamente em Programas de email no momento.
 
 >[!BEGINTABS]
 
