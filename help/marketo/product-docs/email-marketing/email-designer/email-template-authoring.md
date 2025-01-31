@@ -3,14 +3,14 @@ description: Modelos de email - Documentação do Marketo - Documentação do pr
 title: Modelos de e-mail
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
 workflow-type: tm+mt
-source-wordcount: '1842'
+source-wordcount: '1843'
 ht-degree: 1%
 
 ---
 
-# Modelos de e-mail {#email-templates}
+# Criação de modelo de email {#email-template-authoring}
 
 Para um processo de design acelerado e aprimorado, é possível criar modelos de email independentes para reutilizar facilmente o conteúdo personalizado.
 
