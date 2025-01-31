@@ -4,25 +4,25 @@ description: Saiba como criar e usar fragmentos de conteúdo visual como compone
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '2371'
+source-wordcount: '2395'
 ht-degree: 1%
 
 ---
 
 # Fragmentos
 
-Um fragmento é um componente reutilizável que pode ser referenciado em um ou mais emails e modelos de email. Geralmente, é um bloco de conteúdo (texto, imagem ou ambos) que pode ser criado e inserido rapidamente em seu projeto. Com essa funcionalidade, você pode pré-criar vários blocos de conteúdo personalizados para serem usados pelos membros da equipe de marketing para montar conteúdo de email a fim de oferecer um processo de design aprimorado. Casos de uso comuns incluem blocos de conteúdo de cabeçalho/rodapé para email, banners de convite para eventos, mensagens sazonais e muito mais.
+Um fragmento é um componente reutilizável que pode ser referenciado em um ou mais emails e modelos de email. Geralmente, é um bloco de conteúdo (texto, imagem ou ambos) que pode ser criado e inserido rapidamente em seu projeto. Com essa funcionalidade, você pode pré-criar vários blocos de conteúdo personalizados para reunir conteúdo de email e obter um processo de design aprimorado. Casos de uso comuns incluem blocos de conteúdo de cabeçalho/rodapé para email, banners de convite para eventos, mensagens sazonais e muito mais.
 
 Para aproveitar ao máximo os fragmentos em seus workflows:
 
-* _Criar seus próprios fragmentos_ - Crie fragmentos visuais, do zero ou salvando o conteúdo como um fragmento do editor de conteúdo visual.
+* _Criar fragmentos_ - Crie fragmentos visuais, do zero ou salvando o conteúdo como um fragmento do editor de conteúdo visual.
 * _Reutilizar fragmentos_ - Use-os quantas vezes forem necessárias em seu conteúdo.
 
 ## Fragmentos visuais {#visual-fragments}
 
-Fragmentos visuais são blocos visuais predefinidos criados usando o editor de conteúdo visual, que podem ser reutilizados em vários emails ou modelos de email.
+Fragmentos visuais são blocos visuais predefinidos criados (usando o editor de conteúdo visual) que podem ser reutilizados em vários emails ou modelos de email.
 
 ## Acessar e gerenciar fragmentos {#access-and-manage-fragments}
 
@@ -30,7 +30,7 @@ Para acessar fragmentos visuais, acesse o Design Studio. Na árvore à esquerda,
 
 CAPTURA DE TELA
 
-Por padrão, a tabela é classificada pela coluna _[!UICONTROL Modificado]_, com os fragmentos atualizados mais recentemente na parte superior. Clique em outros títulos de coluna para alterar a classificação. Clique novamente para alternar entre crescente e decrescente.
+Por padrão, a tabela é classificada pela coluna _[!UICONTROL Modificado]_. Clique em outros títulos de coluna para alterar a classificação da tabela. Clique novamente para alternar entre crescente e decrescente.
 
 ### Status do fragmento {#fragment-status}
 
@@ -73,13 +73,11 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
   </tr>
 </tbody></table>
 
-CAPTURA DE TELA
-
 ### Filtrar a lista de fragmentos {#filter-the-fragments-list}
 
 Use a barra de pesquisa para localizar um fragmento por nome. Clique no ícone _Filtro_ ( ![Ícone Mostrar ou ocultar filtros](assets/icon-filter.svg) ) para mostrar as opções de filtro disponíveis e escolher as configurações desejadas.
 
-CAPTURA DE TELA
+![Filtrar os fragmentos exibidos](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
 ### Personalizar a exibição da coluna {#customize-the-column-display}
 
@@ -148,7 +146,7 @@ Clique no nome de qualquer fragmento na página da lista para abrir a página de
 >
 >Se um fragmento publicado estiver sendo usado por um modelo de email ou de email, você não poderá alterar seu nome ou editar o conteúdo. Você pode criar uma versão de rascunho se quiser fazer alterações no fragmento.
 
-CAPTURA DE TELA
+![Exibir detalhes de um fragmento publicado](assets/fragment-details-published.png){width="600" zoomable="yes"}
 
 Clique em **[!UICONTROL Editar fragmento]** para abrir o fragmento no editor de conteúdo visual.
 
@@ -164,7 +162,7 @@ Na página de detalhes do fragmento, clique na guia **[!UICONTROL Usado por]** p
 
 As referências são exibidas de acordo com a categoria: _Email_ ou _Modelo de email_. Os emails no Journey Optimizer B2B edition são incorporados e criados nas jornadas da conta, de modo que a jornada principal do email que usa o fragmento é exibida nas referências. &lt;— E ESSA PARTE, NILESH?
 
-CAPTURA DE TELA
+![Usado pelas referências para o fragmento](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
 
 Clique no link para abrir o email ou modelo de email correspondente onde o fragmento é usado.
 
@@ -179,9 +177,9 @@ Como um fragmento que está sendo usado atualmente por um modelo de email ou de 
 
 Essa ação abre uma caixa de diálogo de confirmação. Você pode anular o processo clicando em **[!UICONTROL Cancelar]** ou em **[!UICONTROL Excluir]** para confirmar a exclusão.
 
-CAPTURA DE TELA
+![Excluir caixa de diálogo do fragmento](assets/fragment-delete-dialog.png){width="400"}
 
-## Editar fragmentos
+## Editar fragmentos {#edit-fragments}
 
 As edições em um fragmento dependem do status atual:
 
@@ -199,7 +197,7 @@ As edições em um fragmento dependem do status atual:
 
 1. Faça as edições desejadas.
 
-CAPTURA DE TELA
+   ![Detalhes do fragmento com status de Rascunho](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. Para fazer alterações no conteúdo no designer visual, clique em **[!UICONTROL Editar fragmento]**.
 
@@ -229,17 +227,17 @@ CAPTURA DE TELA
 
    Clique em **[!UICONTROL OK]** na caixa de diálogo para abrir a versão de rascunho no designer visual. Você pode alterar o `image source` KG - LINK AQUI, se necessário.
 
-CAPTURA DE TELA
+   ![Criar caixa de diálogo de versão de rascunho](assets/fragments-create-draft-version.png){width="300"}
 
-Use as ferramentas do designer visual conforme necessário:
+   Use as ferramentas do designer visual conforme necessário:
 
-* [Adicionar estrutura e conteúdo](#add-structure-and-content)
-* [Adicionar o Assets](#add-assets)
-* [Navegar pelas camadas, configurações e estilos](#navigate-the-layers-settings-and-styles)
-* [Personalizar conteúdo](#personalize-content)
-* [Editar rastreamento de URL vinculado](#edit-linked-url-tracking)
+   * [Adicionar estrutura e conteúdo](#add-structure-and-content)
+   * [Adicionar o Assets](#add-assets)
+   * [Navegar pelas camadas, configurações e estilos](#navigate-the-layers-settings-and-styles)
+   * [Personalizar conteúdo](#personalize-content)
+   * [Editar rastreamento de URL vinculado](#edit-linked-url-tracking)
 
-Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
+   Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
 
 1. Quando o fragmento de rascunho atender aos seus critérios e você quiser disponibilizar as alterações para uso em um modelo de email ou email, clique em **[!UICONTROL Publish]**.
 
@@ -251,7 +249,7 @@ Há duas maneiras de abrir a versão de rascunho para edição na página de lis
 
 * Clique no ícone _Mais_ (**...**) ao lado do nome do fragmento e escolha **[!UICONTROL Abrir versão de rascunho]**.
 
-CAPTURA DE TELA
+  ![Abrir versão de rascunho](assets/fragments-create-draft-version.png){width="300"}
 
 * Clique no nome do fragmento para abri-lo. Em seguida, clique em **[!UICONTROL Abrir versão de rascunho]** na parte superior direita.
 
@@ -282,11 +280,11 @@ Para atualizar o conteúdo:
 * Na página de listagem _[!UICONTROL Fragmentos]_, clique no ícone _Mais_ (**...**) ao lado do nome do fragmento e escolha **[!UICONTROL Duplicar]**.
 * Na parte superior direita da página de detalhes do fragmento, clique em **[!UICONTROL ... Mais]** e escolha **[!UICONTROL Duplicar]**.
 
-CAPTURA DE TELA
+![Duplicar o fragmento](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
 Na caixa de diálogo, digite um nome exclusivo e uma descrição opcional. Clique em **[!UICONTROL Duplicar]** para concluir a ação.
 
-CAPTURA DE TELA
+![Insira um nome e uma descrição para o fragmento duplicado](assets/fragment-duplicate-dialog.png){width="400"}
 
 O fragmento duplicado aparece na listagem _Fragmentos_.
 
@@ -394,4 +392,4 @@ Quando um fragmento é adicionado a um email ou modelo de email, o conteúdo do 
 
 Quando você seleciona o fragmento na página do editor, essas ações estão disponíveis na barra de ferramentas de contexto e no painel de propriedades à direita.
 
-CAPTURA DE TELA
+![Aplicar ações ao fragmento selecionado](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}

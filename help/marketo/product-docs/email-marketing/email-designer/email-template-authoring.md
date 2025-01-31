@@ -1,106 +1,66 @@
 ---
-description: Criação de email - Documentação do Marketo - Documentação do produto
-title: Criação de email
+description: Modelos de email - Documentação do Marketo - Documentação do produto
+title: Modelos de e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1842'
 ht-degree: 1%
 
 ---
 
-# Criação de email {#email-authoring}
+# Modelos de e-mail {#email-templates}
 
-Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email Designer.
+Para um processo de design acelerado e aprimorado, é possível criar modelos de email independentes para reutilizar facilmente o conteúdo personalizado.
 
 >[!PREREQUISITES]
 >
 >Para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-## Criar um email {#create-an-email}
+>[!NOTE]
+>
+>Os modelos de email no novo designer de email só podem ser usados para criar emails no novo designer de email. Eles não podem ser referenciados no editor de email antigo.
 
-Os emails do Designer de email só podem ser criados no Design Studio e referenciados em Campanhas/Listas inteligentes, ou criados/usados diretamente em Programas de email no momento.
-
->[!BEGINTABS]
-
->[!TAB Design Studio]
+## Criar um modelo de email {#create-an-email-template}
 
 1. Faça logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Em Meu Marketo, selecione **Design Studio**.
 
-   ![](assets/create-an-email-1.png)
+   ![](assets/create-an-email-template-1.png)
 
-1. Na árvore, selecione **Emails (Novo Editor)**.
+1. Na árvore, selecione **Modelos de email (Novo editor)**.
 
-   ![](assets/create-an-email-2.png)
+   ![](assets/create-an-email-template-2.png)
 
-1. Clique no botão **Criar email**.
+1. Clique no botão **Criar modelo**.
 
-   ![](assets/create-an-email-3.png)
+   ![](assets/create-an-email-template-3.png)
 
-1. Insira um nome de email e uma linha de assunto. Clique em **Criar**.
+1. Insira um nome de template e uma descrição opcional. Clique em **Criar**.
 
-   ![](assets/create-an-email-4.png)
+   ![](assets/create-an-email-template-4.png)
 
->[!TAB Programa de email]
+## Criar seu modelo {#design-your-template}
 
-1. Faça logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+Na página _Criar seu modelo_, você pode escolher entre algumas opções. [Criar do zero](#design-from-scratch), [importar seu próprio HTML](#import-html) ou [selecionar um modelo existente](#choose-a-template) (uma de nossas amostras ou uma que você já salvou).
 
-1. Localize e selecione (ou crie) seu programa de email.
-
-   ![](assets/create-an-email-5.png)
-
-1. Você tem duas opções para criar um novo email. Clique com o botão direito do mouse no nome do seu Programa de email e selecione **Novo ativo local** ou clique no botão **+Novo email** na caixa Email no painel. Neste exemplo, faremos o primeiro.
-
-   ![](assets/create-an-email-6.png)
-
-1. Selecione **Email (Novo Editor)**.
-
-   ![](assets/create-an-email-7.png)
-
-1. Insira um nome de email e uma linha de assunto. Clique em **Criar**.
-
-   ![](assets/create-an-email-8.png)
-
->[!ENDTABS]
-
-Pronto. Agora é hora de projetar seu email.
-
-## Escolha seu tipo de conteúdo {#choose-your-content-type}
-
-1. No email que acabou de criar, clique em **Adicionar conteúdo de email**.
-
-   ![](assets/choose-your-content-type-1.png)
-
-1. A página _Criar seu email_ é carregada. Você pode escolher entre algumas opções:
-
-* [Criar do zero](#design-from-scratch) usando o editor visual de email
-
-* [Importe seu próprio HTML](#import-html) por meio de um arquivo HTML ou zip
-
-* [Selecione um modelo existente](#choose-a-template) (uma de nossas amostras ou uma que você já salvou)
+![](assets/design-your-template-1.png)
 
 ### Criar do zero {#design-from-scratch}
 
-Ao começar do zero no editor de email, use as opções abaixo para definir seu conteúdo.
+Defina o conteúdo adicionando e movendo elementos estruturais com ações simples de arrastar e soltar.
 
-1. Na página _Criar seu email_, selecione **Design do zero**.
+1. Na página _Criar seu modelo_, selecione **Criar do zero**.
 
-1. Adicione [estrutura e conteúdo](#add-structure-and-content) ao seu email.
+1. Adicionar [estrutura e conteúdo](#add-structure-and-content).
 
-1. Adicionar [imagens](#add-assets).
+### Importar seu HTML {#import-your-html}
 
-1. [Personalize](#personalize-content) seu conteúdo.
-
-1. Examine os links e [edite o rastreamento](#edit-url-tracking).
-
-### Importar HTML {#import-html}
-
-Você pode importar conteúdo de HTML existente para criar seu email. O conteúdo pode ser:
+Você pode importar conteúdo de HTML existente para criar seus modelos de email. O conteúdo pode ser:
 
 * Um arquivo HTML com uma folha de estilos incorporada
 
@@ -110,17 +70,23 @@ Você pode importar conteúdo de HTML existente para criar seu email. O conteúd
 >
 >Não há restrições na estrutura do arquivo .zip. No entanto, as referências devem ser relativas e se encaixar na estrutura de árvore da pasta .zip.
 
-1. Na página Criar seu modelo, selecione **Importar HTML**.
+1. Na página _Criar seu modelo_, selecione **Importar HTML**.
 
 1. Arraste e solte o arquivo de HTML ou .zip desejado (ou selecione um arquivo do seu computador) e clique em **Importar**.
 
-   ![](assets/authoring-import-your-html-1.png)
+   ![](assets/import-your-html-1.png)
 
->[!NOTE]
->
->Quando o conteúdo em HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
+   >[!NOTE]
+   >
+   >Quando o conteúdo em HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
 
-Você pode fazer as alterações desejadas no conteúdo importado usando as [ferramentas do editor visual de email](#add-structure-and-content).
+1. Para aproveitar os componentes de conteúdo do Email Designer, clique na guia **HTML converter** e clique em **Converter**.
+
+   >[!CAUTION]
+   >
+   >Usar uma marca `<table>` como a primeira camada em um arquivo de HTML pode causar perda de estilo, incluindo configurações de plano de fundo e largura na marca de camada superior.
+
+Agora você pode personalizar o arquivo importado, conforme necessário, com o editor visual de email.
 
 ### Escolher um modelo {#choose-a-template}
 
@@ -140,11 +106,11 @@ Escolha um dos modelos prontos para uso para um head start no design do modelo d
 
 1. Selecione o template que deseja usar.
 
-   ![](assets/authoring-sample-templates-1.png)
+   ![](assets/sample-templates-1.png)
 
 1. Clique em **Usar este modelo**.
 
-   ![](assets/authoring-sample-templates-2.png)
+   ![](assets/sample-templates-2.png)
 
 1. Edite o conteúdo conforme desejado usando o designer de conteúdo visual.
 
@@ -152,11 +118,11 @@ Escolha um dos modelos prontos para uso para um head start no design do modelo d
 
 1. Clique na guia **Modelos salvos** e selecione o modelo desejado.
 
-   ![](assets/authoring-saved-templates-1.png)
+   ![](assets/saved-templates-1.png)
 
 1. Clique em **Usar este modelo**.
 
-   ![](assets/authoring-saved-templates-2.png)
+   ![](assets/saved-templates-2.png)
 
 1. Edite o conteúdo conforme desejado usando o designer de conteúdo visual.
 
@@ -170,7 +136,7 @@ Escolha um dos modelos prontos para uso para um head start no design do modelo d
    >
    >Selecione o componente de coluna n:n para definir o número de colunas de sua escolha (entre três e 10). Você também pode definir a largura de cada coluna movendo as setas abaixo dela.
 
-   ![](assets/authoring-add-structure-and-content-1.png)
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -178,7 +144,7 @@ Escolha um dos modelos prontos para uso para um head start no design do modelo d
 
 1. Na seção Conteúdo, arraste sobre os itens desejados e solte-os em um ou mais componentes da estrutura.
 
-   ![](assets/authoring-add-structure-and-content-2.png)
+   ![](assets/add-structure-and-content-2.png)
 
 1. Cada componente pode ser personalizado por meio das guias Configurações ou Estilo. Altere a fonte, o estilo do texto, a margem e muito mais.
 
@@ -208,11 +174,11 @@ Adicione imagens armazenadas na seção [Imagens e Arquivos](/help/marketo/produ
 
 1. Para acessar suas imagens, clique no ícone Seletor de ativos.
 
-   ![](assets/authoring-add-assets-1.png)
+   ![](assets/add-assets-1.png)
 
 1. Arraste e solte a imagem desejada em um componente de estrutura.
 
-   ![](assets/authoring-add-assets-2.png)
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
@@ -222,7 +188,7 @@ Adicione imagens armazenadas na seção [Imagens e Arquivos](/help/marketo/produ
 
 Abra a árvore de navegação para acessar estruturas específicas e suas colunas/componentes para uma edição mais granular. Para acessar o, clique no ícone da Árvore de navegação.
 
-![](assets/authoring-layers-settings-styles-1.png)
+![](assets/layers-settings-styles-1.png)
 
 O exemplo abaixo descreve as etapas para ajustar o preenchimento e o alinhamento vertical dentro de um componente de estrutura composto por colunas.
 
@@ -232,7 +198,7 @@ O exemplo abaixo descreve as etapas para ajustar o preenchimento e o alinhamento
 
    Também é possível selecioná-la na árvore de estrutura. Os parâmetros editáveis para essa coluna são exibidos nas guias _[!UICONTROL Configurações]_ e _[!UICONTROL Estilos]_ à direita.
 
-   ![](assets/authoring-layers-settings-styles-2.png)
+   ![](assets/layers-settings-styles-2.png)
 
 1. Para editar as propriedades da coluna, clique na guia _[!UICONTROL Estilos]_ à direita e altere-os de acordo com suas necessidades:
 
@@ -247,7 +213,7 @@ O exemplo abaixo descreve as etapas para ajustar o preenchimento e o alinhamento
 
    * Expanda a seção **[!UICONTROL Avançado]** para definir estilos embutidos para a coluna.
 
-   ![](assets/authoring-layers-settings-styles-3.png)
+   ![](assets/layers-settings-styles-3.png)
 
 1. Repita essas etapas conforme necessário para ajustar o alinhamento e o preenchimento das outras colunas no componente.
 
@@ -259,15 +225,15 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
 
 1. Selecione o componente de texto. Coloque o cursor onde deseja que o token apareça e clique no ícone **Adicionar personalização**.
 
-   ![](assets/authoring-personalize-content-1.png)
+   ![](assets/personalize-content-1.png)
 
 1. Clique no [tipo de token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} desejado.
 
-   ![](assets/authoring-personalize-content-2.png)
+   ![](assets/personalize-content-2.png)
 
 1. Encontre o token desejado e clique no ícone **...** (se você clicar no ícone +, será adicionado um token sem texto de fallback).
 
-   ![](assets/authoring-personalize-content-3.png)
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
@@ -275,7 +241,7 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
 
 1. Defina o texto de fallback e clique em **Adicionar**.
 
-   ![](assets/authoring-personalize-content-4.png)
+   ![](assets/personalize-content-4.png)
 
 1. Clique em **Salvar**.
 
@@ -285,13 +251,13 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
 
 1. Clique no ícone Links para exibir todos os URLs do email.
 
-   ![](assets/authoring-edit-url-tracking-1.png)
+   ![](assets/edit-url-tracking-1.png)
 
 1. Clique no ícone de lápis para editar o rastreamento dos links desejados.
 
 1. Clique no menu suspenso **Tipo de rastreamento** e faça sua seleção.
 
-   ![](assets/authoring-edit-url-tracking-2.png)
+   ![](assets/edit-url-tracking-2.png)
 
    <table><tbody>
      <tr>
@@ -313,56 +279,94 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
 
 1. Clique em **Salvar** quando terminar.
 
-## Verificar alertas {#check-alerts}
+### Exibir opções {#view-options}
 
-À medida que você cria seu conteúdo, os alertas são exibidos no canto superior direito da tela quando as configurações principais estão ausentes.
+Aproveite as opções de exibição e validação de conteúdo disponíveis no editor visual de email.
 
-Há dois tipos de alertas:
+* Aumente/diminua o zoom do conteúdo usando as opções de zoom predefinidas.
 
-**Avisos**
+* Visualizar o conteúdo na área de trabalho, dispositivo móvel ou somente texto/texto simples.
 
-Os avisos se referem às recomendações e práticas recomendadas, como:
+   * Clique no ícone de exibição em tempo real (olho) para pré-visualização de conteúdo em todos os dispositivos.
 
-* **O link para opção de não participação não está presente no corpo do email**: embora os links para cancelamento de inscrição sejam um requisito, a prática recomendada é adicioná-los ao corpo do email.
+   * Selecione um dos dispositivos prontos para uso ou insira dimensões personalizadas para visualizar seu conteúdo.
 
->[!NOTE]
->
->Não é necessário adicionar uma opção de cancelamento de inscrição para [Emails Operacionais](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (não marketing).
+### Mais opções {#more-options}
 
-* **A versão de texto do HTML está vazia**: você deve definir uma versão de texto do corpo do email para quando o conteúdo do HTML não puder ser exibido.
+Nas opções **Mais** do editor de conteúdo, você pode realizar as seguintes ações:
 
-* **Um link vazio está presente no corpo do email**: verifique se todos os links no seu email estão corretos.
+![](assets/more-options-1.png)
 
-* **O tamanho do email excedeu o limite de 100 KB**: para uma entrega ideal, verifique se o tamanho do seu email não excede 100 KB.
+* **Redefinir modelo**: selecione essa opção para limpar a tela do designer de email visual em branco e reiniciar a criação de conteúdo.
 
-**Erros**
+* **Alterar seu design**: volte para a página _Criar seu modelo_. Aqui, você pode executar qualquer ação descrita na seção [Criar seu modelo](#design-your-template).
 
-Os erros impedem que você envie ou teste o email até que sejam resolvidos:
+* **Exportar HTML**: baixe o conteúdo na tela visual para o sistema local no formato HTML empacotado como um arquivo zip.
 
-* **Linha de assunto ausente**: é necessária uma linha de assunto de email.
+## Exibir detalhes do modelo {#view-template-details}
 
-* **A versão do email da mensagem está vazia**: esse erro ocorre quando o conteúdo do email não foi configurado.
+Na página de listagem _Modelos de email_, clique no nome de um modelo de email para exibir seus detalhes.
 
-## Testar seu email {#test-your-email}
+(assets/view-template-details-1.png)
 
-Quando o conteúdo da mensagem é definido, você pode usar perfis de teste para pré-visualizá-la, enviar provas e controlar a forma como ela é renderizada em clientes populares de desktop, dispositivos móveis e baseados na Web. Se você inseriu conteúdo personalizado, é possível verificar como ele é exibido na mensagem usando os dados do perfil de teste.
+Detalhes básicos como nome e descrição podem ser editados. Clique fora do campo que você editou para salvar suas alterações.
 
-Para visualizar seu conteúdo de email, clique em **Simular conteúdo** e adicione um perfil de teste para verificar sua mensagem usando os dados do perfil de teste.
+Clique em **Mais** para excluir ou duplicar rapidamente seu modelo.
 
-![](assets/test-your-email-1.png)
-
-## Referenciar um email {#reference-an-email}
-
-Se você criou o email em um Programa de email, ele só poderá ser usado nesse programa. Se você criou seu email no Design Studio, ele pode ser referenciado a partir de Campanhas inteligentes e/ou Smart Lists, como você faria com qualquer outro email.
-
-* Faça referência a ele em uma Smart List [seguindo as etapas habituais](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
-
-* Referencie-o em uma Campanha Inteligente por [seguindo as etapas habituais](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+Se houver alertas ativos (erros/avisos para o modelo de email), clique em Alertas para exibir as informações.
 
 >[!NOTE]
 >
->Somente os emails salvos podem ser referenciados. Não há status de &quot;aprovado&quot; no novo designer de email.
+>Embora esses alertas não proíbam o uso do modelo de email para criação de email, as informações fornecem visibilidade sobre o que pode não funcionar e as atualizações necessárias antes que o email possa ser usado para a entrega.
+
+## Exibir modelo de email usado por referências {#email-template-used-by-references}
+
+No resumo do modelo de email, clique na guia **Usado por** para exibir detalhes sobre onde esse modelo de email foi usado no Marketo Engage.
+
+![](assets/email-template-used-by-references-1.png)
+
+## Editar modelos de email {#edit-email-templates}
+
+Esta ação pode ser tomada a partir de:
+
+* Na guia de detalhes - Clique em **Editar modelo de email**.
+
+Esta ação direciona você à página _Criar modelo_ ou à página do editor de conteúdo visual com base no último status salvo do modelo de email. Aqui, você pode editar o conteúdo do seu modelo de email conforme necessário. Consulte Criar modelos de email para obter informações sobre as opções de edição.
+
+## Modelos de email duplicados {#duplicate-email-templates}
+
+Há duas maneiras de duplicar um template de email:
+
+* Nos detalhes do modelo de email à direita, clique em **Mais** e selecione **Duplicar**.
+
+  ![](assets/duplicate-email-templates-1.png)
+
+* Na página de listagem _Modelos de email_, clique no ícone Mais ações (três pontos) do modelo de email desejado e escolha **Duplicar**.
+
+Na caixa de diálogo, digite um nome exclusivo e uma descrição opcional. Clique em **Duplicar** quando terminar.
+
+O modelo de email duplicado aparece na página de listagem _Modelos de email_.
+
+## Excluir modelos de email {#delete-email-templates}
+
+Há duas maneiras de excluir um template de email.
+
+>[!CAUTION]
+>
+>A exclusão de um modelo de email não pode ser desfeita.
+
+* Nos detalhes do modelo de email à direita, clique em **Mais** e selecione **Excluir**.
+
+  ![](assets/delete-email-templates-1.png)
+
+* Na página de listagem _Modelos de email_, clique no ícone Mais ações (três pontos) do modelo de email desejado e escolha **Excluir**.
+
+## Ações em massa {#bulk-actions}
+
+Na página de listagem _Modelos de email_, selecione vários modelos marcando as caixas de seleção à esquerda. Um banner é exibido na parte inferior.
+
+**Excluir**: é possível excluir no máximo 20 modelos de cada vez. Uma caixa de diálogo de confirmação permite suspender a ação ou confirmar a exclusão.
 
 >[!MORELIKETHIS]
 >
->[Modelos de email](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: saiba como criar, projetar e acessar um modelo de email no novo designer.
+>[Criação de email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: saiba como criar, projetar e fazer referência a um email no novo designer.
