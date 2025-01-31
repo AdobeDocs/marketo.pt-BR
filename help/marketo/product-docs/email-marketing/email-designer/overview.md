@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Os emails criados no novo designer podem ser usados em Programas de email, bem c
 
 * [Criação de email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: saiba como criar, projetar e fazer referência a um email no novo editor.
 
-* [Modelos de email](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: saiba como criar, projetar e acessar um modelo de email no novo editor.
+* [Modelos de email](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: saiba como criar, projetar e acessar um modelo de email no novo editor.
 
 ## Perguntas frequentes {#faq}
 
@@ -63,4 +63,4 @@ Atualmente, o novo designer só oferece suporte a atributos, mas estamos trabalh
 
 **Como posso saber se nossa assinatura do Marketo Engage foi migrada para o IMS (o Adobe Admin Console)?**
 
-Se você fizer logon no Marketo Engage via [experience.adobe.com](experience.adobe.com), sua assinatura será migrada.
+Se você fizer logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, sua assinatura será migrada.
