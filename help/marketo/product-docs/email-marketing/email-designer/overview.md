@@ -3,7 +3,7 @@ description: Visão geral - Documentação do Marketo - Documentação do produt
 title: Visão geral
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Sim, o editor de email antigo (clássico) coexistirá com o novo designer de ema
 
 Não, os modelos de email do editor clássico não podem ser referenciados no novo designer. Você precisará criar novos modelos no novo designer. No entanto, você _pode_ importar o HTML de modelo para o novo designer e fazer os ajustes necessários. Também estamos trabalhando em uma maneira de migrar facilmente modelos do editor clássico para o novo designer.
 
-**Há uma maneira de impor a identidade visual (fontes, logotipo e cores)?**
+**Existe uma maneira de impor a identidade visual (fontes, logotipos e cores)?**
 
 Bloquear seções de conteúdo são parte do novo designer e o estilo de bloqueio, cores etc., será lançado no final deste ano.
 
