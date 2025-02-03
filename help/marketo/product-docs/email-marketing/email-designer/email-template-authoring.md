@@ -2,8 +2,10 @@
 description: Modelos de email - Documentação do Marketo - Documentação do produto
 title: Modelos de e-mail
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
@@ -162,7 +164,7 @@ O editor renderiza o fragmento na seção/elemento da estrutura de email. O cont
 
 Depois que o email for salvo, ele aparecerá na guia _[!UICONTROL Usado por]_ da página de detalhes do fragmento. Os fragmentos adicionados a um modelo de email não são editáveis no modelo; o fragmento de origem define o conteúdo.
 
-### Adicionar o Assets {#add-assets}
+### Adicionar ativos {#add-assets}
 
 Adicione imagens armazenadas na seção [Imagens e Arquivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} da instância do Marketo Engage.
 

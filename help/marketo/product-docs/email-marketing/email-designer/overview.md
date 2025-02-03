@@ -2,10 +2,12 @@
 description: Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Os emails criados no novo designer podem ser usados em Programas de email, bem c
 
 * [Criação de email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: saiba como criar, projetar e fazer referência a um email no novo editor.
 
-* [Modelos de email](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: saiba como criar, projetar e acessar um modelo de email no novo editor.
+* [Criação de modelo de email](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: saiba como criar, projetar e acessar um modelo de email no novo editor.
 
 ## Perguntas frequentes {#faq}
 

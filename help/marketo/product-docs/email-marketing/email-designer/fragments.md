@@ -4,9 +4,9 @@ description: Saiba como criar e usar fragmentos de conteúdo visual como compone
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2402'
 ht-degree: 1%
 
 ---
@@ -314,7 +314,7 @@ Os fragmentos são projetados para reutilização e você pode adicionar até 30
 
 >[!TAB Adicionar fragmentos a um email]
 
-1. Navegue até **[!UICONTROL Jornadas de conta]** e abra uma jornada existente ou crie uma nova jornada. &lt;— VERIFIQUE ISTO DUAS VEZES
+1. Navegue até **[!UICONTROL Jornadas de conta]** e abra uma jornada existente ou crie uma nova jornada. &lt;— SOMENTE SE ESTIVER DENTRO DO EMAIL OU MODELO DE EMAIL
 
 —EDIÇÃO INTERROMPIDA AQUI—
 
