@@ -4,9 +4,9 @@ description: Email CC - Documentação do Marketo - Documentação do produto
 title: Email CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Email CC permite que emails especificados enviados pelo Marketo incluam recipients CC.
 
-Esse recurso está disponível em todos os ativos de email do Marketo, independentemente de como o email é enviado (campanha em lote ou de acionador). O recipient CC receberá uma cópia exata do email enviado para a pessoa escolhida do Marketo. Dessa forma, qualquer atividade de envolvimento (aberturas, cliques etc.) será registrado no registro de atividades da pessoa da Marketo na linha &quot;Para&quot; do email. No entanto, a atividade de delivery (enviado, entregue, rejeição permanente etc.) _diferente de &quot;rejeição temporária&quot;_ **não** fará o registro, pois a Marketo não pode distinguir os eventos de entrega da Pessoa Marketo dos destinatários CC. A Marketo só terá CC de até 100.000 pessoas por vez. Se sua lista inteligente exceder 100k e for imperativo que cada pessoa nela tenha CCd, recomendamos dividir sua lista.
+Esse recurso está disponível em todos os ativos de email do Marketo, independentemente de como o email é enviado (campanha em lote ou de acionador). O recipient CC receberá uma cópia exata do email enviado para a pessoa escolhida do Marketo. Dessa forma, qualquer atividade de engajamento (aberturas, cliques etc.) será registrada no log de atividades da pessoa do Marketo na linha &quot;Para&quot; do email. No entanto, a atividade de entrega (enviada, entregue, rejeição permanente, etc.) _diferente de &quot;rejeição temporária&quot;_ **não** será registrada, pois a Marketo não pode distinguir os eventos de entrega para a Pessoa Marketo dos destinatários CC. A Marketo só terá CC de até 100.000 pessoas por vez. Se sua lista inteligente exceder 100k e for imperativo que cada pessoa nela tenha CCd, recomendamos dividir sua lista.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
    ![](assets/six.png)
 
-1. Selecione até cinco campos que você deseja usar para CC de pessoas. Neste exemplo, queremos apenas o CC do proprietário do lead. Clique em **Salvar** ao concluir.
+1. Selecione os campos que deseja usar para CC de pessoas. _Há um limite de cinco por email_. Neste exemplo, queremos apenas o CC do proprietário do lead. Clique em **Salvar** ao concluir.
 
    ![](assets/seven.png)
 
@@ -73,7 +73,7 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
 ## Após o envio {#after-the-send}
 
-* Se um recipient CC clicar em um link rastreado no email, a atividade de clique (como todas as outras atividades de engajamento) será associada ao recipient principal do email. Além disso, eles podem clicar para acessar uma página com o código de rastreamento Web do Marketo (munchkin.js), fazendo com que sejam cookies como o recipient principal.
+* Se um recipient CC clicar em um link rastreado no email, a atividade de clique (como todas as outras atividades de engajamento) será associada ao recipient principal do email. Além disso, eles podem clicar para acessar uma página com o código de rastreamento Web do Marketo (munchkin.js), fazendo com que sejam diagnosticados como o recipient principal.
 
 >[!TIP]
 >

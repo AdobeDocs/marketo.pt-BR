@@ -4,9 +4,9 @@ description: Editar a versão em texto de um email - Documentação do Marketo -
 title: Editar a versão de texto de um email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ Ao criar um email, você pode desejar que sua versão de texto seja redigida de 
 
 >[!CAUTION]
 >
->Selecionar **Copiar do HTML** ou selecionar novamente **Copiar automaticamente do HTML** em emails com conteúdo dinâmico definirá o sinalizador Revisado como _true_ para todos os segmentos nas versões de HTML e Texto do email.
+>Selecionar **Copiar do HTML** ou remarcar **Copiar automaticamente do HTML** em emails com conteúdo dinâmico definirá o sinalizador Revisado como _true_ para todos os segmentos (produzindo a marca de seleção verde que indica que ele foi revisado) nas versões HTML e Texto do email. Se você executar qualquer uma das ações acima, verifique seu conteúdo novamente antes de enviar.
