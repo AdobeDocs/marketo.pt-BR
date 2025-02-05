@@ -4,7 +4,7 @@ description: Saiba como usar ativos de imagem de um repositório conectado do AE
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ Se você tiver mais de um repositório AEM conectado, clique no botão **[!UICON
 
 Escolha o repositório desejado.
 
-![Escolha um repositório do AEM Assets para acessar os ativos da imagem](assets/work-with-experience-manager-assets-five.png)
+![Escolha um repositório do AEM Assets para acessar os ativos da imagem](assets/work-with-experience-manager-assets-5.png)
 
 Há vários métodos para adicionar um ativo de imagem à tela visual:
 
 * Arraste e solte uma miniatura de imagem da navegação à esquerda.
 
-![Escolha um repositório do AEM Assets para acessar os ativos da imagem](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![Escolha um repositório do AEM Assets para acessar os ativos da imagem](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * Adicione um componente de imagem à tela e clique em **[!UICONTROL Procurar]** para abrir a caixa de diálogo _[!UICONTROL Selecionar Assets]_.
 
@@ -67,7 +67,7 @@ Há vários métodos para adicionar um ativo de imagem à tela visual:
 
   Há várias ferramentas disponíveis para ajudá-lo a localizar o ativo que você precisa.
 
-![use a ferramenta na caixa de diálogo Selecionar Assets para localizar e selecionar um ativo de imagem](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![use a ferramenta na caixa de diálogo Selecionar Assets para localizar e selecionar um ativo de imagem](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Altere o **[!UICONTROL Repositório]** na parte superior direita.
 
@@ -83,4 +83,4 @@ Há vários métodos para adicionar um ativo de imagem à tela visual:
 
 * Insira texto no campo Pesquisar para filtrar os itens exibidos para uma correspondência do nome do ativo.
 
-![Use os filtros e o campo de pesquisa para localizar o ativo](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Use os filtros e o campo de pesquisa para localizar o ativo](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
