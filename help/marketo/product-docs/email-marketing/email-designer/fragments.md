@@ -4,9 +4,9 @@ description: Saiba como criar e usar fragmentos de conteúdo visual como compone
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2052'
 ht-degree: 2%
 
 ---
@@ -26,11 +26,25 @@ Fragmentos visuais são blocos visuais predefinidos criados (usando o editor de 
 
 ## Acessar e gerenciar fragmentos {#access-and-manage-fragments}
 
-Para acessar fragmentos visuais, acesse o **Design Studio**. Na árvore à esquerda, clique em **[!UICONTROL Fragmentos (Novo)]**.
+Para acessar fragmentos visuais, acesse o **Design Studio** no Marketo Engage. Na árvore à esquerda, clique em **[!UICONTROL Fragmentos (Novo)]**.
 
-![Acessar fragmentos](assets/fragments-1.png){width="600" zoomable="yes"}
+![Acessar fragmentos](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 Por padrão, a tabela é classificada pela coluna _[!UICONTROL Modificado]_. Clique em outros títulos de coluna para alterar a classificação da tabela. Clique no mesmo título novamente para alternar entre crescente e decrescente.
+
+### Localizar e filtrar
+
+Use a barra de pesquisa para localizar um fragmento por nome. Clique no ícone _Filtro_ ( ![Ícone Filtro](assets/icon-filter.svg) ) para mostrar as opções de filtro disponíveis e escolher as configurações desejadas.
+
+![Filtrar os fragmentos exibidos](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### Personalizar as colunas {#customize-the-column-display}
+
+Personalize as colunas que deseja exibir na tabela clicando no ícone _Personalizar tabela_ ( ![Ícone Personalizar tabela](assets/icon-column-settings.svg) ) na parte superior direita.
+
+Selecione as colunas desejadas e clique em **[!UICONTROL Aplicar]**.
+
+![Personalizar modal da tabela](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### Status do fragmento {#fragment-status}
 
@@ -73,36 +87,30 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
   </tr>
 </tbody></table>
 
-### Filtrar a lista de fragmentos {#filter-the-fragments-list}
-
-Use a barra de pesquisa para localizar um fragmento por nome. Clique no ícone _Filtro_ ( ![Ícone Filtro](assets/icon-filter.svg) ) para mostrar as opções de filtro disponíveis e escolher as configurações desejadas.
-
-![Filtrar os fragmentos exibidos](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### Personalizar a exibição da coluna {#customize-the-column-display}
-
-Personalize as colunas que deseja exibir na tabela clicando no ícone _Personalizar tabela_ ( ![Ícone Personalizar tabela](assets/icon-column-settings.svg) ) na parte superior direita.
-
-Na caixa de diálogo, selecione as colunas desejadas e clique em **[!UICONTROL Aplicar]**.
-
-CAPTURA DE TELA
-
 ## Criar fragmentos {#create-fragments}
 
-Crie um novo fragmento visual clicando em **[!UICONTROL Criar fragmento]** na parte superior direita.
+1. Para criar um novo fragmento visual, clique em **[!UICONTROL Criar fragmento]** na parte superior direita da página da lista de fragmentos.
 
-1. Na caixa de diálogo _[!UICONTROL Criar fragmento]_, digite um **[!UICONTROL Nome]** e uma **[!UICONTROL Descrição]** opcional.
+   ![Botão Criar fragmento](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   Requisitos de fragmento:
+1. Dê um **[!UICONTROL Nome]** ao fragmento e uma **[!UICONTROL Descrição]** opcional.
 
-   * Nome - 100 caracteres, no máximo. Deve ser exclusivo, não diferencia maiúsculas de minúsculas
+   _Requisitos de fragmento_
+
+   * Nome: máx. de 100 caracteres; deve ser exclusivo, sem distinção entre maiúsculas e minúsculas
    * Descrição: máximo de 300 caracteres
-   * Alpha, numérico e caracteres especiais estão OK
+   * Caracteres: caracteres alfanuméricos, numéricos e especiais estão OK
    * Os caracteres reservados **_não são permitidos_**: `\ / : * ? " < > |`
 
-CAPTURA DE TELA
+   ![Criar modal de fragmento](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. Clique em **[!UICONTROL Criar]**.
+
+   ![Criar modal de fragmento](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >O **Tipo** de um fragmento não pode ser modificado no momento.
 
    O designer visual é aberto com uma tela vazia.
 

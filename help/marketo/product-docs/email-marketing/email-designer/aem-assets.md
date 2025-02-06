@@ -1,12 +1,10 @@
 ---
 title: Trabalho com o Experience Manager Assets
 description: Saiba como usar ativos de imagem de um repositório conectado do AEM Assets ao criar conteúdo no Adobe Marketo Engage.
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -17,13 +15,13 @@ Quando o _Adobe Experience Manager Assets as a Cloud Service_ é integrado ao Ad
 
 >[!PREREQUISITES]
 >
->Conecte o documento MKTO/AEM.
+>[Conecte o Adobe Experience Manager Cloud Service à sua instância do Adobe Marketo Engage](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->Atualmente, apenas ativos de imagem do _Adobe Experience Manager Assets_ são suportados no Marketo Engage. As alterações nos ativos devem ser feitas pelo repositório central da Adobe Experience Manager Assets. [Saiba mais](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Atualmente, apenas ativos de imagem do _Adobe Experience Manager Assets_ são suportados no Marketo Engage. As alterações nos ativos devem ser feitas pelo repositório central da Adobe Experience Manager Assets. [Saiba mais](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
-Quando você usa esses ativos digitais, as alterações mais recentes no _Assets as a Cloud Service_ se propagam automaticamente para campanhas de email ativas por meio de referências vinculadas. Se as imagens forem excluídas no _Adobe Experience Manager Assets as a Cloud Service_, elas aparecerão com uma referência inválida nos emails. Quando os ativos que estão sendo usados no momento no Marketo Engage são modificados ou excluídos, os autores de email são notificados sobre as alterações na imagem. Todas as alterações nos ativos devem ser feitas no repositório central da Adobe Experience Manager Assets.
+Quando você usa esses ativos digitais, as alterações mais recentes no _Assets as a Cloud Service_ se propagam automaticamente para campanhas de email ativas por meio de referências vinculadas. Se as imagens forem excluídas no _Adobe Experience Manager Assets as a Cloud Service_, elas aparecerão com uma referência corrompida em seus emails. Quando os ativos que estão sendo usados no momento no Marketo Engage são modificados ou excluídos, os autores de email são notificados sobre as alterações na imagem. Todas as alterações nos ativos devem ser feitas no repositório central da Adobe Experience Manager Assets.
 
 ## Usar o AEM Assets como fonte de imagem {#use-aem-assets-as-the-image-source}
 
@@ -67,7 +65,7 @@ Há vários métodos para adicionar um ativo de imagem à tela visual:
 
   Há várias ferramentas disponíveis para ajudá-lo a localizar o ativo que você precisa.
 
-![use a ferramenta na caixa de diálogo Selecionar Assets para localizar e selecionar um ativo de imagem](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Use a ferramenta na caixa de diálogo Selecionar Assets para localizar e selecionar um ativo de imagem](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Altere o **[!UICONTROL Repositório]** na parte superior direita.
 
