@@ -2,40 +2,80 @@
 title: Trabalho com o Experience Manager Assets
 description: Saiba como usar ativos de imagem de um repositório conectado do AEM Assets ao criar conteúdo no Adobe Marketo Engage.
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
 workflow-type: tm+mt
-source-wordcount: '607'
-ht-degree: 1%
+source-wordcount: '791'
+ht-degree: 2%
 
 ---
 
 # Trabalhar com ativos do Experience Manager {#work-with-experience-manager-assets}
 
-Quando o _Adobe Experience Manager Assets as a Cloud Service_ é integrado ao Adobe Marketo Engage, você pode acessar facilmente ativos digitais para usar em seu conteúdo de marketing.
-
->[!PREREQUISITES]
->
->[Conecte o Adobe Experience Manager Cloud Service à sua instância do Adobe Marketo Engage](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
+Conecte sua conta do _Adobe Experience Manager Assets as a Cloud Service_ à sua instância do Adobe Marketo Engage para que você possa aproveitar seu repositório de ativos do AEM no Marketo Engage Email Designer.
 
 >[!NOTE]
 >
 >Atualmente, apenas ativos de imagem do _Adobe Experience Manager Assets_ são suportados no Marketo Engage. As alterações nos ativos devem ser feitas pelo repositório central da Adobe Experience Manager Assets. [Saiba mais](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
+## Acessar o Assistente de IA para aceleração de conteúdo {#access-the-ai-assistant-content-accelerator}
+
+Antes de usar esse recurso, primeiro você deve vincular Cloud Service AEM ao Adobe Marketo Engage.
+
++++Link AEM Cloud Service e Marketo Engage
+
+>[!NOTE]
+>
+>**Permissões de administrador necessárias**
+
+1. No Marketo Engage, vá para a área **Admin** e selecione **Adobe Experience Manager** na árvore de navegação esquerda.
+
+   ![Selecione o Adobe Experience Manager na seção de Administrador](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
+
+1. Clique em **Editar** ao lado de _Adobe Experience Manager Cloud Service_.
+
+   ![Clique em EDITAR](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
+
+1. Selecione um ou mais repositórios.
+
+   ![Selecione um repositório](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Somente repositórios que foram associados na mesma organização IMS que a sua assinatura do Marketo Engage são listados.
+
+1. Você deve adicionar um [certificado de credencial de serviço](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) para configurar o repositório. Clique no botão **+ Adicionar certificado**.
+
+   ![Adicionar um certificado](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
+
+1. Arraste e solte o certificado (somente arquivo JSON) ou selecione-o no computador. Clique em **Adicionar** quando terminar.
+
+   ![Localize o certificado no computador](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
+
+1. O repositório configurado é exibido abaixo, juntamente com o status e a expiração. Clique no botão de reticências (**...**) para exibir o certificado. Caso contrário, você está pronto.
+
+   ![O certificado foi adicionado](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
+
+Agora, todas as imagens da biblioteca de gerenciamento de ativos digitais nesse repositório podem ser acessadas no Marketo Engage Email Designer.
+
++++
+
+## Trabalhar com ativos de AEM {#working-with-aem-assets}
+
 Quando você usa esses ativos digitais, as alterações mais recentes no _Assets as a Cloud Service_ se propagam automaticamente para campanhas de email ativas por meio de referências vinculadas. Se as imagens forem excluídas no _Adobe Experience Manager Assets as a Cloud Service_, elas aparecerão com uma referência corrompida em seus emails. Quando os ativos que estão sendo usados no momento no Marketo Engage são modificados ou excluídos, os autores de email são notificados sobre as alterações na imagem. Todas as alterações nos ativos devem ser feitas no repositório central da Adobe Experience Manager Assets.
 
-## Usar o AEM Assets como fonte de imagem {#use-aem-assets-as-the-image-source}
+### Usar o AEM Assets como fonte de imagem {#use-aem-assets-as-the-image-source}
 
 Se o ambiente tiver uma ou mais conexões do repositório de ativos, você poderá designar o AEM Assets como fonte para ativos ao criar ou exibir detalhes de um email, modelo de email ou fragmento visual.
 
 * Ao criar novo conteúdo, escolha `AEM Assets` como o item **[!UICONTROL Image Source]** na caixa de diálogo.
 
-![Selecione AEM Assets como a fonte da imagem na caixa de diálogo de criação](assets/work-with-experience-manager-assets-1.png){width="400"}
+![Selecione AEM Assets como a fonte da imagem na caixa de diálogo de criação](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
 * Ao abrir um recurso de conteúdo existente, escolha `AEM Assets` na seção _[!UICONTROL Corpo]_ à direita.
 
 ![Selecione o AEM Assets como fonte de imagem nas propriedades](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Acessar ativos para criação {#access-assets-for-authoring}
+### Acessar ativos para criação {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
@@ -51,7 +91,7 @@ Se você tiver mais de um repositório AEM conectado, clique no botão **[!UICON
 
 Escolha o repositório desejado.
 
-![Escolha um repositório do AEM Assets para acessar os ativos da imagem](assets/work-with-experience-manager-assets-5.png)
+![Escolha um repositório do AEM Assets para acessar os ativos da imagem](assets/work-with-experience-manager-assets-5.png){width="500" zoomable="yes"}
 
 Há vários métodos para adicionar um ativo de imagem à tela visual:
 
