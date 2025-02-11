@@ -6,16 +6,17 @@ description: Saiba como editar imagens no Editor de email do Adobe Marketo Engag
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
 
 # Editar imagens com o Adobe Express {#edit-images-with-adobe-express}
 
-O Adobe Marketo Engage integra-se nativamente com o Adobe Express, fornecendo acesso a uma variedade de ferramentas de edição de imagens. Você pode usar essas ferramentas para modificar suas imagens no Marketo Engage Design Studio. A integração oferece os seguintes benefícios principais:
+O Adobe Marketo Engage se integra nativamente ao Adobe Express, fornecendo acesso a uma variedade de ferramentas de edição de imagens. Você pode usar essas ferramentas para modificar suas imagens no Marketo Engage Design Studio. A integração oferece os seguintes benefícios principais:
 
 * Maior reutilização de conteúdo ao editar e salvar novas imagens no Marketo Engage.
 
@@ -23,11 +24,11 @@ O Adobe Marketo Engage integra-se nativamente com o Adobe Express, fornecendo ac
 
 >[!NOTE]
 >
->O Adobe Express só oferece suporte aos formatos de arquivo de imagem PNG e JPEG no momento.
+>No momento, o Adobe Express só oferece suporte aos formatos de arquivo de imagem PNG e JPEG.
 
-## Acessar o editor de Adobe Express {#access-the-adobe-express-editor}
+## Acessar o editor do Adobe Express {#access-the-adobe-express-editor}
 
-Há duas maneiras de acessar o editor de Adobe Express.
+Há duas maneiras de acessar o editor do Adobe Express.
 
 >[!BEGINTABS]
 
@@ -81,11 +82,11 @@ Há duas maneiras de acessar o editor de Adobe Express.
 
 ## Usuários com uma licença Enterprise {#users-with-an-enterprise-license}
 
-Se você tiver uma licença Enterprise para o Adobe Express, terá acesso ao Express Editor. Você pode ajustar configurações como cor, brilho, nitidez, contraste, tamanho e muito mais de uma imagem. A opção Mágica de IA permite remover planos de fundo, inserir e remover objetos e apagar partes da imagem.
+Se você tiver uma licença Enterprise para o Adobe Express, terá acesso ao editor Express completo. Você pode ajustar as configurações da imagem como cor, brilho, nitidez, contraste, tamanho e muito mais. A opção Mágica de IA permite remover planos de fundo, inserir e remover objetos e apagar partes de uma imagem.
 
 >[!IMPORTANT]
 >
->A licença adquirida deve estar na mesma Organização IMS que a sua assinatura Marketo Engage para acessar todos os recursos de edição de Adobe Express. Além disso, cada usuário individual deve ter uma licença no Adobe Express. Os usuários [sem uma licença](#users-without-an-enterprise-license) só podem acessar as ações rápidas no Adobe Express.
+>A licença adquirida deve estar na mesma Organização IMS que a sua assinatura do Marketo Engage para acessar todos os recursos de edição do Adobe Express. Além disso, cada usuário individual deve ter uma licença no Adobe Express. Os usuários [sem uma licença](#users-without-an-enterprise-license) só podem acessar as ações rápidas no Adobe Express.
 
 Clique em Editar com Adobe Express para abrir a imagem.
 
@@ -105,11 +106,11 @@ Para aqueles sem uma licença Enterprise, você ainda tem acesso a vários recur
 * Remover plano de fundo
 * Cortar imagem
 * Converter em PNG
-* Converter em JPEG
+* Converter para JPEG
 
 Clique em Cortar imagem na página.
 
-No editor de Adobe Express, execute o corte na imagem e clique em Salvar.
+No editor do Adobe Express, execute o corte na imagem e clique em Salvar.
 
 Observação: essa ação não substituirá a imagem, mas a apresentará para outras edições.
 
@@ -120,7 +121,7 @@ Clique em Salvar para concluir a ação.
 Acessando o editor na página Listagem de imagens e arquivos
 Na página da listagem, selecione a imagem que deseja editar e clique no botão de ação divisa na Imagem e arquivos na página.
 
-Clique em Editar com Adobe Express
+Clique em Editar com o Adobe Express
 
 Acessar o editor no Designer de email
 
@@ -130,8 +131,8 @@ Uma opção para Editar com Adobe Express será exibida. Clique no botão para c
 
 Observação: essa ação está disponível para imagens originadas originalmente do repositório do Marketo Design Studio.
 
-Se a imagem estiver em uso, uma caixa de diálogo de alerta será exibida para informá-lo de que qualquer alteração feita afetará esse conteúdo. Clique em Continuar para prosseguir para o editor de Adobe Express.
+Se a imagem estiver em uso, uma caixa de diálogo de alerta será exibida para informá-lo de que qualquer alteração feita afetará esse conteúdo. Clique em Continuar para prosseguir para o editor do Adobe Express.
 
-Conclua sua edição no Adobe Express
+Concluir a edição no Adobe Express
 
 Clique em Salvar para concluir a ação.  A imagem editada será salva na mesma pasta da imagem original e também atualizada na tela de edição de email.
