@@ -3,13 +3,12 @@ solution: Marketo Engage
 product: marketo engage
 title: Bloquear conteúdo em modelos de email
 description: Saiba como bloquear conteúdo em seus modelos de email.
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 11%
+source-wordcount: '891'
+ht-degree: 9%
 
 ---
 
@@ -41,11 +40,9 @@ O bloqueio de conteúdo pode ser aplicado no nível **estrutura** ou no nível *
 
 Você pode ativar o bloqueio de conteúdo para um modelo de email diretamente no Designer de email, independentemente de você estar criando um novo modelo ou editando um existente.
 
-—EDIÇÃO INTERROMPIDA AQUI—
-
 1. Abra ou crie um modelo de email e acesse a tela de edição de conteúdo no Designer de email.
 
-1. No painel **[!UICONTROL Corpo]** à direita, alterne a opção **[!UICONTROL Governança]**.
+1. No painel **[!UICONTROL Corpo]** à direita, habilite a opção **[!UICONTROL Governança]**.
 
 1. Na lista suspensa **[!UICONTROL Modo]**, selecione o modo de bloqueio desejado para o modelo:
 
@@ -54,7 +51,7 @@ Você pode ativar o bloqueio de conteúdo para um modelo de email diretamente no
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. Se você selecionou o modo **[!UICONTROL Bloqueio de conteúdo]**, poderá definir ainda mais como os usuários podem interagir com o modelo. Ative a opção **[!UICONTROL Habilitar edição de conteúdo]** e escolha uma das seguintes opções:
+1. Se você selecionou o modo **[!UICONTROL Bloqueio de conteúdo]**, poderá definir ainda mais como os usuários podem interagir com o modelo. Habilite a opção **[!UICONTROL Habilitar edição de conteúdo]** e escolha uma das seguintes opções:
 
    * **[!UICONTROL Permitir adição de estrutura e conteúdo]**: os usuários podem adicionar estruturas entre as existentes e adicionar componentes ou fragmentos de conteúdo em estruturas editáveis.
 
@@ -65,7 +62,7 @@ Você pode ativar o bloqueio de conteúdo para um modelo de email diretamente no
    * [Saiba como bloquear estruturas](#lock-structures)
    * [Saiba como bloquear componentes](#lock-components)
 
-   Se você escolher o modo **[!UICONTROL Somente leitura]**, poderá prosseguir com a finalização e salvamento do modelo como de costume.
+   Se você escolher o modo **[!UICONTROL Somente leitura]**, poderá prosseguir com a finalização e o salvamento do modelo.
 
 Você pode ajustar as configurações de **[!UICONTROL Governança]** a qualquer momento ao criar o modelo selecionando o corpo do modelo. Para fazer isso, clique no link **[!UICONTROL Corpo]** no painel de navegação localizado na parte superior do painel do lado direito.
 
@@ -89,7 +86,7 @@ Depois de bloquear uma estrutura, nenhum componente ou fragmento de conteúdo ad
 
 1. Selecione o componente que deseja desbloquear.
 
-1. Ative a opção **[!UICONTROL Usar bloqueio específico]**.
+1. Habilitar a opção **[!UICONTROL Usar bloqueio específico]**.
 
 1. Na lista suspensa **[!UICONTROL Tipo de bloqueio]**, escolha **[!UICONTROL Editável]**. Para permitir a edição de conteúdo ao bloquear estilos, selecione **[!UICONTROL Somente conteúdo editável]**. [Saiba como bloquear componentes](#lock-components)
 
@@ -126,18 +123,13 @@ No exemplo abaixo, a governança é ativada para o corpo do template. A *Estrutu
 
 Ao usar um modelo com conteúdo bloqueado, a mensagem **[!UICONTROL Governança habilitada]** é exibida no painel direito.
 
-Dependendo do tipo de bloqueio aplicado ao modelo, você pode executar ações diferentes nas estruturas e nos componentes do modelo. Para identificar rapidamente todas as áreas editáveis no modelo, ative a opção **[!UICONTROL Realçar áreas editáveis]**.
+Dependendo do tipo de bloqueio aplicado ao modelo, você pode executar ações diferentes nas estruturas e nos componentes do modelo. Para identificar rapidamente todas as áreas editáveis no modelo, habilite a opção **[!UICONTROL Realçar áreas editáveis]**.
 
-Por exemplo, no modelo abaixo, todas as áreas são editáveis, exceto a imagem superior que foi bloqueada, o que significa que não é possível editá-la nem removê-la.
+Por exemplo, no modelo abaixo, todas as áreas são editáveis, exceto a imagem superior que foi bloqueada, o que significa que não é possível editá-la ou removê-la.
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
 
-Informações detalhadas sobre os diferentes tipos de bloqueio que podem ser aplicados. Consulte estas seções:
-
-* [Bloquear estruturas](#lock-structures)
-* [Bloquear componentes](#lock-components)
-
-Estes são alguns exemplos de edição de emails e a configuração de bloqueio de conteúdo associada que foi configurada:
+Estes são alguns exemplos de edição de emails e a configuração de bloqueio de conteúdo associada que foi definida:
 
 <table>
 <thead>
