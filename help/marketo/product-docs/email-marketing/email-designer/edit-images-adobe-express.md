@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 1%
 
 ---
@@ -38,9 +38,9 @@ Há duas maneiras de acessar o editor do Adobe Express.
 
    ![Selecionando Imagens e Arquivos na navegação à esquerda do Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. Selecione a imagem que deseja editar (ou crie uma nova).
+1. Selecione a imagem que deseja editar.
 
-   CAPTURA DE TELA 2a
+   ![Clique no nome da imagem](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Há duas maneiras de acessar o editor do Adobe Express.
 
 1. Na guia da imagem _Detalhes_, clique em **[!UICONTROL Editar no Adobe Express]**.
 
-   CAPTURA DE TELA 3a
+   ![Clique no botão Editar no Adobe Express](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Há duas maneiras de acessar o editor do Adobe Express.
    >
    >* Para classificar a tabela por qualquer uma das colunas, clique no título da coluna. A seta na linha de título indica a coluna e a ordem de classificação atuais.
 
-1. Marque a caixa de seleção ao lado da imagem que deseja editar.
+1. Marque a caixa de seleção ao lado da imagem que deseja editar. No menu suspenso **[!UICONTROL Ações de imagem e arquivo]**, selecione **[!UICONTROL Editar no Adobe Express]**.
 
-   CAPTURA DE TELA 2b
-
-1. No menu suspenso **[!UICONTROL Ações de imagem e arquivo]**, selecione **[!UICONTROL Editar no Adobe Express]**.
+   ![Marcar a caixa de seleção ao lado do nome da imagem e usar o menu suspenso Imagens e ações de arquivo](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Para aqueles sem uma licença Enterprise, você ainda tem acesso a vários recur
 * [Cortar imagem](#crop-image)
 * [Converter em PNG/JPEG](#convert-to-png-jpeg)
 
-Os recursos podem ser acessados no lado superior esquerdo da página de imagem.
+Os recursos podem ser acessados no lado esquerdo da página de imagem.
 
-CAPTURA DE TELA
+![Página de imagem mostrando as opções de edição do Adobe Express](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Redimensionar imagem {#resize-image}
 
@@ -109,24 +107,24 @@ CAPTURA DE TELA
 
 1. Faça as alterações desejadas e clique em **Aplicar** quando terminar.
 
-CAPTURA DE TELA
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>Taxa de proporção</b></td>
+    <td style="width:25%"><b>Taxa de proporção</b></td>
     <td>No menu suspenso <b>Taxa de proporção</b>, escolha <b>Padrão</b> como EM BRANCO ou <b>Personalizado</b> para definir sua própria largura/altura.</td>
   </tr>
   <tr>
-    <td><b>Largura e altura</b></td>
+    <td style="width:25%"><b>Largura e altura</b></td>
     <td>Por padrão, a taxa de proporção é bloqueada, mantendo as proporções da imagem iguais ao ajustar seu tamanho. Se desejar, é possível selecionar o botão de bloqueio para desbloquear a taxa de proporção.</td>
   </tr>
   <tr>
-    <td><b>Redefinir</b></td>
+    <td style="width:25%"><b>Redefinir</b></td>
     <td>Clique em <b>Redefinir</b> para remover todas as edições feitas na imagem e retorná-la ao seu estado original.</td>
   </tr>
   <tr>
-    <td><b>Zoom e corte</b></td>
-    <td>Clique em <b>Aplicar zoom e recortar</b> para aplicar zoom em áreas específicas da imagem.</td>
+    <td style="width:25%"><b>Zoom e corte</b></td>
+    <td>Clique em <b>Aplicar zoom e recortar</b> para aplicar zoom em áreas específicas da imagem. Clicar em <b>Aplicar</b> após aplicar zoom recorta a imagem para a exibição atual.</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ CAPTURA DE TELA
 
 1. Clique em **Remover Plano de Fundo**.
 
-1. O Adobe Express exibe a imagem sem plano de fundo. Clique em **Aplicar**.
+1. O Adobe Express exibe a imagem sem plano de fundo. Se atender às suas necessidades, clique em **Aplicar**.
 
-PIC
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ PIC
 
 #### Cortar imagem {#crop-image}
 
-1. Clique em Cortar imagem.
+1. Clique em **[!UICONTROL Cortar imagem]**.
 
 1. Arraste os cantos da imagem para criar o corte desejado.
 
-CAPTURA DE TELA
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. Clique em **Aplicar** quando terminar.
+1. Clique em **[!UICONTROL Aplicar]** quando terminar.
 
 #### Converter em PNG/JPEG {#convert-to-png-jpeg}
 
-Converta um PNG em um JPEG ou um JPEG em um PNG.
+Converta um arquivo PNG em JPEG ou um arquivo JPEG em PNG.
 
-1. Clique em **Converter em PNG/JPEG**.
+1. Clique em **[!UICONTROL Converter em PNG/JPEG]**.
 
-1. Clique em **Aplicar**.
+![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. Clique em **[!UICONTROL Aplicar]**.
 
 —CORTAR O MATERIAL ABAIXO—
 
