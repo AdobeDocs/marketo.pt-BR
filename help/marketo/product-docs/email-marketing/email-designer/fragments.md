@@ -4,7 +4,7 @@ description: Saiba como criar e usar fragmentos de conteúdo visual como compone
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
 source-wordcount: '2052'
 ht-degree: 2%
@@ -53,7 +53,7 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
 <table>
 <tbody>
   <tr>
-    <td><b>Rascunho</b></td>
+    <td style="width:25%"><b>Rascunho</b></td>
     <td>Quando você cria um fragmento, ele está no status de rascunho. Ele permanece como rascunho até que você o publique para uso em um modelo de email ou.
     <p>Ações disponíveis:
     <li>Editar todos os detalhes</li>
@@ -63,7 +63,7 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
     <li>Excluir</li>
   </td>
   <tr>
-    <td><b>Publicado</b></td>
+    <td style="width:25%"><b>Publicado</b></td>
     <td>Ao publicar um fragmento, ele fica disponível para uso em um email ou template de email. O conteúdo do fragmento publicado não pode ser modificado no designer visual.
     <p>Ações disponíveis:
     <li>Edite a descrição</li>
@@ -74,13 +74,13 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
     </td>
   </tr>
   <tr>
-    <td><b>Publicado com rascunho</b></td>
+    <td style="width:25%"><b>Publicado com rascunho</b></td>
     <td>Ao criar um rascunho de um fragmento publicado, a versão publicada permanece disponível para uso em um modelo de email ou de email e o conteúdo do rascunho pode ser modificado no designer visual. Se você publicar a versão de rascunho, ela substituirá a versão publicada atual e o conteúdo será atualizado em <i>todos</i> os emails e modelos de email nos quais está sendo usada. 
     <p>Ações disponíveis:
     <li>Edite a descrição</li>
     <li>Adicionar a um email ou modelo</li>
     <li>Editar versão de rascunho no visual designer</li>
-    <li>Versão de rascunho do Publish</li>
+    <li>Publicar versão de rascunho</li>
     <li>Duplicar</li>
     <li>Excluir (se não estiver em uso)</li>
     </td>
@@ -124,7 +124,7 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
 
 1. Clique em **[!UICONTROL Salvar]** a qualquer momento para salvar o fragmento de rascunho.
 
-1. Quando estiver pronto para disponibilizar o fragmento para uso em um modelo de email ou email, clique em **[!UICONTROL Publish]**.
+1. Quando estiver pronto para disponibilizar o fragmento para uso em um modelo de email ou email, clique em **[!UICONTROL Publicar]**.
 
 ### Adicionar estrutura e conteúdo {#add-structure-and-content}
 
@@ -217,7 +217,7 @@ As edições em um fragmento dependem do status atual:
 
    Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
 
-1. Quando o fragmento atender aos seus critérios e você quiser disponibilizá-lo para uso em um modelo de email ou email, clique em **[!UICONTROL Publish]**.
+1. Quando o fragmento atender aos seus critérios e você quiser disponibilizá-lo para uso em um modelo de email ou email, clique em **[!UICONTROL Publicar]**.
 
 >[!TAB Publicado]
 
@@ -245,7 +245,7 @@ As edições em um fragmento dependem do status atual:
 
    Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
 
-1. Quando o fragmento de rascunho atender aos seus critérios e você quiser disponibilizar as alterações para uso em um modelo de email ou email, clique em **[!UICONTROL Publish]**.
+1. Quando o fragmento de rascunho atender aos seus critérios e você quiser disponibilizar as alterações para uso em um modelo de email ou email, clique em **[!UICONTROL Publicar]**.
 
    Ao publicar a versão de rascunho, ela substitui a versão publicada atual e o conteúdo é atualizado nos emails e templates de email em que já está em uso.
 
@@ -273,7 +273,7 @@ Para atualizar o conteúdo:
 
    Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
 
-1. Quando o fragmento de rascunho atender aos seus critérios e você quiser disponibilizar as alterações para uso em um modelo de email ou email, clique em **[!UICONTROL Publish]**.
+1. Quando o fragmento de rascunho atender aos seus critérios e você quiser disponibilizar as alterações para uso em um modelo de email ou email, clique em **[!UICONTROL Publicar]**.
 
    Ao publicar a versão de rascunho, ela substitui a versão publicada atual e o conteúdo é atualizado nos emails e templates de email em que já está em uso.
 

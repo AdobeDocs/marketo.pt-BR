@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,10 @@ O Adobe Marketo Engage se integra nativamente ao Adobe Express, fornecendo acess
 
 ## Acessar o editor do Adobe Express {#access-the-adobe-express-editor}
 
-Há duas maneiras de acessar o editor do Adobe Express.
+Há duas maneiras de acessar o editor do Adobe Express:
+
+* Clique no nome da imagem
+* _Menu suspenso de ações de imagens e arquivos_
 
 >[!BEGINTABS]
 
@@ -82,7 +85,7 @@ Há duas maneiras de acessar o editor do Adobe Express.
 
 ### Usuários com uma licença Enterprise {#users-with-an-enterprise-license}
 
-Se você tiver uma licença Enterprise para o Adobe Express, terá acesso ao editor Express completo. Você pode ajustar as configurações da imagem como cor, brilho, nitidez, contraste, tamanho e muito mais. A opção Mágica de IA permite remover planos de fundo, inserir e remover objetos e apagar partes de uma imagem.
+Se você tiver uma licença Enterprise para o Adobe Express, terá acesso ao editor Express completo. Você pode ajustar as configurações da imagem como cor, brilho, nitidez, contraste, tamanho e muito mais. A opção Mágica de IA permite remover planos de fundo, inserir e remover objetos e apagar partes de uma imagem. Visite o [Guia do Usuário do Adobe Express](https://helpx.adobe.com/express/user-guide.html){target="_blank"} para saber mais sobre cada configuração.
 
 >[!IMPORTANT]
 >
@@ -107,12 +110,12 @@ Os recursos podem ser acessados no lado esquerdo da página de imagem.
 
 1. Faça as alterações desejadas e clique em **Aplicar** quando terminar.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Redimensionar janela de imagem mostrando todas as opções disponíveis](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>Taxa de proporção</b></td>
-    <td>No menu suspenso <b>Taxa de proporção</b>, escolha <b>Padrão</b> como EM BRANCO ou <b>Personalizado</b> para definir sua própria largura/altura.</td>
+    <td>No menu suspenso <b>Taxa de proporção</b>, escolha <b>Padrão</b> para escolher entre tamanhos de foto comuns pré-calculados, ou <b>Personalizado</b> para definir sua própria largura/altura. Você também pode escolher o tamanho padrão de uma plataforma de mídia social específica (Pinterest, Snapchat etc.).</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Largura e altura</b></td>
@@ -135,11 +138,11 @@ Os recursos podem ser acessados no lado esquerdo da página de imagem.
 
 1. O Adobe Express exibe a imagem sem plano de fundo. Se atender às suas necessidades, clique em **Aplicar**.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![Imagem de somente cachorro com plano de fundo removido](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->Para restaurar o plano de fundo, selecione a imagem e selecione **Remover Plano de Fundo** novamente.
+>Se você não estiver satisfeito com o resultado, basta clicar em **X** para fechar a janela.
 
 #### Cortar imagem {#crop-image}
 
@@ -147,7 +150,7 @@ Os recursos podem ser acessados no lado esquerdo da página de imagem.
 
 1. Arraste os cantos da imagem para criar o corte desejado.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![Arrastando os cantos das fotos para recortar a imagem](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. Clique em **[!UICONTROL Aplicar]** quando terminar.
 
@@ -157,26 +160,14 @@ Converta um arquivo PNG em JPEG ou um arquivo JPEG em PNG.
 
 1. Clique em **[!UICONTROL Converter em PNG/JPEG]**.
 
-![TEXTTEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![Converter em janela PNG/JPEG](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Clique em **[!UICONTROL Aplicar]**.
 
-—CORTAR O MATERIAL ABAIXO—
-
-Clique em Cortar imagem na página.
-
-No editor do Adobe Express, execute o corte na imagem e clique em Salvar.
-
-Observação: essa ação não substituirá a imagem, mas a apresentará para outras edições.
-
-Você pode fazer mais atualizações usando outra opção no painel esquerdo, clicar em Salvar para substituir a imagem existente ou Salvar como novo ativo para salvar como uma nova imagem.
-
-Clique em Salvar para concluir a ação.
-
 ## Salve o trabalho {#save-your-work}
 
-Quando terminar todas as edições, clique em Salvar para salvar o trabalho.
+Quando terminar todas as edições, clique em **Salvar** para salvar seu trabalho.
 
-CAPTURA DE TELA
+![Botão Salvar](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 A imagem editada é salva na mesma pasta da imagem original.
