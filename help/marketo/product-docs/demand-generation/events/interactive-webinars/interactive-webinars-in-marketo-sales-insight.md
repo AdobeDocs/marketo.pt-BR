@@ -2,7 +2,8 @@
 description: Webinars interativos no Marketo Sales Insight - Documentação do Marketo - Documentação do produto
 title: Webinars interativos no Marketo Sales Insight
 feature: Interactive Webinars
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
+source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 3%
@@ -31,8 +32,8 @@ Todos os atributos relevantes dessas atividades também são disponibilizados pa
 
 Na seção Insights, o gráfico Linha do tempo do lead contém outra raia para webinários que destaca as atividades sincronizadas nos últimos 90 dias para cada semana. Ao selecionar uma semana específica, as atividades são exibidas por dia em uma seção separada. Você pode expandir atividades individuais para ver seus detalhes.
 
-![](assets/msi-iw-1.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-1.png){width="800" zoomable="yes"}
 
 Na guia Webinar separada, todas as atividades (e suas datas) também são listadas em formato de tabela.
 
-![](assets/msi-iw-2.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-2.png){width="800" zoomable="yes"}
