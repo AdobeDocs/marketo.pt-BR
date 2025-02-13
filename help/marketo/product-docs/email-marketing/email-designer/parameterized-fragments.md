@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Fragmentos parametrizados
 description: Saiba como personalizar fragmentos tornando alguns de seus campos editáveis.
 feature: Email Editor
@@ -8,9 +8,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Ao utilizar fragmentos parametrizados, você pode gerenciar e personalizar seu c
 
 Os fragmentos visuais e de expressão podem ser marcados como personalizáveis. Para obter instruções detalhadas sobre como proceder com cada tipo de fragmento, consulte as seções abaixo.
 
-CAPTURA DE TELA
+CAPTURA DE TELA - GIF?
 
 —EDIÇÃO INTERROMPIDA AQUI—
 
@@ -45,17 +45,17 @@ Para tornar partes de um fragmento visual editáveis, siga estas etapas:
 
    No exemplo abaixo, permitimos a edição do URL do botão &quot;Clique aqui&quot;.
 
-CAPTURA DE TELA
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. Clique em **Visão geral** para verificar todos os campos editáveis e seus valores padrão.
 
    Neste exemplo, o campo URL do botão é exibido com o valor padrão definido no componente. Esse valor será personalizável pelos usuários depois de adicionarem o fragmento ao conteúdo.
 
-CAPTURA DE TELA
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. Quando estiver pronto, salve as alterações para atualizar o fragmento.
 
-1. Depois de adicionar o fragmento em um email, os usuários poderão personalizar todos os campos editáveis configurados no fragmento. [Saiba como personalizar campos editáveis em um fragmento visual](../email/use-visual-fragments.md#customize-fields)
+1. Depois de adicionar o fragmento em um email, os usuários poderão personalizar todos os campos editáveis configurados no fragmento.
 
 ## Adicionar campos editáveis em componentes do HTML e fragmentos de expressão {#expression}
 
@@ -75,6 +75,6 @@ Os elementos abaixo podem se tornar campos editáveis em um componente do HTML:
 
 Por exemplo, no código abaixo, cada elemento destacado em vermelho pode se tornar uma propriedade:
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
