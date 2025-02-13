@@ -5,9 +5,9 @@ description: Visão geral - Documentação do Marketo - Documentação do produt
 title: Visão geral
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,11 @@ Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser
 
 * [Criação de modelo de email](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: saiba como criar, projetar e acessar um modelo de email no novo editor.
 
+* [Fragmentos](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: saiba como criar e usar fragmentos de conteúdo visual como componentes reutilizáveis para emails e modelos de email.
+
 * [Trabalhar com ativos do AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: saiba como acessar facilmente os ativos digitais do AEM para usar no Marketo Engage.
+
+* [Editar imagens com o Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: saiba como editar imagens no Adobe Marketo Engage Email Editor usando o Adobe Express.
 
 * [Usar o Assistente de IA](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: aproveite a tecnologia de IA generativa da Adobe para adicionar texto e/ou imagens úteis aos seus emails.
 
