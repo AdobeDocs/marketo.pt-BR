@@ -1,12 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 title: Fragmentos
-description: Saiba como criar/usar fragmentos de conteúdo visual como componentes reutilizáveis para emails e modelos de email.
-hide: true
-hidefromtoc: true
+description: Saiba como criar e usar fragmentos de conteúdo visual como componentes reutilizáveis para emails e modelos de email.
+level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
+source-git-commit: a8e8640a8fe69bd0ae40329a915fe89a3a90854d
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1909'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
 <tbody>
   <tr>
     <td width="25%"><b>Rascunho</b></td>
-    <td width="70%">Quando você cria um fragmento, ele está no status de rascunho. Ele permanece como rascunho até que você o publique para uso em um modelo de email ou.
+    <td width="75%">Quando você cria um fragmento, ele está no status de rascunho. Ele permanece como rascunho até que você o publique para uso em um modelo de email ou.
     <p>Ações disponíveis:
     <li>Editar todos os detalhes</li>
     <li>Editar no designer visual</li>
@@ -74,8 +75,8 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
     </td>
   </tr>
   <tr>
-    <td><b>Publicado com rascunho</b></td>
-    <td>Ao criar um rascunho de um fragmento publicado, a versão publicada permanece disponível para uso em um modelo de email ou de email e o conteúdo do rascunho pode ser modificado no designer visual. Se você publicar a versão de rascunho, ela substituirá a versão publicada atual e o conteúdo será atualizado em <i>todos</i> os emails e modelos de email nos quais está sendo usada. 
+    <td style="width:25%"><b>Publicado com rascunho</b></td>
+    <td style="width:75%">Ao criar um rascunho de um fragmento publicado, a versão publicada permanece disponível para uso em um modelo de email ou de email e o conteúdo do rascunho pode ser modificado no designer visual. Se você publicar a versão de rascunho, ela substituirá a versão publicada atual e o conteúdo será atualizado em <i>todos</i> os emails e modelos de email nos quais está sendo usada. 
     <p>Ações disponíveis:
     <li>Edite a descrição</li>
     <li>Adicionar a um email ou modelo</li>
@@ -85,7 +86,8 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
     <li>Excluir (se não estiver em uso)</li>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Criar fragmentos {#create-fragments}
 
