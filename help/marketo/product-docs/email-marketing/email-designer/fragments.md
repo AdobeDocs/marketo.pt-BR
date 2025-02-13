@@ -4,10 +4,10 @@ description: Saiba como criar e usar fragmentos de conteúdo visual como compone
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 2%
+source-wordcount: '1909'
+ht-degree: 1%
 
 ---
 
@@ -114,37 +114,11 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
 
    O designer visual é aberto com uma tela vazia.
 
-1. Use as ferramentas de design de conteúdo para criar o conteúdo visual do fragmento:
-
-   * [Adicionar estrutura e conteúdo](#add-structure-and-content)
-   * [Adicionar o Assets](#add-assets)
-   * [Navegar pelas camadas, configurações e estilos](#navigate-the-layers-settings-and-styles)
-   * [Personalizar conteúdo](#personalize-content)
-   * [Editar rastreamento de URL vinculado](#edit-linked-url-tracking)
+1. Use as [ferramentas de design de conteúdo](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} para criar o conteúdo do fragmento visual.
 
 1. Clique em **[!UICONTROL Salvar]** a qualquer momento para salvar o fragmento de rascunho.
 
 1. Quando estiver pronto para disponibilizar o fragmento para uso em um modelo de email ou email, clique em **[!UICONTROL Publicar]**.
-
-### Adicionar estrutura e conteúdo {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### Adicionar ativos
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### Navegar pelas camadas, configurações e estilos
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### Personalizar conteúdo
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### Editar rastreamento de URL vinculado
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## Exibir detalhes do fragmento {#view-fragment-details}
 
@@ -205,19 +179,11 @@ As edições em um fragmento dependem do status atual:
 
    ![Detalhes do fragmento com status de Rascunho](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. Para fazer alterações no conteúdo no designer visual, clique em **[!UICONTROL Editar fragmento]**.
+1. Para fazer alterações no conteúdo no designer visual, clique em **[!UICONTROL Editar fragmento]**. Clique em **Salvar** quando terminar.
 
-   Use as ferramentas do designer visual conforme necessário:
+1. Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
 
-   * [Adicionar estrutura e conteúdo](#add-structure-and-content)
-   * [Adicionar o Assets](#add-assets)
-   * [Navegar pelas camadas, configurações e estilos](#navigate-the-layers-settings-and-styles)
-   * [Personalizar conteúdo](#personalize-content)
-   * [Editar rastreamento de URL vinculado](#edit-linked-url-tracking)
-
-   Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
-
-1. Quando o fragmento atender aos seus critérios e você quiser disponibilizá-lo para uso em um modelo de email ou email, clique em **[!UICONTROL Publicar]**.
+1. Quando quiser disponibilizar o fragmento para uso em um email ou modelo de email, clique em **[!UICONTROL Publicar]**.
 
 >[!TAB Publicado]
 
@@ -235,19 +201,13 @@ As edições em um fragmento dependem do status atual:
 
    ![Criar caixa de diálogo de versão de rascunho](assets/fragments-create-draft-version.png){width="300"}
 
-   Use as ferramentas do designer visual conforme necessário:
+1. Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
 
-   * [Adicionar estrutura e conteúdo](#add-structure-and-content)
-   * [Adicionar o Assets](#add-assets)
-   * [Navegar pelas camadas, configurações e estilos](#navigate-the-layers-settings-and-styles)
-   * [Personalizar conteúdo](#personalize-content)
-   * [Editar rastreamento de URL vinculado](#edit-linked-url-tracking)
+1. Quando quiser disponibilizar o fragmento para uso em um email ou modelo de email, clique em **[!UICONTROL Publicar]**.
 
-   Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
-
-1. Quando o fragmento de rascunho atender aos seus critérios e você quiser disponibilizar as alterações para uso em um modelo de email ou email, clique em **[!UICONTROL Publicar]**.
-
-   Ao publicar a versão de rascunho, ela substitui a versão publicada atual e o conteúdo é atualizado nos emails e templates de email em que já está em uso.
+>[!NOTE]
+>
+>Ao publicar a versão de rascunho, ela substitui a versão publicada atual e o conteúdo é atualizado nos emails e templates de email em que já está em uso.
 
 >[!TAB Publicado com rascunho]
 
@@ -259,23 +219,19 @@ Há duas maneiras de abrir a versão de rascunho para edição na página de lis
 
 * Clique no nome do fragmento para abri-lo. Em seguida, clique em **[!UICONTROL Abrir versão de rascunho]** na parte superior direita.
 
-  Uma visualização do conteúdo visual da versão de rascunho é exibida, com os detalhes do fragmento à direita.
+Uma visualização do conteúdo visual da versão de rascunho é exibida, com os detalhes do fragmento à direita.
 
 Para atualizar o conteúdo:
 
-1. Clique em **[!UICONTROL Editar fragmento]** na parte superior direita. Use as ferramentas do designer visual conforme necessário:
+1. Clique em **[!UICONTROL Editar fragmento]** na parte superior direita. Clique em **Salvar** quando terminar.
 
-   * [Adicionar estrutura e conteúdo](#add-structure-and-content)
-   * [Adicionar o Assets](#add-assets)
-   * [Navegar pelas camadas, configurações e estilos](#navigate-the-layers-settings-and-styles)
-   * [Personalizar conteúdo](#personalize-content)
-   * [Editar rastreamento de URL vinculado](#edit-linked-url-tracking)
+1. Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
 
-   Clique em **[!UICONTROL Salvar]** ou **[!UICONTROL Salvar e fechar]** para retornar aos detalhes do fragmento.
+1. Quando quiser disponibilizar o fragmento para uso em um email ou modelo de email, clique em **[!UICONTROL Publicar]**.
 
-1. Quando o fragmento de rascunho atender aos seus critérios e você quiser disponibilizar as alterações para uso em um modelo de email ou email, clique em **[!UICONTROL Publicar]**.
-
-   Ao publicar a versão de rascunho, ela substitui a versão publicada atual e o conteúdo é atualizado nos emails e templates de email em que já está em uso.
+>[!NOTE]
+>
+>Ao publicar a versão de rascunho, ela substitui a versão publicada atual e o conteúdo é atualizado nos emails e templates de email em que já está em uso.
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ Para atualizar o conteúdo:
 
 ![Duplicar o fragmento](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-Na caixa de diálogo, digite um nome exclusivo e uma descrição opcional. Clique em **[!UICONTROL Duplicar]** para concluir a ação.
+Na caixa de diálogo, digite um nome exclusivo e uma descrição opcional. Clique em **[!UICONTROL Duplicar]**.
 
 ![Insira um nome e uma descrição para o fragmento duplicado](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ O fragmento duplicado aparece na listagem _Fragmentos_.
 
 ## Salvar um novo fragmento do conteúdo do email ou do modelo {#save-a-new-fragment-from-email-or-template-content}
 
-Ao criar/editar um modelo de email ou de email no editor de conteúdo visual, você pode salvar todo o conteúdo ou parte dele como um fragmento para que fique disponível para reutilização.
+Ao criar/editar um modelo de email ou de email no editor de conteúdo visual, você pode salvar todo o conteúdo ou parte dele como um fragmento para reutilização.
 
 1. Para salvar o conteúdo como um fragmento, clique em **[!UICONTROL Mais]** e escolha **[!UICONTROL Salvar como fragmento]**.
 
@@ -304,13 +260,13 @@ Ao criar/editar um modelo de email ou de email no editor de conteúdo visual, vo
 
    Selecione várias estruturas mantendo pressionado o botão Shift ou Control.
 
-   Você só pode selecionar estruturas adjacentes entre si e a interface não permite selecionar elementos não adjacentes.
+   Você só pode selecionar estruturas adjacentes entre si.
 
 1. Com o conteúdo selecionado, clique em **[!UICONTROL Criar]** na parte superior direita.
 
 1. Na caixa de diálogo, insira um nome e uma descrição opcional para o fragmento e clique em **[!UICONTROL Criar]**.
 
-   O fragmento é exibido na página de listagem _Fragmentos_ e também está disponível para uso em emails e modelos de email.
+O fragmento é exibido na página de listagem _Fragmentos_ e está disponível para uso em emails e modelos de email.
 
 ## Adicionar fragmentos visuais ao conteúdo do email ou modelo {#add-visual-fragments-to-your-email-or-template-content}
 
