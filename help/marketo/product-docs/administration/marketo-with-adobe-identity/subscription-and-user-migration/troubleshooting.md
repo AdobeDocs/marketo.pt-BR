@@ -4,7 +4,8 @@ title: Guia de solução de problemas do Adobe IMS
 hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
-source-git-commit: eccebb8352c56770dea5af9395c8bc83a08525dd
+exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
+source-git-commit: e5c6ac7df0f8f6e7726de1ced598d390a6cf1deb
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -23,8 +24,6 @@ Durante o processo de migração de usuário do IMS, um usuário do Adobe é cri
 * <a href="#not-in-domain">Não está no Domínio</a>
 * <a href="#create-failure">Criar Falha</a>
 * <a href="#type2e-user-failure">Falha de Usuário Type2e</a>
-
-
 
 <table>
 <thead>
