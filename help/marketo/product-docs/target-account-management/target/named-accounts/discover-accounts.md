@@ -4,9 +4,9 @@ description: Contas do Discover - Documentação do Marketo - Documentação do 
 title: Descobrir Contas
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '558'
 ht-degree: 1%
 
 ---
@@ -76,8 +76,6 @@ Identifique as empresas certas para o direcionamento.
    >* Filtra a maioria dos provedores de serviço de Internet e domínios públicos (por exemplo, yahoo.com, gmail.com) como nomes de empresa
    >
    >* Elimina duplicatas de contas do CRM. Se você tiver &quot;Acme&quot; em um registro e &quot;Acme Inc&quot; (ou qualquer um dos seguintes sufixos: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), nós os fundiremos no TAM como apenas &quot;Acme&quot;
-   >
-   >Se você quiser que a Marketo elimine a duplicação de contas pelo CRM ID ou pelo Proprietário da Conta, em vez de pelo Nome da Empresa, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Clique na seta para baixo na coluna Conta Nomeada para revelar o menu suspenso.
 
