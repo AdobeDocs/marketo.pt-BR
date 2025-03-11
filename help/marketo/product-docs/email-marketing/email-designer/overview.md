@@ -5,9 +5,9 @@ description: Bem-vindo à nova Adobe Marketo Engage Email Designer.
 title: Visão geral
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: b7e378af0d606202f022848d2a099d5170061024
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -86,6 +86,10 @@ modelos no designer, reduzindo a necessidade de desenvolvedores web externos. No
 **O novo designer de email oferece suporte ao idioma do AMP?**
 
 No momento, ele não é compatível com AMP.
+
+**Os ativos podem ser editados por meio da API no novo designer de email?**
+
+No momento, o Assets que está sendo editado por meio da API não é compatível com o novo designer de email.
 
 **O conteúdo dinâmico por atributo é ótimo, mas o conteúdo dinâmico por segmento ainda funciona?**
 
