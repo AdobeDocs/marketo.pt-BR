@@ -4,9 +4,9 @@ description: Noções básicas sobre objetos personalizados do Marketo - Documen
 title: Noções básicas sobre objetos personalizados do Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Use objetos personalizados para rastrear métricas específicas para sua empresa
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 Use objetos personalizados como filtros e acionadores em suas campanhas inteligentes. Por exemplo:
 
@@ -86,6 +86,10 @@ Após criar a estrutura do objeto personalizado, ao fazer upload dos dados do ob
 1. Agora é possível exibir uma lista de todos os objetos personalizados desse tipo associados a essa pessoa.
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >Em um registro de pessoa, a guia Objeto personalizado pode exibir no máximo 100 registros, classificados por ID em ordem decrescente.
 
 ## Uso de objetos personalizados com empresas {#using-custom-objects-with-companies}
 
