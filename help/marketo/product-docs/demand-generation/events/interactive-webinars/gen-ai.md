@@ -4,7 +4,7 @@ title: Recursos da GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
 1. Clique em **Gerar**.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. Uma nova guia é aberta, exibindo capítulos gerados por IA e um resumo de texto.
 
@@ -41,7 +41,7 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
 1. Se forem necessárias alterações, clique no botão **Editar**.
 
-   Para fazer modificações:
+   Fazendo modificações:
 
    * Editar texto no resumo e/ou nos títulos do capítulo.
 
@@ -55,14 +55,14 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
       * Para mesclar vários capítulos, é necessário fazer dois de cada vez
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >Se desejar, você pode classificar a qualidade do resumo/capítulos gerados com os ícones _miniatura_ ![Miniatura](assets/icon-thumbs-up.png) ou _miniatura_ ![Miniatura para baixo](assets/icon-thumbs-down.png). Você também pode sinalizar qualquer conteúdo problemático clicando no ícone de sinalizador ![Ícone de sinalizador](assets/icon-flag.png).
 
-1. Salve as alterações clicando no botão **Salvar** na parte superior esquerda da tela.
+1. Salve as alterações clicando no botão **Salvar** na parte superior direita da tela.
 
 ## Usar conteúdo gerado {#use-generated-content}
 
