@@ -4,7 +4,7 @@ title: Recursos da GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
 1. Revise os capítulos e o resumo gerados.
 
-2. Se forem necessárias alterações, clique no botão **Editar**.
+1. Se forem necessárias alterações, clique no botão **Editar**.
 
    Para fazer modificações:
 
