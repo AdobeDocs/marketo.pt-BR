@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
+source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
 1. Clique em **Gerar**.
 
-   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
 1. Uma nova guia é aberta, exibindo capítulos gerados por IA e um resumo de texto.
 
@@ -56,7 +56,7 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
       * Para mesclar vários capítulos, é necessário fazer dois de cada vez
 
-     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
