@@ -4,9 +4,10 @@ title: Recursos da GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -57,10 +58,11 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >Se desejar, você pode classificar a qualidade do resumo/capítulos gerados com os ícones _miniatura_ ![Miniatura](assets/icon-thumbs-up.png) ou _miniatura_ ![Miniatura para baixo](assets/icon-thumbs-down.png). Você também pode sinalizar qualquer conteúdo problemático clicando no ícone de sinalizador ![Ícone de sinalizador](assets/icon-flag.png).
+   >* Se desejar, você pode classificar a qualidade do resumo/capítulos gerados com os ícones _miniatura_ ![Miniatura](assets/icon-thumbs-up.png) ou _miniatura_ ![Miniatura para baixo](assets/icon-thumbs-down.png). Você também pode sinalizar qualquer conteúdo problemático clicando no ícone de sinalizador ![Ícone de sinalizador](assets/icon-flag.png).
+   >
+   >* Se você não estiver satisfeito com o resumo inicial, clique no botão **Gerar resumo novamente** e outra versão será gerada.
 
 1. Salve as alterações clicando no botão **Salvar** na parte superior direita da tela.
 
@@ -88,4 +90,4 @@ Depois de copiar o conteúdo que deseja usar, cole-o no editor de sua escolha (p
 
 * A exclusão do webinário também exclui o conteúdo GenAI.
 
-* Para obter mais esclarecimentos ou uma solicitação de exclusão de dados, entre em contato com a Equipe de contas da Adobe (seu Gerente de conta) ou envie um email para: `marketo-webinar-genai-alerts@adobe.com`.
+* Se quiser excluir o conteúdo GenAI sem excluir o webinário, entre em contato com a Equipe de Conta da Adobe (seu Gerente de Conta) ou envie uma solicitação de exclusão de dados para: `marketo-webinar-genai-alerts@adobe.com`.
