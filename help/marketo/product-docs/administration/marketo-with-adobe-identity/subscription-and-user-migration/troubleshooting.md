@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: c5b05cf7d1131c9d98d89c12a4a8bd04d215886d
+source-git-commit: 251f84b2dff6b7c0706c0f08fe8b51d8d4d897f0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '796'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Este artigo, para usuários que executam migrações automáticas, lista cada me
 
 >[!NOTE]
 >
->Os erros relacionados ao diretório/domínio podem ser acionados por outra organização/Admin Console em que uma relação de confiança de diretório está configurada ou o domínio foi reivindicado.
+>Os erros relacionados ao diretório/domínio podem ser acionados por outra organização/Admin Console em que uma relação de confiança de diretório está configurada ou o domínio foi solicitado.
 
 ## Mensagens de erro {#error-messages}
 
@@ -69,8 +69,6 @@ _Se for necessário migrar o usuário_ (e a imposição de domínio estiver habi
 _Se for necessário migrar o usuário_ (e a imposição de domínio estiver habilitada em outra organização), um administrador do sistema da organização em que o domínio foi reivindicado precisa adicionar o endereço de email do usuário à lista de exceções. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
 _Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
-
-**As mensagens de erro a seguir têm a mesma causa raiz/resolução...**
 
 ### Falha na criação do usuário {#user-creation-failed}
 
