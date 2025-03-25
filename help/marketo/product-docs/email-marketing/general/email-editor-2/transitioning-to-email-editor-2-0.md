@@ -3,8 +3,10 @@ unique-page-id: 11373011
 description: Transição para o Editor de email 2.0 - Documentação do Marketo - Documentação do produto
 title: Transição para o Editor de email 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
+hide: true
+hidefromtoc: true
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%
@@ -19,7 +21,7 @@ Emails e templates de email em sua assinatura devem ter um número de versão. A
 
 ![](assets/five-5.png)
 
-Por padrão, todos os seus emails e modelos de email existentes serão marcados como v1.0 se tiverem sido criados antes da versão do primeiro trimestre de 2016 ou após o lançamento, quando o Editor de email 2.0 estiver desativado. Com o Editor de email 2.0 ativado automaticamente, você verá o seguinte comportamento:
+Por padrão, todos os emails e modelos de email existentes serão marcados como v1.0 se tiverem sido criados antes da versão do primeiro trimestre de 1916 ou após o lançamento, quando o Editor de email 2.0 estiver desativado. Com o Editor de email 2.0 ativado automaticamente, você verá o seguinte comportamento:
 
 * Ao criar um novo email, o [Seletor de Modelo de Email](email-template-picker-overview.md) será exibido e você poderá escolher um modelo de email v2.0.
 * Sempre que você criar ou editar um email com o Editor de email 2.0, o email resultante será **sempre** marcado como v2.0 (mesmo se você tiver usado um modelo de email v1.0).

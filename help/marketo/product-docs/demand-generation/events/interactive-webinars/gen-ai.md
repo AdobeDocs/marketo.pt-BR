@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -82,7 +82,7 @@ Depois de copiar o conteúdo que deseja usar, cole-o no editor de sua escolha (p
 
 ## Itens a serem observados {#things-to-note}
 
-* Excluir ou mesclar capítulos afeta apenas a pilha do capítulo, não o conteúdo de vídeo em si. Essas ações são irreversíveis
+* Excluir ou mesclar capítulos afeta apenas a pilha do capítulo, não o conteúdo de vídeo em si. Essas ações são permanentes.
 
 * Os recursos da GenAI são flexíveis e podem ser usados com vários editores de página da Web, não apenas os do Marketo Engage.
 
