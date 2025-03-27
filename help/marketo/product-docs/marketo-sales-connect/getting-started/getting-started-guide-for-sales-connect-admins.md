@@ -3,7 +3,7 @@ description: Guia de introdução para administradores do Sales Connect - Docume
 title: Guia de introdução para administradores do Sales Connect
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9a43f9bce9664523334b55dcca3d9ea79d5f5093
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -32,9 +32,9 @@ Depois de provisionar sua conta do Marketo Sales Connect da Marketo e convidar s
 
 ## Conexão com o Salesforce {#connecting-to-salesforce}
 
-Todos os usuários precisarão se conectar individualmente ao Salesforce para habilitar o log de atividades de vendas ao Salesforce, como emails, chamadas e tarefas. No entanto, ao se conectar ao Salesforce como administrador, você terá a oportunidade de definir suas configurações de registro de atividades para toda a sua equipe, de modo que as configurações de registro globais sejam aplicadas a todos os usuários do Sales Connect.
+Todos os usuários precisarão se conectar individualmente ao Salesforce para habilitar o registro das atividades de vendas para a salesforce, como emails, chamadas e tarefas. No entanto, ao se conectar ao Salesforce como administrador, você terá a oportunidade de definir as configurações de registro de atividades para toda a sua equipe, de modo que as configurações de registro globais sejam aplicadas a todos os usuários do Sales Connect.
 
-Para conectar sua instância do Sales Connect à sua instância do Salesforce, como Administrador ou não Administrador, siga as etapas em [este artigo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
+Para conectar sua instância do Sales Connect à instância do Salesforce, como Administrador ou não Administrador, siga as etapas em [este artigo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md).
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -46,11 +46,11 @@ A conexão com o Marketo permitirá que seus vendedores aproveitem o potencial d
 * Encaminhar [Momentos Interessantes](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) para o Feed Ativo
 * Registro de atividades de vendas no Marketo
 
-Para saber mais sobre como se conectar ao Marketo e conceder aos usuários de vendas acesso à conexão, clique aqui.
+Para saber mais sobre como se conectar ao Marketo e conceder aos usuários de vendas acesso à conexão, [clique aqui](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md).
 
 ## Instalação do pacote de personalização do Salesforce {#installing-salesforce-customization-package}
 
-Garantir que as vendas estejam habilitadas para o sucesso significa ter os recursos certos no espaço de trabalho principal. O pacote de personalização do Sales Connect permite que os recursos do contrato e os principais atributos da atividade de vendas sejam acessíveis pelo Salesforce.
+Garantir que as vendas estejam habilitadas para o sucesso significa ter os recursos certos no espaço de trabalho principal. O pacote de personalização do Sales Connect permite que os recursos do contrato e os principais atributos da atividade de vendas sejam acessíveis pela Salesforce.
 
 Para saber mais sobre como instalar a Personalização do Sales Connect [clique aqui](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
