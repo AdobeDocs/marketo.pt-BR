@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # Recursos da GenAI {#gen-ai-features}
 
 Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os mais acessíveis e fáceis de navegar para o público-alvo.
+
+>[!PREREQUISITES]
+>
+>Antes de usar esses recursos, primeiro você deve aceitar os termos e condições da GenAI da Adobe. Caso ainda não o tenha feito, entre em contato com a Equipe de conta da Adobe (seu Gerente de conta) para obter detalhes.
 
 * **Geração automática de capítulo**: a tecnologia habilitada por IA cria capítulos para o conteúdo do webinário.
 
