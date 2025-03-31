@@ -4,7 +4,7 @@ description: Cancelamento de assinatura durável - Documentação do Marketo - D
 title: Cancelamento de assinatura durável
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
+source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Se o sinalizador de cancelamento de inscrição estiver definido como falso para
 
 Há várias maneiras de uma pessoa ser inscrita novamente.
 
-No Salesforce, **limpe** o campo Recusa de email no registro do cliente potencial/contato. Isso será sincronizado com o Marketo.
+No Salesforce, desmarque o campo Recusa de email no registro do lead/contato. Isso será sincronizado com o Marketo.
 
 ![tela do Salesforce](assets/durable-unsubscribe-1.png)
 
-No Marketo, **desmarque** a caixa de cancelamento de inscrição na guia Informações do registro da pessoa.
+No Marketo, desmarque a caixa de cancelamento de inscrição na guia Informações do registro da pessoa.
 
 ![Limpando a caixa de cancelamento de inscrição em um registro de pessoa](assets/durable-unsubscribe-2.png)
 
-Execute uma etapa de fluxo **Alterar Valor de Dados** como mostrado abaixo em uma ou várias pessoas.
+Execute uma etapa de fluxo _Alterar Valor de Dados_ como mostrado abaixo em uma ou várias pessoas.
 
 ![Alterar etapa do fluxo de valor de dados](assets/durable-unsubscribe-3.png)
 
