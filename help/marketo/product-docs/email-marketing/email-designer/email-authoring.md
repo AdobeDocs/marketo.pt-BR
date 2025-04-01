@@ -3,9 +3,9 @@ description: Criação de email - Documentação do Marketo - Documentação do 
 title: Criação de email
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1742'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email 
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Criar um email {#create-an-email}
 
@@ -26,7 +26,7 @@ Emails do designer de email só podem ser criados no Design Studio e referenciad
 
 >[!TAB Design Studio]
 
-1. Faça logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Faça logon no Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Em Meu Marketo, selecione **Design Studio**.
 
@@ -46,7 +46,7 @@ Emails do designer de email só podem ser criados no Design Studio e referenciad
 
 >[!TAB Programa de email]
 
-1. Faça logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Faça logon no Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Localize e selecione (ou crie) seu programa de email.
 
@@ -78,7 +78,7 @@ Pronto. Agora é hora de projetar seu email.
 
 * [Criar do zero](#design-from-scratch) usando o editor visual de email
 
-* [Importe seu próprio HTML](#import-html) por meio de um arquivo HTML ou zip
+* [Importar seu próprio HTML](#import-html) por meio de um arquivo HTML ou zip
 
 * [Selecione um modelo existente](#choose-a-template) (uma de nossas amostras ou uma que você já salvou)
 
@@ -98,7 +98,7 @@ Ao começar do zero no editor de email, use as opções abaixo para definir seu 
 
 ### Importar HTML {#import-html}
 
-Você pode importar conteúdo de HTML existente para criar seu email. O conteúdo pode ser:
+Você pode importar conteúdo existente do HTML para criar seu email. O conteúdo pode ser:
 
 * Um arquivo HTML com uma folha de estilos incorporada
 
@@ -110,13 +110,13 @@ Você pode importar conteúdo de HTML existente para criar seu email. O conteúd
 
 1. Na página Criar seu modelo, selecione **Importar HTML**.
 
-1. Arraste e solte o arquivo de HTML ou .zip desejado (ou selecione um arquivo do seu computador) e clique em **Importar**.
+1. Arraste e solte o arquivo HTML ou .zip desejado (ou selecione um arquivo no computador) e clique em **Importar**.
 
    ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
->Quando o conteúdo em HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
+>Quando o conteúdo do HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
 
 Você pode fazer as alterações desejadas no conteúdo importado usando as [ferramentas do editor visual de email](#add-structure-and-content).
 
@@ -351,7 +351,7 @@ Para visualizar seu conteúdo de email, clique em **Simular conteúdo** e adicio
 
 ## Referenciar um email {#reference-an-email}
 
-Se você criou o email em um Programa de email, ele só poderá ser usado nesse programa. Se você criou seu email no Design Studio, ele pode ser referenciado a partir de Campanhas inteligentes e/ou Smart Lists, como você faria com qualquer outro email.
+Os emails do Designer de email podem ser acessados em Programas de email, Engajamento, Padrão e Evento (com a única exceção dos Programas de webinário interativos). Se você criou seu email no Design Studio, ele pode ser referenciado a partir de Campanhas inteligentes e/ou Smart Lists, como você faria com qualquer outro email.
 
 * Faça referência a ele em uma Smart List [seguindo as etapas habituais](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 

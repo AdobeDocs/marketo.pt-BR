@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 8%
 
 ---
@@ -33,8 +33,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
     <tr> 
    <td><strong>Email Designer Disponível em todos os programas</strong>: os novos emails do Email Designer agora podem ser acessados em Programas de Engajamento, Padrão e de Evento (com a única exceção dos Programas de Webinar Interativos). Anteriormente, eles só estavam disponíveis em Programas de email. Com essa atualização, a clonagem também fica disponível.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   <tr> 
    <td> </td> 

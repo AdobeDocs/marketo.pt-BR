@@ -3,9 +3,9 @@ description: Modelos de email - Documentação do Marketo - Documentação do pr
 title: Modelos de e-mail
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '1840'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Para um processo de design acelerado e aprimorado, é possível criar modelos de
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Para um processo de design acelerado e aprimorado, é possível criar modelos de
 
 ## Criar um modelo de email {#create-an-email-template}
 
-1. Faça logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Faça logon no Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Em Meu Marketo, selecione **Design Studio**.
 
@@ -58,7 +58,7 @@ Defina o conteúdo adicionando e movendo elementos estruturais com ações simpl
 
 ### Importar seu HTML {#import-your-html}
 
-Você pode importar conteúdo de HTML existente para criar seus modelos de email. O conteúdo pode ser:
+Você pode importar conteúdo existente do HTML para criar seus modelos de email. O conteúdo pode ser:
 
 * Um arquivo HTML com uma folha de estilos incorporada
 
@@ -70,19 +70,19 @@ Você pode importar conteúdo de HTML existente para criar seus modelos de email
 
 1. Na página _Criar seu modelo_, selecione **Importar HTML**.
 
-1. Arraste e solte o arquivo de HTML ou .zip desejado (ou selecione um arquivo do seu computador) e clique em **Importar**.
+1. Arraste e solte o arquivo HTML ou .zip desejado (ou selecione um arquivo no computador) e clique em **Importar**.
 
    ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
-   >Quando o conteúdo em HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
+   >Quando o conteúdo do HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
 
-1. Para aproveitar os componentes de conteúdo do Email Designer, clique na guia **HTML converter** e clique em **Converter**.
+1. Para aproveitar os componentes de conteúdo do Email Designer, clique na guia **Conversor de HTML** e em **Converter**.
 
    >[!CAUTION]
    >
-   >Usar uma marca `<table>` como a primeira camada em um arquivo de HTML pode causar perda de estilo, incluindo configurações de plano de fundo e largura na marca de camada superior.
+   >Usar uma marca `<table>` como a primeira camada em um arquivo do HTML pode causar perda de estilo, incluindo configurações de plano de fundo e largura na marca de camada superior.
 
 Agora você pode personalizar o arquivo importado, conforme necessário, com o editor visual de email.
 
@@ -305,7 +305,7 @@ Nas opções **Mais** do editor de conteúdo, você pode realizar as seguintes a
 
 Na página de listagem _Modelos de email_, clique no nome de um modelo de email para exibir seus detalhes.
 
-(assets/view-template-details-1.png)
+![](assets/view-template-details-1.png)
 
 Detalhes básicos como nome e descrição podem ser editados. Clique fora do campo que você editou para salvar suas alterações.
 

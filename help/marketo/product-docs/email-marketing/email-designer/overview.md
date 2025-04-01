@@ -5,9 +5,9 @@ description: Bem-vindo à nova Adobe Marketo Engage Email Designer.
 title: Visão geral
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b7e378af0d606202f022848d2a099d5170061024
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 0%
 Bem-vindo à nova Adobe Marketo Engage Email Designer.
 
 O designer de email é a mais recente inovação no Marketo Engage, criada para fornecer uma experiência renovada de criação de modelos de email e email para melhorar a produtividade e a eficiência. Ele oferece um editor visual com função de arrastar e soltar, além de modelos padrão prontos para uso. Crie facilmente modelos de email personalizados sem precisar gastar dinheiro com fornecedores.
-
-Os emails criados no novo designer podem ser usados em Programas de email, bem como em Listas inteligentes/Campanhas. Novos e poderosos aprimoramentos para o designer serão lançados em breve.
 
 ## Como acessar o {#how-to-access}
 
@@ -65,6 +63,10 @@ Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser
 **O antigo editor de email continuará funcionando? Em caso afirmativo, por quanto tempo?**
 
 Sim, o editor de email antigo (clássico) coexistirá com o novo designer de email. Os emails criados no editor clássico permanecerão. Não há data para quando o editor clássico será descontinuado neste momento, mas ele continuará a funcionar ao longo de 2025.
+
+**Em quais programas posso usar os emails do Novo Email Designer?**
+
+Os novos emails do Designer de email podem ser acessados em todos os programas (com a única exceção dos Programas de webinários interativos). A clonagem também está disponível.
 
 **Nossos modelos de email existentes funcionarão no novo designer? Caso contrário, precisamos criar modelos usando o novo designer para que todas as seções/módulos correspondam à aparência desejada para o nosso conteúdo?**
 
