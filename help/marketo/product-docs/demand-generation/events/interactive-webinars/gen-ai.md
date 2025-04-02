@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 # Recursos da GenAI {#gen-ai-features}
 
 Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os mais acessíveis e fáceis de navegar para o público-alvo.
-
->[!PREREQUISITES]
->
->Antes de usar esses recursos, primeiro você deve aceitar os termos e condições da GenAI da Adobe. Caso ainda não o tenha feito, entre em contato com a Equipe de conta da Adobe (seu Gerente de conta) para obter detalhes.
 
 * **Geração automática de capítulo**: a tecnologia habilitada por IA cria capítulos para o conteúdo do webinário.
 
@@ -28,15 +24,25 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
 * **Fácil integração**: adicione facilmente capítulos e resumos às suas Páginas de Aterrissagem copiando o código do HTML para o editor de páginas da Web de sua escolha.
 
+## Ativar GenAI {#enable-genai}
+
+>[!PREREQUISITES]
+>
+>Antes de usar esses recursos, primeiro você deve aceitar os termos e condições da GenAI da Adobe. Caso ainda não o tenha feito, entre em contato com a Equipe de conta da Adobe (seu Gerente de conta) para obter detalhes.
+
+Depois de aceitar os termos e condições da GenAI da Adobe, o próximo passo é habilitá-la para usuários individuais. Para fazer isso, vá para **[!UICONTROL Admin]** > **[!UICONTROL Webinars interativos]** e selecione quais usuários devem ter acesso à GenAI.
+
+![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
 ## Como acessar o {#how-to-access}
 
 1. Navegue até a página de visão geral do webinário em Webinários interativos do Marketo Engage.
 
 1. Depois de conduzir o webinário sob demanda, aguarde de 30 a 60 minutos para que a IA processe sua gravação. O botão Gerar se tornará clicável quando estiver disponível.
 
-1. Clique em **Gerar**.
+1. Clique em **[!UICONTROL Gerar]**.
 
-   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
+   ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
 1. Uma nova guia é aberta, exibindo capítulos gerados por IA e um resumo de texto.
 
@@ -44,7 +50,7 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
 1. Revise os capítulos e o resumo gerados.
 
-1. Se forem necessárias alterações, clique no botão **Editar**.
+1. Se forem necessárias alterações, clique no botão **[!UICONTROL Editar]**.
 
    Fazendo modificações:
 
@@ -52,23 +58,23 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
    * Ajuste os carimbos de data e hora, se necessário, editando os valores nos campos de carimbo de data e hora.
 
-   * Exclua capítulos indesejados selecionando-os e clicando em **Excluir**.
+   * Exclua capítulos indesejados selecionando-os e clicando em **[!UICONTROL Excluir]**.
 
-   * Mescle dois capítulos consecutivos selecionando-os e clicando em **Mesclar**.
+   * Mescle dois capítulos consecutivos selecionando-os e clicando em **[!UICONTROL Mesclar]**.
 
       * A IA gera um capítulo composto composto pelos dois capítulos selecionados
 
       * Para mesclar vários capítulos, é necessário fazer dois de cada vez
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Se desejar, você pode classificar a qualidade do resumo/capítulos gerados com os ícones _miniatura_ ![Miniatura](assets/icon-thumbs-up.png) ou _miniatura_ ![Miniatura para baixo](assets/icon-thumbs-down.png). Você também pode sinalizar qualquer conteúdo problemático clicando no ícone de sinalizador ![Ícone de sinalizador](assets/icon-flag.png).
    >
-   >* Se você não estiver satisfeito com o resumo inicial, clique no botão **Gerar resumo novamente** e outra versão será gerada.
+   >* Se você não estiver satisfeito com o resumo inicial, clique no botão **[!UICONTROL Gerar resumo novamente]** e outra versão será gerada.
 
-1. Salve as alterações clicando no botão **Salvar** na parte superior direita da tela.
+1. Salve as alterações clicando no botão **[!UICONTROL Salvar]** na parte superior direita da tela.
 
 ## Usar conteúdo gerado {#use-generated-content}
 
@@ -76,13 +82,13 @@ Depois de copiar o conteúdo que deseja usar, cole-o no editor de sua escolha (p
 
 ### Resumo {#summary}
 
-**Copiar HTML** - Clique no botão **Copiar HTML** para obter todo o texto, completo com o código HTML formatando-o dentro de uma tabela.
+**Copiar HTML** - Clique no botão **[!UICONTROL Copiar HTML]** para obter todo o texto, completo com o código HTML formatando-o dentro de uma tabela.
 
 **Somente texto** - Se desejar apenas o texto, basta realçá-lo e selecionar Ctrl/Cmd+C (ou clicar com o botão direito do mouse) para copiar.
 
 ### Capítulos {#chapters}
 
-**Copiar HTML** - Clique no botão **Copiar HTML** para que todas as gravações e seus capítulos sejam formatados em um player de vídeo.
+**Copiar HTML** - Clique no botão **[!UICONTROL Copiar HTML]** para que todas as gravações e seus capítulos sejam formatados em um player de vídeo.
 
 ## Itens a serem observados {#things-to-note}
 
