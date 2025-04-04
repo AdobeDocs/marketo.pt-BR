@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
-source-wordcount: '9427'
+source-wordcount: '9429'
 ht-degree: 4%
 
 ---
@@ -1065,6 +1065,7 @@ ht-degree: 4%
             + [Remover conteúdo do fluxo](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + Designer de email {#email-designer}
          + [Visão geral](product-docs/email-marketing/email-designer/overview.md)
+         + [Comparação de recursos](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Criação de email](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Criação de modelo de email](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Trabalhar com o AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
@@ -1700,7 +1701,7 @@ ht-degree: 4%
    + Conteúdo preditivo {#predictive-content}
       + [O resumo do conteúdo preditivo](product-docs/predictive-content/the-predictive-content-summary.md)
       + [Definir uma lista inteligente para atividades de conteúdo preditivo](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
-      + [Visão geral da análise de conteúdo preditivo](product-docs/predictive-content/predictive-content-analytics-overview.md)
+      + [Visão geral da Predictive Content Analytics](product-docs/predictive-content/predictive-content-analytics-overview.md)
       + Introdução {#getting-started}
          + [Configurações da meta do algoritmo](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Criar padrões de conteúdo](product-docs/predictive-content/getting-started/create-content-patterns.md)
