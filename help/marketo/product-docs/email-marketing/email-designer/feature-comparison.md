@@ -6,10 +6,8 @@ description: Use esta tabela para comparar a disponibilidade de recursos no edit
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -32,7 +30,7 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
 <tbody>
   <tr>
     <td>Modelos de email inicial OTB</td>
-    <td>Capacidade de usar modelos OTB fornecidos pelo Designer de email.</td>
+    <td>Capacidade de usar modelos prontos para uso fornecidos pelo Designer de email.</td>
     <td>Disponível</td>
     <td>Disponível</td>
   </tr>
@@ -67,20 +65,20 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Disponível</td>
   </tr>
   <tr>
-    <td>alternador de Exibir (desktop/telefone/tablet)</td>
-    <td>Capacidade de ver como o email seria semelhante em todos os dispositivos.</td>
+    <td>Exibir Alternador (Desktop/Telefone/Tablet)</td>
+    <td>Capacidade de ver a aparência do email em todos os dispositivos.</td>
     <td>Disponível</td>
     <td>Disponível</td>
   </tr>
   <tr>
     <td>Fazer upload de imagem/arquivo</td>
-    <td>Capacidade de upload uma imagem de seu sistema local.</td>
+    <td>Capacidade de carregar uma imagem do seu sistema local.</td>
     <td>Disponível</td>
     <td>Disponível</td>
   </tr>
   <tr>
     <td>Capturar imagem da Web</td>
-    <td>Capacidade de pegar uma imagem da Web usando suas URL.</td>
+    <td>Capacidade de capturar uma imagem da Web usando seu URL.</td>
     <td>Disponível</td>
     <td>Disponível</td>
   </tr>
@@ -92,25 +90,25 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
   </tr>
   <tr>
     <td>Configurações de e-mail</td>
-    <td>Capacidade de definir configurações de email como DKIM, configurações de spam e muito mais.</td>
+    <td>Capacidade de definir configurações de email, como DKIM, configurações de spam e muito mais.</td>
     <td>Disponível</td>
     <td>Disponível</td>
   </tr>
   <tr>
     <td>Assistente de IA</td>
-    <td>Capacidade de gerar linha de assunto, parte de conteúdo ou email inteiro por meio de Modelos generativos de IA.</td>
+    <td>Capacidade de gerar a linha de assunto, parte do conteúdo ou email inteiro por meio de modelos de <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">IA de geração</a>.</td>
     <td>Indisponível</td>
     <td>Disponível</td>
   </tr>
   <tr>
     <td>Editor de Rich Text</td>
-    <td>Capacidade de modificar o conteúdo de texto usando funcionalidades avançadas curtir manchetes, sobrescritos, itálicos etc.</td>
+    <td>Capacidade de modificar conteúdo de texto usando funcionalidades avançadas como títulos, sobrescrito, itálico etc.</td>
     <td>Disponível</td>
     <td>Disponível</td>
   </tr>
   <tr>
     <td>Bloqueio de conteúdo</td>
-    <td>Capacidade de bloquear o conteúdo em um modelo de email para que ele não possa ser modificado ao criar emails.</td>
+    <td>Capacidade de <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">bloquear o conteúdo</a> em um modelo de email para que ele não possa ser modificado ao criar emails.</td>
     <td>Indisponível</td>
     <td>Disponível</td>
   </tr>
@@ -164,7 +162,7 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
   </tr>
   <tr>
     <td>Integração com o Adobe Express</td>
-    <td>Capacidade de criar/modificar imagens usando o Adobe Systems Express.</td>
+    <td>Capacidade de criar/modificar imagens usando o <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
     <td>Indisponível</td>
     <td>Disponível</td>
   </tr>
@@ -178,23 +176,23 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Módulos</td>
     <td>Capacidade de pré-criar predefinições específicas de estrutura e conteúdo para serem reutilizadas em emails.</td>
     <td>Disponível</td>
-    <td>Disponível como fragmento personalizável</td>
+    <td>Disponível como <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">Fragmento personalizável</a></td>
   </tr>
   <tr>
-    <td>Integração Cloud Service do Ativos AEM</td>
-    <td>Essa é uma integração adicional com Ativos AEM Cloud Service além da integração existente Ativos AEM Managed Services. Fornece a capacidade de usar conteúdo por meio de Serviços em nuvem AEM.</td>
-    <td>Disponível por cópia de Assets</td>
-    <td>Disponível por referência de Assets</td>
+    <td>Integração do AEM Assets Cloud Service</td>
+    <td>Essa é uma integração adicional com o AEM Assets Cloud Service, além da integração existente com o AEM Assets Managed Services. Fornece a capacidade de usar conteúdo por meio do AEM Cloud Services.</td>
+    <td>Disponível por cópia do Assets</td>
+    <td>Disponível por referência do Assets</td>
   </tr>
   <tr>
     <td>Arrastar e soltar na tela</td>
-    <td>Capacidade de arrastar e soltar a estrutura e conteúdo para a tela.</td>
+    <td>Capacidade de arrastar e soltar estrutura e conteúdo na tela.</td>
     <td>Somente módulos</td>
     <td>Estruturas e conteúdo</td>
   </tr>
   <tr>
     <td>Substituir por bloco de conteúdo</td>
-    <td>Capacidade de substituir uma parte do conteúdo por snippet.</td>
+    <td>Capacidade de substituir parte do conteúdo por um trecho.</td>
     <td>Disponível</td>
     <td>Arrastar e soltar fragmento</td>
   </tr>
@@ -236,9 +234,21 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
   </tr>
   <tr>
     <td>Funções e permissões</td>
-    <td>Capacidade de adicionar funções e permissões para emails, modelos de email e fragmentos.</td>
+    <td>Capacidade de adicionar funções e permissões para email, modelos de email e fragmentos.</td>
     <td>Disponível</td>
     <td>Em breve</td>
+  </tr>
+  <tr>
+    <td>Velocity Scripting</td>
+    <td>Capacidade de usar o script do Velocity em emails.</td>
+    <td>Disponível</td>
+    <td>Não Necessário</td>
+  </tr>
+   <tr>
+    <td>Script Handlebar</td>
+    <td>Capacidade de usar scripts Handlebar em emails.</td>
+    <td>Indisponível</td>
+    <td>Planejado para o 3º trimestre de 2025</td>
   </tr>
   <tr>
     <td>Integração Litmus</td>
@@ -259,12 +269,6 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Planejado para o 3º trimestre de 2025</td>
   </tr>
   <tr>
-    <td>Script Handlebar</td>
-    <td>Capacidade de usar scripts Handlebar em emails.</td>
-    <td>Indisponível</td>
-    <td>Planejado para o 3º trimestre de 2025</td>
-  </tr>
-  <tr>
     <td>Fluxos de trabalho de aprovação de conteúdo</td>
     <td>Capacidade de introduzir workflows de aprovação para emails no Marketo Engage.</td>
     <td>Indisponível</td>
@@ -272,19 +276,19 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
   </tr>
   <tr>
     <td>Experimentação (teste A/B)</td>
-    <td>Capacidade de teste emails antes de enviá-los para seu público-alvo.</td>
+    <td>Capacidade de testar emails antes de enviá-los para o público.</td>
     <td>Disponível</td>
     <td>A ser definido</td>
   </tr>
   <tr>
-    <td>Relatórios por e-mail</td>
+    <td>Relatório de email</td>
     <td>Capacidade de exibir emails no Marketo Engage Analytics.</td>
     <td>Disponível</td>
     <td>A ser definido</td>
   </tr>
   <tr>
     <td>Emails no CRM</td>
-    <td>Capacidade de enviar informações relacionadas a emails para seu CRM.</td>
+    <td>Capacidade de enviar informações relacionadas a emails para o seu CRM.</td>
     <td>Disponível</td>
     <td>A ser definido</td>
   </tr>
@@ -300,10 +304,5 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Disponível</td>
     <td>Indisponível</td>
   </tr>
-  <tr>
-    <td>Velocity Scripting</td>
-    <td>Capacidade de usar o script do Velocity em emails.</td>
-    <td>Disponível</td>
-    <td>Não Necessário</td>
-  </tr>
 </tbody></table>
+
