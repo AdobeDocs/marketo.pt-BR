@@ -1,0 +1,230 @@
+---
+description: Visão geral avançada do BI Analytics - Documentação do Marketo - Documentação do produto
+title: Visão Geral Avançada do BI Analytics
+hide: true
+hidefromtoc: true
+feature: Reporting
+exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
+source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+workflow-type: tm+mt
+source-wordcount: '969'
+ht-degree: 1%
+
+---
+
+# Visão Geral Avançada do BI Analytics {#advanced-bi-analytics-overview}
+
+O Advanced BI Analytics (anteriormente conhecido como Revenue Explorer e Advanced Report Builder) oferece uma interface de relatório e visualização flexível nos dados do Marketo Engage, fornecendo detalhes detalhados sobre progressão, desempenho e muito mais. Ele oferece interatividade e visualização mais avançadas, desempenho mais rápido e uma experiência do usuário mais contínua e intuitiva.
+
+Esses aprimoramentos ajudam você a economizar tempo, descobrir insights mais valiosos, impulsionar a otimização e compartilhar histórias de dados mais atraentes com colegas e partes interessadas.
+
+>[!PREREQUISITES]
+>
+>Para acessar esse recurso, é necessário ter adquirido o complemento Advanced BI Analytics. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
+
+## Principais recursos e benefícios {#key-features-and-benefits}
+
+* **Mecanismo de consulta de alto desempenho**: proporciona um desempenho cinco vezes mais rápido em conjuntos de dados grandes, permitindo um processamento de dados mais rápido, carregamento de relatórios mais rápido e uma experiência analítica mais suave.
+
+* **Visualização avançada e envolvente**: coleção ampla e expandida de opções de visualização integradas, incluindo gráficos, mapas e indicadores de KPI, que tornam os painéis mais reveladores e impactantes e melhoram significativamente a narrativa de dados.
+
+* **Interatividade avançada e filtragem dinâmica**: aplique segmentações de dados dinâmicas, filtragem cruzada e filtros interdependentes em todos os visuais. Relatórios de várias páginas oferecem suporte a detalhamento, drill-up e drill-through avançados, garantindo uma exploração de dados sem esforço.
+
+* **Interface intuitiva de criação de relatórios**: a experiência de apontar e clicar simplifica a criação de relatórios, incluindo relatórios de drill-through de várias páginas. A interface permite que os usuários criem relatórios complexos e interativos sem exigir uma grande experiência técnica.
+
+* **Compartilhamento Fácil, Incluindo Exportação do PowerPoint**: a funcionalidade de compartilhamento integrada facilita o compartilhamento de insights. Entre outros destinos, os usuários podem gerar facilmente slides do PowerPoint prontos para apresentação.
+
+## Criar um relatório {#create-a-report}
+
+1. Em Meu Marketo, clique no bloco **Análise Avançada de BI (Beta)**.
+
+   CAPTURA DE TELA
+
+1. Na guia **Relatórios**, clique em **Criar relatório**.
+
+   CAPTURA DE TELA
+
+1. Selecione as medidas desejadas.
+
+   CAPTURA DE TELA
+
+1. Selecione as dimensões desejadas.
+
+   CAPTURA DE TELA
+
+1. Escolha sua visualização preferida.
+
+   CAPTURA DE TELA
+
+1. Adicione filtros arrastando e soltando um atributo de dimensão.
+
+   CAPTURA DE TELA
+
+## Vídeo de demonstração {#video}
+
+Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+
+## Relatórios Padrão no Advanced BI Analytics {#standard-reports}
+
+Os seguintes relatórios padrão estão incluídos como exemplos para seus relatórios personalizados.
+
+<table>
+  <thead>
+    <tr>
+      <th>Área de relatório</th>
+      <th>Nome do relatório</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="8">Análise de e-mails</td>
+      <td>Email - Atividade enviada (em CST)</td>
+    </tr>
+    <tr>
+      <td>Email - Atividade de cliques (em CST)</td>
+    </tr>
+    <tr>
+      <td>Email - Abrir atividade (em CST)</td>
+    </tr>
+    <tr>
+      <td>Email - Distribuição de tempo clicado (em CST)</td>
+    </tr>
+    <tr>
+      <td>Email - Declínio da taxa de abertura</td>
+    </tr>
+    <tr>
+      <td>Email - Distribuição de tempo aberto (em CST)</td>
+    </tr>
+    <tr>
+      <td>Email - Detalhes de desempenho</td>
+    </tr>
+    <tr>
+      <td>Email - Declínio da taxa de cliques</td>
+    </tr>
+    <tr>
+      <td rowspan="8">Análise de leads</td>
+      <td>As 10 Principais Fontes De Clientes Potenciais Por Clientes Potenciais Convertidos</td>
+    </tr>
+    <tr>
+      <td>10 principais origens de leads</td>
+    </tr>
+    <tr>
+      <td>Relatório de violações do SLA</td>
+    </tr>
+    <tr>
+      <td>Relatório de Classificação por Vencimento do Cliente Potencial</td>
+    </tr>
+    <tr>
+      <td>Relatório de Saldo de Cliente Potencial</td>
+    </tr>
+    <tr>
+      <td>Relatório de conversão de clientes em potencial</td>
+    </tr>
+    <tr>
+      <td>Relatório de Fluxo de Cliente Potencial</td>
+    </tr>
+    <tr>
+      <td>Relatório de Tempo de Transição de Cliente Potencial</td>
+    </tr>
+    <tr>
+      <td rowspan="5">Análise do programa</td>
+      <td>Os 10 principais programas por sucesso</td>
+    </tr>
+    <tr>
+      <td>Os 10 principais programas por pipeline total</td>
+    </tr>
+    <tr>
+      <td>Relatório de Estágio de Receita do Programa</td>
+    </tr>
+    <tr>
+      <td>Os 10 principais programas de aquisição</td>
+    </tr>
+    <tr>
+      <td>Tendência de investimento do canal de marketing</td>
+    </tr>
+    <tr>
+      <td rowspan="7">Análise de oportunidades</td>
+      <td>Impacto de marketing em oportunidades fechadas</td>
+    </tr>
+    <tr>
+      <td>Influência de Marketing em Oportunidades Fechadas Ganhas</td>
+    </tr>
+    <tr>
+      <td>Influência de marketing nas oportunidades criadas</td>
+    </tr>
+    <tr>
+      <td>(FT) Influência da comercialização nas oportunidades criadas</td>
+    </tr>
+    <tr>
+      <td>(MT) Influência de marketing sobre oportunidades fechadas conquistadas</td>
+    </tr>
+    <tr>
+      <td>(MT) Influência de marketing nas oportunidades criadas</td>
+    </tr>
+    <tr>
+      <td>(FT) Influência de marketing em oportunidades conquistadas fechadas</td>
+    </tr>
+    <tr>
+      <td>Análise de lead da oportunidade</td>
+      <td>Os 10 Principais Proprietários Por Oportunidades Ganhas</td>
+    </tr>
+  </tbody>
+</table>
+
+## Itens a serem observados {#note}
+
+O beta público será executado até 1º de junho de 2025, quando a experiência clássica por meio do &quot;Revenue Explorer&quot; será descontinuada permanentemente.
+
+_Durante o beta público:_
+
+* Você pode acessar, criar, atualizar e excluir relatórios em ambas as experiências.
+* Seus relatórios personalizados serão replicados da experiência clássica para a nova experiência com as alterações de comportamento notáveis mencionadas na seção [Aprendendo a nova experiência](#learning-the-new-experience) abaixo.
+
+  >[!IMPORTANT]
+  >
+  >A replicação de relatórios personalizados será realizada em coortes. Depois que os relatórios personalizados forem replicados para a nova experiência, para garantir a consistência entre as duas experiências, todas as alterações feitas na experiência clássica também precisarão ser aplicadas manualmente aos relatórios correspondentes na nova experiência. Uma nota de informações sobre o assunto acima será exibida na experiência clássica após a replicação dos relatórios de clientes.
+
+   * Os painéis na experiência clássica não são transferíveis e exigirão recriação na nova experiência. Eles devem ser recriados como relatórios na nova experiência do e os filtros na nova experiência do extraem automaticamente os valores possíveis, em vez de exigir que você insira manualmente todos os valores possíveis individualmente na experiência clássica.
+
+     >[!NOTE]
+     >
+     >O painel da nova experiência do é apenas uma coleção de relatórios em uma única página. O principal valor do painel na nova experiência do é permitir que você apresente insights analíticos em diferentes áreas de relatórios.
+
+* As assinaturas de email na experiência clássica serão replicadas para a nova experiência. As assinaturas de email na experiência do Classic continuarão funcionando até a desativação da experiência do Classic em 1º de junho de 2025.
+
+* Os usuários existentes do Revenue Explorer têm acesso automático à nova experiência do Advanced BI Analytics (Beta).
+
+## Aprendendo a nova experiência {#learning-the-new-experience}
+
+A nova experiência de visualização é fornecida por meio do serviço Power BI incorporado.
+
+Para obter um tutorial rápido sobre a experiência de visualização, visite o [Use visuais na documentação do Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} da Microsoft.
+
+### Alterações importantes na experiência {#notable-experience-changes}
+
+A seguir estão as alterações na nova experiência (Advanced BI Analytics) da experiência clássica (Revenue Explorer/Advanced Report Builder).
+
+* O filtro do tipo data funciona de forma equivalente; no entanto, a sintaxe para especificar valores foi alterada. Nos relatórios personalizados existentes, todos os valores de filtro do tipo data, exceto o &quot;Dia da semana&quot;, são convertidos automaticamente para seus equivalentes correspondentes na nova experiência do. O suporte para valores de &quot;Dia da semana&quot; foi descontinuado.
+
+* Os filtros do tipo string agora fazem distinção entre maiúsculas e minúsculas.
+
+* O campo de fórmula em tempo de execução na experiência clássica não é mais compatível.
+
+* A assinatura de email inclui a exportação do PDF em vez da HTML do relatório. A nova assinatura de email não incluirá a definição de relatório.
+
+* No momento, não há suporte para deep link de relatório.
+
+* A experiência de pasta de relatórios não está disponível no momento e foi temporariamente substituída por uma lista simples com pesquisa com digitação antecipada. O nome do relatório replicado transportará o caminho da pasta, por exemplo, `/folder1/folder2/report`.
+
+* A exportação do PDF é síncrona na nova experiência do, em comparação com a assíncrona na experiência clássica.
+
+>[!NOTE]
+>
+>Não é possível incluir mais de um campo Grupo de campos personalizado em um visual para a área de relatório Análise de desempenho de modelo (clientes potenciais).
+
+>[!MORELIKETHIS]
+>
+>[Métricas e dimensões](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
+

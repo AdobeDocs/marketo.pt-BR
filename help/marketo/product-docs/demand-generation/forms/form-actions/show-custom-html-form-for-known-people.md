@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359644
-description: Mostrar formulário de HTML personalizado para pessoas conhecidas - Documentação do Marketo - Documentação do produto
-title: Mostrar formulário de HTML personalizado para pessoas conhecidas
+description: Mostrar formulário personalizado do HTML para pessoas conhecidas - Documentação do Marketo - Documentação do produto
+title: Mostrar formulário personalizado do HTML para pessoas conhecidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 55964499f5d49258539492f952513833af5692b5
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '254'
 ht-degree: 1%
 
 ---
 
-# Mostrar formulário de HTML personalizado para pessoas conhecidas {#show-custom-html-form-for-known-people}
+# Mostrar formulário personalizado do HTML para pessoas conhecidas {#show-custom-html-form-for-known-people}
 
-Se um visitante é diagnosticado (pessoa conhecida que forneceu um endereço de email no passado), por que se preocupar com o formulário? Dê a eles o botão de download. Veja como.
+Se um visitante tiver fornecido seu nome completo e endereço de email no passado e você não quiser que ele receba o formulário inteiro, saiba como mostrar a ele algum HTML personalizado (por exemplo, apenas um botão de download).
 
 1. Vá para **Atividades de marketing**.
 
@@ -31,7 +31,7 @@ Se um visitante é diagnosticado (pessoa conhecida que forneceu um endereço de 
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Clique no ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **HTML personalizado** que será exibido para pessoas conhecidas.
+1. Clique no ![—](assets/image2014-9-25-14-3a1-3a26.png) para editar o **HTML Personalizado** que será exibido para pessoas conhecidas.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
