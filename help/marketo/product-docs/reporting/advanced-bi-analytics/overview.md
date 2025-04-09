@@ -1,13 +1,11 @@
 ---
 description: Visão geral avançada do BI Analytics - Documentação do Marketo - Documentação do produto
 title: Visão Geral Avançada do BI Analytics
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '996'
 ht-degree: 1%
 
 ---
@@ -21,6 +19,10 @@ Esses aprimoramentos ajudam você a economizar tempo, descobrir insights mais va
 >[!PREREQUISITES]
 >
 >Para acessar esse recurso, é necessário ter adquirido o complemento Advanced BI Analytics. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
+
+>[!NOTE]
+>
+>Se você tiver dúvidas sobre esse recurso enquanto ele estiver na versão beta (até 1º de junho de 2025), envie um email para: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Principais recursos e benefícios {#key-features-and-benefits}
 
@@ -36,29 +38,29 @@ Esses aprimoramentos ajudam você a economizar tempo, descobrir insights mais va
 
 ## Criar um relatório {#create-a-report}
 
-1. Em Meu Marketo, clique no bloco **Análise Avançada de BI (Beta)**.
+1. Em Meu Marketo, clique no bloco **[!UICONTROL Análise Avançada de BI (Beta)]**.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. Na guia **Relatórios**, clique em **Criar relatório**.
+1. Na guia **[!UICONTROL Relatórios]**, clique em **[!UICONTROL Criar relatório]**.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. Selecione as medidas desejadas.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. Selecione as dimensões desejadas.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. Escolha sua visualização preferida.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. Adicione filtros arrastando e soltando um atributo de dimensão.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## Vídeo de demonstração {#video}
 
@@ -66,7 +68,7 @@ Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
-## Relatórios Padrão no Advanced BI Analytics {#standard-reports}
+## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 
 Os seguintes relatórios padrão estão incluídos como exemplos para seus relatórios personalizados.
 
@@ -184,7 +186,7 @@ _Durante o beta público:_
 
   >[!IMPORTANT]
   >
-  >A replicação de relatórios personalizados será realizada em coortes. Depois que os relatórios personalizados forem replicados para a nova experiência, para garantir a consistência entre as duas experiências, todas as alterações feitas na experiência clássica também precisarão ser aplicadas manualmente aos relatórios correspondentes na nova experiência. Uma nota de informações sobre o assunto acima será exibida na experiência clássica após a replicação dos relatórios de clientes.
+  >A replicação de relatórios personalizados será realizada em grupos. Depois que os relatórios personalizados forem replicados para a nova experiência, para garantir a consistência entre as duas experiências, todas as alterações feitas na experiência clássica também precisarão ser aplicadas manualmente aos relatórios correspondentes na nova experiência. Uma nota de informações sobre o assunto acima será exibida na experiência clássica após a replicação dos relatórios de clientes.
 
    * Os painéis na experiência clássica não são transferíveis e exigirão recriação na nova experiência. Eles devem ser recriados como relatórios na nova experiência do e os filtros na nova experiência do extraem automaticamente os valores possíveis, em vez de exigir que você insira manualmente todos os valores possíveis individualmente na experiência clássica.
 
@@ -200,7 +202,7 @@ _Durante o beta público:_
 
 A nova experiência de visualização é fornecida por meio do serviço Power BI incorporado.
 
-Para obter um tutorial rápido sobre a experiência de visualização, visite o [Use visuais na documentação do Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} da Microsoft.
+Para obter um tutorial rápido sobre a experiência de visualização, visite o [Use visuais na documentação do Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} da Microsoft. Observe que talvez você não veja todos esses recursos no Marketo Engage.
 
 ### Alterações importantes na experiência {#notable-experience-changes}
 
@@ -226,5 +228,4 @@ A seguir estão as alterações na nova experiência (Advanced BI Analytics) da 
 
 >[!MORELIKETHIS]
 >
->[Métricas e dimensões](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
+>[Métricas e dimensões](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
