@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 8%
+source-wordcount: '536'
+ht-degree: 7%
 
 ---
 
@@ -86,3 +86,6 @@ A partir de então, os usuários não conseguiram criar, clonar ou incorporar es
 
 * **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
+* **Novo Recurso do Analytics - Beta Público**: [Análises Avançadas de BI](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anteriormente conhecidas como Explorador de Receita e Report Builder Avançado) começam a ser implantadas para todos os usuários atuais do Explorador de Ciclo de Receita em meados de abril. Essa nova ferramenta oferece uma interface flexível de relatórios e visualização para dados do Marketo Engage, fornecendo detalhes detalhados sobre progressão, desempenho e muito mais. Ele oferece interatividade e visualização mais avançadas, desempenho mais rápido e uma experiência do usuário mais contínua e intuitiva.
+
+Para acessar esse recurso, é necessário ter adquirido o complemento Advanced BI Analytics. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
