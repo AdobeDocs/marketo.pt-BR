@@ -3,7 +3,7 @@ description: Métricas e dimensões - Documentação do Marketo - Documentação
 title: Métricas e dimensões
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 27%
@@ -12,11 +12,11 @@ ht-degree: 27%
 
 # Métricas e dimensões {#metrics-and-dimensions}
 
-Abaixo, você encontrará todas as métricas e dimensões disponíveis para o relatório de análise do explorador de ciclo de receita.
+Abaixo, você encontrará todas as métricas e dimensões disponíveis para o relatório de análise do Gerenciador de ciclo de receita.
 
 >[!TIP]
 >
->Se qualquer uma das tabelas parecer estar muito rabiscada, você poderá expandir a exibição clicando nas setas para a esquerda (![](assets/icon-left-arrow.png)) e para a direita (![](assets/icon-right-arrow.png)) na parte superior desta página, recolhendo as barras laterais esquerda e direita.
+>Se qualquer uma das tabelas for muito estreita, você poderá expandir a exibição clicando nas setas para a esquerda (![](assets/icon-left-arrow.png)) e para a direita (![](assets/icon-right-arrow.png)) na parte superior desta página, recolhendo as barras laterais esquerda e direita.
 
 ## Dimensões e Medidas {#dimensions-and-measures}
 
@@ -29,7 +29,7 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
     </tr>
     <tr>
       <th> </th>
-      <th>Período de tempo</th>
+      <th>Cronograma</th>
       <th>Atributos</th>
       <th>Atributos personalizados</th>
       <th> </th>
@@ -72,7 +72,7 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
       <td>Análise de leads</td>
       <td>
         <ul>
-          <li>Período de tempo criado por lead</li>
+          <li>Cronograma de Criação de Cliente Potencial</li>
           <li>Cronograma de criação da oportunidade</li>
         </ul>
       </td>
@@ -221,9 +221,9 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
       </td>
       <td>
         <ul>
-          <li>Medidas de adesão ao programa (M)</li>
-          <li>Medidas de sucesso do programa (M)</li>
-          <li>Medidas de Status do programa (M)</li>
+          <li>Medidas de participação no programa (M)</li>
+          <li>Medidas de Sucesso do Programa (M)</li>
+          <li>Medidas relativas à situação do programa (M)</li>
         </ul>
       </td>
     </tr>
@@ -231,8 +231,8 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
       <td>Análise de oportunidades do programa</td>
       <td>
         <ul>
-          <li>Período de tempo da oportunidade</li>
-          <li>Período de custo do programa</li>
+          <li>Cronograma da oportunidade</li>
+          <li>Período do custo do programa</li>
         </ul>
       </td>
       <td>
@@ -257,7 +257,7 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
       <td>Análise do estágio de receita do programa</td>
       <td>
         <ul>
-          <li>Período de custo do programa</li>
+          <li>Período do custo do programa</li>
         </ul>
       </td>
       <td>
@@ -633,7 +633,7 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
             <li>Taxa de Conversão do Cliente Potencial para a Oportunidade</li>
             <li>Taxa de conversão da empresa em oportunidade</li>
             <li>Número de empresas</li>
-            <li>Número de empresas (convertidas em oportunidades)</li>
+            <li>Número de Empresas (Convertido em Oportunidade)</li>
             <li>Número de Empresas (Não Convertido em Oportunidade)</li>
             <li>Número de clientes em potencial</li>
             <li>Número de clientes em potencial (convertidos em oportunidade)</li>
@@ -719,15 +719,15 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
       <td>
           <ul>
             <li>Nº de Oportunidades Associadas ao Programa</li>
-            <li>(FT) Custo da oportunidade</li>
+            <li>(FT) Custo de oportunidade</li>
             <li>(FT) Oportunidades criadas</li>
-            <li>(FT) Oportunidades Vencidas</li>
+            <li>(FT) Oportunidades conquistadas</li>
             <li>(FT) Planejamento criado</li>
             <li>(FT) Planejamento criado - Ainda em aberto</li>
             <li>(FT) Receita prevista</li>
             <li>(FT) Receita para investimento</li>
             <li>(FT) Receita obtida</li>
-            <li>(MT) Custo da oportunidade</li>
+            <li>(MT) Custo de oportunidade</li>
             <li>(MT) Oportunidades criadas</li>
             <li>(MT) Oportunidades conquistadas</li>
             <li>(MT) Planejamento criado</li>
