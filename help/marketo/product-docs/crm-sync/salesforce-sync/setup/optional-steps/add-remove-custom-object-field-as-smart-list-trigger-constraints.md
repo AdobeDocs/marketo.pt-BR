@@ -4,7 +4,7 @@ description: Adicionar/remover campo de objeto personalizado como lista intelige
 title: Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-O Marketo Engage fornece controle preciso sobre a sincronização de objetos personalizados do Salesforce. Isso permite selecionar os campos disponíveis como restrições em filtros de objeto personalizados e usá-los como acionadores em Campanhas inteligentes.
+O Marketo Engage fornece controle detalhado sobre a sincronização de objetos personalizados do Salesforce. Isso permite selecionar os campos disponíveis como restrições em filtros de objeto personalizados e usá-los como acionadores em Campanhas inteligentes.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **[!UICONTROL Administrador]**.
+1. Chegou à área **[!UICONTROL Admin]**.
 
-   ![](assets/image2014-12-10-13-3a9-3a47.png)
+   ![](assets/add-remove-custom-object-field-1.png)
 
-1. Clique em **[!UICONTROL Admin]** e depois em **[!UICONTROL Sincronização de Objetos do Salesforce]**.
+1. Clique em **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
