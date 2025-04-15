@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '474'
 ht-degree: 7%
 
 ---
@@ -56,17 +56,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>Tokens para qualquer Atributo de Acionador</strong>: expande a lista de tokens de acionador disponíveis apenas da lista em <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">este documento</a> para oferecer suporte ao uso de dados de qualquer atributo de atividade de acionador em campos de fluxo de campanha. Imprima dados de um atributo de atividade em um momento interessante ou defina a ID de transação mais recente de um cliente potencial a partir de uma atividade personalizada em um campo de cliente potencial.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/>
 
