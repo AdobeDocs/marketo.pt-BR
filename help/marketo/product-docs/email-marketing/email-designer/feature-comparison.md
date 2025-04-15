@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -149,6 +149,12 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Disponível</td>
   </tr>
   <tr>
+    <td>Relatório de email</td>
+    <td>Capacidade de exibir emails no Marketo Engage Analytics.</td>
+    <td>Disponível</td>
+    <td>Disponível</td>
+  </tr>
+  <tr>
     <td>Uso de emails em campanhas e programas</td>
     <td>Capacidade de usar os novos emails do Designer em campanhas e programas.</td>
     <td>Disponível</td>
@@ -277,12 +283,6 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
   <tr>
     <td>Experimentação (teste A/B)</td>
     <td>Capacidade de testar emails antes de enviá-los para o público.</td>
-    <td>Disponível</td>
-    <td>A ser definido</td>
-  </tr>
-  <tr>
-    <td>Relatório de email</td>
-    <td>Capacidade de exibir emails no Marketo Engage Analytics.</td>
     <td>Disponível</td>
     <td>A ser definido</td>
   </tr>
