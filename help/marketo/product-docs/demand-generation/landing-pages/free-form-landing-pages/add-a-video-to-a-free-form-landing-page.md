@@ -3,8 +3,10 @@ unique-page-id: 2359722
 description: Adicionar um vídeo a uma página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
 title: Adicionar um vídeo a uma página de aterrissagem de forma livre
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -17,7 +19,7 @@ Coloque vídeos com opções de compartilhamento em redes sociais nas páginas d
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Navegue até a página de aterrissagem de forma livre e clique em **Editar rascunho**.
 
@@ -43,8 +45,8 @@ Coloque vídeos com opções de compartilhamento em redes sociais nas páginas d
 >
 >Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de um compartilhamento de vídeo existente.
 
-Parabéns! Você adicionou um compartilhamento de vídeo à sua página de aterrissagem de formato livre. Aprove a landing page e o compartilhamento de vídeo estará ativo. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou [colocar o compartilhamento de vídeo em seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Parabéns! Você adicionou um compartilhamento de vídeo à sua página de aterrissagem de formato livre. Aprove a landing page e o compartilhamento de vídeo estará ativo. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou _colocar o compartilhamento de vídeo em seu site_.
 
 >[!MORELIKETHIS]
 >
->Você concluiu, mas pode alterar as configurações do compartilhamento de vídeo, se necessário. Comece com [personalizando o fluxo de compartilhamento](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e onde o prompt de compartilhamento é aberto).
+>Você concluiu, mas pode alterar as configurações do compartilhamento de vídeo, se necessário. Comece com _personalizando o fluxo de compartilhamento_ (quando e onde o prompt de compartilhamento é aberto).

@@ -4,9 +4,9 @@ description: Relatório de desempenho da página inicial - Documentação do Mar
 title: Relatório de desempenho da landing page
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Veja quantas pessoas preencheram os formulários em suas páginas de aterrissage
 
 >[!NOTE]
 >
->Se você observar uma discrepância nos números entre o Relatório de desempenho da lista inteligente e da página de aterrissagem, é provável que as listas inteligentes filtrem apenas os dados das pessoas, enquanto os Relatórios de desempenho da página de aterrissagem incluem dados sociais (Facebook, Google Ads etc.) e anônimas, além dos dados de Pessoas.
+>Se você observar uma discrepância nos números entre o Relatório de desempenho da lista inteligente e da página de aterrissagem, é provável que isso ocorra porque as listas inteligentes filtram apenas dados das pessoas, enquanto os Relatórios de desempenho da página de aterrissagem incluem atividades sociais (Facebook, Google Ads etc.) e anônimas, além dos dados das pessoas.
 
 1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) de Desempenho da Página de Aterrissagem.
 1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia Relatório.
@@ -36,10 +36,6 @@ Veja quantas pessoas preencheram os formulários em suas páginas de aterrissage
 1. Role para a direita para ver o número de visitas originadas em várias plataformas de redes sociais.
 
    ![](assets/image2014-9-16-15-3a54-3a27.png)
-
->[!NOTE]
->
->A atividade gerada pelo [botão social com a análise](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) não está incluída aqui. Para essas estatísticas, consulte o [Painel do Social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
 >[!MORELIKETHIS]
 >

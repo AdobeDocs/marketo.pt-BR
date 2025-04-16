@@ -4,7 +4,7 @@ description: Adicionar um botão Social a uma página de aterrissagem de forma l
 title: Adicionar um botão Social a uma página de aterrissagem de forma livre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Adicionar um botão Social a uma página de aterrissagem de forma livre {#add-a-social-button-to-a-free-form-landing-page}
 
-Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amigos. Solte-o nas páginas de aterrissagem de formato livre, no Facebook e em seu site.
+Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amigos. Solte-o em páginas de aterrissagem de formato livre, no Facebook e em seu site.
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Navegue até a página de aterrissagem de forma livre e clique em **Editar rascunho**.
 
@@ -31,7 +31,7 @@ Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amig
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Quando a página de aterrissagem estiver ativa, consulte a atividade gerada pelo botão social (com o Analytics) no [Painel Social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Quando a página de aterrissagem estiver ativa, consulte a atividade gerada pelo _botão social (com o Analytics) no Painel Social_.
 
    Se você adicionar um Botão Curtir/Recomendar (Lite), consulte o número de compartilhamentos no [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
@@ -49,10 +49,10 @@ Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amig
    >
    >Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de um botão de rede social existente.
 
-   [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [coloque o botão social no seu site](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _coloque o botão social no seu site_
 
 Parabéns! Você adicionou um botão de rede social à página de aterrissagem. Certifique-se de aprovar a landing page.
 
 >[!MORELIKETHIS]
 >
->Você concluiu, mas pode alterar as configurações do botão de redes sociais, se necessário. Comece com [personalizando o estilo de botão](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) ou [editando as mensagens compartilhadas](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) que ele apresenta.
+>Você concluiu, mas pode alterar as configurações do botão de redes sociais, se necessário. Comece com _personalizando o estilo de botão_ ou _editando as mensagens compartilhadas_ que ele apresenta.
