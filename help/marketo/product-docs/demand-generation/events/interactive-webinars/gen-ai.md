@@ -3,9 +3,9 @@ description: Recursos da GenAI - Documentação do Marketo - Documentação do p
 title: Recursos da GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
+source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,22 @@ Depois de copiar o conteúdo que deseja usar, cole-o no editor de sua escolha (p
 ### Capítulos {#chapters}
 
 **Copiar HTML** - Clique no botão **[!UICONTROL Copiar HTML]** para que todas as gravações e seus capítulos sejam formatados em um player de vídeo.
+
+## Direcionar seu público
+
+Aproveite os filtros e/ou acionadores de Campanha/Lista inteligente para ver o que cada visualizador assistiu, quantas vezes etc., permitindo acompanhamentos personalizados.
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **Acionadores**: _Link de Cliques na Página da Web_, _Página da Web de Visitas_
+
+* **Filtros**: _Link Clicado na Página da Web_, _Página da Web Visitada_
+
+O &quot;link&quot; é o nome do capítulo e a &quot;página da Web&quot; é a página que hospeda o webinário sob demanda.
+
+>[!TIP]
+>
+>Use [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} para refinar ainda mais seu público-alvo.
 
 ## Itens a serem observados {#things-to-note}
 
