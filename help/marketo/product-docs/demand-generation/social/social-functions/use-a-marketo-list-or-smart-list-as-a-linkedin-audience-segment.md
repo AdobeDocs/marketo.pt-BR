@@ -4,7 +4,7 @@ description: Usar uma lista do Marketo ou uma lista inteligente como um segmento
 title: Usar uma lista do Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: f205014ef4b1446c1c532e28910fab0c5fdaabcb
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Integre sua equipe do Marketo Engage aos públicos do LinkedIn.
 >
 >[Adicionar públicos correspondentes do LinkedIn como um serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}
 
-1. Vá para o **Banco de Dados**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-1.png)
 
@@ -27,11 +27,11 @@ Integre sua equipe do Marketo Engage aos públicos do LinkedIn.
 
    ![](assets/list-as-a-linkedin-audience-segment-2.png)
 
-1. Clique na guia **Pessoas**.
+1. Clique na guia **[!UICONTROL Pessoas]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Clique no ícone ![—](assets/image2015-4-20-18-3a18-3a41.png) **Enviar por meio do Ad Bridge** na parte inferior da lista.
+1. Clique no ícone ![—](assets/icon-ad-bridge.png) _Enviar por meio do Ad Bridge_ na parte inferior da lista.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
@@ -39,15 +39,15 @@ Integre sua equipe do Marketo Engage aos públicos do LinkedIn.
    >
    >Ao usar integrações de rede de anúncios para enviar um público-alvo para o LinkedIn, o Marketo envia somente o endereço de email.
 
-1. Selecione **LinkedIn** e clique em **Avançar**.
+1. Selecione **[!UICONTROL LinkedIn]** e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
-1. Selecione um **Público-alvo do LinkedIn**.
+1. Selecione um _Público-alvo do LinkedIn_.
 
    >[!NOTE]
    >
-   >Clicar em **+Novo público-alvo** criará um público-alvo no LinkedIn Campaign Manager.
+   >Clicar em **[!UICONTROL +Novo público-alvo]** criará um público-alvo no LinkedIn Campaign Manager.
 
    ![](assets/list-as-a-linkedin-audience-segment-6.png)
 
@@ -55,7 +55,7 @@ Integre sua equipe do Marketo Engage aos públicos do LinkedIn.
    >
    >O LinkedIn substituiu as APIs usadas para o tipo de push &quot;Limpar público-alvo e adicionar clientes potenciais&quot; em março de 2018. Essa opção não está mais disponível na versão do primeiro trimestre de 2018 da Marketo.
 
-1. Selecione um **Tipo de push**. Clique **Atualizar**.
+1. Selecione um _[!UICONTROL Tipo de push]_. Clique **[!UICONTROL Atualizar]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
