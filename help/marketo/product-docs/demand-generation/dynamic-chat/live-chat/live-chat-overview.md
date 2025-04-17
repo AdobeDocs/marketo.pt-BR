@@ -3,7 +3,7 @@ description: Visão geral do Live Chat - Documentação do Marketo - Documentaç
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 1%
@@ -16,7 +16,7 @@ O bate-papo ao vivo permite que os visitantes do site se envolvam em conversas d
 
 >[!NOTE]
 >
->Para aqueles que estão no pacote Dynamic Chat Select, o chat ao vivo é um recurso de avaliação com um limite de vida útil de 100 envolvimentos. Quando esse limite é atingido, os visitantes que solicitarem o chat com um agente ao vivo não serão conectados e receberão a mensagem de fallback global. Para aumentar o limite, entre em contato com o representante de conta do Adobe para saber sobre as opções de atualização do pacote.
+>Para aqueles que estão no pacote Dynamic Chat Select, o chat ao vivo é um recurso de avaliação com um limite de vida útil de 100 envolvimentos. Quando esse limite é atingido, os visitantes que solicitarem o chat com um agente ao vivo não serão conectados e receberão a mensagem de fallback global. Para aumentar o limite, entre em contato com o representante de conta da Adobe para saber mais sobre as opções de atualização do pacote.
 
 ## Adicionar agentes de bate-papo ao vivo {#add-live-chat-agents}
 
@@ -26,7 +26,7 @@ Quando os visitantes solicitarem o chat com um agente por meio da sua Caixa de d
 
 >[!NOTE]
 >
->O avatar do agente ao vivo usa a foto do perfil da conta Adobe do agente. Para atualizar a imagem, siga [estas etapas](https://helpx.adobe.com/br/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>O avatar do agente ao vivo usa a foto do perfil da conta do Adobe do agente. Para atualizar a imagem, siga [estas etapas](https://helpx.adobe.com/br/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Usar o cartão de chat ao vivo {#using-the-live-chat-card}
 
@@ -74,7 +74,7 @@ Clicar no cartão de chat ao vivo no stream permite escolher como o visitante é
 
 >[!IMPORTANT]
 >
->Para receber notificações do navegador para bate-papo ao vivo, todos os agentes de bate-papo ao vivo devem ativar as notificações do navegador para Dynamic Chat quando solicitado.
+>Para receber notificações do navegador para bate-papo ao vivo, todos os agentes de bate-papo ao vivo devem ativar as notificações do navegador para o Dynamic Chat quando solicitado.
 
 ### Ativar notificações {#enabling-notifications}
 
@@ -100,7 +100,7 @@ Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na p
 
 >[!TIP]
 >
->Você também tem a opção de configurar notificações do navegador, que o alertará caso não esteja conectado ao Dynamic Chat.
+>Você também tem a opção de configurar as notificações do navegador, que alertarão você caso não esteja conectado ao Dynamic Chat.
 >
 >* Habilitar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Habilitar notificações do navegador no [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
@@ -113,7 +113,7 @@ Quando uma ação, como uma reserva de reunião ou um chat ao vivo, falha, os us
 
 ### Itens a Observar {#things-to-note}
 
-* Os agentes têm 45 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire. Depois disso, os visitantes receberão a [mensagem de fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para assinantes do Dynamic Chat Prime que têm a opção de roteamento definida como **Equipe**, haverá mais uma tentativa antes de aparecer a mensagem de fallback.
+* Os agentes têm 100 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire. Depois disso, os visitantes receberão a [mensagem de fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para assinantes do Dynamic Chat Prime que têm a opção de roteamento definida como **Equipe**, haverá mais uma tentativa antes que a mensagem de fallback seja exibida.
 * No momento, há um limite de 10 bate-papos ao vivo por agente.
 
 >[!MORELIKETHIS]
