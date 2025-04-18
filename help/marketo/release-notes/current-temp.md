@@ -4,10 +4,10 @@ title: Notas da versão atual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 9%
+source-wordcount: '429'
+ht-degree: 7%
 
 ---
 
@@ -43,17 +43,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TÍTULO</strong>: texto.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>TÍTULO</strong>: texto.</td> 
+   <td><strong>Autoatendimento SSL</strong>: a criptografia SSL permite tornar seguras as Páginas de Aterrissagem de uma instância do Marketo Engage. A habilitação desse recurso costumava exigir a assistência da equipe de suporte da Adobe. Os usuários do Marketo agora podem ativá-lo por conta própria, economizando tempo valioso.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
