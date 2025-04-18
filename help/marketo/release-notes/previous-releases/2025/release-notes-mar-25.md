@@ -2,10 +2,11 @@
 description: Notas de versão - março de 2025 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Março de 2025
 feature: Release Information
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
+source-git-commit: 0fa36f119e26b7bc1882a2ed1f73d71e6af42c5f
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 5%
+source-wordcount: '478'
+ht-degree: 4%
 
 ---
 
@@ -53,7 +54,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   <tr> 
    <td><strong>Meus tokens globais e do Workspace</strong>: configure meus tokens no espaço de trabalho e no nível global para habilitar a produtividade aprimorada e o controle sobre a marca e o material de marketing em espaços de trabalho do Marketo Engage e até mesmo em instâncias inteiras.</td> 
    <td>Remetido</td>
-   <td>n/d</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">Criar um My Token global</a></td>
   </tr>
   </tbody> 
 </table>

@@ -4,66 +4,90 @@ description: Gerenciamento de meus tokens - Documentação do Marketo - Document
 title: Gerenciamento de meus tokens
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 2%
+source-wordcount: '212'
+ht-degree: 4%
 
 ---
 
 # Gerenciamento de meus tokens {#managing-my-tokens}
 
-O uso de tokens pode simplificar seus esforços no Marketo. Você pode usar [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (tokens personalizados) em etapas de fluxo, webhooks, emails e Landing Pages. Aqui está como fazê-los.
+O uso de tokens pode simplificar seus esforços no Marketo Engage. Você pode usar [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (tokens personalizados) em etapas de fluxo, webhooks, emails e Landing Pages. Aqui está como fazê-los.
 
 >[!TIP]
 >
 >Saiba mais sobre quais tokens já estão disponíveis em [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-## Criar um Meu token {#create-a-my-token}
+## Criar um Meu token local ou global {#create-a-my-token}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+>[!BEGINTABS]
 
-   ![](assets/login-marketing-activities.png)
+>[!TAB Meus tokens locais]
 
-1. Selecione um programa ou uma pasta de campanha. Clique em **[!UICONTROL Meus tokens]**.
+1. Em **[!UICONTROL Atividades de marketing]**, selecione o programa ou a pasta de campanha desejada e clique na guia **[!UICONTROL Meus tokens]**.
 
-   ![](assets/image2014-9-18-12-3a4-3a27.png)
+   ![](assets/create-a-local-my-token-1.png)
 
-1. Selecione um tipo de **[!UICONTROL Meu token]**. Arraste-o e solte-o na tela de desenho.
+1. Arraste o Meu token desejado para a tela.
 
-   ![](assets/image2014-9-18-12-3a4-3a39.png)
+   ![](assets/create-a-local-my-token-2.png)
 
-1. Digite um nome exclusivo. Insira um valor relevante para o token.
+1. Digite um nome exclusivo e insira um valor relevante.
 
-   ![](assets/image2014-9-18-12-3a4-3a53.png)
+   ![](assets/create-a-local-my-token-3.png)
 
 1. Clique em **[!UICONTROL Salvar]**.
 
-   ![](assets/image2014-9-18-12-3a5-3a5.png)
+   ![](assets/create-a-local-my-token-4.png)
 
-   Sim! Você fez um Meu Token.
+>[!TAB Meus Tokens Globais]
 
-   ![](assets/image2014-9-18-12-3a5-3a15.png)
+>[!NOTE]
+>
+>Permissões de administrador necessárias.
+
+1. Vá para a área **[!UICONTROL Administrador]** e selecione **[!UICONTROL Meus tokens]**.
+
+   ![](assets/create-a-global-my-token-1.png)
+
+1. Arraste o Meu token desejado para a tela.
+
+   ![](assets/create-a-global-my-token-2.png)
+
+1. Digite um nome exclusivo e insira um valor relevante.
+
+   ![](assets/create-a-global-my-token-3.png)
+
+1. Clique em **[!UICONTROL Salvar]**.
+
+   ![](assets/create-a-global-my-token-4.png)
+
+>[!ENDTABS]
 
 ## Editar meu token {#edit-a-my-token}
 
-1. Clique duas vezes no **[!UICONTROL Meu token]** e faça suas alterações. Clique em **Salvar**.
+1. Selecione o token que deseja editar e clique em **[!UICONTROL Editar token]**.
 
-   ![](assets/image2014-9-18-12-3a5-3a45.png)
+   ![](assets/edit-a-my-token-1.png)
+
+1. Faça as edições desejadas. Clique em **[!UICONTROL Salvar]** quando terminar.
+
+   ![](assets/edit-a-my-token-2.png)
 
 ## Excluir um Meu token {#delete-a-my-token}
 
 >[!CAUTION]
 >
->Ao excluir um Meu token, verifique se ele não está sendo referenciado em nenhum ativo. Um espaço em branco será exibido em qualquer lugar onde seja referenciado, se excluído.
+>Ao excluir um Meu token, certifique-se de que ele não esteja referenciado atualmente em nenhum ativo. Um espaço em branco será exibido em qualquer lugar onde seja referenciado, se excluído.
 
-1. Clique com o botão direito do mouse em **[!UICONTROL Meu token]**. Selecione **[!UICONTROL Excluir token]**.
+1. Selecione o token que deseja excluir e clique em **[!UICONTROL Excluir token]**.
 
-   ![](assets/image2014-9-18-12-3a7-3a24.png)
+   ![](assets/delete-a-my-token-1.png)
 
 1. Clique em **[!UICONTROL Excluir]**.
 
-   ![](assets/image2014-9-18-12-3a7-3a31.png)
+   ![](assets/delete-a-my-token-2.png)
 
    >[!MORELIKETHIS]
    >
