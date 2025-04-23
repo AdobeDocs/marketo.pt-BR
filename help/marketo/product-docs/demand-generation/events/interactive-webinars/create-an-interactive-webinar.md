@@ -3,9 +3,9 @@ description: Criar um webinário interativo - Documentação do Marketo - Docume
 title: Criar um webinário interativo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -42,13 +42,13 @@ Crie um Webinário interativo em algumas etapas fáceis.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
-1. Dê um título ao seu webinário. Defina o tamanho máximo do público-alvo e a duração.
+1. Dê um título ao webinário e decida quanto tempo ele durará.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
    >[!NOTE]
    >
-   >* O título do webinário é visível para os participantes quando eles se associam. É importante que o título seja diferente do nome do Programa de evento de webinários interativos na instância do Marketo Engage, bem como do nome da sala do webinário.
+   >* O título do webinário **é** visível para os participantes quando eles ingressam. É importante que o título seja diferente do nome do Programa de evento de webinários interativos na instância do Marketo Engage, bem como do nome da sala do webinário.
    >
    >* Não é possível reutilizar um título de webinário. Cada um deles deve ser exclusivo na instância do Marketo.
    >
@@ -56,7 +56,7 @@ Crie um Webinário interativo em algumas etapas fáceis.
    >
    >* Se você criar um webinário de teste, ele precisará ser excluído antes da hora de início para garantir que a licença desse webinário não seja usada.
 
-1. Agende a data/hora do seu webinário e clique em **Criar**.
+1. Agende a data/hora do seu webinário, altere o fuso horário (se desejar) e defina o tamanho máximo do público-alvo. Clique em **Criar** quando terminar.
 
    ![](assets/create-an-interactive-webinar-7.png)
 

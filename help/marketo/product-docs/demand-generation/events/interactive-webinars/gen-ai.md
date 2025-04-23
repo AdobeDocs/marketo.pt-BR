@@ -3,9 +3,9 @@ description: Recursos da GenAI - Documentação do Marketo - Documentação do p
 title: Recursos da GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Depois de aceitar os termos e condições da GenAI da Adobe, o próximo passo é
 
 1. Depois de conduzir o webinário sob demanda, aguarde de 30 a 60 minutos para que a IA processe sua gravação. O botão Gerar se tornará clicável quando estiver disponível.
 
-1. Clique em **[!UICONTROL Gerar]**.
+1. Clique em **[!UICONTROL Exibir Conteúdo GenAI]**.
 
    ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
