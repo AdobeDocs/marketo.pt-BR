@@ -21,7 +21,7 @@ Os seguintes recursos estão incluídos na versão de outubro de 2013.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) é para desenvolvedores que desejam criar integrações com o Marketo. Você pode consultar diferentes opções de integração, incluindo APIs do Munchkin JavaScript, exemplos de código da API SOAP, Webhooks e script de email. Um SDK do Java também está disponível no [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home) é para desenvolvedores que desejam criar integrações com o Marketo. Você pode consultar diferentes opções de integração, incluindo APIs do Munchkin JavaScript, exemplos de código da API SOAP, Webhooks e script de email. Um SDK do Java também está disponível no [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Atualizado o adaptador de eventos BrightTALK {#updated-brighttalk-event-adapter}
 

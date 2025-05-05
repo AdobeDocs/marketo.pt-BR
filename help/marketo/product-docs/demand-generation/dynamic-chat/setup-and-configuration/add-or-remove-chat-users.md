@@ -109,4 +109,4 @@ Se a função Marketo do usuário de bate-papo recém-adicionada ainda não tive
 >[!MORELIKETHIS]
 >
 >* [Usuários do Adobe Admin Console](https://helpx.adobe.com/br/enterprise/using/users.html){target="_blank"}
->* [Gerenciar Usuários Individualmente](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Gerenciar Usuários Individualmente](https://helpx.adobe.com/br/enterprise/using/manage-users-individually.html){target="_blank"}

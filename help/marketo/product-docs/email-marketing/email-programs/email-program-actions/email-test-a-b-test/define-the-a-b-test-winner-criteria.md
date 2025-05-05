@@ -40,7 +40,7 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
    </tr>
    <tr>
    <td><b>Pontuação de envolvimento</b></td>
-   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
+   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=pt-BR" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
    </tr>
    </table>
 

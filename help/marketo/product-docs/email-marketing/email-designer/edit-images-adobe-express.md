@@ -83,7 +83,7 @@ Há duas maneiras de acessar o editor do Adobe Express:
 
 ### Usuários com uma licença Enterprise {#users-with-an-enterprise-license}
 
-Se você tiver uma licença Enterprise para o Adobe Express, terá acesso ao editor Express completo. Você pode ajustar as configurações da imagem como cor, brilho, nitidez, contraste, tamanho e muito mais. A opção Mágica de IA permite remover planos de fundo, inserir e remover objetos e apagar partes de uma imagem. Visite o [Guia do Usuário do Adobe Express](https://helpx.adobe.com/express/user-guide.html){target="_blank"} para saber mais sobre cada configuração.
+Se você tiver uma licença Enterprise para o Adobe Express, terá acesso ao editor Express completo. Você pode ajustar as configurações da imagem como cor, brilho, nitidez, contraste, tamanho e muito mais. A opção Mágica de IA permite remover planos de fundo, inserir e remover objetos e apagar partes de uma imagem. Visite o [Guia do Usuário do Adobe Express](https://helpx.adobe.com/br/express/user-guide.html){target="_blank"} para saber mais sobre cada configuração.
 
 >[!IMPORTANT]
 >

@@ -29,7 +29,7 @@ Na primeira vez que alguém visitar uma [página de aterrissagem](/help/marketo/
 
    * Clica em um [link em um email do Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Preenche um [formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) do Marketo.
-   * Usa a [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) ou a [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API da Marketo (para desenvolvedores) para associar uma atividade anônima a um registro conhecido.
+   * Usa a [REST API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/leads) ou a [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API da Marketo (para desenvolvedores) para associar uma atividade anônima a um registro conhecido.
 
    Um nome no banco de dados pode estar vinculado a muitos cookies, pois as pessoas geralmente usam diferentes dispositivos e navegadores para visitar seu site.
 

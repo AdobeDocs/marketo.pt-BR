@@ -60,4 +60,4 @@ Você será notificado quando atingir sua cota diária. A cota é redefinida a c
 
 >[!NOTE]
 >
->Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/error-codes).

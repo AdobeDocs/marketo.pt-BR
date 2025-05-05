@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 4A {#template-4a}
 
-Clique com o botão direito do mouse para [baixar o Modelo 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+Clique com o botão direito do mouse para [baixar o Modelo 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=pt-BR)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+[Modelo 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=pt-BR)

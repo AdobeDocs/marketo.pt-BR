@@ -31,7 +31,7 @@ Três novas chamadas para a API ReST de lead e atividade:
 * Obter clientes em potencial por ID de programa
 * Obter Clientes Potenciais Excluídos
 
-Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração do lead de forma assíncrona para uma chamada de API mais rápida. Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração do lead de forma assíncrona para uma chamada de API mais rápida. Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
 
 **Suporte a objeto personalizado de script de e-mail**
 
@@ -62,6 +62,6 @@ As opções de Tag RTP em Configurações da conta foram atualizadas para inclui
 1. Tag assíncrona sem CDN
 1. Tag síncrona sem CDN
 
-Para obter o melhor desempenho, é recomendável colocar a marca na parte superior do cabeçalho da página da Web após `<head>`. Todas as marcas permitem o uso da [API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obter informações sobre como implantar a RTP Tag, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para obter o melhor desempenho, é recomendável colocar a marca na parte superior do cabeçalho da página da Web após `<head>`. Todas as marcas permitem o uso da [API RTP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obter informações sobre como implantar a RTP Tag, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

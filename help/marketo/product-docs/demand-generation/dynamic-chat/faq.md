@@ -24,7 +24,7 @@ O trecho Dynamic Chat JavaScript pode ser instalado em qualquer site, bem como n
 
 **Por quanto tempo os dados são armazenados para relatórios?**
 
-90 dias. Para obter uma lista completa de limites/parâmetros, visite a Marketo Engage [página Descrição do produto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 dias. Para obter uma lista completa de limites/parâmetros, visite a Marketo Engage [página Descrição do produto](https://helpx.adobe.com/br/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
 **O Dynamic Chat suporta outros idiomas além do inglês?**
 

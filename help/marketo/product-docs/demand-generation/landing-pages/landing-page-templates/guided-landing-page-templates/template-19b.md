@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 19B {#template-19b}
 
-Clique com o botão direito para [baixar o Modelo 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+Clique com o botão direito para [baixar o Modelo 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=pt-BR)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
+[Modelo 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=pt-BR)

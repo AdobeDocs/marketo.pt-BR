@@ -36,7 +36,7 @@ Para sincronizar com aplicativos Adobe, como Audience Manager, o conector B2B CD
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Insira sua ID organizacional IMS da Adobe (saiba como localizar [aqui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) e clique em **[!UICONTROL OK]**.
+1. Insira sua ID organizacional IMS da Adobe (saiba como localizar [aqui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=pt-BR){target="_blank"}) e clique em **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

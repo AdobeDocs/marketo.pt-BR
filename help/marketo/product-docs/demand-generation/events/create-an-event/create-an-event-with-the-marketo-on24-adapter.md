@@ -22,7 +22,7 @@ Familiarize-se com os blocos de construção e a sequência recomendada para cri
 
 >[!NOTE]
 >
->Consulte a [documentação da API do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} para obter mais informações sobre APIs do Marketo.
+>Consulte a [documentação da API do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} para obter mais informações sobre APIs do Marketo.
 
 ## Pré-requisitos {#prerequisites}
 

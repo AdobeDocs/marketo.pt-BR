@@ -28,7 +28,7 @@ Você pode enviar solicitações individuais para acessar e excluir dados do con
 * Por meio da [interface do Privacy Service](https://privacyui.cloud.adobe.io/). Consulte a documentação [aqui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=pt-BR){target="_blank"}.
 * Por meio da API de Privacy Service. Consulte a documentação [aqui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} e as informações sobre a API [aqui](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-O [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} dá suporte a dois tipos de solicitações: acesso e exclusão de dados.
+O [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR){target="_blank"} dá suporte a dois tipos de solicitações: acesso e exclusão de dados.
 
 Saiba como criar solicitações de Acesso e Exclusão.
 

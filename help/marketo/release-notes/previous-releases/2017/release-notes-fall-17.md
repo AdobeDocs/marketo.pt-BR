@@ -86,10 +86,10 @@ Economize tempo reutilizando ativos criativos e imagens em vários canais no Mar
 
 ## Integração  {#integration}
 
-**[API de Visualização de Email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[API de Visualização de Email](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting)**
 
 Agora você pode visualizar remotamente emails fora do Marketo, simplificando o processo de localização de conteúdo de email e reduzindo erros.
 
-**[Substituir API de HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[Substituir API de HTML](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting)**
 
 Os desenvolvedores podem atualizar o conteúdo de HTML dos ativos de email remotamente, permitindo que trabalhem em um único sistema para manter os ativos.

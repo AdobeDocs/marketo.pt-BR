@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 17-D {#template-17d}
 
-Clique com o botão direito do mouse para [baixar o Modelo 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
+Clique com o botão direito do mouse para [baixar o Modelo 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html?lang=pt-BR)
 
 ![](assets/image2015-8-17-17-3a22-3a19.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
+[Modelo 17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html?lang=pt-BR)

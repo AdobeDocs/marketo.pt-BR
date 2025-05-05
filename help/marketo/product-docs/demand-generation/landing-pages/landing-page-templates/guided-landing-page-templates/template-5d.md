@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 5D {#template-5d}
 
-Clique com o botão direito do mouse para [baixar Modelo 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+Clique com o botão direito do mouse para [baixar Modelo 5D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=pt-BR)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+[Modelo 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=pt-BR)

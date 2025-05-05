@@ -97,9 +97,9 @@ Quando uma grande quantidade de atualizações é feita (como a partir de uma al
 
 **Campos Atualizados com Frequência**: alguns campos estão sujeitos a atualizações frequentes. Por exemplo, campos de moeda que estão sujeitos a alterações de moeda. Verifique se eles precisam ser sincronizados ou se os campos devem ser criados de forma diferente. Se você tiver outros campos que são atualizados com frequência e não são necessários, oculte-os do usuário de sincronização. Certifique-se de discutir com suas integrações de administrador do SFDC que podem estar atualizando campos.
 
-**Objetos personalizados**: revise periodicamente [objetos personalizados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar e desabilitar aqueles que não precisam mais ser sincronizados.
+**Objetos personalizados**: revise periodicamente [objetos personalizados](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar e desabilitar aqueles que não precisam mais ser sincronizados.
 
-**Atividades**: [Verifique se alguma atividade](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitou a sincronização que pode ser removida da sincronização.  Essas atividades só são sincronizadas uma vez por dia por lead.
+**Atividades**: [Verifique se alguma atividade](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitou a sincronização que pode ser removida da sincronização.  Essas atividades só são sincronizadas uma vez por dia por lead.
 
 **Revisar erros de sincronização**: a manipulação de exceções pode retardar a sincronização. A revisão das notificações do usuário e a resolução de erros podem melhorar a integridade da sincronização.
 

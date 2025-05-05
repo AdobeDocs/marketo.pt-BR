@@ -49,13 +49,13 @@ Para usar esse recurso, o programa de email deve ser agendado com pelo menos 12 
 
 ## [Melhorias do Mobile Marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Suporte para PhoneGap:** agora oferecemos suporte para PhoneGap para seu aplicativo móvel. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**Suporte para PhoneGap:** agora oferecemos suporte para PhoneGap para seu aplicativo móvel. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Suporte para aplicativos de sandbox**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API do programa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [API do programa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 Crie, atualize e clone programas por meio da REST API. Isso não inclui a criação ou a atualização de smart lists e campanhas inteligentes em um programa.
 

@@ -261,7 +261,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr> 
   <tr> 
    <td colspan="1"><strong>Documentação</strong></td> 
-   <td colspan="1">Abreviação de documentos, os documentos são artigos de ajuda para que os clientes compreendam melhor o produto. O Marketo tem vários tipos diferentes de documentos: Documentos do produto (o site em que você está no momento), documentos do <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Desenvolvedor</a> e documentos do <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Suporte</a>.</td> 
+   <td colspan="1">Abreviação de documentos, os documentos são artigos de ajuda para que os clientes compreendam melhor o produto. O Marketo tem vários tipos diferentes de documentos: Documentos do produto (o site em que você está no momento), documentos do <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home" rel="nofollow">Desenvolvedor</a> e documentos do <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Suporte</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Autenticação de mensagens baseadas em domínio, Relatórios e conformidade (DMARC)</strong></td> 

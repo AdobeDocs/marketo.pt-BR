@@ -104,7 +104,7 @@ Exibir dados de análises de conteúdo e recomendações offline.
 
 As APIs de ativos pré-existentes, antes compatíveis apenas com emails e modelos v1.0, agora estão habilitadas para ativos de email v2.0.
 
-## [Site de desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Site de desenvolvedores do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Novidades e melhorias!
 

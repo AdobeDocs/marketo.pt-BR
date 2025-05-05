@@ -26,7 +26,7 @@ Siga as etapas abaixo para saber como adicionar hiperlinks aos seus modelos de e
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Escolha se deseja que a URL seja aberta na mesma janela ou em uma nova janela e clique em **Salvar**.
+1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR`). Escolha se deseja que a URL seja aberta na mesma janela ou em uma nova janela e clique em **Salvar**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

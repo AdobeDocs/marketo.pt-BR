@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 2A {#template-2a}
 
-Clique com o botão direito para [baixar o Modelo 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+Clique com o botão direito para [baixar o Modelo 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=pt-BR)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+[Modelo 2A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html?lang=pt-BR)

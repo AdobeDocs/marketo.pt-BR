@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 12E {#template-12e}
 
-Clique com o botão direito para [baixar o Modelo 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+Clique com o botão direito para [baixar o Modelo 12E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=pt-BR)
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+[Modelo 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=pt-BR)

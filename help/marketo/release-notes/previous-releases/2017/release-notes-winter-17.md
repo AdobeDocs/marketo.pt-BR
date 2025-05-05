@@ -81,7 +81,7 @@ Há uma experiência de edição e um layout aprimorados que dividem a preparaç
 
 O URL da imagem e os metadados agora são usados no processo de descoberta automática de conteúdo.
 
-## [Aprimoramentos do SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [Aprimoramentos do SDK](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Os desenvolvedores agora têm controle adicional sobre a entrega de notificações por push com a adição de uma nova chamada de API do SDK que permite aos desenvolvedores remover tokens de push.
 

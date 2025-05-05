@@ -12,7 +12,7 @@ ht-degree: 8%
 
 # Dados da API de exportação em massa {#bulk-export-api-information}
 
-Saiba como verificar quanto a capacidade da [API de extração em massa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} foi ocupada pela instância do Marketo Engage nos últimos sete dias.
+Saiba como verificar quanto a capacidade da [API de extração em massa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} foi ocupada pela instância do Marketo Engage nos últimos sete dias.
 
 >[!NOTE]
 >

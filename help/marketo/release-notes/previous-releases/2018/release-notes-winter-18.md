@@ -87,7 +87,7 @@ O conteúdo recomendado por meio dos algoritmos otimizados de IA de conteúdo do
 
 ## Integração {#integration}
 
-**[Ativar/desativar API do Campaign](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Ativar/desativar API do Campaign](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Essa nova API permite ativar e desativar remotamente campanhas de acionador para que você possa criar modelos de programa totalmente automatizados. Crie um modelo de programa uma vez, depois automatize a clonagem, as atualizações de material de apoio de marketing e agora a ativação/programação de campanhas inteligentes.
 

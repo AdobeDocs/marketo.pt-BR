@@ -157,7 +157,7 @@ Organize corretamente a seção de Atividades de marketing para ajudar outras pe
   </tr>
   <tr> 
    <td>Central de Assinaturas/Preferências</td> 
-   <td><li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Central de Assinaturas/Preferências</a> configurada? Está funcionando como deveria?</li></td>
+   <td><li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=pt-BR" target="_blank">Central de Assinaturas/Preferências</a> configurada? Está funcionando como deveria?</li></td>
   </tr>
   <tr> 
    <td>Momentos interessantes (se aplicável)</td> 
