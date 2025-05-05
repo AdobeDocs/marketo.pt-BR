@@ -43,6 +43,7 @@ O Google Universal Analytics com dados da RTP fornece uma melhor compreensão de
    1. Selecione a **Conta.**
    1. Selecione a **Propriedade.**
    1. Selecione **Definições personalizadas** e **Dimension personalizados**.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Adicione uma nova dimensão personalizada. Clique em **+Novo Dimension personalizado**

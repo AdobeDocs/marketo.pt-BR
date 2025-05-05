@@ -22,7 +22,7 @@ Há três tipos de campos dinâmicos em Ações do Sales Insight: Básico, Perso
 
 Campos do Salesforce: ex.: `{{sfdc_account_name}}`
 
-* Verifique se ele está conectado corretamente às Ações do Sales Insight. Vá para a página [Configurações](https://toutapp.com/login{target="_blank"} e clique em **Gerenciar** ao lado do seu CRM.
+* Verifique se ele está conectado corretamente às Ações do Sales Insight. Vá para a página [Configurações] (https://toutapp.com/login{target="_blank"} e clique em **Gerenciar** ao lado do seu CRM.
 
 **Solução de problemas de campos básicos e personalizados**
 

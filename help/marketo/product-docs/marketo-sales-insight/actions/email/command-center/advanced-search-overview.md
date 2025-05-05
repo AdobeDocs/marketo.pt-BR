@@ -83,13 +83,13 @@ Há três status de email para escolher. As opções de tipo/atividade mudam com
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Status: Enviado**_
+_&#x200B;**Status: Enviado**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtros de acordo com a atividade de email enviada. Você pode escolher exibições/sem exibições, cliques/sem cliques e/ou respostas/sem respostas.
 
-_**Status: Pendente**_
+_&#x200B;**Status: Pendente**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra por todos os emails pendentes.
  </tr>
 </table>
 
-_**Status: não entregue**_
+_&#x200B;**Status: não entregue**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

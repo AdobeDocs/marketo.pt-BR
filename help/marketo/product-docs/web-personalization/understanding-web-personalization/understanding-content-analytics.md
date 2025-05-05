@@ -86,7 +86,7 @@ As análises de conteúdo adicionais incluem:
 
 * **Exibições**: exibições desse conteúdo para o escopo de tempo selecionado
 * **Conversões diretas**: visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita.
-* **Taxa de Conversão****:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas dividida por Cliques
+* **Taxa de Conversão**&#x200B;**:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas dividida por Cliques
 
 **Tendências**
 

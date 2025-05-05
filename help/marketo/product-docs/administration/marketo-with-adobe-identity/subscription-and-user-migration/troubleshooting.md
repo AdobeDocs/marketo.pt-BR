@@ -34,7 +34,7 @@ Use a seção &quot;Nesta página&quot; à direita para ir diretamente para um e
 
 _Se for necessário migrar o usuário_ - O endereço de email deve ser atualizado no Marketo Engage para estar em conformidade com a política de segurança da Adobe e verificado novamente. Administrador do Marketo para executar novamente a migração de usuário para este usuário no Console de migração.
 
-_Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
+_Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
 
 ### Usuário não está no diretório {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage
 
 _Se o usuário precisar ser migrado_ - O usuário deve ser adicionado ao Ative Diretory com as permissões adequadas por um administrador do sistema. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
-_Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
+_Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
 
 ### Usuário inativo {#inactive-user}
 
@@ -54,7 +54,7 @@ _Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage
 
 _Se for necessário migrar o usuário_ - O status do usuário e as permissões adequadas devem ser restaurados por um administrador do sistema. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
-_Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
+_Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
 
 ### Domínio inválido {#invalid-domain}
 
@@ -66,7 +66,7 @@ _Se for necessário migrar o usuário_ (e a imposição de domínio estiver habi
 
 _Se for necessário migrar o usuário_ (e a imposição de domínio estiver habilitada em outra organização), um administrador do sistema da organização em que o domínio foi reivindicado precisa adicionar o endereço de email do usuário à lista de exceções. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
-_Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
+_Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
 
 ### Falha na criação do usuário {#user-creation-failed}
 

@@ -147,6 +147,7 @@ Agora, nossa Equipe de marketing está usando a plataforma Marketo para se comun
 `3)` Incluir na lista de permissões Marketo.
 
     * Se usarmos Endereços IP em nossa Inclui na lista de permissões por Email, adicione os IPs listados abaixo:
+
     199.15.212.0/22
     
     192.28.144.0/20

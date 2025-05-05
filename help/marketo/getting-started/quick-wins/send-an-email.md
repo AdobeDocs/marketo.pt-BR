@@ -137,6 +137,6 @@ Você deve receber o email logo após o dia/hora agendados.
 
 <br> 
 
-[} Configuração e Adição de uma Pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[&rbrace; Configuração e Adição de uma Pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 [Missão 2: Página de aterrissagem com formulário ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

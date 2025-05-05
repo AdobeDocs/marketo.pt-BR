@@ -45,11 +45,11 @@ Você pode facilmente testar seus emails A/B. Um grande teste é o teste **Todo 
 
 1. Selecione o segundo email.
 
-   [](assets/image2014-9-12-15-3a23-3a49.png)
+   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Clique em **Adicionar** para aplicar o segundo email. Arraste o controle deslizante para escolher qual porcentagem do público-alvo você deseja receber o teste A/B e clique em **Avançar**.
 
-   [](assets/image2014-9-12-15-3a24-3a1.png)
+   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

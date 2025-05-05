@@ -52,9 +52,9 @@ O Content Recommendation Engine usa análises preditivas e algoritmos de aprendi
    >* O URL de exibição deve ser o caminho do domínio
    >* Não inclua https:// ou https://
    >* Usar &#42; para curingas
-   * Usar ponto e vírgula como separador
-   * Exemplo: /contact_us&#42;; &#42;action=logout&#42;
-   * Este campo diferencia maiúsculas de minúsculas
+   >* Usar ponto e vírgula como separador
+   >* Exemplo: /contact_us&#42;; &#42;action=logout&#42;
+   >* Este campo diferencia maiúsculas de minúsculas
 
 ## Considerações sobre a Barra de Recomendações {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ O Content Recommendation Engine usa análises preditivas e algoritmos de aprendi
 
 >[!MORELIKETHIS]
 >
-[Habilitar Conteúdo Preditivo para Mídia Avançada na Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Habilitar Conteúdo Preditivo para Mídia Avançada na Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

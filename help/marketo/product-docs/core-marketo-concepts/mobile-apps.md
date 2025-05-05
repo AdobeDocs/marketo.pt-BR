@@ -12,4 +12,4 @@ ht-degree: 10%
 
 # Aplicativos móveis {#mobile-apps}
 
-** ![Check-in do Evento](assets/mobile-checkin-icon.png)Check-in do Evento** [Os clientes do Check-in do Evento acessam seus eventos de um tablet.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Momentos do Marketo](assets/moments-icon.png)Momentos do Marketo** [Momentos do Marketo Veja o que é importante, quando é importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**&#x200B; ![Check-in do Evento](assets/mobile-checkin-icon.png)Check-in do Evento** [Os clientes do Check-in do Evento acessam seus eventos de um tablet.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **&#x200B; ![Momentos do Marketo](assets/moments-icon.png)Momentos do Marketo** [Momentos do Marketo Veja o que é importante, quando é importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
