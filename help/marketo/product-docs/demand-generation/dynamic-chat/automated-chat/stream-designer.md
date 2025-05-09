@@ -3,9 +3,9 @@ description: Stream Designer - Documentação do Marketo - Documentação do pro
 title: Designer de fluxo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1199'
 ht-degree: 2%
 
 ---
@@ -141,15 +141,15 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
 
    ![](assets/stream-designer-10.png)
 
-1. Na coluna à direita, clique em **[!UICONTROL Salvar]**.
+1. Escolha sua opção de roteamento e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Como essa é uma meta, arraste o cartão [!UICONTROL Meta] abaixo do Agendador de Compromissos.
+1. Como essa é uma meta, arraste o cartão _[!UICONTROL Meta]_ abaixo da reserva da Reunião.
 
    ![](assets/stream-designer-12.png)
 
-1. Nomeie sua meta (ou escolha uma existente) e clique em **[!UICONTROL Salvar]**.
+1. Nomeie sua meta (ou escolha uma existente) e clique em **[!UICONTROL Salvar]**. Atribuir uma pontuação de conversa é opcional.
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
    >
    >Você pode adicionar mais respostas clicando em **[!UICONTROL Adicionar resposta]**.
 
-1. Abaixo da resposta &quot;Sim&quot;, arraste o cartão Captura de informações para poder coletar o email do visitante.
+1. Abaixo da resposta &quot;Sim&quot;, arraste o cartão _Captura de Informações_ para poder coletar o email do visitante.
 
    ![](assets/stream-designer-16.png)
 
-1. Clique no menu suspenso **[!UICONTROL Tipo]** e selecione **[!UICONTROL Email]**.
+1. Clique na lista suspensa e selecione **[!UICONTROL Endereço de email]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Insira uma mensagem de chatbot e um espaço reservado. Verifique se o atributo está mapeado para o campo apropriado no Marketo Engage e clique em **[!UICONTROL Salvar]**.
+1. Insira uma mensagem de chatbot e um espaço reservado. Se já houver um valor para esse atributo no banco de dados, escolha se deseja ignorar ou fazer com que esses dados o substituam. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>Tipo</strong></td>
-     <td>O tipo de informação que você deseja capturar: Telefone, Texto, Email.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Mensagem do chatbot</strong></td>
-     <td>A mensagem que o visitante vê solicitando que forneça as informações.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Espaço reservado</strong></td>
-     <td>Texto de amostra que ajuda o visitante a ver o que inserir.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Mapear resposta ao atributo</strong></td>
-     <td>Permite sincronizar a resposta do visitante ao campo correspondente no registro Person na sua assinatura do Marketo Engage.</td>
-    </tr>
-   </table>
-
-1. Como coletar seus emails é uma meta, arraste o cartão [!UICONTROL Meta] abaixo da Captura de Informações.
+1. Como coletar seus emails é uma meta, arraste o cartão _[!UICONTROL Meta]_ abaixo da Captura de Informações.
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
 
    ![](assets/stream-designer-22.png)
 
-1. Selecione o botão **[!UICONTROL Visualizar]** para visualizar sua caixa de diálogo.
-
-   ![](assets/stream-designer-23.png)
-
 1. Quando estiver pronto para ativar sua Caixa de Diálogo, clique em **[!UICONTROL Publicar]**.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
