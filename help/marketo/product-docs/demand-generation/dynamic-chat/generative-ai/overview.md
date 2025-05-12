@@ -1,16 +1,16 @@
 ---
 description: Visão geral da IA gerativa - Documentação do Marketo - Documentação do produto
-title: Visão geral da IA gerativa
+title: IA gerativa no Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
 
-# Visão geral da IA gerativa {#generative-ai-overview}
+# IA gerativa no Dynamic Chat {#generative-ai-overview}
 
 Os recursos alimentados por IA gerativa no Adobe Dynamic Chat permitem otimizar a produtividade de seus agentes de vendas, obter insights sobre a intenção de visitante do site e responder às perguntas do visitante de maneira segura.
 
@@ -28,7 +28,7 @@ Crie uma mensagem para o visitante para quando ele atingir um determinado ponto 
 
 ## Sumário da conversa {#conversation-summary}
 
-Normalmente, para obter o contexto completo de uma conversa de visitante, é necessário percorrer toda a transcrição do chat. O Resumo da conversa gera um resumo para você em tempo real e inclui tópicos nos quais o visitante expressou interesse. Isso é particularmente útil para agentes de bate-papo que precisam de um contexto rápido de uma conversa quando estão alternando entre bate-papos com vários visitantes. Além de estarem visíveis na tela de bate-papo da Caixa de entrada do agente, os Resumos de conversas concluídos também podem ser encontrados no registro de atividades do Registro de pessoa do visitante no Banco de dados do Marketo Engage.
+Normalmente, para obter o contexto completo de uma conversa de visitante, é necessário percorrer toda a transcrição do chat. O Resumo da conversa gera um resumo para você em tempo real e inclui tópicos nos quais o visitante expressou interesse. Isso é particularmente útil para agentes de bate-papo que precisam de um contexto rápido de uma conversa quando estão alternando entre bate-papos com vários visitantes. Além de estarem visíveis na tela de bate-papo da Caixa de entrada do agente, os Resumos de conversas concluídos também podem ser encontrados no registro de atividades do Registro de pessoa do visitante no banco de dados do Marketo Engage.
 
 ![](assets/generative-ai-overview-3.png)
 
@@ -64,7 +64,7 @@ Normalmente, para obter o contexto completo de uma conversa de visitante, é nec
 
 ## Tópicos discutidos {#discussed-topics}
 
-Os Tópicos discutidos estão disponíveis em Acionadores e filtros de Smart List como uma restrição, permitindo que você se aprofunde ainda mais nos seus insights de Dynamic Chat.
+Os Tópicos discutidos estão disponíveis em Acionadores e filtros de Smart List como uma restrição, permitindo que você se aprofunde ainda mais nos insights do Dynamic Chat.
 
 ![](assets/generative-ai-overview-9.png)
 
@@ -74,9 +74,9 @@ Os Tópicos discutidos estão disponíveis em Acionadores e filtros de Smart Lis
 
 ## Perguntas frequentes {#faq}
 
-**A IA gerativa está disponível para todos os usuários Dynamic Chat?**
+**A IA gerativa está disponível para todos os usuários do Dynamic Chat?**
 
-A IA gerativa só está disponível para assinantes do Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+A IA gerativa só está disponível para assinantes do Dynamic Chat Prime. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 **Há um limite para a quantidade de perguntas e respostas que eu posso ter gerado?**
 
