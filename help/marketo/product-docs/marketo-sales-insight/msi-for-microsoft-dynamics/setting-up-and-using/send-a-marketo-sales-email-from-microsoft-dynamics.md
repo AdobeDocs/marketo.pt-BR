@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953338
-description: Enviar um email de vendas do Marketo pelo Microsoft Dynamics - Documentação do Marketo - Documentação do produto
-title: Enviar um email de vendas do Marketo do Microsoft Dynamics
+description: Envie um email de vendas do Marketo pela Microsoft Dynamics - Documentação do Marketo - Documentação do produto
+title: Envie um email de vendas do Marketo pela Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
+source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 1%
 
 ---
 
-# Enviar um email de vendas do Marketo do Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Envie um email de vendas do Marketo pela Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
 Sua equipe de vendas pode enviar emails e rastreá-los para aberturas e cliques diretamente do Microsoft Dynamics. Veja como.
 
@@ -45,10 +45,10 @@ Sua equipe de vendas pode enviar emails e rastreá-los para aberturas e cliques 
 
    >[!NOTE]
    >
-   >Você pode enviar até 2000 emails do Marketo de cada vez.
+   >Você pode enviar até 300 emails do Marketo de cada vez.
 
 Muito bem! Agora você sabe como enviar emails rastreados do Marketo diretamente do Microsoft Dynamics.
 
 >[!MORELIKETHIS]
 >
->[Adicionar um Cliente Potencial/Contato a uma Campanha do Marketo no Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[Adicionar um Cliente Potencial/Contato a uma Campanha do Marketo a partir do Microsoft Dynamics](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
