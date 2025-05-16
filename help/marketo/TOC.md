@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9261'
 ht-degree: 6%
 
 ---
@@ -964,7 +964,6 @@ ht-degree: 6%
             + [Adicionar um snippet a uma landing page](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Adicionar outros CNAMEs de página inicial](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Adicionar SSL às suas landing pages](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
-            + [Adicionar DOCUMENTO TEMP SSL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [Adicionar texto e tokens a uma página inicial](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [Ativar URLs personalizados para uma página inicial](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [Ativar URLs personalizados para sua conta](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -980,7 +979,7 @@ ht-degree: 6%
             + [Usar uma lista do Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Usar acionadores e filtros de formulário da geração de clientes potenciais do LinkedIn em uma campanha inteligente](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + Marketing por e-mail {#email-marketing}
-      + Estratégia e definição {#deliverability}
+      + Capacidade de entrega {#deliverability}
          + [Cancelamento de assinatura durável](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Power Pack de capacidade de entrega de email: como importar uma lista de seeds](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Rejeições permanentes e temporárias no email](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1082,7 +1081,7 @@ ht-degree: 6%
          + Novo Designer de email do Beta {#beta-new-email-designer}
             + [Visão geral do novo designer de email (beta)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
             + [Criação de email](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
-            + [Modelos de e-mail](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
+            + [Modelos de email](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + Criação de um email {#creating-an-email}
             + [Aprovar um email](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Criar um email somente texto](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
