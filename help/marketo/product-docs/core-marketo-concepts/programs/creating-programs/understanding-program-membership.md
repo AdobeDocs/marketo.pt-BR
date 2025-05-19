@@ -4,18 +4,14 @@ description: Noções básicas sobre a associação ao programa - Documentação
 title: Noções básicas sobre a associação ao programa
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
 # Noções básicas sobre a associação ao programa {#understanding-program-membership}
-
->[!NOTE]
->
->O Marketo está padronizando o idioma em todas as assinaturas, portanto, você pode ver clientes em potencial/leads em sua assinatura e pessoas/pessoas em nossos documentos. Estes termos significam a mesma coisa; não afeta as instruções do artigo. Há outras mudanças também. [Saiba mais](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -25,16 +21,16 @@ ht-degree: 0%
 
 1. Uma pessoa preenche um [formulário em uma página de aterrissagem](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} no programa.
 
-   1. A pessoa terá automaticamente o primeiro status na progressão.
+   * A pessoa terá automaticamente o primeiro status na progressão.
 
 1. Você [importa membros para o programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} de um arquivo CSV.
 
-   1. A pessoa terá automaticamente o primeiro status na progressão.
+   * A pessoa terá automaticamente o primeiro status na progressão.
 
 1. Você usa a etapa de fluxo [alterar status do programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}.
 1. Uma pessoa registra ou participa de um [webinário sincronizado com um programa de evento](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
 1. Uma pessoa foi [criada usando o aplicativo de check-in Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. Uma pessoa é adicionada a uma Campanha SFDC, que está [sincronizada com o programa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
+1. Uma pessoa é adicionada a uma Campanha do SFDC, que está [sincronizada com o programa](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
