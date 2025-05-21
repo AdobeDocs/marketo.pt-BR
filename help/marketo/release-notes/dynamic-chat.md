@@ -3,9 +3,9 @@ description: Notas de versão do Dynamic Chat - Documentação do Marketo - Docu
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '2427'
+source-wordcount: '2571'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,25 @@ ht-degree: 2%
 
 As versões do Adobe Dynamic Chat operam em um modelo de entrega contínua que permite uma abordagem mais escalável para a implantação de recursos. Às vezes, há várias versões em um mês, portanto, verifique regularmente para obter as informações mais atualizadas.
 
-A página de Notas de versão padrão do Marketo Engage [pode ser encontrada aqui](/help/marketo/release-notes/current.md){target="_blank"}.
+A página de Notas de Versão padrão do Marketo Engage [pode ser encontrada aqui](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Versão de abril/maio de 2025 {#apr-may-25-release}
+
+### Som de Notificação de Mensagem {#message-notification-sound}
+
+Agora há a opção de ativar um som para o visitante sempre que o chatbot for acionado em uma sessão. Há vários sons para escolher.
+
+### Habilitar mensagens por push em dispositivos móveis {#enable-poke-messages-on-mobile}
+
+O &quot;Poke&quot;, que exibe a pergunta de abertura ao lado do ícone de chat sem que o visitante precise clicar nele para vê-lo, agora é uma opção para ser habilitada para visitantes que usam um dispositivo móvel.
+
+### Atualização de fallback padrão {#default-fallback-update}
+
+Para quaisquer regras/equipes personalizadas como um cartão de Bate-papo ao vivo, se nenhum agente estiver disponível (ou se o bate-papo não puder se conectar), ele recorrerá ao Round Robin para os agentes disponíveis (todos que estiverem disponíveis nesse momento, independentemente de qual lógica/regra de roteamento foi colocada no fluxo).
+
+### Integração com Demandbase {#demandbase-integration}
+
+Os usuários do Demandbase podem usar atributos de pessoa do Demandbase para direcionamento de diálogo, identidade visual condicional e roteamento personalizado no Dynamic Chat.
 
 ## Versão de setembro/outubro de 2024 {#sep-oct-release}
 
@@ -38,7 +56,7 @@ Vários aprimoramentos foram feitos no Painel do Analytics, incluindo:
 
 ### Pontuação de conversa {#conversation-scoring}
 
-Quantifique seus leads com base na qualidade da interação de chat e use essa métrica como um Acionador/Filtro em Campanhas inteligentes do Marketo Engage. Use o novo atributo _pontuação da conversa_ nas seguintes atividades:
+Quantifique seus leads com base na qualidade da interação de chat e use essa métrica como um Acionador/Filtro nas Campanhas inteligentes da Marketo Engage. Use o novo atributo _pontuação da conversa_ nas seguintes atividades:
 
 * Engajado com um diálogo
 * Envolvido com um fluxo de conversa
@@ -122,7 +140,7 @@ Assim, quando um visitante com cookie abc chega em uma página e fornece uma ID 
 
 ### Opção para herdar fonte {#option-to-inherit-font}
 
-Agora você pode ativar o chatbot para herdar diretamente a fonte da página da Web em que está sendo hospedada, em vez de gerenciar a fonte da marca no Dynamic Chat. Ao habilitar essa opção, o chatbot utiliza a fonte definida na tag `<body>` da página.
+Agora você pode ativar o chatbot para herdar diretamente a fonte da página da Web em que ele está sendo hospedado, em vez de gerenciar a fonte da marca no Dynamic Chat. Ao habilitar essa opção, o chatbot utiliza a fonte definida na tag `<body>` da página.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
@@ -150,7 +168,7 @@ Para melhorar a experiência do usuário, um carregador de brilho agora é exibi
 
 ### Formatar suas mensagens de conversa de maneira personalizada {#custom-format-conversation-messages}
 
-Os designers de fluxo agora oferecem suporte a [inserir HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} para personalizar a aparência das suas conversas.
+Os designers de fluxo agora oferecem suporte à [inserção de HTML](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} para personalizar a aparência das suas conversas.
 
 ![](assets/dynamic-chat-aug-2024-release-1.png)
 
@@ -182,11 +200,11 @@ Durante uma conversa com um cliente potencial anônimo e uma ID de email é forn
 
 ### Sincronização de clientes em potencial sem cookies do Marketo Engage {#syncing-leads-without-cookies}
 
-Anteriormente, quando a sincronização de Marketo Engage era ativada, o Dynamic Chat só sincronizava leads conhecidos com uma ou mais IDs de cookie do Marketo Engage. Agora, todos os leads conhecidos (ID de cookie presente ou não) serão sincronizados no Dynamic Chat e poderão ser usados para a personalização de conversas.
+Anteriormente, quando a sincronização do Marketo Engage era ativada, o Dynamic Chat só sincronizava leads conhecidos com uma ou mais IDs de cookie da Marketo Engage. Agora, todos os leads conhecidos (ID de cookie presente ou não) serão sincronizados no Dynamic Chat e poderão ser usados para a personalização de conversas.
 
 ### Envio de dados adicionais do visitante para Fluxos de conversa {#pass-additional-visitor-data}
 
-Se você estiver capturando informações do visitante por outros canais, como formulários ou logon, agora é possível passar essas informações diretamente para o Dynamic Chat.
+Se você estiver capturando informações do visitante por outros canais, como formulários ou logon, agora é possível passar essas informações diretamente para a Dynamic Chat.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -260,7 +278,7 @@ Ajude os agentes de vendas a responder com precisão durante conversas ao vivo u
 
 ### Chamadas de atenção da conversa {#conversation-nudges}
 
-Oriente os visitantes da Web com uma frase de chamariz para conduzir as conversas até a conclusão.
+Oriente os visitantes da Web com uma call-to-action para que conduzam as conversas até a conclusão.
 
 <p>
 
@@ -270,23 +288,23 @@ Oriente os visitantes da Web com uma frase de chamariz para conduzir as conversa
 
 ### Fluxos de conversa agora disponíveis para todos os usuários {#conversational-flows-available-to-all-users}
 
-Torne seus formulários e páginas de aterrissagem mais conversacionais e reduza o funil de vendas, permitindo que clientes potenciais qualificados agendem uma reunião ou conversem com o setor de Vendas imediatamente após o envio de um formulário com o Conversational Forms, agora totalmente disponível&#42; para todos os usuários do Dynamic Chat.
+Torne seus formulários e páginas de aterrissagem mais conversacionais e reduza o funil de vendas, permitindo que os clientes potenciais qualificados agendem uma reunião ou um chat com o setor de Vendas imediatamente após o envio de um formulário com o Conversational Forms, agora totalmente disponível&#42; para todos os usuários do Dynamic Chat.
 
 _&#42;Disponível anteriormente como um recurso de avaliação com 100 contratos vitalícios. Os envolvimentos de Fluxo de Conversa agora contarão para o limite mensal de 250 conversas engajadas para usuários no pacote Select._
 
 ### Funções de retorno de chamada {#callback-functions}
 
-[As ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} funções de retorno de chamada permitem coletar eventos de análise de Dynamic Chat em sistemas externos, como Adobe Analytics ou Google Analytics, conforme os visitantes participam de conversas de Dynamic Chat. Ative os eventos do Dynamic Chat Analytics registrando um retorno de chamada com a API para ouvir os eventos. Isso permite ter uma visão mais holística do engajamento do Dynamic Chat, pois ele se relaciona a outros dados importantes, como o tráfego da Web.
+[As ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} funções de retorno de chamada permitem coletar eventos do Dynamic Chat Analytics em sistemas externos, como Adobe Analytics ou Google Analytics, conforme os visitantes participam de conversas do Dynamic Chat. Ative os eventos do Dynamic Chat Analytics registrando um retorno de chamada com a API para ouvir os eventos. Isso permite ter uma visão mais holística do envolvimento do Dynamic Chat, pois ele se relaciona a outros dados importantes, como o tráfego da Web.
 
 ### Condições de disponibilidade do agente ativo adicionadas à ramificação condicional {#live-agent-availability-conditional-branching}
 
-Além dos campos de Marketo Engage nativos e personalizados, agora é possível usar a ramificação condicional para criar ramificações com base na disponibilidade do agente. Isso é útil se você só quiser oferecer aos visitantes a opção de falar com um agente ativo quando houver agentes ativos disponíveis.
+Além dos campos nativos e personalizados do Marketo Engage, agora você pode usar a ramificação condicional para criar ramificações com base na disponibilidade do agente. Isso é útil se você só quiser oferecer aos visitantes a opção de falar com um agente ativo quando houver agentes ativos disponíveis.
 
 ![](assets/dynamic-chat-release-1.png)
 
 ### Condição de lista inteligente adicionada à ramificação condicional {#smart-list-condition}
 
-Com a adição da nova condição de lista inteligente de Marketo Engage na ramificação condicional, você pode criar ramificações com base em públicos pré-existentes que já foram criados no Marketo Engage em vez de definir condições de ramificação de público no Dynamic Chat.
+Com a adição da nova condição Smart List do Marketo Engage à ramificação condicional, é possível criar ramificações com base em públicos pré-existentes que você já criou no Marketo Engage, em vez de definir condições de ramificação de público no Dynamic Chat.
 
 ![](assets/dynamic-chat-release-2.png)
 
@@ -296,14 +314,14 @@ Lançamos a ramificação condicional para Diálogos no início deste ano e agor
 
 ### Bate-papo ao vivo para fluxos de conversa {#live-chat-for-conversational-flows}
 
-Lançamos a funcionalidade de chat ao vivo para Diálogos em 2023, e agora você também pode adicionar envolvimentos de chat ao vivo aos seus Fluxos de conversa. Se você estiver usando Fluxos de conversa com seus formulários Marketo Engage, agora é possível permitir que visitantes qualificados conversem com um agente em tempo real imediatamente após o envio do formulário!
+Lançamos a funcionalidade de chat ao vivo para Diálogos em 2023, e agora você também pode adicionar envolvimentos de chat ao vivo aos seus Fluxos de conversa. Se você estiver usando Fluxos de conversa com seus formulários do Marketo Engage, agora é possível permitir que visitantes qualificados conversem com um agente em tempo real imediatamente após o envio do formulário!
 
-### Atividades recentes de Marketo Engage na Caixa de entrada do agente {#recent-marketo-engage-activities-in-agent-inbox}
+### Atividades recentes do Marketo Engage na Caixa de entrada do agente {#recent-marketo-engage-activities-in-agent-inbox}
 
-Adicionamos atividades Marketo Engage recentes à seção Atividades recentes da Caixa de entrada do agente, para que, quando um visitante do site solicitar o bate-papo com um agente do, o agente possa ver rapidamente se o visitante está envolvido em qualquer uma das seguintes atividades Marketo Engage recentemente (últimas 25 atividades):
+Adicionamos atividades recentes do Marketo Engage à seção Atividades recentes da Caixa de entrada do agente, para que, quando um visitante do site solicitar para conversar com um agente do, o agente possa ver rapidamente se o visitante se envolveu em alguma das seguintes atividades do Marketo Engage recentemente (últimas 25 atividades):
 
 * Email aberto
-* Página da Web visitada
+* Página da web visitada
 * Preencheu formulário
 * Teve um momento interessante
 
@@ -311,7 +329,7 @@ Adicionamos atividades Marketo Engage recentes à seção Atividades recentes da
 
 ### Status da conexão do calendário no Gerenciamento de Agentes {#calendar-connection-status-in-agent-management}
 
-Agora, os administradores podem ver facilmente quais agentes com permissões de reserva de reunião conectaram seus calendários no Dynamic Chat. Isso permite garantir que toda a sua equipe de vendas esteja conectada e pronta para aceitar solicitações de reunião do Dynamic Chat.
+Agora, os administradores podem ver facilmente quais agentes com permissões de reserva de reunião conectaram seus calendários no Dynamic Chat. Dessa forma, você garante que toda a sua equipe de vendas esteja conectada e pronta para aceitar solicitações de reunião da Dynamic Chat.
 
 ![](assets/dynamic-chat-release-4.png)
 
@@ -325,7 +343,7 @@ Os usuários relataram que os visitantes da Web estavam agendando reuniões em s
 
 Alguns usuários indicaram que estavam com problemas ao adicionar e remover agentes no Dynamic Chat, portanto, fizemos algumas alterações para resolver esses problemas.
 
-Quando um usuário é adicionado ao Admin Console com permissão de chat ao vivo ou reserva de reunião, ele é imediatamente exibido na lista Gerenciamento de agentes e fica disponível para adicionar a caixas de diálogo, Fluxos de conversa, regras de roteamento e equipes.
+Quando um usuário é adicionado ao Admin Console com permissão de chat ao vivo ou reserva de reunião, ele é imediatamente exibido na lista Gerenciamento de agente e fica disponível para adicionar a caixas de diálogo, Fluxos de conversa, regras de roteamento e equipes.
 
 Quando um usuário com reserva de reunião ou permissões de chat ao vivo for removido do Admin Console, ele será removido imediatamente do Dynamic Chat, não estará mais disponível para bate-papo ao vivo ou roteamento de reunião e não contará mais com limites de licença.
 
@@ -361,7 +379,7 @@ Alternamos o comportamento da tecla de retorno na Caixa de entrada do agente; po
 
 Não se preocupe! O roteamento round robin ainda está totalmente funcional e opera da mesma maneira que sempre funcionou. Acabamos de remover a página que mostrava uma lista frequentemente imprecisa de agentes e sua ordem na fila de roteamento round robin.
 
-Quando lançamos o Dynamic Chat em 2022, não havia suporte para bate-papo ao vivo, apenas agendamento de reuniões, e a página de roteamento de round robin foi projetada tendo apenas em mente as agendamentos de reuniões. Com a introdução do bate-papo ao vivo no ano passado, a página do round robin se tornou obsoleta, pois não refletia com precisão a natureza mais complexa do roteamento round robin entre agentes com reservas de reuniões e permissões de bate-papo ao vivo. Exploramos algumas opções diferentes para resolver isso, mas finalmente decidimos que removê-lo completamente era a melhor opção para minimizar a confusão.
+Quando lançamos o Dynamic Chat em 2022, não havia suporte para bate-papo ao vivo, somente para reservas de reuniões, e a página de roteamento round robin foi projetada tendo apenas em mente as reservas de reuniões. Com a introdução do bate-papo ao vivo no ano passado, a página do round robin se tornou obsoleta, pois não refletia com precisão a natureza mais complexa do roteamento round robin entre agentes com reservas de reuniões e permissões de bate-papo ao vivo. Exploramos algumas opções diferentes para resolver isso, mas finalmente decidimos que removê-lo completamente era a melhor opção para minimizar a confusão.
 
 ![](assets/dynamic-chat-release-9.png)
 
@@ -377,7 +395,7 @@ A nova página Conversas fornece um ponto único para exibir transcrições de t
 
 ### O intervalo de datas no painel global aumentou de 90 dias para 24 meses {#date-range-in-global-dashboard}
 
-Você pediu e nós entregamos. Agora é possível ver os dados de engajamento do Dynamic Chat por até dois anos em todos os painéis de análise.
+Você pediu e nós entregamos. Agora é possível ver os dados de envolvimento do Dynamic Chat por até dois anos em todos os painéis de análise.
 
 ### Ramificação condicional nas caixas de diálogo {#conditional-branching-in-dialogues}
 

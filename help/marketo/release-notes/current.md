@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 6%
+source-wordcount: '473'
+ht-degree: 8%
 
 ---
 
@@ -46,6 +46,46 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Personalization de Conteúdo de Email</strong>: o Marketo Engage agora segue a mesma sintaxe de camel case dos outros tokens de aplicativo do AEP, de modo que uma experiência consistente seja fornecida pelos produtos Adobe DX. Todos os tokens padrão, bem como tokens específicos do Marketo Engage, como Membro, Programa e Meus tokens, são disponibilizados no novo Designer de email.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Controle de acesso com base em função para Email Designer Assets</strong>: um novo aprimoramento do sistema de controle de acesso com base em função (RBAC) fornece permissões mais granulares e gerenciamento de usuário aprimorado para ativos alimentados pelo novo Email Designer.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Clonagem de emails criados no Designer de email</strong>: agora você pode clonar um email existente criado com o novo Designer de email.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Integração do GenStudio</strong>: integre o GenStudio para marketing de desempenho a partir de emails para melhorar a eficiência do marketing e manter a consistência da marca.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -56,6 +96,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 Para acessar esse recurso, é necessário ter adquirido o complemento Advanced BI Analytics. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
-* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot;, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot;, [conforme descrito aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
