@@ -2,7 +2,8 @@
 description: Notas de versão - outubro de 2024 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Outubro de 2024
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 2%
@@ -13,11 +14,11 @@ ht-degree: 2%
 
 Abaixo você encontrará todos os recursos incluídos na versão de outubro de 2024. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
-As Notas de versão específicas para o Adobe Dynamic Chat [podem ser encontradas aqui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+As Notas de Versão específicas do Adobe Dynamic Chat [podem ser encontradas aqui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
@@ -53,7 +54,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   </tr>
    <tr> 
-   <td><strong>Botão Minha conta no painel de navegação</strong>: para aqueles que migraram para o Adobe Identity Management System, um novo botão "Minha conta" no painel de navegação esquerdo permite configurar seu fuso horário e acessar os detalhes da assinatura.</td> 
+   <td><strong>Botão Minha conta no painel de navegação</strong>: para quem migrou para o Adobe Identity Management System, um novo botão "Minha conta" no painel de navegação esquerdo permite configurar seu fuso horário e acessar os detalhes da assinatura.</td> 
    <td>Remetido</td>
    <td>n/d</td>
   </tr>
@@ -91,7 +92,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Atualização da API de extração em massa**: corrigimos um problema na API de extração em massa envolvendo a opção columnHeaderNames, que permite especificar nomes de cabeçalho de coluna personalizados no arquivo exportado. Anteriormente, os nomes de cabeçalho de coluna contendo caracteres não ASCII podiam ficar corrompidos.
 
-* **Descontinuação do parâmetro access_token da API Rest**: o parâmetro de consulta &quot;access_token&quot; usado para autenticar chamadas de API REST do Marketo está sendo descontinuado e não estará disponível após 30 de junho de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot; [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Descontinuação do parâmetro access_token da API Rest**: o parâmetro de consulta &quot;access_token&quot; usado para autenticar chamadas de API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot; [conforme descrito aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 
 * **Descontinuação do código QR**: em 4 de outubro de 2024, o recurso de código QR usado em notificações por push e ativos de mensagens no aplicativo será descontinuado. Isso inclui o uso de códigos QR para um novo dispositivo de teste, bem como a criação de novos ativos com códigos QR. Descontinuar os recursos com uso mais baixo permite realocar seus recursos para a manutenção geral do Marketo Engage.
