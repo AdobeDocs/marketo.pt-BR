@@ -4,9 +4,9 @@ description: Configuração do perfil da conta - Documentação do Marketo - Doc
 title: Configuração do perfil da conta
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 2%
 # Configuração do perfil da conta {#setting-up-account-profiling}
 
 Siga estas etapas para começar a usar a Criação de perfil da conta.
+
+>[!IMPORTANT]
+>
+>A partir de 2025, a Criação de perfil da conta não estará mais disponível para novos usuários. Ele continuará a funcionar para os usuários existentes.
 
 >[!CAUTION]
 >

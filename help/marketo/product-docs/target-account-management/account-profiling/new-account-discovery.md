@@ -4,16 +4,20 @@ description: Descoberta de nova conta - Documentação do Marketo - Documentaç�
 title: Descoberta de Nova Conta
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
 # Descoberta de Nova Conta {#new-account-discovery}
 
 A Nova descoberta de conta pode ajudar você a encontrar novas contas para direcionar usando recomendações habilitadas por IA do perfil de cliente ideal.
+
+>[!IMPORTANT]
+>
+>A partir de 2025, a Criação de perfil da conta não estará mais disponível para novos usuários. Ele continuará a funcionar para os usuários existentes.
 
 >[!PREREQUISITES]
 >

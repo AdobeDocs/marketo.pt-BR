@@ -4,9 +4,9 @@ description: Classificação e ajuste do perfil da conta - Documentação do Mar
 title: Classificação e ajuste da criação de perfil da conta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '401'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 3%
 # Classificação e ajuste da criação de perfil da conta {#account-profiling-ranking-and-tuning}
 
 O Account Profiling identifica o seu perfil de cliente ideal (ICP), classifica as empresas no seu banco de dados com base no ICP e adiciona os dados do indicador ICP às contas promovidas como contas nomeadas.
+
+>[!IMPORTANT]
+>
+>A partir de 2025, a Criação de perfil da conta não estará mais disponível para novos usuários. Ele continuará a funcionar para os usuários existentes.
 
 ## Resultados do modelo {#model-results}
 
@@ -134,7 +138,7 @@ Há várias guias para escolher, permitindo uma personalização detalhada.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Empresa</strong></td> 
+   <td><strong>Business</strong></td> 
    <td> 
     <div>
       Listagens da Forbes ou Inc ou parcerias comerciais. 
