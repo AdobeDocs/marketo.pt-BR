@@ -3,10 +3,10 @@ description: Gerenciamento de agentes - Documentação do Marketo - Documentaç�
 title: Gerenciamento de agente
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ No Gerenciamento de agentes, visualize uma lista de agentes na instância do Dyn
 
 Essa guia lista todos os agentes na instância do Dynamic Chat e inclui informações como nome, endereço de email, status do chat ao vivo e muito mais.
 
-![](assets/agent-management-2.png)
+![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
->Não vê um agente que você _acabou_ de adicionar? Pode levar até duas horas para que eles apareçam aqui após adicioná-los ao Admin Console do Adobe.
+>Não vê um agente que você _acabou_ de adicionar? Pode levar até duas horas para que sejam exibidas aqui após adicioná-las ao Admin Console do Adobe.
 
 ## Equipes {#teams}
 
@@ -32,7 +32,7 @@ Os administradores podem criar equipes de agentes para facilitar o roteamento pa
 
 >[!AVAILABILITY]
 >
->O acesso ao Teams exige uma assinatura do Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>O acesso ao Teams exige uma assinatura do Dynamic Chat Prime. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 ![](assets/agent-management-3.png)
 
@@ -70,7 +70,9 @@ Selecione uma mensagem padrão (sistema) ou escreva uma personalizada para os vi
 
 >[!NOTE]
 >
->Marcar a caixa de seleção **Incluir Opção de Reserva de Reunião** dará ao visitante do chat a opção de marcar uma reunião quando nenhum agente estiver disponível para o chat ao vivo.
+>* Marcar a caixa de seleção _Incluir Opção de Reserva de Reunião_ dará ao visitante do chat a opção de marcar uma reunião quando nenhum agente estiver disponível para o chat ao vivo.
+>
+>* **Para quaisquer regras/Equipes personalizadas como um cartão de Chat ao Vivo**: ao verificar agentes, se eles não estiverem disponíveis ou não puderem se conectar, recorrerá ao Round Robin para tentar &quot;Agentes Disponíveis&quot; (todos os que estiverem disponíveis naquele momento, independentemente de qual lógica/regra de roteamento foi colocada no fluxo).
 
 >[!TIP]
 >

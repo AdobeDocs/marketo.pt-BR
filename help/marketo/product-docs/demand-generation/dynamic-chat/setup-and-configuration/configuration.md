@@ -3,9 +3,9 @@ description: Configuração - Documentação do Marketo - Documentação do prod
 title: Configuração
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Saiba como personalizar a aparência da janela de diálogo do chatbot.
 
-Para começar, clique em **Configurações de Chatbot** em **Configuração**.
+Para começar, clique em **Chatbot** em **Configuração**.
 
 ![](assets/configuration-1.png)
 
@@ -38,7 +38,7 @@ A Âncora permite que o visitante do site abra/feche a caixa de diálogo. Você 
 
 ### Configurações de bot {#agent-settings}
 
-Nas Configurações de bot, você pode adicionar um rótulo à sua caixa de bate-papo (por exemplo: &quot;Assistente de Adobe&quot;) que aparecerá na parte superior. Você também pode determinar o atraso de resposta (em segundos) e alterar o avatar do bate-papo. Para carregar sua própria imagem de avatar, clique no botão **+**.
+Nas Configurações de bot, você pode adicionar um rótulo à sua caixa de bate-papo (por exemplo: &quot;Assistente do Adobe&quot;) que aparecerá na parte superior. Você também pode determinar o atraso de resposta (em segundos) e alterar o avatar do bate-papo. Para carregar sua própria imagem de avatar, clique no botão **+**.
 
 ![](assets/configuration-5.png)
 
@@ -46,21 +46,35 @@ Nas Configurações de bot, você pode adicionar um rótulo à sua caixa de bate
 >
 >Os avatares personalizados devem ser imagens quadradas com menos de 256 kb e menores de 200x200 px. Os tipos de arquivos suportados incluem: .jpg, .png, .gif, .webp, .svg.
 
-Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
+**Novo som de notificação de mensagem**
+
+Clique na lista suspensa para selecionar um som para o visitante sempre que o chatbot for acionado em uma sessão. Há vários sons para escolher.
+
+**Habilitar mensagens poke em dispositivos móveis**
+
+Selecione o controle deslizante para ativar &quot;Poke&quot;, que exibe a pergunta de abertura ao lado do ícone do bate-papo sem que o visitante precise clicar nele para vê-lo, para que os visitantes possam conversar a partir de um dispositivo móvel.
 
 ![](assets/configuration-6.png)
+
+>[!NOTE]
+>
+>O Poke só está disponível no primeiro [cartão](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} da conversa.
+
+Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
+
+![](assets/configuration-7.png)
 
 ## Guia Privacidade {#privacy-tab}
 
 Clique na guia **Privacidade** para adicionar/editar a URL da política de privacidade do site (opcional).
 
-![](assets/configuration-7.png)
+![](assets/configuration-8.png)
 
 ## Guia Instalação {#installation-tab}
 
-Para que o chatbot apareça em seu site, primeiro será necessário instalar o trecho Dynamic Chat JavaScript. Clique nessa guia para localizar/copiar o código necessário. Se você não estiver familiarizado com essa operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
+Para que o chatbot seja exibido no seu site, primeiro será necessário instalar o trecho Dynamic Chat JavaScript. Clique nessa guia para localizar/copiar o código necessário. Se você não estiver familiarizado com essa operação, entre em contato com a equipe da Web ou o departamento de TI para obter assistência.
 
-![](assets/configuration-8.png)
+![](assets/configuration-9.png)
 
 >[!TIP]
 >
@@ -68,4 +82,4 @@ Para que o chatbot apareça em seu site, primeiro será necessário instalar o t
 
 >[!NOTE]
 >
->O Suporte da Marketo não está configurado para ajudar na solução de problemas do HTML. Para obter assistência para o HTML, consulte um desenvolvedor da Web.
+>O Suporte da Marketo não está configurado para ajudar na solução de problemas do HTML. Para obter assistência da HTML, consulte um desenvolvedor da Web.
