@@ -3,10 +3,10 @@ description: Visão geral do Live Chat - Documentação do Marketo - Documentaç
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 1%
+source-wordcount: '842'
+ht-degree: 0%
 
 ---
 
@@ -115,6 +115,10 @@ Quando uma ação, como uma reserva de reunião ou um chat ao vivo, falha, os us
 
 * Os agentes têm 100 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire. Depois disso, os visitantes receberão a [mensagem de fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para assinantes do Dynamic Chat Prime que têm a opção de roteamento definida como **Equipe**, haverá mais uma tentativa antes que a mensagem de fallback seja exibida.
 * No momento, há um limite de 10 bate-papos ao vivo por agente.
+* A Caixa de entrada do agente é apenas para conversas de bate-papo ao vivo. Se o bate-papo não for aceito por um agente, ele não aparecerá na Caixa de entrada do agente, pois não se qualifica como um bate-papo ao vivo.
+* A guia Conversation exibe toda a conversa, tanto em tempo real quanto em chat automatizado. Portanto, se uma conversa não for aceita pelo agente, ela será listada na guia Conversação. Há um atraso de até 24 horas na guia Conversação, pois não é em tempo real. A Caixa de entrada do agente, no entanto, é em tempo real.
+* Se não houver atividade de chat após 10 minutos (pelo agente ou visitante), o chat expirará.
+* Se um agente alterar a imagem de perfil (no account.adobe.com) _durante_ um Chat ao Vivo, o visitante ainda verá a imagem antiga até o fim do chat. O visitante verá a nova imagem na próxima vez que conversar e obter esse agente.
 
 >[!MORELIKETHIS]
 >

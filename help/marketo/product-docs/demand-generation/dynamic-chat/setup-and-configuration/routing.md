@@ -3,10 +3,10 @@ description: Roteamento - Documentação do Marketo - Documentação do produto
 title: Roteamento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '338'
+ht-degree: 2%
 
 ---
 
@@ -64,13 +64,47 @@ Identifique e faça upload da sua conta de público alvo e respectivos propriet�
 
 ![](assets/routing-9.png)
 
+>[!PREREQUISITES]
+>
+>Antes que o _Roteamento de Conta_ esteja visível no Dynamic Chat, as permissões devem ser habilitadas no Admin Console. Consulte [Habilitar permissões](#enable-permissions) abaixo.
+
+### Ativar permissões {#enable-permissions}
+
++++ Habilitar Permissões de Roteamento de Conta
+
+1. Faça logon em [https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}.
+
+1. Em _Produtos_, selecione **Dynamic Chat**.
+
+   ![](assets/routing-10.png)
+
+1. Em _Perfis de produto_, selecione o perfil desejado.
+
+   ![](assets/routing-11.png)
+
+1. Clique na guia **Permissões**.
+
+   ![](assets/routing-12.png)
+
+1. Clique no ícone de edição (![Ícone de edição](assets/icon-routing-edit.png)) ao lado de _Configuração_.
+
+   ![](assets/routing-13.png)
+
+1. Clique no sinal **+** ao lado de _Exibir roteamento de conta_.
+
+   ![](assets/routing-14.png){width="600" zoomable="yes"}
+
+1. Clique em **Salvar** quando terminar.
+
++++
+
 ### Adicionar uma conta {#add-an-account}
 
 Neste exemplo, direcionaremos todos os funcionários da Lego diretamente para o agente Steven.
 
 1. Na guia Roteamento de Conta, clique em **+ Adicionar Conta**.
 
-   ![](assets/routing-10.png)
+   ![](assets/routing-15.png)
 
    >[!TIP]
    >
@@ -78,4 +112,4 @@ Neste exemplo, direcionaremos todos os funcionários da Lego diretamente para o 
 
 1. Insira o nome da empresa, o domínio e selecione o agente desejado.
 
-   ![](assets/routing-11.png)
+   ![](assets/routing-16.png)

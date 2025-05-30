@@ -3,9 +3,9 @@ description: Configurações do agente - Documentação do Marketo - Documentaç
 title: Configurações do agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -26,13 +26,13 @@ Na guia Configuração do calendário, conecte seu calendário do Outlook ou Gma
 
 ![](assets/agent-settings-2.png)
 
-Assim que o calendário de um usuário for conectado ao Dynamic Chat, ele será adicionado à fila e seu calendário estará disponível para os visitantes do site agendarem compromissos no.
+Depois que o calendário de um usuário for conectado ao Dynamic Chat, ele será adicionado à fila e seu calendário estará disponível para os visitantes do site agendarem compromissos no.
 
 >[!NOTE]
 >
 >Você pode conectar um calendário por usuário. Se quiser receber reuniões em vários calendários, adicione vários usuários e faça com que cada um deles conecte seus calendários.
 
-Os usuários também podem personalizar o corpo do convite enviado ao visitante ao agendar um compromisso no calendário do usuário. Eles também podem marcar a caixa de seleção na parte inferior para incluir um link Google Meet ou Microsoft Teams (dependendo de qual calendário foi conectado).
+Os usuários também podem personalizar o corpo do convite enviado ao visitante ao agendar um compromisso no calendário do usuário. Eles também podem marcar a caixa de seleção na parte inferior para incluir um link de Google Meet ou Microsoft Teams (dependendo de qual calendário foi conectado).
 
 ![](assets/agent-settings-3.png)
 
@@ -95,3 +95,11 @@ Se você estiver conectado ao aplicativo, receberá uma notificação no aplicat
 >[!TIP]
 >
 >Você pode selecionar vários blocos de tempo no mesmo dia (por exemplo, sexta-feira das 8a-12p _e_ 1p-5p) clicando no sinal **+** à direita.
+
+## Foto do perfil do agente
+
+Embora um agente tenha a capacidade de carregar sua própria foto de perfil, essa ação não é executada no Dynamic Chat. Eles precisariam navegar até `account.adobe.com/profile`. Saiba mais aqui: [Atualize seu perfil de conta](https://helpx.adobe.com/br/manage-account/using/edit-adobe-account-personal-profile.html).
+
+>[!NOTE]
+>
+>A imagem de perfil mostrada em `experience.adobe.com` é **não** suportada.
