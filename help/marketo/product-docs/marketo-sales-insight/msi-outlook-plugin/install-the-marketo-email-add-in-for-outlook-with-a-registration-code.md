@@ -4,10 +4,10 @@ description: Instale o Suplemento de email do Marketo para Outlook com um códig
 title: Instale o Suplemento de email do Marketo para Outlook com um código de registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 3%
+source-wordcount: '551'
+ht-degree: 5%
 
 ---
 
@@ -31,32 +31,80 @@ Se não tiver recebido um email de convite, peça ao administrador do Marketo pa
 
 ## Baixar instalador {#download-installer}
 
-1. Identifique a sua [versão do Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. Identifique a sua [versão do Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}.
 
-1. Clique no link para baixar o instalador apropriado para sua versão do Microsoft Outlook.
+1. Na tabela abaixo, clique no link para baixar o arquivo .ZIP apropriado para sua versão do Microsoft Outlook.
+
+1. Descompacte o arquivo para acessar o arquivo .MSI necessário e continue com a instalação.
 
    >[!NOTE]
    >
    >No momento, os links abaixo estão funcionando apenas no Microsoft Edge ou clicando com o botão direito do mouse no Chrome. Lamentamos o inconveniente.
 
-   | Versão do Outlook | Outlook de 32 bits | Outlook de 64 bits |
-   |---|---|---|
-   | Outlook 2000 | Não suportado | N/D |
-   | Outlook 2003 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
-   | Outlook 2007 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N/D |
-   | Outlook 2010 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook para Mac | Não suportado | Não suportado |
-   | Outlook Web App | Não suportado | Não suportado |
-   | Office 365* | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Baixar](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+<table><thead>
+  <tr>
+    <th>Versão do Outlook</th>
+    <th>Outlook de 32 bits</th>
+    <th>Outlook de 64 bits</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Outlook 2000</td>
+    <td>Não suportado</td>
+    <td>N/D</td>
+  </tr>
+  <tr>
+    <td>Outlook 2003</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Baixar</a></td>
+    <td>N/D</td>
+  </tr>
+  <tr>
+    <td>Outlook 2007</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Baixar</a></td>
+    <td>N/D</td>
+  </tr>
+  <tr>
+    <td>Outlook 2010</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Baixar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Baixar</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2013</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Baixar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Baixar</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2016</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Baixar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Baixar</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2019</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Baixar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Baixar</a></td>
+  </tr>
+  <tr>
+    <td>Outlook para Mac</td>
+    <td>Não suportado</td>
+    <td>Não suportado</td>
+  </tr>
+  <tr>
+    <td>Outlook Web App</td>
+    <td>Não suportado</td>
+    <td>Não suportado</td>
+  </tr>
+  <tr>
+    <td>Office 365*</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">Baixar</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">Baixar</a></td>
+  </tr>
+</tbody></table>
 
-   *Versão do Office 365: somente cliente Windows (no Windows 10, Enterprise ou Pro).
+*Versão do Office 365: somente cliente Windows (no Windows 10, Enterprise ou Pro).
 
-   >[!IMPORTANT]
-   >
-   >A Microsoft lançou uma [nova versão do Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Esta nova versão não oferece suporte ao plug-in MSI Outlook existente. O plug-in MSI Outlook continuará a funcionar para áreas de trabalho do Windows que executam a versão clássica do Outlook. Para saber mais sobre o novo Outlook para Windows para organizações, [clique aqui](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>[!IMPORTANT]
+>
+>A Microsoft lançou uma [nova versão do Outlook para Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Esta nova versão não oferece suporte ao plug-in MSI Outlook existente. O plug-in MSI Outlook continuará a funcionar para áreas de trabalho do Windows que executam a versão clássica do Outlook. Para saber mais sobre o novo Outlook para Windows para organizações, [clique aqui](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Copie seu código de registro {#copy-your-registration-code}
 
