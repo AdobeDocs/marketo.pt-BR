@@ -3,9 +3,9 @@ description: Visão geral avançada do BI Analytics - Documentação do Marketo 
 title: Visão Geral Avançada do BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '996'
+source-wordcount: '994'
 ht-degree: 1%
 
 ---
@@ -19,10 +19,6 @@ Esses aprimoramentos ajudam você a economizar tempo, descobrir insights mais va
 >[!PREREQUISITES]
 >
 >Para acessar esse recurso, é necessário ter adquirido o complemento Advanced BI Analytics. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
-
->[!NOTE]
->
->Se você tiver dúvidas sobre esse recurso enquanto ele estiver na versão beta (até 1º de junho de 2025), envie um email para: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Principais recursos e benefícios {#key-features-and-benefits}
 
@@ -38,7 +34,7 @@ Esses aprimoramentos ajudam você a economizar tempo, descobrir insights mais va
 
 ## Criar um relatório {#create-a-report}
 
-1. Em Meu Marketo, clique no bloco **[!UICONTROL Análise Avançada de BI (Beta)]**.
+1. Em Meu Marketo, clique no bloco **[!UICONTROL Análise Avançada de BI]**.
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
@@ -66,7 +62,7 @@ Esses aprimoramentos ajudam você a economizar tempo, descobrir insights mais va
 
 Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451687/?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 
@@ -177,11 +173,8 @@ Os seguintes relatórios padrão estão incluídos como exemplos para seus relat
 
 ## Itens a serem observados {#note}
 
-O beta público será executado até 1º de junho de 2025, quando a experiência clássica por meio do &quot;Revenue Explorer&quot; será descontinuada permanentemente.
+* A experiência clássica do &quot;Revenue Explorer&quot; será descontinuada permanentemente em 10 de junho de 2025. Enquanto isso, você pode acessar, criar, atualizar e excluir relatórios em ambas as experiências.
 
-_Durante o beta público:_
-
-* Você pode acessar, criar, atualizar e excluir relatórios em ambas as experiências.
 * Seus relatórios personalizados serão replicados da experiência clássica para a nova experiência com as alterações de comportamento notáveis mencionadas na seção [Aprendendo a nova experiência](#learning-the-new-experience) abaixo.
 
   >[!IMPORTANT]
@@ -194,9 +187,13 @@ _Durante o beta público:_
      >
      >O painel da nova experiência do é apenas uma coleção de relatórios em uma única página. O principal valor do painel na nova experiência do é permitir que você apresente insights analíticos em diferentes áreas de relatórios.
 
-* As assinaturas de email na experiência clássica serão replicadas para a nova experiência. As assinaturas de email na experiência do Classic continuarão funcionando até a desativação da experiência do Classic em 1º de junho de 2025.
+* As assinaturas de email na experiência clássica serão replicadas para a nova experiência. As assinaturas de email na experiência do Classic continuarão funcionando até a desativação da experiência do Classic em 10 de junho de 2025.
 
-* Os usuários existentes do Revenue Explorer têm acesso automático à nova experiência do Advanced BI Analytics (Beta).
+* Os usuários existentes do Revenue Explorer têm acesso automático à nova experiência do Advanced BI Analytics.
+
+* É possível criar até 700 relatórios no Advanced BI Analytics.
+
+* Há uma limitação de 1 milhão de linhas por query em qualquer visualização fornecida. Se a sua consulta exceder esse limite, você receberá o seguinte erro: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Para corrigir isso, reduza o intervalo de datas e/ou ajuste os filtros no relatório para reduzir o número de linhas no resultado do query.
 
 ## Aprendendo a nova experiência {#learning-the-new-experience}
 
@@ -217,8 +214,6 @@ A seguir estão as alterações na nova experiência (Advanced BI Analytics) da 
 * A assinatura de email inclui a exportação do PDF em vez da HTML do relatório. A nova assinatura de email não incluirá a definição de relatório.
 
 * No momento, não há suporte para deep link de relatório.
-
-* A experiência de pasta de relatórios não está disponível no momento e foi temporariamente substituída por uma lista simples com pesquisa com digitação antecipada. O nome do relatório replicado transportará o caminho da pasta, por exemplo, `/folder1/folder2/report`.
 
 * A exportação do PDF é síncrona na nova experiência do, em comparação com a assíncrona na experiência clássica.
 
