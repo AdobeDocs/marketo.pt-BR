@@ -4,9 +4,9 @@ description: Use seus endereços IP dedicados para enviar emails - Documentaçã
 title: Use seus endereços IP dedicados para enviar emails
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ O envio de um ou mais IPs dedicados oferece controle total sobre a reputação d
 
 >[!AVAILABILITY]
 >
->Um IP dedicado é um produto complementar. Nem todos poderão adicionar um IP dedicado ao seu programa. Você precisaria enviar mais de 100.000 emails por mês e ter uma cadência de campanha estável para manter um IP dedicado. Entre em contato com a Equipe de conta do Adobe (seu Gerente de conta) para obter mais informações sobre como adicionar um IP dedicado ao seu programa Marketo.
+>Um IP dedicado é um produto complementar. Nem todos poderão adicionar um IP dedicado ao seu programa. Você precisaria enviar mais de 100.000 emails por mês e ter uma cadência de campanha estável para manter um IP dedicado. Entre em contato com a equipe de conta para obter mais informações sobre como adicionar um IP dedicado ao programa Marketo.
 >
 >Se você enviar menos de 100.000 emails por mês e/ou tiver volumes de campanha variáveis e/ou for um remetente sazonal, não será possível manter um IP dedicado. A Marketo mantém um pool compartilhado de IP confiável separado para clientes que seguem práticas recomendadas rigorosas. Se estiver interessado, preencha [este questionário](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) para se candidatar ao Programa de IP Confiável da Marketo.
 
@@ -38,7 +38,7 @@ Para maximizar a capacidade de entrega a longo prazo, os Consultores de capacida
 
 >[!TIP]
 >
->Mantenha seu banco de dados limpo para manter a capacidade de delivery alta. O [Adobe exige](https://www.adobe.com/legal/terms/aup.html) que os clientes só enviem comunicações de marketing para pessoas que aceitaram/solicitaram receber email. Não envie spam.
+>Mantenha seu banco de dados limpo para manter a capacidade de delivery alta. [O Adobe exige](https://www.adobe.com/legal/terms/aup.html) que os clientes só enviem comunicações de marketing para pessoas que aceitaram/solicitaram receber email. Não envie spam.
 
 >[!CAUTION]
 >
