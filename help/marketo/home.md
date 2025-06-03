@@ -1,17 +1,23 @@
 ---
 title: Documentação do Marketo
-description: Documentação do produto Marketo Engage
+description: Saiba como elevar seu marketing ao próximo nível com esses documentos de produto do Marketo. Comece com um tutorial do Marketo e leia outros artigos populares.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 76880d7a2d37cf82ac6a677b08eb8880dc15c24e
+source-git-commit: cfd0eed1c71c7331d089f3e0c19703521082703f
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 16%
+source-wordcount: '162'
+ht-degree: 9%
 
 ---
 
 # Documentação do produto Marketo Engage
 
 ![](assets/marketo-docs-banner.jpg)
+
+As estratégias modernas de marketing por demanda exigem um engajamento completo para fornecer as melhores experiências ao cliente possíveis. Saiba como fazer isso com o Marketo Engage, parte do Adobe Experience Cloud, lendo nossa gama de documentos, guias e suporte do Marketo.
+
+Se você está apenas começando e quer um tutorial introdutório do Marketo ou se é um usuário experiente que deseja aproveitar ao máximo o Marketo, você encontrará todas as respostas necessárias com os links abaixo.
+
+Explore a variedade de documentos de produto do Marketo que podem ajudá-lo a fornecer experiências envolventes para o cliente.
 
 ## Introdução
 
@@ -20,7 +26,7 @@ ht-degree: 16%
 * [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Glossário do Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
-## Artigos populares
+## Artigos populares da Marketo
 
 * [Compreendendo a  [!DNL Salesforce] Sincronização](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
