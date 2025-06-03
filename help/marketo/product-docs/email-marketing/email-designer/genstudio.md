@@ -3,16 +3,19 @@ title: Integração do GenStudio para o Marketo Engage
 description: Saiba como usar o GenStudio no Marketo Engage.
 hide: true
 hidefromtoc: true
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+feature: Email Editor
+solution: Marketo Engage
+product: marketo
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
-# Integração do GenStudio para o Marketo Engage {#work-with-experience-manager-assets}
+# Integração do GenStudio para o Marketo Engage {#genstudio-integration-for-marketo-engage}
 
-O Adobe GenStudio for Performance Marketing é um aplicativo generativo de IA que permite criar seus próprios anúncios e emails para impulsionar campanhas de marketing personalizadas e impactantes que seguem os padrões de sua marca e estão em conformidade com as políticas de sua empresa. Ele oferece várias ferramentas que simplificam as complexidades da criação de conteúdo.
+O Adobe GenStudio for Performance Marketing é um aplicativo generativo de IA que permite criar seus próprios anúncios e emails para impulsionar campanhas de marketing impactantes e personalizadas que atendam aos padrões da sua marca e às políticas da sua empresa. Ele oferece várias ferramentas que simplificam as complexidades da criação de conteúdo.
 
 >[!INFO]
 >
@@ -30,41 +33,39 @@ Exporte facilmente um modelo, incluindo as diretrizes da sua marca, para a GenSt
 
 1. No Designer Email, clique no botão **Mais** e selecione **Exportar HTML**.
 
-   CAPTURA DE TELA
+   ![Exportando sua HTML](assets/genstudio-integration-1.png)
 
-1. [Carregar o modelo exportado do HTML](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} para o GenStudio for Performance Marketing.
+1. [Carregar o modelo exportado do HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} para o GenStudio for Performance Marketing.
 
-1. No GenStudio, use esse template para criar várias variações de email com prompts de IA e salvá-las.
-
->[!NOTE]
->
->Saiba como criar experiências de email na [seção dedicada do GenStudio](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}.
+1. No GenStudio, use este modelo para [criar várias variações de email](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} com prompts de IA e salvá-las.
 
 ## Aproveitar as experiências do GenStudio no Marketo Engage {#leverage-genstudio-experiences}
 
 Para aproveitar as variações de email do GenStudio que você criou importando-as para o Marketo Engage, siga as etapas abaixo.
 
-1. No Marketo Engage, crie um email.
+1. No Marketo Engage, [crie um email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-1. Na página Detalhes do email, clique em **Editar corpo do email** para abrir o Designer de email.
+1. Na página Detalhes do email, clique em **Editar conteúdo do email**.
 
-1. Selecione **Importar HTML** e clique no botão **Adobe GenStudio for Performance Marketing**.
+   ![Botão Editar conteúdo do email](assets/genstudio-integration-2.png)
 
-   CAPTURA DE TELA
+1. Selecione **Importar HTML**.
+
+   ![Botão Importar do HTML](assets/genstudio-integration-3.png)
+
+1. Clique no botão **Adobe GenStudio for Performance Marketing**.
+
+   ![Botão do Adobe GenStudio for Performance Marketing](assets/genstudio-integration-4.png)
 
 1. Navegue pelas experiências do GenStudio para começar a criar o conteúdo. Você pode filtrar as experiências em critérios como produtos, personas, marcas ou até mesmo cores.
 
 1. Selecione uma experiência e clique em **Usar**.
 
-CAPTURA DE TELA
+   ![Selecione a experiência desejada](assets/genstudio-integration-5.png){width="800" zoomable="yes"}
 
-1. Selecione a pasta na qual deseja importar a experiência do GenStudio.
+1. O conteúdo selecionado é exibido no Designer de email.
 
-CAPTURA DE TELA
-
-O conteúdo selecionado é exibido no Designer de email.
-
-CAPTURA DE TELA
+   ![Designer de email](assets/genstudio-integration-6.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
