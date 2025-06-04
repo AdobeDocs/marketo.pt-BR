@@ -4,9 +4,9 @@ description: Etapa 3 de 3 - Conectar a solução da Marketo com conexão de serv
 title: Etapa 3 de 3 - Conectar a solução da Marketo com conexão de servidor a servidor
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '448'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Esta é a última etapa da sincronização. Estamos quase lá!
 
 >[!IMPORTANT]
 >
->Se você estiver atualizando da Autenticação Básica para o OAuth, precisará contatar o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obter ajuda sobre como atualizar os parâmetros adicionais. Habilitar este recurso interromperá temporariamente a sincronização até que novas credenciais sejam inseridas e a sincronização seja reabilitada. O recurso pode ser desativado (até abril de 2022) se você quiser reverter para o modo de autenticação antigo.
+>Se estiver atualizando da Autenticação Básica para o OAuth, você precisará contatar o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obter ajuda sobre como atualizar os parâmetros adicionais. Habilitar este recurso interromperá temporariamente a sincronização até que novas credenciais sejam inseridas e a sincronização seja reabilitada. O recurso pode ser desativado (até abril de 2022) se você quiser reverter para o modo de autenticação antigo.
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ Esta é a última etapa da sincronização. Estamos quase lá!
 
    >[!NOTE]
    >
-   >O nome de usuário no Marketo deve corresponder ao [endereço de email](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} do Usuário de Aplicativo no CRM. O formato pode ser `user@domain.com` ou DOMÍNIO\usuário.
+   >O nome de usuário no Marketo deve corresponder ao [endereço de email](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} do Usuário do Aplicativo no CRM. O formato pode ser `user@domain.com` ou DOMÍNIO\usuário.
 
 ## Selecionar campos para a sincronização {#select-fields-to-sync}
 
@@ -100,14 +100,12 @@ Se você criou um filtro personalizado, selecione os novos campos que serão sin
 
    >[!CAUTION]
    >
-   >A Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou quando você inserir pessoas ou leads manualmente.
+   >A Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics, ou quando você inserir pessoas ou leads manualmente.
 
 1. Leia tudo na janela pop-up, digite seu endereço de email e clique em **[!UICONTROL Iniciar sincronização]**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. A primeira sincronização pode levar algumas horas. Depois de concluído, você receberá uma notificação por email.
+1. Dependendo do número de registros, a sincronização inicial pode levar de algumas horas a alguns dias. Você receberá uma notificação por e-mail após a conclusão.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Excelente trabalho!

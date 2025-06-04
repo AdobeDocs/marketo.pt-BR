@@ -3,9 +3,9 @@ description: Instalar o Marketo para Microsoft Dynamics 2016/Dynamics 365 no loc
 title: Instalar o Marketo para Microsoft Dynamics 2016/Dynamics 365 no Local Etapa 3 de 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '414'
 ht-degree: 3%
 
 ---
@@ -95,14 +95,12 @@ Se você criou um filtro personalizado, selecione os novos campos que serão sin
 
    >[!CAUTION]
    >
-   >A Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou ao inserir pessoas manualmente.
+   >O Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou ao inserir pessoas manualmente.
 
 1. Leia tudo na janela pop-up, insira seu email e clique em **[!UICONTROL Iniciar sincronização]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. A primeira sincronização pode levar algumas horas. Depois de concluído, você receberá uma notificação por email.
+1. Dependendo do número de registros, a sincronização inicial pode levar de algumas horas a alguns dias. Você receberá uma notificação por e-mail após a conclusão.
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-Excelente trabalho!

@@ -3,10 +3,10 @@ description: Etapa 4 de 4 - Conectar a solução da Marketo com a conexão de co
 title: Etapa 4 de 4 - Conectar a solução da Marketo com a conexão de controle de senha de proprietário de recurso
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 4%
+source-wordcount: '432'
+ht-degree: 3%
 
 ---
 
@@ -54,7 +54,7 @@ Esta é a última etapa da sincronização. Você está quase lá!
    >
    >Antes de inserir novas credenciais, você pode [validá-las aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
-1. Insira o **[!UICONTROL Nome de usuário]**, **[!UICONTROL Senha]**, **URL** do Microsoft Dynamics, **[!UICONTROL ID do Cliente]** e **[!UICONTROL Segredo do Cliente]**. Clique em **[!UICONTROL Salvar]** quando terminar.
+1. Insira o **[!UICONTROL Nome de Usuário]**, **[!UICONTROL Senha]**, **URL** do Microsoft Dynamics, **[!UICONTROL ID do Cliente]** e **[!UICONTROL Segredo do Cliente]**. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -100,17 +100,15 @@ Se você criou um filtro personalizado, selecione os novos campos que serão sin
 
    >[!CAUTION]
    >
-   >A Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou quando você inserir pessoas ou leads manualmente.
+   >A Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics, ou quando você inserir pessoas ou leads manualmente.
 
 1. Leia tudo na janela pop-up, digite seu endereço de email e clique em **[!UICONTROL Iniciar sincronização]**.
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. A primeira sincronização pode levar algumas horas. Depois de concluído, você receberá uma notificação por email.
+1. Dependendo do número de registros, a sincronização inicial pode levar de algumas horas a alguns dias. Você receberá uma notificação por e-mail após a conclusão.
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-Excelente trabalho!
 
 >[!MORELIKETHIS]
 >

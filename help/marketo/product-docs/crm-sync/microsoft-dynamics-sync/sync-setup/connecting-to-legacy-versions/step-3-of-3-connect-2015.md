@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504744
-description: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 3 de 3 - Documentação do Marketo - Documentação do produto
-title: Instalar o Marketo para Microsoft Dynamics 2015 no Local Etapa 3 de 3
+description: Instale o Marketo para Microsoft Dynamics 2015 no local Etapa 3 de 3 - Documentação do Marketo - Documentação do produto
+title: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 3 de 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '405'
 ht-degree: 3%
 
 ---
@@ -76,7 +76,7 @@ ht-degree: 3%
 
 Se você criou um filtro personalizado, selecione os novos campos que serão sincronizados com o Marketo.
 
-1. Acesse Administrador e selecione **[!UICONTROL Microsoft Dynamics]**.
+1. Vá para Admin e selecione **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -96,14 +96,12 @@ Se você criou um filtro personalizado, selecione os novos campos que serão sin
 
    >[!CAUTION]
    >
-   >A Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou ao inserir pessoas manualmente.
+   >O Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou ao inserir pessoas manualmente.
 
 1. Leia tudo na janela pop-up, insira seu email e clique em **[!UICONTROL Iniciar sincronização]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. A primeira sincronização pode levar algumas horas. Depois de concluído, você receberá uma notificação por email.
+1. Dependendo do número de registros, a sincronização inicial pode levar de algumas horas a alguns dias. Você receberá uma notificação por e-mail após a conclusão.
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-Excelente trabalho!

@@ -4,9 +4,9 @@ description: Etapa 3 de 3 - Conectar o Marketo e o Dynamics (2013 no local) - Do
 title: Etapa 3 de 3 - Conectar o Marketo e o Dynamics (2013 no local)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '394'
 ht-degree: 2%
 
 ---
@@ -75,7 +75,7 @@ Agora precisamos selecionar os campos que queremos sincronizar.
 
 Se você criou um filtro personalizado, selecione os novos campos que serão sincronizados com o Marketo.
 
-1. Acesse Administrador e selecione **[!UICONTROL Microsoft Dynamics]**.
+1. Vá para Admin e selecione **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -95,17 +95,16 @@ Se você criou um filtro personalizado, selecione os novos campos que serão sin
 
    >[!CAUTION]
    >
-   >A Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics ou quando você inserir pessoas ou leads manualmente.
+   >A Marketo não eliminará automaticamente a duplicação em relação a uma sincronização do Microsoft Dynamics, ou quando você inserir pessoas ou leads manualmente.
 
 1. Leia tudo na janela pop-up, insira seu email e clique em **[!UICONTROL Iniciar sincronização]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. A primeira sincronização pode levar algumas horas. Depois de concluído, você receberá uma notificação por email.
+1. Dependendo do número de registros, a sincronização inicial pode levar de algumas horas a alguns dias. Você receberá uma notificação por e-mail após a conclusão.
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-Excelente trabalho! Você acabou de liberar o poder da sincronização bidirecional entre o Marketo e o Microsoft Dynamics. Se você adquiriu o Marketo Sales Insight, é mais divertido ter:
 
 >[!MORELIKETHIS]
 >
