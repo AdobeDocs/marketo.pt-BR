@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -64,21 +64,26 @@ Aqui obtemos contagens de atividades dos últimos sete dias com base em fatias s
 >
 >* O painel mostra apenas os 20 principais tipos de atividade, enquanto o restante é classificado em uma categoria chamada &quot;Outros&quot;.
 
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
-
 O uso da atividade mostra quanto marketing está sendo realizado e ajuda a visualizar o crescimento em relação ao nível de produto contratado para o. Os painéis também podem ser usados como guia para determinar a otimização que pode/deve ser feita ao reduzir os campos que estão sendo atualizados.
 
 ### Por tipo {#by-type}
 
 Agrupar atividades pelos tipos de atividades mais comuns observados nos últimos sete dias. Isso pode incluir categorias como _Alterar Valor dos Dados_, _Adicionar à Lista_ ou _Enviar Email_. Isso permite ver quais tipos de atividades estão acontecendo com mais frequência na sua conta do Marketo Engage.
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+
+
 ### Por atributo de valor de dados de alteração {#by-change-data-value-attribute}
 
 _Alterar Valor de Dados_ é o tipo de atividade mais comum. Indica quando uma parte das informações em um registro de pessoa/cliente potencial é atualizada. Aqui, agrupamos pelos campos que são alterados com mais frequência para que você possa determinar quais informações são úteis para suas operações de marketing, se há oportunidades para otimizar o uso da plataforma etc.
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### Por campanha {#by-campaign}
 
 Grupo pelo qual as campanhas estão produzindo mais atividades. Isso permite ver se você tem campanhas particularmente &quot;barulhentas&quot; que criam mais atividade do que o necessário. Aprenda rapidamente sobre campanhas que devem ser desativadas ou campanhas que estão fazendo mais trabalho do que o esperado.
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### Por Source (EM BREVE) {#by-source}
 
