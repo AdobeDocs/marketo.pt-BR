@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,3 @@ _Alterar Valor de Dados_ é o tipo de atividade mais comum. Indica quando uma pa
 Grupo pelo qual as campanhas estão produzindo mais atividades. Isso permite ver se você tem campanhas particularmente &quot;barulhentas&quot; que criam mais atividade do que o necessário. Aprenda rapidamente sobre campanhas que devem ser desativadas ou campanhas que estão fazendo mais trabalho do que o esperado.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Por Source (EM BREVE) {#by-source}
-
-Agrupe pela origem das atividades (_Sincronização de CRM_, _Ação de fluxo de campanha_, _Upload de API_, _Preenchimento de formulário de landing page_ etc.). Isso ajuda você a entender se a maioria das suas atividades está sendo produzida por ações de marketing, sincronizações de CRM ou pelas próprias pessoas/leads.
