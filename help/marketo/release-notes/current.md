@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 633a29897a2683ba7e325c68c41c66ee14a8f806
+source-git-commit: 5bd67c4692ed6a383597947fa40d83947f4ca9ff
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '536'
 ht-degree: 6%
 
 ---
@@ -63,8 +63,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr> 
    <td><strong>Controle de acesso com base em função para Email Designer Assets</strong>: um novo aprimoramento do sistema de controle de acesso com base em função (RBAC) fornece permissões mais granulares e gerenciamento de usuário aprimorado para ativos alimentados pelo novo Email Designer.</td> 
-   <td>Remetido</td>
-   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">Permissões granulares para o novo Designer de email (publicação do blog)</a></td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -73,8 +73,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr> 
    <td><strong>Clonagem de emails criados no Designer de email</strong>: agora você pode clonar um email existente criado com o novo Designer de email.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Remetido</td>
+   <td>n/d</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -92,12 +92,12 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-* **Atualização da Integração de Conversão Offline do Facebook**: em 29 de maio de 2025, a [integração de Conversão Offline do Facebook](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} para o Marketo Engage será migrada para a nova [API de Conversões Meta](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, devido à descontinuação da [API de Conversões Offline](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} do Meta, de acordo com o controle de versão da API de Gráfico. Para obter mais informações, consulte o Guia de meta para [enviar eventos offline via API de conversões](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI para offline).
+* **Atualização da Integração de Conversão Offline do Facebook**: em 29 de maio de 2025, a [integração de Conversão Offline do Facebook](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} para o Marketo Engage será migrada para a nova [API de Conversões Meta](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, devido à descontinuação da [API de Conversões Offline](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} do Meta, de acordo com o controle de versão da API de Gráfico. Para obter mais informações, consulte o Guia de meta para [enviar eventos offline via API de conversões](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI para offline).
 
 * **Novo Recurso do Analytics - Beta Público**: [O Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anteriormente conhecido como Revenue Explorer e Advanced Report Builder) começou a ser implantado para todos os usuários atuais do Revenue Cycle Explorer em meados de abril. Essa nova ferramenta oferece uma interface flexível de relatórios e visualização para dados do Marketo Engage, fornecendo detalhes detalhados sobre progressão, desempenho e muito mais. Ele oferece interatividade e visualização mais avançadas, desempenho mais rápido e uma experiência do usuário mais contínua e intuitiva.
 
 Para acessar esse recurso, é necessário ter adquirido o complemento Advanced BI Analytics. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
-* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot;, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot;, [conforme descrito aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
