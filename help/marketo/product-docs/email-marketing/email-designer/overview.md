@@ -5,9 +5,9 @@ description: Bem-vindo à nova Adobe Marketo Engage Email Designer.
 title: Visão geral
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ O designer de email é a mais recente inovação no Marketo Engage, criada para 
 
 +++Saiba como acessar o designer de email
 
-Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adicionar usuários {#add-users}
 
@@ -76,11 +76,19 @@ Os novos emails do Designer de email podem ser acessados em todos os programas (
 
 **Nossos modelos de email existentes funcionarão no novo designer? Caso contrário, precisamos criar modelos usando o novo designer para que todas as seções/módulos correspondam à aparência desejada para o nosso conteúdo?**
 
-Não, os modelos de email do editor clássico não podem ser referenciados no novo designer. Você precisará criar novos modelos no novo designer. No entanto, você _pode_ importar o HTML de modelo para o novo designer e fazer os ajustes necessários. Também estamos trabalhando em uma maneira de migrar facilmente modelos do editor clássico para o novo designer.
+Modelos de email do editor clássico não podem ser referenciados no novo designer. Você precisará criar novos modelos no novo designer. No entanto, você _pode_ importar o HTML de modelo para o novo designer e fazer os ajustes necessários. **Observação**: a compatibilidade do modelo do editor clássico com o novo designer será adicionada em breve.
+
+**Posso mover facilmente os novos ativos do designer para um programa diferente?**
+
+Não neste momento. Mas essa funcionalidade será disponibilizada em breve.
+
+**Os ativos podem ser editados por meio da API no novo designer de email?**
+
+No momento, o Assets que está sendo editado por meio da API não é compatível com o novo designer de email.
 
 **Existe uma maneira de impor a identidade visual (fontes, logotipos e cores)?**
 
-Bloquear seções de conteúdo são parte do novo designer e o estilo de bloqueio, cores etc., será lançado no final deste ano.
+Bloquear seções de conteúdo são parte do novo designer e o bloqueio de estilo, cores etc. será disponibilizado em breve.
 
 **Tornar os módulos dos modelos mais personalizáveis e escaláveis?**
 
@@ -88,16 +96,11 @@ Sim, absolutamente, mais personalizável com nosso editor WYSIWYG (what-you-see-
 
 **Como o processo de criação do modelo de email funciona no novo designer? É WYSIWYG ou exige conhecimento HTML?**
 
-Trata-se do WYSIWYG; o conhecimento sobre o HTML não é necessário. Você pode criar
-modelos no designer, reduzindo a necessidade de desenvolvedores web externos. No entanto, você ainda tem a opção de atualizar o CSS e editar seções individuais via HTML. Também estamos trabalhando em uma maneira de migrar facilmente modelos do editor clássico para o novo designer.
+Trata-se do WYSIWYG; o conhecimento sobre o HTML não é necessário. É possível criar modelos facilmente no designer, reduzindo a necessidade de desenvolvedores externos na Web. No entanto, você ainda tem a opção de atualizar o CSS e editar seções individuais via HTML. Também estamos trabalhando em uma maneira de migrar facilmente modelos do editor clássico para o novo designer.
 
 **O novo designer de email oferece suporte ao idioma do AMP?**
 
 No momento, ele não é compatível com AMP.
-
-**Os ativos podem ser editados por meio da API no novo designer de email?**
-
-No momento, o Assets que está sendo editado por meio da API não é compatível com o novo designer de email.
 
 **O conteúdo dinâmico por atributo é ótimo, mas o conteúdo dinâmico por segmento ainda funciona?**
 
