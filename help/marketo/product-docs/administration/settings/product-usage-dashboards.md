@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
+source-git-commit: 8a4f0015f99e62127f8b690263fb07de6a0a6e6f
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Os Tipos de atividade incluem contagens de atividades capturadas quando as pesso
 >
 >Para exibir uma contagem dos tipos de atividade para uma semana específica, passe o mouse sobre a semana desejada e a contagem será exibida.
 
-![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
-
 #### Perguntas frequentes {#faq}
 
 **Quais Tipos de Atividade são contados?**
@@ -70,17 +68,10 @@ O uso da atividade mostra quanto marketing está sendo realizado e ajuda a visua
 
 Agrupar atividades pelos tipos de atividades mais comuns observados nos últimos sete dias. Isso pode incluir categorias como _Alterar Valor dos Dados_, _Adicionar à Lista_ ou _Enviar Email_. Isso permite ver quais tipos de atividades estão acontecendo com mais frequência na sua conta do Marketo Engage.
 
-![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
-
-
 ### Por atributo de valor de dados de alteração {#by-change-data-value-attribute}
 
 _Alterar Valor de Dados_ é o tipo de atividade mais comum. Indica quando uma parte das informações em um registro de pessoa/cliente potencial é atualizada. Aqui, agrupamos pelos campos que são alterados com mais frequência para que você possa determinar quais informações são úteis para suas operações de marketing, se há oportunidades para otimizar o uso da plataforma etc.
 
-![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
-
 ### Por campanha {#by-campaign}
 
 Grupo pelo qual as campanhas estão produzindo mais atividades. Isso permite ver se você tem campanhas particularmente &quot;barulhentas&quot; que criam mais atividade do que o necessário. Aprenda rapidamente sobre campanhas que devem ser desativadas ou campanhas que estão fazendo mais trabalho do que o esperado.
-
-![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
