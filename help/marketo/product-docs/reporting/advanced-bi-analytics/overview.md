@@ -113,7 +113,7 @@ Saiba como exportar seções específicas do relatório.
    >[!NOTE]
    >
    >* _Os dados com o layout atual_ só estão disponíveis para visuais de tabela e matriz.
-   * _Os dados subjacentes_ não estão disponíveis no Marketo Engage.
+   >* _Os dados subjacentes_ não estão disponíveis no Marketo Engage.
 
 1. Escolha o formato de arquivo desejado (.XLS, .CSV).
 
