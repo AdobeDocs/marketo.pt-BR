@@ -4,9 +4,9 @@ description: Adicionar SSL às suas páginas de aterrissagem - Documentação do
 title: Adicionar SSL às suas landing pages
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '669'
 ht-degree: 1%
 
 ---
@@ -71,7 +71,7 @@ Abaixo você encontrará mensagens de erro que poderá receber junto com suas de
 <tbody>
   <tr>
     <td><i>Erro inesperado encontrado ao criar um domínio. Entre em contato com o Suporte para obter assistência.</i></td>
-    <td>Ocorreu um erro inesperado. Colete registros e detalhes de erros e encaminhe o problema para o suporte.</td>
+    <td>Ocorreu um erro inesperado. Colete logs e detalhes de erros e encaminhe o problema para o <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Suporte da Marketo</a>.</td>
   </tr>
   <tr>
     <td><i>O domínio padrão não foi encontrado. Entre em contato com o Suporte para obter assistência.</i></td>
@@ -89,22 +89,16 @@ Abaixo você encontrará mensagens de erro que poderá receber junto com suas de
     <td><i>O domínio já existe.</i></td>
     <td>Já existe um domínio com o mesmo nome.</td>
   </tr>
-  <tr>
-    <td><i>Uma configuração de IP único é necessária antes de adicionar mais domínios. Entre em contato com o Suporte para concluir a configuração e tentar adicionar outro domínio novamente.</i></td>
-    <td>O primeiro domínio personalizado após o domínio padrão precisa de uma configuração única para ser iniciada por você. Crie um tíquete de Suporte para concluir a configuração e adicione o domínio depois que terminar.</td>
-  </tr>
 </tbody></table>
 
 ## Itens a Observar {#things-to-note}
 
-* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pelo Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pelo Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSLs personalizados**: se você precisar de um SSL personalizado, envie um [Tíquete de suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Não use a caixa de seleção de autoatendimento para criação de SSL.
 
 * **SSLs pré-existentes**: ao adicionar um domínio, o sistema verifica se há SSLs pré-existentes, que podem ter sido criados manualmente antes. Se encontrar essa validação, crie seu domínio sem selecionar a criação de SSL e nós os conectaremos para você. [Contate o Suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obter mais detalhes/opções.
 
-* **Domínio de rastreamento pela primeira vez**: a criação pela primeira vez de domínios de link de rastreamento de email exigirá a intervenção manual do [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. A criação subsequente de subdomínio no mesmo domínio é permitida na interface do usuário.
-
 * **Adicionando certificados a domínios existentes**: não há suporte no momento para adicionar certificados a domínios existentes. Para domínios pré-existentes ou casos em que você não marcou a caixa do certificado SSL, entre em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para adicionar o certificado.
 
-* **Exclusão de domínios**: a exclusão de um domínio não exclui automaticamente o certificado SSL no momento. Isso será abordado em uma versão futura.
+* **Exclusão de domínios**: a exclusão de um domínio exclui automaticamente o certificado SSL.
