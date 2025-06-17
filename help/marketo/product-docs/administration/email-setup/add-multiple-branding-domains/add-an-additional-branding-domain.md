@@ -4,9 +4,9 @@ description: Adicionar um domínio de marca adicional - Documentação do Market
 title: Adicionar outro domínio de marca
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '602'
 ht-degree: 3%
 
 ---
@@ -77,7 +77,7 @@ Adicione outro domínio de marca ao executar várias marcas em uma única instâ
 
 ## Itens a Observar {#things-to-note}
 
-* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pelo Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pelo Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSLs personalizados**: se você precisar de um SSL personalizado, envie um [Tíquete de suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Não use a caixa de seleção de autoatendimento para criação de SSL.
 
@@ -86,6 +86,8 @@ Adicione outro domínio de marca ao executar várias marcas em uma única instâ
 * **Domínio de rastreamento pela primeira vez**: a criação pela primeira vez de domínios de link de rastreamento de email exigirá a intervenção manual do [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. A criação subsequente de subdomínio no mesmo domínio é permitida na interface do usuário.
 
 * **Adicionando certificados a domínios existentes**: não há suporte no momento para adicionar certificados a domínios existentes. Para domínios pré-existentes ou casos em que você não marcou a caixa do certificado SSL, entre em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para adicionar o certificado.
+
+* **Editar ou remover certificados em domínios existentes**: se precisar atualizar ou remover um SSL existente, entre em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * **Exclusão de domínios**: a exclusão de um domínio não exclui automaticamente o certificado SSL no momento. Isso será abordado em uma versão futura.
 
