@@ -4,9 +4,9 @@ description: Adicionar SSL às suas páginas de aterrissagem - Documentação do
 title: Adicionar SSL às suas landing pages
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '714'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,10 @@ A criptografia SSL (Secure Socket Layer) permite proteger todas as suas Landing 
 Por padrão, ao preencher um formulário da Web ou visitar uma landing page hospedada pela Marketo Engage, as informações são enviadas por protocolo não seguro (HTTP). De acordo com a política da empresa, talvez você queira proteger as informações enviadas à Marketo no (HTTPS). Por exemplo, quando você visitar `http://info.mydomain.com/`, agora será `https://info.mydomain.com/`.
 
 O Marketo Engage rastreia &quot;Página da Web visitada&quot; e &quot;Clique no link na página da Web&quot; por padrão por protocolo HTTP não seguro. Para ter os links de rastreamento protegidos com seu próprio certificado, o Marketo precisa criar um servidor não compartilhado separado para habilitá-lo. Proteger todos os aspectos da interação de um contato com você normalmente significa proteger tanto as páginas de aterrissagem quanto os links de rastreamento.
+
+>[!IMPORTANT]
+>
+>Antes de adicionar um SSL, certifique-se de verificar seu contrato quanto ao número total de domínios que você tem permissão para adicionar. Caso contrário, você pode incorrer em uma taxa. Se não conseguir encontrar as informações, entre em contato com a Equipe de contas da Adobe (seu gerente de conta) para obter detalhes.
 
 ## Habilitar certificação SSL {#enable-ssl-certification}
 
@@ -93,7 +97,7 @@ Abaixo você encontrará mensagens de erro que poderá receber junto com suas de
 
 ## Itens a Observar {#things-to-note}
 
-* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pelo Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pelo Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSLs personalizados**: se você precisar de um SSL personalizado, envie um [Tíquete de suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Não use a caixa de seleção de autoatendimento para criação de SSL.
 
