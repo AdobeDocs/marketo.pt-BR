@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Aproveite sua conta do [Litmus](https://www.litmus.com/email-testing) no Marketo Engage para ver instantaneamente como seu email é renderizado em clientes de email populares.
 
-## Como usar {how-to-use}
+## Como usar &lbrace;how-to-use&rbrace;
 
 1. Na tela de edição de conteúdo da sua mensagem ou no Designer de email, clique no botão Simular conteúdo.
 
