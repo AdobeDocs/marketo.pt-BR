@@ -1,18 +1,20 @@
 ---
-title: Conectar Experience Manager doc
-description: Saiba como conectar o Adobe Experience Manager Cloud Service ao Adobe Marketo Engage para que você possa aproveitar seus ativos do AEM.
+title: Conectar documento do Experience Manager
+description: Saiba como conectar o Adobe Experience Manager Cloud Services ao Adobe Marketo Engage para poder aproveitar seus ativos da AEM.
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Conectar o Adobe Experience Manager Cloud Service {#connect-adobe-experience-manager-cloud-services}
+# Conectar o Adobe Experience Manager Cloud Services {#connect-adobe-experience-manager-cloud-services}
 
-Saiba como conectar sua conta do AEM Assets Cloud Service à sua instância do Adobe Marketo Engage para que você possa aproveitar seu repositório de ativos do AEM no Marketo Engage Email Designer.
+Saiba como conectar sua conta do AEM Assets Cloud Services à instância do Adobe Marketo Engage para poder aproveitar o repositório do AEM Asset no Marketo Engage Email Designer.
 
 >[!NOTE]
 >
@@ -22,7 +24,7 @@ Saiba como conectar sua conta do AEM Assets Cloud Service à sua instância do A
 
 CAPTURA DE TELA
 
-1. Clique em **Editar** ao lado de _Adobe Experience Manager Cloud Service_.
+1. Clique em **Editar** ao lado de _Adobe Experience Manager Cloud Services_.
 
 CAPTURA DE TELA
 
@@ -32,7 +34,7 @@ CAPTURA DE TELA
 
 >[!NOTE]
 >
->Somente repositórios que foram associados na mesma organização IMS que a sua assinatura do Marketo Engage são listados.
+>Somente repositórios que foram associados na mesma organização IMS que sua assinatura do Marketo Engage são listados.
 
 1. Você deve adicionar um [certificado de credencial de serviço](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) para configurar o repositório. Clique no botão **+ Adicionar certificado**.
 
@@ -50,4 +52,4 @@ Agora, todas as imagens da biblioteca de gerenciamento de ativos digitais nesse 
 
 >[!MORELIKETHIS]
 >
->[Trabalhar com ativos do Experience Manager](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)
+>[Trabalhar com ativos da Experience Manager](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)

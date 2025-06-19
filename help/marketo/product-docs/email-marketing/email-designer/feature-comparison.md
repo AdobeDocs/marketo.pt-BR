@@ -3,11 +3,11 @@ solution: Marketo Engage
 product: marketo
 title: Comparação de recursos do Email Designer e do Editor de email
 description: Use esta tabela para comparar a disponibilidade de recursos no editor de email anterior (Email Editor 2.0) e no novo Email Designer.
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%

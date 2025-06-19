@@ -1,9 +1,10 @@
 ---
 description: Criação de email - Documentação do Marketo - Documentação do produto
 title: Criação de email
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '1742'
 ht-degree: 1%
@@ -16,7 +17,7 @@ Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email 
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Criar um email {#create-an-email}
 
@@ -26,7 +27,7 @@ Emails do designer de email só podem ser criados no Design Studio e referenciad
 
 >[!TAB Design Studio]
 
-1. Faça logon no Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Faça logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Em Meu Marketo, selecione **Design Studio**.
 
@@ -46,7 +47,7 @@ Emails do designer de email só podem ser criados no Design Studio e referenciad
 
 >[!TAB Programa de email]
 
-1. Faça logon no Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Faça logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Localize e selecione (ou crie) seu programa de email.
 
