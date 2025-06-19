@@ -5,14 +5,14 @@ description: Bem-vindo à nova Adobe Marketo Engage Email Designer.
 title: Visão geral
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
 
-# Visão geral {#overview}
+# Visão geral do Designer de email {#overview}
 
 Bem-vindo à nova Adobe Marketo Engage Email Designer.
 
@@ -26,7 +26,7 @@ O designer de email é a mais recente inovação no Marketo Engage, criada para 
 
 +++Saiba como acessar o designer de email
 
-Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adicionar usuários {#add-users}
 
@@ -54,6 +54,8 @@ Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser
 
 * [Fragmentos personalizáveis](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: saiba como personalizar fragmentos tornando alguns de seus campos editáveis.
 
+* [Tokens do Personalization](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: saiba mais sobre o novo formato para tokens de personalização no novo designer de email.
+
 * [Trabalhar com ativos do AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: saiba como acessar facilmente os ativos digitais do AEM para usar no Marketo Engage.
 
 * [Editar imagens com o Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: saiba como editar imagens no Adobe Marketo Engage Email Editor usando o Adobe Express.
@@ -61,6 +63,8 @@ Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser
 * [Usar o Assistente de IA](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: aproveite a tecnologia de IA generativa da Adobe para adicionar texto e/ou imagens úteis aos seus emails.
 
 * [Bloquear conteúdo em modelos de email](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: saiba como bloquear conteúdo em modelos de email, ajudando a impedir edições ou exclusões não intencionais.
+
+* [Testar a Renderização de Email com o Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: aproveite sua conta do Litmus no Marketo Engage para ver instantaneamente como seu email é renderizado em clientes de email populares.
 
 * [Comparação de recursos](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: compare a disponibilidade de recursos no editor de email anterior (Email Editor 2.0) com a nova Designer de email.
 
@@ -112,4 +116,4 @@ Se você fizer logon no Marketo Engage por meio da [Adobe Experience Cloud](http
 
 **Quais navegadores posso usar com o novo Designer de Email?**
 
-É recomendável usar o Google Chrome, Apple Safari ou Microsoft Edge. O suporte completo para o Mozilla Firefox estará disponível em uma data posterior.
+É recomendável usar o Google Chrome, Apple Safari ou Microsoft Edge. O suporte completo para o Mozilla Firefox estará disponível em breve.
