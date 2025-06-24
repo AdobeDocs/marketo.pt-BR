@@ -4,9 +4,9 @@ description: Notas de versão - Verão de 17 - Documentação do Marketo - Docum
 title: Notas de versão - Verão de 2017
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '393'
 ht-degree: 8%
 
 ---
@@ -19,7 +19,7 @@ Clique nos links de título para exibir artigos detalhados para cada recurso. Ob
 
 ## [Estágios de Conversão Offline Adicionais do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-Escolha até 7 estágios de conversão offline adicionais para mapear para os estágios do ciclo de vida do Marketo (além dos 3 disponíveis atualmente). Otimize seu investimento em anúncios do Facebook com base em conversões na jornada do cliente para obter melhor ROI.
+Escolha até 7 estágios de conversão offline adicionais para mapear para os estágios do ciclo de vida do Marketo (além dos 3 disponíveis atualmente). Otimize seu investimento em anúncios do [!DNL Facebook] com base em conversões na jornada do cliente para obter um ROI melhor.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
@@ -37,13 +37,13 @@ Corresponder nomes de empresas japonesas no idioma local.
 
 **[ABM e Integração de LeanData](https://docs.marketo.com/x/pKmt)**
 
-A integração LeanData agora permite a correspondência entre lead e conta no Marketo. Mantenha o marketing e as vendas alinhadas tendo os mesmos clientes potenciais associados às contas nos sistemas de vendas e marketing do registro. Opções mais flexíveis oferecem às operações de marketing e vendas mais controle sobre as regras de correspondência entre lead e conta, para que possam atingir o nível desejado de precisão.
+A integração do [!DNL LeanData] agora permite a correspondência entre lead e conta no Marketo. Mantenha o marketing e as vendas alinhadas tendo os mesmos clientes potenciais associados às contas nos sistemas de vendas e marketing do registro. Opções mais flexíveis oferecem às operações de marketing e vendas mais controle sobre as regras de correspondência entre lead e conta, para que possam atingir o nível desejado de precisão.
 
 ## Aprimoramentos de personalização da web {#web-personalization-enhancements}
 
 **[Aprimoramentos de visualização de campanha](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-Os profissionais de marketing agora podem garantir que suas campanhas da Web tenham uma ótima aparência em qualquer dispositivo *antes* de iniciá-las. Com esses aprimoramentos, veja como suas campanhas da Web serão renderizadas em desktops, dispositivos móveis e tablets. O novo plug-in do Chrome também oferece visualizações mais consistentes e precisas.
+Os profissionais de marketing agora podem garantir que suas campanhas da Web tenham uma ótima aparência em qualquer dispositivo *antes* de iniciá-las. Com esses aprimoramentos, veja como suas campanhas da Web serão renderizadas em desktops, dispositivos móveis e tablets. O novo plug-in para [!DNL Chrome] também oferece visualizações mais consistentes e precisas.
 
 **[Aprimoramentos de campanha de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -51,7 +51,7 @@ Novas opções para Campanhas de widget estão disponíveis, incluindo:
 
 * Acionar campanhas (atraso, rolagem)
 * Exibir campanhas (qualquer posição na tela)
-* Altere a seta de expansão/minimização para qualquer texto CTA
+* Alterar a seta de expansão/minimização para qualquer texto do CTA
 
 ## IA de conteúdo {#contentai}
 
@@ -61,10 +61,10 @@ Aumente o retorno sobre o marketing de conteúdo com análises mais profundas e 
 
 ## Analytics {#analytics}
 
-**Aprimoramentos de percepções de e-mail**
+**[!UICONTROL Insights de email] Aprimoramentos**
 
-Aproveite ainda mais a sua experiência de Insights de email com novas maneiras de preparar e compartilhar dados. Agora é possível baixar os resultados de Insights de email no Microsoft Excel e no PowerPoint para trabalhar com os dados fora do Marketo.
+Obtenha ainda mais da sua experiência de [!UICONTROL Email Insights] com novas maneiras de preparar e compartilhar dados. Agora você pode baixar os [!UICONTROL resultados de Insights de Email] em [!DNL Microsoft Excel] e [!DNL PowerPoint] para trabalhar com dados fora do Marketo.
 
 ## Suporte de contatado de identidade federada {#federated-identity-configuration-support}
 
-Mantenha a autenticação (Ative Diretory) atrás do firewall no local enquanto continua usando o Microsoft Dynamics CRM na nuvem.
+Mantenha a autenticação (Ative Diretory) atrás do firewall localmente enquanto continua usando o [!DNL Microsoft Dynamics] CRM na nuvem.

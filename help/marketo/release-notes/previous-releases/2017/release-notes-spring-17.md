@@ -3,11 +3,10 @@ unique-page-id: 12977439
 description: Notas de versão - Segundo trimestre de 2017 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - primavera de 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 4%
+source-wordcount: '651'
+ht-degree: 3%
 
 ---
 
@@ -17,25 +16,25 @@ Os seguintes recursos estão incluídos na versão da primavera de 17. Verifique
 
 Clique nos links de título para exibir artigos detalhados para cada recurso. **Observação**: se um tópico tiver vários subtítulos, os links serão colocados lá.
 
-## [Líder de Geração Forms da LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [Forms da Geração Principal do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) são uma maneira mais direta de uma empresa executar campanhas de geração de leads no LinkedIn. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e sincronize-os com o Marketo, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de clientes potenciais.
+[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) são uma maneira mais direta de uma empresa executar campanhas de geração de leads em [!DNL LinkedIn]. As pessoas podem preencher formulários para expressar interesse em um produto ou serviço, permitindo que a empresa capture os detalhes da pessoa e sincronize-os com o Marketo, onde podem ocorrer processos de acompanhamento automatizados e atividades de roteamento de clientes potenciais.
 
-A integração do Marketo com o LinkedIn Lead Gen Forms captura automaticamente as informações que um lead fornece no formulário Lead Gen. As ações e notificações de acompanhamento podem ser automatizadas usando o novo acionador e filtro **Preencher Formulário de Líder de Geração da LinkedIn**.
+A integração do Marketo com o [!UICONTROL LinkedIn Lead Gen] Forms captura automaticamente as informações que um lead fornece no formulário Lead Gen. As ações e notificações de acompanhamento podem ser automatizadas usando o novo acionador e filtro **Preencher Formulário [!DNL LinkedIn Lead Gen]**.
 
 ![](assets/release-notes-image.png)
 
 ## [Expirar modelo do MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
-Longe vão os dias de limpeza de modelos desatualizados no Sales Insight. Defina uma data de expiração ao publicar seu email e cuidaremos do cancelamento da publicação para você quando a data de expiração for acumulada.
+Foram-se os dias de limpeza de modelos desatualizados em [!DNL Sales Insight]. Defina uma data de expiração ao publicar seu email e cuidaremos do cancelamento da publicação para você quando a data de expiração for acumulada.
 
 >[!NOTE]
 >
->Definir a data de expiração para 31/5/17 significa que o modelo será removido do Sales Insight no final do dia 31/5/17.
+>Definir a data de expiração para 31/5/17 significa que o modelo será removido de [!DNL Sales Insight] no final do dia 31/5/17.
 
 ![](assets/four-281-29.png)
 
-## [APIs de Extração em Massa para Pessoas e Atividades](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [APIs de Extração em Massa para Pessoas e Atividades](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
 Transfira facilmente grandes quantidades de dados pessoais e de atividades do Marketo para seus sistemas externos.
 
@@ -49,7 +48,7 @@ O Marketo ABM agora permite criar até 10 campos personalizados em suas Contas n
 
 As pontuações de contas nomeadas podem variar muito. O Marketo ABM agora calcula automaticamente um percentil para cada uma de suas pontuações, para que você possa ver de perto onde cada conta nomeada está entre suas outras contas nomeadas.
 
-**[APIs da Lista de Contas ABM](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[APIs da Lista de Contas ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Aproveite as vantagens das integrações avançadas e robustas de parceiros ABM com o suporte aprimorado à API para Listas de contas nomeadas.
 
@@ -59,7 +58,7 @@ Aproveite as vantagens das integrações avançadas e robustas de parceiros ABM 
 
 **[Campanha Da Web Na Rolagem](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-Os novos efeitos do Web Campaign fornecem aos visitantes da Web uma experiência mais personalizada. Defina suas Campanhas da Web personalizadas para serem exibidas somente quando um visitante da Web rolar para baixo em sua página da Web. Você pode definir que suas Campanhas da Web de diálogo sejam exibidas ao rolar com base em:
+Os novos efeitos do Web Campaign fornecem aos visitantes da Web uma experiência mais personalizada. Defina as [!UICONTROL Campanhas da Web] personalizadas para serem exibidas somente quando um visitante da Web rolar para baixo em sua página da Web. Você pode definir que suas [!UICONTROL Campanhas da Web] de diálogo sejam exibidas ao rolar com base em:
 
 * porcentagem da página rolada
 * pixel atingido
@@ -67,9 +66,9 @@ Os novos efeitos do Web Campaign fornecem aos visitantes da Web uma experiência
 
 **[Campanha da Web ao sair da intenção](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-Chame a atenção do visitante antes que ele feche a página. Defina suas Campanhas da Web personalizadas para serem exibidas somente quando um gesto do mouse indicar que o visitante está saindo da página.
+Chame a atenção do visitante antes que ele feche a página. Defina as [!UICONTROL Campanhas da Web] personalizadas para serem exibidas somente quando um gesto do mouse indicar que o visitante está saindo da página.
 
-**[Efeitos de animação para campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+**[Efeitos de Animação para [!UICONTROL Campanhas da Web]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Defina os efeitos de animação para sua caixa de diálogo Campanha da Web para personalizar como uma campanha aparece ao entrar ou sair da página da Web. Você pode selecionar entre 6 efeitos diferentes e controlar o tempo e a direção do diálogo.
 
@@ -77,13 +76,13 @@ Defina os efeitos de animação para sua caixa de diálogo Campanha da Web para 
 
 **[Personalização do botão de fechamento de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Personalizar o botão Fechar para caixas de diálogo. Selecione entre uma variedade de opções usadas em Campanhas da Web com estilo de caixa de diálogo transparente. Selecione o ícone, cor e posicionamento do Botão Fechar. Você também pode adicionar sua própria imagem de botão.
+Personalizar o botão Fechar para caixas de diálogo. Selecione de um intervalo de opções usadas no Estilo de Caixa de Diálogo Transparente [!UICONTROL Campanhas da Web]. Selecione o ícone, cor e posicionamento do Botão Fechar. Você também pode adicionar sua própria imagem de botão.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
 **[Arquivar campanhas da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
-Archive é um novo status do Web Campaign que permite arquivar Campanhas da Web e ocultá-las da exibição padrão do Web Campaign. Isso permite que você se concentre em suas campanhas ativas mais relevantes e recupere campanhas arquivadas mais antigas sob demanda.
+O arquivamento é um novo status do Web Campaign que permite arquivar [!UICONTROL Campanhas da Web] e ocultá-las da exibição padrão do Web Campaign. Isso permite que você se concentre em suas campanhas ativas mais relevantes e recupere campanhas arquivadas mais antigas sob demanda.
 
 ![](assets/archive-campaign-5b2-5d.png)
 

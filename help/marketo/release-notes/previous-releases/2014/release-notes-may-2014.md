@@ -4,7 +4,7 @@ description: Notas de versão - maio de 2014 - Documentação do Marketo - Docum
 title: Notas de versão - maio de 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 1%
@@ -41,9 +41,9 @@ Agora todos têm vários programas, transmissões e limites de comunicação.
 >
 >`[[https://www.marketo.com]]`
 
-Por padrão, nenhum link será rastreado na versão de texto dos emails. Adicione essa nova sintaxe para indicar quando um link deve ser convertido em um link de rastreamento. O comportamento dos links de HTML é inalterado.  Para adicionar links rastreados aos emails:
+Por padrão, nenhum link será rastreado na versão de texto dos emails. Adicione essa nova sintaxe para indicar quando um link deve ser convertido em um link de rastreamento. O comportamento dos links do HTML não é alterado.  Para adicionar links rastreados aos emails:
 
-* **versão do HTML:** basta inserir seu link. Ele será rastreado por padrão.
+* **Versão do HTML:** basta inserir seu link. Ele será rastreado por padrão.
 * **Versão do texto:** Insira a URL cercada por colchetes duplos.
 
 Para adicionar links não rastreados aos emails:
@@ -57,13 +57,13 @@ Para adicionar links não rastreados aos emails:
 
 Veja como seus links se comportarão em emails antecipadamente. Os emails de amostra agora exibem links exatamente como aparecem para seus clientes potenciais. Visualize quais links foram convertidos em links de rastreamento, fornecendo uma melhor noção de como a mensagem realmente aparecerá para os recipients.
 
-## Anular campanha {#abort-campaign}
+## [!UICONTROL Anular campanha] {#abort-campaign}
 
 Não entre em pânico! Se você encontrar um erro, use o novo botão [abortar campanha](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) para interromper imediatamente as campanhas em suas faixas. Você receberá uma notificação descrevendo quantos leads estavam pendentes em cada etapa do fluxo quando a campanha foi interrompida.
 
-## Sales Insight em japonês, português e espanhol {#sales-insight-in-japanese-portuguese-and-spanish}
+## [!UICONTROL Sales Insight] em japonês, português e espanhol {#sales-insight-in-japanese-portuguese-and-spanish}
 
-Baixe a versão mais recente do Sales Insight no AppExchange para que seus agentes de vendas que falam japonês, português e espanhol visualizem o conteúdo do Sales Insight em seu idioma preferido.
+Baixe a última versão do [!UICONTROL Sales Insight] da AppExchange para que seus agentes de vendas que falam japonês, português e espanhol vejam o conteúdo do [!UICONTROL Sales Insight] no idioma de sua preferência.
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
@@ -71,9 +71,9 @@ Baixe a versão mais recente do Sales Insight no AppExchange para que seus agent
 
 Visualize quantos [membros estão em cada Status do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando eles foram alterados para cada status, incluindo a data em que obtiveram êxito no Programa.
 
-## Emails de teste A/B na Análise de email {#a-b-test-emails-in-email-analysis}
+## Emails de Teste A/B na [!UICONTROL Análise de email] {#a-b-test-emails-in-email-analysis}
 
-Relatório sobre cada uma das [variantes de email de teste A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) na Análise de email.
+Relatório sobre cada uma das [variantes de email de teste A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) em [!UICONTROL Análise de email].
 
 ## Alterações de empacotamento do Analytics {#analytics-packaging-changes}
 

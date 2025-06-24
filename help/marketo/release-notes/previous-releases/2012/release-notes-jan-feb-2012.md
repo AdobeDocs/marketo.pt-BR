@@ -4,9 +4,9 @@ description: Notas de versão - Janeiro/Fev de 2012 - Documentação do Marketo 
 title: Notas de versão - janeiro/fevereiro de 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -61,7 +61,7 @@ Agora, as organizações podem oferecer suporte a um logon perfeito no aplicativ
 
 Os editores de email e página de aterrissagem foram reprojetados com uma interface mais convidativa, navegação intuitiva e uma experiência do usuário drasticamente aprimorada, que inclui:
 
-Um HTML e uma visualização de texto lado a lado
+Uma visualização lado a lado de HTML e texto
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
@@ -69,10 +69,10 @@ O Do nome, Do e-mail, Responder para (NOVO) e Assunto são exibidos no editor. T
 
 ## Suporte ao navegador {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 e 9
-* **Observação**: não há mais suporte para o Internet Explorer 7
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 E 9
+* **Observação**: não há mais suporte para [!DNL Internet Explorer] 7
 
 ## Gerenciamento do programa {#program-management}
 
@@ -86,7 +86,7 @@ Agora é possível cancelar a assinatura da assinatura diretamente do relatório
 
 ## Atualizações de Munchkin {#munchkin-updates}
 
-As novas chamadas do Munchkin reduzem o tempo de carregamento da página da Web e fornecem um desempenho mais consistente para eventos de links de cliques.
+As novas chamadas do Munchkin reduzem o tempo de carregamento da página da Web e fornecem desempenho mais consistente para eventos de links de cliques.
 
 ## Análise de oportunidade do programa (somente RCA) {#program-opportunity-analysis-rca-only}
 
@@ -96,6 +96,6 @@ Entender a contribuição de marketing para a receita de oportunidades individua
 
 ## Análise do estágio de receita do programa {#program-revenue-stage-analysis}
 
-Obter informações sobre a velocidade do lead do programa, entendendo quais programas adquiriram os impulsionadores rápidos
+Ganhe insight na velocidade de liderança do programa, entendendo quais programas adquiriram os aceleradores
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)

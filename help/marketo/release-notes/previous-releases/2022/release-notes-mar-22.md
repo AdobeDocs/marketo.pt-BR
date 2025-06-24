@@ -1,11 +1,11 @@
 ---
 description: Notas de versão - março de 2022 - Documentação do Marketo - Documentação do produto
-title: Notas de versão - março de 2022
+title: Notas de versão - Março de 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Os seguintes recursos estão incluídos na versão de março de 2022. Verifique 
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
 
 **_Versões Trimestrais_**
 
@@ -24,7 +24,7 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 ## Orquestração entre canais {#cross-channel-orchestration}
 
-* **Dynamic Chat**: maximize todas as oportunidades em seu site direcionando clientes em potencial e contas com conversas proativas, envolventes e personalizadas 1:1. O [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permite que os usuários do Marketo Engage comecem a aproveitar o chat como parte essencial das experiências integradas entre canais para casos de uso de marketing e vendas B2B. Os recursos incluem: a capacidade de reservar reuniões diretamente no chat, roteamento de leads, modelos iniciais, criação de conversas com o método arrastar-e-soltar e muito mais. O Dynamic Chat está incluído em todos os pacotes de Marketo Engage e será lançado para todos os usuários Marketo Engage este ano.
+* **[!DNL Dynamic Chat]**: maximize todas as oportunidades em seu site direcionando clientes em potencial e contas com conversas proativas, envolventes e personalizadas 1:1. O [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permite que os usuários do Marketo Engage comecem a aproveitar o chat como parte essencial das experiências integradas entre canais para casos de uso de marketing e vendas B2B. Os recursos incluem: a capacidade de reservar reuniões diretamente no chat, roteamento de leads, modelos iniciais, criação de conversas com o método arrastar-e-soltar e muito mais. O Dynamic Chat está incluído em todos os pacotes do Marketo Engage e será lançado para todos os usuários do Marketo Engage este ano.
 
 * **Aprimoramento da Filtragem de atividade de bot por email**: como aprimoramento do recurso [Filtragem de atividade de bot por email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} lançado anteriormente, agora é possível aceitar atividades de registro identificadas como bots. Em seguida, você pode filtrar e acionar ações com base em atividades identificadas como executadas por bots.
 
@@ -32,7 +32,7 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 * **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
-   * Exibição de lista de formulários no Design Studio (incluindo novas ações em massa)
+   * Exibição de Lista de Formulários no [!UICONTROL Design Studio] (incluindo novas ações em massa)
 
 * **Atualização do Fluxo de Trabalho do Programa de Importação**: o fluxo de trabalho do programa de importação está sendo fornecido na experiência de próxima geração com um design atualizado e melhorias na usabilidade. Essa será uma alteração automática sem um switch de alternância.
 
@@ -60,21 +60,21 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos próximos meses.
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Modelos de BI**: a Bizible fornecerá agora artefatos de relatórios fundamentais para download e relatórios de amostra para o Tableau e o Power BI para permitir o rápido desenvolvimento de relatórios personalizados adaptados às suas necessidades comerciais específicas.
+* **Modelos de BI**: [!DNL Bizible] agora fornecerá artefatos de relatórios fundamentais e baixáveis, além de relatórios de amostra para Tableau e Power BI, para permitir o rápido desenvolvimento de relatórios personalizados adaptados às suas necessidades comerciais específicas.
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Limitação da Conexão de Email (GA)**: a Limitação da Conexão de Email permite que os administradores do Sales Connect configurem a taxa de envio de emails ao usar o Gmail ou o Exchange como canal de entrega, para que a taxa na qual os emails sejam entregues ao provedor de canal de entrega não exceda os limites impostos.
+* **Limitação da Conexão de Email (GA)**: a Limitação da Conexão de Email permite que administradores do [!DNL Sales Connect] configurem a taxa de envio de emails ao usar o Gmail ou o [!DNL Exchange] como canal de entrega, para que a taxa na qual os emails sejam entregues ao provedor de canal de entrega não exceda os limites impostos.
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do Marketo Sky**: em março, o Marketo Sky não estará mais disponível, pois concentraremos nossos recursos no fornecimento da experiência de usuário da próxima geração. Em um esforço para manter o acesso à funcionalidade exclusiva do Marketo Sky hoje, estamos trazendo a Expiração de ativos e a Substituição de prioridade da Campanha inteligente para a experiência Clássica. [Clique aqui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para saber mais.
+* **Descontinuação do Marketo Sky**: em março, o Marketo Sky não estará mais disponível, pois concentraremos nossos recursos no fornecimento da experiência de usuário da próxima geração. Em um esforço para manter o acesso a uma funcionalidade exclusiva do Marketo Sky hoje, estamos trazendo a Expiração de ativos e a Substituição de prioridade da Campanha inteligente para a experiência Clássica. [Clique aqui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para saber mais.
 
 **_Webinar de lançamento de produto_**
 

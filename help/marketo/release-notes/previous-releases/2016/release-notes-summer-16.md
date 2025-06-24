@@ -3,10 +3,9 @@ unique-page-id: 11380218
 description: Notas de versão - Verão de 16 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Verão de 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '774'
 ht-degree: 3%
 
 ---
@@ -39,13 +38,13 @@ A trilha de auditoria fornece um histórico abrangente das alterações feitas n
 
 ![](assets/audit-trail.png)
 
-## [Integração do Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Integração do Marketo-Vibes SMS LaunchPoint
 
 Crie facilmente mensagens SMS diretamente no Marketo. Personalize e direcione sua mensagem usando seus dados avançados do Marketo e monitore facilmente o desempenho usando o painel de mensagens SMS.
 
 >[!NOTE]
 >
->Esse recurso exige uma conta SMS do Vibes existente.
+>Este recurso requer uma conta existente do [!DNL Vibes SMS].
 
 ![](assets/vibes-sms2.png)
 
@@ -86,7 +85,7 @@ Criamos um novo tipo de token para programas. Agora é possível renderizar o No
 
 ## [Chave de empresa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Exigir que cada pessoa em sua equipe de vendas instale nosso plug-in Sales Insight para Outlook pode ser entediante. Introduzimos uma nova maneira de instalar o plug-in para Outlook remotamente usando uma chave corporativa. Envie à sua equipe de TI sua chave exclusiva, localizada na seção Marketo Sales Insight do Administrador, e permita que ela faça o resto.
+Exigir que cada pessoa da sua equipe de vendas instale nosso Plug-in do [!DNL Sales Insight] para o [!DNL Outlook] pode ser entediante. Introduzimos uma nova maneira de instalar o plug-in para [!DNL Outlook] remotamente usando uma chave corporativa. Envie à sua equipe de TI sua chave exclusiva encontrada na seção [!DNL Sales Insight] do Marketo do [!UICONTROL Administrador] e deixe que eles façam o resto.
 
 ![](assets/enterprise-key.png)
 
@@ -100,16 +99,16 @@ Especifique um atraso para que as campanhas da Web reajam no site.
 
 Exibir dados de análises de conteúdo e recomendações offline.
 
-## [Suporte a API do Editor do E-mail 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## [Suporte a API do Editor do E-mail 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 As APIs de ativos pré-existentes, antes compatíveis apenas com emails e modelos v1.0, agora estão habilitadas para ativos de email v2.0.
 
-## [Site de desenvolvedores do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Site de desenvolvedores do Marketo](https://developers.marketo.com/) {#marketo-developers-site}
 
 Novidades e melhorias!
 
 ## [Configurações de privacidade](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Os profissionais de marketing podem usar as configurações de privacidade para decidir se rastreiam ou não os visitantes que usam os recursos do Munchkin e do Web Personalization. O nível de rastreamento é controlado usando a configuração Não rastrear do navegador, um cookie de opção de não participação ou um IP não específico. Esses métodos podem afetar o valor e a funcionalidade do Marketo em áreas específicas, mas se o profissional de marketing não mudar nada, a funcionalidade do Marketo permanecerá a mesma.
+Os profissionais de marketing podem usar as configurações de privacidade para decidir se rastreiam ou não os visitantes que usam os recursos do [!DNL Munchkin] e do Web Personalization. O nível de rastreamento é controlado usando a configuração Não rastrear do navegador, um cookie de opção de não participação ou um IP não específico. Esses métodos podem afetar o valor e a funcionalidade do Marketo em áreas específicas, mas se o profissional de marketing não mudar nada, a funcionalidade do Marketo permanecerá a mesma.
 
 Esse recurso será lançado gradualmente para os clientes ao longo de um período de seis semanas. Se precisar dele imediatamente, entre em contato com o Suporte da Marketo.

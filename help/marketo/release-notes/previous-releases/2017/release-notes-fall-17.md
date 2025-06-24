@@ -4,9 +4,9 @@ description: Notas de versão - Último trimestre de 2017 - Documentação do Ma
 title: Notas de versão - Último trimestre de 2017
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '586'
 ht-degree: 5%
 
 ---
@@ -19,11 +19,11 @@ Clique nos links de título para exibir artigos detalhados para cada recurso. Ob
 
 ## Confiabilidade do sistema {#system-reliability}
 
-Fizemos melhorias adicionais na infraestrutura principal do Marketo, incluindo melhor sequenciamento, menos incompatibilidades e melhora a estabilidade do Munchkin.
+Melhoramos ainda mais a infraestrutura principal do Marketo, incluindo melhor sequenciamento, menos incompatibilidades e a estabilidade do [!DNL Munchkin].
 
 ## Carimbo de sincronização SFDC {#sfdc-sync-performance}
 
-Aproveite a sincronização mais avançada e rápida no Marketo e Salesforce. As alterações de dados que exigem atualizações em massa em contas ou leads podem ser divididas em filas paralelas para evitar backlogs. Agora, os eventos e as tarefas também são sincronizados até 50% mais rápido.
+Aproveite a sincronização mais avançada e rápida entre o Marketo e o [!DNL Salesforce]. As alterações de dados que exigem atualizações em massa em contas ou leads podem ser divididas em filas paralelas para evitar backlogs. Agora, os eventos e as tarefas também são sincronizados até 50% mais rápido.
 
 ## Melhorias no desempenho de análises {#analytics-performance-improvements}
 
@@ -43,16 +43,16 @@ Com esse novo recurso, agora é possível reter e entregar emails de acordo com 
 
 O Marketo tem uma nova opção para escolher um segmento ao enviar emails de amostra para revisão. Não é mais necessário determinar manualmente a qual segmento um lead pertence, facilitando o envio de emails com conteúdo dinâmico para segmentos diferentes.
 
-## [Perguntas Personalizadas da Geração de Clientes Potenciais da LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Perguntas Personalizadas sobre a Geração de Clientes Potenciais do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Personalize seus formulários do LinkedIn Lead Gen para coletar atributos de lead personalizados. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre uma entrada de texto de linha única ou perguntas de múltipla escolha e mapear de volta aos campos de cliente potencial do Marketo.
+Personalize seus formulários do [!UICONTROL LinkedIn Lead Gen] para coletar atributos de lead personalizados. Agora é possível fazer até três perguntas personalizadas por formulário, escolher entre uma entrada de texto de linha única ou perguntas de múltipla escolha e mapear de volta aos campos de cliente potencial do Marketo.
 
 ## Integração do Slack {#slack-integration}
 
-Lançamos dois recursos como parte de nossa nova integração de Slack:
+Lançamos dois recursos como parte de nossa nova integração com o Slack:
 
-* Notificações do sistema: receba notificações Slack sobre eventos importantes na instância do Marketo, como alertas sobre status atuais da campanha e qualquer problema que exija atenção imediata.
-* Momentos interessantes: quando um Marketo Insight é acionado por um indivíduo conhecido de uma conta de vendas, os proprietários principais podem ser notificados por meio do Slack. As notificações incluem informações de cliente potencial, bem como detalhes sobre a conta de vendas.
+* Notificações do sistema: receba notificações do Slack sobre eventos importantes na sua instância do Marketo, como alertas sobre status atuais da campanha e qualquer problema que exija atenção imediata.
+* Momentos interessantes: quando um Insight do Marketo é acionado por um indivíduo conhecido de uma conta de vendas, os proprietários principais podem ser notificados por meio do Slack. As notificações incluem informações de cliente potencial, bem como detalhes sobre a conta de vendas.
 
 ## Aprimoramentos de ABM {#abm-enhancements}
 
@@ -86,10 +86,10 @@ Economize tempo reutilizando ativos criativos e imagens em vários canais no Mar
 
 ## Integração  {#integration}
 
-**[API de Visualização de Email](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting)**
+**[API de Visualização de Email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Agora você pode visualizar remotamente emails fora do Marketo, simplificando o processo de localização de conteúdo de email e reduzindo erros.
 
-**[Substituir API de HTML](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting)**
+**[Substituir API do HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
-Os desenvolvedores podem atualizar o conteúdo de HTML dos ativos de email remotamente, permitindo que trabalhem em um único sistema para manter os ativos.
+Os desenvolvedores podem atualizar o conteúdo do HTML de ativos de email remotamente, permitindo que trabalhem em um único sistema para manter os ativos.

@@ -4,10 +4,10 @@ description: Notas de versão - junho de 2014 - Documentação do Marketo - Docu
 title: Notas de versão - junho de 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 20%
+source-wordcount: '252'
+ht-degree: 11%
 
 ---
 
@@ -17,15 +17,15 @@ Os recursos a seguir estão incluídos na versão de junho de 2014. Verifique a 
 
 ## Interface atualizada - Em breve! {#updated-ui-coming-soon}
 
-Uma nova aparência, incluindo a navegação para o Gerenciamento de clientes potenciais da Marketo, será lançada em breve em uma versão posterior.
+Uma nova aparência, incluindo navegação para [!DNL Marketo Lead Management], será lançada em breve em uma versão posterior!
 
-## Plug-in Sales Insight para Outlook 2013 {#sales-insight-plugin-for-outlook}
+## Plug-in do [!DNL Sales Insight] para [!DNL Outlook] 2013 {#sales-insight-plugin-for-outlook}
 
 Isso exigirá o download do novo plug-in. Você pode baixá-lo de [aqui](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 ## Resolução do token {#token-resolution}
 
-Atualmente, quando você envia um e-mail teste do Sales Insight, os tokens do e-mail não se resolvem e o valor padrão é enviado. Esse aprimoramento garantirá a resolução dos tokens nos e-mails teste.
+Ao enviar um email de teste de [!DNL Sales Insight], os tokens atuais no email não são resolvidos e o valor padrão é enviado. Esse aprimoramento garantirá a resolução dos tokens nos e-mails teste.
 
 ## Personalizar porcentagens para estrelas e chamas {#customize-percentages-for-stars-and-flames}
 
@@ -33,7 +33,7 @@ Atualmente, quando você envia um e-mail teste do Sales Insight, os tokens do e-
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## API ReST de leads {#lead-rest-api}
+## API REST do lead {#lead-rest-api}
 
 Crie, leia e atualize leads programaticamente por meio de nossa API ReST. Para começar a usar a ReST, você precisa [criar um serviço personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) no Marketo. Em seguida, vá para o [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) para obter detalhes sobre como usar esta API.
 
@@ -47,6 +47,6 @@ As campanhas RTP agora incluem um novo design com exibições de miniaturas e de
 
 Anexe todos os dados RTP na plataforma de análise da Web.
 
-A integração com [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) agora está habilitada por padrão. Portanto, em Configurações da Conta, ative o comutador para o qual os dados você deseja enviar para variáveis e eventos personalizados do GA.
+A integração com o [Google Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) agora está habilitada por padrão. Portanto, em Configurações da Conta, ative o comutador para o qual você deseja enviar dados para variáveis e eventos personalizados do GA.
 
 Também concluímos a integração com o [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).

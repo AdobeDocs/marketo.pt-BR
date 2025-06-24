@@ -4,9 +4,9 @@ description: Atualizar dados da pessoa - Documentação do Marketo - Documentaç
 title: Atualizar dados da pessoa
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 17%
 
 ---
@@ -24,7 +24,7 @@ Imagine que, em sua recente feira de negócios, uma pessoa tenha fornecido infor
 
 ## Encontre a pessoa que você precisa atualizar {#find-the-person-you-need-to-update}
 
-1. Vá para o **[!UICONTROL Banco de Dados]**.
+1. Vá para o [!UICONTROL Banco de Dados].
 
    ![](assets/update-person-data-1.png)
 
@@ -66,6 +66,6 @@ Excelente! Você atualizou seus dados pessoais.
 
 <br> 
 
-[Missão 8: Alertar o Representante de Vendas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Missão 8: Alertar o Representante de Vendas](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Missão 10: Redirecionar uma página de aterrissagem ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Missão 10: Redirecionar uma Página de Aterrissagem ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

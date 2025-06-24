@@ -4,10 +4,10 @@ description: Notas de versão - maio de 2012 - Documentação do Marketo - Docum
 title: Notas de versão - maio de 2012
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '641'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,7 @@ Figura 5. Fazer check-in
 
 ## URL de confirmação do webinário aprimorado {#enhanced-webinar-confirmation-url}
 
-Agora disponível para ON24 e Adobe Connect! Inclua um link exclusivo no email de confirmação para cada participante registrado usando o novo token `{{member.webinar URL}}`. Os aprimoramentos do Adobe Connect também incluem a capacidade de ativar/desativar o email de informações da conta de Adobe que inclui a ID de logon e a senha do usuário.
+Agora disponível para [!DNL ON24] e Adobe Connect! Inclua um link exclusivo no email de confirmação para cada participante registrado usando o novo token `{{member.webinar URL}}`. Os aprimoramentos do Adobe Connect também incluem a capacidade de ativar/desativar o email de informações da conta do Adobe que inclui a ID de logon e a senha do usuário.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -89,39 +89,39 @@ Obtenha acesso aos recursos experimentais desenvolvidos pelos engenheiros da Mar
 
 Figura 10. Recursos do tórax do tesoureiro do gerente no administrador
 
-## Integração do Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
+## Integração do CRM do [!DNL Microsoft Dynamics]® {#microsoft-dynamics-crm-integration}
 
-Sincronizar Contas, Contatos e Clientes Potenciais entre o Marketo e o Microsoft Dynamics CRM Online usando nossa nova integração pré-criada.
+Sincronizar Contas, Contatos e Clientes Potenciais entre o Marketo e o [!DNL Microsoft Dynamics] CRM Online usando nossa nova integração pré-criada!
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-Figura 11. Configuração do Microsoft Dynamics
+Figura 11. Configuração de [!DNL Microsoft Dynamics]
 
-## Aprimoramentos do Marketo Sales Insight {#marketo-sales-insight-enhancements}
+## Aprimoramentos do Marketo [!DNL Sales Insight] {#marketo-sales-insight-enhancements}
 
 **Opções de Cancelamento de Inscrição do Rodapé**
 
-Configure quando e se o rodapé de cancelamento de inscrição é exibido para emails enviados pelo Sales Insight.
+Configure quando e se o rodapé de cancelamento de inscrição é exibido para emails enviados pelo [!DNL Sales Insight].
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-Figura 12. Configurações do Sales Insight no Administrador
+Figura 12. Configurações de [!DNL Sales Insight] no Administrador
 
 ## Pastas para Modelos de email de vendas {#folders-for-sales-email-templates}
 
-Agora é possível organizar os modelos de email compartilhados com o Marketo Sales Insight em pastas específicas, facilitando para seus representantes de vendas encontrar o email correto.
+Agora é possível organizar os modelos de email compartilhados com o Marketo [!DNL Sales Insight] em pastas especificadas, facilitando para seus representantes de vendas encontrar o email correto.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 Figura 13. Escolha uma pasta para seus emails
 
-## Acessar o Analisador de oportunidades no Sales Insight {#access-opportunity-analyzer-from-sales-insight}
+## Acessar o Analisador de Oportunidades de [!DNL Sales Insight] {#access-opportunity-analyzer-from-sales-insight}
 
-Forneça aos seus representantes de vendas informações sobre quais atividades de marketing estão gerando engajamento, usando acesso direto ao Analisador de oportunidades do Marketo Sales Insight. Observação. Exige uma licença do Revenue Cycle Analytics.
+Forneça aos seus Representantes de vendas a insight para a qual as atividades de marketing estão impulsionando o envolvimento, usando o acesso direto ao Analisador de oportunidades da Marketo [!DNL Sales Insight]. Observação. Exige uma licença do Revenue Cycle Analytics.
 
 ## Campo personalizado para Status do contato {#custom-field-for-contact-status}
 
-Agora você pode mapear um campo personalizado no Salesforce para preencher o campo Status para Contatos nas Minhas Melhores Opções, Melhores Opções da Minha Equipe e exibições personalizadas.
+Agora você pode mapear um campo personalizado em [!DNL Salesforce] para preencher o campo Status para Contatos nas Minhas Melhores Opções, Melhores Opções da Minha Equipe e exibições personalizadas.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
@@ -129,7 +129,7 @@ Figura 14. Mapear um campo personalizado para Contatos
 
 Consulte Páginas visitadas por clientes em potencial anônimos
 
-Fazer drill-down para as páginas exibidas por um lead anônimo na exibição Atividade Anônima na Web.
+Detalhe as páginas visualizadas por um cliente potencial anônimo na exibição [!UICONTROL Atividade Anônima na Web].
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 

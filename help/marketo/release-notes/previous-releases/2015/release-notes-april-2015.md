@@ -4,10 +4,10 @@ description: Notas de versão - abril de 2015 - Documentação do Marketo - Docu
 title: Notas de versão - abril de 2015
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 9%
+source-wordcount: '315'
+ht-degree: 5%
 
 ---
 
@@ -23,11 +23,11 @@ Os recursos a seguir estão incluídos na versão de abril de 2015. Verifique a 
 >
 >Esse recurso será lançado na terça-feira, 28 de abril.
 
-A nova [Página inicial do Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) habilita o acesso rápido para executar relatórios ad hoc em tipos de relatórios disponíveis.
+A nova página inicial [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) habilita o acesso rápido para executar relatórios ad hoc em tipos de relatórios disponíveis.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-Além disso, a organização de relatórios privada versus compartilhada agora está disponível. Crie ou arraste relatórios para a pasta Meus relatórios para impedir que eles sejam exibidos, editados ou excluídos por outros usuários. Relatórios de grupo são compartilhados entre todos os usuários.
+Além disso, a organização de relatórios privada versus compartilhada agora está disponível. Crie ou arraste relatórios para sua pasta [!UICONTROL Meus Relatórios] para impedir que eles sejam exibidos, editados ou excluídos por outros usuários. [!UICONTROL Relatórios de Grupo] compartilhados entre todos os usuários.
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
@@ -37,17 +37,17 @@ Com o Marketo Mobile Engagement, oferecer experiências móveis atraentes é fá
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## Integração com acelerador de leads do LinkedIn
+## Integração do acelerador principal do [!DNL LinkedIn]
 
-[Integração com acelerador de leads do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[Integração do acelerador principal do [!DNL LinkedIn]](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Estenda sua estratégia de criação de clientes potenciais para exibição paga e anúncios sociais. A [integração da rede de anúncios](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o LinkedIn Lead Accelerator permite criar com segurança um segmento de público-alvo no LinkedIn com base nos membros de qualquer lista inteligente ou estática. Os membros em um segmento de público-alvo do LinkedIn podem ser estimulados com uma sequência de anúncios relevantes.
+Estenda sua estratégia de criação de clientes potenciais para exibição paga e anúncios sociais. A [integração da rede de anúncios](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) com o [!DNL LinkedIn] Lead Accelerator permite criar com segurança um segmento de público-alvo no [!DNL LinkedIn] com base nos membros de qualquer lista inteligente ou estática. Os membros de um segmento de público-alvo [!DNL LinkedIn] podem ser estimulados com uma sequência de anúncios relevantes.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## Marketo Sales Insight para Salesforce1 {#marketo-sales-insight-for-salesforce}
+## Marketo [!DNL Sales Insight] para [!DNL Salesforce1] {#marketo-sales-insight-for-salesforce}
 
-Seus recursos favoritos do Sales Insight - feed de lead, melhores opções, momentos interessantes e adicionar ao Marketo Campaign - todos disponíveis no aplicativo Salesforce1.
+Seus recursos favoritos do [!DNL Sales Insight] - lead feed, melhores opções, momentos interessantes e adicionar ao Marketo Campaign - todos disponíveis no aplicativo [!DNL Salesforce1].
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 

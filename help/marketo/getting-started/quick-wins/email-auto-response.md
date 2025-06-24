@@ -4,9 +4,9 @@ description: Resposta automática de email - Documentação do Marketo - Documen
 title: Resposta automática por e-mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '380'
 ht-degree: 14%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 14%
 
 ## Etapa 1: &#x200B;criar um e-mail {#step-create-an-email}
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Vá para a área [!UICONTROL Atividades de marketing].
 
    ![](assets/email-auto-response-1.png)
 
@@ -128,10 +128,8 @@ ht-degree: 14%
 
 ## Missão cumprida {#mission-complete}
 
-Em apenas alguns minutos, você deve ver o email de resposta automática em sua caixa de entrada. Muito bem!
+Em apenas alguns minutos, você deve ver o email de resposta automática em sua caixa de entrada.
 
-<br> 
+[◄ Missão 3: Pontuação simples](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[Missão 3: Pontuação Simples](/help/marketo/getting-started/quick-wins/simple-scoring.md)
-
-[Missão 5: Importar uma lista de pessoas ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[Missão 5: Importar uma Lista de Pessoas ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

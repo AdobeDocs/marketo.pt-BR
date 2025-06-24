@@ -4,9 +4,9 @@ description: Notas de versão - abril de 2012 - Documentação do Marketo - Docu
 title: Notas de versão - abril de 2012
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
@@ -24,17 +24,17 @@ Você segmenta o mesmo grupo de clientes em potencial de maneira consistente? Em
 * A API Solicitar campanha agora permite enviar valores para Meus tokens para essa execução específica da campanha - isso é particularmente útil para preencher conteúdo de email por meio da API
 * As novas APIs de campanha Fazer upload para listar e agendar oferecem suporte ao exposto acima para listas de leads e campanhas em lote.
 
-## Emails de confirmação mais fáceis para GoToWebinar e WebEx (Adobe Connect e ON24 em breve!) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## Emails de confirmação mais fáceis para [!DNL GoToWebinar] e [!DNL WebEx] (Adobe Connect e [!DNL ON24] em breve!) {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
-Simplificamos o URL de confirmação criando um token de membro que exibe o URL de confirmação de registro exclusivo para cada lead. Não será mais necessário criar esse URL usando tokens diferentes. Atualmente, ele está disponível para clientes GoToWebinar e WebEx e estará disponível para Adobe Connect e ON24 na próxima versão.
+Simplificamos o URL de confirmação criando um token de membro que exibe o URL de confirmação de registro exclusivo para cada lead. Não será mais necessário criar esse URL usando tokens diferentes. Atualmente, ele está disponível para clientes do [!DNL GoToWebinar] e do [!DNL WebEx] e estará disponível para o Adobe Connect e o [!DNL ON24] na próxima versão.
 
 ![](assets/image2014-9-23-10-3a4-3a18.png)
 
 ## Carregue várias imagens e arquivos com um único clique! {#upload-multiple-images-and-files-with-a-single-click}
 
-Economize tempo e seja mais eficiente ao importar imagens e arquivos para o Marketo! Se você usa o Firefox ou o Google Chrome, é possível selecionar vários arquivos e fazer upload de todos eles de uma só vez. Embora não haja limite para o número de arquivos que você pode carregar, o limite de tamanho individual por arquivo é de 50 MB.
+Economize tempo e seja mais eficiente ao importar imagens e arquivos para o Marketo! Se você usa o [!DNL Firefox] ou o [!DNL Google Chrome], é possível selecionar vários arquivos e carregá-los todos de uma só vez. Embora não haja limite para o número de arquivos que você pode carregar, o limite de tamanho individual por arquivo é de 50 MB.
 
-Observação: no momento, esse recurso não é compatível com o Internet Explorer devido às limitações do navegador.
+Observação: no momento, este recurso não tem suporte no [!DNL Internet Explorer], devido às limitações do navegador.
 
 ![](assets/image2014-9-23-10-3a4-3a32.png)
 
@@ -46,9 +46,9 @@ Você pode reordenar blocos de texto em um email. No editor de texto, selecione 
 
 ![](assets/image2014-9-23-10-3a5-3a1.png)
 
-## Referências do Salesforce removidas para usuários que não são do Salesforce {#salesforce-references-removed-for-non-salesforce-users}
+## [!DNL Salesforce] Referências removidas para usuários que não são [!DNL Salesforce] {#salesforce-references-removed-for-non-salesforce-users}
 
-Se não estiver sincronizando sua assinatura com o Salesforce, você observará que todas as pastas e ações de fluxo que fazem referência ao Salesforce são removidas.
+Se você não estiver sincronizando sua assinatura com [!DNL Salesforce], perceberá que todas as pastas e ações de fluxo que fazem referência a [!DNL Salesforce] serão removidas.
 
 ## Análise do ciclo de receita do Marketo {#marketo-revenue-cycle-analytics}
 

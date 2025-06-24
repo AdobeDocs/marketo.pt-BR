@@ -4,10 +4,10 @@ description: Notas de versão - Janeiro de 2015 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 4%
+source-wordcount: '354'
+ht-degree: 3%
 
 ---
 
@@ -23,15 +23,15 @@ Agora você pode [criar exibições para dispositivos móveis para páginas de a
 
 Vídeo de Apresentação da Página de Aterrissagem [-](https://youtu.be/aPQHlG2X6c0)
 
-**Novas Chamadas de API Rest**
+**Novas chamadas da API REST**
 
-Três novas chamadas para a API ReST de lead e atividade:
+Três novas chamadas para a API REST de lead e atividade:
 
 * Excluir lead
 * Obter clientes em potencial por ID de programa
 * Obter Clientes Potenciais Excluídos
 
-Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração do lead de forma assíncrona para uma chamada de API mais rápida. Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
+Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração do lead de forma assíncrona para uma chamada de API mais rápida. Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
 
 **Suporte a objeto personalizado de script de e-mail**
 
@@ -39,9 +39,9 @@ Agora acesse objetos personalizados associados ao objeto Conta de dentro de scri
 
 ## Personalização em tempo real {#real-time-personalization}
 
-**Remarketing personalizado para Google e Facebook**
+**Remarketing personalizado para Google e[!DNL Facebook]**
 
-O remarketing mostra anúncios para pessoas que visitaram seu site. Agora você pode personalizar suas campanhas de remarketing no [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e no [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) usando dados do Real-Time Personalization. Remarketing para públicos de diferentes setores, listas de contas nomeadas, tamanhos de empresa ou quaisquer dados de clientes potenciais conhecidos.
+O remarketing mostra anúncios para pessoas que visitaram seu site. Agora você pode personalizar suas campanhas de remarketing no [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) usando dados do Real-Time Personalization. Remarketing para públicos de diferentes setores, listas de contas nomeadas, tamanhos de empresa ou quaisquer dados de clientes potenciais conhecidos.
 
 [Módulo da lista de contas nomeadas](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -62,6 +62,6 @@ As opções de Tag RTP em Configurações da conta foram atualizadas para inclui
 1. Tag assíncrona sem CDN
 1. Tag síncrona sem CDN
 
-Para obter o melhor desempenho, é recomendável colocar a marca na parte superior do cabeçalho da página da Web após `<head>`. Todas as marcas permitem o uso da [API RTP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obter informações sobre como implantar a RTP Tag, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para obter o melhor desempenho, é recomendável colocar a marca na parte superior do cabeçalho da página da Web após `<head>`. Todas as marcas permitem o uso da [API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obter informações sobre como implantar a RTP Tag, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

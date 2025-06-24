@@ -3,10 +3,9 @@ unique-page-id: 10097199
 description: Notas de versão - Winter '16 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '490'
 ht-degree: 4%
 
 ---
@@ -17,25 +16,25 @@ Os seguintes recursos estão incluídos na versão Winter &#39;16. Clique nos li
 
 ## [É um Filtro Anônimo](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-O filtro É Anônimo foi removido para Smart Lists. Consulte o documento [Perguntas frequentes sobre o Acompanhamento de Munchkin da Próxima Geração](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) para obter detalhes. Essa alteração não afeta o Web Personalization (RTP), que continua a identificar visitantes anônimos e conhecidos da Web e personalizar o conteúdo em tempo real para esses visitantes.
+O filtro É Anônimo foi removido para Smart Lists. Consulte o documento [Perguntas frequentes sobre o Rastreamento de Munchkin da Próxima Geração](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) para obter detalhes. Essa alteração não afeta o Web Personalization (RTP), que continua a identificar visitantes anônimos e conhecidos da Web e personalizar o conteúdo em tempo real para esses visitantes.
 
-## [Painel de Banco de Dados](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
+## [Painel de Banco de Dados](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
-O banco de dados de clientes potenciais tem um Painel de resumo atualizado que inclui o tamanho total do banco de dados de pessoas, o número de clientes potenciais comercializáveis e um detalhamento dos clientes potenciais pelas cinco principais fontes.
+O [!UICONTROL Banco de Dados de Clientes Potenciais] tem um Painel de Resumo atualizado que inclui o tamanho total do banco de dados de pessoas, o número de clientes potenciais comercializáveis e um detalhamento dos clientes potenciais pelas cinco principais fontes.
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
 ## [Navegador Microsoft Edge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Adicionamos o Microsoft Edge à [lista de navegadores](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) suportados pela Marketo.
+Adicionamos [!DNL Microsoft Edge] à [lista de navegadores](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) com suporte do Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-Agora há suporte para [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+Agora há suporte para [[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 ## [Programa de e-mail Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
-Use o Head Start para indicar que o processamento do envio deve ocorrer antes do tempo. Em vez de qualificar clientes potenciais e preparar emails no horário agendado do programa, o Head Start garante que essas tarefas sejam realizadas com antecedência. Dessa forma, o público-alvo começará a receber emails no horário agendado.
+Use [!UICONTROL Head Start] para indicar que o processamento do envio deve ocorrer antes do tempo. Em vez de qualificar clientes potenciais e preparar emails no horário agendado do programa, o [!UICONTROL Head Start] garante que essas tarefas sejam realizadas com antecedência. Dessa forma, o público-alvo começará a receber emails no horário agendado.
 
 ![](assets/image2016-1-11-15-3a38-3a3.png)
 
@@ -49,23 +48,23 @@ Para usar esse recurso, o programa de email deve ser agendado com pelo menos 12 
 
 ## [Melhorias do Mobile Marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Suporte para PhoneGap:** agora oferecemos suporte para PhoneGap para seu aplicativo móvel. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/phonegap).
+**[!DNL PhoneGap]Suporte:** Agora oferecemos suporte de [!DNL PhoneGap] para seu aplicativo móvel. [Saiba mais](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Suporte para aplicativos de sandbox**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API do programa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [API do programa](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Crie, atualize e clone programas por meio da REST API. Isso não inclui a criação ou a atualização de smart lists e campanhas inteligentes em um programa.
 
 ## [Melhorias do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[Status da Sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: mantenha as guias na taxa de transferência e na lista de pendências atuais do processo de sincronização. Detalhe pela contagem de inserções e atualizações por objeto.
+**[[!UICONTROL Status da Sincronização]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: mantenha as guias na taxa de transferência e na lista de pendências atuais do processo de sincronização. Detalhe pela contagem de inserções e atualizações por objeto.
 
 ![](assets/pending-backog-cropped.png)
 
-**[Notificações](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: receba notificação sobre erros comuns de sincronização, juntamente com uma lista de clientes potenciais que apresentam esse erro.
+**[[!UICONTROL Notificações]](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: receba notificação sobre erros comuns de sincronização, juntamente com uma lista de clientes potenciais que apresentam esse erro.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -77,7 +76,7 @@ Agora é possível criar relações muitos para muitos entre Clientes potenciais
 
 ## [Anúncios de leads do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Os anúncios de cliente potencial da Facebook](https://www.facebook.com/business/a/lead-ads) são uma maneira mais direta de uma empresa executar campanhas de geração de clientes potenciais no Facebook. As pessoas preenchem um formulário para expressar interesse em um produto ou serviço, para que o negócio possa acompanhá-las. A integração do Marketo com os anúncios de cliente potencial da Facebook captura automaticamente as informações que um cliente potencial fornece no formulário de anúncio de cliente potencial. As ações e notificações de acompanhamento podem ser automatizadas usando o novo acionador de Preenchimentos de anúncios de cliente potencial da Facebook.
+[[!UICONTROL Anúncios de cliente potencial do Facebook]](https://www.facebook.com/business/a/lead-ads) são uma maneira mais direta de uma empresa executar campanhas de geração de clientes potenciais em [!DNL Facebook]. As pessoas preenchem um formulário para expressar interesse em um produto ou serviço, para que o negócio possa acompanhá-las. A integração do Marketo com os [!UICONTROL Anúncios de cliente potencial do Facebook] captura automaticamente as informações que um cliente potencial fornece no formulário de Anúncio de cliente potencial. As ações e notificações de acompanhamento podem ser automatizadas usando o novo acionador [!UICONTROL Preenchimentos de anúncios de lead do Facebook].
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

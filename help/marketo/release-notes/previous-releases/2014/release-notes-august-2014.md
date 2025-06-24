@@ -4,9 +4,9 @@ description: Notas de versão - agosto de 2014 - Documentação do Marketo - Doc
 title: Notas de versão - agosto de 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '400'
 ht-degree: 4%
 
 ---
@@ -33,7 +33,7 @@ As novas permissões de usuário a seguir foram adicionadas:
 | Ativar campanha com gatilho | Controle quem pode ou não ativar campanhas de acionador. |
 | Programar campanha em lote | Controle quem pode ou não programar execuções de campanha em lote. |
 
-## Exportar usuários e funções do administrador {#export-users-and-roles-from-admin}
+## Exportar Usuários e Funções de [!UICONTROL Administrador] {#export-users-and-roles-from-admin}
 
 Agora você pode [Exportar uma Lista de Usuários e Funções](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Você também pode incluir um carimbo de data e hora de &quot;Último logon&quot; na exportação.
 
@@ -47,15 +47,15 @@ Agora você pode excluir qualquer canal e status não utilizados. Como sempre, v
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## DKIM automatizado {#automated-dkim}
+## Automatizado [!DNL DKIM] {#automated-dkim}
 
-Para melhorar a capacidade de entrega, todos os emails de saída serão assinados por DKIM (DomainKeys Identified Mail). Por padrão, os emails usarão a assinatura DKIM compartilhada do Marketo. Você terá a opção de personalizar esta assinatura.
+Para melhorar a capacidade de entrega, todos os emails de saída serão assinados por [!DNL DKIM] (DomainKeys Identified Mail). Por padrão, os emails usarão a assinatura [!DNL DKIM] compartilhada da Marketo. Você terá a opção de personalizar esta assinatura.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->O DKIM será implantado lentamente, você pode não vê-lo por algumas semanas.
+>[!DNL DKIM]será implantado lentamente. Talvez você não o veja por algumas semanas.
 
 ## Atualizações do Real-Time Personalization {#real-time-personalization-updates}
 
@@ -65,7 +65,7 @@ Adicionamos rótulos à página da campanha para que você possa adicionar tags 
 
 ## Direcionamento móvel {#mobile-targeting}
 
-Você perguntou sobre a comunidade e nós entregamos! Agora é possível incluir, excluir ou definir uma chamada para ação específica para usuários de dispositivos móveis e tablets.
+Você perguntou sobre a comunidade e nós entregamos! Agora é possível incluir, excluir ou definir uma call to action específica para usuários de dispositivos móveis e tablets.
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 

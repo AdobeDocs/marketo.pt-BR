@@ -4,9 +4,9 @@ description: Pontuação simples - Documentação do Marketo - Documentação do
 title: Pontuação simples
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '375'
 ht-degree: 7%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 7%
 
    ![](assets/simple-scoring-9.png)
 
-1. Arraste a ação de fluxo **Alterar Pontuação** para a tela à esquerda.
+1. Arraste a ação de fluxo **[!UICONTROL Alterar Pontuação]** para a tela à esquerda.
 
    ![](assets/simple-scoring-10.png)
 
@@ -130,6 +130,6 @@ Os detalhes da pessoa serão abertos em uma nova guia ou janela. Veja como sua p
 
 <br> 
 
-[Ü Missão 2: Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[◄ Missão 2: Página de aterrissagem com um formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[Missão 4: Resposta automática de e-mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[Missão 4: Resposta Automática de Email ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

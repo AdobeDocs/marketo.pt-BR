@@ -4,32 +4,32 @@ description: Notas de versão - fevereiro de 2013 - Documentação do Marketo - 
 title: Notas de versão - fevereiro de 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
 # Notas de versão: fevereiro de 2013 {#release-notes-february}
 
-A versão de fevereiro inclui um recurso altamente solicitado, suporte para o Apple Safari e outras pequenas melhorias.
+A versão de fevereiro inclui um recurso altamente solicitado, suporte para [!DNL Apple Safari] e outras pequenas melhorias.
 
-## Suporte oficial para o Apple Safari {#official-support-for-apple-safari}
+## Suporte Oficial para [!DNL Apple Safari] {#official-support-for-apple-safari}
 
-As versões mais recentes do Apple Safari para Mac e Windows são totalmente compatíveis com o uso do Marketo Lead Management. Observação: o Safari no iOS não é totalmente compatível.
+As versões mais recentes do [!DNL Apple Safari] para Mac e [!DNL Windows] são totalmente compatíveis com o uso com o Gerenciamento de Cliente Potencial da Marketo. Observação: [!DNL Safari] no iOS não é totalmente compatível.
 
 ## Aprimoramentos do Webhooks {#webhooks-enhancements}
 
-Os Webhooks são aprimorados para evitar tokens no URL/carga útil e também podem atualizar os campos de clientes potenciais do Marketo analisando respostas XML/JSON de sistemas de terceiros (não disponível na Spark SMB Edition).
+Os Webhooks são aprimorados para evitar tokens na URL/carga útil e também podem atualizar campos de clientes potenciais do Marketo analisando respostas XML/JSON de sistemas de terceiros (não disponível no [!DNL Spark SMB Edition]).
 
-## Ponto de extremidade de API SOAP atualizado {#updated-soap-api-endpoint}
+## Ponto de extremidade de API do SOAP atualizado {#updated-soap-api-endpoint}
 
-O endpoint da API de SOAP preferencial foi atualizado, o que é mostrado em Administração -> API de SOAP. Atualize suas chamadas para usar este novo ponto de extremidade. As chamadas de API para o endpoint antigo foram descontinuadas, mas continuarão funcionando. (API SOAP não disponível no Spark SMB Edition)
+O ponto de extremidade de API preferencial do SOAP foi atualizado, mostrado em [!UICONTROL Admin] -> API do SOAP. Atualize suas chamadas para usar este novo ponto de extremidade. As chamadas de API para o endpoint antigo foram descontinuadas, mas continuarão funcionando. (API do SOAP não disponível no [!DNL Spark SMB Edition])
 
-## Suporte móvel para guias do Facebook {#mobile-support-for-facebook-tabs}
+## Suporte móvel para [!DNL Facebook] guias {#mobile-support-for-facebook-tabs}
 
-As guias do facebook publicadas no Marketo detectarão dispositivos móveis e os rotearão para uma página de aterrissagem. Isso garantirá que o usuário obtenha o conteúdo correto em dispositivos móveis nos quais as guias do Facebook não são compatíveis (disponíveis no Spark, Standard, Select SMB Editions e Marketo Social Marketing).
+[!DNL Facebook] guias publicadas do Marketo detectarão dispositivos móveis e os rotearão para uma página de aterrissagem. Isso garantirá que o usuário obtenha o conteúdo correto em dispositivos móveis nos quais não há suporte para guias [!DNL Facebook] (disponíveis em [!DNL Spark], [!DNL Standard], [!DNL Select SMB Editions] e [!DNL Marketo Social Marketing]).
 
 ## Em breve: suporte para vários modelos {#coming-soon-support-for-multiple-models}
 

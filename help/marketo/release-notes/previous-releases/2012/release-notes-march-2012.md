@@ -4,9 +4,9 @@ description: Notas de versão - março de 2012 - Documentação do Marketo - Doc
 title: Notas de versão - março de 2012
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Pré-visualizador para editor:
 
 ## Pré-visualizador de trechos {#snippet-previewer}
 
-Selecionar &quot;Visualizar trecho&quot; no menu permite visualizar um trecho, sem transformá-lo em um rascunho. Além disso, se você tiver acesso somente leitura a um trecho compartilhado (via espaços de trabalho), poderá visualizar o trecho com essa ação
+Selecionar &quot;Visualizar trecho&quot; no menu permite visualizar um trecho, sem transformá-lo em um rascunho. Além disso, se você tiver acesso somente leitura a um trecho compartilhado (via espaços de trabalho), poderá exibi-lo com esta ação.
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

@@ -4,10 +4,10 @@ description: Notas de versão - Último trimestre de 2015 - Documentação do Ma
 title: Notas de versão - Último trimestre de 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 2%
+source-wordcount: '967'
+ht-degree: 1%
 
 ---
 
@@ -41,17 +41,17 @@ Crie facilmente objetos personalizados na interface do usuário do administrador
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights para Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights para [!DNL Google Chrome] {#marketo-insights-for-google-chrome}
 
-[Marketo Insights para Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights para  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Estamos animados em anunciar o lançamento de uma atualização para nossa extensão Google Mail Sales Insight! Exiba-o na [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Estamos animados em anunciar o lançamento de uma atualização para nossa extensão [!DNL Google Mail] [!DNL Sales Insight]! Exiba no [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Essa atualização inclui muitos novos recursos e funcionalidades:
 
-* Antes da contratação, os vendedores podem ver informações relevantes sobre seus clientes potenciais diretamente no Google Mail, incluindo cargos, perfis de twitter, informações da empresa, fotos e muito mais.
+* Antes de participar, os vendedores podem ver informações relevantes sobre seus clientes potenciais diretamente no [!DNL Google Mail], incluindo títulos de trabalho, perfis do Twitter, informações da empresa, fotos e muito mais.
 * Os vendedores podem ver em tempo real com o que os prospetos de conteúdo estão se envolvendo em todos os canais, como emails abertos ou clicados, eventos online ou presenciais assistidos, páginas da Web visitadas, eBooks baixados e muito mais.
-* Os emails enviados pelo Google Mail são conectados no Marketo e rastreados em tempo real. Isso permite que os vendedores vejam quando os prospetos estão visualizando seus emails para que possam acompanhar na hora certa. O Marketo Sales Insight for Google Mail também facilita que os vendedores aproveitem os modelos criados por marketing para enviar belos convites, ofertas e outros tipos de conteúdo.
+* Emails enviados através do [!DNL Google Mail] são registrados no Marketo e rastreados em tempo real. Isso permite que os vendedores vejam quando os prospetos estão visualizando seus emails para que possam acompanhar na hora certa. O Marketo [!DNL Sales Insight] for [!DNL Google Mail] também facilita para os vendedores a utilização dos modelos criados por marketing para enviar belos convites, ofertas e outros tipos de conteúdo.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -84,20 +84,20 @@ As estatísticas nos emails enviados por meio de Campanhas inteligentes agora es
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP - Análise de conteúdo e Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content Analytics e Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Análise de conteúdo](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e Recommendations
+[Content Analytics](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e Recommendations
 
-O RTP Content Analytics mostra o desempenho de seus ativos de conteúdo da Web provenientes de visitas regulares à Web e também de visitas geradas pelo mecanismo de recomendação de conteúdo do RTP.
+O RTP Content Analytics mostra o desempenho de seus ativos de conteúdo da Web a partir de visitas regulares à Web e também visitas geradas pelo mecanismo de recomendação de conteúdo do RTP.
 
 * Veja qual conteúdo tem melhor desempenho e traz a maioria dos leads
 * Aumente o consumo de conteúdo ativando o conteúdo no mecanismo de conteúdo preditivo do RTP para recomendar automaticamente o melhor conteúdo aos visitantes certos
 * Detalhe cada ativo de conteúdo para ver métricas, gráficos e desempenho mais detalhados
 
-A página Assets da RTP agora está dividida em Análise de conteúdo e Recommendations de conteúdo.
+A página Assets da RTP agora está dividida em Content Analytics e Recomendações de conteúdo.
 
-* **Análise de Conteúdo:** mostra as exibições e os clientes potenciais diretos de todo o conteúdo da Web descoberto e definido, ajudando você a analisar o conteúdo com melhor desempenho
-* **Recommendations de Conteúdo**: mostra impressões e cliques do conteúdo recomendado da RTP e da atribuição de lead associada. Você também pode editar e habilitar recomendações de conteúdo desta página para as recomendações da [barra](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e da [mídia avançada](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
+* **Content Analytics:** mostra as exibições e os clientes potenciais diretos de todo o conteúdo da Web descoberto e definido, ajudando você a analisar o conteúdo com melhor desempenho
+* **Recomendações de conteúdo**: mostra impressões e cliques do conteúdo recomendado da RTP e da atribuição de lead associada. Você também pode editar e habilitar recomendações de conteúdo desta página para as recomendações da [barra](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e da [mídia avançada](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
 
 * Todos os dados de clientes potenciais diretos nessas duas páginas foram atualizados retrospectivamente desde o início do ano (1º de janeiro de 2015).
 
@@ -113,7 +113,7 @@ A clonagem de uma campanha RTP torna mais rápido e eficiente a criação de cam
 
 Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o editor atualizado em julho, recebemos ótimos comentários e conseguimos integrar essas alterações a essa atualização. Há muito mais por vir nos próximos meses. Esta é uma lista das novidades do quarto trimestre:
 
-* O VML agora é compatível com seu código HTML:
+* O VML agora é compatível com o código HTML:
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -121,13 +121,13 @@ Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o
 </v:background>
 ```
 
-* Qualquer coisa agora pode ser inserida em um comentário HTML válido (determinadas sintaxes, como as vistas abaixo, foram removidas anteriormente):
+* Qualquer item agora pode ser inserido em um comentário válido do HTML (determinadas sintaxes, como as vistas abaixo, foram removidas anteriormente):
 
 `<!--[if gte mso 9]> <![endif]-->`
 
 * Não preencher células de tabela vazias com `&nbsp;`
 
-* Botão Maximizar/minimizar adicionado ao editor de origem do HTML
+* Adição do botão Maximizar/minimizar ao editor de origem do HTML
 * As propriedades de tabela pré-existentes agora são identificadas e exibidas na caixa de diálogo Propriedades da tabela
 * Agora, ambas as linhas de botões são exibidas por padrão.
 * O editor agora aceitará qualquer elemento (mesmo elementos obsoletos ou não padrão):
@@ -141,9 +141,9 @@ Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - Validar sincronização {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] - Validar sincronização {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Validar sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] - Validar sincronização](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Essa nova ferramenta de administração executa uma série de verificações para ver se as configurações de sincronização foram configuradas corretamente.
 
@@ -151,7 +151,7 @@ Essa nova ferramenta de administração executa uma série de verificações par
 
 ## Adicionar Campos à Sincronização de Objeto Personalizado do CRM {#add-fields-to-crm-custom-object-sync}
 
-Adicione facilmente novos campos a objetos personalizados sincronizados do Salesforce e do Dynamics. Agora é possível adicionar novos campos à sincronização de objetos personalizados sem desativar e ativar todo o objeto personalizado.
+Adicione facilmente novos campos a objetos personalizados sincronizados de [!DNL Salesforce] e [!DNL Dynamics]. Agora é possível adicionar novos campos à sincronização de objetos personalizados sem desativar e ativar todo o objeto personalizado.
 
 ## Alterações nos recursos de segurança {#changes-to-security-features}
 
@@ -162,13 +162,13 @@ Adicione facilmente novos campos a objetos personalizados sincronizados do Sales
 
 ## Suporte para IE 11 (e suporte obsoleto para IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-Agora oferecemos suporte oficial ao navegador Microsoft Internet Explorer 11 e removemos o suporte ao navegador Microsoft Internet Explorer 9.
+Agora oferecemos suporte oficial ao navegador [!DNL Microsoft Internet Explorer] 11 e removemos o suporte ao navegador [!DNL Microsoft Internet Explorer] 9.
 
 ## Suporte à interface do usuário do Lightning para MSI {#lightning-ui-support-for-msi}
 
-O pacote de MSI mais recente na troca de aplicativos funciona com as versões Lightning e Legacy da interface do usuário do Salesforce.
+O pacote MSI mais recente na troca de aplicativos funciona com as versões Lightning e Legacy da interface do usuário [!DNL Salesforce].
 
-## Novo Plug-in do Dynamics {#new-dynamics-plug-in}
+## Novo plug-in [!DNL Dynamics] {#new-dynamics-plug-in}
 
 Esse novo plug-in executa várias ações em um modo assíncrono para ajudar a aumentar o desempenho.
 

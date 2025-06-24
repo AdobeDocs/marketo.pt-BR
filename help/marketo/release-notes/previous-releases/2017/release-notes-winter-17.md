@@ -3,8 +3,7 @@ unique-page-id: 12255606
 description: Notas de versão - Winter '17 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 7%
@@ -27,7 +26,7 @@ A Correspondência básica usa apenas endereços de email, mas a nova Correspond
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API de importação de objeto personalizado](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
+## [API de importação de objeto personalizado](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 Essa API fornece uma interface mais rápida para sincronizar objetos personalizados no Marketo. Você pode importar arquivos de planilha CSV, TSV ou SSV para o Marketo como objetos personalizados.
 
@@ -39,7 +38,7 @@ Exporte todos os detalhes e análises do Web Campaign em um formato CSV. Em segu
 
 ## Localização {#localization}
 
-Os aplicativos Web Personalization, Conteúdo preditivo e Insights de email agora estão disponíveis em japonês, alemão e espanhol. Você [seleciona seu idioma e localidade](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para exibir seu conteúdo nesses idiomas.
+Os aplicativos Web Personalization, [!UICONTROL Conteúdo preditivo] e Insights de email agora estão disponíveis em japonês, alemão e espanhol. Você [seleciona seu idioma e localidade](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para exibir seu conteúdo nesses idiomas.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -47,33 +46,33 @@ Os aplicativos Web Personalization, Conteúdo preditivo e Insights de email agor
 
 **[Importar contas nomeadas](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
-Com a opção Importação de conta nomeada, crie ou atualize vários registros de uma só vez por meio de upload de CSV.
+Com a opção de importação [!UICONTROL Conta Nomeada], crie ou atualize vários registros de uma só vez por meio do carregamento CSV.
 
 ![](assets/inatwo.png)
 
 **[Suporte a insights de email](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-Use Conta Nomeada ou Lista de Contas como dimensões nos Insights de email.
+Use a [!UICONTROL Conta nomeada] ou a [!UICONTROL Lista de Contas] como dimensões no Email Insights.
 
 ![](assets/ei.png)
 
-## Aprimoramentos de conteúdo preditivo {#predictive-content-enhancements}
+## [!UICONTROL Aprimoramentos de conteúdo preditivo] {#predictive-content-enhancements}
 
-**[Filtrar por Source Habilitada](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrar por [!UICONTROL Source Habilitada]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtre partes de Conteúdo preditivo que são ativadas para Email, Mídia avançada ou Barra de recomendação.
+Filtre [!UICONTROL Conteúdo Preditivo] partes habilitadas para [!UICONTROL Email], [!UICONTROL Mídia Avançada] ou a [!UICONTROL Barra de Recomendações].
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[Filtrar análises por Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtrar [!UICONTROL Análises por Source]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Filtre a Análise de conteúdo preditivo para fontes específicas - Email, Mídia avançada ou Barra de recomendações.
+Filtre [!UICONTROL Análises de conteúdo preditivo] para fontes específicas — [!UICONTROL Email], [!UICONTROL Mídia avançada] ou [!UICONTROL Barra de recomendações].
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**Editor de conteúdo previsível**
+**[!UICONTROL Editor de Conteúdo Preditivo]**
 
-Há uma experiência de edição e um layout aprimorados que dividem a preparação do conteúdo por origem: email, mídia avançada ou barra de recomendações.
+Há uma experiência de edição e um layout aprimorados que dividem a preparação do conteúdo por origem — [!UICONTROL Email], [!UICONTROL Mídia Avançada] ou [!UICONTROL Barra de Recomendações].
 
 ![](assets/predictive-content-editor.png)
 
@@ -81,11 +80,11 @@ Há uma experiência de edição e um layout aprimorados que dividem a preparaç
 
 O URL da imagem e os metadados agora são usados no processo de descoberta automática de conteúdo.
 
-## [Aprimoramentos do SDK](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [Aprimoramentos do SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
-Os desenvolvedores agora têm controle adicional sobre a entrega de notificações por push com a adição de uma nova chamada de API do SDK que permite aos desenvolvedores remover tokens de push.
+Os desenvolvedores agora têm controle adicional sobre a entrega de notificações por push, com a adição de uma nova chamada de API do SDK que permite aos desenvolvedores remover tokens de push.
 
-## [Integração do Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## Integração do Vibes SMS LaunchPoint
 
 Melhore seu direcionamento com uma nova opção de filtro, &quot;Membro da lista de vibrações&quot;.
 

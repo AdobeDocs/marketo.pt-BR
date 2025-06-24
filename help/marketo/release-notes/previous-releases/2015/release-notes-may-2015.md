@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514821
 description: Notas de versão - maio de 2015 - Documentação do Marketo - Documentação do produto
-title: Notas de versão - maio de 2015
+title: Notas de versão - Maio de 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 8%
+source-wordcount: '253'
+ht-degree: 10%
 
 ---
 
@@ -31,11 +31,11 @@ Você pressionou Enviar antes que um programa de email estivesse pronto para ser
 
 ## Possibilidade de entrega de e-mails  {#email-deliverability}
 
-O Marketo agora executará verificações semanais automatizadas de SPF e DKIM em seus domínios adicionados. Fique por dentro disso verificando suas notificações.
+O Marketo agora executará verificações semanais automatizadas do [!DNL SPF] e do [!DNL DKIM] nos domínios adicionados. Fique por dentro disso verificando suas notificações.
 
 ## Mudança de comportamento de modelos de e-mail {#email-template-behavior-change}
 
-A partir desta versão, comentários HTML válidos agora são permitidos e não removidos ao criar novos emails.
+A partir desta versão, comentários válidos do HTML agora são permitidos e não removidos ao criar novos emails.
 
 ## RTP: editor de segmentos do tipo arrastar e soltar {#rtp-drag-and-drop-segment-editor}
 
@@ -45,6 +45,6 @@ Arraste e solte seus critérios no construtor de segmentos, defina o valor e voc
 
 ## RTP: recomendações de conteúdo previsível {#rtp-predictive-content-recommendations}
 
-[Recommendations de conteúdo preditivo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[Recomendações de conteúdo preditivo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 Use os algoritmos de aprendizado de máquina e análise preditiva da RTP para recomendar o conteúdo certo ao cliente potencial certo. Melhore visualmente seus ativos de conteúdo com imagens e descrições de texto e recomende mais de um ativo de conteúdo.

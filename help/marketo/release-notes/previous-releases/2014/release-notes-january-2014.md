@@ -4,9 +4,9 @@ description: Notas de versão - Janeiro de 2014 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 2%
 
 ---
@@ -29,13 +29,13 @@ Os designs de tema, a personalização de botões e os layouts flexíveis permit
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-Deseja que o &quot;Estado&quot; seja exibido somente se um usuário selecionar EUA como seu &quot;País&quot;? Que tal apresentar diferentes whitepapers aos clientes com base em como eles respondem perguntas em seu formulário? Crie lógica condicional em seus formulários diretamente do editor. Não é necessário nenhum javascript!
+Deseja que o &quot;Estado&quot; seja exibido somente se um usuário selecionar EUA como seu &quot;País&quot;? Que tal apresentar diferentes whitepapers aos clientes com base em como eles respondem perguntas em seu formulário? Crie lógica condicional em seus formulários diretamente do editor. [!DNL javascript] não é necessário.
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **Incorpore facilmente o Forms em suas próprias páginas de aterrissagem:**
 
-Longe vão os dias de levantar código html de formulários colocados em páginas de aterrissagem do Marketo e soltá-los em um iFrame. Basta pegar o código incorporado e colocá-lo na página de aterrissagem onde deseja que o formulário seja renderizado. Dois modos - normal e lightbox - fornecem ainda mais flexibilidade com o Marketo Forms em seu site.
+Longe vão os dias de retirar o código html de formulários colocados em páginas de aterrissagem do Marketo e soltá-los em um [!DNL iFrame]. Basta pegar o código incorporado e colocá-lo na página de aterrissagem onde deseja que o formulário seja renderizado. Dois modos - normal e lightbox - fornecem ainda mais flexibilidade com o Marketo Forms em seu site.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

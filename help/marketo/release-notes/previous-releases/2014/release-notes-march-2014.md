@@ -4,7 +4,7 @@ description: Notas de versão - março de 2014 - Documentação do Marketo - Doc
 title: Notas de versão - março de 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 3%
@@ -35,7 +35,7 @@ Ao usar o [relatório de desempenho do programa](/help/marketo/product-docs/core
 
 ## Programas inclusivos e operacionais para análises {#inclusive-and-operational-programs-for-analytics}
 
-Agora você pode [incluir programas sem custos de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) no Gerenciador de Receita e nos Analisadores, definindo a opção Comportamento do Analytics como &quot;Inclusivo&quot; ao editar Canais de Programa. Você também pode excluir programas operacionais de gerar relatórios por completo, escolhendo &quot;Operacional&quot;.
+Agora você pode [incluir programas sem custos de período](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) no [!UICONTROL Gerenciador de Receita] e nos Analisadores, definindo a opção Comportamento do Analytics como &quot;Inclusivo&quot; ao editar Canais de Programa. Você também pode excluir programas operacionais de gerar relatórios por completo, escolhendo &quot;Operacional&quot;.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

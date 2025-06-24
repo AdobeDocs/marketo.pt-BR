@@ -3,11 +3,10 @@ unique-page-id: 14745959
 description: Notas de versão - Segundo trimestre de 2018 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - primavera de 18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 4%
+source-wordcount: '461'
+ht-degree: 3%
 
 ---
 
@@ -17,37 +16,37 @@ Os seguintes recursos estão incluídos na versão da primavera de 18. Verifique
 
 Clique nos links de título para exibir artigos detalhados para cada recurso. Observação: alguns dos recursos incluídos nesta versão não têm artigos associados. Se um tópico tiver vários subtítulos, os links serão colocados lá.
 
-## Atualizações do Marketo Sales Engage, Launch e ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
+## Atualizações do Marketo [!DNL Sales Engage], Launch e [!DNL ToutApp] {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* [Iniciar](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* Atualizações do ToutApp
+* [Marketo [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [!DNL ToutApp] Atualizações
 
 >[!AVAILABILITY]
 >
->O Sales Engage é um produto complementar. Entre em contato com seu Gerente de conta da Marketo ou Executivo de conta para obter uma cotação.
+>[!DNL Sales Engage] é um produto complementar. Entre em contato com o Gerente de sucesso do cliente da Marketo ou o Executivo de conta para obter uma cotação.
 
-Impulsione mais pipeline e receita fortalecendo as vendas com inteligência, conteúdo, manuais e análises para converter mais de seus leads em oportunidades de vendas. O Sales Engage fornece vendas e marketing com uma plataforma unificada para engajamento na jornada do cliente e permite melhor coordenação por meio de uma visualização compartilhada dos pontos de contato do cliente.
+Impulsione mais pipeline e receita fortalecendo as vendas com inteligência, conteúdo, manuais e análises para converter mais de seus leads em oportunidades de vendas. A [!DNL Sales Engage] fornece aos departamentos de vendas e marketing uma plataforma unificada para participação na jornada do cliente e permite uma melhor coordenação por meio de uma visão compartilhada dos pontos de contato do cliente.
 
-**ToutApp**
+**[!DNL ToutApp]**
 
 * **Cartão de Conformidade**: garanta a conformidade com o GDPR capturando a fonte dos contatos de vendas e os detalhes do consentimento do cliente para receber comunicações.
 * **Atualização da Política de Senha**: mantenha seus dados mais seguros com requisitos mais rigorosos para criação, redefinição e expiração de senha (atende aos requisitos de conformidade Soc II - Tipo 1).
-* **Experiência simplificada de configuração de conta**: configure sua conta e conecte-a mais rapidamente ao Gmail, ao Outlook e a outros sistemas.
+* **Experiência de configuração de conta simplificada**: configure e conecte sua conta a [!DNL Gmail], [!DNL Outlook] e outros sistemas mais rapidamente.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
 [Marketo Sky Abrir Beta](https://help.marketo.com/)
 
-Acesse o Marketo Sky open beta para obter acesso a mais de 100 novos recursos de aumento de produtividade, incluindo:
+Aceite o beta aberto do Marketo Sky para obter acesso a mais de 100 novos recursos de aumento de produtividade, incluindo:
 
 * Um menu de navegação esquerdo atualizado, regras de lista inteligente e ações de fluxo salvas, ações em massa para gerenciar ativos e a expiração programada de ativos
 * Guias no aplicativo e ajuda contextual
 * Rótulos de ativos e visualizações de calendário mais flexíveis
 
-## Desempenho Insights {#performance-insights}
+## [!UICONTROL Insights de desempenho] {#performance-insights}
 
-[Desempenho Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[[!UICONTROL Insights de desempenho]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Comparação De Período Ano A Ano**
 
@@ -63,7 +62,7 @@ Filtrar resultados por Campos personalizados de oportunidade, como uma região d
 
 **Gráficos Rápidos Compartilhados**
 
-Compartilhe facilmente seus Gráficos Rápidos com outros usuários do Performance Insights.
+Compartilhe facilmente seus Gráficos Rápidos com outros usuários do [!UICONTROL Performance Insights].
 
 **Aprimoramentos de usabilidade**
 
@@ -77,12 +76,16 @@ Defina o objetivo do algoritmo de otimização da IA de conteúdo para gerar mai
 
 ## Integração e APIs {#integration-and-apis}
 
-[APIs de Lista Estática](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+Integração do Facebook Workplace
+
+Envie notificações do sistema e momentos interessantes para [!DNL Facebook Workplace].
+
+APIs de lista estática
 
 Gerencie listas entre o Marketo e outros sistemas mais facilmente com novas APIs bidirecionais para criar, ler, atualizar e excluir listas estáticas remotamente sem realizar nenhuma ação na interface do usuário do Marketo.
 
 ## Aprimoramentos de privacidade {#privacy-enhancements}
 
-[Privacidade no web tracking](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+Privacidade no web tracking
 
-O rastreamento aprimorado do Munchkin está em conformidade com as regulamentações de privacidade locais e internacionais, tornando os endereços IP dos visitantes da Web anônimos e permitindo que eles recusem o rastreamento web permanentemente.
+O rastreamento [!DNL Munchkin] aprimorado está em conformidade com as regulamentações de privacidade locais e internacionais, anonimizando os endereços IP de visitantes da Web e permitindo que eles recusem permanentemente o rastreamento Web.

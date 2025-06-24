@@ -4,9 +4,9 @@ description: Notas de versão - setembro de 2012 - Documentação do Marketo - D
 title: Notas de versão - setembro de 2012
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esta versão inclui recursos sociais altamente previstos e integrados, além de utilidades de gerenciamento de clientes potenciais! Observação: os recursos sociais estão disponíveis como um complemento ou como parte de pacotes selecionados.
 
-## Vídeo do Publish a YouTube com compartilhamento em redes sociais {#publish-a-youtube-video-with-social-sharing}
+## Publicar um vídeo do YouTube com compartilhamento em redes sociais {#publish-a-youtube-video-with-social-sharing}
 
 Amplifique o público-alvo de seus vídeos incentivando seus visitantes a compartilhá-los socialmente, usando o novo Compartilhamento de vídeo em suas páginas de aterrissagem.
 
@@ -29,23 +29,23 @@ Personalize totalmente as mensagens de compartilhamento e a aparência de um nov
 
 ## Login na rede social {#social-sign-on}
 
-Obter insight e reduzir o atrito, permitindo que os clientes potenciais preencham formulários previamente com informações de suas redes sociais.
+Ganhe insight e reduza o atrito permitindo que os clientes potenciais preencham previamente os formulários com informações de suas redes sociais.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Páginas de aterrissagem do Publish para o Facebook {#publish-landing-pages-to-facebook}
+## Publicar páginas de aterrissagem em [!DNL Facebook] {#publish-landing-pages-to-facebook}
 
-Estenda o alcance das páginas de aterrissagem publicando-as diretamente no Facebook, com aplicativos sociais, formulários e toda a funcionalidade das páginas de aterrissagem do Marketo.
+Estenda o alcance das suas páginas de aterrissagem publicando-as diretamente no [!DNL Facebook], com aplicativos sociais, formulários e toda a funcionalidade das páginas de aterrissagem do Marketo.
 
-## Adaptador de Eventos ReadyTalk {#readytalk-event-adapter}
+## [!DNL ReadyTalk] Adaptador de eventos {#readytalk-event-adapter}
 
-Conecte facilmente um evento do Marketo a uma reunião do ReadyTalk. Use um formulário do Marketo para capturar inscritos e registrá-los automaticamente no ReadyTalk. Uma sincronização bidirecional permite que as informações de participação sejam preenchidas no Marketo.
+Conecte facilmente um evento do Marketo a uma reunião do [!DNL ReadyTalk]. Use um formulário do Marketo para capturar inscritos e registrá-los automaticamente em [!DNL ReadyTalk]. Uma sincronização bidirecional permite que as informações de participação sejam preenchidas no Marketo.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics No Local {#microsoft-dynamics-on-premise}
+## Microsoft [!DNL Dynamics] No Local {#microsoft-dynamics-on-premise}
 
-Agora oferecemos suporte ao Microsoft Dynamics 2011 no local com uma implantação para a Internet.
+Agora oferecemos suporte ao Microsoft [!DNL Dynamics] 2011 no local com uma implantação para a Internet.
 
 ## Webhooks (tórax do tesouro) {#webhooks-treasure-chest}
 

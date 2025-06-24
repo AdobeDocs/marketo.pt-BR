@@ -4,9 +4,9 @@ description: Notas de versão - 19 de agosto - Documentação do Marketo - Docum
 title: Notas de versão - agosto de 2019
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '327'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ Os recursos a seguir foram lançados em 16 de agosto de 2019.
 
 **Account-Based Marketing** ![(estrela)](assets/yellow-star.png)
 
-* A **Correspondência de Conta da LinkedIn**, anteriormente na versão beta, agora está disponível de modo geral.
+* **[!DNL LinkedIn]Correspondência de Conta**, anteriormente em beta, agora está disponível de modo geral.
 * **AccountAI** está sendo oficialmente remarcada como **Account Profiling**.
 
 <br> 
@@ -36,7 +36,7 @@ Os recursos a seguir foram lançados em 16 de agosto de 2019.
 
 Os recursos a seguir estão em um ciclo não trimestral e serão lançados durante o terceiro trimestre e até o início do quarto trimestre de 2019.
 
-**Marketo Sales Connect** ![(star)](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![(estrela)](assets/yellow-star.png)
 
 * **Aprimoramento do Layout da Página de Pessoas:** gerencie seus grupos e pessoas por meio de importações de listas e ações em massa no novo layout da página de pessoas.
 
@@ -46,7 +46,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados duran
 
 >[!NOTE]
 >
->**Descontinuação do TLS 1.0 e 1.1**: para alinhar-se ao padrão de classe mundial do Adobe para segurança, descontinuaremos o suporte ao TLS 1.0 e 1.1 a partir de 13 de dezembro de 2019. Os sistemas integrados com Marketo que não estiverem em conformidade com o protocolo 1.2 podem perder o acesso aos serviços de Marketo Engage.
+>**Descontinuação do TLS 1.0 e 1.1**: para alinhar-se ao padrão de segurança de classe mundial da Adobe, descontinuaremos o suporte ao TLS 1.0 e 1.1 a partir de 13 de dezembro de 2019. Os sistemas integrados com o Marketo que não estiverem em conformidade com o protocolo 1.2 poderão perder acesso aos serviços da Marketo Engage.
 >
 >**Para manter o acesso ao Marketo Engage, verifique se todos os sistemas cliente são compatíveis com TLS 1.2 antes de 13 de dezembro de 2019**. Você encontra informações mais detalhadas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 

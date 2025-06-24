@@ -4,7 +4,7 @@ description: Notas de versão - maio de 2013 - Documentação do Marketo - Docum
 title: Notas de versão - maio de 2013
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 2%
@@ -23,7 +23,7 @@ Crie um arquivo de calendário como um Meu token que possa ser adicionado à sua
 
 ## Guia de associação em modelo {#model-membership-tab}
 
-Visualize todos os dados do membro do modelo em um local para monitorar e solucionar problemas facilmente. A nova Guia Membros é uma exibição somente leitura disponível ao selecionar um Modelo de Ciclo de Receita aprovado.
+Visualize todos os dados do membro do modelo em um local para monitorar e solucionar problemas facilmente. A nova Guia [!UICONTROL Membros] é uma exibição somente leitura disponível ao selecionar um Modelo de Ciclo de Receita aprovado.
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -35,6 +35,6 @@ Encontre ações de fluxo mais rapidamente com a árvore de ação de fluxo rec�
 
 ## Ações de fluxo renomeadas {#renamed-flow-actions}
 
-Alterar status da progressão agora é Alterar status do programa. Alterar dados do programa agora é Alterar êxito do programa
+Alterar Status da Progressão agora é [!UICONTROL Alterar Status do Programa]. Alterar Dados do Programa agora é [!UICONTROL Alterar Êxito do Programa].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

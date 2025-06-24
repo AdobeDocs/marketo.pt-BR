@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951109
 description: Notas de versão - outubro de 2012 - Documentação do Marketo - Documentação do produto
-title: Notas de versão - outubro de 2012
+title: Notas de versão - Outubro de 2012
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 0%
+source-wordcount: '352'
+ht-degree: 1%
 
 ---
 
@@ -47,14 +47,14 @@ Descubra quem tem compartilhado seu conteúdo e votado em suas pesquisas criando
 
 ## Perfis sociais {#social-profiles}
 
-Agora é possível coletar informações sobre seus leads ao compartilharem conteúdo ou preencherem formulários usando seus perfis sociais. Isso inclui os manipuladores do Facebook, LinkedIn e Twitter, o número de amigos que eles têm e muito mais.
+Agora é possível coletar informações sobre seus leads ao compartilharem conteúdo ou preencherem formulários usando seus perfis sociais. Isso inclui os identificadores [!DNL Facebook], [!DNL LinkedIn] e [!DNL Twitter], o número de amigos que eles têm e muito mais.
 
-## Assinaturas de Relatório do Gerenciador de Receita {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Assinaturas de Relatório do Gerenciador de Receita] {#revenue-explorer-report-subscriptions}
 
-Crie assinaturas de relatório e envie relatórios do Revenue Explorer periodicamente para suas principais partes interessadas, incluindo usuários não pertencentes à Marketo. O email contém uma pré-visualização da tabela ou dos gráficos de dados do relatório e uma planilha do Excel com todos os dados do relatório.
+Crie assinaturas de relatório e envie relatórios do [!UICONTROL Revenue Explorer] periodicamente para suas principais partes interessadas, incluindo usuários que não são da Marketo. O email contém uma visualização da tabela ou dos gráficos de dados do relatório e uma planilha do [!DNL Excel] com todos os dados do relatório.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->Disponível somente para usuários que têm o Gerenciador de receita ao adquirir o Revenue Cycle Analytics com o Enterprise ou o Select Edition.
+>Disponível somente para usuários que têm o [!UICONTROL Explorador de receita] ao adquirir o Revenue Cycle Analytics com a Enterprise ou Select Edition.
