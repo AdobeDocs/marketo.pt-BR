@@ -47,7 +47,7 @@ Além do calendário de marketing com o qual você gerencia seus eventos e progr
 
 ## Operações de lista na API REST {#list-operations-in-the-rest-api}
 
-Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Consulte [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) para obter a documentação completa.
+Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Consulte [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api) para obter a documentação completa.
 
 * Obter Lista por ID
 * Obter Várias Listas
@@ -78,7 +78,7 @@ A página RTP Definir Campanha agora [inclui modelos prontos](/help/marketo/prod
 
 ## RTP: melhorias na API do JavaScript {#rtp-javascript-api-enhancements}
 
-Nova chamada de API RTP para obter dados do visitante em tempo real, como organização, setor, localização e correspondência de código de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código do segmento. Consulte nosso [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter a documentação completa.
+Nova chamada de API RTP para obter dados do visitante em tempo real, como organização, setor, localização e correspondência de código de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código do segmento. Consulte nosso [site de desenvolvedores](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter a documentação completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

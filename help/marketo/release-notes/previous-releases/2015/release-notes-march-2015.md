@@ -37,7 +37,7 @@ O [!UICONTROL Revenue Explorer] tem uma aparência totalmente nova, bem como o n
 
 ## Novas APIs REST de ativos {#new-asset-rest-apis}
 
-[Novas APIs REST de ativos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Novas APIs REST de ativos](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/assets)
 
 Agora temos suporte para criar e editar emails, modelos, meus tokens, arquivos e trechos [por meio da API](https://developer.adobe.com/marketo-apis/api/asset/)!
 

@@ -65,7 +65,7 @@ Três novas chamadas para a API REST de lead e atividade:
 
 · Mesclar lead
 
-Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
+Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
 
 ## Aprimoramentos de Compatibilidade do [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 
