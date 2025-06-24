@@ -4,7 +4,7 @@ description: Adicione o  [!DNL Munchkin] Código de rastreamento ao seu site - D
 title: Adicionar  [!DNL Munchkin] Código de Acompanhamento ao seu Site
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 0%
@@ -23,7 +23,7 @@ O código personalizado de rastreamento do JavaScript da Marketo, chamado [!DNL 
 
 >[!NOTE]
 >
->Os usuários do Adobe Experience Cloud também podem usar a [integração do Marketo no Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} para incluir o script [!DNL Munchkin] em suas páginas da Web. Se você usar o Adobe Launch, _o script [!DNL Munchkin] será adicionado automaticamente_, portanto, você mesmo não precisará adicioná-lo.
+>Os usuários do Adobe Experience Cloud também podem usar a [integração do Marketo no Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} para incluir o script [!DNL Munchkin] em suas páginas da Web. Se você usa o Adobe Launch, _o script [!DNL Munchkin] é adicionado automaticamente_, portanto, você mesmo não precisará adicioná-lo.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -59,7 +59,7 @@ O código personalizado de rastreamento do JavaScript da Marketo, chamado [!DNL 
 
    >[!TIP]
    >
-   >Para sites que visualizam um alto volume de tráfego (ou seja, centenas de milhares de visitas por mês), recomendamos que você opte por não rastrear pessoas anônimas. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
+   >Para sites que visualizam um alto volume de tráfego (ou seja, centenas de milhares de visitas por mês), recomendamos que você opte por não rastrear pessoas anônimas. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Adicionar código de rastreamento ao usar vários espaços de trabalho {#add-tracking-code-when-using-multiple-workspaces}
 

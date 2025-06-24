@@ -3,7 +3,7 @@ description: Instalar o Marketo para Microsoft Dynamics 2016/Dynamics 365 no loc
 title: Instalar o Marketo para Microsoft Dynamics 2016/Dynamics 365 no Local Etapa 1 de 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Antes de sincronizar o Microsoft Dynamics 2016 no local/Dynamics 365 com o Marke
 
 >[!PREREQUISITES]
 >
->Se você estiver usando o Microsoft Dynamics No Local, deve ter o [Implantação para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configurado. Observação: o documento IFD é baixado automaticamente quando você clica no link.
+>Se estiver usando o Microsoft Dynamics no Local, você deve ter o [Implantação para a Internet](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) com o [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configurado. Observação: o documento IFD é baixado automaticamente quando você clica no link.
 >
 >[Baixe a Solução de Gerenciamento de Clientes Potenciais da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de começar.
 
@@ -82,7 +82,7 @@ Antes de sincronizar o Microsoft Dynamics 2016 no local/Dynamics 365 com o Marke
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. Selecione a solução da Marketo e clique em **[!UICONTROL Todas as personalizações do Publish]**.
+1. Selecione a solução da Marketo e clique em **[!UICONTROL Publicar todas as personalizações]**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 
@@ -90,7 +90,7 @@ Antes de sincronizar o Microsoft Dynamics 2016 no local/Dynamics 365 com o Marke
 
    >[!CAUTION]
    >
-   >Desativar qualquer um dos processos de mensagens do SDK do Marketo resultará em uma instalação corrompida!
+   >Desativar qualquer um dos processos de mensagens do Marketo SDK resultará em uma instalação corrompida!
 
    >[!MORELIKETHIS]
    >

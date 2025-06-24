@@ -4,7 +4,7 @@ description: Adicionar logon único a um portal - Documentação do Marketo - Do
 title: Adicionar Logon Único a um Portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '606'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 
 >[!IMPORTANT]
 >
->Isso não se aplica a assinaturas integradas à Identidade do Adobe. Para assinaturas integradas à Identidade do Adobe, o Logon único é configurado no nível da Organização Adobe no Adobe Admin Console. O Adobe Admin Console só oferece suporte a SP iniciados no momento. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
+>Isso não se aplica a assinaturas integradas ao Adobe Identity. Para assinaturas integradas à Adobe Identity, o Logon único é configurado no nível da Organização da Adobe no Adobe Admin Console. O Adobe Admin Console só oferece suporte a SP iniciados no momento. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Você é um usuário de [!DNL Microsoft Azure]? Confira o [tutorial de integração](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"} deles. Para sua informação, há um erro de digitação na Etapa 5c do tutorial. Defina o Estado de Retransmissão como `https://<munchkinid>.mktoweb.com`, **_não_** `https://<munchkinid>.marketo.com`.
+>Você é um usuário de [!DNL Microsoft Azure]? Confira o [tutorial de integração](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"} deles. Para sua informação, há um erro de digitação na Etapa 5c do tutorial. Defina o Estado de Retransmissão como `https://<munchkinid>.mktoweb.com`, **_não_** `https://<munchkinid>.marketo.com`.
 
 ## Como enviar a solicitação {#how-to-send-the-request}
 

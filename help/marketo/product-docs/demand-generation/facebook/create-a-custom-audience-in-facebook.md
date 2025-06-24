@@ -4,9 +4,9 @@ description: Criar um público-alvo personalizado no Facebook - Documentação d
 title: Criar um público-alvo personalizado no Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Adicionar Públicos-alvo personalizados do Facebook como um Serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} na seção de Administrador.
->* [Aceite os Termos de Públicos-alvo personalizados da Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} em sua conta da Facebook.
+>* [Aceite os Termos de Públicos-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} em sua conta do Facebook.
 
 >[!TIP]
 >
->Saiba mais sobre [audiences personalizados no Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>Saiba mais sobre [públicos-alvo personalizados no Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Localize e selecione a lista inteligente ou estática que contém os leads dos quais você deseja criar o público-alvo.
 
@@ -42,13 +42,13 @@ ht-degree: 0%
    >
    >A API do Facebook permite até 500 públicos-alvo personalizados por conta de anúncio do Facebook.
 
-1. Digite um **Nome de público-alvo**. Clique em **Atualizar**.
+1. Digite um **Nome de público-alvo**. Clique **Atualizar**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Se você tiver várias contas de anúncio do Facebook, verá uma lista suspensa adicional, que permite escolher em qual conta de anúncio esse público-alvo será criado.
+   >Se você tiver várias Contas de anúncio do Facebook, verá uma lista suspensa adicional, que permite escolher em qual Conta de anúncio esse público-alvo será criado.
 
    >[!TIP]
    >
@@ -65,10 +65,6 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Todas as listas que você envia para o Facebook se tornam estáticas. As Smart Lists no Marketo não atualizam automaticamente a lista de públicos-alvo no Facebook para refletir quaisquer alterações feitas após a transferência.
-
-   >[!TIP]
-   >
-   >Consulte o [Caminho de Aprendizado do Facebook para clientes do Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Ela abrange tudo o que você precisa saber, desde criar uma página do Facebook até segmentar seus anúncios do Facebook usando as integrações de rede de anúncios da Marketo.
 
    >[!MORELIKETHIS]
    >

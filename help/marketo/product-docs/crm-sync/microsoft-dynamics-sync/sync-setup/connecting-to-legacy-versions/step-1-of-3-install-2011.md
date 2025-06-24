@@ -4,7 +4,7 @@ description: Etapa 1 de 3 - Instalar a solução da Marketo (2011 no local) - Do
 title: Etapa 1 de 3 - Instalar a solução da Marketo (2011 no local)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Etapa 1 de 3: instalar a solução da Marketo (2011 no local) {#step-of-install-the-marketo-solution-on-premises}
 
-Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necessário instalar a solução Marketo no Dynamics.
+Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necessário instalar a solução do Marketo no Dynamics.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necess
 
 >[!PREREQUISITES]
 >
->Você deve ter a [Implantação para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 ou 3.0 (ADFS) configurados. **Observação**: o documento IFD é baixado automaticamente quando você clica no link.
+>Você deve ter a [Implantação para a Internet](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 ou 3.0 (ADFS) configurados. **Observação**: o documento IFD é baixado automaticamente quando você clica no link.
 >
 >[Baixe a Solução de Gerenciamento de Clientes Potenciais da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de começar.
 
@@ -83,13 +83,13 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necess
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Selecione Marketo Lead Management e clique em **[!UICONTROL Todas as Personalizações do Publish]**.
+1. Selecione Marketo Lead Management e clique em **[!UICONTROL Publicar todas as personalizações]**.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
 >[!CAUTION]
 >
->Desativar qualquer um dos processos de mensagens do SDK do Marketo resultará em uma instalação corrompida!
+>Desativar qualquer um dos processos de mensagens do Marketo SDK resultará em uma instalação corrompida!
 
 >[!MORELIKETHIS]
 >

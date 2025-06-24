@@ -4,7 +4,7 @@ description: Criar campanhas secundárias e Assets local — Documentação do M
 title: Criar campanhas secundárias e Assets local
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Para garantir que as pessoas sejam registradas corretamente no ON24, os seguinte
 
 * Nome
 * Sobrenome
-* Endereço de e-mail
+* Endereço de email
 
 Você também pode enviar os seguintes campos para ON24:
 
@@ -50,7 +50,7 @@ Use o Marketo para enviar o email de confirmação do evento. Quando uma pessoa 
 
 >[!TIP]
 >
->Você pode configurar o ON24 para enviar emails de confirmação, lembrete ou acompanhamento. Consulte o [Site de Ajuda do ON24](https://www.on24.com/live-webcast-elite/){target="_blank"} para obter mais informações.
+>Você pode configurar o ON24 para enviar emails de confirmação, lembrete ou acompanhamento. Consulte o [Site de Ajuda do ON24](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"} para obter mais informações.
 
 ## Requisitos de Campanha Secundária de Registro {#registration-child-campaign-requirements}
 

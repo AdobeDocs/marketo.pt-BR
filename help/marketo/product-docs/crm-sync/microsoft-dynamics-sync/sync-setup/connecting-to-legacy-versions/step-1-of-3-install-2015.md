@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7504736
-description: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 1 de 3 - Documentação do Marketo - Documentação do produto
-title: Instalar o Marketo para Microsoft Dynamics 2015 no Local Etapa 1 de 3
+description: Instale o Marketo para Microsoft Dynamics 2015 no local Etapa 1 de 3 - Documentação do Marketo - Documentação do produto
+title: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 1 de 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Etapa 1 de 3: Configurar usuário de sincronização para o Marketo (2015 no local) {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
-Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, primeiro é necessário instalar a solução Marketo no Dynamics.
+Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, é necessário instalar a solução Marketo no Dynamics.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, pr
 
 >[!PREREQUISITES]
 >
->Se você estiver usando o Microsoft Dynamics No Local, deve ter o [Implantação para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configurado. Observação: o documento IFD é baixado automaticamente quando você clica no link.
+>Se estiver usando o Microsoft Dynamics no Local, você deve ter o [Implantação para a Internet](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) com o [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0+ (ADFS) configurado. Observação: o documento IFD é baixado automaticamente quando você clica no link.
 >
 >[Baixe a Solução de Gerenciamento de Clientes Potenciais da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de começar.
 
@@ -83,7 +83,7 @@ Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, pr
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. Selecione a solução da Marketo e clique em **[!UICONTROL Todas as personalizações do Publish]**.
+1. Selecione a solução da Marketo e clique em **[!UICONTROL Publicar todas as personalizações]**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 
@@ -91,7 +91,7 @@ Antes de sincronizar o Microsoft Dynamics 2015 no local com o Marketo Engage, pr
 
    >[!CAUTION]
    >
-   >Desativar qualquer um dos processos de mensagens do SDK do Marketo resultará em uma instalação corrompida!
+   >Desativar qualquer um dos processos de mensagens do Marketo SDK resultará em uma instalação corrompida!
 
    >[!MORELIKETHIS]
    >

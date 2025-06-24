@@ -4,9 +4,9 @@ description: Notas de versão - outubro de 2013 - Documentação do Marketo - Do
 title: Notas de versão - Outubro de 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 3%
 
 ---
@@ -29,4 +29,4 @@ Sincronizar campos adicionais de [!DNL BrightTALK] com a Marketo, incluindo Nome
 
 ## Aplicativo de check-in de eventos do Android Tablet {#android-tablet-event-check-in-app}
 
-Verifique os inscritos em seu evento usando nosso novo [aplicativo de check-in baseado em Android](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) disponível em [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&hl=en).
+Inclua inscritos em seu evento usando nosso novo aplicativo de check-in baseado em Android, disponível na Google Play.

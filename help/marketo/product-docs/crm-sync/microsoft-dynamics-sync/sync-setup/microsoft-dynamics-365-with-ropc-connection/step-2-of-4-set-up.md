@@ -3,9 +3,9 @@ description: Etapa 2 de 4 - Configurar a solução da Marketo com a conexão de 
 title: Etapa 2 de 4 - Configurar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 >[!IMPORTANT]
 >
->A configuração de idioma do Usuário de Sincronização [ deve ser definida como Inglês](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
+>A configuração de idioma do Usuário de Sincronização [ deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Volte para a guia **[!UICONTROL Usuários Habilitados]** e atualize a lista de usuários.
 
@@ -128,7 +128,7 @@ Quase lá! Tudo o que resta é informar a solução Marketo sobre o novo usuári
 
    ![](assets/eighteen.png)
 
-1. Clique no botão **[!UICONTROL Todas as personalizações do Publish]**.
+1. Clique no botão **[!UICONTROL Publicar todas as personalizações]**.
 
    ![](assets/nineteen.png)
 

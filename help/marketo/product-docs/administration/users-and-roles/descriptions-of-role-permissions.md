@@ -4,9 +4,9 @@ description: Descrições das permissões de função - Documentação do Market
 title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 15%
 
 ---
@@ -33,7 +33,7 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 
 * Acessar o Adobe Connect - Dá aos usuários acesso à tela do Adobe Connect
 * Acessar o Adobe Experience Manager&#42; - Concede aos usuários acesso à tela do Adobe Experience Manager
-* Mapeamento da Organização de Adobe de Acesso&#42; - Dá aos usuários acesso à tela Mapeamento da Organização de Adobe
+* Acessar o Mapeamento da Organização da Adobe&#42; - Dá aos usuários acesso à tela Mapeamento da Organização da Adobe
 * Acessar Registro de Auditoria de Admin&#42; - Dá aos usuários acesso à tela Registro de Auditoria de Admin
 * Acessar Registro de Auditoria de Acesso&#42; - Concede aos usuários acesso ao Registro de Auditoria de Acesso
 * Acessar trilha de auditoria - Dá aos usuários acesso à trilha de auditoria do ativo e à trilha de auditoria do administrador.
@@ -41,10 +41,10 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Canais de acesso - Concede aos usuários acesso somente para modificar a tag de Canal, não a outras tags personalizadas
 * Limite de comunicação de acesso - Concede aos usuários acesso para ativar um limite de comunicação no Administrador
 * Acessar CRM - Concede aos usuários acesso ao CRM, como [!DNL Salesforce] ou [!DNL Microsoft Dynamics], no Administrador
-* Acesso [[!DNL Data.com]](https://data.com) - Concede aos usuários acesso à ação de fluxo Data.com
+* Acesso `Data.com` - Concede aos usuários acesso à ação de fluxo Data.com
 * Acessar administrador de email - Concede aos usuários acesso ao Administrador de email para alterar as configurações padrão, como domínios de cancelamento de inscrição e identidade visual
 * Parceiros de evento de acesso - Fornece aos usuários acesso ao LaunchPoint no Administrador
-* Compartilhamento de público-alvo do Experience Cloud - Dá aos usuários acesso para sincronizar um público-alvo do Adobe Experience Cloud para o Marketo Engage
+* Acessar o compartilhamento de público-alvo da Experience Cloud - Fornece aos usuários acesso para sincronizar um público-alvo do Adobe Experience Cloud com o Marketo Engage
 * Gerenciamento de campos de acesso - Concede aos usuários acesso ao Gerenciamento de campos no Administrador
 * Acessar upload de arquivo - Oferece aos usuários a capacidade de carregar imagens e arquivos no Design Studio
 * Acessar páginas de aterrissagem - Concede aos usuários acesso às páginas de aterrissagem no Admin
@@ -58,10 +58,10 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acessar públicos preditivos&#42; - Dá aos usuários acesso à tela de públicos preditivos
 * Acessar o Revenue Cycle Analytics - Dá aos usuários acesso ao Revenue Cycle Analytics no Admin para a configuração Sincronizar resumo e atribuição
 * Funções de acesso - concede aos usuários acesso para gerenciar e editar funções, mas não aos usuários
-* Acessar o Sales Insight - Dá aos usuários acesso para gerenciar o Sales Insight no Admin, para definir o status, a configuração da API, a pontuação de pessoas e outras configurações
+* Acessar o Sales Insight - Dá aos usuários acesso para gerenciar o Sales Insight no Admin, para definir status, configuração de API, pontuação de pessoas e outras configurações
 * Acesso ao Logon Único - Concede aos usuários acesso ao gerenciamento do Logon Único no Admin, para ativar o SAML e trabalhar com configurações de SAML e URLs de página de redirecionamento
 * Acessar o Smart Campaign - Oferece aos usuários acesso ao Smart Campaign no Admin, para restringir os limites de pessoas qualificadas
-* Acessar API SOAP - Dá aos usuários acesso para gerenciar APIs SOAP em Serviços da Web no Administrador
+* Acessar a API do SOAP - Fornece aos usuários acesso para gerenciar as APIs do SOAP nos Serviços da Web na Administração
 * Tags de acesso - Concede aos usuários acesso a todas as tags personalizadas, exceto a tag de canal.
 * Acessar o Treasure Chest - Dá aos usuários acesso aos recursos experimentais no Treasure Chest no Administrador
 * Acessar usuários - Dá aos usuários acesso para editar e gerenciar usuários (mas não funções) no Admin
@@ -110,9 +110,9 @@ _&#42;Para evitar a interrupção para usuários existentes, essa permissão est
 
 ## Acessar apresentações de calendários {#access-calendar-presentations}
 
-Fornece aos usuários acesso às apresentações do Calendário - permite a exibição do botão Presentations na parte inferior.
+Concede aos usuários acesso a apresentações de calendário - permite a exibição do botão Apresentações na parte inferior.
 
-* Editar Presentations do Calendário - Permite que os usuários editem apresentações no Calendário
+* Editar Apresentações do Calendário - Permite que os usuários editem apresentações no Calendário
 
 ## Acessar Estúdio de desenvolvimento {#access-design-studio}
 
@@ -146,7 +146,7 @@ Fornece aos usuários acesso à guia Design Studio e à visualização da árvor
 * Acessar página
 
    * Aprovar página
-   * Excluir página
+   * Excluir página de destino
    * Editar página de aterrissagem - Editar, criar e clonar páginas de aterrissagem
 
 * Acessar modelo de página
