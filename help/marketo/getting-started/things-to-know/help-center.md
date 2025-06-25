@@ -3,7 +3,7 @@ description: Centro de ajuda - Documentação do Marketo Engage - Documentação
 title: Centro de ajuda
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Centro de ajuda {#help-center}
 
-A Central de ajuda no Adobe Marketo Engage serve como um local centralizado para obter assistência. Além de se vincular a vários recursos (por exemplo, [documentação do produto](/help/marketo/home.md){target="_blank"}, [informações de versão](/help/marketo/release-notes/current.md){target="_blank"}, a [Comunidade da Nação de Marketing](https://nation.marketo.com/){target="_blank"}), você pode acessar apresentações úteis sobre o produto organizadas por nível de experiência.
+A Central de ajuda no Adobe Marketo Engage serve como um local centralizado para obter assistência. Além de se vincular a vários recursos (por exemplo, [documentação do produto](/help/marketo/home.md){target="_blank"}, [informações de lançamento](/help/marketo/release-notes/current.md){target="_blank"}, a [Comunidade da Nação de Marketing](https://nation.marketo.com/){target="_blank"}), você pode acessar apresentações úteis no produto organizadas por nível de experiência.
 
 ## Como acessar {#how-to-access}
 
@@ -20,9 +20,9 @@ Há duas experiências diferentes, dependendo se sua assinatura já foi migrada 
 
 ### Migração IMS pré-Adobe {#pre-adobe-ims-integration}
 
-Estas etapas são para usuários do Marketo Engage que _não_ foram migrados para o [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) ainda.
+Estas etapas são para usuários do Marketo Engage que _não_ já foram migrados para o [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
-[Faça logon](http://login.marketo.com/) no Marketo Engage e clique no ícone Ajuda.
+[Faça logon](https://login.marketo.com/){target="_blank"} no Marketo Engage e clique no ícone Ajuda.
 
 ![](assets/help-center-1.png)
 
@@ -70,9 +70,9 @@ A guia Recursos fornece acesso rápido e direto a várias maneiras de obter ajud
 
 ### Migração IMS pós-Adobe {#post-adobe-ims-integration}
 
-Estas etapas são para usuários do Marketo Engage que já migraram para o [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+Estas etapas são para usuários do Marketo Engage que já migraram para o [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
-[Faça logon](https://experience.adobe.com/) no Marketo Engage e clique no ícone Ajuda.
+[Faça logon](https://experience.adobe.com/){target="_blank"} no Marketo Engage e clique no ícone Ajuda.
 
 ![](assets/help-center-9.png)
 
@@ -84,7 +84,7 @@ Os Guias do (que anteriormente faziam parte do Centro de ajuda antes da migraç�
 
 ![](assets/help-center-11.png)
 
-O Centro de guias tem duas guias: Guias e Novidades. Guias servem como apresentações rápidas para recursos populares no Marketo Engage. Clique em um Guia desejado ou procure um específico.
+O Centro de guias tem duas guias: Guias e Novidades. Os guias servem como apresentações rápidas para recursos populares no Marketo Engage. Clique em um Guia desejado ou procure um específico.
 
 ![](assets/help-center-12.png)
 
