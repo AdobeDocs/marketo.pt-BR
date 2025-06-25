@@ -4,7 +4,7 @@ description: Notas de versão - junho de 2014 - Documentação do Marketo - Docu
 title: Notas de versão - junho de 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 11%
@@ -35,7 +35,7 @@ Ao enviar um email de teste de [!DNL Sales Insight], os tokens atuais no email n
 
 ## API REST do lead {#lead-rest-api}
 
-Crie, leia e atualize leads programaticamente por meio de nossa API ReST. Para começar a usar a ReST, você precisa [criar um serviço personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) no Marketo. Em seguida, vá para o [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) para obter detalhes sobre como usar esta API.
+Crie, leia e atualize leads programaticamente por meio de nossa API ReST. Para começar a usar a ReST, você precisa [criar um serviço personalizado](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) no Marketo. Em seguida, vá para o [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) para obter detalhes sobre como usar esta API.
 
 ## Atualização da página de campanhas de personalização em tempo real (RTP, Real-Time Personalization) do Marketo {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

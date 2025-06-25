@@ -2,46 +2,46 @@
 description: Solicitações de privacidade - Documentação do Marketo - Documentação do produto
 title: Solicitações de privacidade
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 0%
+source-wordcount: '335'
+ht-degree: 15%
 
 ---
 
 # Solicitações de privacidade {#privacy-requests}
 
-Este documento fornece uma visão geral do gerenciamento de solicitações individuais de privacidade de dados que você pode enviar para o Marketo Engage por meio da interface do usuário do Privacy Service e da API Privacy Service.
+Este documento fornece uma visão geral do gerenciamento de solicitações individuais de privacidade de dados que você pode enviar para o Marketo Engage por meio da interface do usuário do Privacy Service e da API do Privacy Service.
 
 >[!NOTE]
 >
 >As solicitações de privacidade enviadas por meio da interface do usuário ou da API do Privacy Service para Marketo Engage se aplicam apenas ao seguinte:
 >
->* Usuários do Marketo Engage que integraram ao sistema Adobe Identity Management
+>* Usuários do Marketo Engage que se integraram ao Adobe Identity Management System
 >
 >**-ou-**
 >
->* Usuários de Marketo Engage que utilizam outro produto de Experience Cloud que já está no sistema Adobe Identity Management (por exemplo, RT-CDP, edições B2B e B2P, Audience Manager).
+>* Usuários do Marketo Engage que utilizam outro produto Experience Cloud já presente no Adobe Identity Management System (por exemplo, RT-CDP, edições B2B e B2P, Audience Manager).
 
 Você pode enviar solicitações individuais para acessar e excluir dados do consumidor do Marketo Engage de duas maneiras:
 
-* Por meio da [interface do Privacy Service](https://privacyui.cloud.adobe.io/). Consulte a documentação [aqui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=pt-BR){target="_blank"}.
-* Por meio da API de Privacy Service. Consulte a documentação [aqui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} e as informações sobre a API [aqui](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Por meio da interface do Privacy Service: `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Consulte a documentação [aqui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=pt-BR){target="_blank"}.
+* Por meio da API do Privacy Service. Consulte a documentação [aqui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} e informações da API [aqui](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-O [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR){target="_blank"} dá suporte a dois tipos de solicitações: acesso e exclusão de dados.
+O [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR){target="_blank"} oferece suporte a dois tipos de solicitações: acesso e exclusão de dados.
 
 Saiba como criar solicitações de Acesso e Exclusão.
 
-## Configuração necessária para enviar solicitações para Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
+## Configuração necessária para enviar solicitações para o Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
 Para fazer solicitações de Acesso e Exclusão de dados para o Marketo Engage, você deve:
 
-1. Identifique o seguinte:
+1. Identificar o seguinte:
 
    a. ID da Organização IMS<br/>
 b. Endereço de e-mail da pessoa sobre a qual deseja agir
 
-   Uma ID de organização IMS é uma sequência de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em `gdprsupport@adobe.com`. Você precisa da ID de organização IMS para enviar solicitações à API de privacidade.
+   Uma ID de organização IMS é uma string de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em `gdprsupport@adobe.com`. Você precisará da ID de organização IMS para enviar solicitações à API de privacidade.
 
 1. No Privacy Service, você pode enviar solicitações de Acesso e Exclusão ao Marketo Engage e verificar o status das solicitações existentes.
 
@@ -62,7 +62,7 @@ b. Endereço de e-mail da pessoa sobre a qual deseja agir
 
 &quot;include&quot;:
 
-* **marketo** (que é o produto do Adobe que se aplica à solicitação)
+* **marketo** (que é o produto da Adobe que se aplica à solicitação)
 
 &quot;Regulamentação&quot;:
 
