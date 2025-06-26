@@ -35,7 +35,7 @@ Renovamos a lógica de roteamento de chat ao vivo no Dynamic Chat para garantir 
 
 * **Comportamento Específico da Regra de Roteamento**
 
-_**Roteamento de conta**_
+_&#x200B;**Roteamento de conta**&#x200B;_
 
 Se o domínio de email de um visitante for mapeado para uma Conta conhecida, o agente mapeado sempre será priorizado.
 
@@ -53,7 +53,7 @@ Retorna a uma mensagem padrão (pior caso).
 
 A regra de roteamento no nível do cartão (por exemplo, Equipe, Personalizado) só será considerada se o Roteamento de conta não for elegível (nenhum domínio ou agente correspondente).
 
-_**Roteamento personalizado/de equipe**_
+_&#x200B;**Roteamento personalizado/de equipe**&#x200B;_
 
 Essas regras podem retornar vários agentes qualificados.
 
@@ -67,7 +67,7 @@ O sistema mostra o calendário do agente da primeira tentativa (se ativado) ou
 
 Exibe a mensagem de fallback padrão.
 
-_**Roteamento Round Robin**_
+_&#x200B;**Roteamento Round Robin**&#x200B;_
 
 Quando usado como uma regra de roteiro principal, o sistema:
 
