@@ -36,7 +36,7 @@ Renovamos a lógica de roteamento de chat ao vivo no Dynamic Chat para garantir 
 
 * **Comportamento Específico da Regra de Roteamento**
 
-_**Roteamento de conta**_
+_&#x200B;**Roteamento de conta**&#x200B;_
 
 Se o domínio de email de um visitante for mapeado para uma conta conhecida, o agente mapeado sempre será priorizado.
 
@@ -54,7 +54,7 @@ Se o agente não estiver disponível, o sistema:
 
 A regra de roteamento no nível do cartão (por exemplo, Equipe, Personalizado) só será considerada se o Roteamento de conta não for elegível (nenhum domínio ou agente correspondente).
 
-_**Roteamento personalizado/de equipe**_
+_&#x200B;**Roteamento personalizado/de equipe**&#x200B;_
 
 Essas regras podem retornar vários agentes qualificados.
 
@@ -68,7 +68,7 @@ Se nenhum dos agentes interagir:
 -ou-
 * Exibe a mensagem de fallback padrão.
 
-_**Roteamento Round Robin**_
+_&#x200B;**Roteamento Round Robin**&#x200B;_
 
 Quando usado como uma regra de roteiro principal, o sistema:
 
@@ -78,7 +78,7 @@ Quando usado como uma regra de roteiro principal, o sistema:
 
 Se Round Robin for usado como um fallback, ele será ativado somente se nenhum agente for resolvido a partir da regra principal.
 
-_**Fluxo de experiência do visitante**_
+_&#x200B;**Fluxo de experiência do visitante**&#x200B;_
 
 O sistema verifica se o Roteamento de Conta é aplicável.
 
@@ -102,7 +102,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível for 
 
 ##### Casos de uso {#use-cases}
 
-_**Roteamento de conta**_
+_&#x200B;**Roteamento de conta**&#x200B;_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _**Roteamento de conta**_
   </tr>
 </tbody></table>
 
-_**Roteamento personalizado**_
+_&#x200B;**Roteamento personalizado**&#x200B;_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _**Roteamento personalizado**_
   </tr>
 </tbody></table>
 
-_**Roteamento de Equipe**_
+_&#x200B;**Roteamento de Equipe**&#x200B;_
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _**Roteamento de Equipe**_
   </tr>
 </tbody></table>
 
-_**Roteamento Round Robin**_
+_&#x200B;**Roteamento Round Robin**&#x200B;_
 
 <table><thead>
   <tr>
