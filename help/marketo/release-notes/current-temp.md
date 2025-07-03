@@ -4,10 +4,11 @@ title: Notas da versão atual
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 13%
+source-wordcount: '562'
+ht-degree: 11%
 
 ---
 
@@ -113,7 +114,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TÍTULO</strong>: DESCRIÇÃO.</td> 
+   <td><strong>Integração Designer de email - GenStudio</strong>: integre o GenStudio para marketing de desempenho a partir de emails para aprimorar a eficiência do marketing e manter a consistência da marca.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -123,7 +124,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TÍTULO</strong>: DESCRIÇÃO.</td> 
+   <td><strong>Atualizações de Notificação de Código de Erro da API REST</strong>: Foram adicionadas duas classes adicionais de erro da API REST nas notificações no aplicativo: 606 - Limite de Taxa Máxima Excedido e 607 - Cota Diária Atingida.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -133,7 +134,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TÍTULO</strong>: DESCRIÇÃO.</td> 
+   <td><strong>Exibir Campos Padrão de Membros do Programa no Gerenciamento de Campos</strong>: os campos padrão e personalizados de membros do programa no <i>Gerenciamento de Campos</i> agora estão visíveis.</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -143,7 +144,17 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TÍTULO</strong>: DESCRIÇÃO.</td> 
+   <td><strong>Nomes da API REST no Gerenciamento de Campos</strong>: esta atualização permite que os administradores vejam nomes de campos da API REST sem precisar exportar a lista.</td> 
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Meus tokens usados pela lista</strong>: exiba a lista de ativos que estão usando um Meu token (até 50 ativos por vez).</td> 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -153,6 +164,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot;, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot;, [conforme descrito aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
