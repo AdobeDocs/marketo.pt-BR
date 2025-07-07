@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
 workflow-type: tm+mt
-source-wordcount: '1258'
+source-wordcount: '1260'
 ht-degree: 8%
 
 ---
@@ -246,7 +246,7 @@ A seção **[!UICONTROL Estilo de escrita]** descreve os padrões para a escrita
 
 Para personalizar seu **[!UICONTROL Estilo de Redação]**:
 
-1. Na guia **[!UICONTROL Estilo de Escrita]**, clique em ![](assets/do-not-localize/Smock_Add_18_N.svg) para adicionar uma diretriz, exceção ou exclusão.
+1. Na guia **[!UICONTROL Estilo de Escrita]**, clique NESTE ÍCONE para adicionar uma diretriz, exceção ou exclusão.
 
 1. Insira sua diretriz, exceção ou exclusão e clique em **[!UICONTROL Adicionar]**.
 
