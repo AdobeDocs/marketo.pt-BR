@@ -4,7 +4,9 @@ description: Perguntas frequentes sobre rastreamento da próxima geração [!DNL
 title: 'Perguntas frequentes sobre o Acompanhamento da Próxima Geração [!DNL Munchkin] '
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+hide: true
+hidefromtoc: true
+source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,7 +47,7 @@ Se você já estiver usando esse filtro em uma Smart List (por exemplo, em uma C
 >
 >**Acionador**: Página Visitas da Web, Página da Web com Preços\
 >**Fluxo**: Alterar Pontuação +10 e Momento Interessante
->**Web**: Página de Preços Visualizada
+>>**Web**: Página de Preços Visualizada
 >
 >Com a versão [!DNL Munchkin] V2, se uma pessoa anônima visitar a página de preços, ela não entrará na campanha imediatamente. Quando o anônimo se tornar conhecido, faremos essa campanha com ela. Ela vai:
 >
@@ -76,7 +78,7 @@ Confira estes links:
 
 [Visão Geral De Atualizações De Cliente Potencial Anônimo](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[Atualizações Anônimas de Clientes Potenciais - Alterações na Interface do Usuário do Marketo](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
+[Atualizações Anônimas de Cliente Potencial - Alterações na Interface do Usuário do Marketo](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
 [Atualizações Anônimas De Clientes Potenciais - Ação Do Cliente Necessária](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
@@ -84,7 +86,7 @@ Confira estes links:
 
 [Atualizações de Cliente Potencial Anônimas - Agendamento de Lançamento](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[Atualizações Anônimas De Clientes Potenciais - Por Baixo](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[Atualizações Anônimas De Clientes Potenciais - Por Baixo Da Tela](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
 [Promoção Anônima de Cliente Potencial para Cliente Potencial Conhecido - [!DNL Munchkin] Comportamento V2](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
