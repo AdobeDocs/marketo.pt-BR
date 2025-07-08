@@ -47,7 +47,7 @@ Se você já estiver usando esse filtro em uma Smart List (por exemplo, em uma C
 >
 >**Acionador**: Página Visitas da Web, Página da Web com Preços\
 >**Fluxo**: Alterar Pontuação +10 e Momento Interessante
->>**Web**: Página de Preços Visualizada
+>&#x200B;>**Web**: Página de Preços Visualizada
 >
 >Com a versão [!DNL Munchkin] V2, se uma pessoa anônima visitar a página de preços, ela não entrará na campanha imediatamente. Quando o anônimo se tornar conhecido, faremos essa campanha com ela. Ela vai:
 >
