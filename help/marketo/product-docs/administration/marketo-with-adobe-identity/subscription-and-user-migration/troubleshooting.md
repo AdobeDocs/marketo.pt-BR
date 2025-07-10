@@ -3,9 +3,9 @@ description: Guia de solução de problemas de migração de usuário do Adobe I
 title: Guia de solução de problemas de migração de usuário do Adobe IMS
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: e95748ed9a26f5454c342c6f6a9c29ec687c7cad
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '877'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Use a seção &quot;Nesta página&quot; à direita para ir diretamente para um e
 
 _Se for necessário migrar o usuário_ - O endereço de email deve ser atualizado no Marketo Engage para estar em conformidade com a política de segurança da Adobe e verificado novamente. Administrador do Marketo para executar novamente a migração de usuário para este usuário no Console de migração.
 
-_Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
+_Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
 
 ### Usuário não está no diretório {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Market
 
 _Se o usuário precisar ser migrado_ - O usuário deve ser adicionado ao Ative Diretory com as permissões adequadas por um administrador do sistema. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
-_Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
+_Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
 
 ### Usuário inativo {#inactive-user}
 
@@ -54,7 +54,7 @@ _Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Market
 
 _Se for necessário migrar o usuário_ - O status do usuário e as permissões adequadas devem ser restaurados por um administrador do sistema. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
-_Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
+_Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
 
 ### Domínio inválido {#invalid-domain}
 
@@ -62,17 +62,23 @@ _Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Market
 
 **Resoluções**:
 
-_Se for necessário migrar o usuário_ (e a imposição de domínio estiver habilitada na organização de migração) - O endereço de email deve ser atualizado no Marketo Engage para estar em conformidade com a política de Imposição de Domínio (DE). Como alternativa, o Administrador do Sistema pode [mover o domínio](https://helpx.adobe.com/br/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} para outro diretório desabilitado de Imposição de Domínio (DE) ou [criar um novo diretório](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"} que não esteja na política DE. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
+_Se for necessário migrar o usuário_ (e a imposição de domínio estiver habilitada na organização de migração) - O endereço de email deve ser atualizado no Marketo Engage para estar em conformidade com a política de Imposição de Domínio (DE). Como alternativa, o Administrador do Sistema pode [mover o domínio](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} para outro diretório desabilitado de Imposição de Domínio (DE) ou [criar um novo diretório](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"} que não esteja na política DE. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
 _Se for necessário migrar o usuário_ (e a imposição de domínio estiver habilitada em outra organização), um administrador do sistema da organização em que o domínio foi reivindicado precisa adicionar o endereço de email do usuário à lista de exceções. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
-_Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
-
-### Falha na criação do usuário {#user-creation-failed}
-
-[Veja abaixo](#failed)
+_Se o usuário **não**precisar ser migrado_ - o administrador do Marketo Engage precisará ignorá-lo no Console de Migração. O botão &quot;Migração concluída&quot; aparece quando todos os usuários são considerados ao migrar ou ignorar o. Clique no botão para concluir o processo de migração do usuário.
 
 ### Falha de Type2E {#type2e-failure}
+
+**Causa raiz**: a criação de uma conta de usuário federado (para Logon Único) falhou durante a migração do usuário porque já existe uma Adobe ID para o mesmo endereço de email que um usuário individual.
+
+**Resoluções**:
+
+1. Remova o usuário individual da organização da Adobe. Observação: o usuário perderá o acesso a todos os produtos e precisará ser requalificado posteriormente.
+1. Execute novamente a migração de usuário para que uma conta de usuário federada seja criada para esse usuário.
+1. Adicione o usuário de volta aos produtos aos quais ele tinha acesso anteriormente.
+
+### Falha na criação do usuário {#user-creation-failed}
 
 [Veja abaixo](#failed)
 
