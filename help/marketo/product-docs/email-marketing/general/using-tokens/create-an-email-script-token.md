@@ -49,7 +49,7 @@ Para desenvolvedores avançados, você pode usar os [scripts do Velocity](https:
 
 1. Escreva seu script no Velocity. Estes são alguns recursos úteis:
 
-   * [Documentação de scripts de email de desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [Documentação de scripts de email de desenvolvedores do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting)
    * [Guia do usuário do Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Guia de referência do Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Javadoc de ferramentas do Velocity](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

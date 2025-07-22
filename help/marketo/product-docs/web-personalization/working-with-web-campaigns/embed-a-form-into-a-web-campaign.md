@@ -85,4 +85,4 @@ Para adicionar o código CSS ao script:
 >
 >* [Editar o CSS de um Tema de Formulário](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostrar mensagem de agradecimento sem uma página de aterrissagem de acompanhamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
