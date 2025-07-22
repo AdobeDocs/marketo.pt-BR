@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: Trilha de auditoria] Visão geral - Documentação do Marketo - Documentação do produto
+description: Trilha de auditoria&rbrack; Visão geral - Documentação do Marketo - Documentação do produto
 title: Visão geral da trilha de auditoria
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # Atividade de rastreamento não é exibida {#tracking-activity-not-showing}
 
-Se a atividade de rastreamento não estiver sendo exibida, verifique se os campos de atividade personalizados fornecidos por [!DNL  Sales Connect] estão visíveis/editáveis no Salesforce. Se você instalou os campos, mas eles não estão sendo preenchidos, pode haver uma Segurança de nível de campo impedindo que as informações sejam preenchidas. Consulte seu administrador [!DNL  Salesforce].
+Se a atividade de rastreamento não estiver sendo exibida, verifique se os campos de atividade personalizados fornecidos por [!DNL &#x200B; Sales Connect] estão visíveis/editáveis no Salesforce. Se você instalou os campos, mas eles não estão sendo preenchidos, pode haver uma Segurança de nível de campo impedindo que as informações sejam preenchidas. Consulte seu administrador [!DNL &#x200B; Salesforce].
 
 Saiba mais sobre a [Segurança de nível de campo](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5) no Salesforce.

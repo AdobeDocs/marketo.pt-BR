@@ -75,6 +75,6 @@ Para qualquer dia/etapa subsequente em sua Campanha de vendas, você terá as se
 >[!MORELIKETHIS]
 >
 >[Criar uma campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->>[Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->>[Configurações da campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>&#x200B;>[Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>&#x200B;>[Configurações da campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 
