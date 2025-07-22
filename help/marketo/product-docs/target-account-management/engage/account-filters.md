@@ -4,24 +4,24 @@ description: Filtros de conta - Documentação do Marketo - Documentação do pr
 title: Filtros de conta
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 6%
+ht-degree: 1%
 
 ---
 
-# Filtros de conta {#account-filters}
+# [!UICONTROL Filtros de Conta] {#account-filters}
 
 Identifique e envolva contas nomeadas e os perfis dentro delas usando novos filtros centrados em conta.
 
 ## Filtros TAM {#tam-filters}
 
-1. Selecione sua campanha inteligente e clique em **Smart List**.
+1. Selecione sua campanha inteligente e clique em **[!UICONTROL Smart List]**.
 
    ![](assets/one.png)
 
-1. Clique em **+** para expandir a pasta **Filtros de Conta**.
+1. Clique em **+** para expandir a pasta **[!UICONTROL Filtros de Conta]**.
 
    ![](assets/two.png)
 
@@ -29,9 +29,9 @@ Identifique e envolva contas nomeadas e os perfis dentro delas usando novos filt
 
    ![](assets/three.png)
 
-## Membro da lista de contas {#member-of-account-list}
+## [!UICONTROL Membro da Lista de Contas] {#member-of-account-list}
 
-Para usar esse filtro, clique na lista suspensa de contas...
+Para usar este filtro, clique no menu suspenso **[!UICONTROL Lista de Contas]**...
 
 ![](assets/four.png)
 
@@ -41,11 +41,11 @@ Para usar esse filtro, clique na lista suspensa de contas...
 
 >[!NOTE]
 >
->Para o filtro Membro da Lista de Contas, há apenas um qualificador: &quot;é&quot; - Qualificadores adicionais (como &quot;não é&quot; e &quot;é qualquer&quot;) não estão disponíveis.
+>Para o filtro [!UICONTROL Membro da Lista de Contas], há apenas um qualificador: &quot;[!UICONTROL is]&quot; - Qualificadores adicionais (como &quot;não é&quot; e &quot;é qualquer um&quot;) não estão disponíveis.
 
-## Membro da conta nomeada {#member-of-named-account}
+## [!UICONTROL Membro da Conta Nomeada] {#member-of-named-account}
 
-Primeiro, escolha um qualificador. **É** para uma(s) conta(s) nomeada(s) específica(s) ou **é qualquer** para qualquer conta nomeada.
+Primeiro, escolha um qualificador. **[!UICONTROL é]** para uma(s) conta(s) nomeada(s) específica(s) ou **[!UICONTROL é qualquer]** para qualquer conta nomeada.
 
 ![](assets/six.png)
 
@@ -57,11 +57,11 @@ Clique na lista suspensa de contas nomeadas...
 
 ![](assets/eight.png)
 
-Se você usar o qualificador &quot;é qualquer um&quot;, poderá utilizar [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para restringir os resultados da pesquisa. Adicione quantos desejar.
+Se você usa o qualificador &quot;[!UICONTROL é qualquer]&quot;, convém utilizar [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) para restringir os resultados da pesquisa. Adicione quantos desejar.
 
 ![](assets/nine.png)
 
-Defina &quot;Incluir filhos&quot; como falso se desejar apenas membros da conta única de nível superior. Selecione verdadeiro se quiser membros de todas as contas secundárias.
+Defina &quot;[!UICONTROL Incluir Filhos]&quot; como **[!UICONTROL false]** se desejar apenas membros da única conta de nível superior. Selecione **[!UICONTROL true]** se desejar membros de todas as contas filho.
 
 ![](assets/ten.png)
 

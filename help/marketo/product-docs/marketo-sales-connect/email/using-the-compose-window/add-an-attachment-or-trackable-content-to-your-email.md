@@ -4,16 +4,16 @@ description: Adicionar um anexo ou conteúdo rastreável ao seu email - Document
 title: Adicionar um anexo ou conteúdo rastreável ao seu email
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
 # Adicionar um anexo ou conteúdo rastreável ao seu email {#add-an-attachment-or-trackable-content-to-your-email}
 
-Ao enviar um email por meio do Sales Connect, você tem a opção de adicionar um arquivo como anexo ou tornar um arquivo um link baixável (e rastreável).
+Ao enviar um email por meio do [!DNL Sales Connect], você tem a opção de adicionar um arquivo como anexo ou tornar um arquivo um link baixável (e rastreável).
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Ao enviar um email por meio do Sales Connect, você tem a opção de adicionar u
 
 ## Adicionar um anexo {#add-an-attachment}
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **[!UICONTROL Compor]** no cabeçalho).
 
    ![](assets/one-4.png)
 
-1. Preencha o campo Para e informe um Assunto.
+1. Preencha o campo [!UICONTROL Para] e insira um [!UICONTROL Assunto].
 
    ![](assets/attach-two.png)
 
@@ -33,7 +33,7 @@ Ao enviar um email por meio do Sales Connect, você tem a opção de adicionar u
 
    ![](assets/attach-three.png)
 
-1. Selecione o arquivo que deseja anexar e clique em **Inserir**.
+1. Selecione o arquivo que deseja anexar e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/attach-four.png)
 
@@ -47,11 +47,11 @@ O anexo aparece na parte inferior do email.
 
 ## Adicionar conteúdo rastreável {#add-trackable-content}
 
-1. Criar seu rascunho de email (há várias maneiras de fazer isso; neste exemplo, estamos escolhendo a janela Compor ).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso; neste exemplo, estamos escolhendo a janela [!UICONTROL Compor]).
 
    ![](assets/one-4.png)
 
-1. Preencha o campo Para e informe um Assunto.
+1. Preencha o campo [!UICONTROL Para] e insira um [!UICONTROL Assunto].
 
    ![](assets/two-4.png)
 
@@ -59,7 +59,7 @@ O anexo aparece na parte inferior do email.
 
    ![](assets/three-4.png)
 
-1. Selecione o conteúdo que deseja adicionar, clique no controle deslizante **Conteúdo é Rastreado** e clique em **Inserir**.
+1. Selecione o conteúdo que você deseja adicionar, clique no controle deslizante **[!UICONTROL Conteúdo é rastreado]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/four-4.png)
 

@@ -3,20 +3,20 @@ description: Visão geral do Command Center - Documentação do Marketo - Docume
 title: Visão geral do Command Center
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 3%
+source-wordcount: '498'
+ht-degree: 0%
 
 ---
 
 # Visão geral do Command Center {#command-center-overview}
 
-O Command Center é uma visualização única e unificada que ajuda você a descobrir o próximo passo, garantindo que nada entre pelas rachaduras.
+O [!UICONTROL Centro de comando] é um modo de exibição único e unificado que ajuda você a descobrir sua próxima etapa e, ao mesmo tempo, garantir que nada seja alterado.
 
 ## Gerenciar emails {#manage-emails}
 
-A seção de e-mail do Centro de comando é onde você pode gerenciar todas as atividades de e-mail. Pense nisso como sua caixa de saída de email para analisar emails enviados pelo Sales Connect. Gerencie emails agendados, veja quem está se envolvendo com seus emails, verifique se houve problemas com seus emails sendo entregues e muito mais.
+A seção de email do [!UICONTROL Command Center] é onde você pode gerenciar todas as suas atividades de email. Pense nisso como sua caixa de saída de email para revisar os emails enviados de [!DNL Sales Connect]. Gerencie emails agendados, veja quem está se envolvendo com seus emails, verifique se houve problemas com seus emails sendo entregues e muito mais.
 
 ![](assets/command-center-overview-1.png)
 
@@ -29,41 +29,41 @@ A seção email oferece uma visualização rápida de todos os seus emails e sim
   <th>Descrição</th>
  </tr>
  <tr>
-  <th rowspan="2">Enviado</th>
-  <td>Entrega</td>
+  <th rowspan="2">[!UICONTROL Enviado]</th>
+  <td>[!UICONTROL Entregue]</td>
   <td>Emails que foram entregues ao recipient.</td>
  </tr>
  <tr>
-  <td>Arquivado</td>
+  <td>[!UICONTROL Arquivado]</td>
   <td>Emails que foram arquivados pelo usuário para desativar o rastreamento nos emails.</td>
  </tr>
  <tr>
-  <th rowspan="3">Pendente</th>
-  <td>Programado</td>
+  <th rowspan="3">[!UICONTROL Pendente]</th>
+  <td>[!UICONTROL Agendado]</td>
   <td>Emails programados para serem enviados no momento. Depois que um email é enviado, ele é movido para a pasta entregue.</td>
  </tr>
  <tr>
-  <td>Rascunho</td>
+  <td>[!UICONTROL Rascunho]</td>
   <td>Emails que foram salvos como rascunho.<br/>
   <strong>Observação</strong>: somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</td>
  </tr>
  <tr>
-  <td>Em andamento</td>
+  <td>[!UICONTROL Em] Progresso</td>
   <td>Esse é um estado intermediário em que os emails entram quando estão no movimento de envio. Os emails devem estar em andamento por alguns instantes.</td>
  </tr>
  <tr>
-  <th rowspan="3">Não entregue(s)</th>
-  <td>Falha</td>
+  <th rowspan="3">[!UICONTROL Não Entregue]</th>
+  <td>[!UICONTROL Falha]</td>
   <td>Emails que falharam na entrega.
 </td>
  </tr>
  <tr>
-  <td>Devolvido</td>
+  <td>[!UICONTROL Devolvido]</td>
   <td>Emails que foram rejeitados do servidor de email dos recipients.<br/>
   <strong>Observação</strong>: isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</td>
  </tr>
  <tr>
-  <td>Spam</td>
+  <td>[!UICONTROL Spam]</td>
   <td>Emails que foram marcados manualmente como spam pelo recipient.<br/>
   <strong>Observação</strong>: isso só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</td>
  </tr>

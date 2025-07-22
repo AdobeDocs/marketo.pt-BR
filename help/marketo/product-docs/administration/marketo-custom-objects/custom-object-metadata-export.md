@@ -3,20 +3,20 @@ description: Exportação de metadados de objeto personalizado - Documentação 
 title: Exportação de metadados de objeto personalizado
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # Exportação de metadados de objeto personalizado {#custom-object-metadata-export}
 
-Se você estiver usando a API SOAP ou a API Munchkin, o esquema de metadados do objeto personalizado pode ser exportado. Veja como obtê-lo.
+Se você estiver usando nossa API do SOAP ou a API [!DNL Munchkin], o Esquema de metadados do objeto personalizado pode ser exportado. Veja como obtê-lo.
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

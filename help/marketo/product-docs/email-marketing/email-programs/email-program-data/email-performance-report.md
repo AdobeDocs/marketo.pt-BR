@@ -4,7 +4,7 @@ description: Relatório de desempenho de email - Documentação do Marketo - Doc
 title: Relatório de desempenho de email
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 2%
@@ -15,8 +15,8 @@ ht-degree: 2%
 
 Para ver o desempenho de seus emails com estatísticas como entregue, aberto, clicado etc., crie um Relatório de desempenho de email.
 
-1. [Crie um Relatório em um Programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **Desempenho de Email** [Tipo de Relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Altere o Intervalo de Tempo do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **Relatório**.
+1. [Crie um Relatório em um Programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **[!UICONTROL Desempenho de Email]** [Tipo de Relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Altere o Intervalo de Tempo do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **[!UICONTROL Relatório]**.
 1. Você está aí! Agora explore o relatório para ver como seus emails se comportaram.
 
    >[!NOTE]
@@ -31,7 +31,7 @@ Para ver o desempenho de seus emails com estatísticas como entregue, aberto, cl
 
    >[!NOTE]
    >
-   >Um relatório de desempenho de email inclui atividades para todas as pessoas, incluindo aquelas que foram excluídas desde que o email foi enviado. Às vezes, você deseja ver as atividades somente para pessoas ativas. Nesse caso, você precisa filtrar as pessoas excluídas do seu relatório. Use a guia **Lista Inteligente** para [criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para o relatório. Se você não estiver filtrando nenhum campo específico, defina o filtro de Endereço de Email como: **não está vazio**.
+   >Um relatório de desempenho de email inclui atividades para todas as pessoas, incluindo aquelas que foram excluídas desde que o email foi enviado. Às vezes, você deseja ver as atividades somente para pessoas ativas. Nesse caso, você precisa filtrar as pessoas excluídas do seu relatório. Use a guia **[!UICONTROL Lista Inteligente]** para [criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para o relatório. Se você não estiver filtrando nenhum campo específico, defina o filtro de Endereço de Email como: **[!UICONTROL não está vazio]**.
 
    [Selecione as Colunas do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho de Email:
 
@@ -75,11 +75,11 @@ Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por ex
 
 * **Regra 1**: cada registro de atividade de email está definido como um, e somente como um, dos seguintes itens: _Entregues_, _Com rejeição permanente_, _Com rejeição temporária_ ou _Pendentes_.
 
-* **Regra 2**: se o registro de email mostrar *Aberto*, será contado como *Entregue*.
+* **Regra 2**: se o registro de email mostrar *[!UICONTROL Aberto]*, será contado como *Entregue*.
 
-* **Regra 3**: se o registro de email mostrar _Email Clicado_ ou _Cancelado_, ele será contado como _Entregue_ e _Aberto_.
+* **Regra 3**: se o registro de email mostrar _[!UICONTROL Email Clicado]_ ou _[!UICONTROL Cancelado]_, ele será contado como _Entregue_ e _Aberto_.
 
-* **Regra 4**: se o email estiver _Aberto_, as rejeições serão ignoradas. Se o email não tiver sido aberto, _Com rejeição permanente_ terá prioridade sobre _Com rejeição temporária_ e _Entregue_.
+* **Regra 4**: se o email estiver _[!UICONTROL Aberto]_, as rejeições serão ignoradas. Se o email não tiver sido aberto, _Com rejeição permanente_ terá prioridade sobre _Com rejeição temporária_ e _Entregue_.
 
 * **Regra 5**: se nenhuma atividade de email for recebida três dias após seu envio, ela será considerada _Anulada_.
 

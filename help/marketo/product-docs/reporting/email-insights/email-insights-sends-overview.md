@@ -4,7 +4,7 @@ description: Visão geral dos envios de insights de email - Documentação do Ma
 title: Visão geral dos envios do Email Insights
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Visão geral dos envios do Email Insights {#email-insights-sends-overview}
 
-Na página Envios, examine as características das comunicações recentes por email.
+Na página [!UICONTROL Envios], examine as características das comunicações recentes por email.
 
 ![](assets/one.png)
 
@@ -25,11 +25,11 @@ No lado direito da página há várias informações sobre os emails enviados.
 
 ![](assets/two-1.png)
 
-**Type** indica o tipo de ativo usado.
-O número de **Destinatário** é a quantidade de pessoas que receberam o email.
-**Métricas de Entrega** fornece uma visão rápida de quantos emails foram entregues, estão pendentes ou foram rejeitados.\
-**Métricas de engajamento** oferece uma visão rápida de quantos destinatários abriram, clicaram e cancelaram a assinatura de um email.
-**Pontuação** é a [Pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) do seu email.
+**[!UICONTROL Type]** indica o tipo de ativo usado.
+O número de **[!UICONTROL Destinatário]** é a quantidade de pessoas que receberam o email.
+**[!UICONTROL Métricas de Entrega]** fornece uma visão rápida de quantos emails foram entregues, estão pendentes ou foram rejeitados.\
+**[!UICONTROL Métricas de engajamento]** oferece uma visão rápida de quantos destinatários abriram, clicaram e cancelaram a assinatura de um email.
+**[!UICONTROL Pontuação]** é a [Pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) do seu email.
 
 Por padrão, seus emails são classificados pelos mais recentes, mas você pode classificá-los por qualquer métrica disponível.
 

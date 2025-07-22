@@ -4,7 +4,7 @@ description: Criar um trecho - Documentação do Marketo - Documentação do pro
 title: Criar um trecho
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Os trechos podem ser usados como blocos de conteúdo dinâmico em **emails** e **páginas de aterrissagem**.
 
-1. Vá para o **Design Studio.**
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Clique em **Novo** e em **Novo trecho**.
+1. Clique em **[!UICONTROL Novo]** e em **[!UICONTROL Novo trecho]**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Insira os detalhes necessários e clique em **Criar**.
+1. Insira os detalhes necessários e clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 

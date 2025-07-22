@@ -4,16 +4,16 @@ description: Adicionar módulos ao seu email - Documentação do Marketo - Docum
 title: Adicionar módulos ao seu email
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Adicionar módulos ao seu email {#add-modules-to-your-email}
 
-No Editor de email 2.0, um módulo é uma seção do seu email definida no modelo. Os módulos podem conter qualquer combinação de elementos, variáveis e outro conteúdo de HTML. Adicioná-los ao seu email é fácil.
+No [!DNL Email Editor 2.0], um módulo é uma seção do seu email que é definida no modelo. Os módulos podem conter qualquer combinação de elementos, variáveis e outro conteúdo do HTML. Adicioná-los ao seu email é fácil.
 
 1. Crie um email. Certifique-se de escolher (ou criar) um modelo que contenha módulos.
 
@@ -21,9 +21,9 @@ No Editor de email 2.0, um módulo é uma seção do seu email definida no model
 
    >[!NOTE]
    >
-   >A maioria dos Modelos iniciais do Marketo contém Módulos. Você também pode [criar o seu próprio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >A maioria dos [!UICONTROL Modelos Iniciais] do Marketo contém [!UICONTROL Módulos]. Você também pode [criar o seu próprio](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. Na extremidade direita do email, clique em **Módulos**.
+1. Na extremidade direita do email, clique em **[!UICONTROL Módulos]**.
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ Há duas maneiras de mover um módulo.
 
    ![](assets/nine-2.png)
 
-1. Clique no ícone de engrenagem e selecione **Mover para cima** ou **Mover para baixo**, dependendo de onde você deseja que o módulo vá.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Mover para cima]** ou **[!UICONTROL Mover para baixo]**, dependendo de onde você deseja que o módulo vá.
 
    ![](assets/ten-2.png)
 

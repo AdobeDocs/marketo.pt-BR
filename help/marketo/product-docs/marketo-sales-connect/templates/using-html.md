@@ -4,7 +4,7 @@ description: Uso do HTML - Documentação do Marketo - Documentação do produto
 title: Utilização do HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 1. Cole o código-fonte lá.
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
 >[!NOTE]
 >

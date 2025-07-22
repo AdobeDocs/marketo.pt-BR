@@ -4,16 +4,16 @@ description: Saiba como importar uma lista de propagação para sua instância d
 title: Power Pack de capacidade de entrega de email - Como importar uma lista de seeds
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
 # Power Pack de capacidade de entrega de email: como importar uma lista de seeds {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-Uma Seed List é uma lista de contas de email em vários provedores de caixa de correio, incluindo Google Apps, Hotmail, Yahoo!, etc., usados para aproximar a taxa de entrega da caixa de entrada versus a pasta de spam. Abaixo estão as etapas para obter essa lista na instância do Marketo Engage.
+Uma Seed List é uma lista de contas de email em vários provedores de caixa de correio, incluindo Google Apps, Hotmail, Yahoo!, etc., usados para aproximar a taxa de entrega da caixa de entrada versus a pasta de spam. Abaixo estão as etapas para obter essa lista na sua instância do Marketo Engage.
 
 >[!IMPORTANT]
 >
@@ -21,25 +21,25 @@ Uma Seed List é uma lista de contas de email em vários provedores de caixa de 
 
 ## Importar uma lista de seeds {#import-a-seed-list}
 
-1. Em Meu Marketo, selecione **Ferramentas de Entrega**.
+1. Em Meu Marketo, selecione **[!UICONTROL Ferramentas de Entrega]**.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. O aplicativo Everest será aberto. Na navegação à esquerda, clique em **Em andamento** e selecione **Posicionamento da Caixa de Entrada**.
+1. O aplicativo [!DNL Everest] será aberto. Na navegação à esquerda, clique em **[!UICONTROL Em andamento]** e selecione **[!UICONTROL Posicionamento da Caixa de Entrada]**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Clique na guia **Gerenciar lista de propagação**.
+1. Clique na guia **[!UICONTROL Gerenciar lista de propagação]**.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Clique no menu suspenso Ações e selecione **Baixar um por linha**.
+1. Clique no menu suspenso **[!UICONTROL Actions]** e selecione **[!UICONTROL Download: One Per Line]**.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Use o Seed List Otimizer (na parte superior da página) se desejar que o Everest otimize sua lista para você.
+   >Use o Otimizador de Lista de Propagação (na parte superior da página) se desejar que o [!DNL Everest] otimize sua lista para você.
 
 1. Após a exportação, a lista será exibida como um arquivo .txt na pasta de downloads do navegador. Recupere-a e [importe-a](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) para sua instância do Marketo como uma lista estática.
 
@@ -51,7 +51,7 @@ Uma Seed List é uma lista de contas de email em vários provedores de caixa de 
 
    >[!CAUTION]
    >
-   >Você recebe uma quantidade limitada dessas Campanhas de posicionamento de caixa de entrada por mês. Para ver quantos você recebe, verifique a seção Subscription em Account Settings > Subscription in Everest. Para obter mais informações, entre em contato com o representante de vendas da Marketo.
+   >Você recebe uma quantidade limitada dessas Campanhas de posicionamento de caixa de entrada por mês. Para ver quantos você recebe, verifique a seção [!UICONTROL Assinatura] em [!UICONTROL Configurações de Conta] > [!UICONTROL Assinatura] em [!DNL Everest]. Para obter mais informações, entre em contato com o representante de vendas da Marketo.
 
 ## Adquirir novas Seedlists {#acquiring-new-seedlists}
 

@@ -4,10 +4,10 @@ description: Relatórios de pessoa de grupo por atributo - Documentação do Mar
 title: Agrupar relatórios de pessoa por atributo
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Você pode agrupar seus relatórios pessoais por qualquer atributo de pessoa ou empresa.
 
-1. Vá para a área **Atividades de marketing** (ou **Analytics**).
+1. Vá para a área **[!UICONTROL Atividades de marketing]** (ou **[!UICONTROL Analytics]**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Selecione seu relatório de pessoas na árvore de navegação e clique na guia **Configuração**.
+1. Selecione seu relatório de pessoas na árvore de navegação e clique na guia **[!UICONTROL Configuração]**.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Clique duas vezes em **Agrupar pessoas por**.
+1. Clique duas vezes em **[!UICONTROL Agrupar pessoas por]**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
@@ -31,15 +31,15 @@ Você pode agrupar seus relatórios pessoais por qualquer atributo de pessoa ou 
    >
    >Você também pode [agrupar seus relatórios de pessoa por segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
-   Na caixa de diálogo Agrupar pessoas por, selecione o atributo de pessoa ou empresa a ser usado para agrupamento.
+   Na caixa de diálogo [!UICONTROL Agrupar Pessoas por], selecione o atributo de pessoa ou empresa a ser usado para agrupamento.
 
    ![](assets/image2017-3-28-11-3a34-3a42.png)
 
    >[!TIP]
    >
-   >Se você escolher um atributo que tenha um valor numérico, como _Criado às_ ou _Receita anual_, selecione as métricas no menu suspenso **Unidades** à direita.
+   >Se você escolher um atributo que tenha um valor numérico, como _[!UICONTROL Criado às]_ ou _[!UICONTROL Receita anual]_, selecione as métricas no menu suspenso **[!UICONTROL Unidades]** à direita.
 
-   Pronto! Clique na guia Relatório para ver seu relatório agrupado de acordo.
+   Pronto! Clique na guia **[!UICONTROL Relatório]** para ver seu relatório agrupado de acordo.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 

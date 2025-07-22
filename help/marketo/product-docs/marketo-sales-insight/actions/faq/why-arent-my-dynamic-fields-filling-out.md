@@ -3,9 +3,9 @@ description: Por que meus campos dinâmicos não estão sendo preenchidos? - Doc
 title: Por que meus campos dinâmicos não estão sendo preenchidos?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -18,23 +18,23 @@ Os campos dinâmicos só funcionarão quando você estiver usando um modelo. Ema
 
 Há três tipos de campos dinâmicos em Ações do Sales Insight: Básico, Personalizado e Salesforce. Básico e Personalizado, ambos procuram obter informações do [aplicativo Web](https://toutapp.com/login){target="_blank"}. Se as informações não existirem no aplicativo web, os campos estarão em branco. Os campos do Salesforce extraem informações do [Salesforce.com](https://salesforce.com){target="_blank"}.
 
-**Solução de problemas de campos do Salesforce**
+**Solução de problemas de [!DNL Salesforce] Campos**
 
-Campos do Salesforce: ex.: `{{sfdc_account_name}}`
+[!DNL Salesforce] Campos: ex.: `{{sfdc_account_name}}`
 
-* Verifique se ele está conectado corretamente às Ações do Sales Insight. Vá para a página [Configurações] (https://toutapp.com/login{target="_blank"} e clique em **Gerenciar** ao lado do seu CRM.
+* Verifique se ele está conectado corretamente às Ações do Sales Insight. Vá para a página [Configurações]&#x200B;(https://toutapp.com/login{target="_blank"} e clique em **Gerenciar** ao lado do seu CRM.
 
 **Solução de problemas de campos básicos e personalizados**
 
 Campos Básicos das Ações do Marketo Sales Insight: por exemplo, `{{company}}`
 
-Campos Personalizados de Ações do Marketo Sales Insight: por exemplo, `{{custom_field_favorite_movie}}`
+Campos Personalizados de Ações do Marketo Sales Insight: ex.: `{{custom_field_favorite_movie}}`
 
 * O campo correspondente precisa ser salvo para o seu contato na [página Pessoas](https://toutapp.com/next#relationships){target="_blank"} para que o nosso campo dinâmico faça referência. Por exemplo, se você estiver enviando um email para Mary e estiver usando o campo `{{company}}`, mas o registro de contato dela não listar uma empresa, não poderemos preenchê-lo.
 
 ## Por Que Meu Email Foi Enviado Sem Preencher Todos Os Campos Dinâmicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-As ações de insight de vendas impedirão que seus emails sejam enviados se não for possível preencher todos os campos dinâmicos no email. **No entanto**, há algumas exceções a esta regra. Alguns campos enviarão um valor em branco ou preencherão automaticamente se for possível encontrar um. Esses campos e como eles reagirão se não puderem preencher o campo estão listados abaixo.
+O [!DNL Sales Insight Actions] impedirá que seus emails sejam enviados se não for possível preencher todos os campos dinâmicos no email. **No entanto**, há algumas exceções a esta regra. Alguns campos enviarão um valor em branco ou preencherão automaticamente se for possível encontrar um. Esses campos e como eles reagirão se não puderem preencher o campo estão listados abaixo.
 
 `{{first_name}}` = EM BRANCO
 
@@ -48,4 +48,4 @@ As ações de insight de vendas impedirão que seus emails sejam enviados se nã
 
 >[!NOTE]
 >
->O campo `{{first_name}}` procurará em Ações do Sales Insight e no Salesforce para tentar obter informações. Todos os outros campos dessa lista só estão procurando nas Ações de Insight de vendas para preencher o campo.
+>O campo `{{first_name}}` procurará [!DNL Sales Insight Actions] e [!DNL Salesforce] para tentar obter informações. Todos os outros campos desta lista só estão procurando em [!DNL Sales Insight Actions] para preencher o campo.

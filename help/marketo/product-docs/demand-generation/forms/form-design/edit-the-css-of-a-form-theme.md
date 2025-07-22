@@ -4,7 +4,7 @@ description: Editar o CSS de um tema de formulário - Documentação do Marketo 
 title: Editar o CSS de um tema de formulário
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 2%
@@ -19,15 +19,15 @@ Você tem alguns [temas pré-construídos que você pode simplesmente escolher e
 >
 >Certifique-se de saber o CSS se quiser tentar isso, pois o Suporte do Marketo não está configurado para auxiliar na codificação personalizada. Além disso, as alterações feitas serão aplicadas somente ao formulário que você está editando atualmente.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Vá para **Configurações de Formulário**.
+1. Vá para **[!UICONTROL Configurações de Formulário]**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -35,7 +35,7 @@ Você tem alguns [temas pré-construídos que você pode simplesmente escolher e
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. No ícone de engrenagem, clique em **Exibir tema CSS**.
+1. No ícone de engrenagem, clique em **[!UICONTROL Exibir tema CSS]**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -43,11 +43,11 @@ Você tem alguns [temas pré-construídos que você pode simplesmente escolher e
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
-1. Clique em **Fechar**.
+1. Clique em **[!UICONTROL Fechar]**.
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. No ícone de engrenagem, clique em **Editar CSS personalizado**.
+1. No ícone de engrenagem, clique em **[!UICONTROL Editar CSS personalizado]**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -55,11 +55,11 @@ Você tem alguns [temas pré-construídos que você pode simplesmente escolher e
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. Quando terminar, clique em **Salvar**.
+1. Quando terminar, clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Para ver seu formulário personalizado, clique em **Visualizar Rascunho**.
+1. Para ver seu formulário personalizado, clique em **[!UICONTROL Visualizar Rascunho]**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 

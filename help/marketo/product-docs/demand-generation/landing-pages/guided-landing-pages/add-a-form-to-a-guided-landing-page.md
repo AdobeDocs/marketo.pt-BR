@@ -4,7 +4,7 @@ description: Adicionar um formulário a uma página de aterrissagem guiada - Doc
 title: Adicionar um formulário a uma landing page guiada
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
 >
 >[Criar uma página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one.png)
 
-1. Localize e selecione sua página de aterrissagem e clique em **Editar Rascunho**.
+1. Localize e selecione sua página de aterrissagem e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/two.png)
 
@@ -41,15 +41,15 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
 
 1. Você tem três opções ao escolher a página de acompanhamento:
 
-   * Página inicial - escolha uma página inicial do Marketo
-   * External URL - escolha o URL desejado
-   * Formulário definido - use as configurações definidas no nível do formulário
+   * **[!UICONTROL Página de aterrissagem]** - escolha uma página de aterrissagem do Marketo
+   * **[!UICONTROL URL externa]** - escolha a URL desejada
+   * **[!UICONTROL Formulário definido]** - use as configurações definidas no nível do formulário
 
    >[!NOTE]
    >
    >A página de acompanhamento é a página que as pessoas verão depois de enviar o formulário.
 
-1. Neste exemplo, usaremos Formulário definido. Clique em **Inserir**.
+1. Neste exemplo, usaremos [!UICONTROL Formulário definido]. Clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

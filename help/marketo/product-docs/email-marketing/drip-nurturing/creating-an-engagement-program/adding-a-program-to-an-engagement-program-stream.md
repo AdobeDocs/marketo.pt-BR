@@ -4,7 +4,7 @@ description: Adicionar um programa a um fluxo de programa de engajamento - Docum
 title: Adicionar um programa a um fluxo de programa de engajamento
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Pode ser complicado misturar emails e programas em um programa de envolvimento. 
 
 >[!TIP]
 >
->Certifique-se de usar um filtro **Membro do Programa de Envolvimento** em sua lista inteligente.
+>Certifique-se de usar um filtro **[!UICONTROL Membro do Programa de Envolvimento]** em sua lista inteligente.
 
 ## O que acontece com as pessoas que não atendem aos critérios da lista inteligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
@@ -47,9 +47,9 @@ Caso alguém seja filtrado para fora da lista inteligente da campanha inteligent
 
 Um programa aninhado bem projetado contém emails, relatórios e campanhas inteligentes. Faz sentido mantê-los juntos.
 
-O email que você usa pode residir no programa, em um programa diferente ou até mesmo no Design Studio. Onde ele mora dependerá de como você deseja usá-lo.
+O email que você usa pode residir no programa, em um programa diferente ou até mesmo no [!UICONTROL Design Studio]. Onde ele mora dependerá de como você deseja usá-lo.
 
-Alterações de relatório com o local do email. Assim, por exemplo, se o email estiver no Design Studio, no Relatório de desempenho de email, todas as métricas serão mostradas em uma linha - as diferentes conversões são combinadas. No entanto, no Relatório de desempenho do fluxo de engajamento, os diferentes envios são exibidos separadamente.
+Alterações de relatório com o local do email. Assim, por exemplo, se o email estiver no [!UICONTROL Design Studio], no Relatório de Desempenho de Email, todas as métricas serão mostradas em uma linha - as diferentes conversões são combinadas. No entanto, no Relatório de desempenho do fluxo de engajamento, os diferentes envios são exibidos separadamente.
 
 >[!CAUTION]
 >

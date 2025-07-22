@@ -4,7 +4,7 @@ description: Adição de medidas personalizadas a um Relatório do Gerenciador d
 title: Adição de Medidas Personalizadas a um Relatório do Gerenciador de Receita
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -23,7 +23,7 @@ No exemplo abaixo, você está criando uma medida calculada para rejeições tem
 
 1. Extraia os campos necessários para o relatório. Consulte [Adicionando Campos a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) para obter detalhes.
 
-1. Clique com o botão direito em uma métrica existente (célula azul), clique em **Medida Definida pelo Usuário** e selecione **Medida Calculada**.
+1. Clique com o botão direito em uma métrica existente (célula azul), clique em **[!UICONTROL Medida Definida pelo Usuário]** e selecione **[!UICONTROL Medida Calculada]**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ No exemplo abaixo, você está criando uma medida calculada para rejeições tem
    >
    >Você pode digitar os símbolos matemáticos ou usar a caixa de seleção.
 
-1. Quando terminar, clique em **OK**.
+1. Quando terminar, clique em **[!UICONTROL OK]**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

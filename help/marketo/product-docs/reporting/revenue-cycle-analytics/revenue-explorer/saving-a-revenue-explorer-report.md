@@ -4,16 +4,16 @@ description: Salvar um relatório do Revenue Explorer - Documentação do Market
 title: Salvar um relatório do Gerenciador de receita
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Salvar um relatório do Gerenciador de receita {#saving-a-revenue-explorer-report}
+# Salvando um Relatório do [!UICONTROL Gerenciador de Receita] {#saving-a-revenue-explorer-report}
 
-Os relatórios do Revenue Explorer podem ser salvos no arquivo de sua escolha.
+Os relatórios do [!UICONTROL Revenue Explorer] podem ser salvos no arquivo de sua escolha.
 
 1. Clique no ícone Salvar.
 
@@ -23,14 +23,14 @@ Os relatórios do Revenue Explorer podem ser salvos no arquivo de sua escolha.
    >
    >As alterações feitas no relatório não são salvas automaticamente. Portanto, salve com frequência!
 
-1. Dê um nome descritivo ao relatório, selecione um local e clique em **Salvar**!
+1. Dê um nome descritivo ao relatório, selecione um local e clique em **[!UICONTROL Salvar]**!
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   Isso é tudo! Agora você pode acessar seu arquivo em **Procurar Arquivos**.
+   Isso é tudo! Agora você pode acessar seu arquivo em **[!UICONTROL Procurar Arquivos]**.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
 >[!MORELIKETHIS]
 >
->[Assinar um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Assinar um [!UICONTROL Relatório do Gerenciador de Receitas]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

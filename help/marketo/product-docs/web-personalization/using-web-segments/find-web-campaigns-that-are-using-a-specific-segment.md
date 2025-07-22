@@ -4,10 +4,10 @@ description: Encontrar campanhas da Web que estão usando um segmento específic
 title: Localizar campanhas da Web que estão usando um segmento específico
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Procurando campanhas da Web que usam um segmento específico?
 
-1. Vá para **Segmentos**.
+1. Vá para **[!UICONTROL Segmentos]**.
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Procure por um **Segmento**. Selecione o **Nome do segmento**. No painel direito, clique em **Campanhas associadas** para exibir as campanhas associadas a este segmento específico.
+1. Procure por um **Segmento**. Selecione o **Nome do segmento**. No painel direito, clique em **[!UICONTROL Campanhas associadas]** para exibir as campanhas associadas a este segmento específico.
 
    ![](assets/image2014-11-26-14-21-59.png)
 

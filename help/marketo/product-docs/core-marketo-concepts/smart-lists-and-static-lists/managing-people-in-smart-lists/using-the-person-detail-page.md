@@ -4,10 +4,10 @@ description: Uso da página de detalhes da pessoa - Documentação do Marketo - 
 title: Usando a Página Detalhes da Pessoa
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 50%
+source-wordcount: '525'
+ht-degree: 33%
 
 ---
 
@@ -38,20 +38,20 @@ Há muitas maneiras de abrir pessoas específicas. Alguns exemplos são:
 
 As informações de pessoa são categorizadas nas seguintes guias:
 
-| Guia | Descrição |
+| Tabulação | Descrição |
 |---|---|
-| Informações | Informações de contato e campos personalizados sobre uma pessoa. |
+| Info | Informações de contato e campos personalizados sobre uma pessoa. |
 | Informações da empresa | Informações e endereço da empresa da pessoa. |
 | Informações da oportunidades | Informações da oportunidade sincronizadas do Salesforce. |
-| SFDC - Campo do lead | Campos Salesforce integrados. |
-| Campo personalizado SFDC | Campos personalizados do Salesforce. |
+| SFDC - Campo do lead | Campos integrados do Salesforce. |
+| Campo personalizado do SFDC | Campos personalizados do Salesforce. |
 | Registro de atividades | Todas as atividades relacionadas à pessoa. |
 
 ## Organização da página - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
-| Guia | Descrição |
+| Tabulação | Descrição |
 |---|---|
-| Informações | Informações de contato e campos personalizados sobre uma pessoa. |
+| Info | Informações de contato e campos personalizados sobre uma pessoa. |
 | Informações da empresa | Informações e endereço da empresa da pessoa. |
 | Informações da oportunidades | Informações da oportunidade sincronizadas do Microsoft. |
 | Campos personalizados da Microsoft | Campos personalizados do Microsoft. |
@@ -60,7 +60,7 @@ As informações de pessoa são categorizadas nas seguintes guias:
 
 >[!NOTE]
 >
->Você também pode ver informações de oportunidade [inseridas via API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias que não estão sincronizadas com um CRM.
+>Você também pode ver informações de oportunidade [inseridas via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias que não estão sincronizadas com um CRM.
 
 ## Edição de um campo {#editing-a-field}
 
@@ -80,12 +80,12 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 | Setor | Cidade indicada | Empresa indicada | País indicado | Área metropolitana indicada |
 | Código de área telef. indic. | Código postal indicado | Estado/região indicado | É anônimo | É cliente |
 | É parceiro | Nome do cargo | Sobrenome | Classificação | Pontuação |
-| Fonte de pessoas | Status | Telefone principal | Marketo - Nome de exibição no perfil social do Facebook | ID social do Marketo no Facebook |
-| Marketo - URL da foto no perfil social do Facebook | Marketo - URL do perfil social do Facebook | Marketo - Alcance do perfil social do Facebook | Marketo - Inscrições por indicação no perfil social do Facebook | Marketo - Visitas por indicação no perfil social do Facebook |
-| Marketo - Sexo em perfil social | Marketo - Última inscrição por indicação em perfil social | Marketo - Última visita por indicação em perfil social | Marketo - Nome de exibição no perfil social do LinkedIn | ID social do Marketo no LinkedIn |
-| Marketo - URL da foto no perfil social do LinkedIn | Marketo - URL do perfil social do LinkedIn | Marketo - Alcance do perfil social do LinkedIn | Marketo - Inscrições por indicação no perfil social do LinkedIn | Marketo - Visitas por indicação no perfil social do LinkedIn |
-| Marketo - ID de distribuição social | Marketo - Total de inscrições por indicação em perfil social | Marketo - Total de visitas por indicação em perfil social | Marketo - Nome de exibição no perfil social do Twitter | ID social do Marketo no Twitter |
-| Marketo - URL da foto no perfil social do Twitter | Marketo - URL do perfil social do Twitter | Marketo - Alcance do perfil social do Twitter | Marketo - Inscrições por indicação no perfil social do Twitter | Marketo - Visitas por indicação no perfil social do Twitter |
+| Fonte de pessoas | Status | Telefone principal | Nome para Exibição do Marketo Social [!DNL Facebook] | Marketo Social [!DNL Facebook] Id |
+| URL da foto [!DNL Facebook] do Marketo Social | URL do perfil [!DNL Facebook] do Marketo Social | Alcance do Marketo Social [!DNL Facebook] | Inscrições Referenciadas do Marketo Social [!DNL Facebook] | Visitas referenciadas [!DNL Facebook] do Marketo Social |
+| Marketo - Sexo em perfil social | Marketo - Última inscrição por indicação em perfil social | Marketo - Última visita por indicação em perfil social | Nome para Exibição do Marketo Social [!DNL LinkedIn] | Marketo Social [!DNL LinkedIn] Id |
+| URL da foto [!DNL LinkedIn] do Marketo Social | URL do perfil [!DNL LinkedIn] do Marketo Social | Alcance do Marketo Social [!DNL LinkedIn] | Inscrições Referenciadas do Marketo Social [!DNL LinkedIn] | Visitas referenciadas [!DNL LinkedIn] do Marketo Social |
+| Marketo - ID de distribuição social | Marketo - Total de inscrições por indicação em perfil social | Marketo - Total de visitas por indicação em perfil social | Nome para Exibição do Marketo Social [!DNL Twitter] | Marketo Social [!DNL Twitter] Id |
+| URL da foto [!DNL Twitter] do Marketo Social | URL do perfil [!DNL Twitter] do Marketo Social | Alcance do Marketo Social [!DNL Twitter] | Inscrições Referenciadas do Marketo Social [!DNL Twitter] | Visitas referenciadas [!DNL Twitter] do Marketo Social |
 | Nome do meio | Número do celular | Núm. funcionários | Número de telefone | Código postal |
 | Prioridade | Pontuação relativa | Função | Saudação | Código SIC |
 | Site | Estado | Inscrição cancelada | Motivo do cancelamento de inscr. | Atualizado em |
@@ -97,7 +97,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 >
 >* Registro de atividades
 >* Informações da Empresa
->* Oportunidades para Contatos SFDC
+>* Oportunidades para contatos da SFDC
 >* Determinados campos específicos do Marketo, como Data de criação e Tipo de Source original.
 >
 >Saiba mais sobre [Campos Gerenciados pelo Sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.

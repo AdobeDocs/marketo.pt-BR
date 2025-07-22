@@ -4,7 +4,7 @@ description: Disponibilizar um programa sem um custo de período no Gerenciador 
 title: Disponibilizar um programa sem um custo de período no Gerenciador e nos Analisadores de receita
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Alguns programas podem precisar ser incluídos mesmo se não tiverem um custo de
 >
 >O Analisador de programas classifica o Sucesso do programa por custo do período. Se não houver custo do período disponível, o Êxito do programa não será exibido, independentemente do comportamento analítico do programa. Se o comportamento de análise for configurado, os dados serão exibidos para as métricas de oportunidade (oportunidades de pipeline, receita ganha etc.).
 
-1. Na seção Admin, clique em **Tags**.
+1. Na seção [!UICONTROL Admin], clique em **[!UICONTROL Marcas]**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ Alguns programas podem precisar ser incluídos mesmo se não tiverem um custo de
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Altere o comportamento do Analytics para Inclusivo e clique em **Salvar**.
+1. Altere o [!UICONTROL Comportamento do Analytics] para **Inclusivo** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

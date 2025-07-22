@@ -4,7 +4,7 @@ description: Configurar o plano de fundo das mensagens no aplicativo - Documenta
 title: Configurar o plano de fundo das mensagens no aplicativo
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Selecionar um plano de fundo para a mensagem é uma etapa importante para conclu
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Para definir uma cor, clique em **Cor** e, em seguida, no quadrado de seleção de cor. Selecione a cor clicando nela ou digitando os códigos hexadecimais ou RGB no seletor de cores.
+1. Para definir uma cor, clique em **[!UICONTROL Cor]** e, em seguida, no quadrado de seleção de cor. Selecione a cor clicando nela ou inserindo os códigos hexadecimais ou RGB no seletor de cores.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ Selecionar um plano de fundo para a mensagem é uma etapa importante para conclu
    >
    >Branco simples, o padrão, geralmente é um vencedor.
 
-1. Se quiser usar um plano de fundo, clique em **Imagem** e depois no link **Selecionar Imagem**.
+1. Se quiser usar um plano de fundo, clique em **[!UICONTROL Imagem]** e depois no link **[!UICONTROL Selecionar Imagem]**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Escolha entre os arquivos carregados no Design Studio. Clique em **Selecionar**.
+1. Escolha entre os arquivos carregados no Design Studio. Clique em **[!UICONTROL Selecionar]**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -47,7 +47,7 @@ Selecionar um plano de fundo para a mensagem é uma etapa importante para conclu
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Aplique uma borda de imagem opcional. A configuração padrão é **Desativada**. Primeiro, selecione a cor clicando nela ou digitando os números hexadecimais ou RGB no seletor de cores.
+1. Aplique uma borda de imagem opcional. A configuração padrão é **[!UICONTROL Desativada]**. Primeiro, selecione a cor clicando nela ou digitando os números hexadecimais ou de RGB no seletor de cores.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -65,7 +65,7 @@ Selecionar um plano de fundo para a mensagem é uma etapa importante para conclu
 
    >[!NOTE]
    >
-   >Para ações de toque para planos de fundo, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, os deep links são tratados de forma diferente para o Apple e o Android. Se a sua mensagem vai para apenas uma plataforma ou outra, deixe a outra na configuração padrão ou selecione **Nenhum**.
+   >Para ações de toque para planos de fundo, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, os deep links são tratados de forma diferente para o Apple e o Android. Se a sua mensagem vai para apenas uma plataforma ou outra, deixe a outra na configuração padrão ou selecione **[!UICONTROL Nenhum]**.
 
    Para concluir o trabalho, sua última etapa é [configurar o botão Ignorar](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 

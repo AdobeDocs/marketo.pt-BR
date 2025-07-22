@@ -4,7 +4,7 @@ description: Relatórios RTP personalizados no Google Universal Analytics - Docu
 title: Relatórios RTP personalizados no Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 4%
@@ -22,13 +22,13 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 * RTP B2B
 * Envolvimento com RTP
 
-## Configuração de um relatório personalizado {#setting-up-a-custom-report}
+## Configurando um [!UICONTROL Relatório personalizado] {#setting-up-a-custom-report}
 
 1. Faça logon no Google Analytics.
 
-1. Clique em **Personalização** no menu superior.
+1. Clique em **[!UICONTROL Personalização]** no menu superior.
 
-1. Clique em **+Novo Relatório Personalizado**.
+1. Clique em **[!UICONTROL Novo Relatório Personalizado]**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -36,17 +36,17 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 
 1. Nomeie o relatório **Relatório B2B RTP**.
 
-1. Nomeie a 1ª guia **Setor**.
+1. Nomeie a 1ª guia **[!UICONTROL Setor]**.
 
 >[!NOTE]
 >
 >Você **Duplicará esta guia** e criará outras semelhantes - etapa 5)
 
-1. Selecione o tipo de relatório **Explorer**.
+1. Selecione o tipo de relatório **[!UICONTROL Explorer]**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Na seção **Grupos de Métricas**, selecione as métricas relevantes para sua empresa.
+1. Na seção **[!UICONTROL Grupos de Métricas]**, selecione as métricas relevantes para sua empresa.
 
    a. Recomendamos o seguinte:
 
@@ -62,7 +62,7 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Na seção **Dimension Drill-downs**, defina as dimensões relevantes para cada guia, conforme abaixo.
+1. Na seção **Dimension Drill downs**, defina as dimensões relevantes para cada guia, conforme abaixo.
 
 <table> 
  <thead> 
@@ -73,7 +73,7 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
     </div></th> 
    <th> 
     <div>
-      Drill-downs de Dimension
+      Detalhes do Dimension
     </div></th> 
   </tr> 
  </thead> 
@@ -101,9 +101,9 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
  </tbody> 
 </table>
 
-1. Não defina filtros e defina este relatório para ficar disponível para **Todos os dados do site** (ou altere se relevante para a conta específica do Analytics).
+1. Não defina filtros e defina este relatório para ficar disponível para **[!UICONTROL Todos os dados do site]** (ou altere se relevante para a conta específica do Analytics).
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -111,17 +111,17 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 
 1. Nomeie o relatório **Relatório de Envolvimento RTP**.
 
-1. Defina o nome da primeira guia como **Todos os envolvimentos**.
+1. Defina o nome da primeira guia como **[!UICONTROL Todos os envolvimentos]**.
 
 >[!NOTE]
 >
 >Você duplicará essa guia e criará outras semelhantes - etapa 5)
 
-1. Selecione o tipo de relatório **Explorer**.
+1. Selecione o tipo de relatório **[!UICONTROL Explorer]**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Na seção Grupos de Métricas, selecione as métricas relevantes para sua empresa. Aqui está uma recomendação:
+1. Na seção [!UICONTROL Grupos de Métricas], selecione as métricas relevantes para sua empresa. Aqui está uma recomendação:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -135,7 +135,7 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Na seção **Dimension Drill-downs**, defina as dimensões relevantes para cada guia, conforme abaixo:
+1. Na seção **Dimension Drill downs**, defina as dimensões relevantes para cada guia, conforme abaixo:
 
 <table> 
  <thead> 
@@ -146,7 +146,7 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
     </div></th> 
    <th> 
     <div>
-      Drill-downs de Dimension 
+      Detalhes do Dimension 
     </div></th> 
   </tr> 
  </thead> 
@@ -204,26 +204,26 @@ Este artigo explica como configurar relatórios personalizados de RTP para o Goo
  <tbody> 
   <tr> 
    <td><p>Incluir</p></td> 
-   <td><p>Categoria de eventos</p></td> 
-   <td>Expressão regular</td> 
-   <td>RTP-Campanhas|RTP-Recommendations|RTP-Segmentos</td> 
+   <td><p><span class="uicontrol">Categoria de eventos</span></p></td> 
+   <td>Regex</td> 
+   <td>RTP-Campanhas|RTP-Recomendações|RTP-Segmentos</td> 
    <td colspan="1">Filtrará todos os outros eventos personalizados não relacionados ao RTP</td> 
   </tr> 
   <tr> 
    <td>Excluir</td> 
-   <td>Rótulo do evento</td> 
-   <td>Expressão regular</td> 
-   <td>Nº</td> 
+   <td><span class="uicontrol">Rótulo do evento</span></td> 
+   <td>Regex</td> 
+   <td>#</td> 
    <td colspan="1">Permite filtrar a partir de seus relatórios da campanha usando # no nome da campanha</td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Defina este relatório para estar disponível para **Todos os Dados do Site** (ou altere se necessário).
+1. Defina este relatório para estar disponível para **[!UICONTROL Todos os Dados do Site]** (ou altere se necessário).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

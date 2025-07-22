@@ -4,7 +4,7 @@ description: Noções básicas sobre programas de engajamento - Documentação d
 title: Noções básicas sobre programas de engajamento
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 8%
@@ -74,7 +74,7 @@ Você decide quando ocorre uma conversão configurando a **cadência de fluxo**.
 
 ## Cadência da pessoa {#person-cadence}
 
-A **cadência da pessoa** é um status que define sua capacidade de receber conteúdo de um programa de envolvimento. Você pode usar a etapa de fluxo **Alterar Cadência do Programa de Envolvimento** para alterá-la para Pausado ou Normal.
+A **cadência da pessoa** é um status que define sua capacidade de receber conteúdo de um programa de envolvimento. Você pode usar a etapa de fluxo **[!UICONTROL Alterar Cadência do Programa de Envolvimento]** para alterar isso para [!UICONTROL Pausado] ou [!UICONTROL Normal].
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

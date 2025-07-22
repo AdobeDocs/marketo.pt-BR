@@ -4,7 +4,7 @@ description: Encaminhar para um link de amigo em emails - Documentação do Mark
 title: Encaminhar para um Amigo por e-mail
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Por exemplo, digamos que Keith use o link &#39;Encaminhar para o Amigo&#39; para
 
 ## Adicionar o link a um modelo de email {#add-the-link-to-an-email-template}
 
-1. Vá para o **Design Studio**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/one-8.png)
 
-1. Localize e selecione o template de email ao qual deseja adicionar o link. Clique em **Editar rascunho**.
+1. Localize e selecione o template de email ao qual deseja adicionar o link. Clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/two-7.png)
 
-1. Cole o seguinte código de HTML onde deseja que o link &#39;Encaminhar para Amigo&#39; apareça (se precisar de ajuda com esta parte, entre em contato com seu desenvolvedor da Web):
+1. Cole o seguinte código do HTML onde deseja que o link &#39;Encaminhar para o amigo&#39; apareça (se precisar de ajuda com esta parte, entre em contato com o desenvolvedor da Web):
 
    `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
@@ -42,9 +42,9 @@ Por exemplo, digamos que Keith use o link &#39;Encaminhar para o Amigo&#39; para
 
    >[!CAUTION]
    >
-   >Não é recomendável usar o estilo **position:relative** no modelo de email. Ele pode criar problemas com a posição e a exibição da caixa &#39;Encaminhar para um amigo&#39;.
+   >Não recomendamos usar o estilo **position:relative** no seu modelo de email. Ele pode criar problemas com a posição e a exibição da caixa &#39;Encaminhar para um amigo&#39;.
 
-1. Clique em **Visualizar rascunho** para verificar se a aparência do modelo é a desejada.
+1. Clique em **[!UICONTROL Visualizar rascunho]** para verificar se a aparência do modelo é a desejada.
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
    ![](assets/eight-1.png)
 
-1. Cole o token **`{{system.forwardToFriendLink}}`** na caixa **URL** usando Ctrl/Cmd+V e clique em **Inserir**.
+1. Cole o token **`{{system.forwardToFriendLink}}`** na caixa **URL** usando Ctrl/Cmd+V e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ Você também pode adicionar o link &quot;Encaminhar para o amigo&quot; diretame
 
 Você pode ver quem encaminhou e recebeu os emails no Registro de atividades da pessoa.
 
-1. Vá para o **`Database`**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de atividades da 
 
    ![](assets/fourteen.png)
 
-1. Vá para a guia **Log de atividades**. Clique duas vezes em **Email de Encaminhamento para Amigo** ou **Email de Encaminhamento para Amigo** para ver detalhes.
+1. Vá para a guia **[!UICONTROL Log de atividades]**. Clique duas vezes em **[!UICONTROL Email de Encaminhamento para Amigo]** ou **[!UICONTROL Email de Encaminhamento para Amigo]** para ver detalhes.
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ Você pode ver quem encaminhou e recebeu os emails no Registro de atividades da 
 
    >[!NOTE]
    >
-   >Tornaremos a **ID de pessoa** clicável e a vincularemos diretamente à pessoa em um patch futuro.
+   >Tornaremos a **[!UICONTROL ID de pessoa]** clicável e a vincularemos diretamente à pessoa em um patch futuro.
 
    ![](assets/seventeen.png)
 

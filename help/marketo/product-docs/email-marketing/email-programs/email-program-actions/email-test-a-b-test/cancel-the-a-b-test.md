@@ -4,7 +4,7 @@ description: Cancele o teste A/B - Documentação do Marketo - Documentação do
 title: Cancele o teste A/B
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Se você [adicionou um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) ao seu programa de email e decidiu que não o quer mais, ele é facilmente desfeito. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,7 +23,7 @@ Se você [adicionou um teste A/B](/help/marketo/product-docs/email-marketing/ema
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. No bloco **Email**, clique em **Remover Teste A/B**.
+1. No bloco **[!UICONTROL Email]**, clique em **[!UICONTROL Remover Teste A/B]**.
 
    ![](assets/image2015-5-6-14-3a27-3a58.png)
 

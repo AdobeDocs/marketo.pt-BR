@@ -4,7 +4,7 @@ description: Criar um modelo de página de aterrissagem de forma livre - Documen
 title: Criar um modelo de página de aterrissagem de forma livre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Páginas de aterrissagem de forma livre exigem menos conhecimento técnico do que seus homólogos guiados. Para criar um template para landing pages futuras, siga as etapas abaixo.
 
-1. Vá para o **Design Studio**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/one.png)
 
-1. Clique em **Novo** e selecione **Novo modelo de página de aterrissagem**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo modelo de página de aterrissagem]**.
 
    ![](assets/two.png)
 
-1. Escolha a pasta e nomeie o modelo. Forma livre é o modo de edição padrão, portanto, depois de nomear seu modelo, clique em **Criar**.
+1. Escolha a pasta e nomeie o modelo. Forma livre é o modo de edição padrão, portanto, depois de nomear seu modelo, clique em **[!UICONTROL Criar]**.
 
    ![](assets/three.png)
 
@@ -33,9 +33,9 @@ Páginas de aterrissagem de forma livre exigem menos conhecimento técnico do qu
 
    >[!NOTE]
    >
-   >O Suporte da Marketo não está configurado para ajudar na solução de problemas de HTML personalizado. Para obter assistência para o HTML, consulte um desenvolvedor da Web.
+   >O Suporte da Marketo não está configurado para ajudar na solução de problemas do HTML personalizado. Para obter assistência da HTML, consulte um desenvolvedor da Web.
 
-1. Quando terminar de fazer edições, clique em **Ações de Modelo** e selecione **Aprovar e Fechar**.
+1. Quando terminar de fazer edições, clique em **[!UICONTROL Ações de Modelo]** e selecione **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ Páginas de aterrissagem de forma livre exigem menos conhecimento técnico do qu
 
    >[!NOTE]
    >
-   >Selecione **Desabilitar rastreamento do Munchkin** se quiser impedir que os formulários sejam preenchidos previamente ou se não quiser apenas rastrear o comportamento da Web em uma página específica.\
-   >Selecione **Validar Compatibilidade Móvel** para verificar se o código é compatível com dispositivos móveis.
+   >Selecione **[!UICONTROL Desabilitar rastreamento do Munchkin]** se quiser impedir que os formulários sejam preenchidos previamente ou se apenas não quiser rastrear o comportamento da Web em uma página específica.\
+   >Selecione **[!UICONTROL Validar Compatibilidade Móvel]** para verificar se o código é compatível com dispositivos móveis.
 
    >[!MORELIKETHIS]
    >

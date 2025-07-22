@@ -3,7 +3,7 @@ description: Verifique Seu Email - Documentação Do Marketo - Documentação Do
 title: Verificar seu e-mail
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 5%
@@ -14,19 +14,19 @@ ht-degree: 5%
 
 Se você tiver uma identidade de email que não foi verificada, siga as etapas abaixo.
 
-1. Clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Clique no ícone de engrenagem na parte superior direita e escolha **[!UICONTROL Configurações]**.
 
    ![](assets/verify-your-email-1.png)
 
-1. Em Minha conta, clique em **Configurações de email**.
+1. Em [!UICONTROL Minha conta], clique em **[!UICONTROL Configurações de email]**.
 
    ![](assets/verify-your-email-2.png)
 
-1. Em Endereço e Assinatura, localize o email que deseja verificar e clique em **Reenviar Email de Verificação**. Um novo email de verificação será enviado.
+1. Em [!UICONTROL Endereço e Assinatura], localize o email que deseja verificar e clique em **[!UICONTROL Reenviar Email de Verificação]**. Um novo email de verificação será enviado.
 
    ![](assets/verify-your-email-3.png)
 
-1. Clique em **Reenviar**.
+1. Clique em **[!UICONTROL Reenviar]**.
 
    ![](assets/verify-your-email-4.png)
 

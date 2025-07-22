@@ -4,9 +4,9 @@ description: Gerenciar e exibir membros - Documentação do Marketo - Documenta�
 title: Gerenciar e Exibir Membros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Na parte inferior da seção Membros, use o campo de pesquisa para procurar memb
 
 ## Exportar a Grade de Membros {#export-the-members-grid}
 
-É possível exportar sua lista de membros clicando no ícone do Excel ao lado do campo de pesquisa.
+É possível exportar sua lista de membros clicando no ícone [!DNL Excel] ao lado do campo de pesquisa.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 

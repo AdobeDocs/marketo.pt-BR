@@ -4,7 +4,7 @@ description: Hierarquias de TAM - Documentação do Marketo - Documentação do 
 title: Hierarquias da TAM
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Hierarquias da TAM {#tam-hierarchies}
 
-As hierarquias dão aos usuários do TAM a capacidade de herdar as relações pai/filho entre contas nomeadas em seus CRMs.
+As hierarquias dão aos usuários de TAM a capacidade de herdar as relações pai/filho entre [!UICONTROL Contas nomeadas] em seus CRMs.
 
 ## O que são hierarquias de TAM? {#what-are-tam-hierarchies}
 
-As empresas podem ter várias divisões e subsidiárias. Essas empresas geralmente se organizam por meio de relações pai-filho chamadas hierarquias. O TAM pode herdar essas hierarquias da integração SFDC ou MSD e permitir que você trabalhe com as diferentes divisões como uma única família.
+As empresas podem ter várias divisões e subsidiárias. Essas empresas geralmente se organizam por meio de relações pai-filho chamadas hierarquias. O TAM pode herdar essas hierarquias da integração do SFDC ou do MSD e permitir que você trabalhe com as diferentes divisões como uma única família.
 
 ## Trabalhar com hierarquias TAM {#working-with-tam-hierarchies}
 
-Com as Hierarquias TAM, você pode obter rapidamente informações sobre uma hierarquia inteira ou contas individuais no Painel de Contas Nomeadas.
+Com Hierarquias TAM, você pode obter rapidamente informações sobre uma hierarquia inteira ou contas individuais no painel [!UICONTROL Conta nomeada].
 
 **Hierarquia Não Usada**
 

@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Configuração da integração do Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
-Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e importar ativos do AEM no Marketo Engage Design Studio.
+Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e importar ativos do AEM para o Marketo Engage Design Studio.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
 >[!IMPORTANT]
 >
->* Essa integração só funciona com implementações locais do AEM e não é compatível com implementações do AEM Cloud Service.
+>* Essa integração funciona somente com implementações no local do AEM e não é compatível com implementações do AEM Cloud Service.
 >
 >* Atualmente, esse recurso é totalmente compatível apenas com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome, dependendo das configurações de cookie SameSite.
 
@@ -31,7 +31,7 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
    ![](assets/one.png)
 
-1. Você pode fazer logon com o Adobe ou localmente. Neste exemplo, faremos logon localmente.
+1. Você pode fazer logon com a Adobe ou localmente. Neste exemplo, faremos logon localmente.
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
    ![](assets/2a.png)
 
-1. Em seu navegador, pesquise (ctrl+f no Windows, cmd+f no Mac) por &quot;Política de compartilhamento de recursos entre origens do Adobe Granite&quot;.
+1. Em seu navegador, pesquise (ctrl+f no Windows, cmd+f no Mac) por &quot;[!UICONTROL Política de Compartilhamento de Recursos entre Origens do Adobe Granite].&quot;
 
    ![](assets/three.png)
 
@@ -75,6 +75,6 @@ Configure o Adobe Experience Manager (AEM) para poder acessar, selecionar e impo
 
    ![](assets/eleven.png)
 
-1. Insira a URL do AEM e clique em **[!UICONTROL OK]**.
+1. Insira sua URL do AEM e clique em **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)

@@ -4,10 +4,10 @@ description: Redirecionar uma página de aterrissagem do Marketo para outra pág
 title: Redirecionar uma página de aterrissagem do Marketo para outra página
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ Se você atualizar o URL de uma página e quiser que o URL antigo ainda funcione
 >
 >**Permissões de administrador necessárias**
 
-1. Em **Admin**, clique em **Páginas de Aterrissagem**.
+1. Em **[!UICONTROL Admin]**, clique em **[!UICONTROL Páginas de Aterrissagem]**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Na guia **Regras**, clique em **Nova** e em **Nova Regra de Redirecionamento**.
+1. Na guia **[!UICONTROL Regras]**, clique em **[!UICONTROL Nova]** e em **[!UICONTROL Nova Regra de Redirecionamento]**.
 
    ![](assets/two-1.png)
 
-1. Clique no primeiro menu suspenso **URL Original** e selecione seu Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Clique no primeiro menu suspenso **[!UICONTROL URL Original]** e selecione seu Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -35,7 +35,7 @@ Se você atualizar o URL de uma página e quiser que o URL antigo ainda funcione
    >
    >Lembre-se, você só pode redirecionar URLs que comecem com seu [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) do Marketo.
 
-1. Escolha a página de aterrissagem que deseja redirecionar no segundo campo **URL Original**.
+1. Escolha a página de aterrissagem que deseja redirecionar no segundo campo **[!UICONTROL URL Original]**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,17 +43,17 @@ Se você atualizar o URL de uma página e quiser que o URL antigo ainda funcione
    >
    >Você pode inserir qualquer caminho de URL, mesmo se a página ou o diretório não existir.
 
-1. Clique no menu suspenso **Redirecionar URL** e selecione a página para a qual deseja redirecionar visitantes.
+1. Clique no menu suspenso **[!UICONTROL Redirecionar URL]** e selecione a página para a qual deseja redirecionar visitantes.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >Para redirecionar para uma página da Web fora do Marketo, clique em **Usar página de aterrissagem que não seja da Marketo**.
+   >Para redirecionar para uma página da Web fora do Marketo, clique em **[!UICONTROL Usar página de aterrissagem que não seja da Marketo]**.
 
    >[!MORELIKETHIS]
    >

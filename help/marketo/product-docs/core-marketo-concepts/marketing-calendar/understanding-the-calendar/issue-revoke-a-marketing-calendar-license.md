@@ -4,7 +4,7 @@ description: Emitir/Revogar uma licença do Calendário de marketing - Documenta
 title: Emitir/Revogar uma licença do Calendário de marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 1%
@@ -43,6 +43,6 @@ Para usar suas estações do [Calendário de marketing](/help/marketo/product-do
 
    ![](assets/4.png)
 
-   Muito bem! Veja a marca de seleção verde em &#39;Calendário?&#39;
+   Muito bem! Está vendo a marca de seleção verde em &#39;[!UICONTROL Calendário]?&#39;
 
    ![](assets/5.png)

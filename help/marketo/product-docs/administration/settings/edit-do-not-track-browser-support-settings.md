@@ -4,7 +4,7 @@ description: Edite As Configurações De Suporte Ao Navegador "Não Rastrear" - 
 title: Editar as configurações de suporte a navegador do tipo "Não rastrear"
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->&quot;Não rastrear&quot; será definido como Ignorar por padrão, portanto, se for isso que você deseja, não será necessário tomar nenhuma etapa.
+>&quot;Não rastrear&quot; será definido como **[!UICONTROL Ignorar]** por padrão, portanto, se for isso que você deseja, não será necessário tomar nenhuma etapa.
 
 1. Clique em **[!UICONTROL Administrador]**.
 

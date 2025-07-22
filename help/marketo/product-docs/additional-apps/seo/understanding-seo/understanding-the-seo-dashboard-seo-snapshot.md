@@ -4,7 +4,7 @@ description: Noções básicas sobre o painel de SEO - Instantâneo SEO - Docume
 title: Noções básicas sobre o painel de SEO - Instantâneo SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Use o painel para obter uma visualização de alto nível da tendência da classificação de palavras-chave e do desempenho do seu site em relação à otimização para SEO.
 
-Para descobrir em que se concentrar para melhorar seus esforços de SEO, use a seção [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) deste painel.
+Para descobrir em que se concentrar para melhorar seus esforços de SEO, use a seção [[!UICONTROL Recomendações]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) deste painel.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
@@ -41,7 +41,7 @@ Esta seção mostra como seu site está classificado para as [palavras-chave que
 
 ## [!UICONTROL Pontuação média de otimização de página] {#average-page-optimization-score}
 
-A Pontuação média de otimização de página é uma pontuação de Marketo proprietária que mede todas as páginas do site em uma escala de 1 a 100.
+A [!UICONTROL Pontuação média de otimização de página] é uma pontuação de Marketo proprietária que mede todas as páginas do site em uma escala de 1 a 100.
 
 É baseado em uma compilação de dezenas de práticas recomendadas. Uma pontuação de 70 ou superior indica um site bem otimizado.
 
@@ -61,8 +61,8 @@ O gráfico [!UICONTROL Tendências de Classificação de Palavra-Chave] extrai s
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Agora vamos conferir a seção [!UICONTROL Recommendations] deste painel.
+Agora vamos conferir a seção [!UICONTROL Recomendações] deste painel.
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre o painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Noções básicas sobre o painel: Recomendações de SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

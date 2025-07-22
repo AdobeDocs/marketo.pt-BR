@@ -3,7 +3,7 @@ description: Gerenciar modelos - Documentação do Marketo - Documentação do p
 title: Gerenciar modelos
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 1%
@@ -14,25 +14,25 @@ ht-degree: 1%
 
 ## Criar um modelo {#create-a-new-template}
 
-1. Navegue até a guia **Modelos**.
+1. Navegue até a guia **[!UICONTROL Modelos]**.
 
    ![](assets/manage-templates-1.png)
 
-1. Clique em **Criar Modelo**.
+1. Clique em **[!UICONTROL Criar Modelo]**.
 
    ![](assets/manage-templates-2.png)
 
-1. Escolha um **Nome** e uma **Categoria** para o modelo de email e clique em **Criar**.
+1. Escolha um **[!UICONTROL Nome]** e uma **[!UICONTROL Categoria]** para o modelo de email e clique em **[!UICONTROL Criar]**.
 
    ![](assets/manage-templates-3.png)
 
-1. No editor de modelos, crie uma linha de assunto para o email e digite a mensagem desejada. Usar as ferramentas de edição (fonte, tamanho do texto etc.) para personalizar a aparência. Clique em **Salvar** para finalizar as alterações.
+1. No editor de modelos, crie uma linha de assunto para o email e digite a mensagem desejada. Use as ferramentas de edição (fonte, tamanho do texto etc.) para personalizar a aparência. Clique em **[!UICONTROL Salvar]** para finalizar as alterações.
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->Sempre digite o texto diretamente no modelo ou copie de um editor de texto simples (por exemplo, Notepad ou TextEdit). Copiar e colar de um editor de rich text (por exemplo, MS Word) pode causar irregularidades na formatação.
+>Sempre digite o texto diretamente no modelo ou copie de um editor de texto simples (por exemplo, [!DNL Notepad] ou [!DNL TextEdit]). Copiar e colar de um editor de rich text (por exemplo, MS [!DNL Word]) pode causar irregularidades na formatação.
 
 ## Exibir Detalhes do Modelo {#view-template-details}
 
@@ -42,7 +42,7 @@ A área Detalhes do modelo contém várias guias.
 
 <table>
  <tr>
-  <td><strong>Modelo</strong></td>
+  <td><strong>[!UICONTROL Modelo]</strong></td>
   <td>Revise e faça edições, configure critérios para tornar o modelo um modelo recomendado e adicione observações</td>
  </tr>
  <tr>
@@ -50,11 +50,11 @@ A área Detalhes do modelo contém várias guias.
   <td>Revise as análises de envolvimento para o modelo. Executar uma pesquisa filtrada.</td>
  </tr>
  <tr>
-  <td><strong>E-mails</strong></td>
+  <td><strong>[!UICONTROL Emails]</strong></td>
   <td>Exibir todos os emails enviados usando este modelo. Executar uma pesquisa filtrada.</td>
  </tr>
  <tr>
-  <td><strong>Campanhas</strong></td>
+  <td><strong>[!UICONTROL Campanhas]</strong></td>
   <td>Veja em quais campanhas o modelo está sendo usado.</td>
  </tr>
 </table>
@@ -63,7 +63,7 @@ A área Detalhes do modelo contém várias guias.
 
 Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ainda serão privados por padrão.
 
-1. Navegue até a guia **Modelos**.
+1. Navegue até a guia **[!UICONTROL Modelos]**.
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ai
 
    ![](assets/manage-templates-6.png)
 
-1. Clique no botão **Compartilhar**.
+1. Clique no botão **[!UICONTROL Compartilhar]**.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Os modelos que foram compartilhados com você aparecerão no cabeçalho **Modelos de Equipe** à esquerda da página Modelos. As equipes só estão disponíveis para usuários Premium.
+   >Os modelos que foram compartilhados com você serão exibidos no cabeçalho **[!UICONTROL Modelos de Equipe]** à esquerda da página [!UICONTROL Modelos]. As equipes só estão disponíveis para usuários Premium.
 
-1. Clique na lista suspensa Compartilhar com e selecione as equipes com as quais você deseja compartilhar.
+1. Clique no menu suspenso [!UICONTROL Compartilhar com] e selecione as equipes com as quais você deseja compartilhar.
 
    ![](assets/manage-templates-8.png)
 
-1. Você tem a opção de manter o modelo na categoria atual ou movê-lo para uma categoria diferente. Neste exemplo, estamos mantendo-o no atual. Clique em **Compartilhar** quando terminar.
+1. Você tem a opção de manter o modelo na categoria atual ou movê-lo para uma categoria diferente. Neste exemplo, estamos mantendo-o no atual. Clique em **[!UICONTROL Compartilhar]** quando terminar.
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ai
 
 É possível adicionar modelos de qualquer categoria à lista Favoritos. Isso gera automaticamente uma nova categoria na parte superior da lista para que você possa acessar rapidamente os modelos que mais usa.
 
-1. Navegue até a guia **Modelos**.
+1. Navegue até a guia **[!UICONTROL Modelos]**.
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ Se você estiver usando uma de nossas contas da equipe, todos os seus modelos ai
 
 ## Personalizar exibição de modelo {#customize-template-view}
 
-No menu suspenso **Exibir**, você pode optar por ver: todos os modelos, seus modelos, modelos favoritos, compartilhados, não compartilhados ou não usados (modelos que não foram usados nos últimos 90 dias).
+No menu suspenso **[!UICONTROL Exibir]**, você pode optar por ver: todos os modelos, seus modelos, modelos favoritos, compartilhados, não compartilhados ou não usados (modelos que não foram usados nos últimos 90 dias).
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ Arquive modelos para manter o conteúdo de vendas organizado e focalizado sem pe
 
    ![](assets/manage-templates-14.png)
 
-1. Clique em **Arquivar**.
+1. Clique em **[!UICONTROL Arquivar]**.
 
    ![](assets/manage-templates-15.png)
 
-1. Clique em **Arquivar** para confirmar.
+1. Clique em **[!UICONTROL Arquivar]** para confirmar.
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ Siga as etapas abaixo para excluir um modelo.
 
    ![](assets/manage-templates-17.png)
 
-1. Clique em **Excluir**.
+1. Clique em **[!UICONTROL Excluir]**.
 
    ![](assets/manage-templates-18.png)
 
-1. Clique em **Excluir** para confirmar.
+1. Clique em **[!UICONTROL Excluir]** para confirmar.
 
    ![](assets/manage-templates-19.png)

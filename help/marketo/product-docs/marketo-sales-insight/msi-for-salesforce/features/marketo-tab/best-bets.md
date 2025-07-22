@@ -3,16 +3,16 @@ description: Melhores Opções - Documentação do Marketo - Documentação do p
 title: Melhores opções
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 6%
+source-wordcount: '298'
+ht-degree: 0%
 
 ---
 
-# Melhores opções {#best-bets}
+# [!DNL Best Bets] {#best-bets}
 
-A guia Melhores Opções inclui uma lista de todos os seus clientes potenciais ativos com base em sua prioridade, calculada usando urgência e pontuação relativa.
+A guia [!DNL Best Bets] inclui uma lista de todos os seus clientes potenciais ativos com base em sua prioridade, calculada usando urgência e pontuação relativa.
 
 >[!CAUTION]
 >
@@ -20,12 +20,12 @@ A guia Melhores Opções inclui uma lista de todos os seus clientes potenciais a
 
 **Opções de Filtro**
 
-Você pode clicar em cada um dos seguintes botões para ver as Melhores Opções:
+Você pode clicar em cada um dos seguintes botões para ver [!DNL Best Bets]:
 
-* Clientes potenciais: você pode ver as Melhores Opções para todos os clientes potenciais atribuídos a você no CRM
-* Contatos: você pode ver as Melhores Opções de todos os contatos atribuídos a você no CRM
-* Contatos da conta: você pode ver as Melhores Opções para todos os contatos que pertencem a contas atribuídas a você no CRM, mesmo que o contato em si não esteja atribuído a você
-* Contatos da Oportunidade: você pode ver as Melhores Opções para todos os contatos que pertencem a Oportunidades atribuídas a você no CRM, mesmo que o contato em si não esteja atribuído a você
+* Clientes potenciais: você pode ver [!DNL Best Bets] para todos os clientes potenciais atribuídos a você no CRM
+* Contatos: você pode ver [!DNL Best Bets] para todos os contatos atribuídos a você no CRM
+* Contatos da Conta: você pode ver [!DNL Best Bets] para todos os contatos que pertencem a contas atribuídas a você no CRM, mesmo que o contato em si não esteja atribuído a você
+* Contatos da Oportunidade: você pode ver [!DNL Best Bets] para todos os contatos que pertencem a Oportunidades atribuídas a você no CRM, mesmo que o contato em si não esteja atribuído a você
 
 **Anotações**
 
@@ -35,22 +35,22 @@ Não é possível &quot;Ocultar&quot; um cliente potencial ou contato que você 
 
 **Envolvimento Embutido**
 
-Ao clicar no menu de dados na coluna Ações, você pode acessar um cliente potencial ou contato específico usando as seguintes opções de envolvimento:
+Ao clicar no menu de dados na coluna [!UICONTROL Ações], você pode acessar um cliente potencial ou contato específico usando as seguintes opções de compromisso:
 
-* Enviar e-mail do Marketo
-* Adicionar à campanha do Marketo
-* Exibir no Marketo
-* Adicionar à Lista de favoritos
+* [!UICONTROL Enviar Email do Marketo]
+* [!UICONTROL Adicionar ao Marketo Campaign]
+* [!UICONTROL Exibir no Marketo]
+* [!UICONTROL Adicionar à Lista de Interesse]
 
 ![](assets/best-bets-1.png)
 
 **Ações em massa**
 
-Você pode selecionar um ou mais clientes potenciais ou contatos da página de Melhores Opções usando a caixa de seleção e contatá-los como um grupo usando as seguintes opções de envolvimento:
+Você pode selecionar um ou mais clientes potenciais ou contatos da página [!DNL Best Bets] usando a caixa de seleção e contatá-los como um grupo usando as seguintes opções de compromisso:
 
-* Enviar e-mail do Marketo
-* Adicionar à campanha do Marketo
-* Adicionar à Lista de favoritos
+* [!UICONTROL Enviar Email do Marketo]
+* [!UICONTROL Adicionar ao Marketo Campaign]
+* [!UICONTROL Adicionar à Lista de Interesse]
 
 ![](assets/best-bets-2.png)
 

@@ -4,9 +4,9 @@ description: Noções básicas sobre forma livre versus páginas de aterrissagem
 title: Noções básicas sobre forma livre e páginas de aterrissagem guiadas
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ O modelo escolhido determina em qual modo de edição da landing page você trab
 ## Páginas de forma livre {#free-form-pages}
 
 * Arraste e solte qualquer conteúdo que desejar, onde quiser colocá-lo.
-* O modelo é como um SlideMaster no PowerPoint, apenas um plano de fundo.
+* O modelo é como um [!DNL SlideMaster] em [!DNL PowerPoint], apenas um plano de fundo.
 * Crie uma versão móvel simples da sua página com apenas um clique.
 * Mais adequado quando você não tem muito tempo ou recursos técnicos à sua disposição.
 

@@ -4,7 +4,7 @@ description: Mesclar dois estágios no Modeler de receita - Documentação do Ma
 title: Mesclar dois estágios no Modeler de receita
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Após aprovar o modelo, não é possível excluir estágios ao editar um rascunho. Em vez disso, você pode mesclar esse estágio com outro.
 
-1. Clique em **Marketo Home** e selecione **Analytics**.
+1. Clique em **Marketo Home** e selecione **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,11 +23,11 @@ Após aprovar o modelo, não é possível excluir estágios ao editar um rascunh
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. Clique em **Editar rascunho.**
+1. Clique em **[!UICONTROL Editar rascunho.]**
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. Clique com o botão direito do mouse no estágio que deseja mesclar e selecione **Mesclar Estágio** no menu.
+1. Clique com o botão direito do mouse no estágio que deseja mesclar e selecione **[!UICONTROL Mesclar] Estágio** no menu.
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
@@ -35,10 +35,10 @@ Após aprovar o modelo, não é possível excluir estágios ao editar um rascunh
 
    ![](assets/image2015-4-29-15-3a52-3a5.png)
 
-1. Você pode aprovar novamente o modelo selecionando **Aprovar rascunho do modelo** no menu **Ações do modelo**.
+1. Você pode aprovar novamente o modelo selecionando **[!UICONTROL Aprovar rascunho do modelo]** no menu **[!UICONTROL Ações do modelo]**.
 
    ![](assets/image2015-4-29-16-3a5-3a53.png)
 
 >[!NOTE]
 >
->Selecione **Nenhum** no menu suspenso Estágio de mesclagem para remover os clientes em potencial do seu modelo
+>Escolha **[!UICONTROL Nenhum]** no menu suspenso [!UICONTROL Estágio de mesclagem] para remover os clientes em potencial do seu modelo

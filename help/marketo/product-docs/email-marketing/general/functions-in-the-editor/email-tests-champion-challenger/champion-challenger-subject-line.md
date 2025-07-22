@@ -4,7 +4,7 @@ description: Champion/Challenger — Linha de assunto — Marketo Docs — Docum
 title: Champion/Challenger - linha de assunto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[Adicionar um Especialista/Desafiador de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. No editor de teste de email, selecione **Linha de assunto** no menu suspenso **Tipo de teste**.
+1. No editor de teste de email, selecione **[!UICONTROL Linha de assunto]** no menu suspenso **[!UICONTROL Tipo de teste]**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >Em um teste de assunto, a primeira linha de assunto inserida é designada como o **Campeão**. As linhas de assunto subsequentes são chamadas **Desafiadores**.
+   >Em um teste de assunto, a primeira linha de assunto inserida é designada como o **[!UICONTROL Campeão]**. As linhas de assunto subsequentes são chamadas **[!UICONTROL Desafiadores]**.
 
-1. Insira a(s) linha(s) de assunto para os **Desafiadores**.
+1. Insira a(s) linha(s) de assunto para os **[!UICONTROL Desafiadores]**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    Para obter confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes para que o teste seja válido. Não se deixe enganar por resultados inconclusivos.
 
-1. Clique em **Avançar**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

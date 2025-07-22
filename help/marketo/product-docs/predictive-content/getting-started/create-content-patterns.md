@@ -4,7 +4,7 @@ description: Criar padrões de conteúdo - Documentação do Marketo - Documenta
 title: Criar padrões de conteúdo
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 2%
@@ -13,13 +13,13 @@ ht-degree: 2%
 
 # Criar padrões de conteúdo {#create-content-patterns}
 
-Quando você define padrões de conteúdo, o conteúdo é descoberto automaticamente quando um visitante da Web clica na página da Web de HTML relevante ao padrão de conteúdo. Ele é usado para adicionar páginas de HTML (posts de blog, comunicados de imprensa, artigos de notícias) como partes de conteúdo para a página Todo o conteúdo. Quando a descoberta automática se baseia em padrões de conteúdo, ela descobre e rastreia páginas HTML relacionadas ao padrão de URL definido quando um visitante da Web visualiza ou clica em um link para a página. Essa parte do conteúdo (o URL, o nome da página e os metadados, incluindo o URL da imagem e a descrição) é adicionada à página Todo o conteúdo para preparar conteúdo preditivo. Para a descoberta automática de outros conteúdos, como PDF e vídeos incorporados, é necessário [habilitar a descoberta de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Quando você define padrões de conteúdo, o conteúdo é descoberto automaticamente quando um visitante da Web clica na página da Web do HTML relevante ao padrão de conteúdo. Ele é usado para adicionar páginas do HTML (publicações de blogs, comunicados de imprensa, artigos de notícias) como partes de conteúdo à página Todo o conteúdo. Quando a descoberta automática se baseia em padrões de conteúdo, ela descobre e rastreia páginas do HTML relacionadas ao padrão de URL definido quando um visitante da Web visualiza ou clica em um link para a página. Essa parte do conteúdo (o URL, o nome da página e os metadados, incluindo o URL da imagem e a descrição) é adicionada à página Todo o conteúdo para preparar conteúdo preditivo. Para a descoberta automática de outro conteúdo, como PDFs e vídeo incorporado, você precisa [habilitar a descoberta de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Vá para **Configurações de Conteúdo**.
+1. Vá para **[!UICONTROL Configurações de Conteúdo]**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Clique em **Padrões de URL**.
+1. Clique em **[!UICONTROL Padrões de URL]**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ Quando você define padrões de conteúdo, o conteúdo é descoberto automaticam
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Adicione a extensão de URL do domínio onde a página da Web existe. Selecione a categoria (por exemplo, Blog, Artigo, Folha de dados, Comunicado à imprensa).
+1. Adicione a extensão de URL do domínio onde a página da Web existe. Selecione a categoria (por exemplo, [!UICONTROL Blog], [!UICONTROL Artigo], [!UICONTROL Data Sheet], [!UICONTROL Press Release]).
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ Quando você define padrões de conteúdo, o conteúdo é descoberto automaticam
 
    ![](assets/url-patterns-add2.png)
 
-1. Adicione a extensão e a categoria para o caminho adicional e clique em **Salvar**.
+1. Adicione a extensão e a categoria para o caminho adicional e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/url-patterns-save.png)
 
@@ -76,7 +76,7 @@ Para _domain.com_:
   </tr> 
   <tr> 
    <td>press-release</td> 
-   <td><p>Somente uma página de HTML de correspondência exata é descoberta:</p><p>domain.com/press-release</p></td> 
+   <td><p>Somente uma página HTML com correspondência exata é descoberta:</p><p>domain.com/press-release</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> </td> 

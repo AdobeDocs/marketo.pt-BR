@@ -4,10 +4,10 @@ description: Compartilhamento de um momento - Documentação do Marketo - Docume
 title: Compartilhar um momento
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Deseja atualizar sua equipe? Você tem duas opções para selecionar o compartil
 
 >[!IMPORTANT]
 >
->Em 2 de outubro de 2023, o Adobe removeu o aplicativo Marketo Moments de todas as lojas de aplicativos. Se você já tiver o aplicativo instalado no tablet/dispositivo móvel, poderá continuar usando-o por enquanto. Depois que a instância do Marketo Engage for migrada para a Identidade do Adobe para autenticação do Marketo, você não poderá mais acessar o aplicativo. [Saiba mais](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Em 2 de outubro de 2023, a Adobe removeu o aplicativo Marketo Moments de todas as lojas de aplicativos. Se você já tiver o aplicativo instalado no tablet/dispositivo móvel, poderá continuar usando-o por enquanto. Depois que sua instância do Marketo Engage for migrada para a Adobe Identity para autenticação do Marketo, você não poderá mais acessar o aplicativo. [Saiba mais](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Toque no ícone **[!UICONTROL Compartilhar]** no cartão.
 
@@ -33,7 +33,7 @@ Deseja atualizar sua equipe? Você tem duas opções para selecionar o compartil
 
    >[!NOTE]
    >
-   >O compartilhamento depende dos aplicativos instalados no seu telefone. Portanto, se você não tiver o Facebook, não o verá em Moments.
+   >O compartilhamento depende dos aplicativos instalados no seu telefone. Portanto, se você não tiver [!DNL Facebook], não o verá em Moments.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 

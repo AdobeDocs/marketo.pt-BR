@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949716
-description: Enviar e rastrear um email com o suplemento de email para Outlook - Documentação do Marketo - Documentação do produto
-title: Enviar e Rastrear um Email com o Suplemento de Email para Outlook
+description: Enviar e rastrear um email com o suplemento de email do  [!DNL Outlook] - Documentação do Marketo - Documentação do produto
+title: Enviar e Acompanhar um Email com o Suplemento de Email para  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# Enviar e Rastrear um Email com o Suplemento de Email para Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Enviar e Acompanhar um Email com o Suplemento de Email para [!DNL Outlook] {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
+Você pode enviar e rastrear emails com o Marketo diretamente do [!DNL Outlook].
 
 >[!PREREQUISITES]
 >
->Caso ainda não o tenha feito, instale o [suplemento de email do Marketo para Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Caso ainda não o tenha feito, instale o [suplemento de email do Marketo para [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
    >
    >Se você incluir vários recipients no email, todas as atividades serão rastreadas no primeiro recipient.
 
-1. Redija seu email normalmente e clique em **Enviar e Rastrear**.
+1. Redija seu email normalmente e clique em **[!UICONTROL Enviar e Rastrear]**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,9 +41,9 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
 
    >[!TIP]
    >
-   >Se quiser usar um modelo do Marketo, consulte [Enviar e Rastrear do Outlook Usando um Modelo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Se quiser usar um modelo do Marketo, consulte [Enviar e Rastrear de [!DNL Outlook] Usando um Modelo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Dê uma olhada na visualização e clique em **Enviar**.
+1. Dê uma olhada na visualização e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
@@ -51,11 +51,11 @@ Você pode enviar e rastrear emails com o Marketo diretamente do Outlook.
    >
    >A tecnologia antisspam geralmente rejeita aberturas e cliques que ocorrem dentro de 20 segundos após o envio do email. Portanto, aguarde pelo menos esse tempo para abrir/clicar enquanto testa.
 
-   Para ver quem recebeu seus emails enviados pelo Outlook, crie uma lista inteligente usando o filtro &quot;E-mail de vendas enviado&quot;.
+   Para ver quem recebeu seus emails enviados pelo [!DNL Outlook], crie uma lista inteligente usando o filtro &quot;[!UICONTROL Email de Vendas Enviado]&quot;.
 
    ![](assets/was-sent-sales-email.png)
 
-É fácil assim! Mesmo que esse email tenha sido enviado pelo Outlook de um vendedor, ele será rastreado no Marketo.
+É fácil assim! Embora esse email tenha sido enviado pelo [!DNL Outlook] de um vendedor, ele será rastreado no Marketo.
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: Ativação ou desativação da tag RTP JavaScript - Documentação 
 title: Ativação ou desativação da tag JavaScript RTP
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -17,20 +17,20 @@ A tag RTP JavaScript controla se o Web Personalization rastreia ou não a ativid
 
 >[!NOTE]
 >
->**Não é necessário remover a marca do código html no site.** Controle-o através das Configurações da Conta.
+>**Não é necessário remover a marca do código html no site.** Controle-o através de [!UICONTROL Configurações da conta].
 
 ## Ativar ou desativar a tag {#enable-or-disable-the-tag}
 
-1. Vá para **Configurações da conta**.
+1. Vá para **[!UICONTROL Configurações da conta]**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Em Configuração de Domínio e Domínio, em Marca, selecione **Desativado** para desabilitar a marca JavaScript.
+1. Em [!UICONTROL Domínio] e [!UICONTROL Configuração de Domínio], em [!UICONTROL Marca], selecione **[!UICONTROL Desativado]** para desabilitar a marca JavaScript.
 
    ![](assets/account-settings-domain-tag.jpg)
 
-   Quando a tag está definida como Desativada, o código Javascript está desativado e o Web Personalization não rastreará nenhuma atividade da Web nem executará campanhas ou recomendações de conteúdo em seu site.
+   Quando a [!UICONTROL Marca] estiver definida como [!UICONTROL Desativada], o código JavaScript será desabilitado e o [!UICONTROL Web Personalization] não rastreará nenhuma atividade da Web nem executará campanhas ou recomendações de conteúdo no seu site.
 
-1. Para habilitar a marca RTP, na Configuração de Domínio e Domínio, em Marca, selecione o botão de alternância **Ligado**.
+1. Para habilitar a marca RTP, no [!UICONTROL Domínio] e na [!UICONTROL Configuração de Domínio], em [!UICONTROL Marca], selecione o botão de alternância **[!UICONTROL Ligado]**.
 
    Fácil.

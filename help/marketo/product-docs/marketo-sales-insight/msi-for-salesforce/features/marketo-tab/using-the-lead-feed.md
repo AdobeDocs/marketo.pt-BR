@@ -4,16 +4,16 @@ description: Uso do feed de cliente potencial - Documentação do Marketo - Docu
 title: Uso do feed de cliente em potencial
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 2%
 
 ---
 
 # Uso do feed de cliente em potencial {#using-the-lead-feed}
 
-O Feed de lead é uma lista atualizada por minuto de eventos interessantes feitos por seus leads. Você o encontrará no lado direito ao clicar na guia Marketo. É como um RSS ou feed do Twitter - as atualizações mais recentes estão no topo da lista. Use isso para saltar em leads enquanto você ainda está fresco em suas mentes.
+O Feed de lead é uma lista atualizada por minuto de eventos interessantes feitos por seus leads. Você o encontrará no lado direito ao clicar na guia Marketo. É como um RSS ou feed do [!DNL Twitter]. As atualizações mais recentes estão no topo da lista. Use isso para saltar em leads enquanto você ainda está fresco em suas mentes.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ O Feed de lead é uma lista atualizada por minuto de eventos interessantes feito
 
 Cada item no feed do lead é um momento interessante - uma atividade ou evento notável no histórico de marketing deste lead.
 
-Ao visualizá-lo no Salesforce, cada item tem:
+Ao exibi-lo em [!DNL Salesforce], cada item tem:
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -72,7 +72,7 @@ Ao visualizá-lo no Salesforce, cada item tem:
 
 ## Obtendo atualizações de RSS {#getting-rss-updates}
 
-Você também pode obter atualizações do Feed principal por RSS feed.  Um feed RSS permite que você receba atualizações sobre seus leads, mesmo que não esteja conectado ao Salesforce. O feed tem as mesmas informações que o feed principal no Salesforce, bem como as seguintes informações (quando disponíveis):
+Você também pode obter atualizações do Feed principal por RSS feed.  Um RSS feed permite que você receba atualizações sobre seus clientes potenciais, mesmo que não esteja conectado a [!DNL Salesforce]. O feed tem as mesmas informações que o feed de cliente potencial em [!DNL Salesforce] bem como as seguintes informações (quando disponíveis):
 
 * endereço de e-mail
 * telefone

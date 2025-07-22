@@ -4,37 +4,37 @@ description: Criar um público-alvo personalizado no Facebook - Documentação d
 title: Criar um público-alvo personalizado no Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Criar um público-alvo personalizado no Facebook {#create-a-custom-audience-in-facebook}
+# Criar um Público-alvo Personalizado em [!DNL Facebook] {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Adicionar Públicos-alvo personalizados do Facebook como um Serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} na seção de Administrador.
->* [Aceite os Termos de Públicos-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} em sua conta do Facebook.
+>* [Adicionar [!DNL Facebook] Públicos-alvo personalizados como um Serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} na seção de Administrador.
+>* [Aceite os Termos de Públicos-alvo personalizados [!DNL Facebook] do ](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} na sua conta do [!DNL Facebook].
 
 >[!TIP]
 >
->Saiba mais sobre [públicos-alvo personalizados no Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>Saiba mais sobre [públicos-alvo personalizados em [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Localize e selecione a lista inteligente ou estática que contém os leads dos quais você deseja criar o público-alvo.
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Selecione a guia **Clientes Potenciais** e clique no ícone **Enviar por meio de anúncio Bridge** na parte inferior.
+1. Selecione a guia **[!UICONTROL Clientes Potenciais]** e clique no ícone **Enviar por meio de anúncio Bridge** na parte inferior.
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Selecione **Facebook** e clique em **Avançar**.
+1. Selecione **[!UICONTROL Facebook]** e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Clique no menu suspenso **Público-alvo** e selecione **+ Novo Público-alvo**.
+1. Clique no menu suspenso **[!UICONTROL Público-alvo]** e selecione **[!UICONTROL + Novo Público-alvo]**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,17 +42,17 @@ ht-degree: 0%
    >
    >A API do Facebook permite até 500 públicos-alvo personalizados por conta de anúncio do Facebook.
 
-1. Digite um **Nome de público-alvo**. Clique **Atualizar**.
+1. Digite um **[!UICONTROL Nome de público-alvo]**. Clique **[!UICONTROL Atualizar]**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Se você tiver várias Contas de anúncio do Facebook, verá uma lista suspensa adicional, que permite escolher em qual Conta de anúncio esse público-alvo será criado.
+   >Se você tiver várias Contas publicitárias [!DNL Facebook], verá uma lista suspensa adicional, que permite escolher em qual Conta publicitária esse público-alvo será criado.
 
    >[!TIP]
    >
-   >Deseja trocar um novo público por um já existente que está associado a um conjunto de anúncios ou grupo? Marque a caixa de seleção **Substituir um público-alvo existente**. Isso **não** excluirá o público-alvo que está sendo substituído.
+   >Deseja trocar um novo público por um já existente que está associado a um conjunto de anúncios ou grupo? Marque a caixa de seleção **[!UICONTROL Substituir um público-alvo existente]**. Isso **não** excluirá o público-alvo que está sendo substituído.
 
 1. Quando terminar, a caixa de diálogo de status será atualizada.
 
@@ -64,8 +64,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Todas as listas que você envia para o Facebook se tornam estáticas. As Smart Lists no Marketo não atualizam automaticamente a lista de públicos-alvo no Facebook para refletir quaisquer alterações feitas após a transferência.
+   >Todas as listas que você enviar por push para [!DNL Facebook] se tornam estáticas. As listas inteligentes no Marketo não atualizarão automaticamente a lista de públicos-alvo em [!DNL Facebook] para refletir quaisquer alterações feitas após a transferência.
 
    >[!MORELIKETHIS]
    >
-   >[Adicionar clientes em potencial a um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Adicionar clientes em potencial a um público-alvo personalizado em [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

@@ -4,16 +4,16 @@ description: Visão geral do Editor de email v2.0 - Documentação do Marketo - 
 title: Visão geral do Editor de email v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
 # Visão geral do Editor de email v2.0 {#email-editor-v2-overview}
 
-Ao decidir ativar o Editor de email v2.0, você observará vários novos recursos.
+Ao decidir ativar o [!DNL Email Editor v2.0], você observará vários recursos novos.
 
 **Seletor de modelos de e-mail**
 
@@ -35,7 +35,7 @@ Essas coisas no lado direito do editor são chamadas de módulos. Saiba como [ad
 
 **Versão de texto**
 
-A alternância entre as versões de HTML e Texto do seu email agora está em uma guia útil na parte inferior. Saiba como [editar a versão de texto de um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+A alternância entre as versões do HTML e de Texto do seu email agora está em uma guia útil na parte inferior. Saiba como [editar a versão de texto de um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
@@ -59,7 +59,7 @@ Por padrão, o email mostra como seria em uma área de trabalho, conforme indica
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Para uma visualização maior, clique em **Visualizar** no canto superior direito do email.
+Para uma visualização maior, clique em **[!UICONTROL Visualizar]** no canto superior direito do email.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ A visualização padrão é desktop...
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...mas você também pode ver como ficará em um dispositivo móvel. Você também pode visualizar a versão em texto! Basta clicar em **Editar rascunho** no canto superior direito para retomar a edição.
+...mas você também pode ver como ficará em um dispositivo móvel. Você também pode visualizar a versão em texto! Basta clicar em **[!UICONTROL Editar rascunho]** no canto superior direito para retomar a edição.
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**Ações de email**
+**[!UICONTROL Ações de email]**
 
-Em **Ações de email**, você observará alguns novos recursos. **Carregar uma Imagem ou um Arquivo** e **Capturar Imagens da Web**. Você também pode salvar o próprio email como um novo template de email. Tudo o que você tem que fazer é dar-lhe um nome e um destino.
+Em **[!UICONTROL Ações de email]**, você observará alguns novos recursos. **[!UICONTROL Carregar uma Imagem ou um Arquivo]** e **[!UICONTROL Capturar Imagens da Web]**. Você também pode salvar o próprio email como um novo template de email. Tudo o que você tem que fazer é dar-lhe um nome e um destino.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,21 +83,21 @@ Em **Ações de email**, você observará alguns novos recursos. **Carregar uma 
 
 >[!NOTE]
 >
->**[Capturar imagens da Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona exatamente como no Design Studio.
+>**[[!UICONTROL Capturar imagens da Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funciona exatamente como no [!UICONTROL Design Studio].
 
-**Desabilitar o rastreamento de aberturas** Em **Configurações de email**, você pode desabilitar o rastreamento de aberturas, se necessário.
+**[!UICONTROL Desabilitar Rastreamento Aberto]** Em **[!UICONTROL Editar Configurações]**, você pode desabilitar o rastreamento aberto, se necessário.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**Configurações de email**
+**[!UICONTROL Editar configurações]**
 
-Você tem a opção de adicionar um pré-cabeçalho. Um Pré-cabeçalho é o texto curto de resumo após a linha de assunto quando os emails são exibidos na sua caixa de entrada.
+Você tem a opção de adicionar um [!UICONTROL Pré-cabeçalho]. Um [!UICONTROL Pré-cabeçalho] é o texto curto de resumo após a linha de assunto quando os emails são exibidos em sua caixa de entrada.
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->Os tokens não funcionam no Pré-cabeçalho ao usar o editor de email. Para usar um token no pré-cabeçalho, ele deve ser usado por meio de sua própria HTML em um template de email.
+>Os tokens não funcionam no [!UICONTROL Pré-cabeçalho] ao usar o editor de email. Para usar um token no [!UICONTROL Pré-cabeçalho], ele deve ser usado por meio de sua própria HTML em um modelo de email.
 
 Muitos recursos novos excelentes! Divirta-se!
 

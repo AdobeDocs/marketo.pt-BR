@@ -4,9 +4,9 @@ description: Etapa 2 de 3 - Configurar a solução da Marketo com conexão servi
 title: Etapa 2 de 3 - Configurar a solução da Marketo com conexão de servidor a servidor
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >[Etapa 1 de 3: Instalar a Solução da Marketo com Conexão Servidor a Servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
 
-## Criar Aplicativo Cliente no Azure AD {#create-client-application-in-azure-ad}
+## Criar Aplicativo Cliente em [!DNL Azure AD] {#create-client-application-in-azure-ad}
 
 1. Navegue até [este artigo do Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
 
-1. Siga todas as etapas. Para a Etapa 3, insira um nome de aplicativo relevante (por exemplo, &quot;Integração do Marketo&quot;). Em Tipos de Conta com Suporte, selecione **Conta Somente neste Diretório Organizacional**.
+1. Siga todas as etapas. Para a Etapa 3, insira um nome de aplicativo relevante (por exemplo, &quot;[!DNL Marketo Integration]&quot;). Em Tipos de Conta com Suporte, selecione **Conta Somente neste Diretório Organizacional**.
 
 1. Anote a ID do aplicativo (ClientId) e a ID do locatário. Você precisará inseri-lo no Marketo mais tarde.
 
@@ -52,20 +52,19 @@ ht-degree: 0%
    >[!IMPORTANT]
    >
    >* Ao conceder permissões ao usuário do aplicativo, atribua-o à &quot;Função de usuário da sincronização do Marketo&quot;.
-   >* Anote o endereço de email do Usuário do Aplicativo da [opção para exibir detalhes](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} na Power Platform. Esse endereço de email será usado como nome de usuário ao configurar a conexão com o MS Dynamics no Marketo.
-   >* Quaisquer atualizações feitas em seu CRM pelo Usuário da Sincronização **não** serão sincronizadas com o Marketo novamente.
+   >* Anote o endereço de email do Usuário do Aplicativo na [opção exibir detalhes](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) da Power Platform. Esse endereço de email será usado como nome de usuário ao configurar a conexão com o MS [!DNL Dynamics] no Marketo.
 
-## Azure AD Federado com AD FS no local {#azure-ad-federated-with-ad-fs-on-prem}
+## [!DNL Azure AD] Federado com [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
 
-O Federated Azure AD para ADFS no Local precisa da criação de uma política de Descoberta de Domínio Doméstico para o aplicativo específico. Com esta política, o Azure AD redirecionará a solicitação de autenticação para o serviço de federação. A sincronização de hash de senha deve ser habilitada no AD Connect para isso. Para obter mais informações, consulte [OAuth com ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc){target="_blank"} e [Definir uma política de hardware para um aplicativo](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application){target="_blank"}.
+A federação de [!DNL Azure AD] a [!DNL ADFS Onprem] precisa da criação de uma política de Descoberta de Domínio Doméstico para o aplicativo específico. Com esta política, [!DNL Azure AD] redirecionará a solicitação de autenticação para o serviço de federação. A sincronização de hash de senha deve ser habilitada em [!DNL AD Connect] para isso. Para obter mais informações, consulte [[!DNL OAuth] com [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Definir uma política de hardware para um aplicativo](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Referências adicionais [podem ser encontradas aqui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20includes%20federated, are%20federated%20to%20Azure%20AD.){target="_blank"}.
+Referências adicionais [podem ser encontradas aqui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated, are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## Configurar a solução da Marketo {#configure-marketo-solution}
 
 Quase lá! Tudo o que resta é informar a solução Marketo sobre o novo usuário criado.
 
-1. Volte para a seção Configurações avançadas, clique no ícone ![](assets/image2015-5-13-15-3a49-3a19.png) ao lado de Configurações e selecione **[!UICONTROL Configuração do Marketo]**.
+1. Volte para a seção [!UICONTROL Configurações Avançadas], clique no ícone ![](assets/image2015-5-13-15-3a49-3a19.png) ao lado de [!UICONTROL Configurações] e selecione **[!UICONTROL Configuração do Marketo]**.
 
    ![](assets/fourteen.png)
 
@@ -89,25 +88,25 @@ Quase lá! Tudo o que resta é informar a solução Marketo sobre o novo usuári
 
    ![](assets/seventeen.png)
 
-1. Clique no ícone ![](assets/image2015-5-13-15-3a49-3a19-1.png) ao lado de Configurações e selecione **[!UICONTROL Soluções]**.
+1. Clique no ícone ![](assets/image2015-5-13-15-3a49-3a19-1.png) ao lado de [!UICONTROL Configurações] e selecione **[!UICONTROL Soluções]**.
 
    ![](assets/eighteen.png)
 
-1. Clique no botão **[!UICONTROL Todas as personalizações do Publish]**.
+1. Clique no botão **[!UICONTROL Publicar todas as personalizações]**.
 
    ![](assets/nineteen.png)
 
    >[!NOTE]
    >
-   >Se estiver atualizando da Autenticação Básica para o OAuth, você poderá usar [este artigo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"} para reconfigurar sua autenticação.
+   >Se estiver atualizando da Autenticação Básica para o [!DNL OAuth], você pode usar o [este artigo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) para reconfigurar sua autenticação.
 
 ## Antes de prosseguir para a Etapa 3 {#before-proceeding-to-step}
 
-* Se quiser restringir o número de registros sincronizados, [configure um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} agora.
-* Execute o processo [Validar sincronização do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}. Ele verifica se as configurações iniciais foram feitas corretamente.
-* Faça logon no Usuário do Marketo Sync no Microsoft Dynamics CRM.
+* Se quiser restringir o número de registros sincronizados, [configure um filtro de sincronização personalizado](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) agora.
+* Execute o processo [Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Ele verifica se as configurações iniciais foram feitas corretamente.
+* Faça logon no Usuário de Sincronização do Marketo no [!DNL Microsoft Dynamics] CRM.
 
 >[!MORELIKETHIS]
 >
->* [Etapa 3 de 3: Conectar a Solução da Marketo com Conexão Servidor a Servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
->* [Reconfigurar o Método de Autenticação do Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}
+>* [Etapa 3 de 3: Conectar a Solução da Marketo com Conexão Servidor a Servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Reconfigurar [!DNL Dynamics] Método de Autenticação](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)

@@ -4,7 +4,7 @@ description: Cancelar uma execução de campanha em lote recorrente agendada - D
 title: Cancelar uma execução de campanha em lote recorrente agendada
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
@@ -19,7 +19,7 @@ Se você tiver uma Campanha em lote recorrente que não deseja mais, cancele as 
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Clique em **Agendar Recorrência**.
+1. Clique em **[!UICONTROL Agendar Recorrência]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 

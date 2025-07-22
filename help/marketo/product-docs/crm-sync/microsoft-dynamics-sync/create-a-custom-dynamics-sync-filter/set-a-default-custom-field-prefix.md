@@ -4,22 +4,22 @@ description: Definir um prefixo de campo personalizado padrão - Documentação 
 title: Definir um prefixo de campo personalizado padrão
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # Definir um prefixo de campo personalizado padrão {#set-a-default-custom-field-prefix}
 
-O prefixo padrão do Microsoft Dynamics para campos personalizados deve ser _novo_ para que os campos proprietários do Marketo sejam sincronizados corretamente. Veja como alterar o prefixo padrão.
+Seu prefixo [!DNL Microsoft Dynamics] padrão para campos personalizados deve ser **novo** para que os campos proprietários do Marketo sejam sincronizados corretamente. Veja como alterar o prefixo padrão.
 
-1. Vá para Configurações e selecione **Personalizações**.
+1. Vá para [!UICONTROL Configurações] e selecione **[!UICONTROL Personalizações].**
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. Clique em **Publicadores**.
+1. Clique em **[!UICONTROL Publicadores]**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -27,15 +27,15 @@ O prefixo padrão do Microsoft Dynamics para campos personalizados deve ser _nov
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Alterar o prefixo para **novo**. Clique em **Salvar e fechar**.
+1. Alterar o prefixo para **novo**. Clique em **[!UICONTROL Salvar e fechar]**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
-1. Acesse Configurações > Soluções para publicar as personalizações.
+1. Vá para [!UICONTROL Configurações] > [!UICONTROL Soluções] para publicar as personalizações.
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Clique em **Todas as personalizações do Publish**.
+1. Clique em **[!UICONTROL Publicar todas as personalizações]**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

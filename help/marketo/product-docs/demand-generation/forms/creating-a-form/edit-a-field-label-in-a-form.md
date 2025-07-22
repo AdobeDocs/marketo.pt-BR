@@ -4,10 +4,10 @@ description: Editar um rótulo de campo em um formulário - Documentação do Ma
 title: Editar um rótulo de campo em um formulário
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Você pode alterar o rótulo em um formulário para qualquer coisa - você pode até usar uma imagem ou apagá-la completamente! Veja como fazer isso.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Selecione seu campo e edite o **Rótulo**. Os campos nas Configurações do formulário refletirão os rótulos inseridos.
+1. Selecione seu campo e edite o **[!UICONTROL Rótulo]**. Os campos nas Configurações do formulário refletirão os rótulos inseridos.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
@@ -31,11 +31,11 @@ Você pode alterar o rótulo em um formulário para qualquer coisa - você pode 
    >
    >Se você quiser se fantasiar, clique no ![lápis](assets/image2014-9-15-17-3a27-3a7.png). Isso abrirá um editor de rich text e permitirá que você vá para a cidade com imagens, links e muito mais!
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 

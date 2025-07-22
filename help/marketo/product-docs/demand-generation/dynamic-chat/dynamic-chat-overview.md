@@ -3,20 +3,20 @@ description: Visão geral do Dynamic Chat - Documentação do Marketo - Document
 title: Visão geral do Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '589'
 ht-degree: 4%
 
 ---
 
-# Visão geral do Dynamic Chat {#dynamic-chat-overview}
+# [!DNL Dynamic Chat] Visão geral {#dynamic-chat-overview}
 
-O Dynamic Chat permite utilizar uma interface fácil de usar para direcionar pessoas e contas que visitam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem conversar com um agente ao vivo e até mesmo marcar reuniões com a equipe de vendas. Os dados de atividade e engajamento do Dynamic Chat podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
+O Dynamic Chat permite usar uma interface fácil de usar para direcionar pessoas e contas que visitam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem conversar com um agente ao vivo e até mesmo marcar reuniões com a equipe de vendas. Os dados de atividade e engajamento do Dynamic Chat podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
 
 >[!TIP]
 >
->Visite [esta página](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=pt-BR){target="_blank"} para ver os vídeos tutoriais do Dynamic Chat.
+>Visite [esta página](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} para ver os vídeos tutoriais do Dynamic Chat.
 
 ## Integrações {#integrations}
 
@@ -66,9 +66,9 @@ Siga as etapas abaixo para alterar o idioma do Dynamic Chat.
 
 >[!IMPORTANT]
 >
->Alterar o idioma no nível do perfil irá alterar o idioma para _todos_ os aplicativos Experience Cloud, não apenas o Dynamic Chat.
+>Alterar seu idioma no nível do perfil mudará o idioma para _todos_ aplicativos Experience Cloud, não apenas [!DNL Dynamic Chat].
 
-1. Na sua conta Experience Cloud, clique no ícone de configurações e escolha **Preferências**.
+1. Na sua conta do Experience Cloud, clique no ícone de configurações e escolha **[!UICONTROL Preferências]**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,19 +76,19 @@ Siga as etapas abaixo para alterar o idioma do Dynamic Chat.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Escolha seu novo idioma (o segundo idioma é opcional) e clique em **Salvar**.
+1. Escolha seu novo idioma (o segundo idioma é opcional) e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
    >[!NOTE]
    >
-   >Há algumas dezenas de idiomas para escolher, no entanto, o Dynamic Chat só oferece suporte ao seguinte: inglês, francês, alemão, japonês, espanhol, italiano, português brasileiro, coreano, chinês simplificado e chinês tradicional.
+   >Há algumas dezenas de idiomas para escolher. No entanto, o [!DNL Dynamic Chat] oferece suporte apenas para o seguinte: inglês, francês, alemão, japonês, espanhol, italiano, português brasileiro, coreano, chinês simplificado e chinês tradicional.
 
 Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto as palavras que você preencheu pessoalmente (por exemplo, respostas de transmissão).
 
-## Limites de retenção de dados Dynamic Chat {#dynamic-chat-data-retention-limits}
+## Limites de retenção de dados do Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-Abaixo estão apenas alguns dos limites/parâmetros dentro do Dynamic Chat. Para obter uma lista completa, consulte a Marketo Engage [página de Descrição do produto](https://helpx.adobe.com/br/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Abaixo estão apenas alguns dos limites/parâmetros no Dynamic Chat. Para obter uma lista completa, consulte a [página Descrição do produto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} da Marketo Engage.
 
 <table>
   <th>Tipo de dados</th>
@@ -117,4 +117,4 @@ Abaixo estão apenas alguns dos limites/parâmetros dentro do Dynamic Chat. Para
 
 ## Perguntas frequentes {#faq}
 
-Consulte as [Perguntas frequentes sobre Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Consulte as [Perguntas frequentes sobre o Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

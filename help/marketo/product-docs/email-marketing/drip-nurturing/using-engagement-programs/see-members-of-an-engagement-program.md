@@ -4,7 +4,7 @@ description: Consulte Membros de um programa de envolvimento - Documentação do
 title: Consulte Membros de um programa de envolvimento
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 3%
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Você pode ver rapidamente os membros de um programa de envolvimento. Veja como.
 
-1. Em seu programa de engajamento, clique com o botão direito do mouse e selecione **Exibir Membros**.
+1. Em seu programa de engajamento, clique com o botão direito do mouse e selecione **[!UICONTROL Exibir Membros]**.
 
    ![](assets/membersofengagement.jpg)
 

@@ -4,7 +4,7 @@ description: Permissões — Documentação do Marketo — Documentação do pro
 title: Permissões
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Você precisará configurar permissões para que seus usuários possam usar o TAM. Veja como.
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/one-2.png)
 
-1. Clique em **Usuários e funções**.
+1. Clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ Você precisará configurar permissões para que seus usuários possam usar o TA
    >
    >Você pode adicionar permissões TAM para uma função existente, ou criar uma nova. Este exemplo usa uma nova função.
 
-1. Clique em **Funções** e depois em **Nova Função**.
+1. Clique em **[!UICONTROL Funções]** e depois em **[!UICONTROL Nova Função]**.
 
    ![](assets/three-2.png)
 
-1. Insira um Nome de Função e clique no ícone **+** ao lado da caixa de seleção Acessar Gerenciamento de Conta de Destino.
+1. Insira um [!UICONTROL Nome da Função] e clique no ícone **+** ao lado da caixa de seleção **[!UICONTROL Acessar Gerenciamento de Conta de Destino]**.
 
    ![](assets/permissions-4.png)
 
-1. Para selecionar _todas_ as permissões, basta marcar a caixa de seleção **Acessar Gerenciamento de Conta de Destino**.
+1. Para selecionar _todas_ as permissões, basta marcar a caixa de seleção **[!UICONTROL Acessar Gerenciamento de Conta de Destino]**.
 
    ![](assets/permissions-5.png)
 
@@ -43,7 +43,7 @@ Você precisará configurar permissões para que seus usuários possam usar o TA
    >
    >Você também tem a opção de selecionar apenas algumas das opções. Faça isso marcando cada caixa de seleção individualmente.
 
-1. Clique em **+** para abrir o menu Acessar Administrador. Marque a caixa de seleção **Acessar administrador da ABM** (ABM é o nome anterior da TAM) e clique em **Criar**.
+1. Clique em **+** para abrir o menu **[!UICONTROL Acessar Administrador]**. Marque a caixa de seleção **[!UICONTROL Acessar administrador da ABM]** (ABM é o nome anterior da TAM) e clique em **[!UICONTROL Criar]**.
 
    ![](assets/permissions-6.png)
 

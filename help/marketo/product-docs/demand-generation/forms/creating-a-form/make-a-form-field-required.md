@@ -4,10 +4,10 @@ description: Tornar um campo de formulário obrigatório - Documentação do Mar
 title: Tornar um campo de formulário obrigatório
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 1%
 
 Ao [adicionar campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md), talvez você queira tornar alguns deles obrigatórios para a pessoa que os preencherá. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/editform-2.png)
 
-1. Selecione o campo que deseja tornar obrigatório e marque É obrigatório.
+1. Selecione o campo que você deseja tornar obrigatório e marque **[!UICONTROL É obrigatório]**.
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Muito bem! Clique em **Concluir**.
+1. Muito bem! Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 

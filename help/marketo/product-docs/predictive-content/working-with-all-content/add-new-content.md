@@ -4,18 +4,18 @@ description: Adicionar novo conteúdo - Documentação do Marketo - Documentaç�
 title: Adicionar novo conteúdo
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
 # Adicionar novo conteúdo {#add-new-content}
 
-É possível adicionar conteúdo manualmente à página Todo o conteúdo com facilidade.
+Você pode adicionar conteúdo manualmente com facilidade à página [!UICONTROL Todo o Conteúdo].
 
-1. Clique no menu suspenso **Adicionar conteúdo** e selecione **Adicionar conteúdo**.
+1. Clique no menu suspenso **[!UICONTROL Adicionar conteúdo]** e selecione **[!UICONTROL Adicionar conteúdo]**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,11 +27,11 @@ ht-degree: 6%
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Clique em **Adicionar**.
+1. Clique em **[!UICONTROL Adicionar]**.
 
    ![](assets/all-content-add-hand.png)
 
-1. O novo título agora aparece na página **Todo o Conteúdo**. Observe que ele ainda não foi aprovado para conteúdo preditivo.
+1. O novo título agora aparece na página **[!UICONTROL Todo o Conteúdo]**. Observe que ele ainda não foi aprovado para conteúdo preditivo.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

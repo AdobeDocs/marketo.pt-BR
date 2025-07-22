@@ -3,7 +3,7 @@ description: Critérios de público-alvo - Documentação do Marketo - Documenta
 title: Critérios de público
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -28,11 +28,11 @@ Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em 
 
    ![](assets/audience-criteria-3.png)
 
-1. Defina o tempo &quot;Maior que&quot; para 20 segundos.
+1. Defina o tempo &quot;[!UICONTROL Maior que]&quot; para 20 segundos.
 
    ![](assets/audience-criteria-4.png)
 
-1. Adicione a URL da página desejada na seção [Target](#target).
+1. Adicione a URL da página desejada na seção [[!UICONTROL Target]](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -46,7 +46,7 @@ Há _muitas_ combinações de atributos para escolher. No exemplo abaixo, estamo
 
    ![](assets/audience-criteria-7.png)
 
-1. _Is_ está definido por padrão. No campo Select Values, digite CA (você também pode clicar no menu suspenso e selecionar na lista).
+1. _[!UICONTROL Is]_ está definido por padrão. No campo Select Values, digite CA (você também pode clicar no menu suspenso e selecionar na lista).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,17 +88,17 @@ Há uma maneira fácil de direcionar especificamente as pessoas que ainda não e
    >
    >Quando alguém visita o seu site, o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} faz o cookie e o coloca no sistema. Pesquisamos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
 
-1. _Is_ está definido por padrão. No campo Selecionar valores, digite NY (também é possível clicar no menu suspenso e selecionar na lista).
+1. _[!UICONTROL Is]_ está definido por padrão. No campo Selecionar valores, digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 
    ![](assets/audience-criteria-15.png)
 
 ## Associação {#membership}
 
-Use as Smart Lists do Marketo Engage para o público-alvo da sua caixa de diálogo.
+Use as listas inteligentes do Marketo Engage para o público-alvo da sua caixa de diálogo.
 
 >[!AVAILABILITY]
 >
->Os critérios de Membro da Smart List ou Membro da Lista exigem o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Os critérios de Membro da lista inteligente ou Membro da lista exigem o Dynamic Chat Prime. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Em Associação, selecione **[!UICONTROL Membro da Smart List]** e solte-o na tela.
 
@@ -129,7 +129,7 @@ Formatos aceitáveis:
 
 >[!NOTE]
 >
->* O uso de um asterisco atua como um curinga &quot;catch-all&quot; (global). Assim, o `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E o `https://website.com/folder/*` colocaria a caixa de diálogo em cada página de HTML na pasta subsequente (por exemplo: nesse caso, digamos que a pasta seja &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
+>* O uso de um asterisco atua como um curinga &quot;catch-all&quot; (global). Assim, o `https://*.website.com` colocaria a caixa de diálogo em cada página do site, incluindo subdomínios (por exemplo: `support.website.com`). E o `https://website.com/folder/*` colocaria a caixa de diálogo em cada página do HTML na pasta subsequente (por exemplo: nesse caso, digamos que a pasta seja &quot;esportes&quot;, portanto: website.com/sports/baseball.html, website.com/sports/football.html etc.).
 >
 >* Os parâmetros de URL não são suportados no momento.
 

@@ -4,10 +4,10 @@ description: Visão geral de tokens - Documentação do Marketo - Documentação
 title: Visão geral de tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Neste exemplo, o email dirá &quot;Greetings, (first name)&quot; ou &quot;Greeti
 
 >[!CAUTION]
 >
->Os tokens não funcionam no pré-cabeçalho ao usar o editor de email do Marketo. Para usar um token no pré-cabeçalho, ele deve ser enviado por meio de seu próprio HTML em um template de email.
+>Os tokens não funcionam no pré-cabeçalho ao usar o editor de email do Marketo. Para usar um token no pré-cabeçalho, ele deve ser enviado por meio de sua própria HTML em um template de email.
 
 >[!NOTE]
 >
@@ -157,9 +157,9 @@ Neste exemplo, o email dirá &quot;Greetings, (first name)&quot; ou &quot;Greeti
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## Meus tokens {#my-tokens}
+## [!UICONTROL Meus tokens] {#my-tokens}
 
-Meus Tokens são definidos em um programa e começam com `{{my.` seguido pelo nome que você criou para o token. Saiba mais sobre [Meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL Meus tokens] são definidos em um programa e começam com `{{my.` seguido pelo nome que você criou para o token. Saiba mais sobre [Meus tokens em um programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token de membro {#member-token}
 

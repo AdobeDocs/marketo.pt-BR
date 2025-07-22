@@ -4,9 +4,9 @@ description: Adicionar links rastreados a um email de texto - Documentação do 
 title: Adicionar links rastreados a um email de texto
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ Os links de texto de email podem ser rastreados no Marketo. Vamos ver como funci
 
 1. Selecione seu email e clique em **Editar Rascunho**.
 
-![](assets/one-9.png)
+1. Selecione seu email e clique em **[!UICONTROL Editar Rascunho]**.
+
+   ![](assets/one-9.png)
 
 1. Clique duas vezes na área editável à qual deseja adicionar o link.
 

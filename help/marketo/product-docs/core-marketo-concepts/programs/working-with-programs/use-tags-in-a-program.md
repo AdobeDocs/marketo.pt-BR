@@ -4,10 +4,10 @@ description: Usar tags em um programa - Documentação do Marketo - Documentaç�
 title: Usar tags em um programa
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
 ## Usar uma tag em um programa {#use-a-tag-in-a-program}
 
-1. Selecione seu programa. Clique em **Instalação**.
+1. Selecione seu programa. Clique em **[!UICONTROL Instalação]**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
 ## Editar uma tag {#edit-a-tag}
 
-1. Vá para a guia **Configuração**. Clique com o botão direito do mouse na tag. Selecione **Editar**.
+1. Vá para a guia **[!UICONTROL Configuração]**. Clique com o botão direito do mouse na tag. Selecione **[!UICONTROL Editar]**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
 ## Excluir uma tag  {#delete-a-tag}
 
-1. Vá para a guia **Configuração**. Clique com o botão direito do mouse na tag e selecione **Excluir**.
+1. Vá para a guia **[!UICONTROL Configuração]**. Clique com o botão direito do mouse na tag e selecione **[!UICONTROL Excluir]**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Clique em **Excluir** para confirmar.
+1. Clique em **[!UICONTROL Excluir]** para confirmar.
 
    ![](assets/use-tags-in-a-program-11.png)
 

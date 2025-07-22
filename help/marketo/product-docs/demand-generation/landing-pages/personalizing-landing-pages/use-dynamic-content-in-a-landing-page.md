@@ -4,7 +4,7 @@ description: Usar conteúdo dinâmico em uma página de aterrissagem - Documenta
 title: Usar conteúdo dinâmico em uma landing page
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -23,43 +23,43 @@ O uso de conteúdo dinâmico em páginas de aterrissagem envolve as pessoas com 
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-   Clique na Landing Page e em Editar rascunho.
+   Clique na **[!UICONTROL Página de aterrissagem]** e em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-   Clique em Segmentar por.
+   Clique em **[!UICONTROL Segmentar por]**.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Insira o nome da Segmentação e clique em Salvar.
+   Insira o nome da **[!UICONTROL Segmentação]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   Sua segmentação e seus segmentos aparecem em Dinâmico à direita.
+   Sua segmentação e seus segmentos aparecem em **[!UICONTROL Dinâmico]** à direita.
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >Todos os elementos da página de aterrissagem são estáticos por padrão.
+   >Todos os elementos da página de aterrissagem são **[!UICONTROL estáticos]** por padrão.
 
 ## Tornar o elemento dinâmico {#make-element-dynamic}
 
-1. Arraste e solte elementos de Estático para **Dinâmico**.
+1. Arraste e solte elementos de **[!UICONTROL Estático]** para **[!UICONTROL Dinâmico]**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Você também pode tornar os elementos Estáticos ou Dinâmicos a partir do elemento **Configurações**.
+1. Você também pode tornar os elementos [!UICONTROL Estáticos] ou [!UICONTROL Dinâmicos] do elemento **[!UICONTROL Configurações]**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Aplicar conteúdo dinâmico {#apply-dynamic-content}
 
-1. Selecione um elemento em um segmento e clique em **Editar**. Repita o procedimento para cada segmento.
+1. Selecione um elemento em um segmento e clique em **[!UICONTROL Editar]**. Repita o procedimento para cada segmento.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

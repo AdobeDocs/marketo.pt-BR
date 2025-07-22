@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980661
-description: Adicionar a correspondência do cliente do Google as a LaunchPoint Service - Documentação do Marketo - Documentação do produto
-title: Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint
+description: Adicionar a Correspondência de cliente do Google as a [!DNL LaunchPoint] Service - Documentação do Marketo - Documentação do produto
+title: Adicionar a Correspondência de Cliente do Google as a [!DNL LaunchPoint] Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 2%
 
 ---
 
-# Adicionar a correspondência do cliente do Google como um serviço do LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
+# Adicionar a Correspondência do cliente do Google como um serviço [!DNL LaunchPoint] {#add-google-customer-match-as-a-launchpoint-service}
 
-Com essa integração, você pode enviar um público-alvo Marketo Engage para o Google para ser direcionado usando o Google AdWords, bem como redirecionar públicos-alvo no YouTube, Search e Gmail.
+Com essa integração, você pode enviar um público-alvo do Marketo para o Google para ser direcionado usando o [!DNL Google AdWords], bem como redirecionar públicos-alvo no YouTube, Search e [!DNL Gmail].
 
 >[!NOTE]
 >
@@ -35,15 +35,15 @@ Com essa integração, você pode enviar um público-alvo Marketo Engage para o 
 
    ![](assets/chooseservice.png)
 
-1. Para conectar uma conta do Google AdWords, clique em **[!UICONTROL Autorizar]**.
+1. Para conectar uma conta [!DNL Google AdWords], clique em **[!UICONTROL Autorizar]**.
 
    ![](assets/authorizeaccount-1.png)
 
-1. O Google abre em uma nova guia. Aqui, faça logon na sua conta do Google AdWords.
+1. O Google abre em uma nova guia. Daqui, faça logon na sua conta do [!DNL Google AdWords].
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie públicos-alvo em várias contas do AdWords, o usuário do Google autorizado nas etapas a seguir precisa ter acesso a _todas_ essas contas.
+   >Para que o Marketo envie públicos-alvo através de várias contas do [!DNL AdWords], o usuário do Google autorizado nas etapas a seguir precisa ter acesso a _todas_ dessas contas.
 
    ![](assets/chooseaccount.png)
 
@@ -51,11 +51,11 @@ Com essa integração, você pode enviar um público-alvo Marketo Engage para o 
 
    ![](assets/reviewpermissions.png)
 
-1. Sua conta do Google AdWords agora está conectada ao Marketo. Clique em **[!UICONTROL Criar]**.
+1. Sua conta [!DNL Google AdWords] agora está conectada ao Marketo. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/authorizesuccess.png)
 
-   Fantástico! Agora você verá o Google Matched Audiences listado como um serviço do LaunchPoint na guia Serviços instalados.
+   Fantástico! Agora você verá o Google Matched Audiences listado como um serviço [!DNL LaunchPoint] na guia Serviços instalados.
 
 >[!NOTE]
 >

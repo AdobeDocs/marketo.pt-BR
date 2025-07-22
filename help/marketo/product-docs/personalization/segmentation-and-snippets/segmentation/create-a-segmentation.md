@@ -4,7 +4,7 @@ description: Criar uma segmentação - Documentação do Marketo - Documentaçã
 title: Criar uma segmentação
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 A segmentação permite agrupar pessoas em perfis distintos para relatórios e conteúdo dinâmico. Veja como criá-los.
 
-1. Ir para **Banco de Dados**.
+1. Ir para **[!UICONTROL Banco de Dados]**.
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. Clique em **Nova** e em **Nova segmentação**.
+1. Clique em **[!UICONTROL Nova]** e em **[!UICONTROL Nova segmentação]**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -27,7 +27,7 @@ A segmentação permite agrupar pessoas em perfis distintos para relatórios e c
    >
    >É possível criar até 20 segmentações.
 
-1. Insira um **Nome**, clique em **Adicionar segmento** e nomeie-o.
+1. Insira um **[!UICONTROL Nome]**, clique em **[!UICONTROL Adicionar segmento]** e nomeie-o.
 
    ![](assets/image2014-9-15-10-3a1-3a1.png)
 
@@ -45,7 +45,7 @@ A segmentação permite agrupar pessoas em perfis distintos para relatórios e c
    >
    >Se você receber uma mensagem de erro durante a aprovação e precisar de assistência para reduzir a complexidade da segmentação, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-1. Arraste e solte os Segmentos ao redor para alterar sua ordem. Depois de concluído, clique em **Criar**.
+1. Arraste e solte os Segmentos ao redor para alterar sua ordem. Depois de concluído, clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2014-9-15-10-3a1-3a30.png)
 

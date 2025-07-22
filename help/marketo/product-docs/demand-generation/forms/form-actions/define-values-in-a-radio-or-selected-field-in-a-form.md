@@ -4,10 +4,10 @@ description: Definir valores em um rádio ou em um campo selecionado em um formu
 title: Definir valores em um rádio ou em um campo selecionado em um formulário
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,21 +15,21 @@ ht-degree: 1%
 
 Depois de [definir um tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) como um botão de opção ou tipo de seleção, você desejará definir os valores que o usuário pode escolher. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. Selecione o campo e clique em **Editar**.
+1. Selecione o campo e clique em **[!UICONTROL Editar]**.
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
    >[!NOTE]
    >
-   >O primeiro valor padrão é sempre &quot;Selecionar...&quot; Fique à vontade para editar isso. Se você alterar o botão de opção padrão para outra linha, &quot;Selecionar...&quot; não aparecerá como uma escolha no formulário.
+   >O primeiro valor padrão é sempre &quot;[!UICONTROL Selecionar...]&quot; Sinta-se à vontade para editar isso. Se você alterar o botão de opção padrão para outra linha, &quot;[!UICONTROL Selecionar...]&quot; não aparecerá como uma escolha no formulário.
 
 1. Clique em para adicionar seu valor.
 
@@ -39,27 +39,27 @@ Depois de [definir um tipo de campo](/help/marketo/product-docs/administration/f
    >
    >**Definição**
    >
-   >**Valor de Exibição:** O que é mostrado ao visitante.
+   >**[!UICONTROL Valor de Exibição]:** O que é mostrado ao visitante.
    >
-   >**Valor Armazenado:** O que está registrado no Marketo.
+   >**[!UICONTROL Valor Armazenado]:** O que está registrado no Marketo.
 
-1. Adicione quantos valores forem necessários e clique em **Salvar**.
+1. Adicione quantos valores forem necessários e clique em **[!UICONTROL Salvar]**.
 
    >[!NOTE]
    >
-   >Se você não inserir um Valor armazenado, o Marketo usará o Valor de exibição e o armazenará.
+   >Se você não inserir um [!UICONTROL Valor Armazenado], a Marketo usará o [!UICONTROL Valor de Exibição] e armazenará isso.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Clique em **Editor Avançado** para copiar/colar uma lista de valores, se desejar. Pode economizar tempo real.
+   >Clique em **[!UICONTROL Editor Avançado]** para copiar/colar uma lista de valores, se desejar. Pode economizar tempo real.
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

@@ -4,7 +4,7 @@ description: Pessoas Com Conteúdo Esgotado - Documentação Do Marketo - Docume
 title: Pessoas com conteúdo esgotado
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
 ## Filtro Membro do programa de engajamento {#member-of-engagement-program-filter}
 
-1. Crie uma nova lista inteligente, localize e arraste no filtro **Membro do programa de envolvimento**.
+1. Crie uma nova lista inteligente, localize e arraste no filtro **[!UICONTROL Membro do programa de envolvimento]**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Em **Adicionar restrição**, selecione **Conteúdo esgotado**.
+1. Em **[!UICONTROL Adicionar restrição]**, selecione **[!UICONTROL Conteúdo esgotado]**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Definir **Conteúdo esgotado** para **true**.
+1. Definir **[!UICONTROL Conteúdo esgotado]** para **[!UICONTROL true]**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
 ## Guia Membros {#members-tab}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Selecione seu programa de envolvimento e vá para a guia **Membros**.
+1. Selecione seu programa de envolvimento e vá para a guia **[!UICONTROL Membros]**.
 
    ![](assets/memberstab.jpg)
 
-1. Observe a coluna chamada **Conteúdo esgotado**.
+1. Observe a coluna chamada **[!UICONTROL Conteúdo esgotado]**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
@@ -53,7 +53,7 @@ Quando uma pessoa recebe cada parte do conteúdo em um fluxo, ela esgotou todas 
 
 ## Fluxo {#stream}
 
-1. Você também pode ver o total de pessoas que esgotaram o conteúdo na guia Streams no próprio fluxo.
+1. Você também pode ver o total de pessoas que esgotaram o conteúdo na guia [!UICONTROL Fluxos] no próprio fluxo.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

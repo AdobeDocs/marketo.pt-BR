@@ -4,10 +4,10 @@ description: Reordenar colunas de relatório - Documentação do Marketo - Docum
 title: Reordenar Colunas do Relatório
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Você pode alterar a ordem das colunas em um relatório.
 
-1. Vá para a área **Atividades de marketing** (ou **Analytics**).
+1. Vá para a área **[!UICONTROL Atividades de marketing]** (ou **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório**.
+1. Selecione seu relatório na árvore de navegação e clique na guia **[!UICONTROL Relatório]**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

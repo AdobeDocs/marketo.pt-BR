@@ -1,44 +1,44 @@
 ---
 unique-page-id: 42762409
-description: Página de insights de vendas para administradores do Marketo - Documentação do Marketo - Documentação do produto
-title: Página de insights de vendas para administradores do Marketo
+description: Página Insight de vendas para administradores do Marketo - Documentação do Marketo - Documentação do produto
+title: Página Insight de vendas para administradores do Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 1%
+source-wordcount: '404'
+ht-degree: 0%
 
 ---
 
-# Página de insights de vendas para administradores do Marketo {#sales-insight-page-for-marketo-admins}
+# Página [!DNL Sales Insight] para administradores do Marketo {#sales-insight-page-for-marketo-admins}
 
-Os administradores do Marketo têm determinados privilégios no Sales Insight. Saiba o que eles estão abaixo.
+Administradores do Marketo têm determinados privilégios em [!DNL Sales Insight]. Saiba o que eles estão abaixo.
 
 ## Configuração da API Soap {#soap-api-configuration}
 
-Essas credenciais são usadas para conectar sua conta do Salesforce à sua instância do Marketo, para usar o MSI no Salesforce.
+Essas credenciais são usadas para conectar sua conta do [!DNL Salesforce] à sua instância do Marketo, para usar o MSI no [!DNL Salesforce].
 
 ![](assets/one-1.png)
 
 ## Configuração da API Rest {#rest-api-configuration}
 
-Essas credenciais são usadas para conectar sua conta do Salesforce à sua instância do Marketo, a fim de usar o Painel de insights do MSI no Salesforce.
+Essas credenciais são usadas para conectar sua conta do [!DNL Salesforce] à sua instância do Marketo, para usar o Painel de Insights do MSI no [!DNL Salesforce].
 
 ![](assets/two-1.png)
 
 ## Configurações de pontuação de pessoa {#person-score-settings}
 
-* **Estrelas**: as estrelas representam a pontuação total do lead em comparação a outros leads.
-* **Chamas**: as chamas representam a urgência - quanto a pontuação de um lead foi alterada recentemente.
+* **[!UICONTROL Estrelas]**: as estrelas representam a pontuação total do lead em comparação a outros leads.
+* **[!UICONTROL Chamas]**: as chamas representam a urgência - quanto a pontuação de um lead foi alterada recentemente.
 
-Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
+Por padrão, [!DNL Marketo Sales Insight] usa o campo Pontuação de lead para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 
-1. Na área **Administrador** do Marketo, clique em **Sales Insight**.
+1. Na área **[!UICONTROL Admin]** do Marketo, clique em **[!UICONTROL Sales Insight]**.
 
    ![](assets/four.png)
 
-1. Em Configurações de Pontuação de Cliente Potencial, clique em **Editar**.
+1. Em [!UICONTROL Configurações de Pontuação de Cliente Potencial], clique em **[!UICONTROL Editar]**.
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcul
 
    ![](assets/seven.png)
 
-1. Clique em **Salvar**. O Sales Insight levará algum tempo para ser recalculado. Você pode verificar seu CRM mais tarde para ver as estrelas e as chamas.
+1. Clique em **[!UICONTROL Salvar]**. O Sales insight levará algum tempo para recalcular. Você pode verificar seu CRM mais tarde para ver as estrelas e as chamas.
 
    ![](assets/eight.png)
 
@@ -68,20 +68,20 @@ Por padrão, o Marketo Sales Insight usa o campo Pontuação de lead para calcul
 
 **Configurações de Cancelamento de Inscrição:**
 
-Você pode escolher entre as seguintes configurações de cancelamento de inscrição para emails sem modelo, padrão e operacionais
+Você pode escolher entre as seguintes configurações de cancelamento de inscrição para [!UICONTROL Nenhum modelo], [!UICONTROL Emails padrão] e [!UICONTROL Emails operacionais]
 
-* Respeitar Configuração De Cancelamento De Inscrição
-* Respeitar as configurações de cancelamento de inscrição quando houver mais de 1 destinatário
-* Respeitar as configurações de cancelamento de inscrição quando houver mais de 5 destinatários
-* Ignorar configurações de cancelamento de inscrição
+* [!UICONTROL Respeitar Configuração de Cancelamento de Inscrição]
+* [!UICONTROL Respeitar Configurações de Cancelamento de Inscrição quando houver mais de 1 destinatário]
+* [!UICONTROL Respeitar Configurações de Cancelamento de Inscrição quando houver mais de 5 destinatários]
+* [!UICONTROL Ignorar Configurações de Cancelamento de Inscrição]
 
 **Habilitar a capacidade de bloquear modelos:**
 
-Quando ativados, os usuários MSI não poderão editar modelos ao enviar emails do Salesforce
+Quando habilitados, os usuários MSI não poderão editar modelos ao enviar emails de [!DNL Salesforce]
 
 **Habilitar RSS Feed:**
 
-Quando ativado, os usuários do MSI podem visualizar seu feed de lead em um feed RSS (além do feed de lead no Salesforce). O RSS feed só poderá funcionar se o recurso &quot;Expiração do token&quot; estiver desativado.
+Quando habilitado, os usuários do MSI podem exibir seu Feed de cliente em potencial em um feed RSS (além do Feed de cliente em potencial em [!DNL Salesforce]). O RSS feed só poderá funcionar se o recurso &quot;[!UICONTROL Expiração do Token]&quot; estiver desabilitado.
 
 **Expiração do token:**
 

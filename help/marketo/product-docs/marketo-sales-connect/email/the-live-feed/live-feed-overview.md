@@ -4,9 +4,9 @@ description: Visão geral do feed ao vivo - Documentação do Marketo - Document
 title: Visão geral do Live Feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Filtre hoje, amanhã, hoje *e* amanhã ou os próximos 7 dias.
 >
 >Não é possível usar o filtro de data personalizado no Feed ativo, mas você pode no aplicativo web.
 
-Use os botões de ação rápida para fazer uma chamada rapidamente, enviar um email ou navegar até o perfil do Linkedin de uma pessoa.
+Use os botões de ação rápida para fazer uma chamada, enviar um email ou navegar rapidamente para o perfil [!DNL Linkedin] de uma pessoa.
 
 ## Guia Destino {#target-tab}
 
@@ -58,7 +58,7 @@ Veja suas principais pessoas (ordenadas da mais alta para a mais baixa) classifi
 
 * Os clientes em potencial serão gerados quando a pontuação da pessoa aumentar no Marketo.
 * Mostramos as 50 melhores pistas.
-* Você só verá as pessoas que foram atribuídas a você no Salesforce.
+* Você só verá as pessoas que foram atribuídas a você no [!DNL Salesforce].
 
 ## Ícone do Glossário {#icon-glossary}
 

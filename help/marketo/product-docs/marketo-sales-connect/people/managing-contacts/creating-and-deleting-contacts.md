@@ -4,7 +4,7 @@ description: Criação e exclusão de contatos - Documentação do Marketo - Doc
 title: Criando e Deletando Contatos
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Criando Contatos {#creating-contacts}
 
-1. Na página Pessoas, clique no botão **Ações de Grupo** e selecione **Criar Contato**.
+1. Na página [!UICONTROL Pessoas], clique no botão **[!UICONTROL Ações de Grupo]** e selecione **[!UICONTROL Criar Contato]**.
 
    ![](assets/one-2.png)
 
-1. Insira o nome/sobrenome e o endereço de email, juntamente com qualquer outra informação que desejar. Clique em **Criar** quando terminar ou em **Criar e Adicionar Novo** para adicionar mais contatos.
+1. Insira o nome/sobrenome e o endereço de email, juntamente com qualquer outra informação que desejar. Clique em **[!UICONTROL Criar]** quando terminar ou em **[!UICONTROL Criar e Adicionar Novo]** para adicionar mais contatos.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Excluindo Contatos {#deleting-contacts}
 
-1. Na página Pessoas, marque a caixa do contato que deseja excluir.
+1. Na página [!UICONTROL Pessoas], marque a caixa do contato que você deseja excluir.
 
    ![](assets/three-2.png)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Para excluir vários contatos, basta selecionar várias pessoas. As etapas restantes seriam as mesmas.
 
-1. Clique nos dados (três pontos verticais) e selecione **Excluir**.
+1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Excluir]**.
 
    ![](assets/four-2.png)
 
-1. Clique em **Excluir Contato** para confirmar.
+1. Clique em **[!UICONTROL Excluir Contato]** para confirmar.
 
    ![](assets/five-2.png)

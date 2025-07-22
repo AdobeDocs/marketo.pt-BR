@@ -4,9 +4,9 @@ description: Head Start para Programas de email - Documentação do Marketo - Do
 title: Head Start para programas de email
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Quando você escolhe uma data/hora para um Programa de email, ela determina quan
 
 ## Head Start padrão {#standard-head-start}
 
-1. Clique em **Atividades de marketing**.
+1. Clique em **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one-1.png)
 
@@ -33,30 +33,30 @@ Quando você escolhe uma data/hora para um Programa de email, ela determina quan
    >
    >O Head Start não pode ser usado com o teste A/B.
 
-1. No bloco Agendar, agende o email e marque a caixa **Head Start**.
+1. No bloco [!UICONTROL Agendar], agende o email e marque a caixa **[!UICONTROL Início]**.
 
    ![](assets/three-1.png)
 
-   Com o Head Start selecionado, o programa iniciará o processamento aproximadamente 12 horas antes do horário programado. Quando o processamento for iniciado, o programa será bloqueado.
+   Com a opção [!UICONTROL Início principal] selecionada, o programa iniciará o processamento aproximadamente 12 horas antes do horário agendado. Quando o processamento for iniciado, o programa será bloqueado.
 
    >[!CAUTION]
    >
    >Qualquer pessoa do público-alvo que cancelar a assinatura após o bloqueio do programa ainda receberá o email. Recomendamos ajustar a notificação de cancelamento de inscrição para refletir que o cancelamento de inscrições pode levar de 1 a 2 dias úteis para ser processado.
 
-1. Clique em **Aprovar Programa**.
+1. Clique em **[!UICONTROL Aprovar Programa]**.
 
    ![](assets/four-1.png)
 
    Após a aprovação do programa, há quatro status diferentes que podem ser vistos no bloco Aprovação.
 
-   * **Aguardando execução:** Depois que o programa for aprovado.
-   * **Processamento iniciado, aguardando execução:** O processamento está em andamento.
-   * **Processamento concluído, aguardando execução:** Processamento concluído, email agora aguardando o horário agendado para ser iniciado.
-   * **Concluído:** Programa concluído.
+   * **[!UICONTROL Aguardando execução]:** Depois que o programa for aprovado.
+   * **[!UICONTROL Processamento iniciado, aguardando execução]:** O processamento está em andamento.
+   * **[!UICONTROL Processamento concluído, aguardando execução]:** Processamento concluído, email agora aguardando o horário agendado para ser iniciado.
+   * **[!UICONTROL Concluído]:** Programa concluído.
 
    >[!TIP]
    >
-   >Deseja cancelar após o bloqueio do programa, mas antes do envio do email? Sem problemas! Basta clicar em **Anular programa** no lado inferior direito do bloco Aprovação.
+   >Deseja cancelar após o bloqueio do programa, mas antes do envio do email? Sem problemas! Basta clicar em **[!UICONTROL Anular programa]** no lado inferior direito do bloco Aprovação.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Quando você escolhe uma data/hora para um Programa de email, ela determina quan
 
 ## Início com fuso horário do recipient {#head-start-with-recipient-time-zone}
 
-Nosso recurso Head Start existente exige que o programa seja agendado com pelo menos 12 horas de antecedência. O que isso significa para o Fuso horário do recipient? Lembre-se de que quando o Fuso horário do recipient está ativo, começamos a executar o programa de email à meia-noite no fuso horário mais antigo (UTC +14:00). Portanto, para habilitar **o Head Start e o Fuso Horário do Destinatário**, os programas precisam ser agendados **pelo menos 12 horas antes do fuso horário mais antigo (UTC +14:00**.)
+Nosso recurso Head Start existente exige que o programa seja agendado com pelo menos 12 horas de antecedência. O que isso significa para o Fuso horário do recipient? Lembre-se de que quando o Fuso Horário do Destinatário está ativo, começamos a executar o programa de email à meia-noite no fuso horário mais antigo (UTC +14:00). Portanto, para habilitar **o Head Start e o Fuso Horário do Destinatário**, os programas precisam ser agendados **pelo menos 12 horas antes do fuso horário mais antigo (UTC +14:00**.)
 
 Isso significa que, se você estiver na América/Los Angeles e quiser habilitar o Head Start e o Fuso horário do destinatário, será necessário agendar o programa com **34 horas** de antecedência. Como chegamos a esse número?
 

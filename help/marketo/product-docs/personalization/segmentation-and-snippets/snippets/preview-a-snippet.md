@@ -4,7 +4,7 @@ description: Visualizar um trecho - Documentação do Marketo - Documentação d
 title: Visualizar um trecho
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Os trechos são blocos de conteúdo dinâmico que mudam com base nas regras de segmentação.
 
-1. Vá para o **Design Studio**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-3.png)
 
-1. Clique no seu trecho e depois em **Visualizar trecho**.
+1. Clique no seu trecho e depois em **[!UICONTROL Visualizar trecho]**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

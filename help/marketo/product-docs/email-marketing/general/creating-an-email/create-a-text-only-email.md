@@ -4,7 +4,7 @@ description: Criar um email somente de texto - Documentação do Marketo - Docum
 title: Criar um email somente texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -13,33 +13,33 @@ ht-degree: 0%
 
 # Criar um email somente texto {#create-a-text-only-email}
 
-Se você quiser enviar somente emails de texto, veja como criar um email que será enviado sem nenhum conteúdo em HTML.
+Se você quiser enviar somente emails de texto, veja como criar um email que será enviado sem nenhum conteúdo do HTML.
 
 >[!NOTE]
 >
 >Como as aberturas são rastreadas pelo destinatário que está baixando as imagens do email (o que inclui um pixel de rastreamento invisível), as aberturas **não** podem ser rastreadas para emails Somente texto.
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one-1.png)
 
-1. Selecione seu programa, clique no menu suspenso **Novo** e selecione **Novo ativo local**.
+1. Selecione seu programa, clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo ativo local]**.
 
    ![](assets/two-1.png)
 
-1. Selecione **Email**.
+1. Selecione **[!UICONTROL Email]**.
 
    ![](assets/three-1.png)
 
-1. Insira um **Nome**, selecione um modelo e clique em **Criar**.
+1. Insira um **[!UICONTROL Nome]**, selecione um modelo e clique em **[!UICONTROL Criar]**.
 
    ![](assets/four-1.png)
 
-1. No editor de email, clique em **Configurações de email**.
+1. No editor de email, clique em **[!UICONTROL Configurações de email]**.
 
    ![](assets/five.png)
 
-1. Verifique **Somente texto** e clique em **Salvar**.
+1. Verifique **[!UICONTROL Somente texto]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/six.png)
 
@@ -51,7 +51,7 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
    >
    >Também é possível editar um email existente e alterar essa configuração. Não esqueça de aprovar o rascunho.
 
-1. Desmarque a caixa de seleção **Copiar automaticamente do HTML**.
+1. Desmarque a caixa de seleção **[!UICONTROL Copiar automaticamente do HTML]**.
 
    ![](assets/seven.png)
 
@@ -63,7 +63,7 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
 
    ![](assets/eight.png)
 
-1. Edite o texto e clique em **Salvar**.
+1. Edite o texto e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/nine.png)
 

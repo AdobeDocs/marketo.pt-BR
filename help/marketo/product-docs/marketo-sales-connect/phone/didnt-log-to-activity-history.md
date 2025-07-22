@@ -4,15 +4,15 @@ description: Não registrou no histórico de atividades - Documentação do Mark
 title: Não registrou no histórico de atividades
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # Não registrou no histórico de atividades {#didnt-log-to-activity-history}
 
-Se você não está vendo seu registro de chamadas no Salesforce, talvez seja porque não conseguimos localizar um cliente potencial/contato no Salesforce.
+Se você não está vendo o log de chamadas para [!DNL Salesforce], talvez não seja possível localizar um Cliente Potencial/Contato em [!DNL Salesforce].
 
-Para chamadas para registrar no cliente potencial/contato correto, o Sales Connect precisa ter a ID do Salesforce. A melhor maneira de adicionar a ID do Salesforce ao Sales Connect é usando nosso recurso [Enviar para o Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). Ao usar o Push to Sales Connect, incluímos a ID do Salesforce na migração de contatos.
+Para chamadas para registrar no Lead/Contato correto, [!DNL Sales Connect] precisa ter a Salesforce ID. A melhor maneira de adicionar a Salesforce ID ao [!DNL Sales Connect] é usando nosso recurso [Enviar para o Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). Ao usar a opção Enviar para [!DNL Sales Connect], incluímos a ID [!DNL Salesforce] na migração de contatos.

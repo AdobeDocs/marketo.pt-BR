@@ -4,59 +4,59 @@ description: Remarketing personalizado no Facebook - Documentação do Marketo -
 title: Remarketing personalizado no Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 8%
 
 ---
 
-# Remarketing personalizado no Facebook {#personalized-remarketing-in-facebook}
+# Remarketing personalizado em [!DNL Facebook] {#personalized-remarketing-in-facebook}
 
 O Remarketing personalizado permite que você se envolva novamente com seus usuários usando dados RTP e o poder do Remarketing do Facebook.
 
 >[!PREREQUISITES]
 >
 >* Concluir a configuração de [Redirecionamento com Dados do Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Revise a documentação do [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook sobre Públicos-alvo personalizados](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Remarketing.
+>* Revise a [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentação do Facebook sobre Públicos-alvo personalizados](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Remarketing.
 
-## Criação de um público-alvo no Facebook {#creating-an-audience-in-facebook}
+## Criando um Público-alvo em [!DNL Facebook] {#creating-an-audience-in-facebook}
 
-1. No Facebook, acesse sua [guia Público-alvo](https://www.facebook.com/ads/audience_manager) do Ads Manager.
+1. No [!DNL Facebook], vá para a [guia Público-alvo](https://www.facebook.com/ads/audience_manager) do Ads Manager.
 
-1. Clique em **Ferramentas** e selecione **Públicos**.
+1. Clique em **[!UICONTROL Ferramentas]** e selecione **[!UICONTROL Públicos]**.
 
    ![](assets/one-1.png)
 
-1. Clique em **Criar um público-alvo personalizado**.
+1. Clique em **[!UICONTROL Criar um público-alvo personalizado]**.
 
    ![](assets/two-1.png)
 
-1. Selecione **Tráfego de Site**.
+1. Selecione **[!UICONTROL Tráfego de Site]**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Na lista de tráfego do site, selecione **Combinação Personalizada**.
+1. Na lista [!UICONTROL Tráfego de site], selecione **[!UICONTROL Combinação Personalizada]**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. Na lista Incluir, selecione **Evento**.
+1. Na lista Incluir, selecione **[!UICONTROL Evento]**.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Na lista Evento, selecione **RTP Remarketing** e selecione um parâmetro.
+1. Na lista [!UICONTROL Evento], selecione **[!UICONTROL RTP Remarketing]** e escolha um parâmetro.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Neste exemplo, selecione o Setor para conter **Educação**. Insira **Educação** e edite **Nos Últimos** para ter 180 dias. Insira O Nome Do Público: **Setor De Educação**. Clique em **Criar Público**.
+1. Neste exemplo, selecione [!UICONTROL Setor] para conter **[!UICONTROL Educação]**. Insira **[!UICONTROL Educação]** e edite **[!UICONTROL Nos Últimos]** para ter 180 dias. Insira O Nome Do Público: **Setor De Educação**. Clique em **[!UICONTROL Criar Público]**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. Agora você criou um novo público-alvo personalizado usando dados RTP no Facebook.
+1. Agora você criou um novo público-alvo personalizado usando dados RTP em [!DNL Facebook].
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## Pontos de dados RTP no Facebook {#rtp-data-points-in-facebook}
+## Pontos de Dados RTP em [!DNL Facebook] {#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -84,7 +84,7 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
        </tr> 
        <tr> 
         <td colspan="1">Grupo</td> 
-        <td colspan="1"><p>Empresarial</p><p>SMB</p></td> 
+        <td colspan="1"><p>Enterprise</p><p>SMB</p></td> 
        </tr> 
        <tr> 
         <td>Setor</td> 
@@ -103,13 +103,13 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
 ## Direcione seu público com um anúncio {#target-your-audience-with-an-ad}
 
-Para obter detalhes adicionais, consulte [a documentação da Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
+Para obter detalhes adicionais, consulte [documentação do Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Vá para o Gerenciador de Anúncios, clique em **Criar Anúncio**.
+1. Vá para o Gerenciador de Anúncios, clique em **[!UICONTROL Criar Anúncio]**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Selecione **Enviar pessoas para o seu site** como objetivo da campanha.
+1. Selecione **[!UICONTROL Enviar pessoas para o seu site]** como objetivo da campanha.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -125,7 +125,7 @@ Para obter detalhes adicionais, consulte [a documentação da Facebook](https://
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. Agora você tem uma campanha de remarketing personalizada no Facebook.
+1. Agora você está pronto para uma campanha de remarketing personalizada no [!DNL Facebook].
 
 >[!MORELIKETHIS]
 >

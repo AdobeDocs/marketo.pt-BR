@@ -4,10 +4,10 @@ description: Adicionar instruções de dica de ferramenta a um campo de formulá
 title: Adicionar instruções de dica de ferramenta a um campo de formulário
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >Formulário **Instruções** são pequenas dicas de ferramenta que aparecem quando o visitante passa o mouse sobre o campo.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Selecione seu **formulário** e clique em **Editar Formulário**.
+1. Selecione seu **formulário** e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Selecione seu campo e insira **Instruções**.
+1. Selecione seu campo e insira **[!UICONTROL Instruções]**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

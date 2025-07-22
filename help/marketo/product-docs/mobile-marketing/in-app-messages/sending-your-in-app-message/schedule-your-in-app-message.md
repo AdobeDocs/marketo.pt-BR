@@ -4,7 +4,7 @@ description: Programar Mensagem No Aplicativo - Documentação Do Marketo - Docu
 title: Programar A Mensagem No Aplicativo
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Envie sua mensagem agora ou agende para depois.
 
-1. Para agendar uma mensagem no aplicativo, selecione **Definir data futura** e escolha uma data de início no calendário suspenso.
+1. Para agendar uma mensagem no aplicativo, selecione **[!UICONTROL Definir data futura]** e escolha uma data de início no calendário suspenso.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,7 +27,7 @@ Envie sua mensagem agora ou agende para depois.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Ou, para executar o programa agora, selecione **Executar imediatamente**. Os campos Data inicial desaparecem.
+1. Ou, para executar o programa agora, selecione **[!UICONTROL Executar imediatamente]**. Os campos Data inicial desaparecem.
 
    ![](assets/schedule-your-in-app-message-4.png)
 

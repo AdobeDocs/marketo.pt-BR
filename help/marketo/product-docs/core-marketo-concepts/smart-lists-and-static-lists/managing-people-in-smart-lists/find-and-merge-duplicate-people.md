@@ -4,9 +4,9 @@ description: Localizar e mesclar pessoas duplicadas - Documentação do Marketo 
 title: Localizar e Mesclar Pessoas Duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
 
 >[!NOTE]
 >
->A Marketo não eliminará a duplicação automaticamente em relação a uma sincronização do Salesforce ou do Microsoft Dynamics, ou quando você inserir pessoas manualmente.
+>A Marketo não irá desduplicar automaticamente em relação a uma sincronização do [!DNL Salesforce] ou do [!DNL Microsoft Dynamics], ou quando você inserir pessoas manualmente.
 
 ## Localizar duplicados {#find-duplicates}
 
@@ -35,7 +35,7 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
 
    >[!CAUTION]
    >
-   >A mesclagem de pessoas no Marketo pode não funcionar se você usar uma conta pessoal do Salesforce. Mescle os registros no Salesforce, se possível.
+   >A mesclagem de pessoas no Marketo pode não funcionar se você usar uma Conta de pessoa [!DNL Salesforce]. Mescle os registros em [!DNL Salesforce], se possível.
 
 1. Selecione a **[!UICONTROL Possíveis duplicatas]** da Smart List do Sistema e clique na guia **[!UICONTROL Pessoas]**.
 
@@ -75,14 +75,14 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
 
 Se você tiver a integração do Salesforce, há algumas observações sobre o efeito da mesclagem de clientes em potencial no Salesforce.
 
-* Ao mesclar somente clientes em potencial ou somente contatos, eles são mesclados de acordo com as regras normais do Salesforce.
-* Ao mesclar clientes em potencial e contatos, todos os clientes em potencial são convertidos em contatos antes da mesclagem de acordo com as regras normais do Salesforce.
+* Ao mesclar somente Clientes Potenciais ou somente Contatos, eles são mesclados de acordo com as [!DNL Salesforce] regras normais.
+* Ao mesclar Clientes Potenciais e Contatos, todos os Clientes Potenciais são convertidos em Contatos antes da mesclagem, de acordo com as [!DNL Salesforce] regras normais.
 
-Para obter detalhes específicos do comportamento do Salesforce ao mesclar clientes em potencial ou contatos, verifique os seguintes documentos do Salesforce:
+Para obter detalhes específicos do comportamento do Salesforce ao mesclar clientes em potencial ou contatos, verifique os seguintes documentos [!DNL Salesforce]:
 
-* [Mesclando Clientes Potenciais Duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [Mesclando Contatos Duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [Mesclando Clientes Potenciais Duplicados](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Mesclando Contatos Duplicados](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Mesclagem em Massa {#bulk-merging}
 
-Se você tiver muitas duplicatas para mesclar manualmente, entre em contato com a equipe de conta do Adobe (seu gerente de conta) para discutir suas opções.
+Se você tiver muitas duplicatas para mesclar manualmente, entre em contato com a Equipe de conta da Adobe (seu Gerente de conta) para discutir suas opções.

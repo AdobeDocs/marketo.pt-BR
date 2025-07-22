@@ -4,10 +4,10 @@ description: Aplicar mascaramento de entrada a um campo em um formulário - Docu
 title: Aplicar mascaramento de entrada a um campo em um formulário
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 É possível restringir a entrada do visitante usando uma máscara de entrada. Por exemplo, talvez você queira que os visitantes insiram números de telefone somente em um formato específico.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Selecione seu campo e verifique se o **Tipo de Campo** está definido como **Texto**.
+1. Selecione seu campo e verifique se o **[!UICONTROL Tipo de Campo]*** está definido como **[!UICONTROL Texto]**.
 
    >[!NOTE]
    >
-   >O mascaramento de entrada só funciona com **Tipos de Campos de Texto**.
+   >O mascaramento de entrada só funciona com **[!UICONTROL Tipos de Campos de Texto]**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Clique no link **Entrada de máscara**.
+1. Clique no link **[!UICONTROL Entrada de máscara]**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Insira sua máscara de entrada e clique em **Salvar**.
+1. Insira sua máscara de entrada e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ ht-degree: 0%
    >
    >Preste atenção às regras de mascaramento. Você pode restringir a entrada a números, letras e/ou até mesmo limitar o número de caracteres inseridos.
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

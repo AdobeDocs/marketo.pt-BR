@@ -3,7 +3,7 @@ description: Gerencie Seu Perfil - Documentação Do Marketo - Documentação Do
 title: Gerenciar seu perfil
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 4%
@@ -12,17 +12,17 @@ ht-degree: 4%
 
 # Gerenciar seu perfil {#manage-your-profile}
 
-Na página Meu perfil, você pode atualizar seu nome, o idioma/local/fuso horário de sua conta e também alterar sua senha.
+Na página [!UICONTROL Meu Perfil], você pode atualizar seu nome, o idioma/localidade/fuso horário de sua conta e também alterar sua senha.
 
 ## Detalhes da conta {#account-details}
 
 Aqui você pode atualizar seu nome e/ou senha.
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/manage-your-profile-1.png)
 
-1. A página Meu perfil é aberta por padrão. Para atualizar seu nome, basta digitar as alterações e clicar em **Salvar**.
+1. A página Meu perfil é aberta por padrão. Para atualizar seu nome, basta digitar as alterações e clicar em **[!UICONTROL Salvar]**.
 
    ![](assets/manage-your-profile-2.png)
 
@@ -34,7 +34,7 @@ Você também pode alterar sua senha nesta seção. As etapas são descritas nes
 
 ## Suas integrações {#your-integrations}
 
-No lado direito da página, a seção Suas integrações fornece o status de todas as conexões da conta.
+No lado direito da página, a seção [!UICONTROL Suas integrações] fornece o status de todas as conexões da sua conta.
 
 ![](assets/manage-your-profile-3.png)
 
@@ -50,23 +50,23 @@ Veja como alterar o idioma, a localidade e/ou o fuso horário de sua conta.
 >
 >Idiomas suportados: inglês, francês, alemão, japonês, português, espanhol.
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Para alterar o idioma, clique no menu suspenso **Idioma** e faça sua escolha.
+1. Para alterar o idioma, clique no menu suspenso **[!UICONTROL Idioma]** e faça sua escolha.
 
    ![](assets/manage-your-profile-5.png)
 
-1. Localidade aqui refere-se à região em que o idioma é falado. Clique no menu suspenso **Local** e faça sua escolha.
+1. Localidade aqui refere-se à região em que o idioma é falado. Clique no menu suspenso **[!UICONTROL Local]** e faça sua escolha.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Clique na lista suspensa **Seu fuso horário** e faça sua escolha.
+1. Clique na lista suspensa **[!UICONTROL Seu fuso horário]** e faça sua escolha.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Clique em **Salvar** quando terminar.
+1. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/manage-your-profile-8.png)
 

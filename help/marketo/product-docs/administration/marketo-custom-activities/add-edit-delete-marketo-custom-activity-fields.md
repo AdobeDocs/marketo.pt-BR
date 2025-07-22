@@ -4,10 +4,10 @@ description: Adicionar/Editar/Excluir Campos De Atividade Personalizados Do Mark
 title: Adicionar/Editar/Excluir campos de atividade personalizados do Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -73,7 +73,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   O pop-up Editar campo é exibido. Neste exemplo, vamos alterar o nome do campo.
+   O pop-up **[!UICONTROL Editar campo]** é exibido. Neste exemplo, vamos alterar o nome do campo.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
@@ -83,7 +83,7 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    >[!NOTE]
    >
-   >O Nome da API não será preenchido automaticamente ao editar um campo. Embora não seja obrigatório que o Nome do campo e o Nome da API correspondam, recomendamos que correspondam.
+   >O [!UICONTROL Nome da API] não será preenchido automaticamente ao editar um campo. Embora não seja necessário que o Campo [!UICONTROL Nome] e [!UICONTROL Nome da API] correspondam, recomendamos que correspondam.
 
    >[!CAUTION]
    >

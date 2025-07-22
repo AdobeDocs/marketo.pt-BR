@@ -4,7 +4,7 @@ description: Capturar as imagens de uma página da Web - Documentação do Marke
 title: Capturar as imagens de uma página da Web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Para adicionar imagens de uma página da Web, copie o endereço da Web (URL) da página que tem as imagens desejadas e, em seguida, siga estas etapas fáceis.
 
-1. Vá para o **Design Studio**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-2.png)
 
-1. Clique em **Novo** e **Capturar imagens da Web**.
+1. Clique em **[!UICONTROL Novo]** e **[!UICONTROL Capturar imagens da Web]**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Selecione a pasta **Imagens e Arquivos**, cole o endereço Web (URL) na caixa de texto URL e clique em **Avançar**.
+1. Selecione a pasta **[!UICONTROL Imagens e Arquivos]**, cole o endereço Web (URL) na caixa de texto URL e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Para adicionar imagens de uma página da Web, copie o endereço da Web (URL) da 
    >
    >Esse recurso não funciona com URLs que apontam diretamente para uma imagem. Use o URL da página da Web que contém as imagens.
 
-1. Selecione as imagens que deseja adicionar e clique em **Importar**.
+1. Selecione as imagens que deseja adicionar e clique em **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ Para adicionar imagens de uma página da Web, copie o endereço da Web (URL) da 
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. Você pode ver todas as suas imagens disponíveis em **Imagens e Arquivos**.
+1. Você pode ver todas as suas imagens disponíveis em **[!UICONTROL Imagens e Arquivos]**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 

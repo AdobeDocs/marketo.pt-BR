@@ -4,7 +4,7 @@ description: Tornar um email operacional - Documentação do Marketo - Documenta
 title: Tornar um email operacional
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Emails operacionais ignoram os status Cancelamento de assinatura e Marketing Sus
 >
 >Emails operacionais não contam para limites de comunicação. Por exemplo, se alguém puder receber apenas um email por semana e você já tiver enviado um email de marketing para ele, ainda será possível enviar um email operacional, se necessário.
 
-1. Encontre seu email, selecione-o e clique em **Editar Rascunho**.
+1. Encontre seu email, selecione-o e clique em **[!UICONTROL Editar Rascunho]**.
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ Emails operacionais ignoram os status Cancelamento de assinatura e Marketing Sus
 >
 >Você só deve usar Emails operacionais para emails críticos e respondedores automáticos. Eles não se destinam a emails de marketing.
 
-1. Assim que o editor for aberto, clique em **Configurações de email**.
+1. Assim que o editor for aberto, clique em **[!UICONTROL Configurações de email]**.
 
    ![](assets/two-1.png)
 
-1. Verifique o **Email Operacional** e clique em **Salvar**.
+1. Verifique o **[!UICONTROL Email Operacional]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/three.png)
 

@@ -4,7 +4,7 @@ description: Exportar o painel do programa de e-mail para o Excel - Documentaç�
 title: Exportar o painel do programa de email para o Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Depois de executar um programa de email e ter alguns dados no painel, você pode exportar esses dados brutos para o Excel para análise adicional. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

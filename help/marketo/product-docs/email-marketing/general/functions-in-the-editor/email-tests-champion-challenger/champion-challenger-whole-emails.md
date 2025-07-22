@@ -4,7 +4,7 @@ description: Champion/Challenger — E-mails completos — Documentação do Mar
 title: Champion/Challenger - e-mails inteiros
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Testar emails inteiros entre si. Quando o teste terminar, envie o executor super
 >
 >[Adicionar um Especialista/Desafiador de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. No editor de teste de email, selecione **Emails Completos** no menu suspenso **Tipo de Teste**.
+1. No editor de teste de email, selecione **[!UICONTROL Emails Completos]** no menu suspenso **[!UICONTROL Tipo de Teste]**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Testar emails inteiros entre si. Quando o teste terminar, envie o executor super
    >
    >Lembre-se: o email original é o campeão. Os adversários competem contra isso.
 
-1. Localize e selecione o(s) email(s) **Desafiadores** e clique em **Clonar**.
+1. Localize e selecione o(s) email(s) **[!UICONTROL Desafiadores]** e clique em **[!UICONTROL Clonar]**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 

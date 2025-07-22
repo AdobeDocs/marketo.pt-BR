@@ -4,7 +4,7 @@ description: Inscreva pessoas em seu evento a partir do seu tablet - Documentaç
 title: Incluir pessoas em seu evento a partir do tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Quando as pessoas aparecem no evento, você pode encontrar suas informações no
 
 >[!IMPORTANT]
 >
->Em 2 de outubro de 2023, o Adobe removeu o aplicativo Marketo Events de todas as lojas de aplicativos. Se você já tiver o aplicativo instalado no tablet/dispositivo móvel, poderá continuar usando-o por enquanto. Depois que a instância do Marketo Engage for migrada para a Identidade do Adobe para autenticação do Marketo, você não poderá mais acessar o aplicativo. [Saiba mais](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Em 2 de outubro de 2023, a Adobe removeu o aplicativo Marketo Events de todas as lojas de aplicativos. Se você já tiver o aplicativo instalado no tablet/dispositivo móvel, poderá continuar usando-o por enquanto. Depois que sua instância do Marketo Engage for migrada para a Adobe Identity para autenticação do Marketo, você não poderá mais acessar o aplicativo. [Saiba mais](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 O aplicativo funciona da mesma forma em [!DNL iPad] e [!DNL Android], exceto por pequenas diferenças de layout e design.
 
@@ -113,7 +113,7 @@ A nova pessoa é registrada como inscrita no evento e será adicionada ao banco 
 
 ## Reverter um check-in {#reverse-a-check-in}
 
-Se você fez check-in de uma pessoa por engano, _antes de sincronizar com o Marketo_, é possível reverter o status Participou.
+Se você tiver feito o check-in de uma pessoa por engano, _antes de sincronizar com o Marketo_, poderá reverter o status [!UICONTROL Participou].
 
 1. Toque no nome na lista e, no registro de pessoa, toque em **[!UICONTROL Desfazer]**.
 

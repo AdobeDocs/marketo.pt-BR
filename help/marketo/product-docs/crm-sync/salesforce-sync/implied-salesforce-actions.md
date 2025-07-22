@@ -4,7 +4,7 @@ description: Ações Implícitas Do Salesforce - Documentação Do Marketo - Doc
 title: Ações implícitas do Salesforce
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 21%
@@ -13,9 +13,9 @@ ht-degree: 21%
 
 # Ações implícitas do Salesforce {#implied-salesforce-actions}
 
-Quando uma etapa de fluxo específica do Salesforce é executada, às vezes etapas adicionais são executadas automaticamente. Estas são as regras, então você sabe:
+Quando uma etapa de fluxo específica do [!DNL Salesforce] é executada, às vezes etapas adicionais são executadas automaticamente. Estas são as regras, então você sabe:
 
-Estas regras serão aplicadas quando a pessoa não estiver atualmente no [Salesforce.com](https://Salesforce.com){target="_blank"} como um contato ou cliente potencial.
+Estas regras serão aplicadas quando a pessoa não estiver atualmente em [Salesforce.com](https://Salesforce.com){target="_blank"} como um contato ou cliente potencial.
 
 <table> 
  <thead> 
@@ -31,7 +31,7 @@ Estas regras serão aplicadas quando a pessoa não estiver atualmente no [Salesf
   </tr> 
   <tr> 
    <td>Alterar status de campanha da SFDC</td> 
-   <td>Sincronizar Pessoa ao SFDC<br>Adicionar à Campanha SFDC</td> 
+   <td>Sincronizar pessoa com o SFDC<br>Adicionar ao SFDC Campaign</td> 
   </tr> 
   <tr> 
    <td>Alterar proprietário</td> 
@@ -48,6 +48,6 @@ Estas regras serão aplicadas quando a pessoa não estiver atualmente no [Salesf
  </tbody> 
 </table>
 
-Você pode filtrar registros SFDC em uma Smart List usando o Filtro **[!UICONTROL Tipo SFDC]** com o operador definido como &quot;não está vazio&quot;. Todos os registros SFDC têm um valor nesse campo.
+Você pode filtrar os registros SFDC em uma Smart List usando o Filtro **[!UICONTROL Tipo SFDC]** com o operador definido como &quot;[!UICONTROL não está vazio]&quot;. Todos os registros do SFDC têm um valor nesse campo.
 
-Lembre-se, estas ações automáticas só acontecem se o cliente em potencial não estiver atualmente no [Salesforce.com](https://salesforce.com){target="_blank"}
+Lembre-se, estas ações automáticas só acontecem se o cliente em potencial não estiver atualmente em [Salesforce.com](https://salesforce.com){target="_blank"}

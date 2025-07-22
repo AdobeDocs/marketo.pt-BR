@@ -4,23 +4,23 @@ description: Ativar a descoberta de conteúdo — Documentação do Marketo — 
 title: Habilitar Descoberta de Conteúdo
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
 # Habilitar Descoberta de Conteúdo {#enable-content-discovery}
 
-O recurso Descoberta de conteúdo detecta e marca automaticamente o conteúdo já existente (incluindo estudos de caso, publicações de blog, vídeos, press releases etc.) em seu site e rastreia o número de visualizações desses materiais.  O conteúdo preditivo usa o conteúdo descoberto, empregando análises preditivas para determinar qual é o conteúdo com melhor desempenho e recomenda o melhor conteúdo para a pessoa certa.
+O recurso Content Discovery descobre e marca automaticamente seu conteúdo já existente (incluindo estudos de caso, publicações em blog, vídeos, press releases etc.) em seu site e rastreia o número de visualizações desses materiais.  O conteúdo preditivo usa o conteúdo descoberto, empregando análises preditivas para determinar qual é o conteúdo com melhor desempenho e recomenda o melhor conteúdo para a pessoa certa.
 
-1. Vá para **Configurações de Conteúdo**.
+1. Vá para **[!UICONTROL Configurações de Conteúdo]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Ativar **Descoberta de Conteúdo**.
+1. Ative a [!UICONTROL Descoberta de Conteúdo] para **[!UICONTROL Ativada]**.
 
    ![](assets/content-discovery-on-hand.png)
 
-Configurar a Descoberta de conteúdo como Ativada detectará automaticamente um conteúdo de PDF ou vídeo quando qualquer visitante da Web clicar no arquivo ou assistir ao vídeo. Esse conteúdo (URL, nome de conteúdo e URL da imagem) é adicionado e rastreado na página Todo o conteúdo. Quando um vídeo é descoberto automaticamente, descobrimos um vídeo quando um visitante da Web clica e assiste a um vídeo incorporado do YouTube, Vimeo ou Wistia. Para descobrir automaticamente outros conteúdos, você precisaria [criar padrões de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).
+A configuração de [!UICONTROL Descoberta de Conteúdo] como [!UICONTROL Ativada] descobrirá automaticamente um conteúdo de PDF ou vídeo quando qualquer visitante da Web clicar no arquivo ou assistir ao vídeo. Esse conteúdo (URL, nome de conteúdo e URL da imagem) é adicionado e rastreado na página Todo o conteúdo. Ao descobrir vídeos automaticamente, descobrimos um vídeo quando um visitante da web clica e assiste a um vídeo incorporado do YouTube, [!DNL Vimeo] ou [!DNL Wistia]. Para descobrir automaticamente outros conteúdos, você precisaria [criar padrões de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).

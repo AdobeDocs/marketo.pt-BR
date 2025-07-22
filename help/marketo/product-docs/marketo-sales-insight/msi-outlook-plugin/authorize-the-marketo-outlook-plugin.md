@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377640
-description: Autorizar o plug-in do Marketo Outlook - Documentação do Marketo - Documentação do produto
-title: Autorizar o plug-in do Marketo Outlook
+description: Autorizar o plug-in  [!DNL Outlook]  do Marketo - Documentação do Marketo - Documentação do produto
+title: Autorizar o Plug-in  [!DNL Outlook]  do Marketo
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# Autorizar o plug-in do Marketo Outlook {#authorize-the-marketo-outlook-plugin}
+# Autorizar o plug-in [!DNL Outlook] do Marketo {#authorize-the-marketo-outlook-plugin}
 
-Para usar o plug-in MSI do Marketo no Outlook, é necessário autorizá-lo.
+Para usar o plug-in MSI do Marketo em [!DNL Outlook], é necessário autorizá-lo.
 
 >[!PREREQUISITES]
 >
@@ -27,15 +27,15 @@ Para usar o plug-in MSI do Marketo no Outlook, é necessário autorizá-lo.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Quando a caixa de diálogo Autorizar plug-in do Marketo for exibida, clique em **Solicitar código**.
+1. Quando a caixa de diálogo [!UICONTROL Autorizar plug-in do Marketo] for exibida, clique em **[!UICONTROL Solicitar código]**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
-1. O código é enviado para o endereço de email padrão da sua conta do Outlook.
+1. O código é enviado para o seu endereço de email padrão da conta [!DNL Outlook].
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Se o email da sua conta padrão do Outlook for verificado, você receberá uma chave de registro. Insira-o na janela pop-up e clique em **Enviar**.
+1. Se o email da sua conta padrão [!DNL Outlook] for verificado, você receberá uma chave de registro. Insira-o na janela pop-up e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

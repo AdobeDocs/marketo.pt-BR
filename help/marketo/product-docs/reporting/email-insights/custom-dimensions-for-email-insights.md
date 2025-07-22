@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11375276
-description: Dimension personalizados para insights de email - Documentação do Marketo - Documentação do produto
-title: Dimension personalizados para insights de email
+description: Dimensões personalizadas para insights de email - Documentação do Marketo - Documentação do produto
+title: Dimensões personalizadas para insights de email
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# Dimension personalizados para insights de email {#custom-dimensions-for-email-insights}
+# Dimensões personalizadas para insights de email {#custom-dimensions-for-email-insights}
 
 Todas as dimensões padrão do Marketo estão incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. As dimensões personalizadas consistem em segmentações e tags de programa. Veja como adicioná-los.
 
@@ -23,15 +23,15 @@ Todas as dimensões padrão do Marketo estão incluídas, mas você tem a opçã
 >
 >As dimensões personalizadas **não podem** ser excluídas ou substituídas, portanto, escolha suas 10 com cuidado.
 
-1. Em Insights de email, clique no ícone de engrenagem no canto superior direito da página.
+1. Em [!UICONTROL Insights de email], clique no ícone de engrenagem no canto superior direito da página.
 
    ![](assets/cd1.png)
 
-1. Clique em **Sistema**.
+1. Clique em **[!UICONTROL Sistema]**.
 
    ![](assets/cd2.png)
 
-1. Clique no **+** ao lado de **Adicionar dimensão**.
+1. Clique no **+** ao lado de **[!UICONTROL Adicionar dimensão]**.
 
    ![](assets/cd3.png)
 
@@ -41,6 +41,6 @@ Todas as dimensões padrão do Marketo estão incluídas, mas você tem a opçã
 
    >[!NOTE]
    >
-   >**Por público-alvo**: exibe todas as segmentações aprovadas (de dentro do banco de dados)
+   >**[!UICONTROL Por público-alvo]**: exibe todas as segmentações aprovadas (de dentro do banco de dados)
    >
-   >**Por Conteúdo**: Exibe todas as Marcas do Programa
+   >**[!UICONTROL Por Conteúdo]**: Exibe todas as Marcas do Programa

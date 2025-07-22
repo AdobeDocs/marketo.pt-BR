@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
 # Sincronização de objeto personalizado {#custom-object-sync}
 
-Objetos personalizados criados em sua instância do Veeva CRM também podem fazer parte do Marketo Engage. Veja como configurar isso.
+Objetos personalizados criados em sua instância do CRM [!DNL Veeva] também podem fazer parte do Marketo Engage. Veja como configurar isso.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
 
 >[!PREREQUISITES]
 >
->Para usar um objeto personalizado, ele deve ser associado a um contato ou objeto de conta no Veeva CRM.
+>Para usar um objeto personalizado, ele deve estar associado a um contato ou objeto de conta no [!DNL Veeva] CRM.
 
 ## Habilitar objeto personalizado {#enable-custom-object}
 
@@ -40,7 +40,7 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
 
    >[!NOTE]
    >
-   >A sincronização inicial do esquema do objeto personalizado Veeva pode levar alguns minutos.
+   >A sincronização inicial do esquema do objeto personalizado [!DNL Veeva] pode levar alguns minutos.
 
 1. Arraste o objeto personalizado que você deseja sincronizar para a tela de desenho.
 
@@ -66,7 +66,7 @@ Objetos personalizados criados em sua instância do Veeva CRM também podem faze
 
    ![](assets/custom-object-sync-8.png)
 
-1. Para exibir todos os seus objetos personalizados Veeva, clique em **[!UICONTROL Admin]** e **[!UICONTROL Sincronização de Objetos Veeva]**.
+1. Para exibir todos os seus [!DNL Veeva] objetos personalizados, clique em **[!UICONTROL Admin]** e **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-9.png)
 

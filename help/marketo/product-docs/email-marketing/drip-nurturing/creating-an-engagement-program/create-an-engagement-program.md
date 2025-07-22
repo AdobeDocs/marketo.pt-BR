@@ -4,7 +4,7 @@ description: Criar um programa de engajamento - Documentação do Marketo - Docu
 title: Criar um programa de engajamento
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Você pode usar os programas de engajamento no Marketo para realizar a criação de emails com facilidade.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione a pasta na qual deseja criar o programa de envolvimento e clique em **Novo** e **Novo programa**.
+1. Selecione a pasta na qual deseja criar o programa de envolvimento e clique em **[!UICONTROL Novo]** e **[!UICONTROL Novo programa]**.
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Insira um **Nome**, selecione **Envolvimento** para **Tipo de Programa** e clique em **Criar**.
+1. Insira um **[!UICONTROL Nome]**, selecione **[!UICONTROL Envolvimento]** para **[!UICONTROL Tipo de Programa]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 

@@ -4,9 +4,9 @@ description: Baixe a solução de gerenciamento de clientes potenciais da Market
 title: Baixe a solução de gerenciamento líder da Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Permissões de administrador necessárias**
 
-Será necessário baixar e instalar uma Solução Marketo Engage na conta do Microsoft Dynamics para iniciar a sincronização.
+Será necessário baixar e instalar uma Solução da Marketo na conta [!DNL Microsoft Dynamics] para iniciar a sincronização.
 
 >[!CAUTION]
 >
@@ -43,7 +43,7 @@ Será necessário baixar e instalar uma Solução Marketo Engage na conta do Mic
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Selecione a solução apropriada para sua versão do Microsoft Dynamics.
+1. Selecione a solução apropriada para sua versão [!DNL Microsoft Dynamics].
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 

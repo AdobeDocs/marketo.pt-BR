@@ -3,7 +3,7 @@ description: Substituição de prioridade para campanhas do acionador - Document
 title: Substituição de prioridade para campanhas do acionador
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Substituição de prioridade para campanhas do acionador {#priority-override-for-trigger-campaigns}
 
-Os administradores podem substituir a prioridade determinada de Marketo Engage para que as Campanhas de acionador definam prioridades que se alinhem melhor aos objetivos de negócios.
+Os administradores podem substituir a prioridade determinada pela Marketo Engage para Campanhas de acionamento a fim de definir prioridades que se alinhem melhor aos objetivos de negócios.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Os administradores podem substituir a prioridade determinada de Marketo Engage p
 >
 >Somente administradores ou usuários com responsabilidades de administrador devem ter acesso de substituição de prioridade de campanha.
 
-1. Na área [!UICONTROL Administrador], clique em **[!UICONTROL Usuários e funções]**.
+1. Na área **[!UICONTROL Administrador]**, clique em **[!UICONTROL Usuários e funções]**.
 
    ![](assets/priority-override-for-trigger-campaigns-1.png)
 
@@ -36,7 +36,7 @@ Os administradores podem substituir a prioridade determinada de Marketo Engage p
 
    ![](assets/priority-override-for-trigger-campaigns-2.png)
 
-1. Em [!UICONTROL Acessar Atividades de Marketing], selecione **[!UICONTROL Editar Prioridade de Campanha do Gatilho]**. Clique em **[!UICONTROL Salvar]**.
+1. Em **[!UICONTROL Acessar Atividades de Marketing]**, selecione **[!UICONTROL Editar Prioridade de Campanha do Gatilho]**. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
@@ -50,7 +50,7 @@ Os administradores podem substituir a prioridade determinada de Marketo Engage p
 
    ![](assets/priority-override-for-trigger-campaigns-5.png)
 
-   O novo nível de prioridade será exibido na guia Schedule.
+   O novo nível de prioridade será exibido na guia **[!UICONTROL Agendamento]**.
 
    ![](assets/priority-override-for-trigger-campaigns-6.png)
 

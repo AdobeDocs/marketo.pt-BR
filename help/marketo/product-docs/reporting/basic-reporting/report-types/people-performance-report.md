@@ -4,34 +4,34 @@ description: Relatório de desempenho de pessoas - Documentação do Marketo - D
 title: Relatório de Desempenho de Pessoas
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Relatório de Desempenho de Pessoas {#people-performance-report}
 
-Use um Relatório de desempenho de pessoas para medir o crescimento do banco de dados ao longo do tempo. Você pode ver quantas pessoas adicionou e quando. Saiba mais sobre as pessoas e avalie seus programas. Agrupe os resultados por qualquer atributo de pessoa ou empresa, ou por [segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+Use um Relatório de [!UICONTROL Desempenho de Pessoas] para medir o crescimento do banco de dados ao longo do tempo. Você pode ver quantas pessoas adicionou e quando. Saiba mais sobre as pessoas e avalie seus programas. Agrupe os resultados por qualquer atributo de pessoa ou empresa, ou por [segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **Tipo de relatório de Desempenho de Pessoas** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Pessoas]** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **Relatório**.
+1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **[!UICONTROL Relatório]**.
 
-1. Ótimo! Agora você está pronto para explorar seu relatório de Desempenho de pessoas. Saiba como obter ainda mais dele na lista abaixo.
+1. Ótimo! Agora você está pronto para explorar seu relatório de [!UICONTROL Desempenho de Pessoas]. Saiba como obter ainda mais dele na lista abaixo.
 
    >[!NOTE]
    >
-   >Por padrão, os relatórios de Desempenho de Pessoas são agrupados por *Criado às* meses.
+   >Por padrão, os relatórios de [!UICONTROL Desempenho das pessoas] são agrupados por *[!UICONTROL Criado às]* meses.
 
    ![](assets/one.png)
 
 ## O poder dos relatórios de desempenho de pessoas {#the-power-of-people-performance-reports}
 
-Os relatórios de desempenho de pessoas são muito eficientes. Ao agrupá-los, filtrá-los e configurá-los ainda mais, você pode aprender muito sobre as pessoas no seu banco de dados e sobre a eficácia dos seus programas.
+Os relatórios de [!UICONTROL Desempenho da pessoa] são muito eficientes. Além disso, agrupando, filtrando e configurando-os, você pode aprender muito sobre as pessoas no seu [!UICONTROL Banco de Dados] e sobre a eficácia dos seus programas.
 
-Você pode:
+É possível:
 
 * [Agrupar clientes potenciais por cliente potencial ou atributo de empresa](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 * [Agrupar clientes em potencial por segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).

@@ -4,16 +4,16 @@ description: Opções De Envio Em Massa - Documentação Do Marketo - Documenta�
 title: Opções de envio em massa
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # Opções de envio em massa {#bulk-sending-options}
 
-O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cliente potencial. O Sales Connect oferece duas maneiras de enviar emails em massa: **Emails de grupo** e **Selecionar e enviar**. Emails de grupo são uma ótima maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Select e Send significa limites de email mais baixos, mas oferece mais oportunidades de personalização para o usuário.
+O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cliente potencial. O [!DNL Sales Connect] oferece duas maneiras de enviar emails em massa: **Emails de Grupo** e **Selecionar e Enviar**. Emails de grupo são uma ótima maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Select e Send significa limites de email mais baixos, mas oferece mais oportunidades de personalização para o usuário.
 
 **Agrupar email vs. Selecionar e enviar**
 

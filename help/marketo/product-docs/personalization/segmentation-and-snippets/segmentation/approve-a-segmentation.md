@@ -4,7 +4,7 @@ description: Aprovar uma segmentação - Documentação do Marketo - Documentaç
 title: Aprovar uma segmentação
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -24,30 +24,30 @@ Uma segmentação precisa ser aprovada antes de ser usada.
 >
 >Um máximo de 20 segmentações podem ser aprovadas de cada vez.
 
-1. Vá para o **Banco de Dados**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Na segmentação, clique em **Ações de segmentação** e depois em **Aprovar**.
+1. Na segmentação, clique em **[!UICONTROL Ações de segmentação]** e depois em **[!UICONTROL Aprovar]**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >O Status muda para Aprovação com uma roda giratória ( ![](assets/image2014-9-15-15-3a31-3a43.png)) enquanto a aprovação está em processo.
+   >O Status muda para [!UICONTROL Aprovando] com uma roda giratória ( ![](assets/image2014-9-15-15-3a31-3a43.png)) enquanto a aprovação está em processo.
 
    >[!CAUTION]
    >
    >A aprovação pode levar de alguns minutos a mais de um dia para ser concluída, dependendo do tamanho do banco de dados.
 
-   Depois de aprovado, o Status muda de Aprovação para Aprovado.
+   Depois de aprovado, o [!UICONTROL Status] muda de [!UICONTROL Aprovando] para [!UICONTROL Aprovado].
    ![](assets/image2017-3-28-14-3a46-3a44.png)
 
    >[!TIP]
    >
    >O número de pessoas em cada segmento é mostrado entre parênteses ao lado do nome do segmento.
 
-1. A guia **Pessoas** no **Segmento** agora mostra a lista final de pessoas para o segmento.
+1. A guia **[!UICONTROL Pessoas]** no **[!UICONTROL Segmento]** agora mostra a lista final de pessoas para o segmento.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 

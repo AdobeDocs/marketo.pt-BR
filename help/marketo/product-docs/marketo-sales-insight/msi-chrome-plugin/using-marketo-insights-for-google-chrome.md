@@ -4,20 +4,20 @@ description: Uso do Marketo Insights para Google Chrome - Documentação do Mark
 title: Uso do Marketo Insights para Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-# Uso do Marketo Insights para Google Chrome {#using-marketo-insights-for-google-chrome}
+# Usando o Marketo Insights para [!DNL Google Chrome] {#using-marketo-insights-for-google-chrome}
 
-Envie e rastreie qualquer email do Google com o Marketo Insights para Google Chrome.
+Envie e acompanhe qualquer email do Google com o Marketo Insights para [!DNL Google Chrome].
 
 >[!PREREQUISITES]
 >
->[Instalar o Marketo Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[Instalar o Marketo Insights para [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 >[!NOTE]
 >
@@ -41,23 +41,23 @@ Envie e rastreie qualquer email do Google com o Marketo Insights para Google Chr
    >
    >Como opção, clique na seta dupla para expandir para uma exibição em tela cheia.
 
-1. Para preencher previamente o seu email com um modelo do Marketo publicado, clique em **Mais Opções** e selecione **Carregar Modelo do Marketo**.
+1. Para preencher previamente o seu email com um modelo do Marketo publicado, clique em **Mais Opções** e selecione **[!UICONTROL Carregar Modelo do Marketo]**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Selecione um **Modelo disponível** e clique em **Ok**.
+1. Selecione um **[!UICONTROL Modelo disponível]** e clique em **[!UICONTROL Ok]**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. Digite seu conteúdo, um endereço de email e clique em **Enviar**.
+1. Digite seu conteúdo, um endereço de email e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >As mensagens são rastreadas somente quando o botão **Enviar** é roxo.
+   >As mensagens são rastreadas somente quando o botão **[!UICONTROL Enviar]** é roxo.
 
-1. O email logo aparecerá no Marketo Sales Insight e todas as aberturas e cliques serão rastreados.
+1. O email logo aparecerá no Marketo Sales Insight e quaisquer aberturas e cliques serão rastreados.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
@@ -65,15 +65,15 @@ Envie e rastreie qualquer email do Google com o Marketo Insights para Google Chr
 
 Você pode registrar respostas e atividades antigas no histórico de atividades de um lead.
 
-1. No painel de visualização do Google Mail, clique em **Fazer logon com o Marketo**.
+1. No painel de visualização do Google Mail, clique em **[!UICONTROL Fazer logon com o Marketo]**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. Isso é tudo! O email aparecerá em breve no Marketo Sales Insight.
+1. Isso é tudo! O email aparecerá em breve em [!DNL Marketo Sales Insight].
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Instalar o Marketo Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Instalar o Marketo Insights para [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
    >* [Exibir informações e atividades de pessoas e contas no Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

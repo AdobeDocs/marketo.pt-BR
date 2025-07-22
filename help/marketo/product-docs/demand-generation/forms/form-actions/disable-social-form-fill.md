@@ -4,10 +4,10 @@ description: Desativar preenchimento de formulário social - Documentação do M
 title: Desativar preenchimento de formulário social
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >Nem todos os clientes compraram essa funcionalidade.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Em Configurações do formulário, clique em **Configurações**.
+1. Em [!UICONTROL Configurações de formulário], clique em **[!UICONTROL Configurações]**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

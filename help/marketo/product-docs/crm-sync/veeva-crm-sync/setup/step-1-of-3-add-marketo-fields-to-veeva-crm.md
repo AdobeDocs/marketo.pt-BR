@@ -1,36 +1,36 @@
 ---
-description: Etapa 1 de 3 - Adicionar campos do Marketo ao Veeva CRM - Documentação do Marketo - Documentação do produto
-title: Etapa 1 de 3 - Adicionar campos do Marketo ao Veeva CRM
+description: Etapa 1 de 3 - Adicionar campos do Marketo ao [!DNL Veeva] CRM - Documentação do Marketo - Documentação do produto
+title: Etapa 1 de 3 - Adicionar campos do Marketo ao [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '527'
-ht-degree: 7%
+source-wordcount: '512'
+ht-degree: 8%
 
 ---
 
-# Etapa 1 de 3: Adicionar campos do Marketo ao Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Etapa 1 de 3: Adicionar Campos Marketo ao CRM [!DNL Veeva] {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->Sua instância do Veeva CRM deve ter acesso às APIs do Salesforce para sincronizar dados entre o Marketo Engage e o Veeva CRM.
+>Sua instância do CRM [!DNL Veeva] deve ter acesso às APIs do Salesforce para sincronizar dados entre o Marketo Engage e o CRM [!DNL Veeva].
 
-O Marketo Engage usa um conjunto de campos para capturar determinados tipos de informações relacionadas a marketing. Se você quiser esses dados em Veeva CRM, por favor, siga as instruções abaixo.
+O Marketo Engage usa um conjunto de campos para capturar determinados tipos de informações relacionadas a marketing. Se desejar esses dados no [!DNL Veeva] CRM, siga as instruções abaixo.
 
-`1.` Crie um campo personalizado no Veeva CRM nos objetos de contato: Pontuação
+`1.` Crie um campo personalizado no CRM [!DNL Veeva] nos objetos de contato: Pontuação
 
 `2.` Você pode criar campos adicionais, se desejar (consulte a tabela abaixo).
 
-Todos esses campos personalizados são opcionais e não são necessários para sincronizar Marketo Engage e Veeva CRM.
+Todos esses campos personalizados são opcionais e não são necessários para sincronizar o Marketo Engage e o [!DNL Veeva] CRM.
 
-## Adicionar campos do Marketo ao Veeva CRM {#add-marketo-fields-to-veeva-crm}
+## Adicionar Campos do Marketo ao CRM [!DNL Veeva] {#add-marketo-fields-to-veeva-crm}
 
-Adicione um campo personalizado ao cliente potencial e aos objetos de contato no Veeva CRM listados acima. Se quiser adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
+Adicione um campo personalizado ao cliente potencial e aos objetos de contato no [!DNL Veeva] CRM listados acima. Se quiser adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
 
 Execute as seguintes etapas para que o campo Score o adicione.
 
-1. Faça logon no Veeva CRM e clique em **[!UICONTROL Instalação]**.
+1. Faça logon no [!DNL Veeva] CRM e clique em **[!UICONTROL Instalação]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
@@ -80,7 +80,7 @@ Casas decimais 0</td>
 
 >[!NOTE]
 >
->O Veeva CRM anexa __c a Nomes de campos quando os usa para criar Nomes de API.
+>O CRM [!DNL Veeva] anexa __c a Nomes de campos quando os usa para criar Nomes de API.
 
 ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
@@ -94,12 +94,12 @@ Casas decimais 0</td>
 
 1. Especifique as configurações de acesso e clique em **[!UICONTROL Avançar]**.
 
-1. Defina todas as funções como Visível e Somente leitura.
+1. Defina todas as funções como **[!UICONTROL Visível]** e **[!UICONTROL Somente Leitura]**.
 
-1. Desmarque a caixa de seleção Somente leitura para o perfil do seu usuário de sincronização:
+1. Desmarque a caixa de seleção **[!UICONTROL Somente Leitura]** para o perfil do seu usuário de sincronização:
 
-* Se você tiver um usuário com o perfil de Administrador do sistema como o usuário de sincronização, desmarque a caixa de seleção Somente leitura do perfil de Administrador do sistema (como mostrado abaixo).
-* Se você criou um perfil personalizado para o usuário de sincronização, desmarque a caixa de seleção Somente leitura desse perfil personalizado.
+* Se você tiver um usuário com o perfil de Administrador do Sistema como o usuário de sincronização, desmarque a caixa de seleção [!UICONTROL Somente Leitura] do perfil de Administrador do Sistema (como mostrado abaixo).
+* Se você criou um perfil personalizado para o usuário de sincronização, desmarque a caixa de seleção [!UICONTROL Somente Leitura] para esse perfil personalizado.
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
@@ -172,4 +172,4 @@ OPCIONAL: Use o procedimento acima para qualquer campo personalizado adicional d
 
 >[!NOTE]
 >
->Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis no Veeva CRM quando o novo campo for criado. O Marketo sincronizará os dados com o Veeva CRM na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos sincronizados entre o Marketo e o Veeva CRM).
+>Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis no CRM [!DNL Veeva] quando o novo campo for criado. O Marketo sincronizará os dados com o CRM do [!DNL Veeva] na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos sincronizados entre o Marketo e o CRM do [!DNL Veeva]).

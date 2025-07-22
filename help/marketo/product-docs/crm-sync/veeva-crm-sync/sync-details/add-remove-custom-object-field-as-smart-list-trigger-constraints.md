@@ -3,16 +3,16 @@ description: Adicionar/remover campo de objeto personalizado como lista intelige
 title: Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
 # Adicionar/Remover Campo de Objeto Personalizado como Smart List/Restrições do Acionador {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage fornece controle específico sobre a sincronização de objetos personalizados Veeva. Isso permite selecionar os campos disponíveis como restrições em filtros de objeto personalizados e usá-los como acionadores em Campanhas inteligentes.
+O Marketo Engage fornece controle específico sobre a sincronização de objetos personalizados [!DNL Veeva]. Isso permite selecionar os campos disponíveis como restrições em filtros de objeto personalizados e usá-los como acionadores em Campanhas inteligentes.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Marketo Engage fornece controle específico sobre a sincronização de objetos p
 
    >[!TIP]
    >
-   >Se o botão Editar campos visíveis estiver acinzentado, o objeto está atualmente em uso em uma Smart List ou Campanha inteligente. Remova todas as associações para continuar.
+   >Se o botão [!UICONTROL Editar Campos Visíveis] estiver esmaecido, o objeto está sendo usado atualmente em uma lista inteligente ou campanha inteligente. Remova todas as associações para continuar.
 
 1. Se sua sincronização global estiver habilitada, clique em **[!UICONTROL Desabilitar Sincronização Global]**.
 

@@ -4,20 +4,20 @@ description: Saiba como configurar o Marketo Sales Insight nas edições Salesfo
 title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 3cbefabe80778b0502eaecd733b5732fd9003316
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '867'
 ht-degree: 4%
 
 ---
 
-# Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
+# Configurar o [!DNL Marketo Sales Insight] no [!DNL Salesforce] Enterprise/Unlimited {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
-Configure o Marketo Sales Insight nas edições Salesforce Enterprise/Unlimited ao concluir as etapas a seguir.
+Configure o Marketo Sales Insight no Salesforce Enterprise/Unlimited editions seguindo as etapas abaixo.
 
 >[!PREREQUISITES]
 >
->[Instalar o pacote Marketo Sales Insight no Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>[Instalar [!DNL Marketo Sales Insight] Pacote no [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Configure o Marketo Sales Insight nas edições Salesforce Enterprise/Unlimited 
 
 ## Configurar o Sales Insight no Marketo Engage {#configure-sales-insight-in-marketo}
 
-1. Para obter suas credenciais do Marketo Sales Insight no Marketo Engage, vá para a área **[!UICONTROL Admin]** e selecione **[!UICONTROL Sales Insight]**.
+1. Para obter suas credenciais do Marketo Sales Insight no Marketo Engage, vá para a área **[!UICONTROL Administrador]** e selecione **[!UICONTROL Sales Insight]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -53,9 +53,9 @@ Configure o Marketo Sales Insight nas edições Salesforce Enterprise/Unlimited 
    >
    >Mantenha essa janela aberta. Essas informações serão necessárias posteriormente para a configuração do Salesforce.
 
-## Configurar o Sales Insight no Salesforce {#configure-sales-insight-in-salesforce}
+## Configurar [!DNL Sales Insight] em [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
-1. No Salesforce, clique em **[!UICONTROL Configurar]**.
+1. No Salesforce, clique em **[!UICONTROL Instalação]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6.png)
 
@@ -67,7 +67,7 @@ Configure o Marketo Sales Insight nas edições Salesforce Enterprise/Unlimited 
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Insira o Nome do Site Remoto (pode ser algo semelhante a `MarketoSoapAPI`). Digite o URL do Site Remoto, que é o URL do Host do Marketo no painel _[!UICONTROL Configuração da API Soap]_ no Marketo Engage. Clique em **[!UICONTROL Salvar]**. Agora você criou configurações de site remoto para a API Soap.
+1. Insira o Nome do Site Remoto (pode ser algo semelhante a `MarketoSoapAPI`). Insira a URL do Site Remoto, que é a sua URL do Marketo Host no painel _[!UICONTROL Configuração da API Soap]_ no Marketo Engage. Clique em **[!UICONTROL Salvar]**. Agora você criou configurações de site remoto para a API Soap.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -81,9 +81,9 @@ Configure o Marketo Sales Insight nas edições Salesforce Enterprise/Unlimited 
    >
    >_Você_ escolhe seu **[!UICONTROL Nome do Site Remoto]** (`MarketoAPI` é usado aqui). A **[!UICONTROL URL do Site Remoto]** pode ser encontrada no campo Host do Marketo da caixa de diálogo Editar Configuração da API da Etapa 3 na seção &quot;Configurar Sales Insight no Marketo&quot;.
 
-## Conceder aos usuários do Sales Insight acesso a objetos padrão do Salesforce {#grant-sales-insight-users-profile-access}
+## Conceder acesso ao perfil de usuários do Sales Insight a objetos padrão do Salesforce {#grant-sales-insight-users-profile-access}
 
-Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchanges não podem mais conceder permissão a objetos padrão, e o acesso deve ser concedido aos objetos relevantes do Salesforce a partir do perfil do usuário do Salesforce. Para conceder as permissões necessárias, siga estas etapas.
+Devido aos aprimoramentos de segurança do Salesforce, os pacotes do AppExchange não podem mais conceder permissão a objetos padrão e o acesso deve ser concedido aos objetos relevantes do Salesforce no perfil do usuário do Salesforce. Para conceder as permissões necessárias, siga estas etapas.
 
 1. Clique em **[!UICONTROL Instalação]**.
 
@@ -109,7 +109,7 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchange
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Insira &quot;Marketo Sales Insight&quot; como o **[!UICONTROL Nome da seção]**, selecione **[!UICONTROL 1-Coluna]** e clique em **[!UICONTROL OK]**.
+1. Insira &quot;Marketo Sales Insight&quot; como o **[!UICONTROL Nome da Seção]**, selecione **[!UICONTROL 1-Coluna]** e clique em **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
@@ -137,7 +137,7 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchange
    >
    >A altura recomendada para os objetos Contas e Oportunidades é de 410 pixels.
 
-1. Clique em **[!UICONTROL Campos]** à esquerda. Em seguida, pesquise e arraste o rótulo **[!UICONTROL Urgência]** para o layout **[!UICONTROL Marketo Sales Insight]**.
+1. Clique em **[!UICONTROL Campos]** à esquerda. Em seguida, pesquise e arraste o rótulo **[!UICONTROL Urgency]** para o layout **[!UICONTROL Marketo Sales Insight]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
@@ -161,7 +161,7 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes de AppExchange
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Repita as etapas de 5 a 7 para adicionar seções de página e campos de Insight de vendas do Visualforce para **[!UICONTROL Contato]**, **[!UICONTROL Conta]** e **[!UICONTROL Oportunidade]**.
+1. Repita as etapas de 5 a 7 para adicionar seções de página do Visualforce e campos do Sales Insight para **[!UICONTROL Contato]**, **[!UICONTROL Conta]** e **[!UICONTROL Oportunidade]**.
 
 1. Repita as etapas 8 a 10 para adicionar esses campos do Sales Insight para **[!UICONTROL Contato]**. Certifique-se de salvar as alterações.
 
@@ -205,7 +205,7 @@ Os campos de pessoa do Marketo devem ser mapeados para campos de contato do Sale
 
 1. Repita e mapeie esses campos também.
 
-   | Campo personalizado da pessoa do Marketo | Campo personalizado do contato do Salesforce |
+   | Campo personalizado da pessoa do Marketo | Campo personalizado do contato da Salesforce |
    |--- |--- |
    | `Engagement` | `Contact.Engagement` |
    | `Relative Score Value` | `Contact.Relative Score Value` |
@@ -221,13 +221,13 @@ Os campos de pessoa do Marketo devem ser mapeados para campos de contato do Sale
 
 1. No Salesforce, clique em **+** no final da barra de guias e clique em **[!UICONTROL Configuração do Marketo Sales Insight]**.
 
-1. Copie as credenciais do painel API Soap na [página Admin. do Sales Insight do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} e cole-as na seção API Soap da página Configuração do Salesforce Sales Insight.
+1. Copie as credenciais do painel API Soap na [página Admin de Insight de Vendas da Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} e cole-as na seção API Soap da página Configuração [!DNL Salesforce] [!DNL Sales Insight].
 
-1. Copie as credenciais do painel API Rest na [página Admin. do Sales Insight do Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} e cole-as na seção API Rest da página Configuração do Salesforce Sales Insight.
+1. Copie as credenciais do painel API Rest na [página Admin do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} da Marketo e cole-as na seção API Rest da página Configuração [!DNL Salesforce] [!DNL Sales Insight].
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
-Você poderá ver os campos Marketo Sales Insight para clientes potenciais, contatos, contas e oportunidades.
+Você poderá ver os campos do Marketo Sales Insight para clientes potenciais, contatos, contas e oportunidades.
 
 >[!NOTE]
 >
@@ -240,5 +240,5 @@ Você poderá ver os campos Marketo Sales Insight para clientes potenciais, cont
 >[!MORELIKETHIS]
 >
 >* [Prioridade, Urgência, Pontuação Relativa e Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Adicionar a guia Marketo ao Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
->* [Adicionar Acesso ao Sales Insight aos Perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>* [Adicionar a guia Marketo a [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [Adicionar Acesso do Sales Insight aos Perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

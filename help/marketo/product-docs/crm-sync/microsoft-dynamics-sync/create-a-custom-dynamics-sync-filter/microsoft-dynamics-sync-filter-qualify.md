@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10092977
-description: Filtro de sincronização do Microsoft Dynamics - Qualificar - Documentação do Marketo - Documentação do produto
-title: Filtro de sincronização do Microsoft Dynamics - Qualificar
+description: Filtro de sincronização Microsoft Dynamics - Qualificar - Documentação do Marketo - Documentação do produto
+title: Filtro de sincronização Microsoft Dynamics - Qualificar
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 6%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
-# Filtro de Sincronização do Microsoft Dynamics: Qualificar {#microsoft-dynamics-sync-filter-qualify}
+# Filtro de Sincronização [!DNL Microsoft Dynamics]: Qualificar {#microsoft-dynamics-sync-filter-qualify}
 
-Quando quiser converter um cliente potencial em um contato no Microsoft Dynamics, certifique-se de usar esse processo de qualificação padrão. Em seguida, sincronize-o com o Marketo Engage.
+Quando quiser converter um cliente potencial em um contato em [!DNL Microsoft Dynamics], certifique-se de usar esse processo de Qualificação padrão. Em seguida, sincronize-o com o Marketo.
 
 ## O processo de conversão {#the-conversion-process}
 
@@ -21,10 +21,10 @@ Veja como os filtros funcionam durante o processo de conversão.
 
 | Se o filtro de sincronização de leads for: | e o filtro de sincronização de contatos é: | Este é o resultado no Marketo |
 |---|---|---|
-| Falso | Falso | Nada é sincronizado no Marketo |
-| Verdadeiro | Verdadeiro | O contato é sincronizado no Marketo |
-| Falso | Verdadeiro | O novo registro de contato é criado no Marketo |
-| Verdadeiro | Falso | O MS Dynamics atualiza as informações dos clientes potenciais no Marketo, mas o registro de contato não está sincronizado |
+| [!UICONTROL Falso] | [!UICONTROL Falso] | Nada é sincronizado no Marketo |
+| [!UICONTROL Verdadeiro] | [!UICONTROL Verdadeiro] | O contato é sincronizado no Marketo |
+| [!UICONTROL Falso] | [!UICONTROL Verdadeiro] | O novo registro de contato é criado no Marketo |
+| [!UICONTROL Verdadeiro] | [!UICONTROL Falso] | [!DNL MS Dynamics] atualiza as informações do cliente potencial no Marketo, mas o registro do contato não está sincronizado |
 
 >[!CAUTION]
 >

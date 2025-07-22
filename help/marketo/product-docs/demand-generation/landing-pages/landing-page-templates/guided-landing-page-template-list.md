@@ -4,7 +4,7 @@ description: Lista de modelos da página de aterrissagem guiada - Documentação
 title: Lista de modelos de página de aterrissagem guiada
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Para importar um template para o Marketo:
 
 1. Clique no nome do modelo para ampliá-lo.
 1. Baixe o modelo escolhido.
-1. No Marketo, navegue até o **Design Studio.**
-1. Clique em **Páginas de Aterrissagem** na árvore do lado esquerdo e selecione **Modelos.**
+1. No Marketo, navegue até o **[!UICONTROL Design Studio].**
+1. Clique em **[!UICONTROL Páginas de Aterrissagem]** na árvore do lado esquerdo e selecione **[!UICONTROL Modelos].**
 
-1. Na barra de menus, clique em **Importar Modelo.**
-1. Escolha o arquivo baixado, insira um nome de modelo e clique em **Importar** (certifique-se de escolher um nome descritivo e indicar que o modo de edição é **Guiado**).
+1. Na barra de menus, clique em **[!UICONTROL Importar Modelo].**
+1. Escolha o arquivo baixado, insira um nome de modelo e clique em **[!UICONTROL Importar]** (certifique-se de escolher um nome descritivo e indicar que o modo de edição é **[!UICONTROL Guiado]**).
 
 <table>
 <tr>

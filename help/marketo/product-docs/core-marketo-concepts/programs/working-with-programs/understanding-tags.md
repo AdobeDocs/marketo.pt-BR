@@ -4,7 +4,7 @@ description: Noções básicas das tags - Documentação do Marketo - Documenta�
 title: Noções básicas sobre tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 3%
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Noções básicas sobre tags {#understanding-tags}
 
-Você provavelmente já sabe que os programas são como blocos de construção no Marketo Engage. O uso de tags e canais ajudará você a filtrar dados para fins de relatório.
+Agora você provavelmente já sabe que os programas são como blocos de construção no Marketo Engage. O uso de tags e canais ajudará você a filtrar dados para fins de relatório.
 
 As tags são usadas para descrever programas. Você pode criar quantos forem necessários, cada um com valores únicos. Os canais identificam o mecanismo de entrega em um programa, como webinário, patrocínio ou anúncio online.
 
@@ -29,7 +29,7 @@ Os tipos de tag identificam o tipo de informação pela qual você deseja classi
 >
 >**Exemplo**
 >
->* Tipo de tag = Proprietário do programa
+>* [!UICONTROL Tipo de Marca] = Proprietário do Programa
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 

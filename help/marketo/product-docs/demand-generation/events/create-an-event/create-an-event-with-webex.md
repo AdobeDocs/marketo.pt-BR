@@ -1,34 +1,34 @@
 ---
 unique-page-id: 2949863
-description: Criar um evento com o Webex - Documentação do Marketo - Documentação do produto
-title: Criar um evento com o Webex
+description: Criar um evento com [!DNL Webex] - Documentação do Marketo - Documentação do produto
+title: Criar um Evento com [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
 
-# Criar um evento com o Webex {#create-an-event-with-webex}
+# Criar um Evento com [!DNL Webex] {#create-an-event-with-webex}
 
 Depois de criar um webinário no Webex, será necessário sincronizar o evento com o Marketo Engage.
 
 >[!PREREQUISITES]
 >
->* [Adicionar Webex como um Serviço do LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Adicionar [!DNL Webex] como um [!DNL LaunchPoint] Serviço](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Criar um Novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Definir as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) apropriadas para rastrear o envolvimento
 
 ## Agendar Seu Webinário {#schedule-your-webinar}
 
-Você agenda seu evento e escolhe suas configurações preferidas em [Webex](https://www.webex.com/){target="_blank"}. Somente as seguintes informações podem ser visualizadas no Marketo: nome do webinário, data e hora de início/término, fuso horário e descrição. Informações adicionais sobre os Webinars [da Webex podem ser encontradas aqui](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
+Você agenda seu evento e escolhe suas configurações preferidas na [Webex](https://www.webex.com/){target="_blank"}. Somente as seguintes informações podem ser visualizadas no Marketo: nome do webinário, data e hora de início/término, fuso horário e descrição. Informações adicionais sobre os Webinars da Webex [podem ser encontradas aqui](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### Informações básicas {#basic-information}
 
-![](assets/create-an-event-with-webex-1.png)
-
+* **[!UICONTROL Nome do Evento] -** Esse nome poderá ser visto no Marketo.
+* **[!UICONTROL Caixa de seleção não listada]**
 * **Tópico**: este é seu nome de evento e será exibido no Marketo.
 * **Data e hora**: data de início/término, hora de início/término, duração e fuso horário estão todos visíveis no Marketo.
 * **Número máximo de participantes**: o número máximo de participantes determina quais recursos Webex têm suporte.

@@ -4,10 +4,10 @@ description: Adicionar uma lista de opções do país ao seu formulário - Docum
 title: Adicionar uma lista de opções de país ao formulário
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Siga estas instruções para converter o campo País em um menu suspenso com uma lista de todos os países.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ Siga estas instruções para converter o campo País em um menu suspenso com uma
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Localize e selecione **País**.
+1. Localize e selecione **[!UICONTROL País]**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Com o campo **País** selecionado, altere o **Tipo de Campo** para **Selecionar**.
+1. Com o campo **[!UICONTROL País]** selecionado, altere o **[!UICONTROL Tipo de Campo]** para **[!UICONTROL Selecionar]**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Edite** os **Valores** para adicionar a lista de países que os usuários podem escolher.
+1. **[!UICONTROL Edite]** os **[!UICONTROL Valores]** para adicionar a lista de países que os usuários podem escolher.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Clique em **Avançado** **Editor**.
+1. Clique em **[!UICONTROL Editor Avançado]**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Siga estas instruções para converter o campo País em um menu suspenso com uma
    >
    >Sinta-se à vontade para editar a lista ou usar qualquer outra lista.
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

@@ -4,7 +4,7 @@ description: Editar conteúdo preditivo para mídia avançada - Documentação d
 title: Editar conteúdo preditivo para mídia avançada
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Veja como configurar seu conteúdo preditivo para mídia avançada.
 
 >[!PREREQUISITES]
 >
->O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o Conteúdo.
+>O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página [!UICONTROL Todo o Conteúdo].
 
-1. Na página **Conteúdo preditivo**, clique em um título para abrir o editor.
+1. Na página **[!UICONTROL Conteúdo preditivo]**, clique em um título para abrir o editor.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Clique em **Rich Media**.
+1. Clique em **[!UICONTROL Rich Media]**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -33,13 +33,13 @@ Veja como configurar seu conteúdo preditivo para mídia avançada.
 
    >[!NOTE]
    >
-   >Imagens JPEG com o modelo de cores CMYK não são compatíveis com mídia avançada. Os JPEG devem ser convertidos em sRGB usando um perfil de cores. Certifique-se de escolher essa configuração ao exportar do editor de imagens.
+   >As imagens JPEG com o modelo de cores CMYK não são compatíveis com a mídia avançada. JPEGs devem ser convertidos em sRGB usando um perfil de cores. Certifique-se de escolher essa configuração ao exportar do editor de imagens.
 
 1. Digite uma **Descrição**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Clique na caixa **Categorias** para selecionar/adicionar [categorias já configuradas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
+1. Clique na caixa **[!UICONTROL Categorias]** para selecionar/adicionar [categorias já configuradas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (opcional).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ Veja como configurar seu conteúdo preditivo para mídia avançada.
 
    ![](assets/six-1.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/save.png)

@@ -4,10 +4,10 @@ description: Relatório de atividades da empresa na Web - Documentação do Mark
 title: Relatório de atividades da empresa na Web
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 3%
+source-wordcount: '256'
+ht-degree: 4%
 
 ---
 
@@ -19,13 +19,13 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
 
 >[!PREREQUISITES]
 >
->Para capturar atividades de seu site na Marketo, primeiro você precisa configurar o [Munchkin em seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Para capturar a atividade do seu site na Marketo, primeiro você precisa configurar [up [!DNL Munchkin] no seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [tipo de relatório](report-type-overview.md) do Relatório de Atividades da Web da Empresa.
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Atividade da Web da Empresa[](report-type-overview.md).
 
 1. Opte por [exibir pessoas conhecidas ou anônimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) no relatório.
 
-1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **Relatório**.
+1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **[!UICONTROL Relatório]**.
 
 1. Pronto! Revise seu relatório para ver quais empresas estão visitando seu site.
 
@@ -33,7 +33,7 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
 
    >[!TIP]
    >
-   >Para encontrar as empresas que mais visitam seu site, [classifique seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) na coluna _Exibições de página_ e escolha **Classificar em ordem decrescente**.
+   >Para encontrar as empresas que mais visitam seu site, [classifique seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) na coluna _[!UICONTROL Exibições de página]_ e escolha **[!UICONTROL Classificar em ordem decrescente]**.
 
    [As colunas que você pode selecionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Atividade da Web da Empresa incluem:
 
@@ -54,11 +54,11 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
    <td>A empresa, conforme deduzido do endereço IP dos visitantes. <br> <strong>Nomes em negrito</strong> indicam que esta é a empresa, não o ISP. </td> 
   </tr> 
   <tr> 
-   <td>Visualizações de página</td> 
+   <td>Page Views</td> 
    <td>Número de páginas carregadas pelos visitantes.</td> 
   </tr> 
   <tr> 
-   <td>Pessoas</td> 
+   <td>People</td> 
    <td>Número de pessoas desta empresa que visitaram seu site.</td> 
   </tr> 
   <tr> 

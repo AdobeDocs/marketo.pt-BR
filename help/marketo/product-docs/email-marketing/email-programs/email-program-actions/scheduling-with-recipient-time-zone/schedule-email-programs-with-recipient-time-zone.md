@@ -4,9 +4,9 @@ description: Programar programas de email com fuso horário do destinatário - D
 title: Programar programas de e-mail com fuso horário do destinatário
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '839'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Há dois cenários possíveis ao agendar um programa de email enquanto o Fuso ho
 
 Considere que você aprove um programa de email com o Fuso horário do destinatário ativado e um horário de entrega agendado nas próximas 25 horas. Você pode ter pessoas em sua lista inteligente que vivem em fusos horários em que a hora agendada já passou.
 
-Nesse cenário, permitimos que você decida o que fazer com esse subconjunto de pessoas qualificadas. Clique no ícone de engrenagem ao lado de **Fuso Horário do Destinatário** no bloco **Agendamento** do programa de email.
+Nesse cenário, permitimos que você decida o que fazer com esse subconjunto de pessoas qualificadas. Clique no ícone de engrenagem ao lado de **[!UICONTROL Fuso Horário do Destinatário]** no bloco **[!UICONTROL Agendamento]** do programa de email.
 
 ![](assets/image2017-12-5-10-3a46-3a42.png)
 
@@ -34,15 +34,15 @@ Isso oferece duas opções:
 >
 >**Definição**
 >
->* **Entregar o seguinte dia no fuso horário do destinatário**: se o email estiver agendado para sair na terça-feira às 9h, as pessoas qualificadas que vivem em fusos horários em que o horário agendado já passou receberão o email em *quarta-feira* às 9h.
+>* **[!UICONTROL Entregar o dia seguinte no fuso horário do destinatário]**: se o email estiver agendado para sair na terça-feira às 9:00am, as pessoas qualificadas que vivem nos fusos horários em que o horário agendado já passou receberão o email em *quarta-feira* às 9:00am.
 >
->* **Entregar usando a hora definida padrão do programa**: se o email estiver agendado para sair na terça-feira às 9h, as pessoas qualificadas que vivem em fusos horários em que a hora agendada já passou receberão o email _com base nas configurações de fuso horário da sua assinatura_. Portanto, se as [configurações de fuso horário da sua assinatura](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) estiverem definidas como PDT America/Los Angeles, esses destinatários ainda receberão o email na terça-feira às 9:00 PDT (qualquer hora que estiver em seus próprios fusos horários).
+>* **[!UICONTROL Entregar usando a hora definida padrão do programa]**: se o email estiver agendado para sair na terça-feira às 9:00am, as pessoas qualificadas que vivem nos fusos horários em que a hora agendada já passou receberão o email _com base nas configurações de fuso horário da sua assinatura_. Portanto, se as [configurações de fuso horário da sua assinatura](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) estiverem definidas como PDT America/Los Angeles, esses destinatários ainda receberão o email na terça-feira às 9:00am PDT (qualquer hora que estiver em seus próprios fusos horários).
 
 >[!NOTE]
 >
 >[Saiba mais](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) sobre como o Marketo calcula fusos horários para destinatários.
 
-Vamos considerar esse cenário mais detalhadamente. Digamos que você esteja em São Francisco, agendando um email às 7h para um envio de **9h**. Na sua lista inteligente, há pessoas das seguintes regiões:
+Vamos considerar esse cenário mais detalhadamente. Digamos que você esteja em São Francisco, agendando um email às 7:00am para um envio de **9:00am**. Na sua lista inteligente, há pessoas das seguintes regiões:
 
 * São Francisco
 * Texas
@@ -51,11 +51,11 @@ Vamos considerar esse cenário mais detalhadamente. Digamos que você esteja em 
 
 ![](assets/image2017-12-6-10-3a52-3a41.png)
 
-As 9h já passaram em Nova York e na Itália, portanto, as pessoas qualificadas nesses dois fusos horários receberão o email com base nas **Configurações de Fuso Horário**:
+9:00am já passou em Nova York e na Itália, portanto, as pessoas qualificadas nesses dois fusos horários receberão o email com base nas **Configurações de Fuso Horário**:
 
-* **Entregar o seguinte dia no fuso horário do destinatário:** quarta-feira às 9h em seus respectivos fusos horários, **OU**
+* **[!UICONTROL Entregar o dia seguinte no fuso horário do destinatário]:** quarta-feira às 9:00am em seus respectivos fusos horários, **OU**
 
-* **Enviar usando a hora de definição padrão do programa**: terça-feira às 9h PDT (Nova York - 12h EDT e Itália - 18h CET).
+* **[!UICONTROL Entregar usando o horário definido padrão do programa]**: terça-feira às 9:00am PDT (Nova York - 12:00pm EDT e Itália - 6:00pm CET).
 
 Depois de aprovar, o programa começa a ser executado em 15 minutos.
 
@@ -63,15 +63,15 @@ Depois de aprovar, o programa começa a ser executado em 15 minutos.
 
 >[!NOTE]
 >
->Embora o programa inicie o _processo_ de envio de emails em 15 minutos, os emails não serão _entregues_ nesse momento. Os destinatários ainda receberão emails com base nas **Configurações de Fuso Horário** escolhidas por você.
+>Embora o programa inicie o _processo_ de envio de emails em 15 minutos, os emails não serão _entregues_ nesse momento. Os destinatários ainda receberão emails com base nas **[!UICONTROL Configurações de Fuso Horário]** escolhidas por você.
 
 ## Cenário 2: mais de 25 horas {#scenario-more-than-hours}
 
-Neste segundo cenário, você aprova um programa de email com **Fuso horário do destinatário** habilitado e um tempo de entrega agendado de mais de 25 horas no futuro. Nesse caso, o programa começará a ser executado no horário agendado no fuso horário **mais antigo** no mundo (UTC + 14:00). Pode haver pessoas qualificadas para a sua lista inteligente em todos os fusos horários do mundo, portanto, iniciar no fuso horário mais antigo permite enviar o email na data/hora agendada para todos os destinatários em seus respectivos fusos horários.
+Neste segundo cenário, você aprova um programa de email com **[!UICONTROL Fuso horário do destinatário]** habilitado e um tempo de entrega agendado de mais de 25 horas no futuro. Nesse caso, o programa começará a ser executado no horário agendado no fuso horário **mais antigo** no mundo (UTC + 14:00). Pode haver pessoas qualificadas para a sua lista inteligente em todos os fusos horários do mundo, portanto, iniciar no fuso horário mais antigo permite enviar o email na data/hora agendada para todos os destinatários em seus respectivos fusos horários.
 
 **Início prévio**
 
-Agora, vamos falar sobre como o [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) funciona com o **Fuso Horário do Destinatário**. Nosso recurso Head Start existente exige que o programa seja agendado com pelo menos 12 horas de antecedência. O que isso significa para o Fuso horário do recipient? Lembre-se de que quando o Fuso horário do recipient está ativado, começamos a executar o programa de email no horário agendado no fuso horário mais antigo (UTC +14:00). Portanto, para habilitar **o Head Start e o Fuso Horário do Destinatário**, os programas de email precisam ser agendados **com pelo menos 12 horas de antecedência em relação ao horário agendado em UTC +14:00.**
+Agora, vamos falar sobre como o [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) funciona com o **[!UICONTROL Fuso Horário do Destinatário]**. Nosso recurso Head Start existente exige que o programa seja agendado com pelo menos 12 horas de antecedência. O que isso significa para o Fuso horário do recipient? Lembre-se de que quando o Fuso Horário do Destinatário é habilitado, começamos a executar o programa de email no horário agendado no fuso horário mais antigo (UTC +14:00). Portanto, para habilitar **o Head Start e o Fuso Horário do Destinatário**, os programas de email precisam ser agendados **com pelo menos 12 horas de antecedência em relação ao horário agendado em UTC +14:00.**
 
 Isso significa que, se você estiver na América/Los Angeles e quiser habilitar o Head Start e o Fuso horário do destinatário, será necessário agendar o programa com **34 horas** de antecedência. Como chegamos a esse número?
 

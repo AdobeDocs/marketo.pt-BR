@@ -3,7 +3,7 @@ description: Motivos de chamada - Documentação do Marketo - Documentação do 
 title: Motivos da chamada
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -20,15 +20,15 @@ Permita que suas equipes de vendas selecionem os motivos das chamadas ao fazer c
 
 ## Habilitar Motivos de Chamada {#enable-call-reasons}
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/call-reasons-1.png)
 
-1. Em Admin Settings, selecione **Dialer**.
+1. Em [!UICONTROL Configurações de Administração], selecione **[!UICONTROL Discador]**.
 
    ![](assets/call-reasons-2.png)
 
-1. Selecione **Habilitar Motivos da Chamada**.
+1. Selecione **[!UICONTROL Habilitar motivos da chamada]**.
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ Permita que suas equipes de vendas selecionem os motivos das chamadas ao fazer c
 >
 >Você pode criar no máximo 15 Motivos de chamada.
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/call-reasons-5.png)
 
-1. Em Admin Settings, selecione **Dialer**.
+1. Em [!UICONTROL Configurações de Administração], selecione **[!UICONTROL Discador]**.
 
    ![](assets/call-reasons-6.png)
 
-1. Clique em **Gerenciar motivos da chamada**.
+1. Clique em **[!UICONTROL Gerenciar motivos da chamada]**.
 
    ![](assets/call-reasons-7.png)
 
-1. Digite o nome do motivo da chamada desejado no campo de texto e clique em **Adicionar**.
+1. Digite o nome do motivo da chamada desejado no campo de texto e clique em **[!UICONTROL Adicionar]**.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ Após habilitar os motivos da chamada. Os usuários podem selecionar um enquanto
 
    ![](assets/call-reasons-9.png)
 
-1. Insira as informações de chamada no discador e clique em **Chamada**.
+1. Insira as informações de chamada no discador e clique em **[!UICONTROL Chamada]**.
 
    ![](assets/call-reasons-10.png)
 
@@ -84,5 +84,5 @@ Após habilitar os motivos da chamada. Os usuários podem selecionar um enquanto
 
 >[!MORELIKETHIS]
 >
->* [Registrar motivos da chamada e resultados da chamada no Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Registrar em log os motivos da chamada e seus resultados para a Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Resultados da Chamada](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)

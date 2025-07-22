@@ -4,18 +4,18 @@ description: Visão geral do Email Insights - Documentação do Marketo - Docume
 title: Visão geral do Email Insights
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Visão geral do Email Insights {#email-insights-overview}
 
-O Email Insights fornece insights avançados de dados históricos para profissionais de marketing por email. Consiste em duas seções separadas, mas associadas: Analytics e Envios.
+O **[!UICONTROL Email Insights]** fornece insights avançados de dados históricos para profissionais de marketing por email. Consiste em duas seções separadas, mas associadas: [!UICONTROL Analytics] e [!UICONTROL Sends].
 
-Para acessar o Email Insights, basta clicar no bloco em My Marketo (ou na tela inicial do Analytics).
+Para acessar o **[!UICONTROL Email Insights]**, basta clicar no bloco em My Marketo (ou na tela inicial do Analytics).
 
 ![](assets/icon.png)
 
@@ -23,15 +23,15 @@ Para acessar o Email Insights, basta clicar no bloco em My Marketo (ou na tela i
 >
 >Por padrão, você verá dados para cada espaço de trabalho ao qual tem acesso. Você pode desmarcar os espaços de trabalho que não deseja exibir. Suas seleções serão lembradas a partir de agora.
 
-## Analytics {#analytics}
+## [!UICONTROL Analytics] {#analytics}
 
-Use o [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) para explorar os dados de série temporal agregados para métricas de entrega e envolvimento de email.
+Use o [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) para explorar os dados de série temporal agregados para métricas de entrega e envolvimento de email.
 
 ![](assets/emailanalytics.jpg)
 
 **Filtros**
 
-Usado [filtros](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) avançados para analisar os resultados por Público-alvo, Conteúdo ou Plataforma. Os mesmos filtros se aplicam ao Analytics e ao Sends.
+Usado [filtros](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) avançados para analisar os resultados por Público-alvo, Conteúdo ou Plataforma. Os mesmos filtros se aplicam ao [!UICONTROL Analytics] e ao [!UICONTROL Sends].
 
 ![](assets/filter.png)
 
@@ -41,9 +41,9 @@ Usado [filtros](/help/marketo/product-docs/reporting/email-insights/filtering-in
 
 ![](assets/three.png)
 
-## Envios {#sends}
+## [!UICONTROL Envia] {#sends}
 
-Na página [Envios](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md), examine as características das comunicações recentes por email.
+Na página [[!UICONTROL Envios]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md), examine as características das comunicações recentes por email.
 
 ![](assets/two.png)
 
@@ -55,9 +55,9 @@ Clique nas barras de Métricas para converter as cores em números.
 
 >[!NOTE]
 >
->Pode levar até 8 horas para que os dados sejam refletidos nos Insights de email.
+>Pode levar até 8 horas para que os dados sejam refletidos nos **[!UICONTROL Insights de email]**.
 
-## Dimension personalizado {#custom-dimensions}
+## Dimensões personalizadas {#custom-dimensions}
 
 Todas as dimensões padrão do Marketo estão incluídas, mas você tem a opção de adicionar até 10 dimensões personalizadas. [As dimensões personalizadas](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) consistem em segmentações e marcas de programa.
 

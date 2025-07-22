@@ -4,9 +4,9 @@ description: Ignorar fins de semana - Documentação do Marketo - Documentação
 title: Ignorar fins de semana
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ao automatizar uma campanha, você provavelmente não quer que seus emails sejam enviados em um sábado ou domingo. Caso contrário, você poderá ignorar os finais de semana.
 
-1. No Sales Connect, clique na guia **Campanhas**.
+1. Em [!DNL Sales Connect], clique na guia **[!UICONTROL Campanhas]**.
 
    ![](assets/one-2.png)
 
@@ -23,11 +23,11 @@ Ao automatizar uma campanha, você provavelmente não quer que seus emails sejam
 
    ![](assets/two-2.png)
 
-1. Clique em **Configurações**.
+1. Clique em **[!UICONTROL Configurações]**.
 
    ![](assets/three-2.png)
 
-1. Marque a caixa de seleção **Ignorar fins de semana**.
+1. Marque a caixa de seleção **[!UICONTROL Ignorar fins de semana]**.
 
    ![](assets/four-2.png)
 

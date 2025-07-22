@@ -1,18 +1,18 @@
 ---
-description: Guia de introdução para administradores do Sales Connect - Documentação do Marketo - Documentação do produto
-title: Guia de introdução para administradores do Sales Connect
+description: Guia de introdução para  [!DNL Sales Connect] Administradores - Documentação do Marketo - Documentação do produto
+title: Guia de Introdução para  [!DNL Sales Connect] Administradores
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Guia de introdução para administradores do Sales Connect {#getting-started-guide-for-sales-connect-admins}
+# Guia de Introdução para [!DNL Sales Connect] Administradores {#getting-started-guide-for-sales-connect-admins}
 
-Este documento o guiará pelas etapas iniciais para configurar sua nova instância do Sales Connect. Algumas dessas etapas exigirão acesso como administrador do Marketo, administrador do Salesforce e administrador do Sales Connect. Siga nossos guias abaixo para concluir a configuração da instância.
+Este documento o guiará pelas etapas iniciais de configuração da sua nova instância do [!DNL Sales Connect]. Algumas dessas etapas exigirão acesso como administrador do Marketo, administrador do [!DNL Salesforce] e administrador do [!DNL Sales Connect]. Siga nossos guias abaixo para concluir a configuração da instância.
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ Depois de provisionar sua conta do Marketo Sales Connect da Marketo e convidar s
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## Conexão com o Salesforce {#connecting-to-salesforce}
+## Conectando a [!DNL Salesforce] {#connecting-to-salesforce}
 
-Todos os usuários precisarão se conectar individualmente ao Salesforce para habilitar o registro das atividades de vendas para a salesforce, como emails, chamadas e tarefas. No entanto, ao se conectar ao Salesforce como administrador, você terá a oportunidade de definir as configurações de registro de atividades para toda a sua equipe, de modo que as configurações de registro globais sejam aplicadas a todos os usuários do Sales Connect.
+Todos os usuários precisarão se conectar individualmente a [!DNL Salesforce] para habilitar o log de atividades de vendas para a salesforce, como emails, chamadas e tarefas. No entanto, ao se conectar ao Salesforce como administrador, você terá a oportunidade de definir suas configurações de log de atividades para toda a equipe, de modo que as configurações de log globais sejam aplicadas a todos os usuários do [!DNL Sales Connect].
 
 Para conectar sua instância do Sales Connect à instância do Salesforce, como Administrador ou não Administrador, siga as etapas em [este artigo](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}.
 
@@ -48,7 +48,7 @@ A conexão com o Marketo permitirá que seus vendedores aproveitem o potencial d
 
 Para saber mais sobre como se conectar ao Marketo e conceder aos usuários de vendas acesso à conexão, [clique aqui](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
 
-## Instalação do pacote de personalização do Salesforce {#installing-salesforce-customization-package}
+## Instalando o Pacote de Personalização [!DNL Salesforce] {#installing-salesforce-customization-package}
 
 Garantir que as vendas estejam habilitadas para o sucesso significa ter os recursos certos no espaço de trabalho principal. O pacote de personalização do Sales Connect permite que os recursos do contrato e os principais atributos da atividade de vendas sejam acessíveis pela Salesforce.
 

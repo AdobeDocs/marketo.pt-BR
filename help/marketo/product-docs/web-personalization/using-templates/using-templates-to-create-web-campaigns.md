@@ -4,7 +4,7 @@ description: Uso de modelos para criar campanhas da Web - Documentação do Mark
 title: Utilização de modelos para criar campanhas da Web
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -19,11 +19,11 @@ Acelere e simplifique seu processo de criação de campanha na Web usando nossos
 >
 >Os modelos são otimizados para todos os dispositivos e experiências de navegação para desktop e dispositivos móveis.
 
-1. Vá para **Campanhas da Web**.
+1. Vá para **[!UICONTROL Campanhas da Web]**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Clique em **Criar nova campanha da Web**.
+1. Clique em **[!UICONTROL Criar nova campanha da Web]**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,11 +31,11 @@ Acelere e simplifique seu processo de criação de campanha na Web usando nossos
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Selecione um segmento de público alvo.
+1. Selecione um [!UICONTROL Segmento de Destino].
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Clique em **Modelos**.
+1. Clique em **[!UICONTROL Modelos]**.
 
    ![](assets/templates.png)
 
@@ -55,7 +55,7 @@ Acelere e simplifique seu processo de criação de campanha na Web usando nossos
 
    ![](assets/customize-template.jpg)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/click-save-hand.jpg)
 

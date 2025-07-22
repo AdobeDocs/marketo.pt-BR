@@ -4,20 +4,20 @@ description: Páginas Da Web Exibidas, Relatório De Atividades Da Página Da We
 title: Páginas da Web Exibidas, Relatório de Atividades da Página da Web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Páginas da Web Exibidas, Relatório de Atividades da Página da Web {#web-pages-viewed-web-page-activity-report}
 
-Em um [relatório de Atividade da Página da Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), você pode ver as páginas específicas que foram visualizadas pelas pessoas no relatório.
+Em um relatório de [[!UICONTROL Atividade da página da Web]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), você pode ver as páginas específicas que foram visualizadas pelas pessoas no relatório.
 
 >[!PREREQUISITES]
 >
->Para capturar a atividade do seu site na Marketo, primeiro é necessário [configurar o Munchkin no seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Para capturar a atividade do seu site na Marketo, primeiro você precisa [configurar [!DNL Munchkin] no seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. No seu [Relatório de atividades da página da Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), clique no nome da pessoa.
 

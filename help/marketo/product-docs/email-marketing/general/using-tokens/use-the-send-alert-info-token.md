@@ -4,9 +4,9 @@ description: Usar o Token de Informações de Alerta de Envio {{SP_Send_Alert_In
 title: Usar o token de envio de informações de alerta
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ As seguintes informações estão incluídas como parte de `{{SP_Send_Alert_Info
 
 ## Adicionar o token SP_Send_Alert_Info a um email {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Selecione o email e clique em **Editar rascunho**.
+1. Selecione o email e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ As seguintes informações estão incluídas como parte de `{{SP_Send_Alert_Info
 
    ![](assets/two-3.png)
 
-1. Coloque o cursor onde deseja que o token fique e clique no botão **Inserir token**.
+1. Coloque o cursor onde deseja que o token fique e clique no botão **[!UICONTROL Inserir token]**.
 
    ![](assets/three-3.png)
 
-1. Localize e selecione o token **`{{SP_Send_Alert_Info}}`** e clique em **Inserir**.
+1. Localize e selecione o token **[!UICONTROL {{SP_Send_Alert_Info}}]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

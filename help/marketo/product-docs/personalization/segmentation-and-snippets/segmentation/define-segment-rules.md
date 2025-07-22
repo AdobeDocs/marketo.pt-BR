@@ -4,7 +4,7 @@ description: Definir Regras De Segmento - Documentação Do Marketo - Documenta�
 title: Definir regras de segmento
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -19,15 +19,15 @@ A definição de Regras de segmento permite categorizar suas pessoas em diferent
 >
 >[Criar uma segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
-1. Ir para o **Banco de Dados.**
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/image2017-3-28-14-3a7-3a42.png)
 
-1. Selecione **Segmentação** na árvore e clique em um **Segmento** específico.
+1. Selecione **[!UICONTROL Segmentações]** na árvore e clique em um **Segmento** específico.
 
    ![](assets/image2017-3-28-14-3a11-3a15.png)
 
-1. Clique em **Smart List** e adicione filtros.
+1. Clique em **[!UICONTROL Smart List]** e adicione filtros.
 
    ![](assets/image2017-3-28-14-3a18-3a19.png)
 
@@ -37,7 +37,7 @@ A definição de Regras de segmento permite categorizar suas pessoas em diferent
 
    >[!NOTE]
    >
-   >No momento, os filtros &quot;Tipo SFDC&quot; e &quot;Tipo Microsoft&quot; não são compatíveis com as listas inteligentes de segmentação.
+   >No momento, os filtros &quot;Tipo de SFDC&quot; e &quot;Tipo de Microsoft&quot; não são compatíveis com as listas inteligentes de segmentação.
 
 1. Preencha os valores apropriados para os filtros.
 
@@ -47,11 +47,11 @@ A definição de Regras de segmento permite categorizar suas pessoas em diferent
    >
    >O comportamento do registro de atividades para campos de Conta pode afetar a qualificação. Portanto, desaconselhamos o uso de campos Account ao definir regras de segmento.
 
-1. Clique na guia **Pessoas (Rascunho)** para exibir as pessoas que podem se qualificar para serem membros deste segmento.
+1. Clique na guia **[!UICONTROL Pessoas (Rascunho)]** para exibir as pessoas que podem se qualificar para serem membros deste segmento.
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Vá para **Ações de segmentação**. Clique em **Aprovar**.
+1. Vá para **[!UICONTROL Ações de segmentação]**. Clique em **[!UICONTROL Aprovar]**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -73,7 +73,7 @@ Bom trabalho! Esses segmentos serão úteis em vários lugares do Marketo.
 
 >[!NOTE]
 >
->A tela Pessoas (Rascunho) mostra todas as pessoas que se qualificam para serem membros e nem sempre é a lista final de pessoas. Aprove seu segmento para ver a lista final.
+>A tela [!UICONTROL Pessoas (Rascunho)] mostra todas as pessoas que se qualificam para serem membros e nem sempre é a lista final de pessoas. Aprove seu segmento para ver a lista final.
 
 >[!MORELIKETHIS]
 >

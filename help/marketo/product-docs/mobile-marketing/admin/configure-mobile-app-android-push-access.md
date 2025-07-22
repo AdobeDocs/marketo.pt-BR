@@ -4,20 +4,20 @@ description: Configurar o acesso por push do Android para aplicativos móveis - 
 title: Configurar o acesso por push do Android para aplicativos móveis
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
 # Configurar o acesso por push do Android para aplicativos móveis {#configure-mobile-app-android-push-access}
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecione **Aplicativos móveis**.
+1. Selecione **[!UICONTROL Aplicativos móveis]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,19 +25,19 @@ ht-degree: 1%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Em **Tipo de Acesso por Push**, selecione **Android** e clique em **Configurar.**
+1. Em **[!UICONTROL Tipo de Acesso por Push]**, selecione **[!UICONTROL Android]** e clique em **[!UICONTROL Configurar]**.
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >Você precisará de uma **Chave de API do Servidor** e do **Número do Projeto** do desenvolvedor de aplicativos para dispositivos móveis. O desenvolvedor recebe isso ao fazer logon no Google Play Developer Console para registrar seu aplicativo e ativar as mensagens na nuvem.
+   >Você precisará de uma **[!UICONTROL Chave de API do Servidor]** e do **[!UICONTROL Número do Projeto]** do desenvolvedor de aplicativos para dispositivos móveis. O desenvolvedor os recebe fazendo logon no [!DNL Google Play Developer Console] para registrar seu aplicativo e habilitar as mensagens na nuvem.
 
-1. Insira a chave da API do servidor e o número do projeto. Clique em **Salvar**.
+1. Insira sua [!UICONTROL Chave de API do Servidor] e [!UICONTROL Número do Projeto]. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
-   Doce. Certifique-se de configurar o aplicativo com o iOS.
+   Doce. Certifique-se de configurar o aplicativo com o [!UICONTROL iOS].
 
 >[!MORELIKETHIS]
 >

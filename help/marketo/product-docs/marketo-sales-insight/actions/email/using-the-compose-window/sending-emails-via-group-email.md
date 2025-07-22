@@ -3,7 +3,7 @@ description: Envio de emails por email de grupo - Documentação do Marketo - Do
 title: Enviando Emails por Email de Grupo
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
 ## Enviando um email de grupo {#sending-a-group-email}
 
-1. Clique na guia **Pessoas**.
+1. Clique na guia **[!UICONTROL Pessoas]**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. Clique no botão Ações do Grupo e selecione **Grupo de email**.
+1. Clique no botão [!UICONTROL Ações de Grupo] e selecione **[!UICONTROL Grupo de Emails]**.
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -44,7 +44,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Selecione o destinatário desejado e clique em **Visualizar Campos Dinâmicos**. Visualize a pré-visualização à direita.
+1. Selecione o destinatário desejado e clique em **[!UICONTROL Visualizar Campos Dinâmicos]**. Visualize a pré-visualização à direita.
 
    ![](assets/sending-emails-via-group-email-7.png)
 

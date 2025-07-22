@@ -1,28 +1,28 @@
 ---
 description: Configurar A Personalização Dos Detalhes Da Atividade Do Salesforce - Documentação Do Marketo - Documentação Do Produto
-title: Configurar a personalização dos detalhes de atividade do Salesforce
+title: Configurar a personalização dos detalhes da atividade do Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '675'
 ht-degree: 1%
 
 ---
 
-# Configurar a personalização dos detalhes de atividade do Salesforce {#configure-salesforce-activity-detail-customization}
+# Configurar a personalização dos detalhes da atividade [!DNL Salesforce] {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
->* Salesforce e Marketo Sales Connect [devem estar conectados](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* [!DNL Salesforce] e [!DNL Marketo Sales Connect] [devem estar conectados](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* A atividade de email de log via API [deve ser habilitada](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-A Personalização dos detalhes da atividade permite que os administradores configurem as informações que farão logon na Tarefa do Salesforce - Campo de assunto, quando uma atividade de Conexão de vendas/tarefa de lembrete for sincronizada com o Salesforce.
+A Personalização dos detalhes da atividade permite que os administradores configurem as informações que farão logon no campo Tarefa - Assunto da Salesforce, quando uma atividade/tarefa de lembrete do [!DNL Sales Connect] for sincronizada com o Salesforce.
 
 >[!NOTE]
 >
->* As atualizações feitas no campo de assunto no Sales Connect de uma tarefa de lembrete serão refletidas no campo de assunto da tarefa do Salesforce correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` na Personalização dos detalhes da atividade.
->* Quebras de linha não são suportadas ao registrar informações no campo de assunto do Salesforce. Quaisquer quebras de linha no editor de Personalização de Detalhes da Atividade serão removidas quando um assunto da tarefa de vendas for atualizado.
+>* As atualizações feitas no campo de assunto em [!DNL Sales Connect] de uma tarefa de lembrete serão refletidas no campo de assunto da tarefa [!DNL Salesforce] correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` na Personalização dos Detalhes da atividade.
+>* Não há suporte para quebras de linha ao registrar informações no campo de assunto [!DNL Salesforce]. Quaisquer quebras de linha no editor de Personalização de Detalhes da Atividade serão removidas quando um assunto da tarefa de vendas for atualizado.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -45,22 +45,22 @@ A Personalização dos detalhes da atividade permite que os administradores conf
 
 O recurso pode ser usado para desbloquear os seguintes benefícios:
 
-* Personalizando quais informações estão visíveis no campo de assunto, os detalhes da atividade são facilmente verificáveis para vendas no Salesforce.
+* Ao personalizar quais informações estão visíveis no campo de assunto, os detalhes da atividade são facilmente verificáveis para vendas no Salesforce.
 * Os administradores podem marcar o campo de assunto com um identificador exclusivo, como &quot;Mkto_sales&quot;, para que as atividades do Sales Connect possam ser facilmente identificadas e diferenciadas de outras atividades de email, atividades de chamada e tarefas.
-* Reduza a necessidade de campos de atividade personalizados. O Salesforce impõe limites ao número de campos de atividade personalizados, que podem restringir quais dados estão disponíveis para serem usados em relatórios. Ao usar campos dinâmicos de atividade para adicionar dados principais à linha de assunto, você pode reduzir o número de campos de atividade personalizados que precisam ser criados em sua instância do Salesforce.
+* Reduza a necessidade de campos de atividade personalizados. O Salesforce impõe limites ao número de campos de atividade personalizados, que podem restringir quais dados estão disponíveis para serem usados em relatórios. Ao usar campos dinâmicos de atividade para adicionar dados principais à linha de assunto, é possível reduzir o número de campos de atividade personalizados que precisam ser criados em sua instância do Salesforce.
 * O campo de assunto das atividades e tarefas seguirá um padrão consistente definido pelo Administrador do Sales Connect.
 
 >[!NOTE]
 >
->Se você estiver registrando respostas de email como atividades no Salesforce, eles não usarão as configurações de Personalização de detalhes de atividades do Salesforce. Em vez disso, eles serão registrados como &quot;Responder: Assunto do email&quot;.
+>Se você estiver registrando respostas de email como atividades do [!DNL Salesforce], elas não usarão as configurações de Personalização de Detalhes da Atividade [!DNL Salesforce]. Em vez disso, eles serão registrados como &quot;Responder: Assunto do email&quot;.
 
 ## Campos Dinâmicos De Atividade Compatíveis {#activity-dynamic-fields-supported}
 
-Campos Dinâmicos da Atividade fazem referência a informações sobre suas atividades de vendas para preencher dados. Hoje, elas podem ser usadas com a Personalização de detalhes de atividades do Salesforce.
+Campos Dinâmicos da Atividade fazem referência a informações sobre suas atividades de vendas para preencher dados. Hoje, eles podem ser usados com a Personalização dos Detalhes da atividade do [!DNL Salesforce].
 
 >[!NOTE]
 >
->Se não houver um valor para preencher o campo dinâmico de uma atividade/tarefa específica, ele não preencherá nenhum dado desse campo dinâmico quando a Tarefa do Salesforce - Campo Assunto for atualizada.
+>Se não houver um valor para preencher o campo dinâmico para uma atividade/tarefa específica, ele não preencherá nenhum dado para esse campo dinâmico quando o Campo Tarefa - Assunto [!DNL Salesforce] for atualizado.
 
 <table>
  <tr>
@@ -99,27 +99,27 @@ Campos Dinâmicos da Atividade fazem referência a informações sobre suas ativ
  </tr>
 </table>
 
-## Configuração da personalização dos detalhes de atividade do Salesforce {#configuring-salesforce-activity-detail-customization}
+## Configuração da personalização de detalhes de atividades do Salesforce {#configuring-salesforce-activity-detail-customization}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias.**
 
-Ao configurar os detalhes da atividade, considere quais dados seriam mais relevantes para as vendas ao revisar o histórico de tarefas no Salesforce.
+Ao configurar os detalhes da atividade, considere quais dados seriam mais relevantes para as vendas ao revisar o histórico da tarefa em [!DNL Salesforce].
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Clique em **Salesforce**.
+1. Clique em **[!UICONTROL Salesforce]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Clique em **Configurações de sincronização**.
+1. Clique em **[!UICONTROL Configurações de sincronização]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. No editor de Personalização de detalhes da atividade, adicione o texto livre desejado. O texto adicionado é não dinâmico e permanecerá inalterado para o campo de assunto de todas as tarefas sincronizadas com o Salesforce.
+1. No editor de Personalização de detalhes da atividade, adicione o texto livre desejado. O texto que você adicionar não é dinâmico e permanecerá inalterado para o campo de assunto de todas as tarefas sincronizadas com [!DNL Salesforce].
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
@@ -127,7 +127,7 @@ Ao configurar os detalhes da atividade, considere quais dados seriam mais releva
    >
    >Embora não seja obrigatório, quebrar o texto adicionado em colchetes pode facilitar para algumas pessoas discernir entre os dados quando eles são preenchidos em um campo de assunto no Salesforce. Exemplo: `[Sales Connect] - {{Activity_type}}`
 
-1. Adicione outros campos dinâmicos desejados clicando no botão **Adicionar Campo Dinâmico**.
+1. Adicione outros campos dinâmicos desejados clicando no botão **[!UICONTROL Adicionar Campo Dinâmico]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,16 +135,16 @@ Ao configurar os detalhes da atividade, considere quais dados seriam mais releva
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
 >[!NOTE]
 >
->O Salesforce impõe um limite de 255 caracteres. Se os detalhes da atividade excederem esse limite, eles serão truncados para garantir que as informações sejam armazenadas no campo de assunto do Salesforce.
+>[!DNL Salesforce] impõe um limite de 255 caracteres. Se os detalhes da atividade excederem esse limite, eles serão truncados para garantir que as informações sejam armazenadas no campo de assunto [!DNL Salesforce].
 
 >[!MORELIKETHIS]
 >
 >* [Configurações de sincronização](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Sincronização de tarefas de lembrete com o Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [Personalização do Sales Connect para CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [Sincronização de Tarefa de Lembrete com [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [[!DNL Sales Connect] Personalização do CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

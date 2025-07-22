@@ -3,9 +3,9 @@ description: Configurações Da Campanha De Vendas - Documentação Do Marketo -
 title: Configurações da campanha de vendas
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '225'
 ht-degree: 1%
 
 ---
@@ -20,9 +20,9 @@ Ative a opção Ignorar fins de semana para que todas as etapas que teriam sido 
 
 >[!NOTE]
 >
->Com a opção Ignorar fins de semana ativada, os emails serão agendados com base em uma semana de 5 dias. Ou seja, quando uma etapa é agendada, os fins de semana serão ignorados como dias.
+>Com a opção [!UICONTROL Ignorar fins de semana] habilitada, os emails serão agendados com base em uma semana de 5 dias. Ou seja, quando uma etapa é agendada, os fins de semana serão ignorados como dias.
 
-1. Clique em **Campanhas**.
+1. Clique em **[!UICONTROL Campanhas]**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Ative a opção Ignorar fins de semana para que todas as etapas que teriam sido 
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Clique na guia **Configurações**.
+1. Clique na guia **[!UICONTROL Configurações]**.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Marque a caixa de seleção **Ignorar fins de semana**.
+1. Marque a caixa de seleção **[!UICONTROL Ignorar fins de semana]**.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Ative a opção Ignorar fins de semana para que todas as etapas que teriam sido 
 
 Se você estiver usando conexão de email, detectaremos rejeições com base na mensagem de rejeição enviada para a caixa de entrada dos usuários. Além disso, podemos remover pessoas de Campanhas de vendas quando uma rejeição for detectada.
 
-1. Clique em **Campanhas**.
+1. Clique em **[!UICONTROL Campanhas]**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ Se você estiver usando conexão de email, detectaremos rejeições com base na 
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Clique na guia **Configurações**.
+1. Clique na guia **[!UICONTROL Configurações]**.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Marque a caixa de seleção **Remover na rejeição**.
+1. Marque a caixa de seleção **[!UICONTROL Remover na rejeição]**.
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## Se ocorrer uma resposta {#if-a-reply-occurs}
 
-Se o rastreamento de respostas estiver habilitado para Gmail ou Exchange, podemos enviar automaticamente sua Campanha de vendas se um recipient responder ao seu email.
+Se o rastreamento de respostas estiver habilitado para o Gmail ou [!DNL Exchange], podemos encerrar automaticamente sua Campanha de Vendas se um destinatário responder ao seu email.
 
-1. Clique em **Campanhas**.
+1. Clique em **[!UICONTROL Campanhas]**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,11 +70,11 @@ Se o rastreamento de respostas estiver habilitado para Gmail ou Exchange, podemo
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Clique na guia **Configurações**.
+1. Clique na guia **[!UICONTROL Configurações]**.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Em **Se Ocorrer uma Resposta**, faça a(s) seleção(ões) desejada(s).
+1. Em **[!UICONTROL Se Ocorrer uma Resposta]**, faça a(s) seleção(ões) desejada(s).
 
    ![](assets/sales-campaign-settings-12.png)
 

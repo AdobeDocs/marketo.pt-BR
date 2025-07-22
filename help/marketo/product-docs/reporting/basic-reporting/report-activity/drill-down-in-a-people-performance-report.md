@@ -4,7 +4,7 @@ description: Detalhamento em um Relatório de desempenho de pessoas - Documenta�
 title: Detalhar um Relatório de Desempenho de Pessoas
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Detalhe um Relatório de Desempenho de Pessoas para ver informações adicionais sobre pessoas.
 
-1. Clique na guia **Relatório** para exibir qualquer relatório existente.
+1. Clique na guia **[!UICONTROL Relatório]** para exibir qualquer relatório existente.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Detalhe um Relatório de Desempenho de Pessoas para ver informações adicionais
 
    ![](assets/two.png)
 
-1. Clique em **Detalhamento**.
+1. Clique em **[!UICONTROL Detalhamento]**.
 
    ![](assets/three.png)
 
-1. Na janela pop-up **Detalhar**, selecione o atributo que deseja detalhar. Em seguida, clique em **Detalhamento**.
+1. Na janela pop-up **[!UICONTROL Detalhar]**, selecione o atributo que deseja detalhar. Em seguida, clique em **[!UICONTROL Detalhamento]**.
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ Detalhe um Relatório de Desempenho de Pessoas para ver informações adicionais
 
    ![](assets/five.png)
 
-1. Para salvar os resultados (opcional), clique no ícone **Exportar** no canto inferior esquerdo.
+1. Para salvar os resultados (opcional), clique no ícone **[!UICONTROL Exportar]** no canto inferior esquerdo.
 
    ![](assets/six.png)

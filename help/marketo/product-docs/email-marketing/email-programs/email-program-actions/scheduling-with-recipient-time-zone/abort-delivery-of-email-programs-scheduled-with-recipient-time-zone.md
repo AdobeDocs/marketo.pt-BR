@@ -4,7 +4,7 @@ description: Anular a entrega de programas de email agendados com fuso horário 
 title: Interromper a entrega de programas de email agendados com o fuso horário do destinatário
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -17,15 +17,15 @@ Em casos de emergência, você pode suspender o delivery de um programa de email
 
 Como os programas de email agendados com Fuso horário do destinatário podem ser executados por até 24 horas, abortar o delivery do programa cancelará todos os envios subsequentes após esse ponto.
 
-1. Selecione o programa de email que deseja cancelar e clique em **Interromper entrega** no bloco Aprovação do painel de controle.
+1. Selecione o programa de email que deseja cancelar e clique em **[!UICONTROL Interromper Entrega]** no bloco [!UICONTROL Aprovação] do painel de controle.
 
    ![](assets/ptz-abortdelivery.png)
 
-1. Confirme se deseja cancelar a entrega clicando em **Abortar**.
+1. Confirme se deseja cancelar a entrega clicando em **[!UICONTROL Abortar]**.
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Após o cancelamento, a grade de **Resultados** do seu programa de email será semelhante à grade abaixo. Todos os envios subsequentes serão cancelados e exibidos como &quot;Email rejeitado temporariamente&quot; na coluna **Tipo de atividade**.
+1. Após o cancelamento, a grade de **[!UICONTROL Resultados]** do seu programa de email será semelhante à grade abaixo. Todos os envios subsequentes serão cancelados e exibidos como &quot;Email rejeitado temporariamente&quot; na coluna **[!UICONTROL Tipo de atividade]**.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 

@@ -4,10 +4,10 @@ description: Criar um segmento usando dados de pessoas conhecidas - Documentaç�
 title: Criar um segmento usando dados de pessoas conhecidas
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -19,11 +19,11 @@ Veja como criar um segmento usando valores de Dados de pessoas conhecidas.
 >
 >[Gerenciar dados da pessoa](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. Vá para **Segmentos**.
+1. Vá para **[!UICONTROL Segmentos]**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Clique em **Criar novo**.
+1. Clique em **[!UICONTROL Criar novo]**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ Veja como criar um segmento usando valores de Dados de pessoas conhecidas.
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Na Segmentação de Perfil, arraste o **Banco de Dados** para a tela.
+1. Na Segmentação de Perfil, arraste o **[!UICONTROL Banco de Dados]** para a tela.
 
    ![](assets/four-1.png)
 
@@ -53,11 +53,11 @@ Veja como criar um segmento usando valores de Dados de pessoas conhecidas.
 
    ![](assets/eight.png)
 
-1. Selecione o operador AND/OR. Selecione o campo a ser adicionado. Selecione um Campo de dados da pessoa. Informe o Valor dos Dados Pessoais.
+1. Selecione o operador [!UICONTROL AND]/[!UICONTROL OR]. Selecione o campo a ser adicionado. Selecione um Campo de dados da pessoa. Informe o Valor dos Dados Pessoais.
 
    ![](assets/nine.png)
 
-1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir a campanha** para salvar e ir para a página Campanhas.
+1. Clique em **[!UICONTROL Salvar]** para salvar o segmento ou **[!UICONTROL Salvar e definir a campanha]** para salvar e ir para a página [!UICONTROL Campanhas].
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

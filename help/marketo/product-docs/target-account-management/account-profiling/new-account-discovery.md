@@ -4,9 +4,9 @@ description: Descoberta de nova conta - Documentação do Marketo - Documentaç�
 title: Descoberta de Nova Conta
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -27,27 +27,27 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
 >
 >É recomendável pressionar o botão **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja vendo os dados mais recentes. Esta atualização pode levar até 24 horas.
 
-1. Em Meu Marketo, clique em **Gerenciamento de Conta de Destino**.
+1. Em Meu Marketo, clique em **[!UICONTROL Gerenciamento de Conta de Destino]**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Clique na guia **Perfil da conta**.
+1. Clique na guia **[!UICONTROL Perfil da conta]**.
 
    ![](assets/two-2.png)
 
-1. Clique na guia **Novas contas**.
+1. Clique na guia **[!UICONTROL Novas contas]**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Novas contas mostra uma lista de contas que ainda não são suas no TAM. São contas com potencial para serem novas para você com base nos filtros que você selecionar.
+   >[!UICONTROL Novas contas] mostra uma lista de contas que ainda não são suas no TAM. São contas com potencial para serem novas para você com base nos filtros que você selecionar.
 
 1. Selecione todos os filtros aplicáveis (esta parte é altamente personalizável, veja a seguir apenas um exemplo para demonstrar a filtragem).
 
    ![](assets/four-1.png)
 
-1. Clique em **Salvar tudo e criar lista** no canto inferior direito da página.
+1. Clique em **[!UICONTROL Salvar tudo e criar lista]** no canto inferior direito da página.
 
    ![](assets/five-1.png)
 
@@ -61,9 +61,9 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
 
    >[!NOTE]
    >
-   >Para salvá-la em uma Lista de Contas existente, selecione essa opção, clique no menu suspenso e selecione a Lista de Contas desejada e clique em **Avançar**.
+   >Para salvá-la em uma Lista de Contas existente, selecione essa opção, clique no menu suspenso e selecione a Lista de Contas desejada e clique em **[!UICONTROL Avançar]**.
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/seven-1.png)
 
@@ -71,10 +71,10 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
    >
    >Você só pode salvar até 5.000 contas de cada vez. Se a sua pesquisa produzir 10.000 resultados, você terá que salvar os primeiros 5.000, redefinir os filtros e salvar os próximos 5.000. O limite de contas de **total** é de um milhão.
 
-1. Clique em **OK**.
+1. Clique em **[!UICONTROL OK]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Depois que suas contas forem salvas, você poderá usar um [público-alvo correspondente no LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) para direcioná-las.
+   >Depois que suas contas forem salvas, você poderá usar um [público-alvo correspondente [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) para direcioná-las.

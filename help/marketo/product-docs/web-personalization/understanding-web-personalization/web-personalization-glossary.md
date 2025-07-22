@@ -4,16 +4,16 @@ description: Glossário do Web Personalization - Documentação do Marketo - Doc
 title: Glossário do Web Personalization
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
-# Glossário do Web Personalization {#web-personalization-glossary}
+# Glossário [!DNL Web Personalization] {#web-personalization-glossary}
 
-Alguns insights sobre o mundo e o idioma do Marketo Web Personalization.
+Alguns insights sobre o mundo e a linguagem de [!DNL Marketo Web Personalization].
 
 | Termo | Definição |
 |---|---|
@@ -29,7 +29,7 @@ Alguns insights sobre o mundo e o idioma do Marketo Web Personalization.
 
 ## Exemplos de curinga {#wildcard-examples}
 
-Estas são três maneiras de usar um curinga no Web Personalization.
+Estas são três maneiras de usar um curinga no [!DNL Web Personalization].
 
 Corresponder todos os visitantes nas URLs de página que terminam com preços (por exemplo, `www.marketo.com/pricing`
 

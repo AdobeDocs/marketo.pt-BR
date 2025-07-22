@@ -4,7 +4,7 @@ description: Adicionar um token do sistema como um link em um email - Documenta�
 title: Adicionar um token do sistema como um link em um email
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Os seguintes tokens podem ser usados como links em um email ou template de email
 
 Veja como adicioná-los a um email:
 
-1. Localize e selecione seu email e clique em **Editar Rascunho**.
+1. Localize e selecione seu email e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ Veja como adicioná-los a um email:
 
    ![](assets/two-1.png)
 
-1. Realce o texto que deseja converter em um link que terá o token e clique no botão **Inserir/Editar Link**.
+1. Realce o texto que deseja converter em um link que terá o token e clique no botão **[!UICONTROL Inserir/Editar Link]**.
 
    ![](assets/three-1.png)
 
-1. Insira o token na URL do link e clique em **Inserir**.
+1. Insira o token na URL do link e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ Veja como adicioná-los a um email:
    >
    >Copie/cole o token que deseja: **`{{system.forwardToFriendLink}}`** ou **`{{system.unsubscribeLink}}`** ou **`{{system.viewAsWebpageLink}}`**
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

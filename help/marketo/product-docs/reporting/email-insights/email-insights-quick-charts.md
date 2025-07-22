@@ -4,7 +4,7 @@ description: Gráficos rápidos do Insights de email - Documentação do Marketo
 title: Gráficos rápidos do Insights de email
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Gráficos rápidos são miniaturas que você personaliza e salva, fornecendo uma
 
 Neste exemplo, escolheremos taxa de abertura para as primeiras três semanas de fevereiro de 2016, nos estados da Califórnia e Flórida.
 
-1. Clique no filtro de datas à direita da tela Analytics.
+1. Clique no filtro de datas à direita da tela [!UICONTROL Analytics].
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Neste exemplo, escolheremos taxa de abertura para as primeiras três semanas de 
 
    ![](assets/two-2.png)
 
-1. Quando o intervalo de datas estiver selecionado, clique em **Aplicar**.
+1. Quando o intervalo de datas estiver selecionado, clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ Neste exemplo, escolheremos taxa de abertura para as primeiras três semanas de 
 
    ![](assets/5.png)
 
-1. No lado direito do gráfico, clique no ícone de exportação e selecione **Salvar como Gráfico Rápido**.
+1. No lado direito do gráfico, clique no ícone de exportação e selecione **[!UICONTROL Salvar como Gráfico Rápido]**.
 
    ![](assets/six.png)
 
-1. Nomeie o Gráfico rápido e clique em **Salvar**.
+1. Nomeie o Gráfico rápido e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ Neste exemplo, escolheremos taxa de abertura para as primeiras três semanas de 
 
 Deseja excluir um dos Gráficos Rápidos? É fácil!
 
-1. Clique no ícone **Gráficos rápidos**.
+1. Clique no ícone **[!UICONTROL Gráficos rápidos]**.
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ Deseja excluir um dos Gráficos Rápidos? É fácil!
 
    ![](assets/ten.png)
 
-1. Clique em **Ok**.
+1. Clique em **[!UICONTROL Ok]**.
 
    ![](assets/eleven.png)
 

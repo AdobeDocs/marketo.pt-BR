@@ -4,7 +4,7 @@ description: Sales Intelligence - Documentação do Marketo - Documentação do 
 title: Inteligência de vendas
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Acesse-o fazendo logon na plataforma Marketo Web Personalization, por meio de um
 
 ## Definir a região do usuário {#define-the-users-region}
 
-Para definir os dados de Organização e Visitante exibidos no Marketo Web Personalization por sua região, país ou estado, vá para [Configurações do usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) e selecione os países ou estados.
+Para definir os dados de Organização e Visitante exibidos no Marketo Web Personalization por sua região, país ou estado, vá para [[!UICONTROL Configurações do usuário]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) e selecione os países ou estados.
 
 ## Configurar relatórios de email diários ou semanais {#set-up-daily-or-weekly-email-reports}
 
-Em [Configurações de Usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), você pode configurar o para receber relatórios de email diários ou semanais, enviados de manhã cedo. Os principais relatórios de interesse de um executivo de vendas incluem os relatórios de Organizações e Clientes potenciais, que exibem as principais organizações visitadas e os clientes potenciais enviados, incluindo seus comportamentos, a partir da região específica do usuário.
+Em [[!UICONTROL Configurações de Usuário]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), você pode configurar o para receber relatórios de email diários ou semanais, enviados de manhã cedo. Os principais relatórios de interesse de um executivo de vendas incluem os relatórios de Organizações e Clientes potenciais, que exibem as principais organizações visitadas e os clientes potenciais enviados, incluindo seus comportamentos, a partir da região específica do usuário.
 
 >[!NOTE]
 >

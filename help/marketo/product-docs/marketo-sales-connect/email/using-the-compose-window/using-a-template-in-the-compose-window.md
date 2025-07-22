@@ -4,7 +4,7 @@ description: Uso de um modelo na janela Compor - Documentação do Marketo - Doc
 title: Usando um modelo na janela Compor
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Localização e uso de modelos {#finding-and-using-templates}
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **[!UICONTROL Compor]** no cabeçalho).
 
    ![](assets/one-6.png)
 
-1. Preencha o campo Para.
+1. Preencha o campo [!UICONTROL Para].
 
    ![](assets/searching-two.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
 Marque **até cinco** categorias de modelo específicas para obter acesso rápido aos modelos mais usados.
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **[!UICONTROL Compor]** no cabeçalho).
 
    ![](assets/one-6.png)
 
-1. Clique no ícone **+** ao lado de Favoritos.
+1. Clique no ícone **+** ao lado de [!UICONTROL Favoritos].
 
    ![](assets/pinning-two.png)
 
-1. Clique no menu suspenso **Fixar uma Categoria** e selecione a categoria desejada.
+1. Clique no menu suspenso **[!UICONTROL Fixar uma Categoria]** e selecione a categoria desejada.
 
    ![](assets/pinning-three.png)
 
-1. Clique em **Salvar alterações** quando terminar (opcional: repita a Etapa 3 para adicionar mais).
+1. Clique em **[!UICONTROL Salvar alterações]** quando terminar (opcional: repita a Etapa 3 para adicionar mais).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ Marque **até cinco** categorias de modelo específicas para obter acesso rápid
 
    >[!NOTE]
    >
-   >Por padrão, **Favoritos** estão lá. Ele contém templates de email favoritos, não categorias.
+   >Por padrão, **[!UICONTROL Favoritos]** estão lá. Ele contém templates de email favoritos, não categorias.
 
    A categoria selecionada agora está fixada.

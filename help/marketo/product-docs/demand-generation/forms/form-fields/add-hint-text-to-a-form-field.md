@@ -4,10 +4,10 @@ description: Adicionar texto de dica a um campo de formulário - Documentação 
 title: Adicionar texto de dica a um campo de formulário
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ Dicas e [instruções](/help/marketo/product-docs/demand-generation/forms/form-f
 >
 >As **Instruções** do formulário são pequenas dicas que mostram quando o visitante passa o mouse sobre o campo.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Selecione o campo e insira seu **Texto de Dica**.
+1. Selecione o campo e insira seu **[!UICONTROL Texto de Dica]**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 

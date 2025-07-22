@@ -4,16 +4,16 @@ description: Prioridade, Urgência, Pontuação relativa e Melhores Opções - D
 title: Prioridade, Urgência, Pontuação Relativa e Melhores Opções
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 1%
+source-wordcount: '445'
+ht-degree: 0%
 
 ---
 
-# Prioridade, Urgência, Pontuação Relativa e Melhores Opções {#priority-urgency-relative-score-and-best-bets}
+# Prioridade, Urgência, Pontuação Relativa e [!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
-O Marketo Sales Insight escolhe seus melhores leads e contatos com base em suas prioridades. A prioridade de um cliente potencial ou contato tem dois componentes: urgência e pontuação relativa.
+O [!DNL Marketo Sales Insight] escolhe seus melhores clientes em potencial e contatos com base em suas prioridades. A prioridade de um cliente potencial ou contato tem dois componentes: urgência e pontuação relativa.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -37,9 +37,9 @@ As estrelas representam pontuação relativa — uma medida de como a pontuaçã
 
 Se dois leads tiverem a mesma urgência, você poderá usar a pontuação relativa para saber qual deles merece uma chamada telefônica primeiro. Aquele com a pontuação relativa mais alta pode reagir mais favoravelmente à sua oferta em relação ao menor.
 
-## Melhores opções {#best-bets}
+## [!DNL Best Bets] {#best-bets}
 
-Suas Melhores Opções são seus leads e contatos com a maior urgência e pontuação relativa. Somente os clientes em potencial que você possui estão visíveis nessa lista, e ela é atualizada conforme as pontuações dos clientes em potencial mudam.
+Seus [!DNL Best Bets] são seus clientes em potencial e contatos com a maior urgência e pontuação relativa. Somente os clientes em potencial que você possui estão visíveis nessa lista, e ela é atualizada conforme as pontuações dos clientes em potencial mudam.
 
 >[!NOTE]
 >

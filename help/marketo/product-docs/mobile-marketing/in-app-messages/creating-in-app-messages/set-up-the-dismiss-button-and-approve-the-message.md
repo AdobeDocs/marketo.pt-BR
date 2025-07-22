@@ -4,7 +4,7 @@ description: Configurar o botão Dispensar e aprovar a mensagem - Documentação
 title: Configurar o botão Dispensar e aprovar a mensagem
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -49,7 +49,7 @@ O botão Dispensar tem muitas opções que permitem configurá-lo da maneira que
 
 Todas as seleções de gráficos, texto e botões foram salvas automaticamente. Agora, você está pronto para terminar o trabalho.
 
-1. Para visualizar a mensagem no aplicativo, clique no menu suspenso **Ações de Mensagem** e selecione **Visualizar**.
+1. Para visualizar a mensagem no aplicativo, clique no menu suspenso **[!UICONTROL Ações de Mensagem]** e selecione **[!UICONTROL Visualizar]**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ Todas as seleções de gráficos, texto e botões foram salvas automaticamente. 
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Se você estiver satisfeito com a mensagem no aplicativo, clique em **Aprovar e fechar**.
+1. Se você estiver satisfeito com a mensagem no aplicativo, clique em **[!UICONTROL Aprovar e fechar]**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >Você também pode selecionar **Aprovar e fechar** diretamente no menu suspenso Ações de Mensagem (veja a etapa 1), mas por que não visualizar a mensagem primeiro, apenas para ter segurança?
+   >Você também pode selecionar **[!UICONTROL Aprovar e fechar]** diretamente no menu suspenso [!UICONTROL Ações de Mensagem] (veja a etapa 1), mas por que não visualizar a mensagem primeiro, apenas para ter segurança?
 
 1. Para fechar o editor sem aprovação, basta fechar a guia. Ele é salvo automaticamente, para que você possa devolvê-lo e aprová-lo posteriormente.
 

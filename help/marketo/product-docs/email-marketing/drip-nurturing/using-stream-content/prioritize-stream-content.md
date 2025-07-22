@@ -4,7 +4,7 @@ description: Priorizar conteúdo de fluxo - Documentação do Marketo - Document
 title: Priorizar o conteúdo do fluxo
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Depois de adicionar conteúdo ao seu fluxo, talvez você queira alterar a prioridade. O conteúdo é sempre entregue de cima para baixo em cada elenco e nenhum conteúdo é enviado duas vezes para a mesma pessoa.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
+1. Selecione seu programa de engajamento e clique na guia **[!UICONTROL Fluxos]**.
 
    ![](assets/cloneasteam-1.jpg)
 

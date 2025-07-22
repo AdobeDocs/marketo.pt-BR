@@ -4,9 +4,9 @@ description: Entendendo atividades e pessoas anônimas - Documentação do Marke
 title: Compreender atividades anônimas e pessoas
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ Na primeira vez que alguém visitar uma página de aterrissagem do Marketo (ou u
 
 >[!IMPORTANT]
 >
->Habilitar o Recurso do Beta **Munchkin V2 Atividade de Repetição Anônima em Conhecido** garante que as campanhas acionadas pela promoção de cliente potencial anônimo sempre serão repetidas depois que o cliente potencial anônimo for mesclado com êxito no registro conhecido. Como resultado, os campos personalizados alterados pelas etapas Alterar valor dos dados em qualquer campanha repetida serão retidos no registro conhecido.
+>Habilitar o Recurso do Beta **[!DNL Munchkin]V2 Atividade de Repetição Anônima em Conhecido** garante que as campanhas acionadas pela promoção anônima de clientes potenciais sempre sejam repetidas depois que o cliente potencial anônimo for mesclado com êxito no registro conhecido. Como resultado, os campos personalizados alterados pelas etapas Alterar valor dos dados em qualquer campanha repetida serão retidos no registro conhecido.
 
 **Uma atividade Anônima** é criada quando alguém:
 
 * Visita a página de aterrissagem do Marketo pela primeira vez.
-* Visita uma página do seu site que tem [rastreamento de Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+* Visita uma página do seu site que tem [rastreamento do Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 * Clica no link [Exibir como Página da Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} em um email do Marketo.
 
 >[!NOTE]

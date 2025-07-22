@@ -1,16 +1,16 @@
 ---
-description: Adicionar ou remover pessoas do Dynamics Campaign - Documentação do Marketo - Documentação do produto
-title: Adicionar ou Remover Pessoas do Dynamics Campaign
+description: Adicionar ou remover pessoas do  [!DNL Dynamics] Campaign - Documentação do Marketo - Documentação do produto
+title: Adicionar ou Remover Pessoas da sua  [!DNL Dynamics] Campanha
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
 
-# Adicionar ou Remover Pessoas do Dynamics Campaign {#add-or-remove-people-from-your-dynamics-campaign}
+# Adicionar ou Remover Pessoas da sua Campanha [!DNL Dynamics] {#add-or-remove-people-from-your-dynamics-campaign}
 
 ## Adicionar ao Dynamics Campaign {#add-to-dynamics-campaign}
 
@@ -33,7 +33,7 @@ Na Campanha inteligente, localize e selecione a campanha do Dynamics à qual des
 
 O sistema cria automaticamente uma Lista de marketing estática específica da campanha, cada uma para leads e contatos, à qual a pessoa será adicionada. É uma ação única e, uma vez para sincronizações subsequentes da campanha, a mesma Lista de marketing é usada. O padrão de nomenclatura adotado para o nome estático da Lista de marketing é `Mkto-leads-<uniqueID>` para clientes potenciais e `Mkto-contacts-<uniqueID>` para contatos.
 
-Associar essas Listas de marketing geradas pela Marketo a outras campanhas pode levar a um comportamento confuso. Por exemplo: adicionar a uma campanha também resultaria em adicionar à segunda campanha. Da mesma forma, não é recomendado dissociar a Lista de marketing gerada pela Marketo da Campanha no Dynamics.
+Associar essas Listas de marketing geradas pela Marketo a outras campanhas pode levar a um comportamento confuso. Por exemplo: adicionar a uma campanha também resultaria em adicionar à segunda campanha. Da mesma forma, não é recomendado desassociar a Lista de marketing gerada pela Marketo da Campanha em [!DNL Dynamics].
 
 ## Remover do Dynamics Campaign {#remove-from-dynamics-campaign}
 
@@ -49,7 +49,7 @@ Na Campanha inteligente, localize e selecione a campanha do Dynamics da qual des
 
 >[!NOTE]
 >
->Se você não vir uma campanha do Dynamics na lista de campanhas:
+>Se você não vir uma campanha [!DNL Dynamics] na lista de campanhas:
 >
 >* Verifique se a Sincronização do Campaign está funcional
 >* A campanha não está ativa em [!DNL Microsoft Dynamics]

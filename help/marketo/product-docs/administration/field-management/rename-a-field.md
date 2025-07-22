@@ -4,9 +4,9 @@ description: Renomear um campo - Documentação do Marketo - Documentação do p
 title: Renomear um campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
@@ -45,4 +45,4 @@ Excelente! Agora você sabe como renomear campos no Marketo.
 
 >[!CAUTION]
 >
->Se você renomear o nome da API no Salesforce, o Marketo criará um campo totalmente novo e deixará o antigo para trás.
+>Se você renomear o nome da API em [!DNL Salesforce], o Marketo criará um campo totalmente novo e deixará o antigo para trás.

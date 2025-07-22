@@ -3,7 +3,7 @@ description: Uso de um modelo na janela Compor - Documentação do Marketo - Doc
 title: Usando um modelo na janela Compor
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Localização e uso de modelos {#finding-and-using-templates}
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **[!UICONTROL Compor]** no cabeçalho).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Preencha o campo Para.
+1. Preencha o campo [!UICONTROL Para].
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Selecione uma categoria para pesquisar (ou selecione Tudo para pesquisar em todas as categorias).
+1. Selecione uma categoria para pesquisar (ou selecione [!UICONTROL Tudo] para pesquisar em todas as categorias).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 Marque **até cinco** categorias de modelo específicas para obter acesso rápido aos modelos mais usados.
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **[!UICONTROL Compor]** no cabeçalho).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Clique no ícone **+** ao lado de Favoritos.
+1. Clique no ícone **+** ao lado de [!UICONTROL Favoritos].
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Clique no menu suspenso **Fixar uma Categoria** e selecione a categoria desejada.
+1. Clique no menu suspenso **[!UICONTROL Fixar uma Categoria]** e selecione a categoria desejada.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ Marque **até cinco** categorias de modelo específicas para obter acesso rápid
 
    >[!NOTE]
    >
-   >Por padrão, **Favoritos** estão lá. Ele contém templates de email favoritos, não categorias.
+   >Por padrão, **[!UICONTROL Favoritos]** estão lá. Ele contém templates de email favoritos, não categorias.
 
    A categoria selecionada agora está fixada.

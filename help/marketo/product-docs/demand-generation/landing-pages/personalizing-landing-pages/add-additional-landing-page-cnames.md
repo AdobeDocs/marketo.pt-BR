@@ -4,7 +4,7 @@ description: Adicionar outros CNAMEs de página inicial - Documentação do Mark
 title: Adicionar outros CNAMEs de página inicial
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -37,15 +37,15 @@ Você pode adicionar CNAMEs de página de aterrissagem para permitir que URLs di
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
-1. Role para baixo até &quot;Informações de suporte&quot; e copie sua ID do Munchkin.
+1. Role para baixo até &quot;Informações de suporte&quot; e copie sua Munchkin ID.
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## Enviar solicitação para TI {#send-request-to-it}
 
-1. Peça ao seu departamento de TI para configurar o seguinte CNAME: (Substitua a palavra [CNAME] pelo CNAME de sua escolha e [ID do Munchkin] pelo texto da etapa anterior).
+1. Peça ao seu departamento de TI para configurar o seguinte CNAME: (Substitua a palavra [CNAME] pelo CNAME de sua escolha e [Munchkin ID] pelo texto da etapa anterior).
 
-   [CNAME].YourCompany.com > [ID do Munchkin].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Adicionar um novo CNAME {#add-a-new-cname}
 
@@ -57,19 +57,19 @@ Você pode adicionar CNAMEs de página de aterrissagem para permitir que URLs di
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Clique em **Novo** e selecione **Novo alias de domínio**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo alias de domínio]**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Insira seu Alias de Domínio **.** A **Página Padrão** será exibida se o visitante não colocar uma URL. Digite para onde eles devem ir nesse caso.
+1. Insira seu **[!UICONTROL Alias do Domínio].** A **[!UICONTROL Página Padrão]** será exibida se o visitante não colocar uma URL. Digite para onde eles devem ir nesse caso.
 
    >[!NOTE]
    >
-   >Para a Página padrão, é possível selecionar uma página de aterrissagem ou um URL externo, como o site público.
+   >Para a [!UICONTROL Página Padrão], você pode selecionar uma página de aterrissagem ou uma URL externa, como seu site público.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Insira sua **Página padrão** e clique em **Criar**.
+1. Insira sua **[!UICONTROL Página padrão]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

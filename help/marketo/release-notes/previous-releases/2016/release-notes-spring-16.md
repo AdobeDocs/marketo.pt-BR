@@ -4,9 +4,9 @@ description: Notas de versão - Segundo trimestre de 2016 - Documentação do Ma
 title: Notas de versão - primavera de 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -61,13 +61,13 @@ As APIs REST do Marketo agora oferecem suporte ao controle sobre páginas de ate
 
 Semelhante ao recurso de incluir na lista de permissões de IP para logons de usuário do Marketo, os administradores do Marketo agora podem configurar um incluo na lista de permissões de endereços IP que podem acessar as APIs do Marketo SOAP e REST, bloqueando o acesso de endereços IP não autorizados. Isso fornece uma camada adicional de segurança para a instância do Marketo e garante que o acesso à API só possa ocorrer de dentro da rede da organização. Detalhes sobre como configurar esta opção estão disponíveis no [site de documentação do Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [Novo Conector de Sincronização do Microsoft Dynamics de Alta Velocidade](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [Novo Conector de Sincronização de Alta Velocidade do Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 O novo conector Dynamics de alta velocidade fornece velocidades até 20 vezes mais rápidas para a sincronização inicial e até 5 vezes mais rápidas para a sincronização incremental. Todos os novos clientes serão integrados a esse conector na data de lançamento e, gradualmente, o implantaremos para os clientes existentes durante o período de lançamento do verão.
 
-**Atualizar dados para novos campos**: agora você pode habilitar novos campos de sincronização a qualquer momento, e todos os valores de dados para esse campo serão atualizados do Dynamics CRM para o Marketo. Não há mais preocupações sobre a necessidade de selecionar todos os campos durante a configuração inicial. Se você desabilitar um campo de sincronização existente e reabilitá-lo posteriormente, todos os valores de dados desse campo serão atualizados do Dynamics CRM para o Marketo.
+**Atualizar dados para novos campos**: agora você pode habilitar novos campos de sincronização a qualquer momento, e todos os valores de dados para esse campo serão atualizados do [!DNL Dynamics] CRM para o Marketo. Não há mais preocupações sobre a necessidade de selecionar todos os campos durante a configuração inicial. Se você desabilitar um campo de sincronização existente e reabilitá-lo posteriormente, todos os valores de dados para esse campo serão atualizados do CRM [!DNL Dynamics] para o Marketo.
 
-**Cliente Potencial de Sincronização como Contato**: a ação de fluxo Sincronizar Cliente Potencial para Microsoft tem uma nova opção para sincronizar como um cliente potencial ou contato.
+**Sincronizar Cliente Potencial como Contato**: a ação de fluxo [!UICONTROL Sincronizar Cliente Potencial com Microsoft] tem uma nova opção para sincronizar como um cliente potencial ou um contato.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -75,7 +75,7 @@ O novo conector Dynamics de alta velocidade fornece velocidades até 20 vezes ma
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: o conector é totalmente certificado para as versões do Dynamics 2016 Online e No local.
+**[!DNL Microsoft Dynamics]2016**: Conector totalmente certificado para as versões [!DNL Dynamics] 2016 [!DNL Online] e [!DNL On-premise].
 
 **As Atualizações do Plug-in agora estão documentadas:** Consulte o [artigo sobre documentos de atualizações do plug-in](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 

@@ -4,10 +4,10 @@ description: Alterar a posição do rótulo do formulário - Documentação do M
 title: Alterar a posição do rótulo do formulário
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -15,32 +15,32 @@ ht-degree: 2%
 
 Ao [criar um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos de campo de formulário com muita facilidade. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Selecione **Configurações**.
+1. Selecione **[!UICONTROL Configurações]**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Selecione a **Posição do Rótulo** desejada.
+1. Selecione a **[!UICONTROL Posição do Rótulo]** desejada.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    No momento, você tem duas opções:
 
-   * Esquerda (padrão)
-   * Acima
+   * [!UICONTROL Esquerda] (padrão)
+   * [!UICONTROL Acima]
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    >[!NOTE]
    >

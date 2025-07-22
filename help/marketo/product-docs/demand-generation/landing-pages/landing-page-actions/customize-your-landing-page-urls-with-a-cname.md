@@ -4,7 +4,7 @@ description: Personalizar os URLs da sua página de aterrissagem com um CNAME - 
 title: Personalizar os URLs da sua landing page com um CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 1%
@@ -31,7 +31,7 @@ Escolha uma palavra para ir no início do URL das páginas de aterrissagem. É a
 
 A palavra (mais YourCompany.com) é chamada de CNAME. Você precisará disso mais tarde, então anote-o.
 
-## Encontrar o seu ID do Munchkin {#find-your-munchkin-id}
+## Encontrar a Munchkin ID {#find-your-munchkin-id}
 
 1. Vá para a área **Administrador**.
 
@@ -45,7 +45,7 @@ A palavra (mais YourCompany.com) é chamada de CNAME. Você precisará disso mai
    >
    >**Permissões de administrador necessárias**
 
-1. Role para baixo até &quot;Informações de suporte&quot; e copie sua ID do Munchkin.
+1. Role para baixo até &quot;Informações de suporte&quot; e copie sua Munchkin ID.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -53,7 +53,7 @@ A palavra (mais YourCompany.com) é chamada de CNAME. Você precisará disso mai
 
 Peça à sua equipe de TI para configurar o seguinte CNAME: (Substitua a palavra [CNAME] e [Munchkin ID] pelo texto da etapa anterior.)
 
-[CNAME].YourCompany.com > [ID do Munchkin].mktoweb.com
+[CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Concluir configuração de CNAME {#complete-cname-setup}
 
@@ -69,7 +69,7 @@ Peça à sua equipe de TI para configurar o seguinte CNAME: (Substitua a palavra
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Digite seu CNAME em **Nome do domínio para Páginas de Aterrissagem**, digite sua **Página de fallback**, digite sua **Página inicial** e clique em **Salvar**.
+1. Digite seu CNAME em **[!UICONTROL Nome do domínio para Páginas de Aterrissagem]**, digite sua **[!UICONTROL Página de fallback]**, digite sua **[!UICONTROL Página inicial]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

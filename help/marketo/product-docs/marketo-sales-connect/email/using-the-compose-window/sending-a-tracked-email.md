@@ -4,35 +4,35 @@ description: Envio de um email rastreado - Documentação do Marketo - Documenta
 title: Enviar um email rastreado
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # Enviar um email rastreado {#sending-a-tracked-email}
 
-Ao enviar um email com o Marketo Sales Connect, as visualizações (email abre) e os cliques (links clicados) serão rastreados.
+Ao enviar um email com [!DNL Marketo Sales Connect], os modos de exibição (aberturas de email) e os cliques (links clicados) serão rastreados.
 
 >[!PREREQUISITES]
 >
 >Você precisará ter uma identidade verificada e um canal de entrega de email configurado antes de enviar um email rastreado.
 >
 >* [Verificar seu endereço de email](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Configurar um Canal de Entrega para o [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) ou o [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* Configure um Canal de Entrega para [[!DNL Outlook]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) ou [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **[!UICONTROL Compor]** no cabeçalho).
 
    ![](assets/one.png)
 
-1. Insira o nome ou email de um destinatário no campo **Para**.
+1. Insira o nome ou email de um destinatário no campo **[!UICONTROL Para]**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Você pode ter somente uma pessoa no campo Para.
+   >Você só pode ter uma pessoa no campo **[!UICONTROL Para]**.
 
 1. Adicione todos os recipients que você deseja CC ou CCO nos respectivos campos.
 
@@ -40,7 +40,7 @@ Ao enviar um email com o Marketo Sales Connect, as visualizações (email abre) 
 
    >[!NOTE]
    >
-   >Se alguém que foi CC ou CCO abrir o email, essa abertura será registrada como uma exibição no registro da pessoa no campo **Para**.
+   >Se alguém que foi CC ou CCO abrir o email, essa abertura será registrada como uma exibição no registro da pessoa no campo **[!UICONTROL Para]**.
 
 1. Adicione uma linha de assunto.
 
@@ -50,7 +50,7 @@ Ao enviar um email com o Marketo Sales Connect, as visualizações (email abre) 
    >
    >Uma linha de assunto e um destinatário são necessários para enviar o email. Vamos **salvar automaticamente seu rascunho** assim que uma linha de assunto e um destinatário forem adicionados.
 
-1. Redija o email usando o editor. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), se preferir) quando terminar.
+1. Redija o email usando o editor. Clique em **[!UICONTROL Enviar]** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), se preferir) quando terminar.
 
    ![](assets/five.png)
 

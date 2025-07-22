@@ -4,7 +4,7 @@ description: Assinar uma lista inteligente - Documentação do Marketo - Documen
 title: Inscrever-se em uma lista inteligente
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -17,12 +17,12 @@ A inscrição em listas inteligentes é uma ótima maneira de rastrear pessoas, 
 
 É possível criar uma assinatura de lista inteligente em dois lugares separados:
 
-* Atividades de marketing
-* Banco de dados
+* [!UICONTROL Atividades de marketing]
+* [!UICONTROL Banco de dados]
 
 As assinaturas usam a lista completa de pessoas no momento em que são executadas.
 
-As assinaturas ficam no local em que se encontra a sua lista inteligente, em Atividades de marketing ou Banco de dados.
+As assinaturas ficam no local em que se encontra a sua lista inteligente, em [!UICONTROL Atividades de marketing] ou [!UICONTROL Banco de dados].
 
 É possível criar várias assinaturas a partir da mesma lista inteligente.
 
@@ -36,39 +36,39 @@ As assinaturas são específicas do espaço de trabalho. Por exemplo, essa lista
 
 ## Criar uma assinatura de lista inteligente {#create-a-smart-list-subscription}
 
-1. Vá para o **Banco de Dados** ou **Atividades de Marketing**.
+1. Vá para o **[!UICONTROL Banco de Dados]** ou **[!UICONTROL Atividades de Marketing]**.
 
    ![](assets/db.png)
 
-1. Selecione a lista inteligente para a qual deseja criar uma assinatura. Clique em **Listar Ações** e selecione **Nova Assinatura da Smart List**.
+1. Selecione a lista inteligente para a qual deseja criar uma assinatura. Clique em **[!UICONTROL Listar Ações]** e selecione **[!UICONTROL Nova Assinatura da Smart List]**.
 
    ![](assets/three.png)
 
-1. Dê um **Nome** à sua assinatura e selecione ou insira os endereços de email dos **Destinatários**.
+1. Dê um **[!UICONTROL Nome]** à sua assinatura e selecione ou insira os endereços de email dos **[!UICONTROL Destinatários]**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Clique na lista **Frequência** e selecione uma frequência.
+1. Clique na lista **[!UICONTROL Frequência]** e selecione uma frequência.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Defina a data de **Término da Entrega**. Você pode selecionar **Nunca** ou uma data de calendário.
+1. Defina a data de **[!UICONTROL Término da Entrega]**. Você pode selecionar **[!UICONTROL Nunca]** ou uma data de calendário.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Clique em **Formatar** e escolha na lista.
+1. Clique em **[!UICONTROL Formatar]** e escolha na lista.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. A nova assinatura da lista inteligente é exibida na parte superior da lista na guia Subscriptions. Clique em **Enviar** se desejar enviar agora e não aguardar a entrega agendada de email.
+1. A nova assinatura da lista inteligente é exibida na parte superior da lista na guia Subscriptions. Clique em **[!UICONTROL Enviar]** se desejar enviar agora e não aguardar a entrega agendada de email.
 
    ![](assets/eight.png)
 
-1. Recomendamos que você desmarque a caixa de seleção Ativo para desativar uma assinatura de lista inteligente se ninguém estiver inscrito nela.
+1. Recomendamos que você desmarque a caixa de seleção **[!UICONTROL Ativo]** para desativar uma assinatura de lista inteligente se ninguém tiver assinado.
 
    ![](assets/nine.png)
 
@@ -80,7 +80,7 @@ Os recipients receberão um email com uma opção para baixar o relatório, bem 
 
 >[!NOTE]
 >
->Se a configuração [Administrador de Assinatura Segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) estiver definida como **Sim**, somente as pessoas com acesso à instância do Marketo poderão baixar o relatório.
+>Se a configuração [Administrador de Assinatura Segura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) estiver definida como **[!UICONTROL Sim]**, somente as pessoas com acesso à instância do Marketo poderão baixar o relatório.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ O email também fornece informações adicionais sobre os filtros usados para cr
 
 ## Excluir uma assinatura {#delete-a-subscription}
 
-Para excluir uma subscrição, selecione-a na guia subscriptions e clique em Delete Subscription.
+Para excluir uma assinatura, selecione-a na guia de assinaturas e clique em **[!UICONTROL Excluir Assinatura]**.
 
 ![](assets/twelve.png)
 

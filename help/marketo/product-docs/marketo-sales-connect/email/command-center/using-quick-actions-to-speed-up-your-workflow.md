@@ -4,10 +4,10 @@ description: Uso de ações rápidas para acelerar seu fluxo de trabalho - Docum
 title: Uso de ações rápidas para acelerar seu fluxo de trabalho
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 5%
+source-wordcount: '330'
+ht-degree: 3%
 
 ---
 
@@ -23,8 +23,8 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
 
 | Status | Descrição |
 |---|---|
-| Arquivar | Adicionará o email à pasta arquivada e interromperá todas as exibições desativadas e o rastreamento de cliques para esse email. |
-| Sucesso | Marcará o email como bem-sucedido para ser relatado na análise de modelo. |
+| [!UICONTROL Arquivar] | Adicionará o email à pasta arquivada e interromperá todas as exibições desativadas e o rastreamento de cliques para esse email. |
+| [!UICONTROL Sucesso] | Marcará o email como bem-sucedido para ser relatado na análise de modelo. |
 
 **Arquivado**
 
@@ -35,11 +35,11 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Cancelar arquivamento</td> 
+   <td>[!UICONTROL Desarquivar]</td> 
    <td>Moverá o email de volta para a pasta entregue e reativará o rastreamento de visualização/cliques.</td> 
   </tr> 
   <tr> 
-   <td>Excluir</td> 
+   <td>[!UICONTROL Excluir]</td> 
    <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
@@ -54,11 +54,11 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Editar</td> 
+   <td>[!UICONTROL Editar]</td> 
    <td>Abrirá o email na janela de composição para ser editado.</td> 
   </tr> 
   <tr> 
-   <td>Excluir</td> 
+   <td>[!UICONTROL Excluir]</td> 
    <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 
@@ -73,11 +73,11 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Tentar enviar novamente</td> 
+   <td>[!UICONTROL Tentar Enviar Novamente]</td> 
    <td>Tentará enviar o email novamente imediatamente.</td> 
   </tr> 
   <tr> 
-   <td>Excluir</td> 
+   <td>[!UICONTROL Excluir]</td> 
    <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
   </tr> 
  </tbody> 

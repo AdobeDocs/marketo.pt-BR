@@ -4,10 +4,10 @@ description: Entendendo o registro de eventos de email - Documentação do Marke
 title: Entender o registro de eventos de email
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,14 +17,14 @@ Ao enviar emails, o Marketo registra diferentes pontos de dados nos logs de ativ
 
 | Evento | Descrição |
 |---|---|
-| Enviado | É registrado sempre que um email é enviado dos servidores da Marketo, independentemente de ser realmente entregue. Os emails devolvidos ainda são registrados como &quot;Enviados&quot;. |
-| Entrega | É registrado sempre que um email é aceito pelo servidor de email do recipient. Isso não significa que ele evitou filtros de spam. Só pode haver 1 delivery para cada email enviado. |
-| Devolvido permanentemente | Algumas rejeições permanentes são o resultado de bloqueios de spam, portanto, não tentaremos enviar um email para essa pessoa por 24 horas em nenhuma campanha. Outras rejeições permanentes, como caixas de entrada não existentes, são permanentes e nunca enviaremos um email para a pessoa novamente de qualquer campanha. |
-| Devolvido temporariamente | É registrado quando uma resposta do servidor não está clara, caixa de correio cheia ou problemas gerais do servidor. Colocamos essas pessoas em uma lógica de nova tentativa por 24 a 36 horas para uma possível entrega futura. Isso não desqualifica a pessoa de outras correspondências. |
-| Aberto | É registrado quando um recipient exibe um email com imagens NÃO bloqueadas. Somente um evento aberto por email, por pessoa, por campanha inteligente é registrado. Se abrirem o mesmo email duas vezes em sua caixa de entrada, ele não será registrado mais de uma vez. |
-| Clicado | É registrado sempre que um URL decorado do email é carregado no navegador (o resultado do clique no link ). Normalmente, é o clique do recipient, mas também pode ser recortar/colar. |
-| Inscrição cancelada | É registrado quando uma pessoa clica no link de cancelamento de inscrição de um email e envia o formulário de cancelamento de inscrição. |
+| [!UICONTROL Enviado] | É registrado sempre que um email é enviado dos servidores da Marketo, independentemente de ser realmente entregue. Os emails devolvidos ainda são registrados como &quot;Enviados&quot;. |
+| [!UICONTROL Entregue] | É registrado sempre que um email é aceito pelo servidor de email do recipient. Isso não significa que ele evitou filtros de spam. Só pode haver 1 delivery para cada email enviado. |
+| [!UICONTROL Devolvido(s) Fortemente] | Algumas rejeições permanentes são o resultado de bloqueios de spam, portanto, não tentaremos enviar um email para essa pessoa por 24 horas em nenhuma campanha. Outras rejeições permanentes, como caixas de entrada não existentes, são permanentes e nunca enviaremos um email para a pessoa novamente de qualquer campanha. |
+| [!UICONTROL Devolvido(S) Temporariamente] | É registrado quando uma resposta do servidor não está clara, caixa de correio cheia ou problemas gerais do servidor. Colocamos essas pessoas em uma lógica de nova tentativa por 24 a 36 horas para uma possível entrega futura. Isso não desqualifica a pessoa de outras correspondências. |
+| [!UICONTROL Aberto] | É registrado quando um recipient exibe um email com imagens NÃO bloqueadas. Somente um evento aberto por email, por pessoa, por campanha inteligente é registrado. Se abrirem o mesmo email duas vezes em sua caixa de entrada, ele não será registrado mais de uma vez. |
+| [!UICONTROL Clicado] | É registrado sempre que um URL decorado do email é carregado no navegador (o resultado do clique no link ). Normalmente, é o clique do recipient, mas também pode ser recortar/colar. |
+| [!UICONTROL Cancelamento de assinatura] | É registrado quando uma pessoa clica no link de cancelamento de inscrição de um email e envia o formulário de cancelamento de inscrição. |
 
 >[!CAUTION]
 >
->Se o mesmo email for enviado para a mesma pessoa duas vezes da mesma campanha, o evento **Aberto** será registrado no máximo 1 vez.
+>Se o mesmo email for enviado para a mesma pessoa duas vezes da mesma campanha, o evento **[!UICONTROL Aberto]** será registrado no máximo 1 vez.

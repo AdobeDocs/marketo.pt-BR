@@ -4,10 +4,10 @@ description: Insights da conta nomeada - Documentação do Marketo - Documentaç
 title: Insights da conta nomeada
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 3%
+source-wordcount: '418'
+ht-degree: 1%
 
 ---
 
@@ -25,46 +25,46 @@ O painel agrega os principais insights em nível de conta de todas as pessoas em
 >
 >Os gráficos mostram insights dos últimos 90 dias.
 
-**Engajamento na conta ao longo do tempo** Clique no menu suspenso **Exibir** à direita para alterar o que você vê por. Além da Pontuação da conta, você pode ver por Receita total...
+**[!UICONTROL Engajamento na conta ao longo do tempo]** Clique no menu suspenso **[!UICONTROL Exibir]** à direita para alterar o que você vê por. Além de [!UICONTROL Pontuação da Conta], você pode visualizar por [!UICONTROL Receita Total]...
 
 ![](assets/two-new.png)
 
-...ou pipeline.
+...ou [!UICONTROL pipeline].
 
 ![](assets/three-new.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Pontuação de contas</strong></td> 
-   <td><p>Consulte engajamento semanal com base em todas as pontuações de conta criadas no Admin. É possível comparar as pontuações dessas contas lado a lado. Para determinar o engajamento semanal, obtemos o engajamento máximo de qualquer dia da semana.</p></td> 
+   <td><strong><span class="uicontrol">Pontuação de contas</span></strong></td> 
+   <td><p>Veja o engajamento semana a semana com base em todas as pontuações de conta que você criou no <span class="uicontrol">Administrador</span>. É possível comparar as pontuações dessas contas lado a lado. Para determinar o engajamento semanal, obtemos o engajamento máximo de qualquer dia da semana.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Canal de processamento</strong></td> 
+   <td><strong><span class="uicontrol">Canal de processamento</span></strong></td> 
    <td>Ver o pipeline ao longo do tempo. Para determinar o pipeline ao longo da semana, pegamos o pipeline no último dia.</td> 
   </tr> 
   <tr> 
-   <td><strong>Receita</strong></td> 
+   <td><strong><span class="uicontrol">Receita</span></strong></td> 
    <td>Consulte receita ao longo do tempo. Para determinar a receita ao longo do tempo por semana, pegamos a soma de todas as receitas obtidas nessa semana.</td> 
   </tr> 
  </tbody> 
 </table>
 
-**Momentos Interessantes**
+**[!UICONTROL Momentos Interessantes]**
 
-Disponível para os usuários do Marketo Sales Insight, consulte os momentos interessantes acumulados no nível da conta.
+Disponível aos usuários do [!DNL Marketo Sales Insight], veja os momentos interessantes acumulados no nível da conta.
 
 ![](assets/int-mom.png)
 
 **Principais Pessoas**
 
-Essas pessoas são calculadas com base nas prioridades que são baseadas na recenticidade ou urgência mostrada por pessoas de contas nomeadas (as mesmas [Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) no Sales Insight) ou Pontuações definidas pelo usuário. A **Prioridade** está disponível somente para usuários do Marketo Sales Insight.
+Essas pessoas são calculadas com base nas prioridades que são baseadas na recenticidade ou urgência mostrada por pessoas de contas nomeadas (mesma que [Melhores Opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) no Sales Insight) ou Pontuações definidas pelo usuário. A **[!UICONTROL Prioridade]** está disponível somente para usuários de [!DNL Marketo Sales Insight].
 
 ![](assets/top-ten.png)
 
 **Inclui Filhos**
 
-Clique em **Inclui Filhos** para ver e escolher as contas secundárias da conta nomeada selecionada e exibir sua análise agregada.
+Clique em **[!UICONTROL Inclui Filhos]** para ver e escolher as contas secundárias da conta nomeada selecionada e exibir sua análise agregada.
 
 ![](assets/abm.png)
 
@@ -78,29 +78,29 @@ Veja onde a conta nomeada selecionada está em relação à sua hierarquia.
 
 ![](assets/hierarchy.png)
 
-## Oportunidades {#opportunities}
+## [!UICONTROL Oportunidades] {#opportunities}
 
 Uma exibição acumulada de todas as oportunidades abertas em nível de conta, ajudando as equipes de marketing a se concentrarem em fechar oportunidades específicas.
 
 ![](assets/four-1.png)
 
-## Pessoas potenciais {#potential-people}
+## [!UICONTROL Pessoas em potencial] {#potential-people}
 
-A correspondência entre lead e conta usa lógica difusa para encontrar correspondências fracas que podem ser resolvidas na guia Pessoas em potencial.
+A correspondência entre lead e conta usa lógica difusa para encontrar correspondências fracas que podem ser resolvidas na guia [!UICONTROL Pessoas em Potencial].
 
 ![](assets/five-1.png)
 
 >[!NOTE]
 >
->Para adicionar qualquer uma das pessoas listadas, selecione-as e clique em **Adicionar Pessoas**.
+>Para adicionar qualquer uma das pessoas listadas, selecione-as e clique em **[!UICONTROL Adicionar Pessoas]**.
 
-## Usado por {#used-by}
+## [!UICONTROL Usado por] {#used-by}
 
 Esta guia mostra quais campanhas inteligentes, campanhas da Web, listas inteligentes ou relatórios atualmente fazem referência a contas nomeadas ou listas de contas específicas.
 
 ![](assets/six-1.png)
 
-## Equipe da conta {#account-team}
+## [!UICONTROL Equipe da conta] {#account-team}
 
 Exiba membros da equipe de conta, adicione/remova membros e atribua até mesmo um proprietário de conta nesta guia.
 
@@ -108,10 +108,10 @@ Exiba membros da equipe de conta, adicione/remova membros e atribua até mesmo u
 
 >[!NOTE]
 >
->Clique no menu suspenso **Ações da Equipe da Conta** para adicionar/remover membros da conta ou atribuir um proprietário da conta.
+>Clique no menu suspenso **[!UICONTROL Ações da Equipe da Conta]** para adicionar/remover membros da conta ou atribuir um proprietário da conta.
 
-## Indicadores de ICP {#icp-indicators}
+## [!UICONTROL Indicadores ICP] {#icp-indicators}
 
-Exiba os Indicadores ICP selecionados para exportação quando você [ajustou seu modelo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Exiba os [!UICONTROL Indicadores ICP] selecionados para exportação quando você [ajustou seu modelo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
 
 ![](assets/eight.png)

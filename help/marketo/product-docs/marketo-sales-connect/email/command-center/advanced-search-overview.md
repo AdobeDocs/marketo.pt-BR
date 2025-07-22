@@ -4,10 +4,10 @@ description: Visão geral da pesquisa avançada - Documentação do Marketo - Do
 title: Visão geral da pesquisa avançada
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 1%
+source-wordcount: '405'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visuali
 
 ## Como acessar a pesquisa avançada {#how-to-access-advanced-search}
 
-1. Clique em **Centro de comando**.
+1. Clique em **[!UICONTROL Centro de comando]**.
 
    ![](assets/one.png)
 
-1. Clique em **Emails**.
+1. Clique em **[!UICONTROL Emails]**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visuali
 
    ![](assets/three.png)
 
-1. Clique em **Pesquisa Avançada**.
+1. Clique em **[!UICONTROL Pesquisa Avançada]**.
 
    ![](assets/four.png)
 
@@ -37,25 +37,25 @@ Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visuali
 
 **Data**
 
-Escolha o intervalo de datas da pesquisa. As datas predefinidas são atualizadas dependendo do status do email que você escolher (Enviado, Não entregue, Pendente).
+Escolha o intervalo de datas da pesquisa. Atualizações de datas predefinidas dependendo do status do email escolhido ([!UICONTROL Enviado], [!UICONTROL Não entregue], [!UICONTROL Pendente]).
 
 ![](assets/date.png)
 
 **Quem**
 
-Filtre por destinatário/remetente de email na seção Quem.
+Filtrar por destinatário/remetente do email na seção [!UICONTROL Quem].
 
 ![](assets/who.png)
 
 | Suspenso | Descrição |
 |---|---|
-| **Exibir como** | Filtrar por um remetente específico na instância do Sales Connect (essa opção está disponível somente para administradores). |
-| **Por Grupo** | Filtre emails por um grupo específico de recipients. |
-| **Por Pessoa** | Filtrar por um recipient específico. |
+| **[!UICONTROL Exibir como]** | Filtrar por um remetente específico na instância do [!DNL Sales Connect] (esta opção está disponível somente para Administradores). |
+| **[!UICONTROL Por Grupo]** | Filtre emails por um grupo específico de recipients. |
+| **[!UICONTROL Por Pessoa]** | Filtrar por um recipient específico. |
 
 **Quando**
 
-Escolha por data de criação, data de entrega, data de falha ou data programada. As opções disponíveis mudam, dependendo do status do email escolhido (Enviado, Não entregue, Pendente).
+Escolha por data de criação, data de entrega, data de falha ou data programada. As opções disponíveis mudam, dependendo do status do email escolhido ([!UICONTROL Enviado], [!UICONTROL Não entregue], [!UICONTROL Pendente]).
 
 ![](assets/when.png)
 
@@ -85,9 +85,9 @@ Filtra por todos os emails pendentes.
 
 | Status | Descrição |
 |---|---|
-| **Agendado** | Emails que foram agendados na janela de composição (Salesforce ou Web App), plug-ins de email ou uma campanha. |
-| **Rascunhos** | Emails que estão atualmente em estado de rascunho. Os emails exigem uma linha de assunto e um recipient para serem salvos como rascunho. |
-| **Em andamento** | Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais do que alguns segundos. |
+| **[!UICONTROL Programado]** | Emails que foram agendados da janela de composição ([!DNL Salesforce] ou o Aplicativo Web), plug-ins de email ou uma campanha. |
+| **[!UICONTROL Rascunhos]** | Emails que estão atualmente em estado de rascunho. Os emails exigem uma linha de assunto e um recipient para serem salvos como rascunho. |
+| **[!UICONTROL Em andamento]** | Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais do que alguns segundos. |
 
 ***Status: não entregue***
 
@@ -97,19 +97,19 @@ Filtra por emails que nunca foram entregues.
 
 | Status | Descrição |
 |---|---|
-| **Falha** | Quando um email não é enviado pelo Sales Connect (motivos comuns incluem: emails sendo enviados para contatos com assinatura cancelada/bloqueados ou se houve um problema ao preencher os campos dinâmicos). |
-| **Devolvido** | Um email é marcado como rejeitado quando for rejeitado pelo servidor do destinatário. Somente os emails enviados pelos servidores do Sales Connect serão mostrados aqui. |
-| **Spam** | Quando o email foi marcado como spam (termo comum para email não solicitado) pelo recipient. Somente os emails enviados pelos servidores do Sales Connect serão mostrados aqui. |
+| **[!UICONTROL Falha]** | Quando um email não é enviado de [!DNL Sales Connect] (motivos comuns incluem: emails sendo enviados para contatos com assinatura cancelada/bloqueados ou se houve um problema ao preencher os campos dinâmicos). |
+| **[!UICONTROL Devolvido]** | Um email é marcado como rejeitado quando for rejeitado pelo servidor do destinatário. Somente os emails enviados pelos servidores [!DNL Sales Connect] serão mostrados aqui. |
+| **[!UICONTROL Spam]** | Quando o email foi marcado como spam (termo comum para email não solicitado) pelo recipient. Somente os emails enviados pelos servidores [!DNL Sales Connect] serão mostrados aqui. |
 
 ## Pesquisas salvas {#saved-searches}
 
 Veja como criar uma pesquisa salva.
 
-1. Depois que todos os filtros estiverem implementados, clique em **Salvar Filtros Como**.
+1. Depois que todos os filtros estiverem implementados, clique em **[!UICONTROL Salvar Filtros Como]**.
 
    ![](assets/save-search-1.png)
 
-1. Dê um nome à sua pesquisa e clique em **Salvar**.
+1. Dê um nome à sua pesquisa e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/save-search-2.png)
 

@@ -3,28 +3,28 @@ description: Adicionar botões de ação em massa ao Salesforce Classic - Docume
 title: Adicionar botões de ação em massa ao Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-# Adicionar botões de ação em massa ao Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
+# Adicionar Botões de Ação em Massa ao [!DNL Salesforce] Classic{#add-bulk-action-buttons-to-salesforce-classic}
 
-Você pode adicionar botões do Marketo aos seus Layouts do Salesforce. Veja um exemplo:
+Você pode adicionar botões Marketo aos seus Layouts do [!DNL Salesforce]. Veja um exemplo:
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Clique em **Instalação**. Procure por &quot;layout de pesquisa&quot; e clique em **Layouts de Pesquisa** em **Clientes Potenciais**.
+1. Clique em **[!UICONTROL Instalação]**. Pesquise por &quot;[!UICONTROL layout de pesquisa]&quot; e clique em **[!UICONTROL Layouts de Pesquisa]** em **[!UICONTROL Clientes potenciais]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Clique em **Editar** na **Exibição da lista de clientes potenciais** linha.
+1. Clique em **[!UICONTROL Editar]** na **[!UICONTROL Exibição da lista de clientes potenciais]** linha.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Adicione **Adicionar à Campanha do Marketo**, **Enviar Email do Marketo** e **Adicionar à Lista de Interesse** aos **Botões Selecionados** e **Salvar**.
+1. Adicione **[!UICONTROL Adicionar à Campanha do Marketo]**, **[!UICONTROL Enviar Email do Marketo]** e **[!UICONTROL Adicionar à Lista de Interesse]** aos **[!UICONTROL Botões Selecionados]** e **[!UICONTROL Salvar]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

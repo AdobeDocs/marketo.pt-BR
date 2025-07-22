@@ -4,34 +4,34 @@ description: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Professio
 title: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '756'
 ht-degree: 8%
 
 ---
 
-# Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Etapa 1 de 3: Adicionar campos do Marketo ao [!DNL Salesforce] (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
 >Sua instância do Salesforce deve ter acesso às APIs do Salesforce para sincronizar dados entre o Marketo Engage e o Salesforce.
 
-O Marketo usa um conjunto de campos para capturar determinados tipos de informações relacionadas a marketing. Se quiser esses dados no Salesforce, siga as instruções abaixo.
+O Marketo usa um conjunto de campos para capturar determinados tipos de informações relacionadas a marketing. Se desejar esses dados em [!DNL Salesforce], siga as instruções abaixo.
 
-1. Crie três campos personalizados no Salesforce no cliente potencial e objetos de contato: Pontuação, Programa de aquisição e Data de aquisição.
-1. Mapeie esses campos personalizados entre clientes potenciais e contatos para que, na conversão no Salesforce, os valores continuem.
+1. Crie três campos personalizados em [!DNL Salesforce] nos objetos de cliente potencial e contato: Pontuação, Programa de aquisição e Data de aquisição.
+1. Mapeie esses campos personalizados entre clientes potenciais e contatos para que, na conversão em [!DNL Salesforce], os valores sejam transferidos.
 1. Você pode criar outros campos adicionais, se necessário (consulte a tabela abaixo).
 
-Todos esses campos personalizados são opcionais e não são necessários para sincronizar o Marketo e o Salesforce. Como prática recomendada, é recomendado criar campos para Pontuação, Programa de aquisição e Data de aquisição.
+Todos esses campos personalizados são opcionais e não são necessários para sincronizar o Marketo e o [!DNL Salesforce]. Como prática recomendada, é recomendado criar campos para Pontuação, Programa de aquisição e Data de aquisição.
 
-## Adicionar campos do Marketo ao Salesforce {#add-marketo-fields-to-salesforce}
+## Adicionar campos do Marketo a [!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
-Adicione três campos personalizados aos objetos de cliente potencial e contato no Salesforce listados acima. Se quiser adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
+Adicione três campos personalizados aos objetos de cliente potencial e contato em [!DNL Salesforce] listados acima. Se quiser adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
 
 Execute as etapas a seguir para cada um dos três campos personalizados para adicioná-los. Iniciar com **[!UICONTROL Pontuação]**.
 
-1. Faça logon no Salesforce e clique em **[!UICONTROL Configuração]**.
+1. Faça logon no Salesforce e clique em **[!UICONTROL Instalação]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -51,7 +51,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Insira o Rótulo do campo, Comprimento e Nome do campo do campo, conforme mostrado na tabela abaixo.
+1. Insira o [!UICONTROL Rótulo do campo], [!UICONTROL Comprimento] e [!UICONTROL Nome do campo] para o campo, conforme mostrado na tabela abaixo.
 
 <table> 
  <thead> 
@@ -98,7 +98,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
 >[!NOTE]
 >
->O Salesforce anexa __c a Nomes de campos quando os usa para criar Nomes de API.
+>[!DNL Salesforce] anexa __c a Nomes de campos quando os usa para criar Nomes de API.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -225,11 +225,11 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
 >[!NOTE]
 >
->Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis no Salesforce quando o novo campo for criado. O Marketo sincronizará os dados com o Salesforce na próxima atualização do registro em qualquer sistema (ou seja, uma atualização de qualquer um dos campos sincronizados entre o Marketo e o Salesforce).
+>Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis em [!DNL Salesforce] quando o novo campo for criado. O Marketo sincronizará os dados com [!DNL Salesforce] na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos sincronizados entre o Marketo e [!DNL Salesforce]).
 
 ## Mapear campos personalizados para conversões  {#map-custom-fields-for-conversions}
 
-Um campo personalizado no objeto de cliente potencial no Salesforce deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transferidos quando ocorrer uma conversão.
+Um campo personalizado no objeto de cliente potencial em [!DNL Salesforce] deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transportados quando ocorrer uma conversão.
 
 1. No canto superior direito, clique em **[!UICONTROL Instalação]**.
 
@@ -252,11 +252,10 @@ Um campo personalizado no objeto de cliente potencial no Salesforce deve ser map
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Repita as etapas acima para qualquer outro campo criado.
-
 1. Clique em **[!UICONTROL Salvar]** quando terminar.
 
 Fácil o bastante, certo?
 
 >[!MORELIKETHIS]
 >
->[Etapa 2 de 3: Criar um usuário do Salesforce para Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
+>[Etapa 2 de 3: Criar um Usuário do Salesforce para Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Selecione um tema de formulário - Documentação do Marketo - Docu
 title: Selecionar um tema do formulário
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 5%
@@ -15,19 +15,19 @@ ht-degree: 5%
 
 Fizemos um monte de temas legais para seus formulários. De qual você gosta mais?
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/editform.png)
 
-1. Vá para **Configurações de Formulário**.
+1. Vá para **[!UICONTROL Configurações de Formulário]**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Alterne para frente e para trás para escolher o **Tema do formulário** de sua preferência.
+1. Alterne para frente e para trás para escolher o **[!UICONTROL Tema do formulário]** de sua preferência.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -36,7 +36,7 @@ Fizemos um monte de temas legais para seus formulários. De qual você gosta mai
    * Simples
    * Inserção
    * Brilho
-   * Redondo
+   * Arredondar
    * Escuro
    * Sombra
    * Sem formatação
@@ -45,11 +45,11 @@ Fizemos um monte de temas legais para seus formulários. De qual você gosta mai
    >
    >Você também pode [editar o CSS do tema do formulário](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Clique em **Avançar** para configurar outras opções de formulário ou clique em **Concluir** se desejar alterar apenas o Tema do Formulário.
+1. Clique em **[!UICONTROL Avançar]** para configurar outras opções de formulário ou clique em **[!UICONTROL Concluir]** se desejar alterar apenas o Tema do Formulário.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
-Foi fácil?! Você pode deixar seu livro de HTML/CSS coletar alguma poeira agora.
+Foi fácil?! Você pode deixar seu livro HTML/CSS coletar alguma poeira agora.
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: Configurações De Compartilhamento - Documentação Do Marketo - D
 title: Configurações de compartilhamento
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 1%
@@ -17,21 +17,21 @@ Gerencie melhor seus modelos restringindo o que os usuários podem compartilhar 
 
 ![](assets/main.png)
 
-Quando sua conta do Sales Connect é criada pela primeira vez, as Configurações de compartilhamento são ativadas. Isso dá aos administradores da sua conta a oportunidade de criar e organizar suas categorias de modelo antes de abrir as comportas e permitir que os usuários compartilhem conteúdo nas categorias da sua equipe.
+Quando sua conta do Sales Connect é criada pela primeira vez, as [!UICONTROL Configurações de Compartilhamento] ficam habilitadas. Isso dá aos administradores da sua conta a oportunidade de criar e organizar suas categorias de modelo antes de abrir as comportas e permitir que os usuários compartilhem conteúdo nas categorias da sua equipe.
 
-Quando as Configurações de compartilhamento estiverem ativadas, somente administradores poderão compartilhar em categorias, a menos que sejam fornecidos privilégios de compartilhamento a uma equipe ou a todos. Com as Configurações de compartilhamento desativadas, não há restrições e todos os usuários podem compartilhar em qualquer categoria de modelo.
+Quando as [!UICONTROL Configurações de Compartilhamento] estiverem habilitadas, somente administradores poderão compartilhar em categorias, a menos que sejam fornecidos privilégios de compartilhamento a uma equipe ou a todos. Com as [!UICONTROL Configurações de Compartilhamento] desabilitadas, não há restrições e todos os usuários podem compartilhar em qualquer categoria de modelo.
 
 ## Definir Suas Configurações De Compartilhamento {#configure-your-sharing-settings}
 
-1. No [aplicativo Web](https://toutapp.com/login), vá para a página Configurações.
+1. No [aplicativo Web](https://toutapp.com/login), vá para a página [!UICONTROL Configurações].
 
    ![](assets/one-2.png)
 
-1. Em Configurações de Administração, selecione **Acesso de Compartilhamento**.
+1. Em [!UICONTROL Configurações de Administração], selecione **[!UICONTROL Acesso de Compartilhamento]**.
 
    ![](assets/two-2.png)
 
-1. Verifique se as **Configurações de Compartilhamento** estão habilitadas. Isso significa que, por padrão, somente administradores poderão compartilhar modelos nas suas categorias.
+1. Verifique se as **[!UICONTROL Configurações de Compartilhamento]** estão habilitadas. Isso significa que, por padrão, somente administradores poderão compartilhar modelos nas suas categorias.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente admini
 
    ![](assets/four-2.png)
 
-1. Clique em **Adicionar equipes para acessar**.
+1. Clique em **[!UICONTROL Adicionar equipes para acessar]**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Quando as Configurações de compartilhamento estiverem ativadas, somente admini
    >
    >Se você não vir nenhuma equipe, precisará ir para o Gerenciamento de Equipe e criar uma equipe de usuários.
 
-1. Clique em **Adicionar Equipes para Acesso** para salvar.
+1. Clique em **[!UICONTROL Adicionar Equipes para Acesso]** para salvar.
 
    ![](assets/seven-1.png)
 

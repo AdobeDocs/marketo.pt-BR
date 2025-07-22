@@ -4,7 +4,7 @@ description: Editar trechos com conteúdo dinâmico - Documentação do Marketo 
 title: Editar trechos com conteúdo dinâmico
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Use a Segmentação em trechos para gerenciar facilmente o conteúdo dinâmico e
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para o **Design Studio**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Clique no seu **trecho** e depois em **Editar rascunho**.
+1. Clique no seu **trecho** e depois em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Clique em **Segmentar por**.
+1. Clique em **[!UICONTROL Segmentar por]**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Insira **Segmentação** e clique em **Salvar**.
+1. Insira **[!UICONTROL Segmentação]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 

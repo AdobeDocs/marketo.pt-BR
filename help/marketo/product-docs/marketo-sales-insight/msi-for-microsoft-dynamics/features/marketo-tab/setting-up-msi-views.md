@@ -3,24 +3,24 @@ description: Configuração de visualizações do MSI - Documentação do Market
 title: Configuração de exibições MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 
 ---
 
 # Configuração de exibições MSI {#setting-up-msi-views}
 
-A instalação do plug-in Sales Insight no Dynamics adiciona automaticamente as Melhores Opções e os painéis relacionados no Mapa do site. Se, por algum motivo, os painéis não forem adicionados, veja como adicioná-los manualmente.
+Instalar o plug-in [!DNL Sales Insight] no Dynamics adiciona automaticamente o [!DNL Best Bets] e os painéis relacionados no Mapa do Site. Se, por algum motivo, os painéis não forem adicionados, veja como adicioná-los manualmente.
 
-1. No Dynamics, clique no ícone de engrenagem e selecione **Configurações avançadas** no menu suspenso.
+1. No Dynamics, clique no ícone de engrenagem e selecione **[!UICONTROL Configurações avançadas]** no menu suspenso.
 
-1. No canto superior esquerdo da tela, clique em **Configurações**. Em Personalização, escolha **Personalizações**.
+1. No canto superior esquerdo da tela, clique em **[!UICONTROL Configurações]**. Em Personalização, escolha **[!UICONTROL Personalizações]**.
 
-1. Clique em **Personalizar o sistema**.
+1. Clique em **[!UICONTROL Personalizar o sistema]**.
 
-1. Na árvore à esquerda, clique em **Extensões de Cliente** e clique duas vezes em **Mapa de Sites**.
+1. Na árvore à esquerda, clique em **[!UICONTROL Extensões de Cliente]** e clique duas vezes em **[!UICONTROL Mapa de Sites]**.
 
 1. Clique na seta direita para ir para a próxima página. Em Vendas, você deve ver Marketo. Caso contrário, certifique-se de ter importado o pacote corretamente.
 
@@ -54,4 +54,4 @@ URL: mkt_/MainViewWebActivity.html</br>
 ID: marketo_anonymous_webactivity</br>
 Title: Atividade Anônima Na Web
 
-1. Clique em **Salvar** quando terminar.
+1. Clique em **[!UICONTROL Salvar]** quando terminar.

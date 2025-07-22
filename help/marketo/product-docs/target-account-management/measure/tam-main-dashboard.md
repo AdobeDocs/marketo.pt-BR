@@ -4,7 +4,7 @@ description: Painel principal do TAM - Documentação do Marketo - Documentaçã
 title: Painel principal do TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Painel principal do TAM {#tam-main-dashboard}
 
-O painel principal fornece um resumo dos esforços de Gerenciamento de conta do Target. Você pode ver as contas de destino ou as listas de contas que estão mostrando sucesso e aquelas que precisam de mais atenção.
+O painel principal fornece um resumo dos seus esforços do [!UICONTROL Gerenciamento de Conta do Target]. Você pode ver as contas de destino ou as listas de contas que estão mostrando sucesso e aquelas que precisam de mais atenção.
 
 ![](assets/one.png)
 
-Para filtrar por lista de contas, clique no menu suspenso Exibir...
+Para filtrar por lista de contas, clique no menu suspenso **[!UICONTROL Exibir]**...
 
 ![](assets/two.png)
 
-...e faça uma seleção. Neste exemplo, estamos escolhendo nossa lista de contas de &quot;Alta tecnologia&quot;.
+...e faça uma seleção. Neste exemplo, estamos escolhendo nossa lista de contas de &quot;**[!UICONTROL Alta Tecnologia]**&quot;.
 
 ![](assets/three.png)
 
@@ -33,7 +33,7 @@ Para exibir o [Painel de Lista de Contas](/help/marketo/product-docs/target-acco
 
 ![](assets/five.png)
 
-Se, em vez de visualizar o Painel da Lista de Contas que você deseja detalhar em uma conta nomeada, clique em **Mais Detalhes** sob seu nome...
+Se, em vez de visualizar o Painel da Lista de Contas que você deseja detalhar em uma conta nomeada, clique em **[!UICONTROL Mais Detalhes]** sob seu nome...
 
 ![](assets/six.png)
 

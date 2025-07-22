@@ -4,7 +4,7 @@ description: Adicionar um novo formulário a uma página de aterrissagem de form
 title: Adicionar um novo formulário a uma página de aterrissagem de forma livre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -20,15 +20,15 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
 >* [Criar um Formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Criar uma Página de Aterrissagem de Formato Livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Encontre sua página de aterrissagem e clique em **Editar rascunho**.
+1. Encontre sua página de aterrissagem e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Arraste e solte o elemento **Formulário** na página.
+1. Arraste e solte o elemento **[!UICONTROL Formulário]** na página.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
 
 1. Você tem três opções ao escolher a página de acompanhamento:
 
-   * **Página de aterrissagem** - para escolher uma página de aterrissagem do Marketo
-   * **URL externa** - para escolher a URL desejada
-   * **Formulário definido** - para usar as configurações definidas no nível do formulário
+   * **[!UICONTROL Página de aterrissagem]** - para escolher uma página de aterrissagem do Marketo
+   * **[!UICONTROL URL externa]** - para escolher a URL desejada
+   * **[!UICONTROL Formulário definido]** - para usar as configurações definidas no nível do formulário
 
    >[!NOTE]
    >
@@ -48,7 +48,7 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
    >
    >A página de acompanhamento é a página que as pessoas verão depois de enviar o formulário.
 
-1. Clique em **Inserir**.
+1. Clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 

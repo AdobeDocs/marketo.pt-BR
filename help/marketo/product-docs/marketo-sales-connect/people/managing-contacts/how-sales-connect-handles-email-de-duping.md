@@ -4,16 +4,16 @@ description: Como O Sales Connect Lida Com A Eliminação Da Duplicação De Ema
 title: Como o Sales Connect lida com a eliminação da duplicação de email
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Como o Sales Connect lida com a eliminação da duplicação de email {#how-sales-connect-handles-email-de-duping}
+# Como O [!DNL Sales Connect] Lida Com A Eliminação Da Duplicação De Emails {#how-sales-connect-handles-email-de-duping}
 
-Quando você está [carregando um arquivo CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) no Sales Connect, mesclamos todos os contatos semelhantes no CSV antes da importação.
+Quando você está [carregando um arquivo CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) no [!DNL Sales Connect], mesclamos todos os contatos semelhantes no CSV antes da importação.
 
 Fazemos isso com base em endereços de email semelhantes. Portanto, se houver dois endereços de email idênticos, nós os mesclamos em um contato.
 

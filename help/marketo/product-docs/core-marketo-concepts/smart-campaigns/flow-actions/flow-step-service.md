@@ -3,16 +3,16 @@ description: Serviço de etapa de fluxo - Documentação do Marketo - Documenta�
 title: Serviço de etapa de fluxo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
 
 # Serviço de etapa de fluxo {#flow-step-service}
 
-Etapas de fluxo de autoatendimento é uma estrutura e um conjunto de recursos para criação, publicação e integração de serviços da Web nas Campanhas inteligentes do Adobe Marketo Engage. Este guia destina-se aos usuários finais do Marketo Engage que desejam instalar e usar serviços que já foram criados e publicados. Para obter informações sobre como criar e publicar seu próprio serviço, consulte o [repositório GitHub da Interface do Provedor de Serviços](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Uma implementação de Tabela de Pesquisa de Prova de Conceito pode ser encontrada [aqui](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Etapas de fluxo de autoatendimento é uma estrutura e um conjunto de recursos para criação, publicação e integração de serviços da Web nas Campanhas inteligentes do Adobe Marketo Engage. Este guia destina-se aos usuários finais do Marketo Engage que desejam instalar e usar serviços que já foram criados e publicados. Para obter informações sobre como criar e publicar seu próprio serviço, consulte o [[!DNL GitHub] repositório da Interface do Provedor de Serviços](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Uma implementação de Tabela de Pesquisa de Prova de Conceito pode ser encontrada [aqui](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Serviços de integração e gerenciamento {#onboarding-and-managing-services}
 
@@ -20,7 +20,7 @@ A instalação de uma etapa de fluxo personalizada requer permissões de adminis
 
 ## URL de instalação {#installation-url}
 
-Para iniciar a instalação, primeiro obtenha o URL do documento OpenAPI que define seu serviço. Seu provedor de serviços poderá fornecer isso a você e geralmente terá uma URL terminando em `/openapi.json`. URLs completas serão parecidas com `https://www.example.com/OpenAPI.json`. Depois de ter esse URL, acesse o menu Provedores de serviços na Seção de administradores.
+Para iniciar a instalação, primeiro obtenha o URL do documento OpenAPI que define seu serviço. Seu provedor de serviços poderá fornecer isso a você e geralmente terá uma URL terminando em `/openapi.json`. URLs completas serão parecidas com `https://www.example.com/OpenAPI.json`. Depois de obter esta URL, vá para o menu [!UICONTROL Provedores de Serviços] na Seção [!UICONTROL Administrador].
 
 Clique em **[!UICONTROL Avançar]** para ir até a seção Inserir Credenciais de Serviço.
 
@@ -90,7 +90,7 @@ Os degraus de fluxo instalados podem ser utilizados em grande medida da mesma fo
 
 ## Atualizando listas de opções {#refreshing-picklists}
 
-O Marketo atualizará as opções de lista de opções de serviços todas as noites, mas há momentos em que você precisará de novas opções disponíveis, como a criação de campanhas. É possível atualizá-los facilmente a partir de qualquer instância da etapa do fluxo usando o botão atualizar ou acessando o menu Admin > Provedores de serviço e clicando em Atualizar lista de opções depois de selecionar o serviço.
+O Marketo atualizará as opções de lista de opções de serviços todas as noites, mas há momentos em que você precisará de novas opções disponíveis, como a criação de campanhas. Você pode atualizá-las facilmente de qualquer instância da etapa do fluxo usando o botão de atualização ou acessando o menu [!UICONTROL Administrador] > [!UICONTROL Provedores de Serviços] e clicando em [!UICONTROL Atualizar Lista de Opções] depois de selecionar seu serviço.
 
 ## Verificação de campos de entrada {#checking-incoming-fields}
 

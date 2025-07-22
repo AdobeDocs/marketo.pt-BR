@@ -4,10 +4,10 @@ description: Adicionar um URL do Target a uma campanha da Web - Documentação d
 title: Adicionar um URL de direcionamento a uma campanha da Web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 3%
+source-wordcount: '257'
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ Um URL do Target está localizado na página Definir campanha e define o URL ou 
 
 ## Adicionar um URL de direcionamento para campanhas da Web de diálogo ou widget {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Vá para **Campanhas da Web**.
+1. Vá para **[!UICONTROL Campanhas da Web]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Selecione **Criar Nova Campanha Da Web**.
+1. Selecione **[!UICONTROL Criar Nova Campanha Da Web]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Adicione um **Nome da campanha**. Selecione um **Segmento de Destino**. Adicionar **URL de Destino**.
+1. Adicione um **[!UICONTROL Nome da campanha]**. Selecione um **[!UICONTROL Segmento de Destino]**. Adicionar **[!UICONTROL URL de Destino]**.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -38,11 +38,11 @@ Um URL do Target está localizado na página Definir campanha e define o URL ou 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Qualquer página</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Qualquer Página]</strong></td> 
    <td colspan="1" rowspan="1"><p>Permitir que a campanha apareça em qualquer página.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Incluir parâmetro da URL ao estabelecer a correspondência</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Incluir parâmetro de URL ao corresponder]</strong></p></td> 
    <td colspan="1" rowspan="1">Adicione o parâmetro de URL para corresponder e mostrar a campanha nos URLs, incluindo este parâmetro. Ex. campaign=cpc</td> 
   </tr> 
  </tbody> 
@@ -50,7 +50,7 @@ Um URL do Target está localizado na página Definir campanha e define o URL ou 
 
 ## Adicionar vários URLs ao URL de direcionamento {#adding-multiple-urls-to-target-url}
 
-Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abrirá a caixa de diálogo Entrada de Vários Valores para adicionar várias URLs. Adicione um URL por linha.
+Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abrirá a caixa de diálogo [!UICONTROL Entrada de Vários Valores] para adicionar várias URLs. Adicione um URL por linha.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -62,15 +62,15 @@ Clicar no ícone de adição (![—](assets/image2015-2-18-8-3a40-3a59.png)) abr
 
 ## Adicionar um URL de direcionamento para campanhas da Web na zona {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Ir para **Web** **Campanhas**.
+1. Vá para **[!UICONTROL Campanhas da Web]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Selecione **Criar Nova Campanha Da Web**.
+1. Selecione **[!UICONTROL Criar Nova Campanha Da Web]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Adicione um **Nome da campanha**. Selecione um **Segmento de Destino**. Adicionar **URL de Destino**.
+1. Adicione um **[!UICONTROL Nome da campanha]**. Selecione um **[!UICONTROL Segmento de Destino]**. Adicionar **[!UICONTROL URL de Destino]**.
 
    >[!NOTE]
    >

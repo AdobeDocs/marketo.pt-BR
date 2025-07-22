@@ -4,7 +4,7 @@ description: Uso do Construtor de URLs - Documentação do Marketo - Documentaç
 title: Usar o Construtor de URLs
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 1%
@@ -19,11 +19,11 @@ O Construtor de URL ajuda a construir URLs que podem preencher campos de formul�
 >
 >Saiba como criar campos ocultos em formulários e editar suas configurações em [Definir um campo de formulário como oculto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Selecione uma página de aterrissagem, clique em **Ações da página de aterrissagem**, passe o mouse sobre **Ferramentas de URL** e clique em **Construtor de URL**.
+1. Selecione uma página de aterrissagem, clique em **[!UICONTROL Ações da página de aterrissagem]**, passe o mouse sobre **[!UICONTROL Ferramentas de URL]** e clique em **[!UICONTROL Construtor de URL]**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. Selecione os campos que deseja usar, insira o valor e clique em **Atualizar URL**.
+1. Selecione os campos que deseja usar, insira o valor e clique em **[!UICONTROL Atualizar URL]**.
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 

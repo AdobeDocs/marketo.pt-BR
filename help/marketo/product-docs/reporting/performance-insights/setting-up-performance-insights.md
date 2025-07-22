@@ -4,32 +4,32 @@ description: Configuração do Performance Insights - Documentação do Marketo 
 title: Configuração de insights de desempenho
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# Configuração de insights de desempenho {#setting-up-performance-insights}
+# Configurando [!UICONTROL Insights de Desempenho] {#setting-up-performance-insights}
 
 Siga as etapas abaixo para configurar a MPI.
 
 ## Configuração da oportunidade {#opportunity-setup}
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/admin.png)
 
-1. Clique em **Análise do ciclo de receita**.
+1. Clique em **[!UICONTROL Análise do ciclo de receita]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Se você não tiver a RCA, precisará selecionar **Análise de programa** para a Etapa 2.
+   >Se você não tiver a RCA, precisará selecionar **[!UICONTROL Análise de programa]** para a Etapa 2.
 
-1. Em Atribuição, clique em **Editar**.
+1. Em Atribuição, clique em **[!UICONTROL Editar]**.
 
    ![](assets/three-1.png)
 
@@ -45,18 +45,18 @@ Siga as etapas abaixo para configurar a MPI.
    >
    >Certifique-se de que todas as oportunidades tenham os campos apropriados preenchidos:
    >
-   >* Valor da oportunidade
-   >* Está fechado
-   >* É obtido
-   >* Data de criação (não pode ser definida no seu caso)
-   >* Data de fechamento (não pode ser definida no seu caso)
-   >* Tipo de oportunidade
+   >* [!UICONTROL Valor da oportunidade]
+   >* [!UICONTROL Está Fechado]
+   >* [!UICONTROL Está conquistado]
+   >* [!UICONTROL Data de Criação] (talvez isso não esteja definido no seu caso)
+   >* [!UICONTROL Data de Fechamento] (não pode ser definida no seu caso)
+   >* [!UICONTROL Tipo de oportunidade]
 
 ## Configuração de programa {#program-setup}
 
 Atualizar os custos do programa por, pelo menos, 12 meses. Você pode fazer isso manualmente ou usando a API do programa. Neste exemplo, fazemos isso manualmente.
 
-1. Clique em **Atividades de marketing**.
+1. Clique em **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
@@ -64,29 +64,29 @@ Atualizar os custos do programa por, pelo menos, 12 meses. Você pode fazer isso
 
    ![](assets/select-program.png)
 
-1. Clique na guia **Configuração**.
+1. Clique na guia **[!UICONTROL Configuração]**.
 
    ![](assets/setup-tab.png)
 
-1. Arraste **Custo do Período** para a tela.
+1. Arraste **[!UICONTROL Custo do Período]** para a tela.
 
    ![](assets/period-cost.png)
 
-1. Defina o Mês do Programa para pelo menos 12 meses atrás e clique em **Ok**.
+1. Defina o Mês do Programa para pelo menos 12 meses atrás e clique em **[!UICONTROL Ok]**.
 
    ![](assets/set-period.png)
 
-1. Defina o custo do período e clique em **Salvar**.
+1. Defina o custo do período e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/set-cost.png)
 
 Em seguida, revise o comportamento do Analytics para indicar se um canal específico deve ser incluído no Analytics. Defina o comportamento do Analytics (Normal, Inclusivo, Operacional).
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/admin.png)
 
-1. Clique em **Marcas**.
+1. Clique em **[!UICONTROL Marcas]**.
 
    ![](assets/tags.png)
 
@@ -98,7 +98,7 @@ Em seguida, revise o comportamento do Analytics para indicar se um canal especí
 
    ![](assets/channel-click.png)
 
-1. Clique no menu suspenso **Comportamento do Analytics** e selecione o comportamento desejado.
+1. Clique no menu suspenso **[!UICONTROL Comportamento do Analytics]** e selecione o comportamento desejado.
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ Em seguida, revise o comportamento do Analytics para indicar se um canal especí
 
    ![](assets/success.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/save.png)
 

@@ -4,10 +4,10 @@ description: Enviar uma notificação por push para dispositivos móveis - Docum
 title: Enviar uma notificação por push em dispositivo móvel
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -20,19 +20,19 @@ Envie uma notificação por push às pessoas que usam seu aplicativo móvel.
 >* [Criar uma nova campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Criar uma Notificação por Push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Selecione sua campanha inteligente e clique em **Smart List**.
+1. Selecione sua campanha inteligente e clique em **[!UICONTROL Smart List]**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Defina sua lista inteligente e clique em **Fluxo**.
+1. Defina sua lista inteligente e clique em **[!UICONTROL Fluxo]**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Selecione uma notificação por push. Clique em **Agendar**.
+1. Selecione uma notificação por push. Clique em **[!UICONTROL Agendamento]**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -40,11 +40,11 @@ Envie uma notificação por push às pessoas que usam seu aplicativo móvel.
    >
    >A notificação por push deve ser aprovada antes de aparecer no menu suspenso.
 
-1. Clique em **Executar Uma Vez**.
+1. Clique em **[!UICONTROL Executar Uma Vez]**.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Escolha uma data e hora. Clique em **Salvar**.
+1. Escolha uma data e hora. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

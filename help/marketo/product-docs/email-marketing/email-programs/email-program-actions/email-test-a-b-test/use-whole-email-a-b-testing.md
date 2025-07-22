@@ -4,7 +4,7 @@ description: Use O Teste A/B "Email Inteiro" - Documentação Do Marketo - Docum
 title: Use O Teste A/B "Email Inteiro"
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -19,15 +19,15 @@ Você pode facilmente testar seus emails A/B. Um grande teste é o teste **Todo 
 >
 >[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. No bloco Email, com seu email selecionado, clique em **Adicionar Teste A/B**.
+1. No bloco Email, com seu email selecionado, clique em **[!UICONTROL Adicionar Teste A/B]**.
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. Uma nova janela é aberta. Clique no menu suspenso **Tipo de teste** e selecione **Emails inteiros**.
+1. Uma nova janela é aberta. Clique no menu suspenso **[!UICONTROL Tipo de teste]** e selecione **[!UICONTROL Emails inteiros]**.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. Se você tiver informações de teste anteriores (como um teste de assunto), clique com segurança em **Redefinir Teste**.
+1. Se você tiver informações de teste anteriores (como um teste de assunto), clique com segurança em **[!UICONTROL Redefinir Teste]**.
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -35,7 +35,7 @@ Você pode facilmente testar seus emails A/B. Um grande teste é o teste **Todo 
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. Clique em **Adicionar** para aplicar o email.
+1. Clique em **[!UICONTROL Adicionar]** para aplicar o email.
 
    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -45,11 +45,11 @@ Você pode facilmente testar seus emails A/B. Um grande teste é o teste **Todo 
 
 1. Selecione o segundo email.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
-1. Clique em **Adicionar** para aplicar o segundo email. Arraste o controle deslizante para escolher qual porcentagem do público-alvo você deseja receber o teste A/B e clique em **Avançar**.
+1. Clique em **[!UICONTROL Adicionar]** para aplicar o segundo email. Arraste o controle deslizante para escolher qual porcentagem do público-alvo você deseja receber o teste A/B e clique em **[!UICONTROL Avançar]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

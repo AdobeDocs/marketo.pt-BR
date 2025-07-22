@@ -4,7 +4,7 @@ description: Noções básicas das fases do modelo de receita - Documentação d
 title: Noções básicas das fases do modelo de receita
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -19,7 +19,7 @@ As fases são uma maneira de agrupar vários estágios. Às vezes, vários está
 
 ## Definir as fases do modelo {#define-the-phases-of-the-model}
 
-1. Clique em **Fases**.
+1. Clique em **[!UICONTROL Fases]**.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 

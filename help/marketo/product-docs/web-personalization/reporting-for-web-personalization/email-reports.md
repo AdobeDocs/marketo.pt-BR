@@ -4,7 +4,7 @@ description: Relatórios de email - Documentação do Marketo - Documentação d
 title: Relatórios de e-mails
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Relatórios de e-mails {#email-reports}
 
-Para personalizar qual relatório de email automatizado o usuário recebe, consulte a [seção Configurações do Usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Para personalizar qual relatório de email automatizado o usuário recebe, consulte a seção [[!UICONTROL Configurações do Usuário]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Relatórios de email do Web Personalization {#web-personalization-email-reports}
 
@@ -33,7 +33,7 @@ O relatório diário/semanal envia ao usuário um email das 50 principais organi
 
 O Relatório de pessoas diário/semanal envia ao usuário um email com as 100 pessoas mais recentes do site, de acordo com: endereço de email da pessoa, nome da organização, local, estado, data de captura da pessoa e segmentos aos quais a pessoa pertence.
 
-## Campanhas em tempo real de melhor desempenho {#top-performing-real-time-campaigns}
+## [!UICONTROL Campanhas em tempo real de melhor desempenho] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
@@ -55,18 +55,18 @@ O Relatório Assets recomendado envia ao usuário um email com todo o conteúdo 
 
 ![](assets/six.png)
 
-O relatório de Resumo envia ao usuário um email (mensal ou trimestral) de todas as campanhas e desempenho de conteúdo recomendado com base no número de cliques e no número de pessoas (diretas ou assistidas) que se envolveram com a campanha personalizada ou conteúdo recomendado e, em seguida, se tornaram uma pessoa conhecida. O relatório compara os resultados com o mês ou trimestre anterior.
+O relatório de Resumo envia ao usuário um email (mensal ou trimestral) de todas as Campanhas e desempenho do Conteúdo recomendado com base no número de cliques e no número de pessoas (diretas ou assistidas) que se envolveram com a Campanha personalizada ou Conteúdo recomendado e, em seguida, se tornaram uma pessoa conhecida. O relatório compara os resultados com o mês ou trimestre anterior.
 
 >[!NOTE]
 >
 >**Definições**
 >
->**Conversão direta**: um visitante da Web que clica em uma campanha personalizada ou em um ativo de conteúdo recomendado e, na mesma sessão de visita, continua preenchendo qualquer formulário no site com seu endereço de email.
+>**[!UICONTROL Conversões diretas]**: um visitante da Web que clica em uma Campanha personalizada ou em um Ativo de conteúdo recomendado e, na mesma sessão de visita, continua preenchendo qualquer formulário no site com seu endereço de email.
 >
->**Conversão assistida**: um visitante da Web que preenche qualquer formulário do site e deixa seu endereço de email, enquanto em uma visita anterior (nos últimos 6 meses) clicava em uma campanha personalizada ou ativo de conteúdo recomendado.
+>**[!UICONTROL Conversões assistidas]**: um visitante da Web que preenche qualquer formulário do site e deixa seu endereço de email, enquanto em uma visita anterior (nos últimos 6 meses) clicava em uma Campanha personalizada ou em um ativo de conteúdo recomendado.
 
 >[!NOTE]
 >
->O Marketo Web Personalization captura o endereço de email do visitante da Web para qualquer formulário concluído no site. Exibido na página Pessoas da Web Personalization, é a pessoa usada no relatório de Resumo.
+>O Marketo Web Personalization captura o endereço de email do visitante da Web para qualquer formulário concluído no site. Esta é exibida na página [!UICONTROL Web Personalization] [!UICONTROL Pessoas] e é a pessoa usada no relatório de Resumo.
 
 Para personalizar qual relatório de email automatizado o usuário recebe, consulte a [seção Configurações do Usuário](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

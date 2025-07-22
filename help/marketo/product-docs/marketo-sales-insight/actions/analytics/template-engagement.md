@@ -3,7 +3,7 @@ description: Engajamento de modelo - Documentação do Marketo - Documentação 
 title: Envolvimento com o modelo
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Siga as etapas abaixo para exibir o envolvimento do modelo.
 
 1. Navegue até a página **Analytics**.
 
-1. Clique no botão **Conteúdo** e filtre pelo intervalo de datas desejado.
+1. Clique no botão **[!UICONTROL Conteúdo]** e filtre pelo intervalo de datas desejado.
 
 1. Com base no intervalo de datas selecionado, na parte superior da página você pode ver o número total de emails e modelos usados em sua equipe.
 

@@ -4,7 +4,7 @@ description: Aprovação de estágios e atribuição de leads a um modelo de rec
 title: Aprovando Estágios e Atribuindo Clientes Potenciais a um Modelo de Receita
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Coloque seu **Modelo de Receita** em funcionamento adicionando clientes potencia
 
 Vamos aprovar os estágios do seu modelo antes de adicionar qualquer cliente em potencial.
 
-1. Vá para a área **Analytics**.
+1. Vá para a área **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,11 +27,11 @@ Vamos aprovar os estágios do seu modelo antes de adicionar qualquer cliente em 
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Em **Ações de Modelo**, selecione **Aprovar Estágios**.
+1. Em **[!UICONTROL Ações de Modelo]**, selecione **[!UICONTROL Aprovar Estágios]**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
-1. Você receberá um alerta; clique em **Atribuir clientes em potencial**.
+1. Você receberá um alerta; clique em **[!UICONTROL Atribuir clientes em potencial]**.
 
    ![](assets/image2015-4-28-17-3a5-3a39.png)
 
@@ -41,19 +41,19 @@ Excelente! Vamos seguir em frente e atribuir esses leads.
 
 [Crie uma Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) para identificar os clientes potenciais de um estágio do seu modelo no Banco de Dados de Clientes Potenciais.
 
-1. Depois de [criar sua Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), clique na guia **Clientes Potenciais**.
+1. Depois de [criar sua Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md), clique na guia **[!UICONTROL Clientes Potenciais]**.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
-1. Clique em **Selecionar tudo** para selecionar os clientes potenciais.
+1. Clique em **[!UICONTROL Selecionar tudo]** para selecionar os clientes potenciais.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Abra o menu suspenso **Ações de cliente potencial** e selecione **Especial**. Clique em **Alterar estágio de receita**.
+1. Abra o menu suspenso **[!UICONTROL Ações de cliente potencial]** e selecione **[!UICONTROL Especial]**. Clique em **[!UICONTROL Alterar estágio de receita...]**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Selecione o **Modelo** correto e o **Estágio** correto. Clique em **Executar Agora**.
+1. Selecione o **[!UICONTROL Modelo]** correto e o **[!UICONTROL Estágio]** correto. Clique em **[!UICONTROL Executar Agora]**.
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 
@@ -67,27 +67,27 @@ Excelente! Vamos seguir em frente e atribuir esses leads.
 
 ## Novos Clientes Potenciais: Criar Regras De Atribuição  {#new-leads-create-assignment-rules}
 
-1. Clique novamente em **Marketo Home** e selecione **Analytics**.
+1. Clique novamente em **Marketo Home** e selecione **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. Clique no modelo na árvore e, em seguida, no menu **Ações de Modelo**, selecionando **Regras de Atribuição**.
+1. Clique no modelo na árvore e, em seguida, no menu **[!UICONTROL Ações de Modelo]**, selecionando **[!UICONTROL Regras de Atribuição]**.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. Se suas regras de atribuição contiverem mais de uma opção padrão, clique em **Estágio**, faça a seleção e clique em **Adicionar Escolha**.
+1. Se suas regras de atribuição contiverem mais de uma opção padrão, clique em **[!UICONTROL Estágio]**, faça a seleção e clique em **[!UICONTROL Adicionar Escolha]**.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
 ## Exemplo de regra de atribuição {#example-assignment-rule}
 
-Crie uma regra de Pontuação de lead para atribuir os novos leads com uma pontuação mínima a uma etapa apropriada.
+Crie uma regra de [!UICONTROL Pontuação do lead] para atribuir os novos leads com uma pontuação mínima a uma etapa apropriada.
 
-1. Em **Se**, selecione **Pontuação de lead**. Escolha **pelo menos**.
+1. Em **[!UICONTROL Se]**, selecione **[!UICONTROL Pontuação de lead]**. Escolha **[!UICONTROL pelo menos]**.
 
    ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-1. Insira **40** no campo e selecione **Vendas Potenciais** como Estágio. Clique em **Salvar** para concluir.
+1. Insira **40** no campo e selecione **[!UICONTROL Líder de vendas]** como um [!UICONTROL Estágio]. Clique em **[!UICONTROL Salvar]** para concluir.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 

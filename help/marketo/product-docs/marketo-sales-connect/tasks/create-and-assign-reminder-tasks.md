@@ -3,7 +3,7 @@ description: Criar e atribuir tarefas de lembrete - Documentação do Marketo - 
 title: Criar e Atribuir Tarefas de Lembrete
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 As tarefas de lembrete são uma ótima maneira de manter o controle sobre o envolvimento do cliente e do cliente potencial. Para criar uma tarefa, siga estas etapas.
 
-1. Clique em **Centro de comando**.
+1. Clique em **[!UICONTROL Centro de comando]**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Tarefas são abertas por padrão. Clique em **Adicionar tarefa**.
+1. Tarefas são abertas por padrão. Clique em **[!UICONTROL Adicionar tarefa]**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. Selecione o tipo de tarefa em Email, Chamada, InMail ou Tarefa personalizada.
+1. Selecione o tipo de tarefa de [!UICONTROL Email], [!UICONTROL Chamada], [!UICONTROL InMail] ou Tarefa [!UICONTROL Personalizada].
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
@@ -46,6 +46,6 @@ As tarefas de lembrete são uma ótima maneira de manter o controle sobre o envo
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Adicione todos os detalhes sobre a tarefa que gostaria de ter à sua disposição ao concluí-la, como anotações de conversas de chamada, um modelo de mensagem do InMail ou até mesmo anotações sobre a pessoa. Clique em **Criar** quando terminar.
+1. Adicione todos os detalhes sobre a tarefa que gostaria de ter à sua disposição ao concluí-la, como anotações de conversas de chamada, um modelo de mensagem do InMail ou até mesmo anotações sobre a pessoa. Clique em **[!UICONTROL Criar]** quando terminar.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

@@ -4,10 +4,10 @@ description: Criar grupos de campos personalizados usando o Organizador de campo
 title: Criar grupos de campos personalizados usando o Organizador de campos
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '1000'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -18,16 +18,16 @@ Quando você seleciona um campo padrão ou personalizado no menu suspenso Campo 
 
 | Tipo de dados de gerenciamento de clientes potenciais da Marketo | Tipo de Dados do Editor do Organizador de Campos |
 |---|---|
-| Sequência de caracteres | Sequência de caracteres |
-| Email | Sequência de caracteres |
+| String | String |
+| Email | String |
 | Inteiro | Inteiro |
-| Texto | Sequência de caracteres |
-| URL | Sequência de caracteres |
+| Texto | String |
+| URL | String |
 | Referência | Não suportado |
 | Moeda | Inteiro |
 | DateTime | Data |
 | Booleano | Não suportado |
-| Telefone | Sequência de caracteres |
+| Telefone | String |
 | Data | Data |
 | Flutuante | Inteiro |
 | Calculado | Não suportado |
@@ -36,19 +36,19 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de cadeia de caracteres {#create-custom-field-group-string-editor}
 
-1. Clique em **Banco de Dados de Cliente Potencial**.
+1. Clique em **[!UICONTROL Banco de Dados de Cliente Potencial]**.
 
    ![](assets/one.png)
 
-1. Clique em **Novo** e selecione **Novo Organizador de Campos**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo Organizador de Campos]**.
 
    ![](assets/two.png)
 
-1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). O país é usado aqui.
+1. Clique em **[!UICONTROL Campo]** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). [!UICONTROL País] é usado aqui.
 
    ![](assets/three.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/five.png)
 
-1. Por padrão, todos os valores de dados são colocados no subgrupo &quot;Outros&quot;. Para categorizar os valores de dados, clique em **Adicionar Grupo** para criar um subgrupo e nomeá-lo.
+1. Por padrão, todos os valores de dados são colocados no subgrupo &quot;[!UICONTROL Outros]&quot;. Para categorizar os valores de dados, clique em **[!UICONTROL Adicionar Grupo]** para criar um subgrupo e nomeá-lo.
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    >[!NOTE]
    >
-   >Para excluir um subgrupo, basta clicar no X vermelho ao lado do nome do subgrupo. Se houver valores de dados no grupo, eles serão movidos para o grupo padrão Outros.
+   >Para excluir um subgrupo, basta clicar no X vermelho ao lado do nome do subgrupo. Se houver valores de dados no grupo, eles serão movidos para o grupo padrão de [!UICONTROL Outros].
 
 1. Destaque um ou mais valores de dados na tela e arraste e solte os valores de dados no subgrupo apropriado.
 
@@ -92,19 +92,19 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de número inteiro {#create-custom-field-group-integer-editor}
 
-1. Clique em **Banco de Dados de Cliente Potencial**.
+1. Clique em **[!UICONTROL Banco de Dados de Cliente Potencial]**.
 
    ![](assets/one.png)
 
-1. Clique em **Novo** e selecione **Novo Organizador de Campos**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo Organizador de Campos]**.
 
    ![](assets/two.png)
 
-1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). A receita anual é usada aqui.
+1. Clique em **[!UICONTROL Campo]** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). [!UICONTROL Receita Anual] é usada aqui.
 
    ![](assets/nine.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/9.6.png)
 
-1. Clique no nome do grupo personalizado padrão acima do editor de números inteiros para personalizar o nome. Por exemplo, você pode renomear &quot;Grupo de receitas anuais&quot; para &quot;Receita anual por tamanho&quot;. Clique em **Salvar**.
+1. Clique no nome do grupo personalizado padrão acima do editor de números inteiros para personalizar o nome. Por exemplo, você pode renomear &quot;Grupo de receitas anuais&quot; para &quot;Receita anual por tamanho&quot;. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/eleven.png)
 
    O editor de número inteiro permite criar vários subgrupos para definir cada subgrupo por tamanho. Neste exemplo, três grupos serão criados para pequenas empresas, Medium e empresas.
 
-1. Para adicionar o primeiro grupo, digite um nome no campo **Nome do Grupo** (exemplo: Pequeno) e digite um valor máximo no campo **Intervalo do Grupo** (exemplo: 200000). Clique em **Adicionar Grupo**.
+1. Para adicionar o primeiro grupo, digite um nome no campo **[!UICONTROL Nome do Grupo]** (exemplo: Pequeno) e digite um valor máximo no campo **[!UICONTROL Intervalo do Grupo]** (exemplo: 200000). Clique em **[!UICONTROL Adicionar Grupo]**.
 
    ![](assets/twelve.png)
 
@@ -146,19 +146,19 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
 ## Criar grupo de campos personalizado - Editor de datas {#create-custom-field-group-date-editor}
 
-1. Clique em **Banco de Dados de Cliente Potencial**.
+1. Clique em **[!UICONTROL Banco de Dados de Cliente Potencial]**.
 
    ![](assets/one.png)
 
-1. Clique em **Novo** e selecione **Novo Organizador de Campos**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo Organizador de Campos]**.
 
    ![](assets/two.png)
 
-1. Clique em **Campo** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). A data de aquisição é usada aqui.
+1. Clique em **[!UICONTROL Campo]** e selecione um campo padrão ou personalizado com um tipo de dados que mapeie para o editor de cadeia de caracteres (consulte a tabela na seção anterior). [!UICONTROL Data de aquisição] é usada aqui.
 
    ![](assets/fourteen.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/14.5.png)
 
@@ -166,19 +166,19 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
 
    ![](assets/14.6.png)
 
-1. Clique no nome do grupo personalizado padrão acima do editor de datas para personalizar o nome. Por exemplo, você pode renomear &quot;Grupo de datas de aquisição&quot; como &quot;Categorias de datas de aquisição&quot;. Clique em **Salvar**.
+1. Clique no nome do grupo personalizado padrão acima do editor de datas para personalizar o nome. Por exemplo, você pode renomear &quot;Grupo de datas de aquisição&quot; como &quot;Categorias de datas de aquisição&quot;. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/fifteen.png)
 
    O editor de datas permite criar vários subgrupos e definir cada subgrupo por data. Neste exemplo, três grupos serão criados: Q1-15 Leads, Q2-15 Leads e Q3-15 Leads.
 
-1. Para adicionar seu primeiro grupo, insira um nome no campo **Nome do Grupo** (exemplo: Q1-15 Leads) e insira uma data no campo de data que representa a data em que o lead foi adquirido ou anterior (exemplo: 31/3/2015 para o último dia de Q1-15). Clique em **Adicionar Grupo**.
+1. Para adicionar seu primeiro grupo, insira um nome no campo **[!UICONTROL Nome do Grupo]** (exemplo: Q1-15 Leads) e insira uma data no campo de data que representa a data em que o lead foi adquirido ou anterior (exemplo: 31/3/2015 para o último dia de Q1-15). Clique em **[!UICONTROL Adicionar Grupo]**.
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >Você pode adicionar até dez subgrupos para categorizar os valores de dados. Cada entrada de Intervalo de grupo é criada com base na entrada anterior. Se você deixar a última entrada de Faixa de Grupos em branco para o último subgrupo personalizado criado, um valor de data final não será definido.
+   >Você pode adicionar até dez subgrupos para categorizar os valores de dados. Cada entrada de [!UICONTROL Intervalo de grupo] se baseia na entrada anterior. Se você deixar a última entrada [!UICONTROL Intervalo de grupo] em branco para o último subgrupo personalizado que criar, um valor de data final não será definido.
 
    O exemplo abaixo mostra uma entrada para os leads do primeiro trimestre de 2015 até o terceiro trimestre.
 

@@ -3,9 +3,9 @@ description: Conectar novo administrador ao Marketo - Documentação do Marketo 
 title: Conectar novo administrador ao Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Se o outro Administrador já estiver conectado ao Marketo, ele só precisará fa
 
 Se o segundo Administrador não estiver conectado ao Marketo como Administrador...
 
-1. O Administrador principal precisa desconectar o segundo Administrador do Marketo em Configurações > Marketo > Acesso de usuário.
+1. O Administrador primário precisa desconectar o segundo Administrador do Marketo de [!UICONTROL Configurações] > Marketo > [!UICONTROL Acesso de Usuário].
 
-1. O Administrador secundário faz logon em sua conta MSC, vai para Configurações > Marketo e clica em **Conectar**.
+1. O Administrador secundário faz logon em sua conta MSC, vai para [!UICONTROL Configurações] > Marketo e clica em **[!UICONTROL Conectar]**.
 
 1. Agora o usuário secundário está conectado ao Marketo como um Administrador.
 
@@ -32,7 +32,7 @@ Se o segundo Administrador não estiver conectado ao Marketo como Administrador.
 
 Se você decidir remover o Administrador que configurou a integração do Marketo, consulte este artigo para saber como.
 
-A integração do Marketo será vinculada a um usuário Sales Connect/Actions Admin. Normalmente, esse é o Administrador que clicou pela primeira vez no botão &quot;Conectar&quot; na página de conexão do Marketo e estabeleceu a conexão.
+A integração do Marketo será vinculada a um usuário administrador de [!DNL Sales Connect]/Ações. Normalmente, esse é o Administrador que clicou pela primeira vez no botão **[!UICONTROL Conectar]** na página de conexão do Marketo e estabeleceu a conexão.
 
 Para remover o Administrador que estabeleceu a conexão do Marketo, uma nova conexão deve ser estabelecida primeiro por outro usuário Administrador. Listamos abaixo as tarefas que precisarão ser concluídas para fazer isso.
 
@@ -52,11 +52,11 @@ Para fins de simplificação das instruções, nos referiremos ao Admin atualmen
 
 O administrador A (originalmente responsável pela conexão) deve seguir essas etapas.
 
-1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
+1. No aplicativo Web, clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
 1. Clique em **Marketo**.
 
-1. Clique em **Acesso de Usuário**.
+1. Clique em **[!UICONTROL Acesso de Usuário]**.
 
 1. Procure pelo Administrador para o qual você deseja estabelecer a nova conexão do Marketo.
 
@@ -66,20 +66,20 @@ O administrador A (originalmente responsável pela conexão) deve seguir essas e
 
 Essas etapas devem ser seguidas pelo Administrador B (novo administrador)
 
-1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
+1. No aplicativo Web, clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
 1. Clique em **Marketo**.
 
-1. Clique em **Desconectar**.
+1. Clique em **[!UICONTROL Desconectar]**.
 
 **Desconectar Integração do Marketo para o Administrador A**
 
 Essas etapas devem ser seguidas pelo Administrador A (originalmente conectado como Administrador).
 
-1. No aplicativo Web, clique no ícone de engrenagem e selecione **Configurações**.
+1. No aplicativo Web, clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
 1. Clique em **Marketo**.
 
-1. Clique em **Desconectar**.
+1. Clique em **[!UICONTROL Desconectar]**.
 
-Agora que um novo Administrador estabeleceu uma conexão com o Marketo e o Administrador original foi desconectado, o Administrador originalmente conectado pode ser removido com segurança da instância Conexão/Ações de vendas.
+Agora que um novo Administrador estabeleceu uma conexão com o Marketo e o Administrador original foi desconectado, o Administrador originalmente conectado pode ser removido com segurança da instância [!DNL Sales Connect]/Ações.

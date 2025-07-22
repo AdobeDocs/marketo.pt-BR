@@ -4,7 +4,7 @@ description: Sucesso do programa de alterações - Documentação do Marketo - D
 title: Alterar sucesso do programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 5%
@@ -31,7 +31,7 @@ Se você tiver um grupo de pessoas marcado incorretamente com Sucesso do program
 
    >[!NOTE]
    >
-   >Configurar a data de sucesso como qualquer valor define automaticamente a data de sucesso como verdadeira. Configurar Êxito como verdadeiro define automaticamente a Data de Êxito como a data atual.
+   >Configurar a [!UICONTROL Data de sucesso] para qualquer coisa define automaticamente a Êxito como verdadeiro. Configurar [!UICONTROL Success] como true define automaticamente a Data de Sucesso para a data atual.
 
 1. Defina o **[!UICONTROL Novo Valor]** como **[!UICONTROL True]** ou **[!UICONTROL False]**.
 

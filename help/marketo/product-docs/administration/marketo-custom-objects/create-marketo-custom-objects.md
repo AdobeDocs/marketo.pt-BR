@@ -4,7 +4,7 @@ description: Criar objetos personalizados do Marketo - Documentação do Marketo
 title: Criar objetos personalizados do Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Este exemplo mostra um objeto personalizado Car para uso em uma estrutura de um 
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que está em um estado Rascunho.
+1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que ele está em um estado de **[!UICONTROL Rascunho]**.
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -63,7 +63,7 @@ Este exemplo mostra um objeto personalizado Car para uso em uma estrutura de um 
 
    >[!NOTE]
    >
-   >Você só pode preencher Objetos Personalizados do Marketo por meio de uma importação de lista ou pela [API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api).
+   >Você só pode preencher Objetos Personalizados do Marketo por meio de uma importação de lista ou pela [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Criar um objeto personalizado para uma estrutura muitos para muitos {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -97,13 +97,13 @@ Este exemplo mostra um objeto personalizado do curso, que você usará para cria
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que está em um estado Rascunho.
+1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que ele está em um estado de **[!UICONTROL Rascunho]**.
 
    ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
-   >Você só pode preencher Objetos Personalizados do Marketo por meio de uma importação de lista ou pela [API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api).
+   >Você só pode preencher Objetos Personalizados do Marketo por meio de uma importação de lista ou pela [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 A próxima etapa é criar o objeto intermediário (veja abaixo). Mas antes disso, é necessário criar um campo para vincular com ele.
 
@@ -139,7 +139,7 @@ Use um objeto intermediário para conectar um objeto personalizado a pessoas ou 
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que está em um estado Rascunho.
+1. As informações do objeto personalizado exibem o conteúdo inserido. Observe que ele está em um estado de **[!UICONTROL Rascunho]**.
 
    A próxima etapa é [adicionar campos de link](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) para conectar seu objeto intermediário a uma pessoa/empresa e a um objeto personalizado.
 

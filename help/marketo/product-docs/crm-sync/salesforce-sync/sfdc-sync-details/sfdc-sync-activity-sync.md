@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953473
-description: Sincronização SFDC - Sincronização de atividade - Documentação do Marketo - Documentação do produto
-title: Sincronização do SFDC - Sincronização de atividades
+description: SFDC Sync - Sincronização de atividades - Documentação do Marketo - Documentação do produto
+title: SFDC Sync - Sincronização de atividades
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 4%
+source-wordcount: '160'
+ht-degree: 5%
 
 ---
 
-# Sincronização SFDC: Sincronização de Atividade {#sfdc-sync-activity-sync}
+# Sincronização do SFDC: Sincronização de atividade {#sfdc-sync-activity-sync}
 
-O Marketo Engage também é sincronizado com os dados de atividades do Salesforce. Aqui estão algumas perguntas e respostas.
+O Marketo também sincroniza os dados das atividades [!DNL Salesforce]. Aqui estão algumas perguntas e respostas.
 
 ## Em quais tipos de dados de atividade o Marketo é sincronizado? {#what-types-of-activity-data-does-marketo-sync-over}
 
@@ -21,7 +21,7 @@ O Marketo sincroniza eventos e tarefas associados a um cliente potencial ou cont
 
 ## Como os detalhes da atividade são mantidos em sincronia entre os dois sistemas? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-A sincronização é unidirecional, do Salesforce para o Marketo. Mas você pode criar uma tarefa no Salesforce usando a etapa de fluxo [Criar tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} ou [Personalizar sincronização de atividades](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} para o Salesforce.
+A sincronização é unidirecional, de [!DNL Salesforce] para Marketo. Mas você pode criar uma tarefa em [!DNL Salesforce] usando a etapa de fluxo [Criar Tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) ou [Personalizar Atividades Sincronizar](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) para [!DNL Salesforce].
 
 ## Posso criar uma tarefa usando o Marketo? {#can-i-create-a-task-using-marketo}
 
@@ -29,7 +29,7 @@ Sim, você pode usar a [ação Criar fluxo de tarefas](/help/marketo/product-doc
 
 ## Quais são os acionadores/filtros relacionados à atividade? {#what-are-the-triggers-filters-related-to-activity}
 
-Gatilhos
+Acionadores
 
 * A atividade é registrada
 * A atividade é atualizada

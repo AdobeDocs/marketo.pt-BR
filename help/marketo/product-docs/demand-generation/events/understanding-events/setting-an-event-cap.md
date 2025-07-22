@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Limite a quantidade de pessoas que podem se registrar no seu evento com um limit
 
 >[!NOTE]
 >
->Nem todos compraram este recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos compraram este recurso. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 >[!IMPORTANT]
 >Você deve ter pelo menos duas landing pages aprovadas (uma Registration page e uma Registration Full page) no programa antes de definir um limite de evento.
@@ -39,7 +39,7 @@ Limite a quantidade de pessoas que podem se registrar no seu evento com um limit
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Clique no menu suspenso [!UICONTROL Página de Registro] e selecione a página de aterrissagem que atuará como página de registro.
+1. Clique no menu suspenso [!UICONTROL Página(s) de Registro] e selecione a página de aterrissagem que atuará como página de registro.
 
    ![](assets/setting-an-event-cap-4.png)
 

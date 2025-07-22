@@ -4,7 +4,7 @@ description: Aprovar/desaprovar um programa de email - Documentação do Marketo
 title: Aprovar/cancelar aprovação de um programa de email
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Agora que seu programa está pronto para ser concluído, o passo final é aprová-lo. Veja como:
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ Agora que seu programa está pronto para ser concluído, o passo final é aprov�
    >
    >Se você não aprovar seu programa de email, o email não será enviado.
 
-1. No bloco **Aprovação**, vá em frente e clique em **Aprovar programa**.
+1. No bloco **[!UICONTROL Aprovação]**, vá em frente e clique em **[!UICONTROL Aprovar programa]**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ Agora que seu programa está pronto para ser concluído, o passo final é aprov�
 
 Se você mudar de ideia e decidir que não quer que ele seja lançado, poderá cancelar a aprovação do programa de email.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ Se você mudar de ideia e decidir que não quer que ele seja lançado, poderá c
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. No bloco **Aprovação**, clique em **Cancelar aprovação do programa**.
+1. No bloco **[!UICONTROL Aprovação]**, clique em **[!UICONTROL Cancelar aprovação do programa]**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

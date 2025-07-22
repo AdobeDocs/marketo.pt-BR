@@ -4,7 +4,7 @@ description: Definir um público-alvo com uma Smart List - Documentação do Mar
 title: Definir um público-alvo com uma lista inteligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 2%
@@ -23,17 +23,17 @@ Depois de [criar um programa de email](/help/marketo/product-docs/email-marketin
 >
 >A definição do público só funcionará quando o programa de email não for aprovado.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu programa de email e clique em **Editar lista inteligente** no bloco **Público**.
+1. Selecione seu programa de email e clique em **[!UICONTROL Editar lista inteligente]** no bloco **[!UICONTROL Público]**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Verifique se o Modo de Exibição está definido como **Painel de Controle** para localizar esta configuração.
+   >Verifique se o Modo de Exibição está definido como **[!UICONTROL Painel de Controle]** para localizar esta configuração.
 
 1. Localize os filtros que deseja usar e arraste-os para a tela.
 
@@ -63,7 +63,7 @@ Depois de [criar um programa de email](/help/marketo/product-docs/email-marketin
 >
 >Clique no número para obter uma lista detalhada de pessoas bloqueadas para emails. **Observação:** emails operacionais ainda serão enviados para as pessoas marcadas como não inscritas e com marketing suspenso.
 >
->Use o botão ![—](assets/image2014-10-23-16-3a32-3a36.png) no bloco Público-alvo para ver quantas pessoas receberão o email.
+>Use o botão ![—](assets/image2014-10-23-16-3a32-3a36.png) no bloco **[!UICONTROL Público-alvo]** para ver quantas pessoas receberão o email.
 
 >[!MORELIKETHIS]
 >

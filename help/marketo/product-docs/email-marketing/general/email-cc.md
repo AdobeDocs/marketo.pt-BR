@@ -4,7 +4,7 @@ description: Email CC - Documentação do Marketo - Documentação do produto
 title: Email CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -23,15 +23,15 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
 ## Configurar Email CC {#set-up-email-cc}
 
-1. Em Minha Marketo, clique em **Administrador**.
+1. Em Minha Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
-1. Na árvore, selecione **Email**.
+1. Na árvore, selecione **[!UICONTROL Email]**.
 
    ![](assets/two.png)
 
-1. Clique em **Editar configurações de email CC**.
+1. Clique em **[!UICONTROL Editar configurações de email CC]**.
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ Esse recurso está disponível em todos os ativos de email do Marketo, independe
 
 ## Usando o Email CC {#using-email-cc}
 
-1. Selecione seu email e clique em **Editar Rascunho**.
+1. Selecione seu email e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/five.png)
 
-1. Clique em **Configurações de email**.
+1. Clique em **[!UICONTROL Configurações de email]**.
 
    ![](assets/six.png)
 

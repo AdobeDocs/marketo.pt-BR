@@ -4,10 +4,10 @@ description: Listas inteligentes de conta - Documentação do Marketo - Document
 title: Listas inteligentes de conta
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '508'
-ht-degree: 1%
+source-wordcount: '507'
+ht-degree: 0%
 
 ---
 
@@ -17,11 +17,11 @@ Veja como identificar com rapidez e precisão suas contas de alto valor.
 
 >[!NOTE]
 >
->Esse recurso só está disponível para aqueles com o complemento Gerenciamento de conta do Target e um TAM licenciado e emitido.
+>Este recurso só está disponível para aqueles com o complemento [!UICONTROL Gerenciamento de Conta de Destino] e um TAM licenciado emitido.
 
-## Criar uma lista inteligente de contas {#create-an-account-smart-list}
+## Criar uma [!UICONTROL Smart List da conta] {#create-an-account-smart-list}
 
-1. No Marketo, vá para **Atividades de marketing**.
+1. No Marketo, vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/account-smart-lists-1.png)
 
@@ -29,29 +29,29 @@ Veja como identificar com rapidez e precisão suas contas de alto valor.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Clique no menu suspenso **Novo** e selecione **Novo ativo local**.
+1. Clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo ativo local]**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Clique em **Lista inteligente de contas**.
+1. Clique em **[!UICONTROL Lista inteligente de contas]**.
 
    ![](assets/account-smart-lists-4.png)
 
-1. Insira um nome e clique em **Criar** (Descrição e Rótulos são opcionais).
+1. Insira um nome e clique em **[!UICONTROL Criar]** (Descrição e Rótulos são opcionais).
 
    ![](assets/account-smart-lists-5.png)
 
-Sua lista inteligente de contas foi criada. Consulte as etapas abaixo para definir suas regras.
+Sua [!UICONTROL Lista Inteligente de Conta] foi criada! Consulte as etapas abaixo para definir suas regras.
 
-## Regras da lista inteligente de contas {#account-smart-list-rules}
+## Regras da [!UICONTROL Smart List] da conta {#account-smart-list-rules}
 
-As Smart Lists da conta funcionam de forma semelhante às Smart Lists padrão, com uma exceção notável: contêineres.
+[!UICONTROL Smart Lists de Conta] funcionam de forma semelhante às Smart Lists padrão, com uma exceção notável: contêineres.
 
-1. Para definir sua Smart List Conta, clique na guia **Regras da Smart List Conta**.
+1. Para definir sua [!UICONTROL Lista inteligente de contas], clique na guia **[!UICONTROL Regras da lista inteligente de contas]**.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Escolha o(s) filtro(s) de conta desejado(s). Neste exemplo, estamos escolhendo _O setor é da área de saúde_.
+1. Escolha o(s) filtro(s) de conta desejado(s). Neste exemplo, estamos escolhendo _[!UICONTROL O setor] é [!UICONTROL Saúde]_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -77,32 +77,32 @@ Aqui está como o contêiner ficará.
 >
 >Criar um contêiner de filtros cria uma regra &quot;and&quot;, o que significa que retornará apenas todos os resultados combinados. Neste exemplo, as contas com um setor de serviços de saúde, junto com uma localização na Califórnia _e_ com alguém listado como CFO. Se você não quiser utilizar contêineres, basta soltar o filtro abaixo/acima do filtro existente.
 
-E é isso! Confira a seção abaixo para ver como você pode aproveitar sua lista inteligente de contas.
+E é isso! Confira a seção abaixo para ver como você pode aproveitar sua [!UICONTROL Lista inteligente de contas].
 
 >[!TIP]
 >
->Assim como com as Smart Lists padrão, você pode usar a lógica avançada para refinar ainda mais seus resultados. São necessários pelo menos três filtros para fazer isso e, nas Smart Lists de conta, um contêiner (independentemente de quantos filtros ele contém) equivale a um filtro.
+>Assim como com as Smart Lists padrão, você pode usar a lógica avançada para refinar ainda mais seus resultados. Você precisa de pelo menos três filtros para fazer isso, e em [!UICONTROL Listas inteligentes de conta], um contêiner (independentemente de quantos filtros ele contém) equivale a um filtro.
 
-## Ações de listas inteligentes de contas {#account-smart-list-actions}
+## Ações da [!UICONTROL Smart List] da conta {#account-smart-list-actions}
 
-Na guia Visão geral da Smart List da conta, você notará algumas opções de ação.
+Na guia Visão geral da sua [!UICONTROL Smart List da conta], você verá algumas opções de ação.
 
-**Exportar**: exporta os resultados da sua lista inteligente de contas como um CSV.
+**[!UICONTROL Exportar]**: exporta os resultados da sua [!UICONTROL Smart List da conta] como CSV.
 
-**Clonar**: faz uma cópia da sua lista inteligente de contas.
+**[!UICONTROL Clonar]**: faz uma cópia da sua [!UICONTROL Lista Inteligente de Contas].
 
-**Enviar para a rede de publicidade**: envia a lista para a LinkedIn como um novo Público-alvo correspondente.
+**[!UICONTROL Enviar para a Rede de Publicidade]**: Envia a lista para [!DNL LinkedIn] como um novo Público Correspondente.
 
-Você também pode fazer referência à sua lista inteligente de conta em uma campanha/lista inteligente padrão usando o filtro _Lista inteligente de membros da conta_.
+Você também pode fazer referência à sua [!UICONTROL Lista Inteligente de Conta] em uma Campanha/Lista Inteligente padrão usando o filtro _[!UICONTROL Lista Inteligente de Membro de Conta]_.
 
 ![](assets/account-smart-lists-12.png)
 
 >[!NOTE]
 >
->Os resultados do Membro de pessoas da lista inteligente de contas mostrarão cada pessoa na(s) conta(s) identificada(s), não apenas as pessoas que são encontradas por meio dos filtros Pessoa correspondente na lista inteligente de contas.
+>Os resultados da [!UICONTROL Lista Inteligente de Pessoas de Conta] mostrarão cada pessoa na(s) conta(s) identificada(s), não apenas as pessoas que são encontradas por meio dos filtros Pessoa Correspondentes na lista inteligente de contas.
 
 >[!NOTE]
 >
 >**Definição**
 >
->**Lista Inteligente de Membro de Conta de Pessoas**: nesse caso, a palavra &quot;membro&quot; refere-se à própria conta; portanto, &quot;membro de pessoas&quot; significa as pessoas reais (registros Marketo) nessas contas.
+>**[!UICONTROL Lista Inteligente de Membro de Conta de Pessoas]**: nesse caso, a palavra &quot;membro&quot; refere-se à própria conta; portanto, &quot;membro de pessoas&quot; significa as pessoas reais (registros Marketo) nessas contas.

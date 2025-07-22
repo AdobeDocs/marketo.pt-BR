@@ -4,16 +4,16 @@ description: Registre um aplicativo com o Azure para adquirir a ID do cliente/ID
 title: Registrar um aplicativo com o Azure para adquirir a ID do cliente/ID do aplicativo
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # Registrar um aplicativo com o Azure para adquirir a ID do cliente/ID do aplicativo {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-O Azure Ative Diretory estende seus diretórios locais na nuvem, fornecendo suporte ao MS Dynamics 365 CRM com autenticação ADFS local.
+O Ative Diretory do Azure estende seus diretórios locais na nuvem, fornecendo suporte ao CRM do [!DNL MS Dynamics 365] com autenticação ADFS local.
 
 ## Registrando um novo aplicativo {#registering-a-new-app}
 
@@ -21,20 +21,20 @@ O Azure Ative Diretory estende seus diretórios locais na nuvem, fornecendo supo
 
    >[!CAUTION]
    >
-   >Você deve usar uma conta na mesma assinatura do Office 365 que aquela com a qual pretende registrar o aplicativo.
+   >Você deve usar uma conta na mesma assinatura do [!DNL Office 365] que a conta com a qual pretende registrar o aplicativo.
 
    >[!NOTE]
    >
-   >Se você não tiver uma conta do Azure, poderá [inscrever-se](https://azure.microsoft.com/en-us/free/){target="_blank"} para uma. Consulte a documentação da Microsoft ou entre em contato com o representante da Microsoft para obter mais informações. Depois de criar uma conta do Azure, você pode registrar um ou mais aplicativos usando o procedimento descrito abaixo.
+   >Se você não tiver uma conta do Azure, poderá [inscrever-se](https://azure.microsoft.com/en-us/free/){target="_blank"} para uma conta. Consulte a documentação da Microsoft ou entre em contato com o representante da Microsoft para obter mais informações. Depois de criar uma conta do Azure, você pode registrar um ou mais aplicativos usando o procedimento descrito abaixo.
    >
    >
-   >Se você tiver uma conta do Azure, mas sua assinatura do Office 365 com o Microsoft Dynamics 365 não estiver disponível em sua assinatura do Azure, siga [estas instruções](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} para associar as duas contas.
+   >Se você tiver uma conta do Azure, mas sua assinatura do [!DNL Office 365] com [!DNL Microsoft Dynamics 365] não estiver disponível em sua assinatura do Azure, siga [estas instruções](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} para associar as duas contas.
 
 1. Localize e clique em **[!UICONTROL Azure Ative Diretory]** no painel de navegação esquerdo.
 
    ![](assets/two.png)
 
-1. Em Gerenciar, clique em **[!UICONTROL Registros de aplicativo]**.
+1. Em [!UICONTROL Gerenciar], clique em **[!UICONTROL Registros de aplicativo]**.
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ O Azure Ative Diretory estende seus diretórios locais na nuvem, fornecendo supo
 
    ![](assets/seven.png)
 
-1. Em Gerenciar, clique em **[!UICONTROL Permissões de API]**.
+1. Em [!UICONTROL Gerenciar], clique em **[!UICONTROL Permissões de API]**.
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ O Azure Ative Diretory estende seus diretórios locais na nuvem, fornecendo supo
 
    ![](assets/ten.png)
 
-1. Marque a caixa **[!UICONTROL Acessar o Common Data Service como usuários da organização]** e clique em **[!UICONTROL Adicionar permissões]**.
+1. Marque a caixa **[!UICONTROL Acessar o Common Data Service como usuários da organização]** e clique em **[!UICONTROL Adicionar permissões].**
 
    ![](assets/eleven.png)
 

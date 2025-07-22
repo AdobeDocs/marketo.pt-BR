@@ -4,7 +4,7 @@ description: Relatório de desempenho do fluxo de engajamento - Documentação d
 title: Relatório de Desempenho de Fluxo de Envolvimento
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 2%
@@ -17,11 +17,11 @@ Quer saber como está o desempenho do seu conteúdo de engajamento? Experimente 
 
 ## Criar o relatório {#create-the-report}
 
-1. Localize e selecione seu programa de envolvimento, em **Novo**, clique em **Novo ativo local**.
+1. Localize e selecione seu programa de envolvimento, em **[!UICONTROL Novo]**, clique em **[!UICONTROL Novo ativo local]**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Selecione **Relatório**.
+1. Selecione **[!UICONTROL Relatório]**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ Quer saber como está o desempenho do seu conteúdo de engajamento? Experimente 
    >
    >A criação do relatório no programa o restringirá automaticamente ao conteúdo do programa.
 
-   Selecione Desempenho do fluxo de engajamento como o Tipo de relatório.
+   Selecione **[!UICONTROL Desempenho do Fluxo de Envolvimento]** como o relatório **[!UICONTROL Tipo]**.
    ![](assets/engagementreportchoose.png)
 
-1. Nomeie seu relatório e clique em **Criar**.
+1. Nomeie seu relatório e clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ Quer saber como está o desempenho do seu conteúdo de engajamento? Experimente 
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Na guia **Configuração**, clique duas vezes no filtro **Email do Programa de Envolvimento**.
+1. Na guia **[!UICONTROL Configuração]**, clique duas vezes no filtro **[!UICONTROL Emails do programa de envolvimento]**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Selecione o(s) email(s) que deseja relatar e clique em **Aplicar**.
+1. Selecione o(s) email(s) que deseja relatar e clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Executar relatório {#run-report}
 
-1. Para executar o relatório, basta clicar na guia **Relatório**.
+1. Para executar o relatório, basta clicar na guia **[!UICONTROL Relatório]**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

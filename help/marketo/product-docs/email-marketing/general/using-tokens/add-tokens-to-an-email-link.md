@@ -4,7 +4,7 @@ description: Adicionar tokens a um link de email - Documentação do Marketo - D
 title: Adicionar tokens a um link de email
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Para inserir parâmetros extras e específicos de pessoas em seus links, é possível usar tokens. Veja como.
 
-1. Selecione seu email e clique na guia **Editar rascunho**.
+1. Selecione seu email e clique na guia **[!UICONTROL Editar rascunho]**.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Para inserir parâmetros extras e específicos de pessoas em seus links, é poss
 
    ![](assets/two.png)
 
-1. Localize ou escreva o texto para o link. Destaque-o e clique no ícone **Inserir/Editar link**.
+1. Localize ou escreva o texto para o link. Destaque-o e clique no ícone **[!UICONTROL Inserir/Editar link]**.
 
    ![](assets/three.png)
 
-1. Digite os tokens desejados em **URL** e clique em **Inserir**.
+1. Digite os tokens desejados em **[!UICONTROL URL]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/four.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/five.png)
 

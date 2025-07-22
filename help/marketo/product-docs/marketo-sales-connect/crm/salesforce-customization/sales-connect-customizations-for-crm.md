@@ -1,63 +1,63 @@
 ---
 unique-page-id: 14745793
-description: Personalizações do Sales Connect para CRM - Documentação do Marketo - Documentação do produto
-title: Personalizações do Sales Connect para CRM
+description: Personalizações do [!DNL Sales Connect] para CRM - Documentação do Marketo - Documentação do produto
+title: '[!DNL Sales Connect] Personalizações para o CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '676'
 ht-degree: 2%
 
 ---
 
-# Personalizações do Sales Connect para CRM {#sales-connect-customizations-for-crm}
+# [!DNL Sales Connect] Personalizações para o CRM {#sales-connect-customizations-for-crm}
 
 Os campos e botões abaixo são criados pela API de metadados no Salesforce CRM. Depois que os campos forem criados, os administradores deverão configurar os layouts de página em seus CRMs para expô-los. As instruções [podem ser encontradas aqui](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
 
-## Como instalar personalizações no Salesforce {#how-to-install-customizations-in-salesforce}
+## Como instalar personalizações no [!DNL Salesforce] {#how-to-install-customizations-in-salesforce}
 
-1. No Sales Connect, clique no ícone de engrenagem e selecione **Configurações**.
+1. Em [!DNL Sales Connect], clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/one.png)
 
-1. Em Configurações do Administrador, selecione **Salesforce**.
+1. Em [!UICONTROL Configurações de Administração], selecione **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. Clique em **Personalizações do Marketo Sales Connect**.
+1. Clique em **[!UICONTROL Personalizações do Marketo Sales Engage]**.
 
    ![](assets/three.png)
 
-1. Clique em **Conectar ao Salesforce**.
+1. Clique em **[!UICONTROL Conectar ao Salesforce]**.
 
    ![](assets/four.png)
 
-1. Faça logon no Salesforce.
+1. Faça logon em [!DNL Salesforce].
 
    ![](assets/five.png)
 
-## Atualizar personalização do Salesforce {#update-salesforce-customization}
+## Atualizar Personalização de [!DNL Salesforce] {#update-salesforce-customization}
 
-As atualizações do pacote de Personalização do Salesforce incluirão melhorias e correções de erros. Para verificar se há atualizações disponíveis ou para executar uma atualização, siga as etapas abaixo.
+As atualizações do pacote de Personalização do [!DNL Salesforce] incluirão melhorias e correções de erros. Para verificar se há atualizações disponíveis ou para executar uma atualização, siga as etapas abaixo.
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias.**
 
-1. No [aplicativo Web](https://www.toutapp.com), clique no ícone de engrenagem e selecione **Configurações**.
+1. No [aplicativo Web](https://www.toutapp.com), clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Em Configurações do Administrador, clique em **Salesforce**.
+1. Em [!UICONTROL Configurações de Administração], clique em **[!UICONTROL Salesforce]**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. O cartão Personalização do Sales Connect mostrará se há atualizações disponíveis. Clique em **Atualizar Personalizações**.
+1. O cartão Personalização do [!DNL Sales Connect] será exibido se houver atualizações disponíveis. Clique em **[!UICONTROL Atualizar Personalizações]**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Clique em **Atualizar**.
+1. Clique em **[!UICONTROL Atualizar]**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

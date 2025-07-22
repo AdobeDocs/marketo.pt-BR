@@ -4,23 +4,23 @@ description: Guia Configuração do Marketo Sales Insight no Salesforce - Docume
 title: Guia Configuração do Marketo Sales Insight no Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
 
-# Guia Configuração do Marketo Sales Insight no Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Guia Configuração [!DNL Marketo Sales Insight] em [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Configurações Operacionais {#operational-settings}
 
-Você precisará configurá-lo para começar a usar o Sales Insight no SFDC.
+Você precisará configurá-lo para começar a usar o [!DNL Sales Insight] no SFDC.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
 * O MSI usa API Soap e Rest
-* A página Sales Insight na sua conta do Marketo terá dois painéis correspondentes com credenciais de API Soap e Rest que você pode copiar e colar aqui
+* A página Insight de vendas na sua conta do Marketo terá dois painéis correspondentes com credenciais de API Soap e Rest que você pode copiar e colar aqui
 * As APIs Soap e Rest têm tempos limite separados que podem ser definidos com base nas necessidades da organização. O tempo máximo permitido é de 120 segundos
 * Desabilitar o painel de insights: você pode remover as credenciais da API Rest e usar somente a API Soap. Isso desativará a guia Painel de insights em todos os painéis de força visual do MSI
 
@@ -42,7 +42,7 @@ As configurações são aplicáveis a todos os usuários MSI e não são especí
 
 **Guia Global do Marketo**
 
-* Feed RSS ativado: quando ativado, os usuários do MSI podem visualizar seu feed RSS em um feed RSS (além do feed lead no Salesforce). O RSS feed só poderá funcionar se o recurso &quot;Expiração do token&quot; estiver desativado. Essa configuração é controlada na sua página de Administração do Marketo Sales Insight.
+* Feed RSS ativado: quando ativado, os usuários do MSI podem exibir seu feed principal em um feed RSS (além do feed principal no Salesforce). O RSS feed só poderá funcionar se o recurso &quot;Expiração do token&quot; estiver desativado. Essa configuração é controlada na página de administração do Marketo Sales Insight.
 * Modo de depuração das melhores opções
 * Ocultar padrão: a opção escolhida aqui será o número de dias que uma melhor opção ficará oculta na guia Melhores opções do Marketo ao clicar no ícone &quot;Ocultar&quot;
 * Campo de status do contato: a opção escolhida aqui será o valor preenchido na coluna Cabeçalho do status na guia Melhores opções do Marketo
@@ -58,18 +58,18 @@ As configurações são aplicáveis a todos os usuários MSI e não são especí
 
 **Configurações da ação**
 
-* Enviar email do Marketo: ativar essa opção fornecerá a todos os usuários do Sales Insight acesso para enviar emails dos painéis Cliente em potencial, Contato, Conta, Oportunidade e a guia Melhores Opções (ações em massa e envolvimento em linha)
+* Enviar email do Marketo: ativar essa opção fornecerá a todos os usuários do Sales Insight acesso para enviar emails dos painéis Cliente em potencial, Contato, Conta, Oportunidade e a guia Melhores opções (ações em massa e envolvimento em linha)
 * Adicionar ao Marketo Campaign: habilitar essa opção fornecerá a todos os usuários do Sales Insight acesso para adicionar campanhas dos painéis Lead, Contato, Conta, Oportunidade e a guia Melhores Opções (ações em massa e envolvimento em linha)
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
 ## Configurações de suporte {#support-settings}
 
-Marcar essa caixa de seleção habilitará o Log de depuração na instância do Salesforce. Ele pode ajudá-lo a solucionar problemas.
+Selecionar essa caixa de seleção habilitará o Log de depuração na instância do Salesforce. Ele pode ajudá-lo a solucionar problemas.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
-## Redefinir Insight de vendas do Marketo {#reset-marketo-sales-insight}
+## Redefinir Marketo Sales Insight {#reset-marketo-sales-insight}
 
 Se você optar por fazer isso, todas as configurações no SFDC serão apagadas e não poderão ser restauradas. Será necessário reconfigurar tudo novamente.
 
@@ -81,4 +81,4 @@ Se você optar por fazer isso, todas as configurações no SFDC serão apagadas 
 
 >[!MORELIKETHIS]
 >
->[Adicionar Acesso ao Sales Insight aos Perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[Adicionar Acesso do Sales Insight aos Perfis](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

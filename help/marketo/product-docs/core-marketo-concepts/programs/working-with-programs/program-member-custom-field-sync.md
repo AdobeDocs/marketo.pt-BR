@@ -3,10 +3,10 @@ description: Sincronização de campo personalizado do membro do programa - Docu
 title: Sincronizar campos personalizados de membros de programas
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 11%
+source-wordcount: '350'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 >[!PREREQUISITES]
 >
 >* Criação de [Campos Personalizados de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Sincronizar uma campanha do Salesforce com um programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Sincronizar uma [!DNL Salesforce] Campanha com um Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 11%
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. Use a caixa de pesquisa para localizar os campos do Salesforce que deseja mapear. Neste exemplo, estamos usando Do Not Call.
+1. Use a caixa de pesquisa para localizar os campos [!DNL Salesforce] que deseja mapear. Neste exemplo, estamos usando Do Not Call.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,13 +39,13 @@ ht-degree: 11%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Escolha o Campo Personalizado de Membro do Programa Marketo que deseja mapear.
+1. Escolha o [!UICONTROL Campo Personalizado de Membro do Programa] do Marketo desejado para mapear.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >O menu suspenso mostrará apenas os Campos personalizados do membro do programa que correspondem ao tipo de dados do campo Salesforce.
+   >O menu suspenso mostrará apenas [!UICONTROL Campos Personalizados de Membros do Programa] que correspondam ao tipo de dados do campo [!DNL Salesforce].
 
 1. Para mapeamentos de campo adicionais, desmarque a caixa de pesquisa e repita as etapas de 3 a 5.
 
@@ -55,13 +55,13 @@ ht-degree: 11%
 
    >[!IMPORTANT]
    >
-   >As alterações nos dados dos membros do programa nos campos mapeados serão sincronizadas entre o Marketo e o Salesforce a partir de agora.
+   >As alterações nos dados dos membros do programa nos campos mapeados serão sincronizadas entre o Marketo e o [!DNL Salesforce] a partir de agora.
 
    >[!NOTE]
    >
-   >Se você renomear ou alterar o tipo de dados de um campo no Salesforce, removeremos qualquer mapeamento desse campo com o Campo personalizado do membro do programa. Mas você pode remapeá-lo com o novo campo após a revisão.
+   >Se você renomear ou alterar o tipo de dados de um campo em [!DNL Salesforce], removeremos qualquer mapeamento desse campo com o [!UICONTROL Campo Personalizado de Membro do Programa]. Mas você pode remapeá-lo com o novo campo após a revisão.
 
-## Desmapear campos do Salesforce dos campos personalizados do membro do programa {#unmap-salesforce-fields-from-program-member-custom-fields}
+## Desmapear campos do Salesforce a partir de campos personalizados de membros do programa {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteração geral, execute um cancelamento de mapeamento primeiro. Veja como.
 
@@ -103,23 +103,23 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
     </tr>
     <tr>
       <td>Texto</td>
-      <td>Sequência de caracteres</td>
+      <td>String</td>
     </tr>
     <tr>
       <td>Lista de seleção</td>
-      <td>Sequência de caracteres</td>
+      <td>String</td>
     </tr>
     <tr>
       <td>Seleção múltipla da lista de opções</td>
-      <td>Sequência de caracteres</td>
+      <td>String</td>
     </tr>
     <tr>
       <td>Telefone</td>
-      <td>Sequência de caracteres</td>
+      <td>String</td>
     </tr>
     <tr>
       <td>Email</td>
-      <td>Sequência de caracteres</td>
+      <td>String</td>
     </tr>
     <tr>
       <td>Número(m)</td>
@@ -147,11 +147,11 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
     </tr>
     <tr>
       <td>Pesquisa (referência)</td>
-      <td>Sequência de caracteres</td>
+      <td>String</td>
     </tr>
     <tr>
       <td>Base64</td>
-      <td>Sequência de caracteres</td>
+      <td>String</td>
     </tr>
   </tbody>
 </table>
@@ -160,4 +160,4 @@ Se você quiser liberar um campo para substituí-lo ou apenas fazer uma alteraç
 >
 >* [Alterar Dados de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
 >* [Exibir dados na grade de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [Sincronização SFDC - Sincronização de Campanha](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [Sincronização com o SFDC - Sincronização com o Campaign](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

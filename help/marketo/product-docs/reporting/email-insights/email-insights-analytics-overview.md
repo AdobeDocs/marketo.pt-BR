@@ -4,7 +4,7 @@ description: Visão geral do Email Insights Analytics - Documentação do Market
 title: Visão geral do Email Insights Analytics
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Visão geral do Email Insights Analytics {#email-insights-analytics-overview}
 
-No Analytics, explore dados agregados para entrega e engajamento de email. Use o gráfico à esquerda para explorar dados, os insights à direita para obter uma experiência mais guiada.
+No [!UICONTROL Analytics], explore dados agregados para entrega de email e participação. Use o gráfico à esquerda para explorar dados, os insights à direita para obter uma experiência mais guiada.
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -55,7 +55,7 @@ No lado direito da página, as métricas guiadas ajudam a descobrir drivers rele
 
 >[!NOTE]
 >
->Você vê a opção Refresh no canto superior direito? Ao visualizá-lo, será necessário clicar manualmente nele para atualizar o módulo Insights. Só a mostramos quando você tiver feito uma alteração nos filtros que invalidariam os valores atuais.
+>Você está vendo que [!UICONTROL Atualizar] no canto superior direito? Ao visualizá-lo, será necessário clicar manualmente nele para atualizar o módulo Insights. Só a mostramos quando você tiver feito uma alteração nos filtros que invalidariam os valores atuais.
 
 Você também pode especificar o que vê (da esquerda para a direita): Tudo, Público-alvo, Conteúdo e Plataforma.
 

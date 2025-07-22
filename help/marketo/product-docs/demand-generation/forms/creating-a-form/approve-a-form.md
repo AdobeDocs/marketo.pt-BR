@@ -4,10 +4,10 @@ description: Aprovar um formulário - Documentação do Marketo - Documentação
 title: Aprovar um formulário
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Para adicionar um formulário a uma de suas páginas de aterrissagem, ele deve s
 
 Veja como aprovar um formulário existente pronto para uso.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ Veja como aprovar um formulário existente pronto para uso.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Em **Ações de Formulário**, clique em **Aprovar**.
+1. Em **[!UICONTROL Ações de Formulário]**, clique em **[!UICONTROL Aprovar]**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -49,10 +49,10 @@ Se você estiver fazendo alterações em um formulário, será possível aprovar
 >
 >[Editar um formulário](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

@@ -4,7 +4,7 @@ description: Criar um usuário somente de API - Documentação do Marketo - Docu
 title: Criar um usuário somente de API
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 1%
@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Criar um usuário somente de API {#create-an-api-only-user}
 
-Se você quiser integrar com o Marketo por meio da [REST API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, será necessário criar um usuário somente de API. Veja como.
+Se você quiser integrar com o Marketo por meio da [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, será necessário criar um usuário somente de API. Veja como.
 
 >[!IMPORTANT]
 >
->Se você estiver criando somente API de usuários em uma assinatura que foi integrada à Identidade Adobe, suas etapas serão diferentes e [poderá ser encontrado aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Se você estiver criando somente API de usuários em uma assinatura que foi integrada à Adobe Identity, suas etapas serão diferentes e [poderá ser encontrado aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -45,7 +45,7 @@ Se você quiser integrar com o Marketo por meio da [REST API](https://experience
 
    >[!TIP]
    >
-   >Adicione um motivo opcional ou uma data de expiração de acesso. As datas de expiração de acesso são úteis para funcionários de curto prazo.
+   >Adicione uma [!UICONTROL Razão] opcional ou uma data de [!UICONTROL Expiração do Acesso]. As datas de expiração de acesso são úteis para funcionários de curto prazo.
 
 1. Selecione a função **[!UICONTROL Somente API]** e marque a caixa de seleção **[!UICONTROL Somente API]**. Clique em **[!UICONTROL Avançar]**.
 

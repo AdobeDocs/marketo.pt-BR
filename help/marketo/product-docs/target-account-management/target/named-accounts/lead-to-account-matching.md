@@ -4,7 +4,7 @@ description: Correspondência de contas de lead - Documentação do Marketo - Do
 title: Lead para Correspondência de Conta
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Corresponder leads certos a contas nomeadas certas usando a correspondência ent
 
 >[!NOTE]
 >
->**Correspondência entre lead e conta** é um recurso interno do Gerenciamento de conta do Marketo Target. Ele usa lógica difusa para corresponder leads automaticamente às contas nomeadas certas em tempo quase real. Essas contas nomeadas podem ser contas CRM ou empresas Marketo.
+>**Correspondência entre lead e conta** é um recurso interno do [!UICONTROL Gerenciamento de conta de destino] do Marketo. Ele usa lógica difusa para corresponder leads automaticamente às contas nomeadas certas em tempo quase real. Essas contas nomeadas podem ser contas CRM ou empresas Marketo.
 
 ## Visão geral {#overview}
 
@@ -37,7 +37,7 @@ A Vinculação entre lead e conta Marketo segue um processo de quatro etapas:
 
 **Etapa 4 -** Apresentamos uma lista de empresas propostas com correspondência forte e fraca. Quando uma conta nomeada é criada com base em uma das empresas propostas, criamos regras de correspondência para associar automaticamente novos leads (por exemplo, lead preenchido em um formulário) seguindo para as contas nomeadas certas. Dessa forma, você pode se preocupar menos com leads correspondentes e mais com a obtenção de receita!
 
-Como a correspondência entre lead e conta do Marketo é um recurso incorporado do Gerenciamento de conta do Marketo Target, a correspondência de leads com contas ocorre em tempo quase real (por exemplo, no momento em que um lead preenche um formulário do Marketo, associamos esse lead à conta nomeada correta). Esse evento pode ser usado para acionar alertas e notificar os proprietários da conta sobre os novos leads que entram de suas contas nomeadas.
+Como a correspondência entre lead e conta do Marketo é um recurso interno do [!UICONTROL Gerenciamento de conta de destino] do Marketo, a correspondência de leads com contas ocorre em tempo quase real (por exemplo, no momento em que um lead preenche um formulário do Marketo, associamos o lead à conta nomeada correta). Esse evento pode ser usado para acionar alertas e notificar os proprietários da conta sobre os novos leads que entram de suas contas nomeadas.
 
 >[!NOTE]
 >
@@ -47,25 +47,25 @@ Como a correspondência entre lead e conta do Marketo é um recurso incorporado 
 
 Depois que o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) tiver habilitado o LeanData para sua conta, siga as etapas abaixo para configurá-lo.
 
-1. No Salesforce, clique em **Configurar início** na navegação à esquerda.
+1. No Salesforce, clique em **[!UICONTROL Início da Instalação]** na navegação à esquerda.
 
-1. Ainda na navegação à esquerda, em Administração, clique em **Usuários** e depois em **Perfis**.
+1. Ainda na navegação à esquerda, em Administração, clique em **[!UICONTROL Usuários]** e depois em **[!UICONTROL Perfis]**.
 
 1. Localize e selecione o perfil **Marketo Sync**.
 
-1. Role para baixo até a seção Segurança de nível de campo e localize o objeto de cliente potencial. Selecione **Exibir**.
+1. Role para baixo até a seção Segurança de nível de campo e localize o objeto de cliente potencial. Selecione **[!UICONTROL Exibir]**.
 
-1. Para o nome do campo &quot;Conta com Correspondência do Relatório&quot;, verifique se a caixa de seleção na coluna **Acesso de Leitura** está marcada.
+1. Para o nome do campo &quot;Conta com Correspondência do Relatório&quot;, verifique se a caixa de seleção na coluna **[!UICONTROL Acesso de Leitura]** está marcada.
 
-1. No Marketo, vá para a seção **Administrador**.
+1. No Marketo, vá para a seção **[!UICONTROL Administrador]**.
 
    ![](assets/lead-to-account-matching-1.png)
 
-1. Selecione **Gerenciamento de campos**.
+1. Selecione **[!UICONTROL Gerenciamento de campos]**.
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. Confirme se o campo está lá, pesquisando &quot;Reportando conta correspondente&quot;.
+1. Confirme se o campo está lá pesquisando &quot;[!UICONTROL Conta Correspondente do Relatório].&quot;
 
    ![](assets/lead-to-account-matching-3.png)
 

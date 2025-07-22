@@ -4,10 +4,10 @@ description: Desativar o preenchimento prévio para um campo de formulário - Do
 title: Desativar preenchimento prévio para um campo de formulário
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,11 +23,11 @@ Quando um visitante da Web é conhecido (com cookie), os formulários do Marketo
 
 ## Como desativar o preenchimento prévio {#how-to-disable-pre-fill}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -35,7 +35,7 @@ Quando um visitante da Web é conhecido (com cookie), os formulários do Marketo
    >
    >O Preenchimento prévio de formulário não funciona ao incorporar um formulário em suas próprias páginas. Ele só funciona em landing pages do Marketo.
 
-1. Selecione um dos campos e defina **Preenchimento prévio do formulário** como **Desabilitado**.
+1. Selecione um dos campos e defina **[!UICONTROL Preenchimento prévio do formulário]** como **[!UICONTROL Desabilitado]**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,11 +43,11 @@ Quando um visitante da Web é conhecido (com cookie), os formulários do Marketo
    >
    >Você também pode desativar o preenchimento prévio de formulário no nível da página de aterrissagem ou no nível do administrador.
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 

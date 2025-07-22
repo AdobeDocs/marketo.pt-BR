@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10099389
-description: Versões de plug-in do Marketo para Microsoft Dynamics - Documentação do Marketo - Documentação do produto
-title: Versões de plug-ins do Marketo para o Microsoft Dynamics
+description: Versões de plug-in do Marketo para  [!DNL Microsoft Dynamics]  - Documentação do Marketo - Documentação do produto
+title: Versões de plug-in do Marketo para  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
 
-# Versões de plug-ins do Marketo para o Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
+# Versões de plug-ins do Marketo para [!DNL Microsoft Dynamics] {#marketo-plugin-releases-for-microsoft-dynamics}
 
-Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão mais recente dos plug-ins para o Marketo. Periodicamente, o Marketo atualiza esses plug-ins, para que você possa retornar ao mesmo lugar para baixar a nova versão.
+Ao sincronizar pela primeira vez com o [!DNL Microsoft Dynamics], você baixará a versão mais recente dos plug-ins para o Marketo. Periodicamente, o Marketo atualiza esses plug-ins, para que você possa retornar ao mesmo lugar para baixar a nova versão.
 
-[Baixe o plug-in mais recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} correspondente à sua versão do Dynamics.
+[Baixe o plug-in mais recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) correspondente à sua versão [!DNL Dynamics].
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## Atualização da Solução Dynamics {#updating-your-dynamics-solution}
+## Atualizando sua Solução [!DNL Dynamics] {#updating-your-dynamics-solution}
 
-1. Importe a versão mais recente da solução sobre a versão existente do Dynamics CRM (por exemplo: se o Dynamics CRM tiver a versão 1.4 e a versão mais recente for a 1.5, você importaria _sobre_ a versão 1.4).
+1. Importe a versão mais recente da solução sobre a versão existente do seu [!DNL Dynamics] CRM (por exemplo: se o seu [!DNL Dynamics] CRM tiver a versão 1.4 e a versão mais recente for a 1.5, você importaria _sobre_ a versão 1.4).
 
 1. Você verá o seguinte pop-up. Selecione **Atualizar** e **Manter personalizações** e clique em **Importar**.
 
@@ -31,7 +31,7 @@ Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão
 
 >[!NOTE]
 >
->Essas versões funcionam para versões local e online do Dynamics.
+>Essas versões funcionam para as versões local e online do [!DNL Dynamics].
 
 <table> 
  <tbody> 
@@ -51,21 +51,19 @@ Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão
    <td>Correção de erros: correção de erros que impediam a mesclagem de contatos no MS Dynamics.</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.8</td> 
-   <td>27/03/23</td> 
-   <td>Correção de erros: impede que o plug-in substitua outras personalizações nos elementos da interface no MS Dynamics.
-   <p>
-   Correção de erros: Foram restabelecidos os blocos de navegação que estavam ausentes na 5.0.1.1.</td> 
+   <td colspan="1">4.2.0.0</td> 
+   <td colspan="1">16/10/20</td> 
+   <td colspan="1">Adição de Suporte para Sincronização de Campanha com MS [!DNL Dynamics].</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.1</td> 
-   <td>04/02/21</td> 
-   <td>Suporte para sincronização de campos de Conjunto de opções de seleção múltipla (esse recurso está disponível somente para a versão V9.X e posteriores).</td> 
+   <td colspan="1">4.0.0.24</td> 
+   <td colspan="1">22/08/18</td> 
+   <td colspan="1">Adição de suporte para o processo de qualificação de lead para contato pronto para [!DNL Microsoft Dynamics] Versão 9.x.</td> 
   </tr> 
   <tr> 
-   <td>4.2.0.0</td> 
-   <td>16/10/20</td> 
-   <td>Adição de suporte para sincronização do Campaign com o MS Dynamics.</td> 
+   <td colspan="1">4.0.0.23</td> 
+   <td colspan="1">27/06/18</td> 
+   <td colspan="1">Correção de erros: Erro do Processo Comercial ao tentar instalar as Soluções da Marketo para [!DNL Dynamics] 2013.</td> 
   </tr> 
   <tr> 
    <td>4.0.0.24</td> 
@@ -73,9 +71,9 @@ Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão
    <td>Adição de suporte para o processo de qualificação de lead para contato pronto para uso para o Microsoft Dynamics versão 9.x.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.23</td> 
-   <td>27/06/18</td> 
-   <td>Correção de erros: Erro do processo comercial ao tentar instalar as Soluções da Marketo para o Dynamics 2013.</td> 
+   <td colspan="1"><p>4.0.0.21</p></td> 
+   <td colspan="1">09/11/16</td> 
+   <td colspan="1">Correção de erros: o plug-in não se inscreveu em eventos que capturavam a alteração de estado do objeto personalizado. Esta correção é específica para o [!DNL Dynamics] CRM On Premise 2011. </td> 
   </tr> 
   <tr> 
    <td>4.0.0.22</td> 
@@ -118,14 +116,14 @@ Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa a versão
    <td>Correção de erros: o cliente não pôde criar um cliente potencial no CRM porque o usuário que fez logon não tinha permissão de Configuração do Marketo.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.14</td> 
-   <td>18/01/16</td> 
-   <td>Correção de erros: limites de acesso criados para usuários normais do Dynamics solucionarem problemas de segurança.</td> 
+   <td colspan="1">4.0.0.14</td> 
+   <td colspan="1">18/01/16</td> 
+   <td colspan="1">Correção de erros: limites de acesso criados para usuários normais do [!DNL Dynamics] para resolver problemas de segurança.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.13</td> 
-   <td>30/12/15</td> 
-   <td>Correção de erros: as atualizações no Dynamics não estavam sendo sincronizadas com o Marketo para etapas e imagens.</td> 
+   <td colspan="1">4.0.0.13</td> 
+   <td colspan="1">30/12/15</td> 
+   <td>Correção de erros: as atualizações no [!DNL Dynamics] não estavam sendo sincronizadas com o Marketo para etapas e imagens.</td> 
   </tr> 
   <tr> 
    <td>4.0.0.12</td> 

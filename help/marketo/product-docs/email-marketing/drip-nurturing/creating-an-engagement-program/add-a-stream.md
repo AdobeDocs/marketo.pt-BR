@@ -4,7 +4,7 @@ description: Adicionar um fluxo - Documentação do Marketo - Documentação do 
 title: Adicionar um fluxo
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Os programas de engajamento podem conter mais de um fluxo. Veja como adicionar um novo.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
+1. Selecione seu programa de engajamento e clique na guia **[!UICONTROL Fluxos]**.
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Clique em **Adicionar fluxo**.
+1. Clique em **[!UICONTROL Adicionar fluxo]**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 

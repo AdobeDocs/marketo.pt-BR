@@ -4,7 +4,7 @@ description: Editar uma campanha da Web existente - Documentação do Marketo - 
 title: Editar uma campanha da Web existente
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Editar uma campanha da Web existente {#edit-an-existing-web-campaign}
 
-1. Vá para **Campanhas da Web**.
+1. Vá para **[!UICONTROL Campanhas da Web]**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. Na página **Campanhas da Web**, clique em **Editar** na campanha que deseja editar.
+1. Na página **[!UICONTROL Campanhas da Web]**, clique em **[!UICONTROL Editar]** na campanha que deseja editar.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 

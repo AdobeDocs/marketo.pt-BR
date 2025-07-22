@@ -4,9 +4,9 @@ description: Importar membros de uma planilha para um programa - Documentação 
 title: Importar Membros de uma Planilha para um Programa
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Você pode importar uma lista de pessoas que se tornam automaticamente membros d
 
 ## Preparar seu arquivo CSV {#prepare-your-csv-file}
 
-1. Crie um arquivo CSV padrão no Excel, como no exemplo abaixo.
+1. Crie um arquivo CSV padrão em [!DNL Excel], como no exemplo abaixo.
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 

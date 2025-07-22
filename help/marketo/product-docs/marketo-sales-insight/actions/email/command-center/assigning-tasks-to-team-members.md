@@ -3,7 +3,7 @@ description: Atribuição de tarefas a membros da equipe - Documentação do Mar
 title: Atribuindo Tarefas a Membros da Equipe
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 >
 >Só é possível atribuir tarefas a contatos compartilhados.
 
-1. No aplicativo Web, clique em **Centro de Comando**.
+1. No aplicativo Web, clique em **[!UICONTROL Centro de Comando]**.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Clique em **Adicionar tarefa**.
+1. Clique em **[!UICONTROL Adicionar tarefa]**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Adicione todos os detalhes importantes que sejam relevantes para o seu colega de equipe (opcional), e clique em **Criar**.
+1. Adicione todos os detalhes importantes que sejam relevantes para o seu colega de equipe (opcional), e clique em **[!UICONTROL Criar]**.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

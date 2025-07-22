@@ -4,22 +4,22 @@ description: Gráficos rápidos do Performance Insights - Documentação do Mark
 title: Gráficos rápidos do Performance Insights
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Gráficos rápidos do Performance Insights {#performance-insights-quick-charts}
+# [!UICONTROL Insights de Desempenho] [!UICONTROL Gráficos Rápidos] {#performance-insights-quick-charts}
 
-Gráficos rápidos são miniaturas que você personaliza e salva, fornecendo uma visualização rápida dos gráficos que você mais usa.
+[!UICONTROL Gráficos Rápidos] são miniaturas que você personaliza e salva, fornecendo uma visualização rápida dos gráficos que você mais usa.
 
 ## Criar um Novo Gráfico Rápido {#create-a-new-quick-chart}
 
-Os Gráficos Rápidos derivam dos dados especificados. Neste exemplo, vamos escolher: **novas oportunidades (primeiro contato), tipo de oportunidade = novos negócios, acumulado no ano atual**.
+[!UICONTROL Gráficos rápidos] derivados dos dados especificados. Neste exemplo, vamos escolher: **novas oportunidades (primeiro contato), tipo de oportunidade = novos negócios, acumulado no ano atual**.
 
-1. Clique no filtro de datas e escolha **Ano Atual (YTD)**.
+1. Clique no filtro de datas e escolha **[!UICONTROL Ano Atual (YTD)]**.
 
    ![](assets/1-2.png)
 
@@ -31,11 +31,11 @@ Os Gráficos Rápidos derivam dos dados especificados. Neste exemplo, vamos esco
 
    ![](assets/3-3.png)
 
-1. Clique no ícone Exportar e selecione **Salvar como Gráfico Rápido**.
+1. Clique no ícone Exportar e selecione **[!UICONTROL Salvar como Gráfico Rápido]**.
 
    ![](assets/4-2.png)
 
-1. Nomeie o Gráfico rápido e clique em **Salvar**.
+1. Nomeie o Gráfico rápido e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/5-3.png)
 
@@ -49,7 +49,7 @@ O Gráfico rápido agora está com os outros.
 
 ## Exibir Gráficos Rápidos Existentes {#view-existing-quick-charts}
 
-1. Para exibir seus Gráficos Rápidos existentes, basta clicar no ícone **Gráficos Rápidos**.
+1. Para exibir seus Gráficos Rápidos existentes, basta clicar no ícone **[!UICONTROL Gráficos Rápidos]**.
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ O Gráfico rápido agora está com os outros.
 
 Se precisar excluir um Gráfico Rápido, siga estas etapas simples.
 
-1. Clique no ícone **Gráficos rápidos**.
+1. Clique no ícone **[!UICONTROL Gráficos rápidos]**.
 
    ![](assets/8-1.png)
 
@@ -65,6 +65,6 @@ Se precisar excluir um Gráfico Rápido, siga estas etapas simples.
 
    ![](assets/9-2.png)
 
-1. Clique em **Excluir**.
+1. Clique em **[!UICONTROL Excluir]**.
 
    ![](assets/10-1.png)

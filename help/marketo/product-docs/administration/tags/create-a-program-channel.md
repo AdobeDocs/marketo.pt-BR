@@ -4,7 +4,7 @@ description: Criar um canal de programa - Documentação do Marketo - Documenta�
 title: Criar um canal de programa
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
    >
    >Confira as Progressões dos canais existentes para ter uma ideia de como usá-los.
 
-1. Vamos seguir o exemplo do Canal de partido. Nomeie seu novo **Canal** e selecione o tipo de programa ao qual ele será aplicado.
+1. Vamos seguir o exemplo do Canal de partido. Nomeie seu novo **[!UICONTROL Canal]** e selecione o tipo de programa ao qual ele será aplicado.
 
    ![](assets/create-a-program-channel-5.png)
 
@@ -111,7 +111,7 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
 
    >[!TIP]
    >
-   >Se uma nova pessoa for criada no aplicativo de check-in para dispositivos móveis, ela será definida como Registrada no programa de evento. Se uma pessoa estiver inscrita no evento no aplicativo, ele será definido como Participou no programa de evento.
+   >Se uma nova pessoa for criada no aplicativo de check-in para dispositivos móveis, ela será definida como [!UICONTROL Registrada] no programa de evento. Se uma pessoa tiver feito o check-in no evento no aplicativo, ele será definido como [!UICONTROL Participou] do programa de evento.
 
 1. Selecione o status do programa **[!UICONTROL Sucesso]** e clique em **[!UICONTROL Criar]**.
 

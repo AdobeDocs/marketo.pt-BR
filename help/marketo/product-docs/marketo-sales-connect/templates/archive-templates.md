@@ -4,18 +4,18 @@ description: Modelos de arquivo - Documentação do Marketo - Documentação do 
 title: Arquivar modelos
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '78'
 ht-degree: 5%
 
 ---
 
 # Arquivar modelos {#archive-templates}
 
-Arquive o conteúdo para limpar sua conta de Conteúdo de vendas sem perder nenhum dado de modelo.
+Arquive o conteúdo para limpar sua conta do [!DNL Sales Content] sem perder nenhum dado de modelo.
 
-Marque a caixa ao lado de um modelo e clique em **Arquivar**.
+Marque a caixa ao lado de um modelo e clique em **[!UICONTROL Arquivar]**.
 
 >[!NOTE]
 >

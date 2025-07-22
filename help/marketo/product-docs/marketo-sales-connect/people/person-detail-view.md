@@ -4,9 +4,9 @@ description: Exibição de detalhes da pessoa - Documentação do Marketo - Docu
 title: Exibição de Detalhes da Pessoa
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A view detalhada de pessoa fornece um perfil detalhado de cada pessoa na conta M
 
 ## Como acessar {#how-to-access}
 
-1. Para acessar a exibição de detalhes da pessoa, clique na guia **Pessoas**.
+1. Para acessar a exibição de detalhes da pessoa, clique na guia **[!UICONTROL Pessoas]**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,14 +45,14 @@ Inclui todas as informações de contato da pessoa.
 
 **Informações da conta**
 
-* Pode adicionar uma pessoa ao Salesforce
-* Obter informações de conta e lead/contato do Salesforce
+* Pode adicionar uma pessoa a [!DNL Salesforce]
+* Obter informações de conta e de cliente potencial/contato de [!DNL Salesforce]
 
 **Campos Personalizados**
 
 * Adicione ou remova campos personalizados que podem ser usados como campos dinâmicos em seus modelos e campanhas
 
-**Observações**
+**Notas**
 
 * Criar anotações personalizadas
 
@@ -76,19 +76,19 @@ Mostra seu histórico de alcance. Inclui emails, campanhas e chamadas.
 
 ![](assets/person-detail-view-5.png)
 
-**Campanhas de vendas**
+**[!UICONTROL Campanhas de vendas]**
 
 * Ver todas as campanhas ativas ou concluídas das quais essa pessoa pertence
 
-**Campanhas de marketing**
+**[!UICONTROL Campanhas de marketing]**
 
 * Ver qualquer campanha de marketing da qual essa pessoa seja membro
 
-**Emails de Vendas**
+**[!UICONTROL Emails de Vendas]**
 
 * Ver todos os emails enviados a esta pessoa e as métricas de envolvimento
 
-**Chamadas de vendas**
+**[!UICONTROL Chamadas de vendas]**
 
 * Veja todas as chamadas que você fez a esta pessoa
 

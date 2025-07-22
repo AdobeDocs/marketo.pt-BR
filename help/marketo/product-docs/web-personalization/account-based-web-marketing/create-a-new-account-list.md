@@ -4,10 +4,10 @@ description: Criar uma nova lista de contas - Documentação do Marketo - Docume
 title: Criar uma nova lista de contas
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 7%
+source-wordcount: '406'
+ht-degree: 8%
 
 ---
 
@@ -21,15 +21,15 @@ Crie e faça upload de uma lista de nomes de domínio e organização para selec
 
 ## Criar uma nova lista de contas {#create-a-new-account-list-1}
 
-1. Ir para **Listas de Contas**.
+1. Ir para **[!UICONTROL Listas de Contas]**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Selecione **Criar Novo**.
+1. Selecione **[!UICONTROL Criar Novo]**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Selecione **Procurar** e carregue seu arquivo CSV (verifique se o arquivo csv atende aos critérios). Adicionar um **Nome** e uma **Descrição**. Clique em **Salvar**.
+1. Selecione **[!UICONTROL Procurar]** e carregue seu arquivo CSV (verifique se o arquivo csv atende aos critérios). Adicionar um **[!UICONTROL Nome da Lista]** e uma **[!UICONTROL Descrição]**. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -68,7 +68,7 @@ Na página **Listas de Contas**, clique no ícone **Editar** na lista.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Selecione **Procurar** e carregue seu novo arquivo CSV. Este arquivo substituirá o arquivo original. Clique em **Salvar**. O novo arquivo carregado estará em um estado pendente até ser aprovado pelo Suporte da Marketo, quando em um estado pendente o arquivo original permanecerá ativo.
+Selecione **[!UICONTROL Procurar...]** e carregue seu novo arquivo CSV. Este arquivo substituirá o arquivo original. Clique em **[!UICONTROL Salvar]**. O novo arquivo carregado estará em um estado pendente até ser aprovado pelo Suporte da Marketo, quando em um estado pendente o arquivo original permanecerá ativo.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,11 +76,11 @@ O arquivo CSV substituirá o arquivo existente. A lista existente permanecerá a
 
 ## Excluir uma lista de contas nomeadas {#delete-a-named-account-list}
 
-1. Na página **Listas de contas**, clique no ícone Excluir da lista que deseja excluir.
+1. Na página **[!UICONTROL Listas de contas]**, clique no ícone Excluir da lista que deseja excluir.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Será exibida uma mensagem para confirmar se você deseja excluir a lista. Clique em **OK**.
+1. Será exibida uma mensagem para confirmar se você deseja excluir a lista. Clique em **[!UICONTROL OK]**.
 
    ![](assets/delete-notification-hand.jpg)
 

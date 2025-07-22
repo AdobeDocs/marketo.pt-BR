@@ -4,7 +4,7 @@ description: Guias de uso para design de página de aterrissagem de forma livre 
 title: Usar guias para design de página de aterrissagem de forma livre
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Ao criar uma página de aterrissagem de formato livre, você pode usar guias par
 
 >[!NOTE]
 >
->Os guias só estão disponíveis no editor de página de aterrissagem do **Formato livre**.
+>Os guias só estão disponíveis no editor de página de aterrissagem do **[!UICONTROL Formato livre]**.
 
-1. Selecione uma **Landing Page** e clique em **Editar rascunho**.
+1. Selecione uma **[!UICONTROL Landing Page]** e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Clique em **Ações da página de aterrissagem** e selecione **Mostrar guias**.
+1. Clique em **[!UICONTROL Ações da página de aterrissagem]** e selecione **[!UICONTROL Mostrar guias]**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

@@ -4,7 +4,7 @@ description: Use o painel do programa de email - Documentação do Marketo - Doc
 title: Usar o painel do programa de email
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -69,9 +69,9 @@ O restante dos dados exibirá Opens, Clicks, Click/Open Ratio e Unsubscribes.
 >
 >**Definição**
 >
->**Aberturas** são contadas quando o destinatário do email baixa as imagens do email, o que inclui um pixel de rastreamento inserido pela Marketo. Se o recipient visualizar o email, mas optar por não baixar as imagens, isso não contará como uma abertura. Se as imagens forem carregadas no painel de visualização do recipient, isso geralmente contará como uma abertura, mas variará com base no cliente de email.
+>**[!UICONTROL Aberturas]** são contadas quando o destinatário do email baixa as imagens do email, o que inclui um pixel de rastreamento inserido pela Marketo. Se o recipient visualizar o email, mas optar por não baixar as imagens, isso não contará como uma abertura. Se as imagens forem carregadas no painel de visualização do recipient, isso geralmente contará como uma abertura, mas variará com base no cliente de email.
 >
->**Clicar para Abrir** mede a porcentagem de emails que foram abertos e tiveram um link clicado no email. Pegamos o número de cliques únicos dividido pelo número de aberturas únicas e, em seguida, multiplicamos por 100 para mostrá-lo como uma porcentagem.
+>**[!UICONTROL Clicar para Abrir]** mede a porcentagem de emails que foram abertos e tiveram um link clicado no email. Pegamos o número de cliques únicos dividido pelo número de aberturas únicas e, em seguida, multiplicamos por 100 para mostrá-lo como uma porcentagem.
 
 ## Atualizar painel {#refresh-dashboard}
 

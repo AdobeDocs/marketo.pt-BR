@@ -4,7 +4,7 @@ description: Pré-visualizar um email com conteúdo dinâmico - Documentação d
 title: Pré-visualizar um email com conteúdo dinâmico
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Pré-visualize o email depois de adicionar conteúdo dinâmico para verificá-lo.
 
-1. Selecione seu email e clique em **Visualizar Email**.
+1. Selecione seu email e clique em **[!UICONTROL Visualizar Email]**.
 
    ![](assets/one-3.png)
 
-1. Clique na lista suspensa Exibir por e selecione o tipo de conteúdo dinâmico que deseja visualizar.
+1. Clique no menu suspenso **[!UICONTROL Exibir por]** e selecione o tipo de conteúdo dinâmico que deseja visualizar.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ Pré-visualize o email depois de adicionar conteúdo dinâmico para verificá-lo
 
 Você também pode visualizar o conteúdo dinâmico diretamente no editor de email.
 
-1. Em **Conteúdo**, clique na guia **Dinâmico**.
+1. Em **[!UICONTROL Conteúdo]**, clique na guia **[!UICONTROL Dinâmico]**.
 
    ![](assets/five-1.png)
 

@@ -3,7 +3,7 @@ description: Encaminhar um segmento do Adobe Experience Platform para uma lista 
 title: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
-1. Clique no ícone da grade e selecione **[!UICONTROL Experience Platform]**.
+1. Clique no ícone de grade e selecione **[!UICONTROL Experience Platform]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-2.png)
 
@@ -52,7 +52,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Se você estiver escolhendo Nova Conta, poderá encontrar sua ID do Munchkin em **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (também faz parte da URL da Marketo depois de conectado). ID/segredo do cliente que você deve ter seguindo os pré-requisitos na parte superior deste artigo.
+   >Se você estiver escolhendo Nova Conta, poderá encontrar sua Munchkin ID em **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (também faz parte da URL da Marketo depois de conectado). ID/segredo do cliente que você deve ter seguindo os pré-requisitos na parte superior deste artigo.
 
 1. Escolha a conta de destino e clique em **[!UICONTROL Selecionar]**.
 
@@ -64,7 +64,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Se você escolher &quot;Corresponder somente a pessoas existentes do Marketo&quot;, será necessário mapear o email e/ou a ECID, para que possa pular as etapas 13 a 16.
+   >Se você escolher &quot;[!UICONTROL Corresponder somente a pessoas existentes do Marketo]&quot;, será necessário mapear somente o email e/ou a ECID, para que seja possível ignorar as etapas 13 a 16.
 
 1. Esta seção é opcional. Clique em **[!UICONTROL Criar]** para ignorar.
 
@@ -80,7 +80,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Se você escolher vários segmentos, será necessário mapear cada segmento para uma lista estática especificada na guia Agendamento de segmento.
+   >Se você escolher vários segmentos, será necessário mapear cada segmento para uma lista estática especificada na guia [!UICONTROL Agendamento de segmento].
 
    >[!IMPORTANT]
    >
@@ -100,7 +100,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
+   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
 
 1. Mapeie o Sobrenome e o Nome da Empresa clicando em **[!UICONTROL Adicionar Novo Mapeamento]** novamente e repita a Etapa 15 duas vezes, escolhendo **[!UICONTROL lastName]** e depois **[!UICONTROL companyName]**.
 

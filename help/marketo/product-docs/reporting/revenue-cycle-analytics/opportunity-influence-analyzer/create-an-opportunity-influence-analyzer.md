@@ -4,7 +4,7 @@ description: Criar um analisador de influência de oportunidade - Documentação
 title: Criar um analisador de influência de oportunidade
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -19,38 +19,38 @@ Use o Analisador de influência de oportunidade para mostrar a contribuição do
 >
 >Para obter boas informações de um Analisador de influência de oportunidade, certifique-se de que seus contatos estejam ligados às oportunidades em seu CRM.
 
-1. Clique em **Analytics**.
+1. Clique em **[!UICONTROL Analytics]**.
 
    ![](assets/analytics.png)
 
-1. Clique em **Analisador de Influência da Oportunidade**.
+1. Clique em **[!UICONTROL Analisador de Influência da Oportunidade]**.
 
    ![](assets/two.png)
 
-1. Selecione a conta no painel **Configurações**.
+1. Selecione a conta no painel **[!UICONTROL Configurações]**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >Se você receber um aviso de que não houve atividades durante o período, apenas clique em **Fechar**. Voltaremos a isso depois do próximo passo.
+   >Se você receber um aviso de que não houve atividades durante o período, apenas clique em **[!UICONTROL Fechar]**. Voltaremos a isso depois do próximo passo.
 
 1. Selecione a oportunidade nessa conta.
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Defina o período. Clique na guia **Instalação** e clique duas vezes em **Intervalo de tempo**.
+1. Defina o período. Clique na guia **[!UICONTROL Instalação]** e clique duas vezes em **[!UICONTROL Intervalo de tempo]**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. Selecione o período da oportunidade que você deseja analisar e clique em **Salvar**.
+1. Selecione o período da oportunidade que você deseja analisar e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
    >[!TIP]
    >
    >
-   >Na maioria dos casos, **Todos os tempos** é a escolha mais simples.
+   >Na maioria dos casos, **[!UICONTROL Todos os tempos]** é a escolha mais simples.
 
 1. Você está aí! Clique na guia principal para ver os momentos e os sucessos interessantes envolvidos na oportunidade.
 

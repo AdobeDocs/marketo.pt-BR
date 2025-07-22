@@ -4,30 +4,30 @@ description: Criar um relatório do Revenue Explorer - Documentação do Marketo
 title: Criar um relatório do Gerenciador de receita
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2deab35807a078a490916bf379198c3537859e7b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 1%
 
 ---
 
-# Criar um relatório do Gerenciador de receita {#create-a-revenue-explorer-report}
+# Criar um Relatório do [!UICONTROL Gerenciador de Receita] {#create-a-revenue-explorer-report}
 
-O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de marketing.
+O relatório [!UICONTROL Explorador de receita] permite rastrear o ROI em suas iniciativas de marketing.
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 >[!IMPORTANT]
 >
->A pasta Lixeira no Gerenciador de ciclo de receita foi ocultada temporariamente devido a um problema técnico. No momento, estamos trabalhando em uma correção e seus arquivos estão seguros. Entre em contato com o [Suporte ao Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se houver arquivos que você precise restaurar.
+>A pasta Lixeira no Gerenciador de ciclo de receita foi ocultada temporariamente devido a um problema técnico. No momento, estamos trabalhando em uma correção e seus arquivos estão seguros. Entre em contato com o [Suporte da Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se houver arquivos que você precise restaurar.
 
-1. Vá para a área **Gerenciador de Receita**.
+1. Vá para a área **[!UICONTROL Gerenciador de Receita]**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Clique em **Criar novo** e selecione **Relatório**.
+1. Clique em **[!UICONTROL Criar novo]** e selecione **[!UICONTROL Relatório]**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -41,5 +41,5 @@ O relatório Explorador de receita permite rastrear o ROI em suas iniciativas de
 
 >[!MORELIKETHIS]
 >
->[Adicionando Campos a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[Adicionando Medidas Personalizadas a um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [Adicionando campos a um [!UICONTROL Relatório do Gerenciador de Receita]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Adicionando Medidas Personalizadas a um [!UICONTROL Relatório do Gerenciador de Receita]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

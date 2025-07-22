@@ -4,16 +4,16 @@ description: Pontuação da conta - Documentação do Marketo - Documentação d
 title: Pontuação de contas
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '355'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
-# Pontuação de contas {#account-score}
+# [!UICONTROL Pontuação da conta] {#account-score}
 
-A Pontuação de conta é uma parte vital do Gerenciamento de conta do Target. Isso ajuda a determinar o nível de engajamento de suas contas.
+A Pontuação de Conta é uma parte vital do [!UICONTROL Gerenciamento de Conta de Destino]. Isso ajuda a determinar o nível de engajamento de suas contas.
 
 ## O que é Pontuação de conta? {#what-is-account-scoring}
 
@@ -57,30 +57,30 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 
 Depois de configurar a pontuação de lead, continue seguindo as etapas abaixo.
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/account-score-1.png)
 
-1. Clique em **Gerenciamento de Conta de Destino**.
+1. Clique em **[!UICONTROL Gerenciamento de Conta de Destino]**.
 
    ![](assets/account-score-2.png)
 
-1. Em Campos de pontuação, clique em **Editar**.
+1. Em [!UICONTROL Campos de pontuação], clique em **[!UICONTROL Editar]**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >Você pode escolher até **cinco** campos para calcular a Pontuação da conta.
+   >Você pode escolher até **cinco** campos para calcular a [!UICONTROL Pontuação da conta].
 
-1. Insira o nome da Pontuação da conta, clique no menu suspenso **Selecionar pontuação de pessoa** e selecione a pontuação correspondente.
+1. Insira o nome [!UICONTROL Pontuação da conta], clique no menu suspenso **[!UICONTROL Selecionar pontuação de pessoa]** e selecione a pontuação correspondente.
 
    ![](assets/account-score-4.png)
 
-1. Clique em **+Adicionar** para adicionar mais pontuações.
+1. Clique em **[!UICONTROL +Adicionar]** para adicionar mais pontuações.
 
    ![](assets/account-score-5.png)
 
-1. Adicione todas as pontuações desejadas. Clique em **Salvar** quando terminar.
+1. Adicione todas as pontuações desejadas. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/account-score-6.png)

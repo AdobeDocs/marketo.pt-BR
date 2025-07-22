@@ -3,16 +3,16 @@ description: Noções básicas sobre a guia Conteúdo - Documentação do Market
 title: Noções básicas sobre a guia Conteúdo
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Noções básicas sobre a guia Conteúdo {#understanding-the-content-tab}
+# Entendendo a guia [!UICONTROL Conteúdo] {#understanding-the-content-tab}
 
-A guia Conteúdo é inteiramente sobre o envolvimento de email de sua equipe ao usar um modelo. Automaticamente, adicionamos três métricas que acreditamos serem importantes.
+A guia [!UICONTROL Conteúdo] é toda sobre o envolvimento de email da sua equipe ao usar um modelo. Automaticamente, adicionamos três métricas que acreditamos serem importantes.
 
 ## Arma secreta {#secret-weapon}
 

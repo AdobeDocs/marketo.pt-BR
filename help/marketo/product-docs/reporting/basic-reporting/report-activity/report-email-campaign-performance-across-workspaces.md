@@ -4,7 +4,7 @@ description: Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho
 title: Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ative os Relatórios Globais para incluir dados de todos os [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) do Marketo nos seus relatórios de [Desempenho do Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e [Desempenho do Link de Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
 
-1. Vá para a área **Analytics** (ou **Atividades de marketing**).
+1. Vá para a área **[!UICONTROL Analytics]** (ou **[!UICONTROL Atividades de marketing]**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,15 +23,15 @@ Ative os Relatórios Globais para incluir dados de todos os [espaços de trabalh
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Clique na guia **Configuração** e clique duas vezes em **Relatórios Globais**.
+1. Clique na guia **[!UICONTROL Configuração]** e clique duas vezes em **[!UICONTROL Relatórios Globais]**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
-1. Selecione **Habilitado**.
+1. Selecione **[!UICONTROL Habilitado]**.
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. Isso é tudo! Clique na guia **Relatório** para ver os dados de todos os seus espaços de trabalho.
+1. Isso é tudo! Clique na guia **[!UICONTROL Relatório]** para ver os dados de todos os seus espaços de trabalho.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 

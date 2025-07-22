@@ -4,7 +4,7 @@ description: Criar uma nova caixa de diálogo Campanha da Web - Documentação d
 title: Criar uma nova caixa de diálogo da campanha da Web
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '749'
 ht-degree: 2%
@@ -19,15 +19,15 @@ Crie uma campanha da Web para personalizar o conteúdo da Web em tempo real e fo
 
 Uma campanha da Web é uma reação personalizada associada a um segmento específico. A reação pode ser uma caixa de diálogo no seu site, um [em substituição de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), um [recurso de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) ou um alerta por email.
 
-1. Vá para **Campanhas da Web**.
+1. Vá para **[!UICONTROL Campanhas da Web]**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Selecione **Criar Nova Campanha Da Web**.
+1. Selecione **[!UICONTROL Criar Nova Campanha Da Web]**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Selecione o tipo de campanha da Web **Dialog**. Crie e adicione seu criativo no editor. Clique em **Visualizar** para ver como a campanha da Web reagirá no site.
+1. Selecione o tipo de campanha da Web **[!UICONTROL Dialog]**. Crie e adicione seu criativo no editor. Clique em **[!UICONTROL Visualizar]** para ver como a campanha da Web reagirá no site.
 
    ![](assets/new-3.png)
 
@@ -111,7 +111,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
    <td colspan="1">Marcar a caixa de seleção redimensionável permite que a caixa de diálogo seja redimensionada pelo usuário.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Editor de texto formatado</strong></td> 
+   <td colspan="1"><strong>Editor de Rich Text</strong></td> 
    <td colspan="1"><p>O editor de rich text permite a formatação de texto, vinculação e inserção de imagem. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Leia mais aqui</a>.</p></td> 
   </tr> 
   <tr> 
@@ -133,7 +133,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 ## Editar uma campanha da Web {#edit-a-web-campaign}
 
-1. Na página **Campanhas da Web**, clique em **Editar** na campanha da Web.
+1. Na página **[!UICONTROL Campanhas da Web]**, clique em **[!UICONTROL Editar]** na campanha da Web.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -143,7 +143,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 ## Pré-visualizar uma campanha da Web {#preview-a-web-campaign}
 
-1. Na página **Campanhas da Web**, clique em **Visualizar** na campanha da Web que deseja exibir.
+1. Na página **[!UICONTROL Campanhas da Web]**, clique em **[!UICONTROL Visualizar]** na campanha da Web que deseja exibir.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -153,7 +153,7 @@ Consulte [Clonar uma campanha da Web](/help/marketo/product-docs/web-personaliza
 
 ## Excluir uma campanha da Web {#delete-a-web-campaign}
 
-1. Na página **Campanhas da Web**, clique em **Excluir** na campanha da Web que deseja excluir.
+1. Na página **[!UICONTROL Campanhas da Web]**, clique em **[!UICONTROL Excluir]** na campanha da Web que deseja excluir.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

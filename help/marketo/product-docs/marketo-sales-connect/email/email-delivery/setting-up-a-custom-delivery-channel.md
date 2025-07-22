@@ -4,40 +4,40 @@ description: Configuração de um canal de entrega personalizado - Documentaçã
 title: Configuração de um canal de entrega personalizado
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '386'
 ht-degree: 1%
 
 ---
 
 # Configuração de um canal de entrega personalizado {#setting-up-a-custom-delivery-channel}
 
-O Marketo Sales Connect permite a integração com um servidor SMTP personalizado para a entrega de seus emails. Essa é uma ótima opção para aqueles que não desejam enviar emails em massa do canal de entrega do Gmail ou do Exchange.
+O [!DNL Marketo Sales Connect] permite a integração com um servidor SMTP personalizado para a entrega de seus emails. Essa é uma ótima opção para aqueles que não desejam enviar emails em massa a partir do Gmail ou do canal de entrega [!DNL Exchange].
 
-Os usuários podem configurar um servidor SMTP personalizado para uso individual, ou os administradores podem configurar um Team SMTP para ser compartilhado entre todos os usuários do Sales Connect na sua instância.
+Os usuários podem configurar um servidor SMTP personalizado para seu próprio uso individual, ou os Administradores podem configurar um Team SMTP para ser compartilhado entre todos os [!DNL Sales Connect] usuários em sua instância.
 
 >[!NOTE]
 >
 >* Além de configurar o servidor SMTP, sua [identidade de email deve ser verificada](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) antes que você possa enviar emails.
 >* Recomendamos trabalhar com sua equipe de TI ou fornecedor de servidor SMTP para obter as credenciais de servidor corretas para seu servidor SMTP.
->* Não é possível conectar o servidor Gmail e Exchange usando as credenciais do servidor SMTP. Use nosso serviço de conexão de email para integrar com esses provedores.
+>* Não é possível conectar o Gmail e o servidor [!DNL Exchange] usando as credenciais do servidor SMTP. Use nosso serviço de conexão de email para integrar com esses provedores.
 
 ## SMTP personalizado {#custom-smtp}
 
-1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **[!UICONTROL Configurações]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. Em Minha conta, clique em **Configurações de email**.
+1. Em [!UICONTROL Minha conta], clique em **[!UICONTROL Configurações de email]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
-1. Clique em **Canal de entrega personalizado**.
+1. Clique em **[!UICONTROL Canal de entrega personalizado]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
-1. Insira suas credenciais do Servidor SMTP e clique em **Conectar**.
+1. Insira suas credenciais do [!UICONTROL Servidor SMTP] e clique em **[!UICONTROL Conectar]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-4.png)
 
@@ -45,19 +45,19 @@ Os usuários podem configurar um servidor SMTP personalizado para uso individual
    >
    >Se esse for seu único canal de entrega, ele será automaticamente atribuído a todas as suas identidades de email, e você terminará aqui. Se esse não for o único canal de delivery, continue com a Etapa 5.
 
-1. Ainda em Configurações de email, clique em **Endereço e Assinatura**.
+1. Ainda nas [!UICONTROL Configurações de email], clique em **[!UICONTROL Endereço e Assinatura]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
-1. Localize a identidade de email para a qual você deseja escolher um canal de entrega e clique em **Escolher Canal de Entrega**.
+1. Localize a identidade de email para a qual você deseja escolher um canal de entrega e clique em **[!UICONTROL Escolher Canal de Entrega]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. No Cartão de entrega, clique em **Editar**.
+1. No cartão [!UICONTROL Capacidade de entrega], clique em **[!UICONTROL Editar]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. Clique na lista suspensa Canal e escolha o canal de delivery personalizado que você acabou de adicionar. Clique em **Salvar**.
+1. Clique no menu suspenso [!UICONTROL Canal] e escolha o canal de entrega personalizado que você acabou de adicionar. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
@@ -71,19 +71,19 @@ Os usuários podem configurar um servidor SMTP personalizado para uso individual
 >
 >**Permissões de administrador necessárias**
 
-1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **[!UICONTROL Configurações]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. Em Configurações de administração, clique em **Geral**.
+1. Em [!UICONTROL Configurações de Administração], clique em **[!UICONTROL Geral]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Clique em **Canal de entrega da equipe**.
+1. Clique em **[!UICONTROL Canal de entrega da equipe]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
-1. Insira suas credenciais do Servidor SMTP e clique em **Conectar**.
+1. Insira suas credenciais do [!UICONTROL Servidor SMTP] e clique em **[!UICONTROL Conectar]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-12.png)
 
@@ -95,4 +95,4 @@ Os usuários podem configurar um servidor SMTP personalizado para uso individual
    >
    >* [Conexão de email para usuários do Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
-   >* [Conexão de Email para Usuários do Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [Conexão de email para [!DNL Outlook] Usuários](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

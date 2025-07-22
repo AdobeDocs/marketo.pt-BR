@@ -4,7 +4,7 @@ description: Noções básicas sobre datas provisórias/confirmadas - Documenta�
 title: Noções básicas sobre datas provisórias/confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
@@ -27,7 +27,7 @@ Datas não confirmadas transmitem a intenção. Pense nisso como _desenhando_ al
 
 ## Confirmando Entradas {#confirming-entries}
 
-É como aprovar um ativo, portanto, as entradas precisam ser totalmente configuradas antes de você poder confirmá-las. Uma vez que todos os seus patos estão em uma linha, você pode confirmar as entradas deslizando a guia tentativa para a direita.
+É como aprovar um ativo, portanto, as entradas precisam ser totalmente configuradas antes de você poder confirmá-las. Depois que todos os patos estiverem seguidos, você poderá confirmar as entradas deslizando a guia [!UICONTROL Tentativa] para a direita.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 

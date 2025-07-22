@@ -4,7 +4,7 @@ description: Usar um token de data em uma etapa de fluxo de espera - Documentaç
 title: Usar um token de data em uma etapa de fluxo de espera
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa em u
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. Escolha um token de Data para especificar quando a etapa de Espera deve terminar:
+1. Escolha um [!UICONTROL Token de data] para especificar quando a etapa de espera deve terminar:
 
    * `{{my._____}}`
    * `{{lead.______}}`

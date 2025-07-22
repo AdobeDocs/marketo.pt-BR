@@ -4,9 +4,9 @@ description: Restringir o logon do usuário somente ao SSO - Documentação do M
 title: Login de usuário restrito apenas a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '250'
 ht-degree: 5%
 
 ---
@@ -27,7 +27,7 @@ Se você estiver [usando SSO](/help/marketo/product-docs/administration/addition
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Clique em **[!UICONTROL Configuração de Logon]s**.
+1. Clique em **[!UICONTROL Configurações de logon]**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 

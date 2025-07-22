@@ -4,18 +4,18 @@ description: Uso do editor de rich text do Web Personalization - Documentação 
 title: Uso do editor de rich text do Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '180'
 ht-degree: 6%
 
 ---
 
-# Uso do editor de rich text do Web Personalization {#using-the-web-personalization-rich-text-editor}
+# Usando o Editor de Rich Text [!DNL Web Personalization] {#using-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)
 
-O editor de rich text do Web Personalization encontrado na página Definir campanhas permite a formatação, vinculação e inserção de imagem do texto. Ele inclui opções de formatação semelhantes aos processadores de texto padrão.
+O editor de rich text [!DNL Web Personalization] encontrado na página [!UICONTROL Definir Campanhas] permite a formatação, vinculação e inserção de imagem do texto. Ele inclui opções de formatação semelhantes aos processadores de texto padrão.
 
 Os ícones importantes no editor de rich text incluem:
 
@@ -51,7 +51,7 @@ Os ícones importantes no editor de rich text incluem:
 
 >[!NOTE]
 >
->Os Web Tokens usam [dados de pessoas](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) do Banco de Dados do Marketo que são gerenciados no Web Personalization em Configurações da conta > Banco de dados. Se o token da Web for um novo campo de banco de dados que ainda não está em Configurações da conta > Banco de dados, ele será adicionado automaticamente e poderá levar até 24 horas para ser ativado.
+>Os tokens da Web usam [dados de pessoas](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) do [!DNL Marketo Database] que são gerenciados em [!DNL Web Personalization] em [!UICONTROL Configurações de Conta] > [!UICONTROL Banco de Dados]. Se o token da Web for um novo campo de banco de dados que ainda não está em [!UICONTROL Configurações de Conta] > [!UICONTROL Banco de Dados], ele será adicionado automaticamente e poderá levar até 24 horas para ser ativado.
 
 >[!MORELIKETHIS]
 >

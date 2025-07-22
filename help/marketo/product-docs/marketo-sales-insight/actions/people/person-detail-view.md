@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # Exibição de Detalhes da Pessoa {#person-detail-view}
 
-A exibição detalhada de pessoa fornece um perfil detalhado de cada pessoa na conta de vendas do Marketo.
+A exibição de detalhes da pessoa fornece um perfil detalhado de cada pessoa na conta do [!DNL Marketo Sales].
 
 ## Como acessar {#how-to-access}
 
-1. Para acessar a exibição de detalhes da pessoa, clique na guia **Pessoas**.
+1. Para acessar a exibição de detalhes da pessoa, clique na guia **[!UICONTROL Pessoas]**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -46,8 +46,8 @@ Inclui todas as informações de contato da pessoa.
 
 **Informações da conta**
 
-* Pode adicionar uma pessoa ao Salesforce
-* Obter informações de conta e lead/contato do Salesforce
+* Pode adicionar uma pessoa a [!DNL Salesforce]
+* Obter informações de conta e de cliente potencial/contato de [!DNL Salesforce]
 
 **Campos Personalizados**
 
@@ -57,7 +57,7 @@ Inclui todas as informações de contato da pessoa.
 
 * Texto
 
-**Observações**
+**Notas**
 
 * Criar anotações personalizadas
 

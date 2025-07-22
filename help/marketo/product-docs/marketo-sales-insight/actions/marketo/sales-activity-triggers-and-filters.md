@@ -3,9 +3,9 @@ description: Acionadores e filtros de atividades de vendas - Documentação do M
 title: Acionadores e filtros da atividade de vendas
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Siga as etapas abaixo para saber como utilizar filtros e acionadores de atividad
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. Na guia **Smart List**, pesquise &quot;Aplicativos de Vendas&quot;.
+1. Na guia **[!UICONTROL Smart List]**, pesquise &quot;[!UICONTROL Aplicativos de Vendas].&quot;
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Siga as etapas abaixo para saber como utilizar filtros e acionadores de atividad
 
 >[!NOTE]
 >
->Para obter uma lista completa de atividades, restrições e definições, consulte nosso [Glossário de atividades de ações do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>Para obter uma lista completa de atividades, restrições e definições, consulte nosso [[!DNL Sales Insight Actions] Glossário de atividades](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

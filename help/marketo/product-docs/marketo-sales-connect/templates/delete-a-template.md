@@ -4,7 +4,7 @@ description: Excluir um modelo - Documentação do Marketo - Documentação do p
 title: Excluir um modelo
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -21,6 +21,6 @@ Siga estas etapas simples para excluir um modelo.
 
 1. Selecione o modelo que deseja remover.
 
-1. Clique no menu suspenso no canto superior direito e em **Excluir**.
+1. Clique no menu suspenso no canto superior direito e em **[!UICONTROL Excluir]**.
 
-1. Clique em **Excluir** para confirmar.
+1. Clique em **[!UICONTROL Excluir]** para confirmar.

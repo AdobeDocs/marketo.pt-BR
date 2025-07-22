@@ -4,7 +4,7 @@ description: Uso de URLs em Meus tokens - Documentação do Marketo - Documenta�
 title: Utilização de URLs em Meus tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Utilização de URLs em Meus tokens {#using-urls-in-my-tokens}
 
-Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus emails.
+Siga as etapas abaixo para usar [!UICONTROL Meus tokens] para inserir URLs em seus emails.
 
-1. Selecione seu programa e clique em **Meus tokens**.
+1. Selecione seu programa e clique em **[!UICONTROL Meus tokens]**.
 
    ![](assets/one-4.png)
 
-1. Selecione o **Texto** Meu token, arraste e solte-o na tela.
+1. Selecione o **[!UICONTROL Texto]** Meu token, arraste e solte-o na tela.
 
    ![](assets/two-4.png)
 
-1. Dê um nome exclusivo ao token, insira uma URL (sem o https://) e clique em **Salvar**.
+1. Dê um nome exclusivo ao token, insira uma URL (sem o https://) e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus emails.
 
    ![](assets/four-3.png)
 
-1. Clique em **Editar rascunho**.
+1. Clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus emails.
    >
    >É claro que você também tem a opção de inserir `http://` se o seu site não usar https.
 
-1. Localize o Meu Token, selecione-o e clique em **Inserir**.
+1. Localize o Meu Token, selecione-o e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ Siga as etapas abaixo para usar Meus tokens para inserir URLs em seus emails.
 
    ![](assets/nine.png)
 
-1. Realce o texto que deseja que o link exiba e clique no ícone Insert/Edit Link.
+1. Destaque o texto que deseja que o link exiba e clique no ícone [!UICONTROL Inserir/Editar Link].
 
    ![](assets/ten.png)
 
-1. Pressione Ctrl/Cmd+V para colar o conteúdo na caixa **URL** e clique em **Inserir**.
+1. Pressione Ctrl/Cmd+V para colar o conteúdo na caixa **[!UICONTROL URL]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/eleven.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/twelve.png)
 

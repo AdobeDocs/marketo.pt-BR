@@ -4,7 +4,7 @@ description: Uso de transições de modelo de receita - Documentação do Market
 title: Uso de transições do modelo de receita
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -21,19 +21,19 @@ Ao criar seu modelo e selecionar e organizar seus estágios de inventário, é h
 
 ![](assets/one-2.png)
 
-1. Clique com o botão direito do mouse (você também pode clicar duas vezes) em uma das setas para começar e selecione **Editar transição**.
+1. Clique com o botão direito do mouse (você também pode clicar duas vezes) em uma das setas para começar e selecione **[!UICONTROL Editar transição]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >As regras de transição &#39;Anônimo ^ Conhecido&#39; não podem ser editadas.
+   >Regras de transição &#39;[!UICONTROL Anônimo] ^ [!UICONTROL Conhecido]&#39; não podem ser editadas.
 
 1. Uma nova guia será aberta para a transição selecionada.
 
    ![](assets/three-1.png)
 
-1. As transições controlam como os leads se movem entre estágios. Arraste o acionador (ou filtro) de sua escolha da direita e solte-o em qualquer lugar na tela de desenho. Neste exemplo, selecionaremos o acionador Preencher formulário.
+1. As transições controlam como os leads se movem entre estágios. Arraste o acionador (ou filtro) de sua escolha da direita e solte-o em qualquer lugar na tela de desenho. Neste exemplo, selecionaremos o acionador **[!UICONTROL Preencher formulário]**.
 
    >[!TIP]
    >
@@ -45,7 +45,7 @@ Ao criar seu modelo e selecionar e organizar seus estágios de inventário, é h
 
    ![](assets/five-2.png)
 
-1. Para voltar ao seu modelo, clique em **Modeler**.
+1. Para voltar ao seu modelo, clique em **[!UICONTROL Modeler]**.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ Ao criar seu modelo e selecionar e organizar seus estágios de inventário, é h
 
    ![](assets/seven.png)
 
-1. Depois de configurar as regras para todas as transições, clique em **Validar** para verificar.
+1. Depois de configurar as regras para todas as transições, clique em **[!UICONTROL Validar]** para verificar.
 
    ![](assets/eight.png)
 

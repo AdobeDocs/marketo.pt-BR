@@ -4,16 +4,16 @@ description: Escolha uma ação no Sales Insight - Marketo Docs - Documentação
 title: Escolher uma ação no Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 5%
 
 ---
 
-# Escolher uma ação no Sales Insight {#choose-an-action-in-sales-insight}
+# Escolher uma Ação em [!DNL Sales Insight] {#choose-an-action-in-sales-insight}
 
-As seguintes ações estão disponíveis no menu suspenso Sales Insight no Salesforce Classic e Lightning:
+As seguintes ações estão disponíveis no menu suspenso [!DNL Sales Insight] no [!DNL Salesforce] Classic e Lightning:
 
 * Enviar e-mail do Marketo
 * Adicionar à campanha do Marketo
@@ -37,13 +37,13 @@ Cada um desses recursos pode ser acessado de:
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-**guia Melhores Opções**
+**[!DNL Best Bets]guia**
 
-* Guia Ações em massa de melhores opções: ação em grupo e pode ser controlada pelo perfil do usuário
+* Guia Ações em massa [!DNL Best Bets]: ação em grupo e pode ser controlada pelo perfil do usuário
 
   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* Guia Ações Embutidas das Melhores Opções: Uma única ação e pode ser controlada pelo perfil do usuário
+* Guia Ações Embutidas [!DNL Best Bets]: Uma única ação e pode ser controlada pelo perfil do usuário
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 

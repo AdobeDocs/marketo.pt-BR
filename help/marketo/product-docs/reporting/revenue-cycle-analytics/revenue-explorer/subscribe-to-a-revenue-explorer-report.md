@@ -4,18 +4,18 @@ description: Assinar um relatório do Revenue Explorer - Documentação do Marke
 title: Assinar um Relatório do Gerenciador de Receita
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# Assinar um Relatório do Gerenciador de Receita {#subscribe-to-a-revenue-explorer-report}
+# Assinar um [!UICONTROL Relatório do Gerenciador de Receita] {#subscribe-to-a-revenue-explorer-report}
 
 Para receber atualizações de seus relatórios do Revenue Cycle Explorer e compartilhá-las, você pode inscrever qualquer endereço de email em um relatório existente.
 
-1. Vá para **Analytics** e selecione **Novo** > **Nova Assinatura de Relatório**.
+1. Vá para **[!UICONTROL Analytics]** e selecione **[!UICONTROL Novo]** > **[!UICONTROL Nova Assinatura de Relatório]**.
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ Para receber atualizações de seus relatórios do Revenue Cycle Explorer e comp
    >
    >Para se inscrever em um relatório básico criado em um programa, consulte [Assinar um Relatório Básico.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
-1. Para **Report Source**, selecione **Explorador de Receita**.
+1. Para **[!UICONTROL Report Source]**, selecione **[!UICONTROL Explorador de Receita]**.
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 

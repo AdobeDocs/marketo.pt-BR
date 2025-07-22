@@ -3,7 +3,7 @@ description: Como configurar o rastreamento de domínio personalizado - Document
 title: Como configurar o rastreamento de domínio personalizado
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -16,7 +16,7 @@ O Rastreamento de domínio personalizado permite que sua equipe use o nome da pr
 
 Você precisará da assistência da sua equipe de TI para configurar um registro CNAME para o seu domínio que aponte para go.toutapp.com. Esse CNAME será o que aparece em todos os links de rastreamento (por exemplo, go.yourcompany.com).
 
-Depois de confirmar com sua equipe de TI que o CNAME está configurado corretamente, você pode adicioná-lo à página Rastreamento de domínio personalizado em Ações.
+Depois de confirmar com sua equipe de TI que o CNAME está configurado corretamente, você pode adicioná-lo à página [!UICONTROL Rastreamento de domínio personalizado] em Ações.
 
 >[!NOTE]
 >
@@ -28,14 +28,14 @@ Depois de confirmar com sua equipe de TI que o CNAME está configurado corretame
 >
 >**Privilégios de administrador necessários.**
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Em Configurações do administrador, selecione **Acompanhamento**.
+1. Em [!UICONTROL Configurações de Administração], selecione **[!UICONTROL Rastreamento]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. Na guia Custom Domain Tracking, digite seu CNAME e clique em **Conectar**.
+1. Na guia [!UICONTROL Rastreamento de domínio personalizado], digite seu CNAME e clique em **[!UICONTROL Conectar]**.
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

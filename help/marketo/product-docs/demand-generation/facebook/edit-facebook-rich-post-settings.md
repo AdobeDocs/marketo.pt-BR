@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Editar configurações de publicação avançada do Facebook {#edit-facebook-rich-post-settings}
+# Editar configurações de publicação avançada [!DNL Facebook] {#edit-facebook-rich-post-settings}
 
-Personalize publicações quando as pessoas compartilharem você no Facebook.
+Personalize postagens quando as pessoas compartilharem com você no [!DNL Facebook].
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Os _aplicativos sociais_ do Marketo permitem que seus clientes potenciais compar
 
 ## Selecionar opções de publicação avançadas {#select-rich-post-options}
 
-Você pode especificar os tipos de informações de página a serem usados nas publicações avançadas do Facebook geradas por compartilhamentos de sua página de aterrissagem.
+Você pode especificar os tipos de informações de página a serem usadas nas postagens avançadas do [!DNL Facebook] geradas por compartilhamentos da sua página de aterrissagem.
 
-1. Selecione a **Mensagem do Facebook** no editor do vídeo ou do botão de redes sociais do **YouTube**.
+1. Selecione **[!UICONTROL Mensagem do Facebook]** no editor para o vídeo **[!DNL YouTube*]* ou botão de redes sociais.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Selecione entre as seguintes opções para a mensagem do Facebook.
+1. Selecione entre as opções a seguir para a mensagem [!DNL Facebook].
 
    * Adicionar conteúdo estático: selecione essa opção para inserir o título, a legenda e a descrição manualmente.
 
@@ -43,27 +43,27 @@ Você pode especificar os tipos de informações de página a serem usados nas p
 
    >[!NOTE]
    >
-   >Eles já devem existir na fonte da página, mas, para obter mais controle, é possível adicionar tags específicas do Facebook OG à página de aterrissagem.
+   >Eles já devem existir na origem da página, mas, para obter mais controle, é possível adicionar marcas OG [!DNL Facebook] específicas à página de aterrissagem.
 
-   * Não adicionar conteúdo avançado: limita as publicações do Facebook da sua página de aterrissagem apenas à mensagem e ao link principais.
+   * Não adicionar conteúdo avançado: limita as postagens de [!DNL Facebook] da sua página de aterrissagem somente à mensagem e ao link principais.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Adicionar tags OG do Facebook a uma página inicial {#add-facebook-og-tags-to-a-landing-page}
+## Adicionar [!DNL Facebook] marcas OG a uma página de aterrissagem {#add-facebook-og-tags-to-a-landing-page}
 
-Para controlar os elementos da página que serão incluídos nos compartilhamentos do Facebook a partir da página de aterrissagem, você pode adicionar tags OG (Open Graph) do Facebook para título, legenda e descrição na página de aterrissagem.
+Para controlar os elementos de página que serão incluídos nos compartilhamentos [!DNL Facebook] da página de aterrissagem, você pode adicionar [!DNL Facebook] marcas OG (Open Graph) para título, legenda e descrição à página de aterrissagem.
 
-1. Abra a página de aterrissagem que contém seu **vídeo do YouTube** ou o botão de redes sociais.
+1. Abra a página de aterrissagem que contém seu **[!DNL YouTube]vídeo** ou botão de rede social.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   A **Designer da Página de Aterrissagem** abre em uma nova janela.
+   A **[!UICONTROL Designer da Página de Aterrissagem]** abre em uma nova janela.
 
-1. Selecione **Ações Da Página De Aterrissagem** > **Editar Metatags De Página**.
+1. Selecione **[!UICONTROL Ações Da Página De Aterrissagem]** > **[!UICONTROL Editar Metatags De Página]**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. Adicione a HTML que define og:title, og:caption e og:description. Copie e cole essas linhas e substitua o texto do espaço reservado:
+1. Adicione a HTML que define log:title, og:caption e og:description. Copie e cole essas linhas e substitua o texto do espaço reservado:
 
    `<meta property="og:title" content="My Post Title"/>`
 

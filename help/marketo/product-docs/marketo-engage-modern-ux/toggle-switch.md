@@ -3,7 +3,7 @@ description: Alternar switch - Documentação do Marketo - Documentação do pro
 title: Alternar alternância
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 1%
@@ -22,11 +22,11 @@ O Switch de alternância permite alternar entre a interface clássica do Marketo
 
 Ative a opção de alternância para funções individuais ou todas as funções. Veja como.
 
-1. No Marketo Engage, clique em **Admin**.
+1. No Marketo Engage, clique em **[!UICONTROL Admin]**.
 
    ![](assets/toggle-switch-1.png)
 
-1. Clique em **Nova experiência**.
+1. Clique em **[!UICONTROL Nova experiência]**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -36,7 +36,7 @@ Ative a opção de alternância para funções individuais ou todas as funções
 
 ## Ativar para recursos {#enable-for-features}
 
-Você tem a opção de ativar manualmente o UX Marketo Engage Modern para recursos individuais ou todos os recursos disponíveis (atuais e futuros).
+Você tem a opção de ativar manualmente o Marketo Engage Modern UX para recursos individuais ou todos os recursos disponíveis (atuais e futuros).
 
 Em uma área que atualmente tem a opção de alternância (neste exemplo, estamos na Exibição de lista de email), basta clicar na opção no canto inferior direito da página.
 
@@ -50,7 +50,7 @@ Para habilitá-lo para _todos_ recursos, clique no ícone de engrenagem ao lado 
 
 ![](assets/toggle-switch-6.png)
 
-Selecione **Habilitar para todos os recursos disponíveis** e clique em **OK**.
+Selecione **[!UICONTROL Habilitar para todos os recursos disponíveis]** e clique em **[!UICONTROL OK]**.
 
 ![](assets/toggle-switch-7.png)
 

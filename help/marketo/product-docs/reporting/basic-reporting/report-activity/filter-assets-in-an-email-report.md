@@ -4,7 +4,7 @@ description: Filtrar o Assets em um relatório de email - Documentação do Mark
 title: Filtrar Assets em um relatório de email
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -27,12 +27,12 @@ Concentre seu relatório de [Desempenho do email](/help/marketo/product-docs/ema
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Clique na guia **Configuração** e arraste sobre um filtro.
+1. Clique na guia **[!UICONTROL Configuração]** e arraste sobre um filtro.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Emails do Design Studio**: ativos globais gerenciados no Design Studio.
-   * **Emails de atividades de marketing**: ativos locais em programas na guia Atividades de marketing.
+   * **[!UICONTROL Emails do Design Studio]**: ativos globais gerenciados no Design Studio.
+   * **[!UICONTROL Emails de atividades de marketing]**: ativos locais em programas na guia Atividades de marketing.
    * **Emails Arquivados**: emails inativos e removidos.
 
 1. Escolha as pastas e emails específicos a serem incluídos no relatório.
@@ -43,7 +43,7 @@ Concentre seu relatório de [Desempenho do email](/help/marketo/product-docs/ema
    >
    >Se você selecionar uma pasta, seu relatório incluirá tudo o que a pasta contém no momento em que o relatório é executado.
 
-1. Pronto! Clique na guia **Relatório** para ver seu relatório filtrado.
+1. Pronto! Clique na guia **[!UICONTROL Relatório]** para ver seu relatório filtrado.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

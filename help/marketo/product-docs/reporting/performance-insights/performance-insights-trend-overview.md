@@ -4,26 +4,26 @@ description: Visão geral da tendência do Performance Insights - Documentação
 title: Visão geral da tendência do Performance Insights
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Visão geral da tendência do Performance Insights {#performance-insights-trend-overview}
+# [!UICONTROL Visão geral da tendência do Performance Insights] {#performance-insights-trend-overview}
 
-A tendência mostra o desempenho do canal de em um período.
+[!UICONTROL Tendência] mostra o desempenho do canal de um período.
 
-Clique na guia **Tendência** para acessar esta exibição.
+Clique na guia **[!UICONTROL Tendência]** para acessar esta exibição.
 
 ![](assets/1.png)
 
-## Tendência {#trend}
+## [!UICONTROL Tendência] {#trend}
 
 ![](assets/2-1.png)
 
-Selecione a métrica para exibir o desempenho. Neste exemplo, analisaremos as oportunidades conquistadas por [Primeiro contato](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Selecione a métrica para exibir o desempenho. Neste exemplo, analisaremos as oportunidades conquistadas via [[!UICONTROL Primeiro contato]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 

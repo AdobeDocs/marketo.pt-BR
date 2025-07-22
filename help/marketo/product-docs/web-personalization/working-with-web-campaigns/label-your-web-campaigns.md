@@ -4,9 +4,9 @@ description: Rotular As Campanhas Da Web - Documentação Do Marketo - Documenta
 title: Rotular as campanhas da Web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Você tem tantas campanhas que a rolagem está se tornando complicada? Use rótu
 
 ## Adicionar um rótulo a uma campanha da Web {#add-a-label-to-a-web-campaign}
 
-1. Faça logon no Web Personalization e acesse a área Campanhas da Web.
+1. Faça logon em [!DNL Web Personalization] e vá para a área [!UICONTROL Campanhas da Web].
 
    ![](assets/web-campaigns-hand.jpg)
 

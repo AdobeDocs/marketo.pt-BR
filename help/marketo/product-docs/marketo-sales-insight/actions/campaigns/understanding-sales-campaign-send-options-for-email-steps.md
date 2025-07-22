@@ -3,16 +3,16 @@ description: Noções básicas sobre as opções de envio do Sales Campaign para
 title: Noções básicas sobre as opções de envio do Sales Campaign para etapas de email
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '740'
 ht-degree: 2%
 
 ---
 
 # Noções básicas sobre as opções de envio do Sales Campaign para etapas de email {#understanding-sales-campaign-send-options-for-email-steps}
 
-Ao criar uma Campanha de vendas, você tem várias opções sobre como as etapas de email são criadas em Ações de insight de vendas. E, dependendo de onde seu email se encaixa em sua Campanha de vendas, suas opções também diferem.
+Ao criar uma Campanha de Vendas, você tem várias opções sobre como as etapas de email são criadas no [!DNL Sales Insight Actions]. E, dependendo de onde seu email se encaixa em sua Campanha de vendas, suas opções também diferem.
 
 ## Opções de envio da primeira etapa {#first-step-send-options}
 
@@ -31,11 +31,11 @@ Se for a primeira etapa e o primeiro dia na Campanha de vendas, você terá as s
 
 ### Criar uma tarefa; eu mesmo vou enviar este e-mail {#first-step-create-a-task}
 
-* Essa opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
+* Esta opção criará uma Tarefa de Email (e a sincronizará com [!DNL Salesforce]) que você poderá enviar quando desejar.
 * Depois de fazer essa seleção, ao iniciar sua Campanha de vendas, colocaremos essas tarefas na fila do Centro de comando e do Feed ao vivo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
 
    * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
-   * Se você abrir essa tarefa no Gmail ou Outlook, ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
+   * Se você abrir esta tarefa no Gmail ou no [!DNL Outlook], ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
 
 ## Opções de envio da etapa subsequente {#subsequent-step-send-options}
 
@@ -57,11 +57,11 @@ Para qualquer dia/etapa subsequente em sua Campanha de vendas, você terá as se
 
 ### Criar uma tarefa; eu mesmo vou enviar este e-mail {#subsequent-create-a-task}
 
-* Essa opção criará uma Tarefa de email (e a sincronizará com o Salesforce) que você poderá enviar quando desejar.
-* Depois de fazer essa seleção, ao iniciar sua Campanha de vendas, as Ações do Sales Insight enfileirarão essas tarefas no Command Center e no Feed ativo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
+* Esta opção criará uma Tarefa de Email (e a sincronizará com [!DNL Salesforce]) que você poderá enviar quando desejar.
+* Depois de fazer essa seleção, quando você iniciar sua Campanha de Vendas, o [!DNL Sales Insight Actions] enfileirará essas tarefas para você na Central de Comandos e no Feed ao Vivo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
 
    * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
-   * Se você abrir essa tarefa no Gmail ou Outlook, ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
+   * Se você abrir esta tarefa no Gmail ou no [!DNL Outlook], ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
 
 ### Criar este email como um acompanhamento do email anterior nesta campanha {#subsequent-create-this-email}
 
@@ -75,6 +75,6 @@ Para qualquer dia/etapa subsequente em sua Campanha de vendas, você terá as se
 >[!MORELIKETHIS]
 >
 >[Criar uma campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->[Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->[Configurações da campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[Configurações da campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 

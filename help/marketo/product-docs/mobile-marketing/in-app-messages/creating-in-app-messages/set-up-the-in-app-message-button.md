@@ -4,7 +4,7 @@ description: Configuração do botão de mensagem no aplicativo - Documentação
 title: Configurar o botão Mensagens no aplicativo
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Você pode usar o design de botão padrão, modificá-lo ou carregar sua própria imagem de botão personalizada.
 
-1. Clique no botão para abrir a guia Style para edição.
+1. Clique no botão para abrir a guia [!UICONTROL Estilo] para edição.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Para alterar a cor do botão padrão, clique no botão **Cor**.
+1. Para alterar a cor do botão padrão, clique no botão **[!UICONTROL Cor]**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Você pode usar o design de botão padrão, modificá-lo ou carregar sua própri
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Se quiser usar sua própria imagem para um botão, clique no botão Imagem e clique em **Selecionar Imagem**.
+1. Se quiser usar sua própria imagem para um botão, clique no botão **[!UICONTROL Imagem]** e clique em **[!UICONTROL Selecionar Imagem]**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Escolha a imagem e clique em **Selecionar**.
+1. Escolha a imagem e clique em **[!UICONTROL Selecionar]**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -69,11 +69,11 @@ Você pode usar o design de botão padrão, modificá-lo ou carregar sua própri
 
    >[!NOTE]
    >
-   >O botão sempre tem uma ação de toque, portanto, a caixa de seleção Toque em ação é selecionada automaticamente, com a mensagem padrão &quot;Ignorar mensagem&quot;.
+   >O botão sempre tem uma ação de toque, portanto, a caixa de seleção Tocar ação é selecionada automaticamente, com a mensagem padrão &quot;[!UICONTROL Ignorar mensagem]&quot;.
 
 Quase lá. A última etapa é [configurar o plano de fundo da mensagem no aplicativo e fechar o botão](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [Noções Básicas Sobre Mensagens No Aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Escolha um layout para a mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Escolha um Layout para sua [!UICONTROL Mensagem no Aplicativo]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

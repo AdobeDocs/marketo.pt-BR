@@ -4,9 +4,9 @@ description: Adicionar o  [!DNL Zoom] as a [!DNL LaunchPoint] Service - Document
 title: Adicionar [!DNL Zoom] como um [!DNL LaunchPoint] Serviço
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Sua conta do [!DNL Zoom] foi sincronizada com o Marketo e pode ser encontrada na
 
 >[!CAUTION]
 >
->Ao atualizar sua senha no Zoom, você também deve atualizar sua senha no Marketo.
+>Ao atualizar sua senha no [!DNL Zoom], você também deve atualizá-la no Marketo.
 
 >[!MORELIKETHIS]
 >

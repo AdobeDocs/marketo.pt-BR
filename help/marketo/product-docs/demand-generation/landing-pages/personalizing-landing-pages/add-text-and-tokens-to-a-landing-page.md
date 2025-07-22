@@ -4,7 +4,7 @@ description: Adicionar texto e tokens a uma página de aterrissagem - Documenta�
 title: Adicionar texto e tokens a uma página inicial
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 ## Adicionar Rich Text à Landing Page {#add-rich-text-to-your-landing-page}
 
-1. Selecione sua página de aterrissagem e clique em **Editar rascunho**.
+1. Selecione sua página de aterrissagem e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,11 +27,11 @@ ht-degree: 1%
    >
    >O designer da landing page é aberto em uma nova janela.
 
-1. Arraste sobre o elemento **Rich Text**.
+1. Arraste sobre o elemento **[!UICONTROL Rich Text]**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Insira o texto desejado e clique em **Salvar**.
+1. Insira o texto desejado e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -45,7 +45,7 @@ Os tokens são textos dinâmicos que podem personalizar a página de aterrissage
 >
 >Coisas como Nome vem do registro de pessoa. Outros tokens vêm da guia Meus tokens no programa.
 
-1. Selecione sua página de aterrissagem e clique em **Editar rascunho**.
+1. Selecione sua página de aterrissagem e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +65,11 @@ Os tokens são textos dinâmicos que podem personalizar a página de aterrissage
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Insira um **Valor padrão** e clique em **Inserir**.
+1. Insira um **[!UICONTROL Valor padrão]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352416
-description: Visão geral da página do Analytics - Documentação do Marketo - Documentação do produto
+description: Visão geral da página do [!UICONTROL Analytics] - Documentação do Marketo - Documentação do produto
 title: Visão geral da página do Analytics
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
-# Visão geral da página do Analytics {#analytics-page-overview}
+# Visão geral da página do [!UICONTROL Analytics] {#analytics-page-overview}
 
-A guia Analytics é onde você vê os dados relativos ao engajamento dos seus emails. Os dados individuais e de equipe são exibidos. Os administradores também podem filtrar pelo usuário na guia Eu.
+A guia [!UICONTROL Analytics] é o local onde você vê os dados relativos ao engajamento dos seus emails. Os dados individuais e de equipe são exibidos. Os administradores também podem filtrar pelo usuário na guia [!UICONTROL Me].
 
 ## Com que frequência ele é atualizado? {#how-often-does-it-update}
 
@@ -27,24 +27,24 @@ Todas as estatísticas mantidas na tabela serão calculadas observando as exibi�
 
 ## Guias Analíticas {#analytic-tabs}
 
-Dividimos suas estatísticas em três guias separadas: Eu, Equipe e Conteúdo. Você pode usar cada um deles para obter uma perspectiva diferente sobre o insight que fornecemos.
+Dividimos suas estatísticas em três guias separadas: [!UICONTROL Eu], [!UICONTROL Equipe] e [!UICONTROL Conteúdo]. Você pode usar cada um deles para obter uma perspectiva diferente sobre a insight que fornecemos.
 
 Ao ir de guia a guia na página do Analytics, você pode classificar suas estatísticas clicando nos ícones exibir, clicar ou responder.
 
-Nas guias Eu e Equipe, você verá informações sobre ofertas fechadas. Esse número é controlado por quantas vezes as pessoas em sua equipe tocam o gongo.
+Nas guias [!UICONTROL Eu] e [!UICONTROL Equipe], você verá informações sobre ofertas fechadas. Esse número é controlado por quantas vezes as pessoas em sua equipe tocam o gongo.
 
-## Guia Eu {#me-tab}
+## Guia [!UICONTROL Me] {#me-tab}
 
-A guia Eu é um ótimo local para verificar o engajamento de seus emails, modelos e links. Se você for um administrador no Sales Connect, é possível filtrar por qualquer usuário da sua equipe para ver as estatísticas.
+A guia [!UICONTROL Eu] é um excelente local para verificar o envolvimento de seus emails, modelos e links. Se você for um administrador no [!DNL Sales Connect], é possível filtrar por qualquer usuário da sua equipe para ver as estatísticas.
 
-## Guia Equipe {#team-tab}
+## Guia [!UICONTROL Equipe] {#team-tab}
 
 Aqui você pode ver as estatísticas e classificações de toda a sua equipe. Também é possível filtrar por qualquer subequipe criada.
 
-## Guia Conteúdo {#content-tab}
+## Guia [!UICONTROL Conteúdo] {#content-tab}
 
 A guia Content contém estatísticas sobre templates, conteúdo e links. Você pode filtrar por todos ou por equipes criadas por seus administradores.
 
-Se você vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Exiba o uso clicando em **Análise de Modelo**.
+Se você vir texto azul na coluna de assunto, significa que o modelo é compartilhado. Você pode clicar no texto azul a ser levado para esse modelo. Exiba o uso clicando em **[!UICONTROL Análise de Modelo]**.
 
 Os &quot;cliques no conteúdo&quot; são contados quando um recipient clica em um link em seu email.

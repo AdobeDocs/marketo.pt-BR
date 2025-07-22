@@ -4,14 +4,14 @@ description: Instale o Marketo Insights para Google Chrome - Documentação do M
 title: Instalar o Marketo Insights para o Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Instalar o Marketo Insights para o Google Chrome {#install-marketo-insights-for-google-chrome}
+# Instalar o Marketo Insights para [!DNL Google Chrome] {#install-marketo-insights-for-google-chrome}
 
 Siga estas etapas para começar a usar o avançado complemento Chrome. Não é necessário ser um administrador do Marketo para instalar a extensão.
 
@@ -23,11 +23,11 @@ Siga estas etapas para começar a usar o avançado complemento Chrome. Não é n
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. Clique com o botão direito no logotipo do Marketo no Chrome e selecione **Opções**.
+1. Clique com o botão direito no logotipo do Marketo em [!DNL Chrome] e selecione **[!UICONTROL Opções]**.
 
    ![](assets/two.png)
 
-1. Insira seu **código de registro**, **Endereço de email**, **Nome** e **Sobrenome**. Clique em **Verificar e Salvar**.
+1. Insira seu **[!UICONTROL código de registro]**, **[!UICONTROL Endereço de email]**, **[!UICONTROL Nome]** e **[!UICONTROL Sobrenome]**. Clique em **[!UICONTROL Verificar e Salvar]**.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Siga estas etapas para começar a usar o avançado complemento Chrome. Não é n
    >
    >O código de registro estará no email enviado depois que um Administrador do Marketo [emitir uma licença do Marketo Email Add-in](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Ele expira após 14 dias**.
 
-1. Clique em **Permitir** para permitir acesso offline.
+1. Clique em **[!UICONTROL Permitir]** para permitir acesso offline.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 

@@ -4,7 +4,7 @@ description: Atribuição de tarefas a membros da equipe - Documentação do Mar
 title: Atribuindo Tarefas a Membros da Equipe
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 >
 >Só é possível atribuir tarefas a contatos compartilhados.
 
-1. Clique no **Centro de comando**.
+1. Clique no **[!UICONTROL Centro de comando]**.
 
    ![](assets/one-1.png)
 
-1. Clique em **Adicionar tarefa**.
+1. Clique em **[!UICONTROL Adicionar tarefa]**.
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
    ![](assets/four-1.png)
 
-1. Selecione a pessoa da equipe à qual deseja atribuir a tarefa no campo Atribuir tarefa.
+1. Selecione a pessoa da equipe à qual deseja atribuir a tarefa no campo **[!UICONTROL Atribuir tarefa]**.
 
    ![](assets/five.png)
 
@@ -43,14 +43,14 @@ Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode se
 
    ![](assets/six.png)
 
-1. Selecione a Data de vencimento.
+1. Selecione a **[!UICONTROL Data de vencimento]**.
 
    ![](assets/seven.png)
 
-1. Defina a Prioridade.
+1. Defina a **[!UICONTROL Prioridade]**.
 
    ![](assets/eight.png)
 
-1. Adicione todos os detalhes importantes que sejam relevantes para o seu colega de equipe (opcional), e clique em **Criar**.
+1. Adicione todos os detalhes importantes que sejam relevantes para o seu colega de equipe (opcional), e clique em **[!UICONTROL Criar]**.
 
    ![](assets/nine.png)

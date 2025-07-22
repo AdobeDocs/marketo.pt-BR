@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: Instale o Suplemento de email do Marketo para Outlook com um código de registro - Documentação do Marketo - Documentação do produto
-title: Instale o Suplemento de email do Marketo para Outlook com um código de registro
+description: Instale o Suplemento de Email do Marketo para  [!DNL Outlook] com um Código de Registro - Documentação do Marketo - Documentação do produto
+title: Instalar o Suplemento de Email do Marketo para  [!DNL Outlook]  com um Código de Registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 5%
+source-wordcount: '536'
+ht-degree: 6%
 
 ---
 
-# Instale o Suplemento de email do Marketo para Outlook com um código de registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Instalar o Suplemento de Email do Marketo para [!DNL Outlook] com um Código de Registro {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Se os usuários conseguirem acessar as configurações do administrador em seus laptops, você poderá enviar um código de registro diretamente para eles.
 
@@ -39,7 +39,7 @@ Se não tiver recebido um email de convite, peça ao administrador do Marketo pa
 
    >[!NOTE]
    >
-   >No momento, os links abaixo estão funcionando apenas no Microsoft Edge ou clicando com o botão direito do mouse no Chrome. Lamentamos o inconveniente.
+   >No momento, os links abaixo estão funcionando apenas no [!DNL Microsoft Edge] ou clicando com o botão direito do mouse em [!DNL Chrome]. Lamentamos o inconveniente.
 
 <table><thead>
   <tr>
@@ -100,7 +100,7 @@ Se não tiver recebido um email de convite, peça ao administrador do Marketo pa
   </tr>
 </tbody></table>
 
-*Versão do Office 365: somente cliente Windows (no Windows 10, Enterprise ou Pro).
+*[!DNL Office] versão 365: somente cliente [!DNL Windows] (em [!DNL Windows] 10, [!DNL Enterprise] ou [!DNL Pro]).
 
 >[!IMPORTANT]
 >
@@ -112,7 +112,7 @@ Se não tiver recebido um email de convite, peça ao administrador do Marketo pa
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Feche o Microsoft Outlook.
+1. Fechar [!DNL Microsoft Outlook].
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ Se não tiver recebido um email de convite, peça ao administrador do Marketo pa
    >
    >Se você receber um aviso de segurança, não se preocupe! Basta clicar em **Executar**.
 
-1. Clique em **Avançar**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Preencha **Nome**, **Sobrenome**, **Endereço de email** e copie e cole o **Código de registro** do email no formulário e clique em **Avançar**.
+1. Preencha **[!UICONTROL Nome]**, **[!UICONTROL Sobrenome]**, **[!UICONTROL Endereço de email]** e copie e cole o **[!UICONTROL Código de registro]** do email no formulário e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ Se não tiver recebido um email de convite, peça ao administrador do Marketo pa
    >
    >Se a instalação falhar, verifique com o departamento de TI se o tráfego HTTPS não está bloqueado. O instalador requer que o tráfego HTTPS seja aberto.
 
-1. Clique em **Avançar** para instalar no local padrão.
+1. Clique em **[!UICONTROL Avançar]** para instalar no local padrão.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Clique em **Avançar**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Se você receber um aviso de segurança sobre um editor desconhecido, clique em **Sim**.
+   >Se você receber um aviso de segurança sobre um editor desconhecido, clique em **[!UICONTROL Sim]**.
 
-1. A instalação foi concluída, clique em **Fechar**.
+1. A instalação foi concluída, clique em **[!UICONTROL Fechar]**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Agora abra o Microsoft Outlook e veja os botões Marketo.
+1. Agora abra [!DNL Microsoft Outlook] e veja os botões do Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

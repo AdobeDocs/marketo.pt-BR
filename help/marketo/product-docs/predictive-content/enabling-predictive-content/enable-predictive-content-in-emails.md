@@ -4,7 +4,7 @@ description: Habilitar conteúdo preditivo em emails - Documentação do Marketo
 title: Ativar conteúdo preditivo em emails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
@@ -33,19 +33,19 @@ Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para 
 
 ## Adição de conteúdo preditivo usando o Editor de email 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Clique em **Atividades de marketing**.
+1. Clique em **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one.png)
 
-1. Selecione seu email e clique em **Editar Rascunho**.
+1. Selecione seu email e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/two.png)
 
-1. Clique na imagem que deseja tornar preditiva. Quando o ícone de engrenagem aparecer, clique nele e selecione **Habilitar ContentAI** (ContentAI é o antigo nome do Conteúdo preditivo).
+1. Clique na imagem que deseja tornar preditiva. Quando o ícone de engrenagem aparecer, clique nele e selecione **[!UICONTROL Habilitar ContentAI]** (ContentAI é o antigo nome do Conteúdo preditivo).
 
    ![](assets/three.png)
 
-1. Para selecionar uma ou mais categorias, clique no menu suspenso **Categorias**, faça sua(s) seleção(ões) e clique em **Aplicar**.
+1. Para selecionar uma ou mais categorias, clique no menu suspenso **[!UICONTROL Categorias]**, faça sua(s) seleção(ões) e clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/four.png)
 
@@ -57,11 +57,11 @@ Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para 
 
    ![](assets/five.png)
 
-1. Para visualizar seu email, clique em **Visualizar** no canto superior direito.
+1. Para visualizar seu email, clique em **[!UICONTROL Visualizar]** no canto superior direito.
 
    ![](assets/six.png)
 
-1. Para exibir diferentes imagens possíveis, clique em **Atualizar**.
+1. Para exibir diferentes imagens possíveis, clique em **[!UICONTROL Atualizar]**.
 
    ![](assets/seven.png)
 
@@ -69,7 +69,7 @@ Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para 
    >
    >A imagem não é selecionada **_até que o destinatário abra o email_**. Portanto, o que você vê na visualização é apenas um exemplo e não será necessariamente a imagem que o recipient vê.
 
-1. Quando terminar de visualizar seu email, clique no menu suspenso **Ações de Visualização** e selecione **Aprovar e Fechar**. Ou se ainda tiver que fazer edições, clique em **Editar rascunho** à direita.
+1. Quando terminar de visualizar seu email, clique no menu suspenso **[!UICONTROL Ações de Visualização]** e selecione **[!UICONTROL Aprovar e Fechar]**. Ou se ainda tiver que fazer edições, clique em **[!UICONTROL Editar rascunho]** à direita.
 
    ![](assets/eight.png)
 

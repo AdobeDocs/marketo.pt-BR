@@ -1,18 +1,17 @@
 ---
-description: Atividades do Dynamic Chat - Documentação do Marketo - Documentação do produto
-title: Atividades dinâmicas de chat
-feature: Dynamic Chat
+description: '[!DNL Dynamic Chat] Atividades - Documentação do Marketo - Documentação do produto'
+title: '[!DNL Dynamic Chat] atividades'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 6%
+source-wordcount: '237'
+ht-degree: 4%
 
 ---
 
-# Atividades dinâmicas de chat {#dynamic-chat-activities}
+# [!DNL Dynamic Chat] atividades {#dynamic-chat-activities}
 
-O Dynamic Chat oferece vários filtros e acionadores para uso nas suas Smart Lists.
+O [!DNL Dynamic Chat] oferece vários filtros e acionadores para uso nas suas Smart Lists.
 
 ![](assets/dynamic-chat-activities-1.png)
 
@@ -47,7 +46,7 @@ O Dynamic Chat oferece vários filtros e acionadores para uso nas suas Smart Lis
   </tr>
   <tr>
     <td style="width:25%"><b>Reunião agendada</b></td>
-    <td>Acontece quando um visitante reserva uma reunião com um agente de Dynamic Chat.
+    <td>Acontece quando um visitante agenda uma reunião com um agente do Dynamic Chat.
     <br>Pode haver vários eventos marcados para reunião por visitante, por sessão.</td>
   </tr>
 </tbody>
@@ -55,6 +54,6 @@ O Dynamic Chat oferece vários filtros e acionadores para uso nas suas Smart Lis
 
 ## Itens a Observar {#things-to-note}
 
-* As condições são suportadas nas etapas de fluxo de Dynamic Chat
-* As atividades de Dynamic Chat podem ser sincronizadas com o [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
-* É possível exibir atividades de Dynamic Chat individuais no Registro de atividade de um registro de pessoa
+* As condições são suportadas nas etapas de fluxo [!DNL Dynamic Chat]
+* [!DNL Dynamic Chat] atividades podem ser sincronizadas com [[!DNL Marketo Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}
+* Você pode exibir [!DNL Dynamic Chat] atividades individuais no Log de atividades de um registro de Pessoa

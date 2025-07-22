@@ -4,7 +4,7 @@ description: Editar O Cabeçalho Do Email - Documentação Do Marketo - Document
 title: Editar o cabeçalho do email
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 O cabeçalho do email no Marketo é totalmente personalizável. Ele consiste em quatro campos:
 
-* **De** - O nome do remetente como você deseja que ele seja exibido
-* **Do Endereço** - O endereço de email do remetente como você deseja que ele seja exibido
-* **Responder-para** - O endereço de email para o qual você deseja que a resposta de uma pessoa seja enviada (pode ser diferente do Endereço de Origem)
-* **Assunto** - A linha de assunto do email
+* **[!UICONTROL De]** - O nome do remetente como você deseja que ele seja exibido
+* **[!UICONTROL Do Endereço]** - O endereço de email do remetente como você deseja que ele seja exibido
+* **[!UICONTROL Responder-para]** - O endereço de email para o qual você deseja enviar a resposta de uma pessoa (pode ser diferente de [!UICONTROL Do Endereço])
+* **[!UICONTROL Assunto]** - A linha de assunto do email
 
 Para editar esses valores, clique em cada campo e insira suas informações.
 
@@ -36,11 +36,11 @@ Também é possível tornar o campo dinâmico usando segmentos.
 
 ![](assets/three-2.png)
 
-O ícone de chave na extremidade direita do campo Do endereço permite saber se você está usando uma assinatura DKIM personalizada.
+O ícone de chave na extremidade direita do campo [!UICONTROL Do endereço] permite saber se você está usando uma assinatura personalizada do DKIM.
 
 ![](assets/four-2.png)
 
-O contador à extrema direita no campo Assunto ajuda a manter a linha de assunto abaixo do limite recomendado de 50 caracteres.
+O contador na extremidade direita do campo [!UICONTROL Assunto] ajuda a manter a linha de assunto abaixo do limite recomendado de 50 caracteres.
 
 ![](assets/five-1.png)
 

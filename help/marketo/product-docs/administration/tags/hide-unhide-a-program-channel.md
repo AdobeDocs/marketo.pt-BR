@@ -4,7 +4,7 @@ description: Ocultar/tornar visível um canal de programa - Documentação do Ma
 title: Ocultar/reexibir um canal de programa
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -41,6 +41,6 @@ Calma, calma!
 
 ## Revelar um canal de programa {#unhide-a-program-channel}
 
-1. Revele um canal de programa marcando a caixa de seleção Mostrar ocultos.
+1. Exiba novamente um Canal de Programa marcando a caixa de seleção **[!UICONTROL Mostrar Oculto]**.
 
    ![](assets/hide-unhide-a-program-channel-5.png)

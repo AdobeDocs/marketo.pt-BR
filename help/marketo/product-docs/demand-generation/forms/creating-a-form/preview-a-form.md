@@ -4,7 +4,7 @@ description: Visualizar um formulário - Documentação do Marketo - Documentaç
 title: Visualizar um formulário
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Antes de publicar, você pode ver o formulário neste pré-visualizador de formulário rápido e simples.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,19 +23,19 @@ Antes de publicar, você pode ver o formulário neste pré-visualizador de formu
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Em **Ações de Formulário**, clique em **Visualizar**.
+1. Em **[!UICONTROL Ações de Formulário]**, clique em **[!UICONTROL Visualizar]**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. O editor de formulários será aberto no modo **visualização**.
+1. O editor de formulários será aberto no modo **[!UICONTROL visualização]**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Clique em **Editar rascunho** para voltar para o modo **editar**.
+1. Clique em **[!UICONTROL Editar rascunho]** para voltar para o modo **[!UICONTROL editar]**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Retorne facilmente clicando em **Visualizar Rascunho**.
+1. Retorne facilmente clicando em **[!UICONTROL Visualizar Rascunho]**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 

@@ -4,9 +4,9 @@ description: Noções básicas sobre custos do período - Documentação do Mark
 title: Noções Básicas sobre Custos do Período
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Custos de período referem-se ao dinheiro gasto em um mês específico em um pro
 >
 >**Exemplo**
 >
->Se você gastar US$ 1.000 para contratar um ilustrador para um eBook que for lançado em julho - o programa eBook teria um custo de período de US$ 1.000 em julho.
+>Se você gastar US$ 1.000 para contratar um ilustrador para uma [!DNL eBook] que será lançada em julho - o programa [!DNL eBook] terá um custo de período de US$ 1.000 em julho.
 >
 >Se você gastar US$ 200 por mês em [!DNL Google Adwords] - o programa [!DNL Google Adwords] terá um custo do período de US$ 200 _todo mês_.
 

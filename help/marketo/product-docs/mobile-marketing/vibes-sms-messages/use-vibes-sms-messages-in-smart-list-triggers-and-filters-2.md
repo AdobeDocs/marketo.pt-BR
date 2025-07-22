@@ -4,7 +4,7 @@ title: Usar mensagens SMS de vibrações em acionadores e filtros de lista intel
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Depois de [criar uma mensagem SMS do Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, você deverá usar os disparadores e filtros da Smart List em uma Campanha Inteligente para obter os benefícios. Veja como.
 
-1. Em Minha Marketo, clique em **Atividades de marketing**.
+1. Em Minha Marketo, clique em **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -46,17 +46,17 @@ O gatilho **Rejeições de Mensagens SMS** inicia um fluxo, como o envio de um e
 
 ![](assets/sms-message-bounces-real.jpg)
 
-O gatilho **Inscreve-se na Lista de Vibrações** inicia um fluxo quando uma pessoa se inscreve.
+O gatilho **[!UICONTROL Inscreve-se na Lista de Vibrações]** inicia um fluxo quando uma pessoa se inscreve.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-O acionador **Link de Cliques na Mensagem SMS** inicia um fluxo quando uma pessoa clica em um link na mensagem SMS.
+O acionador **[!UICONTROL Link de Cliques na Mensagem SMS]** inicia um fluxo quando uma pessoa clica em um link na mensagem SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## Filtros de SMS {#sms-filters}
 
-Você também pode usar filtros de Vibes em listas inteligentes. O filtro **Inscrito na Lista de Vibrações** encontra qualquer pessoa que *já* tenha inscrito nas Vibes. Isso inclui pessoas canceladas e excluídas, mesmo que as pessoas excluídas sejam omitidas do fluxo. Esse filtro é mais adequado para relatórios.
+Você também pode usar filtros de Vibes em listas inteligentes. O filtro **[!UICONTROL Inscrito na Lista de Vibrações]** encontra qualquer pessoa que *já* tenha inscrito nas Vibes. Isso inclui pessoas canceladas e excluídas, mesmo que as pessoas excluídas sejam omitidas do fluxo. Esse filtro é mais adequado para relatórios.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -66,7 +66,7 @@ Por outro lado, o filtro **Membro da Lista de Vibrações** encontra _qualquer p
 
 >[!NOTE]
 >
->Todos os filtros SMS incluem a restrição **Data de Atividade** por padrão.
+>Todos os filtros SMS incluem a restrição **[!UICONTROL Data de Atividade]** por padrão.
 
 Após configurar os disparadores e filtros de Vibes na sua lista inteligente, você pode [definir o fluxo](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 

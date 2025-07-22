@@ -1,18 +1,18 @@
 ---
-description: Mapeamento De Campo Padrão Do Veeva - Documentação Do Marketo - Documentação Do Produto
-title: Mapeamento de campo Veeva padrão
+description: Padrão [!DNL Veeva] Mapeamento de campos - Documentação do Marketo - Documentação do produto
+title: 'Mapeamento de Campo Padrão [!DNL Veeva] '
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 44%
+source-wordcount: '253'
+ht-degree: 47%
 
 ---
 
-# Mapeamento de campo Veeva padrão {#default-veeva-field-mapping}
+# Mapeamento de Campo [!DNL Veeva] Padrão {#default-veeva-field-mapping}
 
-Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Marketo faz automaticamente essas associações entre seus campos Veeva e Marketo incorporados. O Marketo também sincronizará os campos personalizados em suas Contas e Contatos.
+Inicialmente, ao sincronizar sua conta do Marketo Engage com o [!DNL Veeva], a Marketo faz automaticamente essas associações entre seus campos internos do [!DNL Veeva] e do Marketo. O Marketo também sincronizará os campos personalizados em suas Contas e Contatos.
 
 ## Campos de contato {#contact-fields}
 
@@ -23,7 +23,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
   </colgroup>
   <thead>
     <tr>
-      <th>Campo SFDC</th>
+      <th>Campo do SFDC</th>
       <th>Campo do Marketo</th>
     </tr>
   </thead>
@@ -42,7 +42,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
     </tr>
     <tr>
       <td>Email</td>
-      <td>Endereço de e-mail</td>
+      <td>Endereço de email</td>
     </tr>
     <tr>
       <td>Fax comercial</td>
@@ -120,7 +120,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
   </colgroup>
   <thead>
     <tr>
-      <th>Campo SFDC</th>
+      <th>Campo do SFDC</th>
       <th>Campo do Marketo</th>
     </tr>
   </thead>
@@ -183,7 +183,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
     </tr>
     <tr>
       <td>Tipo de conta</td>
-      <td>SFDC - Tipo</td>
+      <td>Tipo SFDC</td>
     </tr>
     <tr>
       <td>Site</td>
@@ -192,7 +192,7 @@ Quando você sincroniza inicialmente sua conta Marketo Engage com o Veeva, o Mar
   </tbody>
 </table>
 
-## Campos de sistema relacionados ao Veeva no Marketo (somente leitura) {#veeva-related-system-fields-in-marketo}
+## Campos do sistema relacionados a [!DNL Veeva] no Marketo (somente leitura) {#veeva-related-system-fields-in-marketo}
 
 Esses campos são criados no Marketo, mas não podem ser ajustados pelos clientes.
 
@@ -209,19 +209,19 @@ Esses campos são criados no Marketo, mas não podem ser ajustados pelos cliente
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>A ID do Salesforce de 18 caracteres</td>
+      <td>[!DNL Veeva] ID</td>
+      <td>A Id de [!DNL Salesforce] de 18 caracteres</td>
     </tr>
     <tr>
-      <td>Veeva Type</td>
+      <td>[!DNL Veeva] Tipo</td>
       <td>Entre em contato com. Se estiver vazio, o lead existirá somente como uma pessoa no Marketo</td>
     </tr>
     <tr>
-      <td>Data de criação da Veeva</td>
+      <td>[!DNL Veeva] Data de criação</td>
       <td>Data de criação no SFDC (pode ser diferente de Criado no Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva é excluído</td>
+      <td>[!DNL Veeva] foi excluído</td>
       <td>A pessoa costumava estar no SFDC, mas foi excluída e agora reside somente no Marketo</td>
     </tr>
   </tbody>

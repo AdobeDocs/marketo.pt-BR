@@ -4,7 +4,7 @@ description: Definir um público-alvo importando uma lista - Documentação do M
 title: Definir um público-alvo importando uma lista
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -25,15 +25,15 @@ Depois de criar um programa de email, você deverá informar para quem enviar o 
 >
 >Qualquer campo de data/hora que for importado será tratado como Hora central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para transformá-la na Hora Central (América/Chicago).
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de email e clique em Importar lista no bloco Público-alvo.
+1. Selecione seu programa de email e clique em **[!UICONTROL Importar Lista]** no bloco **[!UICONTROL Público]**.
 
    ![](assets/importlist.png)
 
-1. A janela de importação de lista é aberta. Clique em **Procurar** e selecione o arquivo que deseja importar. Depois de selecionar sua lista de pessoas, clique em **Avançar**.
+1. A janela de importação de lista é aberta. Clique em **[!UICONTROL Procurar]** e selecione o arquivo que deseja importar. Depois de selecionar sua lista de pessoas, clique em **[!UICONTROL Avançar]**.
 
    ![](assets/importlist1.png)
 
@@ -41,7 +41,7 @@ Depois de criar um programa de email, você deverá informar para quem enviar o 
    >
    >Verifique se a lista está codificada em UTF-8, UTF-16, Shift-JIS ou EUC-JP e se não excede 50 MB no tamanho do arquivo.
 
-1. Verifique se os campos no arquivo estão mapeados corretamente e clique em **Avançar**.
+1. Verifique se os campos no arquivo estão mapeados corretamente e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
@@ -49,7 +49,7 @@ Depois de criar um programa de email, você deverá informar para quem enviar o 
    >
    >O Marketo se lembrará dos mapeamentos para importações futuras!
 
-1. Insira um **Nome** para a lista e clique em **Importar**.
+1. Insira um **[!UICONTROL Nome]** para a lista e clique em **[!UICONTROL Importar]**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ Depois de criar um programa de email, você deverá informar para quem enviar o 
 >
 >Clique no número para obter uma lista detalhada de pessoas bloqueadas para emails.
 >
->Use o botão ![—](assets/image2014-10-23-16-3a32-3a36-1.png) no bloco **Público-alvo** para ver quantas pessoas se qualificaram para receber o email com base nos critérios da lista inteligente. Subtraia o número Bloqueado do número Pessoas para obter o número total de pessoas que receberão o email.
+>Use o botão ![—](assets/image2014-10-23-16-3a32-3a36-1.png) no bloco **[!UICONTROL Público-alvo]** para ver quantas pessoas se qualificaram para receber o email com base nos critérios da lista inteligente. Subtraia o número Bloqueado do número Pessoas para obter o número total de pessoas que receberão o email.
 
 >[!TIP]
 >

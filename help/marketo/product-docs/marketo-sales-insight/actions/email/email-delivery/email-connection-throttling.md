@@ -3,16 +3,16 @@ description: Limitação Da Conexão De Email - Documentação Do Marketo - Docu
 title: Limitação da conexão de email
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
 # Limitação da conexão de email {#email-connection-throttling}
 
-A integração da sua conta do Sales Connect para envio por meio de provedores de email do Exchange ou do Gmail oferece uma configuração simplificada e otimiza a capacidade de entrega de e-mails para comunicação de vendas 1:1. No entanto, para manter a integridade dos sistemas e a segurança das contas, o Gmail e o Exchange impõem limites de envio de email. Esses limites podem ser aumentados ou diminuídos a critério dos provedores.
+A integração da sua conta [!DNL Sales Connect] para envio por meio do [!DNL Exchange] ou de provedores de email do Gmail oferece uma configuração simplificada e otimiza a capacidade de entrega de emails para 1:1 comunicação de vendas. No entanto, para manter a integridade dos sistemas e a segurança das contas, o Gmail e o [!DNL Exchange] impõem limites de envio de email. Esses limites podem ser aumentados ou diminuídos a critério dos provedores.
 
 ## Limitação da conexão de email (Beta) {#email-connection-throttling-beta}
 
@@ -22,22 +22,22 @@ Quando os limites são constantemente excedidos, isso pode ser visto às vezes c
 
 **Notas/Destaques**
 
-* Ativado automaticamente quando um usuário se conecta ao Gmail ou ao Exchange
+* Habilitado automaticamente quando um usuário se conecta ao Gmail ou [!DNL Exchange]
 * Pode ser personalizado se você quiser aumentar ou diminuir as configurações da recomendação para atender às suas necessidades
-* Limita apenas emails enviados pelo Gmail ou Exchange, não limita o canal de entrega personalizado
+* Apenas acelera emails enviados pelo Gmail ou [!DNL Exchange], não acelera o canal de entrega personalizado
 * A limitação da Conexão de email enfileira emails de cada usuário individual separadamente, pois cada usuário tem sua própria conexão com o provedor de email
 
 **Definindo as Configurações de Limitação da Conexão de Email**
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Em Configurações de administração, clique em **Geral**.
+1. Em [!UICONTROL Configurações de Administração], clique em **[!UICONTROL Geral]**.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. No cartão Limitação da conexão de email à direita, clique no controle deslizante **Habilitar limitação de email**.
+1. No cartão Limitação da conexão de email à direita, clique no controle deslizante **[!UICONTROL Habilitar limitação de email]**.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -49,15 +49,15 @@ Quando os limites são constantemente excedidos, isso pode ser visto às vezes c
 
    ![](assets/email-connection-throttling-5.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/email-connection-throttling-6.png)
 
-Com as alterações salvas, todos os usuários terão seus emails enviados em lotes para sua conta conectada do Gmail ou Exchange para entrega.
+Com as alterações salvas, todos os usuários terão seus emails enviados em lotes para a conta do Gmail ou do [!DNL Exchange] conectada para entrega.
 
 ## Limites do provedor de email {#email-provider-limits}
 
-**Outlook 365**
+**[!DNL Outlook 365]**
 
 Business/Empresa
 
@@ -75,7 +75,7 @@ Mais informações [podem ser encontradas aqui](https://docs.microsoft.com/en-us
 
 Mais informações [podem ser encontradas aqui](https://support.google.com/a/answer/166852?hl=en).
 
-**Microsoft Exchange Server (2010, 2013)**
+**[!DNL Microsoft Exchange Server (2010, 2013)]**
 
 Os limites são definidos pelo departamento de TI da organização, pois o servidor é hospedado por ela. Entre em contato com o administrador da rede ou do sistema, conforme aplicável, para obter mais informações.
 

@@ -3,10 +3,10 @@ description: Visão geral da pesquisa avançada - Documentação do Marketo - Do
 title: Visão geral da pesquisa avançada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 4%
+source-wordcount: '427'
+ht-degree: 2%
 
 ---
 
@@ -16,11 +16,11 @@ Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visuali
 
 ## Como acessar a pesquisa avançada {#how-to-access-advanced-search}
 
-1. No aplicativo Web, clique em **Centro de Comando**.
+1. No aplicativo Web, clique em **[!UICONTROL Centro de Comando]**.
 
    ![](assets/advanced-search-overview-1.png)
 
-1. Clique em **Emails**.
+1. Clique em **[!UICONTROL Emails]**.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -28,7 +28,7 @@ Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visuali
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Clique em Pesquisa avançada.
+1. Clique em [!UICONTROL Pesquisa Avançada].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -36,13 +36,13 @@ Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visuali
 
 **Data**
 
-Escolha o intervalo de datas da pesquisa. As datas predefinidas são atualizadas dependendo do status do email que você escolher (Enviado, Não entregue, Pendente).
+Escolha o intervalo de datas da pesquisa. Atualizações de datas predefinidas dependendo do status do email escolhido ([!UICONTROL Enviado], [!UICONTROL Não entregue], [!UICONTROL Pendente]).
 
 ![](assets/advanced-search-overview-5.png)
 
 **Quem**
 
-Filtre por destinatário/remetente de email na seção Quem.
+Filtrar por destinatário/remetente do email na seção [!UICONTROL Quem].
 
 ![](assets/advanced-search-overview-6.png)
 
@@ -52,22 +52,22 @@ Filtre por destinatário/remetente de email na seção Quem.
   <td><strong>Descrição</strong></td>
  </tr>
  <tr>
-  <td><strong>Exibir como</strong></td>
+  <td><strong>[!UICONTROL Exibir Como]</strong></td>
   <td>Filtrar por um remetente específico na instância do Sales Connect (essa opção está disponível somente para administradores).</td>
  </tr>
  <tr>
-  <td><strong>Por grupo</strong></td>
+  <td><strong>[!UICONTROL Por Grupo]</strong></td>
   <td>Filtre emails por um grupo específico de recipients.</td>
  </tr>
  <tr>
-  <td><strong>Por pessoa</strong></td>
+  <td><strong>[!UICONTROL Por Pessoa]</strong></td>
   <td>Filtrar por um recipient específico.</td>
  </tr>
 </table>
 
 **Quando**
 
-Escolha por data de criação, data de entrega, data de falha ou data programada. As opções disponíveis mudam, dependendo do status do email escolhido (Enviado, Não entregue, Pendente).
+Escolha por data de criação, data de entrega, data de falha ou data programada. As opções disponíveis mudam, dependendo do status do email escolhido ([!UICONTROL Enviado], [!UICONTROL Não entregue], [!UICONTROL Pendente]).
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -83,13 +83,13 @@ Há três status de email para escolher. As opções de tipo/atividade mudam com
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: Enviado**&#x200B;_
+_**Status: Enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
-Filtros de acordo com a atividade de email enviada. Você pode escolher exibições/sem exibições, cliques/sem cliques e/ou respostas/sem respostas.
+Filtros de acordo com a atividade de email enviada. Você pode escolher [!UICONTROL exibições]/[!UICONTROL nenhuma exibição], [!UICONTROL cliques]/[!UICONTROL nenhum clique] e/ou [!UICONTROL respostas]/[!UICONTROL nenhuma resposta].
 
-_&#x200B;**Status: Pendente**&#x200B;_
+_**Status: Pendente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -101,20 +101,20 @@ Filtra por todos os emails pendentes.
   <td><strong>Descrição</strong></td>
  </tr>
  <tr>
-  <td><strong>Programado</strong></td>
-  <td>Emails que foram agendados na janela de composição (Salesforce ou Web App), plug-ins de email ou uma campanha.</td>
+  <td><strong>[!UICONTROL Agendado]</strong></td>
+  <td>Emails que foram agendados na janela de composição (Salesforce ou o Aplicativo Web), em plug-ins de email ou em uma campanha.</td>
  </tr>
  <tr>
-  <td><strong>Rascunhos</strong></td>
+  <td><strong>[!UICONTROL Rascunhos]</strong></td>
   <td>Emails que estão atualmente em estado de rascunho. Os emails exigem uma linha de assunto e um recipient para serem salvos como rascunho.</td>
  </tr>
  <tr>
-  <td><strong>Em andamento</strong></td>
+  <td><strong>[!UICONTROL Em Andamento]</strong></td>
   <td>Emails que estão sendo enviados. Os emails não devem permanecer nesse estado por mais do que alguns segundos.</td>
  </tr>
 </table>
 
-_&#x200B;**Status: não entregue**&#x200B;_
+_**Status: não entregue**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -126,15 +126,15 @@ Filtra por emails que nunca foram entregues.
   <td><strong>Descrição</strong></td>
  </tr>
  <tr>
-  <td><strong>Falha</strong></td>
+  <td><strong>[!UICONTROL Falha]</strong></td>
   <td>Quando um email não é enviado pelo Sales Connect (motivos comuns incluem: emails sendo enviados para contatos com assinatura cancelada/bloqueados ou se houve um problema ao preencher os campos dinâmicos).</td>
  </tr>
  <tr>
-  <td><strong>Devolvido</strong></td>
+  <td><strong>[!UICONTROL Devolvido]</strong></td>
   <td>Um email é marcado como rejeitado quando for rejeitado pelo servidor do destinatário. Somente os emails enviados pelos servidores do Sales Connect serão mostrados aqui.</td>
  </tr>
  <tr>
-  <td><strong>Spam</strong></td>
+  <td><strong>[!UICONTROL Spam]</strong></td>
   <td>Quando o email foi marcado como spam (termo comum para email não solicitado) pelo recipient. Somente os emails enviados pelos servidores do Sales Connect serão mostrados aqui.</td>
  </tr>
 </table>
@@ -143,11 +143,11 @@ Filtra por emails que nunca foram entregues.
 
 Veja como criar uma pesquisa salva.
 
-1. Depois que todos os filtros estiverem implementados, clique em **Salvar Filtros Como**.
+1. Depois que todos os filtros estiverem implementados, clique em **[!UICONTROL Salvar Filtros Como]**.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. Dê um nome à sua pesquisa e clique em **Salvar**.
+1. Dê um nome à sua pesquisa e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/advanced-search-overview-14.png)
 

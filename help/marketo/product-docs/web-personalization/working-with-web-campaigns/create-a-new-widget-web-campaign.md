@@ -4,9 +4,9 @@ description: Criar uma nova campanha da Web do widget - Documentação do Market
 title: Criar uma nova campanha da Web do widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '629'
 ht-degree: 1%
 
 ---
@@ -17,15 +17,15 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 ## Criar uma campanha da Web do widget {#create-a-widget-web-campaign}
 
-1. Vá para **Campanhas da Web**.
+1. Vá para **[!UICONTROL Campanhas da Web]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Selecione **Criar Nova Campanha Da Web**.
+1. Selecione **[!UICONTROL Criar Nova Campanha Da Web]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Selecione o tipo de campanha **Widget**.
+1. Selecione o tipo de campanha **[!UICONTROL Widget]**.
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
    ![](assets/4.png)
 
-1. Clique em **Visualizar** para ver como a campanha da Web reagirá no site.
+1. Clique em **[!UICONTROL Visualizar]** para ver como a campanha da Web reagirá no site.
 
    ![](assets/preview.png)
 
@@ -63,11 +63,11 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Cor do widget</strong></td> 
-   <td colspan="1" rowspan="1"><p>Selecione a cor do widget em um gráfico de cores ou insira-a como um código de cor de RGB. Você também pode selecionar o nível de transparência do plano de fundo do widget, movendo a barra na parte inferior em ambas as direções.</p></td> 
+   <td colspan="1" rowspan="1"><p>Selecione a cor do widget em um gráfico de cores ou insira-a como um código de cor do RGB. Você também pode selecionar o nível de transparência do plano de fundo do widget, movendo a barra na parte inferior em ambas as direções.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Botão Widget</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Personalize o próprio botão do widget.<br>Seta: permite escolher entre vários ícones diferentes no menu suspenso direito. O menu suspenso esquerdo determina a cor.<br>Personalizado: insira a URL de qualquer imagem hospedada. Tipos de arquivos aceitos - .JPEG, .GIF (incluindo animados), .PNG, .APNG, .SVG, .BMP.<br>Texto: o widget pode ser texto - personalize sua cor, tamanho e fonte.</td> 
+   <td colspan="1" rowspan="1">Personalize o próprio botão do widget.<br>Seta: permite escolher entre vários ícones diferentes no menu suspenso direito. O menu suspenso esquerdo determina a cor.<br>Personalizado: insira a URL de qualquer imagem hospedada. Tipos de arquivo aceitos - .JPEG, .GIF (incluindo animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: o widget pode ser texto - personalize sua cor, tamanho e fonte.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Fixo
@@ -96,11 +96,11 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 >[!NOTE]
 >
->**Deseja testar A/B suas campanhas da Web?** Uma ou mais campanhas da Web podem ser [testadas A/B para obter os melhores resultados](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Com o recurso de Ajuste automático, a plataforma reconhece automaticamente as campanhas com melhor desempenho, continua com as campanhas de conversão mais altas e pausa as outras.
+>**Deseja testar A/B suas campanhas da Web?** Uma ou mais campanhas da Web podem ser [testadas A/B para obter os melhores resultados](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Com o recurso [!UICONTROL Ajuste automático], a plataforma reconhece automaticamente as campanhas com melhor desempenho, continua com as campanhas de conversão mais altas e pausa as outras.
 
 ## Editar uma campanha da Web {#edit-a-web-campaign}
 
-Na página Campanhas da Web, clique em **Editar** na campanha.
+Na página [!UICONTROL Campanhas da Web], clique em **[!UICONTROL Editar]** na campanha.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -114,13 +114,13 @@ Consulte [Clonar uma campanha da Web](/help/marketo/product-docs/web-personaliza
 
 ## Pré-visualizar uma campanha da Web {#preview-a-web-campaign}
 
-Na página Campanhas da Web, clique em **Visualizar** na campanha da Web que deseja visualizar
+Na página [!UICONTROL Campanhas da Web], clique em **[!UICONTROL Visualizar]** na campanha da Web que deseja visualizar
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Excluir uma campanha da Web {#delete-a-web-campaign}
 
-1. Na página Campanhas da Web, clique em **Excluir** na campanha da Web que deseja excluir.
+1. Na página [!UICONTROL Campanhas da Web], clique em **[!UICONTROL Excluir]** na campanha da Web que deseja excluir.
 
    ![](assets/widget-campaign-delete-hand.png)
 

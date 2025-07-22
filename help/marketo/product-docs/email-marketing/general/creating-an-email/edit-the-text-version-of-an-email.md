@@ -4,7 +4,7 @@ description: Editar a versão em texto de um email - Documentação do Marketo -
 title: Editar a versão de texto de um email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Editar a versão de texto de um email {#edit-the-text-version-of-an-email}
 
-Ao criar um email, você pode desejar que sua versão de texto seja redigida de forma diferente da versão de HTML. Por padrão, o Marketo copia automaticamente o conteúdo do texto de qualquer elemento rich text contido no email para a versão do texto. Veja como editá-lo.
+Ao criar um email, talvez você queira que sua versão de texto seja redigida de forma diferente da versão do HTML. Por padrão, o Marketo copia automaticamente o conteúdo do texto de qualquer elemento rich text contido no email para a versão do texto. Veja como editá-lo.
 
 >[!NOTE]
 >
 >Este não é um artigo sobre como criar um email somente texto. Para obter informações sobre isso, consulte [Criar um email somente texto](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. No editor de email, clique na guia **Texto** na parte inferior do email.
+1. No editor de email, clique na guia **[!UICONTROL Texto]** na parte inferior do email.
 
    ![](assets/one-5.png)
 
-1. Desmarque **Copiar automaticamente do HTML** para fazer alterações.
+1. Desmarque **[!UICONTROL Copiar automaticamente do HTML]** para fazer alterações.
 
    ![](assets/two-5.png)
 
@@ -31,7 +31,7 @@ Ao criar um email, você pode desejar que sua versão de texto seja redigida de 
 
    ![](assets/three-4.png)
 
-1. Faça suas edições. Depois de terminar, basta fechar o editor ou voltar para a versão do HTML. As alterações serão salvas automaticamente.
+1. Faça suas edições. Depois de concluir, basta fechar o editor ou voltar para a versão do HTML. As alterações serão salvas automaticamente.
 
    ![](assets/four-4.png)
 
@@ -41,4 +41,4 @@ Ao criar um email, você pode desejar que sua versão de texto seja redigida de 
 
 >[!CAUTION]
 >
->Selecionar **Copiar do HTML** ou remarcar **Copiar automaticamente do HTML** em emails com conteúdo dinâmico definirá o sinalizador Revisado como _true_ para todos os segmentos (produzindo a marca de seleção verde que indica que ele foi revisado) nas versões HTML e Texto do email. Se você executar qualquer uma das ações acima, verifique seu conteúdo novamente antes de enviar.
+>Selecionar **Copiar do HTML** ou remarcar **Copiar automaticamente do HTML** em emails com conteúdo dinâmico definirá o sinalizador Revisado como _true_ para todos os segmentos (produzindo a marca de seleção verde que indica que ele foi revisado) nas versões do email do HTML e do Text. Se você executar qualquer uma das ações acima, verifique seu conteúdo novamente antes de enviar.

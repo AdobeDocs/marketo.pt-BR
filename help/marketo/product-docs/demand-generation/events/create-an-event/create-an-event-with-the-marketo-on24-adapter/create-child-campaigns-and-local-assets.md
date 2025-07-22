@@ -4,7 +4,7 @@ description: Criar campanhas secundárias e Assets local — Documentação do M
 title: Criar campanhas secundárias e Assets local
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -73,25 +73,25 @@ Exemplos de campanhas filho são uma campanha por convite, uma campanha de regis
 
 >[!NOTE]
 >
->Se você estiver usando um formulário do Marketo em uma página de aterrissagem que não seja da Marketo, seu acionador será **Preenche o formulário** com o Nome do formulário.
+>Se você estiver usando um formulário do Marketo em uma página de aterrissagem que não seja da Marketo, seu acionador será **[!UICONTROL Preenche o formulário]** com o [!UICONTROL Nome do formulário].
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Fluxo**
 
-* **Alterar Status do Programa** - Defina como Webinar -> Registrado.
+* **[!UICONTROL Alterar Status do Programa]** - Defina como Webinar -> Registrado.
 
 Essa etapa do fluxo é necessária como a PRIMEIRA ETAPA DO FLUXO ao configurar sua campanha filho. Quando o status do programa de uma pessoa muda para Registrado, o Marketo envia as informações de registro para ON24. Nenhum outro status enviará a pessoa.
 
-* **Enviar Email** - Email de confirmação. Defina este email como **Operacional** para que as pessoas que cancelaram sua inscrição e que se registraram ainda o recebam.
+* **[!UICONTROL Enviar Email]** - Email de confirmação. Defina este email como **Operacional** para que as pessoas que cancelaram sua inscrição e que se registraram ainda o recebam.
 
-A etapa de fluxo **Enviar Email** DEVE ser a segunda etapa. O email de confirmação contém o `{{member.webinar url}}`, que é preenchido com informações enviadas de volta para o Marketo do ON24.
+A etapa de fluxo **[!UICONTROL Enviar Email]** DEVE ser a segunda etapa. O email de confirmação contém o `{{member.webinar url}}`, que é preenchido com informações enviadas de volta para o Marketo do ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->A ordem dessas etapas de fluxo é importante devido à ordem em que as ações são executadas no Marketo. A etapa **Alterar Status do Programa** envia a pessoa para ON24 para se registrar e uma URL exclusiva é gerada. Depois disso, você poderá enviar o email de confirmação que inclui essa URL exclusiva usando o token `{{member.webinar URL}}`.
+>A ordem dessas etapas de fluxo é importante devido à ordem em que as ações são executadas no Marketo. A etapa **[!UICONTROL Alterar Status do Programa]** envia a pessoa para ON24 para se registrar e uma URL exclusiva é gerada. Depois disso, você poderá enviar o email de confirmação que inclui essa URL exclusiva usando o token `{{member.webinar URL}}`.
 >
 >Se a pessoa retornar com um erro de registro, ela não receberá o email de confirmação.
 

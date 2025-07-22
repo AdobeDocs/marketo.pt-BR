@@ -4,10 +4,10 @@ description: Acionadores de conta - Documentação do Marketo - Documentação d
 title: Acionadores da conta
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ Selecione sua campanha inteligente e clique em **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
-Digite &quot;Conta nomeada&quot; na caixa de pesquisa para localizar os acionadores de Conta nomeada.
+Insira &quot;[!UICONTROL Conta Nomeada]&quot; na caixa de pesquisa para localizar os acionadores [!UICONTROL Conta Nomeada].
 
 ![](assets/two-1.png)
 
-Arraste o acionador desejado para a tela. Neste exemplo, estamos usando _Adicionado à Conta Nomeada_.
+Arraste o acionador desejado para a tela. Neste exemplo, estamos usando _[!UICONTROL Adicionado à Conta Nomeada]_.
 
 ![](assets/three-1.png)
 

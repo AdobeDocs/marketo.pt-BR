@@ -4,32 +4,32 @@ description: Implementação do RTP no Wordpress - Documentação do Marketo - D
 title: Implementação de RTP no Wordpress
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-# Implementação de RTP no Wordpress {#implementing-rtp-on-wordpress}
+# Implementando RTP em [!DNL Wordpress] {#implementing-rtp-on-wordpress}
 
-Para implementar sua tag RTP, siga as instruções de instalação abaixo:
+Para implementar sua [!UICONTROL tag RTP], siga as instruções de instalação abaixo:
 
-1. Abra o arquivo **header.php** do seu **tema do WordPress**.
+1. Abra o arquivo **header.php** do seu **[!DNL WordPress]tema**.
 
-   Você pode usar um cliente FTP para acessar seu servidor ou editar seus arquivos de tema diretamente do painel do WordPress. O editor de arquivos está localizado na guia **Aparência** do menu da barra lateral.
+   Você pode usar um cliente FTP para acessar seu servidor ou editar seus arquivos de tema diretamente do painel do [!DNL WordPress]. O editor de arquivos está localizado na guia **[!UICONTROL Aparência]** do menu da barra lateral.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. Na lista de arquivos de modelo à direita do editor de texto, encontre **header.php** e abra-o.
 
-1. Vá para **Configurações da conta**.
+1. Vá para **[!UICONTROL Configurações da conta]**.
 
    a. Se você já tiver recebido a tag do JavaScript do suporte, continue para a etapa 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. Em Domínio, localize o domínio relevante e clique em **Gerar Marca**.
+1. Em [!UICONTROL Domínio], localize o domínio relevante e clique em **[!UICONTROL Gerar Marca]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
@@ -39,8 +39,8 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
-1. Clique em **Atualizar arquivo** para o arquivo header.php.
+1. Clique em **[!UICONTROL Atualizar arquivo]** para o arquivo header.php.
 
 1. Verifique se ele aparece em todas as páginas, incluindo páginas de aterrissagem e subdomínios.
 
-   a. Você pode fazer isso clicando com o botão direito do mouse na página do site. Vá para **Exibir Página Source.** Procure por **RTP** para localizar a marca.
+   a. Você pode fazer isso clicando com o botão direito do mouse na página do site. Vá para **[!UICONTROL Exibir Página Source].** Procure por **RTP** para localizar a marca.

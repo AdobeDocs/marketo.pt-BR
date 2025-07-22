@@ -4,10 +4,10 @@ description: Criar e alterar exibições para listas e lista inteligente - Docum
 title: Criar e Alterar Exibições para Listas e Smart Lists
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Uma Smart List exibe um conjunto padrão de colunas. Você sabia que podia edita
 
 >[!TIP]
 >
->Para pesquisar rapidamente, use a caixa **Localizar**.
+>Para pesquisar rapidamente, use a caixa **[!UICONTROL Localizar]**.
 
 ## Alternar Exibições {#switch-views}
 

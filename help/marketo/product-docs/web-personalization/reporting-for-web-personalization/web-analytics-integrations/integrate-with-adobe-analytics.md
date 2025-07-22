@@ -4,9 +4,9 @@ description: Integração com o Adobe Analytics - Documentação do Marketo - Do
 title: Integrar ao Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '1059'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Introdução {#intro}
 
-Analise sua análise da Web de uma perspectiva B2B visualizando os dados de campanha da organização, do setor e do Marketo Real-Time Personalization (RTP) na sua conta do Adobe Analytics.
+Analise sua análise da web de uma perspectiva B2B visualizando os dados da campanha da organização, do setor e do [!DNL Marketo Real-Time Personalization] (RTP) em sua conta da Adobe Analytics.
 
-Este documento habilita a integração entre o Marketo Real-Time Personalization (RTP) e o Adobe Adobe Analytics. Os dados da RTP permitirão detectar e analisar tendências em todos os segmentos do setor e organizações que visitam seu site e medir a eficácia de suas campanhas RTP, fornecendo os insights e análises para obter os melhores resultados.
+Este documento habilita a integração entre o [!DNL Marketo Real-Time Personalization] (RTP) e o Adobe Adobe Analytics. Os dados da RTP permitirão detectar e analisar tendências em todos os segmentos do setor e organizações que visitam seu site e medir a eficácia de suas campanhas RTP, fornecendo os insights e análises para obter os melhores resultados.
 
 Você pode fazer isso observando métricas como os números de visitantes novos e recorrentes em cada segmento, analisando taxas de clique em campanhas e descobrindo quais setores, segmentos personalizados e campanhas em tempo real geraram os melhores leads de conversão. Aproveite essa capacidade para obter o máximo benefício da sua conta RTP.
 
-## AUDIENCE ANALYTICS RTP {#rtp-audience-analytics}
+## RTP AUDIENCE ANALYTICS {#rtp-audience-analytics}
 
 Com a integração RTP - AA, você tem uma nova dimensão na interface de análise da Web. O RTP melhora automaticamente seus painéis de análise da Web com:
 
@@ -62,9 +62,9 @@ A integração usa a API do JavaScript que o Adobe Analytics oferece. As variáv
 
 Conclua as etapas a seguir para configurar essas variáveis no AA:
 
-1. Vá para **Ferramentas administrativas** na sua conta do AA.
-1. Selecione o **Conjunto de relatórios** a ser usado com a integração.
-1. Em **Editar Configurações**, vá para **Conversão** e selecione **[Variáveis de Conversão](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+1. Vá para **[!UICONTROL Ferramentas administrativas]** na sua conta do AA.
+1. Selecione o **[!UICONTROL Conjunto de relatórios]** a ser usado com a integração.
+1. Em **[!UICONTROL Editar Configurações]**, vá para **[!UICONTROL Conversão]** e selecione **[[!UICONTROL Variáveis de Conversão]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
    Selecione o número da [Variável de conversão](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (recomendamos):
 
    1. Evar nº 20 para conversões personalizadas do setor
@@ -74,13 +74,13 @@ Conclua as etapas a seguir para configurar essas variáveis no AA:
    >
    >Se esses # forem usados, selecione outro número disponível. Alinhe esse número com o número do slot nas Configurações da conta RTP.
 
-   1. Alterar status para _Habilitado_.
+   1. Alterar Status para _[!UICONTROL Habilitado_].
 
       1. Altere o nome para **Setor** e **Organização**. (É assim que ele será exibido no Conjunto de relatórios.)
 
-      1. Altere o campo Expirar após para **Visita**.
+      1. Altere o campo Expirar após para **[!UICONTROL Visita]**.
 
-1. Em **Editar Configurações**, vá para **Conversão** e selecione **[Eventos Bem-sucedidos](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Em **[!UICONTROL Editar Configurações]**, vá para **[!UICONTROL Conversão]** e selecione **[[!UICONTROL Eventos Bem-sucedidos]](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
    1. Selecione o número do Evento bem-sucedido personalizado (recomendamos):
 
@@ -95,7 +95,7 @@ Conclua as etapas a seguir para configurar essas variáveis no AA:
 
    1. Selecione o campo Tipo para ser **Contador (sem sub-relações)**
 
-1. Em **Editar configurações**, vá para **[Tráfego](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** e selecione **[Variáveis de tráfego](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Em **[!UICONTROL Editar configurações]**, vá para **[Tráfego](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** e selecione **[Variáveis de tráfego](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selecione o número de propriedade da variável de tráfego (recomendamos):
 
@@ -110,21 +110,21 @@ Conclua as etapas a seguir para configurar essas variáveis no AA:
 
       1. Altere os 4 nomes de propriedade. Esse é o nome que aparecerá no Conjunto de relatórios.
 
-   1. Selecione o campo Habilitado como **Habilitado**.
+   1. Selecione o campo [!UICONTROL Habilitado] para **[!UICONTROL Habilitado]**.
 
-   1. Selecione o campo Relatórios de Caminho como **Habilitado**.
+   1. Selecione o campo [!UICONTROL Relatórios de Caminho] para **[!UICONTROL Habilitado]**.
 
-## Configurar no Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
+## Configurar em [!DNL Marketo Real-Time Personalization] (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. Na plataforma RTP, vá para **Configurações da conta**.
+1. Na plataforma RTP, vá para **[!UICONTROL Configurações da conta]**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Em **Configurações de conta**, clique em **Domínio**.
-1. Em **Analytics, clique** **Adobe Analytics**.
-1. Ative **em** as opções de alternância das variáveis Conversão, Personalizada e Tráfego.
+1. Em **[!UICONTROL Configurações de conta]**, clique em **[!UICONTROL Domínio]**.
+1. Em **[!UICONTROL Analytics]**, clique em **Adobe Analytics**.
+1. Ative **[!UICONTROL em]** as opções de alternância das variáveis Conversão, Personalizada e Tráfego.
 1. Atribua as Variáveis de conversão, evento e tráfego **números de slot** para corresponder aos números de slot criados em AA
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -134,20 +134,20 @@ Conclua as etapas a seguir para configurar essas variáveis no AA:
 >
 >**Variáveis de conversão**
 >
->* Conversões personalizadas do setor - Slot 20
->* Conversões Personalizadas da Organização - Slot 21
+>* [!UICONTROL Conversões Personalizadas do Setor] - Slot 20
+>* [!UICONTROL Conversões Personalizadas da Organização] - Slot 21
 >
 >**Eventos Personalizados**
 >
->* Evento personalizado de campanha - Slot 20
->* Evento personalizado de segmento - Slot 21
+>* [!UICONTROL Evento Personalizado de Campanha] - Slot 20
+>* [!UICONTROL Evento Personalizado de Segmento] - Slot 21
 >
 >**Variáveis de tráfego**
 >
->* Variável de tráfego da organização do segmento - Slot 20
->* Variável de tráfego do setor de segmento - Slot 21
->* Variável de tráfego da organização de campanha - Slot 22
->* Variável de tráfego do setor de campanha - Slot 23
+>* [!UICONTROL Variável de tráfego de organização de segmento] - Slot 20
+>* [!UICONTROL Variável de tráfego do segmento da indústria] - Slot 21
+>* [!UICONTROL Variável de tráfego da organização da campanha] - Slot 22
+>* [!UICONTROL Variável de Tráfego do Setor de Campanha] - Slot 23
 >
 >**Verifique se esses números de slot estão alinhados com os números de variáveis e eventos criados no AA.**
 
@@ -176,7 +176,7 @@ Exemplos de relatórios e painéis personalizados no AA incluem:
 
 Crie um [novo painel](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), chamado **Painel RTP**. Esse painel ajudará a entender o detalhamento dos visitantes de acordo com os segmentos verticais e RTP.
 
-1. Clique em **Painel,** clique em **Adicionar Painel**.
+1. Clique em **[!UICONTROL Painel],** clique em **[!UICONTROL Adicionar Painel]**.
 
 1. Nomeie o Painel **RTP Dashboard**.
 
@@ -186,11 +186,11 @@ Crie um [novo painel](https://microsite.omniture.com/t2/help/en_US/sc/user/t_das
 
 Adicionando o Reportlet de setores ao painel
 
-1. Vá para **Conversões personalizadas**, clique em **Setor**.
+1. Vá para **[!UICONTROL Conversões personalizadas]**, clique em **[!UICONTROL Setor]**.
 
 1. Configurar gráfico para **Gráfico de pizza**.
 
-1. Clique no **Painel**, adicione o **Reportlet**.
+1. Clique no **[!UICONTROL Painel]**, adicione o **[!UICONTROL Reportlet]**.
 
 1. Nomeie o relatório **Principais setores**.
 
@@ -200,11 +200,11 @@ Adicionando o Reportlet de setores ao painel
 
 Adicionar o reportlet de segmentos ao painel
 
-1. Ir para **Métricas do Site**. Clique em **Eventos Personalizados**, **Segmentos**.
+1. Ir para **[!UICONTROL Métricas do Site]**. Clique em **[!UICONTROL Eventos Personalizados]**, **[!UICONTROL Segmentos]**.
 
 1. Configurar gráfico para **barra vertical**.
 
-1. Clique no **Painel**, adicione o **Reportlet**.
+1. Clique no **[!UICONTROL Painel]**, adicione o **[!UICONTROL Reportlet]**.
 
 1. Nomeie o relatório **Principais segmentos**.
 
@@ -216,7 +216,7 @@ Seus reportlets serão exibidos no painel.
 
 ## Exibir impressões e cliques (conversões) no Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Clique em **Links Personalizados**.
+1. Clique em **[!UICONTROL Personalizar] Links**.
 
    ![](assets/sitecatalyst1-1.png)
 

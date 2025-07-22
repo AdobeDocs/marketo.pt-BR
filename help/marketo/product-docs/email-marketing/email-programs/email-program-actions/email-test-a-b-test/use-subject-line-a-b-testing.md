@@ -4,7 +4,7 @@ description: Use O Teste A/B De "Linha De Assunto" - Documentação Do Marketo -
 title: Use O Teste A/B "Linha De Assunto"
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Use O Teste A/B &quot;Linha De Assunto&quot; {#use-subject-line-a-b-testing}
 
-Você pode facilmente testar seus emails A/B. Um dos testes mais comuns é o teste **Linha de assunto**.
+Você pode facilmente testar seus emails A/B. Um dos testes mais comuns é o teste **[!UICONTROL Linha de assunto]**.
 
 >[!PREREQUISITES]
 >
 >[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. No bloco Email, com seu email selecionado, clique em Adicionar teste A/B.
+1. No **[!UICONTROL Bloco de emails]**, com seu email selecionado, clique em **[!UICONTROL Adicionar Teste A/B]**.
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -35,7 +35,7 @@ Você pode facilmente testar seus emails A/B. Um dos testes mais comuns é o tes
    >
    >Você pode clicar em **+** para adicionar mais linhas de assunto.
 
-1. Use o controle deslizante para escolher qual porcentagem do público-alvo você deseja receber o teste A/B e clique em **Avançar**.
+1. Use o controle deslizante para escolher qual porcentagem do público-alvo você deseja receber o teste A/B e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 

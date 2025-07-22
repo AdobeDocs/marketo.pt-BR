@@ -4,10 +4,10 @@ description: Uso de organizadores de campo - Documentação do Marketo - Documen
 title: Utilização de Organizadores de Campo
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,23 +25,23 @@ Os Organizadores de campo são usados na Análise de desempenho do modelo.
 
 ## Como criar organizadores de campo {#how-to-create-field-organizers}
 
-1. Clique em **Banco de Dados**.
+1. Clique em **[!UICONTROL Banco de Dados]**.
 
    ![](assets/db.png)
 
-1. Em **Novo**, selecione **Novo Organizador de Campos**.
+1. Em **[!UICONTROL Novo]**, selecione **[!UICONTROL Novo Organizador de Campos]**.
 
    ![](assets/two-1.png)
 
-1. Em **Campo**, selecione um atributo. A descrição é opcional.
+1. Em **[!UICONTROL Campo]**, selecione um atributo. A descrição é opcional.
 
    ![](assets/three-1.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Nomeie o grupo e insira os dados apropriados (isso dependerá do tipo de dados do campo selecionado). Clique em **Adicionar Grupo**.
+1. Nomeie o grupo e insira os dados apropriados (isso dependerá do tipo de dados do campo selecionado). Clique em **[!UICONTROL Adicionar Grupo]**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

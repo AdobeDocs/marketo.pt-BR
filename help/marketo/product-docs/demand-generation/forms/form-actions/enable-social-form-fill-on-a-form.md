@@ -6,7 +6,7 @@ exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
@@ -21,15 +21,15 @@ Permita que os visitantes preencham o formulário usando a rede social. Você ob
 >
 >Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Em **Formulário** **Configurações**, clique em **Configurações**.
+1. Em **[!UICONTROL Configurações de Formulário]**, clique em **[!UICONTROL Configurações]**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -41,11 +41,11 @@ Permita que os visitantes preencham o formulário usando a rede social. Você ob
    >
    >Veja o que _o Data Marketo capturará_ se as pessoas usarem os botões de redes sociais.
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

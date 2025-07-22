@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11382829
-description: Desinstalação do plug-in do Marketo Outlook pelo TI - Documentação do Marketo - Documentação do produto
-title: Desinstalação do plug-in do Marketo Outlook pela TI
+description: Desinstalação do Marketo [!DNL Outlook] Plugin pela TI - Documentação da Marketo - Documentação do produto
+title: Desinstalação do Marketo [!DNL Outlook] Plugin pela TI
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 2%
 
 ---
 
-# Desinstalação do plug-in do Marketo Outlook pela TI {#marketo-outlook-plugin-uninstall-by-it}
+# Desinstalação do plug-in do Marketo [!DNL Outlook] pela TI {#marketo-outlook-plugin-uninstall-by-it}
 
-Veja como o departamento de TI pode desinstalar o plug-in do Marketo Outlook remotamente.
+Veja como o departamento de TI pode desinstalar o Plug-in [!DNL Outlook] do Marketo remotamente.
 
 Execute a seguinte linha de comando como as as ‘System’ ou uma conta de usuário Administrativo com a opção /x para desinstalar.
 
@@ -47,6 +47,6 @@ Para especificar um local dos arquivos de log, especifique o caminho do arquivo 
 
 >[!CAUTION]
 >
->Desinstalar o plug-in remotamente forçará o fechamento do Outlook no computador do usuário.
+>Desinstalar o plug-in remotamente forçará o fechamento de [!DNL Outlook] no computador do usuário.
 
 Consulte [lista completa de opções da Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) se desejar experimentar níveis de log ou níveis de interface de usuário diferentes.

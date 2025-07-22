@@ -4,7 +4,7 @@ description: Aprovar, cancelar a aprovação ou excluir uma página de aterrissa
 title: Aprovar, cancelar aprovação ou excluir uma página de aterrissagem
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 4%
@@ -17,7 +17,7 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
 
 ## Aprovar uma landing page {#approve-a-landing-page}
 
-1. Selecione uma página de aterrissagem, vá para **Ações da página de aterrissagem** e clique em **Aprovar**.
+1. Selecione uma página de aterrissagem, vá para **[!UICONTROL Ações da página de aterrissagem]** e clique em **[!UICONTROL Aprovar]**.
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Você também pode clicar com o botão direito na sua página de aterrissagem e em **Aprovar**.
+1. Você também pode clicar com o botão direito na sua página de aterrissagem e em **[!UICONTROL Aprovar]**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,11 +35,11 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
 
 ## Cancelar aprovação de uma landing page {#unapprove-a-landing-page}
 
-1. Selecione uma página de aterrissagem, vá para **Ações da página de aterrissagem** e clique em **Cancelar aprovação**.
+1. Selecione uma página de aterrissagem, vá para **[!UICONTROL Ações da página de aterrissagem]** e clique em **[!UICONTROL Cancelar aprovação]**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Você também pode clicar com o botão direito do mouse na sua página de aterrissagem e clicar em **Cancelar aprovação**.
+1. Você também pode clicar com o botão direito do mouse na sua página de aterrissagem e clicar em **[!UICONTROL Cancelar aprovação]**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
@@ -49,7 +49,7 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
 
 ## Excluir uma landing page {#delete-a-landing-page}
 
-1. Selecione uma página de aterrissagem, vá para **Ações da página de aterrissagem** e clique em **Excluir**.
+1. Selecione uma página de aterrissagem, vá para **[!UICONTROL Ações da página de aterrissagem]** e clique em **[!UICONTROL Excluir]**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
    >
    >Não é possível excluir uma página aprovada. Cancelar sua provação primeiro.
 
-1. Você também pode clicar com o botão direito na sua página de aterrissagem e em **Excluir**.
+1. Você também pode clicar com o botão direito na sua página de aterrissagem e em **[!UICONTROL Excluir]**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ As landing pages estão no modo de rascunho até que você as aprove. A aprovaç
 
 Deseja excluir mais de uma página de aterrissagem por vez? Veja como.
 
-1. No Design Studio, clique em **Landing Pages**.
+1. No [!UICONTROL Design Studio], clique em **[!UICONTROL Páginas de Aterrissagem]**.
 
    ![](assets/one.png)
 
@@ -77,11 +77,11 @@ Deseja excluir mais de uma página de aterrissagem por vez? Veja como.
    >
    >Você também pode utilizar ctrl+clique para excluir várias páginas de aterrissagem que não são sequenciais.
 
-1. Clique no menu suspenso **Ações da página de aterrissagem** e selecione **Excluir**.
+1. Clique no menu suspenso **[!UICONTROL Ações da página de aterrissagem]** e selecione **[!UICONTROL Excluir]**.
 
    ![](assets/three.png)
 
-1. Clique em **Excluir**.
+1. Clique em **[!UICONTROL Excluir]**.
 
    ![](assets/four.png)
 

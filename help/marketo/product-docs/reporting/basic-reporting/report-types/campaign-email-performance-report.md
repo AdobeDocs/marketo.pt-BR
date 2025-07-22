@@ -4,10 +4,10 @@ description: Relatório de desempenho de email do Campaign - Documentação do M
 title: Relatório de desempenho de email da campanha
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 4%
 
 Para ver as estatísticas de desempenho de email agrupadas por [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), execute um relatório de Desempenho de Email da Campanha.
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **Desempenho do Email da Campanha** [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **[!UICONTROL Desempenho do Email da Campanha]** [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **Relatório**.
+1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **[!UICONTROL Relatório]**.
 
 1. Agora, explore o relatório para ver o desempenho de cada email em suas campanhas.
 
@@ -27,15 +27,15 @@ Para ver as estatísticas de desempenho de email agrupadas por [campanha intelig
    >
    >Clique no nome de um email para abri-lo no Pré-visualizador de email.
 
-   [As colunas que você pode selecionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)para um relatório de Desempenho de email da campanha incluem:
+   [As colunas que você pode selecionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho de email da campanha incluem:
 
    | Coluna | Descrição |
    |---|---|
-   | Devolvido permanentemente | O email foi rejeitado devido a uma condição permanente, como endereço de email inexistente. |
-   | Devolvido temporariamente | O email foi rejeitado devido a uma condição temporária, como um servidor inativo ou uma caixa de entrada cheia. |
-   | Pendente | O email ainda está em processo de entrega. |
-   | Link clicado | Número de destinatários de email que clicaram em um link no email. |
-   | Inscrição cancelada | Número de destinatários de email que clicaram no link **Cancelar inscrição** no email e preencheram o formulário. |
+   | [!UICONTROL Devolvido(s) Fortemente] | O email foi rejeitado devido a uma condição permanente, como endereço de email inexistente. |
+   | [!UICONTROL Devolvido(S) Temporariamente] | O email foi rejeitado devido a uma condição temporária, como um servidor inativo ou uma caixa de entrada cheia. |
+   | [!UICONTROL Pendente] | O email ainda está em processo de entrega. |
+   | [!UICONTROL Link clicado] | Número de destinatários de email que clicaram em um link no email. |
+   | [!UICONTROL Cancelamento de assinatura] | Número de destinatários de email que clicaram no link **[!UICONTROL Cancelar inscrição]** no email e preencheram o formulário. |
 
    >[!NOTE]
    >

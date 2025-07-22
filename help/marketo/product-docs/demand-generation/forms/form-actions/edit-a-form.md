@@ -4,7 +4,7 @@ description: Editar um formulário - Documentação do Marketo - Documentação 
 title: Editar um formulário
 exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se você quiser fazer alterações em um formulário existente, veja a seguir como iniciar o processo.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/editform.png)
 

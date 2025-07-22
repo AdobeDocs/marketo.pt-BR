@@ -4,7 +4,7 @@ description: Adicionar uma visualização móvel para sua página de aterrissage
 title: Adicionar uma visualização móvel para sua página de aterrissagem de forma livre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >A visualização móvel funciona em telas com 480 px de largura (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre resoluções de dispositivo](https://www.mydevice.io/).
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,15 +27,15 @@ ht-degree: 2%
 
    ![](assets/choose-landing-page.jpg)
 
-1. Clique em **Editar rascunho**.
+1. Clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Clique na guia **Mobile**.
+1. Clique na guia **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. Clique em **Ativar**.
+1. Clique em **[!UICONTROL Ativar]**.
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
@@ -43,7 +43,7 @@ ht-degree: 2%
    >
    >Talvez seja necessário atualizar o modelo de forma livre. Se você vir essa mensagem, leia rapidamente sobre como [tornar compatível um modelo de página de aterrissagem de forma livre existente para dispositivos móveis](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Ótimo! Você ativou a versão móvel da página de aterrissagem. Clique em **Fechar**.
+1. Ótimo! Você ativou a versão móvel da página de aterrissagem. Clique em **[!UICONTROL Fechar]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

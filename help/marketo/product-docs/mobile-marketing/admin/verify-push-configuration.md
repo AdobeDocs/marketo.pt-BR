@@ -4,7 +4,7 @@ description: Verificar configuração por push - Documentação do Marketo - Doc
 title: Verificar configuração de push
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 7%
@@ -19,11 +19,11 @@ ht-degree: 7%
 
 Verifique a configuração de push para garantir que tudo esteja sincronizado corretamente.
 
-1. Clique em **Admin**.
+1. Clique em **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecione **Aplicativos móveis**.
+1. Selecione **[!UICONTROL Aplicativos móveis]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +31,11 @@ Verifique a configuração de push para garantir que tudo esteja sincronizado co
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Clique em **Ações do Aplicativo Móvel** e selecione **Verificar Configuração de Push**.
+1. Clique em **[!UICONTROL Ações do Aplicativo Móvel]** e selecione **[!UICONTROL Verificar Configuração de Push]**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Confirme se as plataformas desejadas foram lidas e clique em **Fechar**.
+1. Confirme se as plataformas desejadas foram lidas e clique em **[!UICONTROL Fechar]**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

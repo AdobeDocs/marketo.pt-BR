@@ -4,9 +4,9 @@ description: Noções básicas sobre programas de evento - Documentação do Mar
 title: Noções básicas sobre programas de evento
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Visão geral {#overview}
 
@@ -25,7 +25,7 @@ Um programa de evento é um tipo de programa que pode ser usado para automatizar
 >
 >**Exemplo**
 >
->* Webinars
+>* Webinários
 >* Partes
 >* Feiras de Negócios
 >* Encontros
@@ -36,4 +36,4 @@ Os eventos podem se conectar automaticamente ao seu [provedor de webinário](/he
 >
 >* [Criar um Novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [Parceiros de Eventos do LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [[!DNL LaunchPoint] Parceiros de Eventos](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

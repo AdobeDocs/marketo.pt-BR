@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360020
-description: Exportar um relatório para o Excel - Documentação do Marketo - Documentação do produto
-title: Exportar um relatório para o Excel
+description: Exportar um relatório para  [!DNL Excel] - Documentação do Marketo - Documentação do produto
+title: Exportar um relatório para  [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Exportar um relatório para o Excel {#export-a-report-to-excel}
+# Exportar um relatório para [!DNL Excel] {#export-a-report-to-excel}
 
-É possível exportar qualquer relatório para um arquivo do Excel para trabalhar com os dados em outro software.
+É possível exportar qualquer relatório para um arquivo [!DNL Excel], para trabalhar com os dados em outro software.
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório**.
+1. Selecione seu relatório na árvore de navegação e clique na guia **[!UICONTROL Relatório]**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Clique no botão **Exportar**.
+1. Clique no botão **[!UICONTROL Exportar]**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   Isso é tudo! O navegador solicita que você salve o arquivo do Excel no sistema.
+   Isso é tudo! O navegador solicita que você salve o arquivo [!DNL Excel] no sistema.
 
    >[!MORELIKETHIS]
    >

@@ -4,7 +4,7 @@ description: Aprovar várias páginas de aterrissagem de uma só vez - Documenta
 title: Aprovar várias páginas de aterrissagem de uma vez
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Aprovar várias páginas de aterrissagem de uma vez {#approve-multiple-landing-pages-at-once}
 
-1. Vá para o **Design Studio**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
-1. Clique em **Landing Pages**.
+1. Clique em **[!UICONTROL Landing Pages]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-2.png)
 

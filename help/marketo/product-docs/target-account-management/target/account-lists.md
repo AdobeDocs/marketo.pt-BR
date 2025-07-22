@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
-description: Listas de contas - Documentação do Marketo - Documentação do produto
-title: Listas de contas
+description: '[!UICONTROL Listas de contas] - Documentação do Marketo - Documentação do produto'
+title: '[!UICONTROL Listas de contas]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 1%
 
 ---
 
-# Listas de contas {#account-lists}
+# [!UICONTROL Listas de contas] {#account-lists}
 
 Uma lista de contas é uma coleção de contas nomeadas que podem ser segmentadas juntas. As listas de contas permitem que você direcione contas nomeadas por setor, local ou tamanho da empresa.
 
@@ -21,15 +21,15 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 
 >[!NOTE]
 >
->As listas de contas criadas no Gerenciamento de Contas do Marketo Target são disponibilizadas automaticamente ao criar listas inteligentes e campanhas da Web no [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Listas de contas criadas no [!UICONTROL Gerenciamento de Contas do Marketo] ficam disponíveis automaticamente ao criar listas inteligentes e campanhas da Web no [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Criar uma nova lista de contas {#create-a-new-account-list}
 
-1. Clique no menu suspenso **Novo** e selecione **Criar nova lista de contas**.
+1. Clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Criar nova lista de contas]**.
 
    ![](assets/1a.png)
 
-1. Dê um nome à sua lista e clique em **Criar**.
+1. Dê um nome à sua lista e clique em **[!UICONTROL Criar]**.
 
    ![](assets/three-0.png)
 
@@ -41,7 +41,7 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 
 ## Criar uma nova lista de contas dinâmicas {#create-a-new-dynamic-account-list}
 
-1. Clique no menu suspenso **Novo** e selecione **Criar Nova Lista Dinâmica**.
+1. Clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Criar Nova Lista Dinâmica]**.
 
    ![](assets/1.png)
 
@@ -49,7 +49,7 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 
    ![](assets/image2017-7-18-9-48-23.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/step4.jpg)
 
@@ -63,11 +63,11 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 >
 >Essas etapas se aplicam somente às listas de contas. As listas de contas _Dinâmicas_ usam o nome de seus Modos de Exibição de Conta do CRM associados.
 
-1. Selecione a conta que deseja renomear, clique no menu suspenso **Ações da Lista de Contas** e selecione **Renomear Lista de Contas**.
+1. Selecione a conta que deseja renomear, clique no menu suspenso **[!UICONTROL Ações da Lista de Contas]** e selecione **[!UICONTROL Renomear Lista de Contas]**.
 
    ![](assets/three.png)
 
-1. Insira o novo nome e clique em **Renomear**.
+1. Insira o novo nome e clique em **[!UICONTROL Renomear]**.
 
    ![](assets/four.png)
 
@@ -81,15 +81,15 @@ Além das listas de contas, você também pode criar listas de contas dinâmicas
 >
 >Essas etapas são as mesmas para listas de contas e listas de contas dinâmicas.
 
-1. Selecione a conta que deseja excluir, clique no menu suspenso **Ações da Lista de Contas** e selecione **Excluir Lista de Contas**.
+1. Selecione a conta que deseja excluir, clique no menu suspenso **[!UICONTROL Ações da Lista de Contas]** e selecione **[!UICONTROL Excluir Lista de Contas]**.
 
    ![](assets/five.png)
 
-1. Clique em **Excluir**.
+1. Clique em **[!UICONTROL Excluir]**.
 
    ![](assets/six.png)
 
 >[!MORELIKETHIS]
 >
->* [Adicionar uma Conta Nomeada Existente a uma Lista de Contas](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Adicionar uma [!UICONTROL Conta Nomeada] Existente a uma Lista de Contas](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Insights da lista de contas](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

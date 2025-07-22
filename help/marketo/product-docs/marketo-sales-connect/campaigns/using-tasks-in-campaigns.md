@@ -4,9 +4,9 @@ description: Uso de tarefas em campanhas - Documentação do Marketo - Documenta
 title: Uso de Tarefas em Campanhas
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Você também pode transformar uma &quot;Tarefa para enviar email&quot; em um co
 
 As tarefas serão sempre associadas a cada indivíduo na campanha. Isso significa que você precisa entrar em cada pessoa e fechar a tarefa para que sua campanha individual continue.
 
-É possível gerenciar as tarefas no: na guia Tasks do Campaign no Campaigns 2.0, diretamente do Command Center ou da seção Tasks do Live Feed. Além disso, você também pode gerenciar suas tarefas no Salesforce.
+É possível gerenciar as tarefas no: na guia Tasks do Campaign no Campaigns 2.0, diretamente do Command Center ou da seção Tasks do Live Feed. Além disso, você também pode gerenciar suas tarefas no [!DNL Salesforce].

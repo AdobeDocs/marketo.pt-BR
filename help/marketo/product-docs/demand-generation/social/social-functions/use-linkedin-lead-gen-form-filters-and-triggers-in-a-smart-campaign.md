@@ -4,7 +4,7 @@ description: Usar filtros e acionadores de formulário do líder do LinkedIn em 
 title: Usar filtros e acionadores de formulário do líder do LinkedIn em uma campanha inteligente
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Depois de habilitar o LinkedIn Lead Gen Forms, você pode usá-los como filtros 
 >
 >Quando as pessoas enviam suas informações em um Formulário do líder do LinkedIn, essas informações são enviadas para o Marketo imediatamente, disponibilizando o formulário no menu suspenso Nome do formulário do líder. Os nomes dos formulários não estarão visíveis até que pelo menos uma pessoa tenha enviado o formulário.
 
-1. Use o acionador **Preencher o Formulário de geração de lead do LinkedIn** para executar uma ação imediatamente ou o filtro **Formulário de geração de lead do LinkedIn** para campanhas em lote agendadas ou filtragem de lista inteligente padrão.
+1. Use o acionador **[!UICONTROL Preencher o Formulário de geração de lead do LinkedIn]** para executar uma ação imediatamente ou o filtro **[!UICONTROL Formulário de geração de lead do LinkedIn]** para campanhas em lote agendadas ou filtragem de lista inteligente padrão.
 
    ![](assets/use-linkedin-lead-gen-form-filters-and-triggers-1.png)
 

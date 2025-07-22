@@ -4,7 +4,7 @@ description: Criar um novo modelo de receita - Documentação do Marketo - Docum
 title: Criar um novo modelo de receita
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Criar um novo modelo de receita {#create-a-new-revenue-model}
 
-1. Para criar um novo Modelo de ciclo de receita, clique no botão **Analytics** na tela inicial do My Marketo.
+1. Para criar um novo Modelo de Ciclo de Receita, clique no botão **[!UICONTROL Analytics]** na tela inicial do [!UICONTROL My Marketo].
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Na guia **Analytics**, clique em **Novo** e selecione **Novo modelo de ciclo de receita**.
+1. Na guia **[!UICONTROL Analytics]**, clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo modelo de ciclo de receita]**.
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. Uma janela modal **Novo Modelo de ciclo de receita** é exibida. Insira um nome e clique em **Criar**.
+1. Uma janela modal **[!UICONTROL Novo Modelo de ciclo de receita]** é exibida. Insira um nome e clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. Clique em **Editar rascunho** na exibição inicial do seu modelo.
+1. Clique em **[!UICONTROL Editar rascunho]** na exibição inicial do seu modelo.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 

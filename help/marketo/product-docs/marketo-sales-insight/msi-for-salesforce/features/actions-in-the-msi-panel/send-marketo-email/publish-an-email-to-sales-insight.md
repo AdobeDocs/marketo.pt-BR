@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2949718
-description: Publish e e-mail para o Sales Insight - Documentação do Marketo - Documentação do produto
-title: Publish e email para o Sales Insight
+description: Publicar um email no Sales Insight - Marketo Docs - Documentação do produto
+title: Publicar um email no Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '199'
 ht-degree: 1%
 
 ---
 
-# Publish e email para o Sales Insight {#publish-an-email-to-sales-insight}
+# Publicar um email em [!DNL Sales Insight] {#publish-an-email-to-sales-insight}
 
-Ative a configuração Publish para Insight de vendas para disponibilizar um email para sua equipe de vendas no Insight de vendas, bem como no Suplemento Outlook e Gmail. Você também pode fornecer uma data de expiração.
+Habilite a configuração Publicar em [!DNL Sales Insight] para disponibilizar um email para sua equipe de vendas no [!DNL Sales Insight] e também no [!DNL Outlook] e no Suplemento Gmail. Você também pode fornecer uma data de expiração.
 
-1. Encontre seu email, selecione-o e clique em **Editar Rascunho**.
+1. Encontre seu email, selecione-o e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/one.png)
 
-1. Assim que o editor for aberto, clique em **Configurações de email**.
+1. Assim que o editor for aberto, clique em **[!UICONTROL Configurações de email]**.
 
    ![](assets/two.png)
 
-1. Verifique o **Publish para o Marketo Sales Insight**.
+1. Marque **[!UICONTROL Publicar no Marketo Sales Insight]**.
 
    ![](assets/three.png)
 
-1. Para definir uma data de expiração (opcional), marque **Definir expiração** e escolha uma data.
+1. Para definir uma data de expiração (opcional), marque **[!UICONTROL Definir expiração]** e escolha uma data.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Às 23h59 (CST) da data de expiração (se você definir uma), o email disponibilizado desaparecerá do Sales Insight, bem como de qualquer um de seus suplementos. É claro que ele ainda estará acessível no Marketo.
+   >Às 23h00 (CST) da data de expiração (se você definir uma), o email que você disponibilizou desaparecerá de :59, bem como de qualquer um de seus suplementos. [!DNL Sales Insight] É claro que ele ainda estará acessível no Marketo.
 
-1. Clique em **Salvar**.
+1. Clique em **[!DNL Save]**.
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ Excelente! Agora você sabe como disponibilizar emails para a equipe de vendas e
 
 >[!NOTE]
 >
->[Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) não serão resolvidos ao enviar um email do Sales Insight no Microsoft Dynamics ou no Salesforce; somente os tokens padrão serão preenchidos (Lead, Empresa, etc.). No entanto, os valores padrão para tokens funcionarão.
+>[Meus Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) não resolverá ao enviar um email de [!DNL Sales Insight] no [!DNL Microsoft Dynamics] ou [!DNL Salesforce]; somente os tokens padrão serão preenchidos (Cliente Potencial, Empresa, etc.). No entanto, os valores padrão para tokens funcionarão.
 
 >[!TIP]
 >

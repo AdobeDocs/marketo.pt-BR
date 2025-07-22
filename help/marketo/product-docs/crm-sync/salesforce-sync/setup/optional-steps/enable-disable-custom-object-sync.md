@@ -4,9 +4,9 @@ description: Ativar/desativar a sincronização de objetos personalizados - Docu
 title: Habilitar/Desabilitar a Sincronização de Objetos Personalizados
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    >[!NOTE]
    >
-   >A sincronização do esquema do objeto personalizado do Salesforce pode levar alguns minutos.
+   >A sincronização do esquema do objeto personalizado [!DNL Salesforce] pode levar alguns minutos.
 
 1. Clique em **[!UICONTROL Atualizar Esquema]**.
 
@@ -49,7 +49,7 @@ Os objetos personalizados criados na instância do Salesforce também podem faze
 
    >[!TIP]
    >
-   >O Marketo só pode sincronizar um objeto personalizado se tiver uma relação direta com o objeto Cliente potencial, Contato ou Conta no Salesforce.
+   >O Marketo só pode sincronizar um objeto personalizado se tiver uma relação direta com o objeto Cliente Potencial, Contato ou Conta em [!DNL Salesforce].
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 

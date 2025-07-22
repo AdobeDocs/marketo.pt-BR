@@ -4,7 +4,7 @@ description: Adição de um novo dispositivo de teste - Documentação do Market
 title: Adicionando um novo dispositivo de teste
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 1%
@@ -19,11 +19,11 @@ ht-degree: 1%
 >
 >**Permissões de administrador necessárias**
 
-1. Clique em **Admin** e depois no link **Aplicativos para dispositivos móveis**.
+1. Clique em **[!UICONTROL Admin]** e depois no link **[!UICONTROL Aplicativos para dispositivos móveis]**.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Clique na guia **Dispositivos de Teste** e **Novo Dispositivo de Teste**.
+1. Clique na guia **[!UICONTROL Dispositivos de Teste]** e **[!UICONTROL Novo Dispositivo de Teste]**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. O aplicativo abre. Nomeie o dispositivo e toque em **Sim**.
+1. O aplicativo abre. Nomeie o dispositivo e toque em **[!UICONTROL Sim]**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 

@@ -3,38 +3,38 @@ description: Ativar o CAPTCHA no Marketo Forms - Documentação do Marketo - Doc
 title: Ativar CAPTCHA no Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Ativar CAPTCHA no Marketo Forms {#enable-captcha-in-marketo-forms}
 
-Você pode ativar/desativar o CAPTCHA por formulário.
+Você pode habilitar/desabilitar o [!UICONTROL CAPTCHA] por formulário.
 
 1. Localize e selecione o formulário desejado.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Clique em **Editar rascunho** (se o formulário já estiver aprovado, clique em Criar rascunho).
+1. Clique em **[!UICONTROL Editar rascunho]** (se o formulário já estiver aprovado, clique em [!UICONTROL Criar rascunho]).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Clique em **Configurações de Formulário** e depois em **Configurações**.
+1. Clique em **[!UICONTROL Configurações de Formulário]** e depois em **[!UICONTROL Configurações]**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. Abra o menu suspenso CAPTCHA e selecione **Habilitado**.
+1. Abra o menu suspenso **[!UICONTROL CAPTCHA]** e selecione **[!UICONTROL Habilitado]**.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 

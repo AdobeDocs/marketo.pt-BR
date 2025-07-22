@@ -4,7 +4,7 @@ description: Criar um relatório de desempenho de pessoas com colunas de platafo
 title: Criar um relatório de desempenho de pessoas com colunas da plataforma móvel
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Criar listas inteligentes para dispositivos móveis {#create-mobile-smart-lists}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
@@ -25,35 +25,35 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
    ![](assets/two-1.png)
 
-1. Em **Novo**, selecione **Novo ativo local**.
+1. Em **[!UICONTROL Novo]**, selecione **[!UICONTROL Novo ativo local]**.
 
    ![](assets/three-1.png)
 
-1. Clique em **Smart List**.
+1. Clique em **[!UICONTROL Smart List]**.
 
    ![](assets/four-1.png)
 
-1. Digite um nome e clique em **Criar**.
+1. Digite um nome e clique em **[!UICONTROL Criar]**.
 
    ![](assets/five-1.png)
 
-1. Localize e arraste o filtro Email aberto para a tela.
+1. Localize e arraste o filtro [!UICONTROL Email aberto] para a tela.
 
    ![](assets/six-1.png)
 
-1. Definir Email como **é qualquer**.
+1. Definir Email como **[!UICONTROL é qualquer]**.
 
    ![](assets/seven.png)
 
-1. Clique em **Adicionar restrição** e selecione **Plataforma**.
+1. Clique em **[!UICONTROL Adicionar restrição]** e selecione **[!UICONTROL Plataforma]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Usamos o filtro Email aberto neste exemplo. Você também pode usar o filtro de Email clicado, pois ele tem a restrição Plataforma.
+   >Usamos o filtro [!UICONTROL Emails abertos] neste exemplo. Você também pode usar o filtro [!UICONTROL Email clicado], pois ele tem a restrição Plataforma.
 
-1. Defina Plataforma como **iOS**.
+1. Defina [!UICONTROL Plataforma] como **[!UICONTROL iOS]**.
 
    ![](assets/nine.png)
 
@@ -65,23 +65,23 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Criar um Relatório de Desempenho de Pessoas {#create-a-people-performance-report}
 
-1. Em Atividades de marketing, selecione o programa que está hospedando suas listas inteligentes do **iOS** e do **Android**.
+1. Em Atividades de marketing, selecione o programa que está hospedando suas listas inteligentes do **[!UICONTROL iOS]** e do **[!UICONTROL Android]**.
 
    ![](assets/ten.png)
 
-1. Em **Novo**, selecione **Novo ativo local**.
+1. Em **[!UICONTROL Novo]**, selecione **[!UICONTROL Novo ativo local]**.
 
    ![](assets/eleven.png)
 
-1. Clique em **Relatório**.
+1. Clique em **[!UICONTROL Relatório]**.
 
    ![](assets/twelve.png)
 
-1. Defina o Tipo como **Desempenho de pessoas**.
+1. Defina o Tipo como **[!UICONTROL Desempenho de pessoas]**.
 
    ![](assets/thirteen.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/fourteen.png)
 
@@ -89,7 +89,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Adicionar Smart Lists para dispositivos móveis como colunas {#add-mobile-smart-lists-as-columns}
 
-1. No relatório que acabou de criar, clique em **Configurar** e arraste **Colunas personalizadas** para a tela.
+1. No relatório que acabou de criar, clique em **[!UICONTROL Configurar]** e arraste **[!UICONTROL Colunas personalizadas]** para a tela.
 
    ![](assets/fifteen.png)
 
@@ -97,11 +97,11 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
    >
    >Por padrão, o relatório de desempenho de pessoas está analisando os Últimos 7 dias. Você pode alterar o período de tempo clicando duas vezes nele.
 
-1. Localize e selecione as listas inteligentes criadas anteriormente e clique em **Aplicar**.
+1. Localize e selecione as listas inteligentes criadas anteriormente e clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/sixteen.png)
 
-1. Clique em **Relatório** para executar o relatório e ver seus dados.
+1. Clique em **[!UICONTROL Relatório]** para executar o relatório e ver seus dados.
 
    ![](assets/seventeen.png)
 

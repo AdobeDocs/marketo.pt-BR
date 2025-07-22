@@ -4,7 +4,7 @@ description: Entendendo todo o conteúdo - Documentação do Marketo - Documenta
 title: Entender todo o conteúdo
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -19,12 +19,12 @@ A página Todo o conteúdo exibe todo o conteúdo que foi descoberto ou adiciona
 
 Os campos de página incluem:
 
-* **Título**: o nome do conteúdo
-* **Categorias**: criadas por você e usadas para agrupar seus resultados preditivos para email ou Web
-* **Exibições**: total de cliques no conteúdo da Web descoberto (incluindo todas as fontes)
-* **Conversões**: o número de visitantes que visualizaram um conteúdo e preencheram um formulário na mesma visita
-* **Taxa de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques
-* **Aprovar para preditiva**: o ícone exibe se o conteúdo é aprovado
+* **[!UICONTROL Título]**: o nome do conteúdo
+* **[!UICONTROL Categorias]**: criadas por você e usadas para agrupar seus resultados preditivos para email ou Web
+* **[!UICONTROL Exibições]**: total de cliques no conteúdo da Web descoberto (incluindo todas as fontes)
+* **[!UICONTROL Conversões]**: o número de visitantes que visualizaram um conteúdo e preencheram um formulário na mesma visita
+* **[!UICONTROL Taxa de conversão]**: uma porcentagem calculada por conversões diretas divididas por cliques
+* **[!UICONTROL Aprovar para preditiva]**: o ícone exibe se o conteúdo é aprovado
 
 Você pode adicionar um novo conteúdo e rastreá-lo, remover um conteúdo ou aprovar um conteúdo. Após aprovar o conteúdo, você pode editá-lo na página Conteúdo preditivo.
 
@@ -32,7 +32,7 @@ Você pode adicionar um novo conteúdo e rastreá-lo, remover um conteúdo ou ap
 
 Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a data ou o intervalo de datas para a análise de conteúdo, usando configurações padrão ou personalizadas.
 
-1. Na página **Todo o Conteúdo**, clique no ícone de filtro e, em **Categoria**, selecione uma ou mais categorias de conteúdo.
+1. Na página **[!UICONTROL Todo o Conteúdo]**, clique no ícone de filtro e, em **[!UICONTROL Categoria]**, selecione uma ou mais categorias de conteúdo.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -42,7 +42,7 @@ Filtre o conteúdo selecionando uma ou mais categorias. Em seguida, configure a 
 
 ## Exibir análises para uma data ou um intervalo de datas {#display-analytics-for-a-date-or-date-range}
 
-1. Para exibir dados de uma data ou intervalo de datas específico, clique no ícone de calendário e selecione no painel esquerdo. Para um intervalo de datas personalizado, clique no primeiro e no último dia do intervalo de datas no calendário (como mostrado). Clique em **Aplicar**.
+1. Para exibir dados de uma data ou intervalo de datas específico, clique no ícone de calendário e selecione no painel esquerdo. Para um intervalo de datas personalizado, clique no primeiro e no último dia do intervalo de datas no calendário (como mostrado). Clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 

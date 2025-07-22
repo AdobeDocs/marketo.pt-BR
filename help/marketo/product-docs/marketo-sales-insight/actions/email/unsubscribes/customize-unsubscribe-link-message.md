@@ -3,9 +3,9 @@ description: Personalizar mensagem de link de cancelamento de inscrição - Docu
 title: Personalizar mensagem do link de cancelamento de inscrição
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
 
 >[!NOTE]
 >
->Não é possível usar um link de cancelamento de inscrição de terceiros com o Marketo Sales, pois essas informações não serão capturadas no nosso banco de dados.
+>Não é possível usar um link de cancelamento de inscrição de terceiros com [!DNL Marketo Sales], pois essas informações não serão capturadas no nosso banco de dados.
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Em Configurações do administrador, clique em **Cancelar assinatura**.
+1. Em [!UICONTROL Configurações de Administração], clique em **[!UICONTROL Cancelar Assinaturas]**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
    >
    >Não importa o URL inserido. Quando o email é enviado, o primeiro (ou único) hiperlink é vinculado automaticamente à página de cancelamento de inscrição padrão.
 
-1. Insira uma URL, determine se deseja que o link seja aberto na janela atual ou em uma nova janela e clique em **Salvar**.
+1. Insira uma URL, determine se deseja que o link seja aberto na janela atual ou em uma nova janela e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Clique em **Salvar** na parte inferior para salvar as alterações.
+1. Clique em **[!UICONTROL Salvar]** na parte inferior para salvar as alterações.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

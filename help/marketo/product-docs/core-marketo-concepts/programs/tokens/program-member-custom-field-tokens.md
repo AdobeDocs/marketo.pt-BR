@@ -4,7 +4,7 @@ description: Tokens de campo personalizado de membros do programa - Documentaç�
 title: Tokens de campo personalizado de membros do programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 2%
@@ -93,7 +93,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Localize e selecione o Token do campo personalizado de membro do programa desejado. Insira um valor padrão e clique em Insert.
+1. Localize e selecione o Token do campo personalizado de membro do programa desejado. Insira um [!UICONTROL valor padrão] e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

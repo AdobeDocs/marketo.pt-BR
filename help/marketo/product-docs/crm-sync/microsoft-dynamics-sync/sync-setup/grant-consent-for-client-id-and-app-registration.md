@@ -3,9 +3,9 @@ description: Conceder consentimento para registro da ID do cliente e do aplicati
 title: Conceder consentimento para a ID do cliente e o registro do aplicativo
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Siga as etapas abaixo para saber como conceder o consentimento/as permissões ne
 
 ## Conceder permissões de usuário delegado para o usuário de sincronização {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. Use um programa de texto limpo (Bloco de notas para Windows, Edição de texto para Mac) para criar um URI (Uniform Resource Identifier) para autorização, colando o texto abaixo e substituindo os valores client_id, redirect_uri e state.
+1. Use um programa de texto limpo (Bloco de Notas para Windows, Edição de Texto para Mac) para criar um URI (Uniform Resource Identifier) de autorização, colando o texto abaixo e substituindo os valores `client_id`, `redirect_uri` e `state`.
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -75,7 +75,7 @@ Como administrador, você também pode consentir com as permissões delegadas de
 
 1. No portal do Azure, navegue até a página inicial do aplicativo.
 
-1. Em Gerenciar, clique em **[!UICONTROL Permissões de API]**.
+1. Em [!UICONTROL Gerenciar], clique em **[!UICONTROL Permissões de API]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

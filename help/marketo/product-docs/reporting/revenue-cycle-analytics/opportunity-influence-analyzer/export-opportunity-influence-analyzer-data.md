@@ -4,7 +4,7 @@ description: Exportar dados do Analisador de influência de oportunidade - Docum
 title: Exportar dados do analisador de influência da oportunidade
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Para receber atualizações de seus relatórios do Revenue Cycle Explorer e compartilhá-las, você pode inscrever qualquer endereço de email em um relatório existente.
 
-1. Vá para **Analytics** e selecione **Novo** > **Nova Assinatura de Relatório**.
+1. Vá para **[!UICONTROL Analytics]** e selecione **[!UICONTROL Novo]** > **[!UICONTROL Nova Assinatura de Relatório]**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
@@ -23,7 +23,7 @@ Para receber atualizações de seus relatórios do Revenue Cycle Explorer e comp
    >
    >Para assinar um relatório básico criado em um programa, consulte [Assinar um relatório básico](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Para Report Source, selecione **Gerenciador de Receita**.
+1. Para **[!UICONTROL Report Source]**, selecione **[!UICONTROL Explorador de Receita]**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 

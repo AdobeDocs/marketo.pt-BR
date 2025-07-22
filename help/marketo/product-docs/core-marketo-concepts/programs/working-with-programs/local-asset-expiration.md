@@ -3,7 +3,7 @@ description: Expiração de ativo local - Documentação do Marketo - Documenta�
 title: Expiração do ativo local
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Antes de agendar a expiração de um ativo, a função Marketo deve ter a permis
 
 ## Definir uma data de expiração {#set-an-expiration-date}
 
-1. Clique com o botão direito do mouse no programa desejado e selecione **[!UICONTROL Definir Expiração de Ativo Local]**.
+1. Clique com o botão direito do mouse no programa desejado e selecione **[!UICONTROL Definir expiração de ativo local]**.
 
    ![](assets/local-asset-expiration-4.png)
 

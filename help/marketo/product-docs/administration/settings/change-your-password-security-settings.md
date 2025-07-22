@@ -4,9 +4,9 @@ description: Alterar as configurações de segurança de senha - Documentação 
 title: Alterar suas Configurações de Segurança de Senha
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,7 @@ Controle a política de senha da sua assinatura. Veja como.
 
    >[!NOTE]
    >
-   >Um modelo é apenas uma configuração pré-criada. Padrão é bom. Alta segurança é a mais forte. Personalizado permite criar o seu próprio.
+   >Um modelo é apenas uma configuração pré-criada. **[!UICONTROL A Segurança Padrão]** é boa. **[!UICONTROL Alta Segurança]** é a mais forte. **[!UICONTROL Personalizado]** permite que você crie o seu próprio.
 
    >[!TIP]
    >

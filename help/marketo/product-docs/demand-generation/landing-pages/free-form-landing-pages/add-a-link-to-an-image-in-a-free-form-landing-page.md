@@ -4,7 +4,7 @@ description: Adicionar um link a uma imagem em uma página de aterrissagem de fo
 title: Adicionar um link a uma imagem em uma página de aterrissagem de forma livre
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 2%
@@ -23,11 +23,11 @@ Deseja criar um link para uma imagem na sua página de aterrissagem em outra pá
 
    ![](assets/click-on-image.png)
 
-1. Expanda a **Folha de Propriedades**.
+1. Expanda a **[!UICONTROL Folha de Propriedades]**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copie ou digite o link na caixa **linkUrl**.
+1. Copie ou digite o link na caixa **[!UICONTROL linkUrl]**.
 
    ![](assets/add-link.png)
 

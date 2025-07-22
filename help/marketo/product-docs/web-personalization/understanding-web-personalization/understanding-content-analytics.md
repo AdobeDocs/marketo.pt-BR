@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10093159
 description: Noções básicas sobre o Content Analytics - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre análise de conteúdo
+title: Noções básicas sobre o Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 2%
+source-wordcount: '377'
+ht-degree: 1%
 
 ---
 
-# Noções básicas sobre análise de conteúdo {#understanding-content-analytics}
+# Noções básicas sobre o Content Analytics {#understanding-content-analytics}
 
-A página Análise de conteúdo exibe seu conteúdo existente descoberto (estudos de caso, publicações de blog, vídeos, press releases e assim por diante) do site. Ele também exibe o desempenho do seu conteúdo e das pessoas geradas quando os visitantes se envolvem com eles.
+A página do Content Analytics exibe seu conteúdo existente descoberto (estudos de caso, publicações de blog, vídeos, press releases e assim por diante) do site. Ele também exibe o desempenho do seu conteúdo e das pessoas geradas quando os visitantes se envolvem com eles.
 
-## Exibir análise de conteúdo {#view-content-analytics}
+## Exibir Content Analytics {#view-content-analytics}
 
-Ir para **Análise de Conteúdo**.
+Ir para **[!UICONTROL Content Analytics]**.
 
 ![](assets/one.png)
 
-Na página Análise de conteúdo, é possível:
+Na página [!UICONTROL Content Analytics], você pode:
 
 * Filtrar por escopo de tempo (dia, semana e mês)
 * Pesquisar por título de conteúdo e URL de conteúdo
@@ -44,19 +44,19 @@ A tabela Analytics fornece os seguintes detalhes:
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Título</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Título]</strong></td> 
    <td colspan="1" rowspan="1">Nome do ativo de conteúdo digital. Clique em <strong>Título</strong> para abrir a URL de Conteúdo em uma nova guia.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Recomendação </strong><strong>Ícone</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Indica se a parte do conteúdo foi adicionada para <a href="#">Recommendations de Conteúdo</a>.</td> 
+   <td colspan="1">Indica se o conteúdo foi adicionado para <a href="#">Recomendações de conteúdo</a>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Exibições</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Exibições]</strong></p></td> 
    <td colspan="1" rowspan="1"><p>O número de visualizações de visitantes da Web no ativo de conteúdo. A quantidade de vezes que foi visualizado, aberto, assistido ou baixado. Clique no número de na coluna de exibições para detalhar e ver quem exibiu o conteúdo</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Conversões diretas</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Conversões Diretas]</strong></td> 
    <td colspan="1" rowspan="1">Visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita</td> 
   </tr> 
   <tr> 
@@ -70,13 +70,13 @@ A tabela Analytics fornece os seguintes detalhes:
  </tbody> 
 </table>
 
-## Exibir Análises de Conteúdo Adicionais {#view-additional-content-analytics}
+## Exibir Content Analytics adicional {#view-additional-content-analytics}
 
 Clique no ícone Analytics de um conteúdo.
 
 ![](assets/four.png)
 
-Uma caixa de diálogo é aberta com Análises de conteúdo adicionais para esse conteúdo específico.
+Uma caixa de diálogo é aberta com Content Analytics adicional para esse conteúdo específico.
 
 ![](assets/five.png)
 
@@ -84,19 +84,19 @@ As análises de conteúdo adicionais incluem:
 
 **Analytics**
 
-* **Exibições**: exibições desse conteúdo para o escopo de tempo selecionado
-* **Conversões diretas**: visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita.
-* **Taxa de Conversão**&#x200B;**:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas dividida por Cliques
+* **[!UICONTROL Exibições]**: exibições desse conteúdo para o escopo de tempo selecionado
+* **[!UICONTROL Conversões diretas]**: visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita.
+* **[!UICONTROL Taxa de Conversão]****:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
 
-**Tendências**
+**[!UICONTROL Tendências]**
 
-* Um gráfico de **Tendências** que mostra os últimos 30 dias de exibição do conteúdo específico. Passe o mouse sobre o gráfico de linhas para ver o número de visualizações de conteúdo de um dia específico
+* Um gráfico de **[!UICONTROL Tendências]** que mostra os últimos 30 dias de exibição do conteúdo específico. Passe o mouse sobre o gráfico de linhas para ver o número de visualizações de conteúdo de um dia específico
 
 ## Excluir conteúdo {#delete-content}
 
 ![](assets/six.png)
 
-Na página Análise de conteúdo, clique no ícone excluir do conteúdo que deseja excluir. Uma mensagem é exibida para confirmar que você deseja excluir o Conteúdo.
+Na página [!UICONTROL Content Analytics], clique no ícone de exclusão do Conteúdo que deseja excluir. Uma mensagem é exibida para confirmar que você deseja excluir o Conteúdo.
 
 >[!MORELIKETHIS]
 >

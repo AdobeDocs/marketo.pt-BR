@@ -4,7 +4,7 @@ description: Alterar um intervalo de tempo do relatório - Documentação do Mar
 title: Alterar um intervalo de tempo do relatório
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Altere o período coberto pelo relatório para se concentrar em um momento específico de atividade.
 
-1. Vá para a área **Atividades de marketing** (ou **Analytics**).
+1. Vá para a área **[!UICONTROL Atividades de marketing]** (ou **[!UICONTROL Analytics]**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Configuração**.
+1. Selecione seu relatório na árvore de navegação e clique na guia **[!UICONTROL Configuração]**.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
 1. Clique duas vezes no campo de intervalo de tempo, rotulado de forma diferente dependendo do tipo de relatório:
 
-   * **Pessoa criada às**, em relatórios pessoais
-   * **Data de Envio**, em relatórios de email
-   * **Data da atividade**, em todos os outros relatórios
+   * **[!UICONTROL Pessoa criada às]**, em relatórios pessoais
+   * **[!UICONTROL Data de Envio]**, em relatórios de email
+   * **[!UICONTROL Data da atividade]**, em todos os outros relatórios
 
    ![](assets/image2017-3-27-9-3a58-3a23.png)
 
    >[!NOTE]
    >
-   >**Pessoa Criada às** refere-se ao momento em que a pessoa ficou conhecida em seu banco de dados.
+   >**[!UICONTROL Pessoa Criada às]** refere-se ao momento em que a pessoa ficou conhecida em seu banco de dados.
 
 1. Escolha o intervalo de tempo apropriado no menu suspenso.
 
@@ -41,9 +41,9 @@ Altere o período coberto pelo relatório para se concentrar em um momento espec
 
    >[!TIP]
    >
-   >Para definir datas específicas, selecione **Personalizado** no menu suspenso e insira as datas nos campos de calendário **De** e **Até**.
+   >Para definir datas específicas, selecione **[!UICONTROL Personalizado]** no menu suspenso e insira as datas nos campos de calendário **[!UICONTROL De]** e **[!UICONTROL Até]**.
 
-   Clique na guia **Relatório** para ver seu relatório para o intervalo de tempo selecionado.\
+   Clique na guia **[!UICONTROL Relatório]** para ver seu relatório para o intervalo de tempo selecionado.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

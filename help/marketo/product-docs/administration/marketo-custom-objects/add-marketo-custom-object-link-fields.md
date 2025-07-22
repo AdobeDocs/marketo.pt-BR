@@ -4,7 +4,7 @@ description: Adicionar campos de link de objeto personalizado do Marketo - Docum
 title: Adicionar campos de link de objeto personalizado do Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '702'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Ao criar objetos personalizados, você deve fornecer campos de link para conecta
 
 >[!IMPORTANT]
 >
->O Marketo Engage suporta apenas um único objeto de borda para cada objeto de ponte no relacionamento Muitos para Muitos. Na amostra apresentada abaixo, cada inscrição só pode ser vinculada a um único curso. No entanto, pode haver muitos objetos de ponte para cada objeto de borda, assim como há muitas inscrições de alunos para cada curso (relacionamento muitos para um). Se você tiver seus dados de objeto personalizados estruturados de modo que haja mais de um registro de objeto do Edge para cada registro de objeto do Bridge (Um para muitos ou Muitos para muitos), poderá criar vários registros de objeto do Bridge que se referem a um único registro de objeto do Edge para representar esses dados no Marketo.
+>O Marketo Engage só oferece suporte a um único objeto de borda para cada objeto de ponte no relacionamento Muitos para Muitos. Na amostra apresentada abaixo, cada inscrição só pode ser vinculada a um único curso. No entanto, pode haver muitos objetos de ponte para cada objeto de borda, assim como há muitas inscrições de alunos para cada curso (relacionamento muitos para um). Se você tiver seus dados de objeto personalizados estruturados de modo que haja mais de um registro de objeto do Edge para cada registro de objeto do Bridge (Um para muitos ou Muitos para muitos), poderá criar vários registros de objeto do Bridge que se referem a um único registro de objeto do Edge para representar esses dados no Marketo.
 
 ## Criar um campo de link para uma estrutura de um para muitos {#create-a-link-field-for-a-one-to-many-structure}
 
@@ -66,7 +66,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura d
 
    >[!NOTE]
    >
-   >Somente os tipos de campo de sequência são aceitos no campo de link.
+   >Há suporte somente para tipos de campo de cadeia de caracteres no [!UICONTROL Campo de Link].
 
 1. Clique em **[!UICONTROL Salvar]**.
 

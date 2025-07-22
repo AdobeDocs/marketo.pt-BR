@@ -4,14 +4,14 @@ description: Adicionar uma conta nomeada existente a uma lista de contas - Docum
 title: Adicionar uma conta nomeada existente a uma lista de contas
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Adicionar uma conta nomeada existente a uma lista de contas {#add-an-existing-named-account-to-an-account-list}
+# Adicionar uma [!UICONTROL Conta nomeada] existente a uma Lista de Contas {#add-an-existing-named-account-to-an-account-list}
 
 É simples adicionar uma conta nomeada a uma lista de contas.
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-1. Clique no menu suspenso **Ações de Contas Nomeadas** e selecione **Adicionar à Lista de Contas**.
+1. Clique no menu suspenso **[!UICONTROL Ações de Contas Nomeadas]** e selecione **[!UICONTROL Adicionar à Lista de Contas]**.
 
    ![](assets/five-1.png)
 
-1. Clique no menu suspenso **Lista de Contas**, selecione a lista de contas desejada e clique em **Adicionar**.
+1. Clique no menu suspenso **[!UICONTROL Lista de Contas]**, selecione a lista de contas desejada e clique em **[!UICONTROL Adicionar]**.
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Criar uma Conta Nomeada](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[Criar uma [!UICONTROL Conta nomeada]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

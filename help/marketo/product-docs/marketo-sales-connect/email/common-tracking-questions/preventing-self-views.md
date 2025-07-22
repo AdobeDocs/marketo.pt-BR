@@ -4,9 +4,9 @@ description: Como evitar autovisualizações - Documentação do Marketo - Docum
 title: Como evitar as auto visualizações
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 Obter falsos positivos no rastreamento de visualização pode gerar inconsistências de relatório. Isso geralmente ocorre quando os usuários do MSC invocam acidentalmente o pixel de rastreamento do cliente de email (chamamos isso de visualização automática). Abaixo estão algumas dicas sobre como reduzir significativamente e até mesmo eliminar as autovisualizações.
 
-## Web (Outlook Web App e Gmail) {#web-outlook-web-app-and-gmail}
+## Web ([!DNL Outlook Web App] e Gmail) {#web-outlook-web-app-and-gmail}
 
-O Sales Connect armazenará um cookie em seu navegador para impedir que as exibições sejam rastreadas ao abrir seus emails do Outlook Web App e do Gmail. Se você ainda estiver recebendo visualizações pessoais, recomendamos fazer o seguinte:
+O [!DNL Sales Connect] armazenará um cookie em seu navegador para impedir que os modos de exibição sejam rastreados ao abrir seus emails do Outlook Web App e do Gmail. Se você ainda estiver recebendo visualizações pessoais, recomendamos fazer o seguinte:
 
 * Verifique se os cookies estão ativados no computador.
 
@@ -27,48 +27,48 @@ O Sales Connect armazenará um cookie em seu navegador para impedir que as exibi
 
 ## Área de trabalho (Windows) {#desktop-windows}
 
-As visualizações são rastreadas baixando um pequeno pixel de imagem invisível em seu cliente de email. Você pode reduzir significativamente a quantidade de visualizações automáticas no Outlook ao desabilitar o download automático de imagens. Abaixo estão as etapas como.
+As visualizações são rastreadas baixando um pequeno pixel de imagem invisível em seu cliente de email. Você pode reduzir significativamente a quantidade de visualizações automáticas em [!DNL Outlook] desabilitando imagens para download automático. Abaixo estão as etapas como.
 
-1. No Outlook, clique em **Arquivo** na barra de menus.
+1. Em [!DNL Outlook], clique em **[!UICONTROL Arquivo]** na barra de menus.
 
    ![](assets/win-1.png)
 
-1. Clique em **Opções**.
+1. Clique em **[!UICONTROL Opções]**.
 
    ![](assets/win-2.png)
 
-1. Na caixa de diálogo Opções do Outlook, clique em **Central de Confiabilidade**.
+1. Na caixa de diálogo [!DNL Outlook] Opções, clique em **[!UICONTROL Central de Confiabilidade]**.
 
    ![](assets/win-3.png)
 
-1. Em Central de Confiabilidade do Microsoft Outlook, clique em **Configurações da Central de Confiabilidade**.
+1. Em [!UICONTROL Central de Confiabilidade do Microsoft Outlook], clique em **[!UICONTROL Configurações da Central de Confiabilidade]**.
 
    ![](assets/win-4.png)
 
-1. Clique em Download Automático no menu à esquerda e marque a caixa de seleção **Não baixar imagens automaticamente no email HTML ou em itens RSS**.
+1. Clique em [!UICONTROL Download Automático] no menu à esquerda e marque a caixa de seleção **[!UICONTROL Não baixar imagens automaticamente em emails do HTML ou itens RSS]**.
 
    ![](assets/win-5.png)
 
-1. Clique em **OK** na caixa de diálogo Central de Confiabilidade.
+1. Clique em **[!UICONTROL OK]** na caixa de diálogo [!UICONTROL Central de Confiabilidade].
 
    ![](assets/win-6.png)
 
-1. Clique em **OK** na caixa de diálogo Opções do Outlook.
+1. Clique em **[!UICONTROL OK]** na caixa de diálogo [!DNL Outlook] Opções.
 
    ![](assets/win-6.png)
 
 ## Desktop (Mac) {#desktop-mac}
 
-As visualizações são rastreadas baixando um pequeno pixel de imagem invisível em seu cliente de email. Você pode reduzir significativamente a quantidade de visualizações automáticas no Outlook ao desabilitar o download automático de imagens. Abaixo estão as etapas como.
+As visualizações são rastreadas baixando um pequeno pixel de imagem invisível em seu cliente de email. Você pode reduzir significativamente a quantidade de visualizações automáticas em [!DNL Outlook] desabilitando imagens para download automático. Abaixo estão as etapas como.
 
-1. No Outlook, clique em **Outlook** na barra de menus e selecione **Preferências**.
+1. Em [!DNL Outlook], clique em **[!UICONTROL Outlook]** na barra de menus e selecione **[!UICONTROL Preferências]**.
 
    ![](assets/mac-1.png)
 
-1. Em Email, escolha **Leitura**.
+1. Em [!UICONTROL Email], escolha **[!UICONTROL Leitura]**.
 
    ![](assets/mac-2.png)
 
-1. Em Segurança, clique no botão de opção **Nunca**.
+1. Em [!UICONTROL Segurança], clique no botão de opção **[!UICONTROL Nunca]**.
 
    ![](assets/mac-3.png)

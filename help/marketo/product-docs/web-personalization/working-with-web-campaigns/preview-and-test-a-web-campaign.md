@@ -4,10 +4,10 @@ description: Pré-visualizar e testar uma campanha da Web - Documentação do Ma
 title: Pré-visualizar e testar uma campanha da Web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 0%
+source-wordcount: '394'
+ht-degree: 1%
 
 ---
 
@@ -21,43 +21,43 @@ Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e tamb�
 
 ## Pré-visualizar uma campanha da Web na página de criação {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vá para **Campanhas da Web**.
+1. Vá para **[!UICONTROL Campanhas da Web]**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Clique em **Criar nova campanha da Web** ou no ícone para editar uma campanha existente.
+1. Clique em **[!UICONTROL Criar nova campanha da Web]** ou no ícone para editar uma campanha existente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. Em Visualizar no site, adicione a URL da página e clique em **Visualizar**. Uma nova janela/guia é aberta mostrando a pré-visualização da campanha.
+1. Em Visualizar no site, adicione a URL da página e clique em **[!UICONTROL Visualizar]**. Uma nova janela/guia é aberta mostrando a pré-visualização da campanha.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Clique em **Compartilhar** para abrir um email com uma URL fixa da pré-visualização da campanha.
+   >Clique em **[!UICONTROL Compartilhar]** para abrir um email com uma URL fixa da pré-visualização da campanha.
 
    >[!NOTE]
    >
-   >Você também tem a opção de instalar um plug-in de navegador (o [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência de visualização da sua campanha. Consulte a seção abaixo.
+   >Você também tem a opção de instalar um plug-in de navegador ([[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) para obter a melhor experiência de visualização da sua campanha. Consulte a seção abaixo.
 
 ## Visualizar uma campanha da Web na página de criação usando o plug-in do navegador {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Siga as etapas 1 e 2 da seção acima.
 
-1. Clique no link para o plug-in do navegador (neste caso, estamos usando o Chrome).
+1. Clique no link para o plug-in do navegador (neste caso, estamos usando [!DNL Chrome]).
 
    ![](assets/4-1.png)
 
-1. Uma nova janela/guia é aberta. Clique em **Adicionar ao Chrome**.
+1. Uma nova janela/guia é aberta. Clique em **[!UICONTROL Adicionar ao Chrome]**.
 
    ![](assets/five.png)
 
-1. Clique em **Adicionar extensão**.
+1. Clique em **[!UICONTROL Adicionar extensão]**.
 
    ![](assets/six.png)
 
-1. Volte para o Marketo. Adicione a URL da página e clique em **Visualizar**.
+1. Volte para o Marketo. Adicione a URL da página e clique em **[!UICONTROL Visualizar]**.
 
    ![](assets/seven.png)
 
@@ -67,7 +67,7 @@ Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e tamb�
 
 ## Pré-visualizar uma campanha da Web na página de campanhas da Web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Ao consultar a lista de suas campanhas da Web, basta escolher uma campanha e clicar no ícone **Visualizar**.
+1. Ao consultar a lista de suas campanhas da Web, basta escolher uma campanha e clicar no ícone **[!UICONTROL Visualizar]**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -77,17 +77,17 @@ Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e tamb�
 
 Crie um segmento e uma campanha de sandbox.
 
-1. Vá para **Segmentos**.
+1. Vá para **[!UICONTROL Segmentos]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Clique em **Criar novo**.
+1. Clique em **[!UICONTROL Criar novo]**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Nomeie o segmento.
 
-1. Em Comportamento, arraste Incluir páginas até a tela. Adicione o valor &#42;sandbox=1&#42;. Clique em **Salvar e definir a campanha**.
+1. Em [!UICONTROL Comportamento], arraste [!UICONTROL Incluir páginas] para a tela. Adicione o valor &#42;sandbox=1&#42;. Clique em **[!UICONTROL Salvar e definir a campanha]**.
 
    ![](assets/segment.png)
 
@@ -95,7 +95,7 @@ Crie um segmento e uma campanha de sandbox.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Conclua o criativo da campanha e clique em **Iniciar**.
+1. Conclua o criativo da campanha e clique em **[!UICONTROL Iniciar]**.
 
    ![](assets/click-launch.jpg)
 

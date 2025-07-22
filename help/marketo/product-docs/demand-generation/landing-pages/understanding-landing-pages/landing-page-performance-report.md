@@ -4,7 +4,7 @@ description: Relatório de desempenho da página inicial - Documentação do Mar
 title: Relatório de desempenho da landing page
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Veja quantas pessoas preencheram os formulários em suas páginas de aterrissage
 >
 >Se você observar uma discrepância nos números entre o Relatório de desempenho da lista inteligente e da página de aterrissagem, é provável que isso ocorra porque as listas inteligentes filtram apenas dados das pessoas, enquanto os Relatórios de desempenho da página de aterrissagem incluem atividades sociais (Facebook, Google Ads etc.) e anônimas, além dos dados das pessoas.
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) de Desempenho da Página de Aterrissagem.
-1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia Relatório.
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Desempenho da página de aterrissagem[](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia [!UICONTROL Relatório].
 1. Pronto! Explore o relatório para avaliar o desempenho de suas landing pages.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)

@@ -3,7 +3,7 @@ description: Presença local — Documentação do Marketo — Documentação do
 title: Presença local
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -20,7 +20,7 @@ A Presença local oferece a opção de fazer com que pareça que você está cha
 
    ![](assets/local-presence-1.png)
 
-1. Marque a caixa de seleção **Usar Presença Local**.
+1. Marque a caixa de seleção **[!UICONTROL Usar Presença Local]**.
 
    ![](assets/local-presence-2.png)
 

@@ -3,10 +3,10 @@ description: Campos dinâmicos - Documentação do Marketo - Documentação do p
 title: Campos dinâmicos
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 0%
+source-wordcount: '537'
+ht-degree: 1%
 
 ---
 
@@ -16,19 +16,19 @@ Permitimos que você personalize seus modelos de email com atributos predefinido
 
 >[!TIP]
 >
->Os campos &quot;first_name&quot; e &quot;company&quot; são os únicos campos que analisarão as Ações do Sales Insight e o Salesforce. Isso significa que, se um contato não existir no [aplicativo Web](https://toutapp.com/login), procuraremos no Salesforce para ver se podemos encontrar um registro de contato/cliente potencial com um endereço de email correspondente. Em seguida, usamos as informações desse registro para preencher o campo.
+>Os campos &quot;first_name&quot; e &quot;company&quot; são os únicos campos que serão exibidos para [!DNL Sales Insight Actions] e [!DNL Salesforce]. Isso significa que, se um contato não existir no [aplicativo Web](https://toutapp.com/login), procuraremos em [!DNL Salesforce] se é possível encontrar um registro de contato/cliente potencial com um endereço de email correspondente. Em seguida, usamos as informações desse registro para preencher o campo.
 
 ## Inserir um campo dinâmico em um modelo {#insert-a-dynamic-field-into-a-template}
 
-1. Em **Modelos e Campanhas**, encontre o modelo que deseja editar e clique em **Editar Modelo**.
+1. Em **[!UICONTROL Modelos e Campanhas]**, encontre o modelo que deseja editar e clique em **[!UICONTROL Editar Modelo]**.
 
-1. Clique em **Inserir Campo Dinâmico**.
+1. Clique em **[!UICONTROL Inserir Campo Dinâmico]**.
 
    >[!NOTE]
    >
-   >Ao enviar e-mails para contatos existentes nas Ações do Sales Insight, é possível usar os campos dinâmicos básicos. Eles extrairão diretamente do contato.
+   >Ao enviar por email contatos que existem no [!DNL Sales Insight Actions], você pode usar os campos dinâmicos básicos. Eles extrairão diretamente do contato.
 
-Se estiver enviando emails para contatos existentes no Salesforce, você poderá aproveitar os campos dinâmicos do Salesforce. Todos eles começam com &quot;sfdc&quot;. Desde que você tenha uma conexão com o Salesforce, esses campos chamarão diretamente o cliente potencial/contato no Salesforce para preencher as informações no modelo.
+Se estiver enviando emails para contatos existentes no [!DNL Salesforce], você poderá aproveitar os campos dinâmicos do [!DNL Salesforce]. Todos eles começam com &quot;sfdc&quot;. Desde que você tenha uma conexão com [!DNL Salesforce], esses campos chamarão diretamente o cliente potencial/contato em [!DNL Salesforce] para preencher as informações no modelo.
 
 ## Inserir Campos Dinâmicos em uma Linha de Assunto {#insert-dynamic-fields-in-a-subject-line}
 
@@ -48,7 +48,7 @@ Para fazer isso, adicione &quot;|&quot; após o rótulo do campo dinâmico e, em
 
 ## Glossário de campos dinâmicos {#dynamic-fields-glossary}
 
-Ao criar um modelo em Ações do Sales Insight, sempre recomendamos a integração de campos dinâmicos, usando o botão **Inserir campo dinâmico**.
+Ao criar um modelo em [!DNL Sales Insight Actions], sempre recomendamos a integração de campos dinâmicos, usando o botão **[!UICONTROL Inserir Campo Dinâmico]**.
 
 Esta ferramenta é usada para `auto-personalize your email` e poupar toneladas de tempo até `pulling information from the People page`.
 
@@ -69,7 +69,7 @@ Esta ferramenta é usada para `auto-personalize your email` e poupar toneladas d
 
 * Se as informações de um contato forem inseridas incorretamente ou estiverem ausentes na página Pessoas, elas não serão inseridas corretamente no modelo.
 * A diferença entre `{{company}}` e `{{company_friendly}}` é que `{{company_friendly}}` removerá qualquer título formal, como Inc., LLC., etc., do nome da empresa do seu contato.
-* Ao usar o `{{company_friendly}}`, separe a Inc. ou a Co. com uma vírgula nos detalhes de contato. É assim que as Ações de Insight de vendas sabem o que remover ao obter o valor.
+* Ao usar o `{{company_friendly}}`, separe a Inc. ou a Co. com uma vírgula nos detalhes de contato. É assim que [!DNL Sales Insight Actions] sabe o que remover ao obter o valor.
 * Permitimos que você personalize seus modelos de email com atributos predefinidos como `{{my_name}}` ou `{{my_title}}`. Esses campos permitem que você faça referência a si mesmo rapidamente nos modelos de email.
 * O sistema anexa automaticamente a assinatura do usuário a cada email enviado. Se o usuário estiver usando um modelo com o campo dinâmico `{{my_signature}}`, o sistema preencherá a assinatura onde o campo dinâmico `{{my_signature}}` foi colocado. Ele só é adicionado lá para evitar duplicação. O sistema tratará `{{team_unsubscribe}}` da mesma maneira quando a configuração global de cancelamento de inscrição de acréscimo estiver habilitada.
 

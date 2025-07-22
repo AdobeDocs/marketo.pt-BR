@@ -4,7 +4,7 @@ description: Noções básicas sobre programas de email - Documentação do Mark
 title: Noções básicas sobre programas de email
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Envie emails, crie testes A/B e rastreie os resultados em um só lugar.
 
 ## Painel de controle {#control-panel}
 
-Quatro caixas mantêm você concentrado. O **Público-alvo** define o &quot;quem&quot;, o **Email** fornece o &quot;quê&quot;, a **Agenda** define o &quot;quando&quot; e a **Aprovação** prepara o envio.
+Quatro caixas mantêm você concentrado. O **[!UICONTROL Público-alvo]** define o &quot;quem&quot;, o **[!UICONTROL Email]** fornece o &quot;quê&quot;, a **[!UICONTROL Agenda]** define o &quot;quando&quot; e a **[!UICONTROL Aprovação]** prepara o envio.
 
 ![](assets/emailprogram.png)
 

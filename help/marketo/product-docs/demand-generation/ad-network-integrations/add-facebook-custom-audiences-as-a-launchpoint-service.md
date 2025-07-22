@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4720257
-description: Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint - Documentação do Marketo - Documentação do produto
-title: Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint
+description: Adicionar [!DNL Facebook] Públicos-alvo personalizados como um [!DNL LaunchPoint] Serviço - Documentação do Marketo - Documentação do produto
+title: Adicionar [!DNL Facebook] Públicos-alvo Personalizados como um [!DNL LaunchPoint] Serviço
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-# Adicionar públicos-alvo personalizados do Facebook como um serviço do LaunchPoint {#add-facebook-custom-audiences-as-a-launchpoint-service}
+# Adicionar [!DNL Facebook] públicos-alvo personalizados como um serviço de [!DNL LaunchPoint] {#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
 >**Permissões de administrador necessárias**
 
-Com essa integração, você pode enviar dados de público-alvo de Marketo Engage estático e Smart Lists para o Facebook para serem usados como Públicos-alvo personalizados em Campanhas de anúncios do Facebook. Veja como configurar isso.
+Com essa integração, você pode enviar dados de público-alvo de listas estáticas e inteligentes do Marketo para o [!DNL Facebook] para serem usados como Públicos-alvo personalizados em [!DNL Facebook] Campanhas publicitárias. Veja como configurar isso.
 
 1. Vá para o **[!UICONTROL Administrador]** do Marketo.
 
@@ -27,27 +27,27 @@ Com essa integração, você pode enviar dados de público-alvo de Marketo Engag
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Insira um **[!UICONTROL Nome para Exibição]** para seu serviço e selecione o serviço **[!UICONTROL Públicos-alvo Personalizados do Facebook]** no menu suspenso **[!UICONTROL Serviço]**.
+1. Digite um **[!UICONTROL Nome para Exibição]** para o seu serviço e selecione o serviço **[!UICONTROL Públicos-Alvo Personalizados do Facebook]** no menu suspenso **[!UICONTROL Serviço]**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](https://www.facebook.com/){target="_blank"}. Faça logon no Facebook usando a conta que deseja usar para a integração.
+1. Abra uma nova guia no mesmo navegador e vá para [facebook.com](https://www.facebook.com/). Faça logon em [!DNL Facebook] usando a conta que você deseja usar para a integração.
 
    >[!CAUTION]
    >
-   >Para que o Marketo envie públicos-alvo através de várias contas do Ad Manager, o usuário do Facebook autorizado nas etapas a seguir precisa ter acesso a *todas* dessas contas.
+   >Para que o Marketo envie públicos-alvo através de várias contas do Ad Manager, o [!DNL Facebook] usuário que você autorizar nas etapas a seguir precisará ter acesso a *todos* dessas contas.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Depois de fazer logon no Facebook, volte para a Marketo. Clique em **[!UICONTROL Autorizar]**.
+1. Depois de entrar no [!DNL Facebook], volte para a Marketo. Clique em **[!UICONTROL Autorizar]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >Você _deve_ usar uma conta do Facebook Business Manager para que a integração de Públicos personalizados funcione. Para saber como configurar uma conta do Business Manager, consulte a [Ajuda do Facebook](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
+   >Você _deve_ usar uma conta do Business Manager [!DNL Facebook] para que a integração de Públicos-alvo personalizados funcione. Para saber como configurar uma conta do Business Manager, consulte [[!DNL Facebook] Ajuda](https://www.facebook.com/business/help/1710077379203657).
 
-1. Se solicitado, clique em **[!UICONTROL OK]** para aceitar a instalação do aplicativo Marketo no Facebook.
+1. Se solicitado, clique em **[!UICONTROL OK]** para aceitar a instalação do aplicativo Marketo em [!DNL Facebook].
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,18 +55,18 @@ Com essa integração, você pode enviar dados de público-alvo de Marketo Engag
 
    >[!NOTE]
    >
-   >**Correspondência Básica** usa apenas endereços de email. **Correspondência avançada** usa sete campos adicionais, o que aumenta a taxa de correspondência, para mais conversão. No entanto, se a política de privacidade da sua empresa não permitir o compartilhamento de campos adicionais ou se os dados não os incluírem, selecione Correspondência básica.
+   >**[!UICONTROL Correspondência Básica]** usa apenas endereços de email. **[!UICONTROL Correspondência avançada]** usa sete campos adicionais, o que aumenta a taxa de correspondência, para mais conversão. No entanto, se a política de privacidade da sua empresa não permitir o compartilhamento de campos adicionais ou se os dados não os incluírem, selecione [!UICONTROL Correspondência básica].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Excelente trabalho! Agora é possível acessar qualquer lista estática ou inteligente no Marketo e enviar dados do público-alvo para o Facebook.
+   Excelente trabalho! Agora você pode acessar qualquer lista estática ou inteligente no Marketo e enviar dados de público-alvo para o [!DNL Facebook].
 
    >[!CAUTION]
    >
-   >Oh, antes de ir, certifique-se de [Aceitar os Termos de Públicos-alvo personalizados do Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} em sua conta do Facebook! Sem fazer isso, as atualizações de público-alvo falharão.
+   >Oh, antes de ir, certifique-se de [Aceitar [!DNL Facebook]&#39;s Termos de Públicos-alvo personalizados](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta [!DNL Facebook]! Sem fazer isso, as atualizações de público-alvo falharão.
 
 >[!MORELIKETHIS]
 >
->* [Criar um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+>* [Criar um público-alvo personalizado em [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [Configurar Anúncios De Cliente Potencial Da Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}
+>* [Configurar [!DNL Facebook] Anúncios De Cliente Potencial](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

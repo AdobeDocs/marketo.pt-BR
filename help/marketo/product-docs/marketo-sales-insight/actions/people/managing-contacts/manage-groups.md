@@ -3,16 +3,16 @@ description: Gerenciar grupos - Documentação do Marketo - Documentação do pr
 title: Gerenciar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 2%
+source-wordcount: '344'
+ht-degree: 0%
 
 ---
 
 # Gerenciar grupos {#manage-groups}
 
-Saiba como gerenciar grupos em Ações do Sales Insight.
+Saiba como gerenciar grupos no [!DNL Sales Insight Actions].
 
 ## Tipos de grupo {#group-types}
 
@@ -27,19 +27,19 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
    <th>Descrição</th> 
   </tr> 
   <tr> 
-   <td>Todas as pessoas</td> 
+   <td>[!UICONTROL Todas as Pessoas]</td> 
    <td>Todos os contatos de todos os usuários visíveis para você.</td> 
   </tr> 
   <tr> 
-   <td>Grupos dinâmicos</td> 
+   <td>[!UICONTROL Grupos Dinâmicos]</td> 
    <td>Meus Contatos: todos os seus contatos.<br>Cancelamentos de assinatura: contatos que optaram por não receber correspondência.</td> 
   </tr> 
   <tr> 
-   <td>Meus grupos</td> 
+   <td>[!UICONTROL Meus Grupos]</td> 
    <td>Grupos criados. Eles podem conter seus contatos ou que foram compartilhados com você.</td> 
   </tr> 
   <tr> 
-   <td>Grupos da equipe</td> 
+   <td>[!UICONTROL Grupos de Equipes]</td> 
    <td>Grupos que foram compartilhados com e/ou por você. Eles podem conter os contatos dos seus colegas de equipe ou os contatos que você compartilhou com eles.</td> 
   </tr> 
  </tbody> 
@@ -47,11 +47,11 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
 ## Criar um grupo {#create-a-group}
 
-1. Na página Pessoas, clique em **+** ao lado de Grupos.
+1. Na página [!UICONTROL Pessoas], clique em **+** ao lado de [!UICONTROL Grupos].
 
    ![](assets/manage-groups-1.png)
 
-1. Nomeie seu grupo e clique em **Criar**.
+1. Nomeie seu grupo e clique em **[!UICONTROL Criar]**.
 
    ![](assets/manage-groups-2.png)
 
@@ -59,11 +59,11 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
 ## Adicionar contatos a um grupo {#add-contacts-to-a-group}
 
-1. Na página Pessoas, localize e selecione o grupo ao qual deseja adicionar pessoas.
+1. Na página [!UICONTROL Pessoas], localize e selecione o grupo ao qual deseja adicionar pessoas.
 
    ![](assets/manage-groups-3.png)
 
-1. Clique em **Ações do Grupo** e selecione **Criar Contato e adicionar ao Grupo**.
+1. Clique em **[!UICONTROL Ações do Grupo]** e selecione **[!UICONTROL Criar Contato e adicionar ao Grupo]**.
 
    ![](assets/manage-groups-4.png)
 
@@ -79,15 +79,15 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
 ## Compartilhar um grupo {#share-a-group}
 
-1. Na página Pessoas, localize e selecione o grupo que deseja compartilhar.
+1. Na página [!UICONTROL Pessoas], localize e selecione o grupo que deseja compartilhar.
 
    ![](assets/manage-groups-6.png)
 
-1. Clique nos dados (três pontos verticais) e selecione **Compartilhar**.
+1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Compartilhar]**.
 
    ![](assets/manage-groups-7.png)
 
-1. Clique na lista suspensa, escolha a equipe com a qual deseja compartilhar o grupo e clique em **Compartilhar**.
+1. Clique na lista suspensa, escolha a equipe com a qual deseja compartilhar o grupo e clique em **[!UICONTROL Compartilhar]**.
 
    ![](assets/manage-groups-8.png)
 
@@ -95,11 +95,11 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
 ## Deixar de compartilhar um grupo {#unshare-a-group}
 
-1. Na página Pessoas, localize e selecione o grupo que deseja cancelar o compartilhamento.
+1. Na página [!UICONTROL Pessoas], localize e selecione o grupo que deseja cancelar o compartilhamento.
 
    ![](assets/manage-groups-9.png)
 
-1. Clique nos dados (três pontos verticais) e selecione **Compartilhar**.
+1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Compartilhar]**.
 
    ![](assets/manage-groups-10.png)
 
@@ -111,15 +111,15 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
 ## Renomear um grupo {#rename-a-group}
 
-1. Na página Pessoas, localize e selecione o grupo que deseja renomear.
+1. Na página [!UICONTROL Pessoas], localize e selecione o grupo que deseja renomear.
 
    ![](assets/manage-groups-12.png)
 
-1. Clique nos dados (três pontos verticais) e selecione **Editar**.
+1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Editar]**.
 
    ![](assets/manage-groups-13.png)
 
-1. Digite o novo nome e clique em **Salvar**.
+1. Digite o novo nome e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/manage-groups-14.png)
 
@@ -129,10 +129,10 @@ Saiba como gerenciar grupos em Ações do Sales Insight.
 
    ![](assets/manage-groups-15.png)
 
-1. Clique nos dados (três pontos verticais) e selecione **Excluir**.
+1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Excluir]**.
 
    ![](assets/manage-groups-16.png)
 
-1. Clique em **Excluir** para confirmar.
+1. Clique em **[!UICONTROL Excluir]** para confirmar.
 
    ![](assets/manage-groups-17.png)

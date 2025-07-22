@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: Tipos de notificação - Documentação do Marketo - Documentação do produto
 title: Tipos de notificação
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 5%
 
 ---
@@ -24,13 +24,13 @@ As notificações de sincronização do CRM alertam sobre problemas críticos en
 
 **[!DNL Microsoft Dynamics]**
 
-As notificações do Dynamics são enviadas uma vez a cada 24 horas e contêm leads que não foram sincronizados nesse período. Os motivos típicos de falha são leads duplicados (como acima) ou erros de incompatibilidade de comprimento de campo.
+[!DNL Dynamics] notificações são enviadas uma vez a cada 24 horas e contêm clientes potenciais que falharam na sincronização nesse período. Os motivos típicos de falha são leads duplicados (como acima) ou erros de incompatibilidade de comprimento de campo.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
 **[!DNL Salesforce]**
 
-Se você usa o Salesforce, as notificações de erro de sincronização são parecidas com as abaixo. Os erros típicos incluem credenciais expiradas e limites de API excedidos.
+Se você usa o [!DNL Salesforce], as notificações de erro de sincronização serão parecidas com as mostradas abaixo. Os erros típicos incluem credenciais expiradas e limites de API excedidos.
 
 ![](assets/salesforcesyncerror.png)
 
@@ -42,7 +42,7 @@ Quando as pessoas ficam exaustas em um riacho, enviamos uma notificação. A not
 
 ## Facebook {#facebook}
 
-Se você tentar enviar pessoas para a Facebook sem aceitar os Termos de serviço, ou se tentar enviar pessoas para a Facebook após remover o aplicativo Marketo.
+Se você tentar enviar pessoas para o Facebook sem aceitar os Termos de serviço, ou se tentar enviar pessoas para o Facebook após remover o aplicativo Marketo.
 
 ## Limpeza de campanha com gatilho ociosa {#idle-trigger-campaign-cleanup}
 
@@ -60,4 +60,4 @@ Você será notificado quando atingir sua cota diária. A cota é redefinida a c
 
 >[!NOTE]
 >
->Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/error-codes).
+>Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

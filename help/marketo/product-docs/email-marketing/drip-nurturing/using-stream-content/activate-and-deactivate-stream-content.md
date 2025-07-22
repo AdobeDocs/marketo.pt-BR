@@ -4,7 +4,7 @@ description: Ativar e desativar conteúdo de fluxo - Documentação do Marketo -
 title: Ativar e desativar conteúdo de fluxo
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 1%
@@ -17,15 +17,15 @@ O conteúdo do fluxo está desativado por padrão. Ative o conteúdo para enviá
 
 ## Ativar conteúdo de fluxo {#activate-stream-content}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
+1. Selecione seu programa de engajamento e clique na guia **[!UICONTROL Fluxos]**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Passe o mouse sobre o conteúdo que você deseja ativar, clique no ícone de engrenagem e clique em **Ativar**.
+1. Passe o mouse sobre o conteúdo que você deseja ativar, clique no ícone de engrenagem e clique em **[!UICONTROL Ativar]**.
 
    >[!NOTE]
    >
@@ -35,16 +35,16 @@ O conteúdo do fluxo está desativado por padrão. Ative o conteúdo para enviá
 
    >[!TIP]
    >
-   >Você também pode ativar todo o conteúdo em um fluxo clicando no ícone de engrenagem no nível superior e clicando em **Ativar todo o conteúdo**.
+   >Você também pode ativar todo o conteúdo em um fluxo clicando no ícone de engrenagem no nível superior e clicando em **[!UICONTROL Ativar todo o conteúdo]**.
 
    Bom trabalho! Agora você sabe como ativar conteúdo em seus fluxos.
 
 ## Desativar conteúdo de fluxo {#deactivate-stream-content}
 
-1. Selecione seu programa de engajamento e clique na guia **Fluxos**.
+1. Selecione seu programa de engajamento e clique na guia **[!UICONTROL Fluxos]**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Passe o mouse sobre o conteúdo que deseja desativar, clique no ícone de engrenagem e clique em **Desativar**.
+1. Passe o mouse sobre o conteúdo que deseja desativar, clique no ícone de engrenagem e clique em **[!UICONTROL Desativar]**.
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)

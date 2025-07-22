@@ -4,7 +4,7 @@ description: Enviar um email de amostra - Documentação do Marketo - Documenta�
 title: Enviar um email de amostra
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -21,14 +21,14 @@ ht-degree: 0%
 
 ## Enviar um email de amostra {#send-a-sample-email-1}
 
-1. Localize e selecione seu email. Clique no menu suspenso **Ações de email** e selecione **Enviar Amostra**.\
+1. Localize e selecione seu email. Clique no menu suspenso **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Enviar Amostra]**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >Meus tokens são resolvidos com o valor apropriado para o programa do email.
 
-1. Insira um ou vários endereços de email para entrega. Para vários endereços de email, use vírgulas para separá-los. Clique em **Enviar** quando terminar.
+1. Insira um ou vários endereços de email para entrega. Para vários endereços de email, use vírgulas para separá-los. Clique em **[!UICONTROL Enviar]** quando terminar.
 
    ![](assets/two.png)
 
@@ -42,21 +42,21 @@ ht-degree: 0%
 
 ## Enviar um email de amostra ao editar {#send-a-sample-email-while-editing}
 
-1. Encontre seu email, selecione-o e clique na guia **Editar rascunho**.
+1. Encontre seu email, selecione-o e clique na guia **[!UICONTROL Editar rascunho]**.
 
    ![](assets/three-281-29.jpg)
 
-1. Clique em **Ações de email**, selecione **Enviar Amostra**.
+1. Clique em **[!UICONTROL Ações de email]**, selecione **[!UICONTROL Enviar Amostra]**.
 
    ![](assets/four.png)
 
-1. Insira um endereço de email para entrega e clique em **Enviar**.
+1. Insira um endereço de email para entrega e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting).
+   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar um email de amostra com base em um segmento {#send-a-sample-email-based-on-a-segment}
 
@@ -64,15 +64,15 @@ ht-degree: 0%
 >
 >[Aplicar segmentação ao email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Encontre seu email, selecione-o e clique na guia **Editar rascunho**.
+1. Encontre seu email, selecione-o e clique na guia **[!UICONTROL Editar rascunho]**.
 
    ![](assets/three-281-29.jpg)
 
-1. Clique em **Visualizar**.
+1. Clique em **[!UICONTROL Visualizar]**.
 
    ![](assets/1.png)
 
-1. Clique no menu suspenso **Exibir por** e selecione **Segmentação**.
+1. Clique no menu suspenso **[!UICONTROL Exibir por]** e selecione **[!UICONTROL Segmentação]**.
 
    ![](assets/2.png)
 
@@ -84,12 +84,12 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. Clique em **Enviar amostra** para receber um email de teste do seu segmento em ação.
+1. Clique em **[!UICONTROL Enviar amostra]** para receber um email de teste do seu segmento em ação.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >Você também pode enviar um email de amostra com base em um segmento no modo de edição do seu email. Clique no menu suspenso **Ações de email**, selecione **Enviar Amostra** e escolha seu segmento.
+   >Você também pode enviar um email de amostra com base em um segmento no modo de edição do seu email. Clique no menu suspenso **[!UICONTROL Ações de email]**, selecione **[!UICONTROL Enviar Amostra]** e escolha seu segmento.
 
 É muito importante obter uma amostra do seu conteúdo antes de lançar uma campanha. Meça duas vezes, corte uma vez!

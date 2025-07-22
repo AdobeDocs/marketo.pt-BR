@@ -4,7 +4,7 @@ description: Excluir um fluxo - Documentação do Marketo - Documentação do pr
 title: Excluir um fluxo
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se você precisar excluir um fluxo do seu programa de engajamento, siga estas etapas rápidas e fáceis.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecione seu programa de engajamento e vá para **Streams**.
+1. Selecione seu programa de engajamento e vá para **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -27,11 +27,11 @@ Se você precisar excluir um fluxo do seu programa de engajamento, siga estas et
    >
    >A exclusão de um fluxo resultará na perda de dados históricos sobre o conteúdo desse fluxo.
 
-1. Clique no ícone de engrenagem e selecione **Excluir**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Excluir]**.
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Confirme a exclusão clicando em **Excluir**.
+1. Confirme a exclusão clicando em **[!UICONTROL Excluir]**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 

@@ -4,9 +4,9 @@ description: Noções básicas sobre integrações de rede de anúncios - Docume
 title: Noções básicas sobre integrações de rede de anúncios
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Como funcionam as integrações de rede de anúncios {#how-ad-network-integrations-work}
 
-As integrações de rede de anúncios conectam os dados exclusivos de público-alvo da Marketo aos seus sistemas de mídia paga, para que você possa executar campanhas de anúncios digitais mais direcionadas e personalizadas. Essas integrações funcionam atualmente com o Facebook, o LinkedIn e o Google.
+As integrações de rede de anúncios conectam os dados exclusivos de público-alvo da Marketo aos seus sistemas de mídia paga, para que você possa executar campanhas de anúncios digitais mais direcionadas e personalizadas. Essas integrações funcionam atualmente com o [!DNL Facebook], o [!DNL LinkedIn] e a Google.
 
 Os recursos incluem:
 
@@ -30,7 +30,7 @@ Os recursos incluem:
 
 * Assimilar clientes potenciais ou dados de sistemas de mídia paga no Marketo
 
-   * Por exemplo, um usuário do Facebook clica em um botão Inscrever e fornece um nome e endereço de email
+   * Por exemplo, um usuário [!DNL Facebook] clica em um botão Inscrever-se e fornece um nome e endereço de email
 
 * Fazer upload de dados de conversão offline para sistemas de mídia paga, otimizando os esforços de aquisição e promoção de clientes potenciais
 
@@ -44,11 +44,11 @@ Os recursos incluem:
 
 É possível usar integrações para:
 
-* [Adicionar o Google AdWords como um Serviço do LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [Adicionar clientes em potencial a um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
-* [Criar um público-alvo personalizado no Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
-* [Configurar conversões offline do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
-* [Usar uma lista do Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+* [Adicionar o Google [!DNL AdWords] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [Adicionar clientes em potencial a um público-alvo personalizado em  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [Criar um Público-alvo Personalizado em  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Configurar [!DNL Facebook] Conversões Offline](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [Usar uma lista Marketo ou uma lista inteligente como um  [!DNL LinkedIn] Segmento de público](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | Dados de público-alvo | Assimilação de lead | Conversão offline |
 |---|---|---|---|

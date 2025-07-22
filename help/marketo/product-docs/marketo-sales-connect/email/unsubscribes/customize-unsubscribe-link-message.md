@@ -4,9 +4,9 @@ description: Personalizar mensagem de link de cancelamento de inscrição - Docu
 title: Personalizar mensagem do link de cancelamento de inscrição
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
 
 >[!NOTE]
 >
->Você não pode usar um link de cancelamento de inscrição de terceiros com o Sales Connect, pois essas informações não serão capturadas no nosso banco de dados.
+>Não é possível usar um link de cancelamento de inscrição de terceiros com [!DNL Sales Connect], pois essas informações não serão capturadas no nosso banco de dados.
 
 ## Personalize mensagens para si mesmo {#customize-messaging-for-yourself}
 
-1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **[!UICONTROL Configurações]**.
 
    ![](assets/one.png)
 
-1. Em Minha conta, selecione **Cancelar assinatura**.
+1. Em [!UICONTROL Minha conta], selecione **[!UICONTROL Cancelar assinatura]**.
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ Sempre permitimos que as equipes personalizem as mensagens de link de cancelamen
    >
    >Não importa qual é o URL que está sendo vinculado por hiperlink. Quando o email é enviado, esse hiperlink é convertido em nosso link de cancelamento de inscrição.
 
-1. Clique em **OK**.
+1. Clique em **[!UICONTROL OK]**.
 
    ![](assets/five.png)
 
 ## Definir o cancelamento de inscrição para a sua equipe {#set-unsubscribe-messaging-for-your-team}
 
-1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **Configurações**.
+1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **[!UICONTROL Configurações]**.
 
    ![](assets/six.png)
 
-1. Em Configurações do administrador, selecione **Cancelar assinatura**.
+1. Em [!UICONTROL Configurações de Administração], selecione **[!UICONTROL Cancelar Assinaturas]**.
 
    ![](assets/eight.png)
 
-1. Personalize suas mensagens e clique em **Salvar** quando terminar.
+1. Personalize suas mensagens e clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/seven.png)
 
-1. Selecione **Estou definindo as mensagens padrão para minha equipe** para que as mensagens se apliquem a todos os usuários.
+1. Selecione **[!UICONTROL Estou definindo as mensagens padrão para minha equipe]** para que as mensagens se apliquem a todos os usuários.
 
    ![](assets/eleven.png)

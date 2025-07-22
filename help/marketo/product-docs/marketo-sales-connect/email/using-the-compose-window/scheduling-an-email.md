@@ -4,7 +4,7 @@ description: Agendamento de um email - Documentação do Marketo - Documentaçã
 title: Agendamento de um email
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Siga estas etapas fáceis para agendar um email.
 >
 >Para atualizar o fuso horário padrão, vá para a página Configurações.
 
-1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **Compor** no cabeçalho).
+1. Crie seu rascunho de email (há várias maneiras de fazer isso, neste exemplo, estamos escolhendo **[!UICONTROL Compor]** no cabeçalho).
 
    ![](assets/one-1.png)
 
-1. Quando terminar de redigir o email, clique em **Agendar** na parte inferior direita
+1. Quando terminar de redigir o email, clique em **[!UICONTROL Agendar]** na parte inferior direita
 
    ![](assets/two-1.png)
 
@@ -31,11 +31,11 @@ Siga estas etapas fáceis para agendar um email.
 
    ![](assets/three-1.png)
 
-1. Insira a hora em que deseja que o email seja enviado. Selecione o fuso horário desejado e clique em **Salvar**. Feche o programador quando terminar.
+1. Insira a hora em que deseja que o email seja enviado. Selecione o fuso horário desejado e clique em **[!UICONTROL Salvar]**. Feche o programador quando terminar.
 
    ![](assets/four-1.png)
 
-1. Agora que a data/hora agendada está selecionada, clique em **Enviar** para agendar o email.
+1. Agora que a data/hora agendada está selecionada, clique em **[!UICONTROL Enviar]** para agendar o email.
 
    ![](assets/five-1.png)
 

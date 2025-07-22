@@ -4,14 +4,14 @@ description: Configurações do Performance Insights - Documentação do Marketo
 title: Configurações de Insights de Desempenho
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 9%
 
 ---
 
-# Configurações de Insights de Desempenho {#performance-insights-settings}
+# Configurações de [!UICONTROL Insights de Desempenho] {#performance-insights-settings}
 
 Saiba mais sobre as diferentes opções de Configurações em MPI.
 
@@ -23,7 +23,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 
 ## Exibir o sucesso do programa por {#view-program-success-by}
 
-**Painel de envolvimentos - Contribuição e tendência**
+Painel de **[!UICONTROL Envolvimento] - Contribuição e tendência**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 
 ## Configuração do período anterior {#previous-period-configuration}
 
-**Envolvimento, Pipeline, Painéis de Receita - Somente contribuição**
+Painéis de **[!UICONTROL Envolvimento], [!UICONTROL Pipeline], [!UICONTROL Receita] - Contribuição apenas**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 
 ## Oportunidades influenciadas pelo marketing {#marketing-influenced-opportunities}
 
-**Painel do pipeline - Contribuição e tendência**
+Painel do **[!UICONTROL Pipeline] - Contribuição e Tendência**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
  </tbody> 
 </table>
 
-**Painel de receitas - Contribuição e tendência**
+Painel **[!UICONTROL Receita] - Contribuição e Tendência**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 
 ## Cálculo de Custo {#cost-calculation}
 
-**Painéis de Pipeline e Receita - Contribuição e Tendência**
+Painéis de **[!UICONTROL Pipeline] e [!UICONTROL Receita] - Contribuição e Tendência**
 
 <table> 
  <tbody> 

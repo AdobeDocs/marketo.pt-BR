@@ -4,7 +4,7 @@ description: Usar um Webhook em uma campanha inteligente - Documentação do Mar
 title: Usar um Webhook em uma campanha inteligente
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Usar um Webhook em uma campanha inteligente {#use-a-webhook-in-a-smart-campaign}
 
-Para usar um [webhook](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, adicione-o a uma [Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como uma ação de fluxo.
+Para usar um [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, adicione-o a uma [Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} como uma ação de fluxo.
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. [Criar uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
@@ -29,7 +29,7 @@ Para usar um [webhook](https://experienceleague.adobe.com/pt-br/docs/marketo-dev
 
    ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
-1. Selecione o Webhook.
+1. Selecione o **[!UICONTROL Webhook]**.
 
    ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 

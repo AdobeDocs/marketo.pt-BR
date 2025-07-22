@@ -4,34 +4,34 @@ description: Use O Teste A/B "Do Endereço" - Documentação Do Marketo - Docume
 title: Use O Teste A/B "Do Endereço"
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# Use O Teste A/B &quot;Do Endereço&quot; {#use-from-address-a-b-testing}
+# Usar Teste A/B &quot;[!UICONTROL Do Endereço]&quot; {#use-from-address-a-b-testing}
 
-Você pode facilmente testar seus emails A/B. Um teste interessante é o teste **Do Endereço**. Veja como configurar isso.
+Você pode facilmente testar seus emails A/B. Um teste interessante é o teste **[!UICONTROL Do Endereço]**. Veja como configurar isso.
 
 >[!PREREQUISITES]
 >
 >[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. No bloco **Email**, com seu email selecionado, clique em **Adicionar Teste A/B**.
+1. No bloco **[!UICONTROL Email]**, com seu email selecionado, clique em **[!UICONTROL Adicionar Teste A/B]**.
 
    ![](assets/image2014-9-12-15-3a32-3a8.png)
 
-1. Uma nova janela é aberta, selecione **De Endereço** para **Tipo de Teste**.
+1. Uma nova janela é aberta, selecione **[!UICONTROL De Endereço]** para **[!UICONTROL Tipo de Teste]**.
 
    ![](assets/image2014-9-12-15-3a32-3a22.png)
 
-1. Se você tiver informações de teste anteriores (como um teste de assunto), clique com segurança em **Redefinir Teste**.
+1. Se você tiver informações de teste anteriores (como um teste de assunto), clique com segurança em **[!UICONTROL Redefinir Teste]**.
 
    ![](assets/image2014-9-12-15-3a32-3a28.png)
 
-1. Digite as informações do segundo **Endereço de origem** que você deseja testar.
+1. Digite as informações do segundo **[!UICONTROL Endereço de origem]** que você deseja testar.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Você pode facilmente testar seus emails A/B. Um teste interessante é o teste *
    >
    >Você pode clicar no **+** para adicionar quantos Endereços De você desejar.
 
-1. Use o controle deslizante para escolher qual porcentagem do público-alvo você deseja no teste A/B e clique em **Avançar**.
+1. Use o controle deslizante para escolher qual porcentagem do público-alvo você deseja no teste A/B e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-12-15-3a33-3a41.png)
 

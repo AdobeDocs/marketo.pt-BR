@@ -4,9 +4,9 @@ description: Configurar anúncios do Facebook - Documentação do Marketo - Docu
 title: Configurar anúncios do Facebook Lead
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Use os [Anúncios de cliente potencial do Facebook](https://www.facebook.com/bus
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Insira um **Nome para Exibição** para o seu serviço, selecione o serviço **Anúncios de Cliente Potencial do Facebook** no menu suspenso e clique em **Criar**.
+1. Insira um **[!UICONTROL Nome para Exibição]** para o seu serviço, selecione o serviço **[!UICONTROL Anúncios de Cliente Potencial do Facebook]** no menu suspenso e clique em **[!UICONTROL Criar]**.
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ Use os [Anúncios de cliente potencial do Facebook](https://www.facebook.com/bus
 
    >[!NOTE]
    >
-   >A conta do Facebook precisará acessar todas as páginas de negócios do Facebook das quais você deseja obter anúncios de lead.
+   >A conta [!DNL Facebook] precisará acessar todas as [!DNL Facebook] páginas de negócios das quais você deseja obter anúncios de cliente potencial.
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. Depois de entrar no Facebook, volte para a Marketo e clique em **Autorizar**.
+1. Depois de entrar no [!DNL Facebook], volte para a Marketo e clique em **[!UICONTROL Autorizar]**.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. Se solicitado, clique em **OK** para aceitar a instalação do aplicativo Marketo no Facebook.
+1. Se solicitado, clique em **[!UICONTROL OK]** para aceitar a instalação do aplicativo Marketo em [!DNL Facebook].
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Você perceberá que está autorizado. Clique em **Avançar**.
+1. Você perceberá que está autorizado. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Selecione as páginas das quais você deseja que a Marketo extraia os anúncios de cliente potencial do Facebook e clique em **Avançar**.
+1. Selecione as páginas das quais você deseja que a Marketo extraia [!UICONTROL anúncios de cliente potencial do Facebook] e clique em **[!UICONTROL Avançar]**.
 
    >[!TIP]
    >
-   >Se você não visualizar uma página que esteja esperando, verifique se a conta do Facebook usada para autenticação foi adicionada à página no Facebook e tente novamente.
+   >Se você não visualizar uma página que esteja esperando, verifique se a conta do [!DNL Facebook] usada para autenticação foi adicionada à página em [!DNL Facebook] e tente novamente.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Para aceitar os mapeamentos de campo padrão do Facebook para o Marketo, basta clicar em **Criar**.
+1. Para aceitar o padrão [!DNL Facebook] para mapeamentos de campo do Marketo, basta clicar em **[!UICONTROL Criar]**.
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ Use os [Anúncios de cliente potencial do Facebook](https://www.facebook.com/bus
 
    >[!CAUTION]
    >
-   >O Marketo não é compatível com o mapeamento de dois campos do Facebook para um único campo do Marketo, apenas 1 para 1. Se você mapear 2 para 1, os clientes em potencial podem falhar ao entrar no sistema da Marketo.
+   >O Marketo não oferece suporte ao mapeamento de dois campos [!DNL Facebook] para um único campo do Marketo, somente de 1 para 1. Se você mapear 2 para 1, os clientes em potencial podem falhar ao entrar no sistema da Marketo.
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Muito bem! Os leads começarão a fluir para o Marketo à medida que você executa campanhas bem-sucedidas de anúncios de leads do Facebook.
+   Muito bem! Os clientes potenciais começarão a fluir para a Marketo à medida que você executar [!DNL Facebook] campanhas de anúncios de clientes potenciais bem-sucedidas.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

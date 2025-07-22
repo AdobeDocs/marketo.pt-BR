@@ -4,7 +4,7 @@ description: Editar conteúdo preditivo para emails - Documentação do Marketo 
 title: Editar conteúdo preditivo para emails
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -17,13 +17,13 @@ Veja como configurar seu conteúdo preditivo para emails.
 
 >[!PREREQUISITES]
 >
->O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página Todo o Conteúdo.
+>O conteúdo deve ser [aprovado para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) na página [!UICONTROL Todo o Conteúdo].
 
-1. Na página Conteúdo preditivo, clique em um título para abrir o editor.
+1. Na página [!UICONTROL Conteúdo preditivo], clique em um título para abrir o editor.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. A página de edição é aberta. O **Email** é exibido por padrão.
+1. A página de edição é aberta. O **[!UICONTROL Email]** é exibido por padrão.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ Veja como configurar seu conteúdo preditivo para emails.
    >
    >Se você alterou o rótulo do botão, ele será atualizado quando você salvar suas alterações ou visualizar sua imagem.
 
-1. Para adicionar ou editar a URL da imagem, clique em **Editar Imagem**.
+1. Para adicionar ou editar a URL da imagem, clique em **[!UICONTROL Editar Imagem]**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ Veja como configurar seu conteúdo preditivo para emails.
    >
    >Para garantir a melhor qualidade, a imagem deve ter 400x400 pixels ou menos.
 
-1. Insira a URL da imagem e clique em **Adicionar**.
+1. Insira a URL da imagem e clique em **[!UICONTROL Adicionar]**.
 
    ![](assets/five.png)
 
-1. Clique e arraste o controle deslizante para alterar o tamanho da imagem. Em seguida, clique e arraste a caixa de corte para isolar a área de imagem desejada. Clique em **Visualizar** quando terminar.
+1. Clique e arraste o controle deslizante para alterar o tamanho da imagem. Em seguida, clique e arraste a caixa de corte para isolar a área de imagem desejada. Clique em **[!UICONTROL Visualizar]** quando terminar.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ Veja como configurar seu conteúdo preditivo para emails.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Opcionalmente, clique no campo **Categorias** e adicione categorias ao conteúdo. As opções são das [categorias já configuradas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Opcionalmente, clique no campo **[!UICONTROL Categorias]** e adicione categorias ao conteúdo. As opções são das [categorias já configuradas](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ Veja como configurar seu conteúdo preditivo para emails.
 
    ![](assets/nine.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/save.png)
 

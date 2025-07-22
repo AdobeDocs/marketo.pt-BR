@@ -4,9 +4,9 @@ description: Importar uma lista de caracteres não latinos - Documentação do M
 title: Importar uma lista de caracteres não latinos
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Porém, ao importá-lo para o Marketo, você poderá observar que os caracteres 
 
 Isso ocorre porque o arquivo não foi salvo corretamente para que o Marketo reconheça todos os caracteres não latinos. A boa notícia é que há algumas etapas simples que você pode seguir para corrigi-lo.
 
-1. Selecione **Salvar como...** no menu **Arquivo** no Excel.
+1. Selecione **[!UICONTROL Salvar como]...** no menu **[!UICONTROL Arquivo]** no Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Escolha **UTF-16 Texto Unicode (.txt)** como a opção **Formato**. Isso codificará o arquivo da maneira que o Marketo puder exibi-los.
+1. Escolha **[!UICONTROL UTF-16 Texto Unicode (.txt)]** como a opção **[!UICONTROL Formato]**. Isso codificará o arquivo da maneira que o Marketo puder exibi-los.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Isso ocorre porque o arquivo não foi salvo corretamente para que o Marketo reco
 
    >[!TIP]
    >
-   >Você pode abrir o Arquivo de Texto usando o **Bloco de Notas** se estiver usando o Windows ou o **TextEdit** se estiver usando um Mac.
+   >Você pode abrir o Arquivo de Texto usando **[!DNL Notepad]** se estiver usando o Windows ou **[!DNL TextEdit]** se estiver usando um Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ Isso ocorre porque o arquivo não foi salvo corretamente para que o Marketo reco
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Selecione **Localizar e Substituir...** no menu **Editar**.
+1. Selecione **[!UICONTROL Localizar e Substituir]...** no menu **[!UICONTROL Editar]**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >A ação equivalente para usuários do Windows é: **Editar > Substituir...**
+   >A ação equivalente para usuários do Windows é: **[!UICONTROL Editar] > [!UICONTROL Substituir]...**
 
-1. Cole a guia copiada na etapa 4 na primeira caixa (a ser substituída) e digite uma vírgula na segunda caixa (substituir por). E clique em **Todos**.
+1. Cole a guia copiada na etapa 4 na primeira caixa (a ser substituída) e digite uma vírgula na segunda caixa (substituir por). E clique em **[!UICONTROL Todos]**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

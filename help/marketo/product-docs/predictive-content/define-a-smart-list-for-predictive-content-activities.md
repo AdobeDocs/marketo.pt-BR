@@ -4,7 +4,7 @@ description: Definir uma lista inteligente para atividades de conteúdo preditiv
 title: Definir uma lista inteligente para atividades de conteúdo preditivo
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao definir uma lista inteligente em uma campanha inteligente. Você pode acionar uma ação para qualquer pessoa que clicar em conteúdo preditivo por meio do [modelo de Mídia Avançada](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), da [Barra de Recomendação de Conteúdo](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) ou em um [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
-1. Na sua campanha inteligente, navegue até a guia **Lista inteligente**.
+1. Na sua campanha inteligente, navegue até a guia **[!UICONTROL Lista inteligente]**.
 
    ![](assets/smart-list-1.png)
 
@@ -31,7 +31,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
    >
    >Uma campanha inteligente com acionadores é executada no modo Acionador. Ele é executado em uma pessoa por vez com base nos eventos acionados e nos filtros adicionados.
 
-1. Clique na lista suspensa **Nome** e selecione um operador.
+1. Clique na lista suspensa **[!UICONTROL Nome]** e selecione um operador.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Adicione a restrição **Type**.
+1. Adicione a restrição **[!UICONTROL Type]**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ Você pode usar atividades de conteúdo preditivo em acionadores e filtros ao de
 
    ![](assets/pc-add-constraint.png)
 
-1. Se você estiver usando a fonte de email para seu conteúdo preditivo, adicione o acionador **Link de Cliques no Email**. Selecione seu email e adicione a restrição **É Preditivo**, definida como **true**.
+1. Se você estiver usando a fonte de email para seu conteúdo preditivo, adicione o acionador **[!UICONTROL Link de Cliques no Email]**. Selecione seu email e adicione a restrição **[!UICONTROL É Preditivo]**, definida como **[!UICONTROL true]**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

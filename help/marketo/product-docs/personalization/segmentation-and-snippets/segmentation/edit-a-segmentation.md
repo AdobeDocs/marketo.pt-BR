@@ -4,7 +4,7 @@ description: Editar uma segmentação - Documentação do Marketo - Documentaç�
 title: Editar uma segmentação
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -17,29 +17,29 @@ Fazer alterações em suas segmentações existentes é fácil. Aqui está a bai
 
 ## Criar um rascunho de segmentação {#create-a-segmentation-draft}
 
-1. Vá para o **Banco de Dados**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/db.png)
 
-1. Na segmentação, clique em **Ações de segmentação** e depois em **Criar rascunho**.
+1. Na segmentação, clique em **[!UICONTROL Ações de segmentação]** e depois em **[!UICONTROL Criar rascunho]**.
 
    ![](assets/two.png)
 
-1. O **Status** muda para Aprovado com Rascunho. Uma pasta de **Rascunho** é criada na sua segmentação.
+1. O **[!UICONTROL Status]** muda para [!UICONTROL Aprovado com Rascunho]. Uma pasta de **[!UICONTROL Rascunho]** é criada na sua segmentação.
 
    ![](assets/three.png)
 
 ## Adicionar, editar ou excluir segmentos {#add-edit-or-delete-segments}
 
-1. Na segmentação, clique em **Ações de segmentação** e depois em **Editar segmentos**.
+1. Na segmentação, clique em **[!UICONTROL Ações de segmentação]** e depois em **[!UICONTROL Editar segmentos]**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Você só pode Editar segmentos de um rascunho e não da Segmentação aprovada.
+   >Você só pode Editar segmentos de um [!UICONTROL Rascunho], e não da Segmentação Aprovada.
 
-1. **Adicionar segmento**, **Editar** existente (renomear ou alterar a ordem) ou **Excluir** qualquer segmento.
+1. **[!UICONTROL Adicionar segmento]**, **[!UICONTROL Editar]** existente (renomear ou alterar a ordem) ou **[!UICONTROL Excluir]** qualquer segmento.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,17 +49,17 @@ Fazer alterações em suas segmentações existentes é fácil. Aqui está a bai
 
    >[!CAUTION]
    >
-   >A exclusão afeta todo o conteúdo dinâmico associado em emails, landing pages e trechos. **Não há desfazer**. Verifique a guia **Usado por** para ver o que usa esse segmento.
+   >A exclusão afeta todo o conteúdo dinâmico associado em emails, landing pages e trechos. **Não há desfazer**. Verifique a guia **[!UICONTROL Usado por]** para ver o que usa esse segmento.
 
 ## Editar regras de segmento {#edit-segment-rules}
 
-1. No rascunho **Segmento**, vá para a **Lista Inteligente**. Aplicar regras semelhantes a [Definindo Regras de Segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. No seu [!UICONTROL Rascunho] **Segmento**, vá para a **[!UICONTROL Smart List]**. Aplicar regras semelhantes a [Definindo Regras de Segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >Não é possível editar os Segmentos aprovados. Clique em Segmentos na pasta Rascunho para editá-los.
+   >Não é possível editar os Segmentos aprovados. Clique nos Segmentos da pasta [!UICONTROL Rascunho] para editá-los.
 
    >[!NOTE]
    >

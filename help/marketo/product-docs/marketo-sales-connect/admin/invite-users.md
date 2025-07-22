@@ -4,10 +4,10 @@ description: Convidar usuários - Documentação do Marketo - Documentação do 
 title: Convidar usuários
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 6%
 
 Adicionar usuários é rápido e fácil!
 
-1. Clique no ícone de engrenagem e selecione **Configurações**.
+1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/one.png)
 
-1. Em Configurações de administração, selecione **Gerenciamento de usuários**.
+1. Em [!UICONTROL Configurações de Administração], selecione **[!UICONTROL Gerenciamento de Usuários]**.
 
    ![](assets/invite-team-members-2.png)
 
-1. Clique em **Convidar usuários**.
+1. Clique em **[!UICONTROL Convidar usuários]**.
 
    ![](assets/invite-team-members-3.png)
 
-1. Digite os endereços de email das pessoas físicas que você deseja adicionar e clique em **Avançar**.
+1. Digite os endereços de email das pessoas físicas que você deseja adicionar e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/four.png)
 
@@ -35,6 +35,6 @@ Adicionar usuários é rápido e fácil!
    >
    >Por padrão, todos os novos membros serão adicionados à equipe Todos.
 
-1. Clique em **OK**.
+1. Clique em **[!UICONTROL OK]**.
 
    ![](assets/five.png)

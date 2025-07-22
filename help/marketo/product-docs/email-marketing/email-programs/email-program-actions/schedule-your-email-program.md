@@ -4,7 +4,7 @@ description: Agendar Seu Programa De Email - Documentação Do Marketo - Documen
 title: Agendar seu programa de email
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 Com seu programa de email criado, público definido e email selecionado, você vai querer dizer ao seu programa *quando* para enviar o email. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ Com seu programa de email criado, público definido e email selecionado, você v
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. No bloco **Agenda**, defina a data.
+1. No bloco **[!UICONTROL Agenda]**, defina a data.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ Com seu programa de email criado, público definido e email selecionado, você v
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Você também pode optar por usar os recursos [Fuso Horário do Destinatário](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/ou [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
+1. Você também pode optar por usar os recursos [[!UICONTROL Fuso Horário do Destinatário]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/ou [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

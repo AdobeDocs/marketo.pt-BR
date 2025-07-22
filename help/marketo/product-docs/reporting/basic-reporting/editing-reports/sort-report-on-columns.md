@@ -4,7 +4,7 @@ description: Classificar relatório em colunas - Documentação do Marketo - Doc
 title: Classificar Relatório em Colunas
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Use colunas para classificar os dados no relatório e facilitar a localização dos números mais importantes.
 
-1. Vá para **Analytics** (ou **Atividades de marketing**).
+1. Vá para **[!UICONTROL Analytics]** (ou **[!UICONTROL Atividades de marketing]**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu relatório na árvore de navegação e clique na guia **Relatório**.
+1. Selecione seu relatório na árvore de navegação e clique na guia **[!UICONTROL Relatório]**.
 
    ![](assets/reports2.jpg)
 

@@ -4,7 +4,7 @@ description: Champion/Challenger — Do endereço — Marketo Docs — Documenta
 title: Champion/Challenger - Do endereço
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 1%
@@ -19,13 +19,13 @@ Quer experimentar um endereço diferente de sem confusão? Veja como.
 >
 >[Adicionar um Especialista/Desafiador de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. No editor de teste de email, selecione **Do Endereço** no menu suspenso **Tipo de Teste**.
+1. No editor de teste de email, selecione **[!UICONTROL Do Endereço]** no menu suspenso **[!UICONTROL Tipo de Teste]**.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >O primeiro endereço De é designado como o **Champion**. Os endereços subsequentes de são chamados **Desafiadores**.
+   >O primeiro endereço De é designado como o **[!UICONTROL Champion]**. Os endereços subsequentes de são chamados **[!UICONTROL Desafiadores]**.
 
 1. Digite o **De Nome** (à esquerda) e o **De Endereço** (à direita) para os desafiantes.
 
@@ -47,7 +47,7 @@ Quer experimentar um endereço diferente de sem confusão? Veja como.
 
    Para obter confiança estatística, escolha uma porcentagem que inclua pessoas suficientes para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.
 
-1. Clique em **Avançar**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

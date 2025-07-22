@@ -4,9 +4,9 @@ description: Uso de contas de pessoas - Documentação do Marketo - Documentaç�
 title: Uso de contas de pessoas
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Contas de pessoas podem ser configuradas no Salesforce para atender às necessid
 
 >[!NOTE]
 >
->As contas padrão do Salesforce são contas comerciais. Seu administrador do Salesforce precisa configurar contas pessoais separadamente.
+>As contas padrão do [!DNL Salesforce] são contas comerciais. O administrador do [!DNL Salesforce] precisa configurar as contas de pessoa separadamente.
 
 ## O que é uma conta de pessoa? {#what-is-a-person-account}
 
-Uma conta de pessoa é muito semelhante ao objeto da conta no Salesforce. No entanto, uma conta de pessoa tem acesso aos campos de conta e de contato.
+Uma conta de pessoa é muito semelhante ao objeto de conta em [!DNL Salesforce]. No entanto, uma conta de pessoa tem acesso aos campos de conta e de contato.
 
 ## O que acontece quando uma conta de pessoa é sincronizada com o Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -41,7 +41,7 @@ As atividades relacionadas às contas de pessoas são exibidas no painel **[!UIC
 
 >[!NOTE]
 >
->As opções **[!UICONTROL Adicionar à Campanha do Marketo]** e **[!UICONTROL Enviar Email]** do Marketo Sales Insight não estão disponíveis no momento para contas de pessoas.
+>As opções **[!UICONTROL Adicionar à Campanha do Marketo]** e **[!UICONTROL Enviar Email]** do Marketo Sales Insight não estão disponíveis no momento para contas pessoais.
 
 ## Como associar oportunidades a uma conta de pessoa? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ O Marketo depende da função de contato da oportunidade para determinar a pesso
 
 ## Qual campo de email devo usar para contas de pessoas? {#which-email-field-should-i-use-for-person-accounts}
 
-Há dois campos de email para uma conta de pessoa. Use o campo **Endereço de email** em seus formulários (não o **Endereço de email da pessoa**) para garantir que a eliminação de duplicação e outros processamentos de email da Marketo funcionem corretamente.
+Há dois campos de email para uma conta de pessoa. Use o campo **[!UICONTROL Endereço de email]** em seus formulários (não o **[!UICONTROL Endereço de email da pessoa]**) para garantir que a eliminação de duplicação e outros processamentos de email da Marketo funcionem corretamente.

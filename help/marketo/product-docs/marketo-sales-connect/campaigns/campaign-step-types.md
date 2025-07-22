@@ -4,9 +4,9 @@ description: Tipos de etapa do Campaign - Documentação do Marketo - Documenta�
 title: Tipos de etapa da campanha
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '180'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Defina um lembrete para acompanhar um contato por telefone. Você também pode s
 
 ## InMail {#inmail}
 
-Acompanhar em vários canais é uma ótima maneira de se conectar com clientes potenciais. Com tarefas do InMail, você pode configurar um lembrete para entrar em contato por meio do LinkedIn.
+Acompanhar em vários canais é uma ótima maneira de se conectar com clientes potenciais. Com tarefas InMail, você pode configurar um lembrete para entrar em contato via [!DNL LinkedIn].
 
 ![](assets/inmail.png)
 

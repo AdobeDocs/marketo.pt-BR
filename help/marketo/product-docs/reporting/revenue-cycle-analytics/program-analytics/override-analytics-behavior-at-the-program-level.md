@@ -4,7 +4,7 @@ description: Substituir o comportamento do Analytics no nível do programa - Doc
 title: Substituir o comportamento do Analytics no nível do programa
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Você pode definir o [comportamento do Analytics no nível de administrador nos canais](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), mas também pode substituí-lo no nível de programa. Veja como:
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,11 +23,11 @@ Você pode definir o [comportamento do Analytics no nível de administrador nos 
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Na guia **Configuração**, arraste o Comportamento do Analytics para a tela.
+1. Na guia **[!UICONTROL Configuração]**, arraste o [!UICONTROL Comportamento do Analytics] para a tela.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Selecione o comportamento do Analytics desejado.
+1. Selecione o [!UICONTROL Comportamento do Analytics] desejado.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Você pode definir o [comportamento do Analytics no nível de administrador nos 
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

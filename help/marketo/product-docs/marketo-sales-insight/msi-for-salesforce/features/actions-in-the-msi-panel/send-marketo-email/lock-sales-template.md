@@ -4,9 +4,9 @@ description: Bloquear modelo de vendas - Documentação do Marketo - Documentaç
 title: Bloquear Modelo de Vendas
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '210'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 
 >[!CAUTION]
 >
->Este recurso funciona somente para o Salesforce e não é compatível com o Microsoft Dynamics ou outros CRMs. Os modelos acessados pelos plug-ins do Outlook ou do Gmail não serão bloqueados, pois o editor não é controlado pela Marketo.
+>Este recurso funciona somente para [!DNL Salesforce] e não é compatível com [!DNL Microsoft Dynamics] ou outros CRMs. Os modelos acessados dos plug-ins do [!DNL Outlook] ou do Gmail não serão bloqueados, pois o editor não é controlado pela Marketo.
 
 ## Ativar o modelo de bloqueio {#enable-lock-template}
 
@@ -25,15 +25,15 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 >
 >**Permissões de administrador necessárias**
 
-1. Vá para **Admin** e clique em **Sales Insight**.
+1. Vá para **[!UICONTROL Admin]** e clique em **[!UICONTROL Sales Insight]**.
 
    ![](assets/1.png)
 
-1. Em **Configurações**, clique em **Editar**.
+1. Em **[!UICONTROL Configurações]**, clique em **[!UICONTROL Editar]**.
 
    ![](assets/2.png)
 
-1. Verificar **Habilitar a capacidade de bloquear modelos**. Clique em **Salvar**.
+1. Verificar **[!UICONTROL Habilitar a capacidade de bloquear modelos]**. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -47,15 +47,15 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 
 ## Bloquear modelo no Editor de email {#lock-template-in-the-email-editor}
 
-1. Selecione o email que deseja bloquear e clique em **Editar Rascunho**.
+1. Selecione o email que deseja bloquear e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/5.png)
 
-1. No editor de email, clique em **Configurações de email**.
+1. No editor de email, clique em **[!UICONTROL Configurações de email]**.
 
    ![](assets/6.png)
 
-1. Marque **Publish para o Marketo Sales Insight** se ele ainda não estiver marcado. Agora você pode desmarcar **Permitir que o usuário do CRM edite o email** para bloquear o modelo. Clique em **Salvar**.
+1. Marque **[!UICONTROL Publicar no Marketo Sales Insight]** se ainda não estiver marcado. Agora você pode desmarcar **[!UICONTROL Permitir que o usuário do CRM edite o email]** para bloquear o modelo. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/7.png)
 

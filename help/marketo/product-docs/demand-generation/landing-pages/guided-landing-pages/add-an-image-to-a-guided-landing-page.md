@@ -4,7 +4,7 @@ description: Adicionar uma imagem a uma página de aterrissagem guiada - Documen
 title: Adicionar uma imagem a uma landing page guiada
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Diferentemente das páginas de aterrissagem de forma livre, as páginas de aterrissagem guiadas têm espaços predefinidos e bloqueados onde você adiciona imagens.
 
-1. Selecione uma landing page guiada. Clique em **Editar rascunho**.
+1. Selecione uma landing page guiada. Clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ Diferentemente das páginas de aterrissagem de forma livre, as páginas de aterr
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. Selecione a imagem desejada e clique em **Inserir**.
+1. Selecione a imagem desejada e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 

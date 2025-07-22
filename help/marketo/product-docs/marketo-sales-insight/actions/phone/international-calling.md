@@ -3,9 +3,9 @@ description: Chamada internacional - Documentação do Marketo - Documentação 
 title: Chamada internacional
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 12%
 
 ---
@@ -143,7 +143,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
 
 ## Perguntas frequentes sobre Chamadas Internacionais {#international-calling-faq}
 
-**Por que as Ações de Insight de Vendas não oferecem suporte a chamadas internacionais para todos os países?**
+**Por que o [!DNL Sales Insight Actions] não oferece suporte a chamadas internacionais para todos os países?**
 
 Hoje, oferecemos chamadas internacionais com a Sales Dialer sem custo adicional. Queremos facilitar a comunicação com seus próprios clientes atuais e potenciais, portanto, lançamos o suporte para chamadas internacionais de tarifa padrão. Fornecemos cobertura a 34 países fora dos EUA e Canadá para regiões na Europa, Ásia e outros destinos importantes. Continuaremos a expandir com base no feedback dos clientes.
 
@@ -157,4 +157,4 @@ Sim. Não oferecemos suporte a chamadas para números de telefone de serviço de
 
 **Posso usar a presença local ao ligar para o internacional?**
 
-Nº A [Presença local](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) está disponível somente para números dos EUA.
+Não. A [Presença local](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) está disponível somente para números dos EUA.

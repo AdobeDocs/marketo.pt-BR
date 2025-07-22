@@ -4,7 +4,7 @@ description: Criar um token de script de email - Documentação do Marketo - Doc
 title: Criar um token de script de email
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Para desenvolvedores avançados, você pode usar os [scripts do Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) nos seus emails. Veja como fazer isso.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Para desenvolvedores avançados, você pode usar os [scripts do Velocity](https:
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Na guia **Meus tokens**, arraste um token de **Script de email**.
+1. Na guia **[!UICONTROL Meus tokens]**, arraste um token de **[!UICONTROL Script de email]**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Nomeie seu token de script de email e **clique para editar** seu conteúdo.
+1. Nomeie seu token de script de email e **[!UICONTROL Clique para Editar]** seu conteúdo.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Use a árvore à direita para arrastar os tokens de **Pessoa, Oportunidade** ou **Objeto Personalizado**.
+1. Use a árvore à direita para arrastar os tokens de **[!UICONTROL Pessoa]**, **[!UICONTROL Oportunidade]** ou **[!UICONTROL Objeto Personalizado]**.
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ Para desenvolvedores avançados, você pode usar os [scripts do Velocity](https:
 
 1. Escreva seu script no Velocity. Estes são alguns recursos úteis:
 
-   * [Documentação de scripts de email de desenvolvedores do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting)
+   * [Documentação de scripts de email de desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Guia do usuário do Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Guia de referência do Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Javadoc de ferramentas do Velocity](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Após concluir o script, clique em **Salvar**.
+1. Após concluir o script, clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Clique em **Salvar** mais uma vez.
+1. Clique em **[!UICONTROL Salvar]** mais uma vez.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

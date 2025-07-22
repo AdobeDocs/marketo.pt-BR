@@ -4,7 +4,7 @@ description: Clonagem de um modelo de receita de exemplo do Marketo - Documenta�
 title: Clonagem de um modelo de receita de exemplo do Marketo
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 A Marketo tem exemplos de modeladores de receita para ajudar a inspirar você. Clonar esses modeladores e torná-los seus próprios. Veja como:
 
-1. Vá para a área **Analytics**.
+1. Vá para a área **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Selecione a pasta **Revenue Cycle Modeler** e clique em **Marketo Examples**.
+1. Selecione a pasta **[!UICONTROL Revenue Cycle Modeler]** e clique em **[!UICONTROL Marketo Examples]**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,11 +27,11 @@ A Marketo tem exemplos de modeladores de receita para ajudar a inspirar você. C
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Em Ações do Modelo, selecione **Clonar Modelo**.
+1. Em [!UICONTROL Ações do Modelo], selecione **[!UICONTROL Clonar Modelo]**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Insira um **Nome** e clique em **Clonar**.
+1. Insira um **[!UICONTROL Nome]** e clique em **[!UICONTROL Clonar]**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

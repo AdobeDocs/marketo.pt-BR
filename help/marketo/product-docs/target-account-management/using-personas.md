@@ -4,7 +4,7 @@ description: Uso de Personas - Documentação do Marketo - Documentação do pro
 title: Uso de Personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 2%
@@ -17,15 +17,15 @@ As personas são uma ótima maneira de segmentar o público e o mercado da ABM p
 
 ## Adicionar uma persona {#add-a-persona}
 
-1. Em Minha Marketo, clique em **Administrador**.
+1. Em Minha Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/one.png)
 
-1. Na árvore, selecione **Gerenciamento de Conta de Destino**.
+1. Na árvore, selecione **[!UICONTROL Gerenciamento de Conta de Destino]**.
 
    ![](assets/using-personas-2.png)
 
-1. Clique em **Editar**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ As personas são uma ótima maneira de segmentar o público e o mercado da ABM p
    >
    >O perfil Cargo é incluído por padrão. Não é possível modificá-lo ou excluí-lo.
 
-1. Para adicionar outros perfis, clique em **+Adicionar**.
+1. Para adicionar outros perfis, clique em **[!UICONTROL +Adicionar]**.
 
    ![](assets/four.png)
 
-1. Dê um nome à persona e selecione o campo correspondente no menu suspenso. Você pode adicionar até dois perfis adicionais. Clique em **Salvar** quando terminar.
+1. Dê um nome à persona e selecione o campo correspondente no menu suspenso. Você pode adicionar até dois perfis adicionais. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/five.png)
 
@@ -47,13 +47,13 @@ As personas são uma ótima maneira de segmentar o público e o mercado da ABM p
 
 ## Exibir suas personalidades {#view-your-personas}
 
-Visualize suas personalidades visitando uma Conta nomeada específica.
+Exiba seus perfis visitando uma [!UICONTROL Conta Nomeada] específica.
 
-1. Selecione a Conta nomeada desejada.
+1. Selecione a [!UICONTROL Conta nomeada] desejada.
 
    ![](assets/one-a.png)
 
-1. Clique na guia **Personas**.
+1. Clique na guia **[!UICONTROL Personas]**.
 
    ![](assets/two-a.png)
 
@@ -63,7 +63,7 @@ Visualize suas personalidades visitando uma Conta nomeada específica.
 
    >[!NOTE]
    >
-   >O X no Título Persona atua como um caractere curinga. Por exemplo, &quot;CXO&quot; incluirá CEOs, CFOs etc.
+   >O X na [!UICONTROL Pessoa de Título] atua como um caractere curinga. Por exemplo, &quot;CXO&quot; incluirá CEOs, CFOs etc.
 
 ## Filtros pessoais {#persona-filters}
 

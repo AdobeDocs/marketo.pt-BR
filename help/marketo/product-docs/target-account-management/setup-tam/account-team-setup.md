@@ -4,7 +4,7 @@ description: Configuração da equipe da conta - Documentação do Marketo - Doc
 title: Configuração da equipe da conta
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 2%
@@ -15,31 +15,31 @@ ht-degree: 2%
 
 Uma equipe de conta é um grupo de participantes que trabalham juntos em uma conta nomeada. Siga estas etapas para escolher quais funções de conta do CRM devem ser adicionadas.
 
-1. Clique em **Administrador**.
+1. Clique em **[!UICONTROL Administrador]**.
 
    ![](assets/one-3.png)
 
-1. Clique em **Gerenciamento de Conta de Destino**.
+1. Clique em **[!UICONTROL Gerenciamento de Conta de Destino]**.
 
    ![](assets/account-team-setup-2.png)
 
-1. Em Membros da equipe da conta, clique em **Editar**.
+1. Em Membros da equipe da conta, clique em **[!UICONTROL Editar]**.
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >Para Função da conta, dê um nome a ele e faça a correspondência dele com o Campo de pesquisa do usuário desejado em seu CRM.
+   >Para [!UICONTROL Função da Conta], dê a ele um nome e faça a correspondência dele com o Campo de Pesquisa de Usuário desejado em seu CRM.
 
-1. Digite o nome da sua Função da conta e selecione o campo **CRM**. Adicione até 10.
+1. Digite o nome da sua [!UICONTROL Função da conta] e selecione o campo **CRM**. Adicione até 10.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Não é possível selecionar o Proprietário da conta. Ele é escolhido por padrão no nível da conta no seu CRM.
+   >Você não pode selecionar [!UICONTROL Proprietário da conta]. Ele é escolhido por padrão no nível da conta no seu CRM.
 
-1. Clique em **Salvar** quando terminar.
+1. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/five-2.png)
 

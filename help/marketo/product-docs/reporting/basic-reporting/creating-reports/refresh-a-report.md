@@ -4,7 +4,7 @@ description: Atualizar um relatório - Documentação do Marketo - Documentaçã
 title: Atualizar um relatório
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Após visualizar um relatório, o Marketo o armazena no banco de dados para que 
 
    ![](assets/two.png)
 
-1. Você também pode atualizar o relatório clicando no menu **Ações de Relatório** e selecionando **Atualizar Relatório**.
+1. Você também pode atualizar o relatório clicando no menu **[!UICONTROL Ações de Relatório]** e selecionando **[!UICONTROL Atualizar Relatório]**.
 
    ![](assets/three.png)
 

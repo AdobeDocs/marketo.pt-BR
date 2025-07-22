@@ -4,7 +4,7 @@ description: Filtrar um relatório de desempenho da página de aterrissagem - Do
 title: Filtrar um relatório de desempenho de página inicial
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Filtrar um relatório de desempenho de página inicial {#filter-a-landing-page-performance-report}
 
-Concentre seu [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) nas páginas de aterrissagem de seus programas (ativos locais), no Design Studio (ativos globais) ou naquelas que foram arquivadas.
+Concentre seu [relatório de desempenho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) nas páginas de aterrissagem de seus programas (ativos locais), no [!UICONTROL Design Studio] (ativos globais) ou naquelas que foram arquivadas.
 
-1. Vá para **Analytics** (ou **Atividades de marketing**).
+1. Vá para **[!UICONTROL Analytics]** (ou **[!UICONTROL Atividades de marketing]**).
 
    ![](assets/analyticstile.png)
 
@@ -23,13 +23,13 @@ Concentre seu [relatório de desempenho da página de aterrissagem](/help/market
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Clique na guia **Configuração** e arraste um filtro.
+1. Clique na guia **[!UICONTROL Configuração]** e arraste um filtro.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Páginas de Aterrissagem do Design Studio:** Ativos globais, gerenciados no Design Studio.
-   * **Páginas de aterrissagem de atividades de marketing:** ativos locais em programas na guia Atividades de marketing.
-   * **Páginas de aterrissagem arquivadas:** páginas de aterrissagem inativas e desativadas.
+   * **[!UICONTROL Páginas de Aterrissagem do Design Studio]:** Ativos globais, gerenciados no [!UICONTROL Design Studio].
+   * **[!UICONTROL Páginas de aterrissagem de atividades de marketing]:** ativos locais em programas na guia [!UICONTROL Atividades de marketing].
+   * **[!UICONTROL Páginas de aterrissagem arquivadas]:** páginas de aterrissagem inativas e desativadas.
 
 1. Escolha as pastas e páginas de aterrissagem específicas a serem incluídas no relatório.
 
@@ -39,6 +39,6 @@ Concentre seu [relatório de desempenho da página de aterrissagem](/help/market
    >
    >Se você selecionar uma pasta, seu relatório incluirá tudo o que a pasta contém no momento em que o relatório é executado.
 
-1. Pronto! Clique na guia **Relatório** para ver seu relatório filtrado.
+1. Pronto! Clique na guia **[!UICONTROL Relatório]** para ver seu relatório filtrado.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

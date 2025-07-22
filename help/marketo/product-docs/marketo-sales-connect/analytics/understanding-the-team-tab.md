@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352414
-description: Guia Equipe - Documentação do Marketo - Documentação do produto
-title: Guia Grupo
+description: Entendendo a guia [!UICONTROL Equipe] - Documentação do Marketo - Documentação do produto
+title: Compreendendo a Guia [!UICONTROL Equipe]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Guia Grupo {#understanding-the-team-tab}
+# Compreendendo a Guia [!UICONTROL Equipe] {#understanding-the-team-tab}
 
-Na guia Equipe destacamos três métricas importantes.
+Na guia [!UICONTROL Equipe], destacamos três métricas importantes.
 
 ## Emails enviados com modelo {#emails-sent-with-template}
 

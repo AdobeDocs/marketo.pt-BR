@@ -4,38 +4,38 @@ description: Etapa 1 de 3 - Adicionar campos do Marketo à Salesforce (Enterpris
 title: Etapa 1 de 3 - Adicionar campos do Marketo à Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 9%
+source-wordcount: '753'
+ht-degree: 8%
 
 ---
 
-# Etapa 1 de 3: Adicionar campos do Marketo à Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Etapa 1 de 3: Adicionar Campos do Marketo a [!DNL Salesforce] (Empresarial/Ilimitada) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
->Você deve ter acesso às APIs do Salesforce para sincronizar entre o Marketo Engage e o Salesforce.
+>Você deve ter acesso às APIs [!DNL Salesforce] para sincronizar entre o Marketo e o [!DNL Salesforce].
 
-O Marketo usa um conjunto de campos para capturar determinados tipos de informações relacionadas a marketing. Se quiser esses dados no Salesforce, siga as instruções abaixo.
+O Marketo usa um conjunto de campos para capturar determinados tipos de informações relacionadas a marketing. Se desejar esses dados em [!DNL Salesforce], siga as instruções abaixo.
 
-1. Crie três campos personalizados no Salesforce no cliente potencial e objetos de contato: Pontuação, Programa de aquisição e Data de aquisição.
-1. Mapeie esses campos personalizados entre clientes potenciais e contatos para que, na conversão no Salesforce, os valores continuem.
+1. Crie três campos personalizados em [!DNL Salesforce] nos objetos de cliente potencial e contato: Pontuação, Programa de aquisição e Data de aquisição.
+1. Mapeie esses campos personalizados entre clientes potenciais e contatos para que, na conversão em [!DNL Salesforce], os valores sejam transferidos.
 1. Você pode criar outros campos adicionais, se necessário (consulte a tabela abaixo).
 
-Todos esses campos personalizados são opcionais e não são necessários para sincronizar o Marketo e o Salesforce. Como prática recomendada, é recomendado criar campos para Pontuação, Programa de aquisição e Data de aquisição.
+Todos esses campos personalizados são opcionais e não são necessários para sincronizar o Marketo e o [!DNL Salesforce]. Como prática recomendada, é recomendado criar campos para Pontuação, Programa de aquisição e Data de aquisição.
 
-## Adicionar campos do Marketo à Salesforce {#add-marketo-fields-to-salesforce}
+## Adicionar campos do Marketo a [!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
-Adicione três campos personalizados aos objetos de cliente potencial e contato no Salesforce listados acima. Se quiser adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
+Adicione três campos personalizados aos objetos de cliente potencial e contato em [!DNL Salesforce] listados acima. Se quiser adicionar mais, consulte a tabela de campos disponíveis no final desta seção.
 
 Execute as etapas a seguir para cada um dos três campos personalizados para adicioná-los. Comece com Pontuação.
 
-1. Faça logon no Salesforce e clique em **[!UICONTROL Instalação]**.
+1. Faça logon em [!DNL Salesforce] e clique em **[!UICONTROL Instalação]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. No menu [!UICONTROL Build], à esquerda, clique em **[!UICONTROL Personalizar]** e selecione **[!UICONTROL Clientes Potenciais]**. Clique em **[!UICONTROL Campos]**.
+1. No menu Criar à esquerda, clique em **[!UICONTROL Personalizar]** e selecione **[!UICONTROL Clientes Potenciais]**. Clique em **[!UICONTROL Campos]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
@@ -98,7 +98,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
 >[!NOTE]
 >
->O Salesforce anexa __c a Nomes de campos quando os usa para criar Nomes de API.
+>[!DNL Salesforce] anexa __c a Nomes de campos quando os usa para criar Nomes de API.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -129,7 +129,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. No menu Criar, à esquerda, clique em **[!UICONTROL Personalizar]** e selecione Contatos. Clique em Campos.
+1. No menu Criar, à esquerda, clique em **[!UICONTROL Personalizar]** e selecione Contatos. Clique em [!UICONTROL Campos].
 1. Execute as etapas de 3 a 10 para os campos Pontuação, Data de aquisição e Programa de aquisição no objeto de contato, da mesma forma que fazia para o objeto de lead.
 1. Como opção, use o procedimento acima para qualquer campo personalizado adicional desta tabela.
 
@@ -238,21 +238,21 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
 >[!NOTE]
 >
->Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis no Salesforce quando o novo campo for criado. O Marketo sincronizará os dados com o Salesforce na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos sincronizados entre o Marketo e o Salesforce).
+>Os valores nos campos atribuídos automaticamente pelo Marketo não estarão imediatamente disponíveis em [!DNL Salesforce] quando o novo campo for criado. O Marketo sincronizará os dados com [!DNL Salesforce] na próxima atualização do registro em qualquer sistema (ou seja, uma atualização para qualquer um dos campos sincronizados entre o Marketo e [!DNL Salesforce]).
 
 ## Mapear campos personalizados para conversões {#map-custom-fields-for-conversions}
 
-Um campo personalizado no objeto de cliente potencial no Salesforce deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transportados quando ocorrer uma conversão.
+Um campo personalizado no objeto de cliente potencial em [!DNL Salesforce] deve ser mapeado para um campo de contato no objeto de contato para que os dados sejam transportados quando ocorrer uma conversão.
 
 1. No canto superior direito, clique em **[!UICONTROL Instalação]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Digite &quot;Campos&quot; na Pesquisa de navegação sem pressionar Enter. Os campos aparecem em objetos diferentes; clique em **[!UICONTROL Campos]** em Clientes potenciais.
+1. Digite &quot;Campos&quot; na Pesquisa de navegação sem pressionar Enter. Os campos aparecem em objetos diferentes; Clique em **[!UICONTROL Campos]** em [!UICONTROL Clientes Potenciais].
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vá para a seção Campos Personalizados de Cliente Potencial e Relações e clique em **[!UICONTROL Mapear Campos de Cliente Potencial]**.
+1. Vá para a seção [!UICONTROL Relacionamentos e Campos Personalizados de Cliente Potencial] e clique em **[!UICONTROL Mapear Campos de Cliente Potencial]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -268,6 +268,8 @@ Um campo personalizado no objeto de cliente potencial no Salesforce deve ser map
 
 1. Clique em **[!UICONTROL Salvar]** quando terminar.
 
+   Fácil o bastante, certo?
+
 >[!MORELIKETHIS]
 >
->[Etapa 2 de 3: Criar um Usuário do Salesforce para Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>[Etapa 2 de 3: Criar um [!DNL Salesforce] Usuário para Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

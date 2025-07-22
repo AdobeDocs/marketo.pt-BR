@@ -4,9 +4,9 @@ description: Cancelamento de assinatura durável - Documentação do Marketo - D
 title: Cancelamento de assinatura durável
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Quando uma nova pessoa é criada, o Marketo a verifica em relação à tabela pr
 
 ## Alteração de um endereço de email {#changing-an-email-address}
 
-Se você alterar o endereço de email de uma pessoa para um endereço de email cuja assinatura foi cancelada, essa pessoa terá a assinatura cancelada. Essa alteração pode ocorrer no Marketo ou no Salesforce.
+Se você alterar o endereço de email de uma pessoa para um endereço de email cuja assinatura foi cancelada, essa pessoa terá a assinatura cancelada. Esta alteração pode ocorrer no Marketo ou [!DNL Salesforce].
 
 ## Assinando novamente {#re-subscribing}
 

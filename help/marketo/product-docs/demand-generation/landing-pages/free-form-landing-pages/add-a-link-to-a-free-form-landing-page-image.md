@@ -4,9 +4,9 @@ description: Adicionar um link a uma imagem de página de aterrissagem de format
 title: Adicionar um link a uma imagem de página de aterrissagem de forma livre
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 2%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 2%
 >
 >Isso se aplica somente às páginas de aterrissagem de forma livre.
 
-1. Selecione a imagem adicionada à página de aterrissagem e expanda a **Folha de Propriedades.**
+1. Selecione a imagem que você adicionou à página de aterrissagem e expanda a **[!UICONTROL Folha de Propriedades].**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Digite o link mailto na **URL do link.**
+1. Digite o link mailto em **[!UICONTROL linkUrl].**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

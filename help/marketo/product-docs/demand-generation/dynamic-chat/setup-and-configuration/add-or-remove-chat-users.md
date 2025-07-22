@@ -3,10 +3,10 @@ description: Adicionar ou remover usuários do chat - Documentação do Marketo 
 title: Adicionar ou Remover Usuários do Chat
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 1%
+source-wordcount: '262'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
 >[!NOTE]
 >
->Por padrão, todos os Administradores do Marketo Engage recebem direitos de Administrador no Dynamic Chat.
+>Por padrão, todos os administradores do Marketo Engage recebem direitos de administrador no Dynamic Chat.
 
 ## Adicionar um usuário do chat {#add-a-chat-user}
 
@@ -40,7 +40,7 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Insira o nome, o grupo de usuários ou o endereço de email do usuário que deseja adicionar. O nome e o sobrenome são opcionais.
+1. Digite o [!UICONTROL nome, grupo de usuários ou endereço de email] do usuário que você deseja adicionar. O nome e o sobrenome são opcionais.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
@@ -54,11 +54,11 @@ Siga as etapas abaixo para adicionar ou remover usuários do chat.
 
    >[!NOTE]
    >
-   >Após adicionar um usuário no Admin Console do Adobe, pode levar até duas horas para que ele seja exibido na página Gerenciamento de agente do Dynamic Chat.
+   >Após adicionar um usuário no Admin Console do Adobe, pode levar até duas horas para que ele seja exibido na página Gerenciamento de agentes do Dynamic Chat.
 
-## Adicionar acesso de Dynamic Chat à função Marketo {#add-dynamic-chat-access-to-marketo-role}
+## Adicionar acesso Dynamic Chat à função Marketo {#add-dynamic-chat-access-to-marketo-role}
 
-Se a função Marketo do usuário de bate-papo recém-adicionada ainda não tiver a permissão Dynamic Chat, veja como adicioná-la.
+Se a função Marketo do usuário do Chat recém-adicionado ainda não tiver a permissão [!DNL Dynamic Chat], veja como adicioná-lo.
 
 1. No Marketo, clique em **[!UICONTROL Administrador]** e selecione **[!UICONTROL Usuários e funções]**.
 

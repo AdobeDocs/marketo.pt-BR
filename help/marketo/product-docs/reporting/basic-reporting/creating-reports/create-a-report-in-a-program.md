@@ -4,7 +4,7 @@ description: Criar um relatório em um programa - Documentação do Marketo - Do
 title: Criar um relatório em um programa
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Execute um relatório para analisar pessoas, seus programas, landing pages, emails e ativos sociais.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,17 +25,17 @@ Execute um relatório para analisar pessoas, seus programas, landing pages, emai
 
    >[!NOTE]
    >
-   >Você também pode criar relatórios na guia **Analytics**.
+   >Você também pode criar relatórios na guia **[!UICONTROL Analytics]**.
 
-1. Clique com o botão direito no programa e selecione **Novo ativo local**.
+1. Clique com o botão direito no programa e selecione **[!UICONTROL Novo ativo local]**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Clique em **Relatório**.
+1. Clique em **[!UICONTROL Relatório]**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Selecione o relatório **Type**.
+1. Selecione o relatório **[!UICONTROL Type]**.
 
    ![](assets/choosereport.png)
 
@@ -53,7 +53,7 @@ Execute um relatório para analisar pessoas, seus programas, landing pages, emai
 
 1. Defina o período do seu relatório. Consulte [Alterar um intervalo de tempo do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) para obter mais detalhes.
 
-1. Clique na guia **Relatório** para ver suas estatísticas.
+1. Clique na guia **[!UICONTROL Relatório]** para ver suas estatísticas.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 

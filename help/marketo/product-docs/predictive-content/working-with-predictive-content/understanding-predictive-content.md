@@ -4,7 +4,7 @@ description: Noções básicas sobre conteúdo preditivo - Documentação do Mar
 title: Compreensão de conteúdo preditivo
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,34 +13,34 @@ ht-degree: 0%
 
 # Compreensão de conteúdo preditivo {#understanding-predictive-content}
 
-Depois de [aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), você trabalha nele aqui. A página Conteúdo preditivo exibe todos os títulos aprovados para conteúdo preditivo.
+Depois de [aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), você trabalha nele aqui. A página [!UICONTROL Conteúdo preditivo] exibe todos os títulos que você aprovou para conteúdo preditivo.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 Os campos de página incluem:
 
-* **Imagem e Título**: O nome do conteúdo e da imagem selecionada
-* **Habilitado por Source**: mostra se o título foi aprovado para Rich Media, email ou Barra de Recomendações.
-* **Categorias**: criadas por você e usadas para agrupar seus resultados preditivos para email ou Web
-* **Cliques**: total de cliques no conteúdo recomendado (incluindo todas as fontes)
-* **Taxa de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques. Passe o mouse para ver dados adicionais (veja abaixo)
-* **Conversão assistida**: visitantes que clicaram no conteúdo recomendado em uma visita anterior e preencheram um formulário posteriormente
+* **[!UICONTROL Imagem e Nome]**: O nome do conteúdo e da imagem selecionada
+* **[!UICONTROL Habilitado por Source]**: mostra se o título foi aprovado para Rich Media, email ou Barra de Recomendações.
+* **[!UICONTROL Categorias]**: criadas por você e usadas para agrupar seus resultados preditivos para email ou Web
+* **[!UICONTROL Cliques]**: total de cliques no conteúdo recomendado (incluindo todas as fontes)
+* **[!UICONTROL Taxa de conversão]**: uma porcentagem calculada por conversões diretas divididas por cliques. Passe o mouse para ver dados adicionais (veja abaixo)
+* **[!UICONTROL Conversão assistida]**: visitantes que clicaram no conteúdo recomendado em uma visita anterior e preencheram um formulário posteriormente
 
 ## Filtrar conteúdo {#filtering-content}
 
-**Categoria**
+**[!UICONTROL Categoria]**
 
-Você pode filtrar o conteúdo por categorias que criou. Clique no ícone de filtro e em **Categoria**, selecione uma ou mais categorias de conteúdo.
+Você pode filtrar o conteúdo por categorias que criou. Clique no ícone de filtro e em **[!UICONTROL Categoria]**, selecione uma ou mais categorias de conteúdo.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**Source** habilitada
+**[!UICONTROL Source]** habilitada
 
-Filtre por cada tipo de conteúdo ativado: Email, Mídia avançada, Barra de recomendação.
+Filtre por cada tipo de conteúdo habilitado: [!UICONTROL Email], [!UICONTROL Mídia Avançada], [!UICONTROL Barra de Recomendação].
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**Análise por Source**
+**[!UICONTROL Análise por Source]**
 
 A análise de conteúdo habilitada para filtragem oferece a capacidade de ver o desempenho de cada fonte.
 
@@ -48,7 +48,7 @@ A análise de conteúdo habilitada para filtragem oferece a capacidade de ver o 
 
 ## Exibir análises por data {#display-analytics-by-date}
 
-1. selecione as datas de início e término à direita (como mostrado). Clique em **Aplicar**.
+1. selecione as datas de início e término à direita (como mostrado). Clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
@@ -58,7 +58,7 @@ Na tabela, é possível visualizar quais fontes estão ativadas para conteúdo p
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-Passe o mouse sobre a barra na coluna Taxa de conversão para exibir a taxa de conversão, a conversão direta e os dados clicados.
+Passe o mouse sobre a barra na coluna [!UICONTROL Taxa de conversão] para exibir a taxa de conversão, a conversão direta e os dados clicados.
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 
@@ -66,8 +66,8 @@ Passe o mouse sobre a barra na coluna Taxa de conversão para exibir a taxa de c
 >
 >**Definições**
 >
->**Taxa de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques
+>**[!UICONTROL Taxa de conversão]**: uma porcentagem calculada por conversões diretas divididas por cliques
 >
->**Conversão direta**: visitantes que clicaram no conteúdo recomendado e concluíram um formulário na mesma visita
+>**[!UICONTROL Conversão direta]**: visitantes que clicaram no conteúdo recomendado e concluíram um formulário na mesma visita
 >
->**Clicou**: total de cliques no conteúdo recomendado (incluindo todas as três fontes)
+>**[!UICONTROL Clicou]**: total de cliques no conteúdo recomendado (incluindo todas as três fontes)

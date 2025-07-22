@@ -4,7 +4,7 @@ description: Adicionar um teste A/B - Documentação do Marketo - Documentação
 title: Adicionar um teste A/B
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Testar é uma ótima maneira de otimizar seus emails para melhorar o engajamento. Veja como começar.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ Testar é uma ótima maneira de otimizar seus emails para melhorar o engajamento
 
    ![](assets/selectemailprogram.jpg)
 
-1. No bloco **Email**, clique em **Adicionar Teste A/B**.
+1. No bloco **[!UICONTROL Email]**, clique em **[!UICONTROL Adicionar Teste A/B]**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 

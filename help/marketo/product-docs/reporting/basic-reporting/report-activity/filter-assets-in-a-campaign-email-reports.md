@@ -4,7 +4,7 @@ description: Filtrar relatórios de e-mail do Assets em uma campanha - Documenta
 title: Filtrar relatórios de email do Assets em uma campanha
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -27,12 +27,12 @@ Concentre seu relatório de [Desempenho do email da campanha](/help/marketo/prod
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Clique na guia **Configuração** e arraste sobre um filtro.
+1. Clique na guia **[!UICONTROL Configuração]** e arraste sobre um filtro.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **Campanhas**: campanhas inteligentes ativas em sua conta do Marketo.
-   * **Campanhas arquivadas**: campanhas inteligentes inativas removidas.
+   * **[!UICONTROL Campanhas]**: campanhas inteligentes ativas em sua conta do Marketo.
+   * **[!UICONTROL Campanhas arquivadas]**: campanhas inteligentes inativas removidas.
 
 1. Escolha as pastas e campanhas inteligentes específicas a serem incluídas no seu relatório.
 
@@ -42,7 +42,7 @@ Concentre seu relatório de [Desempenho do email da campanha](/help/marketo/prod
    >
    >Se você selecionar uma pasta, seu relatório incluirá tudo o que a pasta contém no momento em que o relatório é executado.
 
-1. Pronto! Clique na guia **Relatório** para ver seu relatório filtrado.
+1. Pronto! Clique na guia **[!UICONTROL Relatório]** para ver seu relatório filtrado.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 

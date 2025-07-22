@@ -4,10 +4,10 @@ description: Criar um novo programa de evento - Documentação do Marketo - Docu
 title: Criar um novo programa de evento
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Eventos permitem automatizar eventos online e offline. Registre o status dos seus funcionários à medida que eles avançam por diferentes estágios e obtenha medidas precisas do ROI para suas iniciativas de marketing.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 
-1. Selecione a pasta do novo programa. Selecione **Novo** e clique em **Novo programa**.
+1. Selecione a pasta do novo programa. Selecione **[!UICONTROL Novo]** e clique em **[!UICONTROL Novo programa]**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Escolha um nome para o evento. Em seguida, em **Tipo de programa**, selecione **Evento**.
+1. Escolha um nome para o evento. Em seguida, em **[!UICONTROL Tipo de programa]**, selecione **[!UICONTROL Evento]**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. Selecione um **Canal**.
+1. Selecione um **[!UICONTROL Canal]**.
 
    >[!NOTE]
    >
@@ -35,7 +35,7 @@ Eventos permitem automatizar eventos online e offline. Registre o status dos seu
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Clique em **Criar**.
+1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,11 +43,11 @@ Eventos permitem automatizar eventos online e offline. Registre o status dos seu
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Para agendar seu evento, selecione **Exibição Agendada** e clique nele no calendário para abrir o pop-up. Insira datas e horas.
+1. Para agendar seu evento, selecione **[!UICONTROL Exibição Agendada]** e clique nele no calendário para abrir o pop-up. Insira datas e horas.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Deslize a barra para **Confirmado** quando terminar.
+1. Deslize a barra para **[!UICONTROL Confirmado]** quando terminar.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 

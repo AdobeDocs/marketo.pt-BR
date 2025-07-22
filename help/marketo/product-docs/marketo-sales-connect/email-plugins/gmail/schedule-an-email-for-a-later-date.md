@@ -4,7 +4,7 @@ description: Agendar um email para uma data posterior - Documentação do Market
 title: Agendar um email para uma data posterior
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 Para agendar um email do Gmail, siga estas etapas.
 
-1. Ao redigir um email, clique no botão **Agendar**.
+1. Ao redigir um email, clique no botão **[!UICONTROL Agendar]**.
 
 1. Uma janela pop-up será exibida, permitindo que você escolha um horário para enviar seu email.
 
 1. Se optar por enviá-lo posteriormente, o botão será atualizado para o horário selecionado.
 
-1. Após agendar o email, ele aparecerá na pasta **Rascunhos** do Gmail com o rótulo **Tout Emails Agendados**.
+1. Após agendar o email, ele aparecerá na pasta **[!UICONTROL Rascunhos]** do Gmail com o rótulo **[!UICONTROL Tout Emails Agendados]**.
 
-1. Se você abrir o rascunho, poderá editar o conteúdo do email, mas certifique-se de clicar em **Agendar** novamente, selecionar novamente o Horário agendado e clicar em **Concluir**!
+1. Se você abrir o rascunho, poderá editar o conteúdo do email, mas certifique-se de clicar em **[!UICONTROL Agendar]** novamente, selecionar novamente o Horário agendado e clicar em **[!UICONTROL Concluir]**!
 
    >[!NOTE]
    >
-   >Você sempre pode verificar o email agendado na pasta **Agendado** no [aplicativo Web](https://toutapp.com/login)
+   >Você sempre pode verificar o email agendado na pasta **[!UICONTROL Agendado]** no [aplicativo Web](https://toutapp.com/login)

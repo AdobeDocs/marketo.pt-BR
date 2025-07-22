@@ -4,10 +4,10 @@ description: Resumo do conteúdo preditivo - Documentação do Marketo - Documen
 title: O resumo do conteúdo preditivo
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -27,19 +27,19 @@ Aqui você pode ver seus 10 principais conteúdos descobertos, incluindo visuali
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## Envolvimento previsível {#predictive-engagement}
+## [!UICONTROL Envolvimento preditivo] {#predictive-engagement}
 
 Veja sua taxa de conversão comparando o total de cliques e leads diretos e compare o desempenho das diferentes fontes.
 
 ![](assets/predictive-engagement-actual.png)
 
-## Tendência de conteúdo por exibições  {#content-trend-by-views}
+## [!UICONTROL Tendência de Conteúdo por Modos de Exibição]  {#content-trend-by-views}
 
 Compare como suas visualizações de todo o conteúdo correspondem ao seu conteúdo preditivo.
 
 ![](assets/4.png)
 
-## Principais Categorias por Envolvimento {#top-categories-by-engagement}
+## [!UICONTROL Principais Categorias por Compromisso] {#top-categories-by-engagement}
 
 Quais categorias de conteúdo são as mais envolventes? Veja neste gráfico.
 
@@ -47,4 +47,4 @@ Quais categorias de conteúdo são as mais envolventes? Veja neste gráfico.
 
 >[!NOTE]
 >
->Se você clicar em um link de categoria (exemplos na imagem acima: leads, email, etc.) ela abre a página Todo o conteúdo com a categoria em que você clicou adicionada ao filtro, exibindo a análise de conteúdo nessa categoria.
+>Se você clicar em um link de categoria (exemplos na imagem acima: leads, email, etc.), ele abrirá a página Todo o conteúdo, com a categoria em que você clicou adicionada ao filtro, exibindo a análise de conteúdo nessa categoria.

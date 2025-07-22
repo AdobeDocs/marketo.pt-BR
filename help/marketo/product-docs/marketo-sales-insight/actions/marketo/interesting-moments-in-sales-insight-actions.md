@@ -1,18 +1,18 @@
 ---
-description: Momentos interessantes nas ações do Sales Insight - Documentação do Marketo - Documentação do produto
-title: Momentos interessantes nas ações do Sales Insight
+description: Momentos interessantes nas ações de vendas do Insight - Documentação do Marketo - Documentação do produto
+title: Momentos interessantes nas ações de vendas do Insight
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# Momentos interessantes nas ações do Sales Insight {#interesting-moments-in-sales-insight-actions}
+# Momentos interessantes em [!DNL Sales Insight Actions] {#interesting-moments-in-sales-insight-actions}
 
-Momentos interessantes são a chave para se comunicar com sua equipe de vendas por meio das ações do Marketo Sales Insight.
+Momentos interessantes são a chave para se comunicar com sua equipe de vendas através do [!DNL Marketo Sales Insight Actions].
 
 ## O que é um momento interessante? {#what-is-an-interesting-moment}
 
@@ -28,7 +28,7 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Arraste sobre a etapa de fluxo **Momentos interessantes**.
+1. Arraste sobre a etapa de fluxo **[!UICONTROL Momentos interessantes]**.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -36,13 +36,13 @@ Isso depende de você! Você decide quais informações são relevantes para sua
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Escreva uma mensagem para sua equipe de vendas no campo **Descrição** que explique por que essa ação é importante.
+1. Escreva uma mensagem para sua equipe de vendas no campo **[!UICONTROL Descrição]** que explique por que essa ação é importante.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
    >[!NOTE]
    >
-   >O Marketo também adicionará a data em que ocorreu e como o momento interessante foi adicionado (ou seja, ação principal > etapa de fluxo, API SOAP).
+   >O Marketo também adicionará a data em que ocorreu e como o momento interessante foi adicionado (ou seja, ação principal > etapa de fluxo, API do SOAP).
 
 ## Como se parece um momento interessante no Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
@@ -50,8 +50,8 @@ Momentos interessantes serão exibidos em um [log de atividades do cliente poten
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## Como se parece um momento interessante nas Ações de insights de vendas? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## Como se parece um momento interessante em [!DNL Sales Insight Actions]? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-Momentos interessantes serão exibidos em tempo real no Feed ativo de um usuário. Utilizamos a ID de proprietário do lead no Salesforce para mostrar aos usuários momentos interessantes de clientes potenciais relevantes dos quais eles são proprietários. Os usuários podem acompanhar rapidamente com clientes potenciais por email/telefone/campanha de vendas clicando na lista suspensa ao lado do nome do cliente potencial.
+Momentos interessantes serão exibidos em tempo real no Feed ativo de um usuário. Utilizamos a ID de proprietário do cliente potencial no [!DNL Salesforce] para mostrar aos usuários os momentos interessantes de clientes potenciais relevantes dos quais eles são proprietários. Os usuários podem acompanhar rapidamente com clientes potenciais por email/telefone/campanha de vendas clicando na lista suspensa ao lado do nome do cliente potencial.
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

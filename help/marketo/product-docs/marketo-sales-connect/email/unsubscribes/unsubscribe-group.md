@@ -4,7 +4,7 @@ description: Cancelar inscrição do grupo - Documentação do Marketo - Documen
 title: Cancelar inscrição do grupo
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -21,6 +21,6 @@ Use a barra de pesquisa para procurar pessoas não inscritas.
 
 ![](assets/2_c3.png)
 
-Se você for um administrador, acesse o grupo de cancelamento de inscrição para filtrar por Cancelamentos de inscrição de conta e ver todas as cancelamentos de inscrição coletadas no banco de dados de pessoas.
+Se você for um administrador, acesse o grupo de cancelamento de inscrição para filtrar por [!UICONTROL Cancelamentos de assinatura de conta] e ver todas as cancelamentos de assinatura coletadas no banco de dados de pessoas.
 
 ![](assets/3_c3.png)

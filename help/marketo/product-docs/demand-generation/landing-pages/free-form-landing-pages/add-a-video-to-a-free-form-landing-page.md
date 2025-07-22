@@ -6,7 +6,7 @@ exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -21,29 +21,29 @@ Coloque vídeos com opções de compartilhamento em redes sociais nas páginas d
 >
 >Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
-1. Navegue até a página de aterrissagem de forma livre e clique em **Editar rascunho**.
+1. Navegue até a página de aterrissagem de forma livre e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2014-9-17-11-3a28-3a51.png)
 
-1. Arraste sobre **Vídeo** dos elementos à direita.
+1. Arraste sobre **[!UICONTROL Vídeo]** dos elementos à direita.
 
    ![](assets/image2015-5-21-15-3a46-3a34.png)
 
-1. Selecione **Criar novo** no menu suspenso.
+1. Selecione **[!UICONTROL Criar novo]** no menu suspenso.
 
    ![](assets/image2014-9-17-11-3a29-3a8.png)
 
    >[!NOTE]
    >
-   >O recurso **Criar novo** aparece somente nas Atividades de marketing; não está disponível no Design Studio. Somente os vídeos já criados estão disponíveis no Design Studio. No entanto, você pode criar um compartilhamento de vídeo _dentro de um programa_ selecionando **Novo** > **Novo ativo local**. Você pode selecioná-la no menu suspenso, como mostrado aqui.
+   >O recurso **[!UICONTROL Criar novo]** aparece somente em [!UICONTROL Atividades de marketing]; não está disponível no [!UICONTROL Design Studio]. Somente os vídeos já criados estão disponíveis no Design Studio. No entanto, você pode criar um compartilhamento de vídeo _dentro de um programa_ selecionando **[!UICONTROL Novo]** > **[!UICONTROL Novo ativo local]**. Você pode selecioná-la no menu suspenso, como mostrado aqui.
 
-1. Insira o URL do vídeo do YouTube e nomeie o vídeo. Na lista suspensa Clonar de, selecione **Nenhum** e clique em **Inserir**.
+1. Insira o URL do vídeo do YouTube e nomeie o vídeo. No menu suspenso **[!UICONTROL Clonar de]**, selecione **[!UICONTROL Nenhum]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
 >[!TIP]
 >
->Para economizar tempo, você pode usar a opção **Clonar de** para copiar todas as configurações de um compartilhamento de vídeo existente.
+>Para economizar tempo, você pode usar a opção **[!UICONTROL Clonar de]** para copiar todas as configurações de um compartilhamento de vídeo existente.
 
 Parabéns! Você adicionou um compartilhamento de vídeo à sua página de aterrissagem de formato livre. Aprove a landing page e o compartilhamento de vídeo estará ativo. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou _colocar o compartilhamento de vídeo em seu site_.
 

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11381917
-description: Gerenciamento de conta do Target - Documentação do Marketo - Documentação do produto
-title: Gerenciamento de contas de destino
+description: '[!UICONTROL Gerenciamento de Conta do Target] - Documentação do Marketo - Documentação do Produto'
+title: '[!UICONTROL Gerenciamento de Conta de Destino]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
-# Gerenciamento de contas de destino {#target-account-management-overview}
+# [!UICONTROL Gerenciamento de Conta de Destino] {#target-account-management-overview}
 
-Profissional de marketing, conheça o Gerenciamento de conta do Target. Gerenciamento de conta do Target, conheça o profissional de marketing.
+Profissional de marketing, atender ao [!UICONTROL Gerenciamento de contas do Target]. [!UICONTROL Gerenciamento de Conta de Destino], conheça o profissional de marketing.
 
 ![](assets/photo-collage.png)
 
-O que é o Gerenciamento de conta do Marketo Target?
+O que é o [!UICONTROL Gerenciamento de Conta do Marketo]?
 
-O Gerenciamento de conta do Marketo Target reúne equipes de vendas e marketing para direcionar e envolver contas importantes de maneira altamente coordenada, preenchendo a lacuna entre a estratégia, a execução e o sucesso centrados em contas — tudo em uma única plataforma.
+O [!UICONTROL Gerenciamento de conta do Marketo] reúne equipes de vendas e marketing para direcionar e envolver contas importantes de maneira altamente coordenada, preenchendo a lacuna entre estratégia, execução e sucesso centrados em contas - tudo em uma única plataforma.
 
-Por que usar o Gerenciamento de conta do Marketo Target?
+Por que usar o [!UICONTROL Gerenciamento de conta do Marketo]?
 
 O Marketo unifica o TAM e o gerenciamento de clientes potenciais em uma única solução, facilitando para os profissionais de marketing a execução de campanhas personalizadas para contas e clientes potenciais em uma única movimentação. Você também se beneficia de alcançar os principais tomadores de decisão e influenciadores de negócios.
 

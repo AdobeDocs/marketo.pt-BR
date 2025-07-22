@@ -1,29 +1,29 @@
 ---
 unique-page-id: 10098379
-description: Usar a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado - Documentação do Marketo - Documentação do produto
+description: Use a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado - Documentação do Marketo - Documentação do produto
 title: Usar a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '351'
 ht-degree: 1%
 
 ---
 
-# Usar a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
+# Usar a Sincronização Rápida com [!DNL Microsoft Dynamics] para um Novo Campo Personalizado {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 Marketing ou Vendas quer um novo campo. Ou talvez tenha esquecido um na seleção de campo inicial. Ou suas necessidades mudaram. Em qualquer caso, você pode usar a Sincronização rápida para ressincronizar campos específicos.
 
 Normalmente, você usará a Sincronização rápida para adicionar um novo campo e atualizar os valores. No entanto, há casos em que você pode querer sincronizar um campo existente. Você pode restringir a sincronização de campo com base em um intervalo de datas atualizado ou criado. Consulte [Opções Avançadas de Sincronização](#Advanced_Sync_Options) abaixo para obter detalhes.
 
-A Sincronização Rápida pode sincronizar valores nulos. Por exemplo, se você estiver usando os valores A e B e alterar um valor B em Dinâmica para nulo, ele sincronizará o valor nulo com o Marketo.
+A Sincronização Rápida pode sincronizar valores nulos. Por exemplo, se você estiver usando valores A e B e alterar um valor B em [!DNL Dynamics] para nulo, ele sincronizará o valor nulo com o Marketo.
 
 ## Sincronização rápida para todos os registros {#quick-sync-for-all-records}
 
 Veja como usar a Sincronização rápida para ressincronizar novos campos.
 
-1. No Marketo Engage, clique em **[!UICONTROL Admin]**.
+1. No Marketo, clique em **[!UICONTROL Admin]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -31,7 +31,7 @@ Veja como usar a Sincronização rápida para ressincronizar novos campos.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Em Detalhes da sincronização de campo, clique em **[!UICONTROL Editar]**.
+1. Em [!UICONTROL Detalhes da Sincronização de Campo], clique em **[!UICONTROL Editar]**.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
@@ -75,7 +75,7 @@ E se você quiser sincronizar um campo existente, mas isso apenas para um conjun
 
 ## Correção de campos fora de sincronia {#fixing-out-of-sync-fields}
 
-No raro caso em que um campo do Dynamics e do Marketo está fora de sincronia, há uma maneira rápida e fácil de ressincronizá-los.
+No raro caso em que um campo do [!DNL Dynamics] e do Marketo estão fora de sincronia, há uma maneira rápida e fácil de ressincronizá-los.
 
 1. Desmarque o campo e clique em **[!UICONTROL Salvar]**.
 

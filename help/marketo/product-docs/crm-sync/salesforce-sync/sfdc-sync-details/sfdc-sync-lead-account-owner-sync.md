@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953463
-description: Sincronização do SFDC - Sincronização de cliente potencial/proprietário de conta - Documentação da Marketo - Documentação do produto
-title: Sincronização do SFDC - Sincronização de Cliente Potencial/Proprietário da Conta
+description: SFDC Sync - Sincronização de cliente potencial/proprietário de conta - Documentação do Marketo - Documentação do produto
+title: Sincronização do SFDC - Sincronização de cliente potencial/proprietário de conta
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 13%
 
 ---
 
-# Sincronização do SFDC: Sincronização de Cliente Potencial/Proprietário da Conta {#sfdc-sync-lead-account-owner-sync}
+# Sincronização da SFDC: sincronização do lead/proprietário da conta {#sfdc-sync-lead-account-owner-sync}
 
-Eles estão sincronizando tecnicamente a tabela &quot;usuário&quot; no Salesforce, no entanto, nos referiremos a ela como campos de líder/proprietário de conta.
+Eles estão sincronizando tecnicamente a tabela &quot;usuário&quot; em [!DNL Salesforce]. No entanto, nos referiremos a ela como campos de Líder/Proprietário da conta.
 
 ## Quais campos serão sincronizados com o Marketo Engage? {#which-fields-will-sync-to-marketo-engage}
 
@@ -46,6 +46,6 @@ Há vários motivos para usar esses dados, como
 * Enviar um email personalizado com assinatura do proprietário das vendas
 * Filtrar representantes de vendas específicos para marketing ou até mesmo analisar a eficácia
 * Regras de atribuição (e reatribuição) no Marketo
-* Use-os nas ações de fluxo [Alterar Proprietário](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sincronizar Pessoa com SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} e [Criar Tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
+* Use-os nas ações de fluxo [Alterar Proprietário](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sincronizar Pessoa com o SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} e [Criar Tarefa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
-O Marketo tem uma sincronização incrível do Salesforce. Ninguém mais faz tão bem!
+O Marketo tem uma sincronização [!DNL Salesforce] incrível. Ninguém mais faz tão bem!

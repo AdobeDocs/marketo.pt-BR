@@ -4,33 +4,33 @@ description: Configuração do Web Personalization para Não rastrear - Document
 title: Configuração do Web Personalization para Não Rastrear
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-# Configuração do Web Personalization para Não Rastrear {#setting-web-personalization-to-do-not-track}
+# Definindo [!UICONTROL Web Personalization] para Não Rastrear {#setting-web-personalization-to-do-not-track}
 
 Os visitantes da Web podem definir seu navegador para impedir o rastreamento por qualquer site, escolhendo &quot;Não rastrear&quot; (DNT). Isso impede o rastreamento desse navegador e dispositivo específico.
 
-No Web Personalization e no Predictive Content, um profissional de marketing pode definir um botão para indicar se deve suportar ou ignorar a configuração Do Not Track (DNT) do navegador. A alternância das contas é definida como desativada como padrão, o que significa que o DNT não é respeitado pelo aplicativo.
+No [!UICONTROL Web Personalization] e no [!UICONTROL Conteúdo preditivo], um profissional de marketing pode definir um botão para indicar se deve dar suporte ou ignorar a configuração Do Not Track (DNT) do navegador. A alternância das contas é definida como desativada como padrão, o que significa que o DNT não é respeitado pelo aplicativo.
 
 ## Ativar ou desativar a alternância {#enable-or-disable-the-toggle}
 
-1. Vá para **Configurações da conta**.
+1. Vá para **[!UICONTROL Configurações da conta]**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Em Configuração de Domínio e Domínio, selecione **Ativado** para habilitar a opção Honrar DNT.
+1. Em [!UICONTROL Domínio] e [!UICONTROL Configuração de Domínio], selecione **[!UICONTROL Ligado]** para habilitar a opção [!UICONTROL Honrar DNT].
 
    ![](assets/two-1.png)
 
-   Quando a opção estiver definida como Ativado, o Web Personalization seguirá e oferecerá suporte à configuração Não rastrear (DNT) do navegador e não rastreará nenhuma atividade da Web nem executará campanhas ou recomendações de conteúdo em seu site.
+   Quando a opção estiver definida como [!UICONTROL Ativado], o Web Personalization seguirá e oferecerá suporte à configuração Não Rastrear (DNT) do navegador e não rastreará nenhuma atividade da Web nem executará campanhas ou recomendações de conteúdo no seu site.
 
    >[!NOTE]
    >
-   >Alterar para Ativado pode afetar o valor e a funcionalidade do Marketo em áreas específicas.
+   >Configurar a alternância para [!UICONTROL Em] pode afetar o valor e a funcionalidade do Marketo em áreas específicas.
 
-1. Para desativar o botão Honrar DNT e ignorar a configuração Não Rastrear (DNT) do navegador, selecione **Desativado** em Honrar DNT.
+1. Para desabilitar a opção [!UICONTROL Honrar DNT] e ignorar a configuração Do No Track (DNT) do navegador, selecione **[!UICONTROL Desligado]** em [!UICONTROL Honrar DNT].

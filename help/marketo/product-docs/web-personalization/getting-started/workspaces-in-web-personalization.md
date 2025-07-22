@@ -4,16 +4,16 @@ description: Espaços de trabalho no Web Personalization - Documentação do Mar
 title: Espaços de trabalho no Web Personalization
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Espaços de trabalho no Web Personalization {#workspaces-in-web-personalization}
+# Espaços de trabalho em [!UICONTROL Web Personalization] {#workspaces-in-web-personalization}
 
-O Web Personalization oferece suporte a vários espaços de trabalho para campanhas da Web e segmentos da Web.
+O [!UICONTROL Web Personalization] oferece suporte a vários espaços de trabalho para campanhas da Web e segmentos da Web.
 
 ## Alternar espaços de trabalho {#switch-workspaces}
 
@@ -23,11 +23,11 @@ Para alternar entre espaços de trabalho na personalização da Web, clique no �
 
 ## Alterar o Workspace de um segmento {#change-a-segments-workspace}
 
-1. Vá para a página **Segmentos**, selecione um segmento e clique no ícone de edição.
+1. Vá para a página **[!UICONTROL Segmentos]**, selecione um segmento e clique no ícone de edição.
 
    ![](assets/ss4.png)
 
-1. Selecione um espaço de trabalho diferente no menu suspenso **Workspace**.
+1. Selecione um espaço de trabalho diferente no menu suspenso **[!UICONTROL Workspace]**.
 
    ![](assets/ss6.png)
 

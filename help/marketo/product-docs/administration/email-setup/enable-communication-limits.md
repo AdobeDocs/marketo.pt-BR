@@ -4,9 +4,9 @@ description: Habilitar limites de comunicação - Documentação do Marketo - Do
 title: Ativar limites de comunicação
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ ht-degree: 1%
    >
    >**Exemplo**
    >
-   >As configurações acima significam que as pessoas não receberão mais de **1 email por dia** ou mais de **5 em qualquer período de sete dias**.
+   >As configurações acima significam que as pessoas não receberão mais de **email por dia** ou mais de **5 em qualquer período de sete dias**.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[Aplicar limites de comunicação à Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Aplicar Limites de Comunicação a [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

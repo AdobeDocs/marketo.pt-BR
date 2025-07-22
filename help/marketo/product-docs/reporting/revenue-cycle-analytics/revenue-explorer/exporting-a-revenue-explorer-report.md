@@ -4,18 +4,18 @@ description: Exportar um relatório do Revenue Explorer - Marketo Docs - Documen
 title: Exportar um relatório do Gerenciador de receita
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '84'
 ht-degree: 2%
 
 ---
 
-# Exportar um relatório do Gerenciador de receita {#exporting-a-revenue-explorer-report}
+# Exportando um relatório do [!UICONTROL Gerenciador de Receita] {#exporting-a-revenue-explorer-report}
 
 Você pode exportar qualquer relatório do explorador de receita e compartilhá-lo com qualquer pessoa.
 
-1. Clique no ícone de engrenagem, selecione **Exportar** e selecione um formato de arquivo.
+1. Clique no ícone de engrenagem, selecione **[!UICONTROL Exportar]** e selecione um formato de arquivo.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -24,10 +24,10 @@ Você pode exportar qualquer relatório do explorador de receita e compartilhá-
    >É possível exportar um relatório para os três formatos a seguir:
    >
    >* PDF
-   >* Excel
+   >* [!DNL Excel]
    >* CSV
 
-1. Selecione o **Formato de Página** e a **Orientação** desejados e clique em **Exportar**.
+1. Selecione o **[!UICONTROL Formato de Página]** e a **[!UICONTROL Orientação]** desejados e clique em **[!UICONTROL Exportar]**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ Você pode exportar qualquer relatório do explorador de receita e compartilhá-
 
 >[!MORELIKETHIS]
 >
->[Assinar um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Assinar um [!UICONTROL Relatório do Gerenciador de Receitas]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

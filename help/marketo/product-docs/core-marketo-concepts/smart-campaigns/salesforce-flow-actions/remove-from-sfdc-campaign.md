@@ -4,24 +4,24 @@ description: Remover do SFDC Campaign - Documentação do Marketo - Documentaç�
 title: Remover da campanha da SFDC
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 7%
+source-wordcount: '104'
+ht-degree: 9%
 
 ---
 
 # Remover da campanha da SFDC {#remove-from-sfdc-campaign}
 
-Da mesma forma que você pode [Adicionar à Campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} e [Alterar status na Campanha SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}, também é possível remover pessoas ou clientes potenciais de uma campanha do Salesforce.
+Da mesma forma que você pode [Adicionar ao SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} e [Alterar Status no SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}, também é possível remover pessoas ou clientes potenciais de uma campanha do Salesforce.
 
 ![](assets/remove-from-sfdc-campaign-1.png)
 
 >[!NOTE]
 >
->Disponível somente quando integrado ao Salesforce.
+>Disponível somente quando integrado com [!DNL Salesforce].
 
-1. Depois de arrastar para a etapa de fluxo, localize e selecione a campanha do Salesforce da qual deseja remover a pessoa ou o cliente em potencial.
+1. Depois de arrastar para a etapa de fluxo, localize e selecione a campanha do Salesforce da qual deseja remover a pessoa ou lead.
 
    ![](assets/remove-from-sfdc-campaign-2.png)
 
@@ -29,4 +29,4 @@ Da mesma forma que você pode [Adicionar à Campanha SFDC](/help/marketo/product
    >
    >Se a pessoa ou o cliente em potencial não for um membro da campanha selecionada, eles serão ignorados.
 
-Pronto! Quando as pessoas ou os clientes potenciais continuarem, serão removidos da campanha do Salesforce que você escolheu.
+Pronto! Quando as pessoas ou os clientes potenciais continuarem, eles serão removidos da campanha [!DNL Salesforce] que você escolheu.

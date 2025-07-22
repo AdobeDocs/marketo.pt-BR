@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Escrevendo emails em massa com Selecionar e enviar {#composing-bulk-emails-with-select-and-send}
 
-Veja como enviar/editar emails usando a opção Selecionar e Enviar.
+Veja como enviar/editar emails usando a opção [!UICONTROL Selecionar] e [!UICONTROL Enviar].
 
 ## Enviando e-mails {#sending-emails}
 
-1. Navegue até a página Pessoas.
+1. Navegue até a **[!UICONTROL página Pessoas]**.
 
    ![](assets/composing-bulk-emails-with-select-and-send-1.png)
 
@@ -30,7 +30,7 @@ Veja como enviar/editar emails usando a opção Selecionar e Enviar.
    >
    >Um máximo de 200 pessoas podem ser selecionadas ao usar Selecionar e enviar.
 
-1. Clique no botão **Email selecionado**.
+1. Clique no botão **[!UICONTROL Email selecionado]**.
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
@@ -40,7 +40,7 @@ Veja como enviar/editar emails usando a opção Selecionar e Enviar.
 
    >[!NOTE]
    >
-   >Se você tiver selecionado um modelo e quiser verificar se todos os campos dinâmicos estão preenchidos corretamente antes de enviar, clique em **Visualizar Campos Dinâmicos**. Verifique se todos os destinatários na barra lateral em massa estão selecionados para visualização para todos os emails. Se você selecionar um email e clicar em **Visualizar Campos Dinâmicos**, somente esse email será visualizado.
+   >Se você tiver selecionado um modelo e quiser verificar se todos os campos dinâmicos estão preenchidos corretamente antes de enviar, clique em **[!UICONTROL Visualizar Campos Dinâmicos]**. Verifique se todos os destinatários na barra lateral em massa estão selecionados para visualização para todos os emails. Se você selecionar um email e clicar em **[!UICONTROL Visualizar Campos Dinâmicos]**, somente esse email será visualizado.
 
 ## Edição de emails {#editing-emails}
 
@@ -50,7 +50,7 @@ Veja como enviar/editar emails usando a opção Selecionar e Enviar.
 
    >[!NOTE]
    >
-   >Todos os recipients serão selecionados por padrão. Se você clicar em um indivíduo e quiser selecionar todos novamente, clique em **Todos os destinatários**. Como lembrete, todos os destinatários devem ser selecionados para fazer edições em massa.
+   >Todos os recipients serão selecionados por padrão. Se você clicar em um indivíduo e quiser selecionar todos novamente, clique em **[!UICONTROL Todos os destinatários]**. Como lembrete, todos os destinatários devem ser selecionados para fazer edições em massa.
 
 1. Faça as alterações no editor. Você pode criar um novo email ou editar um modelo (neste exemplo, estamos criando um novo email).
 
@@ -60,7 +60,7 @@ Veja como enviar/editar emails usando a opção Selecionar e Enviar.
    >
    >Você pode clicar em um destinatário de email específico para ver as alterações propagadas para esse email.
 
-1. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os destinatários as atualizações de email em massa que você fez.
+1. Clique em **[!UICONTROL Enviar]** (ou [[!UICONTROL Agendar]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os destinatários as atualizações de email em massa que você fez.
 
    ![](assets/composing-bulk-emails-with-select-and-send-6.png)
 
@@ -72,7 +72,7 @@ Conclua as Atualizações em massa antes de personalizar cada email, pois fazer 
 
    >[!NOTE]
    >
-   >Todos os recipients serão selecionados por padrão. Se você clicar em um indivíduo e quiser selecionar todos novamente, clique em **Todos os destinatários**. Como lembrete, todos os destinatários devem ser selecionados para fazer edições em massa.
+   >Todos os recipients serão selecionados por padrão. Se você clicar em um indivíduo e quiser selecionar todos novamente, clique em **[!UICONTROL Todos os destinatários]**. Como lembrete, todos os destinatários devem ser selecionados para fazer edições em massa.
 
 1. Selecione um recipient individual.
 
@@ -90,7 +90,7 @@ Conclua as Atualizações em massa antes de personalizar cada email, pois fazer 
    >
    >Você pode clicar em outros destinatários para ver que as alterações feitas no destinatário selecionado anteriormente não estão sendo exibidas.
 
-1. Clique em **Enviar** (ou [Agendar](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os destinatários as atualizações de email em massa que você fez.
+1. Clique em **[!UICONTROL Enviar]** (ou [[!UICONTROL Agendar]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) para enviar a todos os destinatários as atualizações de email em massa que você fez.
 
    ![](assets/composing-bulk-emails-with-select-and-send-9.png)
 

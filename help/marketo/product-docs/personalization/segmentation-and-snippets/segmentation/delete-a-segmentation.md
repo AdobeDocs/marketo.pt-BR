@@ -4,7 +4,7 @@ description: Excluir uma segmentação - Documentação do Marketo - Documentaç
 title: Excluir uma segmentação
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Uma segmentação pode ser excluída seguindo as etapas abaixo.
 
-1. Vá para o **Banco de Dados**.
+1. Vá para o **[!UICONTROL Banco de Dados]**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Vá para a segmentação e clique em **Usado por** para verificar as associações.
+1. Vá para a segmentação e clique em **[!UICONTROL Usado por]** para verificar as associações.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Se sua segmentação for usada por outros ativos, remova todas essas associações antes de continuar.
 
-1. Remova todas as associações e, em **Ações de segmentação**, clique em **Cancelar aprovação**.
+1. Remova todas as associações e, em **[!UICONTROL Ações de segmentação]**, clique em **[!UICONTROL Cancelar aprovação]**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
@@ -33,7 +33,7 @@ Uma segmentação pode ser excluída seguindo as etapas abaixo.
    >
    >Você pode remover associações excluindo ou criando alternativas para os ativos que usam a segmentação.
 
-1. Depois de cancelada a aprovação, clique em **Ações de segmentação** e exclua a segmentação.
+1. Depois de cancelada a aprovação, clique em **[!UICONTROL Ações de segmentação]** e [!UICONTROL Excluir] a segmentação.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 

@@ -1,32 +1,32 @@
 ---
-description: Sales Insight for Non-Native MS Dynamics Integrations - Marketo Docs - Documentação do produto
-title: Sales Insight para integrações não-nativas do MS Dynamics
+description: '[!DNL Sales Insight] para MS [!DNL Dynamics] Integrações não nativas - Documentação do Marketo - Documentação do produto'
+title: '[!DNL Sales Insight] para MS [!DNL Dynamics] Integrações Não Nativas'
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1258'
+source-wordcount: '1228'
 ht-degree: 0%
 
 ---
 
-# Sales Insight para integrações não-nativas do MS Dynamics {#sales-insight-for-non-native-ms-dynamics-integrations}
+# [!DNL Sales Insight] para integrações do MS [!DNL Dynamics] não nativo {#sales-insight-for-non-native-ms-dynamics-integrations}
 
-Se sua conta do Adobe Marketo Engage estiver conectada ao MS Dynamics por meio de uma integração personalizada ou não nativa, use este artigo para configurar o Sales Insight.
+Se sua conta do Adobe Marketo Engage estiver conectada ao MS [!DNL Dynamics] por meio de uma integração personalizada ou não nativa, use este artigo para configurar o [!DNL Sales Insight].
 
 >[!PREREQUISITES]
 >
->* O recurso &quot;MSI não nativo&quot; é ativado para a instância do Marketo antes de você iniciar a configuração do MSI. Se não estiver e você já tiver comprado o recurso, contate o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Se você ainda não adquiriu esse recurso, entre em contato com a equipe da conta do Adobe (seu gerente de conta).
+>* O recurso &quot;MSI não nativo&quot; é ativado para a instância do Marketo antes de você iniciar a configuração do MSI. Se não estiver e você já tiver comprado o recurso, contate o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Se você ainda não adquiriu esse recurso, entre em contato com a equipe de conta da Adobe (seu gerente de conta).
 >* Baixe o [Pacote MSI para Sincronização Personalizada](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 >* Uma assinatura do MS Dynamics com Instalação MSI (só há suporte para o [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} no momento).
->* API REST do Marketo [configurada com êxito](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. As APIs CRUD expostas serão a base para executar a sincronização não nativa.
+>* API REST do Marketo [configurada com êxito](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. As APIs CRUD expostas serão a base para executar a sincronização não nativa.
 >* Leia [esta postagem do blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} para entender o objeto e as relações.
 
 ## A sincronização não nativa bem-sucedida para o MSI requer o seguinte {#successful-non-native-sync-for-msi-requires-the-following}
 
-1. Sincronizar o Usuário de Vendas do MS Dynamics com o Marketo.
+1. Sincronize o Usuário de Vendas do MS [!DNL Dynamics] com o Marketo.
 
-   O Usuário de Vendas do MS Dynamics é um usuário externo que possui os Clientes Potenciais/Contatos no MS Dynamics. Um Vendedor do Marketo precisa ser substituído pelo Usuário de Vendas do MS Dynamics. O campo externalSalesPersonId é obrigatório para a substituição do Vendedor.
+   O Usuário de Vendas do MS [!DNL Dynamics] é um usuário externo que possui os Clientes Potenciais/Contatos no MS [!DNL Dynamics]. Um Vendedor do Marketo precisa ser substituído pelo Usuário de Vendas do MS [!DNL Dynamics]. O campo externalSalesPersonId é obrigatório para a substituição do Vendedor.
 
    <table> 
     <colgroup> 
@@ -37,23 +37,23 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao MS Dynamics por meio d
     <tbody> 
      <tr> 
       <td><strong>Campo do Vendedor do Marketo</strong></td> 
-      <td><strong>Campo de usuário do MS Dynamics</strong></td> 
+        <td><strong>Campo de usuários do MS <span class="dnl">Dynamics</span></strong></td> 
       <td><strong>Descrição</strong></td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Identificador exclusivo global que não diferencia maiúsculas de minúsculas do usuário do MS Dynamics</td> 
-      <td><p>Identifica o registro do Vendedor do Marketo para um objeto externo de Usuário do MS Dynamics.</p><p>É obrigatório que o Vendedor seja sincronizado primeiro antes de sincronizar os outros objetos para que os relacionamentos adequados sejam criados.</p></td> 
+        <td>Identificador global exclusivo que não diferencia maiúsculas de minúsculas do usuário do MS <span class="dnl">Dynamics</span></td> 
+      <td><p>Identifica o registro de Vendedor do Marketo para um objeto de Usuário do MS <span class="dnl">Dynamics</span> externo.</p><p>É obrigatório que o Vendedor seja sincronizado primeiro antes de sincronizar os outros objetos para que os relacionamentos adequados sejam criados.</p></td> 
      </tr> 
     </tbody> 
    </table>
 
-   * [Documentação de API para Vendedor](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * [Documentação de API para Vendedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * [Documentação de API para sincronizar o Vendedor](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
-1. Sincronizar as Contas do MS Dynamics com o Marketo.
+1. Sincronizar as Contas do MS [!DNL Dynamics] com a Marketo.
 
-   Uma Empresa do Marketo precisará ser substituída pela Conta do MS Dynamics. Os campos _externalCompanyId_ e _externalSalesPersonId_ são obrigatórios para a substituição da Empresa.
+   Será necessário substituir uma Empresa Marketo pela Conta MS [!DNL Dynamics]. Os campos _externalCompanyId_ e _externalSalesPersonId_ são obrigatórios para a substituição da Empresa.
 
    <table> 
     <colgroup> 
@@ -64,28 +64,28 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao MS Dynamics por meio d
     <tbody> 
      <tr> 
       <td><strong>Campo de empresa do Marketo</strong></td> 
-      <td><strong>Campo de conta do MS Dynamics</strong></td> 
+        <td><strong>Campo de Conta do MS <span class="dnl">Dynamics</span></strong></td> 
       <td><strong>Descrição</strong></td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Identificador exclusivo global que não diferencia maiúsculas de minúsculas da conta do MS Dynamics</td> 
-      <td>Identifica um registro da Marketo Company para um objeto externo de conta do MS Dynamics.</td> 
+        <td>Identificador exclusivo global sem diferenciação de maiúsculas e minúsculas da conta do MS <span class="dnl">Dynamics</span></td> 
+        <td>Identifica um registro da Marketo Company para um objeto externo de Conta do MS <span class="dnl">Dynamics</span>.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Identificador exclusivo global que não diferencia maiúsculas de minúsculas do usuário do MS Dynamics Sales</td> 
-      <td>Identifica um registro da Marketo Company para um objeto externo de usuário do MS Dynamics Sales que é o proprietário da conta.<br><br>Também usado no Marketo para associar a Empresa ao Vendedor que possui o registro da Empresa. É obrigatório sincronizar o Vendedor primeiro antes de definir esse campo.</td> 
+        <td>Identificador exclusivo global sem distinção entre maiúsculas e minúsculas do usuário de vendas do MS <span class="dnl">Dynamics</span></td> 
+        <td>Identifica um registro da Marketo Company para um objeto de usuário de vendas do MS <span class="dnl">Dynamics</span> externo que é o proprietário da conta.<br><br>Também usado no Marketo para associar a Empresa ao Vendedor que possui o registro da Empresa. É obrigatório sincronizar o Vendedor primeiro antes de definir esse campo.</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * Documentação de API para Empresas: [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * Documentação de API para Empresas: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * Documentação da API para sincronização de Empresas: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
-1. Sincronizar Clientes Potenciais/Contatos do MS Dynamics com a Marketo.
+1. Sincronizar Clientes Potenciais/Contatos do MS [!DNL Dynamics] com a Marketo.
 
-   Você precisará substituir um cliente em potencial da Marketo pelo contato/cliente em potencial do MS Dynamics. Os campos _externalPersonId_, _externalSalesPersonId_ e _externalCompanyId_ são obrigatórios para a substituição do lead.
+   Você precisará substituir um cliente em potencial da Marketo pelo cliente em potencial/contato do MS [!DNL Dynamics]. Os campos _externalPersonId_, _externalSalesPersonId_ e _externalCompanyId_ são obrigatórios para a substituição do lead.
 
    <table> 
     <colgroup> 
@@ -96,33 +96,33 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao MS Dynamics por meio d
     <tbody> 
      <tr> 
       <td><strong>Campo de clientes em potencial do Marketo</strong></td> 
-      <td><strong>Campo de Cliente Potencial/Contato do MS Dynamics</strong></td> 
+        <td><strong>Campo Cliente Potencial/Contato do MS <span class="dnl">Dynamics</span></strong></td> 
       <td><strong>Descrição</strong></td> 
      </tr> 
      <tr> 
       <td>externalPersonId</td> 
-      <td>Identificador global exclusivo que não diferencia maiúsculas de minúsculas do Cliente Potencial/Contato do MS Dynamics</td> 
-      <td>Identifica o registro de cliente potencial da Marketo para um objeto de contato/cliente potencial externo do MS Dynamics.<br><br>Este é um novo campo introduzido para Não Nativo MSI.</td> 
+        <td>Identificador exclusivo global do Cliente Potencial/Contato do MS <span class="dnl">Dynamics</span></td> 
+        <td>Identifica o registro de cliente potencial da Marketo para um objeto de contato/cliente potencial do MS <span class="dnl">Dynamics</span> externo.<br><br>Este é um novo campo introduzido para Não Nativo MSI.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Identificador exclusivo global que não diferencia maiúsculas de minúsculas do usuário do MS Dynamics Sales</td> 
-      <td>Identifica o objeto externo Usuário de Vendas do MS Dynamics que é proprietário deste Cliente Potencial/Contato.<br><br>Também relaciona o cliente potencial com o Vendedor na Marketo. É obrigatório sincronizar corretamente o Vendedor primeiro.</td> 
+        <td>Identificador exclusivo global sem distinção entre maiúsculas e minúsculas do usuário de vendas do MS <span class="dnl">Dynamics</span></td> 
+        <td>Identifica o objeto de Usuário de Vendas do MS <span class="dnl">Dynamics</span> externo que é proprietário deste Cliente Potencial/Contato.<br><br>Também relaciona o cliente potencial com o Vendedor na Marketo. É obrigatório sincronizar corretamente o Vendedor primeiro.</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Identificador exclusivo global que não diferencia maiúsculas de minúsculas da conta do MS Dynamics</td> 
-      <td>Identifica o objeto de Conta externa do MS Dynamics ao qual o Cliente Potencial/Contato pertence.<br><br>Também relaciona o registro de cliente potencial a uma Empresa no Marketo. É obrigatório que a Conta do MS Dynamics seja sincronizada corretamente primeiro.</td> 
+        <td>Identificador exclusivo global sem diferenciação de maiúsculas e minúsculas da conta do MS <span class="dnl">Dynamics</span></td> 
+        <td>Identifica o objeto de Conta do MS <span class="dnl">Dynamics</span> externo ao qual o Cliente Potencial/Contato pertence.<br><br>Também relaciona o registro de cliente potencial a uma Empresa no Marketo. É obrigatório que a Conta do MS <span class="dnl">Dynamics</span> seja sincronizada corretamente primeiro.</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * Documentação de API para clientes em potencial: [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * Documentação de API para clientes em potencial: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * Documentação da API para clientes em potencial de sincronização: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
-1. Sincronizar Oportunidades do MS Dynamics com o Marketo.
+1. Sincronizar as Oportunidades do MS [!DNL Dynamics] ao Marketo.
 
-   Será necessário substituir uma Oportunidade do Marketo pela Oportunidade do MS Dynamics. Os campos _externalOpportunityId_, _externalCompanyId_ e _externalSalesPersonId_ são obrigatórios para a substituição da Oportunidade.
+   Será necessário substituir uma Oportunidade da Marketo pela Oportunidade do MS [!DNL Dynamics]. Os campos _externalOpportunityId_, _externalCompanyId_ e _externalSalesPersonId_ são obrigatórios para a substituição da Oportunidade.
 
    <table> 
     <colgroup> 
@@ -133,33 +133,33 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao MS Dynamics por meio d
     <tbody> 
      <tr> 
       <td><strong>Campo de objeto de oportunidade do Marketo</strong></td> 
-      <td><strong>Campo de objeto de oportunidade do MS Dynamics</strong></td> 
+        <td><strong>Campo de objeto de oportunidade do MS <span class="dnl">Dynamics</span></strong></td> 
       <td><strong>Descrição</strong></td> 
      </tr> 
      <tr> 
       <td>externalOpportunityId</td> 
-      <td>Identificador global exclusivo que não diferencia maiúsculas de minúsculas do Cliente Potencial/Contato do MS Dynamics</td> 
-      <td>Identifica o registro de Oportunidade da Marketo para um objeto de Oportunidade externo do MS Dynamics.</td> 
+        <td>Identificador exclusivo global do Cliente Potencial/Contato do MS <span class="dnl">Dynamics</span></td> 
+      <td>Identifica o registro de Oportunidade da Marketo para um objeto de Oportunidade MS <span class="dnl">Dynamics</span> externo.</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
-      <td>Identificador exclusivo global que não diferencia maiúsculas de minúsculas da conta do MS Dynamics</td> 
-      <td>Identifica o objeto externo da Conta do MS Dynamics ao qual essa Oportunidade pertence. <br><br>É obrigatório que a Conta do MS Dynamics seja sincronizada corretamente primeiro.</td> 
+        <td>Identificador exclusivo global sem diferenciação de maiúsculas e minúsculas da conta do MS <span class="dnl">Dynamics</span></td> 
+        <td>Identifica o objeto de Conta do MS <span class="dnl">Dynamics</span> externo ao qual esta Oportunidade pertence. <br><br>É obrigatório que a conta do MS <span class="dnl">Dynamics</span> seja sincronizada corretamente primeiro.</td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
-      <td>Identificador exclusivo global que não diferencia maiúsculas de minúsculas do usuário do MS Dynamics Sales</td> 
-      <td>Identifica o objeto externo Usuário de Vendas do MS Dynamics que é proprietário desta Oportunidade. </td> 
+        <td>Identificador exclusivo global sem distinção entre maiúsculas e minúsculas do usuário de vendas do MS <span class="dnl">Dynamics</span></td> 
+        <td>Identifica o objeto de Usuário de Vendas do MS <span class="dnl">Dynamics</span> externo que é proprietário desta Oportunidade. </td> 
      </tr> 
     </tbody> 
    </table>
 
-   * Documentação de API da oportunidade: [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentação de API da oportunidade: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentação da API para oportunidades de sincronização: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
-1. Sincronizar Funções de Contato do MS Dynamics com o Marketo.
+1. Sincronizar Funções de Contato do MS [!DNL Dynamics] com o Marketo.
 
-   As funções de contato do MS Dynamics para uma oportunidade do MS Dynamics podem ser sincronizadas por meio da função Oportunidade do Marketo. O registro da Função de Oportunidade exige os campos _externalOpportunityId_, _role_ e _leadId_.
+   As Funções do Contato do MS [!DNL Dynamics] para uma Oportunidade do MS [!DNL Dynamics] podem ser sincronizadas por meio da Função da Oportunidade do Marketo. O registro da Função de Oportunidade exige os campos _externalOpportunityId_, _role_ e _leadId_.
 
    <table> 
     <colgroup> 
@@ -170,40 +170,40 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao MS Dynamics por meio d
     <tbody> 
      <tr> 
       <td><strong>Campo de função da oportunidade Marketo</strong></td> 
-      <td><strong>Campo de Função do Contato do MS Dynamics</strong></td> 
+        <td><strong>Campo de Função do Contato do MS <span class="dnl">Dynamics</span></strong></td> 
       <td><strong>Descrição</strong></td> 
      </tr> 
      <tr> 
       <td>externalOpportunityId</td> 
-      <td>Identificador global exclusivo que não diferencia maiúsculas de minúsculas no MS Dynamics Opportunity</td> 
-      <td>Identifica a função de oportunidade da Marketo para um objeto de oportunidade externo do MS Dynamics.<br><br>É obrigatório que a Oportunidade do MS Dynamics seja sincronizada corretamente primeiro.</td> 
+        <td>Identificador exclusivo global sem diferenciação de maiúsculas e minúsculas de oportunidade do MS <span class="dnl">Dynamics</span></td> 
+      <td>Identifica a Função de oportunidade do Marketo para um objeto de oportunidade MS <span class="dnl">Dynamics</span> externo.<br><br>É obrigatório que a Oportunidade do MS <span class="dnl">Dynamics</span> seja sincronizada corretamente primeiro.</td> 
      </tr> 
      <tr> 
       <td>leadId</td> 
       <td>N/D, essa seria uma ID de cliente potencial da Marketo</td> 
-      <td>Essa seria a ID do cliente potencial da Marketo do Contato sincronizado do MS Dynamics.<br><br>Depois que o contato for sincronizado no Marketo, você poderá usar o identificador exclusivo global, que não diferencia maiúsculas de minúsculas, do Contato do MS Dynamics como externalPersonId e consultar o cliente potencial do Marketo usando a API REST do Marketo.</td> 
+        <td>Esta seria a ID do cliente em potencial do Marketo do Contato sincronizado do MS <span class="dnl">Dynamics</span>.<br><br>Depois que o contato for sincronizado no Marketo, você poderá usar o identificador exclusivo global do MS <span class="dnl">Dynamics</span> Contact, que não diferencia maiúsculas de minúsculas, como externalPersonId e consultar o Marketo Lead usando a API REST do Marketo.</td> 
      </tr> 
      <tr> 
       <td>função</td> 
-      <td>O campo Função do Contato do MS Dynamics</td> 
+        <td>O campo Função do Contato do MS <span class="dnl">Dynamics</span></td> 
       <td>Descreve a função do contato para esta oportunidade.</td> 
      </tr> 
     </tbody> 
    </table>
 
-   * Documentação de API da oportunidade: [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentação de API da oportunidade: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentação da API para oportunidades de sincronização: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
-1. Sincronizar campos de Última Pontuação de Momento Interessante/MSI com o MS Dynamics.
+1. Sincronizar campos de Pontuação de Último Momento Interessante/MSI ao MS [!DNL Dynamics].
 
-   Depois que os objetos do MS Dynamics forem sincronizados corretamente com o Marketo, você poderá aproveitar os recursos do MSI. Os campos Último momento interessante/Pontuação do MSI serão expostos na API REST para leads. Esses campos são calculados pelo MSI e são somente leitura.
+   Depois que os objetos do MS [!DNL Dynamics] forem sincronizados corretamente com o Marketo, você poderá aproveitar os recursos do MSI. Os campos Último momento interessante/Pontuação do MSI serão expostos na API REST para leads. Esses campos são calculados pelo MSI e são somente leitura.
 
-   Os campos Último momento interessante/Pontuação de um lead da Marketo precisarão ser sincronizados regularmente com o MS Dynamics usando o endpoint do lead da API REST. Consulte este ponto de extremidade para um cliente potencial do Marketo usando a _externalPersonId_ como o filterType e transmitindo a GUID do cliente potencial do MS Dynamics como o filterValue.
+   Os campos Último momento interessante/Pontuação de um lead da Marketo precisarão ser sincronizados regularmente com o MS [!DNL Dynamics] usando o ponto de extremidade REST API Lead. Consulte esse ponto de extremidade para um cliente potencial da Marketo usando a _externalPersonId_ como o filterType e transmitindo a GUID do cliente potencial do MS [!DNL Dynamics] como o filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=MS DynamicsLeadId1,MS DynamicsLeadId2 |
    |---|
 
-   Em seguida, você pode usar os valores desses campos para sincronizar com o objeto de Cliente Potencial/Contato do MS Dynamics.
+   Em seguida, você pode usar os valores desses campos para sincronizar com seu objeto de Cliente Potencial/Contato do MS [!DNL Dynamics].
 
    <table> 
     <colgroup> 
@@ -214,7 +214,7 @@ Se sua conta do Adobe Marketo Engage estiver conectada ao MS Dynamics por meio d
     <tbody> 
      <tr> 
       <td><strong>Campo de clientes em potencial do Marketo</strong></td> 
-      <td><strong>Campo de Cliente Potencial/Contato do MS Dynamics</strong></td> 
+        <td><strong>Campo Cliente Potencial/Contato do MS <span class="dnl">Dynamics</span></strong></td> 
       <td><strong>Descrição</strong></td> 
      </tr> 
      <tr> 

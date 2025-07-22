@@ -1,31 +1,31 @@
 ---
 unique-page-id: 12981204
-description: Visão geral da análise de conteúdo preditivo - Documentação do Marketo - Documentação do produto
-title: Visão geral da análise de conteúdo preditivo
+description: Visão geral do Predictive Content Analytics - Documentação do Marketo - Documentação do produto
+title: Visão geral da Predictive Content Analytics
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 12%
+ht-degree: 8%
 
 ---
 
-# Visão geral da análise de conteúdo preditivo {#predictive-content-analytics-overview}
+# Visão geral da Predictive Content Analytics {#predictive-content-analytics-overview}
 
 Use a análise de conteúdo para obter mais insights sobre seu conteúdo existente, saber (com base em algoritmos de IA e Predictive ) qual conteúdo funciona para seus públicos e aumentar o ROI de seus esforços de marketing.
 
 >[!NOTE]
 >
->A guia Analytics e os recursos de análise de conteúdo estão disponíveis exclusivamente com o Marketo Predictive Content.
+>A guia [!UICONTROL Analytics] e os recursos de análise de conteúdo estão disponíveis exclusivamente com o Marketo Predictive Content.
 
 ## Visão geral {#overview}
 
-Na página Resumo, clique em **Analytics**.
+Na página Resumo, clique em **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-O Analytics inclui várias seções: Conteúdo principal por exibições, Conteúdo principal por taxa de conversão, Conteúdo de tendência, Conteúdo sugerido e Conteúdo.
+O [!UICONTROL Analytics] compreende várias seções: [!UICONTROL Conteúdo Principal por Exibições], [!UICONTROL Conteúdo Principal por Taxa de Conversão], [!UICONTROL Conteúdo de Tendências], [!UICONTROL Conteúdo Sugerido] e [!UICONTROL Conteúdo].
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Clique no botão de exportação para exportar os resultados dessa seção pelo 
 
 ![](assets/new-3point5.png)
 
-Você pode filtrar os resultados por vários atributos/propriedades (por exemplo, Lista de contas ABM, País etc.).
+Você pode filtrar os resultados por vários atributos/propriedades (por exemplo, [!UICONTROL Lista de Contas ABM], [!UICONTROL País], etc.).
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ Clique no ícone de calendário para alterar as datas dos dados refletidos. Esco
 
 ![](assets/dates.png)
 
-## Principal conteúdo por exibições {#top-content-by-views}
+## [!UICONTROL Principais Conteúdos por Exibições] {#top-content-by-views}
 
 Exibe as partes principais do conteúdo por número de visualizações por intervalo de datas selecionado.
 
 ![](assets/new-6.png)
 
-## Principal conteúdo por taxa de conversão {#top-content-by-conversion-rate}
+## [!UICONTROL Conteúdo principal por taxa de conversão] {#top-content-by-conversion-rate}
 
 Exibe o conteúdo de conversão principal por taxa de conversão para o intervalo de datas selecionado.
 
@@ -63,13 +63,13 @@ Exibe o conteúdo de conversão principal por taxa de conversão para o interval
 >
 >**Taxa de conversão**: uma porcentagem calculada por conversões diretas divididas por cliques.
 
-## Conteúdo em alta {#trending-content}
+## [!UICONTROL Conteúdo de tendência] {#trending-content}
 
 Exibe o aumento da popularidade de uma peça de conteúdo ao observar o aumento de visualizações nas últimas duas semanas em comparação com o mesmo período anterior.
 
 ![](assets/new-8.png)
 
-## Conteúdo sugerido {#suggested-content}
+## [!UICONTROL Conteúdo sugerido] {#suggested-content}
 
 Exibe o conteúdo que sugerimos que você promova em suas Atividades de marketing com base no filtro definido.
 
@@ -81,9 +81,9 @@ Passe o mouse sobre uma imagem no Conteúdo sugerido para revelar as opções di
 
 >[!NOTE]
 >
->Vê esses ícones na parte inferior? Da esquerda para a direita, estão: Exibir conteúdo, Exportar para CSV, Aprovar conteúdo.
+>Vê esses ícones na parte inferior? Da esquerda para a direita, eles estão: [!UICONTROL Exibir Conteúdo], [!UICONTROL Exportar para CSV], [!UICONTROL Aprovar Conteúdo].
 
-## Conteúdo {#content}
+## [!UICONTROL Conteúdo] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 

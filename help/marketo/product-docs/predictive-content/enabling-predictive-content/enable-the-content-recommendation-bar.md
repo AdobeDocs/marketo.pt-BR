@@ -4,7 +4,7 @@ description: Ativar a Barra de recomendação de conteúdo - Documentação do M
 title: Ativar a Barra de recomendação de conteúdo
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Ativar a Barra de recomendação de conteúdo {#enable-the-content-recommendation-bar}
 
-O Content Recommendation Engine usa análises preditivas e algoritmos de aprendizado de máquina para fornecer conteúdo relevante a cada visitante da Web. O mecanismo de recomendação prevê qual conteúdo teria melhor desempenho por visitante. O conteúdo do mecanismo é monitorado e controlado na página do Recommendations, ajudando você a otimizar o ROI do conteúdo.
+O Content Recommendation Engine usa análises preditivas e algoritmos de aprendizado de máquina para fornecer conteúdo relevante a cada visitante da Web. O mecanismo de recomendação prevê qual conteúdo teria melhor desempenho por visitante. O conteúdo do mecanismo é monitorado e controlado na página Recommendations, que ajuda a otimizar o ROI do conteúdo.
 
 >[!PREREQUISITES]
 >
@@ -29,19 +29,19 @@ O Content Recommendation Engine usa análises preditivas e algoritmos de aprendi
 
 ## Ativar e personalizar a barra de recomendação de conteúdo {#enable-and-customize-the-content-recommendation-bar}
 
-1. Vá para **Configurações de Conteúdo**.
+1. Vá para **[!UICONTROL Configurações de Conteúdo]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Clique em **Barra**.
+1. Clique em **[!UICONTROL Barra]**.
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Para habilitar a Barra de Recomendações para uma URL, basta clicar em **Ligado** e em **Salvar**.
+1. Para habilitar a Barra de Recomendações para uma URL, basta clicar em **[!UICONTROL Ligado]** e em **[!UICONTROL Salvar]**.
 
    ![](assets/bar-enable.png)
 
-1. Para personalizar um URL, selecione cores, estilo, formato, setas para a barra de recomendações e páginas para incluir ou excluir a barra. Personalize para se adequar à marca do seu site. Clique em **Salvar**.
+1. Para personalizar um URL, selecione cores, estilo, formato, setas para a barra de recomendações e páginas para incluir ou excluir a barra. Personalize para se adequar à marca do seu site. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -58,7 +58,7 @@ O Content Recommendation Engine usa análises preditivas e algoritmos de aprendi
 
 ## Considerações sobre a Barra de Recomendações {#recommendation-bar-considerations}
 
-* Você precisa de pelo menos um conteúdo para que a barra de recomendação seja definida como **Ativado** na página do Recommendations para que o mecanismo de recomendação funcione. Se nenhum conteúdo estiver habilitado e a Barra estiver definida como **Ativada**, o efeito de Seta será exibido na parte inferior direita da página da Web, mas nenhum conteúdo recomendado será exibido.
+* Você precisa de pelo menos um conteúdo para que a barra de recomendações seja definida como **[!UICONTROL Ativado]** na página Recomendações para que o mecanismo de Recomendação funcione. Se nenhum conteúdo estiver habilitado e a Barra estiver definida como **[!UICONTROL Ativada]**, o efeito de Seta será exibido na parte inferior direita da página da Web, mas nenhum conteúdo recomendado será exibido.
 
 * Quanto mais conteúdo for executado no mecanismo de recomendação, melhor será para o algoritmo testar e saber qual conteúdo funciona melhor. Recomendamos começar com 10 a 20 partes de conteúdo em execução e ativas e continuar adicionando novas.
 * A parte de conteúdo que você habilita para recomendação deve incluir a tag Javascript RTP. Isso ajuda o algoritmo a rastrear e otimizar o conteúdo recomendado.

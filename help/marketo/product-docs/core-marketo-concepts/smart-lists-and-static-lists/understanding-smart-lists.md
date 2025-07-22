@@ -4,7 +4,7 @@ description: Noções básicas sobre Smart Lists - Documentação do Marketo - D
 title: Noções básicas sobre Smart Lists
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Aqui você pode [editar o nome da Smart List](/help/marketo/product-docs/core-ma
 
 ## Guia Lista inteligente {#smart-list-tab}
 
-Você adiciona e define os filtros para ver um grupo específico de pessoas na guia Pessoas.
+Adicione e defina os filtros para ver um grupo específico de pessoas na guia [!UICONTROL Pessoas].
 
 ![](assets/understanding-smart-lists-3.png)
 

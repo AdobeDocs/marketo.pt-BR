@@ -4,7 +4,7 @@ description: Criar um modelo de email - Documentação do Marketo - Documentaç�
 title: Criar um modelo de email
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Siga estas etapas para criar um novo template de email.
 
 >[!NOTE]
 >
->O Suporte da Marketo não está configurado para ajudar na solução de problemas de HTML personalizado. Para obter assistência para o HTML, consulte um desenvolvedor da Web.
+>O Suporte da Marketo não está configurado para ajudar na solução de problemas do HTML personalizado. Para obter assistência da HTML, consulte um desenvolvedor da Web.
 
 >[!CAUTION]
 >
@@ -25,19 +25,19 @@ Siga estas etapas para criar um novo template de email.
 
 ## Criar um novo modelo de email {#create-a-new-email-template}
 
-1. Clique em **Design Studio**.
+1. Clique em **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Clique em **Novo** e selecione **Novo Modelo de email**.
+1. Clique em **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo Modelo de email]**.
 
    ![](assets/ds-two.png)
 
-1. Dê um nome ao novo modelo e clique em **Criar**.
+1. Dê um nome ao novo modelo e clique em **[!UICONTROL Criar]**.
 
    ![](assets/three-1.png)
 
-1. Para começar a editar seu novo modelo, clique em **Editar Rascunho**.
+1. Para começar a editar seu novo modelo, clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/4.png)
 
@@ -49,19 +49,19 @@ Siga estas etapas para criar um novo template de email.
 
 Se você criou um email que gostaria de salvar como modelo para uso futuro, siga estas etapas simples.
 
-1. Clique em **Atividades de marketing**.
+1. Clique em **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one.png)
 
-1. Localize e selecione seu email e clique em **Editar Rascunho**.
+1. Localize e selecione seu email e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/two-1.png)
 
-1. Clique no menu suspenso **Ações de email** e selecione **Salvar como modelo**.
+1. Clique no menu suspenso **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Salvar como modelo]**.
 
    ![](assets/four-1.png)
 
-1. Clique no menu suspenso **Pasta**, selecione onde deseja que o modelo fique e clique em **Salvar**.
+1. Clique no menu suspenso **[!UICONTROL Pasta]**, selecione onde deseja que o modelo fique e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/five-1.png)
 

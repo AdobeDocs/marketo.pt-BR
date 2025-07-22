@@ -4,7 +4,7 @@ description: Relatório de atividades da página da Web - Documentação do Mark
 title: Relatório de atividades da página da Web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 3%
@@ -32,7 +32,7 @@ Você pode optar por exibir pessoas conhecidas ou pessoas anônimas, mas não am
 
    >[!NOTE]
    >
-   >Pode levar até 24 horas para que os dados sejam refletidos em um Relatório de atividade de página da Web.
+   >Pode levar até 24 horas para que os dados sejam refletidos em um Relatório de [!UICONTROL Atividade da página da Web].
 
    >[!TIP]
    >

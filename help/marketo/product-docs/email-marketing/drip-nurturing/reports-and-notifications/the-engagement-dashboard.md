@@ -4,7 +4,7 @@ description: Painel de envolvimentos - Documentação do Marketo - Documentaçã
 title: O Painel de Envolvimento
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -21,7 +21,7 @@ O Painel de envolvimentos é a maneira mais fácil de ver o desempenho do conte�
 
 ## Exibir o painel de engajamento {#view-the-engagement-dashboard}
 
-Selecione seu programa de envolvimento e clique em **Exibir** > **Painel**.
+Selecione seu programa de envolvimento e clique em **Exibir** > **[!UICONTROL Painel]**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ Esse widget ajuda você a prever quando os clientes potenciais terão esgotado t
 
 >[!NOTE]
 >
->Você deve ir para a guia Configuração e verificar se as Notificações de Conteúdo Esgotado estão **Ligadas** para ver o gráfico acima. Se estiverem desativados, o gráfico será diferente.
+>Você deve ir para a guia [!UICONTROL Configuração] e verificar se as [!UICONTROL Notificações de Conteúdo Esgotado] estão **[!UICONTROL Ativadas]** para ver o gráfico acima. Se estiverem desativados, o gráfico será diferente.
 
 >[!CAUTION]
 >
@@ -49,7 +49,7 @@ Mostra a pontuação média de engajamento ao longo do tempo e o impacto das edi
 
 >[!AVAILABILITY]
 >
->Esse recurso está disponível como um complemento para clientes que utilizam o Gerenciador de ciclo de receita da Marketo. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Esse recurso está disponível como um complemento para clientes que utilizam o Gerenciador de ciclo de receita da Marketo. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

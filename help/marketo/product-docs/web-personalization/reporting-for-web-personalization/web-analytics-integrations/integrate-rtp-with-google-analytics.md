@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949158
-description: Integração do RTP com o Google Analytics - Documentação do Marketo - Documentação do produto
-title: Integrar o RTP com o Google Analytics
+description: Integração do RTP ao Google Analytics - Documentação do Marketo - Documentação do produto
+title: Integrar o RTP ao Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '581'
 ht-degree: 0%
 
 ---
 
-# Integrar o RTP com o Google Analytics {#integrate-rtp-with-google-analytics}
+# Integrar o RTP ao Google Analytics {#integrate-rtp-with-google-analytics}
 
 >[!NOTE]
 >
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 ## Introdução {#introduction}
 
-Analise sua análise da Web de um novo ângulo usando o fluxo de dados direto do Marketo Real-Time Personalization (RTP) para sua conta Google Analytics (GA). Meça suas visitas da Web no GA de acordo com organizações, setores e campanhas RTP. Visualize métricas como os tipos de setores ou segmentos RTP no GA e como eles executam e geram leads de acordo com diferentes fontes de tráfego (social, paga, orgânica), analisando taxas de click-through em campanhas e medindo o impacto que as campanhas de personalização têm em seu site. Aproveite essa capacidade para obter o máximo benefício da sua conta RTP
+Analise sua análise da Web de um novo ângulo usando o fluxo direto de dados do Marketo Real-Time Personalization (RTP) para sua conta do Google Analytics (GA). Meça suas visitas da Web no GA de acordo com organizações, setores e campanhas RTP. Visualize métricas como os tipos de setores ou segmentos RTP no GA e como eles executam e geram leads de acordo com diferentes fontes de tráfego (social, paga, orgânica), analisando taxas de click-through em campanhas e medindo o impacto que as campanhas de personalização têm em seu site. Aproveite essa capacidade para obter o máximo benefício da sua conta RTP
 
-**Audience Analytics RTP**
+**RTP Audience Analytics**
 
 Com a integração, você terá uma nova dimensão em sua conta do GA. O RTP aprimora automaticamente seus painéis com:
 
@@ -62,15 +62,15 @@ Meça suas campanhas RTP e correlacione-as com a média geral do site. Saiba com
 
 ![](assets/image2014-11-28-16-3a47-3a0.png)
 
-## Configuração do RTP com Google Analytics {#setting-up-rtp-with-google-analytics}
+## Configuração do RTP com o Google Analytics {#setting-up-rtp-with-google-analytics}
 
 1. Adicione o email rtp.ga2@gmail.com como um usuário de Leitura e Análise à sua conta do GA. Para obter mais detalhes, consulte [aqui](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. Na sua conta RTP. Vá para **Configurações da conta**.
+1. Na sua conta RTP. Vá para **[!UICONTROL Configurações da conta]**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Em **Configurações de Conta**, **Domínio** e **Analytics**.
+1. Em **[!UICONTROL Configurações de Conta]**, **[!UICONTROL Domínio]** e **[!UICONTROL Analytics]**.
 
 1. Clique em **Google Analytics**.
 
@@ -80,16 +80,16 @@ Meça suas campanhas RTP e correlacione-as com a média geral do site. Saiba com
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
 >[!NOTE]
 >
->Para enviar dados de segmento para o GA, na [página Editar segmento](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) da plataforma RTP, marque a caixa de seleção **Enviar evento para Google Analytics na Correspondência de segmentos**.
+>Para enviar dados de segmento para o GA, na [[!UICONTROL página Editar segmento]](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) da plataforma RTP, marque a caixa de seleção **[!UICONTROL Enviar evento para o Google Analytics na correspondência de segmentos]**.
 
 ## Configuração de relatórios do Google Analytics com dados RTP {#setting-up-google-analytics-reports-with-rtp-data}
 
-No Google Analytics, é possível usar painéis, segmentação do GA e relatórios para exibir seus dados de RTP:
+No Google Analytics, você pode usar painéis, segmentação do GA e relatórios para exibir seus dados de RTP:
 
 * Os [painéis](https://support.google.com/analytics/answer/1068216?hl=en) fornecem uma visão geral do desempenho do site.
 * Um Segmento do GA tem como objetivo filtrar visitantes na interface do GA e visualizar o tráfego por segmento. Veja como criar um segmento [aqui](https://support.google.com/analytics/answer/3124493?hl=en).
-* Criando [relatórios personalizados](https://support.google.com/analytics/answer/1033013?hl=en) para exibir e/ou configurar emails agendados. Consulte em Personalização > Novo relatório personalizado.
+* Criando [relatórios personalizados](https://support.google.com/analytics/answer/1033013?hl=en) para exibir e/ou configurar emails agendados. Consulte em **[!UICONTROL Personalização]** > **[!UICONTROL Novo Relatório Personalizado]**.

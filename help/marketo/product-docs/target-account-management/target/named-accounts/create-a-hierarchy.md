@@ -4,7 +4,7 @@ description: Criar uma hierarquia - Documentação do Marketo - Documentação d
 title: Criar uma Hierarquia
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 As hierarquias devem ser criadas em CRMs. No entanto, se você não tiver um CRM, siga estas etapas para criar uma hierarquia manualmente.
 
-1. Em Contas Nomeadas, clique na caixa de seleção **Agrupar por Hierarquia**.
+1. Em [!UICONTROL Contas Nomeadas], clique na caixa de seleção **[!UICONTROL Agrupar por Hierarquia]**.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ As hierarquias devem ser criadas em CRMs. No entanto, se você não tiver um CRM
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Clique no menu suspenso **Ações da Conta Nomeada** e selecione **Vincular à Conta Nomeada**.
+1. Clique no menu suspenso **[!UICONTROL Ações da Conta Nomeada]** e selecione **[!UICONTROL Vincular à Conta Nomeada]**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Se quiser desvincular contas, siga as etapas acima, mas escolha **Desvincular da conta nomeada**.
+   >Se quiser desvincular contas, siga as etapas acima, mas escolha **[!UICONTROL Desvincular da conta nomeada]**.
 
-1. Selecione uma Conta nomeada pai no menu suspenso e clique em **Link**.
+1. Selecione uma Conta nomeada pai no menu suspenso e clique em **[!UICONTROL Link]**.
 
    ![](assets/create-a-hierarchy-4.png)
 

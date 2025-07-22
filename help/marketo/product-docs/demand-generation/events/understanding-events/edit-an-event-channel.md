@@ -4,7 +4,7 @@ description: Editar um canal de evento - Documentação do Marketo - Documentaç
 title: Editar um canal de evento
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 2%
@@ -25,43 +25,43 @@ Você pode editar o tipo de canal na guia **Resumo** do evento ou na guia **Conf
 
 ## Na guia Summary {#from-the-summary-tab}
 
-1. Em **Atividades de marketing**, selecione seu evento na árvore.
+1. Em **[!UICONTROL Atividades de marketing]**, selecione seu evento na árvore.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navegue até a exibição **Resumo**.
+1. Navegue até a exibição **[!UICONTROL Resumo]**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Na categoria **Configurações**, selecione o **Canal** atual exibido como um hiperlink.
+1. Na categoria **[!UICONTROL Configurações]**, selecione o **[!UICONTROL Canal]** atual exibido como um hiperlink.
 
    ![](assets/channeltypeevent.png)
 
-1. Na lista suspensa, selecione um novo canal.
+1. Na lista suspensa, selecione um novo **[!UICONTROL Canal]**.
 
    ![](assets/tradeshowchange.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## Na guia Configuração {#from-the-setup-tab}
 
-Um novo tipo de canal também pode ser atribuído na guia **Configuração** do evento.
+Um novo tipo de canal também pode ser atribuído na guia **[!UICONTROL Configuração]** do evento.
 
 1. Selecione o evento na árvore.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navegue até a guia **Configuração**. Clique duas vezes no **Canal** atual.
+1. Navegue até a guia **[!UICONTROL Configuração]**. Clique duas vezes no **Canal** atual.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Selecione um novo **Canal**.
+1. Selecione um novo **[!UICONTROL Canal]**.
 
    ![](assets/tradeshowchange.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

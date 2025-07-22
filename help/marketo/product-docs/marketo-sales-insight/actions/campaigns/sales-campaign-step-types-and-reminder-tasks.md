@@ -3,7 +3,7 @@ description: Tipos de etapa da campanha de vendas e tarefas de lembrete - Docume
 title: Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 1%
@@ -24,9 +24,9 @@ Redija um novo email ou use um modelo preexistente.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Usar um Modelo** | Selecione um dos modelos pré-existentes |
+| **[!UICONTROL Usar um Modelo]** | Selecione um dos modelos pré-existentes |
 |---|---|
-| **Salvar como Modelo** | Salve o email que acabou de compor como um novo modelo |
+| **[!UICONTROL Salvar como Modelo]** | Salve o email que acabou de compor como um novo modelo |
 | **Adicionar conteúdo** | Faça upload de um arquivo no nosso servidor e receba um URL (apontando para o conteúdo) que possa ser rastreado no seu email |
 | **Anexar Arquivos** | Anexar um arquivo do seu computador ao email (limite de tamanho de 23 MB) |
 
@@ -42,7 +42,7 @@ Defina um lembrete para acompanhar um contato por telefone. Você também pode s
 
 ### InMail {#inmail}
 
-Acompanhar em vários canais é uma ótima maneira de se conectar com clientes potenciais. Com tarefas do InMail, você pode configurar um lembrete para entrar em contato por meio do LinkedIn.
+Acompanhar em vários canais é uma ótima maneira de se conectar com clientes potenciais. Com tarefas do InMail, você pode configurar um lembrete para acessar por meio do LinkedIn.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-4.png)
 

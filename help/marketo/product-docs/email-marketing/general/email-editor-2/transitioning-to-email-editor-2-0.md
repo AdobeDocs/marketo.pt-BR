@@ -6,16 +6,16 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
 
-# Transição para o Editor de email 2.0 {#transitioning-to-email-editor}
+# Transição para [!DNL Email Editor 2.0] {#transitioning-to-email-editor}
 
-Desde a versão de junho de 2019, todas as assinaturas do Marketo passaram para o Editor de email 2.0. [Saiba mais](https://nation.marketo.com/docs/DOC-7038) sobre a desativação do Editor de email 1.0.
+A partir da versão de junho de 2019, todas as assinaturas do Marketo passaram para [!DNL Email Editor 2.0]. [Saiba mais](https://nation.marketo.com/docs/DOC-7038) sobre a descontinuação de [!DNL Email Editor 1.0].
 
 Emails e templates de email em sua assinatura devem ter um número de versão. A versão pode ser encontrada na página de resumo do ativo.
 
@@ -24,15 +24,15 @@ Emails e templates de email em sua assinatura devem ter um número de versão. A
 Por padrão, todos os emails e modelos de email existentes serão marcados como v1.0 se tiverem sido criados antes da versão do primeiro trimestre de 1916 ou após o lançamento, quando o Editor de email 2.0 estiver desativado. Com o Editor de email 2.0 ativado automaticamente, você verá o seguinte comportamento:
 
 * Ao criar um novo email, o [Seletor de Modelo de Email](email-template-picker-overview.md) será exibido e você poderá escolher um modelo de email v2.0.
-* Sempre que você criar ou editar um email com o Editor de email 2.0, o email resultante será **sempre** marcado como v2.0 (mesmo se você tiver usado um modelo de email v1.0).
+* Sempre que você criar ou editar um email com [!DNL Email Editor 2.0], o email resultante será **sempre** marcado como v2.0 (mesmo se você tiver usado um modelo de email v1.0).
 
-Se sua assinatura tiver emails v1.0 antes de migrar para o Editor de email 2.0, você terá o seguinte comportamento com base no estado atual do ativo:
+Se sua assinatura tiver emails v1.0 antes de migrar para o [!DNL Email Editor 2.0], você terá o seguinte comportamento com base no estado atual do ativo:
 
 **Aprovado** - Clicar em &quot;Editar rascunho&quot; criará um rascunho v2.0 do email aprovado. Se você aprovar o rascunho da v2.0, o estado aprovado do email se tornará v2.0 e não haverá como reverter para a v1.0.\
 **Rascunho** - Clicar em &quot;Editar Rascunho&quot; marcará automaticamente esse rascunho como v2.0. Nesse momento, não será possível descartar e reverter para a v1.0 porque não há uma versão aprovada do ativo.
 **Aprovado com Rascunho** - Clicar em &quot;Editar Rascunho&quot; marcará automaticamente esse rascunho como v2.0. Por causa disso, também não há como reverter o rascunho para a v1.0.
 
-Se sua assinatura tiver modelos de email v1.0 antes de migrar para o Editor de email 2.0, você terá o seguinte comportamento:
+Se sua assinatura tiver modelos de email v1.0 antes de migrar para o [!DNL Email Editor 2.0], você terá o seguinte comportamento:
 
 **Aprovado** - Clicar em &quot;Editar rascunho&quot; criará um rascunho v2.0 do modelo de email existente.
 **Rascunho** - Clicar em &quot;Editar Rascunho&quot; marcará automaticamente esse rascunho como v2.0. Nesse momento, não seria possível descartar e reverter para a v1.0 porque não há uma versão aprovada do ativo.
@@ -60,9 +60,9 @@ Itens a Observar
 
 * Os modelos de email aprovados **nunca** foram alterados.
 
-* Em alguns casos **raros**, um email v1.0 não pode ser aberto no Editor de email 2.0. Se isso ocorrer, descarte o rascunho e entre em contato com o Suporte da Marketo.
+* Em alguns casos **raros**, um email v1.0 não pode ser aberto em [!DNL Email Editor 2.0]. Se isso ocorrer, descarte o rascunho e entre em contato com o Suporte da Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Visão geral do Editor de Email 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [[!DNL Email Editor 2.0] Visão geral](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 >* [Sintaxe do modelo de email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

@@ -4,9 +4,9 @@ description: Exibir informações e atividades de pessoas e contas no Google Mai
 title: Exibir informações e atividades de pessoas e contas no Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ A guia Atividade da pessoa exibe informações relevantes sobre a pessoa, como n
 
 ![](assets/1.png)
 
-A guia Atividade da conta exibe informações relevantes da conta, como nome da empresa, URL do site e local. A guia também exibe as atividades mais recentes da conta. A conta é identificada pelo domínio de pessoa. As atividades são exibidas na lista se algum usuário do Sales Insight em sua assinatura tiver correspondido a elas.
+A guia Atividade da conta exibe informações relevantes da conta, como nome da empresa, URL do site e local. A guia também exibe as atividades mais recentes da conta. A conta é identificada pelo domínio de pessoa. As atividades serão exibidas na lista se algum usuário do Sales Insight em sua assinatura tiver correspondência com elas.
 
 ![](assets/2.png)
 
@@ -39,9 +39,9 @@ Clique no ícone do Marketo para expandir o painel.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Exibir atividades no Google Chrome {#view-activities-in-google-chrome}
+## Exibir atividades em [!DNL Google Chrome] {#view-activities-in-google-chrome}
 
-Você também pode usar o Painel de atividade global no Google Chrome para ver uma lista completa das atividades mais recentes que ocorreram para todas as pessoas às quais você se correspondeu recentemente. Este é um feed atualizado em tempo real que exibe continuamente o número de atividades não lidas no ícone.
+Você também pode usar o Painel de Atividade Global no [!DNL Google Chrome] para ver uma lista completa das atividades mais recentes que ocorreram para todas as pessoas às quais você se correspondeu recentemente. Este é um feed atualizado em tempo real que exibe continuamente o número de atividades não lidas no ícone.
 
 Clique no ícone do Marketo para abrir o painel.
 
@@ -49,4 +49,4 @@ Clique no ícone do Marketo para abrir o painel.
 
 >[!MORELIKETHIS]
 >
->[Usando o Marketo Insights para o Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Usando o Marketo Insights para [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

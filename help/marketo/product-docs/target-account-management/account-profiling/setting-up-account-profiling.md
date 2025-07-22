@@ -4,7 +4,7 @@ description: Configuração do perfil da conta - Documentação do Marketo - Doc
 title: Configuração do perfil da conta
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 2%
@@ -30,19 +30,19 @@ Siga estas etapas para começar a usar a Criação de perfil da conta.
 >
 >Saiba como [reexibir um campo aqui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. Em Minha Marketo, abra **Gerenciamento de Conta do Target**.
+1. Em Minha Marketo, abra **[!UICONTROL Gerenciamento de Conta do Target]**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Clique na guia **Perfil da conta**.
+1. Clique na guia **[!UICONTROL Perfil da conta]**.
 
    ![](assets/two-1.png)
 
-1. A guia Modelo é aberta por padrão. Clique em **Introdução**.
+1. A guia Modelo é aberta por padrão. Clique em **[!UICONTROL Introdução]**.
 
    ![](assets/three.png)
 
-1. Dê um nome ao seu modelo e escolha o tipo de lista/lista de pessoas que servirão como base para o Perfil de cliente ideal (ICP). Clique em **Criar Modelo** quando terminar.
+1. Dê um nome ao seu modelo e escolha o tipo de lista/lista de pessoas que servirão como base para o Perfil de cliente ideal (ICP). Clique em **[!UICONTROL Criar Modelo]** quando terminar.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -50,7 +50,7 @@ Siga estas etapas para começar a usar a Criação de perfil da conta.
 
    ![](assets/five.png)
 
-1. Para ver os resultados do seu modelo, clique em **Ver Resultado do Modelo**.
+1. Para ver os resultados do seu modelo, clique em **[!UICONTROL Ver Resultado do Modelo]**.
 
    ![](assets/six.png)
 

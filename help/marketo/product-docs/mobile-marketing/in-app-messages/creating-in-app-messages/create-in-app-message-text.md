@@ -4,7 +4,7 @@ description: Criar texto de mensagem no aplicativo - Documentação do Marketo -
 title: Criar texto de mensagem no aplicativo
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Clique na área de texto para trabalhar com seu estilo de texto e conteúdo.
    >
    >A fonte de texto renderizada no anúncio é a padrão para cada plataforma: Helvetica para Apple e Roboto para Android
 
-1. Marque a caixa para selecionar a ação de toque de Texto.
+1. Marque a caixa para selecionar **[!UICONTROL Ação de toque de texto]**.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -57,7 +57,7 @@ Clique na área de texto para trabalhar com seu estilo de texto e conteúdo.
 
    >[!NOTE]
    >
-   >Para ações de toque, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, os deep links são tratados de forma diferente para o Apple e o Android. Se a mensagem for para apenas uma plataforma ou outra, é possível deixar a outra na configuração padrão ou selecionar Nenhuma.
+   >Para ações de toque, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, os deep links são tratados de forma diferente para o Apple e o Android. Se a sua mensagem vai para apenas uma plataforma ou outra, você pode deixar a outra na configuração padrão ou selecionar [!UICONTROL Nenhuma].
 
 1. Clique no Texto de suporte para editá-lo em linha. Funciona da mesma forma que editar o texto principal, mas o tamanho padrão do texto é menor.
 
@@ -67,13 +67,13 @@ Clique na área de texto para trabalhar com seu estilo de texto e conteúdo.
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Selecione um Meu token no menu suspenso, adicione um valor padrão e clique em **Inserir**.
+1. Selecione um Meu token no menu suspenso, adicione um valor padrão e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Somente Meus tokens estão disponíveis como opções. Se Meus tokens não tiverem sido configurados no programa, o menu suspenso de tokens estará vazio.
+   >Somente Meus tokens estão disponíveis como opções. Se nenhum Meu token foi configurado no programa, o menu suspenso [!UICONTROL Token] ficará vazio.
 
    >[!TIP]
    >

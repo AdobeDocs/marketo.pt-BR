@@ -4,14 +4,14 @@ description: Exclusão de um campo em um relatório do Gerenciador de receita - 
 title: Exclusão de um Campo em um Relatório do Gerenciador de Receita
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Exclusão de um Campo em um Relatório do Gerenciador de Receita {#deleting-a-field-in-a-revenue-explorer-report}
+# Excluindo um Campo em um Relatório do [!UICONTROL Gerenciador de Receita] {#deleting-a-field-in-a-revenue-explorer-report}
 
 Às vezes, você pode arrastar um campo errado para o relatório. Veja como removê-lo:
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Salvando um Relatório do Gerenciador de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Salvando um [!UICONTROL Relatório do Gerenciador de Receita]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

@@ -4,7 +4,7 @@ description: Priorização De Campanhas Da Web - Documentação Do Marketo - Doc
 title: Priorização de campanhas da Web
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Priorize suas campanhas da Web quando duas ou mais campanhas se sobrepuserem, de
 >
 >Uma campanha Na zona e uma campanha (Widget ou Caixa de diálogo) podem reagir na mesma página.
 
-1. Vá para Campanhas da Web.
+1. Vá para **[!UICONTROL Campanhas da Web]**.
 
    ![](assets/web-campaigns-hand-6.jpg)
 
@@ -34,16 +34,16 @@ Priorize suas campanhas da Web quando duas ou mais campanhas se sobrepuserem, de
    >
    >Para facilitar a localização da campanha da Web desejada, use o [recurso de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Na página Editar campanha, defina a Pontuação de prioridade (9999 = Prioridade mais alta 1 = Prioridade mais baixa).
+1. Na página Editar campanha, defina a [!UICONTROL Pontuação de prioridade] (9999 = Prioridade mais alta 1 = Prioridade mais baixa).
 
    ![](assets/image2015-7-9-20-3a20-3a58.png)
 
    >[!TIP]
    >
-   >Recomendamos que você use a Pontuação de prioridade da campanha somente se houver uma sobreposição potencial de campanha, com uma importância maior de uma das campanhas. Você não precisa definir uma prioridade para cada campanha.
+   >Recomendamos que você use a campanha [!UICONTROL Pontuação de prioridade] somente se houver uma possível sobreposição de campanha, com uma importância maior de uma das campanhas. Você não precisa definir uma prioridade para cada campanha.
 
 1. Salvar ou iniciar a campanha.
 
-1. Consulte a Pontuação de prioridade exibida na página Campanhas da Web.
+1. Consulte a [!UICONTROL Pontuação de Prioridade] exibida na página [!UICONTROL Campanhas da Web].
 
 ![](assets/web-campaign-priority-score.jpg)

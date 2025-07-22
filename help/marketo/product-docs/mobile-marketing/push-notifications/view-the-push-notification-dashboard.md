@@ -4,7 +4,7 @@ description: Exibir o painel de notificação por push - Documentação do Marke
 title: Exibir o painel de notificação por push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 É fácil ver como as notificações por push estão se saindo.
 
-1. Vá para a área **Atividades de marketing**.
+1. Vá para a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Clique em **Exibir: Resumo** e selecione **Painel**.
+1. Clique em **[!UICONTROL Exibir: Resumo]** e selecione **[!UICONTROL Painel]**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Você pode visualizar o Total de toques enviados e o Total de toques do iOS e do Android em gráficos de círculo. Role para baixo para ver Tocar em Declínio em gráficos de barras.
+1. Você pode ver o [!UICONTROL Total de Envios] e o [!UICONTROL Total de Toques] do iOS e do Android em gráficos de círculo. Role para baixo para ver [!UICONTROL Toque em Declínio] em gráficos de barras.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

@@ -4,20 +4,20 @@ description: Definir uma lista inteligente para atividades do Web Personalizatio
 title: Definir uma lista inteligente para atividades do Web Personalization
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-# Definir uma lista inteligente para atividades do Web Personalization {#define-a-smart-list-for-web-personalization-activities}
+# Definir uma lista inteligente para atividades do [!DNL Web Personalization] {#define-a-smart-list-for-web-personalization-activities}
 
-Você pode usar atividades do Web Personalization em filtros e acionadores ao definir uma lista inteligente em uma campanha inteligente. Aqui, você deseja capturar qualquer pessoa que clicou em uma chamada para ação (campanha) do Web Personalization.
+Você pode usar [!DNL Web Personalization] atividades em filtros e acionadores ao definir uma lista inteligente em uma campanha inteligente. Aqui, você deseja capturar qualquer pessoa que clicou em um [!DNL Web Personalization] call to action (campanha).
 
-Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pontuação com base nos visitantes que clicaram e se envolveram com uma chamada para ação do Web Personalization. Também é possível filtrar e exibir os leads que clicaram em uma chamada para ação do Web Personalization.
+Use um acionador para enviar um email ou alerta, ou alterar um valor ou uma pontuação com base nos visitantes que clicaram e se envolveram com uma call to action [!DNL Web Personalization]. Você também pode filtrar e visualizar os clientes em potencial que clicaram em um call to action [!DNL Web Personalization].
 
-1. Na sua campanha inteligente, clique na guia **Smart List**.
+1. Na sua campanha inteligente, clique na guia **[!UICONTROL Smart List]**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 

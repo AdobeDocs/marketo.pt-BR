@@ -4,9 +4,9 @@ description: Usar tokens em etapas de fluxo - Documentação do Marketo - Docume
 title: Usar tokens em etapas de fluxo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ Um token é uma variável. Você o usa em emails, Landing Pages e Campanhas inte
 * Alterar valor dos dados
 * Alterar dados dos membros do programa
 * Momento interessante
-* Etapas da campanha do Salesforce (adicionar, remover, alterar status)
+* [!DNL Salesforce] Etapas da campanha (adicionar, remover, alterar status)
 * Criar tarefa
 * Enviar alerta (somente em Campanhas de acionamento)
 

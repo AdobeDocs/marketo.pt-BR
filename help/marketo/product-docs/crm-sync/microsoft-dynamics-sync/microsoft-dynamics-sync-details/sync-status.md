@@ -4,7 +4,7 @@ description: Status da sincronização - Documentação do Marketo - Documentaç
 title: Status da sincronização
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
@@ -13,11 +13,11 @@ ht-degree: 2%
 
 # Status da sincronização {#sync-status}
 
-Você pode manter guias sobre a taxa de transferência e o backlog atuais do processo de sincronização nas guias Status da sincronização e Erros de sincronização.
+Você pode manter guias da taxa de transferência e da lista de pendências atuais do processo de sincronização nas guias [!UICONTROL Status de sincronização] e [!UICONTROL Erros de sincronização].
 
-## Guia Status de sincronização {#sync-status-tab}
+## Guia [!UICONTROL Status de sincronização] {#sync-status-tab}
 
-1. Clique em **[!UICONTROL Admin]** e depois em **[!UICONTROL Microsoft Dynamics]**.
+1. Clique em **[!UICONTROL Admin]** e **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
@@ -45,9 +45,9 @@ Você pode manter guias sobre a taxa de transferência e o backlog atuais do pro
 
    >[!NOTE]
    >
-   >Quando você estiver olhando para a visualização Última hora, as colunas Inserções e Atualizações exibem N/D. Esse é o comportamento esperado.
+   >Quando você estiver olhando para a exibição [!UICONTROL Última Hora], as colunas [!UICONTROL Inserções] e [!UICONTROL Atualizações] exibem N/D. Esse é o comportamento esperado.
 
-## Guia Erros de sincronização {#sync-errors-tab}
+## Guia [!UICONTROL Erros de sincronização] {#sync-errors-tab}
 
 Procurar, pesquisar ou exportar clientes em potencial (e outros objetos) que não foram sincronizados com detalhes como operação, direção, código de erro e mensagem de erro.
 

@@ -4,7 +4,7 @@ description: Definir configurações de evento e Sincronizar o Marketo com seu w
 title: Definir configurações de evento e sincronizar o Marketo com seu webinário
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 1%
@@ -17,19 +17,19 @@ Siga estas etapas para definir as configurações do evento do Marketo e conecta
 
 ## Definir o evento {#set-the-event}
 
-1. Escolha o evento que deseja associar a um webinário ON24, clique no menu suspenso **Ações de Evento** e selecione **Configurações de Evento**.
+1. Escolha o evento que deseja associar a um webinário ON24, clique no menu suspenso **[!UICONTROL Ações de Evento]** e selecione **[!UICONTROL Configurações de Evento]**.
 
    ![](assets/one.png)
 
-1. Selecione ON24 como Parceiro de Evento.
+1. Selecione ON24 como o [!UICONTROL Parceiro de Evento].
 
    ![](assets/two.png)
 
-1. Selecione a conta de Logon (por exemplo, o nome de exibição).
+1. Selecione a conta do [!UICONTROL Logon] (por exemplo, o nome para exibição).
 
    ![](assets/three.png)
 
-1. Insira a ID do evento (obtenha isso do ON24). Clique em **Salvar**.
+1. Insira a [!UICONTROL Id do Evento] (obtenha isso do ON24). Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/four.png)
 
@@ -39,19 +39,19 @@ Siga estas etapas para definir as configurações do evento do Marketo e conecta
 
 ## Definir a programação {#set-the-schedule}
 
-Quando você configura um evento associado a um Webinar do ON24, a programação de evento é preenchida com dados do ON24. Para acessar a caixa de diálogo Agendamento de evento, siga estas etapas.
+Quando você configura um evento associado a um Webinar do ON24, a programação de evento é preenchida com dados do ON24. Para acessar a caixa de diálogo [!UICONTROL Agendamento de Eventos], siga estas etapas.
 
-1. Selecione o evento. Clique no menu suspenso **Ações de Evento** e selecione **Agendar.**
+1. Selecione o evento. Clique no menu suspenso **[!UICONTROL Ações de Evento]** e selecione **[!UICONTROL Agendar].**
 
    ![](assets/five.png)
 
-1. Escolha sua **Data de Início, Data de Término** e **Fuso Horário**. Clique em **Salvar**.
+1. Escolha sua **[!UICONTROL Data de Início]**, **[!UICONTROL Data de Término]** e **[!UICONTROL Fuso Horário]**. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Se você atualizar qualquer informação de evento no ON24, deverá clicar em **Atualizar do Provedor de Webinar** no menu Ações de Evento para ver os novos dados preenchidos.
+   >Se você atualizar qualquer informação de evento no ON24, deverá clicar em **[!UICONTROL Atualizar do Provedor de Webinar]** no menu [!UICONTROL Ações de Evento] para ver os novos dados preenchidos.
 
 Agora você pode seguir para a próxima etapa: [criar campanhas filho e ativos locais](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 

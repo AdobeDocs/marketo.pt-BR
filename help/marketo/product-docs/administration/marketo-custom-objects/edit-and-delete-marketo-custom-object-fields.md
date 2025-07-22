@@ -4,10 +4,10 @@ description: Editar e excluir campos de objeto personalizado do Marketo - Docume
 title: Editar e excluir campos de objeto personalizado do Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Não é possível editar o Nome da API.
 
-1. As alterações são exibidas na lista Campos.
+1. As alterações aparecem na listagem **[!UICONTROL Campos]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 

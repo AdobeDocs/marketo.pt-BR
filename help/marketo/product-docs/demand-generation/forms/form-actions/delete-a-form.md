@@ -4,7 +4,7 @@ description: Excluir um formulário - Documentação do Marketo - Documentação
 title: Excluir um Formulário
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Se você tiver um formulário de que não precisa e que não está sendo usado, é possível excluí-lo. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Se você tiver um formulário de que não precisa e que não está sendo usado, 
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Em **Ações de formulário**, clique em **Excluir formulário**.
+1. Em **[!UICONTROL Ações de formulário]**, clique em **[!UICONTROL Excluir formulário]**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ Se você tiver um formulário de que não precisa e que não está sendo usado, 
    >
    >Lembre-se de remover o formulário de qualquer/todas as páginas de aterrissagem que o utilizam. Além disso, confirme se o formulário não está sendo usado em um site público.
 
-1. Confirme clicando em **Excluir**.
+1. Confirme clicando em **[!UICONTROL Excluir]**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 

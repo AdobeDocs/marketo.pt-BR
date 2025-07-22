@@ -4,7 +4,7 @@ description: Usar um formulário em um Lightbox - Documentação do Marketo - Do
 title: Usar um formulário em um Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Uma Lightbox é uma técnica que abre um formulário na frente do conteúdo quando você deseja que ele seja exibido. Veja como.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ Uma Lightbox é uma técnica que abre um formulário na frente do conteúdo quan
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Em **Ações de Formulário**, clique em **Incorporar Código**.
+1. Em **[!UICONTROL Ações de Formulário]**, clique em **[!UICONTROL Incorporar Código]**.
 
    >[!NOTE]
    >
@@ -31,11 +31,11 @@ Uma Lightbox é uma técnica que abre um formulário na frente do conteúdo quan
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Definir **Tipo de Código** como **Lightbox**.
+1. Definir **[!UICONTROL Tipo de Código]** como **[!UICONTROL Lightbox]**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Selecione/copie o código e clique em **Fechar**.
+1. Selecione/copie o código e clique em **[!UICONTROL Fechar]**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 

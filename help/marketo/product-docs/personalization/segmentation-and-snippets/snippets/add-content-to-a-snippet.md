@@ -4,10 +4,10 @@ description: Adicionar conteúdo a um trecho - Documentação do Marketo - Docum
 title: Adicionar conteúdo a um trecho
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '201'
+ht-degree: 0%
 
 ---
 
@@ -23,29 +23,29 @@ ht-degree: 2%
 >
 >Você não pode incorporar nenhuma [sintaxe de email do Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) em trechos; isso **não** funcionará em um email. Os trechos devem ser apenas conteúdo do corpo (HTML + TEXT).
 
-1. Vá para o **Design Studio**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-2.png)
 
-1. Selecione seu **trecho** e clique em **Editar rascunho**.
+1. Selecione seu **trecho** e clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
 Você pode adicionar três tipos de conteúdo a um trecho.
 
-## Adicionar token {#add-token}
+## Adicionar [!UICONTROL Token] {#add-token}
 
-1. Arraste e solte o elemento **Token**.
+1. Arraste e solte o elemento **[!UICONTROL Token]**.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Insira o **Token** e clique em **Inserir**.
+1. Insira o **[!UICONTROL Token]** e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Adicionar imagem/arquivo {#add-image-file}
 
-1. Arraste e solte o elemento **Image/File**.
+1. Arraste e solte o elemento **[!UICONTROL Image/File]**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ Você pode adicionar três tipos de conteúdo a um trecho.
    >
    >Você pode adicionar suas próprias imagens ou arquivos ao Marketo. Saiba mais sobre [imagens e arquivos](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Selecione a **Imagem** a ser usada e clique em **Inserir**.
+1. Selecione a **Imagem** a ser usada e clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ Você pode adicionar três tipos de conteúdo a um trecho.
    >
    >Use as ferramentas de formatação para personalizar o texto.
 
-1. Para Emails, clique na guia **Versão do Texto**.
+1. Para Emails, clique na guia **[!UICONTROL Versão do Texto (para emails)]**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Clique em **Copiar do HTML**.
+1. Clique em **[!UICONTROL Copiar do HTML]**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

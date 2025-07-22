@@ -4,7 +4,7 @@ description: Remover um membro de um programa de engajamento - Documentação do
 title: Remover um membro de um programa de engajamento
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Remover um membro de um programa de engajamento {#remove-a-member-from-an-engagement-program}
 
-Ih! Como essas pessoas entraram lá? Você pode remover membros de um programa de envolvimento com a etapa de fluxo **Alterar status do programa**.
+Ih! Como essas pessoas entraram lá? Você pode remover membros de um programa de envolvimento com a etapa de fluxo **[!UICONTROL Alterar status do programa]**.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ Ih! Como essas pessoas entraram lá? Você pode remover membros de um programa d
 
 ## Etapa do fluxo {#flow-step}
 
-1. Arraste na etapa de fluxo **Alterar status do programa**.
+1. Arraste na etapa de fluxo **[!UICONTROL Alterar status do programa]**.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Escolha o status, **Não está no Programa**.
+   Escolha o status, **[!UICONTROL Não está no Programa]**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
@@ -33,7 +33,7 @@ Ih! Como essas pessoas entraram lá? Você pode remover membros de um programa d
 
 ## Pausar pessoas  {#pause-people}
 
-Às vezes, você só quer pausar pessoas em um programa de envolvimento e não removê-las. Isso é feito com a **Cadência do programa de compromisso de alteração**.
+Às vezes, você só quer pausar pessoas em um programa de envolvimento e não removê-las. Isso é feito com a **[!UICONTROL Cadência do programa de compromisso de alteração]**.
 
 >[!MORELIKETHIS]
 >

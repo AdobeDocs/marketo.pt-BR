@@ -4,7 +4,7 @@ description: Reprogramar um programa inteiro na exibição de programação - Do
 title: Reprogramando um Programa Inteiro na View Programação
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 1%
@@ -23,11 +23,11 @@ Ao clonar um programa ou evento com datas, você provavelmente desejará reagend
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Selecione uma entrada de âncora. Com base nessa movimentação, todas as outras entradas se moverão juntamente com ela.
+1. Selecione uma [!UICONTROL Entrada de Âncora]. Com base nessa movimentação, todas as outras entradas se moverão juntamente com ela.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. Escolha a nova data de início.
+1. Escolha a data de [!UICONTROL Novo Início].
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 

@@ -4,7 +4,7 @@ description: Exibir o painel do programa de e-mail - Documentação do Marketo -
 title: Exibir o painel do programa de e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Confira o desempenho do seu programa de email (com ou sem um teste A/B) com esse
 
 ## Selecione seu programa de email {#select-your-email-program}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

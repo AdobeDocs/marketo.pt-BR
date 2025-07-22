@@ -1,35 +1,35 @@
 ---
 unique-page-id: 10099102
-description: Versões de plug-in do Microsoft Dynamics MSI - Documentação do Marketo - Documentação do produto
-title: Versões de plug-in do MSI do Microsoft Dynamics
+description: Versões de plug-in do  [!DNL Microsoft Dynamics] MSI - Documentação do Marketo - Documentação do produto
+title: Versões de plug-in para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
-# Versões de plug-in do MSI do Microsoft Dynamics {#plug-in-releases-for-microsoft-dynamics-msi}
+# Versões de plug-in para [!DNL Microsoft Dynamics] MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Ao sincronizar pela primeira vez com o Microsoft Dynamics, você baixa e instala a versão mais recente dos plug-ins para o Marketo Sales Insight (MSI). Periodicamente, o Marketo Engage atualiza esses plug-ins para que você possa retornar ao mesmo lugar para baixar a nova versão.
+Ao sincronizar pela primeira vez com o [!DNL Microsoft Dynamics], você baixará e instalará a versão mais recente dos plug-ins para o Marketo Sales Insight (MSI). Periodicamente, o Marketo atualiza esses plug-ins para que você possa retornar ao mesmo lugar para baixar a nova versão.
 
-Se você estiver usando a solução de sincronização do CRM nativo da Marketo para o Dynamics, [baixe o plug-in mais recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondente à sua versão do Dynamics. Para quem tem uma sincronização personalizada e comprou o Marketo Sales Insight, o [pacote está aqui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Se você estiver usando a solução de sincronização nativa do CRM da Marketo para [!DNL Dynamics], [baixe o plug-in mais recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondente à sua versão [!DNL Dynamics]. Para aqueles que têm uma sincronização personalizada e compraram o Marketo Sales Insight, o [pacote está aqui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
->Essas versões funcionam para versões local e online do Dynamics.
+>Essas versões funcionam para as versões local e online do [!DNL Dynamics].
 
 ## Atualização da solução MSI {#upgrading-your-msi-solution}
 
-1. Importe a versão mais recente da solução _sobre a versão existente_ do Dynamics CRM pressionando o botão **[!UICONTROL Importar]** no Dynamics.
+1. Importe a versão mais recente da solução _sobre a versão existente_ do seu CRM [!DNL Dynamics] pressionando o botão **[!UICONTROL Importar]** no [!DNL Dynamics].
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Exemplo: se seu Dynamics CRM tem a versão 2.0.0.20 e a versão mais recente é a 2.0.0.21, você importaria _sobre_ a versão 2.0.0.20.
+>Exemplo: se o seu CRM do [!DNL Dynamics] tiver a versão 2.0.0.20 e a última versão for 2.0.0.21, você importaria _sobre_ a versão 2.0.0.20.
 
 1. Clique em **[!UICONTROL Avançar]**.
 
@@ -113,7 +113,7 @@ E é isso! Após a atualização, você verá apenas uma Solução MSI.
   <tr> 
    <td>12/06/20</td> 
    <td>2.0.0.19</td> 
-   <td>Correção de erros: para ocultar a senha secreta MSI na configuração da API MSD.</td> 
+   <td>Correção de erros: para ocultar a senha secreta MSI na configuração da API do MSD.</td> 
   </tr> 
   <tr> 
    <td>26/05/20</td> 
@@ -128,7 +128,7 @@ E é isso! Após a atualização, você verá apenas uma Solução MSI.
   <tr> 
    <td>28/04/20</td> 
    <td>2.0.0.16</td> 
-   <td>Correção de erros: removendo a dependência do link de configuração do mapa de site do CRM MSD.</td> 
+   <td>Correção de erros: removendo a dependência do link de configuração do mapa de site do MSD CRM.</td> 
   </tr> 
  </tbody> 
 </table>

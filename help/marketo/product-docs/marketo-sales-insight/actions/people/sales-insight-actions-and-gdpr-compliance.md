@@ -1,12 +1,12 @@
 ---
-description: Ações do Sales Insight e conformidade com o GDPR - Documentação da Marketo - Documentação do produto
+description: Ações do Sales Insight e conformidade com o GDPR - Documentação do Marketo - Documentação do produto
 title: Ações do Sales Insight e conformidade com o GDPR
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 10%
+source-wordcount: '1370'
+ht-degree: 8%
 
 ---
 
@@ -31,7 +31,7 @@ Além disso, há um novo requisito de responsabilidade para poder demonstrar com
 
 ## A Quem Se Aplica? {#to-whom-does-it-apply}
 
-O GDPR aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços para titulares de dados na UE e no EEE e/ou que acompanhe os seus comportamentos. Se você faz negócios com titulares de dados na Europa que envolvem o processamento de dados pessoais, esta legislação se aplica a você. As penalidades por não conformidade são significativas, com multas elevadas para quem viola o regulamento; a multa máxima por uma única violação é de 20 milhões de euros ou 4% do volume de negócios mundial anual, o que for maior.
+O RGPD aplica-se a qualquer organização dentro ou fora da UE que comercialize bens ou serviços para titulares de dados na UE e no EEE e/ou que acompanhe os seus comportamentos. Se você faz negócios com titulares de dados na Europa que envolvem o processamento de dados pessoais, esta legislação se aplica a você. As penalidades por não conformidade são significativas, com multas elevadas para quem viola o regulamento; a multa máxima por uma única violação é de 20 milhões de euros ou 4% do volume de negócios mundial anual, o que for maior.
 
 ## Implicações para o marketing {#implications-for-marketing}
 
@@ -41,19 +41,19 @@ A maneira como os profissionais de marketing abordam essas expectativas mais alt
 
 Há dois aspectos principais do GDPR em que os profissionais de marketing precisam analisar práticas passadas, atuais e futuras. O primeiro é o consentimento do indivíduo para processar seus dados pessoais, e o segundo é a responsabilidade, ou seja, poder demonstrar como os princípios do GDPR estão sendo seguidos.
 
-Fornecemos informações abrangentes sobre consentimento e responsabilidade na plataforma da Marketo em nosso e-book, [GDPR e O profissional de marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, vamos nos concentrar especificamente nos novos recursos das Ações de insights de vendas que ajudarão sua organização a seguir as regras do GDPR.
+Fornecemos informações abrangentes sobre consentimento e responsabilidade na plataforma da Marketo em nosso e-book, [GDPR e O profissional de marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). No entanto, neste artigo, vamos nos concentrar especificamente nos novos recursos do [!DNL Sales Insight Actions] que ajudarão sua organização a seguir as regras do GDPR.
 
-## Conformidade com o GDPR em ações do Sales Insight {#gdpr-compliance-in-marketo-sales-connect}
+## Conformidade com o GDPR em [!DNL Sales Insight Actions] {#gdpr-compliance-in-marketo-sales-connect}
 
-As Ações de insight de vendas são um aplicativo eficiente — parte da Plataforma de envolvimento da Marketo — que fornece um fluxo de trabalho e uma visualização únicos para vendas e marketing, a fim de impulsionar coletivamente o pipeline por meio do envolvimento colaborativo. A nova funcionalidade em Ações do Sales Insight foi criada especificamente com a conformidade do GDPR em mente. Descreveremos todas as três funções e explicaremos como elas, quando usadas corretamente, ajudarão nos esforços de conformidade do GDPR da sua organização.
+O [!DNL Sales Insight Actions] é um aplicativo eficiente — parte da Plataforma de engajamento da Marketo — que fornece um fluxo de trabalho e uma visualização únicos para vendas e marketing para impulsionar coletivamente o pipeline por meio do engajamento colaborativo. A nova funcionalidade em [!DNL Sales Insight Actions] foi criada especificamente com a conformidade do GDPR em mente. Descreveremos todas as três funções e explicaremos como elas, quando usadas corretamente, ajudarão nos esforços de conformidade do GDPR da sua organização.
 
 ## Cartão de conformidade {#compliance-card}
 
-As Ações do Sales Insight incluem um Cartão de Conformidade na Exibição de Detalhes da Pessoa para fornecer informações importantes sobre o Tipo de Autorização de um contato, bem como seu Tipo Source. Isso permite que os usuários adicionem e rastreiem facilmente informações essenciais à privacidade dos dados e os ajuda a tomar decisões mais informadas sobre a estratégia de campanha/alcance.
+[!DNL Sales Insight Actions] inclui um Cartão de Conformidade na Exibição de Detalhes da Pessoa para fornecer informações importantes sobre o Tipo de Autorização de um contato, bem como seu Tipo de Source. Isso permite que os usuários adicionem e rastreiem facilmente informações essenciais à privacidade dos dados e os ajuda a tomar decisões mais informadas sobre a estratégia de campanha/alcance.
 
 **Tipo de Autorização do Contato**
 
-No Cartão de conformidade, os usuários podem rastrear a base legal para processar os dados pessoais de um contato por meio do menu suspenso Autorização. Entender o tipo de autorização de um contato ajuda os usuários das Ações de Insight de vendas a tomar decisões mais conscientes em relação às práticas de alcance, garantindo que cada campanha ou envolvimento seja legal e apropriado.
+No Cartão de conformidade, os usuários podem rastrear a base legal para processar os dados pessoais de um contato por meio do menu suspenso Autorização. Compreender o tipo de autorização de um contato ajuda [!DNL Sales Insight Actions] usuários a tomar decisões mais informadas sobre práticas de alcance, garantindo que cada campanha ou compromisso seja legal e apropriado.
 
 Os usuários têm várias opções para escolher, incluindo:
 
@@ -67,39 +67,39 @@ Os usuários têm várias opções para escolher, incluindo:
 
 **Tipo de Source de Contato**
 
-No novo Cartão de conformidade, os usuários podem rastrear a origem de um contato. O Tipo de Source define de onde vieram as informações de um contato quando carregadas inicialmente nas Ações do Sales Insight. Entender o tipo de origem de um contato também ajuda nas decisões relacionadas às práticas de alcance, bem como determinar quais outros sistemas ou locais os dados pessoais são armazenados, garantindo que cada envolvimento esteja em conformidade com a legislação do GDPR.
+No novo Cartão de conformidade, os usuários podem rastrear a origem de um contato. O Tipo de Source define de onde vieram as informações de um contato quando carregadas inicialmente no [!DNL Sales Insight Actions]. Entender o tipo de origem de um contato também ajuda nas decisões relacionadas às práticas de alcance, bem como determinar quais outros sistemas ou locais os dados pessoais são armazenados, garantindo que cada envolvimento esteja em conformidade com a legislação do GDPR.
 
 Novamente, os usuários têm várias opções suspensas para escolher, incluindo:
 
-* Sincronização com CRM
-* Importar
-* Upload manual
-* Extensão do Chrome
-* Outro
+* [!UICONTROL Sincronização do CRM]
+* [!UICONTROL Importar]
+* [!UICONTROL Carregamento Manual]
+* [!UICONTROL Extensão do Chrome]
+* [!UICONTROL Outras]
 
 **Editando o Cartão de Conformidade**
 
-Quando a Exibição de Detalhes da Pessoa estiver aberta, clique em **Editar** no Cartão de Conformidade.
+Quando a Exibição de Detalhes da Pessoa estiver aberta, clique em **[!UICONTROL Editar]** no Cartão de Conformidade.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Você verá dois menus suspensos: Tipo de autorização e Tipo de Source.
+Você verá dois menus suspensos: [!UICONTROL Tipo de Autorização] e [!UICONTROL Tipo Source].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-Se você escolher &quot;Consentimento&quot; como o Tipo de autorização, dois campos obrigatórios: &quot;Data de consentimento&quot; e &quot;Finalidade do processamento&quot; serão exibidos. Esses dois campos não se aplicam a outras opções.
+Se você escolher &quot;Consentimento&quot; como o [!UICONTROL Tipo de Autorização], dois campos obrigatórios: &quot;[!UICONTROL Data de Consentimento]&quot; e &quot;[!UICONTROL Finalidade do Processamento]&quot; serão exibidos. Esses dois campos não se aplicam a outras opções.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Se &quot;Outro&quot; for escolhido como Tipo de autorização ou Tipo de Source, você poderá inserir texto para descrever o Tipo de Source.
+Se &quot;[!UICONTROL Outro]&quot; for escolhido para o [!UICONTROL Tipo de Autorização] ou o [!UICONTROL Tipo de Source], você poderá inserir texto para descrever o [!UICONTROL Tipo de Source].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
 **Ações em massa**
 
-As Ações de Insight de vendas também permitem atualizar os tipos de Autorização e Source de um contato em massa, economizando tempo valioso no processo de conformidade.
+O [!DNL Sales Insight Actions] também permite atualizar os tipos de Autorização e Source de um contato em massa, economizando um tempo valioso no processo de conformidade.
 
-Ao selecionar um ou mais contatos na página Pessoas, um dado (menu de três pontos) é exibido à direita. Clique nele e você verá Autorização e Source como opções. Você pode definir a Autorização ou Source de vários contatos simultaneamente.
+Ao selecionar um ou mais contatos na página [!UICONTROL Pessoas], um ponto (menu de três pontos) é exibido à direita. Clique nele e você verá Autorização e Source como opções. Você pode definir a Autorização ou Source de vários contatos simultaneamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
@@ -107,7 +107,7 @@ Ao clicar no modal Autorização, um pop-up com opções suspensas que correspon
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-6.png)
 
-Depois que o Tipo de autorização for atualizado, você receberá uma janela pop-up de confirmação e poderá ver os detalhes atualizados no Cartão de conformidade na Exibição de detalhes da pessoa.
+Depois que o Tipo de [!UICONTROL Autorização] for atualizado, você receberá uma janela pop-up de confirmação e poderá ver os detalhes atualizados no Cartão de Conformidade na Exibição de Detalhes da Pessoa.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-7.png)
 
@@ -119,7 +119,7 @@ Depois de selecionar o Tipo de Source correto para os contatos selecionados, uma
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-9.png)
 
-## Exportar Dados De Contato Das Ações Do Sales Insight {#exporting-contact-data-from-marketo-sales-connect}
+## Exportando Dados de Contato de [!DNL Sales Insight Actions] {#exporting-contact-data-from-marketo-sales-connect}
 
 Você pode exportar informações de contato da Exibição de Detalhes da Pessoa. A exportação baixará um arquivo .CSV com as seguintes colunas:
 
@@ -131,33 +131,33 @@ Você pode exportar informações de contato da Exibição de Detalhes da Pessoa
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Nome</td> 
-   <td>Site</td> 
-   <td>Facebook</td> 
+   <td>[!UICONTROL Nome]</td> 
+   <td>[!UICONTROL Site]</td> 
+   <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 
-   <td>Sobrenome</td> 
-   <td>Outro</td> 
-   <td>Twitter</td> 
+   <td>[!UICONTROL Sobrenome]</td> 
+   <td>[!UICONTROL Outro]</td> 
+   <td>[!DNL Twitter]</td> 
   </tr> 
   <tr> 
-   <td>Empresa</td> 
-   <td>Atualizado em</td> 
-   <td>LinkedIn</td> 
+   <td>[!UICONTROL Empresa]</td> 
+   <td>[!UICONTROL Atualizado Às]</td> 
+   <td>[!DNL LinkedIn]</td> 
   </tr> 
   <tr> 
-   <td>Título</td> 
-   <td>Criado em</td> 
-   <td>Exportado às</td> 
+   <td>[!UICONTROL Título]</td> 
+   <td>[!UICONTROL Criado Às]</td> 
+   <td>[!UICONTROL Exportado Em]</td> 
   </tr> 
   <tr> 
-   <td>ID do e-mail</td> 
-   <td>ID do Salesforce</td> 
+   <td>[!UICONTROL ID de email]</td> 
+   <td>[!DNL Salesforce] ID</td> 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>Número de telefone</td> 
-   <td>ID de pessoa</td> 
+   <td>[!UICONTROL Número de Telefone]</td> 
+   <td>[!UICONTROL ID de pessoa]</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -167,20 +167,20 @@ Você pode exportar informações de contato da Exibição de Detalhes da Pessoa
 >
 >Isso só pode ser feito em um contato por vez. No momento, não há nenhuma funcionalidade que permita exportações em massa de contatos.
 
-Para exportar informações de contato, clique nos três pontos verticais no Cabeçalho da Exibição de Detalhes da Pessoa e selecione **Exportar**. O arquivo .CSV será baixado automaticamente.
+Para exportar informações de contato, clique nos três pontos verticais no Cabeçalho da Exibição de Detalhes da Pessoa e selecione **[!UICONTROL Exportar]**. O arquivo .CSV será baixado automaticamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-10.png)
 
 >[!NOTE]
 >
->O GDPR também requer a capacidade de excluir contatos da interface do usuário, mas as Ações do Sales Insight já possuem essa funcionalidade.
+>O GDPR também requer a capacidade de excluir contatos da interface do usuário, mas [!DNL Sales Insight Actions] já possui essa funcionalidade.
 
 ## Cancelamentos de inscrição {#unsubscribes}
 
-Uma área do GDPR comumente mal compreendida envolve contatos que cancelam a inscrição no banco de dados da organização. Para aderir às novas regras de proteção de dados daqueles que optam por cancelar a inscrição, a seguinte funcionalidade foi incluída nas Ações do Sales Insight:
+Uma área do GDPR comumente mal compreendida envolve contatos que cancelam a inscrição no banco de dados da organização. Para aderir às novas regras de proteção de dados daqueles que optam por cancelar a inscrição, a seguinte funcionalidade foi incluída em [!DNL Sales Insight Actions]:
 
 **Links para Cancelar Inscrição:** Links para cancelar inscrição serão anexados automaticamente a todos os emails enviados do aplicativo Web do Sales Connect para garantir que os contatos tenham uma maneira acessível de recusar.\
-**Cancelar assinatura da sincronização:** os usuários podem sincronizar cancelamentos de assinatura de e para seu CRM (Salesforce) para garantir que os cancelamentos estejam atualizados.\
+**Cancelar Assinatura da Sincronização:** os usuários podem sincronizar cancelamentos de assinatura de e para seu CRM (Salesforce) para garantir que os cancelamentos estejam atualizados.\
 **Histórico de cancelamento de inscrição:** Os usuários podem ver recusas e recusas históricas na exibição de Detalhes da pessoa.\
 **Remoção da inscrição cancelada:** para se inscrever novamente, o usuário deve ter privilégios de administrador e demonstrar que o contato deu novo consentimento para contatá-lo.
 

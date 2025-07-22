@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719306
 description: Ocultar um campo do Salesforce na sincronização do Marketo - Documentação do Marketo - Documentação do produto
-title: Ocultar um campo do Salesforce da sincronização com o Marketo
+title: Ocultar um campo do Salesforce da sincronização do Marketo
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 1%
+source-wordcount: '165'
+ht-degree: 2%
 
 ---
 
-# Ocultar um campo do Salesforce da sincronização com o Marketo {#hide-a-salesforce-field-from-the-marketo-sync}
+# Ocultar um campo [!DNL Salesforce] da sincronização do Marketo {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Nem todos os campos no Salesforce são úteis para Marketing. Você pode otimiza
 
    >[!NOTE]
    >
-   >Se o campo ocultado no Salesforce já tiver sido sincronizado com o Marketo, será necessário ocultá-lo no Marketo, também se você não quiser usá-lo.
+   >Se o campo ocultado no [!DNL Salesforce] já tiver sido sincronizado com o Marketo, será necessário ocultá-lo no Marketo também se você não quiser usá-lo.
 
    Pronto! Você não verá mais esse campo no Marketo após a conclusão da próxima sincronização.
 

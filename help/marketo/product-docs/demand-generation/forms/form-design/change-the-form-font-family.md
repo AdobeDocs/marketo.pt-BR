@@ -4,7 +4,7 @@ description: Alterar a família de fontes do formulário - Documentação do Mar
 title: Alterar a Família de Fontes do Formulário
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 1%
@@ -19,19 +19,19 @@ As Google Fonts são incríveis, e as criamos no editor de formulários. Dê uma
 >
 >Essa configuração afeta o rótulo do formulário, o texto de entrada e qualquer rich text.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecione seu formulário e clique em **Editar Formulário**.
+1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Em **Configurações de Formulário**, selecione **Configurações**.
+1. Em **[!UICONTROL Configurações de Formulário]**, selecione **[!UICONTROL Configurações]**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Selecione a **Família da Fonte** que você deseja.
+1. Selecione a **[!UICONTROL Família da Fonte]** que você deseja.
 
    >[!TIP]
    >
@@ -39,11 +39,11 @@ As Google Fonts são incríveis, e as criamos no editor de formulários. Dê uma
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Clique em **Concluir**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Clique em **Aprovar e Fechar**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    >[!NOTE]
    >

@@ -4,16 +4,16 @@ description: Etapa 1 de 3 - Instalar a solução da Marketo (2011 no local) - Do
 title: Etapa 1 de 3 - Instalar a solução da Marketo (2011 no local)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Etapa 1 de 3: instalar a solução da Marketo (2011 no local) {#step-of-install-the-marketo-solution-on-premises}
 
-Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necessário instalar a solução do Marketo no Dynamics.
+Antes de sincronizar o [!DNL Microsoft Dynamics] no local e o Marketo, é necessário instalar a solução da Marketo no [!DNL Dynamics].
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necess
 
 >[!NOTE]
 >
->**Permissões de Administrador do Dynamics necessárias**.
+>**[!DNL Dynamics]Permissões de Administrador necessárias.**
 >
 >Você precisa de privilégios de administrador do CRM para executar esta sincronização.
 
-1. Faça logon no Dynamics e selecione **[!UICONTROL Configurações]** no menu inferior esquerdo.
+1. Faça logon em **[!DNL Dynamics]**, selecione **[!UICONTROL Configurações]** no menu inferior esquerdo.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -43,7 +43,7 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necess
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Clique em **[!UICONTROL Procurar]**. Selecione a solução de gerenciamento de clientes potenciais da Marketo que você [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Procurar]**. Selecione a solução de gerenciamento de clientes potenciais da Marketo que você [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -79,11 +79,11 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necess
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. O Gerenciamento de Clientes Potenciais da Marketo agora aparecerá na página **Todas as Soluções**.
+1. O [!UICONTROL Marketo Lead Management] agora aparecerá na página **[!UICONTROL Todas as Soluções]**.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Selecione Marketo Lead Management e clique em **[!UICONTROL Publicar todas as personalizações]**.
+1. Selecione [!UICONTROL Marketo Lead Management] e clique em **[!UICONTROL Publicar todas as personalizações]**.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -93,4 +93,4 @@ Antes de sincronizar o Microsoft Dynamics no local e o Marketo Engage, é necess
 
 >[!MORELIKETHIS]
 >
->[Etapa 2 de 3: Configurar o Usuário de Sincronização do Marketo no Dynamics (2011 no Local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
+>[Etapa 2 de 3: Configurar o Usuário de Sincronização do Marketo em [!DNL Dynamics] (2011 no Local)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

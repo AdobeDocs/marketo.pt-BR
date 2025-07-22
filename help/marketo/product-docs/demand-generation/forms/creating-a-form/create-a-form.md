@@ -4,7 +4,7 @@ description: Criar um formulário - Documentação do Marketo - Documentação d
 title: Criar um formulário
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Crie e use um formulário em uma página de aterrissagem para gerar novos nomes.
 >
 >Saiba o que a Marketo está fazendo para [manter seus formulários seguros](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,15 +27,15 @@ Crie e use um formulário em uma página de aterrissagem para gerar novos nomes.
 
    ![](assets/programseelct.png)
 
-1. Em **Novo**, clique em **Novo** **Local** **Ativo**.
+1. Em **[!UICONTROL Novo]**, clique em **[!UICONTROL Novo ativo local]**.
 
    ![](assets/newlocalasset.png)
 
-1. Selecione o **Formulário**.
+1. Selecione o **[!UICONTROL Formulário]**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Insira um formulário **Nome** e clique em **Criar**.
+1. Insira um formulário **[!UICONTROL Nome]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/newformwithhands.png)
 

@@ -4,22 +4,22 @@ description: Excluir pessoa do SFDC - Documentação do Marketo - Documentação
 title: Excluir pessoa da SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 6%
 
 ---
 
 # Excluir pessoa da SFDC {#delete-person-from-sfdc}
 
-Se você precisar remover um conjunto específico de clientes potenciais do Salesforce, mas deixá-los como pessoas no Marketo Engage, poderá usar a ação de fluxo Excluir pessoa do SFDC.
+Se precisar remover um conjunto específico de clientes potenciais do Salesforce, mas deixá-los como pessoas no Marketo Engage, você pode usar a ação de fluxo Excluir pessoa do SFDC.
 
 >[!NOTE]
 >
->Disponível somente quando integrado ao Salesforce.
+>Disponível somente quando integrado com [!DNL Salesforce].
 
-1. No Banco de dados, clique na pessoa que deseja remover do Salesforce. Em seguida, clique em **[!UICONTROL Ações da pessoa]** e selecione **[!DNL Salesforce]**.
+1. No Banco de dados, clique na pessoa que você deseja remover do Salesforce. Em seguida, clique em **[!UICONTROL Ações da pessoa]** e selecione **[!DNL Salesforce]**.
 
    ![](assets/delete-person-from-sfdc-1.png)
 
@@ -31,7 +31,7 @@ Se você precisar remover um conjunto específico de clientes potenciais do Sale
 
    ![](assets/delete-person-from-sfdc-3.png)
 
-   Depois que a etapa de fluxo for executada, sua pessoa não será mais a líder no Salesforce, mas permanecerá no Marketo.
+   Depois que a etapa de fluxo for executada, sua pessoa não será mais um cliente em potencial no [!DNL Salesforce], mas permanecerá no Marketo.
 
    >[!CAUTION]
    >

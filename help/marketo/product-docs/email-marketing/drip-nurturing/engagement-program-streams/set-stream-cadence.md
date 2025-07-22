@@ -4,10 +4,10 @@ description: Definir cadência de fluxo - Documentação do Marketo - Documenta�
 title: Definir cadência das transmissões
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -17,25 +17,25 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
 ## Definir cadência {#set-cadence}
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Localize e selecione seu programa de envolvimento, clique na guia **Fluxos** e clique em **Definir Cadência de Fluxo**.
+1. Localize e selecione seu programa de envolvimento, clique na guia **[!UICONTROL Fluxos]** e clique em **[!UICONTROL Definir Cadência de Fluxo]**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Selecione com que frequência você deseja que a cadência se repita. Você pode escolher **Semanalmente** ou **Mensalmente**.
+1. Selecione com que frequência você deseja que a cadência se repita. Você pode escolher **[!UICONTROL Semanalmente]** ou **[!UICONTROL Mensalmente]**.
 
 ## Semanal {#weekly}
 
-1. Selecione **Semanalmente**.
+1. Selecione **[!UICONTROL Semanalmente]**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Selecionar **Nenhum** desligará o fluxo.
+   >Selecionar **[!UICONTROL Nenhum]** desligará o fluxo.
 
 1. Escolha a data da primeira conversão.
 
@@ -51,9 +51,9 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
    >[!TIP]
    >
-   >Você pode definir sua cadência para execução todos os dias ao escolher **Repetições: Semanalmente** / **A cada: 1 Semana** / **Em**: todos os dias.
+   >Você pode definir sua cadência para execução todos os dias ao escolher **[!UICONTROL Repetições]: [!UICONTROL Semanalmente]** / **[!UICONTROL A cada]: 1 [!UICONTROL Semana]** / **[!UICONTROL Em]**: todos os dias.
 
-   Agora escolha a Hora. Marque a caixa se desejar usar [Fuso Horário do Destinatário](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (ou seja, entregar de acordo com fusos horários locais) e clique em **Salvar**.
+   Agora escolha a Hora. Marque a caixa se desejar usar [Fuso Horário do Destinatário](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (ou seja, entregar de acordo com fusos horários locais) e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -73,7 +73,7 @@ Pronto! Continue lendo se quiser configurar uma cadência mensal.
 
 ## Mensal {#monthly}
 
-1. Selecione **Mensalmente** para saber com que frequência ele se repete.
+1. Selecione **[!UICONTROL Mensalmente]** para saber com que frequência ele se repete.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ Pronto! Continue lendo se quiser configurar uma cadência mensal.
    >
    >Como alternativa, você pode escolher o dia da semana.
 
-1. Escolha uma **Hora** e clique em **Salvar**.
+1. Escolha uma **[!UICONTROL Hora]** e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 

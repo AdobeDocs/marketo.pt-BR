@@ -4,16 +4,16 @@ description: Definir sobrenome da pessoa padrão e nome da empresa - Documentaç
 title: Definir sobrenome da pessoa padrão e nome da empresa
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # Definir sobrenome da pessoa padrão e nome da empresa {#set-default-person-last-name-and-company-name}
 
-O Salesforce requer (no mínimo) o sobrenome e o nome da empresa para seus clientes em potencial e contatos. Registros incompletos não serão sincronizados com o Salesforce. Se quiser sincronizar registros parciais, defina valores padrão para o Marketo para usar com o Salesforce.
+[!DNL Salesforce] requer (mínimo) sobrenome e nome da empresa para seus clientes em potencial e contatos. Registros incompletos não serão sincronizados com [!DNL Salesforce]. Se quiser sincronizar registros parciais, defina valores padrão para o Marketo a serem usados com [!DNL Salesforce].
 
 1. Vá para **[!UICONTROL Admin]** e clique em **[!DNL Salesforce]**.
 

@@ -4,7 +4,7 @@ description: Relatório de vendas do TAM - Documentação do Marketo - Documenta
 title: Relatório de vendas TAM
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 4%
@@ -33,28 +33,28 @@ O relatório compartilha:
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Pontuação de contas</strong></td> 
+   <td><strong><span class="uicontrol">Pontuação de contas</span></strong></td> 
    <td> 
     <div>
       Tendência semanal por pontuação de conta (selecionada na configuração), seguida pela pontuação de conta atual 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Pipeline de vendas</strong></td> 
+   <td><strong><span class="uicontrol">Pipeline de vendas</span></strong></td> 
    <td> 
     <div>
       Tendência semanal por pipeline, seguida pelo pipeline atual total e pelo número de oportunidades em aberto 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Visualizações de página</strong></td> 
+   <td><strong><span class="uicontrol">Page Views</span></strong></td> 
    <td> 
     <div>
       Tendência semanal de exibições de página, seguida pelo total de exibições de página e pelo número de visitantes únicos 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Momentos interessantes</strong></td> 
+   <td><strong><span class="uicontrol">Momentos interessantes</span></strong></td> 
    <td> 
     <div>
       Número total de momentos interessantes que ocorreram durante a semana 

@@ -4,10 +4,10 @@ description: Relatório de desempenho de link de email - Documentação do Marke
 title: Relatório de desempenho do link de email
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 4%
+source-wordcount: '239'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 4%
 
 Crie um relatório de Desempenho do link de email para ver o desempenho dos links em seus emails.
 
-1. [Crie um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione **Desempenho do Link de Email** como o tipo de relatório.
+1. [Crie um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione **[!UICONTROL Desempenho do Link de Email]** como o tipo de relatório.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Clique em **Instalação**.
+1. Clique em **[!UICONTROL Instalação]**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Clique duas vezes em **Data da atividade** em **Configurações**.
+1. Clique duas vezes em **[!UICONTROL Data da atividade]** em **[!UICONTROL Configurações]**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Defina um intervalo de tempo apropriado para seu relatório. Clique em **Salvar**.
+1. Defina um intervalo de tempo apropriado para seu relatório. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Clique em **Relatório**.
+1. Clique em **[!UICONTROL Relatório]**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -44,29 +44,29 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">Coluna</th> 
+   <th colspan="1" rowspan="1">[!UICONTROL Coluna]</th> 
    <th colspan="1" rowspan="1">Descrição</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Link</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
    <td colspan="1" rowspan="1">Agrupado por nome de email.<br>Clique no sinal de mais (+) para ver todos os links incluídos nesse email.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Cliques</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Cliques]</td> 
    <td colspan="1" rowspan="1">O número de vezes que o link foi clicado.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% de cliques</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL Cliques]</td> 
    <td colspan="1" rowspan="1">Do total de cliques em todos os links nesse email, porcentagem nesse link.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Pessoas</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Pessoas]</td> 
    <td colspan="1" rowspan="1">O número de pessoas únicas que clicaram no link.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% pessoas</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL Pessoas]</td> 
    <td colspan="1" rowspan="1">Do total de pessoas únicas que clicaram nos links nesse email, porcentagem neste link.</td> 
   </tr> 
  </tbody> 

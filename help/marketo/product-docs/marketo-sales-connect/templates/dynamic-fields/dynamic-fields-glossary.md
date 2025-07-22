@@ -4,18 +4,18 @@ description: Glossário de campos dinâmicos - Documentação do Marketo - Docum
 title: Glossário de campos dinâmicos
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 1%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
 # Glossário de campos dinâmicos {#dynamic-fields-glossary}
 
-Ao criar um modelo no Sales Connect, sempre recomendamos a integração de campos dinâmicos, usando o botão **Campos Dinâmicos do MSE**.
+Ao criar um modelo em [!DNL Sales Connect], sempre recomendamos a integração de campos dinâmicos, usando o botão **[!UICONTROL Campos Dinâmicos do MSE]**.
 
-Esta ferramenta é usada para `auto-personalize your email` e poupar toneladas de tempo até `pulling information from the People page`.
+Esta ferramenta é usada para `auto-personalize your email` e poupar toneladas de tempo até `pulling information from the [!UICONTROL People] page`.
 
 | Campo dinâmico | Exemplo do que aparece no email |
 |---|---|

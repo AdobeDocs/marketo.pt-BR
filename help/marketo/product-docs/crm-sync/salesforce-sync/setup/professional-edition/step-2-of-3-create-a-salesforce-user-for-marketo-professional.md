@@ -4,14 +4,14 @@ description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Profes
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 9%
+source-wordcount: '427'
+ht-degree: 0%
 
 ---
 
-# Etapa 2 de 3: Criar um usuário do Salesforce para Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Etapa 2 de 3: Criar um Usuário [!DNL Salesforce] para o Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -19,13 +19,13 @@ ht-degree: 9%
 
 >[!PREREQUISITES]
 >
->[Etapa 1 de 3: Adicionar campos do Marketo ao Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
+>[Etapa 1 de 3: Adicionar Campos do Marketo ao Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
-Neste artigo, você personalizará permissões de campo com um Layout de página do Salesforce e criará um usuário de sincronização Marketo-Salesforce.
+Neste artigo, você personalizará permissões de campo com um Layout de página [!DNL Salesforce] e criará um usuário de sincronização Marketo-[!DNL Salesforce].
 
 ## Definir Layouts de Página {#set-page-layouts}
 
-O Salesforce Professional define a acessibilidade em nível de campo com Layouts de página, em vez dos Perfis do Salesforce Enterprise/Unlimited. Seguir essas etapas permitirá que o usuário de sincronização do Marketo atualize os campos personalizados.
+O [!DNL Salesforce] Professional define a acessibilidade em nível de campo com Layouts de Página, em vez dos Perfis da [!DNL Salesforce] Enterprise/Unlimited. Seguir essas etapas permitirá que o usuário de sincronização do Marketo atualize os campos personalizados.
 
 1. Digite &quot;[!UICONTROL layouts de página]&quot; na barra de pesquisa de navegação sem pressionar **[!UICONTROL Enter]** e clique em **[!UICONTROL Layout da página]** em **[!UICONTROL Clientes potenciais]**.
 
@@ -49,22 +49,22 @@ O Salesforce Professional define a acessibilidade em nível de campo com Layouts
 
 1. Repita a etapa acima para os seguintes campos:
 
-   * Programa de aquisição
-   * ID do programa de aquisição
-   * Cancelamento de opção de e-mail
-   * Cidade indicada
-   * Empresa indicada
-   * País indicado
-   * Área metropolitana indicada
-   * Código de área telef. indic.
-   * Código postal indicado
-   * Estado/região indicado
-   * Pontuação do lead
-   * Responsável pela indicação original
-   * Mecanismo de pesquisa original
-   * Frase de pesquisa original
-   * Informações da fonte original
-   * Tipo de fonte original
+   * [!UICONTROL Programa de aquisição]
+   * [!UICONTROL Id Do Programa De Aquisição]
+   * [!UICONTROL Opção de não participação de email]
+   * [!UICONTROL Cidade inferida]
+   * [!UICONTROL Empresa inferida]
+   * [!UICONTROL País inferido]
+   * [!UICONTROL Área metropolitana inferida]
+   * [!UICONTROL Código de Área do Telefone Inferido]
+   * [!UICONTROL CEP Inferido]
+   * [!UICONTROL Região do estado inferido]
+   * [!UICONTROL Pontuação de lead]
+   * [!UICONTROL Referenciador Original]
+   * [!UICONTROL Mecanismo de pesquisa original]
+   * [!UICONTROL Frase de Pesquisa Original]
+   * [!UICONTROL Informações Originais do Source]
+   * [!UICONTROL Tipo de Source Original]
 
    >[!NOTE]
    >
@@ -78,7 +78,7 @@ O Salesforce Professional define a acessibilidade em nível de campo com Layouts
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Repita todas as etapas acima para o **[!UICONTROL Layout da página de contato]** do Salesforce.
+1. Repita todas as etapas acima para o **[!UICONTROL Layout da página de contatos]** do Salesforce.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
@@ -92,7 +92,7 @@ O Salesforce Professional define a acessibilidade em nível de campo com Layouts
 
 ## Criar usuário de sincronização {#create-sync-user}
 
-O Marketo exige credenciais para acessar o Salesforce. Isso é melhor feito com um usuário dedicado criado com as etapas abaixo.
+O Marketo requer credenciais para acessar [!DNL Salesforce]. Isso é melhor feito com um usuário dedicado criado com as etapas abaixo.
 
 >[!NOTE]
 >
@@ -114,7 +114,7 @@ O Marketo exige credenciais para acessar o Salesforce. Isso é melhor feito com 
    >
    >Verifique se o endereço de email inserido é válido. Você precisará fazer logon como o usuário de sincronização para redefinir a senha.
 
-Excelente! Agora você tem uma conta que o Marketo pode usar para se conectar ao Salesforce. Vamos fazer isso.
+Excelente! Agora você tem uma conta que a Marketo pode usar para se conectar a [!DNL Salesforce]. Vamos fazer isso.
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: Aprovar um email - Documentação do Marketo - Documentação do pr
 title: Aprovar um email
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Os emails começam no estado de rascunho. Geralmente, eles não estão disponíveis no sistema até que você os aprove. Há algumas maneiras de aprovar um email.
 
-## Aprove-o usando o menu de ações de email {#approve-it-using-the-email-actions-menu}
+## Aprove-a Usando o Menu [!UICONTROL Ações de Email] {#approve-it-using-the-email-actions-menu}
 
-1. Localize e selecione seu email, clique no menu suspenso **Ações de Email** e selecione **Aprovar**.
+1. Localize e selecione seu email, clique no menu suspenso **[!UICONTROL Ações de Email]** e selecione **[!UICONTROL Aprovar]**.
 
    ![](assets/one.png)
 
 ## Aprovar diretamente na árvore {#approve-it-directly-in-the-tree}
 
-1. Localize e selecione seu email, clique com o botão direito do mouse nele e selecione **Aprovar**.
+1. Localize e selecione seu email, clique com o botão direito do mouse nele e selecione **[!UICONTROL Aprovar]**.
 
    ![](assets/approveemail.png)
 
 ## Aprovar seu email no editor de email {#approve-your-email-in-the-email-editor}
 
-1. No seu email, clique no menu suspenso **Ações de Email** e selecione **Aprovar e Fechar**.
+1. No seu email, clique no menu suspenso **[!UICONTROL Ações de Email]** e selecione **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/three.png)
 

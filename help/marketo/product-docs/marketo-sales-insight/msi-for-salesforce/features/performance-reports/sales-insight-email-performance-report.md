@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720314
-description: Relatório de desempenho de e-mail do Sales Insight - Documentação do Marketo - Documentação do produto
+description: Relatório de desempenho de email do Sales Insight - Documentação do Marketo - Documentação do produto
 title: Relatório de desempenho de e-mails do Sales Insight
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 8%
 
 ---
 
 # Relatório de desempenho de e-mails do Sales Insight {#sales-insight-email-performance-report}
 
-Visualize o desempenho de emails enviados por meio do Salesforce, Microsoft Dynamics ou de um plug-in do Gmail ou Outlook.
+Visualize o desempenho de emails enviados por meio do [!DNL Salesforce], [!DNL Microsoft Dynamics], ou de um plug-in do Gmail ou [!DNL Outlook].
 
 ## Gerar um relatório {#generate-a-report}
 
-1. Clique em **Analytics**.
+1. Clique em **[!UICONTROL Analytics]**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Clique em **Desempenho de email do Sales Insight**.
+1. Clique em **[!UICONTROL Sales Insight Email Performance]**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Clique na guia **Configuração** e escolha os valores desejados.
+1. Clique na guia **[!UICONTROL Configuração]** e escolha os valores desejados.
 
    ![](assets/three.png)
 
-1. Clique na guia **Relatório**.
+1. Clique na guia **[!UICONTROL Relatório]**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,23 +43,23 @@ Visualize o desempenho de emails enviados por meio do Salesforce, Microsoft Dyna
 >
 >Clique no nome de um email para abri-lo no Pré-visualizador de email.
 
-## Agrupar por Representante de Vendas {#group-by-sales-rep}
+## Agrupar por [!UICONTROL Representante de Vendas] {#group-by-sales-rep}
 
 Você pode exibir este relatório agrupado por Representante de vendas alterando suas configurações.
 
-1. Clique em **Instalação**. Clique duas vezes em **Email**.
+1. Clique em **[!UICONTROL Instalação]**. Clique duas vezes em **[!UICONTROL Email]**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Selecione Agrupar emails de **Representante de vendas**.
+1. Selecione Agrupar emails de **[!UICONTROL Representante de vendas]**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Clique na guia **Relatório**.
+1. Clique na guia **[!UICONTROL Relatório]**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

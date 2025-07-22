@@ -4,7 +4,7 @@ description: Alterar o URL da página de aterrissagem — Documentação do Mark
 title: Alterar o URL da landing page
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Você pode modificar o URL de uma landing page. Isso pode ajudar a tornar o URL 
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. Insira a **Nova URL**, opte por descartar ou redirecionar a URL antiga e clique em **Salvar**.
+1. Insira a **[!UICONTROL Nova URL]**, opte por descartar ou redirecionar a URL antiga e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/change-the-landing-page-url-3.png)
 

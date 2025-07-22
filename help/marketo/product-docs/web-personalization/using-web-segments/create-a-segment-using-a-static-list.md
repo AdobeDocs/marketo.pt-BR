@@ -4,10 +4,10 @@ description: Criar um segmento usando uma lista estática - Documentação do Ma
 title: Criar um segmento usando uma lista estática
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Segmente visitantes conhecidos da Web quando eles visitarem seu site com base no fato de estarem ou não em uma das [listas estáticas](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) da Marketo.
 
-1. Vá para **Segmentos**.
+1. Vá para **[!UICONTROL Segmentos]**.
 
    ![](assets/1.jpg)
 
-1. Clique em **Criar novo**.
+1. Clique em **[!UICONTROL Criar novo]**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Segmente visitantes conhecidos da Web quando eles visitarem seu site com base no
 
    ![](assets/three.png)
 
-1. Em Clientes Potenciais Conhecidos, arraste as **Listas Estáticas** para a tela.
+1. Em Clientes Potenciais Conhecidos, arraste as **[!UICONTROL Listas Estáticas]** para a tela.
 
    ![](assets/four-2.png)
 
-1. Clique na lista suspensa para selecionar **é** ou **não é** (dependendo do que você deseja) e digite o nome da sua lista estática.
+1. Clique na lista suspensa para selecionar **[!UICONTROL é]** ou **[!UICONTROL não é]** (dependendo do que você deseja) e digite o nome da sua lista estática.
 
    ![](assets/five-2.png)
 
@@ -45,8 +45,8 @@ Segmente visitantes conhecidos da Web quando eles visitarem seu site com base no
 
    >[!NOTE]
    >
-   >A lista suspensa e/ou é apenas isso. Clique para selecionar **e**, **ou** ou **e/ou**.
+   >A lista suspensa e/ou é apenas isso. Clique para selecionar **[!UICONTROL e]**, **[!UICONTROL ou]** ou **[!UICONTROL e/ou]**.
 
-1. Clique em **Salvar** para salvar o segmento ou **Salvar e definir a campanha** para salvar e ir para a página Campanhas.
+1. Clique em **[!UICONTROL Salvar]** para salvar o segmento ou **[!UICONTROL Salvar e definir a campanha]** para salvar e ir para a página [!UICONTROL Campanhas].
 
    ![](assets/eight-1.png)

@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: Noções básicas sobre pastas - Documentação do Marketo - Documentação do produto
 title: Noções básicas sobre pastas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -54,7 +54,7 @@ Não há problema em mudar de ideia.
 
 ## Arquivar uma pasta {#archive-a-folder}
 
-No Marketo, você pode converter pastas existentes em pastas de arquivo. As pastas de arquivamento existem em Atividades de marketing, Banco de dados e Design Studio.
+No Marketo, você pode converter pastas existentes em pastas de arquivo. As pastas de arquivo existem em [!UICONTROL Atividades de marketing], [!UICONTROL Banco de dados] e [!UICONTROL Design Studio].
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

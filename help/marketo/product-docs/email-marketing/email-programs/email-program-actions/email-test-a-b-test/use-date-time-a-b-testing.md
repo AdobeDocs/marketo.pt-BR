@@ -4,7 +4,7 @@ description: Use O Teste A/B De "Data/Hora" - Documentação Do Marketo - Docume
 title: Use O Teste A/B "Data/Hora"
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Use O Teste A/B &quot;Data/Hora&quot; {#use-date-time-a-b-testing}
 
-Você pode facilmente testar seus emails A/B. Um teste é o teste **Date/Time**. Isso testa a hora do dia ou o dia da semana mais adequada para enviar emails. Veja como configurar isso.
+Você pode facilmente testar seus emails A/B. Um teste é o teste **[!UICONTROL Date/Time]**. Isso testa a hora do dia ou o dia da semana mais adequada para enviar emails. Veja como configurar isso.
 
 >[!PREREQUISITES]
 >
 >[Adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >
 
-1. No bloco **Email**, clique em **Adicionar Teste A/B**.
+1. No bloco **[!UICONTROL Email]**, clique em **[!UICONTROL Adicionar Teste A/B]**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. Uma nova janela é aberta. Selecione **Data/Hora** para **Tipo de Teste**.
+1. Uma nova janela é aberta. Selecione **[!UICONTROL Data/Hora]** para **[!UICONTROL Tipo de Teste]**.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. Se você tiver informações de teste anteriores (como um teste de assunto), clique com segurança em **Redefinir Teste**.
+1. Se você tiver informações de teste anteriores (como um teste de assunto), clique com segurança em **[!UICONTROL Redefinir Teste]**.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -44,7 +44,7 @@ Você pode facilmente testar seus emails A/B. Um teste é o teste **Date/Time**.
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. Use o controle deslizante para escolher qual porcentagem do público-alvo você deseja no teste A/B e clique em **Avançar**.
+1. Use o controle deslizante para escolher qual porcentagem do público-alvo você deseja no teste A/B e clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 

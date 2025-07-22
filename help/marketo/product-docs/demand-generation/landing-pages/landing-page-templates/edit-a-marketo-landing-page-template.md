@@ -4,7 +4,7 @@ description: Editar um modelo de página de aterrissagem da Marketo - Documenta�
 title: Editar um modelo de página de aterrissagem do Marketo
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 É possível editar qualquer template de landing page no Marketo.
 
-1. Vá para o **Design Studio**.
+1. Vá para o **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Expanda **Landing Pages** para mostrar os modelos.
+1. Expanda **[!UICONTROL Landing Pages]** para mostrar os modelos.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Selecione o **Modelo** que deseja editar. Clique em **Editar rascunho**.
+1. Selecione o **[!UICONTROL Modelo]** que deseja editar. Clique em **[!UICONTROL Editar rascunho]**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 

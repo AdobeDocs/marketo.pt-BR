@@ -4,7 +4,7 @@ description: Fazer referência a uma lista ou lista inteligente em espaços de t
 title: Fazer referência a uma lista ou lista inteligente em espaços de trabalho
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Listas e Smart Lists podem ser compartilhadas e referenciadas em espaços de tra
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Clique com o botão direito do mouse em uma pasta de campanha. Selecione **Nova Pasta**.
+1. Clique com o botão direito do mouse em uma pasta de campanha. Selecione **[!UICONTROL Nova Pasta]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 

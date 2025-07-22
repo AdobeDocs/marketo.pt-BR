@@ -4,7 +4,7 @@ description: Testar um fluxo de engajamento - Documentação do Marketo - Docume
 title: Testar um fluxo de envolvimento
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 5%
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los um pedaço por vez.
 
-1. Vá para **Atividades de marketing**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los um pedaç
 
    ![](assets/two.png)
 
-1. Clique em **Ações do Programa** e selecione **Testar Fluxo**.
+1. Clique em **[!UICONTROL Ações do Programa]** e selecione **[!UICONTROL Testar Fluxo]**.
 
    ![](assets/three.png)
 
-1. Selecione sua pessoa no menu suspenso **Pessoa de Teste**. Lembre-se, o conteúdo realmente será enviado, portanto, lembre-se disso ao escolher.
+1. Selecione sua pessoa no menu suspenso **[!UICONTROL Pessoa de Teste]**. Lembre-se, o conteúdo realmente será enviado, portanto, lembre-se disso ao escolher.
 
    ![](assets/four-rubix.png)
 
@@ -37,9 +37,9 @@ Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los um pedaç
 
    >[!TIP]
    >
-   >Se a pessoa de teste que você está procurando não existir, use a opção **Criar pessoa** para criar uma imediatamente.
+   >Se a pessoa de teste que você está procurando não existir, use a opção **[!UICONTROL Criar pessoa]** para criar uma imediatamente.
 
-   Clique em Initial Stream (Fluxo inicial), selecione o fluxo que deseja testar e clique em Run Cast (Executar conversão).
+   Clique em **[!UICONTROL Fluxo Inicial]**, selecione o fluxo que deseja testar e clique em **[!UICONTROL Executar Conversão]**.
    ![](assets/five-rubiks.png)
 
 1. Depois que a pessoa passar pelas [regras de transição](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) configuradas anteriormente, clique no ícone Atualizar.
@@ -54,4 +54,4 @@ Depois de adicionar todo o conteúdo a um fluxo, você pode testá-los um pedaç
 
    >[!NOTE]
    >
-   >Nenhum outro conteúdo será enviado, a menos que você clique em **Executar conversão novamente**.
+   >Nenhum outro conteúdo será enviado, a menos que você clique em **[!UICONTROL Executar conversão novamente]**.

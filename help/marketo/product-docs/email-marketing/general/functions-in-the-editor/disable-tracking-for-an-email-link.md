@@ -4,7 +4,7 @@ description: Desativar o rastreamento para um link de email - Documentação do 
 title: Desativar o rastreamento para um link de email
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Além disso, se um email tiver sido enviado há mais de 365 dias **e** ninguém tiver clicado em nenhum de seus links nos últimos 180 dias, o Marketo Engage removerá a rota para a URL do nosso banco de dados, o que causará a quebra do link. Portanto, se você precisar que o link seja permanente, desative o rastreamento.
 
-1. Selecione seu email e clique em **Editar Rascunho**.
+1. Selecione seu email e clique em **[!UICONTROL Editar Rascunho]**.
 
    ![](assets/one-7.png)
 
@@ -29,11 +29,11 @@ Além disso, se um email tiver sido enviado há mais de 365 dias **e** ninguém 
 
    ![](assets/three-6.png)
 
-1. Na janela pop-up Editar link, desmarque a caixa de seleção **Rastrear link**.
+1. Na janela pop-up Editar link, desmarque a caixa de seleção **[!UICONTROL Rastrear link]**.
 
    ![](assets/four-4.png)
 
-1. Você perceberá que a **Incluir mkt_tok box** desaparece. Clique em **Aplicar**.
+1. Você perceberá que a **[!UICONTROL caixa Incluir mkt_tok]** desaparece. Clique em **[!UICONTROL Aplicar]**.
 
    ![](assets/five-3.png)
 
@@ -41,7 +41,7 @@ Além disso, se um email tiver sido enviado há mais de 365 dias **e** ninguém 
    >
    >Se você desmarcar apenas **Incluir mkt_tok**, ainda permitirá que o link seja rastreado; porém, após o redirecionamento, a URL de destino não incluirá o parâmetro de cadeia de caracteres de consulta mkt_tok. Esse parâmetro é usado pelas páginas de aterrissagem do Marketo e pelo Munchkin para garantir o rastreamento adequado das atividades das pessoas (como quando uma pessoa cancela a assinatura de um email). Você deve evitar o uso desse recurso, a menos que esteja vendo um comportamento estranho em seu site devido à presença do parâmetro.
 
-1. Clique em **Salvar**.
+1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
