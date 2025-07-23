@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentação do Marketo - Documentaçã
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 974818d6f1c5ea2bfeab4f480608f6288e611041
+source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 8%
+source-wordcount: '683'
+ht-degree: 9%
 
 ---
 
@@ -32,9 +32,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
   <tr> 
-   <td><strong>Email Designer - Suporte a CSS personalizado</strong>: ao criar emails, agora é possível adicionar seu próprio CSS personalizado diretamente no Email Designer.</td> 
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td><strong>Email Designer - CSS personalizado</strong>: ao criar emails, agora você pode adicionar seu próprio CSS personalizado diretamente no Email Designer.</td> 
+   <td>Remetido</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Adicionar CSS personalizado ao conteúdo do email</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -142,7 +142,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Cookies do Munchkin e ECIDs estão visíveis</strong>: agora você pode ver uma lista de cookies do Munchkin e números ECID (Experience Cloud Identity) na guia _Info_ de uma <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Página de detalhes da pessoa</a>, reduzindo a dependência das chamadas de API para obter essas informações.</td>
+   <td><strong>Cookies do Munchkin e ECIDs estão visíveis</strong>: agora você pode ver uma lista de cookies do Munchkin e números ECID (Experience Cloud Identity) na guia _Info_ de uma <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">Página de detalhes da pessoa</a>, reduzindo a dependência das chamadas de API para obter essas informações.</td>
    <td>Remetido</td>
    <td>n/d</td>
   </tr>
@@ -152,12 +152,12 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-* **Fim da vida útil da Marketo Engage Identity**: em agosto de 2025, a Adobe começará a cancelar o suporte à Marketo Engage Identity (fazendo logon via `login.marketo.com`). Para evitar a interrupção do acesso ao Marketo Engage, você deve fazer a transição para a [Identidade do Adobe](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} até 30 de setembro de 2025.
+* **Fim da vida útil da Marketo Engage Identity**: em agosto de 2025, a Adobe começará a cancelar o suporte à Marketo Engage Identity (fazendo logon via `login.marketo.com`). Para evitar a interrupção do acesso ao Marketo Engage, você deve fazer a transição para a [Identidade do Adobe](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} até 30 de setembro de 2025.
 
-   * _Descontinuação de Restrições de IP_: o suporte para [Restrição de Logons do Marketo com Base no IP](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} terminará em 30 de julho de 2025. O recurso permanecerá operacional até que a transição para o Adobe Identity seja concluída. Um novo recurso de controle de acesso baseado em localização para a Adobe Identity na Adobe Admin Console está programado para a versão de agosto de 2025.
+   * _Descontinuação de Restrições de IP_: o suporte para [Restrição de Logons do Marketo com Base no IP](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} terminará em 30 de julho de 2025. O recurso permanecerá operacional até que a transição para o Adobe Identity seja concluída. Um novo recurso de controle de acesso baseado em localização para a Adobe Identity na Adobe Admin Console está programado para a versão de agosto de 2025.
 
-   * _Substituição do SSO (Logon Único)_: o suporte para o [SSO da Identidade Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} terminará em 30 de julho de 2025. O recurso permanecerá operacional até que a transição para o Adobe Identity seja concluída. O Logon único para a Adobe Identity na Adobe Admin Console deve ser configurado separadamente. Para obter as etapas de instalação, consulte [Configurar identidade e logon único](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Substituição do SSO (Logon Único)_: o suporte para o [SSO da Identidade Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} terminará em 30 de julho de 2025. O recurso permanecerá operacional até que a transição para o Adobe Identity seja concluída. O Logon único para a Adobe Identity na Adobe Admin Console deve ser configurado separadamente. Para obter as etapas de instalação, consulte [Configurar identidade e logon único](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot;, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot;, [conforme descrito aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API do SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
