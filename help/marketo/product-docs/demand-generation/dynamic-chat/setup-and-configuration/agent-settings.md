@@ -3,10 +3,10 @@ description: Configurações do agente - Documentação do Marketo - Documentaç
 title: Configurações do agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 2%
+source-wordcount: '605'
+ht-degree: 1%
 
 ---
 
@@ -90,7 +90,9 @@ Se você estiver conectado ao aplicativo, receberá uma notificação no aplicat
 
 >[!IMPORTANT]
 >
->O botão de [disponibilidade](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} na Caixa de Entrada do Agente **substituirá** o que você inserir na guia Disponibilidade do Chat ao Vivo. Portanto, se você estiver programado como disponível de 1p a 5p, mas precisar fazer uma pausa rápida em 3p, não será necessário alterar as configurações do agente. O status de alternância de disponibilidade permanecerá até que você o altere manualmente ou até que o próximo bloco de tempo em sua disponibilidade seja atingido.
+>* O botão de [disponibilidade](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} na Caixa de Entrada do Agente **substituirá** o que foi inserido na guia _Disponibilidade do chat ao vivo_. Portanto, se o agente estiver programado como disponível de 1p a 5p, mas precisar fazer uma pausa rápida em 3p, não será necessário alterar as configurações do agente. O status do botão de disponibilidade permanecerá até que seja alterado manualmente, até que o próximo bloco de tempo na disponibilidade do agente seja atingido ou até a meia-noite do fuso horário especificado do agente (consulte o próximo marcador para obter mais informações).
+>
+>* Quando o agente usa o botão de disponibilidade para alterar seu status para &quot;disponível&quot;, seu status é automaticamente redefinido (opções para não disponível) à meia-noite do fuso horário especificado em seu cronograma de disponibilidade. Se nenhum fuso horário for especificado, o padrão será UTC (Tempo universal coordenado).
 
 >[!TIP]
 >
