@@ -5,9 +5,9 @@ description: Bem-vindo à nova Adobe Marketo Engage Email Designer.
 title: Visão geral
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '870'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Bem-vindo à nova Adobe Marketo Engage Email Designer.
 
-O designer de email é a mais recente inovação no Marketo Engage, criada para fornecer uma experiência renovada de criação de modelos de email e email para melhorar a produtividade e a eficiência. Ele oferece um editor visual com função de arrastar e soltar, além de modelos padrão prontos para uso. Crie facilmente modelos de email personalizados sem precisar gastar dinheiro com fornecedores.
+O Designer de email é a mais recente inovação no Marketo Engage, destinada a fornecer uma experiência renovada de criação de modelos de email e email para melhorar a produtividade e a eficiência, fornecendo um editor visual de arrastar e soltar, juntamente com modelos padrão prontos para uso. Crie facilmente modelos de email personalizados sem precisar gastar dinheiro com fornecedores.
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ O designer de email é a mais recente inovação no Marketo Engage, criada para 
 
 ## Como acessar o {#how-to-access}
 
-+++Saiba como acessar o designer de email
++++Saiba como acessar o Designer de email
 
-Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Para acessar o novo Designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Adicionar usuários {#add-users}
 
@@ -64,13 +64,15 @@ Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser
 
 * [Testar a Renderização de Email com o Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: aproveite sua conta do Litmus no Marketo Engage para ver instantaneamente como seu email é renderizado em clientes de email populares.
 
+* [Detecção de spam com SpamAssassin](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: usando o SpamAssassin no Marketo Engage, você pode testar seu conteúdo de email e ver a probabilidade de ISPs/provedores de caixa de correio marcá-lo como spam.
+
 * [Comparação de recursos](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: compare a disponibilidade de recursos no editor de email anterior (Email Editor 2.0) com a nova Designer de email.
 
 ## Perguntas frequentes {#faq}
 
 **O antigo editor de email continuará funcionando? Em caso afirmativo, por quanto tempo?**
 
-Sim, o editor de email antigo (clássico) coexistirá com o novo designer de email. Os emails criados no editor clássico permanecerão. Não há data para quando o editor clássico será descontinuado neste momento, mas ele continuará a funcionar ao longo de 2025.
+Sim, o editor de email antigo (clássico) coexistirá com o novo Designer de email. Os emails criados no editor clássico permanecerão. Não há data para quando o editor clássico será descontinuado neste momento, mas ele continuará a funcionar ao longo de 2025.
 
 **Em quais programas posso usar os emails do Novo Email Designer?**
 
@@ -82,11 +84,11 @@ Modelos de email do editor clássico não podem ser referenciados no novo design
 
 **Posso mover facilmente os novos ativos do designer para um programa diferente?**
 
-Não neste momento. Mas essa funcionalidade será disponibilizada em breve.
+Sim!
 
-**Os ativos podem ser editados por meio da API no novo designer de email?**
+**Os ativos podem ser editados por meio da API no novo Designer de email?**
 
-No momento, o Assets que está sendo editado por meio da API não é compatível com o novo designer de email.
+No momento, o Assets que está sendo editado por meio da API não é compatível com o novo Designer de email.
 
 **Existe uma maneira de impor a identidade visual (fontes, logotipos e cores)?**
 
@@ -100,7 +102,7 @@ Sim, absolutamente, mais personalizável com nosso editor WYSIWYG (what-you-see-
 
 Trata-se do WYSIWYG; o conhecimento sobre o HTML não é necessário. É possível criar modelos facilmente no designer, reduzindo a necessidade de desenvolvedores externos na Web. No entanto, você ainda tem a opção de atualizar o CSS e editar seções individuais via HTML. Também estamos trabalhando em uma maneira de migrar facilmente modelos do editor clássico para o novo designer.
 
-**O novo designer de email oferece suporte ao idioma do AMP?**
+**O novo Designer de Email oferece suporte ao idioma do AMP?**
 
 No momento, ele não é compatível com AMP.
 

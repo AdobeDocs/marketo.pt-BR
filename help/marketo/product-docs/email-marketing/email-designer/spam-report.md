@@ -1,21 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Spam Assassin
+title: Relatório de spam de email
 description: Saiba como usar o SpamAssassin para testar seu conteúdo de email e ver a probabilidade de ele ser marcado como spam.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 3%
+source-wordcount: '225'
+ht-degree: 5%
 
 ---
 
-# Spam Assassin {#spam-assassin}
+# Relatório de spam de email {#email-spam-report}
 
 Usando o SpamAssassin no Marketo Engage, você pode testar seu conteúdo de e-mail e ver a probabilidade de ISPs/provedores de caixa de correio marcá-lo como spam.
 
@@ -23,24 +21,36 @@ O SpamAssassin analisa seu conteúdo e atribui uma pontuação com base em vári
 
 ## Acessar o relatório de spam {#access-the-spam-report}
 
-1. Na tela Simular, clique no botão **Relatório de spam**.
+1. No seu email, clique em **Simular Conteúdo**.
 
-CAPTURA DE TELA
+   ![](assets/email-spam-report-1.png){width="600" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Se você ainda não tiver adicionado um perfil de teste, precisará fazer isso logo após a Etapa 1.
+
+1. Clique no botão **Relatório de spam**.
+
+   ![](assets/email-spam-report-2.png)
 
 1. Um relatório de spam é gerado.
 
-CAPTURA DE TELA
+   ![](assets/email-spam-report-3.png){width="600" zoomable="yes"}
 
 1. Verifique as pontuações e descrições de cada item.
 
->[!IMPORTANT]
->
->Se a pontuação geral for superior a 5, seu email poderá ser bloqueado ou marcado como spam no momento do delivery.
+   >[!IMPORTANT]
+   >
+   >Se a pontuação geral for superior a 5, seu email poderá ser bloqueado ou marcado como spam no momento do delivery.
 
-1. Se você considerar a pontuação muito alta, edite o conteúdo no Designer de email e execute novamente o relatório de spam até que a pontuação esteja onde deseja que ele esteja.
+1. Se você considerar a pontuação muito alta, edite seu conteúdo no Designer de Email com base nas descobertas do relatório e execute novamente o **Relatório de spam**.
 
-CAPTURA DE TELA
+   ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
+
+Quando a pontuação for do seu agrado, ela estará pronta para ser enviada.
+
+![](assets/email-spam-report-5.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
->A pontuação de spam é derivada do SpamAssassin e as regras não são de propriedade da Adobe. Mais detalhes sobre essas regras podem ser encontrados na [documentação do SpamAssassin](https://spamassassin.apache.org/#_blank). Uma lista completa de erros [pode ser vista aqui](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com).
+>A pontuação de spam é derivada do SpamAssassin e as regras não são de propriedade da Adobe. Mais detalhes sobre essas regras podem ser encontrados na [documentação do SpamAssassin](https://spamassassin.apache.org/#_blank){target="_blank"}. Uma lista completa de erros [pode ser vista aqui](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}.
