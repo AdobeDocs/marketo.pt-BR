@@ -4,9 +4,9 @@ description: Entendendo meus tokens em um programa - Documentação do Marketo -
 title: Compreender meus tokens em um programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 3%
 
 ---
@@ -46,7 +46,7 @@ Exemplos:
   </tr> 
   <tr> 
    <td>Script de e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td> 
+   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td> 
   </tr> 
   <tr> 
    <td>Número<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ Quando você cria um novo token, ele pode ser referenciado por outros objetos na
 Você pode criar variáveis globais e depois substituí-las em níveis inferiores na árvore.
 
 A movimentação de programas e pastas também afeta tokens. Sempre verifique se as referências não foram quebradas durante a movimentação.
+
+>[!IMPORTANT]
+>
+>Não há suporte para tokens aninhados em [Campanhas em lote](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
