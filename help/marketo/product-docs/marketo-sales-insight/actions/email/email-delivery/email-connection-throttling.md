@@ -3,9 +3,9 @@ description: Limitação Da Conexão De Email - Documentação Do Marketo - Docu
 title: Limitação da conexão de email
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 A integração da sua conta [!DNL Sales Connect] para envio por meio do [!DNL Exchange] ou de provedores de email do Gmail oferece uma configuração simplificada e otimiza a capacidade de entrega de emails para 1:1 comunicação de vendas. No entanto, para manter a integridade dos sistemas e a segurança das contas, o Gmail e o [!DNL Exchange] impõem limites de envio de email. Esses limites podem ser aumentados ou diminuídos a critério dos provedores.
 
-## Limitação da conexão de email (Beta) {#email-connection-throttling-beta}
+## Visão geral {#overview}
 
 A limitação de conexão de email permite que os administradores do Sales Connect configurem a taxa de envio de emails ao usar o Gmail ou o Exchange como canal de entrega, para que a taxa na qual os emails sejam entregues ao provedor de canal de entrega não exceda os limites impostos.
 
 Quando os limites são constantemente excedidos, isso pode ser visto às vezes como um comportamento suspeito do provedor de canal de entrega, causando falha nos emails e, às vezes, até mesmo uma conta é desativada.
 
-**Notas/Destaques**
+## Itens a Observar {#things-to-note}
 
 * Habilitado automaticamente quando um usuário se conecta ao Gmail ou [!DNL Exchange]
 * Pode ser personalizado se você quiser aumentar ou diminuir as configurações da recomendação para atender às suas necessidades
 * Apenas acelera emails enviados pelo Gmail ou [!DNL Exchange], não acelera o canal de entrega personalizado
 * A limitação da Conexão de email enfileira emails de cada usuário individual separadamente, pois cada usuário tem sua própria conexão com o provedor de email
 
-**Definindo as Configurações de Limitação da Conexão de Email**
+## Definição das configurações de limitação da conexão de email {#configuring}
 
 1. Clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 
@@ -57,7 +57,7 @@ Com as alterações salvas, todos os usuários terão seus emails enviados em lo
 
 ## Limites do provedor de email {#email-provider-limits}
 
-**[!DNL Outlook 365]**
+### [!DNL Outlook 365] {#outlook}
 
 Business/Empresa
 
@@ -67,7 +67,7 @@ Business/Empresa
 
 Mais informações [podem ser encontradas aqui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
-**Gmail**
+### Gmail {#gmail}
 
 * 2000 por dia (500 para contas de avaliação e sinalizadas)
 * 2 emails por segundo (limite de API)
@@ -75,7 +75,7 @@ Mais informações [podem ser encontradas aqui](https://docs.microsoft.com/en-us
 
 Mais informações [podem ser encontradas aqui](https://support.google.com/a/answer/166852?hl=en).
 
-**[!DNL Microsoft Exchange Server (2010, 2013)]**
+### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
 Os limites são definidos pelo departamento de TI da organização, pois o servidor é hospedado por ela. Entre em contato com o administrador da rede ou do sistema, conforme aplicável, para obter mais informações.
 
