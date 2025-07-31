@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472490
 description: Programação de lançamento - Documentação do Marketo - Documentação do produto
-title: Programação de lançamento
+title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: c06b4b0c648d1f464994926dd17cbc412823a37c
+source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 14%
 
 ---
 
-# Programação de lançamento {#release-schedule}
+# Cronograma de lançamento {#release-schedule}
 
 **Versão**: o mês/ano de cada versão. Uma vez disponíveis, as notas de versão serão vinculadas na tabela abaixo.
 
@@ -48,14 +48,14 @@ _As datas/recursos de lançamento estão sujeitos a alterações_
    <td>Remetido</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">Maio de 25</a></td>
-   <td>sábado, 23 de maio de 2025</td>
-   <td>Em andamento</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maio de 25</a></td>
+   <td>23 de maio de 2025</td>
+   <td>Remetido</td>
   </tr>
   <tr> 
-   <td>Julho de 25</td>
+   <td><a href="/help/marketo/release-notes/current.md">Julho de 25</a></td>
    <td>sábado, 11 de julho de 2025</td>
-   <td>Dentro do Cronograma</td>
+   <td>Em andamento</td>
   </tr>
   <tr> 
    <td>Agosto de 25</td>
