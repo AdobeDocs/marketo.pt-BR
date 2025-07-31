@@ -3,7 +3,7 @@ description: Biblioteca de resposta - Documentação do Marketo - Documentação
 title: Biblioteca de resposta
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 2%
@@ -56,7 +56,7 @@ Em um local, visualize todas as suas perguntas, o status de aprovação e o nome
 
 ## Perguntas/respostas sobre edição e upload em massa {#bulk-edit-and-upload-questions-responses}
 
-As instruções sobre como fazer edições em massa no arquivo do Excel baixado estão disponíveis abaixo. Eles também podem ser vistos na guia Task details do arquivo.
+As instruções sobre como fazer edições em massa no [arquivo do Excel baixado](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} estão disponíveis abaixo. Eles também podem ser vistos na guia Task details do arquivo.
 
 <table>
 <thead>
