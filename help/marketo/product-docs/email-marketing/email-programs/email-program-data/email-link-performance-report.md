@@ -4,7 +4,7 @@ description: Relatório de desempenho de link de email - Documentação do Marke
 title: Relatório de desempenho do link de email
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
@@ -41,35 +41,35 @@ Crie um relatório de Desempenho do link de email para ver o desempenho dos link
 
 [As colunas disponíveis](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho do Link de Email incluem:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL Coluna]</th> 
-   <th colspan="1" rowspan="1">Descrição</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
-   <td colspan="1" rowspan="1">Agrupado por nome de email.<br>Clique no sinal de mais (+) para ver todos os links incluídos nesse email.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Cliques]</td> 
-   <td colspan="1" rowspan="1">O número de vezes que o link foi clicado.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Cliques]</td> 
-   <td colspan="1" rowspan="1">Do total de cliques em todos os links nesse email, porcentagem nesse link.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Pessoas]</td> 
-   <td colspan="1" rowspan="1">O número de pessoas únicas que clicaram no link.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Pessoas]</td> 
-   <td colspan="1" rowspan="1">Do total de pessoas únicas que clicaram nos links nesse email, porcentagem neste link.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL Coluna]</th>
+   <th colspan="1" rowspan="1">Descrição</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td>
+   <td colspan="1" rowspan="1">Agrupado por nome de email.<br>Clique no sinal de mais (+) para ver todos os links incluídos nesse email.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Cliques]</td>
+   <td colspan="1" rowspan="1">O número de vezes que o link foi clicado.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Cliques]</td>
+   <td colspan="1" rowspan="1">Do total de cliques em todos os links nesse email, porcentagem nesse link.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Pessoas]</td>
+   <td colspan="1" rowspan="1">O número de pessoas únicas que clicaram no link.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Pessoas]</td>
+   <td colspan="1" rowspan="1">Do total de pessoas únicas que clicaram nos links nesse email, porcentagem neste link.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

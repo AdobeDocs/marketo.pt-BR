@@ -4,9 +4,9 @@ description: Notas de versão - Último trimestre de 2015 - Documentação do Ma
 title: Notas de versão - Último trimestre de 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Várias assinaturas podem ser criadas em uma lista inteligente. Há uma limitaç
 
 [Objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Crie facilmente objetos personalizados na interface do usuário do administrador. Atualmente, oferecemos suporte à capacidade de criar um objeto personalizado 1:N no Marketo e conectá-lo a um cliente potencial ou empresa.
+Crie facilmente objetos personalizados na interface do usuário do administrador. Atualmente, oferecemos suporte à capacidade de criar um objeto personalizado do :N no Marketo e conectá-lo a um cliente potencial ou a uma empresa.
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ Estamos fazendo várias melhorias no editor de rich text. Depois que lançamos o
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - Validar sincronização {#microsoft-dynamics-validate-sync}

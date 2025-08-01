@@ -4,7 +4,7 @@ description: Definir uma página de fallback - Documentação do Marketo - Docum
 title: Definir uma página de fallback
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -34,4 +34,3 @@ As páginas substitutas são a última linha de defesa se a landing page estiver
 1. Insira uma **[!UICONTROL Página de fallback]** na caixa de diálogo e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/set-a-fallback-page-4.png)
-

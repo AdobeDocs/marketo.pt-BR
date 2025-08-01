@@ -4,10 +4,10 @@ description: Prática recomendada - Como organizar seus programas - Documentaç�
 title: Prática recomendada - Como organizar seus programas
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -28,11 +28,11 @@ Em Atividades de marketing, você deve usar pastas para organizar seus programas
 >**Exemplo**
 >
 >* Programas de marketing ativos
->   * E-mails
+>   * Emails
 >   * Eventos
 >      * Eventos ao vivo/Roadshows
 >      * Feiras de Negócios
->      * Webinars
+>      * Webinários
 >   * Boletins informativos
 >   * Nutrição
 >   * Conteúdo da Web
@@ -121,4 +121,4 @@ Algumas pessoas até abstraem a maior parte do texto nos emails e landing pages 
 
 ## Resumo {#summary}
 
-Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere os serviços adicionais de [especialistas em Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.
+Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere serviços adicionais de [especialistas da Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.

@@ -3,7 +3,7 @@ description: Gerenciamento de salas - Documentação do Marketo - Documentação
 title: Gerenciamento de Salas
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -67,7 +67,7 @@ A guia Content permite visualizar os arquivos carregados, seu tipo, tamanho, dat
 <table><tbody>
   <tr>
     <td><b>Tipo</td>
-    <td>Mostra o tipo de arquivo como PDF, JPG, PNG, etc.</td>
+    <td>Mostra o tipo de arquivo, como PDF, JPG, PNG etc.</td>
   </tr>
   <tr>
     <td><b>Tamanho</td>

@@ -4,22 +4,22 @@ description: Sintaxe de modelo de email - Documentação do Marketo - Documenta�
 title: Sintaxe do modelo de email
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Sintaxe do modelo de email {#email-template-syntax}
 
-Na nova experiência do Email 2.0 da Marketo, os modelos de email são compostos de qualquer combinação de elementos, variáveis, módulos ou contêineres. Cada um é definido adicionando uma sintaxe específica do Marketo ao seu HTML. Os modelos de email antigos (v1.0) são suportados no Editor de email 2.0; no entanto, eles não incluirão todos os recursos do novo Editor.
+Na nova experiência do Email 2.0 da Marketo, os modelos de email são compostos de qualquer combinação de elementos, variáveis, módulos ou contêineres. Cada uma é definida adicionando uma sintaxe específica do Marketo à sua HTML. Os modelos de email antigos (v1.0) são suportados no Editor de email 2.0; no entanto, eles não incluirão todos os recursos do novo Editor.
 
 A sintaxe de email do Marketo só funciona em modelos e emails individuais; ela **não** funciona se estiver incorporada em trechos ou tokens Rich Text.
 
 >[!NOTE]
 >
->O Suporte da Marketo não está configurado para auxiliar com CSS/HTML. Se você não estiver familiarizado com CSS/HTML, consulte o desenvolvedor.
+>O Suporte do Marketo não está configurado para auxiliar com CSS/HTML. Se você não estiver familiarizado com CSS/HTML, consulte seu desenvolvedor.
 
 >[!CAUTION]
 >
@@ -40,7 +40,7 @@ Se você definir uma região como Rich Text, os usuários poderão editar seu co
 
 ### Opção 1 - mktEditable {#option-mkteditable}
 
-Como o Editor de email 2.0 é compatível com versões anteriores, alguns modelos de email antigos podem especificar elementos rich text adicionando class=&quot;mktEditable&quot; em qualquer elemento HTML. Isso ainda é compatível, e a ID do elemento é o que será usado como o nome de exibição dentro do editor de email.
+Como o Editor de email 2.0 é compatível com versões anteriores, alguns modelos de email antigos podem especificar elementos rich text adicionando class=&quot;mktEditable&quot; em qualquer elemento do HTML. Isso ainda é compatível, e a ID do elemento é o que será usado como o nome de exibição dentro do editor de email.
 
 Atributos obrigatórios
 
@@ -79,7 +79,7 @@ Exemplo:
 
 ## Imagens {#images}
 
-Você tem duas opções para definir elementos de Imagem editáveis. Você pode usar um `<div>`, que especifica um contêiner no qual o `<img>` será inserido, ou uma marca `<img>`. Se você pretende que o usuário final simplesmente escolha uma imagem que retornará o URL da imagem (em vez do DOM), consulte &quot;variáveis de imagem&quot; na seção abaixo. As duas opções a seguir inserirão um elemento HTML `<img>`.
+Você tem duas opções para definir elementos de Imagem editáveis. Você pode usar um `<div>`, que especifica um contêiner no qual o `<img>` será inserido, ou uma marca `<img>`. Se você pretende que o usuário final simplesmente escolha uma imagem que retornará o URL da imagem (em vez do DOM), consulte &quot;variáveis de imagem&quot; na seção abaixo. As duas opções a seguir inserirão um elemento `<img>` do HTML.
 
 ### Opção 1 - Usar um `<div>` {#option-use-a-div}
 
@@ -284,9 +284,9 @@ Exemplo de uso:
 
 `${showFooter}`
 
-## Bloco HTML {#html-block}
+## Bloco do HTML {#html-block}
 
-Se você especificar uma variável como um Bloco de HTML, o usuário final poderá inserir o HTML textual no editor de email. Você especifica uma variável de HTML Block usando `<meta>` com class=&quot;mktoHTML&quot;
+Se você especificar uma variável como um Bloqueio do HTML, o usuário final poderá inserir o HTML textual no editor de email. Você especifica uma variável de bloco do HTML usando `<meta>` com class=&quot;mktoHTML&quot;
 
 Atributos obrigatórios
 
@@ -295,7 +295,7 @@ Atributos obrigatórios
 
 Atributos opcionais
 
-* **padrão:** valor codificado em HTML para servir como conteúdo padrão do bloco.
+* **padrão:** valor codificado de HTML para servir como conteúdo padrão do bloco.
 * **mktoModuleScope**: booleano. Controla se a variável é local (true) ou global (false) quando usada em um módulo. O padrão é Falso, caso seja omitido.
 
 Exemplo de declaração:

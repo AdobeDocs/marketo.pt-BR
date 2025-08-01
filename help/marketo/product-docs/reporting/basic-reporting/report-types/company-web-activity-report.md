@@ -4,7 +4,7 @@ description: Relatório de atividades da empresa na Web - Documentação do Mark
 title: Relatório de atividades da empresa na Web
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 4%
@@ -21,7 +21,7 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
 >
 >Para capturar a atividade do seu site na Marketo, primeiro você precisa configurar [up [!DNL Munchkin] no seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Atividade da Web da Empresa[&#128279;](report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Atividade da Web da Empresa[](report-type-overview.md).
 
 1. Opte por [exibir pessoas conhecidas ou anônimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) no relatório.
 
@@ -37,39 +37,39 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
 
    [As colunas que você pode selecionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Atividade da Web da Empresa incluem:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Coluna(s)</th> 
-   <th>Descrição</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Empresa</td> 
-   <td>A empresa dos visitantes.<br> <strong>Nomes em negrito</strong> foram confirmados como o nome da empresa por pelo menos uma pessoa.</td> 
-  </tr> 
-  <tr> 
-   <td>Empresa ou ISP indicado</td> 
-   <td>A empresa, conforme deduzido do endereço IP dos visitantes. <br> <strong>Nomes em negrito</strong> indicam que esta é a empresa, não o ISP. </td> 
-  </tr> 
-  <tr> 
-   <td>Page Views</td> 
-   <td>Número de páginas carregadas pelos visitantes.</td> 
-  </tr> 
-  <tr> 
-   <td>People</td> 
-   <td>Número de pessoas desta empresa que visitaram seu site.</td> 
-  </tr> 
-  <tr> 
-   <td>País, Estado/Região e Cidade</td> 
-   <td>Localização geográfica da empresa.</td> 
-  </tr> 
-  <tr> 
-   <td>Primeira/última visita (fuso horário)</td> 
-   <td>Data e hora da primeira/última visita por qualquer pessoa desta empresa.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Coluna(s)</th>
+   <th>Descrição</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Empresa</td>
+   <td>A empresa dos visitantes.<br> <strong>Nomes em negrito</strong> foram confirmados como o nome da empresa por pelo menos uma pessoa.</td>
+  </tr>
+  <tr>
+   <td>Empresa ou ISP indicado</td>
+   <td>A empresa, conforme deduzido do endereço IP dos visitantes. <br> <strong>Nomes em negrito</strong> indicam que esta é a empresa, não o ISP. </td>
+  </tr>
+  <tr>
+   <td>Page Views</td>
+   <td>Número de páginas carregadas pelos visitantes.</td>
+  </tr>
+  <tr>
+   <td>People</td>
+   <td>Número de pessoas desta empresa que visitaram seu site.</td>
+  </tr>
+  <tr>
+   <td>País, Estado/Região e Cidade</td>
+   <td>Localização geográfica da empresa.</td>
+  </tr>
+  <tr>
+   <td>Primeira/última visita (fuso horário)</td>
+   <td>Data e hora da primeira/última visita por qualquer pessoa desta empresa.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

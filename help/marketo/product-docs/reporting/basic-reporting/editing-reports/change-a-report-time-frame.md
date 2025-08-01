@@ -4,7 +4,7 @@ description: Alterar um intervalo de tempo do relatório - Documentação do Mar
 title: Alterar um intervalo de tempo do relatório
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Altere o período coberto pelo relatório para se concentrar em um momento espec
    >
    >Para definir datas específicas, selecione **[!UICONTROL Personalizado]** no menu suspenso e insira as datas nos campos de calendário **[!UICONTROL De]** e **[!UICONTROL Até]**.
 
-   Clique na guia **[!UICONTROL Relatório]** para ver seu relatório para o intervalo de tempo selecionado.\
+   Clique na guia **[!UICONTROL Relatório]** para ver seu relatório para o intervalo de tempo selecionado.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

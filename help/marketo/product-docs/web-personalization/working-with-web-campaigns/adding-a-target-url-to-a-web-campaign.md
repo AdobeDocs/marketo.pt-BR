@@ -4,7 +4,7 @@ description: Adicionar um URL do Target a uma campanha da Web - Documentação d
 title: Adicionar um URL de direcionamento a uma campanha da Web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 1%
@@ -29,23 +29,23 @@ Um URL do Target está localizado na página Definir campanha e define o URL ou 
 
    ![](assets/set-web-campaign-hands.jpg)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nome</th> 
-   <th colspan="1" rowspan="1">Descrição</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Qualquer Página]</strong></td> 
-   <td colspan="1" rowspan="1"><p>Permitir que a campanha apareça em qualquer página.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Incluir parâmetro de URL ao corresponder]</strong></p></td> 
-   <td colspan="1" rowspan="1">Adicione o parâmetro de URL para corresponder e mostrar a campanha nos URLs, incluindo este parâmetro. Ex. campaign=cpc</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nome</th>
+   <th colspan="1" rowspan="1">Descrição</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Qualquer Página]</strong></td>
+   <td colspan="1" rowspan="1"><p>Permitir que a campanha apareça em qualquer página.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Incluir parâmetro de URL ao corresponder]</strong></p></td>
+   <td colspan="1" rowspan="1">Adicione o parâmetro de URL para corresponder e mostrar a campanha nos URLs, incluindo este parâmetro. Ex. campaign=cpc</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Adicionar vários URLs ao URL de direcionamento {#adding-multiple-urls-to-target-url}

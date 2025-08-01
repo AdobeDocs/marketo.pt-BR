@@ -4,10 +4,10 @@ title: Adicionar vibrações como um serviço do LaunchPoint
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Você pode enviar mensagens SMS para as pessoas que aceitaram participar das cam
 
 >[!PREREQUISITES]
 >
->Você deve ter uma conta Vibes ativa e uma licença Adobe para SMS Vibes.
+>Você deve ter uma conta ativa do Vibes e uma licença do Adobe para SMS do Vibes.
 
 1. Em Meu Marketo, vá para a área **[!UICONTROL Administrador]**.
 

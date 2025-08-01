@@ -3,7 +3,7 @@ description: Visão geral do cancelamento de inscrição - Documentação do Mar
 title: Visão geral do cancelamento de inscrição
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -52,25 +52,25 @@ O cartão [!UICONTROL Histórico de cancelamento de inscrição] ajuda administr
 
 ![](assets/unsubscribe-overview-5.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Data]</strong></td> 
-   <td><p>Mostra a data em que ocorreu o cancelamento de inscrição/reinscrição.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Detalhes]</strong></td> 
-   <td><p>Assinar novamente: um administrador de [!DNL Sales Connect] removeu manualmente o cancelamento de assinatura do registro de contato. Ela também pode mostrar alguns detalhes relacionados ao motivo pelo qual o contato teve a assinatura cancelada.</p><p>Cancelar inscrição: a inscrição do contato foi cancelada.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Source]</strong></td> 
-   <td><p>[!DNL Salesforce] Sincronização: o cancelamento de inscrição foi capturado por uma sincronização de [!DNL Salesforce].</p><p>Manual: o usuário clicou no botão Cancelar inscrição para recusar.</p><p>Link clicado: o destinatário de um email clicou no link de cancelamento de inscrição.</p><p>"Nome do administrador": o nome de um administrador será exibido quando a ação for reinscrever contatos. Isso informa aos usuários quem removeu o cancelamento de inscrição.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Data]</strong></td>
+   <td><p>Mostra a data em que ocorreu o cancelamento de inscrição/reinscrição.</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Detalhes]</strong></td>
+   <td><p>Assinar novamente: um administrador de [!DNL Sales Connect] removeu manualmente o cancelamento de assinatura do registro de contato. Ela também pode mostrar alguns detalhes relacionados ao motivo pelo qual o contato teve a assinatura cancelada.</p><p>Cancelar inscrição: a inscrição do contato foi cancelada.</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Source]</strong></td>
+   <td><p>[!DNL Salesforce] Sincronização: o cancelamento de inscrição foi capturado por uma sincronização de [!DNL Salesforce].</p><p>Manual: o usuário clicou no botão Cancelar inscrição para recusar.</p><p>Link clicado: o destinatário de um email clicou no link de cancelamento de inscrição.</p><p>"Nome do administrador": o nome de um administrador será exibido quando a ação for reinscrever contatos. Isso informa aos usuários quem removeu o cancelamento de inscrição.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

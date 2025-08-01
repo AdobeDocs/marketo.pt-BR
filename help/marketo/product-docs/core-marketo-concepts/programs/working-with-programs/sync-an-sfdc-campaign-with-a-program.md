@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147154
-description: Sincronizar uma campanha SFDC com um programa - Documentação do Marketo - Documentação do produto
-title: Sincronizar uma campanha SFDC com um programa
+description: Sincronizar uma campanha do SFDC com um programa - Documentação do Marketo - Documentação do produto
+title: Sincronizar uma campanha do SFDC com um programa
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Sincronizar uma campanha SFDC com um programa {#sync-an-sfdc-campaign-with-a-program}
+# Sincronizar uma campanha do SFDC com um programa {#sync-an-sfdc-campaign-with-a-program}
 
 O Marketo Engage permite sincronizar seus programas com as campanhas do [!DNL Salesforce] para manter a mesma lista de pessoas nos dois sistemas, incluindo seus status. Vamos começar!
 
@@ -21,7 +21,7 @@ O Marketo Engage permite sincronizar seus programas com as campanhas do [!DNL Sa
 
 >[!CAUTION]
 >
->Ao sincronizar uma campanha do SFDC com um programa Marketo Engage, as ações implícitas do SFDC (por exemplo, adicionar à campanha do SFDC, Sincronizar com o SFDC) serão desativadas para campanhas filho do programa.
+>Ao sincronizar uma campanha do SFDC com um programa do Marketo Engage, as ações implícitas do SFDC (por exemplo, adicionar ao SFDC Campaign, Sincronizar com o SFDC) serão desativadas para campanhas filho do programa.
 
 1. Vá para **[!UICONTROL Atividades de marketing]**.
 
@@ -31,7 +31,7 @@ O Marketo Engage permite sincronizar seus programas com as campanhas do [!DNL Sa
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Clique em **[!UICONTROL Ações do programa]** e selecione **[!UICONTROL Sincronização da campanha do Salesforce]**.
+1. Clique em **[!UICONTROL Ações do Programa]** e selecione **[!UICONTROL Sincronização do Salesforce Campaign]**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
@@ -49,4 +49,4 @@ O Marketo Engage permite sincronizar seus programas com as campanhas do [!DNL Sa
 
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
-   Excelente! Agora, qualquer alteração no status do programa no Marketo é sincronizada com a campanha do SFDC e vice-versa.
+   Excelente! Agora, todas as alterações de status do programa no Marketo são sincronizadas com a campanha do SFDC e vice-versa.

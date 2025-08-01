@@ -3,7 +3,7 @@ description: Perguntas frequentes sobre a sincronização de dados de ações - 
 title: Perguntas frequentes sobre a Sincronização de Dados de Ações
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '958'
 ht-degree: 3%
@@ -122,4 +122,3 @@ O diagrama acima mostra quais informações estão registradas em [!DNL Salesfor
 >* [[!DNL Salesforce] Configurações de sincronização](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Sincronização de Tarefa de Lembrete com [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Iniciar Sincronização de Dados](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-

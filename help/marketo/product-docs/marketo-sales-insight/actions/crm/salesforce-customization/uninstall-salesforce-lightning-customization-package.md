@@ -3,7 +3,7 @@ description: Desinstale o pacote de personalização do Salesforce Lightning - D
 title: Desinstalar o pacote de personalização do Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1157'
 ht-degree: 9%
@@ -298,9 +298,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>MSC - Última data de compromisso de marketing</td>
   <td>Carimbo de data e hora do envolvimento do Marketing</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -308,9 +308,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>MSC - Última descrição do compromisso de marketing</td>
   <td>Descrição do compromisso</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -318,9 +318,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>MSC - Último envolvimento de marketing Source</td>
   <td>Source do engajamento de marketing</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -328,9 +328,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>MSC - Último Tipo de Compromisso de Marketing</td>
   <td>Tipo de envolvimento (por exemplo: atividade da Web)</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -338,9 +338,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>MSC - Última Atividade por Vendas</td>
   <td>Última atividade de saída executada pela equipe de vendas</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -348,9 +348,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>MSC - Última Resposta</td>
   <td>Última resposta de email para Email de vendas</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -358,9 +358,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>MSC - Campanha de vendas atual</td>
   <td>Registra o nome da campanha do MSC em que o contato/lead está</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -378,9 +378,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>MSC - Recusa</td>
   <td>Campo de recusa</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Caixa de seleção</td>
  </tr>
@@ -396,9 +396,9 @@ Aqui está uma lista de todos os objetos que precisam ser removidos da sua inst�
   <td>[!UICONTROL Enviar Email MSC]</td>
   <td>Enviar emails de vendas de [!DNL Salesforce]</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
  </tr>
  <tr>

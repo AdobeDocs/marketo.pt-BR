@@ -3,7 +3,7 @@ description: Alternar switch - Documentação do Marketo - Documentação do pro
 title: Alternar alternância
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 1%
@@ -72,6 +72,3 @@ Os seguintes recursos estão disponíveis no UX moderno (com novos recursos adic
 * Lista de modelos de landing page
 * Exibição de detalhes do trecho
 * Exibição da lista de trechos
-
-
-

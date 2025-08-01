@@ -4,7 +4,7 @@ description: Atribuição de partições de pessoa com regras de atribuição - 
 title: Atribuindo Partições de Pessoa com Regras de Atribuição
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
@@ -25,7 +25,7 @@ Ao usar partições de pessoa, configure regras de atribuição para rotear as p
 
 >[!NOTE]
 >
->Somente as pessoas criadas no Marketo a partir do seu CRM e por meio da API SOAP terão regras de atribuição aplicadas a elas.
+>Somente as pessoas criadas no Marketo pelo seu CRM e pela API do SOAP terão regras de atribuição aplicadas a elas.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

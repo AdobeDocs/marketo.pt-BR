@@ -4,7 +4,7 @@ description: Adição de campos a um relatório do Gerenciador de receita - Docu
 title: Adicionar campos a um relatório do Gerenciador de receita
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 1%
@@ -15,21 +15,21 @@ ht-degree: 1%
 
 Personalize relatórios do explorador de receita arrastando e soltando campos de dimensão e métrica na tela.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Tipo de campo</th> 
-   <th>Descrição</th> 
-  </tr> 
-  <tr> 
-   <td>Campo ou Dimension amarelo</td> 
-   <td><p>Os campos amarelos são as dimensões (linhas e colunas) do seu relatório.</p><p>Por exemplo, você pode configurar um relatório que mostre o status do seu lead ou a data de criação em colunas.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Campo ou Medida Azul</td> 
-   <td><p>Campos azuis são métricas analisadas em seus dados.</p><p>Por exemplo, essa pode ser a pontuação média de lead para seus leads ou o número de dias que um lead teve uma oportunidade.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Tipo de campo</th>
+   <th>Descrição</th>
+  </tr>
+  <tr>
+   <td>Campo amarelo ou Dimension</td>
+   <td><p>Os campos amarelos são as dimensões (linhas e colunas) do seu relatório.</p><p>Por exemplo, você pode configurar um relatório que mostre o status do seu lead ou a data de criação em colunas.</p></td>
+  </tr>
+  <tr>
+   <td>Campo ou Medida Azul</td>
+   <td><p>Campos azuis são métricas analisadas em seus dados.</p><p>Por exemplo, essa pode ser a pontuação média de lead para seus leads ou o número de dias que um lead teve uma oportunidade.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Localize os campos amarelos que deseja usar e arraste-os para Linhas.

@@ -3,7 +3,7 @@ description: Gerenciar grupos - Documentação do Marketo - Documentação do pr
 title: Gerenciar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -16,33 +16,33 @@ Saiba como gerenciar grupos no [!DNL Sales Insight Actions].
 
 ## Tipos de grupo {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Grupo</th> 
-   <th>Descrição</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Todas as Pessoas]</td> 
-   <td>Todos os contatos de todos os usuários visíveis para você.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Grupos Dinâmicos]</td> 
-   <td>Meus Contatos: todos os seus contatos.<br>Cancelamentos de assinatura: contatos que optaram por não receber correspondência.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Meus Grupos]</td> 
-   <td>Grupos criados. Eles podem conter seus contatos ou que foram compartilhados com você.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Grupos de Equipes]</td> 
-   <td>Grupos que foram compartilhados com e/ou por você. Eles podem conter os contatos dos seus colegas de equipe ou os contatos que você compartilhou com eles.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Grupo</th>
+   <th>Descrição</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Todas as Pessoas]</td>
+   <td>Todos os contatos de todos os usuários visíveis para você.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Grupos Dinâmicos]</td>
+   <td>Meus Contatos: todos os seus contatos.<br>Cancelamentos de assinatura: contatos que optaram por não receber correspondência.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Meus Grupos]</td>
+   <td>Grupos criados. Eles podem conter seus contatos ou que foram compartilhados com você.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Grupos de Equipes]</td>
+   <td>Grupos que foram compartilhados com e/ou por você. Eles podem conter os contatos dos seus colegas de equipe ou os contatos que você compartilhou com eles.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Criar um grupo {#create-a-group}

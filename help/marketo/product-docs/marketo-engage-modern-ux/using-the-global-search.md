@@ -3,7 +3,7 @@ description: Uso da Pesquisa global - Documentação do Marketo - Documentação
 title: Usando a Pesquisa global
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,27 +40,27 @@ Você é levado diretamente ao email desejado.
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Nome do item/destino</td> 
+   <td>1</td>
+   <td>Nome do item/destino</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Caminho (navegação estrutural) para o respectivo item/destino</td> 
+   <td>2</td>
+   <td>Caminho (navegação estrutural) para o respectivo item/destino</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Data e hora da última modificação do item/destino</td> 
+   <td>3</td>
+   <td>Data e hora da última modificação do item/destino</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Data e hora em que o item/destino foi criado</td> 
+   <td>4</td>
+   <td>Data e hora em que o item/destino foi criado</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>Implementar filtros focados para limitar os resultados da pesquisa</td> 
+   <td>5</td>
+   <td>Implementar filtros focados para limitar os resultados da pesquisa</td>
   </tr>
  </tbody>
 </table>

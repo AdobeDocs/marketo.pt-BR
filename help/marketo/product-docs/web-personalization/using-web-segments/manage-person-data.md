@@ -4,7 +4,7 @@ description: Gerenciar dados da pessoa - Documentação do Marketo - Documentaç
 title: Gerenciar dados da pessoa
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 23%
@@ -49,54 +49,54 @@ Aproveite os Dados da pessoa para [!DNL Web Personalization] selecionando os cam
    >* A extensão máxima dos tipos de sequências é de 255 caracteres
    >* Campos ocultos serão removidos automaticamente
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>Nome da API REST</p></th> 
-   <th><p>Nome da API SOAP</p></th> 
-   <th><p>Nome intuitivo</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>departamento</p></td> 
-   <td><p>Departamento</p></td> 
-   <td><p>Departamento</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>título</p></td> 
-   <td><p>Título</p></td> 
-   <td><p>Nome do cargo</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>avaliação</p></td> 
-   <td><p>Classificação</p></td> 
-   <td><p>Classificação</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadScore</p></td> 
-   <td><p>LeadScore</p></td> 
-   <td><p>Pontuação</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadStatus</p></td> 
-   <td><p>LeadStatus</p></td> 
-   <td><p>Status</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>prioridade</p></td> 
-   <td><p>Prioridade</p></td> 
-   <td><p>Prioridade</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
-   <td><p>Função</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>cancelado</p></td> 
-   <td><p>Inscrição cancelada</p></td> 
-   <td><p>Inscrição cancelada</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>Nome da API REST</p></th>
+   <th><p>Nome da API SOAP</p></th>
+   <th><p>Nome intuitivo</p></th>
+  </tr>
+  <tr>
+   <td><p>departamento</p></td>
+   <td><p>Departamento</p></td>
+   <td><p>Departamento</p></td>
+  </tr>
+  <tr>
+   <td><p>título</p></td>
+   <td><p>Título</p></td>
+   <td><p>Nome do cargo</p></td>
+  </tr>
+  <tr>
+   <td><p>avaliação</p></td>
+   <td><p>Classificação</p></td>
+   <td><p>Classificação</p></td>
+  </tr>
+  <tr>
+   <td><p>leadScore</p></td>
+   <td><p>LeadScore</p></td>
+   <td><p>Pontuação</p></td>
+  </tr>
+  <tr>
+   <td><p>leadStatus</p></td>
+   <td><p>LeadStatus</p></td>
+   <td><p>Status</p></td>
+  </tr>
+  <tr>
+   <td><p>prioridade</p></td>
+   <td><p>Prioridade</p></td>
+   <td><p>Prioridade</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>LeadRole</p></td>
+   <td><p>Função</p></td>
+  </tr>
+  <tr>
+   <td><p>cancelado</p></td>
+   <td><p>Inscrição cancelada</p></td>
+   <td><p>Inscrição cancelada</p></td>
+  </tr>
+ </tbody>
 </table>
 
 Os campos de cliente em potencial a seguir são fornecidos imediatamente para novas contas do [!DNL Web Personalization]:

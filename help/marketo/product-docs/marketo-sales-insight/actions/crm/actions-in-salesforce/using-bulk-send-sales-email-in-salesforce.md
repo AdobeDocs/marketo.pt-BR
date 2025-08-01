@@ -1,8 +1,8 @@
 ---
-description: Uso do envio de email de vendas em massa no Salesforce - Documentação do Marketo - Documentação do produto
+description: Utilização do email de vendas de envio em massa no Salesforce - Documentação do Marketo - Documentação do produto
 title: Utilização do email de vendas de envio em massa no Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '596'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Saiba como enviar emails em massa no Salesforce para ajudar a dimensionar a comu
 
 >[!PREREQUISITES]
 >
->Certifique-se de ter instalado o [pacote mais recente do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} na sua instância do Salesforce e configurado os [botões de ação](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nas suas exibições de contatos e listas de clientes potenciais no Salesforce.
+>Verifique se você instalou o [pacote mais recente do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} na sua instância do Salesforce e configurou os [botões de ação](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nas suas exibições de contatos e listas de clientes potenciais no Salesforce.
 
 ## Envio de emails em massa no Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 

@@ -4,7 +4,7 @@ description: Saiba como usar ativos de imagem de um repositório conectado do AE
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: f2f9a3aeae8bd4857675df46ad5522c37154431c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Conecte sua conta do _Adobe Experience Manager Assets as a Cloud Service_ à sua
 
 >[!NOTE]
 >
->Atualmente, apenas ativos de imagem do _Adobe Experience Manager Assets_ são suportados no Marketo Engage. As alterações nos ativos devem ser feitas pelo repositório central da Adobe Experience Manager Assets. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Atualmente, apenas ativos de imagem do _Adobe Experience Manager Assets_ são suportados no Marketo Engage. As alterações nos ativos devem ser feitas pelo repositório central da Adobe Experience Manager Assets. [Saiba mais](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Link para os serviços em nuvem da AEM {#link-to-your-aem-cloud-services}
 
@@ -45,7 +45,7 @@ Antes de usar esse recurso, primeiro vincule o AEM Cloud Services ao Adobe Marke
    >
    >* Somente repositórios que foram associados na mesma organização IMS que sua assinatura do Marketo Engage são listados.
    >
-   >* O Marketo Engage só oferece suporte a repositórios do nível de Delivery. Se você usa a camada Autor e deseja convertê-la, contate o [Suporte da Adobe Experience Manager](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-manager/content/overview/help-resources).
+   >* O Marketo Engage só oferece suporte a repositórios do nível de Delivery. Se você usa a camada Autor e deseja convertê-la, contate o [Suporte da Adobe Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
 1. Você deve adicionar um [certificado de credencial de serviço](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) para configurar o repositório. Clique no botão **+ Adicionar certificado**.
 
@@ -83,7 +83,7 @@ Se o ambiente tiver uma ou mais conexões do repositório de ativos, você poder
 
 >[!IMPORTANT]
 >
->Um administrador deve adicionar usuários que precisam de acesso aos ativos aos perfis do produto Usuários do consumidor do Assets e/ou Usuários do Assets. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Um administrador deve adicionar usuários que precisam de acesso aos ativos aos perfis do produto Usuários do consumidor do Assets e/ou Usuários do Assets. [Saiba mais](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 No editor de conteúdo visual, clique no ícone _Seletor de ativos do Experience Manager_ na barra lateral esquerda. Isso altera o painel Ferramentas para uma lista de ativos disponíveis no repositório selecionado.
 

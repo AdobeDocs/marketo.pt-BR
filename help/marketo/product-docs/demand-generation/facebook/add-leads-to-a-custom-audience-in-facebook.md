@@ -4,7 +4,7 @@ description: Adicionar clientes em potencial a um público-alvo personalizado no
 title: Adicionar clientes em potencial a um público-alvo personalizado no Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 1%
@@ -39,7 +39,7 @@ Já tem um público-alvo personalizado em [!DNL Facebook] e deseja adicionar mai
 
    >[!NOTE]
    >
-   >**[!UICONTROL Adicionar clientes em potencial ao público-alvo]**: somente [!DNL Facebook] públicos-alvo com um subtipo personalizado estarão disponíveis.\
+   >**[!UICONTROL Adicionar clientes em potencial ao público-alvo]**: somente [!DNL Facebook] públicos-alvo com um subtipo personalizado estarão disponíveis.
    >**[!UICONTROL Remover clientes potenciais do público-alvo]**: remove os clientes potenciais em sua lista estática ou inteligente de um público-alvo [!DNL Facebook].
 
 1. Quando terminar, o status será atualizado.

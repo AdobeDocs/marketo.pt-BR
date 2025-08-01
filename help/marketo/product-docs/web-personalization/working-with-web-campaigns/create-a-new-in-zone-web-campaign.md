@@ -4,7 +4,7 @@ description: Criar uma nova Campanha da Web na zona - Documentação do Marketo 
 title: Criar uma nova campanha da Web na zona
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 1%
@@ -37,46 +37,46 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
    >
    >Em seguida, você deseja encontrar a &quot;id&quot; associada a esta seção do site, que é realçada porque você está inspecionando esse elemento. Por exemplo, se depois de clicar com o botão direito do mouse no Chrome, o texto realçado disser `<div id="featured-slider">`, então &quot;feature-slider&quot; é o que você deve digitar na seção &quot;zone id&quot;. Normalmente, &quot;div id&quot; é usada, mas qualquer ID também pode ser usada, como h1 id, p id etc.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nome</th> 
-   <th colspan="1" rowspan="1">Descrição</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> ID da zona </strong></td> 
-   <td colspan="1" rowspan="1"><p>Insira o nome da id encontrada no código HTML do elemento do site que a campanha substitui.</p></td> 
-  </tr> 
-  <tr> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nome</th>
+   <th colspan="1" rowspan="1">Descrição</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> ID da zona </strong></td>
+   <td colspan="1" rowspan="1"><p>Insira o nome da id encontrada no código HTML do elemento do site que a campanha substitui.</p></td>
+  </tr>
+  <tr>
    <td colspan="1" rowspan="1"><p><strong> Fixo
- </strong></p></td> 
-   <td colspan="1" rowspan="1">A caixa de seleção Fixo é marcada por padrão para a campanha Na zona e mantém a campanha Na zona em sua posição da ID da zona durante toda a sessão do visitante no site. É recomendável ter sempre uma Zona de entrada definida como Fixa.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Em Desaparecimento</strong> </p></td> 
-   <td colspan="1" rowspan="1">Marcar a caixa de seleção Efeito do uso e Desaparecer fornece um efeito de desvanecimento da área ID da zona no site. Se a Zona de entrada for um banner gráfico, a página será carregada primeiro e a campanha será ativada com um efeito de esmaecimento.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Deslizamento</strong></td> 
-   <td colspan="1">Marcar a caixa de seleção Usar efeito e a opção Deslizante fornece um deslizamento em efeito para a área ID da zona no site. Se a Zona de entrada for um banner gráfico, a página será carregada primeiro e a campanha será ativada com um efeito deslizante da esquerda para a direita.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Editor de Rich Text  </strong></td> 
-   <td colspan="1">O editor de rich text permite a formatação de texto, vinculação e inserção de imagem. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Leia mais aqui</a>.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Visualizar no site   </strong></td> 
-   <td colspan="1">Visualize campanhas antes que sejam iniciadas. <br> 
-    <ul> 
-     <li> URL - Insira um URL de exemplo, no qual a campanha seria executada para ver um exemplo de visualização de como a campanha seria exibida.</li> 
-     <li>Dispositivo - Visualize como sua campanha será exibida por dispositivo: Desktop, Retrato móvel, Paisagem móvel, Retrato de tablet, Paisagem de retrato.</li> 
-     <li> Visualizar - Clique em <strong>Visualizar</strong> para abrir uma nova janela da URL de exemplo para ver como a campanha reage.</li> 
-     <li> Compartilhar - Use o botão Compartilhar para enviar um email a um colega com um link para ver a campanha de proxy.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+ </strong></p></td>
+   <td colspan="1" rowspan="1">A caixa de seleção Fixo é marcada por padrão para a campanha Na zona e mantém a campanha Na zona em sua posição da ID da zona durante toda a sessão do visitante no site. É recomendável ter sempre uma Zona de entrada definida como Fixa.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Em Desaparecimento</strong> </p></td>
+   <td colspan="1" rowspan="1">Marcar a caixa de seleção Efeito do uso e Desaparecer fornece um efeito de desvanecimento da área ID da zona no site. Se a Zona de entrada for um banner gráfico, a página será carregada primeiro e a campanha será ativada com um efeito de esmaecimento.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Deslizamento</strong></td>
+   <td colspan="1">Marcar a caixa de seleção Usar efeito e a opção Deslizante fornece um deslizamento em efeito para a área ID da zona no site. Se a Zona de entrada for um banner gráfico, a página será carregada primeiro e a campanha será ativada com um efeito deslizante da esquerda para a direita.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Editor de Rich Text  </strong></td>
+   <td colspan="1">O editor de rich text permite a formatação de texto, vinculação e inserção de imagem. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Leia mais aqui</a>.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Visualizar no site   </strong></td>
+   <td colspan="1">Visualize campanhas antes que sejam iniciadas. <br>
+    <ul>
+     <li> URL - Insira um URL de exemplo, no qual a campanha seria executada para ver um exemplo de visualização de como a campanha seria exibida.</li>
+     <li>Dispositivo - Visualize como sua campanha será exibida por dispositivo: Desktop, Retrato móvel, Paisagem móvel, Retrato de tablet, Paisagem de retrato.</li>
+     <li> Visualizar - Clique em <strong>Visualizar</strong> para abrir uma nova janela da URL de exemplo para ver como a campanha reage.</li>
+     <li> Compartilhar - Use o botão Compartilhar para enviar um email a um colega com um link para ver a campanha de proxy.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

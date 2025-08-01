@@ -4,7 +4,7 @@ description: Integração do RTP ao Google Universal Analytics - Documentação 
 title: Integrar o RTP ao Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 3%
@@ -43,7 +43,6 @@ O [!DNL Google Universal Analytics] com dados da RTP fornece uma melhor compreen
    1. Selecione a **[!UICONTROL Conta].**
    1. Selecione a **[!UICONTROL Propriedade].**
    1. Selecione **[!UICONTROL Definições personalizadas]** e **[!UICONTROL Dimensões personalizadas]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Adicione uma nova dimensão personalizada. Clique em **[!UICONTROL +Nova Dimension Personalizada]**
@@ -52,34 +51,34 @@ O [!DNL Google Universal Analytics] com dados da RTP fornece uma melhor compreen
 
 1. Adicionar as seguintes **[!UICONTROL Dimensões Personalizadas]:**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Nome Dimension personalizado</strong></p></td> 
-   <td><p><strong>Escopo</strong></p></td> 
-   <td><p><strong>Ativo</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Organização</strong></p></td> 
-   <td><p>Sessão</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Setor</strong></p></td> 
-   <td><p>Sessão</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Categoria</strong></p></td> 
-   <td><p>Sessão</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Group</strong></p></td> 
-   <td><p>Sessão</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Nome Dimension personalizado</strong></p></td>
+   <td><p><strong>Escopo</strong></p></td>
+   <td><p><strong>Ativo</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Organização</strong></p></td>
+   <td><p>Sessão</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Setor</strong></p></td>
+   <td><p>Sessão</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Categoria</strong></p></td>
+   <td><p>Sessão</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Group</strong></p></td>
+   <td><p>Sessão</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

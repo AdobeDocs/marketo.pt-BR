@@ -4,7 +4,7 @@ description: Etapa 1 de 3 - Adicionar campos do Marketo à Salesforce (Enterpris
 title: Etapa 1 de 3 - Adicionar campos do Marketo à Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '753'
 ht-degree: 8%
@@ -53,47 +53,47 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
 1. Insira o [!UICONTROL Rótulo do campo], [!UICONTROL Comprimento] e [!UICONTROL Nome do campo] para o campo, conforme mostrado na tabela abaixo.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Rótulo do campo 
-    </div></th> 
-   <th> 
+      Rótulo do campo
+    </div></th>
+   <th>
     <div>
-      Nome do campo 
-    </div></th> 
-   <th> 
+      Nome do campo
+    </div></th>
+   <th>
     <div>
-      Tipo de dados 
-    </div></th> 
-   <th> 
+      Tipo de dados
+    </div></th>
+   <th>
     <div>
-      Atributos do campo 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Pontuação</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>Número</td> 
-   <td>Comprimento 10<br>Casas decimais 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Data da aquisição</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>Data/hora</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>Programa de aquisição</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
- </tbody> 
+      Atributos do campo
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Pontuação</td>
+   <td>mkto71_Lead_Score</td>
+   <td>Número</td>
+   <td>Comprimento 10<br>Casas decimais 0 </td>
+  </tr>
+  <tr>
+   <td>Data da aquisição</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>Data/hora</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>Programa de aquisição</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -133,107 +133,107 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 1. Execute as etapas de 3 a 10 para os campos Pontuação, Data de aquisição e Programa de aquisição no objeto de contato, da mesma forma que fazia para o objeto de lead.
 1. Como opção, use o procedimento acima para qualquer campo personalizado adicional desta tabela.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Rótulo do campo 
-    </div></th> 
-   <th> 
+      Rótulo do campo
+    </div></th>
+   <th>
     <div>
-      Nome do campo 
-    </div></th> 
-   <th> 
+      Nome do campo
+    </div></th>
+   <th>
     <div>
-      Tipo de dados 
-    </div></th> 
-   <th> 
+      Tipo de dados
+    </div></th>
+   <th>
     <div>
-      Atributos do campo 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>ID do programa de aquisição</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>Número</td> 
-   <td>Comprimento 18<br>Casas decimais 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Responsável pela indicação original</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Mecanismo de pesquisa original</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Frase de pesquisa original</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Informações da fonte original</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Tipo de fonte original</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Cidade indicada</td> 
-   <td>mkto71_Cidade_inferida</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Empresa indicada</td> 
-   <td>mkto71_Inferred_Company</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>País indicado</td> 
-   <td>mkto71_Inferred_Country</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Área metropolitana indicada</td> 
-   <td>mkto71_Inferred_Metropolitan_Area</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Código de área telefônica indicado</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Código postal indicado</td> 
-   <td>mkto71_Inferred_Postal_Code</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
-  <tr> 
-   <td>Estado/região indicado</td> 
-   <td>mkto71_Inferred_State_Region</td> 
-   <td>Texto</td> 
-   <td>Comprimento 255</td> 
-  </tr> 
- </tbody> 
+      Atributos do campo
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>ID do programa de aquisição</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>Número</td>
+   <td>Comprimento 18<br>Casas decimais 0 </td>
+  </tr>
+  <tr>
+   <td>Responsável pela indicação original</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Mecanismo de pesquisa original</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Frase de pesquisa original</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Informações da fonte original</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Tipo de fonte original</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Cidade indicada</td>
+   <td>mkto71_Cidade_inferida</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Empresa indicada</td>
+   <td>mkto71_Inferred_Company</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>País indicado</td>
+   <td>mkto71_Inferred_Country</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Área metropolitana indicada</td>
+   <td>mkto71_Inferred_Metropolitan_Area</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Código de área telefônica indicado</td>
+   <td>mkto71_Inferred_Phone_Area_Code</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Código postal indicado</td>
+   <td>mkto71_Inferred_Postal_Code</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+  <tr>
+   <td>Estado/região indicado</td>
+   <td>mkto71_Inferred_State_Region</td>
+   <td>Texto</td>
+   <td>Comprimento 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

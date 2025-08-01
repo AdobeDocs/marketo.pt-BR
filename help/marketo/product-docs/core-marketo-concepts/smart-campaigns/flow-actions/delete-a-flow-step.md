@@ -4,7 +4,7 @@ description: Excluir uma etapa do fluxo - Documentação do Marketo - Documenta�
 title: Excluir uma etapa do fluxo
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -42,8 +42,8 @@ Primeiro vamos falar sobre as noções básicas. Veja como remover uma etapa de 
    1. **Já executado SEM etapas de espera**.Nenhuma pessoa será afetada porque a campanha está inativa após a execução.
    1. **Está em execução neste momento**. As alterações podem causar comportamento inesperado, dependendo do tempo e dos detalhes da exclusão. Recomendamos NÃO editar uma campanha em lote que esteja em execução ativamente. Para casos de emergência, saiba como [suspender uma Campanha Inteligente em execução](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
-   1. **Já executado COM etapas de espera.** Vários detalhes sobre este.\
-      Quando uma pessoa insere uma etapa de espera, ela anota a duração e a QUAL ETAPA NUMÉRICA retornar. Veja o exemplo abaixo.
+   1. **Já executado COM etapas de espera.** Vários detalhes sobre este.
+Quando uma pessoa insere uma etapa de espera, ela anota a duração e a QUAL ETAPA NUMÉRICA retornar. Veja o exemplo abaixo.
 
    **Acionar Campanhas Inteligentes**
 

@@ -2,7 +2,7 @@
 description: Desinstale o Marketo Sales Connect do Salesforce Lightning - Documentação do Marketo - Documentação do produto
 title: Desinstale o Marketo Sales Connect do Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 9%
@@ -11,7 +11,7 @@ ht-degree: 9%
 
 # Desinstale o Marketo Sales Connect do Salesforce Lightning {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
-Veja como desinstalar o pacote Marketo Sales Connect da sua conta do Salesforce depois de começar a usar as ações do Sales Insight.
+Veja como desinstalar o pacote Marketo Sales Connect da sua conta Salesforce depois de começar a usar as ações do Sales Insight.
 
 ## Remover campos de Conexão de Vendas do Layout da Página {#remove-sales-connect-fields-from-page-layout}
 
@@ -175,7 +175,7 @@ A exibição Conta tem apenas um botão - &quot;Enviar email do MSE&quot; e os s
 
 ## Excluir Pacote de Conexão de Vendas {#delete-sales-connect-package}
 
-Depois de remover todos os objetos da sua conta do Salesforce, siga as etapas abaixo.
+Depois de remover todos os objetos da sua conta da Salesforce, siga as etapas abaixo.
 
 1. No Salesforce Lightning, clique no ícone de engrenagem e selecione **Configurar**.
 
@@ -185,7 +185,7 @@ Depois de remover todos os objetos da sua conta do Salesforce, siga as etapas ab
 
 Pronto!
 
-Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua instância do Salesforce:
+Veja a seguir uma lista de todos os objetos que precisam ser removidos da instância do Salesforce:
 
 ## Detalhes de Personalização do Sales Connect {#sales-connect-customization-details}
 
@@ -297,9 +297,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>MSC - Última data de compromisso de marketing</td>
   <td>Carimbo de data e hora do envolvimento do Marketing</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -307,9 +307,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>MSC - Última descrição do compromisso de marketing</td>
   <td>Descrição do compromisso</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -317,9 +317,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>MSC - Último envolvimento de marketing Source</td>
   <td>Source do engajamento de marketing</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -327,9 +327,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>MSC - Último Tipo de Compromisso de Marketing</td>
   <td>Tipo de envolvimento (por exemplo: atividade da Web)</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -337,9 +337,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>MSC - Última Atividade por Vendas</td>
   <td>Última atividade de saída executada pela equipe de vendas</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -347,9 +347,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>MSC - Última Resposta</td>
   <td>Última resposta de email para Email de vendas</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -357,9 +357,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>MSC - Campanha de vendas atual</td>
   <td>Registra o nome da campanha do MSC em que o contato/lead está</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -377,9 +377,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>MSC - Recusa</td>
   <td>Campo de recusa</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Caixa de seleção</td>
  </tr>
@@ -395,14 +395,14 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
   <td>Enviar Email MSC</td>
   <td>Enviar emails de vendas do Salesforce</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
  </tr>
  <tr>
   <td>Adicionar à campanha MSC</td>
-  <td>Adicionar às campanhas de MSC do Salesforce</td>
+  <td>Adicionar a campanhas de MSC do Salesforce</td>
   <td>
   <p>Contato
   <p>Lead</td>
@@ -431,7 +431,7 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
  </tr>
  <tr>
   <td>Adicionar à campanha MSC</td>
-  <td>Adicionar às campanhas de MSC do Salesforce</td>
+  <td>Adicionar a campanhas de MSC do Salesforce</td>
   <td>
   <p>Contato
   <p>Lead</td>
@@ -445,7 +445,7 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da sua in
  </tr>
  <tr>
   <td>Email com MSC</td>
-  <td>Email com MSC do Salesforce</td>
+  <td>Email com MSC da Salesforce</td>
   <td>
   <p>Contato
   <p>Lead</td>

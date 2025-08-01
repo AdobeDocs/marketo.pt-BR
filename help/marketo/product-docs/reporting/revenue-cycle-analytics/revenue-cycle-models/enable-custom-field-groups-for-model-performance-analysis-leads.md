@@ -4,7 +4,7 @@ description: Habilitar grupos de campos personalizados para análise de desempen
 title: Habilitar Grupos de Campos Personalizados para Análise de Desempenho de Modelo (Clientes Potenciais)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -17,27 +17,27 @@ ht-degree: 0%
 >
 >Categorizar campos padrão ou personalizados em grupos para relatórios por meio do Organizador de campos no Marketo. Para obter detalhes, consulte [Criar grupos de campos personalizados por meio do Organizador de Campos](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="3" rowspan="1"><p align="center"><strong>Como a ativação de um grupo de campos personalizados afeta várias áreas de análise no Gerenciador de ciclo de receita?</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>O que acontece quando...?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Como isso afeta a área <span class="uicontrol">Análise de Desempenho de Modelo (clientes potenciais)</span></strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Como isso afeta as áreas de análise de clientes potenciais, análise de campanha e análise de oportunidades</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>O que acontece quando você habilita um grupo de campos personalizado associado a um cliente potencial ou campo de empresa padrão?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>O grupo de campos personalizados está habilitado para relatórios na área <span class="uicontrol">Análise de Desempenho de Modelo (Clientes Potenciais)</span></p></td> 
-   <td colspan="1" rowspan="1"><p>Sem impacto</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>O que acontece quando você habilita um grupo de campos personalizado associado a um campo de pessoa ou empresa personalizado?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>O grupo de campos personalizados está habilitado para relatórios na área <span class="uicontrol">Análise de Desempenho de Modelo (Clientes Potenciais)</span></p></td> 
-   <td colspan="1" rowspan="1"><p>O próprio campo personalizado é ativado para relatórios nas áreas Análise de lead, Análise de campanha e Análise de oportunidade.</p><p><strong>OBSERVAÇÃO:</strong> os grupos de campos personalizados NÃO são suportados nessas áreas de análise, portanto, as associações de grupo não são exibidas no Gerenciador de Ciclo de Receita—<em>somente</em> o campo personalizado.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="3" rowspan="1"><p align="center"><strong>Como a ativação de um grupo de campos personalizados afeta várias áreas de análise no Gerenciador de ciclo de receita?</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>O que acontece quando...?</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Como isso afeta a área <span class="uicontrol">Análise de Desempenho de Modelo (clientes potenciais)</span></strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Como isso afeta as áreas de análise de clientes potenciais, análise de campanha e análise de oportunidades</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>O que acontece quando você habilita um grupo de campos personalizado associado a um cliente potencial ou campo de empresa padrão?</strong></p></td>
+   <td colspan="1" rowspan="1"><p>O grupo de campos personalizados está habilitado para relatórios na área <span class="uicontrol">Análise de Desempenho de Modelo (Clientes Potenciais)</span></p></td>
+   <td colspan="1" rowspan="1"><p>Sem impacto</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>O que acontece quando você habilita um grupo de campos personalizado associado a um campo de pessoa ou empresa personalizado?</strong></p></td>
+   <td colspan="1" rowspan="1"><p>O grupo de campos personalizados está habilitado para relatórios na área <span class="uicontrol">Análise de Desempenho de Modelo (Clientes Potenciais)</span></p></td>
+   <td colspan="1" rowspan="1"><p>O próprio campo personalizado é ativado para relatórios nas áreas Análise de lead, Análise de campanha e Análise de oportunidade.</p><p><strong>OBSERVAÇÃO:</strong> os grupos de campos personalizados NÃO são suportados nessas áreas de análise, portanto, as associações de grupo não são exibidas no Gerenciador de Ciclo de Receita—<em>somente</em> o campo personalizado.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 Siga estas etapas para habilitar um grupo de campos personalizado para relatórios na área [!UICONTROL Análise de Desempenho de Modelo (Clientes Potenciais)].

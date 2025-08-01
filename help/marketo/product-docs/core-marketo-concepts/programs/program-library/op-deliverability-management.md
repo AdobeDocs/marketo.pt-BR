@@ -3,99 +3,99 @@ description: OP-Deliverability Management - Documentação do Marketo - Document
 title: Gerenciamento de Entregabilidade OP
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
 # Gerenciamento de Entregabilidade OP {#op-deliverability-management}
 
-Este é um exemplo de workflows de práticas recomendadas de gerenciamento de entrega que utilizam um Programa padrão Marketo Engage, para analisar seu estado atual de capacidade de entrega de email e gerenciar rejeições crônicas e usuários que não respondem.
+Este é um exemplo de workflows de práticas recomendadas de gerenciamento de entrega que utilizam um Programa padrão do Marketo Engage, para analisar seu estado atual de capacidade de entrega de email e gerenciar rejeições crônicas e usuários que não respondem.
 
 >[!NOTE]
 >
 >Exige que o campo de sequência personalizado &quot;Motivo da suspensão de marketing&quot; seja importado. [Saiba mais](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Status da associação</th>
    <th>Comportamento das análises</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Operacional</td> 
+  </tr>
+  <tr>
+   <td>Operacional</td>
    <td>01-Membro</td>
    <td>Operacional</td>
    <td>Padrão</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Campos de pré-requisito {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome intuitivo</th>
    <th>Nome da API</th>
   </tr>
-  <tr> 
-   <td>Sequência de caracteres</td> 
+  <tr>
+   <td>String</td>
    <td>Motivo da suspensão de marketing</td>
    <td>MarketingSuspendedReason</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome do modelo</th>
    <th>Nome do ativo</th>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Não-respondedores crônicos de suspensão de marketing</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Suspensão de marketing: emails com rejeição crônica</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Redefinir "Email inválido" após a atualização de email</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Redefinir "Marketing suspenso" após a atualização de email</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Gerenciar</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Revisar</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-deliverability-management-1.png)

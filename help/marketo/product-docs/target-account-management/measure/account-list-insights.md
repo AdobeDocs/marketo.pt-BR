@@ -4,7 +4,7 @@ description: Insights da lista de contas - Documentação do Marketo - Documenta
 title: Insights da lista de contas
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
@@ -29,17 +29,17 @@ Para ver o painel de uma Lista de Contas, basta clicar no seu nome...
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Canal de processamento</span></strong></td> 
-   <td colspan="1">Ver o pipeline ao longo do tempo. Para determinar o pipeline ao longo da semana, pegamos o pipeline no último dia.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Receita</span></strong></td> 
-   <td><p>Consulte receita ao longo do tempo. Para determinar a receita ao longo do tempo por semana, pegamos a soma de todas as receitas obtidas nessa semana.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Canal de processamento</span></strong></td>
+   <td colspan="1">Ver o pipeline ao longo do tempo. Para determinar o pipeline ao longo da semana, pegamos o pipeline no último dia.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Receita</span></strong></td>
+   <td><p>Consulte receita ao longo do tempo. Para determinar a receita ao longo do tempo por semana, pegamos a soma de todas as receitas obtidas nessa semana.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Guia Contas Nomeadas {#named-accounts-tab}

@@ -4,9 +4,9 @@ description: Redirecionar uma página de aterrissagem - Documentação do Market
 title: Redirecionar uma página
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '142'
 ht-degree: 36%
 
 ---
@@ -62,4 +62,4 @@ Parabéns! Você redirecionou uma página de aterrissagem com êxito.
 
 <br> 
 
-[Ü Missão 9: Atualizar os dados de clientes em potencial](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[◄ Missão 9: Atualizar Dados de Cliente Potencial](/help/marketo/getting-started/quick-wins/update-person-data.md)

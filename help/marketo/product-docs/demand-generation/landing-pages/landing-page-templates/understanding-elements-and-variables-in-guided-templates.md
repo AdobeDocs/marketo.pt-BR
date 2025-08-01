@@ -4,7 +4,7 @@ description: Noções básicas sobre elementos e variáveis em modelos guiados -
 title: Noções básicas sobre elementos e variáveis em modelos guiados
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 2%
@@ -41,21 +41,21 @@ As variáveis são atributos semelhantes a tokens que podem ser personalizados n
 
 Há três tipos de variáveis: variáveis de string, variáveis de cor e variáveis booleanas.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td>Sequência de caracteres</td> 
-   <td><p>Texto editável</p><p>Exemplo: títulos, datas, rótulos de botão</p></td> 
-  </tr> 
-  <tr> 
-   <td>Cor</td> 
-   <td><p>Código hexadecimal editável para cor</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemplo: cor do plano de fundo, cor da fonte, cor da borda</p></td> 
-  </tr> 
-  <tr> 
-   <td>Booleano</td> 
-   <td><p>Uma alavanca que controla os estados ligado/desligado para objetos ou formatos na página de aterrissagem</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemplos: Mostrar Rodapé (Sim/Não), Contagem De Colunas (1/2), Incorporar Google Analytics (Verdadeiro/Falso)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td>String</td>
+   <td><p>Texto editável</p><p>Exemplo: títulos, datas, rótulos de botão</p></td>
+  </tr>
+  <tr>
+   <td>Cor</td>
+   <td><p>Código hexadecimal editável para cor</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemplo: cor do plano de fundo, cor da fonte, cor da borda</p></td>
+  </tr>
+  <tr>
+   <td>Booleano</td>
+   <td><p>Uma alavanca que controla os estados ligado/desligado para objetos ou formatos na página de aterrissagem</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemplos: Mostrar Rodapé (Sim/Não), Contagem De Colunas (1/2), Incorporar Google Analytics (Verdadeiro/Falso)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

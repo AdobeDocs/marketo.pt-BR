@@ -1,9 +1,9 @@
 ---
-description: Configurações De Fluxo De Conversação Para Marketo Engage Forms - Documentação Do Marketo - Documentação Do Produto
+description: Configurações De Fluxo De Conversa Do Marketo Engage Forms - Documentação Do Marketo - Documentação Do Produto
 title: Configurações De Fluxo De Conversação Para O Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: d65903d64d068a6f919df78258654414f3b76426
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Configurações De Fluxo De Conversação Para O Marketo Engage Forms{#conversational-flow-settings-for-marketo-engage-forms}
 
-Tornar o Marketo Engage Forms conversacional, integrando-os aos Fluxos de conversa do Dynamic Chat. Qualifique clientes potenciais instantaneamente usando dados de formulário ou associação à Smart List para reservas de reuniões, links de white papers ou metas personalizadas.
+Tornar o Marketo Engage Forms conversacional ao integrá-lo aos Fluxos de conversa do Dynamic Chat. Qualifique clientes potenciais instantaneamente usando dados de formulário ou associação à Smart List para reservas de reuniões, links de white papers ou metas personalizadas.
 
 >[!AVAILABILITY]
 >
->Os critérios de Membro da Smart List ou Membro da Lista exigem o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Os critérios de Membro da lista inteligente ou Membro da lista exigem o Dynamic Chat Prime. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Localize e selecione seu formulário (ou crie um novo).
 
@@ -54,7 +54,7 @@ Tornar o Marketo Engage Forms conversacional, integrando-os aos Fluxos de conver
    >
    >Antes do envio do formulário, o navegador do visitante deve ter um cookie criado como uma pessoa conhecida para se qualificar para membro da Static/Smart List.
 
-   **ETAPA OPCIONAL**: clique no sinal **+** em cada etapa para adicionar mais atributos, permitindo restringir o público-alvo direcionado (os atributos disponíveis são os campos escolhidos para o formulário). Neste exemplo, estamos direcionando os escritores técnicos de Adobe na Califórnia.
+   **ETAPA OPCIONAL**: clique no sinal **+** em cada etapa para adicionar mais atributos, permitindo restringir o público-alvo direcionado (os atributos disponíveis são os campos escolhidos para o formulário). Neste exemplo, estamos direcionando os escritores técnicos da Adobe na Califórnia.
 
    ![](assets/conversational-flow-settings-8.png)
 

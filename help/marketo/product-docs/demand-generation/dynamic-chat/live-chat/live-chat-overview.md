@@ -3,7 +3,7 @@ description: Visão geral do Live Chat - Documentação do Marketo - Documentaç
 title: Visão geral do bate-papo ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -49,25 +49,25 @@ Clicar no cartão de chat ao vivo no stream permite escolher como o visitante é
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Round Robin</b></td>
    <td>Os bate-papos são atribuídos aos agentes em ordem sequencial.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Agente</b></td>
    <td>Escolha um agente específico para receber o chat.</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>Regras personalizadas</b></td>
    <td>Todas as regras personalizadas serão percorridas ao considerar para onde encaminhar o visitante. Se o visitante não se qualificar para nenhuma regra personalizada, ele receberá a <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">mensagem de fallback de chat em tempo real</a>.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Equipe</b></td>
    <td>Escolha uma equipe específica para receber o chat. Se essa opção for escolhida, ela será atribuída em rodízio dentro dessa equipe.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Notificações de bate-papo ao vivo {#live-chat-notifications}
@@ -102,7 +102,7 @@ Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na p
 >
 >Você também tem a opção de configurar as notificações do navegador, que alertarão você caso não esteja conectado ao Dynamic Chat.
 >
->* Habilitar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Habilitar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Habilitar notificações do navegador no [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Notificações de Ação com Falha {#failed-action-notifications}

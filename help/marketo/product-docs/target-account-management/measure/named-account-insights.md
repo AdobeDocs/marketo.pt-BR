@@ -4,7 +4,7 @@ description: Insights da conta nomeada - Documentação do Marketo - Documentaç
 title: Insights da conta nomeada
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 1%
@@ -33,21 +33,21 @@ O painel agrega os principais insights em nível de conta de todas as pessoas em
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Pontuação de contas</span></strong></td> 
-   <td><p>Veja o engajamento semana a semana com base em todas as pontuações de conta que você criou no <span class="uicontrol">Administrador</span>. É possível comparar as pontuações dessas contas lado a lado. Para determinar o engajamento semanal, obtemos o engajamento máximo de qualquer dia da semana.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Canal de processamento</span></strong></td> 
-   <td>Ver o pipeline ao longo do tempo. Para determinar o pipeline ao longo da semana, pegamos o pipeline no último dia.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Receita</span></strong></td> 
-   <td>Consulte receita ao longo do tempo. Para determinar a receita ao longo do tempo por semana, pegamos a soma de todas as receitas obtidas nessa semana.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Pontuação de contas</span></strong></td>
+   <td><p>Veja o engajamento semana a semana com base em todas as pontuações de conta que você criou no <span class="uicontrol">Administrador</span>. É possível comparar as pontuações dessas contas lado a lado. Para determinar o engajamento semanal, obtemos o engajamento máximo de qualquer dia da semana.</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Canal de processamento</span></strong></td>
+   <td>Ver o pipeline ao longo do tempo. Para determinar o pipeline ao longo da semana, pegamos o pipeline no último dia.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Receita</span></strong></td>
+   <td>Consulte receita ao longo do tempo. Para determinar a receita ao longo do tempo por semana, pegamos a soma de todas as receitas obtidas nessa semana.</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Momentos Interessantes]**

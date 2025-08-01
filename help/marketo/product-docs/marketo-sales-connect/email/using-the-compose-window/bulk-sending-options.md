@@ -4,7 +4,7 @@ description: Opções De Envio Em Massa - Documentação Do Marketo - Documenta�
 title: Opções de envio em massa
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -17,41 +17,41 @@ O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cl
 
 **Agrupar email vs. Selecionar e enviar**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span>Enviar</span><span> Tipo</span> </p></th> 
-   <th><p><span>Número máximo de </span><span>E</span><span>emails</span> </p></th> 
-   <th><p><span>Iniciado </span><span>Enviar por</span></p></th> 
-   <th><p><span>Em Massa </span><span>Editar Emails</span> </p></th> 
-   <th><p><span>Editar</span><span> Cada Email </span><span>Exclusivamente</span> </p></th> 
-   <th><p><span>Modelo e </span><span>Suporte a Campo Dinâmico</span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span>Email do Grupo</span> </p></td> 
-   <td><p><span>1.000</span> </p></td> 
-   <td><p><span>Selecione um grupo e clique</span><span> no botão </span><span>"Ações de Grupo"</span><span>, ou digite o nome do grupo no campo Para. </span> </p></td> 
-   <td><p><span>Sim</span> </p></td> 
-   <td><p><span>Não</span> </p></td> 
-   <td><p><span>Sim</span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span>Selecionar </span><span>e </span><span>Enviar</span> </p></td> 
-   <td><p><span>200</span> </p></td> 
-   <td><p><span>Selecione as pessoas na grade e clique no botão "Email Selecionado" na barra de ações</span><span>, ou</span><span>r digite os destinatários no email em massa </span><span>barra lateral</span><span>.</span></p></td> 
-   <td><p><span>Sim</span> </p></td> 
-   <td><p><span>Sim</span> </p></td> 
-   <td><p><span>Sim</span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span>Enviar</span><span> Tipo</span> </p></th>
+   <th><p><span>Número máximo de </span><span>E</span><span>emails</span> </p></th>
+   <th><p><span>Iniciado </span><span>Enviar por</span></p></th>
+   <th><p><span>Em Massa </span><span>Editar Emails</span> </p></th>
+   <th><p><span>Editar</span><span> Cada Email </span><span>Exclusivamente</span> </p></th>
+   <th><p><span>Modelo e </span><span>Suporte a Campo Dinâmico</span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span>Email do Grupo</span> </p></td>
+   <td><p><span>1.000</span> </p></td>
+   <td><p><span>Selecione um grupo e clique</span><span> no botão </span><span>"Ações de Grupo"</span><span>, ou digite o nome do grupo no campo Para. </span> </p></td>
+   <td><p><span>Sim</span> </p></td>
+   <td><p><span>Não</span> </p></td>
+   <td><p><span>Sim</span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span>Selecionar </span><span>e </span><span>Enviar</span> </p></td>
+   <td><p><span>200</span> </p></td>
+   <td><p><span>Selecione as pessoas na grade e clique no botão "Email Selecionado" na barra de ações</span><span>, ou</span><span>r digite os destinatários no email em massa </span><span>barra lateral</span><span>.</span></p></td>
+   <td><p><span>Sim</span> </p></td>
+   <td><p><span>Sim</span> </p></td>
+   <td><p><span>Sim</span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Usando Email de Grupo**

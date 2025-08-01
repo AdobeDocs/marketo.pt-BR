@@ -4,7 +4,7 @@ description: Classificação e ajuste do perfil da conta - Documentação do Mar
 title: Classificação e ajuste da criação de perfil da conta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 3%
@@ -27,37 +27,37 @@ Os resultados mostram todas as suas contas conhecidas detalhadas por nível. A �
 
 Embora seja opcional, recomendamos marcar a caixa de seleção Promover automaticamente, pois economizará muito tempo. No entanto, se você quiser passar por cada conta e [adicioná-las manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), basta deixar a caixa desmarcada.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Categoria</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Categoria</span></strong></td>
+   <td>
     <div>
-      Classificação da conta com base no Perfil de cliente ideal. A é o melhor ajuste, D é o menor ajuste. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Propensão</span></strong></td> 
-   <td> 
+      Classificação da conta com base no Perfil de cliente ideal. A é o melhor ajuste, D é o menor ajuste.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Propensão</span></strong></td>
+   <td>
     <div>
-      Aumento estimado na taxa de conversão em comparação a uma seleção de contas não baseada em ICP. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Contas (%)</span></strong></td> 
-   <td> 
+      Aumento estimado na taxa de conversão em comparação a uma seleção de contas não baseada em ICP.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Contas (%)</span></strong></td>
+   <td>
     <div>
-      Porcentagem de contas na entrada do modelo que têm essa classificação. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">% de Base de Modelo</span></strong></td> 
-   <td> 
+      Porcentagem de contas na entrada do modelo que têm essa classificação.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">% de Base de Modelo</span></strong></td>
+   <td>
     <div>
-      Porcentagem de contas na base de modelo que têm essa classificação. 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Porcentagem de contas na base de modelo que têm essa classificação.
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Afinação do modelo {#model-tuning}
@@ -72,86 +72,86 @@ Há várias guias para escolher, permitindo uma personalização detalhada.
 
 **Categorias de indicadores**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Conformidade</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Conformidade</span></strong></td>
+   <td>
     <div>
-      Certificações, posições/contratação relacionadas à conformidade. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Operações</span></strong></td> 
-   <td> 
+      Certificações, posições/contratação relacionadas à conformidade.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Operações</span></strong></td>
+   <td>
     <div>
-      Posições/contratação relacionadas a operações. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">HR</span></strong></td> 
-   <td> 
+      Posições/contratação relacionadas a operações.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">HR</span></strong></td>
+   <td>
     <div>
       Software de RH ou Folha de Pagamento, posições/admissão relacionadas a RH.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Engenharia</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Engenharia</span></strong></td>
+   <td>
     <div>
-      Tecnologias, estruturas, cargos relacionados à engenharia/contratação. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Vendas</span></strong></td> 
-   <td> 
+      Tecnologias, estruturas, cargos relacionados à engenharia/contratação.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Vendas</span></strong></td>
+   <td>
     <div>
-      Soluções e software para vendas, posições/contratações relacionadas a vendas. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Intenção</span></strong></td> 
-   <td> 
+      Soluções e software para vendas, posições/contratações relacionadas a vendas.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Intenção</span></strong></td>
+   <td>
     <div>
-      Indicadores de intenção. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">IT</span></strong></td> 
-   <td> 
+      Indicadores de intenção.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">IT</span></strong></td>
+   <td>
     <div>
       Soluções de hardware e software, tecnologias, posições/contratações relacionadas à TI.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Finanças</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Finanças</span></strong></td>
+   <td>
     <div>
-      Software financeiro, posições/contratação relacionadas a finanças. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Marketing</span></strong></td> 
-   <td> 
+      Software financeiro, posições/contratação relacionadas a finanças.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Marketing</span></strong></td>
+   <td>
     <div>
-      Tecnologias de marketing e software, cargos/contratações relacionados a marketing. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Business</span></strong></td> 
-   <td> 
+      Tecnologias de marketing e software, cargos/contratações relacionados a marketing.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Business</span></strong></td>
+   <td>
     <div>
-      Listagens da Forbes ou Inc ou parcerias comerciais. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Experiência e relações com o cliente</span></strong></td> 
-   <td> 
+      Listagens da Forbes ou Inc ou parcerias comerciais.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Experiência e relações com o cliente</span></strong></td>
+   <td>
     <div>
       Posições/contratações de relações com o cliente e sucesso do cliente.
-    </div></td> 
-  </tr> 
- </tbody> 
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Passe o mouse sobre as dicas de ferramenta para obter uma descrição de cada coluna.

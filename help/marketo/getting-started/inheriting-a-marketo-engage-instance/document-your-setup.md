@@ -3,7 +3,7 @@ description: Documento de instância herdado em sua configuração - Documentaç
 title: Configuração do documento de instância herdado
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 1%
@@ -16,58 +16,58 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
 
 ## Dados {#data}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">Área</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:20%">Área</th>
    <th>Revisar foco</th>
-  </tr> 
-  <tr> 
-   <td>Entrada</td> 
+  </tr>
+  <tr>
+   <td>Entrada</td>
    <td><li>Quais sistemas alimentam dados no Marketo Engage?</li>
    <li>Eles estão carregando dados em programas ou no banco de dados? Se são programas, quais?</li>
    <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: crie um dicionário de dados/tabela de mapeamento de campos entre sistemas.</td>
   </tr>
-  <tr> 
-   <td>Output</td> 
+  <tr>
+   <td>Output</td>
    <td><li>Quais sistemas recebem dados do Marketo Engage?</li></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Documentação {#documentation}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">Área</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:20%">Área</th>
    <th>Revisar foco</th>
-  </tr> 
-  <tr> 
-   <td>Dicionário de dados</td> 
+  </tr>
+  <tr>
+   <td>Dicionário de dados</td>
    <td><li>Há um dicionário de dados separado que explique os campos disponíveis?
    <br/>     Caso contrário, considere criar um em uma pasta acessível à sua equipe de Operações de marketing.</li></td>
   </tr>
-  <tr> 
-   <td>Organização</td> 
+  <tr>
+   <td>Organização</td>
     <td><li>Você tem uma documentação robusta sobre como a sua instância do Marketo Engage está organizada e por quê?</li>
    <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: crie a documentação que contém a estrutura de pastas, a convenção de nomenclatura e os canais usados na sua instância.</td>
   </tr>
-  <tr> 
-   <td>Changelog</td> 
+  <tr>
+   <td>Changelog</td>
     <td><li>Você tem um changelog no qual pode documentar o que está mudando em sua instância e por quê?</li>
     <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: crie um changelog e registre as alterações feitas na configuração da sua instância.</td>
   </tr>
-  <tr> 
-   <td>Playbooks</td> 
-    <td><li>Sua organização tem um manual do usuário ou do administrador? 
+  <tr>
+   <td>Playbooks</td>
+    <td><li>Sua organização tem um manual do usuário ou do administrador?
     <br/>     Em caso afirmativo, atualize-os de acordo.</li></td>
   </tr>
-  <tr> 
-   <td>Conversas com partes interessadas internas</td> 
-    <td><li>Quais são as expectativas internas da equipe de marketing da sua empresa? Eles correspondem ao que o Marketo Engage está fornecendo?</li>
-   <li>Quais equipes são as partes interessadas na sua instância do Marketo Engage?</li>
+  <tr>
+   <td>Conversas com partes interessadas internas</td>
+    <td><li>Quais são as expectativas internas da equipe de marketing da sua empresa? Eles correspondem ao que a Marketo Engage está fornecendo?</li>
+   <li>Quais equipes são participantes na sua instância do Marketo Engage?</li>
    <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: documente as metas e as expectativas das principais partes interessadas e atualize-as ao fazer check-in com seus colegas ao longo do ano.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>

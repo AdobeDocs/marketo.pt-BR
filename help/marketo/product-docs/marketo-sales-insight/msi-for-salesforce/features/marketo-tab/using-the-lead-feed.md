@@ -4,7 +4,7 @@ description: Uso do feed de cliente potencial - Documentação do Marketo - Docu
 title: Uso do feed de cliente em potencial
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 2%
@@ -29,45 +29,45 @@ Ao exibi-lo em [!DNL Salesforce], cada item tem:
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>Item</p></td> 
-   <td><p>Descrição</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. Cliente Potencial/Contato</p></td> 
-   <td><p>Pessoa que teve este momento interessante</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. Tipo de evento</p></td> 
-   <td><p>Categoria para este momento — Web, email ou marco</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. Nome da conta</p></td> 
-   <td><p>Nome da empresa</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. Hora</p></td> 
-   <td><p>Quando este interessante momento ocorreu</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. Descrição do evento</p></td> 
-   <td><p>Motivo para este momento interessante</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. Assinar</p></td> 
-   <td><p>Receber notificação por email para eventos como este</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. Star</p></td> 
-   <td><p>Esta pessoa é uma Melhor Opção (alta prioridade)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>Item</p></td>
+   <td><p>Descrição</p></td>
+  </tr>
+  <tr>
+   <td><p>A. Cliente Potencial/Contato</p></td>
+   <td><p>Pessoa que teve este momento interessante</p></td>
+  </tr>
+  <tr>
+   <td><p>B. Tipo de evento</p></td>
+   <td><p>Categoria para este momento — Web, email ou marco</p></td>
+  </tr>
+  <tr>
+   <td><p>C. Nome da conta</p></td>
+   <td><p>Nome da empresa</p></td>
+  </tr>
+  <tr>
+   <td><p>D. Hora</p></td>
+   <td><p>Quando este interessante momento ocorreu</p></td>
+  </tr>
+  <tr>
+   <td><p>E. Descrição do evento</p></td>
+   <td><p>Motivo para este momento interessante</p></td>
+  </tr>
+  <tr>
+   <td><p>F. Assinar</p></td>
+   <td><p>Receber notificação por email para eventos como este</p></td>
+  </tr>
+  <tr>
+   <td><p>G. Star</p></td>
+   <td><p>Esta pessoa é uma Melhor Opção (alta prioridade)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Obtendo atualizações de RSS {#getting-rss-updates}

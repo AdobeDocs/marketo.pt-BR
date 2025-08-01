@@ -4,7 +4,7 @@ description: Defina os critérios do vencedor do teste A/B - Documentação do M
 title: Definir os critérios do vencedor do teste A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 1%
@@ -40,7 +40,7 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
    </tr>
    <tr>
    <td><b>[!UICONTROL Pontuação de Envolvimento]</b></td>
-   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=pt-BR" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
+   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
    </tr>
    </table>
 

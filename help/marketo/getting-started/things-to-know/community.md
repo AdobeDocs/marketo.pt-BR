@@ -1,11 +1,11 @@
 ---
-description: Comunidade do Marketo Engage - Documentação do Marketo Engage - Documentação do produto
+description: Comunidade Marketo Engage - Documentação do Marketo Engage - Documentação do produto
 title: Comunidade Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # Comunidade Adobe Marketo Engage {#marketo-engage-community}
 
-A [Comunidade do Adobe Marketo Engage](https://nation.marketo.com/) (também conhecida como Nação de marketing) é o local para saber mais sobre sua instância de Marketo Engage de outros usuários e funcionários da Marketo. Antes de começar, familiarize-se com as [Diretrizes da comunidade](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+A [Comunidade do Adobe Marketo Engage](https://nation.marketo.com/) (também conhecida como Nação de marketing) é o local para saber mais sobre sua instância do Marketo Engage com outros usuários e funcionários da Marketo. Antes de começar, familiarize-se com as [Diretrizes da comunidade](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registrar seu nome de usuário {#register-your-username}
 
-1. Faça logon na instância do Marketo Engage.
+1. Faça logon na sua instância do Marketo Engage.
 
 1. Em Meu Marketo, clique no bloco Comunidade.
 
@@ -46,7 +46,7 @@ CAPTURA DE TELA
 
 >[!TIP]
 >
->Para resultados mais amplos, use uma pesquisa de palavra-chave focada em vez de cauda longa (por exemplo, pesquise &quot;Dynamic Chat&quot; em vez de &quot;Como adiciono um agente no Dynamic Chat&quot;)
+>Para obter resultados mais amplos, use uma pesquisa de palavra-chave focada em vez de pesquisa de cauda longa (por exemplo, pesquise &quot;Dynamic Chat&quot; em vez de &quot;Como adicionar um agente no Dynamic Chat&quot;)
 
 ## Enviar uma pergunta {#submit-a-question}
 
@@ -56,7 +56,7 @@ CAPTURA DE TELA
 
 ## Ler postagens no blog {#read-blog-posts}
 
-Esta seção contém informações úteis de usuários do Marketo Engage (inclusive vários especialistas) e funcionários da Marketo. Deixe comentários na parte inferior quando precisar de informações adicionais.
+Esta seção está cheia de informações úteis de usuários da Marketo Engage (incluindo vários especialistas) e funcionários da Marketo. Deixe comentários na parte inferior quando precisar de informações adicionais.
 
 CAPTURA DE TELA
 
@@ -78,11 +78,11 @@ Texto
 
 CAPTURA DE TELA
 
-## Mesclar assinaturas Marketo Engage {#merging-marketo-engage-subscriptions}
+## Mesclar assinaturas do Marketo Engage {#merging-marketo-engage-subscriptions}
 
 >[!NOTE]
 >
->Isso só é aplicável para aqueles que têm várias assinaturas de Marketo Engage e criaram, inadvertidamente, vários perfis após fazer logon na Comunidade da nação de marketing.
+>Isso só é aplicável para quem tem várias assinaturas do Marketo Engage e criou inadvertidamente vários perfis ao fazer logon na Comunidade da nação de marketing.
 
 Siga as etapas abaixo para mesclar o histórico em vários perfis da comunidade. Recomenda-se substituir o Perfil da comunidade que tenha menos atividade da comunidade nele, pois os dados substituídos não podem ser recuperados.
 

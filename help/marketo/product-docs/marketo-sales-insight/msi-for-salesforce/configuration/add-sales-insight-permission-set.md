@@ -3,7 +3,7 @@ description: Adicionar Conjunto De Permissões Do Sales Insight - Documentação
 title: Adicionar Conjunto de Permissões do Sales Insight
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 4%
@@ -28,53 +28,53 @@ A permissão &quot;Aplicativo Marketo&quot; faz parte do pacote [!DNL Sales Insi
 
 **Configurações do objeto**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>Detalhes de melhores opções</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>Exibições de Melhores Opções</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>InterestingMomentsCache</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>Configuração do Marketo [!DNL Sales Insight]</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>Valores</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>Detalhes de melhores opções</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>Exibições de Melhores Opções</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>InterestingMomentsCache</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>Configuração do Marketo [!DNL Sales Insight]</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>Valores</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>Ler, Criar, Editar, Deletar, Exibir Tudo, Modificar Tudo</td>
+  </tr>
+ </tbody>
 </table>
 
 * Acesso à classe Apex: 159 classes Apex que começam com &quot;mkto_si&quot;

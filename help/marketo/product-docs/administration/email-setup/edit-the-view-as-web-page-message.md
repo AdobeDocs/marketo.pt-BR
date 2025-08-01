@@ -4,7 +4,7 @@ description: Edite a mensagem "Exibir como página da Web" - Documentação do M
 title: Edite a mensagem "Exibir como página da Web"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Se você precisar editar o texto &quot;[Exibir como uma página da Web](/help/ma
 >
 >Evite:
 >
->* Adicionar URLs adicionais a qualquer uma das caixas HTML
+>* Adicionar URLs adicionais a qualquer uma das caixas do HTML
 >* Inserção do HTML na versão de texto
 
 É isso aí. Envie emails de teste para garantir a formatação.
@@ -54,7 +54,7 @@ Se você precisar editar o texto &quot;[Exibir como uma página da Web](/help/ma
 
 Se você precisar reverter para o sistema padrão &quot;[!UICONTROL Exibir como Página da Web]&quot;, copie/cole o seguinte:
 
-**[!UICONTROL Exibir como HTML da página da Web]**:
+**[!UICONTROL Exibir como HTML da Página da Web]**:
 
 `<div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div>`
 

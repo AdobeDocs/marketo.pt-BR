@@ -4,7 +4,7 @@ description: Visão geral do Command Center - Documentação do Marketo - Docume
 title: Visão geral do Command Center
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -23,59 +23,59 @@ A seção de email do [!UICONTROL Command Center] é onde você pode gerenciar t
 
 A seção email oferece uma visualização rápida de todos os seus emails e simplifica a organização com guias e subguias principais que atuam como pastas, onde seus emails são armazenados automaticamente com base em seu status.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="Cor do plano de fundo : Cinza"><p title=""><strong><span>Principal</span> </strong></p></td> 
-   <td title="Cor do plano de fundo : Cinza"><p title=""><strong><span>Secundário</span> </strong></p></td> 
-   <td title="Cor do plano de fundo : Cinza"><p title=""><strong><span>Descrição</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="Cor do plano de fundo : Azul"><strong title="">Enviado</strong></td> 
-   <td title="Cor do plano de fundo : Azul">[!UICONTROL Entregue]</td> 
-   <td title="Cor do plano de fundo : Azul">Emails que foram entregues ao recipient.</td> 
-  </tr> 
-  <tr> 
-   <td title="Cor do plano de fundo : Azul"><br></td> 
-   <td title="Cor do plano de fundo : Azul">[!UICONTROL Arquivado]</td> 
-   <td title="Cor do plano de fundo : Azul">Emails que foram arquivados pelo usuário para desativar o rastreamento nos emails.</td> 
-  </tr> 
-  <tr> 
-   <td title="Cor do plano de fundo : Cinza"><strong title="">Pendente</strong></td> 
-   <td title="Cor do plano de fundo : Cinza">[!UICONTROL Agendado]</td> 
-   <td title="Cor do plano de fundo : Cinza">Emails programados para serem enviados no momento. Depois que um email é enviado, ele é movido para a pasta entregue.</td> 
-  </tr> 
-  <tr> 
-   <td title="Cor do plano de fundo : Cinza"><br></td> 
-   <td title="Cor do plano de fundo : Cinza">[!UICONTROL Rascunho]</td> 
-   <td title="Cor do plano de fundo : Cinza"><p>Emails que foram salvos como rascunho.<br><strong>Observação:</strong> somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Cor do plano de fundo : Cinza"><br></td> 
-   <td title="Cor do plano de fundo : Cinza">[!UICONTROL Em Andamento]</td> 
-   <td title="Cor do plano de fundo : Cinza">Esse é um estado intermediário em que os emails entram quando estão no movimento de envio. Os emails devem estar em andamento por alguns instantes.</td> 
-  </tr> 
-  <tr> 
-   <td title="Cor do plano de fundo : Azul"><strong title="">Não entregue(s)</strong></td> 
-   <td title="Cor do plano de fundo : Azul">[!UICONTROL Falha]</td> 
-   <td title="Cor do plano de fundo : Azul">Emails que falharam na entrega.</td> 
-  </tr> 
-  <tr> 
-   <td title="Cor do plano de fundo : Azul"><br></td> 
-   <td title="Cor do plano de fundo : Azul">[!UICONTROL Devolvido]</td> 
-   <td title="Cor do plano de fundo : Azul"><p>Emails que foram rejeitados do servidor de email dos recipients. <br><strong>Observação:</strong> só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Cor do plano de fundo : Azul"><br></td> 
-   <td title="Cor do plano de fundo : Azul">[!UICONTROL Spam]</td> 
-   <td title="Cor do plano de fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Observação:</strong> só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="Cor do plano de fundo : Cinza"><p title=""><strong><span>Principal</span> </strong></p></td>
+   <td title="Cor do plano de fundo : Cinza"><p title=""><strong><span>Secundário</span> </strong></p></td>
+   <td title="Cor do plano de fundo : Cinza"><p title=""><strong><span>Descrição</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="Cor do plano de fundo : Azul"><strong title="">Enviado</strong></td>
+   <td title="Cor do plano de fundo : Azul">[!UICONTROL Entregue]</td>
+   <td title="Cor do plano de fundo : Azul">Emails que foram entregues ao recipient.</td>
+  </tr>
+  <tr>
+   <td title="Cor do plano de fundo : Azul"><br></td>
+   <td title="Cor do plano de fundo : Azul">[!UICONTROL Arquivado]</td>
+   <td title="Cor do plano de fundo : Azul">Emails que foram arquivados pelo usuário para desativar o rastreamento nos emails.</td>
+  </tr>
+  <tr>
+   <td title="Cor do plano de fundo : Cinza"><strong title="">Pendente</strong></td>
+   <td title="Cor do plano de fundo : Cinza">[!UICONTROL Agendado]</td>
+   <td title="Cor do plano de fundo : Cinza">Emails programados para serem enviados no momento. Depois que um email é enviado, ele é movido para a pasta entregue.</td>
+  </tr>
+  <tr>
+   <td title="Cor do plano de fundo : Cinza"><br></td>
+   <td title="Cor do plano de fundo : Cinza">[!UICONTROL Rascunho]</td>
+   <td title="Cor do plano de fundo : Cinza"><p>Emails que foram salvos como rascunho.<br><strong>Observação:</strong> somente emails únicos podem ser salvos como rascunhos. Os emails em massa (Selecionar e enviar emails e emails de grupo) não serão salvos como rascunhos.</p></td>
+  </tr>
+  <tr>
+   <td title="Cor do plano de fundo : Cinza"><br></td>
+   <td title="Cor do plano de fundo : Cinza">[!UICONTROL Em Andamento]</td>
+   <td title="Cor do plano de fundo : Cinza">Esse é um estado intermediário em que os emails entram quando estão no movimento de envio. Os emails devem estar em andamento por alguns instantes.</td>
+  </tr>
+  <tr>
+   <td title="Cor do plano de fundo : Azul"><strong title="">Não entregue(s)</strong></td>
+   <td title="Cor do plano de fundo : Azul">[!UICONTROL Falha]</td>
+   <td title="Cor do plano de fundo : Azul">Emails que falharam na entrega.</td>
+  </tr>
+  <tr>
+   <td title="Cor do plano de fundo : Azul"><br></td>
+   <td title="Cor do plano de fundo : Azul">[!UICONTROL Devolvido]</td>
+   <td title="Cor do plano de fundo : Azul"><p>Emails que foram rejeitados do servidor de email dos recipients. <br><strong>Observação:</strong> só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</p></td>
+  </tr>
+  <tr>
+   <td title="Cor do plano de fundo : Azul"><br></td>
+   <td title="Cor do plano de fundo : Azul">[!UICONTROL Spam]</td>
+   <td title="Cor do plano de fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Observação:</strong> só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Gerenciar tarefas {#manage-tasks}

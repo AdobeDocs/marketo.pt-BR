@@ -3,7 +3,7 @@ description: Página de aterrissagem on-line do Advertising Marketo OA-YYYY-MM -
 title: Página de aterrissagem on-line do Advertising Marketo OA-YYYY-MM
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 12%
@@ -14,159 +14,159 @@ ht-degree: 12%
 
 Este é um exemplo de um programa de rastreamento de anúncios online, incluindo uma Página de aterrissagem do Marketo com formulário de registro e utilizando um Programa padrão do Marketo. O link para a oferta pode ser exibido na página de agradecimento, enviado em um email de agradecimento ou em ambos.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Status da associação</th>
    <th>Comportamento das análises</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Publicidade on-line</td> 
-   <td>01 - Membro 
+  </tr>
+  <tr>
+   <td>Publicidade on-line</td>
+   <td>01 - Membro
 <br/>02 - Envolvido - Êxito</td>
    <td>Inclusivo</td>
    <td>Padrão</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome do modelo</th>
    <th>Nome do ativo</th>
-  </tr> 
-  <tr> 
-   <td>Formulário</td> 
+  </tr>
+  <tr>
+   <td>Formulário</td>
    <td> </td>
    <td>Registro de conteúdo FM</td>
   </tr>
-  <tr> 
-   <td>Email</td> 
+  <tr>
+   <td>Email</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
-  <tr> 
-   <td>Página de destino</td> 
+  <tr>
+   <td>Página de destino</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>01 - LP - Registro</td>
   </tr>
-   <tr> 
-   <td>Página de destino</td> 
+   <tr>
+   <td>Página de destino</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modelo de LP de Início Rápido</a></td>
    <td>02 - LP - Obrigado</td>
   </tr>
-   <tr> 
-   <td>Relatório local</td> 
+   <tr>
+   <td>Relatório local</td>
    <td> </td>
    <td>Desempenho do e-mail</td>
   </tr>
-  <tr> 
-   <td>Relatório local</td> 
+  <tr>
+   <td>Relatório local</td>
    <td> </td>
    <td>Desempenho da página</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>00 - Programa de aquisição de captura</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>01 - Formulário preenchido</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>02 - Envolvido (Sucesso do programa)</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
-   <td>Assets - hospeda todos os ativos criativos 
+   <td>Assets - hospeda todos os ativos criativos
 <br/>(subpastas para emails e Landing Pages)  </td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Campanhas - hospeda todas as campanhas inteligentes</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Relatórios</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/oa-yyyy-mm-online-advertising-marketo-landing-page-1.png)
 
 ## Meus tokens incluídos {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo de token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo de token</th>
    <th>Nome do token</th>
    <th>Valor</th>
-  </tr> 
-  <tr> 
-   <td>Texto formatado</td> 
+  </tr>
+  <tr>
+   <td>Texto formatado</td>
    <td><code>{{my.Content-Description}}</code></td>
-   <td>Clique duas vezes para obter detalhes  
-<br/><code><--My Content Description Here--></code> 
-<br/>Edite esta descrição de conteúdo no nível do programa, na guia Meus Tokens. 
-<br/>Você aprenderá: 
+   <td>Clique duas vezes para obter detalhes
+<br/><code><--My Content Description Here--></code>
+<br/>Edite esta descrição de conteúdo no nível do programa, na guia Meus Tokens.
+<br/>Você aprenderá:
 <li>Marcador 1</li>
 <li>Marcador 2</li>
 <li>Marcador 3</li></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Content-Title}}</code></td>
    <td><code><--My Content Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Content-Type}}</code></td>
    <td><code><--My Content Type Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Content-URL}}</code></td>
    <td>my.ContentURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.ThankYouPageURL?sem o http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 IMAGEM DO PROGRAMA

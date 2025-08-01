@@ -1,8 +1,8 @@
 ---
-description: Uso de inclusão em massa no Sales Campaign no Salesforce - Documentação do Marketo - Documentação do produto
+description: Uso de inclusão em massa na campanha de vendas no Salesforce - Documentação do Marketo - Documentação do produto
 title: Utilização de inclusão em massa para a campanha de vendas no Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Saiba como adicionar itens em massa ao Sales Campaign no Salesforce para ajudar 
 
 >[!PREREQUISITES]
 >
->Certifique-se de ter instalado o [pacote mais recente do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} na sua instância do Salesforce e configurado os [botões de ação](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nas suas exibições de contatos e listas de clientes potenciais no Salesforce.
+>Verifique se você instalou o [pacote mais recente do Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} na sua instância do Salesforce e configurou os [botões de ação](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nas suas exibições de contatos e listas de clientes potenciais no Salesforce.
 
 ## Adicionar em massa à campanha de vendas no Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
@@ -61,7 +61,7 @@ Depois de clicar em Iniciar, você verá uma tela de confirmação informando qu
 
 ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-7.png)
 
-## Adicionar em massa à Campanha de vendas no Salesforce Classic {#bulk-add-to-sales-campaign-in-salesforce-classic}
+## Adicionar em massa à campanha de vendas no Salesforce Classic {#bulk-add-to-sales-campaign-in-salesforce-classic}
 
 1. No Salesforce, clique na guia **Clientes potenciais/Contatos**.
 

@@ -4,7 +4,7 @@ description: Uso do editor de rich text - Documentação do Marketo - Documenta�
 title: Uso do Editor de Rich Text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '739'
 ht-degree: 1%
@@ -41,19 +41,19 @@ A configuração do elemento de bloco raiz define quais tags vinculam seu conte�
 
    Se você tiver `<div class=“mktEditable”></div>` em um Modelo de email, verá o seguinte comportamento do HTML Source ao abrir a seção e digitar &quot;O texto vai aqui&quot; no editor:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>None</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;O texto é inserido aqui&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;O texto é inserido aqui&lt;/div&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>O texto é inserido aqui<br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>None</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;O texto é inserido aqui&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;O texto é inserido aqui&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>O texto é inserido aqui<br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

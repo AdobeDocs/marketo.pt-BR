@@ -4,9 +4,9 @@ description: Alertar o Representante de vendas - Documentação do Marketo - Doc
 title: Alertar o representante de vendas
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '402'
 ht-degree: 9%
 
 ---
@@ -137,6 +137,6 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
 <br> 
 
-[Missão 7: Personalizar um e-mail](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[◄ Missão 7: Personalizar um e-mail](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Missão 9: Atualizar Dados Pessoais ►](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[Missão 9: Atualizar Dados Da Pessoa ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

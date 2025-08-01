@@ -3,7 +3,7 @@ description: Guia de integração do usuário de ações do Insight de vendas - 
 title: Guia de integração do usuário de ações do Sales Insight
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%

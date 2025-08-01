@@ -3,7 +3,7 @@ description: Configuração Da Mensagem De Cancelamento De Inscrição De Anexa�
 title: Configuração de Mensagem de Cancelamento de Inscrição de Anexação Automática
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Configuração de Mensagem de Cancelamento de Inscrição de Anexação Automática {#auto-append-unsubscribe-message-setting}
 
-Certifique-se de que cada email enviado inclua uma mensagem de cancelamento de inscrição para que os recipients tenham uma opção fácil de não se comunicar. Quando a opção anexar mensagem de cancelamento de inscrição estiver habilitada, todas as comunicações que sua equipe envia do Marketo Sales incluirão uma mensagem de cancelamento de inscrição, incluindo emails enviados do aplicativo web, do Salesforce, do plug-in do Gmail e do plug-in do Outlook.
+Certifique-se de que cada email enviado inclua uma mensagem de cancelamento de inscrição para que os recipients tenham uma opção fácil de não se comunicar. Quando a opção anexar mensagem de cancelamento de inscrição estiver ativada, todas as comunicações que sua equipe envia do Marketo Sales incluirão uma mensagem de cancelamento de inscrição, incluindo emails enviados do aplicativo web, do Salesforce, do plug-in do Gmail e do plug-in do Outlook.
 
 ## Itens a Observar {#things-to-note}
 

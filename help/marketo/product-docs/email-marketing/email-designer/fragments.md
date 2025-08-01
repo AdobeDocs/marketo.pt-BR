@@ -6,9 +6,9 @@ description: Saiba como criar e usar fragmentos de conteúdo visual como compone
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1922'
+source-wordcount: '1921'
 ht-degree: 1%
 
 ---
@@ -81,7 +81,7 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
   </tr>
   <tr>
     <td style="width:25%"><b>Publicado com rascunho</b></td>
-    <td style="width:75%">Ao criar um rascunho de um fragmento publicado, a versão publicada permanece disponível para uso em um modelo de email ou de email e o conteúdo do rascunho pode ser modificado no designer visual. Se você publicar a versão de rascunho, ela substituirá a versão publicada atual e o conteúdo será atualizado em <i>todos</i> os emails e modelos de email nos quais está sendo usada. 
+    <td style="width:75%">Ao criar um rascunho de um fragmento publicado, a versão publicada permanece disponível para uso em um modelo de email ou de email e o conteúdo do rascunho pode ser modificado no designer visual. Se você publicar a versão de rascunho, ela substituirá a versão publicada atual e o conteúdo será atualizado em <i>todos</i> os emails e modelos de email nos quais está sendo usada.
     <p>Ações disponíveis:
     <li>Edite a descrição</li>
     <li>Adicionar a um email ou modelo</li>

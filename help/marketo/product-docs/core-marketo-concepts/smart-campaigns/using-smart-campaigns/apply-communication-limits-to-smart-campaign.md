@@ -4,7 +4,7 @@ description: Aplicar limites de comunicação ao Smart Campaign - Documentação
 title: Aplicar limites de comunicação à campanha inteligente
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[Habilitar Limites de Comunicação](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-Não é uma boa ideia enviar email para alguém várias vezes ao dia, ou muitas vezes em uma semana, certo? Felizmente, o Marketo Engage tem limites de comunicação para ajudar.
+Não é uma boa ideia enviar email para alguém várias vezes ao dia, ou muitas vezes em uma semana, certo? Felizmente, a Marketo Engage tem limites de comunicação para ajudar.
 
 >[!NOTE]
 >

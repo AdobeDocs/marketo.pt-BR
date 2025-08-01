@@ -6,7 +6,7 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '618'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Por padrão, todos os emails e modelos de email existentes serão marcados como 
 
 Se sua assinatura tiver emails v1.0 antes de migrar para o [!DNL Email Editor 2.0], você terá o seguinte comportamento com base no estado atual do ativo:
 
-**Aprovado** - Clicar em &quot;Editar rascunho&quot; criará um rascunho v2.0 do email aprovado. Se você aprovar o rascunho da v2.0, o estado aprovado do email se tornará v2.0 e não haverá como reverter para a v1.0.\
+**Aprovado** - Clicar em &quot;Editar rascunho&quot; criará um rascunho v2.0 do email aprovado. Se você aprovar o rascunho da v2.0, o estado aprovado do email se tornará v2.0 e não haverá como reverter para a v1.0.
 **Rascunho** - Clicar em &quot;Editar Rascunho&quot; marcará automaticamente esse rascunho como v2.0. Nesse momento, não será possível descartar e reverter para a v1.0 porque não há uma versão aprovada do ativo.
 **Aprovado com Rascunho** - Clicar em &quot;Editar Rascunho&quot; marcará automaticamente esse rascunho como v2.0. Por causa disso, também não há como reverter o rascunho para a v1.0.
 
@@ -40,14 +40,14 @@ Se sua assinatura tiver modelos de email v1.0 antes de migrar para o [!DNL Email
 
 Se você aprovar um template de email que era v1.0 anteriormente (em qualquer um dos estados acima), verá o seguinte comportamento:
 
-Para emails da v1.0 existentes que estavam usando o modelo (anteriormente v1.0):\
-**Email v1.0 aprovado** - Um rascunho v2.0 será criado para este email, ainda usando o modelo v2.0 recém-aprovado. Ele também receberá todas as alterações no modelo.\
-**Email v1.0 de rascunho** - O rascunho permanecerá v1.0 até que você clique em &quot;Editar rascunho&quot;. Depois disso, ele será marcado automaticamente como v2.0 e receberá todas as alterações do modelo.\
+Para emails da v1.0 existentes que estavam usando o modelo (anteriormente v1.0):
+**Email v1.0 aprovado** - Um rascunho v2.0 será criado para este email, ainda usando o modelo v2.0 recém-aprovado. Ele também receberá todas as alterações no modelo.
+**Email v1.0 de rascunho** - O rascunho permanecerá v1.0 até que você clique em &quot;Editar rascunho&quot;. Depois disso, ele será marcado automaticamente como v2.0 e receberá todas as alterações do modelo.
 **Aprovado com email v1.0 de rascunho** - O rascunho permanecerá v1.0 até que você clique em &quot;Editar rascunho&quot;. Depois disso, ele será marcado automaticamente como v2.0 e receberá todas as alterações do modelo.
 
-Para emails da v2.0 existentes que estavam usando o modelo (anteriormente v1.0):\
-**Email v2.0 aprovado** - Um rascunho v2.0 será criado para este email, ainda &quot;usando&quot; o modelo recém-aprovado, e receberá todas as alterações no modelo.\
-**Email v2.0 de rascunho** - O rascunho permanecerá como está (v2.0) e receberá todas as alterações de modelo.\
+Para emails da v2.0 existentes que estavam usando o modelo (anteriormente v1.0):
+**Email v2.0 aprovado** - Um rascunho v2.0 será criado para este email, ainda &quot;usando&quot; o modelo recém-aprovado, e receberá todas as alterações no modelo.
+**Email v2.0 de rascunho** - O rascunho permanecerá como está (v2.0) e receberá todas as alterações de modelo.
 **Aprovado com o rascunho v2.0 email** - O rascunho permanecerá como está (v2.0) e receberá todas as alterações no modelo.
 
 >[!CAUTION]

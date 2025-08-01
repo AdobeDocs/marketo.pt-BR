@@ -4,7 +4,7 @@ description: Noções básicas sobre campos gerenciados pelo sistema - Documenta
 title: Noções básicas sobre campos gerenciados pelo sistema
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 16%
@@ -97,7 +97,7 @@ Abaixo estão alguns valores possíveis e o que eles significam.
 <tbody>
   <tr>
     <td>Salesforce.com</td>
-    <td>A pessoa foi descoberta pela sincronização do Salesforce</td>
+    <td>A pessoa foi descoberta da sincronização do Salesforce</td>
   </tr>
   <tr>
     <td>Visitas à página da Web</td>
@@ -121,7 +121,7 @@ Abaixo estão alguns valores possíveis e o que eles significam.
   </tr>
   <tr>
     <td>E-mail de vendas</td>
-    <td>Uma pessoa recebeu um email por meio do Suplemento de email Sales Insight</td>
+    <td>Uma pessoa recebeu um email por meio do Suplemento de email do Sales Insight</td>
   </tr>
   <tr>
     <td>Pessoa</td>
@@ -133,7 +133,7 @@ Abaixo estão alguns valores possíveis e o que eles significam.
   </tr>
   <tr>
     <td>API Munchkin</td>
-    <td>A pessoa foi descoberta pela API do Marketo Engage Munchkin</td>
+    <td>A pessoa foi descoberta pela API do Munchkin do Marketo Engage</td>
   </tr>
   <tr>
     <td>Aplicativo social</td>
@@ -173,7 +173,7 @@ Abaixo estão alguns valores possíveis e o que eles significam.
   </tr>
   <tr>
     <td>E-mail de vendas</td>
-    <td>Uma pessoa recebeu um email por meio do Suplemento de email Sales Insight</td>
+    <td>Uma pessoa recebeu um email por meio do Suplemento de email do Sales Insight</td>
   </tr>
   <tr>
     <td>API de serviço Web</td>

@@ -4,7 +4,7 @@ description: Uso de ações rápidas para acelerar seu fluxo de trabalho - Docum
 title: Uso de ações rápidas para acelerar seu fluxo de trabalho
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 3%
@@ -28,59 +28,59 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
 
 **Arquivado**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Desarquivar]</td> 
-   <td>Moverá o email de volta para a pasta entregue e reativará o rastreamento de visualização/cliques.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Excluir]</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Desarquivar]</td>
+   <td>Moverá o email de volta para a pasta entregue e reativará o rastreamento de visualização/cliques.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Excluir]</td>
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Rascunho e Agendado**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Editar]</td> 
-   <td>Abrirá o email na janela de composição para ser editado.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Excluir]</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Editar]</td>
+   <td>Abrirá o email na janela de composição para ser editado.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Excluir]</td>
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Falha, rejeição e spam**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Tentar Enviar Novamente]</td> 
-   <td>Tentará enviar o email novamente imediatamente.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Excluir]</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Tentar Enviar Novamente]</td>
+   <td>Tentará enviar o email novamente imediatamente.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Excluir]</td>
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Ações de acompanhamento**

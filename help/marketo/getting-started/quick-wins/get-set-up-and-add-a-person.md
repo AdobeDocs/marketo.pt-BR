@@ -4,9 +4,9 @@ description: Configuração e adição de uma pessoa - Documentação do Marketo
 title: Configurar e adicionar uma pessoa
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Há algumas coisas a fazer antes de começar as missões.
 
-## Etapa 1: Fazer logon no Marketo Engage {#step-log-in-to-marketo}
+## Etapa 1: fazer logon no Marketo Engage {#step-log-in-to-marketo}
 
 1. [Faça logon no Marketo Engage](https://app.marketo.com){target="_blank"} usando as credenciais recebidas por email.
 
@@ -77,4 +77,4 @@ Você está pronto para começar sua primeira missão!
 
 <br> 
 
-[Missão 1: Enviar um email Blast ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[Missão 1: Enviar uma explosão de e-mail ►](/help/marketo/getting-started/quick-wins/send-an-email.md)

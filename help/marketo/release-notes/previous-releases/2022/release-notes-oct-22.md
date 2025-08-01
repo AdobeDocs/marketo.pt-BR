@@ -1,12 +1,12 @@
 ---
 description: Notas de versão - outubro de 2022 - Documentação do Marketo - Documentação do produto
-title: Notas de versão - outubro de 2022
+title: Notas de versão - Outubro de 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
@@ -16,7 +16,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de outubro de 2
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
@@ -26,28 +26,28 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 </br>
 
-* **Sincronização de Campo Personalizado de Membro do Programa**: capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências de participante durante o registro do evento, como alimentação, sessões, controles etc.) com campos de membro do Campaign no Salesforce.
+* **Sincronização de Campo Personalizado de Membro do Programa**: capacidade de sincronizar bidirecionalmente campos extensíveis capturados para um membro do programa (por exemplo, preferências de participante durante o registro do evento, como comida, sessões, faixas etc.) com Campos de Membro do Campaign no Salesforce.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizar campos personalizados de membros de programas</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Integração do Adobe Privacy Service**: harmonize com o Privacy Service para automatizar a conformidade com as regulamentações de privacidade de dados em produtos Experience Cloud. Atualmente, esse serviço está disponível apenas para clientes do Marketo Engage que integraram ao sistema Adobe Identity Management.
+* **Integração do Adobe Privacy Service**: harmonize com o Privacy Service para automatizar a conformidade com as regulamentações de privacidade de dados em todos os produtos da Experience Cloud. Atualmente, esse serviço está disponível somente para clientes do Marketo Engage que integraram o Adobe Identity Management System.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
@@ -63,12 +63,12 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    * Detalhes do modelo de landing page
    * Lista de modelos de email
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar alternância</a></td>
   </tr>
@@ -77,12 +77,12 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Aprimorado Usado pela guia em Detalhes do modelo de email**: na nova experiência do, você verá informações adicionais relacionadas aos ativos que usam o modelo de email, incluindo Status do ativo, Última modificação e Última modificação por. Também é possível pesquisar, classificar e filtrar a lista de usados por ativos.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td>n/d</td>
   </tr>
@@ -91,12 +91,12 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Modais de filtro de ativo de relatório**: novo design para modelos de configuração de relatório exibindo uma nova árvore de ativos no menu de configuração e um filtro para Data de criação e modificação.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td>n/d</td>
   </tr>
@@ -109,12 +109,12 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Importação de Cliente Potencial em Massa: associação de Vendedor**: paridade com a API REST de Cliente Potencial para poder associar clientes potenciais a Vendedores durante o processo de importação de cliente potencial em massa, reduzindo a complexidade e o número de chamadas de API necessárias.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Importação de leads em massa</a></td>
   </tr>
@@ -127,14 +127,14 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Integração do Sales Insight com o Dynamic Chat**: o Painel de Insights agora inclui atividades de Dynamic Chat na Smart Grid, além de um resumo semanal e cartões de detalhes.
+* **Integração do Sales Insight com o Dynamic Chat**: o Painel de Insights agora inclui atividades do Dynamic Chat na Grade Inteligente junto com um resumo semanal e cartões de detalhes.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integração ao Dynamic Chat</a></td>
   </tr>
@@ -147,12 +147,12 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Fluxos de Caixa de Diálogo de Organização Automática para Dynamic Chat**: Melhore sua tela de Caixa de Diálogo lotada organizando tudo na tela em um formato limpo e fácil de ler com o pressionamento de um botão por meio da Organização Automática.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Ícones de Designer de fluxo</a></td>
   </tr>
@@ -161,26 +161,26 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 
 * **Links de Reunião para Dynamic Chat**: opção para incluir automaticamente um link de Equipes ou Reunião para Google e Outlook em cada convite de calendário enviado aos visitantes.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendário</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Suporte para tipos de dados adicionais para o Dynamic Chat**: três novos tipos de dados (booleano, inteiro, flutuante) permitem que você aproveite mais campos de Marketo Engage existentes no Dynamic Chat para coisas como direcionamento com base em pontuações ou fazer perguntas aos visitantes sim/não.
+* **Suporte a tipos de dados adicionais para o Dynamic Chat**: três novos tipos de dados (booleano, inteiro, flutuante) permitem que você aproveite mais campos existentes do Marketo Engage no Dynamic Chat para coisas como direcionamento com base em pontuações ou fazer perguntas aos visitantes sim/não.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
    <td><b>Atualizações de documentação</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Remetido</td>
    <td>n/d</td>
   </tr>

@@ -3,7 +3,7 @@ description: Visão geral das integrações do Adobe Experience Cloud - Document
 title: Visão geral das integrações do Adobe Experience Cloud
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Visão geral das integrações do Adobe Experience Cloud{#adobe-experience-cloud-integrations-overview}
 
-o Adobe oferece uma solução de marketing sob demanda robusta, começando pela sincronização de públicos-alvo nativos nos produtos da Adobe Experience Cloud. Aproveite dados exclusivos centrados em B2B no Adobe Audience Manager, desbloqueando casos de usos de marketing por demanda avançados e potencial inexplorado para aplicativos Adobe existentes.
+O Adobe oferece uma solução robusta de marketing sob demanda, começando pela sincronização de públicos-alvo nativos nos produtos da Adobe Experience Cloud. Aproveite dados exclusivos centrados em B2B no Adobe Audience Manager, desbloqueando casos de usos de marketing por demanda avançados e potencial inexplorado para aplicativos Adobe existentes.
 
 >[!NOTE]
 >
->As integrações, que incluem Audience Manager e [!DNL Adobe Real-Time CDP Marketo Connecter], podem exigir mapeamento da Organização IMS no Marketo Engage. [Saiba como configurar o mapeamento de organização de Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
+>As integrações, que incluem o Audience Manager e o [!DNL Adobe Real-Time CDP Marketo Connecter], podem exigir o mapeamento da organização IMS no Marketo Engage. [Saiba como configurar o mapeamento de organização da Adobe](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
 
 ## Integrações do Adobe Experience Cloud {#adobe-experience-cloud-integrations}
 
@@ -26,7 +26,7 @@ o Adobe oferece uma solução de marketing sob demanda robusta, começando pela 
 
 * [Enviar uma Lista para o Adobe Experience Cloud](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
-Permite sincronizar listas estáticas de pessoas conhecidas do Marketo Engage para vários aplicativos da AEC, o que aprimora os programas existentes, desbloqueia novos casos de uso e coordena campanhas com vários canais. Essa integração inclui: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager e Adobe Advertising Cloud.
+Permite sincronizar listas estáticas de pessoas conhecidas do Marketo Engage para vários aplicativos da AEC, o que melhora os programas existentes, desbloqueia novos casos de uso e orquestra campanhas multicanal. Essa integração inclui: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager e Adobe Advertising Cloud.
 
 **Integração do Marketo com o Adobe Experience Manager**
 

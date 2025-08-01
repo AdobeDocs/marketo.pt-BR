@@ -3,7 +3,7 @@ description: Gerenciamento de usuários e licenças - Documentação do Marketo 
 title: Gerenciamento de usuários e licenças
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 2%
@@ -50,9 +50,9 @@ Saiba como adicionar e remover usuários, além de visualizar suas licenças atu
 
    ![](assets/user-and-license-management-8.png)
 
-## Uso de licença {#license-usage}
+## Uso da licença {#license-usage}
 
-Webinars interativos oferecem licenças específicas para criar eventos viabilizados pelo Adobe Connect. Toda vez que uma licença é adicionada, uma nova caixa de uso de licença será exibida. Os administradores do Marketo podem visualizar (não editar) as licenças seguindo as etapas abaixo. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter licenças adicionais.
+Webinars interativos oferecem licenças específicas para criar eventos viabilizados pelo Adobe Connect. Toda vez que uma licença é adicionada, uma nova caixa de uso de licença será exibida. Os administradores do Marketo podem visualizar (não editar) as licenças seguindo as etapas abaixo. Entre em contato com a Equipe de conta da Adobe (seu Gerente de conta) para obter licenças adicionais.
 
 1. Vá para a área **Administrador**.
 
@@ -66,34 +66,34 @@ Webinars interativos oferecem licenças específicas para criar eventos viabiliz
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
    <td width="20%"><b>Data de início</b></td>
    <td width="80%">Data de início da licença.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Data de validade</b></td>
    <td width="80%">Data de expiração da licença.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Tipo</b></td>
    <td width="80%">O tipo de licença adquirida. Há três tipos disponíveis: Licença de eventos compartilhados, Licença de salas compartilhadas, Licença de armazenamento adicional.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Capacidade do evento</b></td>
    <td width="80%">O número máximo de participantes que podem ser acomodados em um evento.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Total de eventos</b></td>
    <td width="80%">O número total de eventos que foram provisionados com esta licença.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Eventos consumidos</b></td>
    <td width="80%">O número total de eventos concluídos.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Capacidade de armazenamento</b></td>
-   <td width="80%">Quantidade de armazenamento disponível para armazenar gravações, material de apoio, heros images, documentação e outros ativos.</td>
+   <td width="80%">Quantidade de armazenamento disponível para armazenar gravações, material de apoio, imagens principais, documentação e outros ativos.</td>
   </tr>
   </tbody>
 </table>

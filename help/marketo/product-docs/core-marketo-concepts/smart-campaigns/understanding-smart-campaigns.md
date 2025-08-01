@@ -4,16 +4,16 @@ description: Noções básicas sobre campanhas inteligentes - Documentação do 
 title: Noções básicas sobre campanhas inteligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 4%
+ht-degree: 16%
 
 ---
 
 # Noções básicas sobre campanhas inteligentes {#understanding-smart-campaigns}
 
-Se o Marketo Engage é um carro, o Smart Campaign é seu motor. Campanhas inteligentes podem fazer mais do que você pode imaginar, e é fácil começar a usá-las.
+Se pensarmos no Marketo Engage como um carro, a campanha inteligente seria o seu motor. Campanhas inteligentes são mais úteis do que você pode imaginar, além de serem fáceis de se utilizar.
 
 A Campanha Inteligente tem três áreas principais: as guias [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} e [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
@@ -21,24 +21,24 @@ A Campanha Inteligente tem três áreas principais: as guias [Smart List](/help/
 
 A Smart List é como você define _quem_ você deseja direcionar com sua Campanha Inteligente. Ele tem filtros e acionadores.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
-   <th>Exemplo</th> 
-   <th>Explicação</th> 
-  </tr> 
-  <tr> 
-   <td>Filtro</td> 
-   <td>Link clicado</td> 
-   <td><p>Colete todas as pessoas em um lote que se qualificam no momento.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Gatilho</td> 
-   <td colspan="1">Clica em link</td> 
-   <td colspan="1">No momento em que alguém fizer algo, dispare o fluxo imediatamente.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Tipo</th>
+   <th>Exemplo</th>
+   <th>Explicação</th>
+  </tr>
+  <tr>
+   <td>Filtro</td>
+   <td>Link clicado</td>
+   <td><p>Colete todas as pessoas em um lote que se qualificam no momento.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">Acionador</td>
+   <td colspan="1">Clica em link</td>
+   <td colspan="1">No momento em que alguém fizer algo, dispare o fluxo imediatamente.</td>
+  </tr>
+ </tbody>
 </table>
 
 É possível combinar filtros de várias maneiras, bem como usá-los em conjunto com acionadores. Esta é uma ferramenta poderosa - experimente-a.

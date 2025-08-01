@@ -3,7 +3,7 @@ description: Como corrijo "Não foi possível autenticar sua solicitação" ao m
 title: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterp
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 3%
@@ -121,25 +121,25 @@ Neste artigo, você configurará as permissões de usuário no perfil [!DNL Sale
 
 1. Depois de concluir a desabilitação de todos os campos desnecessários, você deve verificar o **[!UICONTROL Acesso de Leitura e Acesso de Edição]** para os seguintes campos de objeto. Clique em **[!UICONTROL Salvar]** quando terminar.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Objeto</th> 
-   <th>Campos</th> 
-  </tr> 
-  <tr> 
-   <td>Conta</td> 
-   <td>Campo de tipo</td> 
-  </tr> 
-  <tr> 
-   <td>Evento</td> 
-   <td>Todos os campos</td> 
-  </tr> 
-  <tr> 
-   <td>Tarefa</td> 
-   <td>Todos os campos</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Objeto</th>
+   <th>Campos</th>
+  </tr>
+  <tr>
+   <td>Conta</td>
+   <td>Campo de tipo</td>
+  </tr>
+  <tr>
+   <td>Evento</td>
+   <td>Todos os campos</td>
+  </tr>
+  <tr>
+   <td>Tarefa</td>
+   <td>Todos os campos</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

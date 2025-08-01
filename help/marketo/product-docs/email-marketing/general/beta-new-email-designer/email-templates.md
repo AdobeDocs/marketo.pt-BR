@@ -1,28 +1,28 @@
 ---
 description: Modelos de email - Documentação do Marketo - Documentação do produto
-title: Modelos de e-mail
+title: Modelos de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1731'
 ht-degree: 1%
 
 ---
 
-# Modelos de e-mail {#email-templates}
+# Modelos de email {#email-templates}
 
 Para um processo de design acelerado e aprimorado, é possível criar modelos de email independentes para reutilizar facilmente o conteúdo personalizado.
 
 >[!IMPORTANT]
 >
->Este artigo é destinado apenas aos membros do novo Marketo Engage Email Designer beta. Por favor, não difunda.
+>Este artigo é destinado apenas aos membros do novo beta do Marketo Engage Email Designer. Por favor, não difunda.
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -64,7 +64,7 @@ Defina o conteúdo adicionando e movendo elementos estruturais com ações simpl
 
 ### Importar seu HTML {#import-your-html}
 
-Você pode importar conteúdo de HTML existente para criar seus modelos de email. O conteúdo pode ser:
+Você pode importar conteúdo existente do HTML para criar seus modelos de email. O conteúdo pode ser:
 
 * Um arquivo HTML com uma folha de estilos incorporada
 
@@ -76,19 +76,19 @@ Você pode importar conteúdo de HTML existente para criar seus modelos de email
 
 1. Na página _Criar seu modelo_, selecione **Importar HTML**.
 
-1. Arraste e solte o arquivo de HTML ou .zip desejado (ou selecione um arquivo do seu computador) e clique em **Importar**.
+1. Arraste e solte o arquivo HTML ou .zip desejado (ou selecione um arquivo no computador) e clique em **Importar**.
 
    ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
-   >Quando o conteúdo em HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
+   >Quando o conteúdo do HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
 
-1. Para aproveitar os componentes de conteúdo do Email Designer, clique na guia **HTML converter** e clique em **Converter**.
+1. Para aproveitar os componentes de conteúdo do Email Designer, clique na guia **Conversor de HTML** e em **Converter**.
 
    >[!CAUTION]
    >
-   >Usar uma marca `<table>` como a primeira camada em um arquivo de HTML pode causar perda de estilo, incluindo configurações de plano de fundo e largura na marca de camada superior.
+   >Usar uma marca `<table>` como a primeira camada em um arquivo do HTML pode causar perda de estilo, incluindo configurações de plano de fundo e largura na marca de camada superior.
 
 Agora você pode personalizar o arquivo importado, conforme necessário, com o editor visual de email.
 

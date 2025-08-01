@@ -4,7 +4,7 @@ description: Editar uma partição de pessoa existente - Documentação do Marke
 title: Editar uma partição de pessoa existente
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

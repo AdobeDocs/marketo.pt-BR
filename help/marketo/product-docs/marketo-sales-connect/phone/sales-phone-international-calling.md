@@ -4,7 +4,7 @@ description: Chamada internacional por telefone de vendas - Documentação do Ma
 title: Chamada internacional de telefone de vendas
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 12%
@@ -21,125 +21,125 @@ O Telefone de Vendas facilita a comunicação internacional. Para clientes que l
 
 ## Países suportados {#supported-countries}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>País</th> 
-   <th>Códigos de países suportados</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Argentina</td> 
-   <td colspan="1">54221, 54223, 54261, 54291, 54341, 54342, 54351</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Áustria</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Bahamas</td> 
-   <td colspan="1">1242</td> 
-  </tr> 
-  <tr> 
-   <td><p>Brasil</p></td> 
-   <td>5511, 5521, 5527, 5531, 5541, 5551, 5561, 5562, 5581, 5585</td> 
-  </tr> 
-  <tr> 
-   <td>Chipre </td> 
-   <td>357</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Dinamarca </td> 
-   <td colspan="1">45</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">França</td> 
-   <td colspan="1">33</td> 
-  </tr> 
-  <tr> 
-   <td>Alemanha</td> 
-   <td>49</td> 
-  </tr> 
-  <tr> 
-   <td>Grécia </td> 
-   <td>30.3021</td> 
-  </tr> 
-  <tr> 
-   <td>Hungria</td> 
-   <td>36, 361</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Irlanda </td> 
-   <td colspan="1">353, 3531</td> 
-  </tr> 
-  <tr> 
-   <td>Israel</td> 
-   <td>972</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Itália</td> 
-   <td colspan="1">39</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Cazaquistão </td> 
-   <td colspan="1">76, 77</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Coreia</td> 
-   <td colspan="1">82</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Letônia </td> 
-   <td colspan="1">371</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">México</td> 
-   <td colspan="1">52, 5233, 5255, 5281</td> 
-  </tr> 
-  <tr> 
-   <td>Mônaco</td> 
-   <td>377</td> 
-  </tr> 
-  <tr> 
-   <td>Holanda </td> 
-   <td>31</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Noruega </td> 
-   <td colspan="1">47</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Peru </td> 
-   <td colspan="1">5112, 5113, 5114, 5115, 5116, 5117</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Polônia </td> 
-   <td colspan="1">48.4832</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Portugal </td> 
-   <td colspan="1">351</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Cingapura </td> 
-   <td colspan="1">65, 658, 659</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Espanha </td> 
-   <td colspan="1">34</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Suécia </td> 
-   <td colspan="1">46</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">Reino Unido</td> 
-   <td colspan="1">44, 44203, 44207, 44208</td> 
-  </tr> 
-  <tr> 
-   <td>Estados Unidos</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>País</th>
+   <th>Códigos de países suportados</th>
+  </tr>
+  <tr>
+   <td colspan="1">Argentina</td>
+   <td colspan="1">54221, 54223, 54261, 54291, 54341, 54342, 54351</td>
+  </tr>
+  <tr>
+   <td colspan="1">Áustria</td>
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 4369989, 43720, 43780, 439</td>
+  </tr>
+  <tr>
+   <td colspan="1">Bahamas</td>
+   <td colspan="1">1242</td>
+  </tr>
+  <tr>
+   <td><p>Brasil</p></td>
+   <td>5511, 5521, 5527, 5531, 5541, 5551, 5561, 5562, 5581, 5585</td>
+  </tr>
+  <tr>
+   <td>Chipre </td>
+   <td>357</td>
+  </tr>
+  <tr>
+   <td colspan="1">Dinamarca </td>
+   <td colspan="1">45</td>
+  </tr>
+  <tr>
+   <td colspan="1">França</td>
+   <td colspan="1">33</td>
+  </tr>
+  <tr>
+   <td>Alemanha</td>
+   <td>49</td>
+  </tr>
+  <tr>
+   <td>Grécia </td>
+   <td>30.3021</td>
+  </tr>
+  <tr>
+   <td>Hungria</td>
+   <td>36, 361</td>
+  </tr>
+  <tr>
+   <td colspan="1">Irlanda </td>
+   <td colspan="1">353, 3531</td>
+  </tr>
+  <tr>
+   <td>Israel</td>
+   <td>972</td>
+  </tr>
+  <tr>
+   <td colspan="1">Itália</td>
+   <td colspan="1">39</td>
+  </tr>
+  <tr>
+   <td colspan="1">Cazaquistão </td>
+   <td colspan="1">76, 77</td>
+  </tr>
+  <tr>
+   <td colspan="1">Coreia</td>
+   <td colspan="1">82</td>
+  </tr>
+  <tr>
+   <td colspan="1">Letônia </td>
+   <td colspan="1">371</td>
+  </tr>
+  <tr>
+   <td colspan="1">México</td>
+   <td colspan="1">52, 5233, 5255, 5281</td>
+  </tr>
+  <tr>
+   <td>Mônaco</td>
+   <td>377</td>
+  </tr>
+  <tr>
+   <td>Holanda </td>
+   <td>31</td>
+  </tr>
+  <tr>
+   <td colspan="1">Noruega </td>
+   <td colspan="1">47</td>
+  </tr>
+  <tr>
+   <td colspan="1">Peru </td>
+   <td colspan="1">5112, 5113, 5114, 5115, 5116, 5117</td>
+  </tr>
+  <tr>
+   <td colspan="1">Polônia </td>
+   <td colspan="1">48.4832</td>
+  </tr>
+  <tr>
+   <td colspan="1">Portugal </td>
+   <td colspan="1">351</td>
+  </tr>
+  <tr>
+   <td colspan="1">Cingapura </td>
+   <td colspan="1">65, 658, 659</td>
+  </tr>
+  <tr>
+   <td colspan="1">Espanha </td>
+   <td colspan="1">34</td>
+  </tr>
+  <tr>
+   <td colspan="1">Suécia </td>
+   <td colspan="1">46</td>
+  </tr>
+  <tr>
+   <td colspan="1">Reino Unido</td>
+   <td colspan="1">44, 44203, 44207, 44208</td>
+  </tr>
+  <tr>
+   <td>Estados Unidos</td>
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Perguntas frequentes sobre Chamadas Internacionais
@@ -160,4 +160,4 @@ Sim. Não oferecemos suporte a chamadas para números de telefone de serviço de
 
 **Posso usar a presença local ao ligar para o internacional?**
 
-Nº A presença local está disponível somente para números dos EUA.
+Não. A presença local está disponível somente para números dos EUA.

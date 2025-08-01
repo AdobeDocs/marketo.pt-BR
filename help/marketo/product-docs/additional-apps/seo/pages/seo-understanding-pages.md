@@ -4,10 +4,10 @@ description: SEO - Noções básicas sobre páginas - Documentação do Marketo 
 title: SEO - Noções básicas sobre páginas
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ A guia **[!UICONTROL Páginas]** mostra como as páginas individuais do site sã
 
 | Nome da coluna | Descrição |
 |---|---|
-| [!UICONTROL Título] | Título e URL de todas as páginas no seu domínio. Verifique seu domínio. |
+| [!UICONTROL Title] | Título e URL de todas as páginas no seu domínio. Verifique seu domínio. |
 | [!UICONTROL Pontuação de otimização] | O molho secreto usado para mostrar como sua página é otimizada para pesquisa em uma escala de 1 a 100. |
 | [!UICONTROL Links] | Número de domínios diferentes com pelo menos 1 link de entrada para o site. |
 | [!UICONTROL Palavras-chave do Target] | As palavras-chave para as quais você decide otimizar cada página. [Isso requer sua entrada](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |

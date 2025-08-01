@@ -4,7 +4,7 @@ description: Utilização Da Lógica Padrão De Regras Da Smart List - Documenta
 title: Utilização da Lógica Padrão de Regras de Smart List
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -30,11 +30,11 @@ A lista inteligente acima em palavras:
 ```box
 IF person fills out Great Form
 OR
-IF person visits Keith's Landing Page 
-AND 
-Industry is Energy 
-AND 
-Country is US 
+IF person visits Keith's Landing Page
+AND
+Industry is Energy
+AND
+Country is US
 THEN follow the campaign's flow step(s)
 ```
 

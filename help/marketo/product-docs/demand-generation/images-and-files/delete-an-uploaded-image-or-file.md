@@ -4,7 +4,7 @@ description: Excluir uma imagem ou arquivo carregado - Documentação do Marketo
 title: Excluir uma imagem ou arquivo carregado
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,7 +17,7 @@ A exclusão de imagens ou arquivos é rápida e fácil.
 
 >[!CAUTION]
 >
->Depois de excluídos, imagens/arquivos são completamente removidos do Marketo Engage e não podem ser recuperados.
+>Após a exclusão, as imagens/arquivos são completamente removidos do Marketo Engage e não podem ser recuperados.
 
 1. Vá para o **[!UICONTROL Design Studio]**.
 

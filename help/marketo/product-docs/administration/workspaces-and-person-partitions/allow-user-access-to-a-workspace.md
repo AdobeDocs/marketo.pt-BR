@@ -4,7 +4,7 @@ description: Permitir o acesso do usuário a um Workspace - Documentação do Ma
 title: Permitir acesso do usuário a uma Workspace
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -46,4 +46,3 @@ Os espaços de trabalho podem ser usados por qualquer motivo (como separação d
 Depois de salvar as alterações, você deverá ver a atualização.
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
-

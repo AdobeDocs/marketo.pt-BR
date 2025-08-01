@@ -4,7 +4,7 @@ description: Instale o Suplemento de Email do Marketo para  [!DNL Outlook] com u
 title: Instalar o Suplemento de Email do Marketo para  [!DNL Outlook]  com um Código de Registro
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 6%

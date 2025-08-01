@@ -3,7 +3,7 @@ description: Perguntas frequentes sobre o Adobe Identity Management - Documenta�
 title: Perguntas frequentes sobre o Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1645'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Embora não seja planejado, o trabalho de desenvolvimento futuro pode interrompe
 
 **Isso funciona com SSO?**
 
-Sim. A integração com o Adobe IMS é compatível com usuários da Universal ID e SSO. O SSO agora é orientado pelo Adobe IMS e é configurado no nível da organização na Adobe Admin Console. No entanto, há diferenças no suporte iniciado pelo Marketo Engage IdP em comparação ao suporte iniciado pelo SP da Adobe ([saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}). Se você precisar de ajuda com relação às diferenças de SSO após a migração para o Admin Console, entre em contato com o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/br/contact.html){target="_blank"}.
+Sim. A integração com o Adobe IMS é compatível com usuários da Universal ID e SSO. O SSO agora é orientado pelo Adobe IMS e é configurado no nível da organização na Adobe Admin Console. No entanto, há diferenças no suporte iniciado pelo Marketo Engage IdP em comparação ao suporte iniciado pelo SP da Adobe ([saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}). Se você precisar de ajuda com relação às diferenças de SSO após a migração para o Admin Console, entre em contato com o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Qual é a diferença entre um Administrador de Produto do Adobe e um Administrador do Marketo Engage?**
 
@@ -75,7 +75,7 @@ Não. O gerenciamento de Função do usuário (em espaços de trabalho) é concl
 
 **Sou um Administrador do Marketo em uma assinatura integrada do IMS e não tenho acesso à Admin Console. Como obter acesso?**
 
-Qualquer administrador de sistema ou de produto da Adobe que tenha acesso à Admin Console da sua organização pode conceder acesso a você. Se você não tem certeza de quem na sua organização tem privilégios de administrador no console, contate o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/br/contact.html){target="_blank"}.
+Qualquer administrador de sistema ou de produto da Adobe que tenha acesso à Admin Console da sua organização pode conceder acesso a você. Se você não tem certeza de quem na sua organização tem privilégios de administrador no console, contate o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Como um Administrador adicionaria usuários ao Marketo [!DNL Sales Connect]?**
 
@@ -83,7 +83,7 @@ Embora exista um cartão de produto no Admin Console para [!DNL Sales Connect], 
 
 **Onde posso obter mais informações sobre a Adobe Admin Console?**
 
-[https://helpx.adobe.com/br/enterprise/admin-guide.html](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}.
 
 **Ainda vou para a seção de Administrador no Marketo para fazer alterações na conta do usuário para minha conta?**
 
@@ -143,7 +143,7 @@ Não, não há nenhum impacto nessas configurações.
 
 **Como posso evitar que as sessões atinjam o tempo limite?**
 
-Em [Configurações Avançadas](https://helpx.adobe.com/br/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, você pode personalizar a vida útil máxima da sessão desejada (são necessárias permissões de Administrador do Sistema). É recomendável estabelecer essa configuração após a migração do produto, mas antes da migração do usuário.
+Em [Configurações Avançadas](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, você pode personalizar a vida útil máxima da sessão desejada (são necessárias permissões de Administrador do Sistema). É recomendável estabelecer essa configuração após a migração do produto, mas antes da migração do usuário.
 
 **Agora preciso entrar no Experience Cloud para acessar o Marketo Engage. Há uma maneira de simplificar este fluxo?**
 

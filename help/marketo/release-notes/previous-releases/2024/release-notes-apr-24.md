@@ -1,12 +1,12 @@
 ---
 description: Notas de versão - abril de 2024 - Documentação do Marketo - Documentação do produto
-title: Notas de versão - abril de 2024
+title: Notas de versão – Abril de 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -14,50 +14,50 @@ ht-degree: 8%
 
 Abaixo você encontrará todos os recursos incluídos na versão de abril de 2024. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
-As Notas de versão específicas para o Adobe Dynamic Chat [podem ser encontradas aqui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+As Notas de Versão específicas do Adobe Dynamic Chat [podem ser encontradas aqui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com o representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
 Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **26 de abril de 2024**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Recurso</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Recurso</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentação</th>
   </tr>
-     <tr> 
-   <td><strong>Aprimoramentos nos webinários interativos</strong>: agora você pode fornecer aos hosts e apresentadores a capacidade de adicionar um título de webinário, renomear uma sala e sincronizar manualmente os dados de envolvimento após a entrega do evento.</td> 
+     <tr>
+   <td><strong>Aprimoramentos nos webinários interativos</strong>: agora você pode fornecer aos hosts e apresentadores a capacidade de adicionar um título de webinário, renomear uma sala e sincronizar manualmente os dados de envolvimento após a entrega do evento.</td>
    <td>Remetido</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Criar um webinário interativo</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Sincronização manual</a></li></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Aprimoramentos da Trilha de Auditoria</strong>: 
-   Agora novos tipos de ações podem ser capturados na Trilha de auditoria para alterações feitas no Gerenciamento de campo, alterações feitas nos Usuários e Funções e a contagem de pessoas exportadas de listas e Smart Lists.</td> 
+    <tr>
+   <td><strong>Aprimoramentos da Trilha de Auditoria</strong>:
+   Agora novos tipos de ações podem ser capturados na Trilha de auditoria para alterações feitas no Gerenciamento de campo, alterações feitas nos Usuários e Funções e a contagem de pessoas exportadas de listas e Smart Lists.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Novas permissões de usuários e funções</strong>: novas permissões estão disponíveis, fornecendo aos usuários acesso mais granular ao Marketo Engage. Controle partes do Administrador não previamente restritas, como Nova experiência e Públicos preditivos, divida permissões para conceder acesso à Trilha de auditoria de ativos e à Trilha de auditoria de administradores separadamente e utilize novas permissões de criação e movimentação para ativos e pastas, a fim de impedir que usuários somente leitura façam alterações. 
+    <tr>
+   <td><strong>Novas Permissões de Usuários e Funções</strong>: novas permissões estão disponíveis, fornecendo aos usuários acesso mais granular ao Marketo Engage. Controle partes do Administrador não previamente restritas, como Nova experiência e Públicos preditivos, divida permissões para conceder acesso à Trilha de auditoria de ativos e à Trilha de auditoria de administradores separadamente e utilize novas permissões de criação e movimentação para ativos e pastas, a fim de impedir que usuários somente leitura façam alterações.
    <p>Embora as novas permissões apareçam em sua instância do Marketo Engage a partir de 26 de abril, elas estão passivas por enquanto e se tornarão acessíveis posteriormente neste trimestre.
    <li>Acessar o Adobe Experience Manager</li>
-   <li>Mapeamento da organização do Adobe de acesso</li>
+   <li>Acessar o mapeamento de organização da Adobe</li>
    <li>Acessar trilha de auditoria do administrador</li>
    <li>Acessar trilha de auditoria do ativo</li>
    <li>Acessar nova experiência</li>
@@ -65,11 +65,11 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <li>Criar relatório</li>
    <li>Criar lista</li>
    <li>Exportar atividade da campanha</li>
-   </td> 
+   </td>
    <td>Remetido</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descrições de permissões de função</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -79,63 +79,63 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 **Atividades baseadas na Web**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Atividade</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">Atividade</th>
    <th style="width:70%">Atributos recém-adicionados</th>
    </tr>
-  <tr> 
-   <td>Visit Webpage</td> 
+  <tr>
+   <td>Visit Webpage</td>
    <td>Navegador, plataforma, dispositivo</td>
   </tr>
-   <tr> 
-   <td>Preenchimento de formulário</td> 
+   <tr>
+   <td>Preenchimento de formulário</td>
    <td>Navegador, plataforma, dispositivo</td>
   </tr>
-  <tr> 
-   <td>Clicar em link</td> 
+  <tr>
+   <td>Clicar em link</td>
    <td>Navegador, plataforma, dispositivo</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 **Atividades baseadas em email**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Atividade</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">Atividade</th>
    <th style="width:70%">Atributos recém-adicionados</th>
   </tr>
-   <tr> 
-   <td>Enviar e-mail</td> 
+   <tr>
+   <td>Enviar email</td>
    <td>Navegador, Plataforma, Dispositivo, Agente do Usuário</td>
   </tr>
    </tr>
-  <tr> 
-   <td>E-mail enviado</td> 
+  <tr>
+   <td>E-mail enviado</td>
    <td>Navegador, Plataforma, Dispositivo, Agente do Usuário</td>
   </tr>
-   <tr> 
-   <td>E-mail foi devolvido</td> 
+   <tr>
+   <td>E-mail foi devolvido</td>
    <td>Navegador, Plataforma, Dispositivo, Agente do Usuário</td>
   </tr>
-  <tr> 
-   <td>Cancelamento de inscrição do email</td> 
+  <tr>
+   <td>Cancelamento de inscrição do email</td>
    <td>Navegador, plataforma, dispositivo</td>
   </tr>
-  <tr> 
-   <td>Abertura de email</td> 
+  <tr>
+   <td>Abertura de email</td>
    <td>Navegador</td>
   </tr>
-   <tr> 
-   <td>Cliques em email</td> 
+   <tr>
+   <td>Cliques no email</td>
    <td>Navegador</td>
   </tr>
-  <tr> 
-   <td>E-mail foi devolvido temporariamente</td> 
+  <tr>
+   <td>E-mail foi devolvido temporariamente</td>
    <td>Navegador, Plataforma, Dispositivo, Agente do Usuário</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>

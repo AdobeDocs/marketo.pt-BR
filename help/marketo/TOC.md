@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 6%
@@ -258,7 +258,7 @@ ht-degree: 6%
       + [Configurar o mapeamento da organização da Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizar um público-alvo do Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importação do Assets com o Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Visão Geral da Interface do Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [Visão geral da interface da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Conceitos principais do Marketo {#core-marketo-concepts}
       + Campanhas inteligentes {#smart-campaigns}
          + [Noções básicas sobre campanhas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -287,7 +287,7 @@ ht-degree: 6%
             + [Agendar uma campanha inteligente em lote para execução posterior](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Programar uma campanha em lote recorrente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Configurar um acionador de campanha inteligente para vendas usando &quot;A campanha é solicitada&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
-            + [Usando a Lógica de Regra de Smart List Padrão](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
+            + [Utilização da Lógica Padrão de Regras de Smart List](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Ações do fluxo {#flow-actions}
             + [Adicionar uma etapa de fluxo a uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [Reordenar as etapas de fluxo em uma campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
@@ -977,7 +977,7 @@ ht-degree: 6%
          + Funções sociais {#social-functions}
             + [Configurar o Forms de geração de lead do LinkedIn](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Usar uma lista do Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-            + [Usar acionadores e filtros de formulário da geração de clientes potenciais do LinkedIn em uma campanha inteligente](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [Usar filtros e acionadores de formulário do líder do LinkedIn em uma campanha inteligente](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + Marketing por e-mail {#email-marketing}
       + Capacidade de entrega {#deliverability}
          + [Cancelamento de assinatura durável](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
@@ -1489,7 +1489,7 @@ ht-degree: 6%
          + Enviar email de vendas {#send-a-sales-email}
             + [Visão geral do rastreamento de email](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Tarefas {#tasks}
-            + [Sincronização de Tarefas de Lembrete com o Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+            + [Sincronização de tarefa de lembrete com o Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Modelos {#templates}
             + [Adicionar texto hipervinculado](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Campos dinâmicos](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)

@@ -3,7 +3,7 @@ description: Gerenciamento OP-Lead - Documentação do Marketo - Documentação 
 title: Gerenciamento OP-Lead
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 13%
@@ -12,68 +12,68 @@ ht-degree: 13%
 
 # Gerenciamento OP-Lead {#op-lead-management}
 
-Este é um exemplo de fluxos de trabalho de práticas recomendadas de gerenciamento de clientes potenciais, utilizando um Programa padrão de Marketo Engage, para ajudá-lo a gerenciar registros no banco de dados de Marketo Engage para o seu CRM.
+Este é um exemplo de fluxos de trabalho de práticas recomendadas de gerenciamento de clientes potenciais, utilizando um Programa padrão do Marketo Engage para ajudá-lo a gerenciar registros no banco de dados do Marketo Engage para o seu CRM.
 
 >[!NOTE]
 >
 >No Marketo Engage, os registros no banco de dados são chamados de pessoas/pessoa. O gerenciamento de clientes potenciais neste exemplo refere-se aos registros em seu CRM.
 
-Para obter mais ajuda estratégica ou para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Resumo do canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Status da associação</th>
    <th>Comportamento das análises</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Operacional</td> 
+  </tr>
+  <tr>
+   <td>Operacional</td>
    <td>01-Membro</td>
    <td>Operacional</td>
    <td>Padrão</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome do modelo</th>
    <th>Nome do ativo</th>
-  </tr> 
-  <tr> 
-   <td>Campanha inteligente</td> 
+  </tr>
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>01 - Sincronizar Novas Pessoas com o CRM</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>02 - Qualificado para marketing</td>
   </tr>
-  <tr> 
-   <td>Email</td> 
+  <tr>
+   <td>Email</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01 - E-mail - ALERTA - MQL</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Campanhas</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Alerta de email</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-lead-management-1.png)

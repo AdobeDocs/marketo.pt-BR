@@ -3,7 +3,7 @@ description: Programa de feiras de vendas TS-YYYY-MM-DD-Marketo Docs - Documenta
 title: Programa de feiras de vendas em DD/MM/TS-YYYY
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 15%
@@ -12,23 +12,23 @@ ht-degree: 15%
 
 # Programa de feiras de vendas em DD/MM/TS-YYYY {#ts-yyyy-mm-dd-tradeshow-program}
 
-Este é um exemplo de um programa de feiras com convites e emails de acompanhamento utilizando um Programa de Marketo Engage Event.
+Este é um exemplo de um programa de feiras com convites e emails de acompanhamento utilizando um Programa de eventos do Marketo Engage.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Status da associação</th>
    <th>Comportamento das análises</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Evento</td> 
-   <td>01-Convidado 
+  </tr>
+  <tr>
+   <td>Evento</td>
+   <td>01-Convidado
    <br/>02-Em Lista De Espera
    <br/>03-Registrado
    <br/>04-Cabine Visitada
@@ -37,145 +37,145 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td>Inclusivo</td>
    <td>Evento</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome do modelo</th>
    <th>Nome do ativo</th>
-  </tr> 
-  <tr> 
-   <td>Email</td> 
+  </tr>
+  <tr>
+   <td>Email</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
-   <tr> 
-   <td>Email</td> 
+   <tr>
+   <td>Email</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
    <td>02a- Email - Convite</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Relatório local</td> 
+  <tr>
+   <td>Relatório local</td>
    <td> </td>
    <td>Desempenho do e-mail</td>
   </tr>
-  <tr> 
-   <td>Relatório local</td> 
+  <tr>
+   <td>Relatório local</td>
    <td> </td>
    <td>Desempenho do programa</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>00 - Programa de aquisição de captura</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>01 - Enviar Convite</td>
   </tr>
-   <tr> 
-   <td>Campanha inteligente</td> 
+   <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>02 - Enviar emails de acompanhamento</td>
   </tr>
-   <tr> 
-   <td>Campanha inteligente</td> 
+   <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>03 - Envolvido pelo email de acompanhamento (Sucesso)</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
-   <td>Assets - Abriga todos os ativos criativos 
+   <td>Assets - Abriga todos os ativos criativos
 <br/>(subpastas para Email e Páginas de Aterrissagem)</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Campanhas - Sedia todas as campanhas inteligentes</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Relatórios</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
 
 ## Meus tokens incluídos {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo de token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo de token</th>
    <th>Nome do token</th>
    <th>Valor</th>
   </tr>
-  <tr> 
-   <td>Arquivo de calendário</td> 
+  <tr>
+   <td>Arquivo de calendário</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>Clique duas vezes para obter detalhes</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>Texto formatado</td> 
+   <tr>
+   <td>Texto formatado</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
-   <tr> 
-   <td>Texto</td> 
+   <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-City}}</code></td>
    <td><code><--My Event City Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Texto</td> 
+  <tr>
+   <td>Texto</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>Evento comercial</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Regras de conflito {#conflict-rules}

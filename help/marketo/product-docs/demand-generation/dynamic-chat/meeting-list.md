@@ -3,7 +3,7 @@ description: Lista de reuniões - Documentação do Marketo - Documentação do 
 title: Lista de Reuniões
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Quando uma reunião é reservada no calendário de um agente, ele receberá uma notificação por email sobre a reserva, incluindo informações detalhadas sobre o engajamento do Dynamic Chat do visitante.
+>Quando uma reunião é agendada no calendário de um agente, ele receberá uma notificação por email sobre a agendamento, incluindo informações detalhadas sobre o envolvimento do visitante no Dynamic Chat.
 
 ## Notificações de Ação com Falha {#failed-action-notifications}
 

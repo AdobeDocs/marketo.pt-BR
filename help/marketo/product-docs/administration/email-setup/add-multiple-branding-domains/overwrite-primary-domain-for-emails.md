@@ -4,7 +4,7 @@ description: Substituir domínio primário para emails - Documentação do Marke
 title: Substituir Domínio Primário por Emails
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

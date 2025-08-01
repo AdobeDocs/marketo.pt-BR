@@ -4,7 +4,7 @@ description: Conexão de vendas e conformidade com o GDPR - Documentação do Ma
 title: Conexão de vendas e conformidade com o GDPR
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1355'
 ht-degree: 8%
@@ -124,44 +124,44 @@ Depois de selecionar o Tipo de Source correto para os contatos selecionados, uma
 
 Você pode exportar informações de contato da Exibição de Detalhes da Pessoa. A exportação baixará um arquivo .CSV com as seguintes colunas:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Nome]</td> 
-   <td>[!UICONTROL Site]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Sobrenome]</td> 
-   <td>[!UICONTROL Outro]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Empresa]</td> 
-   <td>[!UICONTROL Atualizado Às]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Título]</td> 
-   <td>[!UICONTROL Criado Às]</td> 
-   <td>[!UICONTROL Exportado Em]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL ID de email]</td> 
-   <td>[!UICONTROL Salesforce ID]</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Número de Telefone]</td> 
-   <td>[!UICONTROL ID de pessoa]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Nome]</td>
+   <td>[!UICONTROL Site]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Sobrenome]</td>
+   <td>[!UICONTROL Outro]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Empresa]</td>
+   <td>[!UICONTROL Atualizado Às]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Título]</td>
+   <td>[!UICONTROL Criado Às]</td>
+   <td>[!UICONTROL Exportado Em]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL ID de email]</td>
+   <td>[!UICONTROL Salesforce ID]</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Número de Telefone]</td>
+   <td>[!UICONTROL ID de pessoa]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -180,9 +180,9 @@ Para exportar informações de contato, clique nos três pontos verticais no Cab
 
 Uma área do GDPR comumente mal compreendida envolve contatos que cancelam a inscrição no banco de dados da organização. Para aderir às novas regras de proteção de dados daqueles que optam por cancelar a inscrição, a seguinte funcionalidade foi incluída em [!DNL Marketo Sales Connect]:
 
-**Links para Cancelar Assinatura:** Links para Cancelar Assinatura serão anexados automaticamente a todos os emails enviados do aplicativo Web [!DNL Sales Connect] para garantir que os contatos tenham acesso a uma maneira acessível de recusar.\
-**Cancelar Assinatura da Sincronização:** os usuários podem sincronizar cancelamentos de assinatura de e para seu CRM ([!DNL Salesforce]) para garantir que os cancelamentos estejam atualizados.\
-**Histórico de cancelamento de inscrição:** Os usuários podem ver recusas e recusas históricas na exibição de Detalhes da pessoa.\
+**Links para Cancelar Assinatura:** Links para Cancelar Assinatura serão anexados automaticamente a todos os emails enviados do aplicativo Web [!DNL Sales Connect] para garantir que os contatos tenham acesso a uma maneira acessível de recusar.
+**Cancelar Assinatura da Sincronização:** os usuários podem sincronizar cancelamentos de assinatura de e para seu CRM ([!DNL Salesforce]) para garantir que os cancelamentos estejam atualizados.
+**Histórico de cancelamento de inscrição:** Os usuários podem ver recusas e recusas históricas na exibição de Detalhes da pessoa.
 **Remoção da inscrição cancelada:** para se inscrever novamente, o usuário deve ter privilégios de administrador e demonstrar que o contato deu novo consentimento para contatá-lo.
 
 ## Atualizações futuras {#future-updates}

@@ -4,9 +4,9 @@ title: Modelos de email
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1840'
+source-wordcount: '1838'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Para um processo de design acelerado e aprimorado, é possível criar modelos de
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -159,7 +159,7 @@ O editor renderiza o fragmento na seção/elemento da estrutura de email. O cont
 
 >[!TIP]
 >
->Se quiser que o fragmento ocupe todo o layout horizontal no email, adicione uma estrutura de coluna 1:1 e, em seguida, arraste e solte o fragmento nele.
+>Se quiser que o fragmento ocupe todo o layout horizontal no email, adicione uma estrutura de coluna 1:1 e arraste e solte o fragmento nele.
 
 Depois que o email for salvo, ele aparecerá na guia _[!UICONTROL Usado por]_ da página de detalhes do fragmento. Os fragmentos adicionados a um modelo de email não são editáveis no modelo; o fragmento de origem define o conteúdo.
 

@@ -4,7 +4,7 @@ description: Programação de lançamento - Documentação do Marketo - Document
 title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 14%
@@ -26,48 +26,48 @@ ht-degree: 14%
 _As datas/recursos de lançamento estão sujeitos a alterações_
 
 <table>
- <tbody> 
-  <tr> 
+ <tbody>
+  <tr>
    <th width="250px">Versão</th>
    <th width="250px">Data de lançamento</th>
    <th width="250px">Status</th>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Janeiro de 25</a></td>
    <td>17 de janeiro de 2025</td>
    <td>Remetido</td>
   </tr>
-   <tr> 
+   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Março de 2025</a></td>
    <td>sábado, 28 de março de 2025</td>
    <td>Remetido</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Abril de 25</a></td>
    <td>Abril de 25</td>
    <td>Remetido</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maio de 25</a></td>
    <td>23 de maio de 2025</td>
    <td>Remetido</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/current.md">Julho de 25</a></td>
    <td>sábado, 11 de julho de 2025</td>
    <td>Em andamento</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Agosto de 25</td>
    <td>22 de agosto de 2025</td>
    <td>Dentro do Cronograma</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Setembro de 25</td>
    <td>19 de setembro de 2025</td>
    <td>Dentro do Cronograma</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Outubro de 25</td>
    <td>17 de outubro de 2025</td>
    <td>Dentro do Cronograma</td>

@@ -1,9 +1,9 @@
 ---
-description: Visão geral do UX moderno para o Marketo Engage - Documentação do Marketo - Documentação do produto
+description: Visão geral do Marketo Engage Modern UX - Documentação do Marketo - Documentação do produto
 title: Visão geral do Marketo Engage Modern UX
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 1%
@@ -54,112 +54,112 @@ Há muitos recursos novos de árvore disponíveis.
 
 **Marketo Classic vs. a nova Marketo**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>Recurso</th> 
-   <th>Classic</th> 
-   <th>Próxima geração</th> 
+   <th>Recurso</th>
+   <th>Classic</th>
+   <th>Próxima geração</th>
   </tr>
   <tr>
-   <td>Aplicar vários filtros ao mesmo tempo</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Aplicar vários filtros ao mesmo tempo</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Nó de árvore de rascunho e aprovação combinado</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Nó de árvore de rascunho e aprovação combinado</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Criar ativos locais em pastas de programas</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Criar ativos locais em pastas de programas</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Clique duas vezes para expandir/recolher os nós de árvore</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Clique duas vezes para expandir/recolher os nós de árvore</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Arrastar e soltar da árvore para o fluxo de envolvimento</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>Arrastar e soltar da árvore para o fluxo de envolvimento</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>Arrastar e soltar dentro da árvore</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Arrastar e soltar dentro da árvore</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Filtrar por tipo de ativo e estados</td> 
-   <td><i>parcial</i></td> 
-   <td><strong>X</strong></td>  
+   <td>Filtrar por tipo de ativo e estados</td>
+   <td><i>parcial</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Realçar plano de fundo para mostrar hierarquia no estado de foco</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Realçar plano de fundo para mostrar hierarquia no estado de foco</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Realçar palavras-chave durante a pesquisa</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Realçar palavras-chave durante a pesquisa</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Rolagem horizontal</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Rolagem horizontal</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Estado de passagem do mouse dos nós de árvore</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Estado de passagem do mouse dos nós de árvore</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Recolher rapidamente toda a árvore</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Recolher rapidamente toda a árvore</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Recolher rapidamente para o nó raiz</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Recolher rapidamente para o nó raiz</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Atualização em tempo real</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Atualização em tempo real</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Árvore redimensionável</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Árvore redimensionável</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Pesquisar nas pastas arquivadas</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Pesquisar nas pastas arquivadas</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>String de pesquisa salva ao inserir pesquisa global da pesquisa em árvore</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>String de pesquisa salva ao inserir pesquisa global da pesquisa em árvore</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Mostrar todos os espaços de trabalho em uma única árvore</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Mostrar todos os espaços de trabalho em uma única árvore</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Selo de estado e dicas de ferramentas</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Selo de estado e dicas de ferramentas</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Lógica de pesquisa "O Word começa com"</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Lógica de pesquisa "O Word começa com"</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ Dê uma olhada na nova Navegação Global.
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Sem mais lista suspensa de superbolas</td> 
+   <td>1</td>
+   <td>Sem mais lista suspensa de superbolas</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Todos os itens de superball anteriores listados</td> 
+   <td>2</td>
+   <td>Todos os itens de superball anteriores listados</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>Se você tiver várias assinaturas, clique no seu sub-nome para mudar facilmente para outro</td> 
+   <td>3</td>
+   <td>Se você tiver várias assinaturas, clique no seu sub-nome para mudar facilmente para outro</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Pesquisa global - agora é possível pesquisar toda a instância aqui</td> 
+   <td>4</td>
+   <td>Pesquisa global - agora é possível pesquisar toda a instância aqui</td>
   </tr>
  </tbody>
 </table>
@@ -200,4 +200,4 @@ Dê uma olhada na nova Navegação Global.
 >
 >Usar a pesquisa na árvore só produzirá resultados da seção em que você está (por exemplo, Atividades de marketing). Se quiser pesquisar toda a instância, use a pesquisa global.
 
-Aproveite a nova experiência com o Marketo Engage!
+Aproveite a nova experiência do Marketo Engage.

@@ -4,7 +4,7 @@ description: Criar uma nova campanha da Web do widget - Documentação do Market
 title: Criar uma nova campanha da Web do widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 1%
@@ -37,61 +37,61 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
    ![](assets/preview.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nome</th> 
-   <th colspan="1" rowspan="1">Descrição</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong>Modelos</strong></td> 
-   <td colspan="1">Escolha um dos vários templates pré-fabricados.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Exibir em</strong></td> 
-   <td colspan="1">Permite que você <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalize quando e como</a> sua campanha da Web é exibida.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Animar entrada/saída</strong></td> 
-   <td colspan="1">Defina na entrada e/ou saída da caixa de diálogo. Selecione o efeito (soltar, às cegas, deslizar, esmaecer, sem efeito), a duração (em segundos) e a direção (para cima, para baixo, para a esquerda, para a direita).</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Posição</strong></td> 
-   <td colspan="1">Selecione uma das quatro opções para a posição do widget na página: Direita, Esquerda, Superior, Inferior. Posição % é a porcentagem do posicionamento de onde o Widget aparecerá na página do navegador (por exemplo, "50% abaixo" fará com que o widget apareça na metade abaixo da parte inferior da página, "10% à esquerda" fará com que o widget apareça próximo à parte superior esquerda da página etc.).<br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Cor do widget</strong></td> 
-   <td colspan="1" rowspan="1"><p>Selecione a cor do widget em um gráfico de cores ou insira-a como um código de cor do RGB. Você também pode selecionar o nível de transparência do plano de fundo do widget, movendo a barra na parte inferior em ambas as direções.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Botão Widget</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Personalize o próprio botão do widget.<br>Seta: permite escolher entre vários ícones diferentes no menu suspenso direito. O menu suspenso esquerdo determina a cor.<br>Personalizado: insira a URL de qualquer imagem hospedada. Tipos de arquivo aceitos - .JPEG, .GIF (incluindo animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: o widget pode ser texto - personalize sua cor, tamanho e fonte.</td> 
-  </tr> 
-  <tr> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nome</th>
+   <th colspan="1" rowspan="1">Descrição</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>Modelos</strong></td>
+   <td colspan="1">Escolha um dos vários templates pré-fabricados.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Exibir em</strong></td>
+   <td colspan="1">Permite que você <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">personalize quando e como</a> sua campanha da Web é exibida.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Animar entrada/saída</strong></td>
+   <td colspan="1">Defina na entrada e/ou saída da caixa de diálogo. Selecione o efeito (soltar, às cegas, deslizar, esmaecer, sem efeito), a duração (em segundos) e a direção (para cima, para baixo, para a esquerda, para a direita).</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Posição</strong></td>
+   <td colspan="1">Selecione uma das quatro opções para a posição do widget na página: Direita, Esquerda, Superior, Inferior. Posição % é a porcentagem do posicionamento de onde o Widget aparecerá na página do navegador (por exemplo, "50% abaixo" fará com que o widget apareça na metade abaixo da parte inferior da página, "10% à esquerda" fará com que o widget apareça próximo à parte superior esquerda da página etc.).<br></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Cor do widget</strong></td>
+   <td colspan="1" rowspan="1"><p>Selecione a cor do widget em um gráfico de cores ou insira-a como um código de cor do RGB. Você também pode selecionar o nível de transparência do plano de fundo do widget, movendo a barra na parte inferior em ambas as direções.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Botão Widget</strong><br></p></td>
+   <td colspan="1" rowspan="1">Personalize o próprio botão do widget.<br>Seta: permite escolher entre vários ícones diferentes no menu suspenso direito. O menu suspenso esquerdo determina a cor.<br>Personalizado: insira a URL de qualquer imagem hospedada. Tipos de arquivo aceitos - .JPEG, .GIF (incluindo animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: o widget pode ser texto - personalize sua cor, tamanho e fonte.</td>
+  </tr>
+  <tr>
    <td colspan="1"><strong>Fixo
-</strong></td> 
-   <td colspan="1">Selecionar essa opção garante que o widget aparecerá em todas as páginas da Web durante a sessão do visitante.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Minimizar widget na exibição do Campaign</strong></td> 
-   <td colspan="1">Insere o widget, mas o mantém minimizado, exigindo que o usuário clique nele para maximizá-lo.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Restaurar padrão </strong></td> 
-   <td colspan="1">Restaura a configuração padrão original do widget, ajustando sua cor para a opção cinza transparente padrão.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Visualizar no site </strong></td> 
-   <td colspan="1">Visualize campanhas antes de iniciá-las.<br> 
-    <ul> 
-     <li>URL - Insira um URL de exemplo, no qual a campanha seria executada para ver um exemplo de visualização de como a campanha seria exibida.</li> 
-     <li>Visualização - Clique em <strong>Visualizar </strong>para abrir uma nova janela da URL de exemplo e ver como a campanha reage (Adicione a <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extensão do Chrome</a> para obter a melhor experiência de visualização do Web Campaign.) </li> 
-     <li>Compartilhar - Use o botão Compartilhar para enviar um email a um colega com um link para ver a campanha de proxy.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+</strong></td>
+   <td colspan="1">Selecionar essa opção garante que o widget aparecerá em todas as páginas da Web durante a sessão do visitante.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Minimizar widget na exibição do Campaign</strong></td>
+   <td colspan="1">Insere o widget, mas o mantém minimizado, exigindo que o usuário clique nele para maximizá-lo.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Restaurar padrão </strong></td>
+   <td colspan="1">Restaura a configuração padrão original do widget, ajustando sua cor para a opção cinza transparente padrão.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Visualizar no site </strong></td>
+   <td colspan="1">Visualize campanhas antes de iniciá-las.<br>
+    <ul>
+     <li>URL - Insira um URL de exemplo, no qual a campanha seria executada para ver um exemplo de visualização de como a campanha seria exibida.</li>
+     <li>Visualização - Clique em <strong>Visualizar </strong>para abrir uma nova janela da URL de exemplo e ver como a campanha reage (Adicione a <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extensão do Chrome</a> para obter a melhor experiência de visualização do Web Campaign.) </li>
+     <li>Compartilhar - Use o botão Compartilhar para enviar um email a um colega com um link para ver a campanha de proxy.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

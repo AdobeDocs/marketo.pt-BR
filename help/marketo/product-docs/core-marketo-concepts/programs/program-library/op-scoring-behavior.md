@@ -3,7 +3,7 @@ description: OP-Scoring-Behavior - Documentação do Marketo - Documentação do
 title: OP-Scoring-Behavior
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 29%
@@ -12,235 +12,235 @@ ht-degree: 29%
 
 # OP-Scoring-Behavior {#op-scoring-behavior}
 
-Este exemplo é um Programa operacional avançado (tokenizado) para a Pontuação de comportamento usando um Programa padrão Marketo Engage. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação de comportamento&quot;.
+Este exemplo é um Programa operacional avançado (tokenizado) para a Pontuação de comportamento usando um Programa padrão do Marketo Engage. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação de comportamento&quot;.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Status da associação</th>
    <th>Comportamento das análises</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Operacional</td> 
+  </tr>
+  <tr>
+   <td>Operacional</td>
    <td>01-Membro</td>
    <td>Operacional</td>
    <td>Padrão</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Campos de pré-requisito {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome intuitivo</th>
    <th>Nome da API</th>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td>Pontuação de comportamento</td>
    <td>PontuaçãoComportamento</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome do modelo</th>
    <th>Nome do ativo</th>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Email - Link de cliques no email</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Formulário - Preenche O Formulário De Contato</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Formulário - Preenche O Formulário De Conteúdo</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Formulário - Preenche O Formulário Padrão</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Formulário - Preenche O Formulário De Evento</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Web - Downloads de qualquer PDF</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Web - Pontuação PPC</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Web - Páginas-chave da Web de visitas</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Web - Visita a várias páginas da Web em 1 dia</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Evento ao vivo - Participou</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Tradeshow - Influenced</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Tradeshow - Visited Booth</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Webinário - Participou</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Diminuir Pontuação - Nenhuma Atividade</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Diminuir pontuação: visitas a páginas da Web indesejáveis</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Interações</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Mudanças no status do programa</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Decaimento da pontuação</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-scoring-behavior-1.png)
 
 ## Meus tokens incluídos {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo de token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo de token</th>
    <th>Nome do token</th>
    <th>Valor</th>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Decrease Score - No Activity}}</code></td>
    <td>-10</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Decrease Score - Visits Undesirable Web Pages}}</code></td>
    <td>-5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Email - Clicks Link}}</code></td>
    <td>+2</td>
   </tr>
-   <tr> 
-   <td>Pontuação</td> 
+   <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Form - Fills Out Contact Form}}</code></td>
    <td>+30</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Form - Fills Out Content Form}}</code></td>
    <td>+15</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Form - Fills Out Default Form}}</code></td>
    <td>+10</td>
   </tr>
-   <tr> 
-   <td>Pontuação</td> 
+   <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Form - Fills-out Event Form}}</code></td>
    <td>+15</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Live Event - Attended}}</code></td>
    <td>+30</td>
   </tr>
-   <tr> 
-   <td>Pontuação</td> 
+   <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Tradeshow - Influenced}}</code></td>
    <td>+20</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Tradeshow - Visited Booth}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Web - Downloaded Any PDF}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Web - PPC Scoring}}</code></td>
    <td>+15</td>
   </tr>
-   <tr> 
-   <td>Pontuação</td> 
+   <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Web - Visits Key Web Pages}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Web - Visits Multiple Web Pages in 1 Day}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Webinar - Attended}}</code></td>
    <td>+20</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Regras de conflito {#conflict-rules}

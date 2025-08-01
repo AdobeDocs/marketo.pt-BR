@@ -3,7 +3,7 @@ description: Teste de um webinário interativo - Documentação do Marketo - Doc
 title: Teste de um webinário interativo
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: f73c052954b182255f53496bd2baadad7482ed1e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '370'
 ht-degree: 0%
@@ -30,4 +30,4 @@ Depois de criar e projetar o webinário, o host, o coanfitrião e/ou os apresent
 
 ## Recursos não disponíveis durante o teste {#features-not-available-when-testing}
 
-Como este é um webinário de teste, há algumas coisas que não estão disponíveis para você que normalmente estariam após um webinário em tempo real. Isso inclui: gravar o webinário, obter os insights de engajamento para o webinário no formulário do Painel de engajamento ou o painel agregado na guia Painel. O rastreamento de Webinars sob demanda para Webinars interativos, que está disponível para webinars gravados, também não estará disponível. Como nenhum dado de engajamento é rastreado durante o webinário de teste, nenhum dado será recebido de volta do Adobe Connect para o Marketo Engage, portanto, nenhuma promoção pós-webinário pode ser executada.
+Como este é um webinário de teste, há algumas coisas que não estão disponíveis para você que normalmente estariam após um webinário em tempo real. Isso inclui: gravar o webinário, obter os insights de engajamento para o webinário no formulário do Painel de engajamento ou o painel agregado na guia Painel. O rastreamento de Webinars sob demanda para Webinars interativos, que está disponível para webinars gravados, também não estará disponível. Como nenhum dado de envolvimento é rastreado durante o webinário de teste, nenhum dado será recebido de volta do Adobe Connect para o Marketo Engage, portanto, nenhuma criação pós-webinário pode ser executada.

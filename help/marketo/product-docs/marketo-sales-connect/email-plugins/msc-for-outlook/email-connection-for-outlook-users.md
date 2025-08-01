@@ -4,7 +4,7 @@ description: Conexão de email para usuários do Outlook - Documentação do Mar
 title: Conexão de email para usuários do Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -47,15 +47,15 @@ Conectar-se ao [!DNL Outlook] significa que você receberá o controle de respos
 
    ![](assets/six-a.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>[!DNL Outlook Online]</strong></td> 
-      <td>Também conhecido como [!DNL Exchange Online]</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td>
+      <td>Também conhecido como [!DNL Exchange Online]</td>
      </tr>
      <tr>
-      <td><strong>[!DNL Exchange On-premise]</strong></td> 
-      <td>Inclui [!DNL Exchange] 2013 e 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td>
+      <td>Inclui [!DNL Exchange] 2013 e 2016</td>
      </tr>
     </tbody>
    </table>
@@ -110,15 +110,15 @@ Conectar-se ao [!DNL Exchange On-Premise] significa que você receberá o contro
 
    ![](assets/six-b.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>[!DNL Outlook Online]</strong></td> 
-      <td>Também conhecido como [!DNL Exchange Online]</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td>
+      <td>Também conhecido como [!DNL Exchange Online]</td>
      </tr>
      <tr>
-      <td><strong>[!DNL Exchange On-premise]</strong></td> 
-      <td>Inclui [!DNL Exchange] 2013 e 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td>
+      <td>Inclui [!DNL Exchange] 2013 e 2016</td>
      </tr>
     </tbody>
    </table>

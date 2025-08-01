@@ -4,7 +4,7 @@ description: Integração com o Adobe Analytics - Documentação do Marketo - Do
 title: Integrar ao Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Conclua as etapas a seguir para configurar essas variáveis no AA:
 
 1. Vá para **[!UICONTROL Ferramentas administrativas]** na sua conta do AA.
 1. Selecione o **[!UICONTROL Conjunto de relatórios]** a ser usado com a integração.
-1. Em **[!UICONTROL Editar Configurações]**, vá para **[!UICONTROL Conversão]** e selecione **[[!UICONTROL Variáveis de Conversão]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Selecione o número da [Variável de conversão](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (recomendamos):
+1. Em **[!UICONTROL Editar Configurações]**, vá para **[!UICONTROL Conversão]** e selecione **[[!UICONTROL Variáveis de Conversão]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
+Selecione o número da [Variável de conversão](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (recomendamos):
 
    1. Evar nº 20 para conversões personalizadas do setor
    1. Evar nº 21 para conversões personalizadas de organização
@@ -220,7 +220,7 @@ Seus reportlets serão exibidos no painel.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Procure por Impressões para visualizar os nomes de Segmento e Campanha que representam o número de impressões da campanha.\
+1. Procure por Impressões para visualizar os nomes de Segmento e Campanha que representam o número de impressões da campanha.
    ![](assets/sitecatalyst1.png)
 
 1. Procure por Conversão para visualizar os nomes de Segmento e Campanha que representam o número de cliques da campanha.

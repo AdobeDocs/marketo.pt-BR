@@ -4,10 +4,10 @@ description: Tokens de acionador para momentos interessantes - Documentação do
 title: Tokens de acionador para momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 33%
+ht-degree: 67%
 
 ---
 
@@ -32,683 +32,683 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
 ### Acionadores de email {#email-triggers}
 
 <table style="table-layout:auto">
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>Clica em link de e-mail</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Rejeições permanentes de email</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>E-mail é devolvido temporariamente</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>O Email É Entregue</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Abre e-mail</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-    <tr> 
-   <td>Recebeu e-mail de "Encaminhar para amigo"</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-    <tr> 
-   <td>Enviou e-mail de "Encaminhar para amigo"</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>Clica em link de e-mail</td>
    <td><img src="assets/check.png" alt="check"></td>
-  </tr> 
-  <tr> 
-   <td>Cancela inscrição do e-mail</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Rejeições permanentes de email</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>E-mail é devolvido temporariamente</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>O Email É Entregue</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Abre e-mail</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>Recebeu e-mail de "Encaminhar para amigo"</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>Enviou e-mail de "Encaminhar para amigo"</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+  </tr>
+  <tr>
+   <td>Cancela inscrição do e-mail</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 ### Salesforce Triggers {#salesforce-triggers}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>Clica em link de e-mail de vendas</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+  </tr>
+  <tr>
+   <td>Clica em link de e-mail de vendas</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>É e-mail de vendas enviado</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Abre e-mail de vendas</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>E-mail de vendas é devolvido</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>E-mail de vendas é recebido</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>É e-mail de vendas enviado</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-    <tr> 
-   <td>A oportunidade é atualizada</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-    <tr> 
-   <td>Alterações do proprietário</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>A pessoa é convertida</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>A pessoa é excluída da SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>A pessoa é sincronizada com a SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Removido da oportunidade</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Removido da campanha da SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>A atividade é registrada</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>Abre e-mail de vendas</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>A atividade é atualizada</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Adicionado à oportunidade</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Adicionado à campanha da SFDC</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>O status é alterado na campanha da SFDC</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>E-mail de vendas é devolvido</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>E-mail de vendas é recebido</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>A oportunidade é atualizada</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>Alterações do proprietário</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>A pessoa é convertida</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>A pessoa é excluída da SFDC</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>A pessoa é sincronizada com a SFDC</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Removido da oportunidade</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Removido da campanha da SFDC</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>A atividade é registrada</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>A atividade é atualizada</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Adicionado à oportunidade</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Adicionado à campanha da SFDC</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>O status é alterado na campanha da SFDC</td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 ### Acionadores da conexão de vendas {#sales-connect-triggers}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>Clica em link de e-mail de vendas</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>É e-mail de vendas enviado</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Abre e-mail de vendas</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>E-mail de vendas é devolvido</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>E-mail de vendas é recebido</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Está adicionado à campanha de vendas</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
+  </tr>
   <tr>
-   <td>Alterações do proprietário</td> 
-   <td>Está removido de campanha de vendas</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td>Clica em link de e-mail de vendas</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Recebida chamada de vendas</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>É e-mail de vendas enviado</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Abre e-mail de vendas</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>E-mail de vendas é devolvido</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>E-mail de vendas é recebido</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Está adicionado à campanha de vendas</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Alterações do proprietário</td>
+   <td>Está removido de campanha de vendas</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Recebida chamada de vendas</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 ### Tokens de acionador do Dynamic Chat {#dynamic-chat-trigger-tokens}
@@ -872,7 +872,7 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
     <td></td>
   </tr>
   <tr>
-    <td>Atingiu a meta do Dialogue</td>
+    <td>Atingiu a meta do diálogo</td>
     <td></td>
     <td></td>
     <td></td>
@@ -964,93 +964,93 @@ Com base no acionador usado em uma campanha inteligente, os Tokens de acionador 
 
 ### Diversos {#miscellaneous}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>Preenche formulário</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>Preenche o formulário</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Visita página da Web</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Clica no link na página da Web</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Visita a página da web</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Clica no link na página da Web</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

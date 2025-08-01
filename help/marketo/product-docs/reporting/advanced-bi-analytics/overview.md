@@ -3,7 +3,7 @@ description: Visão geral avançada do BI Analytics - Documentação do Marketo 
 title: Visão Geral Avançada do BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1228'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Saiba como exportar seções específicas do relatório.
 
 Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451687/?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 

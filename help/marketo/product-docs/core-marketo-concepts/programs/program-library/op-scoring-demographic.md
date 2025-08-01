@@ -3,7 +3,7 @@ description: OP-Scoring-Demographic - Documentação do Marketo - Documentação
 title: Pontuação OP-Demográfica
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 34%
@@ -12,225 +12,225 @@ ht-degree: 34%
 
 # Pontuação OP-Demográfica {#op-scoring-demographic}
 
-Este é um exemplo de um Programa Operacional avançado (tokenizado), que utiliza um Programa padrão Marketo Engage para pontuação demográfica. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação demográfica&quot;.
+Este é um exemplo de um Programa operacional avançado (tokenizado), que utiliza um Programa padrão do Marketo Engage para pontuação demográfica. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação demográfica&quot;.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Canal</th>
    <th>Status da associação</th>
    <th>Comportamento das análises</th>
    <th>Tipo de programa</th>
-  </tr> 
-  <tr> 
-   <td>Operacional</td> 
+  </tr>
+  <tr>
+   <td>Operacional</td>
    <td>01 - Membro</td>
    <td>Operacional</td>
    <td>Padrão</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Campos de pré-requisito {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome intuitivo</th>
    <th>Nome da API</th>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td>Pontuação Demográfica</td>
    <td>PontuaçãoDemográfica</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## O programa contém o seguinte Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome do modelo</th>
    <th>Nome do ativo</th>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Domínio de email genérico</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Nome inválido</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Nome inválido atualizado</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Sobrenome inválido</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Sobrenome inválido atualizado</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Receita anual</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Setor</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Nome do cargo</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Número de funcionários</td>
   </tr>
-  <tr> 
-   <td>Campanha inteligente</td> 
+  <tr>
+   <td>Campanha inteligente</td>
    <td> </td>
    <td>Origem</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Domínio de email genérico</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Nome inválido</td>
   </tr>
-  <tr> 
-   <td>Pasta</td> 
+  <tr>
+   <td>Pasta</td>
    <td> </td>
    <td>Sobrenome inválido</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-scoring-demographic-1.png)
 
 ## Meus tokens incluídos {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo de token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo de token</th>
    <th>Nome do token</th>
    <th>Valor</th>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Annual Revenue - High}}</code></td>
    <td>+15</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Annual Revenue - Low}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Annual Revenue - Mid}}</code></td>
    <td>+10</td>
   </tr>
-   <tr> 
-   <td>Pontuação</td> 
+   <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Generic Email Domain}}</code></td>
    <td>-2</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Industry - High}}</code></td>
    <td>+10</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Industry - Low}}</code></td>
    <td>+6</td>
   </tr>
-   <tr> 
-   <td>Pontuação</td> 
+   <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Industry - Mid}}</code></td>
    <td>+8</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Invalid First Name}}</code></td>
    <td>-5</td>
   </tr>
-   <tr> 
-   <td>Pontuação</td> 
+   <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Invalid First Name Updated}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Invalid Last Name}}</code></td>
    <td>-5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Invalid Last Name Updated}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Job Title - High}}</code></td>
    <td>+15</td>
   </tr>
-   <tr> 
-   <td>Pontuação</td> 
+   <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Job Title - Low}}</code></td>
    <td>+5</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Job Title - Mid}}</code></td>
    <td>+10</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Lead Source - High}}</code></td>
    <td>+20</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Lead Source - Low}}</code></td>
    <td>+8</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Lead Source - Mid}}</code></td>
    <td>+10</td>
   </tr>
-  <tr> 
-   <td>Pontuação</td> 
+  <tr>
+   <td>Pontuação</td>
    <td><code>{{my.Number of Employees}}</code></td>
    <td>+5</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Regras de conflito {#conflict-rules}

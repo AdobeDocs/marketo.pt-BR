@@ -4,7 +4,7 @@ description: Personalizar sincronização de atividades - Documentação do Mark
 title: Personalizar sincronização de atividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,67 +35,67 @@ Se você não usar o Marketo Sales Insight, a Marketo Engage poderá criar Regis
    >
    >Depois de habilitado, o Marketo enviará o histórico de atividades correspondente a três meses. Dependendo da quantidade de dados, _a conclusão pode demorar vários dias_. As atualizações que ocorrem durante o push inicial de Atividades podem ser atrasadas até que a sincronização inicial de Atividades seja concluída.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <thead> 
-  <tr> 
-   <th>Tipo de atividade</th> 
-   <th>Descrição</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Formulário preenchido]</td> 
-   <td>Preencheu qualquer formulário do Marketo</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Adicionado à lista]</td> 
-   <td><p>Etapa de fluxo: foi adicionado a uma lista estática</p></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email enviado]</td> 
-   <td>Etapa de fluxo: email enviado</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email entregue]</td> 
-   <td>Recebeu um email (não rejeitado)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email aberto]</td> 
-   <td>Abertura de um email (sem bloqueio de imagens)</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Link clicado no email]</td> 
-   <td>Clicou em um link em um email enviado pelo Marketo</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Removido da lista]</td> 
-   <td>Etapa de fluxo: foi removido de uma lista estática</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Remover do fluxo]</td> 
-   <td>Etapa de fluxo: Remover do fluxo</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email de vendas enviado]</td> 
-   <td>Recebeu um email por meio do Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email de vendas aberto]</td> 
-   <td>Aberto um email enviado pelo Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Clicar no link no email de vendas]</td> 
-   <td>Clicou em um link em um email enviado pelo Marketo Sales Insight</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email de vendas recebido]</td> 
-   <td>Um email foi recebido e registrado pelo representante de vendas no plug-in MSI Outlook</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <thead>
+  <tr>
+   <th>Tipo de atividade</th>
+   <th>Descrição</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Formulário preenchido]</td>
+   <td>Preencheu qualquer formulário do Marketo</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Adicionado à lista]</td>
+   <td><p>Etapa de fluxo: foi adicionado a uma lista estática</p></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email enviado]</td>
+   <td>Etapa de fluxo: email enviado</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email entregue]</td>
+   <td>Recebeu um email (não rejeitado)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email aberto]</td>
+   <td>Abertura de um email (sem bloqueio de imagens)</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Link clicado no email]</td>
+   <td>Clicou em um link em um email enviado pelo Marketo</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Removido da lista]</td>
+   <td>Etapa de fluxo: foi removido de uma lista estática</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Remover do fluxo]</td>
+   <td>Etapa de fluxo: Remover do fluxo</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email de vendas enviado]</td>
+   <td>Recebeu um email por meio do Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email de vendas aberto]</td>
+   <td>Aberto um email enviado pelo Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Clicar no link no email de vendas]</td>
+   <td>Clicou em um link em um email enviado pelo Marketo Sales Insight</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email de vendas recebido]</td>
+   <td>Um email foi recebido e registrado pelo representante de vendas no plug-in MSI Outlook</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

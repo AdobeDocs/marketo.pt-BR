@@ -3,7 +3,7 @@ description: Perguntas frequentes sobre o Dynamic Chat - Documentação do Marke
 title: Perguntas frequentes sobre o Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 0%
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Consulte abaixo as respostas a algumas perguntas frequentes sobre o Dynamic Chat.
 
-**Parece que não tenho acesso ao Dynamic Chat. Como posso obtê-lo?**
+**Não tenho acesso ao Dynamic Chat. Como posso obtê-lo?**
 
-Entre em contato com o administrador de Marketo Engage e verifique se ele [adicionou você como usuário](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} na Adobe Admin Console.
+Entre em contato com o administrador do Marketo Engage e verifique se ele [adicionou você como usuário](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} na Adobe Admin Console.
 
 **É possível instalar o Dynamic Chat em qualquer lugar no site da empresa ou ele funciona somente nas Páginas de Aterrissagem do Marketo?**
 
@@ -24,7 +24,7 @@ O trecho Dynamic Chat JavaScript pode ser instalado em qualquer site, bem como n
 
 **Por quanto tempo os dados são armazenados para relatórios?**
 
-90 dias. Para obter uma lista completa de limites/parâmetros, visite a Marketo Engage [página Descrição do produto](https://helpx.adobe.com/br/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 dias. Para obter uma lista completa de limites/parâmetros, visite a [página Descrição do produto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} da Marketo Engage.
 
 **O Dynamic Chat suporta outros idiomas além do inglês?**
 
@@ -48,11 +48,11 @@ Quando você atingir o limite mensal de conversas engajadas, todas as Caixas de 
 
 **Como saberei quando estiver perto do limite de conversas engajadas?**
 
-Quando você atingir 90% do limite de conversas engajadas, os administradores de Dynamic Chat receberão uma notificação por email e todos os usuários verão uma notificação de banner no Dynamic Chat.
+Quando você atingir 90% do limite de conversas engajadas, os administradores do Dynamic Chat receberão uma notificação por email e todos os usuários verão uma notificação de banner no Dynamic Chat.
 
 **Se um visitante interagir com uma Caixa de Diálogo e depois se conectar com um agente ativo, isso conta como um ou dois?**
 
-Para clientes do pacote Select, isso contará como dois engajamentos separados, um para o engajamento da Caixa de diálogo e outro para o engajamento do chat ao vivo. Para clientes no pacote Prime, os compromissos de chat ao vivo não são contados separadamente, portanto, isso só contaria como um compromisso.
+Para clientes do pacote Select, isso contará como dois engajamentos separados, um para o engajamento da Caixa de diálogo e outro para o engajamento do chat ao vivo. Para clientes no pacote do Prime, os engajamentos no chat ao vivo não são contados separadamente, portanto, isso só contaria como um engajamento.
 
 **Com que frequência o limite de conversação engajada é redefinido?**
 
@@ -62,13 +62,13 @@ O limite de conversação engajada é redefinido no primeiro dia de cada mês.
 
 As caixas de diálogo foram projetadas para serem exibidas a um visitante apenas uma vez. Portanto, assim que um visitante atinge o final de qualquer ramificação em uma Caixa de diálogo, essa Caixa de diálogo é considerada concluída e nunca será exibida para esse visitante novamente.
 
-**Quando eu clicar no bloco Dynamic Chat em Meu Marketo e fazer logon no Adobe Experience Cloud, por que recebo a seguinte mensagem? &quot;_Parece que a sua Adobe ID não está vinculada às suas contas da solução da Adobe Experience Cloud_.&quot;**
+**Quando clico no bloco Dynamic Chat em Minha Marketo e faço logon no Adobe Experience Cloud, por que recebo a seguinte mensagem? &quot;_Parece que a sua Adobe ID não está vinculada às suas contas da solução da Adobe Experience Cloud_.&quot;**
 
-Isso provavelmente indica que você não foi adicionado como um usuário Dynamic Chat na Adobe Admin Console. Entre em contato com um administrador de sistema da sua organização Adobe ou com um administrador de produto para que o Dynamic Chat solicite acesso ao Dynamic Chat.
+Isso provavelmente indica que você não foi adicionado como usuário do Dynamic Chat na Adobe Admin Console. Entre em contato com um administrador do sistema da organização da Adobe ou com um administrador de produto do Dynamic Chat para solicitar acesso ao Dynamic Chat.
 
 **Como faço para acessar a transcrição de uma conversa em andamento?**
 
-As transcrições de Dynamic Chat podem ser acessadas para qualquer lead conhecido que tenha se envolvido com uma caixa de diálogo de Dynamic Chat por meio da atividade &quot;Engajado com a caixa de diálogo&quot; no Marketo Engage e cujo Status da conversa seja &quot;Concluído&quot; ou &quot;Descartado&quot;.
+As transcrições do Dynamic Chat podem ser acessadas para qualquer cliente potencial conhecido que tenha se envolvido com uma caixa de diálogo do Dynamic Chat por meio da atividade &quot;Engajado com a caixa de diálogo&quot; no Marketo Engage e cujo Status da conversa seja &quot;Concluído&quot; ou &quot;Ignorado&quot;.
 
 **Depois que um visitante se envolve em uma Caixa de Diálogo, ele pode reiniciar a conversa ou voltar para uma pergunta anterior?**
 
@@ -78,15 +78,15 @@ No momento, não há nenhuma maneira sistemática de reiniciar uma conversa ou v
 
 O Dynamic Chat integra-se ao Salesforce por meio da integração do Marketo Engage Salesforce.
 
-**Meu calendário está conectado ao Dynamic Chat e estou incluído nas regras de roteamento, então por que não estou recebendo nenhuma reunião?**
+**Meu calendário está conectado no Dynamic Chat e estou incluído nas regras de roteamento, então por que não estou recebendo nenhuma reunião?**
 
-Isso provavelmente indica que a conexão do calendário precisa ser autenticada novamente. Isso ocorre com mais frequência quando você altera a senha do provedor do calendário e o Dynamic Chat perde a conexão. Você pode simplesmente ir para a página Configurações do agente no Dynamic Chat e clicar em &quot;Reautenticar calendário&quot;.
+Isso provavelmente indica que a conexão do calendário precisa ser autenticada novamente. Isso ocorre com mais frequência quando você altera a senha do provedor do calendário e o Dynamic Chat perde a conexão. Basta ir até a página Configurações do agente no Dynamic Chat e clicar em &quot;Reautenticar calendário&quot;.
 
 **Qual é a diferença entre uma Caixa de Diálogo e um Fluxo de Conversação?**
 
 Uma caixa de diálogo é uma conversa exibida automaticamente para visitantes da Web que atendem a um conjunto definido de critérios de direcionamento. Um Fluxo de conversa é exibido somente para visitantes que executam uma ação específica na Web, como pressionar um botão.
 
-**Há uma maneira de usar o Dynamic Chat para reservar reuniões diretamente de um email?**
+**Há uma maneira de usar o Dynamic Chat para agendar reuniões diretamente de um email?**
 
 Sim! [Saiba como](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
@@ -98,6 +98,6 @@ Há vários termos usados no Dynamic Chat. As definições para muitos deles pod
 * Definições de Acionador/Filtro da Lista Inteligente [podem ser encontradas aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
 * Descrições dos vários cartões do Stream Designer [podem ser encontradas aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
-**Posso usar Dynamic Chat sem Marketo Engage?**
+**Posso usar o Dynamic Chat sem o Marketo Engage?**
 
 Não. Embora o Dynamic Chat seja um aplicativo separado do Marketo Engage, os dois estão inextricavelmente vinculados.

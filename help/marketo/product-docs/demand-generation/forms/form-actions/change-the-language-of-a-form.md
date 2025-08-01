@@ -4,7 +4,7 @@ description: Alterar o idioma de um formulário - Documentação do Marketo - Do
 title: Alterar o idioma de um formulário
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 1%
@@ -58,4 +58,3 @@ Saiba como alterar o idioma do formulário.
 O formulário refletirá o idioma selecionado.
 
 ![](assets/change-the-language-of-a-form-8.png)
-

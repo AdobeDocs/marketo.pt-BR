@@ -3,7 +3,7 @@ description: Modelo da página de aterrissagem de início rápido - Documentaç�
 title: Modelo de página de aterrissagem de início rápido
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Modelo de página de aterrissagem de início rápido {#quick-start-landing-page-template}
 
-Alguns dos programas iniciais na Biblioteca de referência de Marketo Engage contêm um modelo de página de aterrissagem simples, fácil de usar e personalizável que permite a criação rápida de páginas de aterrissagem em vários casos de uso de marketing.
+Alguns dos programas iniciais na Biblioteca de referência da Marketo Engage contêm um modelo de página de aterrissagem simples, fácil de usar e personalizável que permite a criação rápida de páginas de aterrissagem em vários casos de uso de marketing.
 
 >[!TIP]
 >
 >Saiba mais sobre [Modelos de página de aterrissagem guiados](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta do Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo de seções {#sections-summary}
 

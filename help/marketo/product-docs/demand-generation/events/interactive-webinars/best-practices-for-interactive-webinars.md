@@ -3,7 +3,7 @@ description: Práticas recomendadas para webinários interativos - Documentaçã
 title: Práticas recomendadas para webinários interativos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * **Pod de perguntas e respostas**: o nome do participante que enviou a pergunta e o nome do host/apresentador que respondeu podem estar ocultos. Isso pode ser feito desmarcando as opções de Privacidade na seção &quot;Pod de perguntas e respostas&quot; nas Preferências da sala.
 
-* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
+* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
 
 * **Chat Privado**: desative o chat privado para impedir que os participantes possam enviar ping para outro participante. Isso pode ser feito ao desmarcar a opção &quot;Permitir que os participantes conversem de forma privada&quot; na seção &quot;Bate-papo&quot; nas Preferências da sala.
 
@@ -103,7 +103,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * Os participantes podem entrar no quarto 15 minutos antes do início programado. Mude para o layout da sala de espera 15 minutos antes do início agendado para os participantes que chegarem cedo.
 
-* Use a Área de Host e Apresentador como uma área de backstage para coordenar de forma privada. [Clique aqui](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} para assistir a um pequeno vídeo na área Host e Apresentador.
+* Use a Área de Host e Apresentador como uma área de backstage para coordenar de forma privada. [Clique aqui](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} para assistir a um vídeo curto sobre a área Host e Apresentador.
 
 * Use o Modo de preparação para fazer alterações de última hora de forma privada. [Clique aqui](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} para assistir a um pequeno vídeo sobre o Modo de Preparação.
 

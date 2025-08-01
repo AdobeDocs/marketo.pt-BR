@@ -4,7 +4,7 @@ description: Criar um modelo de página de aterrissagem de forma livre - Documen
 title: Criar um modelo de página de aterrissagem de forma livre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Páginas de aterrissagem de forma livre exigem menos conhecimento técnico do qu
 
    >[!NOTE]
    >
-   >Selecione **[!UICONTROL Desabilitar rastreamento do Munchkin]** se quiser impedir que os formulários sejam preenchidos previamente ou se apenas não quiser rastrear o comportamento da Web em uma página específica.\
+   >Selecione **[!UICONTROL Desabilitar rastreamento do Munchkin]** se quiser impedir que os formulários sejam preenchidos previamente ou se apenas não quiser rastrear o comportamento da Web em uma página específica.
    >Selecione **[!UICONTROL Validar Compatibilidade Móvel]** para verificar se o código é compatível com dispositivos móveis.
 
    >[!MORELIKETHIS]

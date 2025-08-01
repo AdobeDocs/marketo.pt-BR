@@ -4,7 +4,7 @@ description: Noções básicas sobre modelos de receita - Documentação do Mark
 title: Noções básicas sobre modelos de receita
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -57,15 +57,15 @@ Cada empresa é diferente. É possível adicionar itens ao modelo arrastando da 
 
 Isso se parece com uma caixa e é o mais básico dos estágios. O Analytics rastreará a entrada, a saída e o equilíbrio desse estágio.
 
-## Estágio do SLA {#sla-stage}
+## SLA Stage {#sla-stage}
 
-É a forma abreviada para o estágio **Contrato de Nível de Serviço**. A intenção aqui é que alguns estágios exijam a imposição de um limite de tempo.
+Esta é a abreviação do estágio **Service level agreement**. A intenção aqui é que alguns estágios exijam a imposição de um limite de tempo.
 
 >[!NOTE]
 >
 >**Exemplo**
 >
->Quando um cliente potencial preenche um formulário &quot;Fale comigo&quot; e você envia um alerta para um representante de vendas, é possível que você queira um SLA de 72 horas. Você poderá acompanhar as infrações e repreender o representante por deixar um bom lead incomunicável.
+>Quando um cliente potencial preenche um formulário &quot;Entre em contato comigo&quot; e você envia um alerta para um representante de vendas, pode ser necessário ter um SLA de 72 horas. Você poderá acompanhar as infrações e repreender o representante por deixar um bom lead incomunicável.
 
 ## Estágio de Portão {#gate-stage}
 
@@ -101,7 +101,7 @@ Lost é um bom item a ser adicionado, mas observe que não está no caminho verd
 >
 >* [Usando Estágios de Portão de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Usando Estágios de SLA de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Usando Estágios do SLA de Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
 >* [Relatório sobre seu modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >

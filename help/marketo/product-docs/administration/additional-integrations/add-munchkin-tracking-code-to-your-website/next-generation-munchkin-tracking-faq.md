@@ -6,7 +6,7 @@ exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Se você já estiver usando esse filtro em uma Smart List (por exemplo, em uma C
 
 >[!NOTE]
 >
->**Acionador**: Página Visitas da Web, Página da Web com Preços\
->**Fluxo**: Alterar Pontuação +10 e Momento Interessante
->&#x200B;>**Web**: Página de Preços Visualizada
+>**Acionador**: Página Visitas da Web, Página da Web com Preços
+>>**Fluxo**: alterar pontuação +10 e momento interessante
+>>**Web**: Página de Preços Visualizada
 >
 >Com a versão [!DNL Munchkin] V2, se uma pessoa anônima visitar a página de preços, ela não entrará na campanha imediatamente. Quando o anônimo se tornar conhecido, faremos essa campanha com ela. Ela vai:
 >

@@ -3,7 +3,7 @@ description: Ações rápidas no Centro de comando - Documentação do Marketo -
 title: Ações rápidas no Centro de comando
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 3%
@@ -27,59 +27,59 @@ As ações rápidas de email são dinâmicas e atualizadas dependendo das açõe
 
 **[!UICONTROL Arquivado]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Desarquivar]</td> 
-   <td>Moverá o email de volta para a pasta entregue e reativará o rastreamento de visualização/cliques.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Excluir]</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Desarquivar]</td>
+   <td>Moverá o email de volta para a pasta entregue e reativará o rastreamento de visualização/cliques.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Excluir]</td>
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Rascunho] e [!UICONTROL Agendado]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Editar]</td> 
-   <td>Abrirá o email na janela de composição para ser editado.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Excluir]</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Editar]</td>
+   <td>Abrirá o email na janela de composição para ser editado.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Excluir]</td>
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Falha], [!UICONTROL Devolvido] e [!UICONTROL Spam]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Tentar Enviar Novamente]</td> 
-   <td>Tentará enviar o email novamente imediatamente.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Excluir]</td> 
-   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Tentar Enviar Novamente]</td>
+   <td>Tentará enviar o email novamente imediatamente.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Excluir]</td>
+   <td><p>Excluirá o email.<br><strong>Observação:</strong> emails enviados como parte de uma campanha não podem ser excluídos.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Ações de acompanhamento]**

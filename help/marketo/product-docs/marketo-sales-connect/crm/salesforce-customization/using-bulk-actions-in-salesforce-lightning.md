@@ -4,7 +4,7 @@ description: Uso de ações em massa no Salesforce Lightning - Documentação do
 title: Utilização de ações em massa no Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -39,10 +39,10 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 
 1. Um email do MSC será exibido. Ele inclui os seguintes recursos:
 
-   a. O campo &quot;[!UICONTROL Para]&quot; mostra &quot;Todos os recibos&quot; - isso corresponde à lista de clientes potenciais escolhida na Exibição da Lista de Clientes Potenciais\
-   b. Esta lista está visível no painel esquerdo chamado &quot;Composição em massa&quot; - você pode adicionar/remover destinatários aqui\
-   c. Você pode escolher um modelo ou criar seu próprio email\
-   d. Você pode enviar o email imediatamente ou agendar o envio posteriormente
+   a. O campo &quot;[!UICONTROL Para]&quot; mostra &quot;Todos os recibos&quot; - isso corresponde à lista de clientes potenciais escolhida na Exibição da Lista de Clientes Potenciais
+b. Esta lista está visível no painel esquerdo chamado &quot;Composição em massa&quot; - você pode adicionar/remover destinatários aqui
+c. Você pode escolher um modelo ou criar seu próprio email
+d. Você pode enviar o email imediatamente ou agendar o envio posteriormente
 
    ![](assets/three-5.png)
 

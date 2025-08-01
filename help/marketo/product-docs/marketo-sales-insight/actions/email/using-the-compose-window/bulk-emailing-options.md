@@ -3,7 +3,7 @@ description: Opções De Email Em Massa - Documentação Do Marketo - Documenta�
 title: Opções de email em massa
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 3%
@@ -16,41 +16,41 @@ O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cl
 
 **Agrupar email vs. Selecionar e enviar**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Tipo de envio</th> 
-   <th>Número máximo de emails</th> 
-   <th>Envio iniciado por</th> 
-   <th>Editar emails em massa</th> 
-   <th>Editar cada email exclusivamente</th> 
-   <th>Suporte a modelos e campos dinâmicos</th> 
-  </tr> 
-  <tr> 
-   <td>E-mail grupal</td> 
-   <td>1,000</td> 
-   <td>Selecione um grupo e clique no botão "[!UICONTROL Ações de Grupo]", ou digite o nome do grupo no campo Para.</td> 
-   <td>Sim</td> 
-   <td>Não</td> 
-   <td>Sim</td> 
-  </tr> 
-  <tr> 
-   <td>Selecionar e enviar</td> 
-   <td>200</td> 
-   <td>Selecione pessoas na grade e clique no botão "[!UICONTROL Email Selecionado]" na barra de ações, ou digite os destinatários na barra lateral de emails em massa.</td> 
-   <td>Sim</td> 
-   <td>Sim</td> 
-   <td>Sim</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Tipo de envio</th>
+   <th>Número máximo de emails</th>
+   <th>Envio iniciado por</th>
+   <th>Editar emails em massa</th>
+   <th>Editar cada email exclusivamente</th>
+   <th>Suporte a modelos e campos dinâmicos</th>
+  </tr>
+  <tr>
+   <td>E-mail grupal</td>
+   <td>1,000</td>
+   <td>Selecione um grupo e clique no botão "[!UICONTROL Ações de Grupo]", ou digite o nome do grupo no campo Para.</td>
+   <td>Sim</td>
+   <td>Não</td>
+   <td>Sim</td>
+  </tr>
+  <tr>
+   <td>Selecionar e enviar</td>
+   <td>200</td>
+   <td>Selecione pessoas na grade e clique no botão "[!UICONTROL Email Selecionado]" na barra de ações, ou digite os destinatários na barra lateral de emails em massa.</td>
+   <td>Sim</td>
+   <td>Sim</td>
+   <td>Sim</td>
+  </tr>
+ </tbody>
 </table>
 
 **Usando Email de Grupo**

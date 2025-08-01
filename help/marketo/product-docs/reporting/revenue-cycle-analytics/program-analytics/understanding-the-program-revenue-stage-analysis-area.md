@@ -4,7 +4,7 @@ description: Noções básicas da área de análise do estágio de receita do pr
 title: Como entender a área de análise do estágio de receita do programa
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 5%
@@ -29,9 +29,9 @@ Quantos dias leva para chegar ao estágio atual?
 
 ![](assets/three-3.png)
 
-**Dimension e Medidas de Análise do Estágio de Receita do Programa**
+**Dimensões e Medidas da Análise do Estágio da Receita do Programa**
 
-Dimension e medidas são categorizadas por funcionalidade e são representadas por pontos amarelos ou azuis no sistema: amarelo para dimensões e azul para medidas. Use dimensões e medidas da análise do estágio de receita do programa para responder a perguntas específicas em seu relatório.
+Dimensões e medidas são categorizadas por funcionalidade e são representadas por pontos amarelos ou azuis no sistema: amarelo para dimensões e azul para medidas. Use dimensões e medidas da análise do estágio de receita do programa para responder a perguntas específicas em seu relatório.
 
 Para exibir as dimensões ou medidas disponíveis em uma categoria, clique na seta para a direita ao lado do nome de uma categoria para expandir a lista de categorias. Clique na seta para baixo para recolher a lista de categorias.
 
@@ -41,114 +41,114 @@ Para exibir as dimensões ou medidas disponíveis em uma categoria, clique na se
 
 **Atributos do Modelo**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Dimensão</strong></td> 
-   <td colspan="1" rowspan="1"><p><strong>Descrição</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>O modelo está ativo</p></td> 
-   <td colspan="1" rowspan="1"><p>Descreve se o modelo está atualmente aprovado e ativo</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Estágio ativo</p></td> 
-   <td colspan="1" rowspan="1"><p>Descreve se o estágio está ativo</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>No Caminho Bem-Sucedido</p></td> 
-   <td colspan="1" rowspan="1"><p>Descreve se o estágio está ou não no caminho de sucesso</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Modelo</p></td> 
-   <td colspan="1" rowspan="1"><p>Nome do modelo</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Estágio</p></td> 
-   <td colspan="1" rowspan="1"><p>Os estágios existentes no seu modelo de ciclo de receita. Usado como o estágio De ao analisar medidas entre dois estágios</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Tipo de estágio</p></td> 
-   <td colspan="1" rowspan="1"><p>Descreve que tipo; inventário, SLA ou porta cada estágio é</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Dimensão</strong></td>
+   <td colspan="1" rowspan="1"><p><strong>Descrição</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>O modelo está ativo</p></td>
+   <td colspan="1" rowspan="1"><p>Descreve se o modelo está atualmente aprovado e ativo</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Estágio ativo</p></td>
+   <td colspan="1" rowspan="1"><p>Descreve se o estágio está ativo</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>No Caminho Bem-Sucedido</p></td>
+   <td colspan="1" rowspan="1"><p>Descreve se o estágio está ou não no caminho de sucesso</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Modelo</p></td>
+   <td colspan="1" rowspan="1"><p>Nome do modelo</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Estágio</p></td>
+   <td colspan="1" rowspan="1"><p>Os estágios existentes no seu modelo de ciclo de receita. Usado como o estágio De ao analisar medidas entre dois estágios</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Tipo de estágio</p></td>
+   <td colspan="1" rowspan="1"><p>Descreve que tipo; Inventário, SLA ou Portão cada estágio é</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Atributos do programa**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Dimensão</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Descrição</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Canal do programa</p></td> 
-   <td colspan="1" rowspan="1"><p>Canal do programa</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Nome do programa</p></td> 
-   <td colspan="1" rowspan="1"><p>Nome do programa</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Dimensão</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Descrição</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Canal do programa</p></td>
+   <td colspan="1" rowspan="1"><p>Canal do programa</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Nome do programa</p></td>
+   <td colspan="1" rowspan="1"><p>Nome do programa</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Período de Custo do Programa**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Dimensão</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Descrição</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Ano de Custo</p></td> 
-   <td colspan="1" rowspan="1"><p>Período de custo do programa</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Trimestre de Custo</p></td> 
-   <td colspan="1" rowspan="1"><p>Período de custo do programa</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Mês de Custo</p></td> 
-   <td colspan="1" rowspan="1"><p>Período de custo do programa</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Dimensão</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Descrição</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Ano de Custo</p></td>
+   <td colspan="1" rowspan="1"><p>Período de custo do programa</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Trimestre de Custo</p></td>
+   <td colspan="1" rowspan="1"><p>Período de custo do programa</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Mês de Custo</p></td>
+   <td colspan="1" rowspan="1"><p>Período de custo do programa</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Associação de Estágio**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Medir</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Descrição</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>O modelo está ativo</p></td> 
-   <td colspan="1" rowspan="1"><p>Descreve se o modelo está atualmente aprovado e ativo</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Estágio ativo</p></td> 
-   <td colspan="1" rowspan="1"><p>Descreve se o estágio está ativo</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>No Caminho Bem-Sucedido</p></td> 
-   <td colspan="1" rowspan="1"><p>Descreve se o estágio está ou não no caminho de sucesso</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Custo por novo nome</p></td> 
-   <td colspan="1" rowspan="1"><p>O custo médio de um novo nome que chegou ao estágio</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Novos nomes (Atual)</p></td> 
-   <td colspan="1" rowspan="1"><p>Número total de clientes potenciais que estão atualmente em estágio e foram adquiridos pelo programa</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>Novos nomes (Nunca)</p></td> 
-   <td colspan="1" rowspan="1"><p>Descreve que tipo; inventário, SLA ou porta cada estágio é</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Medir</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Descrição</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>O modelo está ativo</p></td>
+   <td colspan="1" rowspan="1"><p>Descreve se o modelo está atualmente aprovado e ativo</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Estágio ativo</p></td>
+   <td colspan="1" rowspan="1"><p>Descreve se o estágio está ativo</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>No Caminho Bem-Sucedido</p></td>
+   <td colspan="1" rowspan="1"><p>Descreve se o estágio está ou não no caminho de sucesso</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Custo por novo nome</p></td>
+   <td colspan="1" rowspan="1"><p>O custo médio de um novo nome que chegou ao estágio</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Novos nomes (Atual)</p></td>
+   <td colspan="1" rowspan="1"><p>Número total de clientes potenciais que estão atualmente em estágio e foram adquiridos pelo programa</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>Novos nomes (Nunca)</p></td>
+   <td colspan="1" rowspan="1"><p>Descreve que tipo; Inventário, SLA ou Portão cada estágio é</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

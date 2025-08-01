@@ -4,7 +4,7 @@ description: Noções básicas da análise de oportunidade no Explorador de rece
 title: Noções básicas da análise de oportunidade no Gerenciador de receita
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 10%
@@ -55,7 +55,7 @@ Estes são alguns relatórios que você pode criar na área Análise de oportuni
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimension e Medidas de Análise de Oportunidades {#opportunity-analysis-dimensions-and-measures}
+## Dimensões e Medidas da Análise de Oportunidade {#opportunity-analysis-dimensions-and-measures}
 
 A Análise de Oportunidades oferece acesso a todas as dimensões relacionadas a clientes potenciais, empresas e oportunidades e medidas relacionadas a oportunidades. Use essas dimensões e medidas da análise de oportunidade para responder a perguntas específicas em seu relatório.
 
@@ -81,7 +81,7 @@ A Análise de Oportunidades oferece acesso a todas as dimensões relacionadas a 
    | Convertido em oportunidade | O cliente em potencial é convertido em uma oportunidade |
    | E-mail inválido | Se o cliente potencial tem um endereço de email válido |
    | Campanha de marketing suspensa | O cliente potencial está suspenso de emails de marketing |
-   | Endereço de e-mail | Endereço de email do lead |
+   | Endereço de email | Endereço de email do lead |
    | Nome do cargo | Cargo do lead |
    | Nome completo | Nome completo do lead |
    | Tipo de fonte original | Tipo de origem original do lead |

@@ -2,7 +2,7 @@
 description: Conectar-se ao Outlook - Documentação do Marketo - Documentação do produto
 title: Conectar ao Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 2%
@@ -45,15 +45,15 @@ Conectar-se ao Outlook significa que você receberá rastreamento de resposta, a
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Também conhecido como Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Também conhecido como Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange no local</strong></td> 
-      <td>Inclui o Exchange 2013 e 2016</td> 
+      <td><strong>Exchange no local</strong></td>
+      <td>Inclui o Exchange 2013 e 2016</td>
      </tr>
     </tbody>
    </table>
@@ -108,15 +108,15 @@ Conectar-se ao Exchange no local significa que você receberá rastreamento de r
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Também conhecido como Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Também conhecido como Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange no local</strong></td> 
-      <td>Inclui o Exchange 2013 e 2016</td> 
+      <td><strong>Exchange no local</strong></td>
+      <td>Inclui o Exchange 2013 e 2016</td>
      </tr>
     </tbody>
    </table>
@@ -146,7 +146,7 @@ Talvez seja necessário trabalhar com sua equipe de TI para obter permissão par
 Dependendo das preferências da equipe de TI e da configuração atual, é melhor consultar essa equipe sobre como conceder acesso. Abaixo estão alguns artigos que podem ajudar a orientar a conversa.
 
 * Consentimento Global: [Aplicativos integrados e Azure AD para administradores do Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* Consentimento do Usuário: [Configurar como os usuários consentem aos aplicativos](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* Consentimento do administrador: [Configurar o fluxo de trabalho de consentimento do administrador](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Ativando ou desativando o consentimento do usuário: [Gerenciando o consentimento do usuário para aplicativos no Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Consentimento do Usuário: [Configurar como os usuários consentem aos aplicativos](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* Consentimento do administrador: [Configurar o fluxo de trabalho de consentimento do administrador](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Ativando ou desativando o consentimento do usuário: [Gerenciando o consentimento do usuário para aplicativos no Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * Gerenciando com o Microsoft Defender: [Gerenciar aplicativos OAuth](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

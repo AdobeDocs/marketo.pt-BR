@@ -4,7 +4,7 @@ description: Configurar uma assinatura personalizada do DKIM - Documentação do
 title: Configurar uma assinatura personalizada do DKIM
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 1%
@@ -41,12 +41,12 @@ Para garantir uma capacidade de entrega de alto nível, assinamos automaticament
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>Seletor</b></td>
    <td>Uma string/identificador exclusivo usado para localizar a parte da chave pública do registro do DKIM. Pode ser uma string arbitrária ou um identificador exclusivo para separar e identificar a finalidade dessa chave/registro do DKIM.</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>Tamanho da chave</b></td>
    <td>O nível de segurança com o qual você deseja que sua assinatura DKIM seja criptografada.</td>
    </tr>

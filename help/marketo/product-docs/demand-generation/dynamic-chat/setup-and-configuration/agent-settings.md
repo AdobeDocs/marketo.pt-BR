@@ -3,7 +3,7 @@ description: Configurações do agente - Documentação do Marketo - Documentaç
 title: Configurações do agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -63,17 +63,17 @@ Defina o fuso horário e a disponibilidade de hora/dia da semana para receber re
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Duração da reunião</b></td>
    <td>Determina o período de tempo que os visitantes verão em seus slots de reunião disponíveis.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Tempo de buffer entre reuniões</b></td>
    <td>Tempo definido como buffer após a reunião. Se você a marcar por 30 minutos, ninguém poderá marcar uma reunião com você até 30 minutos após o fim agendado de uma reunião em seu calendário.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

@@ -4,7 +4,7 @@ description: Pontuação da conta - Documentação do Marketo - Documentação d
 title: Pontuação de contas
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 1%
@@ -23,19 +23,19 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 
 ## Exemplos comuns {#common-examples}
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td><strong>Pontuação de engajamento da conta</strong></td> 
+   <td><strong>Pontuação de engajamento da conta</strong></td>
    <td>Profundidade do engajamento com base em atividades comportamentais rastreadas em vários canais (por exemplo, email, Web e anúncio) de pessoas em contas de público-alvo específicas.</td>
   </tr>
   <tr>
    <td><strong>Pontuação de juros do produto da conta</strong></td>
-   <td>Pessoas de contas de destino que demonstram interesse no conteúdo de um produto específico (por exemplo, download de um white paper).</td> 
+   <td>Pessoas de contas de destino que demonstram interesse no conteúdo de um produto específico (por exemplo, download de um white paper).</td>
   </tr>
   <tr>
    <td><strong>Pontuação de engajamento na Web da conta</strong></td>
-   <td>Pessoas de contas de destino visitando o canal da Web. A mesma pontuação pode ser criada para medir o engajamento do canal por email, anúncio ou outros canais.</td> 
+   <td>Pessoas de contas de destino visitando o canal da Web. A mesma pontuação pode ser criada para medir o engajamento do canal por email, anúncio ou outros canais.</td>
   </tr>
  </tbody>
 </table>
@@ -46,10 +46,10 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 >
 >Para calcular pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketo TAM agrega automaticamente pontuações de clientes potenciais às pontuações de contas. Como exemplo, vamos usar dois dos exemplos acima (_Pontuação de interesse do produto da conta_ e _Pontuação de envolvimento da Web da conta_).
 >
->Primeiro, crie campos de pontuação de lead que capturem detalhes relevantes de cada lead de uma conta de destino.\
->Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:\
->Pontuação de Juros do Produto da Conta = SUM (Pontuação de Juros do Produto Cliente Potencial)\
->Pontuação de envolvimento da Web da conta = SUM (Pontuação de envolvimento da Web do lead)
+>Primeiro, crie campos de pontuação de lead que capturem detalhes relevantes de cada lead de uma conta de destino.
+>>Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:
+>>Pontuação de Juros do Produto da Conta = SUM (Pontuação de Juros do Produto Cliente Potencial)
+>>Pontuação de envolvimento da Web da conta = SUM (Pontuação de envolvimento da Web do lead)
 
 >[!NOTE]
 >

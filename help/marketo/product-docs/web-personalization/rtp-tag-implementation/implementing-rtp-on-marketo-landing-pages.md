@@ -4,7 +4,7 @@ description: Implementação do RTP em páginas iniciais do Marketo - Documenta�
 title: Implementação do RTP em páginas de aterrissagem do Marketo
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%

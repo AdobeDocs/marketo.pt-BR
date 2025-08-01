@@ -3,7 +3,7 @@ description: Visão geral da biblioteca de importação do programa - Documenta�
 title: Visão geral da biblioteca de importação do programa
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Visão geral da biblioteca de importação do programa {#program-import-library-overview}
 
-A Biblioteca de referência do Marketo Engage inclui vários programas iniciais que você pode importar diretamente para a instância do Marketo para iniciar rapidamente a criação de programas que ajudarão a dar suporte à sua equipe.
+A Biblioteca de referência da Marketo Engage inclui vários programas iniciais que você pode importar diretamente para a sua instância do Marketo para iniciar rapidamente a criação de programas que ajudarão a dar suporte à sua equipe.
 
-A biblioteca inclui programas como: email, engajamento, evento, pontuação, capacidade de entrega e operacional. Todos os programas foram desenvolvidos pela Equipe de Produtos do Adobe e avaliados pela nossa equipe [global de Serviços Profissionais](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, em um esforço para maximizar a qualidade e a eficácia.
+A biblioteca inclui programas como: email, engajamento, evento, pontuação, capacidade de entrega e operacional. Todos os programas foram desenvolvidos pela Equipe de produtos da Adobe e avaliados pela nossa equipe de [Serviços profissionais globais](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, em um esforço para maximizar a qualidade e a eficácia.
 
 ## Exemplos de programas disponíveis {#available-program-examples}
 

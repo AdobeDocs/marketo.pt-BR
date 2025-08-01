@@ -4,10 +4,10 @@ description: Visão geral do Sales Connect - Documentação do Marketo - Documen
 title: Visão geral do Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ O Marketo Sales Connect é uma solução multifacetada de suporte a vendas com v
 
 >[!AVAILABILITY]
 >
->Nem todos compraram este recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos compraram este recurso. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## O feed ao vivo {#the-live-feed}
 
@@ -37,45 +37,45 @@ Veja como seus clientes potenciais estão se envolvendo com seus esforços de ve
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Tipo de atividade</th> 
-   <th>Descrição</th> 
-  </tr> 
-  <tr> 
-   <td><p>Enviar e-mail de vendas</p></td> 
-   <td><p>O usuário enviou um email de vendas do Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Abrir e-mail de vendas</p></td> 
-   <td><p>O cliente potencial abriu um email de vendas enviado pelo Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Clicar em e-mail de vendas</p></td> 
-   <td><p>Cliente potencial clicou em um link em um email de vendas enviado pelo Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Receber e-mail de vendas</p></td> 
-   <td colspan="1"><p>O cliente potencial recebeu um email enviado pelo Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Receber chamada de vendas</p></td> 
-   <td colspan="1"><p>O cliente potencial recebeu uma chamada de um vendedor usando o <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Telefone de Vendas</a>.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Adicionar a campanha de vendas</p></td> 
-   <td colspan="1"><p>O lead foi adicionado a uma campanha de vendas criada no Sales Connect (na página Campanhas).</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Removido Da Campanha De Vendas</p></td> 
-   <td colspan="1"><p>O lead foi removido de uma campanha de vendas.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Momento interessante</p></td> 
-   <td colspan="1"><p>O lead teve um momento interessante gerado no Marketo.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Tipo de atividade</th>
+   <th>Descrição</th>
+  </tr>
+  <tr>
+   <td><p>Enviar e-mail de vendas</p></td>
+   <td><p>O usuário enviou um email de vendas do Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td><p>Abrir email de vendas</p></td>
+   <td><p>O cliente potencial abriu um email de vendas enviado pelo Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td><p>Clicar em email de vendas</p></td>
+   <td><p>Cliente potencial clicou em um link em um email de vendas enviado pelo Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Receber e-mail de vendas</p></td>
+   <td colspan="1"><p>O cliente potencial recebeu um email enviado pelo Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Receber chamada de vendas</p></td>
+   <td colspan="1"><p>O cliente potencial recebeu uma chamada de um vendedor usando o <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Telefone de Vendas</a>.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Adicionar a campanha de vendas</p></td>
+   <td colspan="1"><p>O lead foi adicionado a uma campanha de vendas criada no Sales Connect (na página Campanhas).</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Removido Da Campanha De Vendas</p></td>
+   <td colspan="1"><p>O lead foi removido de uma campanha de vendas.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Momento interessante</p></td>
+   <td colspan="1"><p>O lead teve um momento interessante gerado no Marketo.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Compartilhar campanhas de marketing {#share-marketing-campaigns}
@@ -84,7 +84,7 @@ Crie uma campanha inteligente simples para conceder aos seus usuários de vendas
 
 ![](assets/campaign-is-requested.jpg)
 
-Pronto para começar? Para obter instruções de configuração, clique no link abaixo.
+Está pronto para começar? Para obter instruções de configuração, clique no link abaixo.
 
 >[!MORELIKETHIS]
 >

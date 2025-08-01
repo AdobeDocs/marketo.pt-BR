@@ -4,7 +4,7 @@ description: Defina Como A Campanha Da Web Será Exibida - Documentação Do Mar
 title: Defina Como A Campanha Da Web Será Exibida
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 2%
@@ -43,21 +43,21 @@ Especifique um atraso (em total de segundos) para que as campanhas da Web reajam
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Pasta abaixo]</strong></td> 
-   <td>Exibe a campanha quando o visitante rola abaixo da dobra. A campanha desaparece quando o visitante rola de volta acima da dobra.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Porcentagem]</strong></td> 
-   <td>Exibe a campanha quando o visitante rola para a porcentagem predeterminada da página.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>Exibe a campanha quando o visitante rola para o pixel superior pré-designado na página.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Pasta abaixo]</strong></td>
+   <td>Exibe a campanha quando o visitante rola abaixo da dobra. A campanha desaparece quando o visitante rola de volta acima da dobra.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Porcentagem]</strong></td>
+   <td>Exibe a campanha quando o visitante rola para a porcentagem predeterminada da página.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>Exibe a campanha quando o visitante rola para o pixel superior pré-designado na página.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Intenção de sair {#exit-intent}

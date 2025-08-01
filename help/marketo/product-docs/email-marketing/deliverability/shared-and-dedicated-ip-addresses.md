@@ -4,7 +4,7 @@ description: Endereços IP compartilhados e dedicados - Documentação do Market
 title: Endereços IP Compartilhados e Dedicados
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 0%
@@ -33,28 +33,28 @@ Como de costume, há vantagens e desvantagens em ambas as opções.
 
 _Vantagens_
 
-**Reputação** - Você é totalmente proprietário da sua reputação e capacidade de entrega.\
-**Monitoramento** - O monitoramento dos relatórios de capacidade de entrega permite que você responda rapidamente às alterações em suas métricas de entrega.\
+**Reputação** - Você é totalmente proprietário da sua reputação e capacidade de entrega.
+**Monitoramento** - O monitoramento dos relatórios de capacidade de entrega permite que você responda rapidamente às alterações em suas métricas de entrega.
 **Resolução de problemas** - É mais fácil pesquisar, entender e resolver problemas de entrega.
 
 _Contras_
 
-**Alterações de volume** - Os picos de volume podem afetar negativamente sua reputação e precisam ser gerenciados.\
-**Processo de aquecimento de IP** - A reputação é criada ao longo do tempo. Alguns ISPs (provedores de serviço de internet) limitam endereços IP sem histórico de volume, portanto, você terá que criar uma reputação durante as primeiras semanas (o Marketo pode ajudar a orientá-lo).\
+**Alterações de volume** - Os picos de volume podem afetar negativamente sua reputação e precisam ser gerenciados.
+**Processo de aquecimento de IP** - A reputação é criada ao longo do tempo. Alguns ISPs (provedores de serviço de internet) limitam endereços IP sem histórico de volume, portanto, você terá que criar uma reputação durante as primeiras semanas (o Marketo pode ajudar a orientá-lo).
 **Custo** - Geralmente, há uma cobrança adicional para enviar a partir de um IP dedicado com qualquer provedor.
 
 **Vantagens e desvantagens de um IP compartilhado**
 
 _Vantagens_
 
-**Colegas de quarto bons** - Se as pessoas com quem você está compartilhando seu IP seguirem as práticas recomendadas de envio, você se beneficiará.\
-**Frequência de endereçamento** - Não há uma frequência de endereçamento mínima necessária para se qualificar para um IP compartilhado, ao contrário dos IPs dedicados.\
+**Colegas de quarto bons** - Se as pessoas com quem você está compartilhando seu IP seguirem as práticas recomendadas de envio, você se beneficiará.
+**Frequência de endereçamento** - Não há uma frequência de endereçamento mínima necessária para se qualificar para um IP compartilhado, ao contrário dos IPs dedicados.
 **Custo** - Nunca há um encargo adicional a ser enviado de um IP Compartilhado.
 
 _Contras_
 
-**Colegas de quarto inválidos** - Se as pessoas com quem você está compartilhando seu IP se envolverem em práticas de envio ruins, suas campanhas de email poderão ser afetadas negativamente.\
-**Controle** - Você tem muito menos controle sobre a reputação do remetente.\
+**Colegas de quarto inválidos** - Se as pessoas com quem você está compartilhando seu IP se envolverem em práticas de envio ruins, suas campanhas de email poderão ser afetadas negativamente.
+**Controle** - Você tem muito menos controle sobre a reputação do remetente.
 **Resolução de Problemas** - Geralmente, pode ser mais difícil resolver um problema ao enviar de IPs Compartilhados.
 
 >[!NOTE]

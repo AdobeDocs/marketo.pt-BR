@@ -3,7 +3,7 @@ description: Glossário de atividades de ações do Insight de vendas - Document
 title: Glossário de atividades de Vendas e Ações do Insight
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 4%
@@ -216,96 +216,96 @@ As atividades abaixo serão registradas no Marketo a partir de [!DNL Sales Insig
 
 ## Descrições {#descriptions}
 
-<table> 
+<table>
  <tr>
   <th>Atributo</th>
   <th>Descrição</th>
  </tr>
- <tbody> 
- <tr> 
-   <td><strong>[!UICONTROL Detalhes]</strong></td> 
-   <td>Detalhe da mensagem de erro rejeitada.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Email]</strong></td> 
-   <td>Endereço de email rejeitado.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Link]</strong></td> 
-   <td>URL que foi clicado.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL ID de Vendedor do Marketo]</strong></td> 
-   <td>Identificador exclusivo do registro da pessoa em [!DNL Sales Insight Actions].</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Recebido Por]</strong></td> 
-   <td>Endereço de email da pessoa que enviou o email.</td> 
+ <tbody>
+ <tr>
+   <td><strong>[!UICONTROL Detalhes]</strong></td>
+   <td>Detalhe da mensagem de erro rejeitada.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Chamada de Vendas Atendida por]</strong></td> 
-   <td>Nome da pessoa que atendeu à chamada.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Email]</strong></td>
+   <td>Endereço de email rejeitado.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Duração da Chamada de Vendas]</strong></td> 
-   <td>Duração da chamada em segundos.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Link]</strong></td>
+   <td>URL que foi clicado.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Chamada De Vendas Feita Por]</strong></td> 
-   <td>Endereço de email do vendedor que fez a chamada.</td> 
+  <tr>
+   <td><strong>[!UICONTROL ID de Vendedor do Marketo]</strong></td>
+   <td>Identificador exclusivo do registro da pessoa em [!DNL Sales Insight Actions].</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL URL de Gravação de Chamada de Vendas]</strong></td> 
-   <td>URL da gravação de chamada.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Recebido Por]</strong></td>
+   <td>Endereço de email da pessoa que enviou o email.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Status de Chamada de Vendas]</strong></td> 
-   <td>Salvará o status final da chamada do que inclui: concluído, sem resposta, cancelado, com falha.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Chamada de Vendas Atendida por]</strong></td>
+   <td>Nome da pessoa que atendeu à chamada.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Assunto da Chamada de Vendas]</strong></td> 
-   <td>Resultado da chamada selecionado por um usuário de vendas no discador.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Duração da Chamada de Vendas]</strong></td>
+   <td>Duração da chamada em segundos.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL ID da Campanha de Vendas]</strong></td> 
-   <td>Identificador exclusivo do ativo da Campanha de Vendas em [!DNL Sales Insight Actions].</td> 
+  <tr>
+   <td><strong>[!UICONTROL Chamada De Vendas Feita Por]</strong></td>
+   <td>Endereço de email do vendedor que fez a chamada.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Nome da Campanha de Vendas]</strong></td> 
-   <td>Nome da campanha de vendas.</td> 
+  <tr>
+   <td><strong>[!UICONTROL URL de Gravação de Chamada de Vendas]</strong></td>
+   <td>URL da gravação de chamada.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL URL da campanha de vendas]</strong></td> 
-   <td>[!DNL Sales Insight Actions] URL da campanha de vendas.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Status de Chamada de Vendas]</strong></td>
+   <td>Salvará o status final da chamada do que inclui: concluído, sem resposta, cancelado, com falha.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Assunto do Email de Vendas]</strong></td> 
-   <td>Linha de assunto do email seguida de uma ID exclusiva (por exemplo: Minha linha de assunto (SIA-12345678)</td> 
+  <tr>
+   <td><strong>[!UICONTROL Assunto da Chamada de Vendas]</strong></td>
+   <td>Resultado da chamada selecionado por um usuário de vendas no discador.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Número de Telefone de Vendas Chamado]</strong></td> 
-   <td>Número de telefone chamado por Vendas.</td> 
+  <tr>
+   <td><strong>[!UICONTROL ID da Campanha de Vendas]</strong></td>
+   <td>Identificador exclusivo do ativo da Campanha de Vendas em [!DNL Sales Insight Actions].</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Nome do Modelo de Vendas]</strong></td> 
-   <td>Nome do modelo de email em [!DNL Sales Insight Actions].</td> 
+  <tr>
+   <td><strong>[!UICONTROL Nome da Campanha de Vendas]</strong></td>
+   <td>Nome da campanha de vendas.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL URL do Modelo de Vendas]</strong></td> 
-   <td>[!DNL Sales Insight Actions] URL do modelo de email.</td> 
+  <tr>
+   <td><strong>[!UICONTROL URL da campanha de vendas]</strong></td>
+   <td>[!DNL Sales Insight Actions] URL da campanha de vendas.</td>
   </tr>
-  <tr> 
+  <tr>
+   <td><strong>[!UICONTROL Assunto do Email de Vendas]</strong></td>
+   <td>Linha de assunto do email seguida de uma ID exclusiva (por exemplo: Minha linha de assunto (SIA-12345678)</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Número de Telefone de Vendas Chamado]</strong></td>
+   <td>Número de telefone chamado por Vendas.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Nome do Modelo de Vendas]</strong></td>
+   <td>Nome do modelo de email em [!DNL Sales Insight Actions].</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL URL do Modelo de Vendas]</strong></td>
+   <td>[!DNL Sales Insight Actions] URL do modelo de email.</td>
+  </tr>
+  <tr>
    <td><strong>[!UICONTROL Enviado Por]</strong></td>
-   <td>Endereço de email da pessoa que enviou o email.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Origem</strong></td> 
+   <td>Endereço de email da pessoa que enviou o email.</td>
+  </tr>
+  <tr>
+   <td><strong>Origem</strong></td>
    <td>Source da atividade. Será definido como "Tout" para [!DNL Sales Insight Actions] atividades antes da versão de outubro de 2021. Será "Aplicativo de vendas" para [!DNL Sales Insight Actions] atividades após a versão de outubro de 2021.</td>
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL ID de Modelo]</strong></td> 
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL ID de Modelo]</strong></td>
    <td>Quando a origem for Tout, a ID do Modelo será a ID do Modelo [!DNL Marketo Sales Insight Actions]. Use essa opção para direcionar um modelo específico em vez da linha de assunto, que pode existir em vários modelos.
-</td> 
-  </tr> 
- </tbody> 
+</td>
+  </tr>
+ </tbody>
 </table>

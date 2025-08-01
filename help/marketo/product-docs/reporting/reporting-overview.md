@@ -3,7 +3,7 @@ description: Visão geral dos relatórios - Documentação do Marketo - Document
 title: Visão geral dos relatórios
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 1%
@@ -32,7 +32,7 @@ _(anteriormente conhecido como Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >
->Nem todos compraram os módulos Advanced BI Analytics e Advanced Jornada Analytics. Entre em contato com a Equipe de conta do Adobe (seu Gerente de conta) para obter mais informações.
+>Nem todos compraram os módulos Advanced BI Analytics e Advanced Jornada Analytics. Entre em contato com a Equipe de conta da Adobe (seu Gerente de conta) para obter mais informações.
 
 Acompanhe o ROI em suas iniciativas de marketing. Analisar emails, pessoas, programas, oportunidades, análise de desempenho de modelo (empresas) e análise de desempenho de modelo (clientes potenciais). O BI Explorer permite criar relatórios personalizados na área de análise e criar gráficos, tabelas dinâmicas e painéis com seus dados.
 

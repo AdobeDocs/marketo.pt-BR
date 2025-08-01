@@ -3,7 +3,7 @@ description: Adicionar uma equipe ao webinário - Documentação do Marketo - Do
 title: Adicionar uma equipe ao webinário
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%

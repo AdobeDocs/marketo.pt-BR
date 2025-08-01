@@ -4,7 +4,7 @@ description: Noções básicas da área de análise de custo do programa - Docum
 title: Como entender a área de análise de custo do programa
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 21%
@@ -33,7 +33,7 @@ Quanto eu gastei por programa por mês?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimension e Medidas da Análise de Custo do Programa {#program-cost-analysis-dimensions-and-measures}
+## Dimensões e Medidas da Análise de Custo do Programa {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -51,25 +51,25 @@ Quanto eu gastei por programa por mês?
 
 ## Associação {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Medir</th> 
-   <th>Descrição</th> 
-  </tr> 
-  <tr> 
-   <td>% de novos nomes</td> 
-   <td>Porcentagem de clientes potenciais adquiridos por um programa</td> 
-  </tr> 
-  <tr> 
-   <td>Membros</td> 
-   <td>Total de clientes em potencial em um programa</td> 
-  </tr> 
-  <tr> 
-   <td>Novos nomes</td> 
-   <td>Total de novos nomes adquiridos por um programa</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Medir</th>
+   <th>Descrição</th>
+  </tr>
+  <tr>
+   <td>% de novos nomes</td>
+   <td>Porcentagem de clientes potenciais adquiridos por um programa</td>
+  </tr>
+  <tr>
+   <td>Membros</td>
+   <td>Total de clientes em potencial em um programa</td>
+  </tr>
+  <tr>
+   <td>Novos nomes</td>
+   <td>Total de novos nomes adquiridos por um programa</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Atributos do programa {#program-attributes}
@@ -83,9 +83,9 @@ Quanto eu gastei por programa por mês?
 
 | Dimensão | Descrição |
 |---|---|
-| Ano | Período do custo do programa |
+| Year | Período do custo do programa |
 | Trimestre | Período de tempo do Custo do Programa |
-| Mês | Período do custo do programa |
+| Month | Período do custo do programa |
 
 ## Marcas do programa {#program-tags}
 
@@ -94,7 +94,7 @@ Quanto eu gastei por programa por mês?
 | Setor | Marca de programa |
 | Linha de produtos | Marca de programa |
 | Proprietário do programa | Marca de programa |
-| Região  | Marca de programa |
+| Região | Marca de programa |
 
 ## Sucesso {#success}
 

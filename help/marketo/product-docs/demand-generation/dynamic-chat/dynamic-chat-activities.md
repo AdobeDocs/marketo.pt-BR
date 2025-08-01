@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat] Atividades - Documentação do Marketo - Documentação do produto'
 title: '[!DNL Dynamic Chat] atividades'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 4%
@@ -27,7 +27,7 @@ O [!DNL Dynamic Chat] oferece vários filtros e acionadores para uso nas suas Sm
   </tr>
   <tr>
     <td style="width:25%"><b>Envolvido com um Fluxo de conversa/Caixa de diálogo</b></td>
-    <td>Um engajamento ocorre na primeira vez que um visitante da Web clica em um prompt em um Fluxo de diálogo ou de conversa (clicando em uma opção de múltipla escolha, enviando informações, marcando uma reunião, abrindo um documento etc.). Se um visitante abrir uma caixa de diálogo ou um fluxo de conversa, mas não clicar em um prompt, um envolvimento será <b>não</b> registrado. 
+    <td>Um engajamento ocorre na primeira vez que um visitante da Web clica em um prompt em um Fluxo de diálogo ou de conversa (clicando em uma opção de múltipla escolha, enviando informações, marcando uma reunião, abrindo um documento etc.). Se um visitante abrir uma caixa de diálogo ou um fluxo de conversa, mas não clicar em um prompt, um envolvimento será <b>não</b> registrado.
     <br>Um evento de envolvimento por visitante, por sessão.</td>
   </tr>
    <tr>

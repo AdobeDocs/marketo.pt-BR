@@ -3,7 +3,7 @@ description: Caixa de entrada do agente - Documentação do Marketo - Documenta�
 title: Caixa de entrada do agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 2%
@@ -60,7 +60,7 @@ Os agentes podem encerrar manualmente uma sessão simplesmente clicando no botã
 
 >[!NOTE]
 >
->Esse recurso faz parte da IA gerativa, disponível por meio da assinatura do Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Esse recurso faz parte da IA gerativa, disponível por meio da assinatura do Dynamic Chat Prime. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 Os atalhos, viabilizados pela [Biblioteca de resposta](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) da IA gerativa, são uma ótima maneira de obter ajuda imediata ao conversar com um visitante. Basta digitar uma barra (`/`) na caixa de texto e escolher `ask` ou `search`.
 
@@ -120,7 +120,7 @@ Na parte inferior da janela de bate-papo ao vivo há um ícone que permite compa
 
 >[!NOTE]
 >
->Esse recurso faz parte da IA gerativa, disponível por meio da assinatura do Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Esse recurso faz parte da IA gerativa, disponível por meio da assinatura do Dynamic Chat Prime. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 O Resumo da conversa gera um resumo rápido para você em tempo real, incluindo tópicos nos quais o visitante expressou interesse. Ele está disponível na parte inferior direita de cada tela de chat.
 
@@ -128,4 +128,4 @@ O Resumo da conversa gera um resumo rápido para você em tempo real, incluindo 
 
 >[!NOTE]
 >
->Um Resumo da conversa concluído também pode ser encontrado no registro de atividade do Registro de pessoa do visitante no banco de dados do Marketo Engage.
+>Um Resumo da conversa concluído também pode ser encontrado no log de atividades do Registro de pessoa do visitante no banco de dados do Marketo Engage.

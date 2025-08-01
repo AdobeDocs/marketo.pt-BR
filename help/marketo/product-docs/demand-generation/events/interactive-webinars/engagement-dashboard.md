@@ -3,7 +3,7 @@ description: Painel de envolvimentos - Documentação do Marketo - Documentaçã
 title: Painel de engajamento
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1743'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Você pode exibir os seguintes detalhes no painel de engajamento.
     <td>Fornece uma visualização consolidada do desempenho de sessões ativas e sob demanda.</td>
   </tr>
   <tr>
-    <td><b>Envolvimento</td>
+    <td><b>Engajamento</td>
     <td>Fornece uma visão geral do desempenho das sessões ativas.</td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ Essa interface fornece uma visualização consolidada do desempenho do evento pa
 </tbody>
 </table>
 
-### Envolvimento {#engagement}
+### Engajamento {#engagement}
 
 Fornece uma visão geral do desempenho de um evento na sessão ativa. A visão geral inclui métricas principais, envolvimento ao longo do tempo e interações dos participantes. Ele ajuda os organizadores a avaliar o sucesso do evento e identificar áreas para aprimoramento.
 
@@ -289,7 +289,7 @@ Entenda os critérios para classificar o nível de engajamento de cada participa
 
 <table><thead>
   <tr>
-    <th>Nível de envolvimento</th>
+    <th>Nível de engajamento</th>
     <th>Critérios de classificação</th>
   </tr></thead>
 <tbody>

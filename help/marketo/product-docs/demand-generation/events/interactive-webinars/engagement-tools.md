@@ -4,7 +4,7 @@ title: Ferramentas de engajamento em webinários interativos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: c1dab337193c23d5c51acad6bd39a96af1b4d3ef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1271'
 ht-degree: 0%
@@ -49,7 +49,7 @@ O pod de chat é usado para se comunicar com outros participantes na sala. Os ch
 
 Um pod de chat adicionado na área Host e Apresentador pode ser usado para se comunicar de forma privada com a equipe de apresentação. Para saber mais sobre o pod Chat, consulte este artigo de ajuda do Adobe e este vídeo.
 
-OBSERVAÇÃO: um pod de chat é sempre gravado. Use um Painel de Bate-papo se não quiser que os bate-papos façam parte da gravação. Para saber mais sobre o pod Chat, consulte este artigo de ajuda do Adobe. [Vincule isso aos Bate-papos na seção Gravação da nova página de webinários interativos de Entrega].
+OBSERVAÇÃO: um pod de chat é sempre gravado. Use um Painel de Bate-papo se não quiser que os bate-papos façam parte da gravação. Para saber mais sobre o pod de chat, consulte este artigo de ajuda do Adobe. [Vincule isso aos Bate-papos na seção Gravação da nova página de webinários interativos de Entrega].
 
 CAPTURA DE TELA
 

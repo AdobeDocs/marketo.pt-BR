@@ -3,7 +3,7 @@ description: Guia Email - Documentação do Marketo - Documentação do produto
 title: Guia E-mail
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 2%
@@ -23,7 +23,7 @@ Um email com o ícone do Marketo ao lado da linha de assunto indica que o email 
 
 Você pode clicar no botão &quot;[!UICONTROL Verificar o status do delivery]&quot; para abrir uma nova guia que mostra o status do delivery de emails:
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>Emails enviados do Marketo</strong></td>

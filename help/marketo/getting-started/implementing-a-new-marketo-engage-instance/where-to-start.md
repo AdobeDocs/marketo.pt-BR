@@ -1,9 +1,9 @@
 ---
-description: Conheça as práticas recomendadas ao implementar uma nova instância de Marketo Engage. Acompanhar o desempenho ajudará você a aproveitar ao máximo o Marketo Engage e configurar sua instância para higiene e eficiência de longo prazo. Como novo administrador navegando em uma nova instância, use esses guias para se manter focado e organizado.
+description: Saiba mais sobre as práticas recomendadas ao implementar uma nova instância do Marketo Engage. Acompanhar o desempenho ajudará você a aproveitar ao máximo o Marketo Engage e configurar sua instância para higiene e eficiência de longo prazo. Como novo administrador navegando em uma nova instância, use esses guias para se manter focado e organizado.
 title: Onde começar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: abd80b3370f7fd107a6ae55edfeb17c3eeb358ec
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bem-vindo à nova instância do Adobe Marketo Engage. Prepare-se para simplificar, automatizar e medir tarefas e fluxos de trabalho de marketing com recursos avançados de automação de marketing.
 
-Neste guia &quot;Implementação de uma nova instância de Marketo Engage&quot;, conheça as práticas recomendadas para implementar sua instância com facilidade, a fim de garantir higiene de longo prazo e eficiência operacional. Cada lista de verificação fornece etapas valiosas para você acompanhar o progresso da configuração. Use as [listas de verificação baixáveis](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração de usuários.
+Neste guia &quot;Implementação de uma nova instância do Marketo Engage&quot;, conheça as práticas recomendadas para implementar sua instância com facilidade, a fim de garantir higiene de longo prazo e eficiência operacional. Cada lista de verificação fornece etapas valiosas para você acompanhar o progresso da configuração. Use as [listas de verificação baixáveis](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração de usuários.
 
 ## Configuração inicial {#initial-setup}
 
@@ -28,7 +28,7 @@ Antes de mergulhar nas Listas de verificação de práticas recomendadas abaixo,
 
 ## Listas De Verificação De Práticas Recomendadas Para Sua Nova Instância Do Marketo Engage {#best-practice-checklists-new-instance}
 
-Baixe as [Novas Listas de Verificação de Administrador de Implementação](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} da Instância do Marketo Engage ou consulte os guias online abaixo.
+Baixe as [Novas Listas de Verificação de Administração da Implementação](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} da Instância do Marketo Engage ou consulte os guias online abaixo.
 
 * [Seção de administração](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
@@ -44,7 +44,7 @@ Baixe as [Novas Listas de Verificação de Administrador de Implementação](/he
 
 ## Conectar-se a colegas {#connect-with-your-peers}
 
-Visite a [Comunidade da Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (também conhecida como a Nação de marketing) para saber mais sobre a sua Instância de Marketo Engage dos funcionários da Marketo Engage, bem como de outros usuários.
+Visite a [Comunidade do Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (também conhecida como a Nação de marketing) para saber mais sobre a sua Instância do Marketo Engage com os funcionários da Marketo Engage e outros usuários.
 
 Introdução à Comunidade:
 

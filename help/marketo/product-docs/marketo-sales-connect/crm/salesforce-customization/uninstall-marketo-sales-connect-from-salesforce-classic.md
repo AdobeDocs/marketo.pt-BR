@@ -2,7 +2,7 @@
 description: Desinstale o Marketo Sales Connect do Salesforce Classic - Marketo Docs - Documentação do produto
 title: Desinstalar o Marketo Sales Connect do Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1186'
 ht-degree: 8%
@@ -255,9 +255,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Último engajamento de marketing</td>
   <td>Último envolvimento recebido de Marketing</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -265,9 +265,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Última data de compromisso de marketing</td>
   <td>Carimbo de data e hora do envolvimento do Marketing</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -275,9 +275,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Última descrição do compromisso de marketing</td>
   <td>Descrição do compromisso</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -285,9 +285,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Último envolvimento de marketing Source</td>
   <td>Source do engajamento de marketing</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -295,9 +295,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Último Tipo de Compromisso de Marketing</td>
   <td>Tipo de envolvimento (por exemplo: atividade da Web)</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -305,9 +305,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Última Atividade por Vendas</td>
   <td>Última atividade de saída executada pela equipe de vendas</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -315,9 +315,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Última Resposta</td>
   <td>Última resposta de email para Email de vendas</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -325,9 +325,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Campanha de vendas atual</td>
   <td>Registra o nome da campanha do MSC em que o contato/lead está</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Texto</td>
  </tr>
@@ -335,9 +335,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Último contrato de vendas</td>
   <td>Último envolvimento recebido de Vendas</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Data e hora</td>
  </tr>
@@ -345,9 +345,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>MSC - Recusa</td>
   <td>Campo de recusa</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
   <td>Caixa de seleção</td>
  </tr>
@@ -363,9 +363,9 @@ Veja a seguir uma lista de todos os objetos que precisam ser removidos da instâ
   <td>[!UICONTROL Enviar Email MSC]</td>
   <td>Enviar emails de vendas de [!DNL Salesforce]</td>
   <td>
-  <p>Conta 
-  <p>Contato 
-  <p>Lead 
+  <p>Conta
+  <p>Contato
+  <p>Lead
   <p>Oportunidade</td>
  </tr>
  <tr>

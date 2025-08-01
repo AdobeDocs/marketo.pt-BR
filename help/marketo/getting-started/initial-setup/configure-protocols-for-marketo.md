@@ -4,7 +4,7 @@ description: Configurar protocolos para o Marketo Engage - Documentação do Mar
 title: Configurar protocolos para o Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -39,7 +39,7 @@ Adicione a CNAME da página de aterrissagem que eles enviaram a você ao seu reg
 
 `2` **Adicionar CNAME para Links de Acompanhamento de Email**
 
-Adicione o email CNAME marketing enviado a você, para que `[YourEmailCNAME]` aponte para [MktoTrackingLink], o link de rastreamento padrão atribuído pelo Marketo Engage, no formato:\
+Adicione o email CNAME marketing enviado a você, para que `[YourEmailCNAME]` aponte para [MktoTrackingLink], o link de rastreamento padrão atribuído pelo Marketo Engage, no formato:
 `[YourEmailCNAME].[YourDomain].com` NO CNAME `[MktoTrackingLink]`
 
 Por exemplo:
@@ -92,11 +92,11 @@ Sua equipe de marketing também deve ter enviado informações do DKIM (Domain K
 
 1. Para configurar o SPF, adicione a seguinte linha às suas entradas de DNS:
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   incluir: mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+incluir: mktomail.com ~all
 
-   Se já tivermos um registro SPF existente em nossa entrada DNS, basta adicionar o seguinte a ele:\
-   incluir: mktomail.com
+   Se já tivermos um registro SPF existente em nossa entrada DNS, basta adicionar o seguinte a ele:
+incluir: mktomail.com
 
    Substitua CompanyDomain pelo domínio principal do site (por exemplo: &quot;`(company.com/)`&quot;) e CorpIP pelo endereço IP do servidor de email corporativo (por exemplo, 255.255.255.255). Se você for enviar emails de vários domínios por meio do Marketo Engage, a equipe de TI deve adicionar essa linha para cada domínio (em uma linha).
 
@@ -192,9 +192,9 @@ Os registros DMARC têm vários componentes chamados tags DMARC. Cada tag tem um
     <td>fo</td>
     <td>Opcional</td>
     <td>Permite que o proprietário do domínio especifique opções de relatórios.</td>
-    <td>0: Gerar relatório se tudo falhar 
-    <br>1: gerar relatório se algo falhar 
-    <br>d: gerar relatório se o DKIM falhar 
+    <td>0: Gerar relatório se tudo falhar
+    <br>1: gerar relatório se algo falhar
+    <br>d: gerar relatório se o DKIM falhar
     <br>s: gerar relatório se o SPF falhar</td>
     <td>1 (recomendado para relatórios do DMARC)</td>
   </tr>

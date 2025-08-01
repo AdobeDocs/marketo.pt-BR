@@ -4,7 +4,7 @@ description: SEO - Noções básicas sobre palavras-chave - Documentação do Ma
 title: SEO - Noções básicas sobre palavras-chave
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -21,35 +21,35 @@ A seção [!UICONTROL Palavras-chave] mostrará o sucesso do site e como você e
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nome da coluna</th> 
-   <th colspan="1" rowspan="1">Descrição</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Frase de palavra-chave</span></td> 
-   <td colspan="1" rowspan="1">A palavra-chave em mãos.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Classificação e tendência</span></td> 
-   <td colspan="1" rowspan="1"><p>A classificação do site para esta palavra-chave. Setas mostram a tendência da sua classificação de palavra-chave em relação à semana anterior </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = classificação acima</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = classificação decrescente</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= mesma classificação</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Nível de concorrência</span></td> 
-   <td colspan="1" rowspan="1">A dificuldade de ser classificado para uma palavra-chave específica. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Pesquisas Mensais</span></td> 
-   <td colspan="1" rowspan="1">Quantas pesquisas acontecem por mês na palavra-chave. Esses dados são baseados em correspondências exatas e estão disponíveis apenas para o Google-EUA por um período de 12 meses. </td> 
-  </tr> 
-  <tr> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nome da coluna</th>
+   <th colspan="1" rowspan="1">Descrição</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Frase de palavra-chave</span></td>
+   <td colspan="1" rowspan="1">A palavra-chave em mãos.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Classificação e tendência</span></td>
+   <td colspan="1" rowspan="1"><p>A classificação do site para esta palavra-chave. Setas mostram a tendência da sua classificação de palavra-chave em relação à semana anterior </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = classificação acima</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = classificação decrescente</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= mesma classificação</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Nível de concorrência</span></td>
+   <td colspan="1" rowspan="1">A dificuldade de ser classificado para uma palavra-chave específica. </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Pesquisas Mensais</span></td>
+   <td colspan="1" rowspan="1">Quantas pesquisas acontecem por mês na palavra-chave. Esses dados são baseados em correspondências exatas e estão disponíveis apenas para o Google-EUA por um período de 12 meses. </td>
+  </tr>
+  <tr>
    <td colspan="1" rowspan="1"><span class="uicontrol">URL de Classificação Mais Alta para Frase de Palavra-chave</span></td>
-   <td colspan="1" rowspan="1">De seus URLs, que é o de classificação mais alta para a palavra-chave.</td> 
-  </tr> 
- </tbody> 
+   <td colspan="1" rowspan="1">De seus URLs, que é o de classificação mais alta para a palavra-chave.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
