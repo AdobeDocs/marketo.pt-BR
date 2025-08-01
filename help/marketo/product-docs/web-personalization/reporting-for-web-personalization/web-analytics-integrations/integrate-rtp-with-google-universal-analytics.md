@@ -43,6 +43,7 @@ O [!DNL Google Universal Analytics] com dados da RTP fornece uma melhor compreen
    1. Selecione a **[!UICONTROL Conta].**
    1. Selecione a **[!UICONTROL Propriedade].**
    1. Selecione **[!UICONTROL Definições personalizadas]** e **[!UICONTROL Dimensões personalizadas]**.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Adicione uma nova dimensão personalizada. Clique em **[!UICONTROL +Nova Dimension Personalizada]**

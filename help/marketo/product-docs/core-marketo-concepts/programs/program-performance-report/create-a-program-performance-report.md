@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Veja excelentes estatísticas em seus programas com este relatório.
 
-1. [Crie um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Programa]** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Crie um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Programa]** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Clique na guia **[!UICONTROL Relatório]**.
 1. Você está aí! Explore seu relatório para ver como seus programas estão se saindo.
 

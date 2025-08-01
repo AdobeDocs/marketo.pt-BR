@@ -104,7 +104,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível for 
 
 <p>
 
-_**Roteamento de conta**_
+_&#x200B;**Roteamento de conta**&#x200B;_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _**Roteamento de conta**_
   </tr>
 </tbody></table>
 
-_**Roteamento personalizado**_
+_&#x200B;**Roteamento personalizado**&#x200B;_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _**Roteamento personalizado**_
   </tr>
 </tbody></table>
 
-_**Roteamento de Equipe**_
+_&#x200B;**Roteamento de Equipe**&#x200B;_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _**Roteamento de Equipe**_
   </tr>
 </tbody></table>
 
-_**Roteamento Round Robin**_
+_&#x200B;**Roteamento Round Robin**&#x200B;_
 
 <table><thead>
   <tr>
