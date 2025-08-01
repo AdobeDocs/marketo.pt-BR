@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
+   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar um email de amostra com base em um segmento {#send-a-sample-email-based-on-a-segment}
 

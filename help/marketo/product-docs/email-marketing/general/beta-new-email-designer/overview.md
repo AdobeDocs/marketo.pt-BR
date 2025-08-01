@@ -22,7 +22,7 @@ Bem-vindo à nova Adobe Marketo Engage Email Designer.
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 O novo Email Designer é a mais recente inovação no Marketo Engage, criada para fornecer uma experiência renovada de criação de modelos de email e email para melhorar a produtividade e a eficiência. Ele oferece um editor visual de arrastar e soltar, juntamente com modelos padrão prontos para uso. Crie facilmente modelos de email personalizados sem precisar gastar dinheiro com fornecedores.
 

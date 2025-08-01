@@ -28,8 +28,8 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
 <tbody>
   <tr>
     <td>Páginas globais</td>
-    <td><li>Criar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">Páginas de Aterrissagem globais (forma livre/guiadas)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Crie uma página de teste</a> para testar A/B o modelo de Página de Aterrissagem vencedor (se aplicável).</li></td>
+    <td><li>Criar <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">Páginas de Aterrissagem globais (forma livre/guiadas)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Crie uma página de teste</a> para testar A/B o modelo de Página de Aterrissagem vencedor (se aplicável).</li></td>
   </tr>
   <tr>
     <td>Modelos</td>
@@ -37,7 +37,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li>Crie um rodapé usando os <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Trechos</a> ou os <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> das suas Páginas de Aterrissagem para fins de conformidade com a privacidade.</li></td>
+    <td><li>Crie um rodapé usando os <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Trechos</a> ou os <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> das suas Páginas de Aterrissagem para fins de conformidade com a privacidade.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +54,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
 <tbody>
   <tr>
     <td>Formulários globais</td>
-    <td><li>Configure <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">formulários globais</a> para casos de uso, como preferências de assinatura, downloads de conteúdo restritos, solicitações de demonstração, registros de webinário etc.</li></td>
+    <td><li>Configure <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">formulários globais</a> para casos de uso, como preferências de assinatura, downloads de conteúdo restritos, solicitações de demonstração, registros de webinário etc.</li></td>
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
@@ -62,7 +62,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Padronização de dados</td>
-    <td><li>Considere aplicar listas de opções aos <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">campos de formulário</a> em vez de campos de texto abertos para evitar dados confusos.</li></td>
+    <td><li>Considere aplicar listas de opções aos <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">campos de formulário</a> em vez de campos de texto abertos para evitar dados confusos.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,13 +83,13 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Modelos</td>
-    <td><li>Crie um <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">modelo de email</a> baseado em módulo com um designer/desenvolvedor ou use sua própria HTML.</li>
+    <td><li>Crie um <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">modelo de email</a> baseado em módulo com um designer/desenvolvedor ou use sua própria HTML.</li>
     <li>Crie um modelo de email testado para testar A/B o modelo vencedor (se aplicável).</li></td>
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Adicione trechos</a> aos seus modelos de email para controlar blocos reutilizáveis, como ano de direitos autorais, local global e idioma específico de conformidade.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Adicione tokens</a> para personalizar o conteúdo com base no público-alvo.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Adicione trechos</a> aos seus modelos de email para controlar blocos reutilizáveis, como ano de direitos autorais, local global e idioma específico de conformidade.</li>
+    <li><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Adicione tokens</a> para personalizar o conteúdo com base no público-alvo.</li></td>
   </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
 <tbody>
   <tr>
     <td>Bl. conteúdo</td>
-    <td><li>Crie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Trechos</a> para ter blocos de conteúdo reutilizáveis que podem ser usados para vários casos de uso, como informações de contato, links de redes sociais, informações da marca e notas de privacidade e conformidade em seus emails e Páginas de Aterrissagem.</li></td>
+    <td><li>Crie <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Trechos</a> para ter blocos de conteúdo reutilizáveis que podem ser usados para vários casos de uso, como informações de contato, links de redes sociais, informações da marca e notas de privacidade e conformidade em seus emails e Páginas de Aterrissagem.</li></td>
   </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
 <tbody>
   <tr>
     <td>Estrutura de pastas </td>
-    <td><li>Crie subpastas para cada tipo de ativo e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organize ativos globais</a> (por exemplo, fluxos de conversação, modelos de email, emails, formulários, imagens e arquivos, Páginas de aterrissagem, modelos de Páginas de aterrissagem, trechos etc.) apropriadamente.</li></td>
+    <td><li>Crie subpastas para cada tipo de ativo e <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organize ativos globais</a> (por exemplo, fluxos de conversação, modelos de email, emails, formulários, imagens e arquivos, Páginas de aterrissagem, modelos de Páginas de aterrissagem, trechos etc.) apropriadamente.</li></td>
   </tr>
 </tbody>
 </table>

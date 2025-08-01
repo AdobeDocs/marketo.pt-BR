@@ -25,7 +25,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr>
    <td>Páginas globais</td>
    <td><li>Quantas <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Páginas de Aterrissagem</a> globais existem? Eles estão sendo usados por programas?</li>
-   <li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">central de assinaturas</a> configurada?
+   <li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=pt-BR" target="_blank">central de assinaturas</a> configurada?
    <br/>     Caso contrário, considere a criação de um.</li></td>
   </tr>
   <tr>
