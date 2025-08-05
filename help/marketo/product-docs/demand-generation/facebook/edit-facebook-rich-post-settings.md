@@ -27,7 +27,7 @@ Os _aplicativos sociais_ do Marketo permitem que seus clientes potenciais compar
 
 Você pode especificar os tipos de informações de página a serem usadas nas postagens avançadas do [!DNL Facebook] geradas por compartilhamentos da sua página de aterrissagem.
 
-1. Selecione **[!UICONTROL Mensagem do Facebook]** no editor do vídeo ou do botão de redes sociais __[!DNL YouTube_]_.
+1. Selecione **[!UICONTROL Mensagem do Facebook]** no editor do vídeo ou do botão de redes sociais _&#x200B;_[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

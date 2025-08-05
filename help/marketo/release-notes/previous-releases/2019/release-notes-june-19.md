@@ -68,4 +68,4 @@ Espera-se que os seguintes recursos sejam lançados ao longo do segundo trimestr
 * **Integração de Drift**: entenda como as conversas de Drift afetam a jornada do cliente. [!DNL Bizible] também irá obter endereços de email de conversas para criar um novo cliente potencial ou conectar o ponto de contato a um cliente potencial existente.
 * A **Localização**: [!DNL Bizible] agora está disponível em todos os idiomas com suporte da Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
-_**Webinar sobre a versão do produto**_ Assista à gravação do nosso webinário sobre as inovações da versão de 19 de junho [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_&#x200B;**Webinar sobre a versão do produto**&#x200B;_ Assista à gravação do nosso webinário sobre as inovações da versão de 19 de junho [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
