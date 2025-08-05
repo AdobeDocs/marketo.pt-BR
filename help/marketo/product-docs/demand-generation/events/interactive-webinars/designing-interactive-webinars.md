@@ -3,9 +3,9 @@ description: Criação De Webinars Interativos - Documentação Do Marketo - Doc
 title: Criação de webinários interativos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Para obter informações detalhadas sobre salas e modelos, consulte a seção &quot;Modelos e layouts de salas de reunião&quot; do [este artigo de ajuda do Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Para obter informações detalhadas sobre salas e modelos, verifique a seção &quot;Modelos e layouts de salas de reunião&quot; do [este artigo de ajuda do Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Quando terminar de criar o webinário, clique em **Sair da Sala**.
 
@@ -75,3 +75,7 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 **Layout**: refere-se a várias maneiras das quais os vários componentes necessários para garantir o sucesso do webinário são organizados em um modelo específico. Um único modelo pode ter vários layouts para sua escolha. Os componentes essenciais do webinário permaneceriam os mesmos em todos os modelos. A organização selecionada seria mais adequada ao estilo/às necessidades do apresentador ou do apresentador que realiza o webinário.
 
 **Pod**: um componente dentro de um modelo que executa uma atividade específica durante o webinário. Por exemplo, configurar e entregar uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser preenchida por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade entregue por meio do pod de chat. Vários outros pods estão disponíveis, como Compartilhamento, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e Perguntas e respostas.
+
+>[!MORELIKETHIS]
+>
+>[Saiba como adicionar apresentadores e/ou co-hosts](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

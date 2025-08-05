@@ -3,7 +3,7 @@ description: Adicionar uma equipe ao webinário - Documentação do Marketo - Do
 title: Adicionar uma equipe ao webinário
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 Uma Equipe de webinários em webinários interativos consiste em todas as funções que contribuem para a entrega bem-sucedida do webinário no Adobe Connect. Isso inclui apresentadores e co-hosts.
 
->[!NOTE]
->
->Os apresentadores e os co-hosts no Marketo Engage mapeiam exatamente as funções de apresentador e host durante a entrega do webinário no Adobe Connect. Os co-hosts podem modificar os layouts e os pods, enquanto os apresentadores não podem.
-
-O apresentador é uma função externa que participa da entrega da experiência do webinário, enquanto os co-hosts podem atuar como apresentadores e lidar com os aspectos administrativos da entrega do webinário. Os co-hosts podem ser internos e externos. Os co-hosts externos não terão acesso aos Programas de evento de webinário interativo no Marketo, mas terão permissões de host durante a entrega no Adobe Connect. Os co-hosts internos terão acesso ao Programa de evento de webinário interativo no Marketo, bem como às permissões de host durante o delivery. Isso ajuda a garantir que os co-hosts internos possam assumir as rédeas do Programa de evento de webinário interativo quando o criador original do programa de webinário interativo não fizer mais parte do conjunto de usuários dos webinários interativos ou nem mesmo ser um usuário do Marketo.
-
 >[!PREREQUISITES]
 >
 >* [Criar um webinário interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
 >
 >* [Criar seu webinário interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
+
+O apresentador é uma função externa que participa da entrega da experiência do webinário, enquanto os co-hosts podem atuar como apresentadores e lidar com os aspectos administrativos da entrega do webinário. Os co-hosts podem ser internos e externos. Os co-hosts externos não terão acesso aos Programas de evento de webinário interativo no Marketo, mas terão permissões de host durante a entrega no Adobe Connect. Os co-hosts internos terão acesso ao Programa de evento de webinário interativo no Marketo, bem como às permissões de host durante o delivery. Isso ajuda a garantir que os co-hosts internos possam assumir as rédeas do Programa de evento de webinário interativo quando o criador original do programa de webinário interativo não fizer mais parte do conjunto de usuários dos webinários interativos ou nem mesmo ser um usuário do Marketo.
+
+>[!NOTE]
+>
+>Os apresentadores e os co-hosts no Marketo Engage mapeiam exatamente as funções de apresentador e host durante a entrega do webinário no Adobe Connect. Os co-hosts podem modificar os layouts e os pods, enquanto os apresentadores não podem.
 
 ## Adicionar um Co-host {#add-a-co-host}
 
