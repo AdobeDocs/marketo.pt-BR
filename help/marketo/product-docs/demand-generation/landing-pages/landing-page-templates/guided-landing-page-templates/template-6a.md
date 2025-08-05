@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 6A {#template-6a}
 
-Clique com o botão direito do mouse para [baixar o Modelo 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+Clique com o botão direito do mouse para [baixar o Modelo 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=pt-BR)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+[Modelo 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=pt-BR)

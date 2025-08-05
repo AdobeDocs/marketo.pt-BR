@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 3A {#template-3a}
 
-Clique com o botão direito do mouse para [baixar Modelo 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+Clique com o botão direito do mouse para [baixar Modelo 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=pt-BR)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+[Modelo 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=pt-BR)

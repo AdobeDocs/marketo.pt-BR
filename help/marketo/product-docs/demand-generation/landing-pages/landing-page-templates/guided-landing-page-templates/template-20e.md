@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 20E {#template-20e}
 
-Clique com o botão direito do mouse para [baixar o Modelo 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+Clique com o botão direito do mouse para [baixar o Modelo 20E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=pt-BR)
 
 ![](assets/template-20e.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
+[Modelo 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html?lang=pt-BR)

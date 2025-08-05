@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 5C {#template-5c}
 
-Clique com o botão direito do mouse para [baixar Modelo 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
+Clique com o botão direito do mouse para [baixar Modelo 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=pt-BR)
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
+[Modelo 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=pt-BR)
