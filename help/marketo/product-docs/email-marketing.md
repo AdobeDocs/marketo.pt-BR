@@ -2,7 +2,7 @@
 unique-page-id: 557076
 description: Marketing por email - Documentação do Marketo - Documentação do produto
 title: Marketing por e-mail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 5%
@@ -13,4 +13,4 @@ ht-degree: 5%
 # Marketing por e-mail {#email-marketing}
 
 Quer você queira enviar um email para desktop, tablet ou telefone, a Marketo tem a solução.
-**&#x200B; ![Marketing Geral por Email](assets/office-27.png)Marketing Geral por Email** [Marketing Geral por Email Todos os emails. Opa!](https://docs.marketo.com/display/DOCS/General)     **&#x200B; ![Programas de email](assets/chat-messages-10.png)Programas de email** [Programas de email A/B testam e executam um assistente simples de 4 cliques.](https://docs.marketo.com/display/DOCS/Email+Programs)     **&#x200B; ![Cuidados com o Drip](assets/ecology-14.png)Cuidados com o Drip** [Os fluxos de conteúdo e a cadência são definidos com o poderoso programa de envolvimento.](https://docs.marketo.com/display/DOCS/Drip+Nurturing)
+**![Marketing Geral Por Email](assets/office-27.png)Marketing Geral Por Email** [Marketing Geral Por Email Todas As Coisas Por Email. Opa!](https://docs.marketo.com/display/DOCS/General)     **![Programas de email](assets/chat-messages-10.png)Programas de email** [Teste A/B de Programas de email e execute um simples assistente de 4 cliques.](https://docs.marketo.com/display/DOCS/Email+Programs)     **![Cuidados com o Drip](assets/ecology-14.png)Cuidados com o Drip** [Os fluxos de conteúdo e a cadência são definidos com o poderoso programa de envolvimento.](https://docs.marketo.com/display/DOCS/Drip+Nurturing)

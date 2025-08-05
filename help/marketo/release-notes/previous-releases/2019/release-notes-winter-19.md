@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Notas de versão - Winter '19 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 3%
@@ -53,8 +53,8 @@ Inclua até cinco endereços por destinatário para CC nos e-mails enviados atra
 * **Serviço de Email**: aproveite uma melhor capacidade de entrega, além de melhor rastreamento de respostas, funcionalidade de email agendado e funcionalidade de email em massa conectando-se ao [!DNL Microsoft Outlook] (pelo Office365 ou no local, pela guia Conexão de Email).
 * **Novas Configurações de Administrador**: Duas páginas de administrador foram adicionadas para otimizar sua instância do Sales Engage
 
-   * O _Gerenciamento de Equipe_ dá suporte a um processo de configuração de conta simples permitindo que os administradores editem assinaturas e equipes.
-   * As _Configurações de administração do Salesforce_ ajudam as equipes a configurar a sincronização do SFDC de forma mais rápida e fácil do que nunca.
+   * O *Gerenciamento de Equipe* dá suporte a um processo de configuração de conta simples permitindo que os administradores editem assinaturas e equipes.
+   * As *Configurações de administração do Salesforce* ajudam as equipes a configurar a sincronização do SFDC de forma mais rápida e fácil do que nunca.
 
 * **Plug-in do OWA para[!DNL Windows]**: com um único suplemento, todos os clientes do [!DNL Windows Office365] terão suporte no Sales Engage, fornecendo a capacidade de usar o Feed Ativo no Outlook. O novo plug-in estará disponível na Microsoft Store.
 * **Pusher de atividades**: sincronizar o Sales Engage com a plataforma principal do Marketo para aproveitar os insights de marketing em tempo real.

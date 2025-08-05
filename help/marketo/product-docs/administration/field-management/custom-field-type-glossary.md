@@ -4,9 +4,9 @@ description: Glossário de tipo de campo personalizado - Documentação do Marke
 title: Glossário de tipo de campo personalizado
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '594'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 **Nome de Exemplo:** Email Alternativo - Mantenha um endereço de email alternativo para sua equipe (na verdade, não é possível enviar emails para este campo, como o campo de endereço de email padrão, pois esse é especial)
 
-**Valores de Exemplo:** name@company.com
+**Valores de Exemplo:** <name@company.com>
 
 **Operadores**: é, não é, começa com, não começa com, contém, não contém, está vazio, não está vazio
 
@@ -89,7 +89,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 **Operadores**: é, não é, entre, maior que, menor que, pelo menos, no máximo, está vazio, não está vazio
 
-## Percentual {#percent}
+## Porcentagem {#percent}
 
 **Nome de Exemplo:** Probabilidade de Compra - armazene um valor percentual (talvez calculado no lado do CRM)
 
@@ -113,7 +113,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 **Operadores**: é, não é, entre, maior que, menor que, pelo menos, no máximo, está vazio, não está vazio
 
-## Sequência de caracteres {#string}
+## String {#string}
 
 **Nome do Exemplo:** Nome do Meio - armazenar um atributo de texto adicional
 
@@ -133,6 +133,6 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 **Nome de Exemplo:** Blog - criar um campo para armazenar URLs de blogs de pessoas
 
-**Exemplo de valor:** www.myblog.com
+**Valor de Exemplo:** &lt;www.myblog.com>
 
 **Operadores**: é, não é, começa com, não começa com, contém, não contém, está vazio, não está vazio

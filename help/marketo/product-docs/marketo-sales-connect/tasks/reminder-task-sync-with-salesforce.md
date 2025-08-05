@@ -3,7 +3,7 @@ description: Sincronização de tarefa de lembrete com o Salesforce - Documenta�
 title: Sincronização de tarefa de lembrete com o Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -81,4 +81,4 @@ Para ativar esta sincronização, marque a caixa de sincronização na [página 
 
 >[!NOTE]
 >
->O campo de assunto de uma tarefa pode ser atualizado em [!DNL Sales Connect] e essa atualização será sincronizada no campo de assunto [!DNL Salesforce] da tarefa sincronizada correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` nas configurações de [Personalização de Detalhes da Atividade](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Por outro lado, qualquer atualização feita no campo de assunto em [!DNL Salesforce] irá _não_ sincronizar para o campo de assunto da tarefa de lembrete [!DNL Sales Connect].
+>O campo de assunto de uma tarefa pode ser atualizado em [!DNL Sales Connect] e essa atualização será sincronizada no campo de assunto [!DNL Salesforce] da tarefa sincronizada correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` nas configurações de [Personalização de Detalhes da Atividade](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Por outro lado, qualquer atualização feita no campo de assunto em [!DNL Salesforce] irá *não* sincronizar para o campo de assunto da tarefa de lembrete [!DNL Sales Connect].

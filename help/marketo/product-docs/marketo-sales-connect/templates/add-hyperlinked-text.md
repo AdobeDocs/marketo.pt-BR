@@ -4,9 +4,9 @@ description: Adicionar texto com hiperlink - Documentação do Marketo - Documen
 title: Adicionar texto hipervinculado
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '46'
 ht-degree: 4%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 4%
 
 1. Clique no botão de link no editor.
 
-1. Insira o URL ao qual você deseja que ele seja vinculado (ou seja, &quot;https://www.mywebsite.com&quot;).
+1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, &quot;<https://www.mywebsite.com>&quot;).
 
 1. Clique em **[!UICONTROL OK]**.

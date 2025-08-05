@@ -4,7 +4,7 @@ description: Adicionar [!DNL Facebook] Públicos-alvo personalizados como um [!D
 title: Adicionar [!DNL Facebook] Públicos-alvo Personalizados como um [!DNL LaunchPoint] Serviço
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Com essa integração, você pode enviar dados de público-alvo de listas estát
 
    >[!NOTE]
    >
-   >Você _deve_ usar uma conta do Business Manager [!DNL Facebook] para que a integração de Públicos-alvo personalizados funcione. Para saber como configurar uma conta do Business Manager, consulte [[!DNL Facebook] Ajuda](https://www.facebook.com/business/help/1710077379203657).
+   >Você *deve* usar uma conta do Business Manager [!DNL Facebook] para que a integração de Públicos-alvo personalizados funcione. Para saber como configurar uma conta do Business Manager, consulte [[!DNL Facebook] Ajuda](https://www.facebook.com/business/help/1710077379203657).
 
 1. Se solicitado, clique em **[!UICONTROL OK]** para aceitar a instalação do aplicativo Marketo em [!DNL Facebook].
 

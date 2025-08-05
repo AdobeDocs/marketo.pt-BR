@@ -3,9 +3,9 @@ description: Salesforce Diagnostics - Documentação do Marketo - Documentação
 title: Diagnósticos Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1344'
+source-wordcount: '1342'
 ht-degree: 1%
 
 ---
@@ -181,7 +181,7 @@ incluir na lista de permissões **Etapas de Solução de Problemas:** O Administ
 **Erro:** TXN_SECURITY_NO_ACCESS
 **Categoria:** Acesso/Validação
 **Mensagem:** a operação solicitada não é permitida devido a uma política de segurança em sua organização. Entre em contato com o administrador.
-**O que está acontecendo:** Algum tipo de restrição de segurança foi configurada - consulte https://developer.salesforce.com/forums/?id=&quot;ID do registro&quot;
+**O que está acontecendo:** Algum tipo de restrição de segurança foi configurada - consulte a ID do <https://developer.salesforce.com/forums/?id="record>&quot;
 **Etapas de Solução de Problemas:** Converse com o administrador do [!DNL Salesforce] e veja qual pode ser a restrição específica.
 
 **Erro:** UNABLE_TO_LOCK_ROW

@@ -3,10 +3,10 @@ description: Uso das opções de SMS em uma campanha inteligente - Documentaçã
 title: Utilização das opções de SMS em uma campanha inteligente
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -50,7 +50,7 @@ O acionador **Link de Cliques na Mensagem SMS** inicia um fluxo quando uma pesso
 
 O filtro **Inscrito na Lista de Vibrações** encontra qualquer pessoa que *já* tenha inscrito nas Vibes. Isso inclui pessoas canceladas e excluídas, mesmo que as pessoas excluídas sejam omitidas do fluxo. Esse filtro é mais adequado para relatórios.
 
-Por outro lado, o filtro **Membro da Lista de Vibrações** encontra _qualquer pessoa_ inscrita atualmente nas Vibes e é mais adequado para uso em Campanhas ou listas inteligentes.
+Por outro lado, o filtro **Membro da Lista de Vibrações** encontra *qualquer pessoa* inscrita atualmente nas Vibes e é mais adequado para uso em Campanhas ou listas inteligentes.
 
 >[!NOTE]
 >

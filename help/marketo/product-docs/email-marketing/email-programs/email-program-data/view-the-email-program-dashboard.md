@@ -4,7 +4,7 @@ description: Exibir o painel do programa de e-mail - Documentação do Marketo -
 title: Exibir o painel do programa de e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Se você adicionou um teste A/B ao programa de email e o teste está em execuç�
 
 ## Visualização do programa de email {#email-program-view}
 
-Como alternativa, se você não tiver adicionado um teste A/B *ou* se o teste for concluído, o seguinte deverá ser exibido:
+Como alternativa, se você não tiver adicionado um teste A/B _ou_ se o teste for concluído, o seguinte deverá ser exibido:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 

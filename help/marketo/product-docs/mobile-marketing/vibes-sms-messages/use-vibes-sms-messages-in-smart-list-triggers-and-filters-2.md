@@ -4,7 +4,7 @@ title: Usar mensagens SMS de vibrações em acionadores e filtros de lista intel
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Você também pode usar filtros de Vibes em listas inteligentes. O filtro **[!UI
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Por outro lado, o filtro **Membro da Lista de Vibrações** encontra _qualquer pessoa_ inscrita atualmente nas Vibes e é mais adequado para uso em Campanhas ou listas inteligentes.
+Por outro lado, o filtro **Membro da Lista de Vibrações** encontra *qualquer pessoa* inscrita atualmente nas Vibes e é mais adequado para uso em Campanhas ou listas inteligentes.
 
 ![](assets/image001.png)
 

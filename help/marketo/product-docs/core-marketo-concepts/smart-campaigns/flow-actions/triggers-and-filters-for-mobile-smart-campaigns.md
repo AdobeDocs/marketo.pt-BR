@@ -4,7 +4,7 @@ description: Acionadores e filtros para campanhas inteligentes para dispositivos
 title: Acionadores e filtros para campanhas inteligentes para dispositivos móveis
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 1%
@@ -103,7 +103,7 @@ O Aplicativo Móvel Está/Foi Aberto
 
 Teve/Teve Atividade De Aplicativo Móvel
 
-Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e do [para o iOS](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e do [para o iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tem atividade de aplicativo móvel - acionador
 
@@ -129,7 +129,7 @@ As Restrições de ação permitem usar o acionador e os filtros para rastrear a
 >
 >**Exemplo**
 >
->No tipo de ação de *Compras*, veja uma ação muito específica, com outras restrições definindo-a:
+>No tipo de ação de _Compras_, veja uma ação muito específica, com outras restrições definindo-a:
 >
 >* Comprei uma camisa
 >   * Era vermelho

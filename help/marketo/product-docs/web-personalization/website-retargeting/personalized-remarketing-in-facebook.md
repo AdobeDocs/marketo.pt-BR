@@ -4,7 +4,7 @@ description: Remarketing personalizado no Facebook - Documentação do Marketo -
 title: Remarketing personalizado no Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 8%
@@ -18,7 +18,7 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 >[!PREREQUISITES]
 >
 >* Concluir a configuração de [Redirecionamento com Dados do Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Revise a [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentação do Facebook sobre Públicos-alvo personalizados](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Remarketing.
+>* Revise a [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentação do Facebook sobre Públicos-alvo personalizados](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Remarketing.
 
 ## Criando um Público-alvo em [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -26,35 +26,35 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
 1. Clique em **[!UICONTROL Ferramentas]** e selecione **[!UICONTROL Públicos]**.
 
-   ![](assets/one-1.png)
+![](assets/one-1.png)
 
 1. Clique em **[!UICONTROL Criar um público-alvo personalizado]**.
 
-   ![](assets/two-1.png)
+![](assets/two-1.png)
 
 1. Selecione **[!UICONTROL Tráfego de Site]**.
 
-   ![](assets/image2015-1-19-16-3a32-3a2.png)
+![](assets/image2015-1-19-16-3a32-3a2.png)
 
 1. Na lista [!UICONTROL Tráfego de site], selecione **[!UICONTROL Combinação Personalizada]**.
 
-   ![](assets/image2015-1-19-16-3a33-3a21.png)
+![](assets/image2015-1-19-16-3a33-3a21.png)
 
 1. Na lista Incluir, selecione **[!UICONTROL Evento]**.
 
-   ![](assets/image2015-1-19-16-3a34-3a9.png)
+![](assets/image2015-1-19-16-3a34-3a9.png)
 
 1. Na lista [!UICONTROL Evento], selecione **[!UICONTROL RTP Remarketing]** e escolha um parâmetro.
 
-   ![](assets/image2015-1-19-16-3a52-3a29.png)
+![](assets/image2015-1-19-16-3a52-3a29.png)
 
 1. Neste exemplo, selecione [!UICONTROL Setor] para conter **[!UICONTROL Educação]**. Insira **[!UICONTROL Educação]** e edite **[!UICONTROL Nos Últimos]** para ter 180 dias. Insira O Nome Do Público: **Setor De Educação**. Clique em **[!UICONTROL Criar Público]**.
 
-   ![](assets/image2015-1-19-16-3a56-3a15.png)
+![](assets/image2015-1-19-16-3a56-3a15.png)
 
 1. Agora você criou um novo público-alvo personalizado usando dados RTP em [!DNL Facebook].
 
-   ![](assets/image2015-1-19-16-3a59-3a2.png)
+![](assets/image2015-1-19-16-3a59-3a2.png)
 
 ## Pontos de Dados RTP em [!DNL Facebook] {#rtp-data-points-in-facebook}
 

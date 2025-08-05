@@ -4,7 +4,7 @@ description: Sintaxe de modelo de email - Documentação do Marketo - Documenta�
 title: Sintaxe do modelo de email
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 2%
@@ -31,7 +31,7 @@ Os elementos são regiões de conteúdo definidas como editáveis no modelo de e
 
 * Texto formatado
 * Imagens
-* Bl. conteúdo
+* Blocos de conteúdo
 * Vídeos
 
 ## Texto formatado {#rich-text}
@@ -126,7 +126,7 @@ Atributos obrigatórios
 Exemplo:
 `<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
-## Bl. conteúdo {#snippets}
+## Blocos de conteúdo {#snippets}
 
 Se você definir uma região como um Trecho, os usuários finais poderão escolher qual [Trecho](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)aprovado gostaria de inserir nessa região. Embora os elementos Rich Text possam ser convertidos em trechos a partir do editor de email, ao definir uma região especificamente como um trecho, ela não pode ser convertida em Rich Text. Você pode especificar uma região de trecho usando um `<div>` com class=&quot;mktoSnippet&quot;
 
@@ -230,7 +230,7 @@ Atributos opcionais
 
 Exemplo de declaração:
 
-`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1">`
 
 Exemplo de uso:
 

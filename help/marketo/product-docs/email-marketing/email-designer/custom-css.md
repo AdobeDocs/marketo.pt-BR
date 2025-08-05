@@ -6,7 +6,7 @@ description: Saiba como adicionar CSS personalizado ao seu conteúdo de email di
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 4%
@@ -132,7 +132,6 @@ Abaixo estão exemplos de CSS válido.
 
 +++
 
-
 +++ Exemplos de CSS inválido
 
 Se um CSS inválido for inserido, uma mensagem de erro será exibida, indicando que o CSS não pode ser salvo. Abaixo estão exemplos de CSS inválido.
@@ -200,7 +199,6 @@ Seu CSS personalizado é adicionado ao final da seção `<head>` como parte de u
 ```
 
 +++
-
 
 O CSS personalizado não é interpretado ou validado pelo painel **[!UICONTROL Configurações]** do Email Designer. Ela é totalmente independente e só pode ser modificada por meio da opção **[!UICONTROL Adicionar CSS personalizado]**.
 

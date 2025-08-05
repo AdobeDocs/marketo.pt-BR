@@ -4,7 +4,7 @@ description: Programar programas de email com fuso horário do destinatário - D
 title: Programar programas de e-mail com fuso horário do destinatário
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Isso oferece duas opções:
 >
 >* **[!UICONTROL Entregar o dia seguinte no fuso horário do destinatário]**: se o email estiver agendado para sair na terça-feira às 9:00am, as pessoas qualificadas que vivem nos fusos horários em que o horário agendado já passou receberão o email em *quarta-feira* às 9:00am.
 >
->* **[!UICONTROL Entregar usando a hora definida padrão do programa]**: se o email estiver agendado para sair na terça-feira às 9:00am, as pessoas qualificadas que vivem nos fusos horários em que a hora agendada já passou receberão o email _com base nas configurações de fuso horário da sua assinatura_. Portanto, se as [configurações de fuso horário da sua assinatura](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) estiverem definidas como PDT America/Los Angeles, esses destinatários ainda receberão o email na terça-feira às 9:00am PDT (qualquer hora que estiver em seus próprios fusos horários).
+>* **[!UICONTROL Entregar usando a hora definida padrão do programa]**: se o email estiver agendado para sair na terça-feira às 9:00am, as pessoas qualificadas que vivem nos fusos horários em que a hora agendada já passou receberão o email *com base nas configurações de fuso horário da sua assinatura*. Portanto, se as [configurações de fuso horário da sua assinatura](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) estiverem definidas como PDT America/Los Angeles, esses destinatários ainda receberão o email na terça-feira às 9:00am PDT (qualquer hora que estiver em seus próprios fusos horários).
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Depois de aprovar, o programa começa a ser executado em 15 minutos.
 
 >[!NOTE]
 >
->Embora o programa inicie o _processo_ de envio de emails em 15 minutos, os emails não serão _entregues_ nesse momento. Os destinatários ainda receberão emails com base nas **[!UICONTROL Configurações de Fuso Horário]** escolhidas por você.
+>Embora o programa inicie o *processo* de envio de emails em 15 minutos, os emails não serão *entregues* nesse momento. Os destinatários ainda receberão emails com base nas **[!UICONTROL Configurações de Fuso Horário]** escolhidas por você.
 
 ## Cenário 2: mais de 25 horas {#scenario-more-than-hours}
 
@@ -81,8 +81,8 @@ Isso significa que, se você estiver na América/Los Angeles e quiser habilitar 
 
 Em resumo, os programas de email agendados com o Fuso horário do destinatário precisam começar a ser executados no horário agendado no fuso horário mais antigo (ou seja, onde ele atinge a meia-noite primeiro) para acomodar todos os fusos horários. Portanto, se você agendar um programa de email...
 
-* **com um tempo de entrega de _dentro de_ 25 horas**, o programa começa a ser executado em 15 minutos. Os recipients que já passaram o horário agendado receberão o email com base nas configurações de fuso horário escolhidas.
-* **com um tempo de entrega _superior a_ 25 horas no futuro**, o programa começa a ser executado no horário agendado no fuso horário mais antigo (UTC +14:00).
+* **com um tempo de entrega de *dentro de* 25 horas**, o programa começa a ser executado em 15 minutos. Os recipients que já passaram o horário agendado receberão o email com base nas configurações de fuso horário escolhidas.
+* **com um tempo de entrega *superior a* 25 horas no futuro**, o programa começa a ser executado no horário agendado no fuso horário mais antigo (UTC +14:00).
 * **com Head Start**, o programa inicia o processamento 12 horas antes do horário agendado no fuso horário mais antigo (UTC +14:00).
 
 >[!CAUTION]

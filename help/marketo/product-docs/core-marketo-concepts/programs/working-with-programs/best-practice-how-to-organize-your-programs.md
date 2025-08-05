@@ -4,7 +4,7 @@ description: Prática recomendada - Como organizar seus programas - Documentaç�
 title: Prática recomendada - Como organizar seus programas
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 4%
@@ -30,9 +30,9 @@ Em Atividades de marketing, você deve usar pastas para organizar seus programas
 >* Programas de marketing ativos
 >   * Emails
 >   * Eventos
->      * Eventos ao vivo/Roadshows
->      * Feiras de Negócios
->      * Webinários
+>     * Eventos ao vivo/Roadshows
+>     * Feiras de Negócios
+>     * Webinários
 >   * Boletins informativos
 >   * Nutrição
 >   * Conteúdo da Web
@@ -48,8 +48,8 @@ Em Atividades de marketing, você deve usar pastas para organizar seus programas
 >   * Campanhas de vendas solicitadas
 >* **Arquivar**
 >   * Arquivar eventos
->      * Arquivo 2012
->      * Arquivo 2013
+>     * Arquivo 2012
+>     * Arquivo 2013
 
 Cada um desses mencionados no exemplo é uma pasta. Observe como todos eles são nomeados exclusivamente. Você pode ter nomes duplicados (mais simples) de pastas DENTRO de programas, mas não na raiz da árvore.
 

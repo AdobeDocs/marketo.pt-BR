@@ -4,7 +4,7 @@ description: Noções básicas da área de análise de oportunidade do programa 
 title: Como entender a área de análise de oportunidade do programa
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 20%
@@ -186,7 +186,7 @@ Enquanto as medidas (pontos azuis) são calculadas e exigem algum pensamento e e
  </tbody>
 </table>
 
-*&#42;Todas as Oportunidades que deram qualquer tipo de crédito de atribuição a um Programa. As oportunidades podem ser influenciadas por um ou mais clientes potenciais e por um ou mais Programas.*
+_&#42;Todas as Oportunidades que deram qualquer tipo de crédito de atribuição a um Programa. As oportunidades podem ser influenciadas por um ou mais clientes potenciais e por um ou mais Programas._
 
 >[!MORELIKETHIS]
 >

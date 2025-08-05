@@ -3,7 +3,7 @@ description: Sincronização de tarefa de lembrete com o Salesforce - Documenta�
 title: Sincronização de tarefa de lembrete com o Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -81,4 +81,4 @@ Para ativar esta sincronização, marque a caixa de sincronização na [página 
 
 >[!NOTE]
 >
->O campo de assunto de uma tarefa pode ser atualizado em [!DNL Sales Insight Actions] e essa atualização será sincronizada no campo de assunto [!DNL Salesforce] da tarefa sincronizada correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` nas configurações de [Personalização de Detalhes da Atividade](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Por outro lado, qualquer atualização feita no campo de assunto em [!DNL Salesforce] irá _não_ sincronizar para o campo de assunto da tarefa de lembrete [!DNL Sales Insight Actions].
+>O campo de assunto de uma tarefa pode ser atualizado em [!DNL Sales Insight Actions] e essa atualização será sincronizada no campo de assunto [!DNL Salesforce] da tarefa sincronizada correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` nas configurações de [Personalização de Detalhes da Atividade](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Por outro lado, qualquer atualização feita no campo de assunto em [!DNL Salesforce] irá *não* sincronizar para o campo de assunto da tarefa de lembrete [!DNL Sales Insight Actions].

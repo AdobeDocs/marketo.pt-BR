@@ -4,7 +4,7 @@ description: Noções básicas sobre custos do período - Documentação do Mark
 title: Noções Básicas sobre Custos do Período
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Imagine um evento, como um webinário, que ocorre em março. Novas pessoas são 
 
    ![](assets/graph1.png)
 
-   ...contatos adicionados nos meses anteriores e posteriores *somente* contarão até março.
+   ...contatos adicionados nos meses anteriores e posteriores _somente_ contarão até março.
 
    ![](assets/graph2.png)
 

@@ -3,9 +3,9 @@ description: Por que meus campos dinâmicos não estão sendo preenchidos? - Doc
 title: Por que meus campos dinâmicos não estão sendo preenchidos?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Há três tipos de campos dinâmicos em Ações do Sales Insight: Básico, Perso
 
 [!DNL Salesforce] Campos: ex.: `{{sfdc_account_name}}`
 
-* Verifique se ele está conectado corretamente às Ações do Sales Insight. Vá para a página [Configurações]&#x200B;(https://toutapp.com/login{target="_blank"} e clique em **Gerenciar** ao lado do seu CRM.
+* Verifique se ele está conectado corretamente às Ações do Sales Insight. Vá para a página [Configurações]&#x200B;(<https://toutapp.com/login{target="_blank"}> e clique em **Gerenciar** ao lado do seu CRM.
 
 **Solução de problemas de campos básicos e personalizados**
 

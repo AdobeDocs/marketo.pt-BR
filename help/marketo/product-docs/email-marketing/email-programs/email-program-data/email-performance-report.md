@@ -4,7 +4,7 @@ description: Relatório de desempenho de email - Documentação do Marketo - Doc
 title: Relatório de desempenho de email
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 2%
@@ -36,6 +36,7 @@ Para ver o desempenho de seus emails com estatísticas como entregue, aberto, cl
    [Selecione as Colunas do Relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho de Email:
 
    <table><thead>
+
 <tr>
     <th>Coluna</th>
     <th>Descrição</th>
@@ -75,7 +76,7 @@ Em geral, tentamos usar o senso comum para registrar essas estatísticas. Por ex
 
 * **Regra 1**: cada registro de atividade de email está definido como um, e somente como um, dos seguintes itens: _Entregues_, _Com rejeição permanente_, _Com rejeição temporária_ ou _Pendentes_.
 
-* **Regra 2**: se o registro de email mostrar *[!UICONTROL Aberto]*, será contado como *Entregue*.
+* **Regra 2**: se o registro de email mostrar _[!UICONTROL Aberto]_, será contado como _Entregue_.
 
 * **Regra 3**: se o registro de email mostrar _[!UICONTROL Email Clicado]_ ou _[!UICONTROL Cancelado]_, ele será contado como _Entregue_ e _Aberto_.
 

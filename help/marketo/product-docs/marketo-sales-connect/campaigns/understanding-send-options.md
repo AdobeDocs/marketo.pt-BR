@@ -4,7 +4,7 @@ description: Noções básicas sobre as opções de envio - Documentação do Ma
 title: Noções básicas sobre as opções de envio
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -63,4 +63,3 @@ Para quaisquer dias/etapas subsequentes do Campaign, você terá as seguintes op
 **Encadear este email no email anterior**
 
 * Essa opção de envio será um acompanhamento do email anterior e anexará o corpo do email anterior à parte inferior desse email.
-

@@ -3,7 +3,7 @@ description: Conteúdo CT-YYYY-MM na página de aterrissagem do Marketo - Docume
 title: Conteúdo de CT-YYYY-MM na página de aterrissagem do Marketo
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 12%

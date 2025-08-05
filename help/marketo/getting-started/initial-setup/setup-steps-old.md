@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '2087'
+source-wordcount: '2086'
 ht-degree: 1%
 
 ---
@@ -162,7 +162,7 @@ Há várias medidas que você pode tomar para garantir que os emails cheguem ao 
 * **Configure um registro MX para o seu domínio.** Um registro MX permite que você receba emails do domínio do qual você está enviando emails para processar respostas e respostas automáticas. Se estiver enviando do domínio corporativo, provavelmente você já tem essa configuração. Caso contrário, geralmente é possível configurar o para mapear para o registro MX do domínio corporativo.
 * **Configurações Recomendadas para o Endereço do Remetente.** Você deve usar um domínio de email válido, existente e em funcionamento no Endereço do remetente em todas as campanhas de email. Pode ser útil configurar um subdomínio do domínio corporativo em vez de enviar a partir desse domínio. Isso garantirá que os problemas no fluxo de correio corporativo não afetem o fluxo de correio da Marketo e vice-versa. Além disso, o envio de emails de `something@nonexistentdomain.com` fará com que emails sejam filtrados ou bloqueados. Qualquer domínio usado no endereço &quot;De&quot; do remetente deve ter uma conta postmaster@ e abuse@ válida e funcional.
 
-Se você estiver usando os aplicativos Google para hospedar emails corporativos, não será possível criar emails de abuso@ ou postmaster@ no seu domínio. Para contornar isso, você precisa criar grupos chamados &quot;abuso&quot; e &quot;postmaster&quot;. Os usuários membros desses grupos receberão emails enviados para esses endereços (por exemplo, postmaster@domain.com). Instruções detalhadas para a criação de grupos podem ser encontradas [aqui](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+Se você estiver usando os aplicativos Google para hospedar emails corporativos, não será possível criar emails de abuso@ ou postmaster@ no seu domínio. Para contornar isso, você precisa criar grupos chamados &quot;abuso&quot; e &quot;postmaster&quot;. Os usuários membros desses grupos receberão emails enviados para esses endereços (por exemplo, <postmaster@domain.com>). Instruções detalhadas para a criação de grupos podem ser encontradas [aqui](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Escolha um CNAME para links de rastreamento de email (escolha um que seja _diferente_ do CNAME da página de aterrissagem que você escolheu na Etapa 3). Alguns exemplos:
 
@@ -227,7 +227,6 @@ Agora, nossa Equipe de marketing está usando a plataforma Marketo para se comun
 `3)` Incluir na lista de permissões Marketo.
 
     * Se usarmos endereços IP em nossa Inclui na lista de permissões por email, adicione os IPs listados abaixo:
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -351,6 +350,6 @@ O Marketo tem JavaScript de rastreamento personalizado (chamado [!DNL Munchkin])
 
 ## Expectativas de desempenho {#performance-expectations}
 
-O que você pode esperar do Marketo em termos de desempenho? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias tabelas encontradas na [Descrição do produto Marketo Engage](https://helpx.adobe.com/br/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. As colunas &quot;Desempenho&quot; e &quot;Desempenho Adicional&quot; referem-se a pacotes de camada de desempenho que fornecem [níveis de desempenho mais altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+O que você pode esperar do Marketo em termos de desempenho? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias tabelas encontradas na [Descrição do produto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. As colunas &quot;Desempenho&quot; e &quot;Desempenho Adicional&quot; referem-se a pacotes de camada de desempenho que fornecem [níveis de desempenho mais altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Todas as etapas de configuração foram concluídas. A única coisa que resta é mergulhar e usar o Marketo!

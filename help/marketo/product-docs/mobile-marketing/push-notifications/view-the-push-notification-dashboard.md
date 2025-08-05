@@ -4,7 +4,7 @@ description: Exibir o painel de notificação por push - Documentação do Marke
 title: Exibir o painel de notificação por push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >A métrica _Enviado_ pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso porque é calculado com base no *número de dispositivos* qualificados para receber seu push. Por exemplo, se uma única pessoa tiver três dispositivos, o painel registrará três envios, não um.
+   >A métrica _Enviado_ pode refletir mais envios do que o número exato de pessoas para as quais a notificação por push foi enviada. Isso porque é calculado com base no _número de dispositivos_ qualificados para receber seu push. Por exemplo, se uma única pessoa tiver três dispositivos, o painel registrará três envios, não um.
 
    >[!MORELIKETHIS]
    >

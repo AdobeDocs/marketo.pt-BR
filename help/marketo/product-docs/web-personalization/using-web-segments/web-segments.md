@@ -4,7 +4,7 @@ description: Segmentos da Web - Documentação do Marketo - Documentação do pr
 title: Segmentos da Web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 5%
@@ -177,7 +177,7 @@ Na seção **[!UICONTROL Segmentação de Perfil]**, marque a caixa ao lado de *
 * **É destas empresas (nomes específicos)**
 
    * Selecione a empresa a ser direcionada no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
-   * Você pode digitar o nome exato da organização que deseja direcionar. *É _sempre_ recomendável usar Listas de Contas Nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
+   * Você pode digitar o nome exato da organização que deseja direcionar. *É *sempre* recomendável usar Listas de Contas Nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
 
 **Lista de Contas Nomeadas**
 
@@ -187,7 +187,7 @@ Selecione de uma [Lista de contas nomeadas](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
+>O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
 
 **Excluir ISP**
 
@@ -286,7 +286,7 @@ Adicione o valor de Evento que deseja direcionar. Por exemplo, de fontes de dado
 
 **API de Contexto de Usuário**
 
-Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

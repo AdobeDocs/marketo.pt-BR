@@ -3,9 +3,9 @@ description: Visão geral do rastreamento de email - Documentação do Marketo -
 title: Visão geral do rastreamento de email
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ O rastreamento de resposta é feito observando uma ID de mensagem que está em t
 
 Se [!DNL Sales Connect] não puder acompanhar a resposta do seu cliente potencial ao email, ele não poderá interromper uma campanha com base na detecção de resposta ou registrar essa resposta à Salesforce. O que significa que qualquer endereço de email pode responder?
 
-Isso significa que se você enviar um email para flynn@flynnsarcade.com e ele responder com kevinf@flynnsarcade.com, poderemos rastrear a resposta. Além disso, se você enviar um email para flynn@flynnsarcade.com e CC alan@encom.com, e Alan enviar uma resposta, ele também detectará a resposta e encerrará a campanha.
+Isso significa que, se você enviar um email para <flynn@flynnsarcade.com> e ele responder com <kevinf@flynnsarcade.com>, poderemos acompanhar a resposta. Além disso, se você enviar um email para <flynn@flynnsarcade.com> e CC <alan@encom.com>, e Alan lhe enviar uma resposta, ele também detectará a resposta e encerrará a campanha.
 
 ## Como rastrear anexos de email {#how-to-track-your-email-attachments}
 

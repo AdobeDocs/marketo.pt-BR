@@ -2,7 +2,7 @@
 description: Notas de versão - agosto de 2021 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Agosto de 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] Integração do Forms com a Geração de Clientes Potenciais**: os profissionais de marketing agora podem realizar atribuição de receita em conversões que ocorrem quando [!DNL LinkedIn] captura preenchimentos de formulário por meio de suas unidades de anúncio do Forms de Geração de Clientes Potenciais. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. A Geração líder de Forms [!DNL LinkedIn] é uma das ofertas de mídia paga de crescimento mais rápido da [!DNL LinkedIn] e esse novo recurso está incluído na integração existente do [!DNL LinkedIn] Ads com o [!DNL Bizible]. 
- 
+* **[!DNL Bizible][!DNL LinkedIn] Integração do Forms com a Geração de Clientes Potenciais**: os profissionais de marketing agora podem realizar atribuição de receita em conversões que ocorrem quando [!DNL LinkedIn] captura preenchimentos de formulário por meio de suas unidades de anúncio do Forms de Geração de Clientes Potenciais. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. A Geração líder de Forms [!DNL LinkedIn] é uma das ofertas de mídia paga de crescimento mais rápido da [!DNL LinkedIn] e esse novo recurso está incluído na integração existente do [!DNL LinkedIn] Ads com o [!DNL Bizible].
+
 * **Painel do Velocity aprimorado**: adicionamos uma nova métrica de velocidade e um novo filtro de painel para obter insights mais profundos. Esse painel é usado pelos profissionais de marketing para entender a velocidade do lead e da oportunidade estágio por estágio e a eficiência de diferentes formas de envolvimento de marketing e vendas.
 
 * **Novo Painel de Jornada em cascata de coorte**: isso permitirá que os profissionais de marketing visualizem a progressão de uma coorte selecionada por meio de um conjunto clássico de estágios de &quot;cascata de demanda&quot;, fornecendo um rápido entendimento das taxas de conversão e da causalidade de conversão de estágio implícita em cada estágio.

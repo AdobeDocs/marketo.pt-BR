@@ -4,7 +4,7 @@ description: Modelo 1E - Documentação do Marketo - Documentação do produto
 title: Modelo 1E
 exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modelo 1E {#template-1e}
 
-Clique com o botão direito do mouse para [baixar Modelo 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=pt-BR)
+Clique com o botão direito do mouse para [baixar Modelo 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=pt-BR)
+[Modelo 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)

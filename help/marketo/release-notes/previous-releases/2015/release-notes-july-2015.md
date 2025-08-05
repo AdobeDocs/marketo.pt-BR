@@ -4,9 +4,9 @@ description: Notas de versão - julho de 2015 - Documentação do Marketo - Docu
 title: Notas de versão - julho de 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Você configurou várias campanhas RTP personalizadas e notou que algumas delas 
 
 **Acesso ao objeto da empresa por meio da REST API**: a REST API agora fornece acesso ao objeto da Marketo Company (também conhecida como Account). Isso significa que você pode ler, atualizar e excluir objetos da empresa criados no Marketo e associar clientes em potencial a essas empresas usando a API [!DNL Lead] atualizada.
 
-Saiba [mais]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) em nosso guia de referência para a API da empresa.
+Saiba [mais]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>) em nosso guia de referência para a API da empresa.
 
 ## Acessar a entregabilidade de email {#access-email-deliverability}
 

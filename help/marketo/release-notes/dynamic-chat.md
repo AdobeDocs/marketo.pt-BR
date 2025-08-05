@@ -3,7 +3,7 @@ description: Notas de versão do Dynamic Chat - Documentação do Marketo - Docu
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '3408'
 ht-degree: 2%
@@ -104,7 +104,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível for 
 
 <p>
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Roteamento de conta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento personalizado**&#x200B;_
+_**Roteamento personalizado**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**Roteamento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento de Equipe**&#x200B;_
+_**Roteamento de Equipe**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Roteamento de Equipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 <table><thead>
   <tr>
