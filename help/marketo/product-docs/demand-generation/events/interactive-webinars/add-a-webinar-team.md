@@ -3,9 +3,9 @@ description: Adicionar uma equipe ao webinário - Documentação do Marketo - Do
 title: Adicionar uma equipe ao webinário
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Adicionar uma equipe ao webinário {#add-a-webinar-team}
 
 Uma Equipe de webinários em webinários interativos consiste em todas as funções que contribuem para a entrega bem-sucedida do webinário no Adobe Connect. Isso inclui apresentadores e co-hosts.
-
->[!IMPORTANT]
->
->É altamente recomendável que você [crie seu webinário](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes_ de adicionar apresentadores ou co-hosts.
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ O apresentador é uma função externa que participa da entrega da experiência 
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> O ícone ![copiar URL do co-host](assets/icon-copy-join-url.png) copia a URL de ingresso do co-host, e o ícone ![enviar co-host um email de convite](assets/icon-send-invitation-email.png) envia um email de convite para o co-host.
+
 ## Adicionar um Apresentador {#add-a-presenter}
 
 1. Na página Visão geral do webinário interativo, clique em **Adicionar apresentadores**.
@@ -70,9 +70,9 @@ O apresentador é uma função externa que participa da entrega da experiência 
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->Depois de adicionar uma Equipe de webinário, você pode clicar no ícone de cópia ao lado de cada usuário para copiar (e compartilhar) os URLs de associação.
+> O ícone ![copiar URL do apresentador](assets/icon-copy-join-url.png) copia a URL de ingresso do apresentador, e o ícone ![enviar email de convite](assets/icon-send-invitation-email.png) envia um email de convite para o apresentador.
 
 >[!MORELIKETHIS]
 >
