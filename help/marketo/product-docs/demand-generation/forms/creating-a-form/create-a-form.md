@@ -4,20 +4,20 @@ description: Criar um formulário - Documentação do Marketo - Documentação d
 title: Criar um formulário
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Criar um formulário {#create-a-form}
 
-Crie e use um formulário em uma página de aterrissagem para gerar novos nomes. É muito fácil. Veja como começar.
+Crie e use um formulário em uma landing page para gerar novos nomes ou capturar os dados desejados.
 
 >[!NOTE]
 >
->Saiba o que a Marketo está fazendo para [manter seus formulários seguros](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Saiba o que a Marketo Engage está fazendo para [manter seus formulários seguros](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Vá para **[!UICONTROL Atividades de marketing]**.
 
@@ -41,9 +41,7 @@ Crie e use um formulário em uma página de aterrissagem para gerar novos nomes.
 
 >[!TIP]
 >
->A maioria dos clientes cria um novo formulário para cada página de aterrissagem, mas você também pode criar um formulário a ser usado com várias páginas de aterrissagem. Depende inteiramente de você!
-
-Doce! Agora que o formulário foi criado, vamos vesti-lo.
+>A maioria dos usuários cria um novo formulário para cada Página de aterrissagem, mas você também pode criar um formulário a ser usado com várias Páginas de aterrissagem. Depende inteiramente de você!
 
 >[!MORELIKETHIS]
 >
