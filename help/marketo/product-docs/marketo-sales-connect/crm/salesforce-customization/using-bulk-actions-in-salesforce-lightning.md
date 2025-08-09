@@ -18,8 +18,8 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 >[!PREREQUISITES]
 >
 >Atualize para a versão mais recente do pacote [!DNL Sales Connect] e instale os botões de ação em massa na exibição de cliente potencial/contato.
->* [Instruções em inglês](assets/SF+Guide+for+Lightning-EN)
->* [Instruções em japonês](assets/SF+Guide+for+Lightning-JA)
+>* [Instruções em inglês] (assets/SF+Guide+for+Lightning-EN)
+>* [Instruções em japonês] (assets/SF+Guide+for+Lightning-JA)
 
 >[!NOTE]
 >
