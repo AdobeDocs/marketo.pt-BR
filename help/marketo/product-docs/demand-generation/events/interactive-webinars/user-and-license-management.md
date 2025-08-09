@@ -3,9 +3,9 @@ description: Gerenciamento de usuários e licenças - Documentação do Marketo 
 title: Gerenciamento de usuários e licenças
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 2%
 
 ---
@@ -89,7 +89,7 @@ Webinars interativos oferecem licenças específicas para criar eventos viabiliz
   </tr>
   <tr>
    <td width="20%"><b>Eventos consumidos</b></td>
-   <td width="80%">O número total de eventos concluídos.</td>
+   <td width="80%">Todos os eventos concluídos e agendados no momento. <a href="#things-to-note">saiba mais</a></td>
   </tr>
   <tr>
    <td width="20%"><b>Capacidade de armazenamento</b></td>
@@ -98,13 +98,13 @@ Webinars interativos oferecem licenças específicas para criar eventos viabiliz
   </tbody>
 </table>
 
-**Anotações**
+### Itens a Observar {#things-to-note}
+
+* Toda vez que um evento é criado, ele é contado como &quot;consumido&quot; de sua respectiva licença (a menos que seja uma Licença de sala compartilhada). Será dada preferência à &quot;Licença de evento compartilhado&quot; se houver a &quot;Licença de evento compartilhado&quot; e a &quot;Licença de quarto compartilhado&quot; com a mesma capacidade. Se o evento não tiver sido entregue e o Programa de evento for excluído antes do horário agendado, a contagem de eventos será reposta. Se o evento não for entregue e o Programa de evento não for excluído antes do horário programado, o evento não será reposto.
 
 * O tipo &quot;Licença de Armazenamento Adicional&quot; apenas fornece armazenamento, portanto, o valor em cada campo _além de_ Capacidade de Armazenamento será listado simplesmente como &quot;-&quot;.
 
 * O tipo &quot;Licença de quarto compartilhado&quot; tem eventos ilimitados e &quot;Licença de armazenamento adicional&quot; apenas fornece armazenamento, portanto, o campo Total de eventos para essas licenças será listado simplesmente como &quot;-&quot;.
-
-* Toda vez que um evento for criado, ele contará como &quot;consumido&quot; de sua respectiva licença (a menos que seja uma Licença de sala compartilhada). Será dada preferência à &quot;Licença de evento compartilhado&quot; se houver a &quot;Licença de evento compartilhado&quot; e a &quot;Licença de quarto compartilhado&quot; com a mesma capacidade. Se o evento não tiver sido entregue e o Programa de evento for excluído antes do horário agendado, a contagem de eventos será reposta subtraindo-se um evento de Eventos consumidos.
 
 * Depois que uma licença for esgotada, seu bloco permanecerá na tela Webinars interativos na seção de Administrador com &quot;Total de eventos&quot; e &quot;Eventos consumidos&quot; tendo o mesmo valor. Somente quando a licença expirar ela será removida da tela.
 
