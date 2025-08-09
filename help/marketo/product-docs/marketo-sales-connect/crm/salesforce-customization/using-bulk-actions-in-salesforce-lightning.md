@@ -4,9 +4,9 @@ description: Uso de ações em massa no Salesforce Lightning - Documentação do
 title: Utilização de ações em massa no Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fad80e8dccbad19b76570ee49fd8e7def0103fb1
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,10 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 
 >[!PREREQUISITES]
 >
->Atualize para a versão mais recente do pacote [!DNL Sales Connect] e instale os botões de ação em massa na exibição de cliente potencial/contato. [Clique aqui para obter instruções](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Atualize para a versão mais recente do pacote [!DNL Sales Connect] e instale os botões de ação em massa na exibição de cliente potencial/contato.
+>* [Instruções em inglês](assets/SF+Guide+for+Lightning-EN)
+>* [Instruções em japonês, coreano, chinês](assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [Instruções em espanhol, francês, alemão, italiano, sueco](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
