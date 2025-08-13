@@ -8,9 +8,9 @@ feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ O designer de email tem um formato diferente do editor de email clássico quando
 
 ## Caso de uso principal {#primary-use-case}
 
-Esse aprimoramento beneficia principalmente as transições de [scripts do Velocity](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting){target="_blank"} para scripts do Handlebar. O novo designer de email só oferece suporte ao novo formato de token. O formato atualizado elimina espaços e introduz uma estrutura de texto padrão revisada, garantindo uma experiência de script mais suave e eficiente.
+Esse aprimoramento beneficia principalmente as transições de [scripts do Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} para scripts do Handlebar. O novo designer de email só oferece suporte ao novo formato de token. O formato atualizado elimina espaços e introduz uma estrutura de texto padrão revisada, garantindo uma experiência de script mais suave e eficiente.
 
 ## Experiência do token {#token-experience}
 
@@ -49,6 +49,5 @@ No designer de email, você deve usar [camel case](https://developer.mozilla.org
 
    * Desfazer/refazer
    * Localizar/Localizar e substituir
-   * Preenchimento automático
 
 * **Todos** os tokens anteriormente suportados no Marketo Engage são suportados pelo novo editor de personalização.
