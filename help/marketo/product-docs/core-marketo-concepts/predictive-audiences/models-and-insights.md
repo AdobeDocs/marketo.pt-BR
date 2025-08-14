@@ -3,10 +3,10 @@ description: Modelos e insights - Documentação do Marketo - Documentação do 
 title: Modelos e insights
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 785f7ce976e96deaef37e197f6ba772b477aa81c
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 3%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ O desempenho de seus modelos depende da qualidade e da integridade dos dados de 
 
 Aqui está como avaliar seu modelo de saúde.
 
-Navegue até a seção **[!UICONTROL Modelos e Integridade dos Dados]** em **[!UICONTROL Públicos-alvo preditivos]** na área **[!UICONTROL Administrador]** do Marketo Engage. Aqui você verá todos os seus modelos e seus status.
+Navegue até a seção **[!UICONTROL Modelos e Integridade dos Dados]** em **[!UICONTROL Predictive Audiences]** na área **[!UICONTROL Administrador]** do Marketo Engage. Aqui você verá todos os seus modelos e seus status.
 
 ![Imagem 1](assets/models-and-insights-1.png)
 
@@ -29,3 +29,5 @@ Navegue até a seção **[!UICONTROL Modelos e Integridade dos Dados]** em **[!U
 * **Desempenho**: categorização da integridade do seu modelo com base na Integridade dos Dados e na Qualidade dos Dados (veja abaixo).
 * **Integridade dos Dados**: porcentagem de atributos de dados que estão presentes/completos.
 * **Qualidade dos dados**: porcentagem de atributos que contêm dados válidos e utilizáveis.
+
+* **Último treinamento**: a data do modelo que é a melhor da avaliação entre o modelo atual e o novo modelo que é treinado a cada duas semanas.
