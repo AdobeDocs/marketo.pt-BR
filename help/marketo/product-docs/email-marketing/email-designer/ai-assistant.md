@@ -6,16 +6,16 @@ description: Aproveite a tecnologia de IA gerativa da Adobe para adicionar texto
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
-ht-degree: 0%
+source-wordcount: '726'
+ht-degree: 1%
 
 ---
 
-# Usar o Assistente de IA {#use-the-ai-assistant}
+# Usar o Assistente de IA {#use-ai-assistant}
 
-O Assistente de IA no Marketo Engage Email Designer ajuda a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
+O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
 
 >[!PREREQUISITES]
 >
@@ -93,7 +93,7 @@ Após a criação do email, você tem a opção de modificar determinadas seçõ
 
 ![](assets/use-the-ai-assistant-7.png)
 
-Neste exemplo, estamos usando um modelo de assistência médica. Se a imagem existente do especialista em saúde não atender às suas necessidades, você pode instruir o assistente de IA a criar sua própria imagem de um especialista em saúde. Basta selecionar o conteúdo da imagem e clicar no assistente de IA.
+Neste exemplo, estamos usando um modelo de assistência médica. Se a imagem existente do especialista em saúde não atender às suas necessidades, você pode instruir o assistente de IA a criar sua própria imagem de um especialista em saúde. Basta selecionar o conteúdo da imagem e clicar em Assistente de IA.
 
 ![](assets/use-the-ai-assistant-8.png)
 
