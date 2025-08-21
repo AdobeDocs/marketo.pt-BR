@@ -4,9 +4,9 @@ description: Visualizar um formulário - Documentação do Marketo - Documentaç
 title: Visualizar um formulário
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -17,26 +17,24 @@ Antes de publicar, você pode ver o formulário neste pré-visualizador de formu
 
 1. Vá para **[!UICONTROL Atividades de marketing]**.
 
-   ![](assets/login-marketing-activities-6.png)
+   ![](assets/preview-a-form-1.png)
 
-1. Localize e selecione seu formulário.
+1. Selecione o formulário e clique em **[!UICONTROL Visualizar]**.
 
-   ![](assets/image2014-9-15-17-3a45-3a51.png)
+   ![](assets/preview-a-form-2.png)
 
-1. Em **[!UICONTROL Ações de Formulário]**, clique em **[!UICONTROL Visualizar]**.
+   >[!NOTE]
+   >
+   >Se o formulário não for aprovado, clique em **Visualizar rascunho**.
 
-   ![](assets/image2014-9-15-17-3a46-3a9.png)
+1. O editor de formulários será aberto no modo _visualização_.
 
-1. O editor de formulários será aberto no modo **[!UICONTROL visualização]**.
+   ![](assets/preview-a-form-3.png)
 
-   ![](assets/image2014-9-15-17-3a46-3a17.png)
+1. Clique em **[!UICONTROL Editar rascunho]** para voltar para o modo _editar_.
 
-1. Clique em **[!UICONTROL Editar rascunho]** para voltar para o modo **[!UICONTROL editar]**.
-
-   ![](assets/image2014-9-15-17-3a46-3a37.png)
+   ![](assets/preview-a-form-4.png)
 
 1. Retorne facilmente clicando em **[!UICONTROL Visualizar Rascunho]**.
 
-   ![](assets/image2014-9-15-17-3a46-3a45.png)
-
-Não foi fácil? Agora você sabe como visualizar seu formulário enquanto faz alterações.
+   ![](assets/preview-a-form-5.png)
