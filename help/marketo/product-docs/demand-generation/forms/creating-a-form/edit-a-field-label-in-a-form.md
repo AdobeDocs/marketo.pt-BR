@@ -4,9 +4,9 @@ description: Editar um rótulo de campo em um formulário - Documentação do Ma
 title: Editar um rótulo de campo em um formulário
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '120'
 ht-degree: 1%
 
 ---
@@ -17,30 +17,32 @@ Você pode alterar o rótulo em um formulário para qualquer coisa - você pode 
 
 1. Vá para **[!UICONTROL Atividades de marketing]**.
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. Selecione seu formulário e clique em **[!UICONTROL Editar Formulário]**.
+1. Selecione seu formulário e clique em **[!UICONTROL Criar rascunho]**.
 
-   ![](assets/image2014-9-15-17-3a26-3a27.png)
+   ![](assets/edit-a-field-label-in-a-form-2.png)
+
+   >[!NOTE]
+   >
+   >Se o seu formulário ainda não tiver sido aprovado, clique em **Editar rascunho**.
 
 1. Selecione seu campo e edite o **[!UICONTROL Rótulo]**. Os campos nas Configurações do formulário refletirão os rótulos inseridos.
 
-   ![](assets/image2014-9-15-17-3a26-3a42.png)
+   ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >Se você quiser se fantasiar, clique no ![lápis](assets/image2014-9-15-17-3a27-3a7.png). Isso abrirá um editor de rich text e permitirá que você vá para a cidade com imagens, links e muito mais!
+   >Clique no ícone de ![lápis](assets/icon-pencil.png) para acessar o editor de rich text.
 
 1. Clique em **[!UICONTROL Concluir]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a26.png)
+   ![](assets/edit-a-field-label-in-a-form-4.png)
 
 1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a44.png)
+   ![](assets/edit-a-field-label-in-a-form-5.png)
 
 >[!NOTE]
 >
->Não esqueça de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
-
-É isso aí! Pouco a pouco você vai se tornando um defensor do design.
+>Não esqueça de [aprovar o rascunho da Página de Aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} criado pelas alterações de formulário.
