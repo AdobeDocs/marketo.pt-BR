@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 14%
 
 ---
@@ -259,11 +259,11 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Velocity Scripting</td>
     <td>Capacidade de usar o script do Velocity em emails.</td>
     <td>Disponível</td>
-    <td>Em breve</td>
+    <td>Não é necessário</td>
   </tr>
   <tr>
-    <td>Kit da marca</td>
-    <td>Capacidade de melhorar os emails refletindo as diretrizes da marca.</td>
+    <td>Script Handlebar</td>
+    <td>Capacidade de usar o script do Velocity em emails.</td>
     <td>Indisponível</td>
     <td>Planejado para o 3º trimestre de 2025</td>
   </tr>
@@ -272,6 +272,12 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Capacidade de introduzir workflows de aprovação para emails no Marketo Engage.</td>
     <td>Indisponível</td>
     <td>Planejado para o 4º trimestre de 2025</td>
+  </tr>
+  <tr>
+    <td>Kit da marca</td>
+    <td>Capacidade de melhorar os emails refletindo as diretrizes da marca.</td>
+    <td>Indisponível</td>
+    <td>Planejado para o primeiro trimestre de 2026</td>
   </tr>
   <tr>
     <td>Experimentação (teste A/B)</td>
