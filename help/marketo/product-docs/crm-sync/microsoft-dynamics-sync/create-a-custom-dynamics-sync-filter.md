@@ -4,22 +4,22 @@ description: Criar um  [!DNL Dynamics] Filtro de sincronização - Documentaçã
 title: Criar um Filtro de Sincronização  [!DNL Dynamics]  Personalizado
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
 
 # Criar um filtro de sincronização [!DNL Dynamics] personalizado {#create-a-custom-dynamics-sync-filter}
 
-Não deseja sincronizar tudo no Dynamics CRM com o Marketo Engage? Não se preocupe! O Marketo permite configurar um filtro de sincronização e sincronizar apenas parte de seus registros.
+O Marketo permite configurar um filtro de sincronização e sincronizar apenas parte de seus registros.
 
 ## Visão geral {#overview}
 
 Para configurar um filtro de sincronização [!DNL Dynamics]:
 
-1. Crie um campo personalizado de Duas Opções (booleano) chamado new_synctomkto no Dynamics CRM para qualquer objeto (cliente potencial, contato, conta, oportunidade e outras entidades personalizadas).
+1. Crie um campo personalizado de Duas Opções (booleano) chamado `new_synctomkto` no Dynamics CRM para qualquer objeto (cliente potencial, contato, conta, oportunidade e outras entidades personalizadas).
 1. Atribua um valor Sim/Não a esse campo.
 
 Essas alterações devem ser feitas no Dynamics CRM, não no banco de dados ou no Marketo.
@@ -140,10 +140,6 @@ Estes são alguns detalhes de implementação que pensamos que você deveria sab
 * Iniciar uma Operação de Sincronização
 
   Quando o valor **SyncToMkto** muda de **Não** para **Sim**, [!DNL Dynamics] notifica o Marketo imediatamente para começar a sincronizar este registro. Se o registro já existir, o Marketo o atualizará. Caso contrário, o Marketo criará o registro.
-
-  >[!TIP]
-  >
-  >Uma operação `Create [StartSync]` é adicionada ao Log do Marketo quando isso ocorre.
 
 * Parar uma operação de sincronização
 

@@ -4,16 +4,16 @@ description: Noções básicas sobre a otimização do mecanismo de pesquisa - D
 title: Noções básicas sobre a otimização do mecanismo de pesquisa
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
 # Noções básicas sobre a otimização do mecanismo de pesquisa {#understanding-search-engine-optimization}
 
-A Otimização do mecanismo de pesquisa (SEO) é uma coleção de práticas recomendadas que ajudam você a colocar suas páginas na frente das pessoas que usam mecanismos de pesquisa. O aplicativo SEO da Marketo ajudará você a melhorar o.
+A Otimização do mecanismo de pesquisa (SEO) é uma coleção de práticas recomendadas que ajudam você a colocar suas páginas na frente das pessoas que usam mecanismos de pesquisa. O aplicativo SEO da Marketo ajuda você a melhorar o.
 
 Primeiro, você deve aprender as noções básicas com este glossário prático.
 
@@ -25,9 +25,9 @@ Primeiro, você deve aprender as noções básicas com este glossário prático.
 
 **Links de entrada**: links em outros sites direcionando tráfego para o site. Quanto maior a reputação do site de vinculação, mais valioso será esse link de entrada.
 
-**classificação SERP**: significa Página de Resultado do Mecanismo de Pesquisa. Os mecanismos de pesquisa retornam várias páginas de resultados. A classificação SERP é a página em que seu link aparece. Normalmente, há 10 resultados por página.
+**classificação SERP**: significa Página de Resultado do Mecanismo de Pesquisa. Os mecanismos de pesquisa retornam várias páginas de resultados. A classificação SERP é a página em que o link é exibido. Normalmente, há 10 resultados por página.
 
-**Exibição do Mecanismo de Pesquisa**: a forma como um computador do mecanismo de pesquisa percebe o site, em oposição à forma como um ser humano.
+**Exibição do Mecanismo de Pesquisa**: a forma como um computador do mecanismo de pesquisa percebe o site, e não a forma como um ser humano.
 
 **Termos de Pesquisa do Fat Head**: palavras-chave genéricas que lançam uma rede muito grande. Eles representam cerca de 19% de todos os termos de pesquisa usados.
 

@@ -4,9 +4,9 @@ description: Importar uma lista de pessoas - Documentação do Marketo - Documen
 title: Importar uma lista de pessoas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '577'
 ht-degree: 12%
 
 ---
@@ -127,7 +127,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. De volta ao **Meu programa de feiras**, clique na guia **[!UICONTROL Membros]**. Você verá todas as pessoas que acabou de importar.
+1. De volta ao **Meu programa de feiras**, clique na guia **[!UICONTROL Membros]**. Você vê todas as pessoas que acabou de importar.
 
    ![](assets/import-a-list-of-people-15.png)
 
@@ -141,6 +141,6 @@ Agora os participantes de seu evento comercial são membros de seu programa do M
 
 <br> 
 
-[Missão 4: Resposta automática de e-mail](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ Missão 4: Resposta automática de e-mail](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Missão 6: Gotejamento, Gotejamento, Alimentação ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Missão 6: Drip, Drip, Nurture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

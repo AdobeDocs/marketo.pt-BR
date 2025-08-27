@@ -4,10 +4,10 @@ description: SEO - Use o Relatório de tendências de palavras-chave - Documenta
 title: SEO - Uso do Relatório de Tendências de Palavra-chave
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 3%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
@@ -50,16 +50,12 @@ Nesse relatório, você pode ver como é classificado em palavras-chave ao longo
 
 ## Exportando dados {#exporting-data}
 
->[!TIP]
->
->Você pode exportar este relatório para sua área de trabalho.
-
 1. Clique em **[!UICONTROL Exportar CSV]** ou **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Excelente trabalho! Você também pode ver como se compara aos seus concorrentes na classificação por palavras-chave.
+Você também pode ver como se compara aos seus concorrentes na classificação por palavras-chave.
 
-   >[!NOTE]
-   >
-   >[Usando o Relatório de Tendências de Classificação do KW Competitivo](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[!NOTE]
+>
+>[Usando o Relatório de Tendências de Classificação do KW Competitivo](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

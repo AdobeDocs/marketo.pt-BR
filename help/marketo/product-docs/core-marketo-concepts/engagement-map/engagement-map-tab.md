@@ -2,18 +2,18 @@
 description: Guia Mapa de engajamento - Documentação do Marketo - Documentação do produto
 title: Guia Mapa de engajamento
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
 
 # Guia Mapa de engajamento {#engagement-map-tab}
 
-O Mapa de engajamento é representado por meio de uma série de acionadores, filtros e cartões de fluxo. Clicar em cada cartão revelará informações adicionais.
+O Mapa de engajamento é representado por meio de uma série de acionadores, filtros e cartões de fluxo. Clicar em cada cartão revela informações adicionais.
 
-Visão geral do acionador: este cartão mostra o número de acionadores em sua campanha. Clicar nele revelará um cartão para cada acionador, bem como um painel deslizante com as seguintes informações:
+Visão geral do acionador: este cartão mostra o número de acionadores em sua campanha. Clicar nele revela um cartão para cada acionador, bem como um painel deslizante com as seguintes informações:
 
 * Campanha à qual o acionador pertence
 * Lista de nomes de acionadores
@@ -21,13 +21,13 @@ Visão geral do acionador: este cartão mostra o número de acionadores em sua c
 
   ![](assets/engagement-map-tab-1.png)
 
-Trigger Detail: esse cartão mostra o nome do acionador. Ao clicar nele, um painel deslizante será exibido com as seguintes informações:
+Trigger Detail: esse cartão mostra o nome do acionador. Clicar nele revela um painel deslizante com as seguintes informações:
 
 * Campanha à qual o acionador pertence
 * Lista de restrições associadas ao acionador
 * Editar acionador
 
-Filtro: ao clicar neste cartão, será exibido um painel deslizante com as seguintes informações:
+Filtro: clicar nesse cartão revela um painel deslizante com as seguintes informações:
 
 * Campanha à qual o filtro pertence
 * Número estimado de pessoas qualificadas para o filtro
@@ -36,13 +36,13 @@ Filtro: ao clicar neste cartão, será exibido um painel deslizante com as segui
 
   ![](assets/engagement-map-tab-3.png)
 
-Etapas de Fluxo: Se uma Etapa de Fluxo incluir opções, este cartão mostrará o nome da Etapa de Fluxo. Ao clicar nele, um painel deslizante será exibido com as seguintes informações:
+Etapas de Fluxo: Se uma Etapa de Fluxo incluir opções, este cartão mostrará o nome da Etapa de Fluxo. Clicar nele revela um painel deslizante com as seguintes informações:
 
 * Campanha à qual a Etapa de fluxo pertence
 * Lista de condições de escolha associadas à Etapa de fluxo
 * Editar etapa do fluxo
 
-Etapas de Fluxo: se uma Etapa de Fluxo _não_ incluir opções, este cartão mostrará os atributos associados à Etapa de Fluxo. Ao clicar nele, um painel deslizante será exibido com as seguintes informações:
+Etapas de Fluxo: se uma Etapa de Fluxo _não_ incluir opções, este cartão mostrará os atributos associados à Etapa de Fluxo. Clicar nele revela um painel deslizante com as seguintes informações:
 
 * Campanha à qual a Etapa de fluxo pertence
 * Lista de atributos associados à Etapa de fluxo
@@ -52,7 +52,7 @@ Etapas de Fluxo: se uma Etapa de Fluxo _não_ incluir opções, este cartão mos
 
 ## Etapa de fluxo para executar e solicitar campanhas {#flow-step-for-execute-and-request-campaigns}
 
-* Se a Etapa Executar ou Solicitar Fluxo de Campanha não incluir opções, o cartão mostrará o nome da campanha. Clicar no cartão revelará um painel deslizante com as seguintes informações:
+* Se a Etapa Executar ou Solicitar Fluxo de Campanha não incluir opções, o cartão mostrará o nome da campanha. Clicar no cartão revela um painel deslizante com as seguintes informações:
 
    * Campanha à qual a Etapa de fluxo pertence
    * Editar etapa do fluxo
@@ -69,7 +69,7 @@ Etapas de Fluxo: se uma Etapa de Fluxo _não_ incluir opções, este cartão mos
    * Lista de condições de escolha associadas à Etapa de fluxo
    * Editar etapa do fluxo
 
-* Se uma Campanha Executar ou Solicitar incluir opções, clicar no cartão de fluxo expandirá para mostrar todas as opções em cartões individuais. Clicar no cartão _opção_ expandirá a campanha associada à escolha específica e revelará um painel deslizante com as seguintes informações:
+* Se uma Campanha Executar ou Solicitar incluir opções, clicar no cartão de fluxo expandirá para mostrar todas as opções em cartões individuais. Clicar no cartão _opção_ expande a campanha associada à opção específica, bem como revela um painel deslizante com as seguintes informações:
 
    * Campanha à qual a escolha pertence
    * Editar escolha
@@ -86,10 +86,10 @@ Veja abaixo um exemplo de uma Campanha inteligente, &quot;Campanha A&quot;, que 
 
 ![](assets/engagement-map-tab-11.png)
 
-1. Clicar no cartão de fluxo executar campanha expandirá para mostrar detalhes da &quot;Campanha B&quot;.
+1. Clicar no cartão de fluxo executar campanha se expande para mostrar detalhes da &quot;Campanha B&quot;.
 1. A &quot;Campanha B&quot; inclui um filtro que divide o público em dois grupos: qualificado e não qualificado.
-1. O público qualificado passa pelas Etapas de fluxo associadas à &quot;Campanha B&quot;.
-1. Todo o público (qualificado e não qualificado) retorna para a &quot;Campanha A&quot; e avança para a próxima Etapa de fluxo.
+1. Um público qualificado passa pelas Etapas de fluxo associadas à &quot;Campanha B&quot;.
+1. Todos os públicos-alvo (qualificados e não qualificados) retornam à &quot;Campanha A&quot; e avançam para a próxima Etapa de fluxo.
 
    ![](assets/engagement-map-tab-12.png)
 
@@ -105,7 +105,7 @@ Este é um exemplo de uma Campanha inteligente, &quot;Campanha A&quot;, que incl
 
 ![](assets/engagement-map-tab-14.png)
 
-1. Clicar no cartão de fluxo de campanha de solicitação se expandirá para mostrar os detalhes da &quot;Campanha B&quot;
+1. Clicar no cartão de fluxo de campanha de solicitação se expande para mostrar os detalhes da &quot;Campanha B&quot;
 1. A &quot;Campanha B&quot; inclui um filtro que divide o público em dois grupos: qualificado e não qualificado.
 1. O público qualificado passa pelas Etapas de fluxo associadas à &quot;Campanha B&quot;.
 1. Ao mesmo tempo, todo o público-alvo passa para as próximas Etapas de fluxo na &quot;Campanha A&quot;.
@@ -122,9 +122,9 @@ Este é um exemplo de uma campanha de solicitação com opções.
 
 ## Tratamento de erros {#error-handling}
 
-Os erros nas Smart Lists e nas etapas de fluxo serão destacados por meio de um ícone vermelho no cartão. Além disso, uma mensagem de erro correspondente será refletida no painel deslizante.
+Os erros nas Smart Lists e nas Etapas de fluxo são destacados por meio de um ícone vermelho no cartão. Além disso, uma mensagem de erro correspondente é refletida no painel deslizante.
 
-Os avisos em Smart Lists e Etapas de fluxo serão destacados por meio de um ícone laranja no cartão. Além disso, uma mensagem de aviso correspondente será refletida no painel deslizante.
+Os avisos em Smart Lists e Etapas de fluxo são destacados por meio de um ícone laranja no cartão. Além disso, uma mensagem de aviso correspondente é refletida no painel deslizante.
 
 Abaixo está um exemplo de um aviso em um cartão Opção, que é exibido no cartão de etapa Executar fluxo do Campaign, no painel deslizante e no cartão Opção padrão.
 
@@ -136,7 +136,7 @@ Abaixo está um exemplo de um aviso em um cartão Opção, que é exibido no car
 
 **Os erros nos cartões de filtro podem incluir:**
 
-* Um erro na Smart List que resultará na não exibição do público qualificado
+* Um erro na Smart List que resultará na não exibição de um público qualificado
 
 * Um erro na lógica do filtro
 

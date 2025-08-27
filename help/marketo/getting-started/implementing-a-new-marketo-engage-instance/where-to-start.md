@@ -3,9 +3,9 @@ description: Saiba mais sobre as práticas recomendadas ao implementar uma nova 
 title: Onde começar
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,6 @@ Visite a [Comunidade do Adobe Marketo Engage](https://nation.marketo.com/){targe
 
 Introdução à Comunidade:
 
-1. Clique em **Continuar com o Adobe ID** e selecione sua assinatura principal na página de logon.
+1. Clique em **[!UICONTROL Continuar com a AdobeID]** e selecione sua assinatura principal na página de logon.
 1. Ao fazer logon, complete seu perfil da comunidade.
 1. Depois de enviar as informações, você será direcionado para a página inicial da comunidade e estará pronto para continuar.

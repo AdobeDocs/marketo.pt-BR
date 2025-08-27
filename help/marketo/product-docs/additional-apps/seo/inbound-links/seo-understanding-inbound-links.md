@@ -4,16 +4,16 @@ description: SEO - Noções básicas sobre links de entrada - Documentação do 
 title: SEO - Noções básicas sobre links de entrada
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 1%
 
 ---
 
 # SEO - Noções básicas sobre [!UICONTROL Links de entrada] {#seo-understanding-inbound-links}
 
-[!UICONTROL Links de entrada] indicam aos mecanismos de pesquisa que vale a pena referenciar seu site. Isso é bom!
+[!UICONTROL Links de entrada] indicam aos mecanismos de pesquisa que vale a pena referenciar seu site.
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 | [!UICONTROL Links do meu site] | Indica se o site está vinculado a esse URL. |
 | [!UICONTROL ClassificaçãoDaPágina] | Identifica a classificação da página de URLs na pesquisa (1 - 10) |
 
-Doce! Agora que você entende os links de entrada, podemos sugerir mais oportunidades de links de entrada para seu site.
+Agora que você entende os links de entrada, podemos sugerir mais oportunidades de links de entrada para seu site.
 
 >[!MORELIKETHIS]
 >

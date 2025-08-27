@@ -4,9 +4,9 @@ description: Entendendo a  [!DNL Microsoft Dynamics] Sincronização - Documenta
 title: Como entender a sincronização do Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 2%
 # Entendendo a sincronização [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
 
 Marketo e [!DNL Microsoft Dynamics] vão juntos. Mantemos seus dados de vendas e marketing sincronizados.
-
->[!NOTE]
->
->No momento, o Marketo só oferece suporte a certificados SSL compatíveis com o Java 7.
 
 >[!CAUTION]
 >

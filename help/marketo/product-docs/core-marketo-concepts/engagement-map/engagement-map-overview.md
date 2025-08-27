@@ -2,9 +2,9 @@
 description: Visão geral do mapa de engajamento - Documentação do Marketo - Documentação do produto
 title: Visão geral do mapa de engajamento
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,17 @@ Navegue até qualquer campanha existente e clique no botão **Mapa de Envolvimen
 
 ![](assets/engagement-map-overview-2.png)
 
-Uma vez no Mapa de Envolvimento, você verá duas guias: [Mapa de Envolvimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} e [Configurações](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+No Mapa de Envolvimento, há duas guias: [Mapa de Envolvimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} e [Configurações](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Descrições do cartão {#card-descriptions}
 
-**Triggers**: em campanhas que incluem acionadores, o mapa terá um cartão &quot;Visão geral do acionador&quot;. Clicar nesse ícone revelará um cartão para cada acionador, bem como um painel deslizante com informações adicionais.
+**Triggers**: em campanhas que incluem acionadores, o mapa tem um cartão &quot;Visão geral do acionador&quot;. Clicar nesse ícone revelará um cartão para cada acionador, bem como um painel deslizante com informações adicionais.
 
-**Filtros**: em campanhas que incluem filtros, o mapa conterá um cartão de Visão Geral de Filtro. Clicar nele revelará um painel deslizante com informações adicionais sobre cada filtro.
+**Filtros**: em campanhas que incluem filtros, o mapa contém um cartão de Visão Geral de Filtro. Clicar nele revela um painel deslizante com informações adicionais sobre cada filtro.
 
-**Etapas de Fluxo**: cada campanha incluirá um cartão para cada etapa de fluxo. Clicar neles revelará um painel deslizante com informações adicionais.
+**Etapas de Fluxo**: cada campanha inclui um cartão para cada etapa de fluxo. Clicar neles revelará um painel deslizante com informações adicionais.
 
 **Opções**: se uma etapa de fluxo incluir uma ou mais opções, clicar no cartão de fluxo revelará um cartão para cada escolha, bem como um painel deslizante com informações adicionais.
 
@@ -43,7 +43,7 @@ Uma vez no Mapa de Envolvimento, você verá duas guias: [Mapa de Envolvimento](
 
 * Se uma campanha incluir uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha que está sendo chamada, bem como um painel deslizante com informações adicionais.
 
-* Se uma campanha incluir uma etapa do fluxo Solicitar ou Executar Campanha com opções, clicar no cartão de fluxo mostrará um cartão para cada escolha, bem como um painel deslizante com mais informações sobre as opções. Clicar em cada cartão de opção mostrará detalhes da campanha sendo chamada, bem como um painel deslizante com mais informações.
+* Se uma campanha incluir uma etapa do fluxo Solicitar ou Executar Campanha com opções, clicar no cartão de fluxo mostrará um cartão para cada escolha, bem como um painel deslizante com mais informações sobre as opções. Clicar em cada cartão de opção mostra detalhes da campanha que está sendo chamada, bem como um painel deslizante com mais informações.
 
 * Além disso, se qualquer uma das campanhas aninhadas tiver uma etapa de fluxo Solicitar ou Executar Campanha, clicar no cartão de fluxo mostrará detalhes da campanha. O mesmo é aplicável quando a etapa do fluxo inclui opções.
 
@@ -57,11 +57,11 @@ A navegação superior inclui os seguintes recursos:
 
 * Botão Ativar/Desativar para acionar campanhas
 
-* Editar lista inteligente - você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar filtros e/ou acionadores
+* Editar lista inteligente - Você será direcionado para a interface da lista inteligente em uma nova guia, na qual poderá adicionar ou editar filtros e/ou acionadores
 
 * Editar fluxo - você será direcionado para a interface Fluxo em uma nova guia, na qual poderá adicionar ou editar suas Etapas de fluxo
 
-* Exportar — essa ação baixará uma imagem da visualização da campanha. A versão baixada refletirá todas as ramificações expandidas
+* Exportar — baixa uma imagem da visualização da campanha. A versão baixada reflete todas as ramificações expandidas
 
 * Exibir Membros da Campanha - Isso abrirá uma nova guia com detalhes do Membro da Campanha.
 

@@ -4,9 +4,9 @@ description: SEO - Use o Relatório de tendências do KW do concorrente - Docume
 title: SEO - Uso do Relatório de Tendências do KW Concorrente
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -49,10 +49,6 @@ Este gráfico pode mostrar a porcentagem de suas palavras-chave classificadas em
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
 ## Exportando dados {#exporting-data}
-
->[!TIP]
->
->Você pode exportar este relatório para sua área de trabalho.
 
 1. Clique em **[!UICONTROL Exportar CSV]** ou **[!UICONTROL Export PDF]**.
 

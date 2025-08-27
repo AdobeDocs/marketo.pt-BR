@@ -4,9 +4,9 @@ description: Anular a entrega de programas de email agendados com fuso horário 
 title: Interromper a entrega de programas de email agendados com o fuso horário do destinatário
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Em casos de emergência, você pode suspender o delivery de um programa de email que já começou a ser executado com o Fuso horário do recipient ativado.
 
-Como os programas de email agendados com Fuso horário do destinatário podem ser executados por até 24 horas, abortar o delivery do programa cancelará todos os envios subsequentes após esse ponto.
+Como os programas de email agendados com o Fuso horário do destinatário podem ser executados por até 24 horas, abortar o delivery do programa cancelará todos os envios subsequentes após esse ponto.
 
-1. Selecione o programa de email que deseja cancelar e clique em **[!UICONTROL Interromper Entrega]** no bloco [!UICONTROL Aprovação] do painel de controle.
+1. Selecione o programa de email que você deseja cancelar e clique em **[!UICONTROL Interromper entrega]** no bloco [!UICONTROL Aprovação] do painel de controle.
 
    ![](assets/ptz-abortdelivery.png)
 
@@ -33,7 +33,7 @@ Como os programas de email agendados com Fuso horário do destinatário podem se
    >
    >Os emails cancelados **não** serão exibidos como uma rejeição temporária *até* a hora em que foram originalmente agendados para serem entregues em seus respectivos fusos horários. Até esse ponto, eles ainda serão exibidos como &quot;Enviar email&quot;.
 
-1. Na grade, você pode clicar em qualquer email para exibir os detalhes da atividade. Para um envio cancelado, a janela pop-up de detalhes será semelhante a:
+1. Na grade, você pode clicar em qualquer email para exibir os detalhes da atividade. Para um envio cancelado, o pop-up de detalhes tem esta aparência:
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 

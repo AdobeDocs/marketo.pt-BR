@@ -4,9 +4,9 @@ description: Noções básicas sobre o painel de SEO - Instantâneo SEO - Docume
 title: Noções básicas sobre o painel de SEO - Instantâneo SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
@@ -61,7 +61,7 @@ O gráfico [!UICONTROL Tendências de Classificação de Palavra-Chave] extrai s
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Agora vamos conferir a seção [!UICONTROL Recomendações] deste painel.
+Confira a seção [!UICONTROL Recomendações] deste painel.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Personalizar uma apresentação - Documentação do Marketo - Docum
 title: Personalizar uma Apresentação
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Configure a apresentação do seu calendário para refletir as metas e atividade
 >[!AVAILABILITY]
 >
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Configure a apresentação do seu calendário para refletir as metas e atividade
 
 ## Escolhendo as Views {#choosing-the-views}
 
-O Presentations circula pelas [definições de filtro](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} diferentes que você escolher. Retire quantas visualizações desejar e personalize a frequência.
+As apresentações percorrem [definições de filtro](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} diferentes que você escolher. Retire quantas visualizações desejar e personalize a frequência.
 
 1. Na árvore direita, arraste as diferentes exibições que você deseja girar na sua apresentação.
 
@@ -36,7 +36,7 @@ O Presentations circula pelas [definições de filtro](/help/marketo/product-doc
 
 ## Adicionar uma meta {#add-a-goal}
 
-Os Presentations são os mais incríveis quando exibem as metas da sua equipe. Basta arrastar [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} ou [metas da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} diferentes. Você pode usar até 10.
+As apresentações são as mais incríveis quando exibem as metas da sua equipe. Basta arrastar [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} ou [metas da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} diferentes. Você pode usar até 10.
 
 1. Na árvore direita, arraste as metas diferentes que deseja exibir na sua apresentação.
 

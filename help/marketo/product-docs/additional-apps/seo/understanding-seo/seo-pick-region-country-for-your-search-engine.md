@@ -4,9 +4,9 @@ description: SEO - Escolha a região/país do seu mecanismo de pesquisa - Docume
 title: SEO - Escolha a região/país para seu mecanismo de pesquisa
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -35,11 +35,11 @@ Os administradores de SEO poderão escolher a região do mecanismo de pesquisa n
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-Excelente trabalho. Agora você verá as classificações das palavras-chave para o país ou cidade de sua escolha.
+Agora veja a classificação das palavras-chave para o país ou cidade de sua escolha.
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
 >[!MORELIKETHIS]
 >
 >* [Noções básicas sobre o painel: Instantâneo SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
->* [Noções básicas sobre o painel: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
+>* [Noções básicas sobre o painel: Recomendações de SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}

@@ -3,9 +3,9 @@ description: Notas de versão do Dynamic Chat - Documentação do Marketo - Docu
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '3408'
+source-wordcount: '3414'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ Se o agente estiver disponível, o chat será roteado diretamente para ele.
 
 Se o agente não estiver disponível, o sistema:
 
-* Não tenta outro agente, mesmo se Round Robin estiver habilitado como fallback.
+* Não tenta outro agente, mesmo se Round Robin estiver habilitado como um fallback.
 
 * Em vez disso, ele:
 
@@ -104,7 +104,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível for 
 
 <p>
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Roteamento de conta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento personalizado**&#x200B;_
+_**Roteamento personalizado**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**Roteamento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento de Equipe**&#x200B;_
+_**Roteamento de Equipe**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Roteamento de Equipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 <table><thead>
   <tr>
@@ -193,13 +193,13 @@ _&#x200B;**Roteamento Round Robin**&#x200B;_
 <tbody>
   <tr>
     <td>Ideal</td>
-    <td>O pool Round Robin tem vários agentes; o segundo agente aceita bate-papo depois que o primeiro não.</td>
+    <td>Round Robin pool tem vários agentes; o segundo agente aceita bate-papo após o primeiro não.</td>
     <td>O chat conecta-se ao segundo agente.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Não há agentes disponíveis no pool Round Robin; o calendário de reuniões está habilitado.</td>
-    <td>O calendário é exibido para o primeiro agente na lista (se configurado) ou mensagem de fallback é exibida.</td>
+    <td>O calendário é exibido para o primeiro agente na lista (se configurado) ou a mensagem de fallback é exibida.</td>
   </tr>
   <tr>
     <td>Nenhum agente de fallback</td>
@@ -344,7 +344,7 @@ Assim, quando um visitante com cookie abc chega em uma página e fornece uma ID 
     <td>Pessoa conhecida</td>
     <td>xyz</td>
     <td>Diferente da pessoa existente</td>
-    <td>este cenário não é possível como se fosse um novo cookie de   padrão considerado como novo perfil anônimo</td>
+    <td>este cenário não é possível como se fosse um novo cookie de   padrão considerado como um novo perfil anônimo</td>
   </tr>
 </tbody></table>
 
