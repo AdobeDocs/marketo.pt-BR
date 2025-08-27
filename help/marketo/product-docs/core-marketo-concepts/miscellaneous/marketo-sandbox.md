@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo Sandbox — Documentação do Marketo — Documentação do produto
 title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Uma sandbox da Marketo não pode ser sincronizada com o seu CRM normal se já es
 
 >[!CAUTION]
 >
->No momento, não oferecemos suporte à atualização de sandbox para o Marketo Dynamics Sync. Se você precisar atualizar sua sandbox do Dynamics CRM, uma nova sandbox do Marketo será necessária. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
+>No momento, não há suporte para a atualização da sandbox da sincronização do Salesforce do Marketo Dynamics _ou_. Se você precisar atualizar sua sandbox do CRM, será necessária uma nova sandbox da Marketo. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Cópia da instância {#instance-copy}
 

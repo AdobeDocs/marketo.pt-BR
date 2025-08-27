@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 13%
+source-wordcount: '892'
+ht-degree: 14%
 
 ---
 
@@ -177,6 +177,17 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Capacidade de <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrar com o Litmus</a> para ver como seus emails serão renderizados em clientes de email diferentes.</td>
     <td>Indisponível</td>
     <td>Disponível</td>
+    <tr>
+    <td>Integração com o GenStudio</td>
+    <td>Capacidade de <a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">integrar com o GenStudio</a>.</td>
+    <td>Indisponível</td>
+    <td>Disponível</td>
+  </tr>
+  <tr>
+    <td>Integração do Spam Assassin</td>
+    <td>Capacidade de <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">detectar o potencial de emails serem marcados como Spam</a> antes da entrega.</td>
+    <td>Indisponível</td>
+    <td>Disponível</td>
   </tr>
   <tr>
     <td>Editor Personalization</td>
@@ -227,12 +238,6 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Em breve</td>
   </tr>
   <tr>
-    <td>Integração com o Gen Studio</td>
-    <td>Capacidade de integração com o Gen Studio.</td>
-    <td>Indisponível</td>
-    <td>Em breve</td>
-  </tr>
-  <tr>
     <td>Suporte para mover, excluir e importar programas com ativos de email</td>
     <td>Capacidade de mover, excluir e importar Programas de email junto com ativos de email.</td>
     <td>Disponível</td>
@@ -254,23 +259,11 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Velocity Scripting</td>
     <td>Capacidade de usar o script do Velocity em emails.</td>
     <td>Disponível</td>
-    <td>Não Necessário</td>
-  </tr>
-   <tr>
-    <td>Script Handlebar</td>
-    <td>Capacidade de usar scripts Handlebar em emails.</td>
-    <td>Indisponível</td>
-    <td>Planejado para o 3º trimestre de 2025</td>
+    <td>Em breve</td>
   </tr>
   <tr>
     <td>Kit da marca</td>
     <td>Capacidade de melhorar os emails refletindo as diretrizes da marca.</td>
-    <td>Indisponível</td>
-    <td>Planejado para o 3º trimestre de 2025</td>
-  </tr>
-  <tr>
-    <td>Integração do Spam Assassin</td>
-    <td>Capacidade de detectar o potencial de emails serem marcados como Spam antes do delivery.</td>
     <td>Indisponível</td>
     <td>Planejado para o 3º trimestre de 2025</td>
   </tr>
