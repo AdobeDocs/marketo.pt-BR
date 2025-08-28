@@ -3,9 +3,9 @@ description: Gerenciar grupos - Documentação do Marketo - Documentação do pr
 title: Gerenciar grupos
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ Saiba como gerenciar grupos no [!DNL Sales Insight Actions].
 
    Pronto!
 
-## Adicionar contatos a um grupo {#add-contacts-to-a-group}
+## Adicionar contatos a um {#add-contacts-to-a-}
 
 1. Na página [!UICONTROL Pessoas], localize e selecione o grupo ao qual deseja adicionar pessoas.
 
-   ![](assets/manage-groups-3.png)
+
 
 1. Clique em **[!UICONTROL Ações do Grupo]** e selecione **[!UICONTROL Criar Contato e adicionar ao Grupo]**.
 
@@ -77,19 +77,42 @@ Saiba como gerenciar grupos no [!DNL Sales Insight Actions].
    >
    >Talvez seja necessário clicar em atualizar para ver os novos contatos adicionados.
 
+## Adicionar contatos a um grupo {#add-contacts-to-a-group}
+
+1. Em _Grupos_, selecione **Todas as Pessoas**.
+
+   ![](assets/manage-groups-3.png)
+
+1. Procure a pessoa ou pessoas que deseja adicionar.
+
+   ![](assets/manage-groups-4.png)
+
+1. Clique na caixa de seleção ao lado do nome para selecioná-los.
+
+   ![](assets/manage-groups-5.png)
+
+1. Clique no ícone de mais ações (![](assets/icon-more-actions.png)) e selecione **Adicionar Pessoas ao Grupo**.
+
+   ![](assets/manage-groups-6.png)
+
+1. Selecione o grupo ao qual você deseja adicioná-los e clique em **Adicionar**.
+
+   ![](assets/manage-groups-7.png)
+
+
 ## Compartilhar um grupo {#share-a-group}
 
 1. Na página [!UICONTROL Pessoas], localize e selecione o grupo que deseja compartilhar.
 
-   ![](assets/manage-groups-6.png)
+   ![](assets/manage-groups-8.png)
 
 1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Compartilhar]**.
 
-   ![](assets/manage-groups-7.png)
+   ![](assets/manage-groups-9.png)
 
 1. Clique na lista suspensa, escolha a equipe com a qual deseja compartilhar o grupo e clique em **[!UICONTROL Compartilhar]**.
 
-   ![](assets/manage-groups-8.png)
+   ![](assets/manage-groups-10.png)
 
    Você ainda é o proprietário do grupo, mas ele agora aparecerá em _Grupos de Equipe_.
 
@@ -97,15 +120,15 @@ Saiba como gerenciar grupos no [!DNL Sales Insight Actions].
 
 1. Na página [!UICONTROL Pessoas], localize e selecione o grupo que deseja cancelar o compartilhamento.
 
-   ![](assets/manage-groups-9.png)
+   ![](assets/manage-groups-11.png)
 
 1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Compartilhar]**.
 
-   ![](assets/manage-groups-10.png)
+   ![](assets/manage-groups-12.png)
 
 1. Clique no **X** ao lado da equipe com a qual você compartilhou o grupo e clique fora do modal.
 
-   ![](assets/manage-groups-11.png)
+   ![](assets/manage-groups-13.png)
 
    O grupo agora não está compartilhado.
 
@@ -113,26 +136,26 @@ Saiba como gerenciar grupos no [!DNL Sales Insight Actions].
 
 1. Na página [!UICONTROL Pessoas], localize e selecione o grupo que deseja renomear.
 
-   ![](assets/manage-groups-12.png)
+   ![](assets/manage-groups-14.png)
 
 1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Editar]**.
 
-   ![](assets/manage-groups-13.png)
+   ![](assets/manage-groups-15.png)
 
 1. Digite o novo nome e clique em **[!UICONTROL Salvar]**.
 
-   ![](assets/manage-groups-14.png)
+   ![](assets/manage-groups-16.png)
 
 ## Excluir um grupo {#delete-a-group}
 
 1. Na página Pessoas, localize e selecione o grupo que deseja excluir.
 
-   ![](assets/manage-groups-15.png)
+   ![](assets/manage-groups-17.png)
 
 1. Clique nos dados (três pontos verticais) e selecione **[!UICONTROL Excluir]**.
 
-   ![](assets/manage-groups-16.png)
+   ![](assets/manage-groups-18.png)
 
 1. Clique em **[!UICONTROL Excluir]** para confirmar.
 
-   ![](assets/manage-groups-17.png)
+   ![](assets/manage-groups-19.png)
