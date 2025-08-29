@@ -3,9 +3,9 @@ description: Faça logon usando o OAuth 2.0 - Documentação do Marketo - Docume
 title: Faça logon usando o OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3e007c6ddc150227310f2d38a7f77ad86ca15ffa
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ O Salesforce usa o protocolo OAuth para permitir que os usuários de aplicativos
 
    >[!CAUTION]
    >
-   >Se você estiver vendo os campos Nome de usuário/Senha/Token e não um botão &quot;Logon com o Salesforce&quot;, sua Assinatura do Marketo será habilitada para a Autenticação básica. Consulte [Configurar o Marketo com Autenticação Básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Quando a sincronização começar a usar um conjunto de credenciais, não haverá alternância de credenciais ou assinatura da Salesforce. Se quiser usar o Oauth 2.0, entre em contato com a Equipe de conta da Adobe (seu Gerente de conta).
+   >Se você estiver vendo os campos Nome de usuário/Senha/Token e não um botão &quot;Logon com o Salesforce&quot;, sua Assinatura do Marketo será habilitada para a Autenticação básica. Consulte [Configurar o Marketo com Autenticação Básica](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Quando a sincronização começar a usar um conjunto de credenciais, não haverá alternância de credenciais ou assinatura da Salesforce. Para configurar o Oauth 2.0 para sua autenticação da Salesforce, contate o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 1. Um pop-up com a página de logon do salesforce será exibido. Insira suas credenciais de &quot;Usuário da sincronização do Marketo&quot; e faça logon.
 
