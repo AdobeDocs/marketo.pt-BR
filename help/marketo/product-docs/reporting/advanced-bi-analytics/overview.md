@@ -3,9 +3,9 @@ description: Visão geral avançada do BI Analytics - Documentação do Marketo 
 title: Visão Geral Avançada do BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Saiba como exportar seções específicas do relatório.
 
 Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451687/?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 
@@ -236,23 +236,13 @@ Os seguintes relatórios padrão estão incluídos como exemplos para seus relat
 
 ## Itens a serem observados {#note}
 
-* A experiência clássica do &quot;Revenue Explorer&quot; será descontinuada permanentemente em 10 de junho de 2025. Enquanto isso, você pode acessar, criar, atualizar e excluir relatórios em ambas as experiências.
+* Seus relatórios personalizados foram replicados da experiência clássica para a nova experiência com as alterações de comportamento notáveis mencionadas na seção [Aprendendo a nova experiência](#learning-the-new-experience) abaixo.
 
-* Seus relatórios personalizados serão replicados da experiência clássica para a nova experiência com as alterações de comportamento notáveis mencionadas na seção [Aprendendo a nova experiência](#learning-the-new-experience) abaixo.
+* Os painéis na experiência clássica não eram transferíveis e exigiam recriação na nova experiência. Eles podem ser recriados como relatórios na nova experiência, e os filtros na nova experiência extrai automaticamente os valores possíveis.
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >A replicação de relatórios personalizados será realizada em grupos. Depois que os relatórios personalizados forem replicados para a nova experiência, para garantir a consistência entre as duas experiências, todas as alterações feitas na experiência clássica também precisarão ser aplicadas manualmente aos relatórios correspondentes na nova experiência. Uma nota de informações sobre o assunto acima será exibida na experiência clássica após a replicação dos relatórios de clientes.
-
-   * Os painéis na experiência clássica não são transferíveis e exigirão recriação na nova experiência. Eles devem ser recriados como relatórios na nova experiência do e os filtros na nova experiência do extraem automaticamente os valores possíveis, em vez de exigir que você insira manualmente todos os valores possíveis individualmente na experiência clássica.
-
-     >[!NOTE]
-     >
-     >O painel da nova experiência do é apenas uma coleção de relatórios em uma única página. O principal valor do painel na nova experiência do é permitir que você apresente insights analíticos em diferentes áreas de relatórios.
-
-* As assinaturas de email na experiência clássica serão replicadas para a nova experiência. As assinaturas de email na experiência do Classic continuarão funcionando até a desativação da experiência do Classic em 10 de junho de 2025.
-
-* Os usuários existentes do Revenue Explorer têm acesso automático à nova experiência do Advanced BI Analytics.
+  >O painel da nova experiência do é apenas uma coleção de relatórios em uma única página. O principal valor do painel na nova experiência do é permitir que você apresente insights analíticos em diferentes áreas de relatórios.
 
 * Você pode criar **até 700 relatórios** no Advanced BI Analytics.
 
@@ -282,13 +272,9 @@ A seguir estão as alterações na nova experiência (Advanced BI Analytics) da 
 
 * Os filtros do tipo string agora fazem distinção entre maiúsculas e minúsculas.
 
-* O campo de fórmula em tempo de execução na experiência clássica não é mais compatível.
-
-* A assinatura de email inclui a exportação do PDF em vez da HTML do relatório. A nova assinatura de email não incluirá a definição de relatório.
+* A assinatura de email inclui a exportação do PDF em vez da HTML do relatório. A nova assinatura de email não inclui a definição de relatório.
 
 * No momento, não há suporte para deep link de relatório.
-
-* A exportação do PDF é síncrona na nova experiência do, em comparação com a assíncrona na experiência clássica.
 
 >[!NOTE]
 >
