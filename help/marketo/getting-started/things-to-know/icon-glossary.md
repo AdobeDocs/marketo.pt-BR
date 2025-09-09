@@ -1,18 +1,18 @@
 ---
-description: Ícone Glossário - Documentação do Marketo Engage - Documentação do produto
-title: Ícone do Glossário
+description: Glossário de ícones - Documentos do Marketo Engage - Documentação do produto
+title: Glossário de ícones
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '242'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
-# Glossário do ícone do Marketo Engage {#icon-glossary}
+# Glossário de ícones do Marketo Engage {#icon-glossary}
 
-Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você precisar referenciar os ícones do Marketo Classic, eles podem ser [encontrados aqui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se precisar dos ícones do Marketo Classic para referência, [consulte-os aqui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Ícones gerais {#general-icons}
 
@@ -31,12 +31,12 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>Campanha em lote - ativa</td>
+   <td>Campanha em lote: ativa</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
    <td><img src="assets/batch-inactive.png"></td>
-   <td>Campanha em lote - inativa</td>
+   <td>Campanha em lote: inativa</td>
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
@@ -51,7 +51,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
    <td><img src="assets/email-program.png"></td>
-   <td>Programa de e-mail</td>
+   <td>Programa de email</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-template.png"></td>
@@ -86,7 +86,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/filter-active.png"></td>
-   <td>Filtro - ativo</td>
+   <td>Filtro: ativo</td>
   </tr>
   <tr>
    <td><img src="assets/classic-folder.png"></td>
@@ -96,17 +96,17 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-archive-folder.png"></td>
    <td><img src="assets/folder-archive.png"></td>
-   <td>Pasta - arquivada</td>
+   <td>Pasta: arquivada</td>
   </tr>
   <tr>
    <td><img src="assets/classic-shared-folder.png"></td>
    <td><img src="assets/folder-shared.png"></td>
-   <td>Pasta - compartilhada</td>
+   <td>Pasta: compartilhada</td>
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td>
    <td><img src="assets/folder-locked.png"></td>
-   <td>Pasta - bloqueada</td>
+   <td>Pasta: bloqueada</td>
   </tr>
   <tr>
    <td><img src="assets/classic-form.png"></td>
@@ -121,7 +121,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-in-app-messages.png"></td>
    <td><img src="assets/in-app-messages.png"></td>
-   <td>Mensagens internas do aplicativo</td>
+   <td>Mensagens no aplicativo</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td>
@@ -136,7 +136,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td>
    <td><img src="assets/landing-page-template.png"></td>
-   <td>Modelo de página</td>
+   <td>Modelo de página de destino</td>
   </tr>
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td>
@@ -156,7 +156,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
    <td><img src="assets/referral-offer.png"></td>
-   <td>Oferta da recomendação</td>
+   <td>Oferta de recomendação</td>
   </tr>
   <tr>
    <td><img src="assets/classic-report.png"></td>
@@ -181,7 +181,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-smart-list-cached.png"></td>
    <td><img src="assets/smart-list-cached.png"></td>
-   <td>Lista inteligente - em cache</td>
+   <td>Lista inteligente: em cache</td>
   </tr>
   <tr>
    <td><img src="assets/classic-sms-message.png"></td>
@@ -191,12 +191,12 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-snippet.png"></td>
    <td><img src="assets/snippets.png"></td>
-   <td>Bl. conteúdo</td>
+   <td>Snippets</td>
   </tr>
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Botão social</td>
+   <td>Botão de redes sociais</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -216,12 +216,12 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
    <td><img src="assets/trigger-active.png"></td>
-   <td>Acionador - ativo</td>
+   <td>Acionador: ativo</td>
   </tr>
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
-   <td>Acionador - inativo</td>
+   <td>Acionador: inativo</td>
   </tr>
   <tr>
    <td><img src="assets/classic-workspace.png"></td>
@@ -248,7 +248,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/has-run-no-upcoming.png"></td>
-   <td>Houve execução, nenhuma para breve</td>
+   <td>Executado; sem execuções pendentes</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -258,12 +258,12 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>nunca executar</td>
+   <td>Nunca executado</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/running-in-wait-step.png"></td>
-   <td>Em execução, em fase de espera</td>
+   <td>Executando; em fase de espera</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td>
@@ -273,17 +273,17 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td>
    <td><img src="assets/scheduled-to-run-again.png"></td>
-   <td>Agendado para ser executado novamente</td>
+   <td>Agendado para uma nova execução</td>
   </tr>
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td>
    <td><img src="assets/used-by-nurture.png"></td>
-   <td>Usado pelo Nurture</td>
+   <td>Usado para estímulo</td>
   </tr>
  </tbody>
 </table>
 
-## Acionar campanhas {#trigger-campaigns}
+## Campanhas com acionador {#trigger-campaigns}
 
 <table>
  <tbody>
@@ -300,7 +300,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-smart-campaign-is-requested.png"></td>
    <td><img src="assets/is-requested.png"></td>
-   <td>É Solicitado</td>
+   <td>Foi solicitado</td>
   </tr>
   <tr>
    <td><strong>n/d</strong></td>
@@ -327,7 +327,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td>
    <td><img src="assets/aborted.png"></td>
-   <td>Anulado(s)</td>
+   <td>Anulado</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>
@@ -337,7 +337,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td>
    <td><img src="assets/not-approved.png"></td>
-   <td>Não aprovado(a)</td>
+   <td>Não aprovado</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td>
@@ -347,7 +347,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
  </tbody>
 </table>
 
-## Programas de envolvimento {#engagement-programs}
+## Programas de engajamento {#engagement-programs}
 
 <table>
  <tbody>
@@ -369,7 +369,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
  </tbody>
 </table>
 
-## Programas internos do aplicativo {#in-app-programs}
+## Programas no aplicativo {#in-app-programs}
 
 <table>
  <tbody>
@@ -386,7 +386,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><img src="assets/classic-in-app-program.png"></td>
    <td><img src="assets/not-configured-yet.png"></td>
-   <td>Not Configured Yet</td>
+   <td>Ainda não configurado</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-paused.png"></td>
@@ -396,7 +396,7 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>Programado</td>
+   <td>Agendado</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>
@@ -445,17 +445,17 @@ Abaixo estão os ícones da interface atual do Adobe Marketo Engage. Se você pr
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>Aprovado - em cálculo</td>
+   <td>Aprovado: calculando</td>
   </tr>
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
-   <td>Aprovado - em recálculo</td>
+   <td>Aprovado: recalculando</td>
   </tr>
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
-   <td>Rascunho - em cálculo</td>
+   <td>Rascunho: calculando</td>
   </tr>
  </tbody>
 </table>

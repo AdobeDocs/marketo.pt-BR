@@ -1,39 +1,39 @@
 ---
 unique-page-id: 2359410
-description: Enviar um email - Documentação do Marketo - Documentação do produto
-title: Enviar um e-mail
+description: Enviar um email - Documentos do Marketo - Documentação do produto
+title: Enviar um email
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '402'
+ht-degree: 100%
 
 ---
 
-# Enviar um e-mail {#send-an-email}
+# Enviar um email {#send-an-email}
 
-É a primeira coisa que todos querem fazer. Vamos enviar um email do Marketo.
+É a primeira coisa que todos querem fazer. Vamos enviar um email usando o Marketo
 
 >[!PREREQUISITES]
 >
->[Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
 ## Criar um programa de email {#create-an-email-program}
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/send-an-email-1.png)
 
-1. Selecione sua pasta **[!UICONTROL Aprendizado]**. Clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo programa]**.
+1. Selecione a pasta **[!UICONTROL Aprendizado]**. Clique no menu suspenso **[!UICONTROL Novo]** e selecione **[!UICONTROL Novo programa]**.
 
    ![](assets/send-an-email-2.png)
 
-1. Insira um **[!UICONTROL Nome]** e selecione **[!UICONTROL Email]** para **[!UICONTROL Tipo de Programa]**.
+1. Insira um **[!UICONTROL Nome]** e selecione **[!UICONTROL Email]** em **[!UICONTROL Tipo de programa]**.
 
    >[!TIP]
    >
-   >Adicione as iniciais ao final do nome do programa para torná-lo exclusivo.
+   >Adicione suas iniciais no final do nome do programa para torná-lo exclusivo.
 
    ![](assets/send-an-email-3.png)
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
    ![](assets/send-an-email-4.png)
 
-## Definir o público-alvo {#define-your-audience}
+## Defina seu público-alvo {#define-your-audience}
 
-1. Clique em **[!UICONTROL Editar lista inteligente]** no bloco [!UICONTROL Público].
+1. Clique em **[!UICONTROL Editar lista inteligente]** no bloco [!UICONTROL Público-alvo].
 
    ![](assets/send-an-email-5.png)
 
-1. Localize e arraste o filtro [!UICONTROL Endereço de email] até a tela.
+1. Localize o filtro [!UICONTROL Endereço de email] e arraste-o para a tela.
 
    ![](assets/send-an-email-6.png)
 
@@ -55,27 +55,27 @@ ht-degree: 0%
    >
    >Use a função **[!UICONTROL Pesquisar]** para encontrar filtros com mais facilidade.
 
-1. Localize e selecione seu endereço de email.
+1. Localize e selecione o seu endereço de email.
 
    ![](assets/send-an-email-7.png)
 
    >[!NOTE]
    >
-   >Se o seu email não for preenchido automaticamente, talvez você tenha esquecido de [Configurar e Adicionar um Cliente Potencial.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+   >Se o email não for preenchido automaticamente, talvez você tenha esquecido de [configurar e adicionar um lead](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >Neste exemplo, estamos solicitando que você envie o email somente para você mesmo, mas você pode personalizar o público conforme desejar.
+   >Neste exemplo, vamos fazer com que o email seja enviado somente para você mesmo(a), mas é possível personalizar o público-alvo conforme desejar.
 
-1. Volte para a guia principal do programa e clique no ícone de atualização para **[!UICONTROL Pessoa]**.
+1. Volte para a guia principal do programa e clique no ícone de atualização de **[!UICONTROL Pessoa]**.
 
    ![](assets/send-an-email-8.png)
 
-   Você deve ver a contagem de pessoas subir para 1. É você!
+   Você deve ver a contagem de pessoas subir para 1. Essa pessoa é você.
 
 ## Criar um email {#create-an-email}
 
-1. No bloco Email, clique em **[!UICONTROL Novo Email]**.
+1. No bloco Email, clique em **[!UICONTROL Novo email]**.
 
    ![](assets/send-an-email-9.png)
 
@@ -89,9 +89,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se você tiver um bloqueador de pop-ups, clique em **[!UICONTROL Editar rascunho]** para entrar no editor de email.
+   >Caso tenha um bloqueador de pop-up, clique em **[!UICONTROL Editar rascunho]** para entrar no editor de email.
 
-1. Selecione a área que deseja editar, clique no ícone de engrenagem à direita e selecione **[!UICONTROL Editar]** (você também pode clicar duas vezes na seção editável para editar).
+1. Selecione a área que deseja editar, clique no ícone de engrenagem à direita e escolha **[!UICONTROL Editar]** (também é possível clicar duas vezes na seção editável para editar).
 
    ![](assets/send-an-email-12.png)
 
@@ -99,44 +99,44 @@ ht-degree: 0%
 
    ![](assets/send-an-email-13.png)
 
-1. Clique no menu suspenso **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Aprovar e Fechar]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Aprovar e fechar]**.
 
    ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >Deseja enviar uma amostra rápida para ver a aparência do email antes de iniciar? Selecione **[!UICONTROL Enviar Amostra]** no menu acima ou clique em **[!UICONTROL Ações de Email]** e depois em [**[!UICONTROL Enviar Amostra]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
+   >Deseja enviar a você mesmo(a) uma amostra rápida para ver a aparência do email antes de iniciar? Selecione **[!UICONTROL Enviar amostra]** no menu acima ou clique em **[!UICONTROL Ações de email]** e depois em [**[!UICONTROL Enviar amostra]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
 
-1. Selecione o Programa de email na árvore esquerda.
+1. Selecione o programa de email na árvore à esquerda.
 
    ![](assets/send-an-email-15.png)
 
-1. No bloco [!UICONTROL Agenda], defina o dia de inicialização do email como **[!UICONTROL Hoje]**.
+1. No bloco [!UICONTROL Cronograma], defina o dia de inicialização do email como **[!UICONTROL Hoje]**.
 
    ![](assets/send-an-email-16.png)
 
    >[!NOTE]
    >
-   >Saiba mais sobre [Fuso Horário do Destinatário](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} e [Início](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
+   >Saiba mais sobre [Fuso horário do destinatário](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} e [Início rápido](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
 
-1. Selecione uma hora que seja de pelo menos 15 minutos no futuro.
+1. Selecione um horário que esteja pelo menos 15 minutos à frente.
 
    ![](assets/send-an-email-17.png)
 
    >[!TIP]
    >
-   >O fuso horário padrão não é seu? Saiba como [atualizá-lo aqui](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >O fuso horário padrão não é o seu? Saiba como [atualizá-lo aqui](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
-1. Clique em **[!UICONTROL Aprovar programa]** no bloco [!UICONTROL Aprovação] e pronto!
+1. Clique em **[!UICONTROL Aprovar programa]** no bloco [!UICONTROL Aprovação] e pronto.
 
    ![](assets/send-an-email-18.png)
 
 Você deve receber o email logo após o dia/hora agendados.
 
-## Missão concluída! {#mission-complete}
+## Missão cumprida! {#mission-complete}
 
 <br> 
 
-[&rbrace; Configuração e Adição de uma Pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄ Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[Missão 2: Página de aterrissagem com formulário ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[Missão 2: página de destino com um formulário ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
