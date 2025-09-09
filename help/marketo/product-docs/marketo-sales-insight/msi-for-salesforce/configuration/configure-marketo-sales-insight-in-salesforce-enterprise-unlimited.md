@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360368
 description: Saiba como configurar o Marketo Sales Insight nas edições Salesforce Enterprise/Unlimited.
-title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
+title: Configurar o Insight de vendas do Marketo no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 07b2e888c31c6e98a3207fad5d277261f7f193af
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 4%
+source-wordcount: '924'
+ht-degree: 5%
 
 ---
 
@@ -52,6 +52,20 @@ Configure o Marketo Sales Insight no Salesforce Enterprise/Unlimited editions se
    >[!TIP]
    >
    >Mantenha essa janela aberta. Essas informações serão necessárias posteriormente para a configuração do Salesforce.
+
+## Preencher novas credenciais da API Rest {#populate-new-rest-api-credentials}
+
+1. Ao preencher as credenciais da API Rest pela primeira vez, o botão _Exibir_ será alterado para _Editar_. Clique no botão **Editar**.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5a.png)
+
+1. Uma mensagem é exibida confirmando que você deseja regenerar as credenciais da API. Clique em **Salvar**.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5b.png){width="800" zoomable="yes"}
+
+1. Depois que as novas credenciais forem preenchidas, atualize-as na guia _Configuração do Marketo_ da sua instância do Salesforce.
+
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5c.png)
 
 ## Configurar [!DNL Sales Insight] em [!DNL Salesforce] {#configure-sales-insight-in-salesforce}
 
