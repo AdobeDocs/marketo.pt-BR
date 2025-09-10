@@ -3,16 +3,16 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 44%
+source-wordcount: '494'
+ht-degree: 51%
 
 ---
 
-# Notas de versão: agosto de 2025 {#release-notes-aug-25}
+# Notas de versão: setembro de 2025 {#release-notes-sep-25}
 
-Abaixo você encontrará todos os recursos incluídos na versão de agosto de 2025. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de setembro de 2025. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
 Para ver as notas de versão específicas do Adobe Dynamic Chat, consulte [esta página](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Para ver as notas de versão específicas do Adobe Dynamic Chat, consulte [esta 
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 22 de agosto de 2025**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 19 de setembro de 2025**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,57 +32,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Relatórios</strong>: os relatórios de Desempenho de email e Desempenho de link de email agora mostram dados de emails criados usando o novo Email Designer.</td>
-   <td>Enviado</td>
-   <td>n/d</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de email - Remoção de preenchimento automático</strong>: a opção de preenchimento automático no editor de personalização de token apontava para objetos incorretos e foi removida. Não há planos para reimplementá-lo neste momento.</td>
-   <td>Enviado</td>
-   <td>n/d</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Otimização da Visualização de Email</strong>: alguns usuários experimentavam tempos de carregamento mais lentos ao tentar visualizar seus emails na página de detalhes do email/modelo/fragmento de email. Essa experiência foi otimizada para tempos de carregamento até 60% mais rápidos.</td>
-   <td>Enviado</td>
-   <td>n/d</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Correções de Modelos</strong>: alguns modelos prontos para uso tinham problemas de renderização (por exemplo, não renderização correta em determinados navegadores/modo escuro, imagens desalinhadas, botões do CTA no local errado e alguns outros). Tudo isso foi corrigido nesta versão.</td>
-   <td>Enviado</td>
-   <td>n/d</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Correção de Bloqueio de Conteúdo do Designer - </strong>: anteriormente, se um modelo de email fosse criado com bloqueio de conteúdo e o modelo fosse usado para criar um email, o bloqueio de conteúdo persistiria mesmo quando o email fosse redefinido ou o "design de alteração" fosse selecionado. Esse problema foi corrigido nesta versão.</td>
-   <td>Enviado</td>
-   <td>n/d</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Permissão para editar limites do Smart Campaign</strong>: agora os administradores podem restringir a capacidade de modificar limites do Smart Campaign somente para usuários com permissões.</td>
+   <td><strong>Retenção de atividade do webinário sob demanda</strong>: os usuários de webinários interativos agora têm dados do Painel de webinários sob demanda disponíveis por mais de 30 dias (anteriormente, eram apenas até 30 dias a partir do dia do webinário).</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -91,6 +41,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 <br/>
 
 ## Anúncios {#announcements}
+
+* **Alternando de volta para o script do Velocity no novo Designer de email**: a Adobe Marketo Engage lançou um recurso chamado _Conteúdo condicional_ para o novo Designer de email em junho passado. O recurso era alimentado por scripts Handlebar em vez de scripts Velocity, em um esforço para fornecer um pouco mais de flexibilidade em seu conteúdo dinâmico. Mas quando descobrimos que isso estava fazendo com que alguns tokens fossem resolvidos incorretamente, decidimos desativá-los temporariamente. [Saiba mais](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Fim da vida útil da Marketo Engage Identity**: em agosto de 2025, a Adobe começou a cancelar o suporte à Marketo Engage Identity (fazendo logon via `login.marketo.com`). Para evitar a interrupção do acesso ao Marketo Engage, você deve fazer a transição para a [Identidade da Adobe](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} até no máximo 30 de setembro de 2025.
 
