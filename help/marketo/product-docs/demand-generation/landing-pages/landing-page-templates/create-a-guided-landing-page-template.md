@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515401
 description: Criar um modelo de página de aterrissagem guiada - Documentação do Marketo - Documentação do produto
-title: Criar um modelo de página de aterrissagem guiada
+title: Criar um modelo de página de destino guiada
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 2%
 
 ---
 
-# Criar um modelo de página de aterrissagem guiada {#create-a-guided-landing-page-template}
+# Criar um modelo de página de destino guiada {#create-a-guided-landing-page-template}
 
 Os templates de landing page guiados têm uma sintaxe especial. Use essa sintaxe para especificar o que é personalizável e onde o conteúdo acabará em cada página de aterrissagem criada a partir do seu modelo. Somente as regiões ou variáveis especificadas como editáveis estarão disponíveis para personalização no editor de página de aterrissagem &quot;Guiado&quot;.
 
@@ -90,7 +90,7 @@ Exemplo de atributos :Required:
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
-## Bloco de conteúdo {#snippet}
+## Snippet {#snippet}
 
 Atributos obrigatórios:
 **classe**: &quot;mktoSnippet&quot;
@@ -126,39 +126,6 @@ Atributos obrigatórios:
 Exemplo:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## Pesquisa {#poll}
-
-Atributos obrigatórios:
-**classe**: &quot;mktoPoll&quot;
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
-
-Exemplo:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## Indicação {#referral}
-
-Atributos obrigatórios:
-**classe**: &quot;mktoReferral&quot;
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
-
-Exemplo:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## Sorteios {#sweepstakes}
-
-Atributos obrigatórios:
-**classe**: &quot;mktoSweepstakes&quot;
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
-
-Exemplo:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Variáveis editáveis {#editable-variables}
 
