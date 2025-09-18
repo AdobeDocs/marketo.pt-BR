@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 9189d45829a23a3b9eb75fc4125db92c3508773d
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 51%
+source-wordcount: '653'
+ht-degree: 41%
 
 ---
 
@@ -33,6 +33,46 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Retenção de atividade do webinário sob demanda</strong>: os usuários de webinários interativos agora têm dados do Painel de webinários sob demanda disponíveis por mais de 30 dias (anteriormente, eram apenas até 30 dias a partir do dia do webinário).</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Fluxo de trabalho do Email Designer - Collaboration de Conteúdo</strong>: Agora você pode comentar e colaborar com outros usuários do Marketo em um ativo de email. Os membros da equipe de tags (usuários do Marketo que têm as permissões de ativo apropriadas) e receberão uma notificação por email ou por pulso.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Permissões do Assistente de IA</strong>: os administradores do Marketo podem fornecer a usuários específicos acesso aos recursos do GenAI.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Modo Escuro</strong>: agora você pode utilizar o Modo Escuro, que permite que clientes e aplicativos de email de suporte exibam emails com planos de fundo mais escuros e cores mais claras para texto, botões e outros elementos da interface do usuário.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Correções de redirecionamento</strong>: alguns usuários estavam com problemas de redirecionamento de URLs para emails criados com o novo Designer (por exemplo, colar diretamente as URLs ou marcar ativos de email nem sempre funcionava). Esse problema foi resolvido. Além disso, os links para ativos de email de <b>Modelos de email</b> &gt; <b>Detalhes</b> &gt; <b>Usados por</b> redirecionarão para o ativo de email correspondente.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
