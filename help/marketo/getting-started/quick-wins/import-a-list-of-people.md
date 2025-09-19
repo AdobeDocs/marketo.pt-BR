@@ -5,9 +5,9 @@ title: Importar uma lista de pessoas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '577'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 93%
 >
 >[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha para o Marketo.
+Neste tutorial, saiba como importar pessoas de um arquivo de planilha para o Marketo.
 
 ## Etapa 1: baixar e editar uma planilha {#step-download-and-edit-a-spreadsheet}
 
@@ -113,7 +113,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    >[!TIP]
    >
-   >Os cabeçalhos de coluna devem sempre corresponder exatamente ao campo (diferencia maiúsculas de minúsculas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não encontrá-los na lista suspensa, volte e [crie-os](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} para disponibilizá-los como opções.
+   >Os cabeçalhos de coluna devem sempre corresponder exatamente ao campo (maiúsculas de minúsculas são diferenciadas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não encontrá-los na lista suspensa, volte e [crie-os](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} para disponibilizá-los como opções.
 
    >[!NOTE]
    >
@@ -127,7 +127,7 @@ Neste tutorial, você aprenderá a importar pessoas de um arquivo de planilha pa
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. De volta ao **Meu programa de feira de negócios**, clique na guia **[!UICONTROL Membros]**. Você vê todas as pessoas que acabou de importar.
+1. De volta ao **Meu programa de feira de negócios**, clique na guia **[!UICONTROL Membros]**. Você verá todas as pessoas que acabou de importar.
 
    ![](assets/import-a-list-of-people-15.png)
 
