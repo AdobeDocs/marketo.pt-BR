@@ -1,16 +1,16 @@
 ---
 description: Visão geral avançada do BI Analytics - Documentação do Marketo - Documentação do produto
-title: Visão Geral Avançada do BI Analytics
+title: Visão geral da análise de BI avançada
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
+source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
 workflow-type: tm+mt
 source-wordcount: '1044'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Visão Geral Avançada do BI Analytics {#advanced-bi-analytics-overview}
+# Visão geral da análise de BI avançada {#advanced-bi-analytics-overview}
 
 O Advanced BI Analytics (anteriormente conhecido como Revenue Explorer e Advanced Report Builder) oferece uma interface de relatório e visualização flexível nos dados do Marketo Engage, fornecendo detalhes detalhados sobre progressão, desempenho e muito mais. Ele oferece interatividade e visualização mais avançadas, desempenho mais rápido e uma experiência do usuário mais contínua e intuitiva.
 
@@ -125,7 +125,7 @@ Saiba como exportar seções específicas do relatório.
 
 Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451687/?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 
@@ -140,7 +140,7 @@ Os seguintes relatórios padrão estão incluídos como exemplos para seus relat
   </thead>
   <tbody>
     <tr>
-      <td rowspan="8">Análise de e-mails</td>
+      <td rowspan="8">Análise de emails</td>
       <td>Email - Atividade enviada (em CST)</td>
     </tr>
     <tr>
