@@ -1,30 +1,30 @@
 ---
 unique-page-id: 2359904
 description: Selecione o idioma, a localidade e o fuso horário - Documentação do Marketo - Documentação do produto
-title: Selecione seu idioma, localidade e fuso horário
+title: Selecionar seu idioma, localidade e fuso horário
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 4%
+ht-degree: 11%
 
 ---
 
-# Selecione seu idioma, localidade e fuso horário {#select-your-language-locale-and-time-zone}
+# Selecionar seu idioma, localidade e fuso horário {#select-your-language-locale-and-time-zone}
 
 Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto. Veja como alterar o idioma, a localidade e o fuso horário da sua assinatura do Marketo Engage.
 
 >[!IMPORTANT]
 >
->Se a sua assinatura do Marketo Engage tiver sido migrada para o [Marketo com Identidade do Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, somente o [fuso horário](#change-your-time-zone) neste artigo se aplica a você. Para alterar seu idioma e/ou localidade, essas configurações devem ser acessadas em seu [perfil de conta do Adobe](https://account.adobe.com/profile){target="_blank"}.
+>Se sua assinatura do Marketo Engage tiver sido migrada para o [Marketo com a Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, somente o [fuso horário](#change-your-time-zone) neste artigo se aplica a você. Para alterar seu idioma e/ou localidade, essas configurações devem ser acessadas em seu [perfil de conta da Adobe](https://account.adobe.com/profile){target="_blank"}.
 
 ## Idiomas suportados {#supported-languages}
 
 * Inglês
 * Francês
 * Alemão
-* Japonês
+* japonês
 * Português
 * Espanhol
 

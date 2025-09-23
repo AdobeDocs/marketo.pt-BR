@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146942
 description: Definir lista inteligente para o Smart Campaign | Acionador - Documentação do Marketo - Documentação do produto
-title: Definir lista inteligente para o Smart Campaign | Acionador
+title: Definir lista inteligente para campanha inteligente | Acionável
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Definir lista inteligente para o Smart Campaign | Acionador {#define-smart-list-for-smart-campaign-trigger}
+# Definir lista inteligente para campanha inteligente | Acionável {#define-smart-list-for-smart-campaign-trigger}
 
 Faça uma Campanha inteligente ser executada em uma pessoa por vez com base em eventos ao vivo adicionando acionadores.
 

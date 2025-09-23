@@ -4,10 +4,10 @@ description: Relatório de desempenho de email do Campaign - Documentação do M
 title: Relatório de desempenho de email da campanha
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

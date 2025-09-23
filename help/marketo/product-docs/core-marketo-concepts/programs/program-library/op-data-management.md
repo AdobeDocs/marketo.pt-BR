@@ -1,16 +1,16 @@
 ---
 description: Gerenciamento de dados OP - Documentação do Marketo - Documentação do produto
-title: Gerenciamento de dados OP
+title: OP-Gerenciamento de dados
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '319'
-ht-degree: 26%
+ht-degree: 27%
 
 ---
 
-# Gerenciamento de dados OP {#op-data-management}
+# OP-Gerenciamento de dados {#op-data-management}
 
 Este é um exemplo de workflows de práticas recomendadas simples de gerenciamento de dados operacionais usando um Programa padrão, para ajudá-lo a gerenciar a consistência de dados para registros no banco de dados do Marketo Engage.
 

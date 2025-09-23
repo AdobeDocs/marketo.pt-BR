@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359999
 description: Reordenar colunas de relatório - Documentação do Marketo - Documentação do produto
-title: Reordenar Colunas do Relatório
+title: Reordenar colunas do relatório
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Reordenar Colunas do Relatório {#reorder-report-columns}
+# Reordenar colunas do relatório {#reorder-report-columns}
 
 Você pode alterar a ordem das colunas em um relatório.
 

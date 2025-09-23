@@ -4,10 +4,10 @@ description: Adicionar uma lista de opções do país ao seu formulário - Docum
 title: Adicionar uma lista de opções de país ao formulário
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 

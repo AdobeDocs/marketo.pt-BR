@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096656
 description: Crie um evento com o adaptador Marketo ON24 - Documentação do Marketo - Documentação do produto
-title: Crie um evento com o adaptador Marketo ON24
+title: Criar um evento com o Marketo ON24 Adapter
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Crie um evento com o adaptador Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
+# Criar um evento com o Marketo ON24 Adapter {#create-an-event-with-the-marketo-on-adapter}
 
 Familiarize-se com os blocos de construção e a sequência recomendada para criar eventos no Marketo. Você também deve ter conhecimento prático dos seguintes conceitos do Marketo:
 

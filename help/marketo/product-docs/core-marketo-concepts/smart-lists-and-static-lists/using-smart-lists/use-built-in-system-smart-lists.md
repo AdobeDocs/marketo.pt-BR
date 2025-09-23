@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557275
 description: Usar Smart Lists Integradas/Do Sistema - Documentação Do Marketo - Documentação Do Produto
-title: Usar Smart Lists Integradas/do Sistema
+title: Usar listas inteligentes do sistema ou integradas
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 7%
+ht-degree: 12%
 
 ---
 
-# Usar Smart Lists Integradas/do Sistema {#use-built-in-system-smart-lists}
+# Usar listas inteligentes do sistema ou integradas {#use-built-in-system-smart-lists}
 
 O Marketo Engage tem algumas Smart Lists integradas muito úteis. Vamos dar uma olhada!
 
@@ -60,7 +60,7 @@ Aqui está um resumo do que as Smart Lists integradas fazem:
     <td>Pessoas com um endereço de email não entregue ou que rejeitam seu email.</td>
   </tr>
   <tr>
-    <td>Possíveis duplicatas</td>
+    <td>Possíveis duplicados</td>
     <td>Pessoas que podem ser duplicadas no banco de dados do Marketo.</td>
   </tr>
 </tbody>

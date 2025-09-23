@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147100
 description: Navegação na exibição de programação do programa - Documentação do Marketo - Documentação do produto
-title: Navegando na Exibição de Programação do Programa
+title: Navegação na visualização Cronograma do programa
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Navegando na Exibição de Programação do Programa {#navigating-the-program-schedule-view}
+# Navegação na visualização Cronograma do programa {#navigating-the-program-schedule-view}
 
 Estas são as noções básicas para ajudá-lo a navegar na exibição de programação do programa.
 

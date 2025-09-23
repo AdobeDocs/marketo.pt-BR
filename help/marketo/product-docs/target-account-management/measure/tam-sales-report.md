@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385183
 description: Relatório de vendas do TAM - Documentação do Marketo - Documentação do produto
-title: Relatório de vendas TAM
+title: Relatório de vendas do TAM
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
-# Relatório de vendas TAM {#tam-sales-report}
+# Relatório de vendas do TAM {#tam-sales-report}
 
 Receba um email semanal contendo suas principais contas e suas tendências semanais.
 

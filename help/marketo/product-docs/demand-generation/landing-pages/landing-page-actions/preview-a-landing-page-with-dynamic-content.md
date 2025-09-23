@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359734
 description: Pré-visualizar uma página de aterrissagem com conteúdo dinâmico - Documentação do Marketo - Documentação do produto
-title: Pré-visualizar uma página de aterrissagem com conteúdo dinâmico
+title: Pré-visualizar uma página de destino com conteúdo dinâmico
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Pré-visualizar uma página de aterrissagem com conteúdo dinâmico {#preview-a-landing-page-with-dynamic-content}
+# Pré-visualizar uma página de destino com conteúdo dinâmico {#preview-a-landing-page-with-dynamic-content}
 
 Pré-visualize a página de aterrissagem depois de adicionar conteúdo dinâmico para garantir que tudo esteja com a aparência desejada.
 

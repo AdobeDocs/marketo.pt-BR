@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147243
 description: Tipos de entrada de exibição de cronograma do programa - Documentação do Marketo - Documentação do produto
-title: Tipos de Entrada de Exibição de Calendário do Programa
+title: Tipos de de entrada da visualização Cronograma do programa
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 12%
+ht-degree: 19%
 
 ---
 
-# Tipos de Entrada de Exibição de Calendário do Programa {#program-schedule-view-entry-types}
+# Tipos de de entrada da visualização Cronograma do programa {#program-schedule-view-entry-types}
 
 Há oito tipos de entrada incorporados diferentes que estarão visíveis e disponíveis para uso na visualização do cronograma do programa. Você também pode [criar tipos de entrada personalizados](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) na seção de Administrador.
 

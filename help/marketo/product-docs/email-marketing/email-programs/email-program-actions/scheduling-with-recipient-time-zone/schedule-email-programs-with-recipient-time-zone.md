@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982903
 description: Programar programas de email com fuso horário do destinatário - Documentação do Marketo - Documentação do produto
-title: Programar programas de e-mail com fuso horário do destinatário
+title: Agendar programas de email com o fuso horário do destinatário
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '839'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Programar programas de e-mail com fuso horário do destinatário {#schedule-email-programs-with-recipient-time-zone}
+# Agendar programas de email com o fuso horário do destinatário {#schedule-email-programs-with-recipient-time-zone}
 
 Há dois cenários possíveis ao agendar um programa de email enquanto o Fuso horário do recipient estiver habilitado:
 

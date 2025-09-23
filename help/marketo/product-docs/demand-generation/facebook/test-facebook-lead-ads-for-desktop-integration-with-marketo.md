@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370892
 description: Teste os anúncios do Facebook para integração do desktop com o Marketo - Documentação do Marketo - Documentação do produto
-title: Teste os anúncios do Facebook para a integração do desktop com o Marketo
+title: Testar os anúncios de lead do Facebook para a integração de desktop com o Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo! Veja co
 
 >[!PREREQUISITES]
 >
->Você deve [Configurar a [!UICONTROL Integração dos &#x200B;] dos Anúncios de cliente potencial do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Você deve [Configurar a [!UICONTROL Integração dos ] dos Anúncios de cliente potencial do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. No Facebook Power Editor, selecione uma campanha, um anúncio e clique em **[!UICONTROL Editar]**.
 

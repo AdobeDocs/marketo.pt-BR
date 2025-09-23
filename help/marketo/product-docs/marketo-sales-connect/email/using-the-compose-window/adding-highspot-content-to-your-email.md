@@ -4,10 +4,10 @@ description: Adicionar conteúdo de destaque ao seu e-mail - Documentação do M
 title: Adicionar conteúdo de destaque ao seu email
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

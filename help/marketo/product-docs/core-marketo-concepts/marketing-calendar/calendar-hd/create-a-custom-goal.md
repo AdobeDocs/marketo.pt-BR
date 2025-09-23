@@ -4,10 +4,10 @@ description: Criar uma meta personalizada - Documentação do Marketo - Document
 title: Criar uma meta personalizada
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ Como as apresentações, as metas são específicas do [espaço de trabalho](/he
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Clique em **[!UICONTROL Presentations]** no canto inferior direito.
+1. Clique em **[!UICONTROL Apresentações]** no canto inferior direito.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 

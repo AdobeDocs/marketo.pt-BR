@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096658
 description: Noções básicas sobre os eventos do adaptador Marketo On24 - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre os eventos do adaptador Marketo On24
+title: Noções básicas sobre os eventos do Marketo ON24 Adapter
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Noções básicas sobre os eventos do adaptador Marketo On24 {#understanding-marketo-on-adapter-events}
+# Noções básicas sobre os eventos do Marketo ON24 Adapter {#understanding-marketo-on-adapter-events}
 
 Se o seu webinário ON24 não estiver conectado ao Marketo, você precisará pegar as informações dos participantes que já estão no Marketo e inseri-las no ON24. Após o webinário, você precisa obter as informações de participação que já estão no ON24 e inseri-las novamente no Marketo.
 

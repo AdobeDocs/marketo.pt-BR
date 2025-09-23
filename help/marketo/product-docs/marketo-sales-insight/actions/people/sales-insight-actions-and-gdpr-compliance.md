@@ -1,16 +1,16 @@
 ---
 description: Ações do Sales Insight e conformidade com o GDPR - Documentação do Marketo - Documentação do produto
-title: Ações do Sales Insight e conformidade com o GDPR
+title: Ações do insight de vendas e conformidade com o RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1370'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# Ações do Sales Insight e conformidade com o GDPR {#sales-insight-actions-and-gdpr-compliance}
+# Ações do insight de vendas e conformidade com o RGPD {#sales-insight-actions-and-gdpr-compliance}
 
 O Regulamento Geral sobre a Proteção de Dados (GDPR) é uma legislação da União Europeia que entrou em vigor em 25 de maio de 2018.
 

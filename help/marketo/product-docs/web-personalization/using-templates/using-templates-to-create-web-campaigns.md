@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949168
 description: Uso de modelos para criar campanhas da Web - Documentação do Marketo - Documentação do produto
-title: Utilização de modelos para criar campanhas da Web
+title: Uso de modelos para criar campanhas da web
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Utilização de modelos para criar campanhas da Web {#using-templates-to-create-web-campaigns}
+# Uso de modelos para criar campanhas da web {#using-templates-to-create-web-campaigns}
 
 Acelere e simplifique seu processo de criação de campanha na Web usando nossos modelos integrados ou [salvando o seu próprio](save-your-campaign-as-a-template.md).
 

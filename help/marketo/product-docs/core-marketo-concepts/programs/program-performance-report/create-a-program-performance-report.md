@@ -4,10 +4,10 @@ description: Criar um relatório de desempenho do programa - Documentação do M
 title: Criar um relatório de desempenho do programa
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 6%
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Veja excelentes estatísticas em seus programas com este relatório.
 
-1. [Crie um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Programa]** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Crie um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Programa]** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Clique na guia **[!UICONTROL Relatório]**.
 1. Você está aí! Explore seu relatório para ver como seus programas estão se saindo.
 

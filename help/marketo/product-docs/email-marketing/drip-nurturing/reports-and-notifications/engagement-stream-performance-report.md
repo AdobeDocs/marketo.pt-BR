@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359955
 description: Relatório de desempenho do fluxo de engajamento - Documentação do Marketo - Documentação do produto
-title: Relatório de Desempenho de Fluxo de Envolvimento
+title: Relatório de desempenho do fluxo de engajamento
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Relatório de Desempenho de Fluxo de Envolvimento {#engagement-stream-performance-report}
+# Relatório de desempenho do fluxo de engajamento {#engagement-stream-performance-report}
 
 Quer saber como está o desempenho do seu conteúdo de engajamento? Experimente o relatório de desempenho do fluxo de engajamento.
 

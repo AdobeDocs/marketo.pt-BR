@@ -4,10 +4,10 @@ description: Notas de versão - junho de 2013 - Documentação do Marketo - Docu
 title: Notas de versão - junho de 2013
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 

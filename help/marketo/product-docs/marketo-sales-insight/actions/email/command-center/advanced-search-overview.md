@@ -3,10 +3,10 @@ description: Visão geral da pesquisa avançada - Documentação do Marketo - Do
 title: Visão geral da pesquisa avançada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -83,13 +83,13 @@ Há três status de email para escolher. As opções de tipo/atividade mudam com
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: Enviado**&#x200B;_
+_**Status: Enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtros de acordo com a atividade de email enviada. Você pode escolher [!UICONTROL exibições]/[!UICONTROL nenhuma exibição], [!UICONTROL cliques]/[!UICONTROL nenhum clique] e/ou [!UICONTROL respostas]/[!UICONTROL nenhuma resposta].
 
-_&#x200B;**Status: Pendente**&#x200B;_
+_**Status: Pendente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra por todos os emails pendentes.
  </tr>
 </table>
 
-_&#x200B;**Status: não entregue**&#x200B;_
+_**Status: não entregue**_
 
 ![](assets/advanced-search-overview-12.png)
 

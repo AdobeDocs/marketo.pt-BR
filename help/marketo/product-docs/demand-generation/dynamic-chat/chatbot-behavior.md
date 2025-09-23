@@ -1,16 +1,16 @@
 ---
 description: Comportamento Do Chatbot - Documentação Do Marketo - Documentação Do Produto
-title: Comportamento do Chatbot
+title: Comportamento do chatbot
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1680'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Comportamento do Chatbot {#chatbot-behavior}
+# Comportamento do chatbot {#chatbot-behavior}
 
 A seguir estão diferentes cenários possíveis que descrevem o comportamento esperado do Chatbot para o visitante em cada um.
 
@@ -409,4 +409,4 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
 
 ## Resolução de lead em tempo real {#real-time-lead-resolution}
 
-Durante uma conversa com um cliente potencial anônimo e uma ID de email é fornecida, resolvemos se existe um registro de cliente potencial conhecido com essa ID de email e usamos esse registro para personalização em tempo real. Se encontrarmos vários registros, os mesclamos em tempo real. Esse comportamento é implementado para Caixas de diálogo e Fluxos de conversa.
+Durante uma conversa com um lead anônimo em que uma ID de email é fornecida, descobrimos se existe um registro de lead conhecido com essa ID de email e usamos esse registro para a personalização em tempo real. Se encontrarmos vários registros, os mesclamos em tempo real. Esse comportamento é implementado para diálogos e fluxos de conversa.

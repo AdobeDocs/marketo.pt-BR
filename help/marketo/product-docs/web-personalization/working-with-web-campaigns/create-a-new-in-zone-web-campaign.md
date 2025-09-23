@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719400
 description: Criar uma nova Campanha da Web na zona - Documentação do Marketo - Documentação do produto
-title: Criar uma nova campanha da Web na zona
+title: Criar uma nova campanha da web segmentada por zona
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '693'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Criar uma nova campanha da Web na zona {#create-a-new-in-zone-web-campaign}
+# Criar uma nova campanha da web segmentada por zona {#create-a-new-in-zone-web-campaign}
 
 Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) no seu site, uma substituição na zona, um [recurso de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) ou um alerta por email. Uma campanha da Web Na Zona substitui um elemento do seu site com base na ID da Zona por conteúdo ou banners gráficos.
 
@@ -103,11 +103,11 @@ Na página **Campanhas da Web**, clique em **Editar** na campanha.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
-## Clonar uma campanha da Web {#clone-a-web-campaign}
+## Clonar uma campanha da web {#clone-a-web-campaign}
 
 Consulte [Clonar uma campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
-## Excluir uma campanha da Web {#delete-a-web-campaign}
+## Excluir uma campanha da web {#delete-a-web-campaign}
 
 1. Na página Campanhas da Web, clique em **[!UICONTROL Excluir]** na campanha que deseja excluir.
 

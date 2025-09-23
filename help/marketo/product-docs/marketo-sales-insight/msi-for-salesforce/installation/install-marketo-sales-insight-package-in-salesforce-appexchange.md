@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516390
 description: Instale o pacote Marketo Sales Insight no Salesforce AppExchange - Documentação do Marketo - Documentação do produto
-title: Instalar o pacote Marketo Sales Insight no Salesforce AppExchange
+title: Instalar o pacote Insight de vendas do Marketo no AppExchange do Salesforce
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 

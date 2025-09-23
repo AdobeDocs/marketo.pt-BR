@@ -4,10 +4,10 @@ description: Adicionar um token do sistema como um link em um email - Documenta√
 title: Adicionar um token do sistema como um link em um email
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 

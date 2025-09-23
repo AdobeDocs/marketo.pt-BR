@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352612
 description: Programar uma campanha - Documentação do Marketo - Documentação do produto
-title: Programar uma campanha
+title: Agendar uma campanha
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Programar uma campanha {#schedule-a-campaign}
+# Agendar uma campanha {#schedule-a-campaign}
 
 Você pode agendar cada etapa de email individual da Campanha para sair em um horário específico ou escolher cada etapa de email subsequente para sair ao mesmo tempo que o primeiro email da Campanha.
 

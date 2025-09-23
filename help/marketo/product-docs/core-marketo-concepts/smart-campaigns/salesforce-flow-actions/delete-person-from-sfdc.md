@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147031
 description: Excluir pessoa do SFDC - Documentação do Marketo - Documentação do produto
-title: Excluir pessoa da SFDC
+title: Excluir pessoa do SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 6%
 
 ---
 
-# Excluir pessoa da SFDC {#delete-person-from-sfdc}
+# Excluir pessoa do SFDC {#delete-person-from-sfdc}
 
 Se precisar remover um conjunto específico de clientes potenciais do Salesforce, mas deixá-los como pessoas no Marketo Engage, você pode usar a ação de fluxo Excluir pessoa do SFDC.
 

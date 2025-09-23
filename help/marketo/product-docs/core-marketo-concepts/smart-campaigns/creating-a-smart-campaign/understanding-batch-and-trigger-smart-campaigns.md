@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953132
 description: Noções básicas sobre campanhas inteligentes de lote e acionador - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre campanhas inteligentes de lote e acionador
+title: Noções básicas sobre campanhas inteligentes em lote e acionáveis
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Noções básicas sobre campanhas inteligentes de lote e acionador {#understanding-batch-and-trigger-smart-campaigns}
+# Noções básicas sobre campanhas inteligentes em lote e acionáveis {#understanding-batch-and-trigger-smart-campaigns}
 
 Há dois tipos de campanhas inteligentes: Em lote e Acionador.
 
@@ -38,7 +38,7 @@ Clicar na guia **[!UICONTROL Agendamento]** confirmará que a Campanha inteligen
 
 <br> 
 
-## Campanha com gatilho {#trigger-campaign}
+## Campanha com acionador {#trigger-campaign}
 
 >[!NOTE]
 >

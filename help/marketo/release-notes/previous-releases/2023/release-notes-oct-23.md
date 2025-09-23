@@ -3,10 +3,10 @@ description: Notas de versão - setembro de 2023 - Documentação do Marketo - D
 title: Notas de versão - Setembro de 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '337'
-ht-degree: 4%
+ht-degree: 29%
 
 ---
 
@@ -16,11 +16,11 @@ Abaixo você encontrará todos os recursos incluídos na versão de outubro de 2
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **6 de outubro de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 6 de outubro de 2023**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Novo design para configuração de relatório em UX moderno</strong>: ao configurar um ativo de relatório, você terá uma <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nova árvore de ativos</a> no menu de configuração, bem como a capacidade de filtrar na data de criação e modificação.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
    <tr>
    <td><strong>Serviço de Etapa de Fluxo de Fórmula de Cálculo</strong>: o serviço de Etapa de Cálculo é um serviço de Etapa de Fluxo criado na plataforma IO Runtime da Adobe para uso com as Campanhas Inteligentes do Marketo Engage. Aqueles com tempo de execução de E/S podem implantar o serviço e instalá-lo nas assinaturas do Marketo Engage, permitindo que calculem fórmulas semelhantes às do Excel nas Campanhas inteligentes do Marketo Engage.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Guia do Usuário de Fórmula de Cálculo</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
    <tr>
    <td><strong>Baixar a gravação e atribuir o co-host em webinários interativos</strong>: agora é possível adicionar um co-host externo para seu webinário, caso o host original não esteja disponível. Agora você também pode baixar a gravação do webinário.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Baixar gravação</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Criar um webinário interativo</a></li></td>
   </tr>

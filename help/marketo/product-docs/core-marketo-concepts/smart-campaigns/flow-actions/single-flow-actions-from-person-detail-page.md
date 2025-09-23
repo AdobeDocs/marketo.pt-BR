@@ -1,18 +1,18 @@
 ---
 description: Página Ações de fluxo único de Detalhes da pessoa - Documentação do Marketo - Documentação do produto
-title: Página Ações de Fluxo Único de Detalhes da Pessoa
+title: Ações de fluxo único da página Detalhes da pessoa
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Página Ações de Fluxo Único de Detalhes da Pessoa {#single-flow-actions-from-person-detail-page}
+# Ações de fluxo único da página Detalhes da pessoa {#single-flow-actions-from-person-detail-page}
 
 Além de executar ações de fluxo único de uma Smart List, você também pode executá-las diretamente em uma página Detalhes da pessoa.
 

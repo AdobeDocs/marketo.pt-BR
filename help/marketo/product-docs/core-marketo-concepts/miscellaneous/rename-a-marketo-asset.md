@@ -3,10 +3,10 @@ unique-page-id: 2952484
 description: Renomear um ativo do Marketo - Documentação do Marketo - Documentação do produto
 title: Renomear um ativo do Marketo
 exl-id: 2c8a64fc-663d-4953-b66c-4055e07f1404
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 

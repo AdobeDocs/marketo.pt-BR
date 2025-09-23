@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147124
 description: Uso da guia Assets - Documentação do Marketo - Documentação do produto
-title: Uso da guia Assets
+title: Uso da guia Ativos
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
-# Uso da guia Assets {#using-the-assets-tab}
+# Uso da guia Ativos {#using-the-assets-tab}
 
 A tela do ativo é uma representação visual do programa de evento ou padrão. Você pode usá-lo para adicionar ativos locais, bem como para interagir com os existentes.
 
@@ -25,7 +25,7 @@ Clique na guia **[!UICONTROL Assets]** no programa desejado. Escolha qualquer um
 
 Quando houver ativos em seu programa, você os verá listados aqui.
 
-| Laranja | Campanha com gatilho |
+| Laranja | Campanha com acionador |
 |---|---|
 | Verde | Campanha em lote |
 

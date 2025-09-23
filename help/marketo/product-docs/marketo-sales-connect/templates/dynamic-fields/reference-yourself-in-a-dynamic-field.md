@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352601
 description: Faça referência a si mesmo em um campo dinâmico - Documentação do Marketo - Documentação do produto
-title: Fazer referência a si mesmo em um campo dinâmico
+title: Fazer referência a si mesmo(a) em um campo dinâmico
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Fazer referência a si mesmo em um campo dinâmico {#reference-yourself-in-a-dynamic-field}
+# Fazer referência a si mesmo(a) em um campo dinâmico {#reference-yourself-in-a-dynamic-field}
 
 Campos dinâmicos são nossa forma de mala direta.
 

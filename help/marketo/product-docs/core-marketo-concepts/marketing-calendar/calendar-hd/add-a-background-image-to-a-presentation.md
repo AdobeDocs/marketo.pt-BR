@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504437
 description: Adicionar uma imagem de fundo a uma apresentação - Documentação do Marketo - Documentação do produto
-title: Adicionar uma Imagem de Plano de Fundo a uma Apresentação
+title: Adicionar uma imagem de fundo a uma apresentação
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Adicionar uma Imagem de Plano de Fundo a uma Apresentação {#add-a-background-image-to-a-presentation}
+# Adicionar uma imagem de fundo a uma apresentação {#add-a-background-image-to-a-presentation}
 
 Personalize uma apresentação selecionando uma imagem de fundo.
 

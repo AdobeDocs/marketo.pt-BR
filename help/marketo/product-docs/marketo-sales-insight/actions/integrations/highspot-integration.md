@@ -1,24 +1,24 @@
 ---
 description: Integração de pontos de acesso - Documentação do Marketo - Documentação do produto
-title: Integração de pontos de acesso
+title: Integração com o Highspot
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Integração de pontos de acesso {#highspot-integration}
+# Integração com o Highspot {#highspot-integration}
 
-A equipe de vendas pode acessar os recursos dos pontos mais altos em Ações do Sales Insight e obter maior visibilidade, eficiência e desempenho durante todo o ciclo de vendas. Os usuários da ação Sales Insight podem selecionar o conteúdo de vendas armazenado na plataforma de ativação de vendas do Highspot e inseri-lo diretamente em emails, modelos de email e campanhas de vendas, tudo isso enquanto capturam o rastreamento e a análise de conteúdo nas ações Highspot e Sales Insight.
+A equipe de vendas pode acessar os recursos de pontos altos em Ações de vendas da Insight e obter maior visibilidade, eficiência e desempenho durante todo o ciclo de vendas. Os usuários do Sales Insight Action podem selecionar o conteúdo de vendas armazenado na plataforma de capacitação de vendas do Highspot e inseri-lo diretamente em emails, modelos de email e campanhas de vendas, tudo isso enquanto capturam o rastreamento e a análise de conteúdo nas ações do Highspot e do Sales Insight.
 
 ## Habilitando a integração de pontos de acesso {#enabling-highspot-integration}
 
 >[!NOTE]
 >
->Você deve ter privilégios de administrador para ativar o Highspot para sua instância de ações do Sales Insight.
+>Você deve ter privilégios de Administrador para ativar o Highspot para sua instância de Ações do Sales Insight.
 
 1. Clique no ícone de engrenagem e selecione **Configurações**.
 

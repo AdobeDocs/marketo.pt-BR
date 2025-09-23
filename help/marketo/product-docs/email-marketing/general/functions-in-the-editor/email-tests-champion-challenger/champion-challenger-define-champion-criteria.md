@@ -4,14 +4,14 @@ description: Champion/Challenger — defina critérios de Champion — Marketo D
 title: Champion/Challenger - defina os critérios do Champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Champion/Challenger: defina critérios de Champion {#champion-challenger-define-champion-criteria}
+# Controlador/variante: definir critérios de um controlador {#champion-challenger-define-champion-criteria}
 
 Depois de configurar o tipo de teste, é necessário definir os critérios de campeão. Veja como.
 

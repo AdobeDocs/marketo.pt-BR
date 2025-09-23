@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949262
 description: SEO - Remover/Excluir uma página - Documentação do Marketo - Documentação do produto
-title: SEO - Remover/Excluir uma página
+title: SEO - Remover/excluir uma página
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# SEO - Remover/Excluir uma página {#seo-remove-delete-a-page}
+# SEO - Remover/excluir uma página {#seo-remove-delete-a-page}
 
 Deseja excluir uma página? Sem suor, veja como.
 

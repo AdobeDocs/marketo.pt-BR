@@ -4,10 +4,10 @@ description: Localizar pessoas duplicadas com lógica personalizada - Documenta�
 title: Localizar pessoas duplicadas com lógica personalizada
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ O Marketo Engage tem uma Lista inteligente de sistemas que encontra pessoas dupl
 >
 >[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
 ![](assets/ma-2.png)
 

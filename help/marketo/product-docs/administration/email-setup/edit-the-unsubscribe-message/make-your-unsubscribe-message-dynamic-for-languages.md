@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6848782
 description: Dinamize sua mensagem de cancelamento de inscrição para idiomas - Documentação do Marketo - Documentação do produto
-title: Tornar a mensagem de cancelamento de inscrição dinâmica para idiomas
+title: Tornar a mensagem de cancelamento de inscrição dinâmica em diferentes idiomas
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Tornar a mensagem de cancelamento de inscrição dinâmica para idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
+# Tornar a mensagem de cancelamento de inscrição dinâmica em diferentes idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
 
 A mensagem e o link padrão para cancelar a inscrição estão em inglês. Você pode usar o conteúdo dinâmico para exibi-lo em diferentes idiomas.
 
@@ -65,7 +65,7 @@ A mensagem e o link padrão para cancelar a inscrição estão em inglês. Você
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
-## Criar um trecho {#create-a-snippet}
+## Criar um snippet {#create-a-snippet}
 
 1. Vá para o **[!UICONTROL Design Studio]**.
 

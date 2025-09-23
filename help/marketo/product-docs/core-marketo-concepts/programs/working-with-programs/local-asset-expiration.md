@@ -1,16 +1,16 @@
 ---
 description: Expiração de ativo local - Documentação do Marketo - Documentação do produto
-title: Expiração do ativo local
+title: Expiração de ativos locais
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Expiração do ativo local {#local-asset-expiration}
+# Expiração de ativos locais {#local-asset-expiration}
 
 Defina uma data/hora de expiração para desfazer a publicação de páginas de aterrissagem, desativar campanhas de acionador ou parar campanhas de lote recorrentes.
 

@@ -1,16 +1,16 @@
 ---
 description: Opções De Email Em Massa - Documentação Do Marketo - Documentação Do Produto
-title: Opções de email em massa
+title: Opções de envio de email em massa
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Opções de email em massa {#bulk-emailing-options}
+# Opções de envio de email em massa {#bulk-emailing-options}
 
 O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cliente potencial. O [!DNL Marketo Sales] oferece duas maneiras de enviar emails em massa: **Emails de Grupo** e **Selecionar e Enviar**. Emails de grupo são uma ótima maneira de enviar rapidamente centenas de emails para um grupo direcionado. Usar Select e Send significa limites de email mais baixos, mas oferece mais oportunidades de personalização para o usuário.
 

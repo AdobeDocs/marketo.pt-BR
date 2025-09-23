@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355569
 description: Campos personalizados de membros do programa - Documentação do Marketo - Documentação do produto
-title: Campos Personalizados de Membros do Programa
+title: Campos personalizados de membros de programas
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Campos Personalizados de Membros do Programa {#program-member-custom-fields}
+# Campos personalizados de membros de programas {#program-member-custom-fields}
 
 Os campos personalizados do Membro do Programa permitem coletar dados específicos do programa para cada membro. Eles podem ser usados em: formulários Marketo, filtros e acionadores de Smart List e ações de fluxo do Smart Campaign. Os dados podem ser visualizados na guia Membros do programa.
 

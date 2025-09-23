@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359971
 description: Relatório de atividades da página da Web - Documentação do Marketo - Documentação do produto
-title: Relatório de atividades da página da Web
+title: Relatório de atividades de página da web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Relatório de atividades da página da Web {#web-page-activity-report}
+# Relatório de atividades de página da web {#web-page-activity-report}
 
 Nesse relatório, você pode ver quem está visitando seu site e até mesmo assinar uma versão de email do relatório.
 

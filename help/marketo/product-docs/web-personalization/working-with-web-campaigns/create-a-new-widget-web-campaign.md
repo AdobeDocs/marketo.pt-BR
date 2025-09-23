@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719402
 description: Criar uma nova campanha da Web do widget - Documentação do Marketo - Documentação do produto
-title: Criar uma nova campanha da Web do widget
+title: Criar uma nova campanha da web do widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '629'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Criar uma nova campanha da Web do widget {#create-a-new-widget-web-campaign}
+# Criar uma nova campanha da web do widget {#create-a-new-widget-web-campaign}
 
 Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) no seu site, uma [substituição de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), um recurso de widget ou um alerta por email. O Widget da campanha da Web é um texto ou banner exibido no lado vertical da página da Web com a capacidade de expandir e contrair, permanecendo fixo na página do site durante toda a visita.
 
@@ -108,7 +108,7 @@ Na página [!UICONTROL Campanhas da Web], clique em **[!UICONTROL Editar]** na c
 >
 >Para facilitar a localização da campanha desejada, use o [recurso de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-## Clonar uma campanha da Web {#clone-a-web-campaign}
+## Clonar uma campanha da web {#clone-a-web-campaign}
 
 Consulte [Clonar uma campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
@@ -118,7 +118,7 @@ Na página [!UICONTROL Campanhas da Web], clique em **[!UICONTROL Visualizar]** 
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## Excluir uma campanha da Web {#delete-a-web-campaign}
+## Excluir uma campanha da web {#delete-a-web-campaign}
 
 1. Na página [!UICONTROL Campanhas da Web], clique em **[!UICONTROL Excluir]** na campanha da Web que deseja excluir.
 

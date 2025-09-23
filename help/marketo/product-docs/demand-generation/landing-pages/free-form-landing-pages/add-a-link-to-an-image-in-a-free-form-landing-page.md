@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472314
 description: Adicionar um link a uma imagem em uma página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
-title: Adicionar um link a uma imagem em uma página de aterrissagem de forma livre
+title: Adicionar um link a uma imagem em uma página de destino de forma livre
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 2%
+ht-degree: 21%
 
 ---
 
-# Adicionar um link a uma imagem em uma página de aterrissagem de forma livre {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# Adicionar um link a uma imagem em uma página de destino de forma livre {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
 Deseja criar um link para uma imagem na sua página de aterrissagem em outra página/site? Veja como.
 

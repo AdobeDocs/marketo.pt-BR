@@ -4,10 +4,10 @@ description: Adicionar pessoas à sua campanha - Documentação do Marketo - Doc
 title: Adicionar pessoas à sua campanha
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Há várias maneiras de adicionar alguém a uma campanha.
 
 Se estiver iniciando a comunicação com um cliente potencial ou cliente, você pode usar Adicionar ao Campaign em qualquer página do nosso aplicativo web ou do Salesforce.
 
-Esse fluxo permitirá que você visualize, edite e programe seu primeiro email no Campaign. Se a campanha começar com uma tarefa, essas tarefas serão enfileiradas para você na lista Tarefas no nosso aplicativo web e no Salesforce.
+Esse fluxo permitirá que você visualize, edite e programe seu primeiro e-mail no Campaign. Se a campanha começar com uma tarefa, essas tarefas serão enfileiradas para você na lista Tarefas no nosso aplicativo web e no Salesforce.
 
 Você pode fazer isso na guia Campaigns no nosso aplicativo web.
 

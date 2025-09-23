@@ -4,14 +4,14 @@ description: Notas de versão - Último trimestre de 2018 - Documentação do Ma
 title: Notas de versão - Último trimestre de 2018
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '820'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Notas de versão: Último trimestre de 2018 {#release-notes-fall}
+# Notas de versão: outono de 2018 {#release-notes-fall}
 
 Os seguintes recursos estão incluídos na versão do último trimestre de 2018. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 

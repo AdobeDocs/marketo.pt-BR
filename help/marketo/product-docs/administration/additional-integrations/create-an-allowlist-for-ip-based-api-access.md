@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098433
 description: Criar um novo Incluo na lista de permissões para acesso à API com base em IP - Documentação do Marketo - Documentação do produto
-title: Criar uma Inclui na lista de permissões para Acesso à API com base em IP
+title: Criar uma lista de permissões de acesso à API baseada em IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Criar uma Inclui na lista de permissões para Acesso à API com base em IP {#create-an-allowlist-for-ip-based-api-access}
+# Criar uma lista de permissões de acesso à API baseada em IP {#create-an-allowlist-for-ip-based-api-access}
 
 Às vezes, você deseja conceder à API acesso somente a um endereço IP específico ou a um intervalo de endereços. Para fazer isso, primeiro habilite as restrições e, em seguida, especifique os endereços IP que podem usar as APIs.
 
@@ -22,8 +22,8 @@ ht-degree: 1%
 >[!NOTE]
 >
 >Este recurso opera independentemente das restrições de logon baseadas em IP do Marketo Engage (sendo substituído pela Lista de acesso IP da Admin Console*) e continuará a funcionar após a [migração do Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
->&#x200B;> 
->&#x200B;>&#42;A disponibilidade geral da lista de acesso IP está planejada para o quarto trimestre de 2025.
+>> 
+>>&#42;A disponibilidade geral da lista de acesso IP está planejada para o quarto trimestre de 2025.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

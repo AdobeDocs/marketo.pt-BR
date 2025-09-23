@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352621
 description: Noções básicas sobre as opções de envio - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre as opções de envio
+title: Noções básicas sobre opções de envio
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
 
 ---
 
-# Noções básicas sobre as opções de envio {#understanding-send-options}
+# Noções básicas sobre opções de envio {#understanding-send-options}
 
 Ao criar uma Campanha, você tem várias opções sobre como as etapas de email são criadas no [!DNL Sales Connect]. E, dependendo de onde seu email se encaixa no Campaign, suas opções também diferem.
 

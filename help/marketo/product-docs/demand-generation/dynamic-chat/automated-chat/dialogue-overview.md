@@ -1,20 +1,20 @@
 ---
 description: Visão geral da caixa de diálogo - Documentação do Marketo - Documentação do produto
-title: Visão geral da caixa de diálogo
+title: Visão geral do diálogo
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Visão geral da caixa de diálogo {#dialogue-overview}
+# Visão geral do diálogo {#dialogue-overview}
 
 As caixas de diálogo são conversas individuais. Em cada caixa de diálogo, você decide onde a conversa de chat específica será exibida, para quem ela será exibida e qual será o conteúdo da conversa. Cada caixa de diálogo também tem sua própria página de relatório, onde é possível monitorar a eficácia.
 
-## Critérios de público {#audience-criteria}
+## Critérios de público-alvo {#audience-criteria}
 
 A seção [Critério de Público-Alvo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} de uma Caixa de Diálogo é onde você definirá onde e para quem sua conversa será exibida
 

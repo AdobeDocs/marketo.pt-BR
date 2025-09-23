@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360437
 description: Explore detalhes do programa e do canal com o Analisador de programa - Documentação do Marketo - Documentação do produto
-title: Explore detalhes do programa e do canal com o Analisador de programa
+title: Explorar detalhes do programa e do canal com o analisador de programa
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

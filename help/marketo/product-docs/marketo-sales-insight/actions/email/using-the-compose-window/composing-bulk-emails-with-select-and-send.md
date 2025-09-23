@@ -1,18 +1,18 @@
 ---
 description: Criação de emails em massa com o Select e Send - Documentação do Marketo - Documentação do produto
-title: Escrevendo emails em massa com Selecionar e enviar
+title: Escrever emails em massa com as opções Selecionar e Enviar
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Escrevendo emails em massa com Selecionar e enviar {#composing-bulk-emails-with-select-and-send}
+# Escrever emails em massa com as opções Selecionar e Enviar {#composing-bulk-emails-with-select-and-send}
 
 Veja como enviar/editar emails usando a opção [!UICONTROL Selecionar] e [!UICONTROL Enviar].
 

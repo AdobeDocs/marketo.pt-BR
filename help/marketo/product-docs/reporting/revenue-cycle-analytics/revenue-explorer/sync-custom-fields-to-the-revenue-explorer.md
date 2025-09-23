@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360341
 description: Sincronizar campos personalizados com o Explorador de receita - Documentação do Marketo - Documentação do produto
-title: Sincronizar campos personalizados com o Gerenciador de receita
+title: Sincronizar campos personalizados com o gerenciador de receita
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 

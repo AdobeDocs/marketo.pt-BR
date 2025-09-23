@@ -4,7 +4,7 @@ description: Prática recomendada - Como organizar seus programas - Documentaç�
 title: Prática recomendada - Como organizar seus programas
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 4%
@@ -95,7 +95,7 @@ Um Evento geralmente tem muitas partes móveis, incluindo: convites, páginas de
 
 ![](assets/capture.png)
 
-## Programas de envolvimento {#engagement-programs}
+## Programas de engajamento {#engagement-programs}
 
 Saiba [tudo sobre programas de participação](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. A melhor maneira de organizar seu programa de engajamento é com pastas. Crie uma pasta para cada fluxo e coloque os emails ou programas nessa pasta. Inclua uma pasta de arquivamento em cada fluxo quando o conteúdo se tornar obsoleto e você quiser removê-lo.
 

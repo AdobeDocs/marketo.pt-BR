@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949186
 description: SEO - Utilização do detalhamento da página - Documentação do Marketo - Documentação do produto
-title: SEO - Utilização do Detalhamento da Página
+title: SEO - Uso do detalhamento de página
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# SEO - Utilização do Detalhamento da Página {#seo-using-the-page-detail-drill-down}
+# SEO - Uso do detalhamento de página {#seo-using-the-page-detail-drill-down}
 
 Você pode ver muitas informações sobre suas páginas usando o detalhamento da página.
 
@@ -40,11 +40,11 @@ Você pode ver muitas informações sobre suas páginas usando o detalhamento da
 | [!UICONTROL Total de Links de Entrada] | O número total de links de entrada para seu site. |
 | [!UICONTROL Links de Entrada (domínios exclusivos)] | O número de outros sites com pelo menos um link de entrada para o site. |
 | [!UICONTROL Links de saída] | O número de links que saem para outros sites desta página específica. |
-| [!UICONTROL Compartilhamentos Facebook] | Número de vezes que esta página foi compartilhada em [!DNL Facebook]. |
-| [!UICONTROL Curtidas da Facebook] | Número de vezes que este compartilhamento de página foi curtido em [!DNL Facebook]. |
+| [!UICONTROL Compartilhamentos do Facebook] | Número de vezes que esta página foi compartilhada em [!DNL Facebook]. |
+| [!UICONTROL Curtidas do Facebook] | Número de vezes que este compartilhamento de página foi curtido em [!DNL Facebook]. |
 | [!UICONTROL Cliques do Facebook] | Número de cliques de [!DNL Facebook share]. |
 
-## [!UICONTROL Palavra(s)-chave para a(s) qual(is) a Página está Otimizada] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL Palavra(s)-chave para a(s) qual(is) a Página está Otimizada]  {#keyword-s-that-page-is-optimized-for}
 
 Aqui é onde você [seleciona qual palavra-chave está tentando otimizar sua página para](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 

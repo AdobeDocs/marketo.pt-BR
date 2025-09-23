@@ -1,15 +1,15 @@
 ---
 description: Utilização do email de vendas de envio em massa no Salesforce - Documentação do Marketo - Documentação do produto
-title: Utilização do email de vendas de envio em massa no Salesforce
+title: Uso do envio em massa de emails de vendas no Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '596'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Utilização do email de vendas de envio em massa no Salesforce {#using-bulk-send-sales-email-in-salesforce}
+# Uso do envio em massa de emails de vendas no Salesforce {#using-bulk-send-sales-email-in-salesforce}
 
 Saiba como enviar emails em massa no Salesforce para ajudar a dimensionar a comunicação de saída usando Ações de vendas.
 

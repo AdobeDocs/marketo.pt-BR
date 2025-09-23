@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718640
 description: Noções básicas sobre a área de análise de associação ao programa - Documentação do Marketo - Documentação do produto
-title: Como entender a área de análise de participação no programa
+title: Noções básicas sobre a área de análise de associação ao programa
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 16%
+ht-degree: 21%
 
 ---
 
-# Como entender a área de análise de participação no programa {#understanding-the-program-membership-analysis-area}
+# Noções básicas sobre a área de análise de associação ao programa {#understanding-the-program-membership-analysis-area}
 
 A área de Análise de programa permite analisar a eficácia de programas individuais ou ver os resultados resumidos por canal em um determinado período.
 
@@ -29,7 +29,7 @@ Quantos novos nomes cada programa/canal gerou por mês?
 
 ![](assets/three-2.png)
 
-## Dimension e Medidas de Análise de Participação no Programa {#program-membership-analysis-dimensions-and-measures}
+## Dimensões e Medidas da Análise de Participação no Programa {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -54,9 +54,9 @@ Quantos novos nomes cada programa/canal gerou por mês?
 
 | Dimensão | Descrição |
 |---|---|
-| Ano | Período de associação ao programa |
+| Year | Período de associação ao programa |
 | Trimestre | Período de associação ao programa |
-| Mês | Período de associação ao programa |
+| Month | Período de associação ao programa |
 | Semana | Período de associação ao programa |
 | Data | Período de associação ao programa |
 

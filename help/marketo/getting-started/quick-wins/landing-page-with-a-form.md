@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359412
 description: Página inicial com um formulário - Documentação do Marketo - Documentação do produto
-title: Página com formulário
+title: Página de destino com formulário
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 2%
+source-wordcount: '550'
+ht-degree: 6%
 
 ---
 
-# Página com formulário {#landing-page-with-a-form}
+# Página de destino com formulário {#landing-page-with-a-form}
 
 ## Missão: criar uma página de aterrissagem com um formulário para adquirir novas pessoas. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
->[Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## ETAPA 1: Criar um programa {#step-create-a-program}
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/landing-page-with-a-form-1.png)
 
@@ -163,7 +163,7 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Vá para a área **[!UICONTROL Banco de Dados]**.
+1. Acesse a área **[!UICONTROL Banco de dados]**.
 
    ![](assets/landing-page-with-a-form-26.png)
 
@@ -175,10 +175,10 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    ![](assets/landing-page-with-a-form-28.png)
 
-## Missão concluída! {#mission-complete}
+## Missão cumprida! {#mission-complete}
 
 <br> 
 
-[Missão 1: Enviar uma explosão de e-mail](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Missão 1: Enviar uma explosão de e-mail](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
 [Missão 3: Pontuação Simples ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

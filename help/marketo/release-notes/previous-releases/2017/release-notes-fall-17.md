@@ -4,14 +4,14 @@ description: Notas de versão - Último trimestre de 2017 - Documentação do Ma
 title: Notas de versão - Último trimestre de 2017
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 5%
 
 ---
 
-# Notas de versão: outono de 17 {#release-notes-fall}
+# Notas de versão: outono de 2017 {#release-notes-fall}
 
 Os seguintes recursos estão incluídos na versão do último trimestre de 2017. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
@@ -86,10 +86,10 @@ Economize tempo reutilizando ativos criativos e imagens em vários canais no Mar
 
 ## Integração  {#integration}
 
-**[API de Visualização de Email](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting)**
+**[API de Visualização de Email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Agora você pode visualizar remotamente emails fora do Marketo, simplificando o processo de localização de conteúdo de email e reduzindo erros.
 
-**[Substituir API do HTML](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting)**
+**[Substituir API do HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Os desenvolvedores podem atualizar o conteúdo do HTML de ativos de email remotamente, permitindo que trabalhem em um único sistema para manter os ativos.

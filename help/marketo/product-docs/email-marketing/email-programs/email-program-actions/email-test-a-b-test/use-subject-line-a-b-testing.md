@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359494
 description: Use O Teste A/B De "Linha De Assunto" - Documentação Do Marketo - Documentação Do Produto
-title: Use O Teste A/B "Linha De Assunto"
+title: Usar teste A/B de “Linha de assunto”
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Use O Teste A/B &quot;Linha De Assunto&quot; {#use-subject-line-a-b-testing}
+# Usar teste A/B de “Linha de assunto” {#use-subject-line-a-b-testing}
 
 Você pode facilmente testar seus emails A/B. Um dos testes mais comuns é o teste **[!UICONTROL Linha de assunto]**.
 

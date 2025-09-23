@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095644
 description: Aprovar um trecho sem rascunho - Documentação do Marketo - Documentação do produto
-title: Aprovar um trecho sem rascunho
+title: Aprovar um snippet sem rascunho
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Aprovar um trecho sem rascunho {#approve-a-snippet-with-no-draft}
+# Aprovar um snippet sem rascunho {#approve-a-snippet-with-no-draft}
 
 ## Aprovar o trecho {#approve-the-snippet}
 

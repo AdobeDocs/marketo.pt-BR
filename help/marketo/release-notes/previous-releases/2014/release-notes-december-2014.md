@@ -4,10 +4,10 @@ description: Notas de versão - dezembro de 2014 - Documentação do Marketo - D
 title: Notas de versão - dezembro de 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -65,7 +65,7 @@ Três novas chamadas para a API REST de lead e atividade:
 
 · Mesclar lead
 
-Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
+Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
 
 ## Aprimoramentos de Compatibilidade do [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 

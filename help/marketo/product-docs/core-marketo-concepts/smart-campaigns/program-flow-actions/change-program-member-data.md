@@ -1,16 +1,16 @@
 ---
 description: Alterar dados dos membros do programa - Documentação do Marketo - Documentação do produto
-title: Alterar dados dos membros do programa
+title: Alterar dados de membros do programa
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 5%
 
 ---
 
-# Alterar dados dos membros do programa {#change-program-member-data}
+# Alterar dados de membros do programa {#change-program-member-data}
 
 Você pode usar o Marketo para atualizar o valor de um campo utilizando a ação de fluxo Alterar valor dos dados.
 

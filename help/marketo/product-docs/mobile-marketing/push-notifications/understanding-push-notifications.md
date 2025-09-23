@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7511518
 description: Noções básicas das notificações por push - Documentação do Marketo - Documentação do produto
-title: Noções básicas das notificações por push
+title: Noções básicas sobre notificações por push
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Noções básicas das notificações por push {#understanding-push-notifications}
+# Noções básicas sobre notificações por push {#understanding-push-notifications}
 
 >[!NOTE]
 >

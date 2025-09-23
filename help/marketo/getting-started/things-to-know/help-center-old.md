@@ -1,19 +1,19 @@
 ---
-description: Centro de ajuda - Documentação do Marketo Engage - Documentação do produto
+description: Central de ajuda - Documentos do Marketo Engage - Documentação do produto
 title: Centro de ajuda
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 5%
+ht-degree: 84%
 
 ---
 
 # Centro de ajuda {#help-center}
 
-A Central de ajuda no Adobe Marketo Engage serve como um local centralizado para obter assistência. Além de se vincular a vários recursos (por exemplo, [documentação do produto](/help/marketo/home.md){target="_blank"}, [informações de versão](/help/marketo/release-notes/current.md){target="_blank"}, a [Comunidade da Nação de Marketing](https://nation.marketo.com/){target="_blank"}), você pode acessar apresentações úteis sobre o produto organizadas por nível de experiência.
+A Central de ajuda do Adobe Marketo Engage serve como um local centralizado para obter assistência. Além de estar vinculada a vários recursos (por exemplo, [documentações de produto](/help/marketo/home.md){target="_blank"}, [informações de lançamento](/help/marketo/release-notes/current.md){target="_blank"}, [comunidade da Marketing Nation](https://nation.marketo.com/){target="_blank"}), é possível acessar tutoriais úteis sobre o produto, organizados por nível de experiência.
 
 ## Como acessar {#how-to-access}
 
@@ -31,11 +31,11 @@ Os guias servem como apresentações rápidas para recursos populares.
 
    ![](assets/help-center-3.png)
 
-1. Clique em **Introdução**.
+1. Clique em **Começar**.
 
    ![](assets/help-center-4.png)
 
-1. Clique em **Avançar** para continuar.
+1. Clique em **Avançar** para continuar.
 
    ![](assets/help-center-5.png)
 
@@ -45,7 +45,7 @@ Os guias servem como apresentações rápidas para recursos populares.
 
    >[!TIP]
    >
-   >Saia do manual a qualquer momento clicando em **Dispensar**.
+   >Saia do guia a qualquer momento clicando em **Dispensar**.
 
 ### Novidades {#whats-new}
 
@@ -55,7 +55,7 @@ A guia Novidades contém todos os detalhes da versão mais recente do Marketo En
 
 >[!TIP]
 >
->Clique no ícone de seta na parte inferior para exibir a página no Experience League.
+>Clique no ícone de seta na parte inferior para exibir a página na Experience League.
 
 ### Recursos {#resources}
 

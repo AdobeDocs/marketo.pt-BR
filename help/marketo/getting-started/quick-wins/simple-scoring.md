@@ -4,10 +4,10 @@ description: Pontuação simples - Documentação do Marketo - Documentação do
 title: Pontuação simples
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '375'
-ht-degree: 7%
+ht-degree: 18%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->* [Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Página com formulário](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Etapa 1: &#x200B;criar uma campanha de pontuação {#step-create-a-scoring-campaign}
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/simple-scoring-1.png)
 
@@ -82,7 +82,7 @@ ht-degree: 7%
 
    ![](assets/simple-scoring-12.png)
 
-1. Clique em **[!UICONTROL Ativar]** na tela de confirmação.
+1. Clique em **[!UICONTROL Ativar]** na tela de confirmação.
 
    ![](assets/simple-scoring-13.png)
 
@@ -100,7 +100,7 @@ ht-degree: 7%
 
    ![](assets/simple-scoring-15.png)
 
-1. Preencha o formulário com seu nome, sobrenome e endereço de email e clique em **[!UICONTROL Enviar]**.
+1. Preencha o formulário com seu nome, sobrenome, endereço de email e clique em **[!UICONTROL Enviar]**.
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 7%
 
 ## Etapa 3: Exibir as Informações de Pessoa {#step-view-the-person-info}
 
-1. Vá para a área **[!UICONTROL Banco de Dados]**.
+1. Acesse a área **[!UICONTROL Banco de dados]**.
 
    ![](assets/simple-scoring-17.png)
 
@@ -126,7 +126,7 @@ Os detalhes da pessoa serão abertos em uma nova guia ou janela. Veja como sua p
 
 ![](assets/simple-scoring-20.png)
 
-## Missão concluída! {#mission-complete}
+## Missão cumprida! {#mission-complete}
 
 <br> 
 

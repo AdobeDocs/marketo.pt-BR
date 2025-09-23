@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359710
 description: Aprovar, cancelar a aprovação ou excluir uma página de aterrissagem - Documentação do Marketo - Documentação do produto
-title: Aprovar, cancelar aprovação ou excluir uma página de aterrissagem
+title: Aprovar, cancelar aprovação de ou excluir uma página de destino
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 40f7cc71d816505149ee56b8dca34b5e17ae75b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Aprovar, cancelar aprovação ou excluir uma página de aterrissagem {#approve-unapprove-or-delete-a-landing-page}
+# Aprovar, cancelar aprovação de ou excluir uma página de destino {#approve-unapprove-or-delete-a-landing-page}
 
 As landing pages estarão no modo de rascunho até que você as aprove. A aprovação disponibiliza páginas no restante do sistema. Quando você edita uma Landing page aprovada, o Marketo Engage salva o rascunho, mas continua a usar a versão aprovada até que você aprove o rascunho.
 

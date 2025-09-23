@@ -4,10 +4,10 @@ description: Encontre o URL de uma imagem ou arquivo carregado - Documentação 
 title: Localizar o URL de uma imagem ou arquivo carregado
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 

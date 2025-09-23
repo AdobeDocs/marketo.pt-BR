@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45417322
 description: Exclusão de um cliente em potencial ou contato - Documentação do Marketo - Documentação do produto
-title: Excluindo um Cliente Potencial ou Contato
+title: Excluir um lead ou contato
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Excluindo um Cliente Potencial ou Contato {#deleting-a-lead-or-contact}
+# Excluir um lead ou contato {#deleting-a-lead-or-contact}
 
 Há algumas coisas a saber quando se trata de excluir clientes potenciais/contatos em [!DNL Microsoft Dynamics].
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359483
 description: Noções básicas sobre opções de teste de email - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre as opções de teste de e-mail
+title: Noções básicas sobre opções de teste de email
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Noções básicas sobre as opções de teste de e-mail {#understanding-email-testing-options}
+# Noções básicas sobre opções de teste de email {#understanding-email-testing-options}
 
 Teste seus emails para melhorar a pontuação de engajamento. Há dois tipos de testes de email no Marketo.
 

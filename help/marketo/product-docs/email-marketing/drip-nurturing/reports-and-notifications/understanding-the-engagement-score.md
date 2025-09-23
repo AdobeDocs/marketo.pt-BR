@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359890
 description: Noções básicas da pontuação de engajamento - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre a pontuação do engajamento
+title: Noções básicas sobre a pontuação de engajamento
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Noções básicas sobre a pontuação do engajamento {#understanding-the-engagement-score}
+# Noções básicas sobre a pontuação de engajamento {#understanding-the-engagement-score}
 
 A pontuação de engajamento facilita a visualização da eficiência do conteúdo em seu programa de engajamento. A pontuação varia de 0 a 100. Confira [o Painel de Envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) para ver como você pode acompanhar o desempenho do seu conteúdo.
 

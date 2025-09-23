@@ -4,7 +4,7 @@ title: Designer de fluxo
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1128'
 ht-degree: 2%
@@ -13,11 +13,11 @@ ht-degree: 2%
 
 # Designer de fluxo {#stream-designer}
 
-Há _muitas_ combinações de fluxo possíveis. Este artigo contém um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma pergunta sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante terá a opção de ingressar em uma lista de endereçamento para correspondência futura. Eles também recebem um PDF gratuito. O objetivo final é agendar um compromisso ou coletar o email do visitante.
+Há _muitas_ combinações de fluxo possíveis. Este artigo contém um exemplo em que o profissional de marketing pergunta ao visitante do site se ele tem alguma pergunta sobre o produto. Em caso positivo, o visitante pode agendar um compromisso. Se não, o visitante terá a opção de ingressar em uma lista de endereçamento para correspondência futura. Eles também têm uma PDF gratuita. O objetivo final é agendar um compromisso ou coletar o email do visitante.
 
 >[!PREREQUISITES]
 >
->Antes de usar o cartão Documento, você deve primeiro [configurá-lo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} em sua conta Adobe.
+>Antes de usar o Cartão de documento, primeiro você deve [configurá-lo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} em sua conta da Adobe.
 
 ## Placas Designer de transmissão {#stream-designer-cards}
 
@@ -35,7 +35,7 @@ O Stream Designer contém vários cartões que você pode adicionar para moldar 
  </tr>
  <tr>
   <td style="width:25%"><strong>Documento</strong></td>
-  <td>Permite incorporar documentos PDF em caixas de diálogo e rastrear a atividade de envolvimento de documentos dos visitantes (quantas páginas foram visualizadas, se o documento foi baixado e/ou quaisquer termos de pesquisa usados).</td>
+  <td>Permite incorporar documentos do PDF em caixas de diálogo e rastrear a atividade de envolvimento de documentos dos visitantes (quantas páginas foram visualizadas, se o documento foi baixado e/ou quaisquer termos de pesquisa usados).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Captura de informações</strong></td>
@@ -43,7 +43,7 @@ O Stream Designer contém vários cartões que você pode adicionar para moldar 
  </tr>
  <tr>
   <td style="width:25%"><strong>Reserva de Reunião</strong></td>
-  <td>Fornece ao visitante um calendário de datas disponíveis para agendar uma reunião. Escolha a disponibilidade do calendário por meio de rodízio, de um agente específico ou usando regras personalizadas. Clique em <b>Adicionar atributo</b> se desejar capturar o nome ou endereço de email do agente e atribuí-lo ao registro pessoal do visitante do chat para consulta futura (dica: crie um <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizado</a> para mapear as informações do agente para que não substitua um campo Marketo Engage padrão).</td>
+  <td>Fornece ao visitante um calendário de datas disponíveis para agendar uma reunião. Escolha a disponibilidade do calendário por meio de rodízio, de um agente específico ou usando regras personalizadas. Clique em <b>Adicionar atributo</b> se desejar capturar o nome ou endereço de email do agente e atribuí-lo ao registro pessoal do visitante do chat para consulta futura (dica: crie um <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizado</a> para mapear as informações do agente de forma a não substituir um campo padrão do Marketo Engage).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Meta</strong></td>
@@ -52,7 +52,7 @@ O Stream Designer contém vários cartões que você pode adicionar para moldar 
  <tr>
   <td style="width:25%"><strong>Ação*</strong></td>
   <td>Semelhante aos campos ocultos em um formulário, com o cartão de ação você pode preencher qualquer atributo de cliente potencial ou de empresa (que tenha um <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo de dados de cadeia de caracteres</a>) com valores implícitos que você gostaria de capturar em um registro de cliente potencial. Você pode adicionar o cartão de ação em qualquer ponto da conversa e atualizar os respectivos atributos com um valor ou tokens nativos que preenchem automaticamente o respectivo valor.
-  <p><i>* O cartão de Ação requer o Dynamic Chat Prime. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.</i></td>
+  <p><i>* O cartão de Ação exige o Dynamic Chat Prime. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Chat ao vivo</strong></td>
@@ -176,7 +176,7 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
     </tr>
     <tr>
      <td style="width:30%"><strong>Mapear resposta ao atributo</strong></td>
-     <td>Permite sincronizar a resposta do visitante ao campo correspondente em seu registro de Pessoa na sua assinatura Marketo Engage.</td>
+     <td>Permite sincronizar a resposta do visitante ao campo correspondente no registro Person na sua assinatura do Marketo Engage.</td>
     </tr>
    </table>
 
@@ -192,7 +192,7 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
 
    ![](assets/stream-designer-21.png)
 
-1. Neste exemplo, criaremos um novo documento. Nomeie, digite a URL do PDF que você já hospedou e clique em **[!UICONTROL Salvar]**.
+1. Neste exemplo, criaremos um novo documento. Nomeie a página, digite a URL da PDF que você já hospedou e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -200,13 +200,13 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
 
    ![](assets/stream-designer-23.png)
 
-1. Quando estiver pronto para ativar sua Caixa de Diálogo, clique em **[!UICONTROL Publish]**.
+1. Quando estiver pronto para ativar sua Caixa de Diálogo, clique em **[!UICONTROL Publicar]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Antes de clicar em [!UICONTROL Publish], verifique se você [inseriu sua(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Antes de clicar em [!UICONTROL Publicar], lembre-se de que você [inseriu sua(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

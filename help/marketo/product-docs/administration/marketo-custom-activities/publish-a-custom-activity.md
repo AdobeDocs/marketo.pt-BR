@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100272
-description: Publish uma atividade personalizada - Documentação do Marketo - Documentação do produto
-title: Publish uma atividade personalizada
+description: Publicar uma atividade personalizada - Documentação do Marketo - Documentação do produto
+title: Publicar uma atividade personalizada
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Publish uma atividade personalizada {#publish-a-custom-activity}
+# Publicar uma atividade personalizada {#publish-a-custom-activity}
 
 Você tem sua atividade personalizada exatamente como deseja. Agora, é hora de publicá-lo!
 
@@ -27,7 +27,7 @@ Você tem sua atividade personalizada exatamente como deseja. Agora, é hora de 
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. Clique no menu suspenso **[!UICONTROL Ações de atividade personalizadas]** e selecione **[!UICONTROL Atividade do Publish]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de atividade personalizadas]** e selecione **[!UICONTROL Atividade de publicação]**.
 
    ![](assets/publish-a-custom-activity-4.png)
 

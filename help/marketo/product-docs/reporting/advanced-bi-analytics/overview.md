@@ -3,7 +3,7 @@ description: Visão geral avançada do BI Analytics - Documentação do Marketo 
 title: Visão geral da análise de BI avançada
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 1%
@@ -98,7 +98,7 @@ Saiba como exportar seções específicas do relatório.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Clique no ícone &#39;mais&#39; (**...**)
+1. Clique no ícone &#39;mais&#39; (**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -125,7 +125,7 @@ Saiba como exportar seções específicas do relatório.
 
 Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451687/?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 
@@ -237,7 +237,6 @@ Os seguintes relatórios padrão estão incluídos como exemplos para seus relat
 ## Itens a serem observados {#note}
 
 * Seus relatórios personalizados foram replicados da experiência clássica para a nova experiência com as alterações de comportamento notáveis mencionadas na seção [Aprendendo a nova experiência](#learning-the-new-experience) abaixo.
-
 * Os painéis na experiência clássica não eram transferíveis e exigiam recriação na nova experiência. Eles podem ser recriados como relatórios na nova experiência, e os filtros na nova experiência extrai automaticamente os valores possíveis.
 
   >[!NOTE]
@@ -251,9 +250,7 @@ Os seguintes relatórios padrão estão incluídos como exemplos para seus relat
   >Se você tinha mais de 700 relatórios no Gerenciador de receita, alguns relatórios foram combinados com outros e consolidados por meio de páginas no relatório.
   >
   >* Se um relatório tinha uma assinatura de email, ele não era combinado.
-  >
   >* O restante dos relatórios na _mesma pasta_ foram combinados em um ou mais relatórios, por área de relatórios. Se houver mais de cinco relatórios para a área de relatórios, eles serão consolidados em mais de um relatório combinado.
-  >
   >* Cada relatório combinado tem no máximo cinco páginas.
 
 * Há uma limitação de 1 milhão de linhas por query em qualquer visualização fornecida. Se a sua consulta exceder esse limite, você receberá o seguinte erro: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Para corrigir isso, reduza o intervalo de datas e/ou ajuste os filtros no relatório para reduzir o número de linhas no resultado do query.

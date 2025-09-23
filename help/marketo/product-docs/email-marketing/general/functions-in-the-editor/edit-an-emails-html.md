@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900554
 description: Edite o HTML de um email - Documentação do Marketo - Documentação do produto
-title: Editar o HTML de um email
+title: Editar HTML de um email
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Editar o HTML de um email {#edit-an-emails-html}
+# Editar HTML de um email {#edit-an-emails-html}
 
 Às vezes, pode ser necessário modificar o HTML subjacente de um email. Às vezes, você pode usar um sistema externo para projetar e criar o código do seu email. De qualquer maneira, você pode importar e/ou editar facilmente o código do no editor de email.
 

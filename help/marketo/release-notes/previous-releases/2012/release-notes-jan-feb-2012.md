@@ -4,14 +4,14 @@ description: Notas de versão - Janeiro/Fev de 2012 - Documentação do Marketo 
 title: Notas de versão - janeiro/fevereiro de 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Notas de versão: janeiro/fevereiro de 2012 {#release-notes-jan-feb}
+# Notas de versão: janeiro e fevereiro de 2012 {#release-notes-jan-feb}
 
 Os seguintes recursos estão incluídos na versão de janeiro/fevereiro. Verifique a edição do Marketo quanto à disponibilidade de recursos. Volte após a versão para obter links para a documentação detalhada do recurso.
 
@@ -31,7 +31,7 @@ Segmentação é um grupo de segmentos, que são um grupo direcionado de indiví
 
 ![](assets/image2014-9-23-9-3a50-3a42.png)
 
-## Bl. conteúdo {#snippets}
+## Snippets {#snippets}
 
 _Disponível para versões Pro e Enterprise_
 

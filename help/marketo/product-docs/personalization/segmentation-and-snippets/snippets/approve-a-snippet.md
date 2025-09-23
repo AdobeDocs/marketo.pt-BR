@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359463
 description: Aprovar um trecho - Documentação do Marketo - Documentação do produto
-title: Aprovar um trecho
+title: Aprovar um snippet
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 3%
+ht-degree: 14%
 
 ---
 
-# Aprovar um trecho {#approve-a-snippet}
+# Aprovar um snippet {#approve-a-snippet}
 
 >[!PREREQUISITES]
 >

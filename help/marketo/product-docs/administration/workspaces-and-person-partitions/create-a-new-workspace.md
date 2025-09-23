@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
 description: Criar um novo Workspace - Documentação do Marketo - Documentação do produto
-title: Criar uma nova Workspace
+title: Criar um novo espaço de trabalho
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Criar uma nova Workspace {#create-a-new-workspace}
+# Criar um novo espaço de trabalho {#create-a-new-workspace}
 
 Os espaços de trabalho são úteis para subdividir a empresa. Os motivos para configurar espaços de trabalho incluem:
 

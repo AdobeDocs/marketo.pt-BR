@@ -4,14 +4,14 @@ description: Notas de versão - Segundo trimestre de 2016 - Documentação do Ma
 title: Notas de versão - primavera de 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '790'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notas de versão: primavera de 16 {#release-notes-spring}
+# Notas de versão: primavera de 2016 {#release-notes-spring}
 
 Os seguintes recursos estão incluídos na versão da primavera de 16. Clique nos links de título para exibir artigos detalhados para cada recurso.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719398
 description: Criar uma nova caixa de diálogo Campanha da Web - Documentação do Marketo - Documentação do produto
-title: Criar uma nova caixa de diálogo da campanha da Web
+title: Criar uma nova caixa de diálogo da campanha da web
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '749'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Criar uma nova caixa de diálogo da campanha da Web {#create-a-new-dialog-web-campaign}
+# Criar uma nova caixa de diálogo da campanha da web {#create-a-new-dialog-web-campaign}
 
 ## Criar uma caixa de diálogo da campanha da Web {#create-a-dialog-web-campaign}
 
@@ -147,11 +147,11 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
-## Clonar uma campanha da Web {#clone-a-web-campaign}
+## Clonar uma campanha da web {#clone-a-web-campaign}
 
 Consulte [Clonar uma campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
-## Excluir uma campanha da Web {#delete-a-web-campaign}
+## Excluir uma campanha da web {#delete-a-web-campaign}
 
 1. Na página **[!UICONTROL Campanhas da Web]**, clique em **[!UICONTROL Excluir]** na campanha da Web que deseja excluir.
 

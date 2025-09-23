@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719338
 description: Relatórios de email - Documentação do Marketo - Documentação do produto
-title: Relatórios de e-mails
+title: Relatórios de email
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 2%
 
 ---
 
-# Relatórios de e-mails {#email-reports}
+# Relatórios de email {#email-reports}
 
 Para personalizar qual relatório de email automatizado o usuário recebe, consulte a seção [[!UICONTROL Configurações do Usuário]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 

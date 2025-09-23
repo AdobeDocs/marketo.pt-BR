@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360185
 description: Alterar as configurações de segurança de senha - Documentação do Marketo - Documentação do produto
-title: Alterar suas Configurações de Segurança de Senha
+title: Alterar configurações de segurança de senha
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Alterar suas Configurações de Segurança de Senha {#change-your-password-security-settings}
+# Alterar configurações de segurança de senha {#change-your-password-security-settings}
 
 Controle a política de senha da sua assinatura. Veja como.
 

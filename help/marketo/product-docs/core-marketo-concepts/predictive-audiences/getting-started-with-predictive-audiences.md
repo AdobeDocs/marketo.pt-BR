@@ -1,16 +1,16 @@
 ---
 description: Introdução aos públicos preditivos - Documentação do Marketo - Documentação do produto
-title: Introdução aos públicos preditivos
+title: Introdução aos públicos-alvo preditivos
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Introdução aos públicos preditivos {#getting-started-with-predictive-audiences}
+# Introdução aos públicos-alvo preditivos {#getting-started-with-predictive-audiences}
 
 O Predictive Audiences (PA) usa IA e aprendizado de máquina para permitir que você direcione públicos com mais eficiência e tome etapas proativas para atingir suas metas de marketing.
 
@@ -30,7 +30,7 @@ O desempenho dos modelos de IA/ML depende dos dados em sua assinatura. Quanto ma
 
 ## Disponibilidade
 
-O Predictive Audiences é incluído e ativado automaticamente para instâncias que utilizam pacotes de preços Prime ou Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com a Equipe de conta do Adobe (seu gerente de conta).
+Os públicos preditivos são incluídos e ativados automaticamente para instâncias que utilizam pacotes de preços do Prime ou do Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com a Equipe de conta da Adobe (seu gerente de conta).
 
 1. Depois que o recurso for adicionado à sua instância, navegue até a página **[!UICONTROL Públicos-alvo preditivos]** na área **[!UICONTROL Administrador]** do Marketo.
 

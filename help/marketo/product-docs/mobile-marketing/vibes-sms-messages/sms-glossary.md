@@ -3,10 +3,10 @@ description: Glossário de SMS - Documentação do Marketo - Documentação do p
 title: Glossário de SMS
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -32,10 +32,10 @@ Abaixo estão alguns termos comuns que você encontrará ao usar mensagens SMS d
   </tr>
   <tr>
     <td>Chave da empresa</td>
-    <td>A company_key é um identificador alfanumérico exclusivo para a conta da plataforma. Se você tiver várias contas da empresa na plataforma Vibes (como contas de crianças), poderá ter várias company_keys. Cada instância de Marketo Engage pode ser mapeada somente para uma chave de empresa Vibes.</td>
+    <td>A company_key é um identificador alfanumérico exclusivo para a conta da plataforma. Se você tiver várias contas da empresa na plataforma Vibes (como contas de crianças), poderá ter várias company_keys. Cada instância do Marketo Engage pode ser mapeada somente para uma company_key de Vibes.</td>
   </tr>
   <tr>
-    <td>CTA (plano de ação)</td>
+    <td>CTA (call to action)</td>
     <td>Sinalização digital ou física ou script verbal para adquirir assinantes em um programa de mensagem de texto recorrente ou lista de assinaturas. Pode ser colocado on-line, em redes sociais, em e-mails, em papel, etc.</td>
   </tr>
   <tr>

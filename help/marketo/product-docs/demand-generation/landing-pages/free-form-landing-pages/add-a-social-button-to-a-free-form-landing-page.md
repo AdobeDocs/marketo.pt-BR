@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359718
 description: Adicionar um botão Social a uma página de aterrissagem de forma livre - Documentação do Marketo - Documentação do produto
-title: Adicionar um botão Social a uma página de aterrissagem de forma livre
+title: Adicionar um botão de Redes sociais a uma página de destino de forma livre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 9b779bc767b1bda058a9040035e8ca21ccd53e8d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Adicionar um botão Social a uma página de aterrissagem de forma livre {#add-a-social-button-to-a-free-form-landing-page}
+# Adicionar um botão de Redes sociais a uma página de destino de forma livre {#add-a-social-button-to-a-free-form-landing-page}
 
 Um botão social incentiva as pessoas a compartilharem seu conteúdo com os amigos. Solte-o em páginas de aterrissagem de formato livre, no Facebook e em seu site.
 

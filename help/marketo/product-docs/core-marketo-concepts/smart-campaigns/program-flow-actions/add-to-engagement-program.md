@@ -4,7 +4,7 @@ description: Adicionar ao programa de engajamento - Documentação do Marketo - 
 title: Adicionar ao programa de envolvimento
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 11%

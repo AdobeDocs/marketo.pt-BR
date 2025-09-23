@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093159
 description: Noções básicas sobre o Content Analytics - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre o Content Analytics
+title: Noções básicas sobre análise de conteúdo
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Noções básicas sobre o Content Analytics {#understanding-content-analytics}
+# Noções básicas sobre análise de conteúdo {#understanding-content-analytics}
 
 A página do Content Analytics exibe seu conteúdo existente descoberto (estudos de caso, publicações de blog, vídeos, press releases e assim por diante) do site. Ele também exibe o desempenho do seu conteúdo e das pessoas geradas quando os visitantes se envolvem com eles.
 
@@ -86,7 +86,7 @@ As análises de conteúdo adicionais incluem:
 
 * **[!UICONTROL Exibições]**: exibições desse conteúdo para o escopo de tempo selecionado
 * **[!UICONTROL Conversões diretas]**: visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita.
-* **[!UICONTROL Taxa de Conversão]**&#x200B;**:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
+* **[!UICONTROL Taxa de Conversão]****:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
 
 **[!UICONTROL Tendências]**
 

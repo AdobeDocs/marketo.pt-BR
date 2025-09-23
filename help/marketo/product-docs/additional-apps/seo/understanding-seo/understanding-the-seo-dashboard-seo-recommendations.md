@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949180
-description: Noções básicas sobre o painel de SEO - SEO Recommendations - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre o painel de SEO - SEO Recommendations
+description: Noções básicas sobre o painel de SEO - Recomendações de SEO - Documentação do Marketo - Documentação do produto
+title: Noções básicas sobre o painel de SEO - Recomendações de SEO
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Noções básicas sobre o painel de SEO: SEO Recommendations {#understanding-the-seo-dashboard-seo-recommendations}
+# Noções básicas do painel de SEO: recomendações de SEO {#understanding-the-seo-dashboard-seo-recommendations}
 
 Use o painel para obter uma visualização de alto nível sobre as tendências das classificações de palavras-chave e como seu site é otimizado para SEO.
 
-Você também pode descobrir como melhorar o uso da seção [!UICONTROL Recommendations]. Vamos mergulhar!
+Você também pode descobrir como melhorar o uso da seção [!UICONTROL Recomendações]. Vamos mergulhar!
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 

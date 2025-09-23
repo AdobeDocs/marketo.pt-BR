@@ -3,10 +3,10 @@ description: Guia rápido - Documentação do Marketo - Documentação do produt
 title: Guia rápido
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
@@ -31,15 +31,15 @@ Admin).
 
 [Remover um usuário](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
-## Usuário somente API no Marketo Engage {#api-only-user-in-marketo-engage}
+## Usuário somente da API no Marketo Engage {#api-only-user-in-marketo-engage}
 
-Somente API Marketo Engage Os usuários devem ser criados e gerenciados no Marketo Engage.
+Somente API do Marketo Engage Os usuários devem ser criados e gerenciados no Marketo Engage.
 
 [Adicionar usuário somente API para assinaturas habilitadas para Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
 ## Adicionar usuários via CSV {#add-users-via-csv}
 
-[Importar um CSV](https://helpx.adobe.com/br/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[Importar um CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Logon do usuário {#user-sign-in}
 

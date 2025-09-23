@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515266
 description: Criar uma página de aterrissagem guiada - Documentação do Marketo - Documentação do produto
-title: Criar uma landing page guiada
+title: Criar uma página de destino guiada
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Criar uma landing page guiada {#create-a-guided-landing-page}
+# Criar uma página de destino guiada {#create-a-guided-landing-page}
 
 >[!NOTE]
 >

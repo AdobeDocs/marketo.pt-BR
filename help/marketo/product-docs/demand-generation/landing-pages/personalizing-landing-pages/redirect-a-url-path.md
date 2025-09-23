@@ -4,10 +4,10 @@ description: Redirecionar um caminho de URL - Documentação do Marketo - Docume
 title: Redirecionar um caminho de URL
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 

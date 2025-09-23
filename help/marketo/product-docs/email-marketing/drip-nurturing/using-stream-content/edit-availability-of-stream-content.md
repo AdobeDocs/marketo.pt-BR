@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359910
 description: Editar disponibilidade de conteúdo de fluxo - Documentação do Marketo - Documentação do produto
-title: Editar Disponibilidade de Conteúdo de Stream
+title: Editar disponibilidade de conteúdo de fluxo
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Editar Disponibilidade de Conteúdo de Stream {#edit-availability-of-stream-content}
+# Editar disponibilidade de conteúdo de fluxo {#edit-availability-of-stream-content}
 
 Você pode definir um intervalo de tempo para que o conteúdo fique ativo em seu fluxo. Veja como.
 

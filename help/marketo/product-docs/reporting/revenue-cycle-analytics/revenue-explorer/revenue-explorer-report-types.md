@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504922
 description: Tipos de relatório do Explorador de receita - Documentação do Marketo - Documentação do produto
-title: Tipos de Relatório do Gerenciador de Receita
+title: Tipos de relatório do gerenciador de receita
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 10%
+ht-degree: 15%
 
 ---
 
-# Tipos de Relatório do Gerenciador de Receita {#revenue-explorer-report-types}
+# Tipos de relatório do gerenciador de receita {#revenue-explorer-report-types}
 
 A seguir estão os tipos de relatórios que você encontrará se utilizar o Revenue Cycle Analytics.
 
@@ -24,7 +24,7 @@ A seguir estão os tipos de relatórios que você encontrará se utilizar o Reve
  </thead>
  <tbody>
   <tr>
-   <td>Análise de e-mails</td>
+   <td>Análise de emails</td>
    <td>Métricas e atributos relacionados a emails específicos enviados</td>
   </tr>
   <tr>

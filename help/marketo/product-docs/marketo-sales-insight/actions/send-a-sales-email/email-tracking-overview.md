@@ -1,18 +1,18 @@
 ---
 description: Visão geral do rastreamento de email - Documentação do Marketo - Documentação do produto
-title: Visão geral do rastreamento de email
+title: Visão geral de rastreamento de email
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Visão geral do rastreamento de email {#email-tracking-overview}
+# Visão geral de rastreamento de email {#email-tracking-overview}
 
-## Como funciona o rastreamento de resposta {#how-reply-tracking-works}
+## Como funciona o rastreamento de respostas {#how-reply-tracking-works}
 
 O rastreamento de resposta é feito observando uma ID de mensagem que está em todos os emails enviados. Cada email contém uma ID de mensagem exclusiva que nos permite ter um dos melhores controles de resposta disponíveis.
 

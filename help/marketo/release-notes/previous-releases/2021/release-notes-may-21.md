@@ -3,10 +3,10 @@ description: Notas de versão - maio de 2021 - Documentação do Marketo - Docum
 title: Notas de versão - Maio de 2021
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1440'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ Os seguintes recursos estão incluídos na versão de maio de 2021. Verifique a 
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 **_Versões Trimestrais_**
 

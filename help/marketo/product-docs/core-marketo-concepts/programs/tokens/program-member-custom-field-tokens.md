@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147114
 description: Tokens de campo personalizado de membros do programa - Documentação do Marketo - Documentação do produto
-title: Tokens de campo personalizado de membros do programa
+title: Tokens de campo personalizado de membro do programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Tokens de campo personalizado de membros do programa {#program-member-custom-field-tokens}
+# Tokens de campo personalizado de membro do programa {#program-member-custom-field-tokens}
 
 ## Suporte a token para campos personalizados de membros do programa {#token-support-for-program-member-custom-fields}
 
@@ -132,7 +132,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 Os tokens de campo personalizado do membro do programa podem ser usados em:
 
 * Criar tarefa
-* Criar tarefa no Microsoft
+* Crie tarefa na Microsoft
 * Momentos interessantes
 * Ações de Alteração do Fluxo de Valor de Dados
 * Webhooks

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352482
 description: Como O Rastreamento De Resposta Funciona - Documentação Do Marketo - Documentação Do Produto
-title: Como funciona o rastreamento de resposta
+title: Como funciona o rastreamento de respostas
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Como funciona o rastreamento de resposta {#how-reply-tracking-works}
+# Como funciona o rastreamento de respostas {#how-reply-tracking-works}
 
 O rastreamento de resposta é feito observando uma ID de mensagem que está em todos os emails enviados. Cada email contém uma ID de mensagem exclusiva que nos permite ter um dos melhores controles de resposta disponíveis.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720856
 description: Adicionar uma visualização móvel para sua página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
-title: Adicionar uma visualização móvel para sua página de aterrissagem de forma livre
+title: Adicionar uma visualização móvel em sua página de destino de forma livre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 2%
+ht-degree: 17%
 
 ---
 
-# Adicionar uma visualização móvel para sua página de aterrissagem de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
+# Adicionar uma visualização móvel em sua página de destino de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
 
 É fácil fazer suas páginas de aterrissagem de forma livre parecerem ótimas em um smartphone.
 
@@ -35,7 +35,7 @@ ht-degree: 2%
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. Clique em **[!UICONTROL Ativar]**.
+1. Clique em **[!UICONTROL Ativar]**.
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 

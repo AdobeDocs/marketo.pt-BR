@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384438
 description: Configuração de relatório TAM - Documentação do Marketo - Documentação do produto
-title: Configuração de relatório TAM
+title: Configuração de relatório do TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Configuração de relatório TAM {#tam-report-setup}
+# Configuração de relatório do TAM {#tam-report-setup}
 
 O Relatório de vendas do TAM é um e-mail personalizado semanal enviado à equipe de conta.
 

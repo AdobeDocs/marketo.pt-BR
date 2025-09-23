@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359782
 description: Adicionar pessoas a um programa de engajamento - Documentação do Marketo - Documentação do produto
-title: Adicionar Pessoas a um Programa de Envolvimento
+title: Adicionar pessoas a um programa de engajamento
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Adicionar Pessoas a um Programa de Envolvimento {#add-people-to-an-engagement-program}
+# Adicionar pessoas a um programa de engajamento {#add-people-to-an-engagement-program}
 
 Há várias maneiras de as pessoas se tornarem membros de um programa de engajamento:
 

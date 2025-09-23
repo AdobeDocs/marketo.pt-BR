@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13796471
 description: Visão geral do feed ao vivo - Documentação do Marketo - Documentação do produto
-title: Visão geral do Live Feed
+title: Visão geral do feed ao vivo
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Visão geral do Live Feed {#live-feed-overview}
+# Visão geral do feed ao vivo {#live-feed-overview}
 
 O Feed ao vivo é uma janela flutuante que pode ser iniciada a partir da aplicação web ou do plug-in do Gmail e oferece uma visão em tempo real do envolvimento do cliente potencial.
 
@@ -60,7 +60,7 @@ Veja suas principais pessoas (ordenadas da mais alta para a mais baixa) classifi
 * Mostramos as 50 melhores pistas.
 * Você só verá as pessoas que foram atribuídas a você no [!DNL Salesforce].
 
-## Ícone do Glossário {#icon-glossary}
+## Glossário de ícones {#icon-glossary}
 
 <table>
  <colgroup>

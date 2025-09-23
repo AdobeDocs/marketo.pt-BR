@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718670
 description: Uso dos estágios de portal do modelo de receita - Documentação do Marketo - Documentação do produto
-title: Uso dos Estágios de Portão do Modelo de Receita
+title: Uso de estágios de portão do modelo de receita
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Uso dos Estágios de Portão do Modelo de Receita {#using-revenue-model-gate-stages}
+# Uso de estágios de portão do modelo de receita {#using-revenue-model-gate-stages}
 
 Um estágio de porta serve como uma verificação de qualificação.
 

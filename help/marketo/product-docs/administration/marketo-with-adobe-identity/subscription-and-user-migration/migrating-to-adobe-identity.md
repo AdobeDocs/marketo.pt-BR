@@ -1,16 +1,16 @@
 ---
 description: Migração para o Adobe Identity - Documentação do Marketo - Documentação do produto
-title: Migrar para a identidade da Adobe
+title: Migração para a identidade da Adobe
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2319'
 ht-degree: 0%
 
 ---
 
-# Migrar para a identidade da Adobe {#migrating-to-adobe-identity}
+# Migração para a identidade da Adobe {#migrating-to-adobe-identity}
 
 Quando a Adobe agenda a migração de usuários de uma assinatura, os administradores de produtos da Marketo Engage terão acesso ao Console de migração, que pode ser encontrado no menu de navegação na área Administrador em Integração.
 

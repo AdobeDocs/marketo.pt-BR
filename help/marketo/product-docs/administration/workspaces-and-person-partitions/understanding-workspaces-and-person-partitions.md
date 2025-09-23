@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360309
 description: Noções básicas sobre espaços de trabalho e partições de pessoas - Documentação do Marketo - Documentação do produto
-title: Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas
+title: Noções básicas sobre espaços de trabalho e partições de pessoas
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 3%
+source-wordcount: '535'
+ht-degree: 5%
 
 ---
 
-# Noções Básicas sobre Espaços de Trabalho e Partições de Pessoas {#understanding-workspaces-and-person-partitions}
+# Noções básicas sobre espaços de trabalho e partições de pessoas {#understanding-workspaces-and-person-partitions}
 
 ## Áreas de trabalho {#workspaces}
 
@@ -74,21 +74,21 @@ Veja como compartilhar ativos entre espaços de trabalho. Funciona da mesma form
 
 Você pode compartilhar esses itens entre espaços de trabalho.
 
-* Modelos de e-mail
-* Modelos de páginas
+* Modelos de email
+* Modelos de páginas de destino
 * Modelos
 * Campanhas inteligentes
 * [Listas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
 * [Segmentações](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-* Bl. conteúdo
+* Snippets
 
 ## Clonagem entre espaços de trabalho {#cloning-across-workspaces}
 
 Para ativos que não são modelos, é melhor cloná-los como ativos locais dentro de um programa. Com o nível de acesso apropriado, você pode arrastar e soltar esses ativos em outro espaço de trabalho:
 
 * Programas
-* E-mails
-* Páginas de aterrissagem
+* Emails
+* Páginas de destino
 * Formulários
 
 >[!IMPORTANT]

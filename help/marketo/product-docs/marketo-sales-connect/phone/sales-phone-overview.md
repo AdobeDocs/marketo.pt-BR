@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352438
 description: Visão geral por telefone de vendas - Documentação do Marketo - Documentação do produto
-title: Visão Geral do Telefone de Vendas
+title: Visão geral do telefone de vendas
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Visão Geral do Telefone de Vendas {#sales-phone-overview}
+# Visão geral do telefone de vendas {#sales-phone-overview}
 
 ## Por que telefone de vendas? {#why-sales-phone}
 

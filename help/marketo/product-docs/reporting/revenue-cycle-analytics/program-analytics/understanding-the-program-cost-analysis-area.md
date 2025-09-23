@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718636
 description: Noções básicas da área de análise de custo do programa - Documentação do Marketo - Documentação do produto
-title: Como entender a área de análise de custo do programa
+title: Noções básicas sobre a área de análise de custo do programa
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 21%
+ht-degree: 25%
 
 ---
 
-# Como entender a área de análise de custo do programa {#understanding-the-program-cost-analysis-area}
+# Noções básicas sobre a área de análise de custo do programa {#understanding-the-program-cost-analysis-area}
 
 A área Análise de custo do programa permite analisar a eficácia de programas individuais ou ver resultados resumidos por canal para um determinado período de tempo.
 

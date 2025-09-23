@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: Tipos de notificação - Documentação do Marketo - Documentação do produto
 title: Tipos de notificação
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -18,7 +18,7 @@ Há vários tipos de notificação.
 
 As falhas de campanha notificam você sobre erros em suas campanhas inteligentes.
 
-## Sincronização com CRM {#crm-sync}
+## Sincronização com o CRM {#crm-sync}
 
 As notificações de sincronização do CRM alertam sobre problemas críticos encontrados com a sincronização do CRM, como permissões incorretas ou o fato de a sincronização estar inativa.
 
@@ -60,4 +60,4 @@ Você será notificado quando atingir sua cota diária. A cota é redefinida a c
 
 >[!NOTE]
 >
->Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/error-codes).
+>Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

@@ -1,16 +1,16 @@
 ---
 description: Acionadores e filtros de atividades de vendas - Documentação do Marketo - Documentação do produto
-title: Acionadores e filtros da atividade de vendas
+title: Acionadores e filtros de atividades de vendas
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Acionadores e filtros da atividade de vendas {#sales-activity-triggers-and-filters}
+# Acionadores e filtros de atividades de vendas {#sales-activity-triggers-and-filters}
 
 Se você estiver procurando coordenar melhor o envolvimento com sua equipe de vendas ou tentar obter uma visão melhor de como eles estão se envolvendo com os clientes na jornada do comprador, os Insights de atividade de vendas no Marketo serão úteis para você.
 

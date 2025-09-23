@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37357302
 description: Layout de colunas e páginas de e-mail - Documentação do Marketo - Documentação do produto
-title: Colunas de e-mail e layout da página de e-mail
+title: Colunas de email e layout da página de email
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Colunas de e-mail e layout da página de e-mail {#email-columns-and-email-page-layout}
+# Colunas de email e layout da página de email {#email-columns-and-email-page-layout}
 
 Você pode configurar qualquer uma das colunas disponíveis para serem visíveis na seção de email do [!UICONTROL Centro de comando]. Suas configurações serão salvas para cada subpasta de email (por exemplo, [!UICONTROL Entregue], [!UICONTROL Falhou], [!UICONTROL Agendado] etc.).
 

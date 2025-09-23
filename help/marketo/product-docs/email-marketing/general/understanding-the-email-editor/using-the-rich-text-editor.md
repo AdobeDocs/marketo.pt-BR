@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953419
 description: Uso do editor de rich text - Documentação do Marketo - Documentação do produto
-title: Uso do Editor de Rich Text
+title: Uso do editor de rich text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '739'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Uso do Editor de Rich Text {#using-the-rich-text-editor}
+# Uso do editor de rich text {#using-the-rich-text-editor}
 
 O editor de rich text (RTE) é exibido em todo o Marketo e está disponível sempre que você deseja adicionar ou editar conteúdo. Você verá uma versão dele nas landing pages, programas, emails, formulários e trechos. Basta clicar em **[!UICONTROL Editar Rascunho]**, que será exibido para você.
 
@@ -107,7 +107,7 @@ Estes são os recursos que você encontrará em um RTE.
 >
 >Você não está limitado às fontes no menu suspenso. Você pode usar um não listado acessando o código HTML. Todas as fontes da Web são compatíveis com o Marketo, mas as fontes da Web não funcionam universalmente em todos os clientes de email.
 
-## Páginas de aterrissagem {#landing-pages}
+## Páginas de destino {#landing-pages}
 
 A configuração do elemento de bloco raiz define quais tags vinculam seu conteúdo. Por padrão, o elemento de bloco raiz da página de aterrissagem usa `<div>` tags. Você tem a opção de alterar isso, seguindo as etapas abaixo.
 

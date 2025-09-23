@@ -4,10 +4,10 @@ description: Perguntas frequentes sobre anexos de conteúdo e arquivo - Document
 title: Perguntas frequentes sobre conteúdo e anexo de arquivo
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '261'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

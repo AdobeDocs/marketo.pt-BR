@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953173
 description: Usar membros de uma lista em uma lista inteligente - Documentação do Marketo - Documentação do produto
-title: Usar membros de uma lista inteligente
+title: Usar membros de uma lista em uma lista inteligente
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Usar membros de uma lista inteligente {#use-members-of-list-in-a-smart-list}
+# Usar membros de uma lista em uma lista inteligente {#use-members-of-list-in-a-smart-list}
 
 >[!TIP]
 >

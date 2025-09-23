@@ -1,12 +1,12 @@
 ---
 description: Glossário de atividades de ações do Insight de vendas - Documentação do Marketo - Documentação do produto
-title: Glossário de atividades de Vendas e Ações do Insight
+title: Glossário de atividades das Ações de insight de vendas
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '597'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 

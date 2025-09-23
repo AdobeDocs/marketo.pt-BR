@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359746
 description: Personalizar os URLs da sua página de aterrissagem com um CNAME - Documentação do Marketo - Documentação do produto
-title: Personalizar os URLs da sua landing page com um CNAME
+title: Personalizar os URLs da página de destino com um CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Personalizar os URLs da sua landing page com um CNAME {#customize-your-landing-page-urls-with-a-cname}
+# Personalizar os URLs da página de destino com um CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 Embora o Marketo hospede suas páginas de aterrissagem, o URL pode ser totalmente personalizado. Como se parece sem um CNAME:
 

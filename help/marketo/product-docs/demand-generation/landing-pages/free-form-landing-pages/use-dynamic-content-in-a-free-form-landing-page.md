@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359732
 description: Usar conteúdo dinâmico em uma página de aterrissagem de forma livre - Documentação do Marketo - Documentação do produto
-title: Usar conteúdo dinâmico em uma página de aterrissagem de forma livre
+title: Usar conteúdo dinâmico em uma página de destino de forma livre
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Usar conteúdo dinâmico em uma página de aterrissagem de forma livre {#use-dynamic-content-in-a-free-form-landing-page}
+# Usar conteúdo dinâmico em uma página de destino de forma livre {#use-dynamic-content-in-a-free-form-landing-page}
 
 O uso do conteúdo dinâmico nas páginas de aterrissagem envolve seu público-alvo com informações direcionadas.
 

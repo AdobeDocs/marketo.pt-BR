@@ -4,16 +4,16 @@ description: Programar uma campanha em lote recorrente - Documentação do Marke
 title: Programar uma campanha em lote recorrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 6%
 
 ---
 
 # Programar uma campanha em lote recorrente {#schedule-a-recurring-batch-campaign}
 
-A Recorrência permite executar uma Campanha em Lote regularmente. Por exemplo - uma vez por semana, às terças-feiras às 10h.
+A Recorrência permite executar uma Campanha em Lote regularmente. Por exemplo - uma vez por semana, às terças-feiras às 10h00.:00
 
 1. Selecione a Campanha inteligente, vá para a guia **[!UICONTROL Agendar]** e clique em **[!UICONTROL Agendar recorrência]**.
 

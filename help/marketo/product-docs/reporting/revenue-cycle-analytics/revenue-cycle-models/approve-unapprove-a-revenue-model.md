@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718687
 description: Aprovar/desaprovar um modelo de receita - Documentação do Marketo - Documentação do produto
-title: Aprovar/Cancelar aprovação de um modelo de receita
+title: Aprovar/cancelar aprovação de um modelo de receita
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Aprovar/Cancelar aprovação de um modelo de receita {#approve-unapprove-a-revenue-model}
+# Aprovar/cancelar aprovação de um modelo de receita {#approve-unapprove-a-revenue-model}
 
 Você pode ter somente um modelo aprovado em um determinado momento.
 

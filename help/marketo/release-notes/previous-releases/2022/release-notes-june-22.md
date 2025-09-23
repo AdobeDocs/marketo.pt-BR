@@ -3,10 +3,10 @@ description: Notas de versão - junho de 2022 - Documentação do Marketo - Docu
 title: Notas de versão – Junho de 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '600'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de junho de 202
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implantação em fases dos recursos restantes nas semanas seguintes (a menos que especificado de outra forma).
 

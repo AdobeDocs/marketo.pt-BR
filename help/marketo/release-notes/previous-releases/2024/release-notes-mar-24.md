@@ -3,10 +3,10 @@ description: Notas de versão - março de 2024 - Documentação do Marketo - Doc
 title: Notas de versão - Março de 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 4%
+ht-degree: 30%
 
 ---
 
@@ -16,11 +16,11 @@ Abaixo você encontrará todos os recursos incluídos na versão de março de 20
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **8 de março de 2024**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 8 de março de 2024**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,8 +31,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Lógica de Fluxo de Conversação Avançado</strong>: adicione campos adicionais para avaliação em uma única opção para acompanhamento de Fluxo de Conversação.</td>
-   <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configurações de fluxo de conversa para o Marketo Engage Forms</a></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configurações de fluxo de conversa para formulários do Marketo Engage</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -42,8 +42,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    </tr>
     <tr>
    <td><strong>Reordenar Lógica de Fluxo de Conversação</strong>: no Marketo Engage Forms, agora você pode reordenar as opções de Fluxo de Conversação, em vez de ter que excluir e adicionar novamente.</td>
-   <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configurações de fluxo de conversa para o Marketo Engage Forms</a></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configurações de fluxo de conversa para formulários do Marketo Engage</a></td>
    </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
     <tr>
    <td><strong>Metadados de atividade de API</strong>:
    Metadados como Agente do usuário, Plataforma e Dispositivo agora são incluídos em atividades da Web e de email, ajudando a fornecer insights consistentes sobre essas atividades por meio da API REST do Marketo.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
  </tbody>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953331
 description: Execute novamente uma Campanha inteligente na Exibição de programação - Documentação do Marketo - Documentação do produto
-title: Executar novamente uma Campanha Inteligente na Exibição de Programação do Programa
+title: Executar novamente uma campanha inteligente na visualização Cronograma do programa
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Executar novamente uma Campanha Inteligente na Exibição de Programação do Programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Executar novamente uma campanha inteligente na visualização Cronograma do programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 Você pode criar facilmente novas execuções de uma Campanha inteligente existente diretamente da visualização do cronograma do programa.
 

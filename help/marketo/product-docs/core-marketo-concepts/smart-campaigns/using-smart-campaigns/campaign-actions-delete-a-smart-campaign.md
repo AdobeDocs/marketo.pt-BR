@@ -4,10 +4,10 @@ description: Ações de campanha — Excluir uma campanha inteligente — Docume
 title: Ações de campanha — excluir uma campanha inteligente
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
@@ -19,7 +19,7 @@ Se você tiver uma Campanha inteligente antiga que não é mais necessária, é 
 >
 >Certifique-se antes de excluir. Depois que você exclui uma Campanha inteligente, ela não pode ser restaurada.
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 

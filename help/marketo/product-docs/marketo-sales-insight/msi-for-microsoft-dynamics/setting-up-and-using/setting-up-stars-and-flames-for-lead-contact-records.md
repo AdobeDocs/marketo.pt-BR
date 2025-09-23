@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762244
 description: Configuração de estrelas e chamas para registros de clientes potenciais/contatos - Documentação do Marketo - Documentação do produto
-title: Configuração de Estrelas e Chamas para Registros de Cliente Potencial/Contato
+title: Configuração dos ícones de estrelas e chamas para registros de leads/contatos
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Configuração de Estrelas e Chamas para Registros de Cliente Potencial/Contato {#setting-up-stars-and-flames-for-lead-contact-records}
+# Configuração dos ícones de estrelas e chamas para registros de leads/contatos {#setting-up-stars-and-flames-for-lead-contact-records}
 
 As estrelas e chamas nos registros de lead/contato dependem dos campos: [!UICONTROL Pontuação do lead], [!UICONTROL Pontuação relativa], [!UICONTROL Urgência] e [!UICONTROL Prioridade]. Esses campos estarão disponíveis por padrão após a instalação e configuração da solução MSI. Se você não tiver o Stars and Flames, uma configuração/personalização anterior poderia ter resultado na remoção deles. Siga as etapas abaixo para adicioná-las.
 

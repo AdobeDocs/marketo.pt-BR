@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147068
 description: Filtrar resultados da campanha inteligente - Documentação do Marketo - Documentação do produto
-title: Filtrar resultados da campanha inteligente
+title: Filtrar resultados de campanha inteligente
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Filtrar resultados da campanha inteligente {#filter-smart-campaign-results}
+# Filtrar resultados de campanha inteligente {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >

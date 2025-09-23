@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10912237
 description: Visão geral do Seletor de modelo de email - Documentação do Marketo - Documentação do produto
-title: Visão geral do Seletor de modelo de email
+title: Visão geral do seletor de modelos de email
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Visão geral do Seletor de modelo de email {#email-template-picker-overview}
+# Visão geral do seletor de modelos de email {#email-template-picker-overview}
 
 Ao [criar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), você tem vários modelos gratuitos para escolher. Você também pode criar seu próprio modelo e salvá-lo para uso futuro.
 

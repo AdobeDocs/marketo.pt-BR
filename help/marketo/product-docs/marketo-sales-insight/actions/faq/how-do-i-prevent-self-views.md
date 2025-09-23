@@ -3,14 +3,14 @@ description: Como impedir a auto visualização - Documentação do Marketo - Do
 title: Como evitar auto visualizações
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Como impedir a auto visualização? {#how-do-i-prevent-self-views}
+# Como impedir as autovisualizações? {#how-do-i-prevent-self-views}
 
 Obter falsos positivos no rastreamento de visualização pode gerar inconsistências de relatório. Isso geralmente ocorre quando usuários do [!DNL Marketo Sales] invocam acidentalmente o pixel de rastreamento do cliente de email (chamamos isso de visualização automática). Abaixo estão algumas dicas sobre como reduzir significativamente e até mesmo eliminar as autovisualizações.
 

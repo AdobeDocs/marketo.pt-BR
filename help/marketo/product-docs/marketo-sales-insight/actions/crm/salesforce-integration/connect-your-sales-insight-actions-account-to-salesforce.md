@@ -1,12 +1,12 @@
 ---
 description: Conecte sua conta de ações do Sales Insight à Salesforce - Documentação do Marketo - Documentação do produto
-title: Conectar sua conta de ações do Sales Insight ao Salesforce
+title: Conectar sua conta do recurso Ações de insight de vendas ao Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 

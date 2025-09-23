@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147144
 description: Criação de um novo programa de email na exibição de agendamento - Documentação do Marketo - Documentação do produto
-title: Criação de um novo programa de email na exibição Agendamento
+title: Criar um novo programa de email na visualização Cronograma
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 1%
+ht-degree: 17%
 
 ---
 
-# Criação de um novo programa de email na exibição Agendamento {#creating-a-new-email-program-in-the-schedule-view}
+# Criar um novo programa de email na visualização Cronograma {#creating-a-new-email-program-in-the-schedule-view}
 
 Você pode criar um programa de email na exibição de cronograma do programa. Veja como.
 

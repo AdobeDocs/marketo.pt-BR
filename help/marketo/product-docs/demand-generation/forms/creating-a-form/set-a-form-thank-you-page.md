@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359573
 description: Definir um formulário da página de agradecimento - Documentação do Marketo - Documentação do produto
-title: Definir um formulário da página de agradecimento
+title: Definir um formulário de página de agradecimento
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Definir um formulário da página de agradecimento {#set-a-form-thank-you-page}
+# Definir um formulário de página de agradecimento {#set-a-form-thank-you-page}
 
 O que acontece quando alguém preenche um formulário? Para onde eles são encaminhados? Veja como configurá-lo.
 

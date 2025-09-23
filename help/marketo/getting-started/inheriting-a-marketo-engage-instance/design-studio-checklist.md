@@ -3,18 +3,18 @@ description: Lista de verificação herdada do Instance Design Studio - Document
 title: Lista de Verificação do Instance Design Studio Herdada
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Instância herdada: lista de verificação do Design Studio {#inherited-instance-design-studio-checklist}
+# Instância herdada: lista de verificação do estúdio de design {#inherited-instance-design-studio-checklist}
 
 Estruturar modelos e criar formulários globais, trechos e imagens e arquivos ajudará a minimizar erros de dados, bem como simplificar o fluxo de trabalho da criação do seu programa. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhar seu progresso.
 
-## Páginas de aterrissagem {#landing-pages}
+## Páginas de destino {#landing-pages}
 
 <table style="table-layout:auto">
  <tbody>
@@ -25,7 +25,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr>
    <td>Páginas globais</td>
    <td><li>Quantas <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Páginas de Aterrissagem</a> globais existem? Eles estão sendo usados por programas?</li>
-   <li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=pt-BR" target="_blank">central de assinaturas</a> configurada?
+   <li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">central de assinaturas</a> configurada?
    <br/>     Caso contrário, considere a criação de um.</li></td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
  </tbody>
 </table>
 
-## Bl. conteúdo {#snippets}
+## Snippets {#snippets}
 
 <table style="table-layout:auto">
  <tbody>
@@ -139,7 +139,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
    <th>Revisar foco</th>
   </tr>
   <tr>
-   <td>Bl. conteúdo</td>
+   <td>Snippets</td>
    <td><li>Quantos <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">trechos</a> há? Eles estão sendo usados?
    <br/>     Caso contrário, considere usá-los para conteúdo de rodapé, logotipos e muito mais em <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">emails</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Páginas de aterrissagem</a>.</li></td>
   </tr>

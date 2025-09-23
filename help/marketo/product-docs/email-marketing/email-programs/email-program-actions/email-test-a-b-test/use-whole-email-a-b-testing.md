@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359502
 description: Use O Teste A/B "Email Inteiro" - Documentação Do Marketo - Documentação Do Produto
-title: Use O Teste A/B "Email Inteiro"
+title: Usar teste A/B de “Email inteiro”
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Use O Teste A/B &quot;Email Inteiro&quot; {#use-whole-email-a-b-testing}
+# Usar teste A/B de “Email inteiro” {#use-whole-email-a-b-testing}
 
 Você pode facilmente testar seus emails A/B. Um grande teste é o teste **Todo o email**. Veja como configurar isso.
 
@@ -45,11 +45,11 @@ Você pode facilmente testar seus emails A/B. Um grande teste é o teste **Todo 
 
 1. Selecione o segundo email.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Clique em **[!UICONTROL Adicionar]** para aplicar o segundo email. Arraste o controle deslizante para escolher qual porcentagem do público-alvo você deseja receber o teste A/B e clique em **[!UICONTROL Avançar]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

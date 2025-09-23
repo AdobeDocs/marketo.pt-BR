@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147118
 description: Uso de Custos do Período em um Programa - Marketo Docs - Documentação do Produto
-title: Usando Custos do Período em um Programa
+title: Uso de custos do período em um programa
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Usando Custos do Período em um Programa {#using-period-costs-in-a-program}
+# Uso de custos do período em um programa {#using-period-costs-in-a-program}
 
 Um [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} é o valor gasto em um programa. Pode ser por um ou mais meses e é usado para informar o ROI.
 
@@ -67,7 +67,7 @@ Um [custo do período](/help/marketo/product-docs/core-marketo-concepts/programs
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Clique com o botão direito do mouse em **[!UICONTROL Period Cost]**. Selecione **[!UICONTROL Excluir]**.
+1. Clique com o botão direito do mouse em **[!UICONTROL Period Cost]**. Clique em **[!UICONTROL Excluir]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360198
 description: Criar, excluir, editar e alterar uma função de usuário - Documentação do Marketo - Documentação do produto
-title: Criar, Deletar, Editar e Alterar uma Atribuição do Usuário
+title: Criar, excluir, editar e alterar uma função de usuário
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
-# Criar, Deletar, Editar e Alterar uma Atribuição do Usuário {#create-delete-edit-and-change-a-user-role}
+# Criar, excluir, editar e alterar uma função de usuário {#create-delete-edit-and-change-a-user-role}
 
 **Funções** agrupam um conjunto de permissões. **Permissões** permitem que você faça coisas no Marketo. Você atribui uma **função** a um usuário. Fácil como torta.
 
@@ -23,7 +23,7 @@ ht-degree: 3%
 >
 >As seguintes funções são funções do sistema e não podem ser editadas ou excluídas:
 >
->* Administrador
+>* Admin
 >* Administrador de produtos da Adobe
 >* Usuário padrão
 >* Editor de RTP

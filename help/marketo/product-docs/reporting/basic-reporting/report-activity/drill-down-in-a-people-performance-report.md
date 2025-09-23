@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360035
 description: Detalhamento em um Relatório de desempenho de pessoas - Documentação do Marketo - Documentação do produto
-title: Detalhar um Relatório de Desempenho de Pessoas
+title: Detalhar um relatório de desempenho de pessoas
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
-# Detalhar um Relatório de Desempenho de Pessoas {#drill-down-in-a-people-performance-report}
+# Detalhar um relatório de desempenho de pessoas {#drill-down-in-a-people-performance-report}
 
 Detalhe um Relatório de Desempenho de Pessoas para ver informações adicionais sobre pessoas.
 

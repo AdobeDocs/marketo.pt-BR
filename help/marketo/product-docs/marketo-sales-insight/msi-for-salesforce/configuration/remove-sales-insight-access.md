@@ -1,12 +1,12 @@
 ---
 description: Remover o acesso ao Sales Insight - Documentação do Marketo - Documentação do produto
-title: Remover Acesso ao Sales Insight
+title: Remover acesso ao Insight de vendas
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
@@ -109,7 +109,7 @@ A permissão para os objetos mencionados abaixo, classes apex e páginas de for�
    * Valores
    * WebActivityCache
 
-1. Role para baixo até a seção &quot;[!UICONTROL Acesso de classe apex habilitado]&quot;. Clique em **[!UICONTROL Editar]**.
+1. Role para baixo até a seção &quot;[!UICONTROL Acesso de classe apex habilitado]&quot;. Clique em **[!UICONTROL Editar]**.
 
 1. Na seção &quot;[!UICONTROL Classes Apex Habilitadas]&quot;, selecione todas as classes que comecem com &quot;mkto_si&quot;. Isso deve somar até 159 classes.
 
@@ -117,7 +117,7 @@ A permissão para os objetos mencionados abaixo, classes apex e páginas de for�
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. Role para baixo até a seção &quot;[!UICONTROL Acesso à página do Visualforce habilitado]&quot;. Clique em **[!UICONTROL Editar]**.
+1. Role para baixo até a seção &quot;[!UICONTROL Acesso à página do Visualforce habilitado]&quot;. Clique em **[!UICONTROL Editar]**.
 
 1. Na seção &quot;[!UICONTROL Páginas do Visualforce habilitadas]&quot;, selecione todas as páginas que comecem com &quot;mkto_si&quot;. Isso deve somar até 64 páginas.
 
@@ -125,7 +125,7 @@ A permissão para os objetos mencionados abaixo, classes apex e páginas de for�
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. Role para baixo até a seção &quot;[!UICONTROL Acesso Habilitado a Definições de Configuração Personalizadas]&quot;. Clique em **[!UICONTROL Editar]**.
+1. Role para baixo até a seção &quot;[!UICONTROL Acesso Habilitado a Definições de Configuração Personalizadas]&quot;. Clique em **[!UICONTROL Editar]**.
 
 1. Selecione &quot;Configurações do Marketo Sales Insight.mkto_si.Marketo&quot; e &quot;Preferências do Marketo Sales Insight.mkto_si.User.&quot;
 

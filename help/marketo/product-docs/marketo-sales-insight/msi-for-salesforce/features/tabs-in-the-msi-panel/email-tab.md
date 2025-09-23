@@ -1,16 +1,16 @@
 ---
 description: Guia Email - Documentação do Marketo - Documentação do produto
-title: Guia E-mail
+title: Guia Email
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Guia E-mail {#email-tab}
+# Guia Email {#email-tab}
 
 A guia email mostra uma lista de todos os emails enviados para um contato ou lead. Inclui as seguintes colunas:
 

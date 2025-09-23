@@ -1,16 +1,16 @@
 ---
 description: Glossário de ícones clássico - Documentação do Marketo - Documentação do produto
-title: Glossário de ícone do Classic
+title: Glossário de ícones clássicos
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 34%
+ht-degree: 35%
 
 ---
 
-# Glossário de ícone do Classic {#classic-icon-glossary}
+# Glossário de ícones clássicos {#classic-icon-glossary}
 
 Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário de ícones atual pode ser [encontrado aqui](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
 
@@ -180,7 +180,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-8-18-3a23-3a38.png">
     </td>
-   <td>Páginas de aterrissagem</td>
+   <td>Páginas de destino</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-18-3a25-3a25.png">
@@ -220,7 +220,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png">
     </td>
-   <td>Administrador</td>
+   <td>Admin</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png">
@@ -507,7 +507,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png">
     </td>
-   <td>Landing page. Ações</td>
+   <td>Landing page. Ações da página de destino</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a55-3a52.png">

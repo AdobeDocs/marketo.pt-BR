@@ -1,16 +1,16 @@
 ---
 description: Página de aterrissagem on-line do Advertising Marketo OA-YYYY-MM - Documentação do Marketo - Documentação do produto
-title: Página de aterrissagem on-line do Advertising Marketo OA-YYYY-MM
+title: OA-MM-AAAA-Página de destino de publicidade online do Marketo
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# Página de aterrissagem on-line do Advertising Marketo OA-YYYY-MM {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# OA-MM-AAAA-Página de destino de publicidade online do Marketo {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Este é um exemplo de um programa de rastreamento de anúncios online, incluindo uma Página de aterrissagem do Marketo com formulário de registro e utilizando um Programa padrão do Marketo. O link para a oferta pode ser exibido na página de agradecimento, enviado em um email de agradecimento ou em ambos.
 
@@ -52,7 +52,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
   <tr>

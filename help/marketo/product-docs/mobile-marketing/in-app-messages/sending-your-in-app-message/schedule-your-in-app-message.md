@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11370503
 description: Programar Mensagem No Aplicativo - Documentação Do Marketo - Documentação Do Produto
-title: Programar A Mensagem No Aplicativo
+title: Agendar mensagem no aplicativo
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Programar A Mensagem No Aplicativo {#schedule-your-in-app-message}
+# Agendar mensagem no aplicativo {#schedule-your-in-app-message}
 
 Envie sua mensagem agora ou agende para depois.
 

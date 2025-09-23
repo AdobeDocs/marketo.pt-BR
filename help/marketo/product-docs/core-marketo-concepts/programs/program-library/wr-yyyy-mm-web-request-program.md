@@ -1,16 +1,16 @@
 ---
 description: Programa de solicitação da Web WR-YYYY-MM - Documentação do Marketo - Documentação do produto
-title: Programa de solicitação da Web WR-YYYY-MM
+title: WR-MM-AAAA-Programa de solicitação da web
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
-# Programa de solicitação da Web WR-YYYY-MM {#wr-yyyy-mm-web-request-program}
+# WR-MM-AAAA-Programa de solicitação da web {#wr-yyyy-mm-web-request-program}
 
 Este é um exemplo de programa ideal para solicitação de contato, solicitação de orçamento, solicitação de demonstração ou formulários de solicitação de avaliação utilizando um Programa padrão da Marketo Engage. Pode ser usado com Páginas de aterrissagem do Marketo ou como um formulário incorporado em páginas de aterrissagem que não sejam da Marketo. Um email de alerta é enviado a uma pessoa especificada no envio do formulário.
 
@@ -51,7 +51,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>Alert-WebRequest</td>
   </tr>
   <tr>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953342
 description: Adicionar um cliente potencial/contato a uma campanha do Marketo no Microsoft Dynamics - Documentação do Marketo - Documentação do produto
-title: Adicionar um cliente potencial/contato a uma campanha do Marketo no Microsoft Dynamics
+title: Adicionar um lead/contato a uma campanha do Marketo no Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 

@@ -4,10 +4,10 @@ description: Criar um relatório de desempenho de pessoas com colunas de platafo
 title: Criar um relatório de desempenho de pessoas com colunas da plataforma móvel
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514918
 description: Noções básicas sobre o cancelamento de inscrição - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre o cancelamento de inscrição
+title: Noções básicas sobre cancelamento de inscrição
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Noções básicas sobre o cancelamento de inscrição {#understanding-unsubscribe}
+# Noções básicas sobre cancelamento de inscrição {#understanding-unsubscribe}
 
 Na verdade, há vários tipos diferentes de cancelamentos de assinatura integrados no Marketo. Todos são representados por campos no objeto pessoa, como Nome.
 
@@ -25,7 +25,7 @@ Isso é usado na página de cancelamento de inscrição padrão. Se uma pessoa m
 
 Este campo é definido pelo usuário para colocar pessoas em um cancelamento de inscrição temporário. As pessoas só poderão atingir esse status se forem alteradas manualmente ou se uma etapa do fluxo de alteração de valor de dados for utilizada.
 
-## E-mail suspenso {#email-suspended}
+## Email suspenso {#email-suspended}
 
 Este status bloqueia a correspondência de uma pessoa por 24 horas após uma rejeição permanente ocorrer. Após 24 horas, a pessoa voltará a ser mensurável.
 

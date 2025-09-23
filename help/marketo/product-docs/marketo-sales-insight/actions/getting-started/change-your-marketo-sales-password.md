@@ -3,10 +3,10 @@ description: Altere sua senha de vendas do Marketo - Documentação do Marketo -
 title: Alterar a senha de vendas do Marketo
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 

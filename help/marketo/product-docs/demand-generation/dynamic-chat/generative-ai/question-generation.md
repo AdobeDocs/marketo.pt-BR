@@ -1,16 +1,16 @@
 ---
 description: Geração de perguntas - Documentação do Marketo - Documentação do produto
-title: Geração de pergunta
+title: Geração de perguntas
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Geração de pergunta {#question-generation}
+# Geração de perguntas {#question-generation}
 
 Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram geradas, o número total de perguntas, o status de aprovação e muito mais.
 

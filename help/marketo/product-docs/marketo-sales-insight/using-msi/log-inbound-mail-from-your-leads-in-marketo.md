@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949285
 description: Registre emails de entrada de seus clientes potenciais no Marketo - Documentação do Marketo - Documentação do produto
-title: Registrar emails de entrada de seus clientes em potencial no Marketo
+title: Registrar emails de entrada de leads no Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Registrar emails de entrada de seus clientes em potencial no Marketo {#log-inbound-mail-from-your-leads-in-marketo}
+# Registrar emails de entrada de leads no Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
 Você pode registrar respostas de seus clientes em potencial diretamente no [!DNL Outlook] com o Suplemento de Email do Marketo.
 

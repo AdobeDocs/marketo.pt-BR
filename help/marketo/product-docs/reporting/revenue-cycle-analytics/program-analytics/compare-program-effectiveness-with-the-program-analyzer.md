@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360403
 description: Compare a eficácia do programa com o Analisador de programa - Documentação do Marketo - Documentação do produto
-title: Compare a eficácia do programa com o Analisador de programa
+title: Comparar a eficácia do programa com o analisador de programa
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '459'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

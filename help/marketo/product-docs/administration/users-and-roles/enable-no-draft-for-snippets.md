@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095636
 description: Ativar a opção Sem rascunho para trechos - Documentação do Marketo - Documentação do produto
-title: Ativar a opção Sem rascunho para trechos
+title: Habilitar a opção “Sem rascunho” para snippets
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Ativar a opção Sem rascunho para trechos {#enable-no-draft-for-snippets}
+# Habilitar a opção “Sem rascunho” para snippets {#enable-no-draft-for-snippets}
 
 O recurso Sem rascunho para trechos permite distribuir alterações de trecho sem rascunhar ativos aprovados ao usá-lo. Todos os ativos que usam o trecho editado obtêm as atualizações e mantêm seus respectivos status:
 

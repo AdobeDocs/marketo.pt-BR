@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377005
 description: Ativar RSS para Insight de vendas - Documentação do Marketo - Documentação do produto
-title: Habilitar RSS para Sales Insight
+title: Habilitar RSS para o Insight de vendas
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 

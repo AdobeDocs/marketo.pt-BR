@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352597
 description: Adicionar texto com hiperlink - Documentação do Marketo - Documentação do produto
-title: Adicionar texto hipervinculado
+title: Adicionar texto com hiperlink
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 17%
 
 ---
 
-# Adicionar texto hipervinculado {#add-hyperlinked-text}
+# Adicionar texto com hiperlink {#add-hyperlinked-text}
 
 1. Digite o texto que deseja vincular por hiperlink (ou seja, &quot;Clique aqui&quot;).
 

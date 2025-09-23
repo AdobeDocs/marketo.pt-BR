@@ -4,14 +4,14 @@ description: Champion/Challenger — Linha de assunto — Marketo Docs — Docum
 title: Champion/Challenger - linha de assunto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Champion/Challenger: linha de assunto {#champion-challenger-subject-line}
+# Controlador/variante: linha de assunto {#champion-challenger-subject-line}
 
 É possível testar facilmente várias linhas de assunto. Quando o teste terminar, envie emails com o mais eficaz. Veja como fazer isso.
 

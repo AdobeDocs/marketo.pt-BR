@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359724
 description: Aprovar várias páginas de aterrissagem de uma só vez - Documentação do Marketo - Documentação do produto
-title: Aprovar várias páginas de aterrissagem de uma vez
+title: Aprovar várias páginas de destino de uma vez
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Aprovar várias páginas de aterrissagem de uma vez {#approve-multiple-landing-pages-at-once}
+# Aprovar várias páginas de destino de uma vez {#approve-multiple-landing-pages-at-once}
 
 1. Vá para o **[!UICONTROL Design Studio]**.
 

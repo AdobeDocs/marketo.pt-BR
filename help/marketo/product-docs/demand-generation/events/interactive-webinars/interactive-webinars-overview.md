@@ -3,10 +3,10 @@ description: Visão geral de webinários interativos - Documentação do Marketo
 title: Visão geral de webinários interativos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ O recurso Webinars interativos é nossa plataforma de webinário integrada no Ma
 
 >[!IMPORTANT]
 >
->Webinars interativos viabilizados pelo Adobe Connect são um recurso com integração incorporada ao Adobe Connect. Seu uso de Webinars interativos estará sujeito a termos e condições adicionais. Revise seu contrato ou [contate o Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para saber mais sobre os termos e condições adicionais.
+>Webinars interativos viabilizados pelo Adobe Connect são um recurso com integração incorporada ao Adobe Connect. Seu uso de Webinars interativos estará sujeito a termos e condições adicionais. Revise seu contrato ou [contate a Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para saber sobre os termos e condições adicionais.
 
 ## O que são webinários interativos? {#what-is-interactive-webinars}
 
@@ -30,7 +30,7 @@ Após o webinário, acesse a [análise de desempenho do evento](/help/marketo/pr
 
 **Preciso de uma assinatura separada para usar os Webinars Interativos?**
 
-Nº Somente uma assinatura de Marketo Engage ativa é necessária para usar Webinars interativos.
+Não. Somente uma assinatura ativa do Marketo Engage é necessária para usar os Webinars interativos.
 
 **Que idiomas estão disponíveis para webinários interativos?**
 
@@ -38,7 +38,7 @@ Webinars interativos estão disponíveis em todos os seis idiomas suportados pel
 
 **Esgotei meu número incluído de Webinars interativos. Como obter mais sessões ou mais capacidade?**
 
-Você precisará entrar em contato com a equipe da conta do Adobe (seu gerente de conta) para obter assistência.
+Você precisaria entrar em contato com a equipe de conta da Adobe (seu gerente de conta) para obter assistência.
 
 **Como administrador do Marketo, posso controlar quais dos meus usuários do Marketo podem criar Webinars interativos?**
 

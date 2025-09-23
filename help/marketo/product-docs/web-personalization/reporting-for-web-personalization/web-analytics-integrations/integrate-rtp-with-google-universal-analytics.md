@@ -4,10 +4,10 @@ description: Integração do RTP ao Google Universal Analytics - Documentação 
 title: Integrar o RTP ao Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -43,7 +43,6 @@ O [!DNL Google Universal Analytics] com dados da RTP fornece uma melhor compreen
    1. Selecione a **[!UICONTROL Conta].**
    1. Selecione a **[!UICONTROL Propriedade].**
    1. Selecione **[!UICONTROL Definições personalizadas]** e **[!UICONTROL Dimensões personalizadas]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Adicione uma nova dimensão personalizada. Clique em **[!UICONTROL +Nova Dimension Personalizada]**

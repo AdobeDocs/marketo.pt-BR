@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359530
 description: Adicionar texto e tokens a uma página de aterrissagem - Documentação do Marketo - Documentação do produto
-title: Adicionar texto e tokens a uma página inicial
+title: Adicionar texto e tokens a uma página de destino
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Adicionar texto e tokens a uma página inicial {#add-text-and-tokens-to-a-landing-page}
+# Adicionar texto e tokens a uma página de destino {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >

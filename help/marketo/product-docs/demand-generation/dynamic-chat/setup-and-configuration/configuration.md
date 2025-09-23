@@ -3,10 +3,10 @@ description: Configuração - Documentação do Marketo - Documentação do prod
 title: Configuração
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -48,7 +48,7 @@ Nas Configurações de bot, você pode adicionar um rótulo à sua caixa de bate
 
 **Novo som de notificação de mensagem**
 
-Clique na lista suspensa para selecionar um som para o visitante sempre que o chatbot for acionado em uma sessão. Há vários sons para escolher.
+Clique na lista suspensa para selecionar um som para o visitante sempre que o chatbot for acionado em uma sessão. Há várias opções de sons para escolher.
 
 **Habilitar mensagens poke em dispositivos móveis**
 

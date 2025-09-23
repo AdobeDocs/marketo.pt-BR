@@ -4,10 +4,10 @@ description: Notas de versão - março de 2014 - Documentação do Marketo - Doc
 title: Notas de versão - março de 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 

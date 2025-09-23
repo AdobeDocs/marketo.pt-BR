@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147102
 description: Criação de uma entrada na visualização de programação do programa - Documentação do Marketo - Documentação do produto
-title: Criando uma Entrada na Exibição da Programação do Programa
+title: Criação de uma entrada na visualização Cronograma do programa
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Criando uma Entrada na Exibição da Programação do Programa {#creating-an-entry-in-the-program-schedule-view}
+# Criação de uma entrada na visualização Cronograma do programa {#creating-an-entry-in-the-program-schedule-view}
 
 Você pode criar entradas na exibição de programação do programa para complementar um programa existente.
 

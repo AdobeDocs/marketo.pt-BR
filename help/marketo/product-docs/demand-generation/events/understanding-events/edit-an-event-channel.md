@@ -4,10 +4,10 @@ description: Editar um canal de evento - Documentação do Marketo - Documentaç
 title: Editar um canal de evento
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 

@@ -4,14 +4,14 @@ description: Aguardar - Documentação do Marketo - Documentação do produto
 title: Aguardar
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Visão geral da espera {#wait-overview}
+# Visão geral de espera {#wait-overview}
 
 Pause uma pessoa em um fluxo do Smart Campaign com a **etapa de espera** útil.
 
@@ -29,6 +29,6 @@ Observe como você pode digitar em linguagem natural, como &quot;4 horas&quot;. 
 
 Há três maneiras principais de usar uma etapa do fluxo de espera:
 
-1. [Usar uma duração em uma etapa de fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-1. [Usar uma Data Específica em uma Etapa de Fluxo de Espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-1. [Usar um token de data em uma etapa de fluxo de espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+1. [Usar uma duração em uma etapa de espera do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+1. [Usar uma data específica em uma etapa de espera do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+1. [Usar um token de data em uma etapa de espera do fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)

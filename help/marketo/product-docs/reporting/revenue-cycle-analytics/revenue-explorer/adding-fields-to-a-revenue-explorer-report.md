@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504383
 description: Adição de campos a um relatório do Gerenciador de receita - Documentação do Marketo - Documentação do produto
-title: Adicionar campos a um relatório do Gerenciador de receita
+title: Adicionar campos a um relatório do gerenciador de receita
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Adicionar campos a um relatório do Gerenciador de receita {#adding-fields-to-a-revenue-explorer-report}
+# Adicionar campos a um relatório do gerenciador de receita {#adding-fields-to-a-revenue-explorer-report}
 
 Personalize relatórios do explorador de receita arrastando e soltando campos de dimensão e métrica na tela.
 

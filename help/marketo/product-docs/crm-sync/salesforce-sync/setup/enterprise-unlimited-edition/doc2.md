@@ -4,14 +4,14 @@ title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/U
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Etapa 2 de 3: Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Etapa 2 de 3: criar um usuário do Salesforce para o Marketo (Enterprise/Unlimited) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Neste artigo, você configurará as permissões do usuário no perfil do Salesfo
 1. Na seção Permissões administrativas, verifique se as seguintes caixas estão marcadas:
 
    * API habilitada
-   * Editar modelos de HTML
+   * Editar modelos do HTML
    * Gerenciar Documentos Públicos
    * Gerenciar modelos públicos
 

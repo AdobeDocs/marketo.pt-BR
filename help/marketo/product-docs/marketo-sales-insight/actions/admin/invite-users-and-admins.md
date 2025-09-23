@@ -1,16 +1,16 @@
 ---
 description: Convidar usuários e administradores - Documentação do Marketo - Documentação do produto
-title: Convidar usuários e administradores
+title: Convidar usuários e admins
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Convidar usuários e administradores {#invite-users-and-admins}
+# Convidar usuários e admins {#invite-users-and-admins}
 
 Adicionar usuários ou administradores é rápido e fácil!
 

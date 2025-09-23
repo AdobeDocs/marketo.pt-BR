@@ -1,16 +1,16 @@
 ---
 description: Substituição de prioridade para campanhas do acionador - Documentação do Marketo - Documentação do produto
-title: Substituição de prioridade para campanhas do acionador
+title: Substituição de prioridade em campanhas acionáveis
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Substituição de prioridade para campanhas do acionador {#priority-override-for-trigger-campaigns}
+# Substituição de prioridade em campanhas acionáveis {#priority-override-for-trigger-campaigns}
 
 Os administradores podem substituir a prioridade determinada pela Marketo Engage para Campanhas de acionamento a fim de definir prioridades que se alinhem melhor aos objetivos de negócios.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360055
 description: Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho — Documentação Do Marketo — Documentação Do Produto
-title: Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho
+title: Email de relatório, desempenho de campanha em espaços de trabalho
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Email De Relatório, Desempenho De Campanha Em Espaços De Trabalho {#report-email-campaign-performance-across-workspaces}
+# Email de relatório, desempenho de campanha em espaços de trabalho {#report-email-campaign-performance-across-workspaces}
 
 Ative os Relatórios Globais para incluir dados de todos os [espaços de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) do Marketo nos seus relatórios de [Desempenho do Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e [Desempenho do Link de Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
 

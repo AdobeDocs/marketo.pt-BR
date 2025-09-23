@@ -1,16 +1,16 @@
 ---
 description: Sincronização de mensagens de chamada e principal de chamada - Documentação do Marketo - Documentação do produto
-title: Sincronizando Mensagens de Chamada e Chave de Chamada
+title: Sincronização de mensagens de chamada e chave de chamada
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '477'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
-# Sincronizando Mensagens de Chamada e Chave de Chamada {#syncing-call-and-call-key-messages}
+# Sincronização de mensagens de chamada e chave de chamada {#syncing-call-and-call-key-messages}
 
 Os Objetos de Mensagem de Chave de Chamada e Chamada no [!DNL Veeva] CRM são sincronizados por padrão no Marketo Engage. O Marketo sincroniza dados que têm até 6 meses, com base na Data de criação da chamada.
 

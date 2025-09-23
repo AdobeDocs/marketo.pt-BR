@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557337
 description: Criar e alterar exibições para listas e lista inteligente - Documentação do Marketo - Documentação do produto
-title: Criar e Alterar Exibições para Listas e Smart Lists
+title: Criar e alterar exibições de listas e listas inteligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Criar e Alterar Exibições para Listas e Smart Lists {#create-and-change-views-for-lists-and-smart-list}
+# Criar e alterar exibições de listas e listas inteligentes {#create-and-change-views-for-lists-and-smart-list}
 
 Uma Smart List exibe um conjunto padrão de colunas. Você sabia que podia editar essas colunas ao conteúdo do seu coração? Veja como.
 

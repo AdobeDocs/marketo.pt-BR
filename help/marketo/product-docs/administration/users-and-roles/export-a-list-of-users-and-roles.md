@@ -4,10 +4,10 @@ description: Exportar uma lista de usuários e funções - Documentação do Mar
 title: Exportar uma lista de usuários e funções
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720075
 description: Exibir campanhas da Web de um rótulo específico - Documentação do Marketo - Documentação do produto
-title: Exibir campanhas da Web de um rótulo específico
+title: Exibir campanhas da web de um rótulo específico
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Exibir campanhas da Web de um rótulo específico {#view-web-campaigns-from-a-specific-label}
+# Exibir campanhas da web de um rótulo específico {#view-web-campaigns-from-a-specific-label}
 
 Deseja visualizar e filtrar suas campanhas de acordo com um rótulo específico?
 

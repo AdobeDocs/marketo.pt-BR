@@ -4,14 +4,14 @@ description: Notas de versão - 19 de junho - Documentação do Marketo - Docume
 title: Notas de versão - junho de 2019
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Notas de versão: junho de 19 {#release-notes-june}
+# Notas de versão: junho de 2019 {#release-notes-june}
 
 Os seguintes recursos estão incluídos na versão de junho de 2019. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
@@ -68,4 +68,4 @@ Espera-se que os seguintes recursos sejam lançados ao longo do segundo trimestr
 * **Integração de Drift**: entenda como as conversas de Drift afetam a jornada do cliente. [!DNL Bizible] também irá obter endereços de email de conversas para criar um novo cliente potencial ou conectar o ponto de contato a um cliente potencial existente.
 * A **Localização**: [!DNL Bizible] agora está disponível em todos os idiomas com suporte da Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
-_&#x200B;**Webinar sobre a versão do produto**&#x200B;_ Assista à gravação do nosso webinário sobre as inovações da versão de 19 de junho [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Webinar sobre a versão do produto**_ Assista à gravação do nosso webinário sobre as inovações da versão de 19 de junho [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

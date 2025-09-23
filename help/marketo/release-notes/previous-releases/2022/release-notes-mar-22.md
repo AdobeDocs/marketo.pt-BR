@@ -3,10 +3,10 @@ description: Notas de versão - março de 2022 - Documentação do Marketo - Doc
 title: Notas de versão - Março de 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '749'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ Os seguintes recursos estão incluídos na versão de março de 2022. Verifique 
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 **_Versões Trimestrais_**
 

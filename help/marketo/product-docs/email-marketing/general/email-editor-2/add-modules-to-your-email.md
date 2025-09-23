@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11371065
 description: Adicionar módulos ao seu email - Documentação do Marketo - Documentação do produto
-title: Adicionar módulos ao seu email
+title: Adicionar módulos ao email
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Adicionar módulos ao seu email {#add-modules-to-your-email}
+# Adicionar módulos ao email {#add-modules-to-your-email}
 
 No [!DNL Email Editor 2.0], um módulo é uma seção do seu email que é definida no modelo. Os módulos podem conter qualquer combinação de elementos, variáveis e outro conteúdo do HTML. Adicioná-los ao seu email é fácil.
 

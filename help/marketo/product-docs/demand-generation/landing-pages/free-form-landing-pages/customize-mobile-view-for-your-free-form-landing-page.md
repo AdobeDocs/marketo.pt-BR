@@ -1,17 +1,17 @@
 ---
 unique-page-id: 5472283
 description: Personalizar visualização móvel para sua página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
-title: Personalizar visualização móvel para sua página de aterrissagem de forma livre
+title: Personalizar visualização móvel de uma página de destino de forma livre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Personalizar visualização móvel para sua página de aterrissagem de forma livre {#customize-mobile-view-for-your-free-form-landing-page}
+# Personalizar visualização móvel de uma página de destino de forma livre {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >

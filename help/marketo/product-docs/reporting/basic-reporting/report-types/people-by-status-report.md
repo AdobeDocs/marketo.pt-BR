@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360012
 description: Relatório de pessoas por status - Documentação do Marketo - Documentação do produto
-title: Relatório de pessoas por status
+title: Pessoas por relatório de status
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Relatório de pessoas por status {#people-by-status-report}
+# Pessoas por relatório de status {#people-by-status-report}
 
 Revise se se você está acompanhando as pessoas pelo processo, verificando quantas delas aparecem em cada valor de _[!UICONTROL Status da pessoa]_ todos os meses.
 

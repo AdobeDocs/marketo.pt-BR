@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557130
 description: Noções básicas sobre Smart Lists - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre Smart Lists
+title: Noções básicas de listas inteligentes
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Noções básicas sobre Smart Lists {#understanding-smart-lists}
+# Noções básicas de listas inteligentes {#understanding-smart-lists}
 
 As Smart Lists permitem encontrar grupos específicos de pessoas usando filtros simples. Eles são usados em todo o Marketo, como em Campanhas inteligentes, programas, relatórios, segmentações, modelos de negócios, programas de engajamento, conteúdo dinâmico e muito mais. Dependendo das suas necessidades, as Smart Lists podem ser criadas em dois locais no Marketo:
 

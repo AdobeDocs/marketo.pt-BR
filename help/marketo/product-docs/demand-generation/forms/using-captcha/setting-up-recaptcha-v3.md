@@ -3,10 +3,10 @@ description: Configuração do reCAPTCHA v3 - Documentação do Marketo - Docume
 title: Configuração do reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 

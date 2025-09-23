@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093188
 description: Noções básicas sobre objetos personalizados do Marketo - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre objetos personalizados do Marketo
+title: Noções básicas de objetos personalizados do Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '699'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Noções básicas sobre objetos personalizados do Marketo {#understanding-marketo-custom-objects}
+# Noções básicas de objetos personalizados do Marketo {#understanding-marketo-custom-objects}
 
 Use objetos personalizados para rastrear métricas específicas para sua empresa.
 

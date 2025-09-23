@@ -3,10 +3,10 @@ description: Modelos de e-mail de vendas transacionais - Documentação do Marke
 title: Modelos de email de vendas transacionais
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ Se sua equipe estiver enviando emails transacionais ou não comerciais, você po
 
 ## Itens a Observar {#things-to-note}
 
-* Emails não comerciais ignorarão cancelamentos de assinatura de vendas e [verificação de cancelamento de assinatura de Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, mas não ignorarão [domínios bloqueados](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
+* Emails não comerciais ignorarão cancelamentos de assinatura de vendas e [verificação de cancelamento de assinatura do Marketo Engage](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, mas não ignorarão [domínios bloqueados](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}.
 
 * As mensagens de cancelamento de inscrição não serão anexadas automaticamente a emails não comerciais, mesmo que a [configuração de administração de mensagens de cancelamento de inscrição de anexação](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} esteja habilitada. No entanto, o `{{team_unsubscribe}}` [campo dinâmico](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} ainda preencherá a mensagem de cancelamento de inscrição da sua equipe.
 

@@ -4,10 +4,10 @@ description: Notas de versão - Janeiro de 2020 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 1%
+source-wordcount: '794'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Os seguintes recursos estão incluídos na versão de janeiro de 2020. Verifique
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(estrela)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela ( ![(estrela)](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 **_Versões Trimestrais_**
 
@@ -57,7 +57,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Edição de imagens](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=pt-BR#design-studio): acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas facilmente, como aprimorar, recortar e adicionar texto a imagens diretamente no [!UICONTROL Design Studio].
+* [Edição de imagens](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas facilmente, como aprimorar, recortar e adicionar texto a imagens diretamente no [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -76,4 +76,4 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 >
 >* **ITP 2.1+ [!DNL Munchkin] Atualização**: devido a alterações na política de cookies para [!DNL Safari], a capacidade de [!DNL Munchkin] de rastrear usuários em sessões no mesmo domínio será limitada pelo ITP a 1 ou 7 dias com base no navegador e na versão do navegador usada pelo visitante. Para levar em conta isso, estamos implementando um novo serviço da Web para permitir que os cookies do Munchkin sejam definidos com um cabeçalho Set-Cookie por meio da resposta HTTP. Mais informações sobre como implementar este novo serviço podem ser encontradas [aqui](https://nation.marketo.com/docs/DOC-7351).
 
-**_Webinar de versão do produto_** [Junte-se a nós](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) em 3 de março às 11:00 (PT) / 2:00 (ET) para um webinário ao vivo hospedado por nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.
+**_Webinário de lançamento do produto_** [Junte-se a nós](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) em 3 de março às 11:00AM PT / 2:00PM ET para um webinário ao vivo hospedado por nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.

@@ -4,20 +4,20 @@ description: Notas de versão - 20 de outubro - Documentação do Marketo - Docu
 title: Notas de versão - outubro de 2020
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Notas de versão: outubro de 20 {#release-notes-oct}
+# Notas de versão: outubro de 2020 {#release-notes-oct}
 
 Os seguintes recursos estão incluídos na versão de outubro de 2020. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 **_Versões Trimestrais_** Os seguintes recursos serão lançados em **16 de outubro de 2020**.
 
@@ -27,7 +27,7 @@ Os seguintes recursos estão incluídos na versão de outubro de 2020. Verifique
 
 * **Lista Inteligente de Conta (Beta)**: sobrecarregue sua estratégia ABM com o novo recurso Lista Inteligente de Conta. Identifique dinamicamente contas com os atributos de conta e pessoa desejados para executar campanhas entre canais e envie alertas oportunos para Vendas para fechar negócios mais rapidamente. Observação: isso está disponível somente para clientes do Gerenciamento de contas do Target que foram integrados para a [experiência de usuário da próxima geração](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
-## Marketing por e-mail {#email-marketing}
+## Marketing por email {#email-marketing}
 
 * **Aumento de emails em lote** ![(star)](assets/yellow-star.png): envie mais emails com uma taxa de transferência aumentada de até 5 milhões de emails em lote por hora. As opções abrangentes de capacidade de entrega de email eliminam a necessidade de aguardar entre lotes de email - envie todos os emails no prazo e de acordo com sua programação.
 

@@ -3,10 +3,10 @@ description: Notas de versão - Janeiro de 2023 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 10%
+ht-degree: 23%
 
 ---
 
@@ -16,20 +16,20 @@ Abaixo você encontrará todos os recursos incluídos na versão de janeiro de 2
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **20 de janeiro de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
+Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 20 de janeiro de 2023**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
 
-### Marketo Engage Modern UX {#modern-ux}
+### UX moderna do Marketo Engage {#modern-ux}
 
 </br>
 
 * **Screens atualizado no UX Moderno**: no UX Moderno (antes conhecido como Experiência da Próxima Geração), estamos fornecendo telas adicionais e atualizadas que oferecem aprimoramentos atualizados de design e usabilidade, acessíveis por meio de uma opção de alternância:
 
-   * Exibição da lista de trechos
-   * Lista de modelos de landing page
+   * Exibição da lista de snippets
+   * Lista de modelos de página de destino
 
   <table>
   <tr>
@@ -37,8 +37,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Alternar alternância</a></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Botão de alternância</a></td>
   </tr>
   </tbody>
 
@@ -52,7 +52,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=pt-BR">Marketo Measure Ultimate</a></td>
+   <td>Enviado</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +106,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Dados da API de exportação em massa</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendário</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Reuniões</a></td>
   </tr>
   </tbody>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359637
 description: Excluir um formulário - Documentação do Marketo - Documentação do produto
-title: Excluir um Formulário
+title: Excluir um formulário
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Excluir um Formulário {#delete-a-form}
+# Excluir um formulário {#delete-a-form}
 
 Se você tiver um formulário de que não precisa e que não está sendo usado, é possível excluí-lo. Veja como.
 

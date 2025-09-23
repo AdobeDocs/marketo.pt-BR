@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359968
 description: Alterar um intervalo de tempo do relatório - Documentação do Marketo - Documentação do produto
-title: Alterar um intervalo de tempo do relatório
+title: Alterar o intervalo de tempo do relatório
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Alterar um intervalo de tempo do relatório {#change-a-report-time-frame}
+# Alterar o intervalo de tempo do relatório {#change-a-report-time-frame}
 
 Altere o período coberto pelo relatório para se concentrar em um momento específico de atividade.
 

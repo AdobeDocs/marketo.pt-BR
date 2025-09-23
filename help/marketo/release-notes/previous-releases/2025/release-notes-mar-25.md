@@ -3,7 +3,7 @@ description: Notas de versão - março de 2025 - Documentação do Marketo - Doc
 title: Notas de versão - Março de 2025
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 39%
@@ -44,7 +44,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   <tr>
    <td><strong>Recursos GenAI em Webinars interativos</strong>: agora é possível gerar capítulos, bem como um resumo para webinars sob demanda. Edite e exporte um arquivo HTML com seus dados.</td>
    <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Recursos da GenAI</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Recursos da GenAI</a></td>
   </tr>
   <tr>
    <td> </td>

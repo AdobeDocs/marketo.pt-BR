@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359614
 description: Definir valores em um rádio ou em um campo selecionado em um formulário - Documentação do Marketo - Documentação do produto
-title: Definir valores em um rádio ou em um campo selecionado em um formulário
+title: Definir valores em um botão de seleção ou campo selecionado de um formulário
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
-# Definir valores em um rádio ou em um campo selecionado em um formulário {#define-values-in-a-radio-or-selected-field-in-a-form}
+# Definir valores em um botão de seleção ou campo selecionado de um formulário {#define-values-in-a-radio-or-selected-field-in-a-form}
 
 Depois de [definir um tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) como um botão de opção ou tipo de seleção, você desejará definir os valores que o usuário pode escolher. Veja como.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976798
 description: Configurar o LinkedIn Lead Gen Forms - Documentação do Marketo - Documentação do produto
-title: Configurar o Forms de geração de lead do LinkedIn
+title: Configurar formulário de geração de lead do LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '511'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Configurar o Forms de geração de lead do LinkedIn {#set-up-linkedin-lead-gen-forms}
+# Configurar formulário de geração de lead do LinkedIn {#set-up-linkedin-lead-gen-forms}
 
 Use o Forms de geração de leads do LinkedIn para executar campanhas de publicidade no LinkedIn e gerar leads para o Marketo.
 

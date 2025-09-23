@@ -4,14 +4,14 @@ description: Notas de versão - Verão de 17 - Documentação do Marketo - Docum
 title: Notas de versão - Verão de 2017
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
-# Notas de versão: Verão de 17 {#release-notes-summer}
+# Notas de versão: verão de 2017 {#release-notes-summer}
 
 Os seguintes recursos estão incluídos na versão do verão de 1917. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 

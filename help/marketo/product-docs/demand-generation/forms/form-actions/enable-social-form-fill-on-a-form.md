@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359616
 description: Habilitar o preenchimento de formulário social em um formulário - Documentação do Marketo - Documentação do produto
-title: Ativar preenchimento de formulário social em um formulário
+title: Habilitar o preenchimento do formulário com rede social
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Ativar preenchimento de formulário social em um formulário {#enable-social-form-fill-on-a-form}
+# Habilitar o preenchimento do formulário com rede social {#enable-social-form-fill-on-a-form}
 
 Permita que os visitantes preencham o formulário usando a rede social. Você obterá automaticamente dados extras e eles terão uma experiência mais rápida.
 

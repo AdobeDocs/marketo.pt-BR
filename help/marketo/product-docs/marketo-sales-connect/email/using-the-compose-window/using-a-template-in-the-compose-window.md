@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356593
 description: Uso de um modelo na janela Compor - Documentação do Marketo - Documentação do produto
-title: Usando um modelo na janela Compor
+title: Uso de um modelo na janela Compor
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Usando um modelo na janela Compor {#using-a-template-in-the-compose-window}
+# Uso de um modelo na janela Compor {#using-a-template-in-the-compose-window}
 
 ## Localização e uso de modelos {#finding-and-using-templates}
 

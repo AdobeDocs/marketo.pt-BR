@@ -4,10 +4,10 @@ description: Notas de versão - outubro de 2013 - Documentação do Marketo - Do
 title: Notas de versão - Outubro de 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 

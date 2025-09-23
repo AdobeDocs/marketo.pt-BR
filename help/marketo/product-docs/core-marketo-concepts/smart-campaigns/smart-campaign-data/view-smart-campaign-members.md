@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146937
 description: Exibir membros do Smart Campaign - Documentação do Marketo - Documentação do produto
-title: Exibir membros do Smart Campaign
+title: Exibir membros de campanha inteligente
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Exibir membros do Smart Campaign {#view-smart-campaign-members}
+# Exibir membros de campanha inteligente {#view-smart-campaign-members}
 
 Exibir pessoas que já passaram pelo fluxo do Smart Campaign.
 

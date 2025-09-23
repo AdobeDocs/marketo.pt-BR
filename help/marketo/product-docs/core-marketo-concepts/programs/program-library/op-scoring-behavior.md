@@ -1,16 +1,16 @@
 ---
 description: OP-Scoring-Behavior - Documentação do Marketo - Documentação do produto
-title: OP-Scoring-Behavior
+title: OP-Pontuação-Comportamento
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 29%
+ht-degree: 30%
 
 ---
 
-# OP-Scoring-Behavior {#op-scoring-behavior}
+# OP-Pontuação-Comportamento {#op-scoring-behavior}
 
 Este exemplo é um Programa operacional avançado (tokenizado) para a Pontuação de comportamento usando um Programa padrão do Marketo Engage. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação de comportamento&quot;.
 

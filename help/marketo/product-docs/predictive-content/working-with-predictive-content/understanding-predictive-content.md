@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384665
 description: Noções básicas sobre conteúdo preditivo - Documentação do Marketo - Documentação do produto
-title: Compreensão de conteúdo preditivo
+title: Noções básicas sobre conteúdo preditivo
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Compreensão de conteúdo preditivo {#understanding-predictive-content}
+# Noções básicas sobre conteúdo preditivo {#understanding-predictive-content}
 
 Depois de [aprovar um título para conteúdo preditivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), você trabalha nele aqui. A página [!UICONTROL Conteúdo preditivo] exibe todos os títulos que você aprovou para conteúdo preditivo.
 

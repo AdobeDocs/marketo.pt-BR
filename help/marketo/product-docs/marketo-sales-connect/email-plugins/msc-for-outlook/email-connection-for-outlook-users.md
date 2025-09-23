@@ -4,10 +4,10 @@ description: Conexão de email para usuários do Outlook - Documentação do Mar
 title: Conexão de email para usuários do Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -35,7 +35,7 @@ Conectar-se ao [!DNL Outlook] significa que você receberá o controle de respos
 
    ![](assets/three.png)
 
-1. Clique em **[!UICONTROL Introdução]**.
+1. Clique em **[!UICONTROL Começar]**.
 
    ![](assets/four.png)
 
@@ -98,7 +98,7 @@ Conectar-se ao [!DNL Exchange On-Premise] significa que você receberá o contro
 
    ![](assets/three.png)
 
-1. Clique em **[!UICONTROL Introdução]**.
+1. Clique em **[!UICONTROL Começar]**.
 
    ![](assets/four.png)
 

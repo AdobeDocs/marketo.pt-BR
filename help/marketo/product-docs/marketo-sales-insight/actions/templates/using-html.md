@@ -1,16 +1,16 @@
 ---
 description: Uso do HTML - Documentação do Marketo - Documentação do produto
-title: Utilização do HTML
+title: Uso de HTML
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utilização do HTML {#using-html}
+# Uso de HTML {#using-html}
 
 1. Copie o código-fonte de seus emails na ferramenta usada para criar emails no HTML (por exemplo, o Editor de email do Marketo).
 

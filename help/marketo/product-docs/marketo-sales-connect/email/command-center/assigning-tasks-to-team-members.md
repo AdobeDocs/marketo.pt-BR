@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45417460
 description: Atribuição de tarefas a membros da equipe - Documentação do Marketo - Documentação do produto
-title: Atribuindo Tarefas a Membros da Equipe
+title: Atribuição de tarefas a membros da equipe
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Atribuindo Tarefas a Membros da Equipe {#assigning-tasks-to-team-members}
+# Atribuição de tarefas a membros da equipe {#assigning-tasks-to-team-members}
 
 Se você quiser colaborar com outros membros da equipe, atribuir tarefas pode ser uma ótima maneira de coordenar seus esforços de prospecção.
 

@@ -3,9 +3,9 @@ description: Notas de versão - Janeiro de 2021 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1237'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Os seguintes recursos estão incluídos na versão de janeiro de 2021. Verifique
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![(estrela)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![(estrela)](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 **_Versões Trimestrais_**
 
@@ -37,7 +37,7 @@ Os recursos a seguir serão lançados em **15 de janeiro de 2021**.
 * **API de Formulário**: obtenha informações de clientes potenciais ou acione campanhas de criação ao extrair dados de formulários que não sejam da Marketo. Formulários que não sejam do Marketo podem se integrar ao Marketo Engage por meio da API REST. A nova API oferece a capacidade de mimetizar o envio de formulários do Marketo Engage com todas as funcionalidades associadas.
 * **API de páginas de aterrissagem**: simplifique os fluxos de trabalho de edição e tradução em aplicativos integrados com a nova API de visualização de páginas de aterrissagem. Fornecedores de terceiros agora podem renderizar visualizações totalmente personalizadas de páginas de aterrissagem sem fazer logon no Marketo Engage.  A API de visualização de página de aterrissagem permite fluxos de trabalho de edição e localização completos em aplicativos integrados de terceiros.
 
-## Marketing por e-mail {#email-marketing}
+## Marketing por email {#email-marketing}
 
 * **[Limites de recuperação de objetos personalizados aumentados](/help/marketo/product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)**: os desenvolvedores de scripts do Velocity de email podem aumentar rapidamente o número de objetos personalizados para 100 por meio da substituição de autoatendimento. Os profissionais de marketing podem aumentar a eficácia das Campanhas inteligentes acessando um número maior de objetos personalizados de primeiro e segundo nível.
 
@@ -69,7 +69,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 ![(estrela)](assets/yellow-star.png)
 
-* **Limitação da Conexão de Email (BETA)**: melhore sua capacidade de entrega de email e dimensione sua comunicação de vendas 1:1 com a Limitação da Conexão de Email para [!DNL Sales Connect]. Nossa nova tecnologia de controle gerencia automaticamente o tempo de envio de email para criar experiências perfeitas para usuários do [!DNL Exchange] e do Gmail. Diminuir ou eliminar o uso de aplicativos de envio de email de terceiros em massa.
+* **Limitação da Conexão de Email (BETA)**: melhore sua capacidade de entrega de email e dimensione sua comunicação de vendas do :1 com a Limitação da Conexão de Email para [!DNL Sales Connect]. Nossa nova tecnologia de controle gerencia automaticamente o tempo de envio de email para criar experiências perfeitas para usuários do [!DNL Exchange] e do Gmail. Diminuir ou eliminar o uso de aplicativos de envio de email de terceiros em massa.
 * **Rastreamento de rejeição de conexão de email**: obtenha insight sobre a qualidade dos clientes potenciais e o desempenho do modelo de email com o novo relatório de rejeição de email. [!DNL Exchange] e usuários do Gmail podem optar por receber notificações de rejeição que serão agrupadas no Feed Ativo, nas Pastas de email, no Template Analytics e no Campaign Analytics.
 * **Configuração da página de perfil**: gerencie facilmente as preferências do usuário na nova página de perfil. Altere a senha, edite as configurações de idioma e geolocalização e revise os status de integrações em um único local.
 * **Gerenciamento de modelos**: organize modelos de email de vendas em categorias com um novo recurso de arrastar e soltar para garantir acesso rápido a modelos relevantes e reduzir o tempo de pesquisa.
@@ -83,4 +83,4 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 **_Webinar de lançamento de produto_**
 
-Quer saber mais sobre esses recursos e aprimoramentos? Certifique-se de [registrar-se agora](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) para se juntar a nós no dia 21 de janeiro às 13h (PT) / 16h (ET) para um webinário ao vivo com nossa equipe de produtos para aprofundar essas inovações.
+Quer saber mais sobre esses recursos e aprimoramentos? Certifique-se de [registrar-se agora](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) para se juntar a nós no dia 21 de janeiro às 1:00 PM PT / 4:00 PM ET para um webinário ao vivo com nossa equipe de produtos para aprofundar essas inovações.

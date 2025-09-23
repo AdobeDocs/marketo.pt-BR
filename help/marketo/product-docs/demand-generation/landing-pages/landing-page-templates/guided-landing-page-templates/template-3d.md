@@ -4,16 +4,16 @@ description: Modelo 3D - Documentação do Marketo - Documentação do produto
 title: Modelo 3D
 exl-id: cb72b874-5294-47b8-b151-e40697d78f13
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Modelo 3D {#template-3d}
 
-Clique com o botão direito do mouse para [baixar Modelo 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=pt-BR)
+Clique com o botão direito do mouse para [baixar Modelo 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=pt-BR)
+[Modelo 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)

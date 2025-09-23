@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953415
 description: Uso da página de detalhes da pessoa - Documentação do Marketo - Documentação do produto
-title: Usando a Página Detalhes da Pessoa
+title: Uso da página Detalhes da pessoa
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 33%
+ht-degree: 35%
 
 ---
 
-# Usando a Página Detalhes da Pessoa {#using-the-person-detail-page}
+# Uso da página Detalhes da pessoa {#using-the-person-detail-page}
 
 A página de detalhes da pessoa contém todas as informações que o Marketo sabe sobre uma pessoa. É possível editar dados diretamente nesta página.
 
@@ -60,7 +60,7 @@ As informações de pessoa são categorizadas nas seguintes guias:
 
 >[!NOTE]
 >
->Você também pode ver informações de oportunidade [inseridas via API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias que não estão sincronizadas com um CRM.
+>Você também pode ver informações de oportunidade [inseridas via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias que não estão sincronizadas com um CRM.
 
 ## Edição de um campo {#editing-a-field}
 
@@ -75,7 +75,7 @@ Muitos campos são editáveis. Para atualizar as informações de uma pessoa, di
 | Endereço | Receita anual | IP anônimo | Endereço de cobrança | Cidade de cobrança |
 | País de cobrança | Código postal de cobrança | Estado de cobrança | Cidade | Nome da empresa |
 | País | Criado em | Data de nascimento | Departamento | Não ligar |
-| Motivo para não ligar | Motivo para não ligar | Endereço de e-mail | E-mail inválido | Motivo do e-mail inválido |
+| Motivo para não ligar | Motivo para não ligar | Endereço de e-mail | Email inválido | Motivo do e-mail inválido |
 | ID da empresa externa | ID da pessoa de vendas da empresa externa | Número de fax | Nome | Nome completo |
 | Setor | Cidade indicada | Empresa indicada | País indicado | Área metropolitana indicada |
 | Código de área telef. indic. | Código postal indicado | Estado/região indicado | É anônimo | É cliente |

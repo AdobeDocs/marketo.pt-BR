@@ -3,7 +3,7 @@ description: Filtros preditivos - Documentação do Marketo - Documentação do 
 title: Filtros preditivos
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 3%
@@ -58,6 +58,6 @@ Clique no ícone **+** para adicionar facilmente vários programas/Smart Lists a
 * Os filtros preditivos não estão disponíveis para Campanhas de acionador.
 * Não há suporte para clonagem ou movimentação de campanhas que contêm filtros preditivos.
 * Você pode usar até 5 filtros preditivos em uma Smart List.
-* Se o Marketo Engage encontrar um erro na avaliação de filtros preditivos, a execução da campanha será interrompida automaticamente e você receberá uma notificação na central de notificações da Marketo.
+* Se o Marketo Engage encontrar um erro na avaliação de filtros preditivos, a execução da campanha será anulada automaticamente e você receberá uma notificação na central de notificações do Marketo.
 * Atualmente, os filtros preditivos têm um limite de entrada de 1 milhão de pessoas qualificadas.
 * Você pode ter até 50 programas ativos com filtros preditivos.

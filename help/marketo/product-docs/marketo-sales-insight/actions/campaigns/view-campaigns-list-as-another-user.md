@@ -3,10 +3,10 @@ description: Visualizar a lista de campanhas como outro usuário - Documentaçã
 title: Exibir a lista de campanhas como outro usuário
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 

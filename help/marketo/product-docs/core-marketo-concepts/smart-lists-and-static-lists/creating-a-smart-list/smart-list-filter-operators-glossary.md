@@ -4,10 +4,10 @@ description: Glossário de operadores de filtro de lista inteligente - Documenta
 title: Glossário de operadores de filtro de lista inteligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
@@ -92,12 +92,12 @@ Quando você escolhe um operador, o lado direito muda dinamicamente.
   </tr>
   <tr>
     <td>está vazio</td>
-    <td>Nenhum</td>
+    <td>None</td>
     <td>Todos os registros sem data</td>
   </tr>
   <tr>
     <td>não está vazio</td>
-    <td>Nenhum</td>
+    <td>None</td>
     <td>Todos os registros com qualquer data</td>
   </tr>
 </tbody></table>
@@ -118,7 +118,7 @@ Basta digitar o número e a unidade juntos e vai funcionar!
 
 >[!CAUTION]
 >
->Ao criar uma Smart List usando um filtro de campo de data (por exemplo, Data de Nascimento, Data de Criação do SFDC) e usar as restrições **[!UICONTROL antes]**, **[!UICONTROL em ou antes]** ou **[!UICONTROL no passado antes]**, a Smart List também incluirá pessoas que não têm valor nesse campo de data.
+>Ao criar uma Smart List usando um filtro de campo de data (por exemplo, Data de Nascimento, Data de Criação da SFDC) e usar as restrições **[!UICONTROL antes]**, **[!UICONTROL em ou antes]** ou **[!UICONTROL no passado antes]**, a Smart List também incluirá pessoas que não têm valor nesse campo de data.
 
 Use o diagrama a seguir para entender a diferença entre os operadores de data.
 

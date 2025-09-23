@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571886
 description: Uso do Analisador de caminho de sucesso - Documentação do Marketo - Documentação do produto
-title: Uso do Analisador de caminho de sucesso
+title: Uso do analisador de caminho de sucesso
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Uso do Analisador de caminho de sucesso {#using-the-success-path-analyzer}
+# Uso do analisador de caminho de sucesso {#using-the-success-path-analyzer}
 
 Use um Analisador de Caminho de Sucesso para explorar os detalhes específicos que refletem o fluxo (quantidade) e a velocidade (velocidade, em termos de dias) das pessoas pelos estágios do seu [Modelo de Ciclo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 

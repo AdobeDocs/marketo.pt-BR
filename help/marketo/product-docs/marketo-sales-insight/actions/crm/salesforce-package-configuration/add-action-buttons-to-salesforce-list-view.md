@@ -2,10 +2,10 @@
 description: Adicionar botões de ação à exibição de lista do Salesforce - Documentação do Marketo - Documentação do produto
 title: Adicionar botões de ação à exibição de lista do Salesforce
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 

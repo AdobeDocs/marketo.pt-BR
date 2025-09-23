@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976776
 description: Usar filtros e acionadores de formulário do líder do LinkedIn em uma campanha inteligente - Documentação do Marketo - Documentação do produto
-title: Usar filtros e acionadores de formulário do líder do LinkedIn em uma campanha inteligente
+title: Usar filtros e acionadores de formulário de geração de lead do LinkedIn em uma campanha inteligente
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Usar filtros e acionadores de formulário do líder do LinkedIn em uma campanha inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
+# Usar filtros e acionadores de formulário de geração de lead do LinkedIn em uma campanha inteligente {#use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign}
 
 Depois de habilitar o LinkedIn Lead Gen Forms, você pode usá-los como filtros e acionadores em suas campanhas inteligentes.
 

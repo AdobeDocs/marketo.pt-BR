@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382122
 description: Ativar trilha de auditoria — Documentação do Marketo — Documentação do produto
-title: Ativar trilha de auditoria
+title: Habilitar trilha de auditoria
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Ativar trilha de auditoria {#enable-audit-trail}
+# Habilitar trilha de auditoria {#enable-audit-trail}
 
 A Trilha de auditoria está disponível para todos os clientes e é controlada por duas permissões de administrador.
 

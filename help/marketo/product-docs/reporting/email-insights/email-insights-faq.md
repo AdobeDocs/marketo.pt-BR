@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100257
 description: Perguntas frequentes sobre Insights de email - Documentação do Marketo - Documentação do produto
-title: Perguntas frequentes sobre o Email Insights
+title: Perguntas frequentes sobre os insights de email
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '602'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Perguntas frequentes sobre o Email Insights {#email-insights-faq}
+# Perguntas frequentes sobre os insights de email {#email-insights-faq}
 
 ## Há diferenças entre as métricas de taxa de [!UICONTROL Insights de email] e outros relatórios de email do Marketo? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 

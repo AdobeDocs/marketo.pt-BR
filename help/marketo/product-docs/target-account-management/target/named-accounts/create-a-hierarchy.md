@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795734
 description: Criar uma hierarquia - Documentação do Marketo - Documentação do produto
-title: Criar uma Hierarquia
+title: Criar uma hierarquia
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Criar uma Hierarquia {#create-a-hierarchy}
+# Criar uma hierarquia {#create-a-hierarchy}
 
 As hierarquias devem ser criadas em CRMs. No entanto, se você não tiver um CRM, siga estas etapas para criar uma hierarquia manualmente.
 

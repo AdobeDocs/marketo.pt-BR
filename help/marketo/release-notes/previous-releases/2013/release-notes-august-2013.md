@@ -4,10 +4,10 @@ description: Notas de versão - agosto de 2013 - Documentação do Marketo - Doc
 title: Notas de versão - agosto de 2013
 exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
@@ -47,7 +47,7 @@ Utilize esses [novos tokens](/help/marketo/product-docs/email-marketing/general/
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
-## Limpeza de campanha com gatilho automático {#automatic-trigger-campaign-cleanup}
+## Limpeza de campanha com acionamento automático {#automatic-trigger-campaign-cleanup}
 
 Agora, a Marketo vai notificá-lo periodicamente e [desativar automaticamente campanhas de acionadores](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) que não foram executadas nos últimos seis meses.
 

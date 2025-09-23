@@ -1,16 +1,16 @@
 ---
 description: Adicionar ou remover usuários do chat - Documentação do Marketo - Documentação do produto
-title: Adicionar ou Remover Usuários do Chat
+title: Adicionar ou remover usuários do chat
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Adicionar ou Remover Usuários do Chat {#add-or-remove-chat-users}
+# Adicionar ou remover usuários do chat {#add-or-remove-chat-users}
 
 Siga as etapas abaixo para adicionar ou remover usuários do chat.
 

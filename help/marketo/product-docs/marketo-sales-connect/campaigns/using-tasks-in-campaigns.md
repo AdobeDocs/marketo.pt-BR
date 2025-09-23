@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352619
 description: Uso de tarefas em campanhas - Documentação do Marketo - Documentação do produto
-title: Uso de Tarefas em Campanhas
+title: Uso de tarefas em campanhas
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Uso de Tarefas em Campanhas {#using-tasks-in-campaigns}
+# Uso de tarefas em campanhas {#using-tasks-in-campaigns}
 
 As tarefas são uma ferramenta eficiente ao enviar uma campanha para um contato, especialmente se o processo de vendas for multicanal/toque.
 

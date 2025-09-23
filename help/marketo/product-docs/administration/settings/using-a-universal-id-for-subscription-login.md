@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100311
 description: Uso de uma Universal ID para logon de assinatura - Documentação do Marketo - Documentação do produto
-title: Uso de uma Universal ID para logon de assinatura
+title: Uso de uma ID universal para logon de assinatura
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '569'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Uso de uma Universal ID para logon de assinatura {#using-a-universal-id-for-subscription-login}
+# Uso de uma ID universal para logon de assinatura {#using-a-universal-id-for-subscription-login}
 
 A Universal ID permite acessar várias assinaturas do Marketo com um único logon e alternar entre assinaturas rapidamente. No entanto, você pode usar logons diferentes para suas assinaturas, se desejar.
 

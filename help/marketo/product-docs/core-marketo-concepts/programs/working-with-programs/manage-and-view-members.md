@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147122
 description: Gerenciar e exibir membros - Documentação do Marketo - Documentação do produto
-title: Gerenciar e Exibir Membros
+title: Gerenciar e exibir membros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Gerenciar e Exibir Membros {#manage-and-view-members}
+# Gerenciar e exibir membros {#manage-and-view-members}
 
 É possível gerenciar e exibir membros em seus programas usando a guia Membros.
 

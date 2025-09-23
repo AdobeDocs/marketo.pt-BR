@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147358
 description: Adicionar um trecho a um email - Documentação do Marketo - Documentação do produto
-title: Adicionar um trecho a um email
+title: Adicionar um snippet a um email
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Adicionar um trecho a um email {#add-a-snippet-to-an-email}
+# Adicionar um snippet a um email {#add-a-snippet-to-an-email}
 
 Os trechos são blocos reutilizáveis de rich text e gráficos que podem ser usados em emails e landing pages.
 

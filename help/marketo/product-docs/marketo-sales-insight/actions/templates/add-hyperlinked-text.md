@@ -1,16 +1,16 @@
 ---
 description: Adicionar texto com hiperlink - Documentação do Marketo - Documentação do produto
-title: Adicionar texto hipervinculado
+title: Adicionar texto com hiperlink
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Adicionar texto hipervinculado {#add-hyperlinked-text}
+# Adicionar texto com hiperlink {#add-hyperlinked-text}
 
 Siga as etapas abaixo para saber como adicionar hiperlinks aos seus modelos de email.
 
@@ -18,7 +18,7 @@ Siga as etapas abaixo para saber como adicionar hiperlinks aos seus modelos de e
 
    ![](assets/add-hyperlinked-text-1.png)
 
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/add-hyperlinked-text-2.png)
 
@@ -26,7 +26,7 @@ Siga as etapas abaixo para saber como adicionar hiperlinks aos seus modelos de e
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR`). Escolha se deseja que a URL seja aberta na mesma janela ou em uma nova janela e clique em **[!UICONTROL Salvar]**.
+1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Escolha se deseja que a URL seja aberta na mesma janela ou em uma nova janela e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

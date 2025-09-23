@@ -3,14 +3,14 @@ description: Lista de verificação do banco de dados da instância herdada - Do
 title: Lista de Verificação do Banco de Dados da Instância Herdada
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Instância Herdada: Lista de Verificação do Banco de Dados {#inherited-instance-database-checklist}
+# Instância herdada: lista de verificação do banco de dados {#inherited-instance-database-checklist}
 
 Entenda o número total de pessoas, pessoas comercializáveis e as principais fontes de aquisição de pessoas na sua assinatura. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhar seu progresso.
 

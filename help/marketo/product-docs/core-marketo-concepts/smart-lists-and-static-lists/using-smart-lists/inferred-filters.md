@@ -4,10 +4,10 @@ description: Filtros inferidos - Documentação do Marketo - Documentação do p
 title: Filtros inferidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Quando alguém visita o seu site, o [Munchkin](/help/marketo/product-docs/admini
 >
 >Para garantir que os valores de campo inferidos permaneçam atualizados, atualizamos periodicamente o banco de dados usado para pesquisas de endereço IP. As atualizações do banco de dados podem apresentar novos valores de campo inferidos que talvez você precise adicionar às definições de filtro da Smart List.
 >
->Atualizações de banco de dados podem ocorrer durante uma [versão do produto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Quando ocorrer uma atualização, as [notas de versão do Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} conterão uma explicação de quaisquer alterações nos valores de campo inferidos.
+>As atualizações de banco de dados podem ocorrer durante uma [versão do produto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Quando ocorrer uma atualização, as [notas de versão do Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} conterão uma explicação de quaisquer alterações nos valores de campo inferidos.
 
 ![](assets/inferred-filters-1.png)
 

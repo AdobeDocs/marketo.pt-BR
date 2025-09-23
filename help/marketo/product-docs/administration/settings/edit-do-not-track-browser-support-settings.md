@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6095047
 description: Edite As Configurações De Suporte Ao Navegador "Não Rastrear" - Documentação Do Marketo - Documentação Do Produto
-title: Editar as configurações de suporte a navegador do tipo "Não rastrear"
+title: Editar as configurações de suporte “Não rastrear” do navegador
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Editar as configurações de suporte a navegador do tipo &quot;Não rastrear&quot; {#edit-do-not-track-browser-support-settings}
+# Editar as configurações de suporte “Não rastrear” do navegador {#edit-do-not-track-browser-support-settings}
 
 &quot;Do Not Track&quot; é uma solicitação de navegador para não ser rastreado em sistemas como o Marketo. Você pode atender a essa solicitação com as etapas a seguir.
 

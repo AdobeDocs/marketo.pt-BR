@@ -4,10 +4,10 @@ description: Definir um público-alvo importando uma lista - Documentação do M
 title: Definir um público-alvo importando uma lista
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
@@ -23,7 +23,7 @@ Depois de criar um programa de email, você deverá informar para quem enviar o 
 >
 >A definição do público só funcionará quando o programa de email não for aprovado.
 >
->Qualquer campo de data/hora que for importado será tratado como Hora central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para transformá-la na Hora Central (América/Chicago).
+>Qualquer campo de data/hora importado será tratado como Horário central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para convertê-los para o Horário central (América/Chicago).
 
 1. Vá para **[!UICONTROL Atividades de marketing]**.
 
@@ -66,7 +66,7 @@ Depois de criar um programa de email, você deverá informar para quem enviar o 
 >* Inscrição cancelada
 >* Campanha de marketing suspensa
 >* Incluído na lista de bloqueios
->* E-mail inválido
+>* Email inválido
 >* Email vazio
 >
 >Clique no número para obter uma lista detalhada de pessoas bloqueadas para emails.

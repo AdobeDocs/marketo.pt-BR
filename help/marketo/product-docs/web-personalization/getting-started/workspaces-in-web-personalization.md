@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727499
 description: Espaços de trabalho no Web Personalization - Documentação do Marketo - Documentação do produto
-title: Espaços de trabalho no Web Personalization
+title: Espaços de trabalho na personalização da web
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

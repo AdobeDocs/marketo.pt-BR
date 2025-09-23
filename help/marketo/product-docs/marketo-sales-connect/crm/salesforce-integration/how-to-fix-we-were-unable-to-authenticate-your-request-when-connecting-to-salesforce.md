@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352484
 description: Como corrigir o problema "Não foi possível autenticar sua solicitação" ao se conectar ao Salesforce - Documentação do Marketo - Documentação do produto
-title: Como corrigir o problema "Não foi possível autenticar sua solicitação" ao se conectar ao Salesforce
+title: Como corrigir o problema “Não foi possível autenticar sua solicitação” ao se conectar ao Salesforce
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45417092
 description: Exportação usada pelos dados para um campo - Documentação do Marketo - Documentação do produto
-title: Exportar dados usados por para um campo
+title: Exportar os dados “Usado por” de um campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Exportar dados usados por para um campo {#export-used-by-data-for-a-field}
+# Exportar os dados “Usado por” de um campo {#export-used-by-data-for-a-field}
 
 Como administrador, você pode exportar ativos relacionados de um campo para que possa delegar a desvinculação deles à sua equipe.
 

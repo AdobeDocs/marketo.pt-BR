@@ -1,16 +1,16 @@
 ---
 description: Modelo de email de início rápido - Documentação do Marketo - Documentação do produto
-title: Modelo de e-mail de início rápido
+title: Modelo de email de início rápido
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '565'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Modelo de e-mail de início rápido {#quick-start-email-template}
+# Modelo de email de início rápido {#quick-start-email-template}
 
 Alguns dos programas iniciais da Biblioteca de referência da Marketo Engage contêm um modelo de email simples, fácil de usar e personalizável que permite a criação rápida de emails em vários casos de uso de marketing.
 

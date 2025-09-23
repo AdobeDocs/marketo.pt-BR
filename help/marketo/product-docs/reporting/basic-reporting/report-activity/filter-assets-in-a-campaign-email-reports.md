@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360227
 description: Filtrar relatórios de e-mail do Assets em uma campanha - Documentação do Marketo - Documentação do produto
-title: Filtrar relatórios de email do Assets em uma campanha
+title: Filtrar ativos em relatórios de email de campanha
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Filtrar relatórios de email do Assets em uma campanha {#filter-assets-in-a-campaign-email-reports}
+# Filtrar ativos em relatórios de email de campanha {#filter-assets-in-a-campaign-email-reports}
 
 Concentre seu relatório de [Desempenho do email da campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) em [campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) específicas de seus programas (&#39;ativos locais&#39;) ou naquelas que foram arquivadas.
 

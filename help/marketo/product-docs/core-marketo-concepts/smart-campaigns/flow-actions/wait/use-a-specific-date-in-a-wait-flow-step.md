@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146976
 description: Use uma data específica em uma etapa do fluxo de espera - Documentação do Marketo - Documentação do produto
-title: Usar uma Data Específica em uma Etapa de Fluxo de Espera
+title: Usar uma data específica em uma etapa de espera do fluxo
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Usar uma Data Específica em uma Etapa de Fluxo de Espera {#use-a-specific-date-in-a-wait-flow-step}
+# Usar uma data específica em uma etapa de espera do fluxo {#use-a-specific-date-in-a-wait-flow-step}
 
 Você pode usar a etapa de fluxo &quot;[!UICONTROL Aguardar]&quot; para pausar a jornada de uma pessoa em uma Campanha Inteligente até uma data específica.
 

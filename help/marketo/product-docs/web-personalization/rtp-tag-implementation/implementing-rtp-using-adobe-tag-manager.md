@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720218
 description: Implementação do RTP usando o Adobe Tag Manager - Documentação do Marketo - Documentação do produto
-title: Implementação do RTP usando o Adobe Tag Manager
+title: Implementação do RTP usando o gerenciador de tags da Adobe
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Implementação do RTP usando o Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
+# Implementação do RTP usando o gerenciador de tags da Adobe {#implementing-rtp-using-adobe-tag-manager}
 
 Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 

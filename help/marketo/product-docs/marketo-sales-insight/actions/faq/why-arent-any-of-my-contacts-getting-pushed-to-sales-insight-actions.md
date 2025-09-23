@@ -1,12 +1,12 @@
 ---
-description: Por que nenhum dos meus contatos está sendo encaminhado para as ações de vendas do Insight? - Documentação do Marketo - Documentação do produto
-title: Por que nenhum dos meus contatos está sendo encaminhado para as ações de vendas do Insight?
+description: Por que nenhum dos meus contatos está sendo encaminhado para as ações de vendas do Insight? - Documentos do Marketo - Documentação do produto
+title: Por que nenhum dos meus contatos está sendo encaminhado para as Ações de insight de vendas?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 

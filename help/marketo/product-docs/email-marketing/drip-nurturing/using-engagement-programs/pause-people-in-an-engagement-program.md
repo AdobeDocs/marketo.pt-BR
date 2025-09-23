@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359949
 description: Pausar pessoas em um programa de engajamento - Documentação do Marketo - Documentação do produto
-title: Pausar Pessoas em um Programa de Envolvimento
+title: Pausar pessoas em um programa de engajamento
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Pausar Pessoas em um Programa de Envolvimento {#pause-people-in-an-engagement-program}
+# Pausar pessoas em um programa de engajamento {#pause-people-in-an-engagement-program}
 
 Quando uma pessoa é membro de um programa de envolvimento, ela receberá conteúdo até que ela [tenha esgotado todo o conteúdo](people-who-have-exhausted-content.md). Você pode usar a etapa de fluxo [[!UICONTROL Alterar cadência do programa de envolvimento]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) para impedir que as pessoas recebam conteúdo mesmo que ainda não tenham esgotado o conteúdo.
 

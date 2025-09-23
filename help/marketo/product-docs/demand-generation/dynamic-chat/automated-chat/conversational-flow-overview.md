@@ -3,10 +3,10 @@ description: Visão geral do fluxo de conversa - Documentação do Marketo - Doc
 title: Visão geral do fluxo de conversa
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -82,7 +82,7 @@ Na metade inferior da guia Configurações, personalize o acionador Conversas, t
 
 >[!TIP]
 >
->Veja [Conversas SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=pt-BR){target="_blank"} em ação!
+>Veja [Conversas SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} em ação!
 
 >[!MORELIKETHIS]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100266
 description: Noções básicas sobre atividades personalizadas - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre atividades personalizadas
+title: Noções básicas de atividades personalizadas
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# Noções básicas sobre atividades personalizadas {#understanding-custom-activities}
+# Noções básicas de atividades personalizadas {#understanding-custom-activities}
 
 Monitore, com atividades personalizadas, uma ação específica de sua empresa empreendida por uma pessoa.
 

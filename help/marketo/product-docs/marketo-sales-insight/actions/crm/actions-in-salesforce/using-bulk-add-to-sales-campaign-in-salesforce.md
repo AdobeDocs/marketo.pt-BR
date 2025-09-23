@@ -1,15 +1,15 @@
 ---
 description: Uso de inclusão em massa na campanha de vendas no Salesforce - Documentação do Marketo - Documentação do produto
-title: Utilização de inclusão em massa para a campanha de vendas no Salesforce
+title: Uso do recurso “Adicionar em massa” na campanha de vendas do Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Utilização de inclusão em massa para a campanha de vendas no Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
+# Uso do recurso “Adicionar em massa” na campanha de vendas do Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
 
 Saiba como adicionar itens em massa ao Sales Campaign no Salesforce para ajudar a dimensionar a comunicação de saída usando as Ações de vendas.
 

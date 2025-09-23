@@ -1,16 +1,16 @@
 ---
 description: Programa de evento EV-YYYY-MM-DD - Documentação do Marketo - Documentação do produto
-title: Programa de eventos EV-AAAA-MM-DD
+title: EV-DD-MM-AAAA-Programa de evento
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 16%
+ht-degree: 22%
 
 ---
 
-# Programa de eventos EV-AAAA-MM-DD {#ev-yyyy-mm-dd-event-program}
+# EV-DD-MM-AAAA-Programa de evento {#ev-yyyy-mm-dd-event-program}
 
 Este é um exemplo de um programa de evento com uma página de registro, três emails de convite e emails de acompanhamento utilizando um Programa de evento do Marketo Engage. Adequado para todos os eventos em que você precisa de inscrições, incluindo shows, almoços, jantares ou apresentações em eventos de feiras comerciais.
 
@@ -50,37 +50,37 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
    <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>02a- Email - Convite</td>
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>02b - Email - Lembrete de convite</td>
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>02c- Email - Lembrete de Convite Última Chance</td>
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>03 - Email - Lembrete de participação</td>
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>04a - Email - Acompanhamento - Participou</td>
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>04b - Email - Acompanhamento - NãoMostrar</td>
   </tr>
   <tr>

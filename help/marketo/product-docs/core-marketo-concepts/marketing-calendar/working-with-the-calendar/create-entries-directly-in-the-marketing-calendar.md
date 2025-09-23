@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953348
 description: Crie entradas diretamente no Calendário de marketing - Documentação do Marketo - Documentação do produto
-title: Criar entradas diretamente no Calendário de marketing
+title: Criar entradas diretamente no calendário de marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 3%
+ht-degree: 14%
 
 ---
 
-# Criar entradas diretamente no Calendário de marketing {#create-entries-directly-in-the-marketing-calendar}
+# Criar entradas diretamente no calendário de marketing {#create-entries-directly-in-the-marketing-calendar}
 
 O Marketo permite criar entradas diretamente no seu Calendário de marketing usando o modo de foco do programa. Você pode criar os seguintes tipos de entrada:
 
 * Entradas básicas
 * Entradas Personalizadas
-* Programas de e-mail
+* Programas de email
 * Campanhas inteligentes
 
 1. Clique no bloco **[!UICONTROL Calendário]**.

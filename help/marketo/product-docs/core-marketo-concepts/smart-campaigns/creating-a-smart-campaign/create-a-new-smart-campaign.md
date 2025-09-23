@@ -4,16 +4,16 @@ description: Criar uma nova campanha inteligente - Documentação do Marketo - D
 title: Criar uma nova campanha inteligente
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Criar uma nova campanha inteligente {#create-a-new-smart-campaign}
 
-As Campanhas inteligentes são a ferramenta mais importante do Marketo Engage. Eles podem acionar uma pessoa e executar ações ou totalizar milhões de pessoas e executar uma série de etapas de fluxo.
+As Campanhas inteligentes são a ferramenta mais importante no Marketo Engage. Eles podem acionar uma pessoa e executar ações ou totalizar milhões de pessoas e executar uma série de etapas de fluxo.
 
 >[!TIP]
 >

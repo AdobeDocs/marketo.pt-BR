@@ -1,16 +1,16 @@
 ---
 description: Enviar uma mensagem SMS - Documentação do Marketo - Documentação do produto
-title: Enviar uma mensagem SMS
+title: Enviar uma mensagem de SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Enviar uma mensagem SMS {#send-a-vibes-sms-message}
+# Enviar uma mensagem de SMS {#send-a-vibes-sms-message}
 
 Você [criou sua mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, agora é hora de enviá-la. Você pode enviá-lo por Lote ou Acionar a campanha.
 
@@ -18,7 +18,7 @@ Você [criou sua mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes
 >
 >Ao enviar mensagens SMS:
 >
->* Desduplicação de Marketo Engage por número de telefone. Assim, se várias pessoas tiverem o mesmo número de telefone, somente uma pessoa receberá a mensagem se for membro de apenas uma lista de assinaturas Vibes. A desduplicação é feita no nível da lista de assinaturas Vibes, não no nível do programa Marketo.
+>* A Marketo Engage elimina a duplicação por número de telefone. Assim, se várias pessoas tiverem o mesmo número de telefone, somente uma pessoa receberá a mensagem se for membro de apenas uma lista de assinaturas Vibes. A desduplicação é feita no nível da lista de assinaturas Vibes, não no nível do programa Marketo.
 >* O Marketo incluir na lista de bloqueios não enviará para as pessoas que estão aprovadas ou com suspensão de marketing.
 >* Uma mensagem SMS não enviará a ninguém que tenha cancelado a assinatura se não estiver na lista do banco de dados móvel do Vibes.
 

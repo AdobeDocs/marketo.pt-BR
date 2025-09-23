@@ -4,10 +4,10 @@ description: Noções básicas sobre programas de engajamento - Documentação d
 title: Noções básicas sobre programas de engajamento
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
@@ -54,7 +54,7 @@ Há dois tipos de **conteúdo** que você pode adicionar aos fluxos do programa 
 >* [Remover conteúdo do fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Arquivar e Desarquivar Conteúdo de Fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## Elenco {#cast}
+## Transmissão {#cast}
 
 Um **cast** é o evento de enviar emails de um Programa de Envolvimento.
 

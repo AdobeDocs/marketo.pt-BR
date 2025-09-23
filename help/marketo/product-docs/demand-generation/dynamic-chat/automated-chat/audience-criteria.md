@@ -1,16 +1,16 @@
 ---
 description: Critérios de público-alvo - Documentação do Marketo - Documentação do produto
-title: Critérios de público
+title: Critérios de público-alvo
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
 
 ---
 
-# Critérios de público {#audience-criteria}
+# Critérios de público-alvo {#audience-criteria}
 
 Semelhante às Smart Lists do Marketo Engage, os atributos de Critérios de público-alvo permitem definir o público-alvo. Você pode direcionar pessoas conhecidas ou desconhecidas usando atributos inferidos, de pessoa ou de empresa (ou uma combinação desses atributos).
 

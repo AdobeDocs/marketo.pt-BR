@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359420
 description: Drip, Drip, Nurture — Documentação do Marketo — Documentação do produto
-title: Promoção gota a gota
+title: Estímulo gota a gota
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 22%
+source-wordcount: '466'
+ht-degree: 27%
 
 ---
 
-# Promoção gota a gota {#drip-drip-nurture}
+# Estímulo gota a gota {#drip-drip-nurture}
 
 ## Missão: Cuidar das pessoas que participaram de sua recente feira de negócios {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
 
@@ -19,12 +19,12 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
 
 >[!PREREQUISITES]
 >
->* [Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Etapa 1: &#x200B;criar um programa de envolvimento {#step-create-an-engagement-program}
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/drip-drip-nurture-1.png)
 
@@ -134,7 +134,7 @@ Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento u
 
 ## Etapa 6: adicionar uma pessoa de teste ao programa de envolvimento {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vá para a área **[!UICONTROL Banco de Dados]**.
+1. Acesse a área **[!UICONTROL Banco de dados]**.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -154,7 +154,7 @@ Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento u
 
    ![](assets/drip-drip-nurture-22.png)
 
-1. Missão concluída!
+1. Missão cumprida!
 
 1. Você deve receber um email na hora e cadência especificadas.
 
@@ -162,10 +162,10 @@ Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento u
    >
    >Saiba mais sobre [Programas de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
-## Missão concluída! {#mission-complete}
+## Missão cumprida! {#mission-complete}
 
 <br> 
 
-[Missão 5: Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ Missão 5: Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 [Missão 7: Personalizar um email ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

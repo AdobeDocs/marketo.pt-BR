@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949190
 description: SEO - Escolha a região/país do seu mecanismo de pesquisa - Documentação do Marketo - Documentação do produto
-title: SEO - Escolha a região/país para seu mecanismo de pesquisa
+title: SEO - Escolher a região/país para seu mecanismo de pesquisa
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# SEO - Escolha a região/país para seu mecanismo de pesquisa {#seo-pick-region-country-for-your-search-engine}
+# SEO - Escolher a região/país para seu mecanismo de pesquisa {#seo-pick-region-country-for-your-search-engine}
 
 Os administradores de SEO poderão escolher a região do mecanismo de pesquisa na qual você gostaria de obter informações sobre a classificação de palavras-chave.
 

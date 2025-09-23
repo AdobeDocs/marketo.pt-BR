@@ -2,10 +2,10 @@
 description: Notas de versão - agosto de 2022 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Agosto de 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '512'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de agosto de 20
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2022**.
 

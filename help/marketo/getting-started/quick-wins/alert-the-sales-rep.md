@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359424
 description: Alertar o Representante de vendas - Documentação do Marketo - Documentação do produto
-title: Alertar o representante de vendas
+title: Alertar o(a) representante de vendas
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 9%
+ht-degree: 15%
 
 ---
 
-# Alertar o representante de vendas {#alert-the-sales-rep}
+# Alertar o(a) representante de vendas {#alert-the-sales-rep}
 
 ## Missão: alertar o representante de vendas quando uma pessoa preencher um formulário no seu site {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -23,7 +23,7 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
 ## Etapa 1: criar um email de alerta {#step-create-an-alert-email}
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/alert-the-sales-rep-1.png)
 
@@ -67,7 +67,7 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Clique no menu suspenso **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Aprovar e Fechar]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Aprovar e fechar]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
@@ -109,7 +109,7 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
    >
    >Defina as **[!UICONTROL Regras de qualificação]** para **[!UICONTROL sempre]** (editando a Campanha Inteligente) para permitir que a mesma pessoa acione alertas várias vezes.
 
-1. Clique em **[!UICONTROL Ativar]** na tela de confirmação.
+1. Clique em **[!UICONTROL Ativar]** na tela de confirmação.
 
    ![](assets/alert-the-sales-rep-20.png)
 
@@ -133,7 +133,7 @@ Para enviar automaticamente e-mails de alerta aos representantes de vendas, voc�
    >
    >Clique na guia **[!UICONTROL Informações da pessoa]** no Marketo para ver as informações de contato.
 
-## Missão concluída! {#mission-complete}
+## Missão cumprida! {#mission-complete}
 
 <br> 
 

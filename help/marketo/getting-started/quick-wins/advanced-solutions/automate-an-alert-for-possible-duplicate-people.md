@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7513680
 description: Automatizar um alerta para possíveis pessoas duplicadas - Documentação do Marketo - Documentação do produto
-title: Automatizar um Alerta para Possíveis Pessoas Duplicadas
+title: Automatizar um alerta sobre possíveis pessoas duplicadas
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Automatizar um Alerta para Possíveis Pessoas Duplicadas {#automate-an-alert-for-possible-duplicate-people}
+# Automatizar um alerta sobre possíveis pessoas duplicadas {#automate-an-alert-for-possible-duplicate-people}
 
 Deseja receber um alerta sempre que uma pessoa duplicada possível for criada? Veja como configurar uma Campanha inteligente para fazer isso.
 

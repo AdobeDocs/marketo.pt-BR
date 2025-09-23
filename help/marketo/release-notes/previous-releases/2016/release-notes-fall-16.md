@@ -3,14 +3,14 @@ unique-page-id: 11384018
 description: Notas de versão - Último trimestre de 2016 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Último trimestre de 2016
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 1%
 
 ---
 
-# Notas de versão: outono de 16 {#release-notes-fall}
+# Notas de versão: outono de 2016 {#release-notes-fall}
 
 Os seguintes recursos estão incluídos na versão do último trimestre de 2016. Verifique a edição do Marketo quanto à disponibilidade de recursos. Clique nos links de título para exibir artigos detalhados para cada recurso.
 

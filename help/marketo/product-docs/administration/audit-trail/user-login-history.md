@@ -4,10 +4,10 @@ description: Histórico de logon do usuário - Documentação do Marketo - Docum
 title: Histórico de logon do usuário
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
@@ -24,7 +24,7 @@ O Histórico de logon do usuário identifica as pessoas que fazem logon por:
 * Data e hora de logon
 * Nome e endereço de email do usuário
 * Função
-* Área de trabalho
+* Espaço de trabalho
 * Endereço IP
 
 Para exibir o Histórico de Login do Usuário:

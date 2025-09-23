@@ -1,18 +1,18 @@
 ---
 description: Novo Documento Adicionar Imagens - Documentação do Marketo - Documentação do produto
-title: Novo Documento Adicionar Imagens
+title: Novo documento Adicionar imagens
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# Novo Documento Adicionar Imagens {#new-add-images-doc}
+# Novo documento Adicionar imagens {#new-add-images-doc}
 
 Você tem várias opções para adicionar novos arquivos/imagens ao repositório Imagens e Arquivos.
 

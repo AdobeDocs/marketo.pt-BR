@@ -4,16 +4,16 @@ description: Importar um programa - Documentação do Marketo - Documentação d
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '551'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Importar um programa {#import-a-program}
 
-Um programa pode ser importado de uma assinatura de Marketo Engage para outra. Por exemplo, você pode criar um programa em uma sandbox e importá-lo para a sua assinatura em tempo real. Além disso, você pode importar um programa pré-criado da [Biblioteca de Programas da Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Um programa pode ser importado de uma assinatura do Marketo Engage para outra. Por exemplo, você pode criar um programa em uma sandbox e importá-lo para a sua assinatura em tempo real. Além disso, você pode importar um programa pré-criado da [Biblioteca de Programas da Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 >[!CAUTION]
 >

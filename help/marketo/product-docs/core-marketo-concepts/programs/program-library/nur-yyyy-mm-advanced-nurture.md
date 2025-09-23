@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Advanced Nurture - Documentação do Marketo - Documentação do produto
-title: NUR-AAAA-MM-Enfermagem Avançada
+title: NUR-MM-AAAA-Estímulo avançado
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# NUR-AAAA-MM-Enfermagem Avançada {#nur-yyyy-mm-advanced-nurture}
+# NUR-MM-AAAA-Estímulo avançado {#nur-yyyy-mm-advanced-nurture}
 
 Este é um exemplo de Programas de enfermagem avançados que utilizam o Programa de envolvimento da Marketo Engage. Os Programas de email aninhados impedem que as pessoas recebam conteúdo que já consumiram ou controlam o tipo de conteúdo que devem consumir em cada fluxo. O relatório de atribuição pode ser executado para cada Programa de email aninhado individual. Canais: &quot;Cuidar&quot;, e um canal dedicado &quot;Email de nutrição&quot; para os Programas de email aninhados envia um email de informativo utilizando um Programa de email do Marketo Engage. O email pode incluir ou não incluir um teste A/B.
 
@@ -70,17 +70,17 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>01 - Email (Ativo em programas aninhados)</td>
   </tr>
    <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>02 - Email (Ativo em programas aninhados)</td>
   </tr>
    <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>03 - Email (Ativo em programas aninhados)</td>
   </tr>
   <tr>

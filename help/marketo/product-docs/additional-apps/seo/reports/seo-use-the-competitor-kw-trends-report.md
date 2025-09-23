@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949270
 description: SEO - Use o Relatório de tendências do KW do concorrente - Documentação do Marketo - Documentação do produto
-title: SEO - Uso do Relatório de Tendências do KW Concorrente
+title: SEO - Uso do relatório de tendências de palavra-chave do concorrente
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# SEO - Uso do Relatório de Tendências do KW Concorrente {#seo-use-the-competitor-kw-trends-report}
+# SEO - Uso do relatório de tendências de palavra-chave do concorrente {#seo-use-the-competitor-kw-trends-report}
 
 Neste relatório, você pode ver como você e seus concorrentes são classificados em palavras-chave ao longo do tempo.
 

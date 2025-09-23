@@ -4,10 +4,10 @@ description: Criar um email somente de texto - Documentação do Marketo - Docum
 title: Criar um email somente texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
 >
 >Como as aberturas são rastreadas pelo destinatário que está baixando as imagens do email (o que inclui um pixel de rastreamento invisível), as aberturas **não** podem ser rastreadas para emails Somente texto.
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
 
    ![](assets/two-1.png)
 
-1. Selecione **[!UICONTROL Email]**.
+1. Selecione **[!UICONTROL Email]**.
 
    ![](assets/three-1.png)
 

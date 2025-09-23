@@ -1,16 +1,16 @@
 ---
 description: Envio de email único em AAAA-MM-DD-Marketo - Documentação do produto
-title: EM-AAAA-MM-DD-Envio de único email
+title: EM-DD-MM-AAAA-Envio de email único
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
-# EM-AAAA-MM-DD-Envio de único email {#em-yyyy-mm-dd-single-email-send}
+# EM-DD-MM-AAAA-Envio de email único {#em-yyyy-mm-dd-single-email-send}
 
 Este exemplo envia um único email utilizando um Programa de email do Marketo Engage. O email pode incluir ou não incluir um teste A/B.
 
@@ -47,7 +47,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
   <tr>

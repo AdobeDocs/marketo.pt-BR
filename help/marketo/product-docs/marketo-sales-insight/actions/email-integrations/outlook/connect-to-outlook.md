@@ -2,10 +2,10 @@
 description: Conectar-se ao Outlook - Documentação do Marketo - Documentação do produto
 title: Conectar ao Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ Conectar-se ao Outlook significa que você receberá rastreamento de resposta, a
 
    ![](assets/connect-to-outlook-3.png)
 
-1. Clique em **Introdução**.
+1. Clique em **Começar**.
 
    ![](assets/connect-to-outlook-4.png)
 
@@ -96,7 +96,7 @@ Conectar-se ao Exchange no local significa que você receberá rastreamento de r
 
    ![](assets/connect-to-outlook-12.png)
 
-1. Clique em **Introdução**.
+1. Clique em **Começar**.
 
    ![](assets/connect-to-outlook-13.png)
 

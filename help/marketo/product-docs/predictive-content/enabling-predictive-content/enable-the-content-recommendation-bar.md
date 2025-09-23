@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720108
 description: Ativar a Barra de recomendação de conteúdo - Documentação do Marketo - Documentação do produto
-title: Ativar a Barra de recomendação de conteúdo
+title: Habilitar a barra de recomendação de conteúdo
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Ativar a Barra de recomendação de conteúdo {#enable-the-content-recommendation-bar}
+# Habilitar a barra de recomendação de conteúdo {#enable-the-content-recommendation-bar}
 
 O Content Recommendation Engine usa análises preditivas e algoritmos de aprendizado de máquina para fornecer conteúdo relevante a cada visitante da Web. O mecanismo de recomendação prevê qual conteúdo teria melhor desempenho por visitante. O conteúdo do mecanismo é monitorado e controlado na página Recommendations, que ajuda a otimizar o ROI do conteúdo.
 

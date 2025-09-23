@@ -3,20 +3,20 @@ description: Verificação de email - Documentação do Marketo - Documentação
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '469'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Verificação de email {#email-verification}
 
-As assinaturas do Adobe Marketo Engage exigem que todos os usuários que não sejam somente API, incluindo administradores de Marketo Engage, verifiquem seus endereços de email.
+As assinaturas do Adobe Marketo Engage exigem que todos os usuários não API, incluindo administradores do Marketo Engage, verifiquem seus endereços de email.
 
 ## Por Que Esse Recurso Foi Introduzido {#why-this-feature-was-introduced}
 
-O Marketo Engage continua a implementação da Verificação de email como preparo para migrar clientes para a Plataforma comercial Adobe, incluindo a migração de usuários para IDs Adobe. Esse recurso melhora a segurança das contas de usuário Marketo Engage existentes. Para garantir que um usuário de Marketo Engage esteja associado ao Adobe ID adequado, os usuários existentes de Marketo Engage devem verificar seu endereço de email. Um usuário do Marketo Engage deve ter um endereço de email verificado para ser migrado para um Adobe ID. Se um usuário do Marketo Engage não verificar seu endereço de email, ele não poderá ser migrado para uma Adobe ID e perderá o acesso a uma assinatura do Marketo após a conclusão da migração do usuário para a assinatura.
+A Marketo Engage está continuando a implantação da Verificação de email como preparação para migrar clientes para a Adobe Business Platform, incluindo a migração de usuários para Adobe IDs. Esse recurso melhora a segurança das contas de usuário existentes do Marketo Engage. Para garantir que um usuário do Marketo Engage esteja associado à Adobe ID adequada, os usuários existentes do Marketo Engage devem verificar seu endereço de email. Um usuário do Marketo Engage deve ter um endereço de email verificado para ser migrado para um Adobe ID. Se um usuário do Marketo Engage não verificar seu endereço de email, não poderá migrar para uma Adobe ID e perderá o acesso a uma assinatura do Marketo após a conclusão da migração do usuário para a assinatura.
 
 ## Convite de usuário {#user-invite}
 

@@ -4,14 +4,14 @@ description: Instale o plug-in de email Sales Connect para Outlook - Documentaç
 title: Instalar o Plug-in de Email do Sales Connect para Outlook
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Instalar o Plug-in de Email do Sales Connect para Outlook (Online, Mac e Windows) {#install-the-sales-connect-email-plugin-for-outlook}
+# Instalar o plug-in de email do Sales Connect para Outlook (Online, Mac e Windows) {#install-the-sales-connect-email-plugin-for-outlook}
 
 Criamos uma integração com [!DNL Outlook Web Apps]. [!DNL Outlook Web Apps] é uma versão de [!DNL Outlook] fornecida com a assinatura [!DNL Office 365]. Como é baseado em navegador, a integração funcionará no Mac e no [!DNL Windows]. [Clique aqui para obter o guia de instalação completo](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 

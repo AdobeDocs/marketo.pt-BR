@@ -3,7 +3,7 @@ description: Métricas e dimensões - Documentação do Marketo - Documentação
 title: Métricas e dimensões
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 27%
@@ -35,7 +35,7 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
       <th> </th>
     </tr>
     <tr>
-      <td>Análise de e-mails</td>
+      <td>Análise de emails</td>
       <td>
         <ul>
           <li>Período Trimestral</li>
@@ -319,7 +319,7 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
             <li>Registrar tipo de Source</li>
             <li>Inscrição cancelada</li>
             <li>Endereço de email</li>
-            <li>E-mail inválido</li>
+            <li>Email inválido</li>
             <li>Endereço de e-mail do proprietário do lead</li>
             <li>Nome do cargo do proprietário do lead</li>
             <li>Nome do Proprietário Cliente Potencial</li>
@@ -510,9 +510,9 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
     <tr>
       <td>
           <ul>
-            <li>Ano</li>
+            <li>Year</li>
             <li>Trimestre</li>
-            <li>Mês</li>
+            <li>Month</li>
             <li>Semana</li>
             <li>Data</li>
           </ul>

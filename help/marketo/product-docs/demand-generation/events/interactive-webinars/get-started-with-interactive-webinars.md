@@ -1,16 +1,16 @@
 ---
 description: Introdução aos webinários interativos - Documentação do Marketo - Documentação do produto
-title: Introdução aos webinários interativos
+title: Introdução a webinários interativos
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Introdução aos webinários interativos {#get-started-with-interactive-webinars}
+# Introdução a webinários interativos {#get-started-with-interactive-webinars}
 
 Você leu a [Visão geral dos webinários interativos](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} e está pronto para mergulhar. Siga as etapas abaixo para começar.
 

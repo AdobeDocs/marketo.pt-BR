@@ -4,20 +4,20 @@ description: Notas de versão - 20 de fevereiro - Documentação do Marketo - Do
 title: Notas de versão - fevereiro de 20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 2%
 
 ---
 
-# Notas de versão: fevereiro de 20 {#release-notes-feb}
+# Notas de versão: fevereiro de 2020 {#release-notes-feb}
 
 Os seguintes recursos estão incluídos na versão de fevereiro de 2020. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela ( ![(estrela)](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela ( ![(estrela)](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 **_Versões Trimestrais_** Os seguintes recursos foram lançados em **21 de fevereiro de 2020**.
 
@@ -59,4 +59,4 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 * **Parâmetro &quot;_method&quot; da API de ativos**: a partir de setembro de 2020, os endpoints da API de ativos não aceitarão mais &quot;_method&quot; para transmitir os Parâmetros de consulta em um corpo POST para ignorar as limitações de comprimento de URI. Para acomodar solicitações que exigem esse parâmetro, o limite do URI para APIs de ativos será aumentado de 6 KiB para 65 KiB, para que URIs de solicitações longas possam ser enviadas.
 * **Desativação do suporte ao Internet Explorer**: a partir do lançamento realizado em 31 de julho de 2020, a interface do usuário do Marketo Engage não será mais compatível com o Internet Explorer.
 
-**_Webinar de versão do produto_** [Junte-se a nós](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) em 3 de março às 11:00 (PT) / 2:00 (ET) para um webinário ao vivo hospedado por nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.
+**_Webinário de lançamento do produto_** [Junte-se a nós](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) em 3 de março às 11:00AM PT / 2:00PM ET para um webinário ao vivo hospedado por nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.

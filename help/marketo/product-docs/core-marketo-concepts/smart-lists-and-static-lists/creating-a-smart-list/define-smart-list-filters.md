@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557316
 description: Definir Filtros De Smart List - Documentação Do Marketo - Documentação Do Produto
-title: Definir filtros da lista inteligente
+title: Definir filtros de lista inteligente
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Definir filtros da lista inteligente {#define-smart-list-filters}
+# Definir filtros de lista inteligente {#define-smart-list-filters}
 
 >[!PREREQUISITES]
 >

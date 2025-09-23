@@ -4,10 +4,10 @@ description: Criar uma partição de pessoa - Documentação do Marketo - Docume
 title: Criar uma partição de pessoa
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 description: Visão geral da sincronização do Campaign - Documentação do Marketo - Documentação do produto
-title: Visão geral da sincronização do Campaign
+title: Visão geral de sincronização de campanhas
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Visão geral da sincronização do Campaign {#campaign-sync-overview}
+# Visão geral de sincronização de campanhas {#campaign-sync-overview}
 
 Como parte da Sincronização do Campaign, os usuários podem configurar a automação para operar na associação de uma campanha [!DNL Dynamics]. Clientes potenciais qualificados para comportamentos ou demografia específicos podem fazer parte das campanhas do Microsoft.
 

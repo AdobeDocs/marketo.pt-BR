@@ -4,10 +4,10 @@ description: Criar um segmento usando uma lista estática - Documentação do Ma
 title: Criar um segmento usando uma lista estática
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 3%
+ht-degree: 11%
 
 ---
 

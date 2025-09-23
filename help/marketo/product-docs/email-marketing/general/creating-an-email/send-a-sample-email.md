@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147352
 description: Enviar um email de amostra - Documentação do Marketo - Documentação do produto
-title: Enviar um email de amostra
+title: Enviar email de exemplo
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Enviar um email de amostra {#send-a-sample-email}
+# Enviar email de exemplo {#send-a-sample-email}
 
 É rápido e fácil enviar amostras de um email. Para enviar um email de conteúdo dinâmico, consulte [Visualizar um Email com Conteúdo Dinâmico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Você deve ter a permissão **Acessar Banco de Dados - Executar Ações de Fluxo Único** para enviar emails de amostra.
 
-## Enviar um email de amostra {#send-a-sample-email-1}
+## Enviar email de exemplo {#send-a-sample-email-1}
 
 1. Localize e selecione seu email. Clique no menu suspenso **[!UICONTROL Ações de email]** e selecione **[!UICONTROL Enviar Amostra]**.
    ![](assets/one-281-29.jpg)
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting).
+   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar um email de amostra com base em um segmento {#send-a-sample-email-based-on-a-segment}
 

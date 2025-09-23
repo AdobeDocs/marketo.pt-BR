@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360429
 description: Relatório sobre seu modelo de receita - Documentação do Marketo - Documentação do produto
-title: Relatório sobre seu modelo de receita
+title: Relatório sobre o modelo de receita
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Relatório sobre seu modelo de receita {#report-on-your-revenue-model}
+# Relatório sobre o modelo de receita {#report-on-your-revenue-model}
 
 Para cada modelo de ciclo de receita, é possível gerar um relatório sobre quantos leads estão em cada estágio.
 

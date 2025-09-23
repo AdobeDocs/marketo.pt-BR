@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953120
 description: Noções básicas sobre campanhas inteligentes - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre campanhas inteligentes
+title: Noções básicas sobre as campanhas inteligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
-# Noções básicas sobre campanhas inteligentes {#understanding-smart-campaigns}
+# Noções básicas sobre as campanhas inteligentes {#understanding-smart-campaigns}
 
 Se pensarmos no Marketo Engage como um carro, a campanha inteligente seria o seu motor. Campanhas inteligentes são mais úteis do que você pode imaginar, além de serem fáceis de se utilizar.
 

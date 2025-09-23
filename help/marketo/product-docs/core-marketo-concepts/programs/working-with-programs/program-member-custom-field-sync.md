@@ -3,7 +3,7 @@ description: Sincronização de campo personalizado do membro do programa - Docu
 title: Sincronizar campos personalizados de membros de programas
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 12%

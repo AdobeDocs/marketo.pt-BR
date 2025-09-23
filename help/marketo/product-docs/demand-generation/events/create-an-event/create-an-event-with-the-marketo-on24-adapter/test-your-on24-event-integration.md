@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096677
 description: Teste a integração do evento ON24 - Documentação do Marketo - Documentação do produto
-title: Teste a integração do evento ON24
+title: Teste a integração de evento do ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Teste a integração do evento ON24 {#test-your-on-event-integration}
+# Teste a integração de evento do ON24 {#test-your-on-event-integration}
 
 Certifique-se de testar completamente a integração do evento.
 

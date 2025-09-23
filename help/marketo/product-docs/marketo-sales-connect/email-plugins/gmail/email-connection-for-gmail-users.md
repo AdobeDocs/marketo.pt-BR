@@ -4,10 +4,10 @@ description: Conexão de email para usuários do Gmail - Documentação do Marke
 title: Conexão de email para usuários do Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -31,7 +31,7 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
    ![](assets/three.png)
 
-1. Clique em **[!UICONTROL Introdução]**.
+1. Clique em **[!UICONTROL Começar]**.
 
    ![](assets/four.png)
 

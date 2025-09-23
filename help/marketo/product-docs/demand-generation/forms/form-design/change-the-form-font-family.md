@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359608
 description: Alterar a família de fontes do formulário - Documentação do Marketo - Documentação do produto
-title: Alterar a Família de Fontes do Formulário
+title: Alterar a família de fontes do formulário
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Alterar a Família de Fontes do Formulário {#change-the-form-font-family}
+# Alterar a família de fontes do formulário {#change-the-form-font-family}
 
 As Google Fonts são incríveis, e as criamos no editor de formulários. Dê uma olhada!
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097447
 description: Painel de banco de dados - Documentação do Marketo - Documentação do produto
-title: Painel do Banco de Dados
+title: Painel de banco de dados
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Painel do Banco de Dados {#database-dashboard}
+# Painel de banco de dados {#database-dashboard}
 
 O Painel de controle do banco de dados serve como um instantâneo para ajudá-lo a determinar rapidamente os principais atributos sobre suas pessoas em um espaço de trabalho.
 

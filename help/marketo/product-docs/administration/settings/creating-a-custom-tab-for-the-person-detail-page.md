@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360305
 description: Criação de uma guia personalizada para a página de detalhes da pessoa - Documentação do Marketo - Documentação do produto
-title: Criando uma Guia Personalizada para a Página Detalhes da Pessoa
+title: Criar uma guia personalizada para a página Detalhes da pessoa
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Criando uma Guia Personalizada para a Página Detalhes da Pessoa {#creating-a-custom-tab-for-the-person-detail-page}
+# Criar uma guia personalizada para a página Detalhes da pessoa {#creating-a-custom-tab-for-the-person-detail-page}
 
 Se você estiver procurando um conjunto específico de campos nos detalhes da pessoa repetidamente, considere criar um layout personalizado para facilitar as coisas.
 

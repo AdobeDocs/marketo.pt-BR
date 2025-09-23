@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504058
 description: Clonar uma apresentação — Documentação do Marketo — Documentação do produto
-title: Clonar uma Apresentação
+title: Clonar uma apresentação
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Clonar uma Apresentação {#clone-a-presentation}
+# Clonar uma apresentação {#clone-a-presentation}
 
 Clonar uma apresentação para reutilização em locais diferentes.
 

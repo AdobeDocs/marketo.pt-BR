@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953417
 description: Noções básicas sobre conteúdo dinâmico - Documentação do Marketo - Documentação do produto
-title: Compreensão do conteúdo dinâmico
+title: Noções básicas sobre conteúdo dinâmico
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Compreensão do conteúdo dinâmico {#understanding-dynamic-content}
+# Noções básicas sobre conteúdo dinâmico {#understanding-dynamic-content}
 
 A personalização é muito mais do que apenas &quot;Olá, `{{First_Name}}`&quot;. Com o conteúdo dinâmico do Marketo, você pode personalizar como pessoas diferentes veem uma página de aterrissagem ou email.
 
@@ -37,7 +37,7 @@ Depois de criar diferentes segmentos, você pode adicionar blocos de conteúdo d
 
 ![](assets/artboard-3.png)
 
-## Bl. conteúdo {#snippets}
+## Snippets {#snippets}
 
 Os [trechos](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) são uma ferramenta útil no Marketo. Crie uma vez e use-a em vários lugares! Se você atualizar o trecho, todos os ativos (landing pages ou emails) que usam o trecho serão atualizados automaticamente.
 
@@ -46,7 +46,7 @@ Os [trechos](/help/marketo/product-docs/personalization/segmentation-and-snippet
 >**Exemplo**
 >
 >* Você pode usar um trecho como assinatura em um email. Altere dinamicamente o texto dependendo da localização do recipient.
->* Nas páginas de aterrissagem, tenha uma área de chamada para ação padrão com links diferentes para clientes e clientes potenciais. Atualize centenas de LPs centralmente.
+>* Nas páginas de aterrissagem, tenha uma área padrão do call-to-action com links diferentes para clientes e clientes potenciais. Atualize centenas de LPs centralmente.
 
 Experimente e conte-nos sua história de sucesso!
 

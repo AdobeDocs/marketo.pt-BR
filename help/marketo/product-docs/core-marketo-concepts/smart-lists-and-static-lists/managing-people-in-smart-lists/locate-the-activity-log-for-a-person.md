@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472404
 description: Localizar o registro de atividades de uma pessoa - Documentação do Marketo - Documentação do produto
-title: Localizar o Log de Atividades de uma Pessoa
+title: Localizar o log de atividades de uma pessoa
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Localizar o Log de Atividades de uma Pessoa {#locate-the-activity-log-for-a-person}
+# Localizar o log de atividades de uma pessoa {#locate-the-activity-log-for-a-person}
 
-O registro de atividades é a fonte definitiva da verdade. Esta é a história completa da jornada de uma pessoa em Marketo Engage.
+O registro de atividades é a fonte definitiva da verdade. Esta é a história completa da jornada de uma pessoa no Marketo Engage.
 
 1. Vá para o **[!UICONTROL Banco de Dados]**.
 
@@ -23,7 +23,7 @@ O registro de atividades é a fonte definitiva da verdade. Esta é a história c
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Clique na guia **[!UICONTROL Pessoas]**. Selecione um número de pessoa **[!UICONTROL Id]**.
+1. Clique na guia **[!UICONTROL Pessoas]**: Selecione um número de pessoa **[!UICONTROL Id]**.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 

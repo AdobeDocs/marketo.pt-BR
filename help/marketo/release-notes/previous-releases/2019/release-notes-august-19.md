@@ -4,14 +4,14 @@ description: Notas de versão - 19 de agosto - Documentação do Marketo - Docum
 title: Notas de versão - agosto de 2019
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 3%
+source-wordcount: '325'
+ht-degree: 4%
 
 ---
 
-# Notas de versão: agosto de 19 {#release-notes-august}
+# Notas de versão: agosto de 2019 {#release-notes-august}
 
 Os seguintes recursos estão incluídos na versão de agosto de 2019. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
@@ -50,4 +50,4 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados duran
 >
 >**Para manter o acesso ao Marketo Engage, verifique se todos os sistemas cliente são compatíveis com TLS 1.2 antes de 13 de dezembro de 2019**. Você encontra informações mais detalhadas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar de versão do produto_** [Junte-se a nós](https://engage.marketo.com/August_19_Release_Webinar.html) em 28 de agosto às 13h (PT) / 16h (ET) para um webinário ao vivo hospedado por nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.
+**_Webinar de versão do produto_** [Junte-se a nós](https://engage.marketo.com/August_19_Release_Webinar.html) em 28 de agosto às 1:00PM PT / 4:00PM ET para um webinário ao vivo hospedado por nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.

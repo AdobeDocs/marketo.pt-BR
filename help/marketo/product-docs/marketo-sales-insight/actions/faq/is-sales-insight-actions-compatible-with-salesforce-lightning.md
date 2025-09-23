@@ -1,14 +1,14 @@
 ---
-description: As ações de vendas do Insight são compatíveis com o Salesforce Lightning? - Documentação do Marketo - Documentação do produto
-title: As ações de vendas do Insight são compatíveis com o Salesforce Lightning?
+description: As ações de vendas do Insight são compatíveis com o Salesforce Lightning? - Documentos do Marketo - Documentação do produto
+title: O recurso Ações de insight de vendas é compatível com o Salesforce Lightning?
 hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 

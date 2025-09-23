@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953352
 description: Editar entradas diretamente no Calendário de marketing - Documentação do Marketo - Documentação do produto
-title: Editar Entradas Diretamente no Calendário de Marketing
+title: Editar entradas diretamente no calendário de marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Editar Entradas Diretamente no Calendário de Marketing {#edit-entries-directly-in-the-marketing-calendar}
+# Editar entradas diretamente no calendário de marketing {#edit-entries-directly-in-the-marketing-calendar}
 
 Quando estiver no modo de foco do programa, você poderá fazer rapidamente alterações nas entradas do calendário. Veja como.
 

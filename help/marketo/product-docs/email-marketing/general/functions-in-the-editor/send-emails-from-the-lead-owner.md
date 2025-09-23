@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147340
 description: Enviar emails do proprietário principal - Documentação do Marketo - Documentação do produto
-title: Enviar Emails do Proprietário Principal
+title: Enviar emails do proprietário de leads
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Enviar Emails do Proprietário Principal {#send-emails-from-the-lead-owner}
+# Enviar emails do proprietário de leads {#send-emails-from-the-lead-owner}
 
 E se você quiser enviar um email para um cliente potencial em nome do Proprietário do cliente potencial?  Veja como.
 

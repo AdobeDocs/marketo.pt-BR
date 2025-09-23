@@ -4,10 +4,10 @@ description: Use o painel do programa de email - Exibição de teste A/B - Docum
 title: Usar o painel do programa de email - Exibição de teste A/B
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 6%
+ht-degree: 22%
 
 ---
 

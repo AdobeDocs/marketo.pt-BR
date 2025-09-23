@@ -1,16 +1,16 @@
 ---
 description: Visão geral do Live Chat - Documentação do Marketo - Documentação do produto
-title: Visão geral do bate-papo ao vivo
+title: Visão geral do chat ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '842'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Visão geral do bate-papo ao vivo {#live-chat-overview}
+# Visão geral do chat ao vivo {#live-chat-overview}
 
 O bate-papo ao vivo permite que os visitantes do site se envolvam em conversas de bate-papo em tempo real com seus agentes de vendas.
 

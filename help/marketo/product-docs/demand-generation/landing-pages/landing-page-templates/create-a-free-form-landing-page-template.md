@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097969
 description: Criar um modelo de página de aterrissagem de forma livre - Documentação do Marketo - Documentação do produto
-title: Criar um modelo de página de aterrissagem de forma livre
+title: Criar um modelo de página de destino de forma livre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Criar um modelo de página de aterrissagem de forma livre {#create-a-free-form-landing-page-template}
+# Criar um modelo de página de destino de forma livre {#create-a-free-form-landing-page-template}
 
 Páginas de aterrissagem de forma livre exigem menos conhecimento técnico do que seus homólogos guiados. Para criar um template para landing pages futuras, siga as etapas abaixo.
 

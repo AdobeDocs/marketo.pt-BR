@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360247
 description: Altere o padrão de Email e Rótulo de origem - Documentação do Marketo - Documentação do produto
-title: Alterar o padrão de email e rótulo de
+title: Alterar o email padrão e rótulo de remetente
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Alterar o padrão de email e rótulo de {#change-the-default-from-email-and-from-label}
+# Alterar o email padrão e rótulo de remetente {#change-the-default-from-email-and-from-label}
 
 Cada usuário administrador tem a capacidade de alterar os valores padrão de **[!UICONTROL Do email]** e **[!UICONTROL Do rótulo]** para que, quando criarem novos emails, esses padrões sejam usados.
 

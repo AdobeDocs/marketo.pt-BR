@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978906
 description: Defina Como A Campanha Da Web Será Exibida - Documentação Do Marketo - Documentação Do Produto
-title: Defina Como A Campanha Da Web Será Exibida
+title: Definir como a campanha da web será exibida
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Defina Como A Campanha Da Web Será Exibida {#set-how-your-web-campaign-displays}
+# Definir como a campanha da web será exibida {#set-how-your-web-campaign-displays}
 
 Há vários métodos para utilizar quando/como sua campanha da Web é exibida.
 

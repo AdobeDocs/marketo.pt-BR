@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147051
 description: Lista de verificação do Smart Campaign - Documentação do Marketo - Documentação do produto
-title: Lista de verificação do Smart Campaign
+title: Lista de verificação de campanha inteligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Lista de verificação do Smart Campaign {#smart-campaign-checklist}
+# Lista de verificação de campanha inteligente {#smart-campaign-checklist}
 
 Siga as etapas abaixo para garantir a execução perfeita da Campanha inteligente e evitar erros o máximo possível.
 

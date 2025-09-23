@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147120
 description: Importar membros de uma planilha para um programa - Documentação do Marketo - Documentação do produto
-title: Importar Membros de uma Planilha para um Programa
+title: Importar membros de uma planilha para um programa
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Importar Membros de uma Planilha para um Programa {#import-members-from-a-spreadsheet-into-a-program}
+# Importar membros de uma planilha para um programa {#import-members-from-a-spreadsheet-into-a-program}
 
 Você pode importar uma lista de pessoas que se tornam automaticamente membros de um programa. Veja o que fazer.
 

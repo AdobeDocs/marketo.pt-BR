@@ -4,10 +4,10 @@ description: Definir um público-alvo com uma Smart List - Documentação do Mar
 title: Definir um público-alvo com uma lista inteligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -58,7 +58,7 @@ Depois de [criar um programa de email](/help/marketo/product-docs/email-marketin
 >* Inscrição cancelada
 >* Campanha de marketing suspensa
 >* Incluído na lista de bloqueios
->* E-mail inválido
+>* Email inválido
 >* Email vazio
 >
 >Clique no número para obter uma lista detalhada de pessoas bloqueadas para emails. **Observação:** emails operacionais ainda serão enviados para as pessoas marcadas como não inscritas e com marketing suspenso.

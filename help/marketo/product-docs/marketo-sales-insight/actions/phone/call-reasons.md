@@ -3,10 +3,10 @@ description: Motivos de chamada - Documentação do Marketo - Documentação do 
 title: Motivos da chamada
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -84,5 +84,5 @@ Após habilitar os motivos da chamada. Os usuários podem selecionar um enquanto
 
 >[!MORELIKETHIS]
 >
->* [Registrar motivos da chamada e resultados da chamada no Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [Registrar em log os motivos da chamada e seus resultados para a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Resultados da Chamada](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147093
 description: Noções básicas sobre o Assets local em um programa - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre o Assets local em um programa
+title: Noções básicas sobre ativos locais em um programa
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
-# Noções básicas sobre o Assets local em um programa {#understanding-local-assets-in-a-program}
+# Noções básicas sobre ativos locais em um programa {#understanding-local-assets-in-a-program}
 
 Os ativos locais são o conteúdo que compõe o programa. O Assets é personalizável e permite que você crie iniciativas de marketing automatizadas. Veja a seguir a maioria dos ativos locais que você pode criar em um programa:
 

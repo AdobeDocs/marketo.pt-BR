@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097100
 description: Programar uma campanha da Web - Documentação do Marketo - Documentação do produto
-title: Programar uma campanha da Web
+title: Agendar uma campanha da web
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Programar uma campanha da Web {#schedule-a-web-campaign}
+# Agendar uma campanha da web {#schedule-a-web-campaign}
 
 Se você souber quando deseja que sua campanha da Web seja executada, é possível programá-la com antecedência. É fácil configurar datas de início e término, repetições e vários dias.
 

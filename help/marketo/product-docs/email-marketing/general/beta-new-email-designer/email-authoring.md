@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1504'
+source-wordcount: '1503'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email 
 
 >[!IMPORTANT]
 >
->Este artigo é destinado apenas aos membros do novo Marketo Engage Email Designer beta. Por favor, não difunda.
+>Este artigo é destinado apenas aos membros do novo beta do Marketo Engage Email Designer. Por favor, não difunda.
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura de Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, entre em contato com a Equipe de Conta da Adobe (seu gerente de conta) ou com o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Criar um email {#create-an-email}
 
@@ -56,7 +56,7 @@ Pronto. Agora é hora de projetar seu email.
 
 * [Criar do zero](#design-from-scratch) usando o editor visual de email
 
-* [Importe seu próprio HTML](#import-html) por meio de um arquivo HTML ou zip
+* [Importar seu próprio HTML](#import-html) por meio de um arquivo HTML ou zip
 
 * [Selecione um modelo existente](#choose-a-template) (uma de nossas amostras ou uma que você já salvou)
 
@@ -76,7 +76,7 @@ Ao começar do zero no editor de email, use as opções abaixo para definir seu 
 
 ### Importar HTML {#import-html}
 
-Você pode importar conteúdo de HTML existente para criar seu email. O conteúdo pode ser:
+Você pode importar conteúdo existente do HTML para criar seu email. O conteúdo pode ser:
 
 * Um arquivo HTML com uma folha de estilos incorporada
 
@@ -88,13 +88,13 @@ Você pode importar conteúdo de HTML existente para criar seu email. O conteúd
 
 1. Na página Criar seu modelo, selecione **Importar HTML**.
 
-1. Arraste e solte o arquivo de HTML ou .zip desejado (ou selecione um arquivo do seu computador) e clique em **Importar**.
+1. Arraste e solte o arquivo HTML ou .zip desejado (ou selecione um arquivo no computador) e clique em **Importar**.
 
    ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
->Quando o conteúdo em HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
+>Quando o conteúdo do HTML for carregado, o conteúdo estará no modo Compatibilidade. Nesse modo, você só pode personalizar seu texto, adicionar links ou adicionar ativos ao seu conteúdo.
 
 Você pode fazer as alterações desejadas no conteúdo importado usando as [ferramentas do editor visual de email](#add-structure-and-content).
 

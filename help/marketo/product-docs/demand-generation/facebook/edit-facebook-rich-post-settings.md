@@ -6,10 +6,10 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Os _aplicativos sociais_ do Marketo permitem que seus clientes potenciais compar
 
 Você pode especificar os tipos de informações de página a serem usadas nas postagens avançadas do [!DNL Facebook] geradas por compartilhamentos da sua página de aterrissagem.
 
-1. Selecione **[!UICONTROL Mensagem do Facebook]** no editor do vídeo ou do botão de redes sociais _&#x200B;_[!DNL YouTube_]_.
+1. Selecione **[!UICONTROL Mensagem do Facebook]** no editor do vídeo ou do botão de redes sociais __[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

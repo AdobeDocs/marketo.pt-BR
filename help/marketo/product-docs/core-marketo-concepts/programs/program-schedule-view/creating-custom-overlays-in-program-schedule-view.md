@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147251
 description: Criação de sobreposições personalizadas na exibição de programação - Documentação do Marketo - Documentação do produto
-title: Criação de sobreposições personalizadas na exibição de programação
+title: Criação de sobreposições personalizadas na visualização Cronograma do programa
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# Criação de sobreposições personalizadas na exibição de programação {#creating-custom-overlays-in-program-schedule-view}
+# Criação de sobreposições personalizadas na visualização Cronograma do programa {#creating-custom-overlays-in-program-schedule-view}
 
 É possível criar sobreposições personalizadas para exibir entradas relevantes às suas necessidades.
 

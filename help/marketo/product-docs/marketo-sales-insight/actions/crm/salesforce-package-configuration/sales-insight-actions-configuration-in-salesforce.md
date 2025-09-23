@@ -1,11 +1,11 @@
 ---
 description: Configuração das ações do Insight de vendas no Salesforce - Documentação do Marketo - Documentação do produto
-title: Configuração de ações do Sales Insight no Salesforce
+title: Configuração das ações de insight de vendas no Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '241'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 

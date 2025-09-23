@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718681
 description: Comece o rastreamento por conta na Receita do Modeler - Documentação do Marketo - Documentação do produto
-title: Começar a rastrear por conta na Modeler de receita
+title: Começar a rastrear por conta no modelador de receita
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Começar a rastrear por conta na Modeler de receita {#start-tracking-by-account-in-the-revenue-modeler}
+# Começar a rastrear por conta no modelador de receita {#start-tracking-by-account-in-the-revenue-modeler}
 
 Com o Modeler de Preparo de Receita e o [!UICONTROL Explorador de Receita], você obtém o insight sobre o desempenho de seus clientes potenciais e contas à medida que avançam pelo seu modelo.
 

@@ -2,10 +2,10 @@
 description: Solicitações de privacidade - Documentação do Marketo - Documentação do produto
 title: Solicitações de privacidade
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 

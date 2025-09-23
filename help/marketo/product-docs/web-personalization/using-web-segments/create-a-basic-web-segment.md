@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719344
 description: Criar um segmento básico da Web - Documentação do Marketo - Documentação do produto
-title: Criar um segmento básico da Web
+title: Criar um segmento básico da web
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
-# Criar um segmento básico da Web {#create-a-basic-web-segment}
+# Criar um segmento básico da web {#create-a-basic-web-segment}
 
 Vamos criar um segmento básico direcionado a todos os visitantes da Web dos EUA e do setor de serviços financeiros.
 

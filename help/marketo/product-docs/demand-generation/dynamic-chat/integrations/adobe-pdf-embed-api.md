@@ -1,18 +1,18 @@
 ---
 description: API incorporada do Adobe PDF - Documentação do Marketo - Documentação do produto
-title: Adobe PDF Embed API
+title: API incorporada do Adobe PDF
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 5%
 
 ---
 
-# Adobe PDF Embed API {#adobe-pdf-embed-api}
+# API incorporada do Adobe PDF {#adobe-pdf-embed-api}
 
-O cartão Documento permite incorporar documentos PDF em caixas de diálogo e rastrear a atividade de engajamento de documentos dos visitantes. Veja como configurar isso.
+O cartão Documento permite incorporar documentos do PDF em caixas de diálogo e rastrear a atividade de engajamento de documentos dos visitantes. Veja como configurar isso.
 
 1. Navegue até [API Incorporada do Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
@@ -20,7 +20,7 @@ O cartão Documento permite incorporar documentos PDF em caixas de diálogo e ra
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
-1. Faça logon em sua conta Adobe.
+1. Faça logon em sua conta da Adobe.
 
    ![](assets/adobe-pdf-embed-api-2.png)
 

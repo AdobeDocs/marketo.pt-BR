@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377406
 description: Editar seu domínio de marca padrão com espaços de trabalho - Documentação do Marketo - Documentação do produto
-title: Editar seu domínio de marca padrão com espaços de trabalho
+title: Editar o domínio de marca padrão com espaços de trabalho
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Editar seu domínio de marca padrão com espaços de trabalho {#edit-your-default-branding-domain-with-workspaces}
+# Editar o domínio de marca padrão com espaços de trabalho {#edit-your-default-branding-domain-with-workspaces}
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

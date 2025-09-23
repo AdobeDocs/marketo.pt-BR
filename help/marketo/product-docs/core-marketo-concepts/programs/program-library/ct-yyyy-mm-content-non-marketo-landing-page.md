@@ -1,16 +1,16 @@
 ---
 description: Página de aterrissagem de conteúdo não-Marketo para CT-YYYY-MM - Documentação do Marketo - Documentação do produto
-title: Página de aterrissagem de conteúdo não Marketo CT-YYYY-MM
+title: CT-MM-AAAA-Conteúdo de página de destino não gerenciado pelo Marketo
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 12%
+ht-degree: 15%
 
 ---
 
-# Página de aterrissagem de conteúdo não Marketo CT-YYYY-MM {#ct-yyyy-mm-content-non-marketo-landing-page}
+# CT-MM-AAAA-Conteúdo de página de destino não gerenciado pelo Marketo {#ct-yyyy-mm-content-non-marketo-landing-page}
 
 Este é um exemplo de um programa de conteúdo com um formulário do Marketo Engage para baixar conteúdo em uma página de aterrissagem que não seja da Marketo Engage utilizando um programa padrão do Marketo Engage. Este programa deve funcionar com um formulário do Marketo Engage incorporado no seu site. O link para a oferta/conteúdo pode ser enviado em um email de agradecimento.
 
@@ -47,7 +47,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr>
    <td>Email</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de e-mail de início rápido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modelo de email de início rápido</a></td>
    <td>01-Email-Obrigado</td>
   </tr>
   <tr>

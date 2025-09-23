@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384433
 description: Configuração da equipe da conta - Documentação do Marketo - Documentação do produto
-title: Configuração da equipe da conta
+title: Configuração de equipe de conta
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Configuração da equipe da conta {#account-team-setup}
+# Configuração de equipe de conta {#account-team-setup}
 
 Uma equipe de conta é um grupo de participantes que trabalham juntos em uma conta nomeada. Siga estas etapas para escolher quais funções de conta do CRM devem ser adicionadas.
 

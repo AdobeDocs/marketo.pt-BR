@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7505310
 description: Assinar uma lista inteligente - Documentação do Marketo - Documentação do produto
-title: Inscrever-se em uma lista inteligente
+title: Assinar uma lista inteligente
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Inscrever-se em uma lista inteligente {#subscribe-to-a-smart-list}
+# Assinar uma lista inteligente {#subscribe-to-a-smart-list}
 
 A inscrição em listas inteligentes é uma ótima maneira de rastrear pessoas, com relatórios enviados diretamente para sua caixa de entrada.
 

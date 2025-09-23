@@ -3,7 +3,7 @@ description: Permissões — Documentação do Marketo — Documentação do pro
 title: Permissões
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 5%
@@ -44,7 +44,7 @@ Há cinco perfis padrão com permissões predefinidas que podem ser editadas no 
 
    ![](assets/permissions-6.png)
 
-Agora é possível repetir esse processo para qualquer/todas as outras áreas de Dynamic Chat.
+Agora é possível repetir esse processo para qualquer/todas as outras áreas do Dynamic Chat.
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
 <table>
 <thead>
   <tr>
-    <th style="width:25%">Área de Dynamic Chat</th>
+    <th style="width:25%">Área do Dynamic Chat</th>
     <th>Permissões</th>
   </tr>
 </thead>
@@ -84,10 +84,10 @@ Abaixo você encontrará uma lista de todas as permissões disponíveis para cad
     <td>Gerenciamento de Conversas</td>
     <td><li>Exibir caixas de diálogo</li>
     <li>Gerenciar caixas de diálogo (criar, excluir)</li>
-    <li>Caixas de diálogo do Publish</li>
+    <li>Caixas de diálogo de publicação</li>
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
-    <li>Fluxos de conversa do Publish</li></td>
+    <li>Publicar Fluxos de Conversação</li></td>
   </tr>
   <tr>
     <td>Chat ao vivo</td>
@@ -150,10 +150,10 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <td><i>Gerenciamento de Conversas</i>
     <li>Exibir caixas de diálogo</li>
     <li>Gerenciar caixas de diálogo (criar, excluir)</li>
-    <li>Caixas de diálogo do Publish</li>
+    <li>Caixas de diálogo de publicação</li>
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
-    <li>Fluxos de conversa do Publish</li>
+    <li>Publicar Fluxos de Conversação</li>
     <br>
     <i>Chat ao vivo</i>
     <li>n/d</li>
@@ -238,10 +238,10 @@ Abaixo estão os cinco perfis padrão e as permissões que são ativadas por pad
     <td><i>Gerenciamento de Conversas</i>
     <li>Exibir caixas de diálogo</li>
     <li>Gerenciar caixas de diálogo (criar, excluir)</li>
-    <li>Caixas de diálogo do Publish</li>
+    <li>Caixas de diálogo de publicação</li>
     <li>Exibir Fluxos de Conversa</li>
     <li>Gerenciar Fluxos de Conversação (criar, excluir)</li>
-    <li>Fluxos de conversa do Publish</li>
+    <li>Publicar Fluxos de Conversação</li>
     <br>
     <i>Chat ao vivo</i>
     <li>n/d</li>

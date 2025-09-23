@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983291
 description: Noções básicas sobre fuso horário do recipient - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre o fuso horário do recipient
+title: Noções básicas sobre o fuso horário do destinatário
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Noções básicas sobre o fuso horário do recipient {#understanding-recipient-time-zone}
+# Noções básicas sobre o fuso horário do destinatário {#understanding-recipient-time-zone}
 
 Os programas de email e de engajamento podem ser configurados para entrega de acordo com os fusos horários dos destinatários, eliminando a necessidade de criar vários programas — enviar uma vez e o Marketo retém automaticamente o email até o horário local correto.
 
@@ -28,7 +28,7 @@ Há dois cenários principais ao [agendar um programa de email](/help/marketo/pr
 
 Para acomodar todos os fusos horários, os programas de email agendados com o [!UICONTROL Fuso Horário do Destinatário] começam a ser executados à meia-noite no fuso horário **primeiro/primeiro** no mundo (UTC +14:00).
 
-## Programas de envolvimento {#engagement-programs}
+## Programas de engajamento {#engagement-programs}
 
 Quando você [agenda uma transmissão de programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) e o [!UICONTROL Fuso Horário do Destinatário] está ativo, a conversão do programa começa a ser executada à meia-noite em UTC +14:00. Nós exigimos que você agende o primeiro elenco de pelo menos 25 horas no futuro (24 horas + algum tempo para começar a campanha) porque as pessoas podem se qualificar para o elenco em todos os fusos horários em todo o mundo. Iniciar o processamento neste horário em UTC +14:00 garante que o email seja enviado na data e hora agendadas para cada pessoa que se qualifica para essa conversão.
 

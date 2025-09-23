@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360405
 description: Criar um relatório de análise de associação ao programa que liste clientes potenciais - Documentação do Marketo - Documentação do produto
-title: Criar um relatório de análise de associação ao programa que liste clientes em potencial
+title: Criar um relatório de análise de associação ao programa com uma lista de leads
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Criar um relatório de análise de associação ao programa que liste clientes em potencial {#build-a-program-membership-analysis-report-that-lists-leads}
+# Criar um relatório de análise de associação ao programa com uma lista de leads {#build-a-program-membership-analysis-report-that-lists-leads}
 
 Siga estas etapas para criar um relatório de Análise de programa que mostrará todos os nomes de membros do programa.
 

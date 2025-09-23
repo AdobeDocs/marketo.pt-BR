@@ -3,10 +3,10 @@ description: Cabeçalhos de link de rastreamento de email - Documentação do Ma
 title: Cabeçalhos do link de rastreamento de email
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

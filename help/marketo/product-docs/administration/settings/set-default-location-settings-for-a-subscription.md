@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359902
 description: Definir configurações padrão de localização para uma assinatura - Documentação do Marketo - Documentação do produto
-title: Definir Configurações Padrão de Local para uma Assinatura
+title: Definir configurações de localização padrão para uma assinatura
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Definir Configurações Padrão de Local para uma Assinatura {#set-default-location-settings-for-a-subscription}
+# Definir configurações de localização padrão para uma assinatura {#set-default-location-settings-for-a-subscription}
 
 Este artigo descreve como um Administrador visualizaria e editaria as configurações padrão de localização de uma assinatura, incluindo idioma, localidade e fuso horário.
 
@@ -19,7 +19,7 @@ Este artigo descreve como um Administrador visualizaria e editaria as configura�
 >
 >Direitos de administrador necessários. Normalmente, o idioma não é algo que o administrador mudaria. Ela é especificada no momento da compra para que a assinatura possa ser gerada no idioma apropriado.
 
-## Definir Configurações Padrão de Local para uma Assinatura {#set-default-location-settings-for-a-subscription-1}
+## Definir configurações de localização padrão para uma assinatura {#set-default-location-settings-for-a-subscription-1}
 
 Quando um Administrador altera as configurações padrão de local, os usuários recém-criados herdam essas configurações. Os usuários sempre podem [alterar suas preferências de idioma, localidade e fuso horário](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) em suas contas individuais.
 
@@ -31,7 +31,7 @@ Quando um Administrador altera as configurações padrão de local, os usuários
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 

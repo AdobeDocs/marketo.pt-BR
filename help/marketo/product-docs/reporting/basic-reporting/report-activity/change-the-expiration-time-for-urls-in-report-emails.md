@@ -4,10 +4,10 @@ description: Altere a hora de expiração dos URLS em Emails de relatório - Doc
 title: Alterar a hora de expiração dos URLS em emails de relatório
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 

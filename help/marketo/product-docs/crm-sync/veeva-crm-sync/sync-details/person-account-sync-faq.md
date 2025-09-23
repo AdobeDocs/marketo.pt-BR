@@ -1,16 +1,16 @@
 ---
 description: Perguntas frequentes sobre a Sincronização de conta de pessoa - Documentação do Marketo - Documentação do produto
-title: Perguntas frequentes sobre Sincronização de Conta de Pessoa
+title: Perguntas frequentes sobre sincronização de conta de pessoa
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Perguntas frequentes sobre Sincronização de Conta de Pessoa {#person-account-sync-faq}
+# Perguntas frequentes sobre sincronização de conta de pessoa {#person-account-sync-faq}
 
 O Marketo Engage sincroniza todo o banco de dados com [!DNL Veeva] para o tipo de registros Conta de pessoa. Após a sincronização, ele aguarda 5 minutos e sincroniza novamente, o dia todo, todos os dias.
 

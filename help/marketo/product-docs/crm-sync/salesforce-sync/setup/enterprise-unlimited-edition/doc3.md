@@ -4,14 +4,14 @@ title: Etapa 3 de 3 - Conectar o Marketo e o Salesforce (Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Etapa 3 de 3: Conectar o Marketo e o Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
+# Etapa 3 de 3: conectar o Marketo e o Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
 Neste artigo, você configurará o Marketo Engage para sincronizar com a instância configurada do Salesforce.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385020
 description: Habilitar conteúdo preditivo em emails - Documentação do Marketo - Documentação do produto
-title: Ativar conteúdo preditivo em emails
+title: Habilitar conteúdo preditivo em emails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '392'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Ativar conteúdo preditivo em emails {#enable-predictive-content-in-emails}
+# Habilitar conteúdo preditivo em emails {#enable-predictive-content-in-emails}
 
 Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para cada recipient.
 

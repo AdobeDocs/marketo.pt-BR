@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352530
 description: Visão geral do Command Center - Documentação do Marketo - Documentação do produto
-title: Visão geral do Command Center
+title: Visão geral do Centro de comando
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '576'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Visão geral do Command Center {#command-center-overview}
+# Visão geral do Centro de comando {#command-center-overview}
 
 O Centro de recomendações é uma visualização única e unificada que ajuda você a descobrir o próximo passo e, ao mesmo tempo, garantir que nada caia pelas rachaduras.
 

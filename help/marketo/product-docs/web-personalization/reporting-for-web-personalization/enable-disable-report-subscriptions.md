@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949162
 description: Ativar/desativar assinaturas de relatório - Documentação do Marketo - Documentação do produto
-title: Ativar/desativar assinaturas de relatório
+title: Habilitar/desabilitar assinaturas de relatório
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
-# Ativar/desativar assinaturas de relatório {#enable-disable-report-subscriptions}
+# Habilitar/desabilitar assinaturas de relatório {#enable-disable-report-subscriptions}
 
 O [!UICONTROL Web Personalization] tem vários relatórios úteis enviados por email. Veja como se inscrever neles.
 

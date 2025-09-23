@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359705
 description: Adicionar um novo formulário a uma página de aterrissagem de forma livre - Documentação do Marketo - Documentação do produto
-title: Adicionar um novo formulário a uma página de aterrissagem de forma livre
+title: Adicionar um novo formulário a uma página de destino de forma livre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Adicionar um novo formulário a uma página de aterrissagem de forma livre {#add-a-new-form-to-a-free-form-landing-page}
+# Adicionar um novo formulário a uma página de destino de forma livre {#add-a-new-form-to-a-free-form-landing-page}
 
 Formulário, página de aterrissagem de reuniões. Página de aterrissagem, formulário de atendimento.
 

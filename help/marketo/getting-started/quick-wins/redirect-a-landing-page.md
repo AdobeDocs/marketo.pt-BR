@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359428
 description: Redirecionar uma página de aterrissagem - Documentação do Marketo - Documentação do produto
-title: Redirecionar uma página
+title: Redirecionar uma página de destino
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 36%
 
 ---
 
-# Redirecionar uma página {#redirect-a-landing-page}
+# Redirecionar uma página de destino {#redirect-a-landing-page}
 
 ## Missão: redirecionar uma página para outra página da Web {#mission-redirect-a-landing-page-to-a-different-web-page}
 

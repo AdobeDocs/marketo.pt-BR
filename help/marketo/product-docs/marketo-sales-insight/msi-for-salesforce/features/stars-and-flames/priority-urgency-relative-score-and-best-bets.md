@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950396
 description: Prioridade, Urgência, Pontuação relativa e Melhores Opções - Documentação do Marketo - Documentação do produto
-title: Prioridade, Urgência, Pontuação Relativa e Melhores Opções
+title: Prioridade, urgência, pontuação relativa e melhores opções
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

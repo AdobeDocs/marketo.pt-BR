@@ -4,10 +4,10 @@ description: Criar um objetivo de lista inteligente - Documentação do Marketo 
 title: Criar uma meta de lista inteligente
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ Como as apresentações, as metas são específicas do [espaço de trabalho](/he
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Clique em **[!UICONTROL Presentations]** no canto inferior direito.
+1. Clique em **[!UICONTROL Apresentações]** no canto inferior direito.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 

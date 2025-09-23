@@ -4,14 +4,14 @@ description: Noções básicas sobre o painel de SEO - Instantâneo SEO - Docume
 title: Noções básicas sobre o painel de SEO - Instantâneo SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Noções básicas sobre o painel SEO: Instantâneo SEO {#understanding-the-seo-dashboard-seo-snapshot}
+# Noções básicas do painel de SEO: instantâneo de SEO {#understanding-the-seo-dashboard-seo-snapshot}
 
 Use o painel para obter uma visualização de alto nível da tendência da classificação de palavras-chave e do desempenho do seu site em relação à otimização para SEO.
 

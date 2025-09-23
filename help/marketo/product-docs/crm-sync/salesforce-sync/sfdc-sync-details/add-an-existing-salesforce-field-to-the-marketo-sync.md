@@ -4,10 +4,10 @@ description: Adicionar um campo existente do Salesforce à sincronização do Ma
 title: Adicionar um campo existente do Salesforce à sincronização do Marketo
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -35,7 +35,7 @@ Normalmente, os novos campos personalizados no Salesforce são sincronizados com
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 

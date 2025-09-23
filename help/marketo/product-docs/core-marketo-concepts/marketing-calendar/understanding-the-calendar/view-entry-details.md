@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953325
 description: Exibir detalhes de entrada - Documentação do Marketo - Documentação do produto
-title: Exibir Detalhes da Entrada
+title: Exibir detalhes da entrada
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Exibir Detalhes da Entrada {#view-entry-details}
+# Exibir detalhes da entrada {#view-entry-details}
 
 Ao visualizar os detalhes da entrada no Calendário de marketing, você pode ver todos os tipos de coisas legais sobre uma entrada.
 

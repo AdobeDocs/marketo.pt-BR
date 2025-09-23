@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359455
 description: Agendar Seu Programa De Email - Documentação Do Marketo - Documentação Do Produto
-title: Agendar seu programa de email
+title: Agendar programa de email
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Agendar seu programa de email {#schedule-your-email-program}
+# Agendar programa de email {#schedule-your-email-program}
 
 >[!PREREQUISITES]
 >

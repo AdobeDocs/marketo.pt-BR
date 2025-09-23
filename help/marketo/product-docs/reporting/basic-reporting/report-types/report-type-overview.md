@@ -4,10 +4,10 @@ description: Visão geral do tipo de relatório - Documentação do Marketo - Do
 title: Visão geral do tipo de relatório
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
@@ -26,7 +26,7 @@ Quando você [cria um relatório em um programa](/help/marketo/product-docs/repo
  </thead>
  <tbody>
   <tr>
-   <td><strong><a href="people-performance-report.md">Relatório de Desempenho de Pessoas</a></strong></td>
+   <td><strong><a href="people-performance-report.md">Relatório de desempenho de pessoas</a></strong></td>
    <td>Agrupe as pessoas por qualquer atributo e inclua informações da oportunidade. Detalhe e explore.</td>
   </tr>
   <tr>
@@ -42,12 +42,12 @@ Quando você [cria um relatório em um programa](/help/marketo/product-docs/repo
    <td>Revise as interações com seus emails enviados pelo Marketo Sales Insight no Salesforce, Microsoft Dynamics e no plug-in Outlook e Gmail.</td>
   </tr>
   <tr>
-   <td><strong><a href="people-by-status-report.md">Relatório de pessoas por status</a></strong></td>
+   <td><strong><a href="people-by-status-report.md">Pessoas por relatório de status</a></strong></td>
    <td>Geração automática de relatórios com base no campo Status da Pessoa.</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Relatório de pessoas por estágio de receita</a></strong></td>
-   <td>Relatórios básicos para seu Modelo de receita. Consulte <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análise do ciclo de receita</a> para obter relatórios mais profundos.</td>
+   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Relatório de pessoas por estágio da receita</a></strong></td>
+   <td>Relatórios básicos para seu Modelo de receita. Consulte <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análise do ciclo de receita</a> para obter relatórios mais profundos.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Desempenho da página</a>  </strong></td>
@@ -55,7 +55,7 @@ Quando você [cria um relatório em um programa](/help/marketo/product-docs/repo
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Desempenho do programa</a>  </strong></td>
-   <td>Métricas básicas do programa, como membros e sucesso. Consulte <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análise do ciclo de receita</a> para obter relatórios mais profundos.</td>
+   <td>Métricas básicas do programa, como membros e sucesso. Consulte <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análise do ciclo de receita</a> para obter relatórios mais profundos.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Atividade da empresa na Web</a></strong></td>
@@ -66,12 +66,12 @@ Quando você [cria um relatório em um programa](/help/marketo/product-docs/repo
    <td>Relate a atividade da Web para suas páginas de aterrissagem e site público.</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Relatório de Desempenho de Fluxo de Envolvimento</a> </strong></td>
-   <td>Veja como o seu <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de envolvimento</a> está funcionando.</td>
+   <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Relatório de desempenho do fluxo de engajamento</a> </strong></td>
+   <td>Veja como o seu <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de envolvimento</a> está funcionando.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Desempenho de e-mail da campanha</a> </strong></td>
-   <td>Veja como o seu <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de envolvimento</a> está funcionando.</td>
+   <td>Veja como o seu <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de envolvimento</a> está funcionando.</td>
   </tr>
  </tbody>
 </table>

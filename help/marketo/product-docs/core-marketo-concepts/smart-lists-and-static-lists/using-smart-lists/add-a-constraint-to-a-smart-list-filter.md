@@ -4,10 +4,10 @@ description: Adicionar uma restrição a um filtro de lista inteligente - Docume
 title: Adicionar uma restrição a um filtro de lista inteligente
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

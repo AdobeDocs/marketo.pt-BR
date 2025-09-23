@@ -1,24 +1,24 @@
 ---
 description: Definição de metas do evento - Documentação do Marketo - Documentação do produto
-title: Definição de Objetivos de Evento
+title: Definição de metas de evento
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Definição de Objetivos de Evento {#setting-event-goals}
+# Definição de metas de evento {#setting-event-goals}
 
 Atribua metas específicas aos eventos e veja o desempenho deles.
 
 >[!IMPORTANT]
 >
->Nem todos compraram este recurso. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos compraram este recurso. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 1. Criar um programa de evento.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10092925
 description: Pré-visualizar e testar uma campanha da Web - Documentação do Marketo - Documentação do produto
-title: Pré-visualizar e testar uma campanha da Web
+title: Pré-visualizar e testar uma campanha da web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Pré-visualizar e testar uma campanha da Web {#preview-and-test-a-web-campaign}
+# Pré-visualizar e testar uma campanha da web {#preview-and-test-a-web-campaign}
 
 Este artigo mostra maneiras diferentes de visualizar uma campanha da Web e também como testá-la usando um segmento de sandbox em tempo real no seu site.
 

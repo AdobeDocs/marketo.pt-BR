@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746188
 description: Sincronização de cancelamentos de assinatura com o Salesforce - Documentação do Marketo - Documentação do produto
-title: Sincronização de cancelamentos de assinatura com o Salesforce
+title: Sincronização de cancelamentos de inscrição com o Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

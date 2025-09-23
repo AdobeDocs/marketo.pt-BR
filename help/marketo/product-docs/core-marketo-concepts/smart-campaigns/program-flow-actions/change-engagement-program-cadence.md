@@ -4,7 +4,7 @@ description: Alterar cadência do programa de engajamento - Documentação do Ma
 title: Alterar cadência do programa de envolvimento
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 7%

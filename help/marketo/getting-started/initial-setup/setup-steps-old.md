@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2086'
 ht-degree: 1%
@@ -110,7 +110,7 @@ Os documentos do Contato de suporte autorizado foram movidos para a Comunidade d
 >
 >Somente as pessoas que fizeram logon na Comunidade da Marketo aparecem na lista. Se não conseguir encontrar a pessoa, primeiro faça logon na Comunidade.
 
-## Personalizar os URLs da sua landing page com um CNAME {#customize-your-landing-page-urls-with-a-cname}
+## Personalizar os URLs da página de destino com um CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
@@ -227,7 +227,6 @@ Agora, nossa Equipe de marketing está usando a plataforma Marketo para se comun
 `3)` Incluir na lista de permissões Marketo.
 
     * Se usarmos endereços IP em nossa Inclui na lista de permissões por email, adicione os IPs listados abaixo:
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -351,6 +350,6 @@ O Marketo tem JavaScript de rastreamento personalizado (chamado [!DNL Munchkin])
 
 ## Expectativas de desempenho {#performance-expectations}
 
-O que você pode esperar do Marketo em termos de desempenho? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias tabelas encontradas na [Descrição do produto Marketo Engage](https://helpx.adobe.com/br/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. As colunas &quot;Desempenho&quot; e &quot;Desempenho Adicional&quot; referem-se a pacotes de camada de desempenho que fornecem [níveis de desempenho mais altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+O que você pode esperar do Marketo em termos de desempenho? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias tabelas encontradas na [Descrição do produto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. As colunas &quot;Desempenho&quot; e &quot;Desempenho Adicional&quot; referem-se a pacotes de camada de desempenho que fornecem [níveis de desempenho mais altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Todas as etapas de configuração foram concluídas. A única coisa que resta é mergulhar e usar o Marketo!

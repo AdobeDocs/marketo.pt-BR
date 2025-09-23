@@ -4,10 +4,10 @@ description: Filtrar pessoas em um relatório com uma lista inteligente - Docume
 title: Filtrar pessoas em um relatório com uma lista inteligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 20%
+ht-degree: 38%
 
 ---
 
@@ -27,7 +27,7 @@ Você pode usar smart lists com estes tipos de relatórios:
 * [Atividade da empresa na Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Atividade de página da Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 

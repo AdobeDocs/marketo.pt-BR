@@ -4,10 +4,10 @@ description: Atualizar dados da pessoa - Documentação do Marketo - Documentaç
 title: Atualizar dados da pessoa
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 17%
+ht-degree: 34%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 17%
 
 >[!PREREQUISITES]
 >
->* [Configure e adicione uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurar e adicionar uma pessoa](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Imagine que, em sua recente feira de negócios, uma pessoa tenha fornecido informações adicionais de contato. Veja como atualizar os dados da pessoa.
@@ -54,7 +54,7 @@ Imagine que, em sua recente feira de negócios, uma pessoa tenha fornecido infor
 >
 >* Verifique se os endereços de email contêm apenas caracteres ASCII.
 >
->* A Marketo **não** oferece suporte a endereços de email que contêm emojis.
+>* O Marketo **não** permite o uso de endereços de email com emojis.
 
 >[!NOTE]
 >

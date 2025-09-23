@@ -4,10 +4,10 @@ description: Adicionar um campo a um formulário - Documentação do Marketo - D
 title: Adicionar um campo a um formulário
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718685
 description: Mesclar dois estágios no Modeler de receita - Documentação do Marketo - Documentação do produto
-title: Mesclar dois estágios no Modeler de receita
+title: Mesclar dois estágios no modelador de receita
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Mesclar dois estágios no Modeler de receita {#merging-two-stages-in-the-revenue-modeler}
+# Mesclar dois estágios no modelador de receita {#merging-two-stages-in-the-revenue-modeler}
 
 Após aprovar o modelo, não é possível excluir estágios ao editar um rascunho. Em vez disso, você pode mesclar esse estágio com outro.
 

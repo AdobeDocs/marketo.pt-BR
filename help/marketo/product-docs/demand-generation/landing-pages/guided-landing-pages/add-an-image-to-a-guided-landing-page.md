@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515027
 description: Adicionar uma imagem a uma página de aterrissagem guiada - Documentação do Marketo - Documentação do produto
-title: Adicionar uma imagem a uma landing page guiada
+title: Adicionar uma imagem a uma página de destino guiada
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Adicionar uma imagem a uma landing page guiada {#add-an-image-to-a-guided-landing-page}
+# Adicionar uma imagem a uma página de destino guiada {#add-an-image-to-a-guided-landing-page}
 
 Diferentemente das páginas de aterrissagem de forma livre, as páginas de aterrissagem guiadas têm espaços predefinidos e bloqueados onde você adiciona imagens.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719190
 description: Ativar a descoberta de conteúdo — Documentação do Marketo — Documentação do produto
-title: Habilitar Descoberta de Conteúdo
+title: Habilitar descoberta de conteúdo
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Habilitar Descoberta de Conteúdo {#enable-content-discovery}
+# Habilitar descoberta de conteúdo {#enable-content-discovery}
 
 O recurso Content Discovery descobre e marca automaticamente seu conteúdo já existente (incluindo estudos de caso, publicações em blog, vídeos, press releases etc.) em seu site e rastreia o número de visualizações desses materiais.  O conteúdo preditivo usa o conteúdo descoberto, empregando análises preditivas para determinar qual é o conteúdo com melhor desempenho e recomenda o melhor conteúdo para a pessoa certa.
 

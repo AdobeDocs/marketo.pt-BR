@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17727818
 description: Uso de Personas - Documentação do Marketo - Documentação do produto
-title: Uso de Personas
+title: Uso de personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Uso de Personas {#using-personas}
+# Uso de personas {#using-personas}
 
 As personas são uma ótima maneira de segmentar o público e o mercado da ABM para um subconjunto específico de pessoas.
 
@@ -25,7 +25,7 @@ As personas são uma ótima maneira de segmentar o público e o mercado da ABM p
 
    ![](assets/using-personas-2.png)
 
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/three.png)
 

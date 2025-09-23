@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359553
 description: Adicione um Email Champion/Challenger - Marketo Docs - Documentação do produto
-title: Adicione um Email Champion/Challenger
+title: Adicionar um email de controlador/variante
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Adicione um Email Champion/Challenger {#add-an-email-champion-challenger}
+# Adicionar um email de controlador/variante {#add-an-email-champion-challenger}
 
 É uma boa ideia testar todos os emails que você usa com frequência para garantir que eles estejam funcionando. Uma maneira é comparar a eficácia de um email com outras versões ou desafiantes. Em um teste de campeão/desafiante, você pode testar todo o email, a linha de assunto ou o endereço do remetente.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359644
 description: Mostrar formulário personalizado do HTML para pessoas conhecidas - Documentação do Marketo - Documentação do produto
-title: Mostrar formulário personalizado do HTML para pessoas conhecidas
+title: Mostrar formulário HTML personalizado para pessoas conhecidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Mostrar formulário personalizado do HTML para pessoas conhecidas {#show-custom-html-form-for-known-people}
+# Mostrar formulário HTML personalizado para pessoas conhecidas {#show-custom-html-form-for-known-people}
 
 Se um visitante tiver fornecido seu nome completo e endereço de email no passado e você não quiser que ele receba o formulário inteiro, saiba como mostrar a ele algum HTML personalizado (por exemplo, apenas um botão de download).
 

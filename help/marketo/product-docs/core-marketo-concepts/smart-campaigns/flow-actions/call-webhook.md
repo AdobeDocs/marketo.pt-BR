@@ -4,7 +4,7 @@ description: Chamar Webhook - Documentação do Marketo - Documentação do prod
 title: Chamar webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 5%
@@ -23,7 +23,7 @@ Os webhooks permitem interagir com serviços de terceiros. Envie/receba informa�
 
 >[!NOTE]
 >
->Saiba mais sobre as muitas coisas fascinantes que os [Webhooks](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} podem fazer por você.
+>Saiba mais sobre as muitas coisas fascinantes que [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} podem fazer por você.
 
 1. Selecione um Webhook no menu suspenso.
 

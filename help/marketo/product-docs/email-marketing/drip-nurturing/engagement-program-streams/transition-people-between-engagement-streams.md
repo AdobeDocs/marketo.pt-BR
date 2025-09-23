@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359947
 description: Transição De Pessoas Entre Fluxos De Envolvimento - Documentação Do Marketo - Documentação Do Produto
-title: Fazer Transição De Pessoas Entre Fluxos De Envolvimento
+title: Fazer a transição de pessoas entre fluxos de engajamento
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Fazer Transição De Pessoas Entre Fluxos De Envolvimento {#transition-people-between-engagement-streams}
+# Fazer a transição de pessoas entre fluxos de engajamento {#transition-people-between-engagement-streams}
 
 Os programas de engajamento podem ter mais de um fluxo. Se você [adicionar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), desejará definir uma maneira de as pessoas moverem-se de um fluxo para outro. Elas são chamadas de **regras de transição.**
 

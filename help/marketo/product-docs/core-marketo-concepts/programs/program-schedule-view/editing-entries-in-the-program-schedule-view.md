@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147136
 description: Edição de entradas na exibição de programação do programa - Documentação do Marketo - Documentação do produto
-title: Editar Entradas na Visualização de Cronograma do Programa
+title: Editar entradas na visualização Cronograma do programa
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
-# Editar Entradas na Visualização de Cronograma do Programa {#editing-entries-in-the-program-schedule-view}
+# Editar entradas na visualização Cronograma do programa {#editing-entries-in-the-program-schedule-view}
 
 Você pode fazer edições nos diferentes elementos do seu programa na visualização de cronograma.
 

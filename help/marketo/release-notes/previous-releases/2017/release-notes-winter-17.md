@@ -3,14 +3,14 @@ unique-page-id: 12255606
 description: Notas de versão - Winter '17 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Notas de versão: inverno de 17 {#release-notes-winter}
+# Notas de versão: inverno de 2017 {#release-notes-winter}
 
 Os seguintes recursos estão incluídos na versão Winter &#39;17. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 

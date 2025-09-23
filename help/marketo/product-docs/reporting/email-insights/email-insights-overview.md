@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099408
 description: Visão geral do Email Insights - Documentação do Marketo - Documentação do produto
-title: Visão geral do Email Insights
+title: 'Insights de email: visão geral'
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Visão geral do Email Insights {#email-insights-overview}
+# Insights de email: visão geral {#email-insights-overview}
 
 O **[!UICONTROL Email Insights]** fornece insights avançados de dados históricos para profissionais de marketing por email. Consiste em duas seções separadas, mas associadas: [!UICONTROL Analytics] e [!UICONTROL Sends].
 

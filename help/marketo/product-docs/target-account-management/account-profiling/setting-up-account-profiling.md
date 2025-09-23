@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17432598
 description: Configuração do perfil da conta - Documentação do Marketo - Documentação do produto
-title: Configuração do perfil da conta
+title: Configuração da criação de perfis de conta
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
-# Configuração do perfil da conta {#setting-up-account-profiling}
+# Configuração da criação de perfis de conta {#setting-up-account-profiling}
 
 Siga estas etapas para começar a usar a Criação de perfil da conta.
 
@@ -38,7 +38,7 @@ Siga estas etapas para começar a usar a Criação de perfil da conta.
 
    ![](assets/two-1.png)
 
-1. A guia Modelo é aberta por padrão. Clique em **[!UICONTROL Introdução]**.
+1. A guia Modelo é aberta por padrão. Clique em **[!UICONTROL Começar]**.
 
    ![](assets/three.png)
 

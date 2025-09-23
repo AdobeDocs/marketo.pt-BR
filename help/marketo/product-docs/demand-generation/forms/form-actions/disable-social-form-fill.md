@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098242
 description: Desativar preenchimento de formulário social - Documentação do Marketo - Documentação do produto
-title: Desativar preenchimento de formulário social
+title: Desabilitar preenchimento de formulário com rede social
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
-# Desativar preenchimento de formulário social {#disable-social-form-fill}
+# Desabilitar preenchimento de formulário com rede social {#disable-social-form-fill}
 
 Às vezes, você não quer mais que os visitantes do site enviem formulários usando um perfil social. Veja como desativá-lo.
 

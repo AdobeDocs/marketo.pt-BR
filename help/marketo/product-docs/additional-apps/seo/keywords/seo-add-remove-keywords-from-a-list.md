@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949678
 description: SEO - Adicionar/Remover palavras-chave de uma lista - Documentação do Marketo - Documentação do produto
-title: SEO - Adicionar/Remover Palavras-chave de uma Lista
+title: SEO - Adicionar/remover palavras-chave de uma lista
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# SEO - Adicionar/Remover Palavras-chave de uma Lista {#seo-add-remove-keywords-from-a-list}
+# SEO - Adicionar/remover palavras-chave de uma lista {#seo-add-remove-keywords-from-a-list}
 
 Você pode manter todas as suas palavras-chave agradáveis e organizadas usando listas. Isso facilitará a localização de dados em palavras-chave específicas.
 

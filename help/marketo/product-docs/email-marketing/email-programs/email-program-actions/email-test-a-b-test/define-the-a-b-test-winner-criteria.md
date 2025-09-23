@@ -4,10 +4,10 @@ description: Defina os critérios do vencedor do teste A/B - Documentação do M
 title: Definir os critérios do vencedor do teste A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 1%
+ht-degree: 22%
 
 ---
 
@@ -32,15 +32,15 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
    </tr>
    <tr>
    <td><b>[!UICONTROL Cliques]</b></td>
-   <td>Por padrão, os links nos emails têm rastreamento incorporado, permitindo que você veja quem clicou em qual link, quantos links totais foram clicados etc.</td>
+   <td>Por padrão, os links nos emails têm rastreamento incorporado, permitindo ver quem clicou em qual link, quantos links foram clicados no total etc.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Clicar para Abrir] %</b></td>
-   <td>Porcentagem de emails abertos com links clicados no email. Isso mede a relevância e o contexto de um email considerando o número de cliques únicos dividido pelo número de aberturas únicas e multiplicando por 100 para mostrá-lo como uma porcentagem.</td>
+   <td>Porcentagem de emails que foram abertos e tiveram um link clicado. Isso mede a relevância e o contexto de um email considerando o número de cliques únicos dividido pelo número de aberturas únicas e multiplicando por 100 para mostrá-lo como uma porcentagem.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Pontuação de Envolvimento]</b></td>
-   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=pt-BR" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
+   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
    </tr>
    </table>
 

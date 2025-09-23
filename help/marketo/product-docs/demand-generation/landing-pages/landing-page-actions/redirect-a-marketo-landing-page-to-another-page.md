@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359740
 description: Redirecionar uma página de aterrissagem do Marketo para outra página - Documentação do Marketo - Documentação do produto
-title: Redirecionar uma página de aterrissagem do Marketo para outra página
+title: Redirecionar uma página de destino do Marketo para outra página
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Redirecionar uma página de aterrissagem do Marketo para outra página {#redirect-a-marketo-landing-page-to-another-page}
+# Redirecionar uma página de destino do Marketo para outra página {#redirect-a-marketo-landing-page-to-another-page}
 
 Se você atualizar o URL de uma página e quiser que o URL antigo ainda funcione, tente um redirecionamento! Configurar é fácil.
 

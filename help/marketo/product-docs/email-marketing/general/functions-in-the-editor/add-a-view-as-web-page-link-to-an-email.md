@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900560
 description: Adicionar um link Exibir como página da Web a um email - Documentação do Marketo - Documentação do produto
-title: Adicionar um link Exibir como página da Web a um email
+title: Adicionar um link “Exibir como página da Web” a um email
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Adicionar um link Exibir como página da Web a um email {#add-a-view-as-web-page-link-to-an-email}
+# Adicionar um link “Exibir como página da Web” a um email {#add-a-view-as-web-page-link-to-an-email}
 
 Os emails têm recursos limitados (CSS limitado e sem JavaScript ou formulários). Use Exibir como página da Web para fornecer um link para mostrar seu email em um navegador. Isso criará um cookie no recipient usando o [!DNL Munchkin].
 

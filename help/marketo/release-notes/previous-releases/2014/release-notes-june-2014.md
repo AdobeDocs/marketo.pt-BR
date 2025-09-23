@@ -4,10 +4,10 @@ description: Notas de versão - junho de 2014 - Documentação do Marketo - Docu
 title: Notas de versão - junho de 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 11%
+ht-degree: 14%
 
 ---
 
@@ -43,7 +43,7 @@ As campanhas RTP agora incluem um novo design com exibições de miniaturas e de
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
-## Integrações do Web Analytics {#web-analytics-integrations}
+## Integrações de análise da web {#web-analytics-integrations}
 
 Anexe todos os dados RTP na plataforma de análise da Web.
 

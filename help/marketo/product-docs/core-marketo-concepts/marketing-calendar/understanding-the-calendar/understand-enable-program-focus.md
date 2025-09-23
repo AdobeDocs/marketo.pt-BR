@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953364
 description: Entender/Ativar Foco Do Programa - Documentação Do Marketo - Documentação Do Produto
-title: Entender/Ativar foco do programa
+title: Entender/habilitar foco do programa
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Entender/Ativar foco do programa {#understand-enable-program-focus}
+# Entender/habilitar foco do programa {#understand-enable-program-focus}
 
 O Calendário de marketing oferece uma visão abrangente das coisas, mas também permite algumas interações. Você pode [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [excluir](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} e [confirmar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} entradas. Para interagir com as entradas, você deve se concentrar em um programa primeiro.
 

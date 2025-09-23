@@ -3,14 +3,14 @@ unique-page-id: 13795395
 description: Notas de versão - Winter '18 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Notas de versão: inverno de 18 {#release-notes-winter}
+# Notas de versão: inverno de 2018 {#release-notes-winter}
 
 Os seguintes recursos estão incluídos na versão Winter &#39;18. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 
@@ -46,7 +46,7 @@ Explore como suas campanhas e canais estão afetando os resultados dos negócios
 
 Para clientes ABM com [!DNL Salesforce] ou [!DNL Microsoft Dynamics], o ABM agora herdará (e exibirá) automaticamente as relações pai-filho estabelecidas no CRM. Você poderá usar esses relacionamentos no relatório de roll-up e na execução da campanha.
 
-## Marketing por e-mail {#email-marketing}
+## Marketing por email {#email-marketing}
 
 **[Roteiro dinâmico de e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
@@ -68,7 +68,7 @@ Com essa integração, você pode enviar um público-alvo do Marketo para o Goog
 
 Nossa nova API [!DNL LinkedIn] agora permite que você redirecione pessoas em seu banco de dados do Marketo para várias contas do Campaign Manager [!DNL LinkedIn].
 
-## Personalização na Web {#web-personalization}
+## Personalização na web {#web-personalization}
 
 **Source de Dados Japonês para Web Personalization**
 

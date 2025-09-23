@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359810
 description: Ativar URLs personalizados para sua conta - Documentação do Marketo - Documentação do produto
-title: Ativar URLs personalizados para sua conta
+title: Habilitar URLs personalizados para sua conta
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# Ativar URLs personalizados para sua conta {#enable-personalized-urls-for-your-account}
+# Habilitar URLs personalizados para sua conta {#enable-personalized-urls-for-your-account}
 
 URLs personalizados são excelentes para campanhas de email impresso.
 
@@ -23,7 +23,7 @@ URLs personalizados são excelentes para campanhas de email impresso.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 

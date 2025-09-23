@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9437991
 description: Acionadores e filtros para campanhas inteligentes para dispositivos móveis - Documentação do Marketo - Documentação do produto
-title: Acionadores e filtros para campanhas inteligentes para dispositivos móveis
+title: Acionadores e filtros de campanhas inteligentes para dispositivos móveis
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Acionadores e filtros para campanhas inteligentes para dispositivos móveis {#triggers-and-filters-for-mobile-smart-campaigns}
+# Acionadores e filtros de campanhas inteligentes para dispositivos móveis {#triggers-and-filters-for-mobile-smart-campaigns}
 
 É possível configurar acionadores e filtros para uma Campanha inteligente para aplicativos móveis.
 
@@ -103,7 +103,7 @@ O Aplicativo Móvel Está/Foi Aberto
 
 Teve/Teve Atividade De Aplicativo Móvel
 
-Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e do [para o iOS](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e do [para o iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tem atividade de aplicativo móvel - acionador
 

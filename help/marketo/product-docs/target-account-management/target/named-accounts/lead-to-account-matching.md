@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11381156
 description: Correspondência de contas de lead - Documentação do Marketo - Documentação do produto
-title: Lead para Correspondência de Conta
+title: Correspondência entre leads e contas
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Lead para Correspondência de Conta {#lead-to-account-matching}
+# Correspondência entre leads e contas {#lead-to-account-matching}
 
 Corresponder leads certos a contas nomeadas certas usando a correspondência entre lead e conta da Marketo.
 

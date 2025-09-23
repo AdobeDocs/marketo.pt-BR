@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359685
 description: Painel de envolvimentos - Documentação do Marketo - Documentação do produto
-title: O Painel de Envolvimento
+title: O painel de engajamento
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# O Painel de Envolvimento {#the-engagement-dashboard}
+# O painel de engajamento {#the-engagement-dashboard}
 
 O Painel de envolvimentos é a maneira mais fácil de ver o desempenho do conteúdo em seu programa de envolvimento.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147114
 description: Entendendo meus tokens em um programa - Documentação do Marketo - Documentação do produto
-title: Compreender meus tokens em um programa
+title: Noções básicas sobre meus tokens em um programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Compreender meus tokens em um programa {#understanding-my-tokens-in-a-program}
+# Noções básicas sobre meus tokens em um programa {#understanding-my-tokens-in-a-program}
 
 Um token é uma variável que pode ser usada em emails, Landing Pages e Campanhas inteligentes para facilitar sua vida.
 
@@ -46,7 +46,7 @@ Exemplos:
   </tr>
   <tr>
    <td>Script de e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td>
+   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td>
   </tr>
   <tr>
    <td>Número<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

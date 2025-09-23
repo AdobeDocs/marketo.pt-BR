@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953338
 description: Envie um email de vendas do Marketo pela Microsoft Dynamics - Documentação do Marketo - Documentação do produto
-title: Envie um email de vendas do Marketo pela Microsoft Dynamics
+title: Enviar um email de vendas do Marketo pelo Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 

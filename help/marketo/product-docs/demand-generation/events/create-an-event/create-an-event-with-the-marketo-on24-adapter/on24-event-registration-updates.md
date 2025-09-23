@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096683
 description: Atualizações do registro de eventos ON24 - Documentação do Marketo - Documentação do produto
-title: Atualizações de registro de evento ON24
+title: Atualizações de registro de evento do ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '282'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Atualizações de registro de evento ON24 {#on-event-registration-updates}
+# Atualizações de registro de evento do ON24 {#on-event-registration-updates}
 
 ## Aprovando Inscritos Manualmente {#manually-approving-registrants}
 

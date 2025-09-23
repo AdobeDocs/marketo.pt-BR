@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949194
 description: SEO - Adicionar um site/Excluir um site - Documentação do Marketo - Documentação do produto
-title: SEO - Adicionar um site/Excluir um site
+title: SEO - Adicionar um site/excluir um site
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# SEO - Adicionar um site/Excluir um site {#seo-add-a-site-delete-a-site}
+# SEO - Adicionar um site/excluir um site {#seo-add-a-site-delete-a-site}
 
 Para que o Marketo extraia dados (links de entrada e recomendações) relevantes para as páginas do site, você deve definir o URL do site aqui.
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## [!UICONTROL Adicionar um site] {#add-a-site}
 

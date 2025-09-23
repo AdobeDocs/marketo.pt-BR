@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095347
 description: Proteger a configuração de administrador de assinatura - Documentação do Marketo - Documentação do produto
-title: Proteger a Configuração de Administrador de Assinatura
+title: Proteger a configuração de administração de assinatura
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Proteger a Configuração de Administrador de Assinatura {#secure-the-subscription-admin-setting}
+# Proteger a configuração de administração de assinatura {#secure-the-subscription-admin-setting}
 
 >[!NOTE]
 >

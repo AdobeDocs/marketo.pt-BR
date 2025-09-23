@@ -3,10 +3,10 @@ description: Envio de um email rastreado - Documentação do Marketo - Documenta
 title: Enviar um email rastreado
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

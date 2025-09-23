@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359716
 description: Pré-visualizar uma página de aterrissagem - Documentação do Marketo - Documentação do produto
-title: Visualizar uma página de aterrissagem
+title: Pré-visualizar uma página de destino
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Visualizar uma página de aterrissagem {#preview-a-landing-page}
+# Pré-visualizar uma página de destino {#preview-a-landing-page}
 
 Você provavelmente quer ver a aparência da sua landing page antes de ativá-la.
 
-## Visualizar uma página de aterrissagem {#preview-a-landing-page-1}
+## Pré-visualizar uma página de destino {#preview-a-landing-page-1}
 
 1. Selecione uma página de aterrissagem e clique em **[!UICONTROL Visualizar página]**.
 

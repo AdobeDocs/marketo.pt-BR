@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359834
 description: Priorizar conteúdo de fluxo - Documentação do Marketo - Documentação do produto
-title: Priorizar o conteúdo do fluxo
+title: Priorizar conteúdo de fluxo
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Priorizar o conteúdo do fluxo {#prioritize-stream-content}
+# Priorizar conteúdo de fluxo {#prioritize-stream-content}
 
 Depois de adicionar conteúdo ao seu fluxo, talvez você queira alterar a prioridade. O conteúdo é sempre entregue de cima para baixo em cada elenco e nenhum conteúdo é enviado duas vezes para a mesma pessoa.
 

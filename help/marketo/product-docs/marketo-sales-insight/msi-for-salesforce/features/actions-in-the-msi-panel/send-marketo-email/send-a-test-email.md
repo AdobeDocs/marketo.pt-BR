@@ -1,16 +1,16 @@
 ---
 description: Enviar um email de teste - Documentação do Marketo - Documentação do produto
-title: Enviar um email de teste
+title: Enviar email de teste
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Enviar um email de teste {#send-a-test-email}
+# Enviar email de teste {#send-a-test-email}
 
 Antes de enviar um email, você pode testar o formato do email e os tokens enviando um email de teste para si mesmo em qualquer endereço de email.
 

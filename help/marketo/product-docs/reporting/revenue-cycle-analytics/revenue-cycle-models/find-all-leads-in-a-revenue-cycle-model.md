@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360423
 description: Encontrar todos os clientes em potencial em um modelo de ciclo de receita - Documentação do Marketo - Documentação do produto
-title: Localizar todos os clientes em potencial em um Modelo de Ciclo de Receita
+title: Localizar todos os leads em um modelo de ciclo de receita
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Localizar todos os clientes em potencial em um Modelo de Ciclo de Receita {#find-all-leads-in-a-revenue-cycle-model}
+# Localizar todos os leads em um modelo de ciclo de receita {#find-all-leads-in-a-revenue-cycle-model}
 
 Usando smart lists, é possível encontrar facilmente todos os membros do modelo de ciclo de receita.
 

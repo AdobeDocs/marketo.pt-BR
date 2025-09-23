@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356429
 description: Criar tarefa no Microsoft - Documentação do Marketo - Documentação do produto
-title: Criar tarefa no Microsoft
+title: Crie tarefa na Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Criar tarefa no Microsoft {#create-task-in-microsoft}
+# Crie tarefa na Microsoft {#create-task-in-microsoft}
 
 Como profissional de marketing, você tem informações que podem ajudar as vendas a fechar negócios. Você pode criar tarefas para que eles saibam o que devem fazer e quando devem fazê-lo.
 

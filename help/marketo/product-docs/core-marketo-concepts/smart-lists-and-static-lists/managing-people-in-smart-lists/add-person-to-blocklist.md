@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9438139
 description: Adicionar pessoa ao Incluo na lista de bloqueios - Documentação do Marketo - Documentação do produto
-title: Adicionar pessoa à Inclui na lista de bloqueios
+title: Adicionar pessoa à lista de bloqueio
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Adicionar pessoa à Inclui na lista de bloqueios {#add-person-to-blocklist}
+# Adicionar pessoa à lista de bloqueio {#add-person-to-blocklist}
 
 Adicionar pessoas à sua Inclui na lista de bloqueios as impede de receber sua correspondência.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384645
 description: Entendendo todo o conteúdo - Documentação do Marketo - Documentação do produto
-title: Entender todo o conteúdo
+title: Noções básicas sobre todo o conteúdo
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Entender todo o conteúdo {#understanding-all-content}
+# Noções básicas sobre todo o conteúdo {#understanding-all-content}
 
 A página Todo o conteúdo exibe todo o conteúdo que foi descoberto ou adicionado manualmente.
 

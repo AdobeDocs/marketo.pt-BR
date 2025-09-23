@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951167
 description: Exibir resultados do programa de e-mail - Documentação do Marketo - Documentação do produto
-title: Exibir resultados do programa de e-mail
+title: Exibir resultados do programa de email
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Exibir resultados do programa de e-mail {#view-email-program-results}
+# Exibir resultados do programa de email {#view-email-program-results}
 
 Assim como na guia [!UICONTROL Resultados] das campanhas inteligentes, você pode ver as mesmas informações nos programas de email.
 

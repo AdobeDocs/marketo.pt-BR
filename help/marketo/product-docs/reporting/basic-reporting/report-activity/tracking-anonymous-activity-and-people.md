@@ -4,10 +4,10 @@ description: Rastreamento de atividades e pessoas anônimas - Documentação do 
 title: Rastreamento de atividades anônimas e pessoas
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,7 @@ Na primeira vez que alguém visitar uma [página de aterrissagem](/help/marketo/
 
    * Clica em um [link em um email do Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Preenche um [formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) do Marketo.
-   * Usa a [REST API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/leads) ou a [Munchkin](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API da Marketo (para desenvolvedores) para associar uma atividade anônima a um registro conhecido.
+   * Usa a [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) ou a [Munchkin](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API da Marketo (para desenvolvedores) para associar uma atividade anônima a um registro conhecido.
 
    Um nome no banco de dados pode estar vinculado a muitos cookies, pois as pessoas geralmente usam diferentes dispositivos e navegadores para visitar seu site.
 

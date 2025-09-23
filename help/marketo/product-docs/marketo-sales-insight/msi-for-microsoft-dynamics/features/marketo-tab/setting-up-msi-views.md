@@ -1,16 +1,16 @@
 ---
 description: Configuração de visualizações do MSI - Documentação do Marketo - Documentação do produto
-title: Configuração de exibições MSI
+title: Configuração de exibições do MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Configuração de exibições MSI {#setting-up-msi-views}
+# Configuração de exibições do MSI {#setting-up-msi-views}
 
 Instalar o plug-in [!DNL Sales Insight] no Dynamics adiciona automaticamente o [!DNL Best Bets] e os painéis relacionados no Mapa do Site. Se, por algum motivo, os painéis não forem adicionados, veja como adicioná-los manualmente.
 

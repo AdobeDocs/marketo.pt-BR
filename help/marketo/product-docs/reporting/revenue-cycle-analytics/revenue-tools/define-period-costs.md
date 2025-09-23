@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953444
 description: Definir Custos Do Período - Documentação Do Marketo - Documentação Do Produto
-title: Definir Custos do Período
+title: Definir custos do período
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Definir Custos do Período {#define-period-costs}
+# Definir custos do período {#define-period-costs}
 
 >[!NOTE]
 >

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146970
 description: Programar uma campanha inteligente em lote para execução posterior - Documentação do Marketo - Documentação do produto
-title: Agendar uma campanha inteligente em lote para execução posterior
+title: Programar uma campanha inteligente em lote para execução posterior
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Agendar uma campanha inteligente em lote para execução posterior {#schedule-a-batch-smart-campaign-to-run-later}
+# Programar uma campanha inteligente em lote para execução posterior {#schedule-a-batch-smart-campaign-to-run-later}
 
 Se você quiser definir que uma Campanha em Lote seja executada em algum momento no futuro, veja como.
 

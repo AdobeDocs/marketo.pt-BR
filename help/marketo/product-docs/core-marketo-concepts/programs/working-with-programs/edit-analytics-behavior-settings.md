@@ -4,7 +4,7 @@ description: Editar configurações de comportamento do Analytics - Documentaç�
 title: Editar configurações de comportamento das análises
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 6%

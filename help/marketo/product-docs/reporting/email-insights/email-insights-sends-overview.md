@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099413
 description: Visão geral dos envios de insights de email - Documentação do Marketo - Documentação do produto
-title: Visão geral dos envios do Email Insights
+title: Visão geral de envios de insights de email
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Visão geral dos envios do Email Insights {#email-insights-sends-overview}
+# Visão geral de envios de insights de email {#email-insights-sends-overview}
 
 Na página [!UICONTROL Envios], examine as características das comunicações recentes por email.
 

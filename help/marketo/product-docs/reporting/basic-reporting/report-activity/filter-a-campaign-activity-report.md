@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360184
 description: Filtrar um relatório de atividade de campanha - Documentação do Marketo - Documentação do produto
-title: Filtrar um relatório de atividade de campanha
+title: Filtrar um relatório de atividades de campanha
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Filtrar um relatório de atividade de campanha {#filter-a-campaign-activity-report}
+# Filtrar um relatório de atividades de campanha {#filter-a-campaign-activity-report}
 
 Concentre seu [Relatório de atividades de campanha](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) em [campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) específicas.
 

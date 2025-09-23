@@ -1,16 +1,16 @@
 ---
 unique-page-id: 2952292
 description: Noções básicas das notificações - Documentação do Marketo - Documentação do produto
-title: Noções básicas das notificações
+title: Noções básicas sobre notificações
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Noções básicas das notificações {#understanding-notifications}
+# Noções básicas sobre notificações {#understanding-notifications}
 
 As notificações o mantêm atualizado sobre os eventos do sistema que ocorrem na sua assinatura do Marketo. Por exemplo, as notificações de falha de campanha informam sobre erros em suas campanhas inteligentes, e as notificações de sincronização de CRM alertam sobre problemas críticos encontrados com a sincronização de CRM, como permissões incorretas ou a inatividade da sincronização.
 
@@ -40,7 +40,7 @@ Você pode assinar notificações para recebê-las em seu email.
 >
 >A área **[!UICONTROL enviar para]** é somente para você inserir seu email; ela não mostrará uma lista de assinantes existentes.
 
-Em alguns casos, uma notificação fornece um link &quot;Ver a lista completa&quot; para baixar um arquivo de valor separado por vírgula (CSV), por exemplo, o arquivo de Erros de sincronização do Microsoft Dynamics. A Marketo retém esses arquivos CSV por 30 dias. Se você tentar baixar o arquivo após 30 dias, receberá um erro 404.
+Em alguns casos, uma notificação fornece um link &quot;Veja a lista completa&quot; para baixar um arquivo de valor separado por vírgula (CSV), por exemplo, o arquivo de Erros de sincronização do Microsoft Dynamics. A Marketo retém esses arquivos CSV por 30 dias. Se você tentar baixar o arquivo após 30 dias, receberá um erro 404.
 
 >[!TIP]
 >

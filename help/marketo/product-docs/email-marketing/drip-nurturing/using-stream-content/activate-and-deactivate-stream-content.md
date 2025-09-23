@@ -4,10 +4,10 @@ description: Ativar e desativar conteúdo de fluxo - Documentação do Marketo -
 title: Ativar e desativar conteúdo de fluxo
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 

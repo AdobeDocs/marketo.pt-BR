@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719410
 description: Excluir uma campanha da Web - Documentação do Marketo - Documentação do produto
-title: Excluir uma campanha da Web
+title: Excluir uma campanha da web
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Excluir uma campanha da Web {#delete-a-web-campaign}
+# Excluir uma campanha da web {#delete-a-web-campaign}
 
 1. Vá para **[!UICONTROL Campanhas da Web]**.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359618
 description: Adicionar rich text a um formulário - Documentação do Marketo - Documentação do produto
-title: Adicionar Rich Text a um Formulário
+title: Adicionar rich text a um formulário
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 3%
+ht-degree: 15%
 
 ---
 
-# Adicionar Rich Text a um Formulário {#add-rich-text-to-a-form}
+# Adicionar rich text a um formulário {#add-rich-text-to-a-form}
 
 Use Rich Text em um formulário para adicionar instruções ou outras informações entre campos. Dê uma olhada.
 

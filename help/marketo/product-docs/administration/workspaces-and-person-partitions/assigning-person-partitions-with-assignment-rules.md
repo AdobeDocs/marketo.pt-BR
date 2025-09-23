@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360327
 description: Atribuição de partições de pessoa com regras de atribuição - Documentação do Marketo - Documentação do produto
-title: Atribuindo Partições de Pessoa com Regras de Atribuição
+title: Atribuição de partições de pessoa com regras de atribuição
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Atribuindo Partições de Pessoa com Regras de Atribuição {#assigning-person-partitions-with-assignment-rules}
+# Atribuição de partições de pessoa com regras de atribuição {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >

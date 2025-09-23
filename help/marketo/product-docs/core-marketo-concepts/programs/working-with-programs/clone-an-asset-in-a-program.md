@@ -4,10 +4,10 @@ description: Clonar um ativo em um programa - Documentação do Marketo - Docume
 title: Clonar um ativo em um programa
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360356
 description: Adicionar logon único a um portal - Documentação do Marketo - Documentação do produto
-title: Adicionar Logon Único a um Portal
+title: Adicionar logon único a um portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '606'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Adicionar Logon Único a um Portal {#add-single-sign-on-to-a-portal}
+# Adicionar logon único a um portal {#add-single-sign-on-to-a-portal}
 
 Se você tiver um serviço de diretório que autentica usuários, poderá permitir logon único (SSO) na Marketo. Oferecemos suporte a este recurso usando o [!DNL Security Assertion Markup Language] (SAML) versão 2.0 e superior.
 

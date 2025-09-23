@@ -1,23 +1,23 @@
 ---
 unique-page-id: 14352457
 description: Visão geral do suplemento .NET - Documentação do Marketo - Documentação do produto
-title: Visão Geral do Suplemento .NET
+title: Visão geral do complemento .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Visão Geral do Suplemento .NET {#net-add-in-overview}
+# Visão geral do complemento .NET {#net-add-in-overview}
 
 >[!NOTE]
 >
 >Este é o nosso antigo suplemento. Se você já o tiver instalado, ele continuará funcionando até 2020. Se você for um novo usuário, instale nosso novo [suplemento do Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-## Anexar um conteúdo {#attaching-a-piece-of-content}
+## Anexar conteúdo {#attaching-a-piece-of-content}
 
 Adicione o conteúdo rastreável clicando no botão **[!UICONTROL Conteúdo]** e carregando um arquivo.
 

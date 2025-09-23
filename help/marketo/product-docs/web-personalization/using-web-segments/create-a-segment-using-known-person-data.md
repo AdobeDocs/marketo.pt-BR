@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504343
 description: Criar um segmento usando dados de pessoas conhecidas - Documentação do Marketo - Documentação do produto
-title: Criar um segmento usando dados de pessoas conhecidas
+title: Criar um segmento usando dados de uma pessoa conhecida
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
-# Criar um segmento usando dados de pessoas conhecidas {#create-a-segment-using-known-person-data}
+# Criar um segmento usando dados de uma pessoa conhecida {#create-a-segment-using-known-person-data}
 
 Veja como criar um segmento usando valores de Dados de pessoas conhecidas.
 

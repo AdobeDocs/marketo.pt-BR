@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359600
 description: Cancele o teste A/B - Documentação do Marketo - Documentação do produto
-title: Cancele o teste A/B
+title: Cancelar o teste A/B
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# Cancele o teste A/B {#cancel-the-a-b-test}
+# Cancelar o teste A/B {#cancel-the-a-b-test}
 
 Se você [adicionou um teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) ao seu programa de email e decidiu que não o quer mais, ele é facilmente desfeito. Veja como.
 

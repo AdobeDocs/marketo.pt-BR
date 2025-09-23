@@ -4,10 +4,10 @@ description: Detalhes das alterações na trilha de auditoria — Documentação
 title: Detalhes da alteração na trilha de auditoria
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
-ht-degree: 14%
+ht-degree: 15%
 
 ---
 
@@ -539,7 +539,7 @@ A Trilha de auditoria oferece uma grande quantidade de informações do insight 
    <td>N/D</td>
   </tr>
   <tr>
-   <td rowspan="8">Modelo de página</td>
+   <td rowspan="8">Modelo de página de destino</td>
    <td>Criar</td>
    <td><p>Em branco<br>ou<br>Clonado de "nome do ativo"</p></td>
   </tr>
@@ -671,7 +671,7 @@ A Trilha de auditoria oferece uma grande quantidade de informações do insight 
    <td>Mostra um instantâneo do estado atual, incluindo nomes e valores de filtros e acionadores </td>
   </tr>
   <tr>
-   <td rowspan="11">Bloco de conteúdo</td>
+   <td rowspan="11">Snippet</td>
    <td>Criar</td>
    <td><p>Em branco<br>ou<br>Clonado de "nome do trecho"</p></td>
   </tr>

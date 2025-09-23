@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146901
 description: Utilização Da Lógica De Regra Avançada Da Smart List - Documentação Do Marketo - Documentação Do Produto
-title: Utilização da Lógica de Regra Avançada da Smart List
+title: Uso da lógica avançada de regras de lista inteligente
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utilização da Lógica de Regra Avançada da Smart List {#using-advanced-smart-list-rule-logic}
+# Uso da lógica avançada de regras de lista inteligente {#using-advanced-smart-list-rule-logic}
 
 Você pode encontrar as pessoas exatas de que precisa aplicando a lógica da regra de Smart List a vários filtros em uma Smart List. Veja como.
 

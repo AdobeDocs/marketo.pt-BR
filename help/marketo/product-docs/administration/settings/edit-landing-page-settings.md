@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359918
 description: Editar configurações da página de aterrissagem - Documentação do Marketo - Documentação do produto
-title: Editar configurações da página de aterrissagem
+title: Editar configurações da página de destino
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Editar configurações da página de aterrissagem {#edit-landing-page-settings}
+# Editar configurações da página de destino {#edit-landing-page-settings}
 
 É possível editar o nome de domínio e a página de fallback, habilitar ou desabilitar o preenchimento prévio do formulário, evitar o uso indevido da página de aterrissagem e muito mais. Veja como.
 

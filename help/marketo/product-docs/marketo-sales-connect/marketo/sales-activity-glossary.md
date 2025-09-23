@@ -1,16 +1,16 @@
 ---
 description: Glossário de atividades de vendas - Documentação do Marketo - Documentação do produto
-title: Glossário da atividade de vendas
+title: Glossário de atividades de vendas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Glossário da atividade de vendas {#sales-activity-glossary}
+# Glossário de atividades de vendas {#sales-activity-glossary}
 
 No Sales Connect, quando um vendedor: adiciona um lead a uma cadência de vendas, envia um email a ele ou faz uma chamada para uma atividade, ele será registrado no histórico de atividades do Marketo. Além disso, quando o lead interagir com emails, aberturas, cliques e respostas também são registrados.
 
@@ -38,7 +38,7 @@ As atividades abaixo serão registradas no Marketo a partir de [!DNL Sales Conne
   <td>[!UICONTROL ID de Modelo]</td>
  </tr>
  <tr>
-  <td>URL do Modelo de Vendas </td>
+  <td>URL do Modelo de Vendas [!UICONTROL]</td>
  </tr>
  <tr>
   <td>URL da [!UICONTROL Campanha de Vendas]</td>

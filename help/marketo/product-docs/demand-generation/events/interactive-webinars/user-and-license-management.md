@@ -3,10 +3,10 @@ description: Gerenciamento de usuários e licenças - Documentação do Marketo 
 title: Gerenciamento de usuários e licenças
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '717'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 

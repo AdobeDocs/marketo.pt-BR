@@ -4,10 +4,10 @@ description: Editar mapeamentos de campo iniciais - Documentação do Marketo - 
 title: Editar mapeamentos de campo iniciais
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Esse recurso só pode ser acessado antes da sincronização inicial com o Salesforce. Depois que o botão **[!UICONTROL Sincronizar Agora]** for pressionado, isso não poderá mais ser feito.
+>Esse recurso só é acessível antes da sincronização inicial com o Salesforce. Depois que o botão **[!UICONTROL Sincronizar Agora]** for pressionado, isso não poderá mais ser feito.
 
-Durante a sincronização inicial com o Salesforce, o Marketo Engage combina automaticamente campos personalizados com nomes semelhantes em um único campo no lado do Marketo para garantir que os dados possam ser trocados com objetos de cliente potencial e de contato no CRM. Este artigo explica como personalizar esses mapeamentos.
+Durante a sincronização inicial com o Salesforce, o Marketo Engage combina automaticamente campos personalizados com nomes semelhantes em um único campo no lado do Marketo para garantir que os dados possam ser trocados com objetos de Cliente Potencial e de Contato no CRM. Este artigo explica como personalizar esses mapeamentos.
 
 ## Mapear campos não mapeados {#map-unmapped-fields}
 
@@ -63,7 +63,7 @@ Se você tiver campos nomeados de forma semelhante no cliente potencial e no obj
 
 ## Redefinir esquema {#reset-schema}
 
-1. Se você fizer algumas alterações no esquema no Salesforce enquanto estiver trabalhando nos mapeamentos, poderá obter as alterações clicando em **[!UICONTROL Redefinir esquema]**.
+1. Se você fizer algumas alterações no esquema no Salesforce enquanto estiver trabalhando nos mapeamentos, poderá obter as alterações clicando em **[!UICONTROL Redefinir Esquema]**.
 
    * Todas as alterações de mapeamento serão redefinidas.
    * A redefinição do esquema só adicionará campos, não removerá (mesmo se você os ocultar do usuário de sincronização).

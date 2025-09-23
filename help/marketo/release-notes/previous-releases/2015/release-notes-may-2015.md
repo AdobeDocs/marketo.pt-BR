@@ -4,10 +4,10 @@ description: Notas de versão - maio de 2015 - Documentação do Marketo - Docum
 title: Notas de versão - Maio de 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -23,9 +23,9 @@ Estamos lançando um novo modo de edição de página de aterrissagem e sintaxe 
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
-## Anular programa de e-mail
+## Anular programa de email
 
-[Anular programa de e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[Anular programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Você pressionou Enviar antes que um programa de email estivesse pronto para ser enviado? Puxe os freios com o novo botão abort email program. Isso interromperá os programas de email em andamento.
 

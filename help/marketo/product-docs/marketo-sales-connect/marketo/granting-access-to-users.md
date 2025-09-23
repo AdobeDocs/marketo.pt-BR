@@ -1,16 +1,16 @@
 ---
 description: Conceder acesso aos usuários - Documentação do Marketo - Documentação do produto
-title: Conceder acesso aos usuários
+title: Conceder acesso a usuários
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Conceder acesso aos usuários {#granting-access-to-users}
+# Conceder acesso a usuários {#granting-access-to-users}
 
 Siga as etapas deste artigo para conceder aos usuários do [!DNL Sales Connect] acesso à conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e acesso a Campanhas de marketing.
 

@@ -3,14 +3,14 @@ unique-page-id: 12977439
 description: Notas de versão - Segundo trimestre de 2017 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - primavera de 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 3%
 
 ---
 
-# Notas de versão: primavera de 17 {#release-notes-spring}
+# Notas de versão: primavera de 2017 {#release-notes-spring}
 
 Os seguintes recursos estão incluídos na versão da primavera de 17. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 

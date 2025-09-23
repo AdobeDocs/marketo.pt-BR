@@ -4,10 +4,10 @@ description: Clonar uma lista ou lista inteligente - Documentação do Marketo -
 title: Clonar uma lista ou lista inteligente
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 20%
 
 ---
 

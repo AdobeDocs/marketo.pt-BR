@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359803
 description: Ativar URLs personalizados para uma página de aterrissagem - Documentação do Marketo - Documentação do produto
-title: Ativar URLs personalizados para uma página inicial
+title: Habilitar URLs personalizados para uma página de destino
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 1%
+ht-degree: 17%
 
 ---
 
-# Ativar URLs personalizados para uma página inicial {#enable-personalized-urls-for-a-landing-page}
+# Habilitar URLs personalizados para uma página de destino {#enable-personalized-urls-for-a-landing-page}
 
 URLs personalizados são excelentes para campanhas de email impresso.
 

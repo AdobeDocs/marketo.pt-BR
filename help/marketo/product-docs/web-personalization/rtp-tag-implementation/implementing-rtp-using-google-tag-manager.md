@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720145
 description: Implementação do RTP usando o Google Tag Manager - Documentação do Marketo - Documentação do produto
-title: Implementação do RTP usando o Google Tag Manager
+title: Implementação do RTP usando o gerenciador de tags do Google
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

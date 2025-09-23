@@ -3,10 +3,10 @@ description: Lista de verificação de atividades de marketing de instância her
 title: Lista de Verificação de Atividades de Marketing de Instância Herdada
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -74,7 +74,7 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
 <li>Se os tokens forem implementados, há tokens de pasta global? Como eles estão sendo usados?</li></td>
   </tr>
   <tr>
-   <td>Programas de envolvimento</td>
+   <td>Programas de engajamento</td>
    <td><li>Há <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programas de Participação</a> em execução ao vivo?</li>
 <li>Quantas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">pessoas estão exaustas</a>?
 <br/>     Se houver muitas pessoas exaustas, considere <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adicionar conteúdo</a>.</li>
@@ -88,7 +88,7 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
 <li>Algum deles deve ser desativado/arquivado?</li></td>
   </tr>
    <tr>
-   <td>Acionar campanhas</td>
+   <td>Campanhas com acionador</td>
    <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-campaign" target="_blank">Campanhas de Gatilho</a> há?</li>
 <li>Algum deles deve ser desativado/arquivado?</li>
 <li>As Campanhas de acionador devem ser alteradas para Campanhas em lote para melhorar a eficiência do processamento?</li></td>
@@ -157,7 +157,7 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
   </tr>
   <tr>
    <td>Central de Assinaturas/Preferências</td>
-   <td><li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=pt-BR" target="_blank">Central de Assinaturas/Preferências</a> configurada? Está funcionando como deveria?</li></td>
+   <td><li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Central de Assinaturas/Preferências</a> configurada? Está funcionando como deveria?</li></td>
   </tr>
   <tr>
    <td>Momentos interessantes (se aplicável)</td>

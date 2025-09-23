@@ -1,16 +1,16 @@
 ---
 description: OP-Scoring-Demographic - Documentação do Marketo - Documentação do produto
-title: Pontuação OP-Demográfica
+title: OP-Pontuação-Demográfica
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 34%
+ht-degree: 35%
 
 ---
 
-# Pontuação OP-Demográfica {#op-scoring-demographic}
+# OP-Pontuação-Demográfica {#op-scoring-demographic}
 
 Este é um exemplo de um Programa operacional avançado (tokenizado), que utiliza um Programa padrão do Marketo Engage para pontuação demográfica. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação demográfica&quot;.
 
@@ -46,7 +46,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
   </tr>
   <tr>
    <td>Pontuação</td>
-   <td>Pontuação Demográfica</td>
+   <td>Pontuação demográfica</td>
    <td>PontuaçãoDemográfica</td>
   </tr>
  </tbody>

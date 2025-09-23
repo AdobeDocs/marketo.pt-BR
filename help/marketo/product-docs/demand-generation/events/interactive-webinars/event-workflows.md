@@ -3,7 +3,7 @@ description: Fluxos de trabalho do evento - Documentação do Marketo - Document
 title: Fluxos de trabalho de evento
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Depois que o webinário for concluído, acesse a guia Dashboard para ver o desem
 
 ## Sincronização manual {#manual-sync}
 
-Webinars interativos permitem obter os dados de envolvimento do webinário da Adobe Connect se você não o tiver recebido automaticamente dentro de duas horas da conclusão do webinário. Um botão &quot;Sincronizar agora&quot; é exibido na página Visão geral. Clicar em **Sincronizar Agora** aciona um pull do Adobe Connect para preencher os dados no Marketo Engage. Após a sincronização, o botão desaparece e a guia Painel de controle é preenchida.
+Webinars interativos permitem obter os dados de envolvimento do webinário da Adobe Connect se você não o tiver recebido automaticamente dentro de duas horas da conclusão do webinário. Um botão &quot;Sincronizar agora&quot; é exibido na página Visão geral. Clicar em **Sincronizar Agora** aciona um pull do Adobe Connect para popular os dados no Marketo Engage. Após a sincronização, o botão desaparece e a guia Painel de controle é preenchida.
 
 ## Widgets de painel {#dashboard-widgets}
 

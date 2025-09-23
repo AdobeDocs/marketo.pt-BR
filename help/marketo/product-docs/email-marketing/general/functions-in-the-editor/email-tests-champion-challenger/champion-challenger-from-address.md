@@ -4,14 +4,14 @@ description: Champion/Challenger — Do endereço — Marketo Docs — Documenta
 title: Champion/Challenger - Do endereço
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Champion/Challenger: Do endereço {#champion-challenger-from-address}
+# Controlador/variante: endereço de remetente {#champion-challenger-from-address}
 
 Quer experimentar um endereço diferente de sem confusão? Veja como.
 

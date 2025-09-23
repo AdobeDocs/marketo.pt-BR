@@ -4,10 +4,10 @@ description: SEO - Adicionar páginas - Documentação do Marketo - Documentaç�
 title: SEO - Adicionar páginas
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

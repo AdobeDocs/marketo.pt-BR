@@ -4,10 +4,10 @@ description: Fazer upload de imagens e arquivos do Box - Documentação do Marke
 title: Fazer upload de imagens e arquivos do Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

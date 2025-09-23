@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15695924
 description: Classificação e ajuste do perfil da conta - Documentação do Marketo - Documentação do produto
-title: Classificação e ajuste da criação de perfil da conta
+title: Classificação e ajuste da criação de perfis de conta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
-# Classificação e ajuste da criação de perfil da conta {#account-profiling-ranking-and-tuning}
+# Classificação e ajuste da criação de perfis de conta {#account-profiling-ranking-and-tuning}
 
 O Perfil da Conta identifica o Perfil do Cliente Ideal (ICP), classifica as empresas no banco de dados com base no ICP e adiciona os dados do Indicador ICP às contas promovidas como [!UICONTROL Contas Nomeadas].
 

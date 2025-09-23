@@ -4,16 +4,16 @@ description: Modelo 7A - Documentação do Marketo - Documentação do produto
 title: Modelo 7A
 exl-id: f27b481a-6fae-4908-9488-b7fe456af071
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Modelo 7A {#template-7a}
 
-Clique com o botão direito para [baixar o Modelo 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html?lang=pt-BR)
+Clique com o botão direito para [baixar o Modelo 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html?lang=pt-BR)
+[Modelo 7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)

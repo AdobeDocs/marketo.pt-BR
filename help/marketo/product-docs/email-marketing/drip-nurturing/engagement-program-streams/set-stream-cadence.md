@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359665
 description: Definir cadência de fluxo - Documentação do Marketo - Documentação do produto
-title: Definir cadência das transmissões
+title: Definir cadência dos fluxos
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 3%
 
 ---
 
-# Definir cadência das transmissões {#set-stream-cadence}
+# Definir cadência dos fluxos {#set-stream-cadence}
 
 Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. Por exemplo: uma vez por semana ou a cada três terças-feiras do mês.
 

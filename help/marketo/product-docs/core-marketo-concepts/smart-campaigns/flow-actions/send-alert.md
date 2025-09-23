@@ -4,7 +4,7 @@ description: Enviar alerta - Documentação do Marketo - Documentação do produ
 title: Enviar alerta
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Enviar alerta {#send-alert}
 
-O Marketo Engage pode enviar um alerta por email com informações pessoais para qualquer pessoa: o proprietário das vendas, um parceiro ou outra pessoa. Use a etapa de fluxo &quot;[!UICONTROL Enviar Alerta]&quot;.
+A Marketo Engage pode enviar um alerta por email com informações pessoais para qualquer pessoa: o proprietário das vendas, um parceiro ou outra pessoa. Use a etapa de fluxo &quot;[!UICONTROL Enviar Alerta]&quot;.
 
 ![](assets/send-alert-1.png)
 

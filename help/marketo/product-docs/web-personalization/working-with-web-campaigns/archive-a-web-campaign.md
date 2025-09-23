@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978938
 description: Arquivar uma campanha da Web - Documentação do Marketo - Documentação do produto
-title: Arquivar uma campanha da Web
+title: Arquivar uma campanha da web
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Arquivar uma campanha da Web {#archive-a-web-campaign}
+# Arquivar uma campanha da web {#archive-a-web-campaign}
 
 1. Vá para **[!UICONTROL Campanhas da Web]**.
 

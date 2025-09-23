@@ -4,10 +4,10 @@ description: Configurar o acesso por push do iOS para aplicativos móveis - Docu
 title: Configurar o acesso por push do iOS para aplicativos móveis
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

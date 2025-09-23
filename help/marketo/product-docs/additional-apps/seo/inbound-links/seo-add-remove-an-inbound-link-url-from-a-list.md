@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949251
 description: SEO - Adicionar/remover um URL de link de entrada de uma lista - Documentação do Marketo - Documentação do produto
-title: SEO - Adicionar/Remover um URL de link de entrada de uma lista
+title: SEO - Adicionar/remover um URL de link de entrada de uma lista
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# SEO - Adicionar/Remover um URL de link de entrada de uma lista {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO - Adicionar/remover um URL de link de entrada de uma lista {#seo-add-remove-an-inbound-link-url-from-a-list}
 
 Você pode organizar os URLs do link de entrada para o conteúdo do seu coração.
 

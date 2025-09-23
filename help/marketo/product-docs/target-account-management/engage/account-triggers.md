@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380734
 description: Acionadores de conta - Documentação do Marketo - Documentação do produto
-title: Acionadores da conta
+title: Acionadores de conta
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Acionadores da conta {#account-triggers}
+# Acionadores de conta {#account-triggers}
 
 Ouça e aja em atividades comportamentais importantes no nível da conta em diferentes canais (por exemplo, email, Web, anúncios) usando acionadores no nível da conta.
 

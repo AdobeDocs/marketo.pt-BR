@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512979
 description: Uso do feed de cliente potencial - Documentação do Marketo - Documentação do produto
-title: Uso do feed de cliente em potencial
+title: Uso do feed de leads
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Uso do feed de cliente em potencial {#using-the-lead-feed}
+# Uso do feed de leads {#using-the-lead-feed}
 
 O Feed de lead é uma lista atualizada por minuto de eventos interessantes feitos por seus leads. Você o encontrará no lado direito ao clicar na guia Marketo. É como um RSS ou feed do [!DNL Twitter]. As atualizações mais recentes estão no topo da lista. Use isso para saltar em leads enquanto você ainda está fresco em suas mentes.
 

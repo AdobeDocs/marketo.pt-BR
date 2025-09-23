@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093348
 description: Entendendo os cartões do Smart Campaign - Documentação do Marketo - Documentação do produto
-title: Compreensão de cartões do Smart Campaign
+title: Noções básicas sobre cartões de campanha inteligente
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Compreensão de cartões do Smart Campaign {#understanding-smart-campaign-cards}
+# Noções básicas sobre cartões de campanha inteligente {#understanding-smart-campaign-cards}
 
 Use o Marketo Moments para exibir cada execução das Campanhas inteligentes do seu smartphone ou iPad. O cartão Campanha inteligente do Marketo Moments representa uma única execução de uma campanha; um novo cartão é exibido sempre que a Campanha inteligente é executada. Os cartões Smart Campaign estão marcados com uma lâmpada no canto superior esquerdo.
 

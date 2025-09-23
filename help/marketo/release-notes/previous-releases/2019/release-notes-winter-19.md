@@ -3,14 +3,14 @@ unique-page-id: 17727823
 description: Notas de versão - Winter '19 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 3%
 
 ---
 
-# Notas de versão: inverno de 19 {#release-notes-winter}
+# Notas de versão: inverno de 2019 {#release-notes-winter}
 
 Os seguintes recursos estão incluídos na versão Winter &#39;19. Verifique a edição do Marketo quanto à disponibilidade de recursos.
 

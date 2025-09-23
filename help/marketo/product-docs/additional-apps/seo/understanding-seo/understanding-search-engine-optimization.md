@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949176
 description: Noções básicas sobre a otimização do mecanismo de pesquisa - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre a otimização do mecanismo de pesquisa
+title: Noções básicas sobre a otimização do mecanismo de pesquisa (SEO)
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Noções básicas sobre a otimização do mecanismo de pesquisa {#understanding-search-engine-optimization}
+# Noções básicas sobre a otimização do mecanismo de pesquisa (SEO) {#understanding-search-engine-optimization}
 
 A Otimização do mecanismo de pesquisa (SEO) é uma coleção de práticas recomendadas que ajudam você a colocar suas páginas na frente das pessoas que usam mecanismos de pesquisa. O aplicativo SEO da Marketo ajuda você a melhorar o.
 

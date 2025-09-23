@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10096523
 description: Exibir o painel de notificação por push - Documentação do Marketo - Documentação do produto
-title: Exibir o painel de notificação por push
+title: Exibir o painel de notificações por push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Exibir o painel de notificação por push {#view-the-push-notification-dashboard}
+# Exibir o painel de notificações por push {#view-the-push-notification-dashboard}
 
 É fácil ver como as notificações por push estão se saindo.
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571888
 description: Ativação da sincronização de campo personalizado para o Revenue Cycle Analytics - Documentação do Marketo - Documentação do produto
-title: Ativação da sincronização de campo personalizado para o Revenue Cycle Analytics
+title: Habilitar sincronização de campos personalizados para a análise do ciclo de receita
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 

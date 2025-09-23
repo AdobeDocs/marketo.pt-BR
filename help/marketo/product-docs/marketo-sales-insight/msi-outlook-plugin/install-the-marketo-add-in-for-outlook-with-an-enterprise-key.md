@@ -4,7 +4,7 @@ description: Instale o Suplemento Marketo para  [!DNL Outlook]  com uma Chave co
 title: Instalar o Suplemento Marketo para  [!DNL Outlook]  com uma Chave Corporativa
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360394
 description: Exportar dados do Analisador de influência de oportunidade - Documentação do Marketo - Documentação do produto
-title: Exportar dados do analisador de influência da oportunidade
+title: Exportar dados do analisador de influência de oportunidade
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Exportar dados do analisador de influência da oportunidade {#export-opportunity-influence-analyzer-data}
+# Exportar dados do analisador de influência de oportunidade {#export-opportunity-influence-analyzer-data}
 
 Para receber atualizações de seus relatórios do Revenue Cycle Explorer e compartilhá-las, você pode inscrever qualquer endereço de email em um relatório existente.
 

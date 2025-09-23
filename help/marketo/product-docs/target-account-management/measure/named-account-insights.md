@@ -4,10 +4,10 @@ description: Insights da conta nomeada - Documentação do Marketo - Documentaç
 title: Insights da conta nomeada
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

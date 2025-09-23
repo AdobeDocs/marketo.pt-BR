@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352473
 description: Como instalar os botões Sales Connect no Salesforce - Documentação do Marketo - Documentação do produto
-title: Como instalar os botões Sales Connect no Salesforce
+title: Como instalar botões do Sales Connect no Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 5%
+ht-degree: 19%
 
 ---
 
-# Como instalar os botões Sales Connect no Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
+# Como instalar botões do Sales Connect no Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
 
 Instale facilmente o Call com o Marketo Sales Connect, envie o email de vendas do Marketo e adicione ao Campaign. Você precisará ter privilégios de administrador em [!DNL Salesforce] para instalar esses campos.
 

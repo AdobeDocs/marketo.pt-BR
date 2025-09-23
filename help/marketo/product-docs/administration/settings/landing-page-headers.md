@@ -1,16 +1,16 @@
 ---
 description: Cabeçalhos da página de aterrissagem - Documentação do Marketo - Documentação do produto
-title: Cabeçalhos da landing page
+title: Cabeçalhos da página de destino
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Cabeçalhos da landing page {#landing-page-headers}
+# Cabeçalhos da página de destino {#landing-page-headers}
 
 Siga as etapas abaixo para personalizar alguns dos cabeçalhos HTTP nos domínios da sua página de aterrissagem.
 
@@ -37,7 +37,7 @@ Siga as etapas abaixo para personalizar alguns dos cabeçalhos HTTP nos domínio
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>Permite definir se os ativos hospedados no Marketo Engage podem ou não ser incorporados em páginas externas da Web</td>
+  <td>Permite definir se os ativos hospedados pela Marketo Engage podem ou não ser incorporados em páginas externas da Web</td>
  </tr>
 </table>
 

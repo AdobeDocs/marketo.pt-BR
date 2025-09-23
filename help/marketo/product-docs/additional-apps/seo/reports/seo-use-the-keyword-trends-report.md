@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949273
 description: SEO - Use o Relatório de tendências de palavras-chave - Documentação do Marketo - Documentação do produto
-title: SEO - Uso do Relatório de Tendências de Palavra-chave
+title: SEO - Uso do relatório de tendências de palavra-chave
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# SEO - Uso do Relatório de Tendências de Palavra-chave {#seo-use-the-keyword-trends-report}
+# SEO - Uso do relatório de tendências de palavra-chave {#seo-use-the-keyword-trends-report}
 
 Nesse relatório, você pode ver como é classificado em palavras-chave ao longo do tempo.
 

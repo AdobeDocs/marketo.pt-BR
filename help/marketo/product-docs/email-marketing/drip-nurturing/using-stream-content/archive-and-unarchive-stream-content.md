@@ -4,10 +4,10 @@ description: Arquivar e desarquivar conteúdo de fluxo - Documentação do Marke
 title: Arquivar e desarquivar conteúdo de fluxo
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 

@@ -3,10 +3,10 @@ description: Documento de instância herdado em sua configuração - Documentaç
 title: Configuração do documento de instância herdado
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -59,7 +59,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
     <p><img src="assets/action-item-icon.png" alt="ícone de item de ação">Item de ação: crie um changelog e registre as alterações feitas na configuração da sua instância.</td>
   </tr>
   <tr>
-   <td>Playbooks</td>
+   <td>Manuais de estratégia</td>
     <td><li>Sua organização tem um manual do usuário ou do administrador?
     <br/>     Em caso afirmativo, atualize-os de acordo.</li></td>
   </tr>

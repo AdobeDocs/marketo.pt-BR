@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098884
 description: Filtrar campanhas da Web - Documentação do Marketo - Documentação do produto
-title: Filtrar campanhas da Web
+title: Filtrar campanhas da web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Filtrar campanhas da Web {#filter-web-campaigns}
+# Filtrar campanhas da web {#filter-web-campaigns}
 
 Depois de criar centenas de campanhas de [!DNL Web Personalization], é muito útil poder usar filtros para exibir apenas aquelas em que você está interessado.
 

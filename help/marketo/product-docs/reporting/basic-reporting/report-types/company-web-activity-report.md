@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360005
 description: Relatório de atividades da empresa na Web - Documentação do Marketo - Documentação do produto
-title: Relatório de atividades da empresa na Web
+title: Relatório de atividades da empresa na web
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Relatório de atividades da empresa na Web {#company-web-activity-report}
+# Relatório de atividades da empresa na web {#company-web-activity-report}
 
 Veja quais empresas estão visitando seu site. Você pode optar por exibir visitantes conhecidos ou anônimos, mas não ambos no mesmo relatório.
 
@@ -21,7 +21,7 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
 >
 >Para capturar a atividade do seu site na Marketo, primeiro você precisa configurar [up [!DNL Munchkin] no seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Atividade da Web da Empresa[&#128279;](report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Atividade da Web da Empresa[](report-type-overview.md).
 
 1. Opte por [exibir pessoas conhecidas ou anônimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) no relatório.
 
@@ -58,7 +58,7 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
    <td>Número de páginas carregadas pelos visitantes.</td>
   </tr>
   <tr>
-   <td>People</td>
+   <td>Pessoas</td>
    <td>Número de pessoas desta empresa que visitaram seu site.</td>
   </tr>
   <tr>

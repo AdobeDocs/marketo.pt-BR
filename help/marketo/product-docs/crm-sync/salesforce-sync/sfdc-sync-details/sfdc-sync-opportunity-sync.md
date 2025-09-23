@@ -4,14 +4,14 @@ description: SFDC Sync - Sincronização de oportunidade - Documentação do Mar
 title: Sincronização do SFDC - Sincronização de oportunidade
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# Sincronização do SFDC: sincronização de oportunidades {#sfdc-sync-opportunity-sync}
+# Sincronização do SFDC: sincronização de oportunidade {#sfdc-sync-opportunity-sync}
 
 ## Como os detalhes da oportunidade são mantidos em sincronia entre os dois sistemas? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 

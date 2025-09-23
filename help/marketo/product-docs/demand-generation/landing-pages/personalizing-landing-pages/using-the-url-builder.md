@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359801
 description: Uso do Construtor de URLs - Documentação do Marketo - Documentação do produto
-title: Usar o Construtor de URLs
+title: Uso do criador de URL
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Usar o Construtor de URLs {#using-the-url-builder}
+# Uso do criador de URL {#using-the-url-builder}
 
 O Construtor de URL ajuda a construir URLs que podem preencher campos de formulário ocultos do Marketo.
 

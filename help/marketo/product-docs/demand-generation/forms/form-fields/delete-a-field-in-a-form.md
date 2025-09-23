@@ -4,10 +4,10 @@ description: Excluir um campo em um formulário - Documentação do Marketo - Do
 title: Excluir um campo em um formulário
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 20%
 
 ---
 

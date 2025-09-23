@@ -3,10 +3,10 @@ description: Notas de versão - julho de 2024 - Documentação do Marketo - Docu
 title: Notas de versão - Julho de 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 5%
+ht-degree: 23%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 5%
 
 Abaixo você encontrará todos os recursos incluídos na versão de 24 de julho. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
-As Notas de Versão específicas do Adobe Dynamic Chat [podem ser encontradas aqui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Para ver as notas de versão específicas do Adobe Dynamic Chat, consulte [esta página](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **26 de julho de 2024**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 26 de julho de 2024**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr>
    <td><strong>Painel de Envolvimento para Webinars interativos</strong>: obtenha uma exibição de desempenho de webinário agregado, bem como uma exibição abrangente do engajamento para cada participante durante o webinário, para que você possa decidir quais leads devem ser direcionados por meio das ferramentas de orquestração da Marketo Engage.</td>
-    <td>Remetido</td>
+    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Painel de engajamento</a></td>
   </tr>
   <tr>
@@ -44,8 +44,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr>
    <td><strong>Gerenciamento de Salas para Webinars Interativos</strong>: acesse salas individuais criadas (e faça modificações, se necessário), bem como acesse o conteúdo e a gravação (e limpe-as, se necessário, para otimizar o armazenamento).</td>
-    <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gerenciamento de Salas</a></td>
+    <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gerenciamento de salas</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -55,7 +55,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr>
    <td><strong>Personalização de webinários para webinários interativos</strong>: forneça uma experiência de marca uniforme e aprovada pela organização usando uma interface de sala comum, telas intermediárias (como telas de fundo de entrada de participantes), bem como telas de fundo de vídeo personalizadas, para que a estratégia do webinário possa se alinhar mais facilmente à estratégia da marca.</td>
-    <td>Remetido</td>
+    <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Personalização de webinários interativos</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
      <tr>
    <td><strong>Alteração na API REST do Marketo</strong>: estamos introduzindo uma pequena alteração na <a href="https://developers.marketo.com/rest-api/user-management/">API de Gerenciamento de Usuários</a>. Agora os pontos de extremidade <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Procurar Usuários</a> e <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Excluir Usuário</a> oferecem suporte a <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gerenciamento de Conta de Destino</a> usuários.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
  </tbody>
@@ -80,8 +80,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 * **Descontinuação de recursos sociais**: na quarta-feira, 31 de julho de 2024, o Marketo Engage iniciará a desativação dos seguintes recursos sociais no produto:
 
    * Pesquisas
-   * Botão social
-   * Oferta da recomendação
+   * Botão de redes sociais
+   * Oferta de recomendação
    * Compartilhamento de vídeo
    * Sorteios
 

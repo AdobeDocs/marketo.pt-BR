@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147140
 description: Noções básicas sobre datas provisórias/confirmadas - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre datas provisórias/confirmadas
+title: Noções básicas sobre datas provisórias e confirmadas
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Noções básicas sobre datas provisórias/confirmadas {#understanding-tentative-confirmed-dates}
+# Noções básicas sobre datas provisórias e confirmadas {#understanding-tentative-confirmed-dates}
 
 Campanhas inteligentes e programas de email têm um recurso poderoso para serem marcados como **[!UICONTROL Provisórios]** ou **[!UICONTROL Confirmados]**. É assim que funcionam.
 

@@ -1,16 +1,16 @@
 ---
 unique-page-id: 10099167
 description: Escolha uma ação no Sales Insight - Marketo Docs - Documentação do produto
-title: Escolher uma ação no Sales Insight
+title: Escolher uma ação no Insight de vendas
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
-# Escolher uma ação no Sales Insight {#choose-an-action-in-sales-insight}
+# Escolher uma ação no Insight de vendas {#choose-an-action-in-sales-insight}
 
 As seguintes ações estão disponíveis no menu suspenso Sales Insight no Salesforce Classic e Lightning:
 

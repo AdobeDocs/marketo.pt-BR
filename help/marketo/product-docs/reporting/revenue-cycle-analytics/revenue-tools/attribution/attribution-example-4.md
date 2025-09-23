@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514151
 description: Exemplo 4 de atribuição - Documentação do Marketo - Documentação do produto
-title: Exemplo de atribuição 4
+title: Atribuição - Exemplo 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Exemplo de atribuição 4 {#attribution-example}
+# Atribuição - Exemplo 4 {#attribution-example}
 
 Leia o cenário a seguir e tente determinar os números que devem estar na grade.
 

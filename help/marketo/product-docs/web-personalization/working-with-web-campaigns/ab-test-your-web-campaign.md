@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719404
 description: AB Testar Sua Campanha Da Web - Documentação Do Marketo - Documentação Do Produto
-title: AB Testar Sua Campanha Da Web
+title: Fazer um teste A/B em sua campanha da web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '330'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# AB Testar Sua Campanha Da Web {#ab-test-your-web-campaign}
+# Fazer um teste A/B em sua campanha da web {#ab-test-your-web-campaign}
 
 Testar é uma ótima maneira de otimizar suas campanhas da Web para melhorar o engajamento. Veja como começar.
 
@@ -31,7 +31,7 @@ Para testar suas campanhas personalizadas com A/B, você pode selecionar duas ou
    >
    >Para facilitar a localização da campanha desejada, use o [recurso de filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Selecione a primeira campanha que deseja fazer o teste A/B. Clique em **[!UICONTROL Editar]**.
+1. Selecione a primeira campanha que deseja fazer o teste A/B. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
@@ -51,7 +51,7 @@ Para testar suas campanhas personalizadas com A/B, você pode selecionar duas ou
 
 1. Repita o processo acima com a segunda campanha.
 
-1. Selecione a segunda campanha que deseja fazer o teste A/B. Clique em **[!UICONTROL Editar]**.
+1. Selecione a segunda campanha que deseja fazer o teste A/B. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 

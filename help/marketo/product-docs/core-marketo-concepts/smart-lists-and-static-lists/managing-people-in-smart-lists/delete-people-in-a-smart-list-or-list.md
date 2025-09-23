@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146897
 description: Excluir pessoas em uma lista inteligente ou em uma lista - Documentação do Marketo - Documentação do produto
-title: Excluir pessoas em uma lista inteligente ou lista
+title: Excluir pessoas em uma lista ou lista inteligente
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Excluir pessoas em uma lista inteligente ou lista {#delete-people-in-a-smart-list-or-list}
+# Excluir pessoas em uma lista ou lista inteligente {#delete-people-in-a-smart-list-or-list}
 
 É possível excluir de maneira rápida e fácil algumas/todas as pessoas que estão em uma lista ou em uma Smart List.
 

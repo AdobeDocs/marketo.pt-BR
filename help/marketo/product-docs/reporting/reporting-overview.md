@@ -1,16 +1,16 @@
 ---
 description: Visão geral dos relatórios - Documentação do Marketo - Documentação do produto
-title: Visão geral dos relatórios
+title: Visão geral de relatórios
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Visão geral dos relatórios {#reporting-overview}
+# Visão geral de relatórios {#reporting-overview}
 
 O Marketo oferece uma variedade de módulos de relatórios para diferentes necessidades.
 
@@ -18,11 +18,11 @@ O Marketo oferece uma variedade de módulos de relatórios para diferentes neces
 
 Você pode configurar [relatórios básicos](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} dentro de programas ou na área do Analytics. Os relatórios básicos são compostos de diferentes tipos de relatórios prontos para uso com a flexibilidade para filtrar, classificar e ajustar intervalos de tempo.
 
-## Email Insights {#email-insights}
+## Insights de email {#email-insights}
 
 Use o Analytics e o Sends para obter [insights avançados](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sobre emails de dados históricos.
 
-## Desempenho Insights {#performance-insights}
+## Insights de desempenho {#performance-insights}
 
 [Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} aborda o desempenho do canal e o desempenho do programa para envolvimento, pipeline e geração de receita.
 

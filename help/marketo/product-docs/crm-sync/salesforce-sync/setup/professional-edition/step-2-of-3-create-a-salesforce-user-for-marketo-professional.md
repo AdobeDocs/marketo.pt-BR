@@ -4,7 +4,7 @@ description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Profes
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%

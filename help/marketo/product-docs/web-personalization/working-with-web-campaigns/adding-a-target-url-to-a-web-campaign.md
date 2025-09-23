@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6094879
 description: Adicionar um URL do Target a uma campanha da Web - Documentação do Marketo - Documentação do produto
-title: Adicionar um URL de direcionamento a uma campanha da Web
+title: Adicionar um URL de direcionamento a uma campanha da web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Adicionar um URL de direcionamento a uma campanha da Web {#adding-a-target-url-to-a-web-campaign}
+# Adicionar um URL de direcionamento a uma campanha da web {#adding-a-target-url-to-a-web-campaign}
 
 Um URL do Target está localizado na página Definir campanha e define o URL ou URLs específicos nos quais uma campanha da Web será exibida.
 

@@ -4,10 +4,10 @@ description: Visão geral do Sales Connect - Documentação do Marketo - Documen
 title: Visão geral do Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 11%
+ht-degree: 17%
 
 ---
 
@@ -25,7 +25,7 @@ Os representantes de vendas podem exibir o [engajamento em tempo real](/help/mar
 
 ![](assets/engagement.jpg)
 
-## Exibição de Detalhes da Pessoa {#person-detail-view}
+## Exibição de detalhes da pessoa {#person-detail-view}
 
 Acessar [estatísticas detalhadas de pessoas](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 

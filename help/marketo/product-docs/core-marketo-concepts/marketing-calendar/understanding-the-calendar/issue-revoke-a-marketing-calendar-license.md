@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147255
 description: Emitir/Revogar uma licença do Calendário de marketing - Documentação do Marketo - Documentação do produto
-title: Emitir/Revogar uma licença do Calendário de marketing
+title: Emitir/revogar uma licença do calendário de marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
-# Emitir/Revogar uma licença do Calendário de marketing {#issue-revoke-a-marketing-calendar-license}
+# Emitir/revogar uma licença do calendário de marketing {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >

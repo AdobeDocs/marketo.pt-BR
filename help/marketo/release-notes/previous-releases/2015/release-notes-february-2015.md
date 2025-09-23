@@ -4,10 +4,10 @@ description: Notas de versão - fevereiro de 2015 - Documentação do Marketo - 
 title: Notas de versão - fevereiro de 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 13%
+ht-degree: 15%
 
 ---
 

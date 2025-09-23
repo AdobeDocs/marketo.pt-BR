@@ -4,10 +4,10 @@ description: Remover pessoas de uma campanha - Documentação do Marketo - Docum
 title: Remover pessoas de uma campanha
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

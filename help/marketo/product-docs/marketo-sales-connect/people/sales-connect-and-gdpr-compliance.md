@@ -1,10 +1,10 @@
 ---
 unique-page-id: 14745825
 description: Conexão de vendas e conformidade com o GDPR - Documentação do Marketo - Documentação do produto
-title: Conexão de vendas e conformidade com o GDPR
+title: Sales Connect e conformidade com o RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1355'
 ht-degree: 8%
@@ -74,7 +74,7 @@ No novo Cartão de conformidade, os usuários podem rastrear a origem de um cont
 
 Novamente, os usuários têm várias opções suspensas para escolher, incluindo:
 
-* Sincronização com CRM
+* Sincronização com o CRM
 * Importar
 * Upload manual
 * [!DNL Chrome] Extensão

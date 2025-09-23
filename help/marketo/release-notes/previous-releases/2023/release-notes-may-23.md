@@ -2,10 +2,10 @@
 description: Notas de versão - maio de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Maio de 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 5%
+ht-degree: 27%
 
 ---
 
@@ -15,13 +15,13 @@ Abaixo você encontrará todos os recursos incluídos na versão de maio de 2023
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **12 de maio de 2023**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
+Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 12 de maio de 2023**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
 
-### Marketo Engage Modern UX {#modern-ux}
+### UX moderna do Marketo Engage {#modern-ux}
 
 </br>
 
@@ -33,7 +33,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Visão geral da interface do Experience Cloud</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Centro de ajuda</a></td>
   </tr>
   </tbody>
@@ -74,7 +74,7 @@ Os webinários interativos serão lançados gradualmente. Para solicitar acesso 
   </tr>
   <tr>
    <td>Implantação iniciada</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=pt-BR">Visão geral de webinários interativos</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Visão geral de webinários interativos</a></td>
   </tr>
   </tbody>
 </table>

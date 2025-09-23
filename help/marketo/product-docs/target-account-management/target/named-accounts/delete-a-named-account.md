@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615802
 description: Excluir uma conta nomeada - Documentação do Marketo - Documentação do produto
-title: Excluir uma Conta Nomeada
+title: Excluir uma conta nomeada
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

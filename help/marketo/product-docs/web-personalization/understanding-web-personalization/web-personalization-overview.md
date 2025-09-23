@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571900
 description: Visão geral do Web Personalization - Documentação do Marketo - Documentação do produto
-title: Visão geral do Web Personalization
+title: Visão geral da personalização da web
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '849'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Visão geral do Web Personalization {#web-personalization-overview}
+# Visão geral da personalização da web {#web-personalization-overview}
 
 ## Introdução {#introduction}
 

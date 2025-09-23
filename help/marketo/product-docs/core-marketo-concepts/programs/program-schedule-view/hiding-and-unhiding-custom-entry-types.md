@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147247
 description: Ocultar e reexibir tipos de entradas personalizadas - Documentação do Marketo - Documentação do produto
-title: Ocultar e Reexibir Tipos de Entrada Personalizados
+title: Ocultar e reexibir tipos de entrada personalizados
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Ocultar e Reexibir Tipos de Entrada Personalizados {#hiding-and-unhiding-custom-entry-types}
+# Ocultar e reexibir tipos de entrada personalizados {#hiding-and-unhiding-custom-entry-types}
 
 Tipos de entrada personalizados podem ser ocultos na seção Admin. Uma vez oculto, o tipo de entrada não será mais exibido como uma opção.
 

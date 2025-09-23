@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360225
 description: Filtrar o Assets em um relatório de email - Documentação do Marketo - Documentação do produto
-title: Filtrar Assets em um relatório de email
+title: Filtrar ativos em um relatório de email
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Filtrar Assets em um relatório de email {#filter-assets-in-an-email-report}
+# Filtrar ativos em um relatório de email {#filter-assets-in-an-email-report}
 
 Concentre seu relatório de [Desempenho do email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ou [Desempenho do link de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) nos emails em seus programas (&#39;ativos locais&#39;), naqueles no Design Studio (&#39;ativos globais&#39;) ou naqueles que foram arquivados.
 

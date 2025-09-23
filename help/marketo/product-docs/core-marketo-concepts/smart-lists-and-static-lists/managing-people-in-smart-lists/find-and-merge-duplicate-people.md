@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557339
 description: Localizar e mesclar pessoas duplicadas - Documentação do Marketo - Documentação do produto
-title: Localizar e Mesclar Pessoas Duplicadas
+title: Localizar e mesclar pessoas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Localizar e Mesclar Pessoas Duplicadas {#find-and-merge-duplicate-people}
+# Localizar e mesclar pessoas duplicadas {#find-and-merge-duplicate-people}
 
 O Marketo Engage remove a duplicação automaticamente quando novas pessoas entram no sistema. No entanto, seu CRM pode ter enviado inicialmente duplicatas. Veja como uni-los.
 
@@ -29,7 +29,7 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
 
 ## Localizar duplicados {#find-duplicates}
 
-1. Vá para a área **[!UICONTROL Banco de Dados]**.
+1. Acesse a área **[!UICONTROL Banco de dados]**.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 

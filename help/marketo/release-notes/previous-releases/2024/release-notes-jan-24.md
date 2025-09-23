@@ -3,10 +3,10 @@ description: Notas de versão - Janeiro de 2024 - Documentação do Marketo - Do
 title: Notas de versão – Janeiro de 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 7%
+ht-degree: 19%
 
 ---
 
@@ -16,11 +16,11 @@ Abaixo você encontrará todos os recursos incluídos na versão de janeiro de 2
 
 >[!AVAILABILITY]
 >
->Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
+>Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **12 de janeiro de 2024**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 12 de janeiro de 2024**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
     <tr>
    <td><strong>Webinars sob demanda para Webinars interativos</strong>: os Webinars sob demanda permitem que você publique a gravação do webinário e rastreie suas visitas/observações. Isso ajudará você a obter mais leads por meio de inscritos que não participaram do webinário (não comparência), mas ainda estão interessados em saber mais detalhes e visualizar a gravação.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Webinários sob demanda</a></td>
   </tr>
    <tr>
@@ -51,8 +51,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
     <tr>
    <td><strong>Filtragem da atividade de bot por email</strong>: melhora a captura da atividade de bot para envolvimento de email, permitindo que você escolha a agressividade desejada para a filtragem da identificação da atividade de bot.</td>
-   <td>Remetido</td>
-   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrar atividade de bot por email</a></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtragem da atividade do bot de email</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -61,7 +61,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    </tr>
     <tr>
    <td><strong>Atualização da API de Importação de Cliente Potencial em Massa</strong>: foi feito um pequeno ajuste no comportamento da API de Importação de Cliente Potencial em Massa quando a <b>id</b> foi especificada como o <b>lookupField</b> durante a criação do trabalho. Se um registro de pessoa vinculado à <b>id</b> fornecida não for encontrado no banco de dados do Marketo Engage, nenhuma atualização de registro ocorrerá, pois o registro não pode ser localizado. O comportamento atualizado agora inclui o incremento da contagem na propriedade <b>numOfRowsFailed</b> na resposta, indicando que a operação falhou nesses casos.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    </tr>
   <tr>
    <td><strong>Co-hosts para Webinars interativos</strong>: Co-hosts na seção Equipe de Webinars de Webinars interativos permitem que o criador do evento adicione usuários internos ou externos ao programa Webinars interativos para compartilhar responsabilidades administrativas e de entrega.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Adicionar uma equipe ao webinário</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
     <tr>
    <td><strong>Remover um usuário em webinários interativos</strong>: um administrador do Marketo Engage agora pode remover um ou mais usuários específicos em webinários interativos.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td>n/d</td>
   </tr>
  </tbody>
@@ -160,7 +160,7 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
     </tr>
     <tr>
    <td><strong>Encerramento manual do chat ao vivo</strong>: Agora os visitantes e agentes podem encerrar manualmente uma sessão de chat ao vivo.</td>
-   <td>Remetido</td>
+   <td>Enviado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Caixa de entrada do agente</a></td>
   </tr>
   <tr>

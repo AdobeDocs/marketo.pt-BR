@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900581
 description: Encaminhar para um link de amigo em emails - Documentação do Marketo - Documentação do produto
-title: Encaminhar para um Amigo por e-mail
+title: Link para “Encaminhar a um(a) amigo(a)” em emails
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '703'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Encaminhar para um Amigo por e-mail {#forward-to-a-friend-link-in-emails}
+# Link para “Encaminhar a um(a) amigo(a)” em emails {#forward-to-a-friend-link-in-emails}
 
 Adicionar o link &#39;Encaminhar para o amigo&#39; aos seus emails permite rastrear pessoas que receberam um email encaminhado por meio desse link e automaticamente as adiciona como uma nova pessoa se ainda não estiverem no banco de dados.
 

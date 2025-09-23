@@ -4,10 +4,10 @@ description: Dimensões personalizadas para insights de email - Documentação d
 title: Dimensões personalizadas para insights de email
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

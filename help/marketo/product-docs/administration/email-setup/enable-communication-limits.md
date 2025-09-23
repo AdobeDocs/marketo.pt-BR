@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360222
 description: Habilitar limites de comunicação - Documentação do Marketo - Documentação do produto
-title: Ativar limites de comunicação
+title: Habilitar limites de comunicação
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Ativar limites de comunicação {#enable-communication-limits}
+# Habilitar limites de comunicação {#enable-communication-limits}
 
 É muito importante não se comunicar demais com o seu pessoal. Definir limites de comunicação ajudará a impedir que sua organização envie muitos emails.
 
@@ -27,7 +27,7 @@ ht-degree: 1%
 
    ![](assets/enable-communication-limits-2.png)
 
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/enable-communication-limits-3.png)
 

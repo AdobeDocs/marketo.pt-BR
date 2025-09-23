@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504218
 description: Relatórios RTP personalizados no Google Universal Analytics - Documentação do Marketo - Documentação do produto
-title: Relatórios RTP personalizados no Google Universal Analytics
+title: Relatórios de RTP personalizados no Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 4%
+ht-degree: 8%
 
 ---
 
-# Relatórios RTP personalizados no Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
+# Relatórios de RTP personalizados no Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
 
 >[!PREREQUISITES]
 >

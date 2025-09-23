@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
 description: Listas inteligentes de conta - Documentação do Marketo - Documentação do produto
-title: Listas inteligentes de conta
+title: Listas inteligentes da conta
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '507'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Listas inteligentes de conta {#account-smart-lists}
+# Listas inteligentes da conta {#account-smart-lists}
 
 Veja como identificar com rapidez e precisão suas contas de alto valor.
 

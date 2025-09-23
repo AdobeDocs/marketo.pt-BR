@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352470
 description: Criar um relatório de chamada de prioridade da Salesforce com dados do Sales Connect - Marketo Docs - Documentação do produto
-title: Criar um relatório de chamada prioritária da Salesforce com dados do Sales Connect
+title: Criar um relatório de chamada prioritária do Salesforce com dados do Sales Connect
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Criar um relatório de chamada prioritária da Salesforce com dados do Sales Connect {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Criar um relatório de chamada prioritária do Salesforce com dados do Sales Connect {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Saiba como criar um relatório/lista de chamadas do [!DNL Salesforce] usando os dados de envolvimento de email do [!DNL Sales Connect] para focalizar nas pessoas ou oportunidades com impulso.
 

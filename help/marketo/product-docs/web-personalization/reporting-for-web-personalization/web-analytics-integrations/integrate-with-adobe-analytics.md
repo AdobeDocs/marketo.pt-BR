@@ -4,10 +4,10 @@ description: Integração com o Adobe Analytics - Documentação do Marketo - Do
 title: Integrar ao Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1059'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

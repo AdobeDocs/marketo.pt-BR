@@ -4,10 +4,10 @@ description: Notas de versão - abril de 2013 - Documentação do Marketo - Docu
 title: Notas de versão - abril de 2013
 exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -27,7 +27,7 @@ Se você usa o Marketo [!DNL Sales Insight] e o [!DNL Gmail], é possível insta
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
-## Análise de e-mails {#email-analysis}
+## Análise de emails {#email-analysis}
 
 Crie relatórios de email avançados no [!UICONTROL Revenue Explorer], como o relatório Click Activity Heat Grid. Este relatório informará ao insight o dia e a hora em que as pessoas estão clicando nos links de seus emails.
 

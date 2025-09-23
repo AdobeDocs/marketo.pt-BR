@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979010
 description: Visão geral da tendência do Performance Insights - Documentação do Marketo - Documentação do produto
-title: Visão geral da tendência do Performance Insights
+title: Visão geral da tendência de insights de desempenho
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

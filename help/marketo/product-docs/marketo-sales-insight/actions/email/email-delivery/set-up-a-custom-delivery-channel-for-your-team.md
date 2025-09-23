@@ -3,10 +3,10 @@ description: Configurar um canal de entrega personalizado para sua equipe - Docu
 title: Configurar um canal de entrega personalizado para sua equipe
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 

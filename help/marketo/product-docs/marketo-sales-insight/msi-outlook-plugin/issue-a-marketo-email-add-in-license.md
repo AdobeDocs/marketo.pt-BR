@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949281
 description: Emita uma licença do complemento de email do Marketo - Documentação do Marketo - Documentação do produto
-title: Emitir uma licença do Marketo Email Add-in
+title: Emitir uma licença do complemento de email do Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Emitir uma licença do Marketo Email Add-in {#issue-a-marketo-email-add-in-license}
+# Emitir uma licença do complemento de email do Marketo {#issue-a-marketo-email-add-in-license}
 
 Qualquer pessoa que quiser usar o Suplemento de Email do Marketo [!DNL Outlook] deve primeiro receber uma licença. Há duas maneiras de fornecer a licença.
 

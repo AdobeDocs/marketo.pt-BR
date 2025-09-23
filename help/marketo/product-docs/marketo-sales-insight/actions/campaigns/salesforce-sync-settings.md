@@ -3,10 +3,10 @@ description: Configurações De Sincronização Do Salesforce - Documentação D
 title: Configurações de sincronização do Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '639'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -71,7 +71,7 @@ Se, por algum motivo, seu endereço de Email para [!DNL Salesforce] não for rec
 1. Faça logon na instância do [!DNL Salesforce].
 1. Encontre seu nome de usuário no canto superior direito e selecione a barra suspensa.
 1. Selecione **[!UICONTROL Minhas Configurações]**.
-1. Selecione **[!UICONTROL Email]**.
+1. Selecione **[!UICONTROL Email]**.
 1. Selecione **[!UICONTROL Meu Email para o Salesforce]**.
 1. Nesta página, você verá um campo rotulado como &quot;[!UICONTROL Endereço de email do Salesforce]&quot;. Se não houver nada preenchido ao lado dele, role para baixo até &quot;[!UICONTROL Meus Endereços de Email Aceitáveis]&quot;.
 1. Digite o(s) endereço(s) de email que deseja Cco.
@@ -88,7 +88,7 @@ Se você não vir Meu Email para [!DNL Salesforce] em suas Configurações, talv
 1. Clique em **[!UICONTROL Instalação]**.
 1. Clique em **[!UICONTROL Administração de email]**.
 1. Clique em **[!UICONTROL Enviar Email para o Salesforce]**.
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 1. Marque a caixa ao lado de &quot;Ativo&quot;.
 1. Clique em **[!UICONTROL Salvar]**.
 

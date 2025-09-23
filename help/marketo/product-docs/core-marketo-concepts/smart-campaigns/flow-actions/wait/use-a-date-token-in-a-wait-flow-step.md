@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146997
 description: Usar um token de data em uma etapa de fluxo de espera - Documentação do Marketo - Documentação do produto
-title: Usar um token de data em uma etapa de fluxo de espera
+title: Usar um token de data em uma etapa de espera do fluxo
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Usar um token de data em uma etapa de fluxo de espera {#use-a-date-token-in-a-wait-flow-step}
+# Usar um token de data em uma etapa de espera do fluxo {#use-a-date-token-in-a-wait-flow-step}
 
 Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa em uma Campanha inteligente até uma data específica que use um token de data. Você também pode modificar a data de término por algum número de dias.
 

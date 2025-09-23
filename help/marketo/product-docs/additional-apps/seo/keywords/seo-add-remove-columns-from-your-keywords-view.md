@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949243
 description: SEO - Adicionar/Remover Colunas Da Exibição De Palavras-Chave - Documentação Do Marketo - Documentação Do Produto
-title: SEO - Adicionar/Remover Colunas da Exibição de Palavras-chave
+title: SEO - Adicionar/remover colunas da exibição de palavras-chave
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 22%
 
 ---
 
-# SEO - Adicionar/Remover Colunas da Exibição de Palavras-chave {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - Adicionar/remover colunas da exibição de palavras-chave {#seo-add-remove-columns-from-your-keywords-view}
 
 Você pode ajustar a visualização de palavras-chave para exibir os dados nos quais está mais interessado.
 

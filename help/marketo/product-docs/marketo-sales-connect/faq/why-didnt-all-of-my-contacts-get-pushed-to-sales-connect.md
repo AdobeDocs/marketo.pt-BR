@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352491
-description: Por que todos os meus contatos não foram enviados para o Sales Connect? - Documentação do Marketo - Documentação do produto
+description: Por que todos os meus contatos não foram enviados para o Sales Connect? - Documentos do Marketo - Documentação do produto
 title: Por que todos os meus contatos não foram enviados para o Sales Connect?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 

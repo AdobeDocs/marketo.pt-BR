@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12979223
 description: Configurar a conta Insight - Documentação do Marketo - Documentação do produto
-title: Configurar Insight da conta
+title: Configurar insight de conta
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Configurar Insight da conta {#set-up-account-insight}
+# Configurar insight de conta {#set-up-account-insight}
 
 Veja como configurar o Account Insight.
 
@@ -27,7 +27,7 @@ Veja como configurar o Account Insight.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/set-up-account-insight-3.png)
 

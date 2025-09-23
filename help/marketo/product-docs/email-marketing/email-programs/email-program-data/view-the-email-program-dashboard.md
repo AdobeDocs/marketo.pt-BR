@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359469
 description: Exibir o painel do programa de e-mail - Documentação do Marketo - Documentação do produto
-title: Exibir o painel do programa de e-mail
+title: Exibir o painel do programa de email
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Exibir o painel do programa de e-mail {#view-the-email-program-dashboard}
+# Exibir o painel do programa de email {#view-the-email-program-dashboard}
 
 Confira o desempenho do seu programa de email (com ou sem um teste A/B) com esse painel.
 

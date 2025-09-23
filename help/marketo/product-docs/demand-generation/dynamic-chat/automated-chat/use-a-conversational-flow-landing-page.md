@@ -4,10 +4,10 @@ title: Usar uma página de aterrissagem de fluxo de conversa
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ Incorporar um fluxo de conversa do Dynamic Chat diretamente em uma página de at
 >
 >Crie um [Fluxo de Conversação](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) simples que contenha apenas um cartão **Reserva de reunião**.
 
-## Páginas de aterrissagem guiadas {#guided-landing-pages}
+## Páginas de destino guiadas {#guided-landing-pages}
 
 Incorpore o seguinte código no modelo de Página de Aterrissagem Guiada: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515616
 description: Lista de modelos da página de aterrissagem guiada - Documentação do Marketo - Documentação do produto
-title: Lista de modelos de página de aterrissagem guiada
+title: Lista de modelos de página de destino guiada
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 0%
+ht-degree: 62%
 
 ---
 
-# Lista de modelos de página de aterrissagem guiada {#guided-landing-page-template-list}
+# Lista de modelos de página de destino guiada {#guided-landing-page-template-list}
 
 Procure nossa coleção de modelos de exemplo, para usar com o [Editor de página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada modelo é totalmente responsivo e baseado na estrutura do Bootstrap.
 

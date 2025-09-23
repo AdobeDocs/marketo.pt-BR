@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10617431
 description: Definição Do Público-Alvo De Mensagens No Aplicativo - Documentação Do Marketo - Documentação Do Produto
-title: Definir O Público De Mensagens No Aplicativo
+title: Definir o público-alvo da mensagem no aplicativo
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Definir O Público De Mensagens No Aplicativo {#set-your-in-app-message-audience}
+# Definir o público-alvo da mensagem no aplicativo {#set-your-in-app-message-audience}
 
 O primeiro passo é decidir quem deve receber a mensagem no aplicativo. Você precisa configurar sua lista inteligente.
 

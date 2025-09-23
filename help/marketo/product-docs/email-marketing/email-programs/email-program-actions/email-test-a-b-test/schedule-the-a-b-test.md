@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359547
 description: Programar o teste A/B - Documentação do Marketo - Documentação do produto
-title: Programar o teste A/B
+title: Agendar o teste A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Programar o teste A/B {#schedule-the-a-b-test}
+# Agendar o teste A/B {#schedule-the-a-b-test}
 
 Depois de adicionar um teste A/B a um programa de email e definir os critérios de vencedor, será necessário agendar o início do teste. Veja como.
 

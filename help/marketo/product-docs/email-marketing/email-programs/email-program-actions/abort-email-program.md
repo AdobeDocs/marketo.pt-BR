@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504840
 description: Anular programa de email - Documentação do Marketo - Documentação do produto
-title: Anular programa de e-mail
+title: Anular programa de email
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 7%
 
 ---
 
-# Anular programa de e-mail {#abort-email-program}
+# Anular programa de email {#abort-email-program}
 
 Ih! Acerte os freios! Esse programa de email não deve ser enviado.
 

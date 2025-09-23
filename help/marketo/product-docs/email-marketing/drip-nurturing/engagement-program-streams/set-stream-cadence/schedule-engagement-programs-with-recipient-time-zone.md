@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982909
 description: Programar programas de engajamento com fuso horário do recipient - Documentação do Marketo - Documentação do produto
-title: Agendar programas de engajamento com fuso horário do recipient
+title: Agendar programas de engajamento com fuso horário do destinatário
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Agendar programas de engajamento com fuso horário do recipient {#schedule-engagement-programs-with-recipient-time-zone}
+# Agendar programas de engajamento com fuso horário do destinatário {#schedule-engagement-programs-with-recipient-time-zone}
 
 Quando você agendar um fluxo de programa de envolvimento e o fuso horário do recipient estiver ativo, a conversão do programa começará a ser executada à meia-noite no primeiro fuso horário (UTC +14:00). Você precisa agendar o primeiro elenco **pelo menos 25 horas** no futuro, pois pode haver pessoas qualificadas para o elenco em todos os fusos horários do mundo. Iniciar o processamento neste horário no primeiro fuso horário garante que enviaremos o email na data e hora programadas para cada recipient.
 

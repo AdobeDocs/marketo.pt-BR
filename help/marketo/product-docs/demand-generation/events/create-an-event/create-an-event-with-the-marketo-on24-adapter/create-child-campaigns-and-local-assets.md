@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
 description: Criar campanhas secundárias e Assets local — Documentação do Marketo — Documentação do produto
-title: Criar campanhas secundárias e Assets local
+title: Criar campanhas secundárias e ativos locais
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '665'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Criar campanhas secundárias e Assets local {#create-child-campaigns-and-local-assets}
+# Criar campanhas secundárias e ativos locais {#create-child-campaigns-and-local-assets}
 
 Crie campanhas filho e ativos locais usando o Design Studio.
 

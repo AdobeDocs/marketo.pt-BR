@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952402
 description: Filtrar tipos de atividade no Log de atividades de uma pessoa - Documentação do Marketo - Documentação do produto
-title: Filtrar tipos de atividade no registro de atividades de uma pessoa
+title: Filtrar tipos de atividade no log de atividades de uma pessoa
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 17%
 
 ---
 
-# Filtrar tipos de atividade no registro de atividades de uma pessoa {#filter-activity-types-in-the-activity-log-of-a-person}
+# Filtrar tipos de atividade no log de atividades de uma pessoa {#filter-activity-types-in-the-activity-log-of-a-person}
 
 Procure atividades que são mais importantes para você no registro de atividades.
 

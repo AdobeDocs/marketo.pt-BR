@@ -1,15 +1,15 @@
 ---
-description: Por Que Minha Campanha Terminou? - Documentação do Marketo - Documentação do produto
-title: Por Que Minha Campanha Terminou?
+description: Por Que Minha Campanha Terminou? - Documentos do Marketo - Documentação do produto
+title: Por que minha campanha terminou?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Por Que Minha Campanha Terminou? {#why-has-my-campaign-ended}
+# Por que minha campanha terminou? {#why-has-my-campaign-ended}
 
 Se você vir um email na pasta Falha no delivery dizendo &quot;a campanha terminou&quot;, significa que esse email específico era um email agendado na sua campanha.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360346
 description: Editar aliases de campo para importação de lista - Documentação do Marketo - Documentação do produto
-title: Editar Aliases de Campo para Importação de Lista
+title: Editar aliases de campo para importação de lista
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Editar Aliases de Campo para Importação de Lista {#edit-field-aliases-for-list-import}
+# Editar aliases de campo para importação de lista {#edit-field-aliases-for-list-import}
 
 Ao importar uma lista com cabeçalhos desconhecidos, você pode criar aliases de campo para facilitar o processo. Também é possível editar esses aliases no gerenciamento de campos. Dê uma olhada.
 

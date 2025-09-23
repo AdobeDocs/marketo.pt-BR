@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951884
 description: Noções básicas da análise de oportunidade no Explorador de receita - Documentação do Marketo - Documentação do produto
-title: Noções básicas da análise de oportunidade no Gerenciador de receita
+title: Noções básicas sobre a análise de oportunidades no gerenciador de receita
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
-# Noções básicas da análise de oportunidade no Gerenciador de receita {#understanding-opportunity-analysis-in-revenue-explorer}
+# Noções básicas sobre a análise de oportunidades no gerenciador de receita {#understanding-opportunity-analysis-in-revenue-explorer}
 
 A Análise de oportunidade no Explorador de receita permite examinar suas oportunidades em um nível mais profundo. Divida os dados com base em atributos de clientes potenciais/empresas, como origem de clientes potenciais, setor ou região geográfica. Analisar a criação e o fechamento da oportunidade com base no nome, estágio ou probabilidade. Descubra as contribuições de marketing para o pipeline.
 
@@ -79,7 +79,7 @@ A Análise de Oportunidades oferece acesso a todas as dimensões relacionadas a 
    |---|---|
    | Incluído na lista de bloqueios | Incluir na lista de bloqueios A liderança é mudada |
    | Convertido em oportunidade | O cliente em potencial é convertido em uma oportunidade |
-   | E-mail inválido | Se o cliente potencial tem um endereço de email válido |
+   | Email inválido | Se o cliente potencial tem um endereço de email válido |
    | Campanha de marketing suspensa | O cliente potencial está suspenso de emails de marketing |
    | Endereço de email | Endereço de email do lead |
    | Nome do cargo | Cargo do lead |

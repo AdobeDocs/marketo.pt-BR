@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146999
 description: Tokens de acionador para momentos interessantes - Documentação do Marketo - Documentação do produto
-title: Tokens de acionador para momentos interessantes
+title: Tokens acionadores de momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '546'
-ht-degree: 67%
+ht-degree: 68%
 
 ---
 
-# Tokens de acionador para momentos interessantes {#trigger-tokens-for-interesting-moments}
+# Tokens acionadores de momentos interessantes {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >

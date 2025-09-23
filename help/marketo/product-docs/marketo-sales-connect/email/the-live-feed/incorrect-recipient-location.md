@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352543
 description: Localização Incorreta Do Recipient — Documentação Do Marketo — Documentação Do Produto
-title: Local de Destinatário Incorreto
+title: Local de destinatário incorreto
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Local de Destinatário Incorreto {#incorrect-recipient-location}
+# Local de destinatário incorreto {#incorrect-recipient-location}
 
 Se erramos na localização de seus recipients, há três possibilidades para o que pode ter acontecido:
 

@@ -1,16 +1,16 @@
 ---
 description: Visão geral do Command Center - Documentação do Marketo - Documentação do produto
-title: Visão geral do Command Center
+title: Visão geral do Centro de comando
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Visão geral do Command Center {#command-center-overview}
+# Visão geral do Centro de comando {#command-center-overview}
 
 O [!UICONTROL Centro de comando] é um modo de exibição único e unificado que ajuda você a descobrir sua próxima etapa e, ao mesmo tempo, garantir que nada seja alterado.
 
@@ -87,4 +87,4 @@ Bônus: se você salvar sua pesquisa avançada, ela funcionará como uma lista d
 >
 >* Tarefas
 >* Visão geral da pesquisa avançada
->* Escrevendo emails em massa com Selecionar e enviar
+>* Escrever emails em massa com as opções Selecionar e Enviar

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719406
 description: Iniciar/Pausar uma campanha da Web - Documentação do Marketo - Documentação do produto
-title: Iniciar/Pausar uma campanha da Web
+title: Iniciar/pausar uma campanha da web
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Iniciar/Pausar uma campanha da Web {#launch-pause-a-web-campaign}
+# Iniciar/pausar uma campanha da web {#launch-pause-a-web-campaign}
 
 Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) no seu site, uma [substituição de zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), um recurso de widget ou um alerta por email.
 
