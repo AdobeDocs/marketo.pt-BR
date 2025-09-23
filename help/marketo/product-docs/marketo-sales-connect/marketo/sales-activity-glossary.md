@@ -38,7 +38,7 @@ As atividades abaixo serão registradas no Marketo a partir de [!DNL Sales Conne
   <td>[!UICONTROL ID de Modelo]</td>
  </tr>
  <tr>
-  <td>URL do Modelo de Vendas [!UICONTROL]</td>
+  <td>URL do Modelo de Vendas </td>
  </tr>
  <tr>
   <td>URL da [!UICONTROL Campanha de Vendas]</td>

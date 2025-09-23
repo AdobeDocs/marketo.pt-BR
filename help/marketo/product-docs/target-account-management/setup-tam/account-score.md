@@ -47,9 +47,9 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 >Para calcular pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketo TAM agrega automaticamente pontuações de clientes potenciais às pontuações de contas. Como exemplo, vamos usar dois dos exemplos acima (_Pontuação de interesse do produto da conta_ e _Pontuação de envolvimento da Web da conta_).
 >
 >Primeiro, crie campos de pontuação de lead que capturem detalhes relevantes de cada lead de uma conta de destino.
->>Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:
->>Pontuação de Juros do Produto da Conta = SUM (Pontuação de Juros do Produto Cliente Potencial)
->>Pontuação de envolvimento da Web da conta = SUM (Pontuação de envolvimento da Web do lead)
+>&#x200B;>Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:
+>&#x200B;>Pontuação de Juros do Produto da Conta = SUM (Pontuação de Juros do Produto Cliente Potencial)
+>&#x200B;>Pontuação de envolvimento da Web da conta = SUM (Pontuação de envolvimento da Web do lead)
 
 >[!NOTE]
 >

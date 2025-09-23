@@ -86,7 +86,7 @@ As análises de conteúdo adicionais incluem:
 
 * **[!UICONTROL Exibições]**: exibições desse conteúdo para o escopo de tempo selecionado
 * **[!UICONTROL Conversões diretas]**: visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita.
-* **[!UICONTROL Taxa de Conversão]****:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
+* **[!UICONTROL Taxa de Conversão]**&#x200B;**:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
 
 **[!UICONTROL Tendências]**
 

@@ -22,8 +22,8 @@ ht-degree: 9%
 >[!NOTE]
 >
 >Este recurso opera independentemente das restrições de logon baseadas em IP do Marketo Engage (sendo substituído pela Lista de acesso IP da Admin Console*) e continuará a funcionar após a [migração do Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
->> 
->>&#42;A disponibilidade geral da lista de acesso IP está planejada para o quarto trimestre de 2025.
+>&#x200B;> 
+>&#x200B;>&#42;A disponibilidade geral da lista de acesso IP está planejada para o quarto trimestre de 2025.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
