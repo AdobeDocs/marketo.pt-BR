@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Modelo 8E {#template-8e}
 
-Clique com o botão direito do mouse para [baixar o Modelo 8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)
+Clique com o botão direito do mouse para [baixar o Modelo 8E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html?lang=pt-BR)
 
 ![](assets/image2015-7-29-14-3a39-3a0.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 8E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html)
+[Modelo 8E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8e.html?lang=pt-BR)

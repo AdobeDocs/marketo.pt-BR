@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Modelo 12A {#template-12a}
 
-Clique com o botão direito para [baixar o Modelo 12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
+Clique com o botão direito para [baixar o Modelo 12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=pt-BR)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html)
+[Modelo 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=pt-BR)

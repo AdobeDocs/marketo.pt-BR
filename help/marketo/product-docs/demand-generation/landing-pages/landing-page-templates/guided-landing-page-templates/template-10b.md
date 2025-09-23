@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Modelo 10B {#template-10b}
 
-Clique com o botão direito para [baixar o Modelo 10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+Clique com o botão direito para [baixar o Modelo 10B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html?lang=pt-BR)
 
 ![](assets/image2015-7-27-10-3a48-3a23.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html)
+[Modelo 10B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10b.html?lang=pt-BR)

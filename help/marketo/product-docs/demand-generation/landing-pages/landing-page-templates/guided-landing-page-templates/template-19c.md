@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modelo 19C {#template-19c}
 
-Clique com o botão direito para [baixar o Modelo 19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+Clique com o botão direito para [baixar o Modelo 19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=pt-BR)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+[Modelo 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=pt-BR)

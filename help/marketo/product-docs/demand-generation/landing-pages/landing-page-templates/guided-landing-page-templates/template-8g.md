@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Modelo 8G {#template-8g}
 
-Clique com o botão direito do mouse para [baixar o Modelo 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+Clique com o botão direito do mouse para [baixar o Modelo 8G](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=pt-BR)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html)
+[Modelo 8G.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=pt-BR)

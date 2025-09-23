@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modelo 6B {#template-6b}
 
-Clique com o botão direito do mouse para [baixar o Modelo 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+Clique com o botão direito do mouse para [baixar o Modelo 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=pt-BR)
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+[Modelo 6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=pt-BR)

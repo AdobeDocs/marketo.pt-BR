@@ -13,7 +13,7 @@ ht-degree: 9%
 
 # Modelo 19E {#template-19e}
 
-Clique com o botão direito do mouse para [baixar o Modelo 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+Clique com o botão direito do mouse para [baixar o Modelo 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html?lang=pt-BR)
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+[Modelo 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html?lang=pt-BR)

@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modelo 11E {#template-11e}
 
-Clique com o botão direito do mouse para [baixar o Modelo 11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+Clique com o botão direito do mouse para [baixar o Modelo 11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=pt-BR)
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+[Modelo 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=pt-BR)

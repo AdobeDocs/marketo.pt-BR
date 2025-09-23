@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modelo 7B {#template-7b}
 
-Clique com o botão direito para [baixar o Modelo 7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+Clique com o botão direito para [baixar o Modelo 7B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html?lang=pt-BR)
 
 ![](assets/image2015-7-29-15-3a13-3a3.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html)
+[Modelo 7B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7b.html?lang=pt-BR)

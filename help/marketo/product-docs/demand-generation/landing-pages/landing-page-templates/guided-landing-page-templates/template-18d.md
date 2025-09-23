@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modelo 18D {#template-18d}
 
-Clique com o botão direito para [baixar o Modelo 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+Clique com o botão direito para [baixar o Modelo 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html?lang=pt-BR)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+[Modelo 18D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html?lang=pt-BR)

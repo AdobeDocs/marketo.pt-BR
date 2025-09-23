@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modelo 1C {#template-1c}
 
-Clique com o botão direito do mouse para [baixar o Modelo 1C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+Clique com o botão direito do mouse para [baixar o Modelo 1C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=pt-BR)
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+[Modelo 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=pt-BR)
