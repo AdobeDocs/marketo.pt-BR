@@ -4,9 +4,9 @@ description: Localizar e mesclar pessoas duplicadas - Documentação do Marketo 
 title: Localizar e mesclar pessoas duplicadas
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '419'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
 
 >[!PREREQUISITES]
 >
->Encontrar e mesclar duplicatas envolverá o uso de [Smart Lists integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Encontrar e mesclar duplicatas envolve o uso de [Smart Lists integradas/do sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,13 +59,15 @@ O Marketo Engage remove a duplicação automaticamente quando novas pessoas entr
    >
    >Você pode ter duas ou mais duplicatas para a mesma pessoa - selecione-as todas de uma vez.
 
-1. Você verá os valores entre os registros que _não_ correspondem. Selecione o valor que deseja manter para cada campo. Clique em **[!UICONTROL Mesclar]** quando terminar. Se você não quiser nenhum valor, marque **[!UICONTROL Personalizado]** e insira um valor de sua escolha.
+1. Os valores entre os registros que não correspondem são exibidos. _Selecione o valor que deseja manter para cada campo_. Clique em **[!UICONTROL Mesclar]** quando terminar. Se você não quiser nenhum valor, marque **[!UICONTROL Personalizado]** e insira um valor de sua escolha.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >Ao mesclar pessoas manualmente, a primeira pessoa selecionada será o &quot;vencedor&quot;. Portanto, na guia Pessoas, se você estiver mesclando as IDs de registro 198 e 199 e clicar primeiro em 199, 199 será a ID de registro das pessoas mescladas. Isso também se aplica se mais de dois registros forem mesclados.
+   >* Ao contrário do Salesforce, ao mesclar pessoas no Marketo, suas pontuações são _não_ somadas. Você seleciona os valores que deseja manter.
+   >
+   >* Ao mesclar pessoas manualmente, a primeira pessoa selecionada será o &quot;vencedor&quot;. Portanto, na guia Pessoas, se você estiver mesclando as IDs de registro 198 e 199 e clicar primeiro em 199, 199 será a ID de registro das pessoas mescladas. Isso também se aplica se mais de dois registros forem mesclados.
 
    >[!TIP]
    >
