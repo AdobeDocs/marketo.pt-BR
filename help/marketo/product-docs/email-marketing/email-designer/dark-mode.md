@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
+source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
 workflow-type: tm+mt
-source-wordcount: '1276'
+source-wordcount: '1277'
 ht-degree: 1%
 
 ---
@@ -136,7 +136,7 @@ Para definir configurações personalizadas do modo escuro, siga as etapas abaix
 
 1. Quando estiver satisfeito com as alterações do modo escuro, clique em **[!UICONTROL Simular Conteúdo]**.
 
-   ![](assets/dark-mode-simulate.png)
+   CAPTURA DE TELA
 
 1. Selecione **[!UICONTROL Renderizar email]** e conecte-se à sua conta Litmus. Você pode ver a renderização final do modo escuro para vários clientes de email. Saiba mais sobre [Renderização de email](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
