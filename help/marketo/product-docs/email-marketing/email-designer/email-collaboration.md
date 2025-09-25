@@ -5,9 +5,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
+source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -16,43 +17,50 @@ ht-degree: 1%
 
 A colaboração e os comentários por email permitem que as equipes de marketing revisem, discutam e finalizem ativos de email no Adobe Marketo Engage Email Designer. Em vez de compartilhar rascunhos por meio de ferramentas externas (como bate-papo, threads de email, planilhas etc.), você pode comentar, sugerir edições e resolver comentários em tempo real. Isso simplifica o fluxo de trabalho, reduz erros e garante que as partes interessadas sejam alinhadas antes que uma campanha de email seja enviada.
 
+## Permissões {#permissions}
 
-## Ativar o Collaboration {#enable-collaboration}
-
-1. Ao criar ou editar um email no Designer de email, você verá uma opção &quot;Collaboration&quot; no lado direito.
-
-   CAPTURA DE TELA
-
-1. Isso permite que os membros da equipe entrem no modo de revisão colaborativa.
-
-   CAPTURA DE TELA
+Os usuários que têm permissões de edição para um ativo de email poderão comentar, marcar e exibir comentários. Usuários com permissões somente leitura para ativos de email **não** poderão adicionar ou exibir comentários.
 
 ## Adicionar comentários {#add-comments}
 
-1. Clique em uma estrutura, coluna ou conteúdo (texto, imagem, botão etc.) em qualquer seção editável no Designer de email.
+1. Ao criar ou editar um email no Designer de email, clique em uma estrutura, coluna ou conteúdo (texto, imagem, botão etc.) em qualquer seção editável.
 
-   CAPTURA DE TELA
+   ![](assets/email-collaboration-1.png)
 
-1. Clique no ícone de comentário ().
+1. Clique no ícone de comentário.
 
-   CAPTURA DE TELA
+   ![](assets/email-collaboration-2.png)
 
-1. Digite comentários, perguntas ou sugestões.
+1. Insira comentários, perguntas ou sugestões.
 
-   CAPTURA DE TELA
+   ![](assets/email-collaboration-3.png)
 
 >[!NOTE]
 >
 >Adicione tags a colegas de equipe usando @mentions (por exemplo, &quot;@John, please update the Winter Newsletter&quot;).
 
+## Exibir todos os comentários {#view-all-comments}
+
+1. Clique no ícone _Collaboration_ no lado direito.
+
+   ![](assets/email-collaboration-4.png)
+
+1. Responda rapidamente ou curta um comentário.
+
+   ![](assets/email-collaboration-5.png)
+
+1. Clique no ícone **...** para obter mais ações.
+
+   ![](assets/email-collaboration-6.png)
+
 ## Resolver comentários {#resolve-comments}
 
 Cada thread de comentários inclui:
 
-* Responder: Continue a discussão.
-* Resolver: marque o comentário como endereçado.
-* Não resolver: se forem necessárias mais edições.
-* Remover: separa o comentário do elemento de design (que foi selecionado quando o comentário foi criado)
+* Responder: Continuar a discussão
+* Resolver: marcar o comentário como resolvido
+* Não resolver: se mais edições forem necessárias
+* Remover: remove o comentário do elemento de design
 * Excluir: exclui permanentemente o comentário
 
 >[!NOTE]
@@ -68,10 +76,6 @@ As notificações são acionadas para:
 * Novos comentários
 * Menções (@username)
 * Resoluções
-
-## Permissões {#permissions}
-
-Os usuários que têm permissões de edição para um ativo de email poderão comentar, marcar e exibir comentários. Usuários com permissões somente leitura para ativos de email **não** poderão adicionar ou exibir comentários.
 
 ## Práticas recomendadas {#best-practices}
 
