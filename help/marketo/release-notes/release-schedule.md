@@ -4,7 +4,7 @@ description: Programação de lançamento - Documentos do Marketo - Documentaç�
 title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: f6b0e5c6409e173803a0ec4f8c912511bd90c41f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
@@ -69,7 +69,7 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
   </tr>
   <tr>
    <td>Outubro de 2025</td>
-   <td>17 de outubro de 2025</td>
+   <td>sábado, 31 de outubro de 2025</td>
    <td>No cronograma</td>
   </tr>
  </tbody>
