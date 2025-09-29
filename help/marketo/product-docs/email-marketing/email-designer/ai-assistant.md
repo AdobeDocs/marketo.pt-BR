@@ -6,9 +6,9 @@ description: Aproveite a tecnologia de IA generativa da Adobe para adicionar tex
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,33 @@ O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails 
 
 >[!PREREQUISITES]
 >
->O Assistente de IA não está ativado por padrão. Primeiro, você deve concordar com os termos principais da Gen-AI e os termos complementares para usar a funcionalidade da Gen-AI no Designer de email. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+>O Assistente de IA não está ativado por padrão. Primeiro, você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar a funcionalidade da Gen-AI no Designer de email. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+
+## Configurar permissões {#set-up-permissions}
+
+_Após_ seguir o pré-requisito acima, os administradores do Marketo devem aplicar acesso a usuários/funções específicos antes que os usuários vejam os botões GenAI.
+
+1. No Marketo Engage, clique em **Administrador** e selecione **Usuários e funções**.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. Na guia **Funções**, clique duas vezes na função desejada.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. Em _Access Design Studio_, marque a caixa de seleção **Acessar Assistente de IA** e clique em **Salvar**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Clique na guia Usuários e selecione o usuário ao qual deseja fornecer acesso.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Selecione a função escolhida na Etapa 3 e o espaço de trabalho desejado (se aplicável). Clique em **Salvar**.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## Casos de uso {#use-cases}
 
 Existem três casos de uso principais para o Assistente de IA:
 
