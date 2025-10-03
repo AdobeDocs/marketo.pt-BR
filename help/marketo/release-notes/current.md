@@ -5,8 +5,8 @@ exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -42,7 +42,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Fluxo de trabalho do Email Designer - Collaboration de Conteúdo</strong>: Agora você pode comentar e colaborar com outros usuários do Marketo em um ativo de email. Marque membros da equipe (usuários do Marketo que têm as permissões de ativos apropriadas) e esses membros receberão uma notificação de email ou de pulso.</td>
+   <td><strong>Designer de email — fluxo de trabalho de colaboração de conteúdo</strong>: agora é possível comentar e colaborar com outros usuários do Marketo dentro de um ativo de email. Marque membros da equipe (usuários do Marketo que têm as permissões de ativos apropriadas) e esses membros receberão uma notificação de email ou de pulso.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -62,7 +62,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Modo Escuro</strong>: agora você pode utilizar o Modo Escuro, que permite que clientes e aplicativos de email de suporte exibam emails com planos de fundo mais escuros e cores mais claras para texto, botões e outros elementos da interface do usuário.</td>
+   <td><strong>Designer de email — modo escuro</strong>: agora é possível utilizar o modo escuro, que permite que clientes de email e aplicativos compatíveis exibam emails com fundos mais escuros e cores mais claras para textos, botões e outros elementos da IU.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
