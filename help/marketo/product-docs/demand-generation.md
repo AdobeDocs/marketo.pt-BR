@@ -3,7 +3,7 @@ unique-page-id: 557078
 description: Geração de demanda - Documentos do Marketo - Documentação do produto
 title: Geração de demanda
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: f6b0e5c6409e173803a0ec4f8c912511bd90c41f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -69,7 +69,7 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
   </tr>
   <tr>
    <td>Outubro de 2025</td>
-   <td>sábado, 31 de outubro de 2025</td>
+   <td>31 de outubro de 2025</td>
    <td>No cronograma</td>
   </tr>
  </tbody>
