@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 0%
+source-wordcount: '414'
+ht-degree: 1%
 
 ---
 
@@ -51,29 +51,29 @@ Para tornar partes de um fragmento visual editáveis, siga estas etapas:
 1. Salve as alterações ao concluir.
 
 Depois de adicionar o fragmento em um email, os usuários poderão personalizar todos os campos editáveis configurados no fragmento.
+<!--
+## Add editable fields in HTML components and expression fragments {#expression}
 
-## Adicionar campos editáveis em componentes do HTML e fragmentos de expressão {#expression}
+To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a _variable_ with a default value that users can override after adding the fragment to their content.
 
-Para tornar editáveis partes de um componente do HTML ou de um fragmento de expressão, é necessário usar uma sintaxe específica no editor de expressão. Isso envolve declarar uma _variável_ com um valor padrão que os usuários podem substituir após adicionar o fragmento ao seu conteúdo.
+For example, suppose you want to create a fragment to add to your emails, and allow users to customize a specific color used in different locations, such as frames or buttons' background colors. When creating your fragment, you need to declare a variable with a _unique ID_ (e.g., "color"), and call it at the desired locations in the fragment content where you want to apply this color. When adding the fragment to their content, users will be able to customize the color used wherever the variable is referenced.
 
-Por exemplo, suponha que você queira criar um fragmento para adicionar aos emails e permitir que os usuários personalizem uma cor específica usada em locais diferentes, como quadros ou cores de fundo dos botões. Ao criar o fragmento, é necessário declarar uma variável com uma _ID exclusiva_ (por exemplo, &quot;cor&quot;) e chamá-la nos locais desejados no conteúdo do fragmento onde deseja aplicar essa cor. Ao adicionar o fragmento ao conteúdo, os usuários poderão personalizar a cor usada sempre que a variável for referenciada.
+For HTML components, only specific elements can become editable fields. Expand the section below for more information.
 
-Para componentes do HTML, somente elementos específicos podem se tornar campos editáveis. Expanda a seção abaixo para obter mais informações.
++++Editable elements in HTML components:
 
-+++Elementos editáveis em componentes do HTML:
+The elements below can become editable fields in an HTML component:
 
-Os elementos abaixo podem se tornar campos editáveis em um componente do HTML:
+* A portion of text
+* A full URL for link or image (doesn't work with portion of a URL)
+* Entire CSS property (doesn't work with partial property)
 
-* Uma parte do texto
-* Um URL completo para link ou imagem (não funciona com parte de um URL)
-* Propriedade CSS inteira (não funciona com a propriedade parcial)
-
-Por exemplo, no código abaixo, cada elemento destacado em vermelho pode se tornar uma propriedade:
+For example, in the code below, each element highlighted in red can become a property:
 
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
-
+-->
 >[!MORELIKETHIS]
 >
 >[Fragmentos](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
