@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
+source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '653'
+ht-degree: 99%
 
 ---
 
@@ -63,8 +63,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email — modo escuro</strong>: agora é possível utilizar o modo escuro, que permite que clientes de email e aplicativos compatíveis exibam emails com fundos mais escuros e cores mais claras para textos, botões e outros elementos da IU.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Modo escuro</a></td>
   </tr>
   <tr>
    <td> </td>
