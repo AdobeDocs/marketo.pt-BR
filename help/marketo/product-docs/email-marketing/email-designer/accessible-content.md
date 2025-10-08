@@ -1,13 +1,13 @@
 ---
 title: Criar conteúdo acessível
-description: Saiba como criar conteúdo acessível para seus emails no Marketo Engage.
+description: Saiba como criar conteúdo acessível para seus emails no Adobe Marketo Engage.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: email, design, acessibilidade
-source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1368'
 ht-degree: 0%
 
 ---
