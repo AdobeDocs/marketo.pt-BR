@@ -77,7 +77,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Fórmula {#formula}
 
-**Nome de Exemplo:** Saudações - use este campo especial em uma solução [ para obter a saudação correta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) com base no sexo
+**Nome de Exemplo:** Saudações - use este campo especial em uma solução [&#x200B; para obter a saudação correta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) com base no sexo
 
 **Valores de Exemplo:** verifique a solução vinculada
 

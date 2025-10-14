@@ -16,7 +16,7 @@ Os administradores podem substituir a prioridade determinada pela Marketo Engage
 
 >[!NOTE]
 >
->Este recurso só está disponível para Campanhas de Gatilho e para usuários que receberam a [ permissão &quot;Editar Prioridade de Campanha de Gatilho&quot;](#grant-priority-override-access).
+>Este recurso só está disponível para Campanhas de Gatilho e para usuários que receberam a [&#x200B; permissão &quot;Editar Prioridade de Campanha de Gatilho&quot;](#grant-priority-override-access).
 
 >[!CAUTION]
 >

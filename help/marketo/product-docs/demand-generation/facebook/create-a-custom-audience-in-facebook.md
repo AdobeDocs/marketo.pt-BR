@@ -16,7 +16,7 @@ ht-degree: 3%
 >[!PREREQUISITES]
 >
 >* [Adicionar [!DNL Facebook] Públicos-alvo personalizados como um Serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} na seção de Administrador.
->* [Aceite os Termos de Públicos-alvo personalizados [!DNL Facebook] do ](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} na sua conta do [!DNL Facebook].
+>* [Aceite os Termos de Públicos-alvo personalizados [!DNL Facebook] do &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} na sua conta do [!DNL Facebook].
 
 >[!TIP]
 >

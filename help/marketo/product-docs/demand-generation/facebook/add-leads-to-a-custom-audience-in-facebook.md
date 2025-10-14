@@ -18,7 +18,7 @@ Já tem um público-alvo personalizado em [!DNL Facebook] e deseja adicionar mai
 >[!PREREQUISITES]
 >
 >* [Criar um público-alvo personalizado em [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Aceite os termos de públicos-alvo personalizados [!DNL Facebook] de ](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta do [!DNL Facebook].
+>* [Aceite os termos de públicos-alvo personalizados [!DNL Facebook] de &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta do [!DNL Facebook].
 >
 
 1. Localize e selecione a lista inteligente ou estática que contém os clientes em potencial que deseja adicionar.
