@@ -14,7 +14,7 @@ ht-degree: 35%
 
 Este é um exemplo de um Programa operacional avançado (tokenizado), que utiliza um Programa padrão do Marketo Engage para pontuação demográfica. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação demográfica&quot;.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

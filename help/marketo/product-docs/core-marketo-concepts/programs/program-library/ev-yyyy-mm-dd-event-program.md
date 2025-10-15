@@ -14,7 +14,7 @@ ht-degree: 22%
 
 Este é um exemplo de um programa de evento com uma página de registro, três emails de convite e emails de acompanhamento utilizando um Programa de evento do Marketo Engage. Adequado para todos os eventos em que você precisa de inscrições, incluindo shows, almoços, jantares ou apresentações em eventos de feiras comerciais.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

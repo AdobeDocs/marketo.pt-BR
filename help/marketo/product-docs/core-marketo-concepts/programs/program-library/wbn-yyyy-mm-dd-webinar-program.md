@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Este é um exemplo de um programa de webinário com gerenciamento de registro, três emails de convite, lembrete de participação e emails de acompanhamento utilizando um Programa de evento do Marketo Engage.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

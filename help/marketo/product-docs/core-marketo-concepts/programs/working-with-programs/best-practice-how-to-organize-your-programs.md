@@ -121,4 +121,4 @@ Algumas pessoas até abstraem a maior parte do texto nos emails e landing pages 
 
 ## Resumo {#summary}
 
-Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere serviços adicionais de [especialistas da Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.
+Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere serviços adicionais de [especialistas da Marketo Engage](https://business.adobe.com/br/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.
