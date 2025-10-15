@@ -4,9 +4,9 @@ description: Descrições das permissões de função - Documentação do Market
 title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1451'
 ht-degree: 16%
 
 ---
@@ -120,7 +120,7 @@ Fornece aos usuários acesso à guia Design Studio e à visualização da árvor
 
 * Acessar e-mail
    * Editar email - Concede aos usuários permissão para editar, criar e clonar emails
-      * Tornar o email operacional - Concede aos usuários permissão para tornar um email operacional. Consulte: [Tornar um email operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Criar e editar emails operacionais - concede aos usuários permissão para criar e/ou editar emails operacionais. Consulte: [Tornar um email operacional](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Aprovar email - Permite que os usuários aprovem emails.
       * Excluir email - Permite que os usuários excluam emails.
