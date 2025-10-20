@@ -3,9 +3,9 @@ description: Faça logon usando o OAuth 2.0 - Documentação do Marketo - Docume
 title: Fazer logon usando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '634'
 ht-degree: 1%
 
 ---
@@ -56,11 +56,11 @@ O Salesforce usa o protocolo OAuth para permitir que os usuários de aplicativos
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. Depois que o novo Aplicativo de Cliente Externo for criado, clique na guia **Configurações** e expanda a seção **Configurações OAuth**.
+1. Depois que o novo Aplicativo de Cliente Externo for criado, selecione a guia **Configurações** e expanda a seção **Configurações OAuth**.
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. Clique no botão **Chave do consumidor e Segredo do consumidor**, solicitando que uma nova guia seja aberta. Copie e salve os dois números (será necessário usá-los posteriormente no Marketo Engage).
+1. Clique no botão **Chave e segredo do consumidor**, solicitando que uma nova guia seja aberta. Copie e salve os dois números (será necessário usá-los posteriormente no Marketo Engage).
 
    ![](assets/log-in-using-oauth-10.png)
 
