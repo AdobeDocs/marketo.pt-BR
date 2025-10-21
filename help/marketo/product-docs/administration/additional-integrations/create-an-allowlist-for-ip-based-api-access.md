@@ -21,7 +21,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->Este recurso opera independentemente das [restrições de logon baseadas em IP](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} do Marketo Engage, que estão sendo substituídas pelo [controle de acesso baseado em IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} do Admin Console. Ele continuará funcionando como está após a migração do Adobe IMS.
+>Este recurso opera independentemente das [restrições de logon baseadas em IP](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} do Marketo Engage, que estão sendo substituídas pelo [controle de acesso baseado em IP](https://helpx.adobe.com/br/enterprise/using/ip-based-access.html){target="_blank"} do Admin Console. Ele continuará funcionando como está após a migração do Adobe IMS.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
