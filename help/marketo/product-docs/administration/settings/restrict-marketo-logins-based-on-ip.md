@@ -4,10 +4,10 @@ description: Restringir logons do Marketo com base em IP - Documentação do Mar
 title: Restringir logons do Marketo com base no IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 7%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,12 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
 
 >[!IMPORTANT]
 >
->As informações neste artigo são para usuários que fazem logon diretamente em login.marketo.com e não se aplicam a usuários que se autenticam com o Adobe ID. Não é possível impor restrições de IP em logons de logon único (SSO) neste momento.
+>O Adobe Admin Console (AAC) dá suporte a [controle de acesso baseado em IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Para garantir uma transição suave, as restrições de IP da Marketo Engage existentes estarão ativas, incluindo usuários da Adobe ID, até o primeiro trimestre de 2026, nas assinaturas em que esse recurso estiver habilitado.
+>
+>* Você pode configurar o acesso baseado em IP da AAC a qualquer momento.
+>* As restrições da AAC e do Marketo Engage podem ser executadas simultaneamente. Use a mesma lista de permissões de IP para obter compatibilidade.
+>
+>Após o primeiro trimestre de 2026, as restrições de IP da Marketo Engage serão desativadas. O acesso baseado em IP será gerenciado exclusivamente por meio da AAC e deve ser configurado para aplicar restrições de logon. Uma data final de transição será anunciada posteriormente.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -50,5 +55,3 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
    >Você pode adicionar várias restrições, mas elas só podem ser TODAS permitidas ou TODAS bloqueadas. Não é possível misturar e combinar permitidos e bloqueados.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
-
-   Feito bem, seus dados de marketing agora estão mais seguros do que nunca!
