@@ -4,9 +4,9 @@ title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '704'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -82,7 +82,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 ## Anúncios {#announcements}
 
-* **Descontinuação da barra dupla da API REST**: em 16 de setembro de 2025, a Adobe fez a transição para uma infraestrutura de hospedagem mais moderna para URLs de API REST que usam tecnologia mais recente, adicionando segurança e escalabilidade. Se sua assinatura tem usado APIs com uma barra dupla (//) na URL, leia [esta publicação da Nação](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} para as próximas etapas.
+* **Descontinuação da barra dupla na API REST**: em 16 de setembro de 2025, a Adobe fez a transição para uma infraestrutura de hospedagem mais moderna para URLs da API REST que usam tecnologia mais recente, adicionando segurança e escalabilidade. Se sua assinatura tem usado APIs com uma barra dupla (//) no URL, leia [esta publicação da Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} para saber as próximas etapas.
 
 * **Retorno ao Velocity Scripting no novo Designer de email**: o Adobe Marketo Engage lançou um recurso chamado _Conteúdo condicional_ para o novo Designer de email em junho. O recurso era alimentado por scripts Handlebar, em vez de scripts Velocity, em um esforço para fornecer um pouco mais de flexibilidade no conteúdo dinâmico. Mas, quando descobrimos que isso estava causando a resolução incorreta de alguns tokens, decidimos desabilitá-lo temporariamente. [Saiba mais](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
