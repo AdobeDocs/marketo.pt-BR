@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
-workflow-type: ht
-source-wordcount: '688'
-ht-degree: 100%
+source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+workflow-type: tm+mt
+source-wordcount: '690'
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>Importador de Modelos</strong>: importe modelos de email do editor de email clássico para criar modelos compatíveis com o novo designer de email no Design Studio.</td>
+   <td><strong>Email Designer - Importador de Modelos</strong>: importe modelos de email do editor de email clássico para criar modelos compatíveis com o Novo Email Designer no Design Studio.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
