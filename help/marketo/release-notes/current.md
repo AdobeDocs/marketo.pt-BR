@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+source-git-commit: dda635ffac84c76eb60ecac395707914c4902c9d
 workflow-type: tm+mt
-source-wordcount: '690'
-ht-degree: 96%
+source-wordcount: '730'
+ht-degree: 91%
 
 ---
 
@@ -94,6 +94,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 <br/>
 
 ## Anúncios {#announcements}
+
+* **Atualização da Integração do Salesforce CRM**: uma nova versão da integração nativa do CRM será implantada em sandboxes ativas com o conector nativo habilitado ao longo de sete dias, a partir de 13 de novembro de 2025. Obter detalhes completos em [esta publicação da Nação](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
 * **Descontinuação da barra dupla na API REST**: em 16 de setembro de 2025, a Adobe fez a transição para uma infraestrutura de hospedagem mais moderna para URLs da API REST que usam tecnologia mais recente, adicionando segurança e escalabilidade. Se sua assinatura tem usado APIs com uma barra dupla (//) no URL, leia [esta publicação da Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} para saber as próximas etapas.
 
