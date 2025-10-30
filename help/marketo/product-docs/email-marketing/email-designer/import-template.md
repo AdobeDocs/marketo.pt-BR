@@ -5,18 +5,19 @@ title: Importação de modelo
 description: Saiba como importar seus modelos de email existentes do editor clássico para o novo Designer de email.
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
-ht-degree: 0%
+source-wordcount: '723'
+ht-degree: 1%
 
 ---
 
 # Importação de modelo {#template-import}
 
-Importe facilmente seus modelos de email existentes do editor clássico para o novo Designer de email, preservando seus designs e acelerando a criação de modelos com estruturas familiares e reutilizáveis.
+Importe facilmente seus modelos de email existentes do editor clássico para o novo Designer de email, preservando seus designs e acelerando a criação de modelos com estruturas familiares e reutilizáveis. Revise as [práticas recomendadas](#best-practices) e saiba mais sobre as [limitações e soluções](#limitations-and-remedies).
 
 1. Vá para o **Design Studio**.
 
@@ -77,6 +78,8 @@ Importe facilmente seus modelos de email existentes do editor clássico para o n
 * Após a importação, é possível salvar seções reutilizáveis como fragmentos e aprová-las para uso por autores de email. Aplique temas de marca para manter a consistência e a conformidade.
 
 * Você pode continuar usando o script do Velocity e considerar a reimplementação de trechos mais antigos usando uma combinação de fragmentos e conteúdo condicional para melhorar a flexibilidade e o controle.
+
+## Limitações e soluções {#limitations-and-remedies}
 
 <table><thead>
   <tr>
