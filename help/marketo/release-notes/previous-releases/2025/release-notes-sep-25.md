@@ -2,9 +2,9 @@
 description: Notas de versão - setembro de 2025 - Documentação do Marketo - Documentação do produto
 title: Notas de versão — Setembro de 2025
 feature: Release Information
-source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
+source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '704'
 ht-degree: 98%
 
 ---
@@ -33,17 +33,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   <tr>
    <td><strong>Retenção de atividade do webinário sob demanda</strong>: os usuários de webinários interativos agora têm dados do Painel de webinários sob demanda disponíveis por mais de 30 dias (anteriormente, era apenas até 30 dias a partir do dia do webinário).</td>
    <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronização manual</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de email — fluxo de trabalho de colaboração de conteúdo</strong>: agora é possível comentar e colaborar com outros usuários do Marketo dentro de um ativo de email. Marque membros da equipe (usuários do Marketo que têm as permissões de ativos apropriadas) e esses membros receberão uma notificação de email ou de pulso.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronização manual</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -71,9 +61,19 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Designer de email — fluxo de trabalho de colaboração de conteúdo</strong>: agora é possível comentar e colaborar com outros usuários do Marketo dentro de um ativo de email. Marque membros da equipe (usuários do Marketo que têm as permissões de ativos apropriadas) e esses membros receberão uma notificação de email ou de pulso.</td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">Colaboração por email</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Designer de email — Correções de redirecionamento</strong>: alguns usuários estavam tendo problemas de redirecionamento com URLs para emails criados com o novo Designer (por exemplo, colar diretamente os URLs ou marcar ativos de email nem sempre funcionava). Esse problema foi resolvido. Além disso, os links para ativos de email em <b>Modelos de email</b> &gt; <b>Detalhes</b> &gt; <b>Usados por</b> redirecionarão para o ativo de email correspondente.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Enviado</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>

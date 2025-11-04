@@ -1,19 +1,17 @@
 ---
 description: Colaboração de email - Documentação do Marketo - Documentação do produto
-title: Colaboração de email
+title: Colaboração por email
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
+source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Colaboração de email {#email-collaboration}
+# Colaboração por email {#email-collaboration}
 
 A colaboração e os comentários por email permitem que as equipes de marketing revisem, discutam e finalizem ativos de email no Adobe Marketo Engage Email Designer. Em vez de compartilhar rascunhos por meio de ferramentas externas (como bate-papo, threads de email, planilhas etc.), você pode comentar, sugerir edições e resolver comentários em tempo real. Isso simplifica o fluxo de trabalho, reduz erros e garante que as partes interessadas sejam alinhadas antes que uma campanha de email seja enviada.
 
