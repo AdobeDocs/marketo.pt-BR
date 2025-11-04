@@ -8,9 +8,9 @@ feature: Email Designer
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -19,37 +19,39 @@ ht-degree: 1%
 
 Importe facilmente seus modelos de email existentes do editor clássico para o novo Designer de email, preservando seus designs e acelerando a criação de modelos com estruturas familiares e reutilizáveis. Revise as [práticas recomendadas](#best-practices) e saiba mais sobre as [limitações e soluções](#limitations-and-remedies).
 
+>[!NOTE]
+>
+>Os templates de email clássicos foram desenvolvidos com o HTML de estilo livre, portanto, esse importador nem sempre pode importar perfeitamente todos os componentes. Revise seus modelos importados para garantir que todas as seções sejam editáveis e mapeadas corretamente. Se uma área não for selecionável, recrie-a para obter melhores resultados.
+
+## Importar um modelo {#import-a-template}
+
 1. Vá para o **Design Studio**.
 
-   CAPTURA DE TELA
+   ![](assets/import-template-1.png)
 
 1. Clique em **Modelos de email** e selecione **Modelos de email (Novos)**.
 
-   CAPTURA DE TELA
+   ![](assets/import-template-2.png)
 
 1. Clique em **Criar Modelo**.
 
-   CAPTURA DE TELA
+   ![](assets/import-template-3.png)
 
 1. Insira um _Nome_ e (opcional) _Descrição_.
 
-   CAPTURA DE TELA
+   ![](assets/import-template-4.png)
 
-1. Clique em **Modelos do Marketo** e escolha os Modelos existentes criados no editor de email clássico.
+1. Clique na guia **Modelos do Marketo** e escolha entre os Modelos existentes criados no editor de email clássico.
 
-   CAPTURA DE TELA
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >Somente modelos aprovados e modelos que foram compartilhados com o espaço de trabalho atual estão disponíveis para importação.
 
-1. Selecione o modelo desejado.
+1. Clique em **Usar este modelo**.
 
-   CAPTURA DE TELA
-
-1. Clique em Use this template.
-
-   CAPTURA DE TELA
+   ![](assets/import-template-6.png)
 
 1. O modelo importado é aberto no Designer de email.
 
@@ -61,19 +63,19 @@ Importe facilmente seus modelos de email existentes do editor clássico para o n
 
 1. Clique no botão **...Mais** acima e selecione **Salvar como fragmento**.
 
-   CAPTURA DE TELA
+   ![](assets/import-template-7.png)
 
 1. Selecione um componente ou uma estrutura e clique em **Criar**.
 
-   CAPTURA DE TELA
+   ![](assets/import-template-8.png)
 
 1. Insira um nome (e uma descrição opcional) e clique em **Salvar**.
 
-   CAPTURA DE TELA
+   ![](assets/import-template-9.png)
 
 ## Práticas recomendadas {#best-practices}
 
-* Como o HTML de estilo livre pode variar significativamente, o importador nem sempre pode interpretar cada componente perfeitamente. Revise os modelos importados para garantir que todas as seções sejam editáveis e mapeadas corretamente. Se uma peça não for selecionável, basta recriar essa seção para obter os melhores resultados.
+* Os templates de email clássicos foram desenvolvidos com o HTML de estilo livre, portanto, esse importador nem sempre pode importar perfeitamente todos os componentes. Revise seus modelos importados para garantir que todas as seções sejam editáveis e mapeadas corretamente. Se uma área não for selecionável, recrie-a para obter melhores resultados.
 
 * Após a importação, é possível salvar seções reutilizáveis como fragmentos e aprová-las para uso por autores de email. Aplique temas de marca para manter a consistência e a conformidade.
 
@@ -113,7 +115,7 @@ Importe facilmente seus modelos de email existentes do editor clássico para o n
   <tr>
     <td>Os marcadores não são suportados nativamente.</td>
     <td>O Designer de email não oferece marcadores no momento.</td>
-    <td>Considere reimplementar marcadores usando técnicas alternativas.</td>
+    <td>Considere recriar marcadores usando técnicas alternativas.</td>
   </tr>
   <tr>
     <td>O alinhamento vertical é distorcido onde o conteúdo do contêiner não respeita o valor do atributo de valor.</td>
@@ -143,6 +145,6 @@ Importe facilmente seus modelos de email existentes do editor clássico para o n
   <tr>
     <td>Os trechos no modelo antigo não funcionarão no Designer de email.</td>
     <td>O Designer de email não é compatível com snippets.</td>
-    <td>Reimplemente seus trechos como fragmentos combinados com conteúdo condicional.</td>
+    <td>Recrie seus trechos como fragmentos combinados com conteúdo condicional.</td>
   </tr>
 </tbody></table>
