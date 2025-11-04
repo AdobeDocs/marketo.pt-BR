@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 14%
+source-wordcount: '888'
+ht-degree: 15%
 
 ---
 
@@ -89,7 +89,7 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Disponível</td>
   </tr>
   <tr>
-    <td>Configurações de e-mail</td>
+    <td>Configurações de email</td>
     <td>Capacidade de definir configurações de email, como DKIM, configurações de spam e muito mais.</td>
     <td>Disponível</td>
     <td>Disponível</td>
@@ -262,21 +262,21 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Em breve</td>
   </tr>
   <tr>
-    <td>Fluxos de trabalho de aprovação de conteúdo</td>
-    <td>Capacidade de introduzir workflows de aprovação para emails no Marketo Engage.</td>
-    <td>Indisponível</td>
-    <td>Planejado para o 4º trimestre de 2025</td>
-  </tr>
-  <tr>
     <td>Kit da marca</td>
     <td>Capacidade de melhorar os emails refletindo as diretrizes da marca.</td>
     <td>Indisponível</td>
-    <td>Planejado para o primeiro trimestre de 2026</td>
+    <td>Em breve</td>
   </tr>
   <tr>
     <td>Experimentação (teste A/B)</td>
     <td>Capacidade de testar emails antes de enviá-los para o público.</td>
     <td>Disponível</td>
+    <td>Em breve</td>
+  </tr>
+  <tr>
+    <td>Fluxos de trabalho de aprovação de conteúdo</td>
+    <td>Capacidade de introduzir workflows de aprovação para emails no Marketo Engage.</td>
+    <td>Indisponível</td>
     <td>A ser definido</td>
   </tr>
   <tr>
@@ -292,7 +292,7 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>A ser definido</td>
   </tr>
   <tr>
-    <td>Predictive Content</td>
+    <td>Conteúdo preditivo</td>
     <td>Capacidade de prever o conteúdo de uma base de conhecimento no email com base no público-alvo.</td>
     <td>Disponível</td>
     <td>Indisponível</td>
