@@ -7,18 +7,62 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 10%
+source-wordcount: '233'
+ht-degree: 3%
 
 ---
 
 # Conteúdo condicional {#conditional-content}
 
-O conteúdo condicional permite controlar dinamicamente qual conteúdo é visualizado por qual público-alvo.
+O conteúdo condicional permite controlar dinamicamente o conteúdo que é visto por cada público-alvo. Use as Segmentações existentes para determinar o que um recipient vê com base em critérios predefinidos.
 
 >[!PREREQUISITES]
 >
->Ter pelo menos uma segmentação criada e aprovada.
+>Ter pelo menos uma Segmentação [criada](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) e [aprovada](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md).
 
+## Adicionar conteúdo condicional {#add-conditional-content}
+
+1. Abra o email desejado e clique em **Editar conteúdo do email**.
+
+   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+
+1. Selecione o conteúdo que deseja que seja condicional (neste exemplo, estamos escolhendo a imagem do cabeçalho). Clique no ícone _Habilitar conteúdo condicional_.
+
+   ![](assets/conditional-content-2.png)
+
+1. A caixa fica laranja. À esquerda, clique no _ícone Selecionar condição_ () para definir sua variante.
+
+   ![](assets/conditional-content-3.png)
+
+1. Escolha o segmento desejado e clique em **Selecionar**.
+
+   ![](assets/conditional-content-4.png)
+
+1. Clique no ícone _Editar imagem_ para substituir a imagem existente da variante. Escolha a fonte da nova imagem. Neste exemplo, estamos escolhendo a biblioteca _Imagens e Arquivos_ na nossa assinatura do Marketo Engage.
+
+   ![](assets/conditional-content-5.png)
+
+1. Escolha a imagem aplicável e clique em **Selecionar**.
+
+   ![](assets/conditional-content-6.png)
+
+1. A nova imagem é exibida. É recomendável renomear a variante para facilitar a identificação.
+
+   ![](assets/conditional-content-7.png)
+
+1. Para adicionar outras variantes (opcional), clique em **Adicionar variante** e siga as mesmas etapas.
+
+   ![](assets/conditional-content-8.png)
+
+1. Quando terminar, cada variante exibirá o conteúdo selecionado.
+
+   ![](assets/conditional-content-9.gif)
+
+1. Os recipients visualizam o conteúdo com base nas regras definidas em cada segmento. No exemplo acima, todos que tiverem &quot;futebol&quot; listado no seu campo do Marketo Engage _Esporte favorito_ verão a imagem do futebol.
+
+>[!MORELIKETHIS]
+>
+>* [Definir Regras de Segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>* [Criar um campo personalizado no Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
