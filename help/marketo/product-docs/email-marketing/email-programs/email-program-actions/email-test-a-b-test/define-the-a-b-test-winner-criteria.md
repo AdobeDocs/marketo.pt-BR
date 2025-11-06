@@ -4,10 +4,10 @@ description: Defina os critérios do vencedor do teste A/B - Documentação do M
 title: Definir os critérios do vencedor do teste A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 22%
+source-wordcount: '432'
+ht-degree: 21%
 
 ---
 
@@ -23,7 +23,7 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
 
 1. As opções padrão de **[!UICONTROL Critério de vencedor]** são listadas primeiro.
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -40,7 +40,7 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
    </tr>
    <tr>
    <td><b>[!UICONTROL Pontuação de Envolvimento]</b></td>
-   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=pt-BR" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
+   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
    </tr>
    </table>
 
@@ -50,35 +50,33 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
 
 1. Você também pode personalizar seus critérios selecionando **[!UICONTROL Conversão personalizada]** e clicando em **[!UICONTROL Editar]**.
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
    >A Conversão personalizada permite escolher qualquer evento como uma conversão usando acionadores e filtros.
 
-1. Uma janela se abrirá. Encontre o acionador de sua escolha e arraste-o para a tela.
+1. Uma janela é aberta. Encontre o acionador de sua escolha e arraste-o para a tela.
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. Defina o acionador.
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >O Marketo permite acionadores/filtros apenas para pessoas que receberam o email deste programa de email, portanto, não há necessidade de adicionar um filtro &quot;E-mail enviado&quot;. Além disso, ao usar um acionador/filtro relacionado ao email, certifique-se de usar &quot;is any&quot; como operador.
 
-1. Clique em **[!UICONTROL Fechar]**.
+1. Feche a nova janela (ou guia) que foi aberta. A Smart List é salva automaticamente.
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   Ótimo! Agora é hora de decidir como o vencedor é determinado.
+Agora é hora de decidir como o vencedor é determinado.
 
 ## Declarar vencedor {#declare-winner}
 
 1. Escolha uma das duas opções disponíveis.
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -88,10 +86,10 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
 
 1. Automático é o máximo e é a opção padrão. Basta clicar em **[!UICONTROL Avançar]**.
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >Escolher **[!UICONTROL Manual]** enviará o teste e aguardará você declarar um vencedor. Você receberá um relatório dos resultados.
 
-Perfeito! Agora vamos [agendar o teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Agora vamos [agendar o teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
