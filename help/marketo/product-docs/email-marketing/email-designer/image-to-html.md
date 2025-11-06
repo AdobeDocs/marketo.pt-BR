@@ -25,7 +25,7 @@ Aproveitando a tecnologia de IA gerativa, o conversor de imagem para HTML analis
 >[!PREREQUISITES]
 >
 >* Primeiro, você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar a funcionalidade da Gen-AI no Designer de email. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
->* Você deve ter permissões _Acessar NOME_ e _Acessar Modelo de Email_ habilitadas [em sua função da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Você deve ter permissões _Acessar NOME_ e _Acessar Modelo de Email_ habilitadas [em sua função da Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Converter uma imagem {#convert-an-image}
 
