@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1332'
+source-wordcount: '1278'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Aproveitando a tecnologia de IA gerativa, o conversor de imagem para HTML analis
 >[!PREREQUISITES]
 >
 >* Primeiro, você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar a funcionalidade da Gen-AI no Designer de email. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
->* Você deve ter permissões _Acessar NOME_ e _Acessar Modelo de Email_ habilitadas [em sua função da Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Você deve ter permissões _Acessar Modelo de Email_ e _Editar/Gerar Modelo de Email_ habilitadas [em sua função da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Converter uma imagem {#convert-an-image}
 
@@ -46,14 +46,6 @@ Para converter uma imagem em um modelo de email do HTML totalmente personalizáv
 1. Insira um _Nome do modelo_ e uma descrição opcional. Além disso, opcionalmente, você pode escolher o estilo da marca. Carregue ou arraste e solte a imagem desejada.
 
    ![](assets/image-to-html-3.png)
-
-   DEEPTHI POSSO DELETE ESTA TAG DE CUIDADO...
-
-   >[!CAUTION]
-   >
-   >Ao carregar uma imagem para conversão, **todo o conteúdo adicionado ao email será excluído e substituído** pelo modelo gerado. Se você tiver conteúdo existente em seu email, salve-o antes de prosseguir com a conversão da imagem.
-
-   DETALHES POSSO USAR O DELETE NESTA TAG DE CUIDADO^^^^
 
 1. Role para baixo e marque a caixa de seleção _O arquivo de carregamento não contém..._. Clique em **Converter**.
 
