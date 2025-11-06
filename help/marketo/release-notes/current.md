@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -86,8 +86,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email – Ação clonar email</strong>: agora é possível clonar um email em outra pasta do programa nas Atividades de marketing e reutilizar rapidamente os emails já existentes.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Enviado</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
