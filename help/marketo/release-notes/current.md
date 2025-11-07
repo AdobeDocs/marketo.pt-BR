@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 99%
 
 ---
@@ -43,8 +43,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email – Conteúdo condicional</strong>: recurso de paridade para o novo designer de email, possibilitando a personalização de emails para além de tokens.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Conteúdo condicional</a></td>
   </tr>
   <tr>
   <tr>
