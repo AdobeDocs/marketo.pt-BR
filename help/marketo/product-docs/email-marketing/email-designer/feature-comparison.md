@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 15%
+source-wordcount: '883'
+ht-degree: 14%
 
 ---
 
@@ -226,12 +226,6 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Arrastar e soltar fragmento</td>
   </tr>
   <tr>
-    <td>Temas Globais</td>
-    <td>Capacidade de aplicar temas aprovados em toda a organização para garantir a consistência em elementos como estilo, cor, tamanho da fonte, etc.</td>
-    <td>Indisponível</td>
-    <td>Em breve</td>
-  </tr>
-  <tr>
     <td>Conteúdo dinâmico/conteúdo condicional</td>
     <td>Capacidade de <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">criar variantes</a> em emails com base no público-alvo.</td>
     <td>Disponível</td>
@@ -239,9 +233,9 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
   </tr>
   <tr>
     <td>Imagem para o HTML</td>
-    <td>Capacidade de converter uma imagem para o HTML para usar o para criar emails.</td>
+    <td>Capacidade de <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">converter uma imagem em HTML</a> para usar para criar emails.</td>
     <td>Indisponível</td>
-    <td>Em breve</td>
+    <td>Disponível</td>
   </tr>
   <tr>
     <td>Suporte para mover, excluir e importar programas com ativos de email</td>
@@ -264,6 +258,12 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
   <tr>
     <td>Kit da marca</td>
     <td>Capacidade de melhorar os emails refletindo as diretrizes da marca.</td>
+    <td>Indisponível</td>
+    <td>Em breve</td>
+  </tr>
+  <tr>
+    <td>Temas Globais</td>
+    <td>Capacidade de aplicar temas aprovados em toda a organização para garantir a consistência em elementos como estilo, cor, tamanho da fonte, etc.</td>
     <td>Indisponível</td>
     <td>Em breve</td>
   </tr>

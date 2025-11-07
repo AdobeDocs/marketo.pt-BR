@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -47,6 +47,25 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Conteúdo condicional</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>Designer de email – Conversor de imagem para HTML</strong>: faça upload de um arquivo de imagem PNG/JPEG compatível de um email e ele será convertido automaticamente em HTML para uso no novo designer de email.</td>
+   <td>Enviado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Converter imagens em modelos do HTML</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Designer de email – Ação clonar email</strong>: agora é possível clonar um email em outra pasta do programa nas Atividades de marketing e reutilizar rapidamente os emails já existentes.</td>
+   <td>Enviado</td>
+   <td>n/d</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><i>Em breve</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -67,27 +85,6 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><strong>Designer de email – Temas de marca</strong>: agora é possível definir temas de marca no Marketo Engage. As configurações de estilo podem ser reutilizadas e aplicadas em modelos de email e outros ativos de email para manter a consistência da marca.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>Designer de email – Conversor de imagem para HTML</strong>: faça upload de um arquivo de imagem PNG/JPEG compatível de um email e ele será convertido automaticamente em HTML para uso no novo designer de email.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de email – Ação clonar email</strong>: agora é possível clonar um email em outra pasta do programa nas Atividades de marketing e reutilizar rapidamente os emails já existentes.</td>
-   <td>Enviado</td>
-   <td>n/d</td>
   </tr>
   </tbody>
 </table>
