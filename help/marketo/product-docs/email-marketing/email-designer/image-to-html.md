@@ -5,9 +5,9 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
 workflow-type: tm+mt
-source-wordcount: '1283'
+source-wordcount: '1287'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Aproveitando a tecnologia de IA gerativa, o conversor de imagem para HTML analis
 >[!PREREQUISITES]
 >
 >* Primeiro, você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar a funcionalidade da Gen-AI no Designer de email. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
->* Você deve ter permissões _Acessar Modelo de Email_ e _Editar/Gerar Modelo de Email_ habilitadas [em sua função da Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Você deve ter permissões _Acessar Modelo de Email_ e _Editar/Gerar Modelo de Email_ habilitadas [em sua função da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Converter uma imagem {#convert-an-image}
 
@@ -53,7 +53,7 @@ Para converter uma imagem em um modelo de email do HTML totalmente personalizáv
    >
    >O processo de geração pode levar até cinco minutos, dependendo da complexidade e do tamanho do design de imagem. O processamento da IA ocorre em segundo plano, para que você possa sair dessa tela e trabalhar em outras tarefas enquanto a conversão estiver em andamento. Talvez seja necessário atualizar a tela de biblioteca _Modelo de email_ para ver a alteração de status.
 
-1. Após a conclusão da conversão, o modelo será salvo automaticamente como rascunho. Selecione-o.
+1. Após a conclusão da conversão, o modelo será salvo automaticamente como rascunho. Clique no nome para exibir/editar.
 
    ![](assets/image-to-html-5.png)
 
