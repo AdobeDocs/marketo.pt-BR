@@ -5,9 +5,9 @@ title: Conteúdo condicional
 description: Use o conteúdo condicional nos seus emails para exibir dinamicamente o conteúdo, dependendo do recipient.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ O conteúdo condicional permite controlar dinamicamente o conteúdo que é visto
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. A nova imagem é exibida. É recomendável renomear a variante para facilitar a identificação. Basta clicar nas reticências e selecionar **Renomear**.
+1. A nova imagem é exibida. É recomendável renomear a variante para facilitar a identificação. Clique nas reticências e selecione **Renomear**.
 
    >[!NOTE]
    >
