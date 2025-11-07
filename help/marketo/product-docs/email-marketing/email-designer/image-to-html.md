@@ -1,15 +1,15 @@
 ---
-title: Integração do GenStudio para Marketo Engage
-description: Saiba como usar o GenStudio no Marketo Engage.
+title: Converter imagens em modelos do HTML
+description: Use essa ferramenta sem código para transformar uma imagem em um modelo de email editável.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
+source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1283'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Aproveitando a tecnologia de IA gerativa, o conversor de imagem para HTML analis
 >[!PREREQUISITES]
 >
 >* Primeiro, você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar a funcionalidade da Gen-AI no Designer de email. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
->* Você deve ter permissões _Acessar Modelo de Email_ e _Editar/Gerar Modelo de Email_ habilitadas [em sua função da Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Você deve ter permissões _Acessar Modelo de Email_ e _Editar/Gerar Modelo de Email_ habilitadas [em sua função da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Converter uma imagem {#convert-an-image}
 
