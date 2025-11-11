@@ -1,17 +1,17 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TÍTULO
-description: DESCRIÇÃO.
+title: Temas da marca
+description: Saiba como criar e gerenciar as diretrizes da sua marca.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
-ht-degree: 0%
+source-wordcount: '1201'
+ht-degree: 1%
 
 ---
 
@@ -81,17 +81,13 @@ Quando terminar a edição, clique na seta para trás (![ícone de seta para tr�
 
 Para editar uma variante, clique no ícone de lápis.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >É possível criar até seis variantes.
 
-Vários elementos estão disponíveis para personalização.
-
-![](assets/brand-themes-.png)
-
-As configurações de variante são agrupadas nas seguintes categorias:
+Vários elementos estão disponíveis para personalização. As configurações de variante são agrupadas nas seguintes categorias:
 
 * Geral
 * Cabeçalhos
@@ -102,55 +98,49 @@ As configurações de variante são agrupadas nas seguintes categorias:
 
 Essas configurações permitem definir cores para corpo, estruturas, planos de fundo, containers, imagens e muito mais.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **Cabeçalho**
 
 Defina as cores do texto e da borda de cada tipo de cabeçalho, desde o Cabeçalho 1 até o Cabeçalho 6.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **Parágrafo**
 
 Definir cores de texto e borda de até três tipos de parágrafo.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **Botões**
 
 Defina a cor de preenchimento, borda e texto para três tipos de botão diferentes: Primário, Secundário e Terciário.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### Configurações de texto {#text-settings}
 
 Definir tipos e tamanhos de fonte para globais, cabeçalhos e parágrafos.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **Global**
 
-Em Configurações de texto globais, escolha Biblioteca de formulários entre Bibliotecas de fontes padrão e Google.
+Escolha entre as bibliotecas de fontes Padrão ou Google e suas respectivas famílias de fontes.
 
-![](assets/brand-themes-.png)
-
-Em Padrão, escolha entre diferentes famílias de fontes.
-
-![](assets/brand-themes-.png)
-
-Da mesma forma, em Google Fonts, serão exibidas opções para escolher entre as fontes compatíveis, respectivamente.
+![](assets/brand-themes-15.png)
 
 **Títulos**
 
-Aqui você pode definir a biblioteca de fontes, família, tamanho, estilo de texto e alinhamentos de texto para os diferentes tipos de cabeçalho.
+Defina biblioteca de fontes, família, tamanho, estilo de texto e alinhamentos de texto para diferentes tipos de cabeçalho.
 
-CAPTURA DE TELA
+![](assets/brand-themes-16.png)
 
 **Parágrafos**
 
-Aqui você pode definir a biblioteca de fontes, família, tamanho, estilo de texto e alinhamentos de texto para as diferentes predefinições de parágrafo.
+Definir biblioteca de fontes, família, tamanho, estilo de texto e alinhamentos de texto para diferentes predefinições de parágrafo.
 
-CAPTURA DE TELA
+![](assets/brand-themes-17.png)
 
 ### Espaçamento e borda {#spacing-and-border}
 
