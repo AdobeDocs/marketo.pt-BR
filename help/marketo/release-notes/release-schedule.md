@@ -5,9 +5,9 @@ title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 70%
 
 **Status**:
 
-* **No cronograma** - Estamos planejando lançar os recursos e aprimoramentos na data indicada
-* **Em andamento** - Estamos no processo de implantação dos recursos da versão
-* **Enviado** - A versão está concluída
+* **No cronograma**: planejamos lançar os recursos e as melhorias na data indicada
+* **Em andamento**: estamos em processo de implantação dos recursos da versão
+* **Enviado**: a versão foi concluída
 
 _As datas e recursos de lançamento estão sujeitos a alterações_
 
@@ -58,9 +58,9 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
    <td>31 de outubro de 2025</td>
    <td>Em andamento</td>
   </tr>
-  <td>Janeiro de 26</td>
-   <td>sábado, 30 de janeiro de 2026</td>
-   <td>No prazo</td>
+  <td>Janeiro de 2026</td>
+   <td>30 de janeiro de 2026</td>
+   <td>No cronograma</td>
   </tr>
  </tbody>
 </table>
