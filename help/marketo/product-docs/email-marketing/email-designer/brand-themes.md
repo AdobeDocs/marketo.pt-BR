@@ -8,9 +8,9 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1226'
 ht-degree: 0%
 
 ---
@@ -25,132 +25,134 @@ Esse recurso permite que os profissionais de marketing aproveitem emails visualm
 
 * Ao criar um email do zero, você pode optar por começar a criar o conteúdo usando um tema para aplicar rapidamente um estilo específico que se ajuste à sua marca e design. Se você escolher o modo Clássico, não será possível aplicar temas, a menos que redefina seu email.
 
-* Os fragmentos não são compatíveis entre os modos Tema e Clássico. Para poder usar um fragmento em um conteúdo no qual um tema é aplicado, esse fragmento deve ser criado no modo Tema.
+* Os fragmentos não são compatíveis entre os modos Tema e Clássico. Para poder usar um fragmento em um conteúdo no qual um tema é aplicado, ele deve ser criado no modo Tema.
 
-* A atualização dos temas não será aplicada automaticamente a todos os ativos que os utilizam. Os usuários precisam editar objetos individuais para atualizar o tema.
+* A atualização de um tema não será aplicada automaticamente a todos os ativos que os utilizam. Seria necessário editar objetos individuais para atualizar o tema.
 
-* Quando os temas forem excluídos, isso não afetará os ativos que os utilizam.
+* Quando temas são excluídos, não afeta os ativos que os utilizam.
 
-## Criação de temas de marca
+## Criar um tema da marca {#create-a-brand-theme}
 
-A criação de temas de marca está disponível no painel de seleção de modelo no editor. Você pode acessar esse painel ao criar um novo modelo ou em Alterar design, no editor.
+1. Siga as etapas para [criar um modelo de email](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-CAPTURA DE TELA
+1. Na tela _Criar seu modelo_, selecione **Criar ou editar temas**.
 
-Clique em Alterar o design.
+   ![](assets/brand-themes-1.png)
 
-CAPTURA DE TELA
+1. Selecione o Tema padrão como a base para criar desde o início e clique em **Criar**.
 
-Clique em Criar ou editar temas
+   ![](assets/brand-themes-2.png)
 
-CAPTURA DE TELA
+1. A tela de desenho se abre para que você edite diferentes partes do tema.
 
-Selecione o Tema padrão como a base para criar desde o início e clique em Criar. O tema terá elementos de todos os tipos de texto, botões e contêineres para que você veja as alterações à medida que define o tema.
+   ![](assets/brand-themes-3.png)
 
-Observação: você pode editar temas existentes usando o botão de opção Temas personalizados.
+## Configurações
 
-CAPTURA DE TELA
+Todas as opções de configurações podem ser acessadas pelos ícones à direita. Vamos analisar cada um deles.
 
-A tela de desenho se abre para que você edite diferentes partes do tema.
-
-CAPTURA DE TELA
+![](assets/brand-themes-4.png)
 
 ### Configurações gerais {#general-settings}
 
 Nomeie o tema e ajuste o tamanho da janela de visualização.
 
-CAPTURA DE TELA
+![](assets/brand-themes-5.png)
 
-### Configurações de cores {#color-settings}
+### Cores {#colors}
 
-Em seguida, ajuste a paleta de cores no painel direito.
+Ao fazer ajustes de cores, observe as alterações que têm efeito no painel principal.
 
-Observação: quando você faz alterações, observe que as alterações têm efeito no painel principal.
+![](assets/brand-themes-6.png)
 
-CAPTURA DE TELA
+>[!NOTE]
+>
+>Um conjunto de amostras já está configurado para você com base no tema padrão.
 
-Edite a paleta de cores.
+Clique em **Editar**.
 
-Observe que um conjunto de amostras já configurado para você com base no tema padrão.
+![](assets/brand-themes-7.png)
 
 É possível escolher entre predefinições ou configurar individualmente cada cor no conjunto. Posteriormente, a escolha da paleta torna essas cores acessíveis nas diferentes configurações de cor.
 
-CAPTURA DE TELA
+![](assets/brand-themes-8.png)
 
-Após configurar as predefinições, clique no símbolo de voltar.
+Quando terminar a edição, clique na seta para trás (![ícone de seta para trás](assets/icon-back-arrow.png)) para retornar.
 
-Edite a variante ao lado usando o símbolo de lápis ao lado da Variante 1.
+Para editar uma variante, clique no ícone de lápis.
 
-Observação: você pode criar até 6 variantes.
+![](assets/brand-themes-.png)
 
-CAPTURA DE TELA
+>[!NOTE]
+>
+>É possível criar até seis variantes.
 
-No painel de edição, é possível definir cores para elementos diferentes.
+Vários elementos estão disponíveis para personalização.
 
-CAPTURA DE TELA
+![](assets/brand-themes-.png)
 
-As configurações são grupos sob os seguintes cabeçalhos amplos.
+As configurações de variante são agrupadas nas seguintes categorias:
 
-Geral
-Cabeçalhos
-Parágrafos
-Botões
+* Geral
+* Cabeçalhos
+* Parágrafos
+* Botões
 
-### Configurações gerais de NAME {#general-name-settings}
+**Geral**
 
-Essas configurações permitem que você defina cores para o corpo, estruturas, planos de fundo, contêineres, grades, imagens e similares.
+Essas configurações permitem definir cores para corpo, estruturas, planos de fundo, containers, imagens e muito mais.
 
-CAPTURA DE TELA
+![](assets/brand-themes-.png)
 
-### Cabeçalho {#heading}
+**Cabeçalho**
 
-Esta seção é apenas para texto do tipo Cabeçalho, onde você pode definir as cores do Texto e da Borda de cada tipo de Cabeçalho.  É possível definir cabeçalhos com 6 tamanhos de fonte.
+Defina as cores do texto e da borda de cada tipo de cabeçalho, desde o Cabeçalho 1 até o Cabeçalho 6.
 
-CAPTURA DE TELA
+![](assets/brand-themes-.png)
 
-### Parágrafo {#paragraph}
+**Parágrafo**
 
-Esta seção é apenas para texto do tipo Parágrafo, onde você pode definir as cores do Texto e da Borda de cada tipo de Parágrafo.  É possível definir três predefinições de configurações de parágrafo.
+Definir cores de texto e borda de até três tipos de parágrafo.
 
-CAPTURA DE TELA
+![](assets/brand-themes-.png)
 
-### Botões {#buttons}
+**Botões**
 
-Esta seção é apenas para Botões para Cor de preenchimento, Cor da borda e Cor do texto.  É possível definir três predefinições de configurações de botão, chamadas de Primário, Secundário e Terciário.
+Defina a cor de preenchimento, borda e texto para três tipos de botão diferentes: Primário, Secundário e Terciário.
 
-CAPTURA DE TELA
+![](assets/brand-themes-.png)
 
 ### Configurações de texto {#text-settings}
 
-Nesse campo, é possível definir os tipos e tamanhos de fonte para &#39;Global&#39;, &#39;Cabeçalhos&#39; e &#39;Parágrafos&#39;.
+Definir tipos e tamanhos de fonte para globais, cabeçalhos e parágrafos.
 
-CAPTURA DE TELA
+![](assets/brand-themes-.png)
 
-### Configurações globais de texto {#global-text-settings}
+**Global**
 
 Em Configurações de texto globais, escolha Biblioteca de formulários entre Bibliotecas de fontes padrão e Google.
 
-CAPTURA DE TELA
+![](assets/brand-themes-.png)
 
 Em Padrão, escolha entre diferentes famílias de fontes.
 
-CAPTURA DE TELA
+![](assets/brand-themes-.png)
 
 Da mesma forma, em Google Fonts, serão exibidas opções para escolher entre as fontes compatíveis, respectivamente.
 
-### Configurações de texto de cabeçalho {#heading-text-settings}
+**Títulos**
 
 Aqui você pode definir a biblioteca de fontes, família, tamanho, estilo de texto e alinhamentos de texto para os diferentes tipos de cabeçalho.
 
 CAPTURA DE TELA
 
-### Configurações de texto de parágrafo {#paragraph-text-settings}
+**Parágrafos**
 
 Aqui você pode definir a biblioteca de fontes, família, tamanho, estilo de texto e alinhamentos de texto para as diferentes predefinições de parágrafo.
 
 CAPTURA DE TELA
 
-### Configurações de espaçamento {#spacing-settings}
+### Espaçamento e borda {#spacing-and-border}
 
 Sob isso, é possível definir o preenchimento e a margem para diferentes tipos de estrutura ou botão.  Escolha o tipo na primeira lista suspensa e continue para definir Preenchimento e/ou Margem para esse elemento. Repita este procedimento um por um, conforme aplicável.
 
