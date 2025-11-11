@@ -34,7 +34,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   <tr>
    <td><strong>Designer de email — Importador de modelos (Beta)</strong>: importe modelos de email do editor de email clássico para criar modelos compatíveis com o novo designer de email no Design Studio.</td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importação de modelo</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importar modelo</a></td>
   </tr>
   <tr>
    <td> </td>

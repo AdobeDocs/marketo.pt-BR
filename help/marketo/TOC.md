@@ -238,7 +238,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -1031,7 +1031,7 @@ ht-degree: 99%
          + [Conteúdo condicional](product-docs/email-marketing/email-designer/conditional-content.md)
          + [Criação de modelo de email](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Importar um modelo](product-docs/email-marketing/email-designer/import-template.md)
-         + [Converter imagens em modelos do HTML](product-docs/email-marketing/email-designer/image-to-html.md)
+         + [Converter imagens em modelos HTML](product-docs/email-marketing/email-designer/image-to-html.md)
          + [Criar conteúdo acessível](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personalizado](product-docs/email-marketing/email-designer/custom-css.md)
          + [Temas da marca](product-docs/email-marketing/email-designer/brand-themes.md)
