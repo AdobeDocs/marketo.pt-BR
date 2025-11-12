@@ -6,9 +6,9 @@ description: Saiba como criar e usar fragmentos de conteúdo visual como compone
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1921'
+source-wordcount: '1951'
 ht-degree: 1%
 
 ---
@@ -94,7 +94,7 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
 </tbody>
 </table>
 
-## Criar fragmentos {#create-fragments}
+## Criar um fragmento {#create-a-fragment}
 
 1. Para criar um novo fragmento visual, clique em **[!UICONTROL Criar fragmento]** na parte superior direita da página da lista de fragmentos.
 
@@ -119,9 +119,21 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
    >
    >O **Tipo** de um fragmento não pode ser modificado no momento.
 
-   O designer visual é aberto com uma tela vazia.
+1. Um modal _Criar email_ é exibido. Escolha _Usar Temas_ ou _Estilo Manual_. Nesta opção, estamos escolhendo **Usar Temas**. Clique em **Confirmar** quando terminar.
 
-1. Use as [ferramentas de design de conteúdo](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} para criar o conteúdo do fragmento visual.
+   ![](assets/create-fragments-4.png)
+
+   >[!NOTE]
+   >
+   >Se você escolher Estilo Manual, use as [ferramentas de design de conteúdo](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} para criar o conteúdo do fragmento visual.
+
+1. Clique no ícone _Temas_.
+
+   ![](assets/create-fragments-5.png)
+
+   >[!INFO]
+   >
+   >Saiba mais sobre [configurações de tema](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
 
 1. Clique em **[!UICONTROL Salvar]** a qualquer momento para salvar o fragmento de rascunho.
 

@@ -8,10 +8,10 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1201'
-ht-degree: 1%
+source-wordcount: '1097'
+ht-degree: 2%
 
 ---
 
@@ -21,17 +21,7 @@ Com temas de marca, crie facilmente conteúdo reutilizável que se ajuste a uma 
 
 Esse recurso permite que os profissionais de marketing aproveitem emails visualmente atraentes e consistentes com a marca de forma mais rápida e com menos esforço, ao mesmo tempo em que fornece opções avançadas de personalização para necessidades de design exclusivas.
 
-## Itens a serem observados {#things-to-note}
-
-* Ao criar um email do zero, você pode optar por começar a criar o conteúdo usando um tema para aplicar rapidamente um estilo específico que se ajuste à sua marca e design. Se você escolher o modo Clássico, não será possível aplicar temas, a menos que redefina seu email.
-
-* Os fragmentos não são compatíveis entre os modos Tema e Clássico. Para poder usar um fragmento em um conteúdo no qual um tema é aplicado, ele deve ser criado no modo Tema.
-
-* A atualização de um tema não será aplicada automaticamente a todos os ativos que os utilizam. Seria necessário editar objetos individuais para atualizar o tema.
-
-* Quando temas são excluídos, não afeta os ativos que os utilizam.
-
-## Criar um tema da marca {#create-a-brand-theme}
+## Criar um tema {#create-a-theme}
 
 1. Siga as etapas para [criar um modelo de email](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
@@ -47,7 +37,7 @@ Esse recurso permite que os profissionais de marketing aproveitem emails visualm
 
    ![](assets/brand-themes-3.png)
 
-## Configurações
+## Configurações {#settings}
 
 Todas as opções de configurações podem ser acessadas pelos ícones à direita. Vamos analisar cada um deles.
 
@@ -144,214 +134,263 @@ Definir biblioteca de fontes, família, tamanho, estilo de texto e alinhamentos 
 
 ### Espaçamento e borda {#spacing-and-border}
 
-Sob isso, é possível definir o preenchimento e a margem para diferentes tipos de estrutura ou botão.  Escolha o tipo na primeira lista suspensa e continue para definir Preenchimento e/ou Margem para esse elemento. Repita este procedimento um por um, conforme aplicável.
+Escolha entre várias estruturas diferentes e personalize sua margem, preenchimento ou borda.
 
-CAPTURA DE TELA
+![](assets/brand-themes-18.png)
 
-Os tipos de estruturas são os seguintes:
+No exemplo abaixo, estamos personalizando um Contêiner.
 
-CAPTURA DE TELA
+**Margens**
 
-Configurações de um elemento de exemplo, como Contêiner.
+![](assets/brand-themes-19.png)
 
-Margens
+**Preenchimento**
 
-CAPTURA DE TELA
+![](assets/brand-themes-20.png)
 
-Preenchimento
+**Cantos**
 
-CAPTURA DE TELA
+![](assets/brand-themes-21.png)
 
-Cantos
-
-CAPTURA DE TELA
-
-Bordas
+**Bordas**
 
 Alterne a borda para ATIVADA para revelar opções para definir o tamanho, o estilo e a posição.
 
-CAPTURA DE TELA
+![](assets/brand-themes-22.png)
 
-As opções de estilos
+Abaixo estão alguns exemplos visuais de alteração do estilo da borda.
 
-CAPTURA DE TELA
+<table><thead>
+  <tr>
+    <th>Tipo</th>
+    <th>Configuração de tamanho e estilo</th>
+    <th>Efeito</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Tracejado</td>
+    <td><img src="assets/brand-themes-23a.png"></td>
+    <td><img src="assets/brand-themes-23b.png"></td>
+  </tr>
+  <tr>
+    <td>Pontilhado</td>
+    <td><img src="assets/brand-themes-24a.png"></td>
+    <td><img src="assets/brand-themes-24b.png"></td>
+  </tr>
+  <tr>
+    <td>Cheio</td>
+    <td><img src="assets/brand-themes-25a.png"></td>
+    <td><img src="assets/brand-themes-25b.png"></td>
+  </tr>
+</tbody></table>
 
-Alguns exemplos do efeito de estilos na caixa
+Ajuste quais lados da borda devem ser mostrados ou ocultados. No exemplo abaixo, a borda superior fica oculta.
 
-```
-TABLE
-
-Type
-
-Size and Style setting
-
-Effect
-
-Dashed
-
-Dotted
-
-Solid
-```
-
-Ajustar se a borda for exibida ou ocultada usando a posição da borda
-
-Exemplo: Top está oculto no exemplo abaixo.
-
-```
-TABLE
-
-Position setting
-
-Effect
-```
-
-Repita as configurações para definir tipos de margem, preenchimentos, canto e borda para diferentes tipos de estruturas.
+<table><thead>
+  <tr>
+    <th>Configuração de posição</th>
+    <th>Efeito</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="assets/brand-themes-26a.png"></td>
+    <td><img src="assets/brand-themes-26b.png"></td>
+  </tr>
+</tbody></table>
 
 ### Configurações do botão {#button-settings}
 
-Sob essa opção, você pode definir diferentes elementos sobre botões (diferentes de cor), como forma de botão, raio de botão, texto de botão e tamanhos de botão. É possível defini-los para 3 predefinições - Primária, Secundária e Terciária.
+Definir elementos não coloridos para botões, como forma, raio, texto e tamanho. As três predefinições são: Primária, Secundária e Terciária.
 
-CAPTURA DE TELA
+![](assets/brand-themes-27.png)
 
-```
-TABLE
+<table><thead>
+  <tr>
+    <th>Configuração</th>
+    <th>Descrição</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Borda &gt; Raio da borda</td>
+    <td>Curvatura do canto da borda do botão</td>
+  </tr>
+  <tr>
+    <td>Borda &gt; Tamanho da borda </td>
+    <td>Espessura da borda do botão</td>
+  </tr>
+  <tr>
+    <td>Borda &gt; Estilo da borda</td>
+    <td>Estilo da borda do botão (tracejado, sólido, pontilhado etc.)</td>
+  </tr>
+  <tr>
+    <td>Primário/Secundário/Terciário</td>
+    <td>Permite configurações para três predefinições de configurações de botão</td>
+  </tr>
+  <tr>
+    <td>TAMANHO &gt; Altura</td>
+    <td>Configuração de altura do botão</td>
+  </tr>
+  <tr>
+    <td>TAMANHO &gt; Largura</td>
+    <td>Configuração de largura do botão</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Família da fonte</td>
+    <td>Opção de família de fontes para texto de botão</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Biblioteca de fontes</td>
+    <td>Opção de biblioteca de fontes para texto de botão</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Tamanho da fonte</td>
+    <td>Tamanho da fonte para o texto do botão</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Alinhamento do texto</td>
+    <td>Alinhamento do texto do botão</td>
+  </tr>
+  <tr>
+    <td>Texto &gt; Estilos de texto</td>
+    <td>Estilo do texto (negrito, itálico, sublinhado, tachado) do texto do botão</td>
+  </tr>
+</tbody></table>
 
-Primary/Secondary/Tertiary    Allows settings for 3 presets of button configurations
-Text > Font Library    Font library choice for button text
-Text > Font family    Font family choice for button text
-Text > Font size    Font size for button text
-Text > Text styles    Text style (bold, italicized, underlined, strikethrough) for button text
-Text > Text alignment    Alignment for button text
-Border> Border size     Button border thickness
-Border> Border style    Button border style (dashed, solid, dotted, etc.)
-Border> Border radius    Button border corner curvature
-SIZE > Height    Height setting for the button
-SIZE > Width    Width setting for the button
-```
+### Divisor {#divider}
 
-### Configurações do divisor {#divider-settings}
+Defina o tipo de configurações de linha e contêiner do divisor.
 
-Em, você pode definir o tipo de linha e as configurações de contêiner do divisor.
-
-CAPTURA DE TELA
+![](assets/brand-themes-28.png)
 
 ### Configurações da grade {#grid-settings}
 
-Use &#39;Lacuna de colunas&#39; para controlar o espaçamento nas grades.
+Use _Lacuna de colunas_ para controlar o espaçamento nas grades.
 
-```
-TABLE
-```
+![](assets/brand-themes-29.png)
 
-Clique em Salvar ao concluir.
+<table><tbody>
+  <tr>
+    <td><img src="assets/brand-themes-30a.png"></td>
+    <td><img src="assets/brand-themes-30b.png"></td>
+  </tr>
+ <tr>
+    <td><img src="assets/brand-themes-31a.png"></td>
+    <td><img src="assets/brand-themes-31b.png"></td>
+  </tr>
+</tbody></table>
 
-CAPTURA DE TELA
+Clique em **Salvar** quando terminar.
 
-## Edição de temas da marca {#editing-brand-themes}
+![](assets/brand-themes-32.png)
 
-A criação de temas de marca está disponível no painel de seleção de modelo no editor. Você pode acessar esse painel ao criar um novo modelo ou em Alterar design, no editor.
+## Editar um tema existente {#edit-a-brand-theme}
 
-CAPTURA DE TELA
+1. Siga as etapas para [criar um modelo de email](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-Clique em Alterar o design.
+1. Na tela _Criar seu modelo_, selecione **Criar ou editar temas**.
 
-CAPTURA DE TELA
+   ![](assets/brand-themes-33.png)
 
-Clique em Criar ou editar temas
+1. Clique na guia **Meus temas**.
 
-CAPTURA DE TELA
+   ![](assets/brand-themes-34.png)
 
-Selecione Temas personalizados para mostrar a lista de temas personalizados criados em sua organização. Escolha um tema e clique em Editar.
+1. Selecione o tema desejado. O botão _Criar_ torna-se um botão _Editar_. Clique em **Editar**.
 
-CAPTURA DE TELA
+   ![](assets/brand-themes-35.png)
 
-Agora, a tela de desenho está aberta para edição.
+1. A tela de desenho é aberta para edição. Faça as alterações desejadas em qualquer uma das opções encontradas em **[Configurações](#settings)**.
 
-CAPTURA DE TELA
-
-Modifique qualquer uma das configurações nas seções no painel direito.
-
-CAPTURA DE TELA
-
-Clique em Salvar ao concluir.
-
-CAPTURA DE TELA
+>[!TIP]
+>
+>Lembre-se de salvar seu trabalho!
 
 ## Uso de temas de marca {#using-brand-themes}
 
-Os temas de marca assim criados/editados estão prontos para serem aproveitados em ativos de email, modelo de email e fragmento.
+Aproveite temas de email, modelos de email e fragmentos.
 
-Adobe Marketo Engage: os temas de marca criados/editados estão prontos para serem aproveitados nos ativos de email, modelo de email e fragmento criados usando o novo editor de email.
-
-Você pode criar estruturas e componentes no editor e aplicar qualquer um dos temas de marca e qualquer uma de suas variantes.
+É possível criar estruturas e componentes no editor e aplicar qualquer um dos temas de marca e suas variantes.
 
 ### Em seus emails {#in-your-emails}
 
-Criar e-mails/modelos de e-mail do zero
+1. Siga as etapas para [criar um email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-* Comece com &quot;Criar email&quot;/ &quot;Criar modelo de email&quot;, selecione a opção &quot;Criar do zero&quot;
+1. Após a criação, clique em **Editar conteúdo de email**.
 
-* Na modal exibida, selecione &#39;Usar temas&#39;
+   ![](assets/brand-themes-36.png)
 
-CAPTURA DE TELA
+1. Selecione **Design do zero**.
 
-Observação: somente o email criado por essa opção poderá aproveitar os temas de marca definidos na seção anterior
+   ![](assets/brand-themes-37.png)
 
-* Essa nova opção aparece na barra lateral direita, que permite usar os temas da marca no seu email
+1. Selecione **Usar Temas** (deve ser selecionado por padrão) e clique em **Confirmar**.
 
-CAPTURA DE TELA
+   ![](assets/brand-themes-38.png)
 
-* Você pode selecionar entre temas do Adobe ou temas personalizados criados para suas marcas
+>[!NOTE]
+>
+>Somente os emails criados por essa opção poderão aproveitar os temas de marca definidos.
 
-CAPTURA DE TELA
+1. Clique no ícone _Temas_ na barra lateral direita.
 
-* Projete o conteúdo de email na tela e selecione um tema a ser aplicado ao conteúdo
+   ![](assets/brand-themes-39.png)
 
-* Um e-mail deve conter apenas um tema de marca
+1. Selecione entre temas do Adobe ou temas já criados.
 
-* Para qualquer componente criado neste ativo, é possível aplicar qualquer uma das opções de estilo disponíveis no tema, por meio da guia &quot;Estilos&quot; no painel direito
+   ![](assets/brand-themes-40.png)
 
-* por exemplo, um CTA pode ser configurado como primário/secundário/terciário
+   >[!NOTE]
+   >
+   >* Crie o conteúdo do email na tela e selecione um tema para aplicar ao conteúdo.
+   >* Um email pode conter apenas um tema de marca.
+   >* Para qualquer componente criado nesse ativo, você pode aplicar qualquer uma das opções de estilo disponíveis no tema da guia &quot;Estilos&quot; no painel direito (por exemplo, um call-to-action pode ser configurado como primário/secundário/terciário).
 
-CAPTURA DE TELA
+1. Implemente os designs desejados. Por exemplo, um componente de texto pode ser selecionado para aplicar qualquer estilo de cabeçalho/parágrafo, conforme definido no tema.
 
-* Por exemplo, um componente de texto pode ser selecionado para aplicar qualquer estilo de cabeçalho/parágrafo conforme definido no tema
+   ![](assets/brand-themes-41.png)
 
-CAPTURA DE TELA
+   >[!NOTE]
+   >
+   >A guia Estilo é diferente de um email de estilo manual tradicional, em que há mais liberdade criativa para estilizar um componente.
 
-* Observe que agora a guia &quot;Estilo&quot; é diferente de um email de estilo manual tradicional, onde há mais liberdade criativa para estilizar um componente
+### Tornar um modelo compatível com temas {#make-a-template-compatible}
 
-### Criar modelos de email/emails a partir de um modelo
+1. Localize e selecione o modelo desejado.
 
-* Você pode aproveitar temas ao criar um email ou template de email a partir de um template de email preexistente, que também foi criado usando temas
+1. Clique em **Editar modelo de email**.
 
-* Comece com &quot;Criar email&quot;/&quot;Criar modelo de email&quot;, selecione um dos modelos de email criados usando temas, na seção &quot;Modelos salvos&quot;
+   ![](assets/brand-themes-42.png)
 
-* Agora, o tema usado no modelo de email salvo é aplicado automaticamente
+1. Clique no ícone _Temas_ e clique em **Gerar tema a partir do conteúdo**.
 
-CAPTURA DE TELA
+   ![](assets/brand-themes-43.png)
 
-* Você também pode alterar o tema neste modelo de e-mail/ e-mail através da opção &#39;Temas&#39; na barra lateral direita
+1. A janela _Criar um tema_ é aberta. O Marketo Engage detecta automaticamente os elementos de estilo e os consolida em um novo tema.
 
-CAPTURA DE TELA
+   ![](assets/brand-themes-44.png)
 
-* Também é possível aplicar qualquer variante de um tema ao conteúdo
+1. Nomeie seu tema.
 
-CAPTURA DE TELA
+1. Faça as alterações desejadas (da mesma forma que faz ao criar um tema do zero). Clique em **Salvar** quando terminar.
 
-CAPTURA DE TELA
+   ![](assets/brand-themes-45.png)
 
 ### Nos fragmentos {#in-your-fragments}
 
-Comece com &quot;Criar novo fragmento&quot;
+1. Siga as etapas para [criar um fragmento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment).
 
-Na opção &#39;Temas&#39; na barra lateral direita, selecione o tema desejado e aplique o mesmo
+1. Projete seu tema de conteúdo usando as opções encontradas em **[Configurações](#settings)**.
 
-CAPTURA DE TELA
+Todo o conteúdo do fragmento criado na tela posteriormente adotará o tema selecionado. Também é possível aplicar qualquer variante de um tema ao conteúdo.
 
-Todo o conteúdo do fragmento criado na tela posteriormente adotará o tema selecionado
+Depois que o fragmento é publicado, ele pode ser usado em qualquer template de email/email criado por meio de temas.
 
-Também é possível aplicar qualquer variante de um tema ao conteúdo
+## Itens a serem observados {#things-to-note}
 
-Depois que esse fragmento é publicado, ele pode ser usado em qualquer modelo de email/email criado usando Temas
+* Ao criar um email do zero, você pode optar por começar a criar o conteúdo usando um tema para aplicar rapidamente um estilo específico que se ajuste à sua marca e design. Se você escolher o modo Clássico, não será possível aplicar temas, a menos que redefina seu email.
+
+* Os fragmentos não são compatíveis entre os modos Tema e Clássico. Para poder usar um fragmento em um conteúdo no qual um tema é aplicado, ele deve ser criado no modo Tema.
+
+* A atualização de um tema não será aplicada automaticamente a todos os ativos que os utilizam. Seria necessário editar objetos individuais para atualizar o tema.
+
+* Quando temas são excluídos, não afeta os ativos que os utilizam.
