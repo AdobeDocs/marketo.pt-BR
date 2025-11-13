@@ -4,9 +4,9 @@ description: Versões de plug-in do  [!DNL Microsoft Dynamics] MSI - Documentaç
 title: Versões de plug-in para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,9 @@ E é isso! Após a atualização, você verá apenas uma Solução MSI.
    <td>2.00.31</td>
    <td>Alterações na paginação em atividade da Web anônima.
    <p>
-   Criptografar informações da chave secreta da visualização do usuário. A senha precisa ser alterada após a importação do novo pacote para que a criptografia ocorra.</td>
+   Criptografar informações da chave secreta da visualização do usuário. A senha precisa ser alterada após a importação do novo pacote para que a criptografia ocorra.
+   <p>
+   Ao atualizar o plug-in do MSI para Dynamics, é recomendável atualizar a chave secreta da API do SOAP e as credenciais do MSI como uma forma de atualização para garantir que nenhuma permissão de acesso ocorra com o novo pacote que está sendo instalado.</td>
   </tr>
   <tr>
    <td>18/10/23</td>
