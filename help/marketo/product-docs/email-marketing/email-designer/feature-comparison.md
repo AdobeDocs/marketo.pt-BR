@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 14%
 
 ---
@@ -244,22 +244,22 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Disponível</td>
   </tr>
   <tr>
+    <td>Velocity Scripting</td>
+    <td>Capacidade de usar o script do Velocity em emails.</td>
+    <td>Disponível</td>
+    <td>Disponível</td>
+  </tr>
+  <tr>
     <td>Suporte para mover, excluir e importar programas com ativos de email</td>
     <td>Capacidade de mover, excluir e importar Programas de email junto com ativos de email.</td>
     <td>Disponível</td>
-    <td>Em breve</td>
+    <td>Disponível</td>
   </tr>
   <tr>
     <td>Funções e permissões</td>
     <td>Capacidade de adicionar funções e permissões para email, modelos de email e fragmentos.</td>
     <td>Disponível</td>
-    <td>Em breve</td>
-  </tr>
-  <tr>
-    <td>Velocity Scripting</td>
-    <td>Capacidade de usar o script do Velocity em emails.</td>
     <td>Disponível</td>
-    <td>Em breve</td>
   </tr>
   <tr>
     <td>Experimentação (teste A/B)</td>
