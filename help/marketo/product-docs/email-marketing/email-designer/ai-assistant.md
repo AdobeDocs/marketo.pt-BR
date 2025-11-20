@@ -9,13 +9,13 @@ exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 3%
+ht-degree: 9%
 
 ---
 
 # Usar o Assistente de IA {#use-ai-assistant}
 
-O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
+O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA generativa da Adobe, da biblioteca de solicitações e com o auxílio do Firefly para a geração de imagens, que ajuda na criação de conteúdo adequado para uma determinada persona, grupo de compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
 
 >[!PREREQUISITES]
 >

@@ -39,7 +39,7 @@ Algumas etapas exigem a ajuda da sua equipe de TI.
 Há várias medidas que você pode tomar para garantir que os emails cheguem ao maior número de pessoas possível.
 
 * **Crie uma marca nos links de rastreamento**. Você pode escolher um CNAME para usar seu próprio domínio (em vez do Marketo) nos links incluídos em emails do Marketo. Isso reforça a marca do seu domínio e aumenta a confiança e a capacidade de entrega dos seus recipients.
-* **Adicionar o Marketo ao seu email corporativo incluir na lista de permissões**. É uma prática recomendada enviar emails de teste para suas contas de teste antes de enviar emails para pessoas reais. Incluir na lista de permissões Com o ➡ Marketo, você pode impedir que esses emails de teste sejam bloqueados ou sinalizados como spam.
+* **Adicionar o Marketo ao seu incluo na lista de permissões de email corporativo**. É uma prática recomendada enviar emails de teste para suas contas de teste antes de enviar emails para pessoas reais. Incluir na lista de permissões Com o ➡ Marketo, você pode impedir que esses emails de teste sejam bloqueados ou sinalizados como spam.
 * **Configurar SPF e DKIM**. Essas tecnologias garantem aos recipients que os emails do Marketo não são spam. Para ajudar a impedir que os filtros de spam dos destinatários rejeitem seus emails do Marketo, siga estas etapas para [Configurar um SPF e um DKIM para sua capacidade de entrega de email](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
 * **Configure um registro MX para o seu domínio.** Um registro MX permite que você receba emails do domínio do qual você está enviando emails para processar respostas e respostas automáticas. Se estiver enviando do domínio corporativo, provavelmente você já tem essa configuração. Caso contrário, geralmente é possível configurar o para mapear para o registro MX do domínio corporativo.
 * **Configurações Recomendadas para o Endereço do Remetente.** Você deve usar um domínio de email válido, existente e em funcionamento no Endereço do remetente em todas as campanhas de email. Pode ser útil configurar um subdomínio do domínio corporativo em vez de enviar a partir desse domínio. Isso garantirá que os problemas no fluxo de correio corporativo não afetem o fluxo de correio da Marketo e vice-versa. Além disso, o envio de emails de `something@nonexistentdomain.com` fará com que emails sejam filtrados ou bloqueados. Qualquer domínio usado no endereço &quot;De&quot; do remetente deve ter uma conta postmaster@ e abuse@ válida e funcional.
@@ -144,9 +144,9 @@ Agora, nossa Equipe de marketing está usando a plataforma Marketo para se comun
 
 `2)` Para os links de rastreamento no email, adicione uma Entrada DNS (CNAME) para **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, indicando **[MktoTrackingLink]**.
 
-`3)` Incluir na lista de permissões Marketo.
+`3)` Inclua na lista de permissões O Marketo.
 
-    * Se usarmos endereços IP em nossa Inclui na lista de permissões por email, adicione os IPs listados abaixo:
+    * Se usarmos endereços IP em nosso Incluo na lista de permissões de Email, adicione os IPs listados abaixo:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -165,7 +165,7 @@ Agora, nossa Equipe de marketing está usando a plataforma Marketo para se comun
 
 >[!NOTE]
 >
->Entre em contato com o Suporte da Marketo incluir na lista de permissões se desejar obter uma lista abreviada de IPs para resolver problemas específicos de seu ambiente.
+>Entre em contato com o Suporte da Marketo se desejar que uma lista abreviada de IPs se inclua na lista de permissões específica para seu ambiente.
 
     * Se nosso sistema antisspam usa Domínios From, adicione estes:
 
@@ -270,7 +270,7 @@ O Marketo Engage tem JavaScript de rastreamento personalizado (chamado [!DNL Mun
 
 ## Expectativas de desempenho {#performance-expectations}
 
-O que você pode esperar do Marketo em termos de desempenho? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias tabelas encontradas na [Descrição do produto Marketo Engage](https://helpx.adobe.com/br/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. As colunas &quot;Desempenho&quot; e &quot;Desempenho Adicional&quot; referem-se a pacotes de camada de desempenho que fornecem [níveis de desempenho mais altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+O que você pode esperar do Marketo em termos de desempenho? Pode variar, dependendo do tamanho e da complexidade de suas campanhas de marketing. Mas você pode esperar níveis de desempenho iguais aos descritos na coluna &quot;Padrão&quot; em várias tabelas encontradas na [Descrição do produto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. As colunas &quot;Desempenho&quot; e &quot;Desempenho Adicional&quot; referem-se a pacotes de camada de desempenho que fornecem [níveis de desempenho mais altos](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

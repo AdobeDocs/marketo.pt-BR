@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
 source-wordcount: '729'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -64,7 +64,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
  <tr>
    <td><strong>Designer de email – Conversor de imagem para HTML</strong>: faça upload de um arquivo de imagem PNG/JPEG compatível de um email e ele será convertido automaticamente em HTML para uso no novo designer de email.</td>
    <td>Enviado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Converter imagens em modelos do HTML</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Converter imagens em modelos HTML</a></td>
   </tr>
   <tr>
    <td> </td>
