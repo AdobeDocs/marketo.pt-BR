@@ -4,9 +4,9 @@ description: Noções básicas sobre configurações de privacidade - Documenta�
 title: Noções básicas sobre configurações de privacidade
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -68,11 +68,7 @@ Os profissionais de marketing podem permitir que os usuários aceitem usar os re
 
 Os profissionais de marketing podem preservar a privacidade rastreando usuários com um endereço IP anônimo. Para fazer isso, adicione este código ao RTP ou Javascript [!DNL Munchkin] que está incorporado no site.
 
-* Para [!DNL Munchkin], adicione {&quot;anonymizeIP&quot;,true} à função init.
-
-  >[!NOTE]
-  >
-  >O uso deste parâmetro requer que [!DNL Munchkin] V2 esteja habilitado. Para ativá-la para sua assinatura, contate o [Suporte da Marketo](https://nation.marketo.com/community/support_solutions).
+* Para [!DNL Munchkin], adicione `{"anonymizeIP",true}` à [função de inicialização](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Para o Web Personalization (RTP), adicione isso ao javascript:
 
