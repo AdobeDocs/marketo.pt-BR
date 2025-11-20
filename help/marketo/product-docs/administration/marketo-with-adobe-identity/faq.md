@@ -3,10 +3,10 @@ description: Perguntas frequentes sobre o Adobe Identity Management - Documenta�
 title: Perguntas frequentes sobre o Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95ed91736b7276dd7a5b9e09958c1f09832ae719
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
+source-wordcount: '1579'
+ht-degree: 1%
 
 ---
 
@@ -32,7 +32,7 @@ Não. As URLs aparecerão no seguinte formato após a migração: `https://exper
 
 **Há algo que precisamos fazer para nos prepararmos para a alteração da URL?**
 
-Sim. Após a migração, o Marketo Engage deixará de ser distribuído do experience.adobe.com para o Adobe Experience Cloud. Incluir na lista de permissões Você precisará trabalhar com sua equipe de TI para classificar todos os domínios do Adobe listados [na parte superior deste artigo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage.
+Sim. Após a migração, o Marketo Engage deixará de ser distribuído do experience.adobe.com para o Adobe Experience Cloud. Você precisará trabalhar com sua equipe de TI para incluir na lista de permissões todos os domínios do Adobe listados [na parte superior deste artigo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} para evitar a interrupção do acesso ao Marketo Engage.
 
 Links e marcadores anteriores para ativos do Marketo Engage no domínio engage-xx.marketo.com _continuarão a funcionar._ No entanto, primeiro faça logon na instância do Marketo Engage para o URL para o qual você está navegando. Por exemplo, para navegar até um marcador de uma Campanha inteligente na instância com a Munchkin ID 123-ABC-456, primeiro é necessário fazer logon na instância do Marketo Engage com a Munchkin ID 123-ABC-456.
 
@@ -40,7 +40,7 @@ Embora não seja planejado, o trabalho de desenvolvimento futuro pode interrompe
 
 **Isso funciona com SSO?**
 
-Sim. A integração com o Adobe IMS é compatível com usuários da Universal ID e SSO. O SSO agora é orientado pelo Adobe IMS e é configurado no nível da organização na Adobe Admin Console. No entanto, há diferenças no suporte iniciado pelo Marketo Engage IdP em comparação ao suporte iniciado pelo SP da Adobe ([saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}). Se você precisar de ajuda com relação às diferenças de SSO após a migração para o Admin Console, entre em contato com o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/br/contact.html){target="_blank"}.
+Sim. A integração com o Adobe IMS é compatível com usuários da Universal ID e SSO. O SSO agora é orientado pelo Adobe IMS e é configurado no nível da organização na Adobe Admin Console. No entanto, há diferenças no suporte iniciado pelo Marketo Engage IdP em comparação ao suporte iniciado pelo SP da Adobe ([saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}). Se você precisar de ajuda com relação às diferenças de SSO após a migração para o Admin Console, entre em contato com o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Qual é a diferença entre um Administrador de Produto do Adobe e um Administrador do Marketo Engage?**
 
@@ -75,7 +75,7 @@ Não. O gerenciamento de Função do usuário (em espaços de trabalho) é concl
 
 **Sou um Administrador do Marketo em uma assinatura integrada do IMS e não tenho acesso à Admin Console. Como obter acesso?**
 
-Qualquer administrador de sistema ou de produto da Adobe que tenha acesso à Admin Console da sua organização pode conceder acesso a você. Se você não tem certeza de quem na sua organização tem privilégios de administrador no console, contate o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/br/contact.html){target="_blank"}.
+Qualquer administrador de sistema ou de produto da Adobe que tenha acesso à Admin Console da sua organização pode conceder acesso a você. Se você não tem certeza de quem na sua organização tem privilégios de administrador no console, contate o [Atendimento ao cliente da Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Como um Administrador adicionaria usuários ao Marketo [!DNL Sales Connect]?**
 
@@ -83,7 +83,7 @@ Embora exista um cartão de produto no Admin Console para [!DNL Sales Connect], 
 
 **Onde posso obter mais informações sobre a Adobe Admin Console?**
 
-[https://helpx.adobe.com/br/enterprise/admin-guide.html](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/br/enterprise/admin-guide.html){target="_blank"}.
 
 **Ainda vou para a seção de Administrador no Marketo para fazer alterações na conta do usuário para minha conta?**
 
@@ -123,11 +123,9 @@ Os usuários atuais do Marketo Engage com logons diferentes de seus endereços d
 
 **O que acontece após a migração da Identidade da Adobe se minha assinatura usar configurações de restrição de IP?**
 
-Quando as assinaturas são integradas à Adobe Identity, as configurações de restrição de IP não são migradas para a Adobe Admin Console. As configurações de restrição de IP da Marketo incluem permitir somente o acesso de endereços IP específicos e bloquear o acesso de endereços IP específicos. No momento, o Adobe Identity Management System não é compatível com recursos de restrição de IP.
+Suas restrições de IP atuais permanecerão ativas até o primeiro trimestre de 2026 (isso se aplica às assinaturas que as tinham ativadas antes da migração). Essas restrições também se aplicam aos usuários do Adobe ID, portanto, seus controles de acesso continuarão funcionando conforme esperado.
 
-Em meados de 2025, o Adobe Identity Management System lançará um recurso que permite somente endereços IP específicos, oferecendo suporte a uma transição para usuários do Marketo que atualmente utilizam esse recurso. Aqueles que atualmente usam esse recurso não serão submetidos à migração do usuário até que o recurso seja lançado. Depois que o recurso for entregue, os usuários serão notificados sobre a migração que está sendo agendada. Mais informações sobre o recurso serão fornecidas quando disponíveis.
-
-Os usuários que atualmente usam a restrição de IP, bloqueando endereços específicos do acesso, não poderão mais usar esse recurso após a migração para o Adobe Identity, pois ele não é compatível com o Adobe Identity Management System.
+A partir do primeiro trimestre de 2026, as restrições de IP herdadas serão desativadas. A partir desse ponto, o acesso baseado em IP será gerenciado exclusivamente na Adobe Admin Console (AAC). Para manter o acesso seguro, será necessário configurar as restrições de IP na AAC. Para obter mais informações, consulte esta [publicação do blog da Nação de marketing](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"}.
 
 **O que acontece após a migração da Adobe Identity se eu tiver usuários com uma função com a opção de &#39;Ignorar Logon Único&#39;?**
 
@@ -143,7 +141,7 @@ Não, não há nenhum impacto nessas configurações.
 
 **Como posso evitar que as sessões atinjam o tempo limite?**
 
-Em [Configurações Avançadas](https://helpx.adobe.com/br/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, você pode personalizar a vida útil máxima da sessão desejada (são necessárias permissões de Administrador do Sistema). É recomendável estabelecer essa configuração após a migração do produto, mas antes da migração do usuário.
+Em [Configurações Avançadas](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, você pode personalizar a vida útil máxima da sessão desejada (são necessárias permissões de Administrador do Sistema). É recomendável estabelecer essa configuração após a migração do produto, mas antes da migração do usuário.
 
 **Agora preciso entrar no Experience Cloud para acessar o Marketo Engage. Há uma maneira de simplificar este fluxo?**
 
