@@ -1,13 +1,12 @@
 ---
-unique-page-id: 7512454
 description: Configurar notificação por push para dispositivos móveis - Documentação do Marketo - Documentação do produto
 title: Configurar notificação por push para dispositivo móvel
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 3%
+source-wordcount: '464'
+ht-degree: 4%
 
 ---
 
@@ -55,11 +54,7 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-6.png)
 
-   >[!NOTE]
-   >
-   >As mensagens e as ações de toque serão iguais em ambas as plataformas.
-
-1. Somente para o iOS, marque a caixa de seleção para informar ao aplicativo para reproduzir um som quando a mensagem chegar. O Android reproduz o som automaticamente.
+1. Para o iOS, marque a caixa de seleção para informar ao aplicativo para reproduzir um som quando a mensagem chegar. O Android reproduz o som automaticamente.
 
    ![](assets/configure-mobile-push-notification-7.png)
 
@@ -71,7 +66,13 @@ ht-degree: 3%
 
    ![](assets/configure-mobile-push-notification-9.png)
 
-Parabéns! Agora, a notificação por push está pronta para ser enviada.
+A notificação por push está pronta para ser enviada.
+
+Se você receber o erro: `Limited Access: You do not have sufficient privileges to perform this action`, verifique se a permissão **Access Design Studio** > `Access Landing Page` está definida para o usuário, além de pelo menos um dos seguintes:
+
+* Aprovar notificação por push
+* Excluir notificação por push
+* Editar notificação por push
 
 ## URIs de deep link {#deep-link-uris}
 
@@ -81,7 +82,7 @@ Um URI de deep link é composto de três partes: nome do esquema, caminho e iden
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções para definir URIs de deep link. Portanto, peça ao desenvolvedor para enviar os URIs (links) para as páginas que você está interessado em usar. Isso garantirá que os URIs inseridos nas mensagens de push apontem para os locais corretos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções na definição de URIs de deep link, portanto, peça a ele para enviar os URIs (links) das páginas que você está interessado em usar. Isso garante que os URIs inseridos nas mensagens de push apontem para os locais certos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
