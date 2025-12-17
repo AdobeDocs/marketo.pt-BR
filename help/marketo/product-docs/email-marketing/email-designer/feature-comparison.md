@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 14%
 
 ---
@@ -253,7 +253,7 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Suporte para mover, excluir e importar programas com ativos de email</td>
     <td>Capacidade de mover, excluir e importar Programas de email junto com ativos de email.</td>
     <td>Disponível</td>
-    <td>Disponível</td>
+    <td>Indisponível</td>
   </tr>
   <tr>
     <td>Funções e permissões</td>
