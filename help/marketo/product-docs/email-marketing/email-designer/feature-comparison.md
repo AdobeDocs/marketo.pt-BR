@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 14%
@@ -250,12 +250,6 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Disponível</td>
   </tr>
   <tr>
-    <td>Suporte para mover, excluir e importar programas com ativos de email</td>
-    <td>Capacidade de mover, excluir e importar Programas de email junto com ativos de email.</td>
-    <td>Disponível</td>
-    <td>Indisponível</td>
-  </tr>
-  <tr>
     <td>Funções e permissões</td>
     <td>Capacidade de adicionar funções e permissões para email, modelos de email e fragmentos.</td>
     <td>Disponível</td>
@@ -284,6 +278,12 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Capacidade de modificar o conteúdo do HTML de emails, modelos de email e fragmentos.</td>
     <td>Disponível</td>
     <td>A ser definido</td>
+  </tr>
+  <tr>
+    <td>Suporte para mover, excluir e importar programas com ativos de email</td>
+    <td>Capacidade de mover, excluir e importar Programas de email junto com ativos de email.</td>
+    <td>Disponível</td>
+    <td>Indisponível</td>
   </tr>
   <tr>
     <td>Conteúdo preditivo</td>

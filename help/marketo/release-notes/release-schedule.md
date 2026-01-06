@@ -4,10 +4,10 @@ description: Programação de lançamento - Documentos do Marketo - Documentaç�
 title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8148440f2893fa27922b91ea641fc591cab57680
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 97%
+source-wordcount: '137'
+ht-degree: 94%
 
 ---
 
@@ -31,12 +31,6 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
    <th width="250px">Versão</th>
    <th width="250px">Data de lançamento</th>
    <th width="250px">Status</th>
-  </tr>
-  <tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maio de 2025</a></td>
-   <td>23 de maio de 2025</td>
-   <td>Enviado</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Julho de 2025</a></td>
@@ -66,6 +60,16 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
   <tr>
   <td>Fevereiro de 26</td>
    <td>20 de fevereiro de 2026</td>
+   <td>No cronograma</td>
+  </tr>
+  <tr>
+  <td>Março de 2026</td>
+   <td>sábado, 27 de março de 2026</td>
+   <td>No cronograma</td>
+  </tr>
+  <tr>
+  <td>Maio de 2026</td>
+   <td>sábado, 1 de maio de 2026</td>
    <td>No cronograma</td>
   </tr>
  </tbody>
