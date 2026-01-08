@@ -141,4 +141,4 @@ Selecione **Aplicar** para salvar as alterações ou **Redefinir para o padrão*
 
 * Os hosts podem escolher temas durante a criação da sala ou atualizá-los posteriormente na página de informações da sala (**Barra superior da sala** > **Mais menu** > **Exibir informações da sala**).
 
-Saiba mais sobre [Temas](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Saiba mais sobre [Temas](https://helpx.adobe.com/br/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
