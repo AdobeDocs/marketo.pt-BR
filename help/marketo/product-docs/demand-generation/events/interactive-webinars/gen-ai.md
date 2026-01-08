@@ -3,9 +3,9 @@ description: Recursos da GenAI - Documentação do Marketo - Documentação do p
 title: Recursos da GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '674'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 * **Geração automática de capítulo**: a tecnologia habilitada por IA cria capítulos para o conteúdo do webinário.
 
 * **Resumo gerado por IA**: obtenha um resumo automatizado do texto de seu webinário.
+
+* **Geração de blog com base em IA**: permite gerar automaticamente conteúdo de blog sobre a marca a partir de seus webinários.
 
 * **Conteúdo editável**: modifique capítulos e resumos gerados, se desejar, usando funcionalidades de edição manuais e alimentadas por IA.
 
@@ -109,6 +111,8 @@ O &quot;link&quot; é o nome do capítulo e a &quot;página da Web&quot; é a p�
 * Excluir ou mesclar capítulos afeta apenas a pilha do capítulo, não o conteúdo de vídeo em si. Essas ações são permanentes.
 
 * Os recursos da GenAI são flexíveis e podem ser usados com vários editores de página da Web, não apenas os do Marketo Engage.
+
+* Somente sessões realizadas em salas de seminários estarão disponíveis para a geração de blogues. As salas de seminários estão disponíveis somente em contas com um Módulo de evento ou uma licença de Seminário (Sala compartilhada/Eventos).
 
 * Sempre visualize as alterações para garantir a funcionalidade e a aparência desejadas.
 

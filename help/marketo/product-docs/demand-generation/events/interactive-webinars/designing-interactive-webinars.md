@@ -3,9 +3,9 @@ description: Criação De Webinars Interativos - Documentação Do Marketo - Doc
 title: Criação de webinários interativos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,10 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 **Layout**: refere-se a várias maneiras das quais os vários componentes necessários para garantir o sucesso do webinário são organizados em um modelo específico. Um único modelo pode ter vários layouts para sua escolha. Os componentes essenciais do webinário permaneceriam os mesmos em todos os modelos. A organização selecionada seria mais adequada ao estilo/às necessidades do apresentador ou do apresentador que realiza o webinário.
 
 **Pod**: um componente dentro de um modelo que executa uma atividade específica durante o webinário. Por exemplo, configurar e entregar uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser preenchida por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade entregue por meio do pod de chat. Vários outros pods estão disponíveis, como Compartilhamento, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e Perguntas e respostas.
+
+      **Pod de pesquisa**: permite que os hosts projetem e entreguem formulários de comentários estruturados diretamente em uma sessão em tempo real. O Pod de pesquisa estende os recursos existentes do pod de pesquisa, permitindo que várias perguntas sejam apresentadas juntas, oferecendo uma maneira mais simplificada e coesa de coletar insights dos participantes. [Saiba mais](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+
+      **Pod de recursos**: substitui os pods de arquivos e links da Web anteriores, fornecendo uma maneira única e unificada de compartilhar recursos durante as sessões ativas. [Saiba mais](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >
