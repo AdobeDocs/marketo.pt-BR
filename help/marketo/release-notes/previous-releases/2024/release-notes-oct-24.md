@@ -3,7 +3,7 @@ description: Notas de versão - outubro de 2024 - Documentação do Marketo - Do
 title: Notas de versão - Outubro de 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 21%
@@ -92,7 +92,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 * **Atualização da API de extração em massa**: corrigimos um problema na API de extração em massa envolvendo a opção columnHeaderNames, que permite especificar nomes de cabeçalho de coluna personalizados no arquivo exportado. Anteriormente, os nomes de cabeçalho de coluna contendo caracteres não ASCII podiam ficar corrompidos.
 
-* **Descontinuação do parâmetro access_token da API Rest**: o parâmetro de consulta &quot;access_token&quot; usado para autenticar chamadas de API REST do Marketo está sendo descontinuado e não estará disponível após 31 de janeiro de 2026. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot; [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Descontinuação do parâmetro access_token da API Rest**: o parâmetro de consulta &quot;access_token&quot; usado para autenticar chamadas de API REST do Marketo está sendo descontinuado e não estará disponível após 31 de março de 2026. Todas as integrações novas e existentes devem autenticar chamadas de API REST usando o cabeçalho &quot;Autorização&quot; [conforme descrito aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **Descontinuação do código QR**: em 4 de outubro de 2024, o recurso de código QR usado em notificações por push e ativos de mensagens no aplicativo será descontinuado. Isso inclui o uso de códigos QR para um novo dispositivo de teste, bem como a criação de novos ativos com códigos QR. Descontinuar os recursos com uso mais baixo permite realocar seus recursos para a manutenção geral do Marketo Engage.
 

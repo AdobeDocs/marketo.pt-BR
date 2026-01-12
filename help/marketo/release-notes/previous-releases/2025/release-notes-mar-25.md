@@ -3,7 +3,7 @@ description: Notas de versão - março de 2025 - Documentação do Marketo - Doc
 title: Notas de versão - Março de 2025
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 39%
@@ -44,7 +44,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   <tr>
    <td><strong>Recursos GenAI em Webinars interativos</strong>: agora é possível gerar capítulos, bem como um resumo para webinars sob demanda. Edite e exporte um arquivo HTML com seus dados.</td>
    <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Recursos da GenAI</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Recursos da GenAI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -72,9 +72,9 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 A partir de então, os usuários não conseguiram criar, clonar ou incorporar esses recursos sociais no Marketo Engage. Os ativos sociais existentes continuarão a funcionar até 31 de janeiro de 2025. Em 1º de fevereiro de 2025, os ativos sociais deixaram de funcionar. Quaisquer recursos sociais incorporados às Páginas de aterrissagem precisarão ser removidos. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após 31 de outubro de 2025. Todas as integrações novas e existentes devem autenticar chamadas da API REST usando o cabeçalho &#39;Authorization&#39;, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após quarta-feira, 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de outubro de 2025. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em quarta-feira, 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 * **Novo Recurso do Analytics - Beta Público**: [Análises Avançadas de BI](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anteriormente conhecidas como Explorador de Receita e Report Builder Avançado) começam a ser implantadas para todos os usuários atuais do Explorador de Ciclo de Receita em meados de abril. Essa nova ferramenta oferece uma interface flexível de relatórios e visualização para dados do Marketo Engage, fornecendo detalhes detalhados sobre progressão, desempenho e muito mais. Ele oferece interatividade e visualização mais avançadas, desempenho mais rápido e uma experiência do usuário mais contínua e intuitiva.
 
