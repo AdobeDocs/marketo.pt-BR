@@ -104,7 +104,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 ## Recursos do Adobe Connect {#adobe-connect-features}
 
-Esses recursos já foram lançados pela equipe do Adobe Connect. Os [Webinars interativos](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} do Marketo Engage são viabilizados pelo Adobe Connect. Dessa forma, os recursos abaixo são aplicáveis somente aos usuários de Webinars interativos.
+Esses recursos já foram lançados pela equipe do Adobe Connect. Os [Webinars interativos](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} do Marketo Engage são viabilizados pelo Adobe Connect. Dessa forma, os recursos abaixo são aplicáveis somente aos usuários de Webinars interativos.
 
 * **Pod de pesquisa**: o Adobe Connect 12.11 apresenta um novo Pod de pesquisa que permite que os hosts projetem e entreguem formulários de feedback estruturados diretamente em uma sessão em tempo real.
 
@@ -112,7 +112,7 @@ Esses recursos já foram lançados pela equipe do Adobe Connect. Os [Webinars in
 
 * **Experiência aprimorada de interface de sala**: o Adobe Connect 12.11 apresenta uma interface de sala atualizada e mais moderna, baseada na estrutura de design mais recente do Spectrum 2 da Adobe, alinhada com a linguagem visual usada em outros produtos da Adobe, como o Creative Cloud e o Experience Cloud.
 
-Para obter detalhes completos, consulte as [Notas de versão do Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Para obter detalhes completos, consulte as [Notas de versão do Adobe Connect 12.11](https://helpx.adobe.com/br/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Anúncios {#announcements}
 
