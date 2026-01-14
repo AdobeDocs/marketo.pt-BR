@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: c6b8dd17c4337b32c6bb4f0a1b9ce22c1e3b8715
+source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 62%
+source-wordcount: '484'
+ht-degree: 61%
 
 ---
 
@@ -58,13 +58,53 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO DO RECURSO</strong>: descrição do recurso.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO DO RECURSO</strong>: descrição do recurso.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO DO RECURSO</strong>: descrição do recurso.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO DO RECURSO</strong>: descrição do recurso.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
   </tbody>
 </table>
 <br/>
 
 ## Recursos do Adobe Connect {#adobe-connect-features}
 
-Esses recursos já foram lançados pela equipe do Adobe Connect. Os [Webinars interativos](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} do Marketo Engage são viabilizados pelo Adobe Connect. Dessa forma, os recursos abaixo são aplicáveis somente aos usuários de Webinars interativos.
+Esses recursos já foram lançados pela equipe do Adobe Connect. Os [Webinars interativos](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} do Marketo Engage são viabilizados pelo Adobe Connect. Dessa forma, os recursos abaixo são aplicáveis somente aos usuários de Webinars interativos.
 
 * **Pod de pesquisa**: o Adobe Connect 12.11 apresenta um novo Pod de pesquisa que permite que os hosts projetem e entreguem formulários de feedback estruturados diretamente em uma sessão em tempo real.
 
@@ -72,7 +112,7 @@ Esses recursos já foram lançados pela equipe do Adobe Connect. Os [Webinars in
 
 * **Experiência aprimorada de interface de sala**: o Adobe Connect 12.11 apresenta uma interface de sala atualizada e mais moderna, baseada na estrutura de design mais recente do Spectrum 2 da Adobe, alinhada com a linguagem visual usada em outros produtos da Adobe, como o Creative Cloud e o Experience Cloud.
 
-Para obter detalhes completos, consulte as [Notas de versão do Adobe Connect 12.11](https://helpx.adobe.com/br/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Para obter detalhes completos, consulte as [Notas de versão do Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Anúncios {#announcements}
 
