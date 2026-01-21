@@ -3,9 +3,9 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 733b85495632eaa31ce7fc08a82fb4948aadf29f
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 100%
 
 ---
@@ -83,8 +83,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email – Teste A/B</strong>: recurso de paridade para o novo designer de email que permite realizar testes A/B para ver quais tipos de conteúdo obtêm a melhor resposta.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Enviado</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
