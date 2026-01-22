@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '865'
 ht-degree: 14%
 
 ---
@@ -259,7 +259,7 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Experimentação (teste A/B)</td>
     <td>Capacidade de testar emails antes de enviá-los para o público.</td>
     <td>Disponível</td>
-    <td>Em breve</td>
+    <td>Disponível</td>
   </tr>
   <tr>
     <td>Fluxos de trabalho de aprovação de conteúdo</td>
