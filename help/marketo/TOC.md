@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '9325'
+source-wordcount: '9329'
 ht-degree: 99%
 
 ---
@@ -238,7 +238,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -261,7 +261,7 @@ ht-degree: 99%
       + [Visão geral da interface da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Conceitos principais do Marketo {#core-marketo-concepts}
       + Campanhas inteligentes {#smart-campaigns}
-         + [Noções básicas sobre as campanhas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
+         + [Noções básicas sobre Campanhas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
          + Criar uma campanha inteligente {#creating-a-smart-campaign}
             + [Noções básicas sobre campanhas inteligentes em lote e acionáveis](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [Criar uma nova campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
@@ -323,7 +323,7 @@ ht-degree: 99%
                + [Usar uma duração em uma etapa de espera do fluxo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
                + [Usar uma data específica em uma etapa de espera do fluxo](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
          + Ações de fluxo de programa {#program-flow-actions}
-            + [Adicionar ao programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+            + [Adicionar ao programa de engajamento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
             + [Alterar cadência do programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
             + [Alterar fluxo do programa de envolvimento](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [Alterar status do programa](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
@@ -1978,6 +1978,7 @@ ht-degree: 99%
          + [Notas de versão: julho de 2025](release-notes/previous-releases/2025/release-notes-july-25.md)
          + [Notas de versão: agosto de 2025](release-notes/previous-releases/2025/release-notes-aug-25.md)
          + [Notas de versão: setembro de 2025](release-notes/previous-releases/2025/release-notes-sep-25.md)
+         + [Notas de versão: outubro de 25](release-notes/previous-releases/2025/release-notes-oct-25.md)
       + 2024 {#2024}
          + [Notas de versão: janeiro de 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Notas de versão: março de 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)

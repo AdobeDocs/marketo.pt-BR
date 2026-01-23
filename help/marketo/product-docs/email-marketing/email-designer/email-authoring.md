@@ -4,9 +4,9 @@ title: Criação de email
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '1740'
+source-wordcount: '1768'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Emails do designer de email só podem ser criados no Design Studio e referenciad
 
    ![](assets/create-an-email-1.png)
 
-1. Na árvore, selecione **Emails (Novo Editor)**.
+1. Na árvore, selecione **Emails (Novos)**.
 
    ![](assets/create-an-email-2.png)
 
@@ -71,7 +71,7 @@ Pronto. Agora é hora de projetar seu email.
 
 ## Escolha seu tipo de conteúdo {#choose-your-content-type}
 
-1. No email que acabou de criar, clique em **Adicionar conteúdo de email**.
+1. No email que acabou de criar, clique em **Editar conteúdo de email**.
 
    ![](assets/choose-your-content-type-1.png)
 
@@ -88,6 +88,12 @@ Pronto. Agora é hora de projetar seu email.
 Ao começar do zero no editor de email, use as opções abaixo para definir seu conteúdo.
 
 1. Na página _Criar seu email_, selecione **Design do zero**.
+
+1. Escolha entre começar com um tema (recomendado) ou criar do zero com estilo manual.
+
+   >[!NOTE]
+   >
+   >Os emails criados com estilo manual não poderão usar fragmentos criados com temas
 
 1. Adicione [estrutura e conteúdo](#add-structure-and-content) ao seu email.
 
