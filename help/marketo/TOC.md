@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9331'
 ht-degree: 99%
 
 ---
@@ -238,7 +238,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -1036,6 +1036,7 @@ ht-degree: 99%
          + [CSS personalizado](product-docs/email-marketing/email-designer/custom-css.md)
          + [Temas da marca](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Aplicar marca](product-docs/email-marketing/email-designer/apply-brand.md)
+         + [Gerenciar marca](product-docs/email-marketing/email-designer/manage-brand.md)
          + [Modo escuro](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Testar renderização de email com Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Tokens de personalização](product-docs/email-marketing/email-designer/personalization-tokens.md)
