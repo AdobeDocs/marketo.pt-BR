@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 48%
+source-wordcount: '479'
+ht-degree: 38%
 
 ---
 
@@ -103,18 +103,12 @@ Os recursos a seguir foram lançados fora do ciclo de lançamento padrão do Mar
 
 * **Experiência aprimorada com a interface do quarto**: aproveite uma interface do quarto mais moderna e atualizada, criada com base na estrutura de design mais recente do Spectrum 2 da Adobe, alinhada com a linguagem visual usada em outros produtos da Adobe, como o Creative Cloud e o Experience Cloud.
 
-Visite [esta página](https://helpx.adobe.com/br/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obter detalhes completos.
+Visite [esta página](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obter detalhes completos.
 
 ## Anúncios {#announcements}
 
-* **Migração da comunidade do Marketo concluída**: a nova Comunidade da Adobe Experience League agora está ativa. [Foram feitos vários aprimoramentos](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=pt){target="_blank"} para melhorar ainda mais a sua experiência com a Marketo Community. [Confira](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=pt){target="_blank"}.
+* **Migração da comunidade do Marketo concluída**: a nova Comunidade da Adobe Experience League agora está ativa. [Foram feitos vários aprimoramentos](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} para melhorar ainda mais a sua experiência com a Marketo Community. [Confira](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após quarta-feira, 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em quarta-feira, 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
-
-* **Fim da Vida Útil da Identidade do Marketo Engage**:
-
-   * _Descontinuação de restrições de IP_: o suporte para a [restrição de logons do Marketo com base no IP](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} terminou em 30 de julho de 2025. O recurso permanecerá operacional até que a transição para a Identidade da Adobe seja concluída. Um novo recurso de controle de acesso baseado em localização para a Identidade da Adobe no Adobe Admin Console será lançado em breve.
-
-   * _Descontinuação do logon único (SSO)_: o suporte para o [SSO da Identidade do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} terminou em 30 de julho de 2025. O recurso permanecerá operacional até que a transição para a Identidade da Adobe seja concluída. O logon único (SSO) para a Identidade da Adobe no Adobe Admin Console deve ser configurado separadamente. Para ver as etapas de configuração, consulte [Configurar identidade e logon único](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
+* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
