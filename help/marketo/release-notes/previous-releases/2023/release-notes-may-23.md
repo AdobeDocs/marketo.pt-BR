@@ -2,7 +2,7 @@
 description: Notas de versão - maio de 2023 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Maio de 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 27%
@@ -33,7 +33,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Visão geral da interface do Experience Cloud</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Centro de ajuda</a></td>
   </tr>
   </tbody>
@@ -74,7 +74,7 @@ Os webinários interativos serão lançados gradualmente. Para solicitar acesso 
   </tr>
   <tr>
    <td>Implantação iniciada</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=pt-BR">Visão geral de webinários interativos</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Visão geral de webinários interativos</a></td>
   </tr>
   </tbody>
 </table>

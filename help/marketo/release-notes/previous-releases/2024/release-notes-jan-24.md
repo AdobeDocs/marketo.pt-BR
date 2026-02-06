@@ -3,10 +3,10 @@ description: Notas de versão - Janeiro de 2024 - Documentação do Marketo - Do
 title: Notas de versão – Janeiro de 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 19%
+ht-degree: 18%
 
 ---
 
@@ -31,7 +31,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
     <tr>
    <td><strong>Webinars sob demanda para Webinars interativos</strong>: os Webinars sob demanda permitem que você publique a gravação do webinário e rastreie suas visitas/observações. Isso ajudará você a obter mais leads por meio de inscritos que não participaram do webinário (não comparência), mas ainda estão interessados em saber mais detalhes e visualizar a gravação.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Webinários sob demanda</a></td>
   </tr>
    <tr>
@@ -51,7 +51,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
     <tr>
    <td><strong>Filtragem da atividade de bot por email</strong>: melhora a captura da atividade de bot para envolvimento de email, permitindo que você escolha a agressividade desejada para a filtragem da identificação da atividade de bot.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtragem da atividade do bot de email</a></td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    </tr>
     <tr>
    <td><strong>Atualização da API de Importação de Cliente Potencial em Massa</strong>: foi feito um pequeno ajuste no comportamento da API de Importação de Cliente Potencial em Massa quando a <b>id</b> foi especificada como o <b>lookupField</b> durante a criação do trabalho. Se um registro de pessoa vinculado à <b>id</b> fornecida não for encontrado no banco de dados do Marketo Engage, nenhuma atualização de registro ocorrerá, pois o registro não pode ser localizado. O comportamento atualizado agora inclui o incremento da contagem na propriedade <b>numOfRowsFailed</b> na resposta, indicando que a operação falhou nesses casos.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    </tr>
   <tr>
    <td><strong>Co-hosts para Webinars interativos</strong>: Co-hosts na seção Equipe de Webinars de Webinars interativos permitem que o criador do evento adicione usuários internos ou externos ao programa Webinars interativos para compartilhar responsabilidades administrativas e de entrega.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Adicionar uma equipe ao webinário</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
     <tr>
    <td><strong>Remover um usuário em webinários interativos</strong>: um administrador do Marketo Engage agora pode remover um ou mais usuários específicos em webinários interativos.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
  </tbody>
@@ -160,7 +160,7 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
     </tr>
     <tr>
    <td><strong>Encerramento manual do chat ao vivo</strong>: Agora os visitantes e agentes podem encerrar manualmente uma sessão de chat ao vivo.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Caixa de entrada do agente</a></td>
   </tr>
   <tr>

@@ -2,10 +2,11 @@
 description: Notas de versão - setembro de 2025 - Documentação do Marketo - Documentação do produto
 title: Notas de versão — Setembro de 2025
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '704'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -32,8 +33,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Retenção de atividade do webinário sob demanda</strong>: os usuários de webinários interativos agora têm dados do Painel de webinários sob demanda disponíveis por mais de 30 dias (anteriormente, era apenas até 30 dias a partir do dia do webinário).</td>
-   <td>Enviado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronização manual</a></td>
+   <td>Lançado</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronização manual</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -42,7 +43,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email — Permissões do Assistente de IA</strong>: os administradores do Marketo podem fornecer a usuários específicos acesso aos recursos de GenAI.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Configurar permissões</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email — modo escuro</strong>: agora é possível utilizar o modo escuro, que permite que clientes de email e aplicativos compatíveis exibam emails com fundos mais escuros e cores mais claras para textos, botões e outros elementos da IU.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Modo escuro</a></td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email — fluxo de trabalho de colaboração de conteúdo</strong>: agora é possível comentar e colaborar com outros usuários do Marketo dentro de um ativo de email. Marque membros da equipe (usuários do Marketo que têm as permissões de ativos apropriadas) e esses membros receberão uma notificação de email ou de pulso.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">Colaboração por email</a></td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email — Correções de redirecionamento</strong>: alguns usuários estavam tendo problemas de redirecionamento com URLs para emails criados com o novo Designer (por exemplo, colar diretamente os URLs ou marcar ativos de email nem sempre funcionava). Esse problema foi resolvido. Além disso, os links para ativos de email em <b>Modelos de email</b> &gt; <b>Detalhes</b> &gt; <b>Usados por</b> redirecionarão para o ativo de email correspondente.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -93,6 +94,6 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 * **Descontinuação do recurso _Encaminhar para um amigo_**: em 29 de setembro de 2025, o recurso _Encaminhar para um amigo_ nos emails do Marketo Engage 2.0 (o editor de email legado) será completamente descontinuado para todas as assinaturas. Isso afeta o token “Encaminhar para um amigo” e os links “Encaminhar para um amigo” em emails que já foram ou serão enviados usando o token. [Saiba mais](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após quarta-feira, 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do parâmetro “access_token” da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em quarta-feira, 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

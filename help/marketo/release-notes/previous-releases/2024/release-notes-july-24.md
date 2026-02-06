@@ -3,10 +3,10 @@ description: Notas de versão - julho de 2024 - Documentação do Marketo - Docu
 title: Notas de versão - Julho de 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 23%
+ht-degree: 22%
 
 ---
 
@@ -33,7 +33,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
      <tr>
    <td><strong>Painel de Envolvimento para Webinars interativos</strong>: obtenha uma exibição de desempenho de webinário agregado, bem como uma exibição abrangente do engajamento para cada participante durante o webinário, para que você possa decidir quais leads devem ser direcionados por meio das ferramentas de orquestração da Marketo Engage.</td>
-    <td>Enviado</td>
+    <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Painel de engajamento</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
      <tr>
    <td><strong>Gerenciamento de Salas para Webinars Interativos</strong>: acesse salas individuais criadas (e faça modificações, se necessário), bem como acesse o conteúdo e a gravação (e limpe-as, se necessário, para otimizar o armazenamento).</td>
-    <td>Enviado</td>
+    <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gerenciamento de salas</a></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
      <tr>
    <td><strong>Personalização de webinários para webinários interativos</strong>: forneça uma experiência de marca uniforme e aprovada pela organização usando uma interface de sala comum, telas intermediárias (como telas de fundo de entrada de participantes), bem como telas de fundo de vídeo personalizadas, para que a estratégia do webinário possa se alinhar mais facilmente à estratégia da marca.</td>
-    <td>Enviado</td>
+    <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Personalização de webinários interativos</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
      <tr>
    <td><strong>Alteração na API REST do Marketo</strong>: estamos introduzindo uma pequena alteração na <a href="https://developers.marketo.com/rest-api/user-management/">API de Gerenciamento de Usuários</a>. Agora os pontos de extremidade <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Procurar Usuários</a> e <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Excluir Usuário</a> oferecem suporte a <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gerenciamento de Conta de Destino</a> usuários.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
  </tbody>

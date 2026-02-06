@@ -3,10 +3,10 @@ description: Notas de versão - outubro de 2022 - Documentação do Marketo - Do
 title: Notas de versão - Outubro de 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 23%
+ht-degree: 21%
 
 ---
 
@@ -34,7 +34,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizar campos personalizados de membros de programas</a></td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -69,7 +69,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Botão de alternância</a></td>
   </tr>
   </tbody>
@@ -83,7 +83,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -115,7 +115,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Importação de leads em massa</a></td>
   </tr>
   </tbody>
@@ -135,7 +135,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integração ao Dynamic Chat</a></td>
   </tr>
   </tbody>
@@ -153,7 +153,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Ícones de Designer de fluxo</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendário</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
    <td><b>Atualizações de documentação</b></td>
   </tr>
   <tr>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   </tbody>

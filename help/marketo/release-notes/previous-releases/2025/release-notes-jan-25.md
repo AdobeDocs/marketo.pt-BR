@@ -3,7 +3,7 @@ description: Notas de versão - Janeiro de 2025 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2025
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 35%
@@ -34,7 +34,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
     <tr>
    <td><strong>Novo Designer de email</strong>: crie emails modernos e eficientes usando o novo Designer de email nativo no Marketo Engage. Acesse um dos modelos de email predefinidos e prontos para uso ou crie facilmente o seu próprio modelo. Use conteúdo dinâmico e acesse imagens dos serviços em nuvem da Adobe Experience Manager. Use a funcionalidade Gen-AI do Acelerador de conteúdo para criar e-mails inovadores e de alto desempenho em escala.
    <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o <a href="https://nation.marketo.com/t5/support/ct-p/Support">Suporte da Marketo</a>. Para obter acesso à funcionalidade Gen-AI do Acelerador de conteúdo, entre em contato com a equipe de conta da Adobe.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">Visão geral do Designer de email</a></td>
   </tr>
   <tr>
@@ -73,8 +73,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 A partir de então, os usuários não conseguiram criar, clonar ou incorporar esses recursos sociais no Marketo Engage. Os ativos sociais existentes continuarão a funcionar até 31 de janeiro de 2025. Em 1º de fevereiro de 2025, os ativos sociais deixarão de funcionar. Os recursos sociais incorporados às Páginas de aterrissagem precisarão ser removidos. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Obter Atualização da API de Membros do Programa**: aprimoramos a API [Obter Membros do Programa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} para oferecer suporte à capacidade de recuperar o identificador dos membros do programa. Isso é feito adicionando a id à lista de campos especificados no parâmetro fields da solicitação de API.
+* **Obter Atualização da API de Membros do Programa**: aprimoramos a API [Obter Membros do Programa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} para oferecer suporte à capacidade de recuperar o identificador dos membros do programa. Isso é feito adicionando a id à lista de campos especificados no parâmetro fields da solicitação de API.
 
 * **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após quarta-feira, 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em quarta-feira, 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

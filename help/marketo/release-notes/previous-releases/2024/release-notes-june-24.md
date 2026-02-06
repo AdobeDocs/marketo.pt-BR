@@ -3,10 +3,10 @@ description: Notas de versão - junho de 2024 - Documentação do Marketo - Docu
 title: Notas de versão – Junho de 2024
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 37%
+ht-degree: 36%
 
 ---
 
@@ -33,7 +33,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
      <tr>
    <td><strong>Modelos para webinários interativos</strong>: os profissionais de marketing agora podem criar modelos personalizados para layouts de salas em webinários interativos.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Modelos</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
      <tr>
    <td><strong>Campos inferidos no Forms</strong>: a fonte de dados usada para preencher campos inferidos quando uma pessoa é criada por meio do preenchimento de formulário sem nenhuma atividade anterior na Web foi atualizada para usar a mesma fonte de dados que outros métodos de coleção de pessoas. Os dados de campo inferidos agora são consistentes em todos os pontos de coleta.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
  </tbody>

@@ -3,10 +3,10 @@ description: Notas de versão - julho de 2025 - Documentação do Marketo - Docu
 title: Notas de versão - Julho de 2025
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '714'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -33,7 +33,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - Integração com o GenStudio</strong>: integre o GenStudio para marketing de desempenho nos emails para aumentar a eficiência do marketing e manter a consistência da marca.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">Integração do GenStudio para Marketo Engage</a></td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - CSS personalizado</strong>: ao criar emails, agora você pode adicionar seu próprio CSS personalizado diretamente no Designer de email.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Adicionar CSS personalizado ao conteúdo do email</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - Detectar spam com o SpamAssassin</strong>: o SpamAssassin no Marketo Engage permite testar seu conteúdo de email e ver a probabilidade de ISPs e provedores de caixa de correio marcá-lo como spam.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Relatório de spam de email</a></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - Suporte para movimentação de ativos e exclusão de programas</strong>: é possível realocar rapidamente um ativo de email entre programas. Agora, também é possível excluir programas que contêm novos ativos de email de designer.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - Suporte ao Firefox</strong>: o Designer de email agora é totalmente compatível com o Mozilla Firefox. Para obter a melhor experiência, mantenha sempre seu navegador atualizado.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - Simular conteúdo na página Propriedades</strong>: simular conteúdo para ativos de <i>propriedades de email</i> sem precisar voltar para a tela de edição.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
    <tr>
@@ -93,7 +93,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - Controle de acesso com base em função para ativos</strong>: a versão de maio implementou o controle de acesso com base em função (RBAC) para permissões de edição, aprovação e exclusão. As permissões de leitura agora estão disponíveis nesta versão.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - Editar propriedades de email para emails publicados</strong>: faça edições nas <i>propriedades de email</i> mesmo após publicar o email.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email - Selecionar domínio de identidade visual e configuração de IP do domínio</strong>: agora é possível selecionar um “Domínio de identidade visual” e uma “Configuração de IP do domínio” para cada ativo de email.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Atualizações de notificação de código de erro da API REST</strong>: foram adicionadas outras duas classes de erro da API REST nas notificações no aplicativo: “606 - Limite máximo de taxa excedido” e “607 - Cota diária atingida”.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Exibir campos padrão de membros do programa no gerenciamento de campos</strong>: os campos padrão e personalizados de membros do programa no <i>Gerenciamento de campos</i> agora estão visíveis.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -143,7 +143,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Nomes da API REST no Gerenciamento de campos</strong>: esta atualização permite que admins vejam nomes de campos da API REST sem precisar exportar a lista.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Cookies do Munchkin e ECIDs visíveis</strong>: agora é possível ver uma lista de cookies do Munchkin e números de ECID (identidade da Experience Cloud) na guia _Informações_ da <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">página de detalhes da pessoa</a>, reduzindo a dependência das chamadas de API para obter essas informações.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
  </tbody>
@@ -170,4 +170,4 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 * **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após quarta-feira, 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em quarta-feira, 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

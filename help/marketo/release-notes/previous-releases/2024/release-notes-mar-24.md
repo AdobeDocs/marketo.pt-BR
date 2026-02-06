@@ -3,7 +3,7 @@ description: Notas de versão - março de 2024 - Documentação do Marketo - Doc
 title: Notas de versão - Março de 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 30%
@@ -31,7 +31,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Lógica de Fluxo de Conversação Avançado</strong>: adicione campos adicionais para avaliação em uma única opção para acompanhamento de Fluxo de Conversação.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configurações de fluxo de conversa para formulários do Marketo Engage</a></td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    </tr>
     <tr>
    <td><strong>Reordenar Lógica de Fluxo de Conversação</strong>: no Marketo Engage Forms, agora você pode reordenar as opções de Fluxo de Conversação, em vez de ter que excluir e adicionar novamente.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Configurações de fluxo de conversa para formulários do Marketo Engage</a></td>
    </tr>
   <tr>
@@ -53,7 +53,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
     <tr>
    <td><strong>Metadados de atividade de API</strong>:
    Metadados como Agente do usuário, Plataforma e Dispositivo agora são incluídos em atividades da Web e de email, ajudando a fornecer insights consistentes sobre essas atividades por meio da API REST do Marketo.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
  </tbody>

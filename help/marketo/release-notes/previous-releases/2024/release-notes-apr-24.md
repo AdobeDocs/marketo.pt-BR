@@ -3,7 +3,7 @@ description: Notas de versão - abril de 2024 - Documentação do Marketo - Docu
 title: Notas de versão – Abril de 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 31%
@@ -33,7 +33,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
      <tr>
    <td><strong>Aprimoramentos nos webinários interativos</strong>: agora você pode fornecer aos hosts e apresentadores a capacidade de adicionar um título de webinário, renomear uma sala e sincronizar manualmente os dados de envolvimento após a entrega do evento.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Criar um webinário interativo</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Sincronização manual</a></li></td>
   </tr>
@@ -66,7 +66,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <li>Criar lista</li>
    <li>Exportar atividade da campanha</li>
    </td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descrições de permissões de função</a></td>
   </tr>
  </tbody>

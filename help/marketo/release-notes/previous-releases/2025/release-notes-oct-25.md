@@ -2,10 +2,11 @@
 description: Notas de versão - outubro de 2025 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Outubro de 2025
 feature: Release Information
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
@@ -32,7 +33,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email — Importador de modelos (Beta)</strong>: importe modelos de email do editor de email clássico para criar modelos compatíveis com o novo designer de email no Design Studio.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importar modelo</a></td>
   </tr>
   <tr>
@@ -42,7 +43,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email – Temas de marca</strong>: agora é possível definir temas de marca no Marketo Engage. As configurações de estilo podem ser reutilizadas e aplicadas em modelos de email e outros ativos de email para manter a consistência da marca.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Temas da marca</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email – Conteúdo condicional</strong>: recurso de paridade para o novo designer de email, possibilitando a personalização de emails para além de tokens.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Conteúdo condicional</a></td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
  <tr>
    <td><strong>Designer de email – Conversor de imagem para HTML</strong>: faça upload de um arquivo de imagem PNG/JPEG compatível de um email e ele será convertido automaticamente em HTML para uso no novo designer de email.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Converter imagens em modelos HTML</a></td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email – Ação clonar email</strong>: agora é possível clonar um email em outra pasta do programa nas Atividades de marketing e reutilizar rapidamente os emails já existentes.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -82,7 +83,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Designer de email – Teste A/B</strong>: recurso de paridade para o novo designer de email que permite realizar testes A/B para ver quais tipos de conteúdo obtêm a melhor resposta.</td>
-   <td>Enviado</td>
+   <td>Lançado</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -91,9 +92,9 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 ## Anúncios {#announcements}
 
-* **Atualização da integração do Salesforce CRM**: uma nova versão da integração nativa do CRM será implantada em sandboxes ativas com o conector nativo habilitado ao longo de sete dias, a partir de 13 de novembro de 2025. Obtenha todos os detalhes [esta publicação da Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+* **Atualização da integração do Salesforce CRM**: uma nova versão da integração nativa do CRM será implantada em sandboxes ativas com o conector nativo habilitado ao longo de sete dias, a partir de 13 de novembro de 2025. Obter detalhes completos em [esta publicação da Comunidade](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
-* **Descontinuação da barra dupla na API REST**: em 16 de setembro de 2025, a Adobe fez a transição para uma infraestrutura de hospedagem mais moderna para URLs da API REST que usam tecnologia mais recente, adicionando segurança e escalabilidade. Se sua assinatura tem usado APIs com uma barra dupla (//) no URL, leia [esta publicação da Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} para saber as próximas etapas.
+* **Descontinuação da barra dupla na API REST**: em 16 de setembro de 2025, a Adobe fez a transição para uma infraestrutura de hospedagem mais moderna para URLs da API REST que usam tecnologia mais recente, adicionando segurança e escalabilidade. Se sua assinatura tem usado APIs com uma barra dupla (//) na URL, leia [esta publicação da comunidade](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} para ver as próximas etapas.
 
 * **Retorno ao Velocity Scripting no novo Designer de email**: o Adobe Marketo Engage lançou um recurso chamado _Conteúdo condicional_ para o novo Designer de email em junho. O recurso era alimentado por scripts Handlebar, em vez de scripts Velocity, em um esforço para fornecer um pouco mais de flexibilidade no conteúdo dinâmico. Mas, quando descobrimos que isso estava causando a resolução incorreta de alguns tokens, decidimos desabilitá-lo temporariamente. [Saiba mais](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
@@ -105,6 +106,6 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 * **Descontinuação do recurso _Encaminhar para um amigo_**: em 29 de setembro de 2025, o recurso _Encaminhar para um amigo_ nos emails do Marketo Engage 2.0 (o editor de email legado) foi completamente descontinuado para todas as assinaturas. Isso afetou o token “Encaminhar para um amigo” e os links “Encaminhar para um amigo” em emails que já foram enviados ou foram agendados para envio com o token. [Saiba mais](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após quarta-feira, 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do parâmetro “access_token” da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em quarta-feira, 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
