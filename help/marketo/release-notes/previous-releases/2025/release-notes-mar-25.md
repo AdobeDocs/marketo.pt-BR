@@ -44,7 +44,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   <tr>
    <td><strong>Recursos GenAI em Webinars interativos</strong>: agora é possível gerar capítulos, bem como um resumo para webinars sob demanda. Edite e exporte um arquivo HTML com seus dados.</td>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Recursos da GenAI</a></td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Recursos da GenAI</a></td>
   </tr>
   <tr>
    <td> </td>
