@@ -4,10 +4,10 @@ description: Adicionar um link Exibir como página da Web a um email - Documenta
 title: Adicionar um link “Exibir como página da Web” a um email
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 12%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,9 @@ Os emails têm recursos limitados (CSS limitado e sem JavaScript ou formulários
 
 >[!NOTE]
 >
->Ao criar um novo email, a opção Exibir como página da Web não está ativada. Se você ativá-lo e clonar o email, essa configuração será copiada.
+>* Ao criar um novo email, a opção Exibir como página da Web não está ativada. Se você ativá-lo e clonar o email, essa configuração será copiada.
+>
+>* Os links &quot;Exibir como página da Web&quot; expiram após seis meses.
 
 1. Selecione seu email e clique em **[!UICONTROL Editar Rascunho]**.
 
