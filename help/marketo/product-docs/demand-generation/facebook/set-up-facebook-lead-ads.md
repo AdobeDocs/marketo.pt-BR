@@ -4,10 +4,10 @@ description: Configurar anúncios do Facebook - Documentação do Marketo - Docu
 title: Configurar anúncios de lead no Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 3%
+source-wordcount: '338'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,9 @@ Use os [Anúncios de cliente potencial do Facebook](https://www.facebook.com/bus
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>* **Permissões de administrador são necessárias**
+>
+>* Ao criar formulários do Facebook Lead Ads, certifique-se de que o nome do formulário não contenha apenas caracteres numéricos. O nome do formulário deve ser alfabético ou alfanumérico.
 
 >[!AVAILABILITY]
 >
@@ -51,7 +53,7 @@ Use os [Anúncios de cliente potencial do Facebook](https://www.facebook.com/bus
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Você perceberá que está autorizado. Clique em **[!UICONTROL Avançar]**.
+1. Você perceberá que está autorizado. Clique em **[!UICONTROL Next]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 

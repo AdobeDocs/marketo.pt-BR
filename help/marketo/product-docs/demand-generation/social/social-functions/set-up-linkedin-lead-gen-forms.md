@@ -4,10 +4,10 @@ description: Configurar o LinkedIn Lead Gen Forms - Documentação do Marketo - 
 title: Configurar formulário de geração de lead do LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '511'
-ht-degree: 2%
+source-wordcount: '492'
+ht-degree: 3%
 
 ---
 
@@ -15,17 +15,13 @@ ht-degree: 2%
 
 Use o Forms de geração de leads do LinkedIn para executar campanhas de publicidade no LinkedIn e gerar leads para o Marketo.
 
->[!IMPORTANT]
->
->O LinkedIn está atualizando as APIs de marketing usadas pelas integrações do Marketo Engage LinkedIn. Essas alterações exigirão reautenticação de todos os serviços do LinkedIn LaunchPoint no menu **Admin** > **LaunchPoint** entre 7 de junho e 15 de dezembro de 2024 para evitar a interrupção do serviço. Para obter mais informações, consulte as [Perguntas frequentes sobre migração](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
-
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
-
->[!NOTE]
+>* **Permissões de administrador são necessárias**
 >
->Um cliente potencial do LinkedIn não entrará no Marketo Engage se ele corresponder a um registro de pessoa existente no Marketo associado a um registro de empresa criado usando APIs de empresa, e se a assinatura do Marketo não estiver conectada a um CRM.
+>* Ao criar formulários do Lead Gen do LinkedIn, certifique-se de que o nome do formulário não contenha apenas caracteres numéricos. O nome do formulário deve ser alfabético ou alfanumérico.
+>
+>* Um cliente potencial do LinkedIn não entrará no Marketo Engage se ele corresponder a um registro de pessoa existente no Marketo associado a um registro de empresa criado usando APIs de empresa, e se a assinatura do Marketo não estiver conectada a um CRM.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -55,7 +51,7 @@ Use o Forms de geração de leads do LinkedIn para executar campanhas de publici
 
    ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. Você perceberá que está autorizado. Clique em **[!UICONTROL Avançar]**.
+1. Você perceberá que está autorizado. Clique em **[!UICONTROL Next]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 
