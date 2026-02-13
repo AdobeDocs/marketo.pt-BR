@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
 workflow-type: tm+mt
-source-wordcount: '9331'
+source-wordcount: '9336'
 ht-degree: 99%
 
 ---
@@ -192,10 +192,10 @@ ht-degree: 99%
          + [Adicionar ou remover admin de produto](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Adicionar ou remover usuário](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Perguntas frequentes](product-docs/administration/marketo-with-adobe-identity/faq.md)
-         + [Logon de usuário com a Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
+         + [Logon de usuários com o Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + Assinatura e migração de usuário {#subscription-and-user-migration}
             + [Migração para a identidade da Adobe](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Noções básicas sobre assinatura do Marketo e migração de usuários para o Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
+            + [Noções básicas da assinatura do Marketo e a migração de usuários para o Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Migração de suporte do Marketo Engage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
             + [Manual de solução de problemas](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Configurações {#settings}
@@ -238,11 +238,11 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
-         + [Noções básicas sobre espaços de trabalho e partições de pessoas](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
+         + [Noções básicas dos espaços de trabalho e partições de pessoas](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [Permitir acesso do usuário a um espaço de trabalho](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [Atribuir partições de pessoa a espaços de trabalho](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
          + [Atribuição de partições de pessoa com regras de atribuição](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
@@ -261,7 +261,7 @@ ht-degree: 99%
       + [Visão geral da interface da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Conceitos principais do Marketo {#core-marketo-concepts}
       + Campanhas inteligentes {#smart-campaigns}
-         + [Noções básicas sobre Campanhas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
+         + [Noções básicas sobre campanhas inteligentes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
          + Criar uma campanha inteligente {#creating-a-smart-campaign}
             + [Noções básicas sobre campanhas inteligentes em lote e acionáveis](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [Criar uma nova campanha inteligente](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
@@ -393,7 +393,7 @@ ht-degree: 99%
             + [Noções básicas sobre listas estáticas](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programas {#programs}
          + Criar programas {#creating-programs}
-            + [Noções básicas sobre programas](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+            + [Noções básicas de programas](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
             + [Criar um programa](product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
             + [Noções básicas sobre ativos locais em um programa](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
             + [Noções básicas sobre assinaturas de programas](product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
@@ -587,7 +587,7 @@ ht-degree: 99%
          + [Registrar um aplicativo com o Azure para adquirir a ID do cliente/ID do aplicativo](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Excluir um lead ou contato](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Sincronização com o Salesforce {#salesforce-sync}
-         + [Noções básicas sobre a sincronização com o Salesforce](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+         + [Noções básicas da sincronização com o Salesforce](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
          + Configuração {#setup}
             + Edição Enterprise/Unlimited {#enterprise-unlimited-edition}
                + [Etapa 1 de 3: adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
@@ -724,7 +724,7 @@ ht-degree: 99%
                + [Noções básicas sobre os eventos do Marketo ON24 Adapter](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [Noções básicas sobre os status do programa de webinário](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Webinários interativos {#interactive-webinars}
-            + [Visão geral de webinários interativos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [Visão geral dos webinários interativos](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
             + [Introdução a webinários interativos](product-docs/demand-generation/events/interactive-webinars/get-started-with-interactive-webinars.md)
             + [Práticas recomendadas para webinários interativos](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [Gerenciamento de usuários e licenças](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
@@ -842,7 +842,7 @@ ht-degree: 99%
             + [Aprovar várias páginas de destino de uma vez](product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
             + [Alterar o URL da página de destino](product-docs/demand-generation/landing-pages/landing-page-actions/change-the-landing-page-url.md)
             + [Clonagem de um grupo de teste de página de destino](product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)
-            + [Personalizar os URLs da página de destino com um CNAME](product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
+            + [Personalize os URLs da página de destino com um CNAME](product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
             + [Editar título e metadados da página de destino](product-docs/demand-generation/landing-pages/landing-page-actions/edit-landing-page-title-and-metadata.md)
             + [Filtrar um relatório de desempenho de página de destino](product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md)
             + [Pré-visualizar uma página de destino com conteúdo dinâmico](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
@@ -970,7 +970,7 @@ ht-degree: 99%
             + [Exportar uma lista com URLs personalizados](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
             + [Incluir um arquivo ICS de evento de calendário em uma página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
             + [Redirecionar um caminho de URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-            + [Visão geral de tokens](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+            + [Visão geral dos tokens](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Usar conteúdo dinâmico em uma página de destino](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [Uso do criador de URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + Redes sociais {#social}
@@ -984,7 +984,7 @@ ht-degree: 99%
          + [Power Pack de capacidade de entrega de email: como importar uma lista de seeds](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Rejeições permanentes e temporárias no email](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [Configurar uma assinatura personalizada do DKIM](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
-         + [Configurar o SPF e o DKIM para a capacidade de entrega de email](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
+         + [Configurar a SPF e o DKIM para a sua capacidade de entrega de emails](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
          + [Endereços IP compartilhados e dedicados](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [Noções básicas sobre cancelamento de inscrição](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Usar endereços IP dedicados para enviar emails](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
@@ -997,7 +997,7 @@ ht-degree: 99%
             + [Adicionar pessoas a um programa de engajamento](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
             + [Adicionar um programa a um fluxo de programa de engajamento](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
             + [Criar um programa de engajamento](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
-            + [Noções básicas sobre programas de engajamento](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
+            + [Noções básicas de programas de engajamento](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
          + Fluxos do programa de engajamento {#engagement-program-streams}
             + [Clonar um fluxo](product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
             + [Excluir um fluxo](product-docs/email-marketing/drip-nurturing/engagement-program-streams/delete-a-stream.md)
@@ -1079,7 +1079,7 @@ ht-degree: 99%
                + [Noções básicas sobre o fuso horário do destinatário](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
          + Dados do programa de email {#email-program-data}
             + [Relatório de desempenho de link de email](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-            + [Relatório de desempenho de email](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+            + [Relatório de desempenho de emails](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
             + [Exportar o painel do programa de email para o Excel](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
             + [Usar o painel do programa de email](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
             + [Exibir resultados do programa de email](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
@@ -1663,7 +1663,7 @@ ht-degree: 99%
             + [Prioridade da ordem de segmentação](product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md)
             + [Noções básicas sobre conteúdo dinâmico](product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
             + [Usar filtros de segmento em uma lista inteligente](product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
-         + Snippets {#snippets}
+         + Trechos {#snippets}
             + [Adicionar conteúdo a um snippet](product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
             + [Aprovar um snippet sem rascunho](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
             + [Aprovar um snippet](product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
@@ -1971,6 +1971,8 @@ ht-degree: 99%
    + [Versão do Dynamic Chat](release-notes/dynamic-chat.md)
    + [Versão do Dynamic Chat (temporária)](release-notes/dynamic-chat-temp.md)
    + Versões anteriores {#previous-releases}
+      + 2026 {#2026}
+         + [Notas de versão: janeiro de 2026](release-notes/previous-releases/2025/release-notes-jan-26.md)
       + 2025 {#2025}
          + [Notas de versão: janeiro de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Notas de versão: março de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
