@@ -58,7 +58,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li>Mantenha seus formulários em conformidade com o <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>.</li></td>
+    <td><li>Mantenha seus formulários em conformidade com o <a href="https://business.adobe.com/br/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>.</li></td>
   </tr>
   <tr>
     <td>Padronização de dados</td>

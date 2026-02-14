@@ -95,7 +95,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr>
    <td>Privacidade e conformidade</td>
    <td><li>Sua estratégia de formulários está alinhada à privacidade de dados corporativos e aos requisitos de aceitação?
-   <br/>     Considere o <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>, a Lei Anti-Spam do Canadá (CASL), a Lei de Controle de Ataques a Pornografia e Marketing Não Solicitados de 2003 (CAN-SPAM), a Lei de Privacidade do Consumidor da Califórnia (CCPA) etc. para obter conformidade com as regulamentações.</li>
+   <br/>     Considere o <a href="https://business.adobe.com/br/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regulamento Geral sobre a Proteção de Dados (GDPR)</a>, a Lei Anti-Spam do Canadá (CASL), a Lei de Controle de Ataques a Pornografia e Marketing Não Solicitados de 2003 (CAN-SPAM), a Lei de Privacidade do Consumidor da Califórnia (CCPA) etc. para obter conformidade com as regulamentações.</li>
 <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
  </tbody>

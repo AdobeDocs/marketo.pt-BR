@@ -141,7 +141,7 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
   <tr>
    <td>Privacidade e conformidade</td>
    <td><li>Você tem programas para garantir a conformidade com as leis de spam e privacidade de dados?
-   <br/>     Considere o <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA etc.</li>
+   <br/>     Considere o <a href="https://business.adobe.com/br/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA etc.</li>
 <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
   <tr>

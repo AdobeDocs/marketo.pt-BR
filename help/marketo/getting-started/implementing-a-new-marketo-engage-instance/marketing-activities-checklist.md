@@ -139,7 +139,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Privacidade e conformidade</td>
-    <td><li>Crie programas para garantir a conformidade com as leis de spam e privacidade de dados, como o <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA etc.</a></li>
+    <td><li>Crie programas para garantir a conformidade com as leis de spam e privacidade de dados, como o <a href="https://business.adobe.com/br/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA etc.</a></li>
     <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: lembre-se sempre de consultar sua equipe jurídica sobre essas questões. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
   <tr>
