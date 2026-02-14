@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 58%
+source-wordcount: '286'
+ht-degree: 60%
 
 ---
 
@@ -64,16 +64,6 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Email Designer - API</strong>: agora você pode usar chamadas de API para o Email Designer.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Gerenciamento de lista de opções</strong>: especifique os valores que podem ser usados em campos na interface do Marketo.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
