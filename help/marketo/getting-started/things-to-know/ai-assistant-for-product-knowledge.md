@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Com o Assistente de IA de conhecimento do produto, suas equipes se movimentam ma
 
 1. Faça logon no Marketo Engage por meio da [Adobe Experience Cloud](https://experience.adobe.com/).
 
-1. Selecione o ícone do assistente de IA no cabeçalho.
+1. Selecione o ícone do Assistente de IA no lado direito do cabeçalho.
 
    CAPTURA DE TELA
 
-1. Digite o prompt desejado na janela de prompt usando o idioma natural.
+1. Digite o prompt desejado usando o idioma natural.
 
    CAPTURA DE TELA
 
@@ -36,7 +36,7 @@ Com o Assistente de IA de conhecimento do produto, suas equipes se movimentam ma
 
    >[!TIP]
    >
-   >Use este ícone (imagem de ícone aqui) para expandir a tela, e este ícone (imagem de ícone aqui) para exibir o histórico de prompts. &lt;— ATÉ ONDE? HÁ ALGUMA CONFIGURAÇÃO?
+   >Use este ícone (imagem de ícone aqui) para expandir a tela, e este ícone (imagem de ícone aqui) para visualizar seu histórico ou iniciar uma nova conversa.
 
 ## Início rápido: visão geral do vídeo de 60 segundos {#video}
 
