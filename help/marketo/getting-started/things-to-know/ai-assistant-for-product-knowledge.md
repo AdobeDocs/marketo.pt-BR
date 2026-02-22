@@ -40,4 +40,4 @@ Com o Assistente de IA de conhecimento do produto, suas equipes se movimentam ma
 
 ## Início rápido: visão geral do vídeo de 60 segundos {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480120?captions=por_br&learn=on){transcript=true}
