@@ -4,9 +4,9 @@ description: Programação de lançamento - Documentos do Marketo - Documentaç�
 title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 5255f550b8aefcaaec0403589bb9a798187e884e
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 91%
 
 ---
@@ -33,29 +33,24 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">Agosto de 2025</a></td>
-   <td>22 de agosto de 2025</td>
-   <td>Completado</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">Setembro de 2025</a></td>
    <td>19 de setembro de 2025</td>
    <td>Completado</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">Outubro de 2025</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-oct-25.md">Outubro de 2025</a></td>
    <td>31 de outubro de 2025</td>
    <td>Completado</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Janeiro de 2026</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-jan-26.md">Janeiro de 2026</a></td>
    <td>30 de janeiro de 2026</td>
    <td>Em andamento</td>
   </tr>
   <tr>
-  <td>Fevereiro de 2026</td>
+  <td><a href="/help/marketo/release-notes/current.md">Fevereiro de 2026</a></td>
    <td>20 de fevereiro de 2026</td>
-   <td>No cronograma</td>
+   <td>Em andamento</td>
   </tr>
   <tr>
   <td>Março de 2026</td>
@@ -74,7 +69,12 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
   </tr>
   <tr>
   <td>Junho de 26</td>
-   <td>26 de junho de 2026</td>
+   <td>sábado, 26 de junho de 2026</td>
+   <td>No cronograma</td>
+  </tr>
+  <tr>
+  <td>Julho de 26</td>
+   <td>sábado, 31 de julho de 2026</td>
    <td>No cronograma</td>
   </tr>
  </tbody>
