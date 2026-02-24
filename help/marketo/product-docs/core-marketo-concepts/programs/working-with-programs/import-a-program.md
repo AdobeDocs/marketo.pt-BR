@@ -4,10 +4,10 @@ description: Importar um programa - Documentação do Marketo - Documentação d
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 1%
+source-wordcount: '553'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,14 @@ Um programa pode ser importado de uma assinatura do Marketo Engage para outra. P
 
 >[!CAUTION]
 >
->Programas que possuem Smart Lists contendo um acionador &quot;Objeto personalizado atualizado&quot; farão com que a importação falhe. Remova esse acionador de todas as Smart Lists antes de seguir as etapas descritas abaixo.
+>
+>* Ao importar um programa, os emails/Landing Pages que contêm trechos ou [conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} serão ignorados.
+>
+>* Programas que possuem Smart Lists contendo um acionador &quot;Objeto personalizado atualizado&quot; farão com que a importação falhe. Remova esse acionador de todas as Smart Lists antes de seguir as etapas descritas abaixo.
 
 ## Importando um programa {#importing-a-program}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/import-a-program-1.png)
 
@@ -35,11 +38,11 @@ Um programa pode ser importado de uma assinatura do Marketo Engage para outra. P
    >
    >* Para conectar uma conta de sandbox à sua assinatura ativa, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Selecione uma **[!UICONTROL Assinatura]** do Marketo e um programa para importar. Clique em **[!UICONTROL Avançar]**.
+1. Selecione uma **[!UICONTROL Assinatura]** do Marketo e um programa para importar. Clique em **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Especifique uma **[!UICONTROL Pasta de campanha]** para o programa importado. Clique em **[!UICONTROL Avançar]**.
+1. Especifique uma **[!UICONTROL Pasta de campanha]** para o programa importado. Clique em **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-4.png)
 
@@ -82,7 +85,3 @@ Os programas usam ativos externos, como modelos de email, modelos de landing pag
 >Meus tokens de tipo de imagem não são compatíveis com importações de programas. Se um programa com o tipo de imagem dos meus tokens for importado, _não_ tokens serão exibidos.
 
 **Marcas de programa:** Você pode usar regras de conflito para controlar como as marcas de programa que não existem na conta de destino serão tratadas. Usar a regra padrão criará as tags do programa ou você poderá optar por ignorá-las.
-
->[!CAUTION]
->
->Ao importar um programa, os emails/Landing Pages com [conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} serão ignorados.
