@@ -4,10 +4,10 @@ description: Restringir logons do Marketo com base em IP - Documentação do Mar
 title: Restringir logons do Marketo com base no IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -17,16 +17,16 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!IMPORTANT]
 >
->O Adobe Admin Console (AAC) dá suporte a [controle de acesso baseado em IP](https://helpx.adobe.com/br/enterprise/using/ip-based-access.html){target="_blank"}. Para garantir uma transição suave, as restrições de IP da Marketo Engage existentes estarão ativas, incluindo usuários da Adobe ID, até o primeiro trimestre de 2026, nas assinaturas em que esse recurso estiver habilitado.
+>O Adobe Admin Console (AAC) dá suporte a [controle de acesso baseado em IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Para garantir uma transição suave, as restrições de IP da Marketo Engage existentes estarão ativas, incluindo usuários da Adobe ID, até o primeiro trimestre de 2027, nas assinaturas em que esse recurso estiver habilitado.
 >
 >* Você pode configurar o acesso baseado em IP da AAC a qualquer momento.
 >* As restrições da AAC e do Marketo Engage podem ser executadas simultaneamente. Use a mesma lista de permissões de IP para obter compatibilidade.
 >
->Após o primeiro trimestre de 2026, as restrições de IP da Marketo Engage serão desativadas. O acesso baseado em IP será gerenciado exclusivamente por meio da AAC e deve ser configurado para aplicar restrições de logon. Uma data final de transição será anunciada posteriormente.
+>Após o primeiro trimestre de 2027, as restrições de IP da Marketo Engage serão desativadas. O acesso baseado em IP será gerenciado exclusivamente por meio da AAC e deve ser configurado para aplicar restrições de logon. Uma data final de transição será anunciada posteriormente.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
