@@ -4,10 +4,10 @@ description: Conecte o  [!DNL BrightTALK] ao Marketo - Documentação do Marketo
 title: Conectar [!DNL BrightTALK] ao Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Saiba como conectar o canal do [!DNL BrightTALK] à instância do Marketo. Para 
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 ## Etapas em [!DNL BrightTALK] {#steps-in-brighttalk}
 
@@ -33,7 +33,7 @@ Saiba como conectar o canal do [!DNL BrightTALK] à instância do Marketo. Para 
 
 1. Crie uma [Função de Usuário Somente API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [Criar um Usuário de API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}, usando a Função de API [!DNL BrightTALK] que você criou durante a Etapa 4.
+1. [Criar um Usuário de API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}, usando a Função de API [!DNL BrightTALK] que você criou durante a Etapa 4.
 
 1. Volte para a área **[!UICONTROL Administrador]**.
 
