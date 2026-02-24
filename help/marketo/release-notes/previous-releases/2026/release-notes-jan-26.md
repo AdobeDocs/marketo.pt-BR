@@ -3,9 +3,9 @@ description: Notas de versão - Janeiro de 2026 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2026
 feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
-source-git-commit: 640bf88008727e1fd8d2f65bae3bf133976a944d
+source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '453'
 ht-degree: 35%
 
 ---
@@ -22,25 +22,10 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 <table style="table-layout:auto">
  <tbody>
- <tr>
-   <th style="width:65%">Recurso</th>
-   <th style="width:10%">Status</th>
-   <th style="width:25%">Documentação</th>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Gerenciar marcas (beta)</strong>: gere conteúdo de email com base nas diretrizes de redação de cópia específicas de sua organização/marca.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
   <tr>
    <td><strong>Aprimoramento do Email Designer - Assistente de IA</strong>: agora você pode adicionar ativos de marca diretamente ao seu prompt e pedir ao modelo para consultar essa fonte para gerar conteúdo, em vez de adicionar manualmente um ativo de marca como um arquivo.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Lançado</td>
+   <td>n/d</td>
   </tr>
   <tr>
    <td> </td>
@@ -103,11 +88,11 @@ Os recursos a seguir foram lançados fora do ciclo de lançamento padrão do Mar
 
 * **Experiência aprimorada com a interface do quarto**: aproveite uma interface do quarto mais moderna e atualizada, criada com base na estrutura de design mais recente do Spectrum 2 da Adobe, alinhada com a linguagem visual usada em outros produtos da Adobe, como o Creative Cloud e o Experience Cloud.
 
-Visite [esta página](https://helpx.adobe.com/br/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obter detalhes completos.
+Visite [esta página](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obter detalhes completos.
 
 ## Anúncios {#announcements}
 
-* **Migração da comunidade do Marketo concluída**: a nova Comunidade da Adobe Experience League agora está ativa. [Foram feitos vários aprimoramentos](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=pt){target="_blank"} para melhorar ainda mais a sua experiência com a Marketo Community. [Confira](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=pt){target="_blank"}.
+* **Migração da comunidade do Marketo concluída**: a nova Comunidade da Adobe Experience League agora está ativa. [Foram feitos vários aprimoramentos](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} para melhorar ainda mais a sua experiência com a Marketo Community. [Confira](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após quarta-feira, 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

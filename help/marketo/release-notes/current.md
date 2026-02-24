@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
+source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 60%
+source-wordcount: '306'
+ht-degree: 58%
 
 ---
 
@@ -43,6 +43,26 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Email Designer - API</strong>: agora você pode usar chamadas de API para o Email Designer.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Gerenciar marcas (beta)</strong>: gere conteúdo de email com base nas diretrizes de redação de cópia específicas de sua organização/marca.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Email Designer - Verificador de qualidade da marca</strong>: avalie a qualidade do conteúdo geral para identificar possíveis problemas de legibilidade, consistência do conteúdo e eficácia, independentemente das diretrizes da sua marca.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
@@ -54,16 +74,6 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Email Designer - Geração de imagem do assistente de IA</strong>: agora, além do Firefly, você pode usar modelos do Nano Banana para gerar imagens com o Assistente de IA para conteúdo de email.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - API</strong>: agora você pode usar chamadas de API para o Email Designer.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
