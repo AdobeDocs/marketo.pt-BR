@@ -3,10 +3,10 @@ description: Lista de verificação de administrador de instância herdada - Doc
 title: Lista de Verificação de Administração de Instância Herdada
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
 workflow-type: tm+mt
-source-wordcount: '1858'
-ht-degree: 3%
+source-wordcount: '1850'
+ht-degree: 4%
 
 ---
 
@@ -33,7 +33,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
   <tr>
    <td>Administração de produtos de assinatura e Marketo Engage</td>
    <td><li>Sua assinatura do Marketo Engage já foi migrada para o <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>?
-<br/>     Em caso afirmativo, você recebeu uma função de "Administrador de produto do Adobe Admin Console" por seu "Administrador de sistema do Adobe Admin Console"? Se você não tem certeza de quem na sua organização tem privilégios de administrador no console, contate o <a href="https://helpx.adobe.com/br/contact.html" target="_blank">Atendimento ao cliente da Adobe</a>.</li>
+<br/>     Em caso afirmativo, você recebeu uma função de "Administrador de produto do Adobe Admin Console" por seu "Administrador de sistema do Adobe Admin Console"? Se você não tiver certeza de quem na sua organização tem privilégios de administrador no console, entre em contato com o <a href="https://helpx.adobe.com/br/contact.html" target="_blank">Atendimento ao cliente da Adobe</a>.</li>
 <li>Você aceitou o convite para "Administrador de produto do Marketo Engage"? O email é enviado quando a função é atribuída na Adobe Admin Console.
 <br/>     Caso contrário, procure o <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">email de boas-vindas</a> em sua caixa de entrada e aceite o convite para ativar sua Adobe ID.</li></td>
   </tr>
@@ -69,7 +69,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
 <li>Sua empresa tem políticas para excluir usuários?</li>
 <li>Quantos usuários têm <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Permissões de administrador</a>?</li>
 <li>Algum desses usuários deve ser alterado para <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">outras funções?</a></li>
-<li>Quem são os <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">usuários da API</a> nesta instância?</li></td>
+</td>
   </tr>
   <tr>
    <td>Funções</td>
@@ -293,7 +293,7 @@ As listas de verificação abaixo (listas de verificação subsequentes vinculad
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (se aplicável)</td>
-<td>As etapas abaixo exigirão acesso ao <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Se você ainda não configurou uma Adobe ID, <a href="https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html" target="_blank">saiba como fazer isso aqui</a>.
+<td>As etapas abaixo exigirão acesso ao <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Se você ainda não configurou uma Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">saiba como fazer isso aqui</a>.
 <br/>
 <li>Você aceitou o convite de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrador de produto do Dynamic Chat</a>? O email é enviado quando o Dynamic Chat é ativado na sua instância do Marketo Engage e você é designado como administrador do sistema.
 <br/>     Caso contrário, procure o email de boas-vindas em sua caixa de entrada e aceite o convite para configurar seu Adobe ID.</li>
