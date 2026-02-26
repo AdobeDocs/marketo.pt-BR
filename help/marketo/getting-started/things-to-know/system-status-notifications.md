@@ -5,16 +5,16 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
+source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
 
 # Assinar notificações de status do sistema {#subscribe-to-system-status-notifications}
 
-TEXTO DE INTRODUÇÃO
+Saiba como assinar notificações de status diferentes para se manter atualizado sobre problemas atuais.
 
 >[!PREREQUISITES]
 >
@@ -88,7 +88,7 @@ Depois de [identificar seu data center e pod/servidor](#identify), siga as etapa
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. Selecione as ofertas/serviços de produtos desejados sobre os quais você deseja receber notificações e clique em **Continuar**.
+1. Selecione as ofertas/serviços de produtos sobre os quais você deseja receber notificações e clique em **Continuar**.
 
    >[!TIP]
    >
@@ -100,28 +100,32 @@ Depois de [identificar seu data center e pod/servidor](#identify), siga as etapa
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
-   <table style="width:600px;">
+   <table style="width:500px;">
    <tr>
-   <td style="width:40%;"><b>Problema grave de serviço</b></td>
+   <td style="width:35%;"><b>Problema grave de serviço</b></td>
    <td>Indisponibilidade de serviço ou grave degradação de desempenho para vários usuários em sistemas de produção.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Problema pequeno de serviço</b></td>
+   <td style="width:35%;"><b>Problema pequeno de serviço</b></td>
    <td>Indisponibilidade parcial do serviço ou degradação moderada do desempenho para vários usuários em sistemas de produção.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Manutenção do serviço</b></td>
-   <td>Texto</td>
+   <td style="width:35%;"><b>Manutenção do serviço</b></td>
+   <td>Janelas programadas para executar a manutenção do produto que pode afetar a disponibilidade ou o desempenho do produto.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Anúncios</b></td>
-   <td>Anúncios relacionados a...</td>
+   <td style="width:35%;"><b>Anúncios</b></td>
+   <td>Mensagens globais, da família de produtos ou relacionadas ao produto com amplo impacto.</td>
    </tr>
    </table>
 
-1. Selecione o ambiente e a região desejados. Clique em **Continuar**.
+1. Selecione o local regional e o ambiente. Clique em **Continuar**.
 
    ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
+
+   >[!NOTE]
+   >
+   >Se você perdeu o local para encontrar isso, consulte [Identificar seu data center](#identify).
 
 1. Escolha sua preferência de assinatura, **Email** ou **Slack**, e clique em **Continuar**.
 
