@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
 workflow-type: tm+mt
 source-wordcount: '9334'
 ht-degree: 99%
@@ -33,7 +33,7 @@ ht-degree: 99%
       + [Ícone do glossário](getting-started/things-to-know/icon-glossary.md)
       + [Ícone glossário clássico](getting-started/things-to-know/classic-icon-glossary.md)
       + [Central de ajuda](getting-started/things-to-know/help-center.md)
-      + [Assinar notificações de status do sistema](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
+      + [Assinar notificações de status do sistema](getting-started/things-to-know/system-status-notifications.md)
       + [Assistente de IA para conhecimento do produto](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Comunidade da nação de marketing](getting-started/things-to-know/community.md)
    + Missões rápidas {#quick-wins}
@@ -239,7 +239,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
