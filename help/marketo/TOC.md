@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9334'
 ht-degree: 99%
 
 ---
@@ -30,11 +30,12 @@ ht-degree: 99%
       + [Novas práticas recomendadas da instância: documentar sua configuração](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + O que você deve saber {#things-to-know}
       + [Glossário do Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
-      + [Glossário de ícones](getting-started/things-to-know/icon-glossary.md)
-      + [Glossário de ícones clássicos](getting-started/things-to-know/classic-icon-glossary.md)
-      + [Centro de ajuda](getting-started/things-to-know/help-center.md)
+      + [Ícone do glossário](getting-started/things-to-know/icon-glossary.md)
+      + [Ícone glossário clássico](getting-started/things-to-know/classic-icon-glossary.md)
+      + [Central de ajuda](getting-started/things-to-know/help-center.md)
+      + [Assinar notificações de status do sistema](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
       + [Assistente de IA para conhecimento do produto](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + [Comunidade da Marketing Nation](getting-started/things-to-know/community.md)
+      + [Comunidade da nação de marketing](getting-started/things-to-know/community.md)
    + Missões rápidas {#quick-wins}
       + [Configurar e adicionar uma pessoa](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Enviar um email](getting-started/quick-wins/send-an-email.md)
@@ -238,7 +239,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
