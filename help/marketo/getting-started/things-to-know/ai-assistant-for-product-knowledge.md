@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
+source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,20 @@ Com o Assistente de IA de conhecimento do produto, suas equipes se movimentam ma
 
 1. Selecione o ícone do Assistente de IA no lado direito do cabeçalho.
 
-   CAPTURA DE TELA
+   ![](assets/ai-assistant-pk-1.png)
 
 1. Digite o prompt desejado usando o idioma natural.
 
-   CAPTURA DE TELA
+   ![](assets/ai-assistant-pk-2.png)
 
 1. Clique na seta azul para enviar seu prompt.
 
-   CAPTURA DE TELA
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >Use este ícone (imagem de ícone aqui) para expandir a tela, e este ícone (imagem de ícone aqui) para visualizar seu histórico ou iniciar uma nova conversa.
+   >Use este ícone ![](assets/icon-arrows.png) para expandir a tela, e este ícone ![](assets/icon-conversation-history.png) para exibir seu histórico ou iniciar uma nova conversa.
 
 ## Início rápido: visão geral do vídeo de 60 segundos {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480120?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
