@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ Com o Assistente de IA de conhecimento do produto, suas equipes se movimentam ma
    >
    >Use este ícone ![](assets/icon-arrows.png) para expandir a tela, e este ícone ![](assets/icon-conversation-history.png) para exibir seu histórico ou iniciar uma nova conversa.
 
-## Início rápido: visão geral do vídeo de 60 segundos {#video}
+## Início rápido: visão geral do vídeo {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480120?captions=por_br&learn=on){transcript=true}
+Veja como o Assistente de IA para conhecimento de produtos funciona, em cerca de um minuto.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}

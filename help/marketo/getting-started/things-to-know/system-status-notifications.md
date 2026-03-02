@@ -2,12 +2,10 @@
 description: Assinar notificações de status do sistema - Documentação do Marketo Engage - Documentação do produto
 title: Assinar Notificações de Status do Sistema
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -22,8 +20,6 @@ Saiba como assinar notificações de status diferentes para se manter atualizado
 
 ## Identificar o data center {#identify}
 
-+++Identifique seu data center e pod/servidor
-
 1. Na seção **Admin** do Marketo Engage, clique em **Minha conta**.
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ Saiba como assinar notificações de status diferentes para se manter atualizado
 
 No campo _Data center_, as letras são o data center e os números são o pod. No exemplo acima, o usuário está em nosso data center Ashburn no pod 49.
 
-Na etapa 7 de [criando uma assinatura](#create-a-subscription), esse usuário selecionaria a localização regional **Marketo Ashburn** e o pod **ab49**.
+Na etapa 7 de [a seção abaixo](#create-a-subscription), esse usuário selecionaria o local regional **Marketo Ashburn** e o pod **ab49**.
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">Abreviações do data center</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>Ashburn</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>San Jose</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>Sydney</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">lon</td>
-    <td>Londres</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>Amsterdam</td>
-  </tr>
-</table>
+**Abreviações do data center**
+
+ab: Ashburn
+sj: San Jose
+sn: Sydney
+lon: Londres
+nld: Amsterdam
 
 >[!TIP]
 >
 >Esse método também pode ser usado para identificar em qual pod/servidor do Real Time Personalization (RTP) sua assinatura está.
-
-+++
 
 ## Criar uma assinatura {#create-a-subscription}
 
