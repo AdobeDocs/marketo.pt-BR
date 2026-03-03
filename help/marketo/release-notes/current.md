@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
+source-git-commit: de55f86fdad952d7be1e134d67d865c377a8c1e4
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 58%
+source-wordcount: '350'
+ht-degree: 51%
 
 ---
 
@@ -82,6 +82,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 <br/>
 
 ## Anúncios {#announcements}
+
+* **Descontinuação do recurso de SEO**: na terça-feira, 31 de março de 2026, o Marketo Engage descontinuará o recurso de Otimização do Mecanismo de Pesquisa (SEO). Se você não usa o SEO ativamente, não precisa fazer nada. Se você tiver usado o SEO recentemente, terá a opção de exportar seus dados. [Saiba mais](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Descontinuação do parâmetro “access_token” da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
