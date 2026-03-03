@@ -3,7 +3,7 @@ description: Assinar notificações de status do sistema - Documentação do Mar
 title: Assinar Notificações de Status do Sistema
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 1%
@@ -30,15 +30,15 @@ Saiba como assinar notificações de status diferentes para se manter atualizado
 
 No campo _Data center_, as letras são o data center e os números são o pod. No exemplo acima, o usuário está em nosso data center Ashburn no pod 49.
 
-Na etapa 7 de [a seção abaixo](#create-a-subscription), esse usuário selecionaria o local regional **Marketo Ashburn** e o pod **ab49**.
+Na etapa 7 de [a seção abaixo](#create-a-subscription), o usuário selecionaria a localização regional **Marketo Ashburn** e o pod **ab49**.
 
 **Abreviações do data center**
 
-ab: Ashburn
-sj: San Jose
-sn: Sydney
-lon: Londres
-nld: Amsterdam
+* ab: Ashburn
+* sj: San Jose
+* sn: Sydney
+* lon: Londres
+* nld: Amsterdam
 
 >[!TIP]
 >
