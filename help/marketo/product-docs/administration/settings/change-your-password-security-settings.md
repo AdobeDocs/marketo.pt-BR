@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360185
-description: Alterar as configurações de segurança de senha - Documentação do Marketo - Documentação do produto
+description: Como definir a política de senha de assinatura, incluindo modelos, expiração e tempo limite de sessão inativa.
 title: Alterar configurações de segurança de senha
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 6%
+source-wordcount: '177'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Controle a política de senha da sua assinatura. Veja como.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

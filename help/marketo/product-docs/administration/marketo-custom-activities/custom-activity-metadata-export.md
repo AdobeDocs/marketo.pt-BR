@@ -1,9 +1,9 @@
 ---
-description: Exportação de metadados de atividade personalizados - Documentação do Marketo - Documentação do produto
+description: Saiba como exportar o esquema personalizado de metadados de atividade.
 title: Exportação de metadados de atividade personalizada
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 9%

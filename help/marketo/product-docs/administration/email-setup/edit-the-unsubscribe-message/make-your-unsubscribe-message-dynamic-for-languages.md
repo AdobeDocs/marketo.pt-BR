@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848782
-description: Dinamize sua mensagem de cancelamento de inscrição para idiomas - Documentação do Marketo - Documentação do produto
+description: Use o conteúdo dinâmico e a segmentação para exibir a mensagem de cancelamento de inscrição e o link em diferentes idiomas.
 title: Tornar a mensagem de cancelamento de inscrição dinâmica em diferentes idiomas
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '495'
 ht-degree: 6%
 
 ---

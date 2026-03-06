@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: Ocultar/tornar visível um canal de programa - Documentação do Marketo - Documentação do produto
+description: Etapas para ocultar um canal de programa quando ele estiver em uso ou exibi-lo usando a caixa de seleção Mostrar oculto.
 title: Ocultar/reexibir um canal de programa
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '114'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Você pode [excluir um canal de programa](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se ele não estiver sendo usado por nenhum programa.  No entanto, uma vez usado, precisamos mantê-lo por perto.  No entanto, você pode ocultá-lo se não precisar mais dele.
 

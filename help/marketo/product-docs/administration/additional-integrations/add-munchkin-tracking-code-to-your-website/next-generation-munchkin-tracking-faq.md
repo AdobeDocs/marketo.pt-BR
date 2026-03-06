@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: Perguntas frequentes sobre rastreamento da próxima geração [!DNL Munchkin] Marketo Docs - Documentação do produto
+description: Perguntas frequentes sobre a implantação do rastreamento de  [!DNL Munchkin]  de próxima geração e a alteração do filtro É anônimo.
 title: 'Perguntas frequentes sobre o Acompanhamento da Próxima Geração [!DNL Munchkin] '
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ Se você já estiver usando esse filtro em uma Smart List (por exemplo, em uma C
 >[!NOTE]
 >
 >**Acionador**: Página Visitas da Web, Página da Web com Preços
->&#x200B;>**Fluxo**: alterar pontuação +10 e momento interessante
->&#x200B;>**Web**: Página de Preços Visualizada
+>**Fluxo**: alterar pontuação +10 e momento interessante
+>**Web**: Página de Preços Visualizada
 >
 >Com a versão [!DNL Munchkin] V2, se uma pessoa anônima visitar a página de preços, ela não entrará na campanha imediatamente. Quando o anônimo se tornar conhecido, faremos essa campanha com ela. Ela vai:
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17728028
-description: Adicionar o  [!DNL Zoom] as a [!DNL LaunchPoint] Service - Documentação do Marketo - Documentação do produto
+description: Adicione [!DNL Zoom] como um serviço LaunchPoint para que a Marketo possa gerenciar o registro e a presença no webinário.
 title: Adicionar [!DNL Zoom] como um [!DNL LaunchPoint] Serviço
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ O Marketo gerencia sua inscrição e presença no [!DNL Zoom].
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

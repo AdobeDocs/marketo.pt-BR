@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360360
-description: Criar um  [!DNL Webhook] - Documentação do Marketo - Documentação do produto
+description: Crie um webhook no Administrador para chamar serviços da Web de terceiros para SMS, dados de pessoa e muito mais.
 title: Criar um  [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -51,4 +51,4 @@ Use o [!DNL Webhooks] para aproveitar os serviços Web de terceiros para enviar 
 
 >[!NOTE]
 >
->Saiba mais no aprofundamento de [[!DNL Webhooks]](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Saiba mais no aprofundamento de [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

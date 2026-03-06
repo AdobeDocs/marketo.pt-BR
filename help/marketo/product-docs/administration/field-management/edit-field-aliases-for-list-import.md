@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360346
-description: Editar aliases de campo para importação de lista - Documentação do Marketo - Documentação do produto
+description: Crie e edite aliases de campo para que as importações de lista com cabeçalhos de coluna desconhecidos sejam mapeadas para os campos corretos do Marketo.
 title: Editar aliases de campo para importação de lista
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Ao importar uma lista com cabeçalhos desconhecidos, você pode criar aliases de
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

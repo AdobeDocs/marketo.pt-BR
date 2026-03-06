@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359918
-description: Editar configurações da página de aterrissagem - Documentação do Marketo - Documentação do produto
+description: Como editar o nome do domínio, a página de fallback, o preenchimento prévio do formulário e outras opções de página de aterrissagem.
 title: Editar configurações da página de destino
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 6%
+source-wordcount: '237'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

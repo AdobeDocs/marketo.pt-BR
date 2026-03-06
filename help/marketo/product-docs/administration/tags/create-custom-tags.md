@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950660
-description: Criar tags personalizadas - Documentação do Marketo - Documentação do produto
+description: Como criar um novo tipo de tag com valores, escolher a quais tipos de programa ele se aplica e definir a tag como obrigatório ou opcional.
 title: Criar tags personalizadas
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 3%
+source-wordcount: '236'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 ## Criar um novo tipo de tag {#create-a-new-tag-type}
 

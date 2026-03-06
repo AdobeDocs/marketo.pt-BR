@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100266
-description: Noções básicas sobre atividades personalizadas - Documentação do Marketo - Documentação do produto
+description: Visão geral das atividades personalizadas para rastrear ações de pessoas específicas de negócios, como elas diferem de objetos personalizados e a configuração de duas etapas da criação da atividade e da implementação da API.
 title: Noções básicas de atividades personalizadas
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '278'
 ht-degree: 9%
 
 ---
@@ -37,4 +37,4 @@ Etapa 1: [Criar uma atividade personalizada](/help/marketo/product-docs/administ
 
 Etapa 2: o funcionário em sua organização que trabalha com nossa API pode iniciar a implementação. Mais informações podem ser encontradas aqui: [API de atividade personalizada](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
-Divirta-se!
+Divirta-se.

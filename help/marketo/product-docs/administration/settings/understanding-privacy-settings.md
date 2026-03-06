@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617187
-description: Noções básicas sobre configurações de privacidade - Documentação do Marketo - Documentação do produto
+description: Visão geral das opções de privacidade e rastreamento, incluindo suporte do navegador Do Not Track, cookies de recusa e rastreamento de IP anônimo para visitantes da Web.
 title: Noções básicas sobre configurações de privacidade
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '493'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Os profissionais de marketing podem permitir que os usuários aceitem usar os re
 
 Os profissionais de marketing podem preservar a privacidade rastreando usuários com um endereço IP anônimo. Para fazer isso, adicione este código ao RTP ou Javascript [!DNL Munchkin] que está incorporado no site.
 
-* Para [!DNL Munchkin], adicione `{"anonymizeIP",true}` à [função de inicialização](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Para [!DNL Munchkin], adicione `{"anonymizeIP",true}` à [função de inicialização](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Para o Web Personalization (RTP), adicione isso ao javascript:
 

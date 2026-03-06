@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360217
-description: Alterar configurações de atribuição para o Analytics - Documentação do Marketo - Documentação do produto
+description: Como definir as opções de atribuição de primeiro e de multitoque, conversão de leads e oportunidades influenciadas pelo marketing no Revenue Cycle Analytics.
 title: Alterar configurações de atribuição do Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '197'
 ht-degree: 5%
 
 ---

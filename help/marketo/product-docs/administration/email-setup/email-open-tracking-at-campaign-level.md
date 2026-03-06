@@ -1,12 +1,12 @@
 ---
-description: Rastreamento de email aberto no nível da campanha - Documentação do Marketo - Documentação do produto
+description: Controle se as aberturas de email são rastreadas por campanha ou uma vez por pessoa em campanhas.
 title: Rastreamento de abertura de email no nível da campanha
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 13%
+source-wordcount: '108'
+ht-degree: 15%
 
 ---
 
@@ -16,7 +16,7 @@ Esse recurso permite controlar o rastreamento de aberturas de email, uma vez par
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **Administrador**.
 

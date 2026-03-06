@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378713
-description: Acionar Alterações De Objetos Personalizados - Documentação Do Marketo - Documentação Do Produto
+description: Como usar acionadores de adição ou alteração de objeto personalizado em uma lista inteligente do Campaign para objetos personalizados do Marketo, com etapas para adicionar o acionador e definir restrições.
 title: Acionar alterações de objeto personalizado
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '202'
 ht-degree: 5%
 
 ---

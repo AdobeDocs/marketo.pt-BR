@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377392
-description: Editar Seu Domínio De Marca Padrão - Documentação Do Marketo - Documentação Do Produto
+description: Substitua o domínio de rastreamento genérico pelo domínio de marca da sua empresa no Email do administrador (requer a configuração CNAME).
 title: Editar o domínio de marca padrão
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 

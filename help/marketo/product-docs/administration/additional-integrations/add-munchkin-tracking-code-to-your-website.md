@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360354
-description: Adicione o  [!DNL Munchkin] Código de rastreamento ao seu site - Documentação do Marketo - Documentação do produto
+description: Adicione o Marketo [!DNL Munchkin] JavaScript ao seu site para rastrear visitas e habilitar campanhas baseadas na Web.
 title: Adicionar  [!DNL Munchkin] Código de Acompanhamento ao seu Site
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 0%
+source-wordcount: '669'
+ht-degree: 1%
 
 ---
 

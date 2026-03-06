@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360358
-description: Restringir o logon do usuário somente ao SSO - Documentação do Marketo - Documentação do produto
+description: Exigir SSO para todos os usuários para que eles não possam ignorar a segurança SSO por meio das Configurações de logon de administrador (não se aplica ao Adobe IMS).
 title: Logon de usuário restrito apenas a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 5%
+source-wordcount: '261'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ Se você estiver [usando SSO](/help/marketo/product-docs/administration/addition
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

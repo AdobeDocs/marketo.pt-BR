@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951259
-description: Glossário de tipo de campo personalizado - Documentação do Marketo - Documentação do produto
+description: Referência para tipos de campo personalizados no Marketo, incluindo Booleano, Moeda, Data, Email, Fórmula e muito mais.
 title: Glossário de tipos de campos personalizados
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '601'
 ht-degree: 3%
 
 ---
@@ -77,7 +77,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Fórmula {#formula}
 
-**Nome de Exemplo:** Saudações - use este campo especial em uma solução [&#x200B; para obter a saudação correta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) com base no sexo
+**Nome de Exemplo:** Saudações - use este campo especial em uma solução [ para obter a saudação correta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) com base no sexo
 
 **Valores de Exemplo:** verifique a solução vinculada
 

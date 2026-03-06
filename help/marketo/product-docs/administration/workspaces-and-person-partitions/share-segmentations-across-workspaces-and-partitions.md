@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515767
-description: Compartilhar segmentações entre espaços de trabalho e partições - Documentação do Marketo - Documentação do produto
+description: Regras e etapas para compartilhar segmentações entre espaços de trabalho e partições, incluindo limites e dicas para criar segmentações no espaço de trabalho Padrão.
 title: Compartilhar segmentações entre espaços de trabalho e partições
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 2%
+source-wordcount: '485'
+ht-degree: 4%
 
 ---
 
@@ -72,7 +72,7 @@ Depois de configurar essas personalidades (_e_ você usa espaços de trabalho), 
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Compartilhar Pasta]**.
+1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Compartilhar pasta]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 

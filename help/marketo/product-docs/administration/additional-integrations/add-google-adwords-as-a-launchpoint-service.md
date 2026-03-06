@@ -1,29 +1,29 @@
 ---
 unique-page-id: 6095008
-description: Adicionar o  [!DNL Google AdWords] as a [!DNL LaunchPoint] Service - Documentação do Marketo - Documentação do produto
+description: Link [!DNL Google AdWords] para o Marketo via LaunchPoint para carregar dados de conversão offline para relatórios no AdWords.
 title: Adicionar [!DNL Google AdWords] como um [!DNL LaunchPoint] Serviço
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 1%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
 # Adicionar [!DNL Google AdWords] como um Serviço [!DNL LaunchPoint] {#add-google-adwords-as-a-launchpoint-service}
 
-Vincule sua conta do [!DNL Google AdWords] ao Marketo para carregar automaticamente dados de conversão offline do Marketo para o [!DNL Google AdWords]. Na interface do usuário do [!DNL AdWords], você poderá ver facilmente quais cliques resultaram em clientes potenciais qualificados, oportunidades e novos clientes (ou quaisquer estágios de receita que você queira rastrear) depois de [adicionar colunas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} no [!DNL AdWords]. Essas informações não aparecem na interface do usuário do Marketo.
+Vincule sua conta do [!DNL Google AdWords] ao Marketo para carregar automaticamente dados de conversão offline do Marketo para o [!DNL Google AdWords]. Na interface do usuário do [!DNL AdWords], você poderá ver facilmente quais cliques resultaram em clientes potenciais qualificados, oportunidades e novos clientes (ou quaisquer estágios de receita que você queira rastrear) depois de [adicionar colunas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} em [!DNL AdWords]. Essas informações não aparecem na interface do usuário do Marketo.
 
 Saiba mais sobre o [recurso de importação de conversão offline do Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta do Adobe (seu gerente de conta) para obter mais detalhes.
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

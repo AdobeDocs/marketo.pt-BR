@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360339
-description: Excluir um campo personalizado na Marketo - Documentação do Marketo - Documentação do produto
+description: Como remover o uso de um campo personalizado ocultando-o da interface do usuário quando ele não é mais necessário.
 title: Excluir um campo personalizado no Marketo
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 13%
+source-wordcount: '102'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Talvez você queira se livrar de um campo criado no passado se não tiver mais um uso para ele. Infelizmente, não é possível excluir campos no Marketo, mas você _pode_ ocultá-los da interface.
 

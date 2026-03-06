@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360344
-description: Exibir mapeamentos de campo entre o Marketo e o  [!DNL Salesforce]  - Documentação do Marketo - Documentação do produto
+description: Saiba como visualizar quais  [!DNL Salesforce]  campos são mapeados para campos do Marketo no Gerenciamento de campos do administrador.
 title: Exibir Mapeamentos de Campo entre o Marketo e  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Talvez você queira saber a quais [!DNL Salesforce] campos um campo específico 
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

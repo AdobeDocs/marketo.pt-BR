@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377958
-description: Histórico de logon do usuário - Documentação do Marketo - Documentação do produto
+description: Visualize quem fez logon na sua assinatura e quando, incluindo tentativas com falha, por meio de Usuários e Funções Administrativas.
 title: Histórico de logon do usuário
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '189'
 ht-degree: 5%
 
 ---

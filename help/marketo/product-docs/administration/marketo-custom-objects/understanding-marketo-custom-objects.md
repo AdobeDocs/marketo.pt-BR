@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: Noções básicas sobre objetos personalizados do Marketo - Documentação do Marketo - Documentação do produto
+description: Visão geral de objetos personalizados para rastrear métricas específicas de negócios, incluindo relacionamentos um para muitos e muitos para muitos, filtros, acionadores e onde acessá-los no Admin.
 title: Noções básicas de objetos personalizados do Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '713'
 ht-degree: 1%
 
 ---

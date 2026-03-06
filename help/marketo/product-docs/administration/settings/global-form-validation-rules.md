@@ -1,11 +1,11 @@
 ---
-description: Regras de validação do formulário global - Documentação do Marketo - Documentação do produto
+description: Como habilitar a permissão Acessar regras de validação de formulário e criar regras globais para bloquear o envio de domínios específicos para formulários do Marketo Engage.
 title: Regras globais de validação de formulários
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---

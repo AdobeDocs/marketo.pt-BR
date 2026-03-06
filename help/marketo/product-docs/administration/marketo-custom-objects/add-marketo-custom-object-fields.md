@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093688
-description: Adicionar campos de objeto personalizados do Marketo - Documentação do Marketo - Documentação do produto
+description: Etapas para adicionar campos a um objeto personalizado, incluindo nome de exibição, descrição e tipo de dados.
 title: Adicionar campos de objeto personalizados do Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '299'
 ht-degree: 3%
 
 ---

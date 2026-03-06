@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359904
-description: Selecione o idioma, a localidade e o fuso horário - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar idioma, localidade e fuso horário.
 title: Selecionar seu idioma, localidade e fuso horário
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '214'
 ht-degree: 11%
 
 ---
@@ -24,9 +24,9 @@ Inglês não é sua primeira língua? Não se preocupe, nós temos você coberto
 * Inglês
 * Francês
 * Alemão
-* japonês
+* Japonês
 * Português
-* Espanhol
+* espanhol
 
 ## Alterar idioma, localidade e fuso horário do usuário {#change-user-language-locale-and-time-zone}
 

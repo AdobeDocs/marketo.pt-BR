@@ -1,11 +1,11 @@
 ---
-description: Verificação de email - Documentação do Marketo - Documentação do produto
+description: Visão geral da verificação de e-mail para usuários do Marketo Engage, incluindo por que ela é necessária, fluxo de convites, e-mail de verificação e resolução de várias IDs de logon.
 title: Verificação de email
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '485'
 ht-degree: 1%
 
 ---

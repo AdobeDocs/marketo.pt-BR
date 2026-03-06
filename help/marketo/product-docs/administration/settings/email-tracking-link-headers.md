@@ -1,12 +1,12 @@
 ---
-description: Cabeçalhos de link de rastreamento de email - Documentação do Marketo - Documentação do produto
+description: Como personalizar os cabeçalhos de link de rastreamento de email no Admin em Email, incluindo Strict-Transport-Security for HTTPS, com orientação de revisão de TI.
 title: Cabeçalhos do link de rastreamento de email
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 8%
+source-wordcount: '114'
+ht-degree: 9%
 
 ---
 

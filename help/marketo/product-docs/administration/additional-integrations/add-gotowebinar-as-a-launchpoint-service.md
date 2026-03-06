@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512289
-description: Adicionar o  [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service - Documentação do Marketo - Documentação do produto
+description: Adicione [!DNL GoToWebinar] como um serviço do LaunchPoint para que o Marketo gerencie o registro e a presença no webinário.
 title: Adicionar [!DNL GoToWebinar] como um [!DNL LaunchPoint] Serviço
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '157'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ O Marketo gerencia sua inscrição e presença no [!DNL GoToWebinar].
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

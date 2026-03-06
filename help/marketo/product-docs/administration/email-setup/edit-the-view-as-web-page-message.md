@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360253
-description: Edite a mensagem "Exibir como página da Web" - Documentação do Marketo - Documentação do produto
+description: Personalize o texto do link Exibir como página da Web e o HTML no email do administrador, mantendo as variáveis necessárias intactas.
 title: Editar a mensagem “Exibir como uma página da web”
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 11%
+source-wordcount: '191'
+ht-degree: 13%
 
 ---
 
@@ -17,7 +17,7 @@ Se você precisar editar o texto &quot;[Exibir como uma página da Web](/help/ma
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 ## Editar a mensagem “Exibir como uma página da web” {#edit-the-view-as-web-page-message-1}
 

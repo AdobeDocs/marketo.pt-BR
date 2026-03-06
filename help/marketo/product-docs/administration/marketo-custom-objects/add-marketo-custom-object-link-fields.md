@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097613
-description: Adicionar campos de link de objeto personalizado do Marketo - Documentação do Marketo - Documentação do produto
+description: Como adicionar campos de link para conectar objetos personalizados a pessoas ou empresas para estruturas de um para muitos e de muitos para muitos, incluindo o uso de objetos intermediários.
 title: Adicionar campos de link de objeto personalizado do Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '714'
 ht-degree: 2%
 
 ---

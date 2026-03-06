@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360291
-description: Bloquear atualizações em um campo - Documentação do Marketo - Documentação do produto
+description: Bloqueie atualizações em um campo para que o primeiro valor gravado seja retido pelo tempo de vida do registro.
 title: Bloquear atualizações em um campo
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 5%
+source-wordcount: '180'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ O bloqueio de atualizações em um campo permite gravar no campo uma vez e, em s
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

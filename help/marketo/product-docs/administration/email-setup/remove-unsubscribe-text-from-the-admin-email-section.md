@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360245
-description: Remova o texto de cancelamento de inscrição da seção de email do administrador - Documentação do Marketo - Documentação do produto
+description: Remova o conteúdo padrão para cancelar a inscrição do email do administrador usando um comentário do HTML ao criar o link em modelos.
 title: Remover o texto de cancelamento de inscrição da seção de email do administrador
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 1%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360327
-description: Atribuição de partições de pessoa com regras de atribuição - Documentação do Marketo - Documentação do produto
+description: Como configurar regras de atribuição para rotear pessoas do seu CRM para as partições de pessoas corretas.
 title: Atribuição de partições de pessoa com regras de atribuição
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!PREREQUISITES]
 >

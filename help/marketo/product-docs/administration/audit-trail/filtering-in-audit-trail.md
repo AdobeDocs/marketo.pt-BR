@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378468
-description: Filtragem na Trilha de auditoria - Documentação do Marketo - Documentação do produto
+description: Filtrar a trilha de auditoria por intervalo de tempo, tipo de ativo, usuários e ação para encontrar alterações específicas.
 title: Filtragem na trilha de auditoria
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '149'
 ht-degree: 5%
 
 ---

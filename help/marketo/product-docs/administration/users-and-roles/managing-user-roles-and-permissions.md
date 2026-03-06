@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359909
-description: Gerenciamento de funções e permissões do usuário - Documentação do Marketo - Documentação do produto
+description: Como definir, criar e editar funções de usuário, atribuir funções a usuários e controlar quais áreas e funcionalidades cada usuário do Marketo pode acessar.
 title: Gerenciamento de funções e permissões de usuário
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -19,7 +19,7 @@ Por exemplo, um usuário de marketing geralmente precisa de amplo acesso ao apli
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 O Marketo fornece várias funções integradas, com diferentes níveis de acesso:
 

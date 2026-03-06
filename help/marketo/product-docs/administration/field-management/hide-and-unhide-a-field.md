@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360333
-description: Ocultar e reexibir um campo - Documentação do Marketo - Documentação do produto
+description: Oculte os campos da interface do Marketo quando não forem mais necessários ou reexiba-os para exibir novamente.
 title: Ocultar e reexibir um campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 7%
+source-wordcount: '184'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Se você não tiver mais uso para um campo no Marketo Engage, poderá ocultá-lo
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

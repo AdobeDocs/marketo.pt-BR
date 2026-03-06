@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360272
-description: Criar uma nova tag de programa e valores de tag - Documentação do Marketo - Documentação do produto
+description: Como criar uma tag de programa personalizada e atribuir valores, escolher tipos de programas e tornar a tag necessária ao criar novos programas.
 title: Criar uma nova tag de programa e valores de tag
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 10%
+source-wordcount: '174'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Você pode criar [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) personalizadas para seus programas e atribuir valores à tag.
 

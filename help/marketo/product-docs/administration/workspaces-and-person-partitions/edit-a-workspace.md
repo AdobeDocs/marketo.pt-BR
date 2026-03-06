@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380986
-description: Editar uma documentação do Workspace - Marketo Docs - Documentação do produto
+description: Saiba como alterar a partição principal de um espaço de trabalho, a partição principal de pessoa e o domínio principal de marca.
 title: Editar um espaço de trabalho
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 6%
+source-wordcount: '156'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

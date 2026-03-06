@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950682
-description: Criar um canal de programa - Documentação do Marketo - Documentação do produto
+description: Etapas para criar um canal de programa com status e etapas de progressão, incluindo tipo de programa, status de sucesso e opções de check-in móvel para eventos.
 title: Criar um canal de programa
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '442'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

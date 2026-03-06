@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360215
-description: Ativar URLs personalizados para sua conta - Documentação do Marketo - Documentação do produto
+description: Etapas para habilitar URLs personalizados para sua assinatura para uso em emails impressos e outras campanhas.
 title: Habilitar URLs personalizados para sua conta
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 17%
+source-wordcount: '98'
+ht-degree: 19%
 
 ---
 
@@ -17,7 +17,7 @@ URLs personalizados são excelentes para campanhas de email impresso.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

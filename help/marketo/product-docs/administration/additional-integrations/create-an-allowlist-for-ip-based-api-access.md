@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098433
-description: Criar um novo Incluo na lista de permissões para acesso à API com base em IP - Documentação do Marketo - Documentação do produto
+description: Restrinja o acesso da API a endereços IP ou intervalos específicos por meio de Restrições de IP de Serviços Web de Administração.
 title: Criar uma lista de permissões de acesso à API baseada em IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 10%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >
->Este recurso opera independentemente das [restrições de logon baseadas em IP](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} do Marketo Engage, que estão sendo substituídas pelo [controle de acesso baseado em IP](https://helpx.adobe.com/br/enterprise/using/ip-based-access.html){target="_blank"} do Admin Console. Ele continuará funcionando como está após a migração do Adobe IMS.
+>Este recurso opera independentemente das [restrições de logon baseadas em IP](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} do Marketo Engage, que estão sendo substituídas pelo [controle de acesso baseado em IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} do Admin Console. Ele continuará funcionando como está após a migração do Adobe IMS.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -35,7 +35,7 @@ ht-degree: 10%
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Incluir na lista de permissões Marque a caixa **[!UICONTROL Habilitar Restrições de IP]** e insira os endereços IP que deseja modificar.
+1. Marque a caixa **[!UICONTROL Habilitar Restrições de IP]** e insira os endereços IP que deseja Incluir na lista de permissões.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 

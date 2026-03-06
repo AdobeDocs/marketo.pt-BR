@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099680
-description: Importar dados de objetos personalizados - Documentação do Marketo - Documentação do produto
+description: Etapas para importar dados de objetos personalizados usando um arquivo CSV, incluindo a seleção do objeto personalizado, o modo de desduplicação e o mapeamento de campo.
 title: Importar dados de objeto personalizado
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 3%
+source-wordcount: '245'
+ht-degree: 4%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 3%
 
    ![](assets/import-custom-object-data-4.png)
 
-1. Selecione o [!UICONTROL Modo de Desduplicação] no menu suspenso. Clique em **[!UICONTROL Avançar]**.
+1. Selecione o [!UICONTROL Modo de Desduplicação] no menu suspenso. Clique em **[!UICONTROL Next]**.
 
    ![](assets/import-custom-object-data-5.png)
 
@@ -47,7 +47,7 @@ ht-degree: 3%
    >
    >Verifique se os valores no arquivo correspondem ao tipo de campo ao qual você está correspondendo (por exemplo, texto, número inteiro etc.); caso contrário, o arquivo será rejeitado.
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/import-custom-object-data-7.png)
 

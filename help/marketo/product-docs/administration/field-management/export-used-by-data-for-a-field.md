@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417092
-description: Exportação usada pelos dados para um campo - Documentação do Marketo - Documentação do produto
+description: Exporte uma lista de ativos que usam um campo para que você possa delegar a desvinculação à sua equipe.
 title: Exportar os dados “Usado por” de um campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 13%
+source-wordcount: '108'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ Como administrador, você pode exportar ativos relacionados de um campo para que
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

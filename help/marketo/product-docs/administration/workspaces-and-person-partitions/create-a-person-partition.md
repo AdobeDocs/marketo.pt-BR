@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360315
-description: Criar uma partição de pessoa - Documentação do Marketo - Documentação do produto
+description: Etapas para criar uma nova partição de pessoa, nomeá-la e atribuí-la a espaços de trabalho.
 title: Criar uma partição de pessoa
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 10%
+source-wordcount: '82'
+ht-degree: 13%
 
 ---
 
@@ -17,7 +17,7 @@ Crie uma nova partição de pessoa seguindo essas etapas.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

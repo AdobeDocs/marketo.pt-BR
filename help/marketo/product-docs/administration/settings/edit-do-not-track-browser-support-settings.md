@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095047
-description: Edite As Configurações De Suporte Ao Navegador "Não Rastrear" - Documentação Do Marketo - Documentação Do Produto
+description: Como honrar ou ignorar a solicitação Do Not Track do navegador editando o Rastreamento de pessoa.
 title: Editar as configurações de suporte “Não rastrear” do navegador
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '132'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

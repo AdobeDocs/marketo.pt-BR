@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095636
-description: Ativar a opção Sem rascunho para trechos - Documentação do Marketo - Documentação do produto
+description: Saiba como ativar a opção Sem rascunho para trechos de modo que as alterações de trecho se apliquem a ativos aprovados sem exigir novos rascunhos.
 title: Habilitar a opção “Sem rascunho” para snippets
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 5%
+source-wordcount: '160'
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ A opção Sem rascunho é ativada automaticamente para todas as funções de Adm
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

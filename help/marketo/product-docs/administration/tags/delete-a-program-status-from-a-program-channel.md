@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360278
-description: Excluir um status de programa de um canal de programa - Documentação do Marketo - Documentação do produto
+description: Como remover o status de um programa de um canal no Admin em Tags, incluindo quando você deve ocultar um status em vez de excluí-lo.
 title: Excluir um status de programa de um canal de programa
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 13%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 

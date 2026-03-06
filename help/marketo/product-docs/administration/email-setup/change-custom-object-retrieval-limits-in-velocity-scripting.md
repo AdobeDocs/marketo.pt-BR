@@ -1,11 +1,11 @@
 ---
-description: Alterar limites de recuperação de objeto personalizado em [!DNL Velocity Scripting] - Documentação do Marketo - Documentação do produto
+description: Aumentar ou diminuir o limite de recuperação de objeto personalizado pai para  [!DNL Velocity]  script nos emails (10 a 100).
 title: Alterar Limites de Recuperação de Objeto Personalizado em  [!DNL Velocity Scripting]
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Se você usa o [!DNL Velocity Script] para exibir dados de Objeto Personalizado 
 
 ## O que é [!DNL Velocity] {#what-is-velocity}
 
-[[!DNL Apache Velocity]](https://velocity.apache.org/) é uma linguagem criada em [!DNL Java] projetada para modelos e scripts de conteúdo de HTML. O Marketo permite que ele seja usado no contexto de Emails por meio do uso de [tokens de script](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Entre outras coisas, isso dá acesso aos dados armazenados em objetos personalizados.
+[[!DNL Apache Velocity]](https://velocity.apache.org/) é uma linguagem criada em [!DNL Java] projetada para modelagem e script de conteúdo HTML. O Marketo permite que ele seja usado no contexto de Emails por meio do uso de [tokens de script](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Entre outras coisas, isso dá acesso aos dados armazenados em objetos personalizados.
 
 Você pode fazer referência a objetos personalizados pai e filho que estão diretamente conectados ao cliente potencial ou ao contato, mas não a objetos personalizados de terceiro nível. Para cada objeto personalizado, os 10 registros atualizados mais recentemente por pessoa/contato estão disponíveis no tempo de execução e são ordenados da atualização mais recente (em 0) para a atualização mais antiga (em 9).
 

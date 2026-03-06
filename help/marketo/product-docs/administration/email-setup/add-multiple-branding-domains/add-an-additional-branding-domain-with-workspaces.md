@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377408
-description: Adicionar um domínio de marca adicional com espaços de trabalho - Documentação do Marketo - Documentação do produto
+description: Adicione outros domínios de marca e atribua um domínio principal por espaço de trabalho ao usar espaços de trabalho.
 title: Adicionar um novo domínio de marca com espaços de trabalho
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 10%
+source-wordcount: '134'
+ht-degree: 13%
 
 ---
 
@@ -33,7 +33,7 @@ Se você tiver espaços de trabalho, poderá adicionar outros domínios de marca
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
 
-1. Insira um novo domínio de marca. Clique em **[!UICONTROL Avançar]**.
+1. Insira um novo domínio de marca. Clique em **[!UICONTROL Next]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-4.png)
 

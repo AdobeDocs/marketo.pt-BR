@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382122
-description: Ativar trilha de auditoria — Documentação do Marketo — Documentação do produto
+description: Habilite a Trilha de auditoria e o Histórico de logon para uma função e atribua a função aos usuários por meio de permissões de Administrador.
 title: Habilitar trilha de auditoria
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 4%
+source-wordcount: '256'
+ht-degree: 3%
 
 ---
 

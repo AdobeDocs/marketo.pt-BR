@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359920
-description: Definir uma página de fallback - Documentação do Marketo - Documentação do produto
+description: Etapas para definir uma página de fallback para que os visitantes vejam uma página designada quando uma página de aterrissagem estiver offline ou não for encontrada.
 title: Definir uma página substituta
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 11%
+source-wordcount: '80'
+ht-degree: 13%
 
 ---
 
@@ -17,7 +17,7 @@ As páginas substitutas são a última linha de defesa se a landing page estiver
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

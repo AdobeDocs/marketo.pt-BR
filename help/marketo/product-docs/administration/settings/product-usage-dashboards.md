@@ -1,13 +1,13 @@
 ---
-description: Painéis de uso de produtos - Documentação do Marketo - Documentação do produto
+description: Como acessar Painéis de uso do produto para visualizar o uso em relação a limites, métricas de atividade e métricas principais de subscrição.
 title: Painéis de uso do produto
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '620'
 ht-degree: 2%
 
 ---

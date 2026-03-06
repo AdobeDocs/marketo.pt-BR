@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360352
-description: Definição das configurações da API do SOAP - Documentação do Marketo - Documentação do produto
+description: Defina a chave de criptografia da API do SOAP e obtenha detalhes do ponto de extremidade nos Serviços Web de administração para desenvolvedores.
 title: Configurar a API SOAP
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 13%
+source-wordcount: '88'
+ht-degree: 15%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -39,4 +39,4 @@ ht-degree: 13%
 
 >[!MORELIKETHIS]
 >
->[Documentação da API do SOAP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/soap/soap-api)
+>[Documentação da API do SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

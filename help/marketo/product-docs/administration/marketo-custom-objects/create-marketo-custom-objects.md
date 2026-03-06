@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093192
-description: Criar objetos personalizados do Marketo - Documentação do Marketo - Documentação do produto
+description: Etapas para criar objetos personalizados do Marketo para estruturas de um para muitos ou de muitos para muitos, incluindo nome de exibição, nome da API e Exibir em detalhes de cliente potencial.
 title: Criar objetos personalizados do Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '711'
 ht-degree: 2%
 
 ---

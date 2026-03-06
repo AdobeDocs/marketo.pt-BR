@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360356
-description: Adicionar logon único a um portal - Documentação do Marketo - Documentação do produto
+description: Ative o logon único do SAML 2.0 para que seu provedor de identidade autentique usuários para o Marketo (não se aplica ao Adobe IMS).
 title: Adicionar logon único a um portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!IMPORTANT]
 >

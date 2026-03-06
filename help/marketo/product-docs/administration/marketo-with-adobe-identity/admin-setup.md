@@ -1,11 +1,11 @@
 ---
-description: Configuração do administrador - Documentação do Marketo - Documentação do produto
+description: Etapas de configuração inicial para administradores de sistema do Adobe após serem adicionadas ao Marketo Engage, incluindo a criação de um perfil de produto no Adobe Admin Console.
 title: Configuração de admin
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -20,7 +20,7 @@ Depois de ser adicionado como administrador do sistema da Adobe ao Marketo Engag
 
    ![](assets/admin-setup-1.png)
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
