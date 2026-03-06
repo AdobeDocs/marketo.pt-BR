@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949202
-description: SEO - Palavras-chave sugeridas - Documentação do Marketo - Documentação do produto
+description: Obtenha sugestões de palavras-chave do Marketo com base em uma palavra-chave ou um URL de site e, em seguida, adicione as palavras-chave selecionadas à lista.
 title: SEO - Obter sugestões de palavras-chave
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '225'
 ht-degree: 5%
 
 ---
@@ -19,10 +19,10 @@ A SEO da Marketo pode sugerir quais palavras-chave você deve rastrear. Podemos 
 >
 >Em 31 de março de 2026, o Marketo Engage descontinuará o recurso de Otimização do mecanismo de pesquisa. Exporte todos os dados relevantes até 30 de março. [Saiba mais](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [Exportar problemas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportar Resultados de Palavra-chave](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Exportar Tendências de Palavra-chave](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Exportar Tendências de Palavra-chave do Concorrente](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportar problemas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportar Resultados de Palavra-chave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportar Tendências de Palavra-chave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportar Tendências de Palavra-chave do Concorrente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Obter Sugestões de Palavra-chave usando uma Palavra-chave {#get-keyword-suggestions-using-a-keyword}
 

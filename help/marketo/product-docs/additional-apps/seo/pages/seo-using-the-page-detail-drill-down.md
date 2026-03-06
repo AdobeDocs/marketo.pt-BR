@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949186
-description: SEO - Utilização do detalhamento da página - Documentação do Marketo - Documentação do produto
+description: Veja informações detalhadas da página, incluindo pontuação de otimização, links de entrada, palavras-chave do target e resultados de otimização de página acionáveis.
 title: SEO - Uso do detalhamento de página
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '313'
 ht-degree: 5%
 
 ---
@@ -19,10 +19,10 @@ Você pode ver muitas informações sobre suas páginas usando o detalhamento da
 >
 >Em 31 de março de 2026, o Marketo Engage descontinuará o recurso de Otimização do mecanismo de pesquisa. Exporte todos os dados relevantes até 30 de março. [Saiba mais](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [Exportar problemas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportar Resultados de Palavra-chave](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Exportar Tendências de Palavra-chave](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Exportar Tendências de Palavra-chave do Concorrente](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportar problemas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportar Resultados de Palavra-chave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportar Tendências de Palavra-chave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportar Tendências de Palavra-chave do Concorrente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Localizar Drill-Down de Página {#find-page-drill-down}
 
