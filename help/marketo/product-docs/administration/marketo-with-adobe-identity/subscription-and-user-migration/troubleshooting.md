@@ -62,7 +62,7 @@ _Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Market
 
 **Resoluções**:
 
-_Se for necessário migrar o usuário_ (e a imposição de domínio estiver habilitada na organização de migração) - O endereço de email deve ser atualizado no Marketo Engage para estar em conformidade com a política de Imposição de Domínio (DE). Como alternativa, o Administrador do Sistema pode [mover o domínio](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} para outro diretório desabilitado de Imposição de Domínio (DE) ou [criar um novo diretório](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"} que não esteja na política DE. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
+_Se for necessário migrar o usuário_ (e a imposição de domínio estiver habilitada na organização de migração) - O endereço de email deve ser atualizado no Marketo Engage para estar em conformidade com a política de Imposição de Domínio (DE). Como alternativa, o Administrador do Sistema pode [mover o domínio](https://helpx.adobe.com/br/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} para outro diretório desabilitado de Imposição de Domínio (DE) ou [criar um novo diretório](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"} que não esteja na política DE. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
 _Se for necessário migrar o usuário_ (e a imposição de domínio estiver habilitada em outra organização), um administrador do sistema da organização em que o domínio foi reivindicado precisa adicionar o endereço de email do usuário à lista de exceções. Administrador do Marketo Engage para executar novamente a migração de usuário para este usuário no Console de migração.
 
@@ -79,8 +79,8 @@ _Se o usuário **não**&#x200B;precisar ser migrado_ - o administrador do Market
 1. A conta somente do direito seria criada (se aplicável) e vinculada à conta Federated como sua conta de autenticação.
 
 **Saiba mais**
-* [Configurar identidade sem Logon Único](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
-* [Configurar identidade com logon único](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
+* [Configurar identidade sem Logon Único](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
+* [Configurar identidade com logon único](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
 
 ### Falha na migração do Pendo {#pendo-migration-failed}
 
