@@ -3,10 +3,10 @@ description: Caixa de entrada do agente - Documentação do Marketo - Documenta�
 title: Caixa de entrada do agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 2%
+source-wordcount: '581'
+ht-degree: 1%
 
 ---
 
@@ -44,7 +44,7 @@ No lado esquerdo da tela da Caixa de entrada do agente, você pode optar por exi
 >
 >Embora você possa ver conversas passadas (inativas) de você mesmo e de outros agentes, você só poderá ver suas próprias conversas ativas.
 
-## Informações sobre os visitantes {#visitor-information}
+## Informações do visitante {#visitor-information}
 
 No lado direito da tela da Caixa de entrada do agente, você poderá ver (de cima para baixo) o nome, o cargo, o endereço de email, o número de telefone e o status do CRM. Qualquer informação não transmitida será exibida como um traço (-).
 
@@ -116,7 +116,13 @@ Na parte inferior da janela de bate-papo ao vivo há um ícone que permite compa
 
    ![](assets/agent-inbox-16.png)
 
-## Sumário da conversa {#conversation-summary}
+## Baixar transcrição {#download-transcript}
+
+Depois que um chat ao vivo terminar, clique no botão **Baixar transcrição** na parte inferior da janela de chat e um arquivo .txt da conversa será baixado automaticamente para a pasta &quot;Downloads&quot;.
+
+![](assets/agent-inbox-17.png)
+
+## Resumo da conversa {#conversation-summary}
 
 >[!NOTE]
 >
@@ -124,7 +130,7 @@ Na parte inferior da janela de bate-papo ao vivo há um ícone que permite compa
 
 O Resumo da conversa gera um resumo rápido para você em tempo real, incluindo tópicos nos quais o visitante expressou interesse. Ele está disponível na parte inferior direita de cada tela de chat.
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
