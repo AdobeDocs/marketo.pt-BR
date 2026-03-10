@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980105
-description: Convidar usuários a acessar a [!UICONTROL Insight da conta] - Documentação do Marketo - Documentação do produto
+description: Saiba como convidar usuários para acessar o Account Insight. Convide por CRM ou email e conceda acesso à Account Insight pela guia Sales Users.
 title: Convidar Usuários para Acessar a [!UICONTROL Insight da Conta]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 0%
+source-wordcount: '185'
+ht-degree: 1%
 
 ---
 
@@ -41,7 +41,7 @@ Siga estas etapas para fornecer aos usuários acesso à [!UICONTROL Insight da c
 
    ![](assets/four-5.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/five-5.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: Filtros de conta - Documentação do Marketo - Documentação do produto
+description: Saiba como identificar e engajar contas nomeadas e personalidades usando filtros centrados em contas. Use os filtros TAM em campanhas inteligentes para direcionar as contas certas.
 title: Filtros de conta
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '200'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381917
-description: '[!UICONTROL Gerenciamento de Conta do Target] - Documentação do Marketo - Documentação do Produto'
+description: Saiba mais sobre o Gerenciamento de conta do Marketo Target e como ele unifica as vendas e o marketing em relação às contas principais de destino. Introdução às etapas de licenciamento e configuração.
 title: '[!UICONTROL Gerenciamento de Conta de Destino]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ O Marketo TAM consiste em três componentes:
 O Marketing com base em conta da Marketo também oferece várias ferramentas para personalizar a experiência de conta nomeada em todos os canais.
 
 * Personalization de email e página de aterrissagem
-* Personalização na Web
+* Personalização na web
 * URL [Personalization](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 * Anúncio [Personalization](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [Personalizado](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: Listas inteligentes de conta - Documentação do Marketo - Documentação do produto
+description: Saiba como criar Smart Lists de conta para identificar contas de alto valor. Defina filtros de conta e de pessoa correspondentes e use os resultados em campanhas ou exportação.
 title: Listas inteligentes da conta
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '524'
 ht-degree: 1%
 
 ---

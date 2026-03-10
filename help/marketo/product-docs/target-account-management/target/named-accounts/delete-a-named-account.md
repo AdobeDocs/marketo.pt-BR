@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615802
-description: Excluir uma conta nomeada - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir uma conta nomeada no TAM. Selecione contas e use Ações de Contas Nomeadas para excluir.
 title: Excluir uma conta nomeada
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '118'
 ht-degree: 5%
 
 ---

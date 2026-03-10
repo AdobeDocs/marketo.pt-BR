@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12978647
-description: Criar um campo personalizado para descoberta de CRM - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um campo de Conta nomeada personalizado, mapeá-lo para seu CRM e usá-lo na Descoberta de Conta do CRM. Consulte dados mapeados na grade do Discover CRM.
 title: Criar um campo personalizado para descoberta de CRM
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 10%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 

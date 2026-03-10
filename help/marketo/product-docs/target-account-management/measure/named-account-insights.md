@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380785
-description: Insights da conta nomeada - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o Painel de contas nomeadas e sua visualização de 360 graus das contas do público-alvo. Exibir indicadores de envolvimento, oportunidades, equipe de conta e ICP.
 title: Insights da conta nomeada
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 2%
+source-wordcount: '432'
+ht-degree: 3%
 
 ---
 

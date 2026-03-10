@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795734
-description: Criar uma hierarquia - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma hierarquia de conta nomeada manualmente quando não estiver usando um CRM. Vincular contas a uma Conta Nomeada pai usando Agrupar por Hierarquia.
 title: Criar uma hierarquia
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 4%
+source-wordcount: '167'
+ht-degree: 3%
 
 ---
 

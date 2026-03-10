@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727818
-description: Uso de Personas - Documentação do Marketo - Documentação do produto
+description: Saiba como usar personas para segmentar o público-alvo e o mercado de ABM para subconjuntos específicos. Adicione perfis no Administrador e use-os nos filtros da lista inteligente.
 title: Uso de personas
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 5%
+source-wordcount: '210'
+ht-degree: 4%
 
 ---
 

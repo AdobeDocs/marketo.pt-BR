@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378816
-description: Adicionar pessoas a uma conta nomeada - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar pessoas a uma conta nomeada usando ações de fluxo, etapas inteligentes de fluxo da campanha ou importação de lista.
 title: Adicionar pessoas à conta nomeada
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 6%
+source-wordcount: '199'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Há três maneiras diferentes de adicionar pessoas manualmente a uma conta nomea
 
 ## Ação de fluxo único {#single-flow-action}
 
-1. Clique em **[!UICONTROL Banco de Dados]**.
+1. Clique em **[!UICONTROL Banco de dados]**.
 
    ![](assets/one-2.png)
 

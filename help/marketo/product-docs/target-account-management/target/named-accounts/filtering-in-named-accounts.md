@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615804
-description: Filtragem em contas nomeadas - Documentação do Marketo - Documentação do produto
+description: Saiba como filtrar contas nomeadas para restringir os dados rapidamente. Use campos do setor, país, funcionários e outros campos sincronizados com o CRM no filtro.
 title: Filtragem de contas nomeadas
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '144'
+ht-degree: 2%
 
 ---
 

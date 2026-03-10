@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384433
-description: Configuração da equipe da conta - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar equipes de conta e mapear funções de conta do CRM para o TAM. Escolha quais Campos de Pesquisa de Usuário se tornarão Membros da Equipe de Conta.
 title: Configuração de equipe de conta
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '197'
 ht-degree: 5%
 
 ---

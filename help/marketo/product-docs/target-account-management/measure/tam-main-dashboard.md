@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380783
-description: Painel principal do TAM - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o painel principal do TAM e um resumo dos esforços de sua conta de destino. Filtrar por lista de contas e detalhar por insights de contas nomeadas ou listas.
 title: Painel principal do TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '134'
+ht-degree: 4%
 
 ---
 

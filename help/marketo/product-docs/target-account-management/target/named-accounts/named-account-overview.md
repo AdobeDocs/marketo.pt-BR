@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378809
-description: Visão Geral Da [!UICONTROL Conta Nomeada] - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre Contas nomeadas e como elas mantêm as pessoas de suas empresas-alvo. Visualize os dados atuais do atributo de todas as contas nomeadas no painel.
 title: Visão geral da [!UICONTROL Conta nomeada]
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '255'
 ht-degree: 10%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 10%
    <td>Nome da conta nomeada</td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">People</span></strong></td>
+   <td><strong><span class="uicontrol">Pessoas</span></strong></td>
    <td>Quantidade de pessoas atribuídas à conta nomeada</td>
   </tr>
   <tr>

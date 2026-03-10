@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355609
-description: Descoberta de nova conta - Documentação do Marketo - Documentação do produto
+description: Saiba como encontrar novas contas para direcionar usando recomendações habilitadas por IA do perfil de cliente ideal. Descubra e salve novas contas de destino em listas de contas.
 title: Nova descoberta de conta
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '318'
 ht-degree: 3%
 
 ---

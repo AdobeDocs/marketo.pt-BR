@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15695924
-description: Classificação e ajuste do perfil da conta - Documentação do Marketo - Documentação do produto
+description: Entenda como o Perfil de Conta classifica as empresas por ICP e adiciona dados de indicador às Contas Nomeadas. Ajuste seu modelo e promova contas.
 title: Classificação e ajuste da criação de perfis de conta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '414'
 ht-degree: 5%
 
 ---

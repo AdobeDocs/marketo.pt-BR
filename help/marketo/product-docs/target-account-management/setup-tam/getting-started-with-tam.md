@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12255457
-description: Introdução ao TAM - Documentação do Marketo - Documentação do produto
+description: Saiba como começar a usar o TAM depois que ele for adicionado à sua instância. Siga as etapas para definir permissões, configurar a pontuação da conta, criar contas nomeadas e muito mais.
 title: Introdução ao TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 3%
+source-wordcount: '303'
+ht-degree: 2%
 
 ---
 

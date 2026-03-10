@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380774
-description: Pontuação da conta - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a Pontuação de conta e como ela ajuda a priorizar contas de destino engajadas. Configure as pontuações da conta atribuindo pontuações de lead no Administrador do TAM.
 title: Pontuação de contas
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '371'
 ht-degree: 1%
 
 ---
@@ -47,9 +47,9 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 >Para calcular pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketo TAM agrega automaticamente pontuações de clientes potenciais às pontuações de contas. Como exemplo, vamos usar dois dos exemplos acima (_Pontuação de interesse do produto da conta_ e _Pontuação de envolvimento da Web da conta_).
 >
 >Primeiro, crie campos de pontuação de lead que capturem detalhes relevantes de cada lead de uma conta de destino.
->&#x200B;>Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:
->&#x200B;>Pontuação de Juros do Produto da Conta = SUM (Pontuação de Juros do Produto Cliente Potencial)
->&#x200B;>Pontuação de envolvimento da Web da conta = SUM (Pontuação de envolvimento da Web do lead)
+>Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:
+>Pontuação de Juros do Produto da Conta = SUM (Pontuação de Juros do Produto Cliente Potencial)
+>Pontuação de envolvimento da Web da conta = SUM (Pontuação de envolvimento da Web do lead)
 
 >[!NOTE]
 >

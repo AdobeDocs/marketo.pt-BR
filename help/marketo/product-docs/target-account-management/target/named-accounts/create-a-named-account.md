@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615781
-description: Criar uma conta nomeada - Documentação do Marketo - Documentação do produto
+description: Saiba como criar manualmente uma conta nomeada no TAM. Use o menu suspenso Novo, selecione Criar conta nomeada e preencha os campos desejados.
 title: Criar uma conta nomeada
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '76'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381156
-description: Correspondência de contas de lead - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a correspondência entre lead e conta e como o Marketo corresponde leads a contas nomeadas em tempo quase real. Resolver correspondências fracas e acionar novos leads.
 title: Correspondência entre leads e contas
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 1%
+source-wordcount: '485'
+ht-degree: 2%
 
 ---
 

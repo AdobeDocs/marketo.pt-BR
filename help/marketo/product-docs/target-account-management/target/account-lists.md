@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378814
-description: '[!UICONTROL Listas de contas] - Documentação do Marketo - Documentação do produto'
+description: Saiba mais sobre Listas de contas e como elas agrupam contas nomeadas para direcionamento. Crie listas estáticas ou dinâmicas de Exibições de Conta do CRM.
 title: '[!UICONTROL Listas de contas]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 1%
+source-wordcount: '359'
+ht-degree: 2%
 
 ---
 

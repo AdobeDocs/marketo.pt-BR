@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: Configuração do perfil da conta - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o Perfil da conta e criar seu modelo de Perfil do cliente ideal no TAM. Comece com a guia Modelo e crie seu primeiro modelo.
 title: Configuração da criação de perfis de conta
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 8%
+source-wordcount: '188'
+ht-degree: 7%
 
 ---
 

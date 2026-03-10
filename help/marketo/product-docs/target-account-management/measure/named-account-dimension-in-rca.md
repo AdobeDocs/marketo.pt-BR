@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380789
-description: Dimension de conta nomeada na RCA - Documentação do Marketo - Documentação do produto
+description: Saiba como criar relatórios baseados em receita usando a dimensão Conta nomeada no Revenue Cycle Analytics. Meça o impacto do pipeline e da receita de contas direcionadas.
 title: Dimensão de conta nomeada na RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 10%
+source-wordcount: '163'
+ht-degree: 9%
 
 ---
 

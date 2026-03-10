@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
-description: Adicionar uma conta nomeada existente a uma lista de contas - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar uma conta nomeada existente a uma lista de contas. Use as Ações de contas nomeadas e selecione Adicionar à lista de contas com a lista desejada.
 title: Adicionar uma conta nomeada existente a uma lista de contas
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 9%
+source-wordcount: '107'
+ht-degree: 8%
 
 ---
 
