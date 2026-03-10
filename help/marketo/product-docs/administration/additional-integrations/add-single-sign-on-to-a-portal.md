@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360356
-description: Ative o logon único do SAML 2.0 para que seu provedor de identidade autentique usuários para o Marketo (não se aplica ao Adobe IMS).
+description: Ative o logon único do SAML 2.0 para que seu provedor de identidade autentique usuários para o Marketo.
 title: Adicionar logon único a um portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: bba45ef3db9cf8f1a7a9f9c818a5890ca63d6ec7
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 4%
@@ -25,7 +25,7 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 
 >[!IMPORTANT]
 >
->Isso não se aplica a assinaturas integradas ao Adobe Identity. Para assinaturas integradas à Adobe Identity, o Logon único é configurado no nível da Organização da Adobe no Adobe Admin Console. O Adobe Admin Console só oferece suporte a SP iniciados no momento. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
+>Isso **não** se aplica às assinaturas integradas à Adobe Identity. As configurações anteriores podem ser exibidas (antes da migração do IMS), mas não se aplicam mais. Para assinaturas integradas à Adobe Identity, o Logon único é configurado no nível da Organização da Adobe no Adobe Admin Console. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
