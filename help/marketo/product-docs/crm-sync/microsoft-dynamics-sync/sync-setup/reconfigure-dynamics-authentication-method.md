@@ -1,11 +1,11 @@
 ---
-description: Reconfigurar  [!DNL Dynamics] Método de Autenticação - Marketo Docs - Documentação do Produto
+description: Saiba como reconfigurar o método de autenticação do Dynamics no Marketo. Desabilite a sincronização, use Reconfigurar Novo Método de Autenticação e valide credenciais para a API da Web ou ROPC.
 title: Reconfigurar  [!DNL Dynamics] Método de Autenticação
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '283'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Siga as etapas abaixo para atualizar seu Método de Autenticação [!DNL Dynamic
 
 >[!PREREQUISITES]
 >
->Configure o aplicativo em [!DNL Microsoft Dynamics] e no Ative Diretory (Azure AD/ADFS) usando o método de autenticação desejado em um dos seguintes artigos:
+>Configure o aplicativo no [!DNL Microsoft Dynamics] e no ative diretory (Azure AD/ADFS) usando o método de autenticação desejado em um dos seguintes artigos:
 >
 >* [Etapa 2 de 3: Configurar a Solução Marketo com Conexão Servidor a Servidor](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 >* [Etapa 2 de 4: Configurar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}

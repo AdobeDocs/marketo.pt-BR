@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504739
-description: Instale o Marketo para Microsoft Dynamics 2015 no local Etapa 2 de 3 - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o usuário de sincronização do Marketo para o Dynamics 2015 no local. Crie o usuário e atribua a função Usuário de sincronização do Marketo no Dynamics.
 title: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 2 de 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 >[!IMPORTANT]
 >
->A configuração de idioma do Usuário de Sincronização [&#x200B; deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>A configuração de idioma do Usuário de Sincronização [ deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Em **[!UICONTROL Configurações]**, clique em **[!UICONTROL Segurança]**.
 

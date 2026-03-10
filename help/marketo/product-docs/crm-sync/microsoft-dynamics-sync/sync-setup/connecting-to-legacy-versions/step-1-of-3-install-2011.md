@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571805
-description: Etapa 1 de 3 - Instalar a solução da Marketo (2011 no local) - Documentação da Marketo - Documentação do produto
+description: Saiba como instalar a solução Marketo para Dynamics 2011 no local. Importe a solução e conclua as etapas de instalação no Dynamics.
 title: Etapa 1 de 3 - Instalar a solução da Marketo (2011 no local)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 4%
+source-wordcount: '284'
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] no local e o Marketo, é necess
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Clique em **[!UICONTROL Procurar]**. Selecione a solução de gerenciamento de clientes potenciais da Marketo que você [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Procurar]**. Selecione a solução de gerenciamento de clientes potenciais da Marketo que você [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -59,7 +59,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] no local e o Marketo, é necess
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
-1. Verifique se a caixa de seleção da opção de mensagem do SDK está marcada. Clique em **[!UICONTROL Avançar]**.
+1. Verifique se a caixa de seleção da opção de mensagem do SDK está marcada. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a42-3a37.png)
 

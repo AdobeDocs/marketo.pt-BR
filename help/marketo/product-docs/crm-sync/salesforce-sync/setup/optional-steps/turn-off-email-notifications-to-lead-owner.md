@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795802
-description: Desative as notificações por email para o proprietário principal - Documentação do Marketo - Documentação do produto
+description: Saiba como desativar as notificações por email para o proprietário do cliente potencial no Salesforce quando os clientes potenciais são atribuídos.
 title: Desativar notificações por email para o proprietário do lead
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 27%
+source-wordcount: '74'
+ht-degree: 25%
 
 ---
 

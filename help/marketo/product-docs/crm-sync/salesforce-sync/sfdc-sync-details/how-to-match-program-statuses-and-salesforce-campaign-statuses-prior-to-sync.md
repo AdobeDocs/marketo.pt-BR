@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360370
-description: Como corresponder status de programas e status de campanhas do Salesforce antes da sincronização - Documentação do Marketo - Documentação do produto
+description: Saiba como corresponder os status do programa Marketo com os status dos membros do Salesforce Campaign antes da sincronização. Corrija erros e mapeie status para que os programas sincronizem com as campanhas.
 title: Como fazer a correspondência entre os status do programa e os status de campanha do Salesforce antes da sincronização
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---

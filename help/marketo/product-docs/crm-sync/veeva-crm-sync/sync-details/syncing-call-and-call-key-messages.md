@@ -1,12 +1,12 @@
 ---
-description: Sincronização de mensagens de chamada e principal de chamada - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como os objetos Mensagem principal de Chamada e Chamada são sincronizados do Veeva CRM para o Marketo Engage. Use acionadores e filtros relacionados a chamadas em Smart Lists e campanhas.
 title: Sincronização de mensagens de chamada e chave de chamada
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 12%
+source-wordcount: '493'
+ht-degree: 11%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515131
-description: Sincronização da SFDC - Excluindo um cliente potencial/contato - Documentação do Marketo - Documentação do produto
+description: Entenda como a exclusão de clientes potenciais e contatos funciona entre o Salesforce e o Marketo. Saiba mais sobre as ações de fluxo Excluir pessoa e Excluir de SFDC do SFDC.
 title: Sincronização da SFDC - Excluindo um cliente em potencial/contato
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---

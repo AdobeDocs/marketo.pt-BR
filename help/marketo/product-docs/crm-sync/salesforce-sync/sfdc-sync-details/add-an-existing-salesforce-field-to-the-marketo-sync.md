@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719308
-description: Adicionar um campo existente do Salesforce à sincronização do Marketo - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um campo existente do Salesforce à sincronização do Marketo. Torne o campo visível para o usuário de sincronização no Salesforce para que seja sincronizado no próximo ciclo.
 title: Adicionar um campo existente do Salesforce à sincronização do Marketo
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 7%
+source-wordcount: '172'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Normalmente, os novos campos personalizados no Salesforce são sincronizados com o Marketo Engage automaticamente. Caso contrário, os campos podem não estar visíveis para o usuário do Marketo Sync. Veja como você pode corrigir isso.
 

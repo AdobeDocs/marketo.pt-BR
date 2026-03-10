@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571807
-description: Etapa 2 de 3 - Configurar o usuário de sincronização do Marketo no  [!DNL Dynamics] (2011 no local) - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o usuário de sincronização do Marketo no Dynamics 2011 no local. Crie o usuário e atribua a função Usuário de sincronização do Marketo no Dynamics.
 title: Etapa 2 de 3 - Configurar Usuário de Sincronização do Marketo em [!DNL Dynamics] (2011 no Local)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 >[!IMPORTANT]
 >
->A configuração de idioma do Usuário de Sincronização [&#x200B; deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>A configuração de idioma do Usuário de Sincronização [ deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. No menu inferior esquerdo, selecione **[!UICONTROL Configurações]**.
 

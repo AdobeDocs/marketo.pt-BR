@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571827
-description: Etapa 2 de 3 - Configurar a solução da Marketo com conexão servidor a servidor - Documentação da Marketo - Documentação do produto
+description: Saiba como configurar a solução do Marketo com conexão Servidor a Servidor para o Dynamics 365. Crie um aplicativo cliente no Azure AD e conceda consentimento ao usuário de sincronização.
 title: Etapa 2 de 3 - Configurar a solução da Marketo com conexão de servidor a servidor
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---

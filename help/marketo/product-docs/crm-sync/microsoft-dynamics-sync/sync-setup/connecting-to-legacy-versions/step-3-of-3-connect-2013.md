@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571819
-description: Etapa 3 de 3 - Conectar o Marketo e o Dynamics (2013 no local) - Documentação do Marketo - Documentação do produto
+description: Saiba como conectar o Marketo e o Dynamics 2013 no local na etapa final. Insira as informações do usuário de sincronização no Marketo Admin e habilite a sincronização.
 title: Etapa 3 de 3 - Conectar o Marketo e o Dynamics (2013 no local)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 2%
+source-wordcount: '421'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. E
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 ## Inserir Informações de Usuário de Sincronização [!DNL Dynamics] {#enter-dynamics-sync-user-information}
 

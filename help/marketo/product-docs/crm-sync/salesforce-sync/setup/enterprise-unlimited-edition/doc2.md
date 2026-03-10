@@ -1,12 +1,12 @@
 ---
-description: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited) - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um usuário do Salesforce para Marketo com edição Enterprise ou Unlimited. Crie um perfil, defina permissões e crie o usuário de sincronização Marketo-Salesforce.
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '431'
 ht-degree: 4%
 
 ---

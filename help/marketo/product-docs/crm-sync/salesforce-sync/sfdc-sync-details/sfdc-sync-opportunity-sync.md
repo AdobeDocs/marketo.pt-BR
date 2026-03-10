@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953467
-description: SFDC Sync - Sincronização de oportunidade - Documentação do Marketo - Documentação do produto
+description: Saiba como a sincronização de oportunidades funciona do Salesforce para o Marketo. Veja como as oportunidades são sincronizadas, associadas aos contatos e usam acionadores e filtros de oportunidade.
 title: Sincronização do SFDC - Sincronização de oportunidade
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 8%
+source-wordcount: '295'
+ht-degree: 11%
 
 ---
 

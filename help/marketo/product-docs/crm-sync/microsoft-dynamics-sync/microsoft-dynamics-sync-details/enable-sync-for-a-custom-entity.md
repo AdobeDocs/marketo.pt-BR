@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953384
-description: Habilitar sincronização para uma entidade personalizada - Documentação do Marketo - Documentação do produto
+description: Saiba como habilitar a sincronização de uma entidade personalizada no Microsoft Dynamics e no Marketo. Use o Admin e o Microsoft Dynamics para selecionar e habilitar entidades personalizadas para sincronização.
 title: Habilitar sincronização para uma entidade personalizada
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '335'
 ht-degree: 3%
 
 ---

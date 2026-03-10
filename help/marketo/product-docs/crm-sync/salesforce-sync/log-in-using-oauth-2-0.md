@@ -1,11 +1,11 @@
 ---
-description: Faça logon usando o OAuth 2.0 - Documentação do Marketo - Documentação do produto
+description: Saiba como conectar o Marketo e o Salesforce usando o OAuth 2.0. Configure um Aplicativo cliente externo no Salesforce e autorize o Marketo a sincronizar de forma segura sem compartilhar credenciais.
 title: Fazer logon usando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '652'
 ht-degree: 1%
 
 ---

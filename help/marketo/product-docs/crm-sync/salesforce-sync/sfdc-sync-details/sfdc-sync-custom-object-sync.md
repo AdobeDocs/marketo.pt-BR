@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953471
-description: SFDC Sync - Sincronização de objeto personalizado - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar a sincronização de objetos personalizados do Salesforce para o Marketo. Ative objetos personalizados e use-os em Smart Lists, acionadores e campanhas.
 title: Sincronização do SFDC - Sincronização de objeto personalizado
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 1%
+source-wordcount: '312'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Objetos personalizados criados em sua instância [!DNL Salesforce] também podem
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!PREREQUISITES]
 >

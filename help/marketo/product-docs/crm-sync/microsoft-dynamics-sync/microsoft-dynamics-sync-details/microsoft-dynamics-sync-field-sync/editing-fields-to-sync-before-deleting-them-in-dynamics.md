@@ -1,11 +1,11 @@
 ---
-description: Editar campos para sincronização antes de excluí-los no Dynamics - Documentação do Marketo - Documentação do produto
+description: Saiba como editar campos para sincronização no Marketo antes de excluí-los no Dynamics. Desative a sincronização, atualize o esquema e remova o campo da seleção de sincronização.
 title: Editar campos para sincronização antes de excluí-los no Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 4%
 
 ---

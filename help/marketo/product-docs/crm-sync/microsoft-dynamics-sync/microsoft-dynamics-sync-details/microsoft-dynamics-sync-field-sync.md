@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics Sync - Sincronização de campo - Documentação do Marketo - Documentação do produto
+description: Saiba como a sincronização de campo funciona entre o Microsoft Dynamics e o Marketo. Entenda a sincronização bidirecional para clientes potenciais e contatos e a sincronização unidirecional para outras entidades.
 title: Microsoft Dynamics Sync - Sincronização de campo
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---

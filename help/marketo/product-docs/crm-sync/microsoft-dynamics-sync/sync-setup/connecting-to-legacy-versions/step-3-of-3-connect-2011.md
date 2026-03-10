@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571809
-description: Etapa 3 de 3 -Conectar [!DNL Microsoft Dynamics] com o Marketo (2011 no local) - Documentação do Marketo - Documentação do produto
+description: Saiba como conectar o Microsoft Dynamics 2011 no local com o Marketo na etapa final. Insira as informações do usuário de sincronização no Marketo Admin e habilite a sincronização.
 title: Etapa 3 de 3 -Conectar [!DNL Microsoft Dynamics] com o Marketo (2011 no Local)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '391'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ Tudo bem! Instalamos a solução e configuramos o usuário de sincronização. E
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 ## Inserir Informações de Usuário de Sincronização [!DNL Dynamics] {#enter-dynamics-sync-user-information}
 

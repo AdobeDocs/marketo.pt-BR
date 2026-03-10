@@ -1,11 +1,11 @@
 ---
-description: Etapa 2 de 4 - Configurar a solução da Marketo com a conexão de controle de senha de proprietário de recurso - Documentação da Marketo - Documentação do produto
+description: Saiba como configurar a solução Marketo com conexão ROPC. Crie o usuário de sincronização no Dynamics e atribua a função Usuário de sincronização do Marketo para autenticação.
 title: Etapa 2 de 4 - Configurar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 >[!IMPORTANT]
 >
->A configuração de idioma do Usuário de Sincronização [&#x200B; deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>A configuração de idioma do Usuário de Sincronização [ deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Volte para a guia [!UICONTROL Usuários Habilitados] e atualize a lista de usuários.
 

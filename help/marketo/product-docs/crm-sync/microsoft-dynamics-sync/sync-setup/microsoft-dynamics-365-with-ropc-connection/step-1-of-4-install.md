@@ -1,12 +1,12 @@
 ---
-description: Etapa 1 de 4 - Instalar a solução da Marketo com a conexão de controle de senha de proprietário de recurso - Documentação da Marketo - Documentação do produto
+description: Saiba como instalar a solução Marketo no Dynamics 365 com conexão ROPC. Importe a solução do Office 365 e conclua as etapas de instalação.
 title: Etapa 1 de 4 - Instalar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 1%
+source-wordcount: '309'
+ht-degree: 2%
 
 ---
 
@@ -43,7 +43,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 365 e o Marketo, é necessário
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Clique em **[!UICONTROL Escolher arquivo]**. Selecione a solução de gerenciamento de clientes potenciais da Marketo que você [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Escolher arquivo]**. Selecione a solução de gerenciamento de clientes potenciais da Marketo que você [baixou](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 

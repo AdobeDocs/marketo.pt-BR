@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719300
-description: Adicionar/remover campo de objeto personalizado como lista inteligente/restrições do acionador - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar ou remover campos de objeto personalizados do Salesforce como filtros de Smart List e restrições de acionador. Use a Sincronização de objetos do Admin e do Salesforce para editar campos visíveis.
 title: Adicionar/remover campo de objeto personalizado como restrições de lista inteligente/acionador
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 10%
+source-wordcount: '205'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ O Marketo Engage fornece controle detalhado sobre a sincronização de objetos p
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Clique em **[!UICONTROL Administrador].**
 

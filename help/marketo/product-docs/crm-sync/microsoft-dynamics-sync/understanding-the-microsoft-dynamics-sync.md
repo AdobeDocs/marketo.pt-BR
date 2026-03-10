@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10098625
-description: Entendendo a  [!DNL Microsoft Dynamics] Sincronização - Documentação do Marketo - Documentação do produto
+description: Saiba como a sincronização do Microsoft Dynamics mantém os dados do Marketo e do Dynamics em sincronia. Veja o que é sincronizado e como a sincronização bidirecional funciona para clientes potenciais e contatos.
 title: Noções básicas sobre a sincronização do Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 4%
+source-wordcount: '229'
+ht-degree: 20%
 
 ---
 
-# Entendendo a sincronização [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
+# Noções básicas da sincronização com o [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
 
-Marketo e [!DNL Microsoft Dynamics] vão juntos. Mantemos seus dados de vendas e marketing sincronizados.
+Marketo e [!DNL Microsoft Dynamics] vão juntos. Eles mantêm seus dados de vendas e marketing sincronizados.
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ O Marketo sincroniza dados continuamente com o [!DNL Microsoft Dynamics] o dia t
 
 A sincronização entre o Marketo e o [!DNL Dynamics] é bidirecional para clientes potenciais e contatos. Se você fizer alterações no Marketo ou no [!DNL Dynamics], suas atualizações serão refletidas nos dois sistemas. Todos os outros campos, como contas e oportunidades, são sincronizados apenas unidirecionalmente, de [!DNL Dynamics] para Marketo.
 
-## O que está sincronizado entre o Marketo e o [!DNL Microsoft Dynamics]? {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## O que é sincronizado entre o Marketo e o [!DNL Microsoft Dynamics]? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [Leads](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [Contatos](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)

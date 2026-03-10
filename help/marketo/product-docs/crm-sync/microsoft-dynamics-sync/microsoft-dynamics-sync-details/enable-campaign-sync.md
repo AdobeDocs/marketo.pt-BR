@@ -1,12 +1,12 @@
 ---
-description: Habilitar a Sincronização do Campaign - Documentação do Marketo - Documentação do produto
+description: Saiba como habilitar a sincronização de campanha entre o Microsoft Dynamics e o Marketo. Ative a opção em Administração para que os programas do Marketo sejam sincronizados com as campanhas do Dynamics.
 title: Habilitar sincronização de campanhas
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 7%
 
 ---
 
@@ -20,7 +20,7 @@ Esta opção permite que o Marketo adicione e remova membros do [!DNL MS Dynamic
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Em sua **[!UICONTROL My Marketo]**, clique em **[!UICONTROL Admin]**.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719287
-description: Editar mapeamentos de campo iniciais - Documentação do Marketo - Documentação do produto
+description: Saiba como editar os mapeamentos de campo iniciais antes da primeira sincronização do Salesforce. Mapear campos personalizados não mapeados ou quebrar mapeamentos automáticos de campo de lead-contact no Marketo.
 title: Editar mapeamentos de campo iniciais
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '294'
 ht-degree: 3%
 
 ---

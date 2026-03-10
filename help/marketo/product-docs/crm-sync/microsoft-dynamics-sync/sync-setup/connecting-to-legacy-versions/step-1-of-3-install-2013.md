@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571813
-description: Etapa 1 de 3 - Instalar a solução da Marketo no Dynamics (2013 no local) - Documentação da Marketo - Documentação do produto
+description: Saiba como instalar a solução Marketo no Dynamics 2013 no local. Importe a solução e conclua as etapas de instalação no Dynamics.
 title: Etapa 1 de 3 - Instalar a solução da Marketo no Dynamics (2013 no local)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] no local e o Marketo, é necess
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Clique em **[!UICONTROL Procurar]** e selecione a [solução baixada](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Procurar]** e selecione a [solução baixada](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 

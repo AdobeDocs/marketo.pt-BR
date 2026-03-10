@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849029
-description: Atualizar a solução da Marketo para  [!DNL Microsoft Dynamics]  - Documentação da Marketo - Documentação do produto
+description: Saiba como atualizar a solução da Marketo para o Microsoft Dynamics. Baixe a solução mais recente do Administrador e importe-a sobre a versão existente no Dynamics.
 title: Atualizar a Solução Marketo para  [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Quando uma nova solução do [!DNL Microsoft Dynamics] for lançada, você poder
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!CAUTION]
 >

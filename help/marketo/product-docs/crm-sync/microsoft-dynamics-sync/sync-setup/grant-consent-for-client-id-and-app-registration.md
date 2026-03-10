@@ -1,12 +1,12 @@
 ---
-description: Conceder consentimento para registro da ID do cliente e do aplicativo - Documentação do Marketo - Documentação do produto
+description: Saiba como conceder consentimento para a ID do cliente e o registro do aplicativo usados para a sincronização do Dynamics. Crie o URI de autorização e conceda permissões de usuário delegado para o usuário de sincronização.
 title: Conceder consentimento para a ID do cliente e o registro do aplicativo
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 6%
+source-wordcount: '280'
+ht-degree: 5%
 
 ---
 
@@ -63,7 +63,7 @@ Siga as etapas abaixo para saber como conceder o consentimento/as permissões ne
 
    >[!NOTE]
    >
-   >Se você já estiver conectado ao Azure como um Administrador em outra guia, precisará usar um navegador diferente ou modo Incógnito para fazer logon como o Usuário da sincronização.
+   >Se você já estiver conectado ao Azure como um Administrador em outra guia, precisará usar um navegador diferente ou modo Incógnito para fazer logon como o Usuário de sincronização.
 
 1. Clique em **[!UICONTROL Aceitar]**.
 

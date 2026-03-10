@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11372975
-description: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Professional) - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar campos do Marketo à Salesforce Professional Edition. Criar Pontuação, Programa de aquisição e Data de aquisição nos objetos de cliente potencial e de contato.
 title: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 8%
+source-wordcount: '764'
+ht-degree: 9%
 
 ---
 
@@ -47,7 +47,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,7 +106,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 >
 >Os campos de texto e número exigem comprimento, mas os campos de Data/Hora não. Uma descrição é opcional.
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 

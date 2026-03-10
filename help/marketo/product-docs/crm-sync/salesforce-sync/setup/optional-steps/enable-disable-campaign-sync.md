@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719289
-description: Ativar/desativar a sincronização do Campaign - Documentação do Marketo - Documentação do produto
+description: Saiba como ativar ou desativar a sincronização de campanha do Salesforce no Marketo Engage.
 title: Habilitar/desabilitar sincronização de campanha
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '95'
 ht-degree: 8%
 
 ---

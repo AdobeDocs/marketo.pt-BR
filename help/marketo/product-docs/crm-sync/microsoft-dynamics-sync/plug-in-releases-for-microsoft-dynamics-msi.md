@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099102
-description: Versões de plug-in do  [!DNL Microsoft Dynamics] MSI - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre lançamentos de plug-ins do Microsoft Dynamics MSI. Encontre o histórico de versões e baixe a solução Marketo mais recente para a sua versão do Dynamics.
 title: Versões de plug-in para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 0%
+source-wordcount: '455'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Se você estiver usando a solução de sincronização nativa do CRM da Marketo 
 >
 >Exemplo: se o seu CRM do [!DNL Dynamics] tiver a versão 2.0.0.20 e a última versão for 2.0.0.21, você importaria _sobre_ a versão 2.0.0.20.
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
@@ -39,7 +39,7 @@ Se você estiver usando a solução de sincronização nativa do CRM da Marketo 
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 

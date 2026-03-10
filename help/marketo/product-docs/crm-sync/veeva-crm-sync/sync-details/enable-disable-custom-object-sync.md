@@ -1,11 +1,11 @@
 ---
-description: Ativar/desativar a sincronização de objetos personalizados - Documentação do Marketo - Documentação do produto
+description: Saiba como habilitar ou desabilitar a sincronização de objetos personalizados entre o Veeva CRM e o Marketo Engage. Use a Sincronização de objetos do Admin e do Veeva para selecionar e sincronizar objetos personalizados.
 title: Habilitar/desabilitar a sincronização de objetos personalizados
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '231'
 ht-degree: 4%
 
 ---

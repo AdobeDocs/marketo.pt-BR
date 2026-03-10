@@ -1,11 +1,11 @@
 ---
-description: Status da sincronização do Salesforce - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o painel Status de sincronização do Salesforce e como visualizar estatísticas de sincronização. Filtre por data, tipo de operação ou tipo de objeto e exporte erros de sincronização como CSV.
 title: Status da sincronização do Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '574'
 ht-degree: 13%
 
 ---
@@ -97,7 +97,7 @@ Por padrão, as estatísticas serão classificadas pela última vez em que foram
    <td colspan="1"></td>
   </tr>
   <tr>
-   <td colspan="1">Atualização dos pacotes</td>
+   <td colspan="1">Atualizado</td>
    <td colspan="1">Contagem de registros atualizados</td>
    <td colspan="1"></td>
   </tr>

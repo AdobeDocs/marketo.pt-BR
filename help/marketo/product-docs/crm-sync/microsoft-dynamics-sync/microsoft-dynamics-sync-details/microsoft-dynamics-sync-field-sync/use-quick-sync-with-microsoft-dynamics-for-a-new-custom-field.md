@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098379
-description: Use a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado - Documentação do Marketo - Documentação do produto
+description: Saiba como usar a Sincronização rápida com o Microsoft Dynamics ao adicionar um novo campo personalizado. Atualizar dados de campo do Dynamics para o Marketo depois de adicionar o campo.
 title: Usar a sincronização rápida com o Microsoft Dynamics para um novo campo personalizado
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '363'
 ht-degree: 4%
 
 ---

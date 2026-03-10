@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504744
-description: Instale o Marketo para Microsoft Dynamics 2015 no local Etapa 3 de 3 - Documentação do Marketo - Documentação do produto
+description: Saiba como conectar o Marketo ao Dynamics 2015 no local na etapa final. Insira as credenciais do usuário de sincronização no Marketo Admin e habilite a sincronização.
 title: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 3 de 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 3%
+source-wordcount: '410'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 ## Inserir informações do Usuário de Sincronização [!DNL Dynamics] {#enter-dynamics-sync-user-information}
 

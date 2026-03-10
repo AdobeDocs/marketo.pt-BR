@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092969
-description: Filtro de sincronização Microsoft Dynamics - Mesclar - Documentação do Marketo - Documentação do produto
+description: Entenda como o filtro de sincronização do Dynamics funciona ao mesclar leads. Saiba como o valor do filtro de sincronização de registro vencedor determina se o registro é sincronizado com o Marketo.
 title: Filtro de sincronização Microsoft Dynamics - Mesclar
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

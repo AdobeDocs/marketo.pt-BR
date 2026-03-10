@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719291
-description: Definir sobrenome da pessoa padrão e nome da empresa - Documentação do Marketo - Documentação do produto
+description: Saiba como definir o sobrenome da pessoa padrão e o nome da empresa para a sincronização do Salesforce. Use as Opções de Administração e Sincronização para que os registros parciais sejam sincronizados com os valores padrão.
 title: Definir sobrenome da pessoa e nome da empresa padrão
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 11%
+source-wordcount: '153'
+ht-degree: 10%
 
 ---
 
