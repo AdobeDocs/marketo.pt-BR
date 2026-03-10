@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355768
-description: Importação do Assets com o Adobe Experience Manager - Documentação do Marketo - Documentação do produto
+description: Saiba como importar ativos do Adobe Experience Manager para o Marketo Design Studio. Use o Seletor de ativos para acessar, selecionar e trazer imagens do AEM para suas campanhas do Marketo.
 title: Importação de ativos com o Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 4%
 
 ---
 

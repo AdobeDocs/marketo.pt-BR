@@ -1,12 +1,12 @@
 ---
-description: Sincronizar um público-alvo do Adobe Experience Cloud - Documentação do Marketo - Documentação do produto
+description: Saiba como sincronizar um público-alvo do Adobe Experience Cloud com o Marketo Engage. Transfira públicos-alvo da Biblioteca de público-alvo para o banco de dados do Marketo para uso em campanhas e programas.
 title: Sincronizar um público-alvo da Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 6%
+source-wordcount: '291'
+ht-degree: 5%
 
 ---
 

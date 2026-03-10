@@ -1,12 +1,12 @@
 ---
-description: Visão geral da interface da Adobe Experience Cloud - Documentos do Marketo - Documentação do produto
+description: Saiba mais sobre a interface do Adobe Experience Cloud e o shell unificado que fornecem o Marketo Engage em uma única instância. Use-o para fazer logon, alternar entre produtos da Adobe e acessar a ajuda e as notificações.
 title: Visão geral da interface da Adobe Experience Cloud
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '273'
-ht-degree: 100%
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+workflow-type: tm+mt
+source-wordcount: '296'
+ht-degree: 89%
 
 ---
 
