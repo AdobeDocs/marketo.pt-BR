@@ -6,9 +6,9 @@ description: Saiba como criar e usar fragmentos de conteúdo visual como compone
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
+source-git-commit: 8e4e5ddd4789b9ddfb5ced7d20b58f345d257caf
 workflow-type: tm+mt
-source-wordcount: '1951'
+source-wordcount: '1972'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
     <p>Ações disponíveis:
     <li>Editar todos os detalhes</li>
     <li>Editar no designer visual</li>
-    <li>Publicação</li>
+    <li>Publicar</li>
     <li>Duplicar</li>
     <li>Excluir</li>
   </td>
@@ -312,6 +312,10 @@ Quando um fragmento é adicionado a um email ou modelo de email, seu conteúdo n
 * **[!UICONTROL Duplicar]** - Duplica o fragmento no mesmo email ou modelo de email no editor. O fragmento duplicado é adicionado logo abaixo do original.
 * **[!UICONTROL Abrir fragmento]** - abre uma nova guia do navegador com a página e os detalhes do editor de fragmento.
 * **[!UICONTROL Interromper herança]** - Interrompe a herança do fragmento (e suas alterações) da origem. Use esta ação para disponibilizar o conteúdo do fragmento como conteúdo independente e editável no modelo de email ou de email. Esta ação também remove o email ou o modelo de email da referência _Usado por_ do fragmento original.
+
+>[!NOTE]
+>
+>Se a _Sincronização com o HTML_ estiver desabilitada no email, as alterações feitas (incluindo a quebra da herança) não serão refletidas no conteúdo do texto.
 
 Quando você seleciona o fragmento na página do editor, essas ações estão disponíveis na barra de ferramentas de contexto e no painel de propriedades à direita.
 
