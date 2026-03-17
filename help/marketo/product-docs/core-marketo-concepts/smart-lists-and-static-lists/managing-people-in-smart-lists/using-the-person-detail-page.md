@@ -60,7 +60,7 @@ As informações de pessoa são categorizadas nas seguintes guias:
 
 >[!NOTE]
 >
->Você também pode ver informações de oportunidade [inseridas via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias que não estão sincronizadas com um CRM.
+>Você também pode ver informações de oportunidade [inseridas via API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias que não estão sincronizadas com um CRM.
 
 ## Edição de um campo {#editing-a-field}
 

@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Este é um exemplo de programas de aprendizado simples, utilizando o programa de envolvimento do Marketo Engage, com conteúdo cadenciado para gotejar ao longo do tempo para seu banco de dados e, ao mesmo tempo, utilizando fluxos para orientar registros por meio de jornadas com base no comportamento.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

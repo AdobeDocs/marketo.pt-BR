@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Este é um exemplo de programa ideal para solicitação de contato, solicitação de orçamento, solicitação de demonstração ou formulários de solicitação de avaliação utilizando um Programa padrão da Marketo Engage. Pode ser usado com Páginas de aterrissagem do Marketo ou como um formulário incorporado em páginas de aterrissagem que não sejam da Marketo. Um email de alerta é enviado a uma pessoa especificada no envio do formulário.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

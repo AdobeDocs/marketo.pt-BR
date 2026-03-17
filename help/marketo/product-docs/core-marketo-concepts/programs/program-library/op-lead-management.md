@@ -18,7 +18,7 @@ Este é um exemplo de fluxos de trabalho de práticas recomendadas de gerenciame
 >
 >No Marketo Engage, os registros no banco de dados são chamados de pessoas/pessoa. O gerenciamento de clientes potenciais neste exemplo refere-se aos registros em seu CRM.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html).
 
 ## Resumo do canal {#channel-summary}
 
