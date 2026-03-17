@@ -24,7 +24,7 @@ Siga as etapas abaixo para configurar o Dynamic Chat.
 
    ![](assets/initial-setup-1.png)
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/initial-setup-2.png)
 
