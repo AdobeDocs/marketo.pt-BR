@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359540
-description: Incluir um arquivo ICS de evento de calendário em uma página de aterrissagem - Documentação do Marketo - Documentação do produto
+description: Saiba como incluir um arquivo ICS de evento de calendário em uma página de aterrissagem do Marketo. Permitir que os visitantes adicionem o evento ao calendário.
 title: Incluir um arquivo ICS de evento de calendário em uma página de destino
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 18%
+source-wordcount: '126'
+ht-degree: 17%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359703
-description: Adicionar uma imagem a uma página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar uma imagem a uma página de aterrissagem de forma livre no Marketo. Inserir e posicionar imagens do Design Studio.
 title: Adicionar uma imagem a uma página de destino de forma livre
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 27%
+source-wordcount: '82'
+ht-degree: 24%
 
 ---
 

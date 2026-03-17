@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983101
-description: Mapear campos personalizados para o Marketo - Documentação do Marketo - Documentação do produto
+description: Saiba como mapear campos personalizados de anúncios de lead do Facebook para o Marketo. Verifique se os dados dos anúncios principais estão mapeados para os campos de pessoa corretos no Marketo.
 title: Mapear campos personalizados para o Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 4%
+source-wordcount: '259'
+ht-degree: 7%
 
 ---
 
@@ -21,21 +21,21 @@ Veja como configurar isso na área LaunchPoint do Administrador.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área de Administração e clique em **[!UICONTROL LaunchPoint]**. Em Serviços Instalados, localize e edite os **[!UICONTROL Anúncios de Cliente Potencial do Facebook]**.
 
    ![](assets/image2017-10-24-9-3a32-3a16.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Deixe a conta autorizada como está. **não** faça alterações. Clique em **[!UICONTROL Avançar]**.
+1. Deixe a conta autorizada como está. **não** faça alterações. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Como antes, deixe as páginas selecionadas como estão. **não** faça alterações. Clique em **[!UICONTROL Avançar]**.
+1. Como antes, deixe as páginas selecionadas como estão. **não** faça alterações. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 

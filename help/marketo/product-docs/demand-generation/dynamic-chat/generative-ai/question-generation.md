@@ -1,11 +1,11 @@
 ---
-description: Geração de perguntas - Documentação do Marketo - Documentação do produto
+description: Saiba como gerar perguntas para o Dynamic Chat usando URLs de origem e tópicos. Crie respostas assistidas por IA e rastreie o status da tarefa em Respostas assistidas.
 title: Geração de perguntas
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '315'
 ht-degree: 3%
 
 ---
@@ -72,7 +72,7 @@ Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram ger
 
    ![](assets/question-generation-9.png)
 
-## Endereços IP para Incluir na lista de permissões {#ip-addresses-to-allowlist}
+## Endereços IP a serem Incluídos na lista de permissões {#ip-addresses-to-allowlist}
 
 Incluir na lista de permissões Para habilitar a extração de conteúdo dos URLs da Web durante a geração de perguntas e respostas, localize sua região abaixo e verifique se o endereço IP associado a ele é gravado pela equipe da Web.
 

@@ -1,11 +1,11 @@
 ---
-description: Personalização de webinários interativos - Documentação do Marketo - Documentação do produto
+description: Saiba como personalizar webinários interativos no Marketo. Configure a identidade visual, o layout e as opções para corresponder à sua organização e aos eventos.
 title: Personalização de webinários interativos
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '795'
 ht-degree: 0%
 
 ---
@@ -141,4 +141,4 @@ Selecione **Aplicar** para salvar as alterações ou **Redefinir para o padrão*
 
 * Os hosts podem escolher temas durante a criação da sala ou atualizá-los posteriormente na página de informações da sala (**Barra superior da sala** > **Mais menu** > **Exibir informações da sala**).
 
-Saiba mais sobre [Temas](https://helpx.adobe.com/br/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Saiba mais sobre [Temas](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

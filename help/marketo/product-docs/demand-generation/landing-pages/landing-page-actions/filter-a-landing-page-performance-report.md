@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359742
-description: Filtrar um relatório de desempenho da página de aterrissagem - Documentação do Marketo - Documentação do produto
+description: Saiba como filtrar um relatório de desempenho de página de aterrissagem no Marketo. Restrinja os resultados por data, página ou outro critério.
 title: Filtrar um relatório de desempenho de página de destino
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 8%
+source-wordcount: '156'
+ht-degree: 7%
 
 ---
 

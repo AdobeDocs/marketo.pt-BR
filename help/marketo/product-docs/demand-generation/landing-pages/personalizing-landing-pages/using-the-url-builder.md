@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359801
-description: Uso do Construtor de URLs - Documentação do Marketo - Documentação do produto
+description: Saiba como usar o Construtor de URLs para URLs personalizados do Marketo. Crie links personalizados rastreáveis para emails ou campanhas.
 title: Uso do criador de URL
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 7%
 
 ---
 

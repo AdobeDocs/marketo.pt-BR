@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438206
-description: Modelo 18A - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o modelo de página de aterrissagem guiada do Modelo 18A. Baixe e use-o para suas páginas de aterrissagem do Marketo.
 title: Modelo 18A
 exl-id: fe3008b5-cef3-4b9e-a0a1-7e596d855a8f
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
 # Modelo 18A {#template-18a}
 
-Clique com o botão direito para [baixar o Modelo 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=pt-BR)
+Clique com o botão direito para [baixar o Modelo 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=pt-BR)
+[Modelo 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)

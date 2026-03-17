@@ -1,12 +1,12 @@
 ---
-description: Fluxos de trabalho do evento - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os fluxos de trabalho de eventos para webinários interativos no Marketo. Entenda como projetar e executar campanhas de webinário, desde a criação até a entrega.
 title: Fluxos de trabalho de evento
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 9c6a441bc2ae10953d68f84db798da057c56f2d7
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '456'
-ht-degree: 0%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 

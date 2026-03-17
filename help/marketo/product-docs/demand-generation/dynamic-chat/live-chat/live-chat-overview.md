@@ -1,11 +1,11 @@
 ---
-description: Visão geral do Live Chat - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o bate-papo ao vivo para conversas em tempo real entre visitantes e agentes de vendas. Adicione agentes de chat ao vivo, use o cartão de chat ao vivo e defina opções de roteamento.
 title: Visão geral do chat ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '860'
 ht-degree: 1%
 
 ---

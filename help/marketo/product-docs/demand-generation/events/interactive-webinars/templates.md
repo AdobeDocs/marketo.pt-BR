@@ -1,12 +1,12 @@
 ---
-description: Saiba como criar e implementar modelos em Webinars interativos.
+description: Saiba como criar e implementar modelos em Webinars interativos. Use modelos para padronizar o design do webinário e acelerar a criação.
 title: Modelos para webinários interativos
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Crie modelos fáceis de usar em webinários interativos para produzir conteúdo 
 
 ## Conceder permissões {#grant-permissions}
 
-Antes que qualquer usuário em sua organização tenha a capacidade de acessar modelos em seus Webinars interativos, um administrador de Marketo Engage deve primeiro adicionar acesso às funções desejadas.
+Antes que qualquer usuário em sua organização possa acessar modelos em seus Webinars interativos, um administrador do Marketo Engage deve primeiro adicionar acesso às funções desejadas.
 
 1. No Marketo Engage, clique em **[!UICONTROL Admin]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359641
-description: Incorpore um formulário em seu site - Documentação do Marketo - Documentação do produto
+description: Saiba como incorporar um formulário do Marketo ao seu site. Obtenha o código incorporado e adicione o formulário a qualquer página da Web.
 title: Incorporar um formulário ao seu site
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 6%
+source-wordcount: '222'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 O Marketo permite incorporar nossos formulários em seu próprio site. Veja como obter acesso ao código incorporado.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -47,6 +47,6 @@ Agora basta fornecer o código de inserção ao desenvolvedor da Web e adicioná
 
 >[!NOTE]
 >
->Se o desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a ele a [Página de Desenvolvedores do Forms 2.0](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Se o desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a ele a [Página de Desenvolvedores do Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 Excelente trabalho! Deseja que o [código de inserção inclua o código lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Isso é fácil também!

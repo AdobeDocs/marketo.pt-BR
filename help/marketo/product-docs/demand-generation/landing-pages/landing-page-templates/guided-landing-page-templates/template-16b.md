@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437837
-description: Modelo 16B - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o modelo de página de aterrissagem guiada do Modelo 16B. Baixe e use-o para suas páginas de aterrissagem do Marketo.
 title: Modelo 16B
 exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 8%
+source-wordcount: '57'
+ht-degree: 7%
 
 ---
 
 # Modelo 16B {#template-16b}
 
-Clique com o botão direito para [baixar o Modelo 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=pt-BR)
+Clique com o botão direito para [baixar o Modelo 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=pt-BR)
+[Modelo 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

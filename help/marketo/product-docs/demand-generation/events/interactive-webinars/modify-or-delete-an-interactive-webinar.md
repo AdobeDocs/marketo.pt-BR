@@ -1,11 +1,11 @@
 ---
-description: Modificar ou excluir um webinário interativo - Documentação do Marketo - Documentação do produto
+description: Saiba como modificar ou excluir um Webinário interativo no Marketo. Atualize as configurações ou remova webinars quando não for mais necessário.
 title: Modificar ou excluir um webinário interativo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '324'
 ht-degree: 4%
 
 ---
@@ -68,7 +68,7 @@ Saiba como fazer alterações no webinário interativo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. Clique em **Avançar**.
+1. Clique em **Next**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 

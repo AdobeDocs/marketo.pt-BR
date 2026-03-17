@@ -1,12 +1,12 @@
 ---
-description: Configuração do reCAPTCHA v3 - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o reCAPTCHA v3 para formulários do Marketo. Configure o reCAPTCHA invisível para combater spam sem bloquear os usuários.
 title: Configuração do reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '354'
+ht-degree: 4%
 
 ---
 
@@ -52,7 +52,7 @@ As etapas a seguir são executadas fora do Marketo.
 
    >[!NOTE]
    >
-   >Incluir na lista de permissões Por exemplo, se o [!UICONTROL Data Center] da sua conta for &quot;sjst&quot;, o domínio em que você deseja pesquisar será `app-sjst.marketo.com`. Se a sua [!UICONTROL Munchkin incluir na lista de permissões ID] for 123-ABC-789, o domínio em que você deseja pesquisar será `123-ABC-789.mktoweb.com`.
+   >Por exemplo, se o [!UICONTROL Data Center] da sua conta for &quot;sjst&quot;, o domínio que você incluiria na lista de permissões seria `app-sjst.marketo.com`. Se a sua [!UICONTROL Munchkin ID] for 123-ABC-789, o domínio que você incluiria na lista de permissões seria `123-ABC-789.mktoweb.com`.
 
 1. Defina um proprietário e um endereço de email adicional que deve receber alertas sobre este serviço.
 

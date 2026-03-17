@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359646
-description: Configurar Criação Progressiva De Perfil Do Formulário - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como configurar a criação progressiva de perfis em um formulário do Marketo. Mostrar campos diferentes ao longo do tempo para coletar mais dados sem formulários longos.
 title: Configurar a criação de perfis progressiva do formulário
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 4%
+source-wordcount: '347'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ Formas curtas são boas! Quando alguém retorna a um formulário, é possível a
 >
 >Para que esse recurso funcione corretamente, verifique se o Preenchimento prévio de formulário está habilitado para campos visíveis e [desabilitado](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) para campos ocultos.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma-1.png)
 

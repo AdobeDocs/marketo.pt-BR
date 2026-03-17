@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: Redimensionar largura do rótulo/campo em um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como redimensionar o rótulo e a largura do campo em um formulário do Marketo. Ajuste a largura dos rótulos e das áreas de entrada.
 title: Redimensionar largura do rótulo/campo em um formulário
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 

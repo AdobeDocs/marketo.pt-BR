@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359612
-description: Alterar a posição do rótulo do formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar a posição do rótulo do formulário no Marketo. Coloque os rótulos acima, abaixo ou à esquerda ou direita dos campos.
 title: Alterar a posição do rótulo do formulário
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 Ao [criar um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), é possível alterar o posicionamento dos rótulos de campo de formulário com muita facilidade. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 

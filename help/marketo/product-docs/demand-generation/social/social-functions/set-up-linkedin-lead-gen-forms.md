@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12976798
-description: Configurar o LinkedIn Lead Gen Forms - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o LinkedIn Lead Gen Forms com o Marketo. Conecte o LinkedIn e sincronize os envios de anúncios de clientes potenciais ao Marketo por meio do LaunchPoint.
 title: Configurar formulário de geração de lead do LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '504'
 ht-degree: 3%
 
 ---

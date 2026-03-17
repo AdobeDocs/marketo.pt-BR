@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515207
-description: Noções básicas sobre forma livre versus páginas de aterrissagem guiadas - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre páginas de aterrissagem guiadas e de forma livre no Marketo. Escolha o tipo certo para suas necessidades de design e fluxo de trabalho.
 title: Diferenças entre páginas de destino de forma livre e guiadas
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '181'
 ht-degree: 6%
 
 ---

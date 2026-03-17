@@ -1,11 +1,11 @@
 ---
-description: Permissões — Documentação do Marketo — Documentação do produto
+description: Saiba mais sobre permissões do Dynamic Chat e perfis de produto no Admin Console. Edite perfis existentes ou crie perfis personalizados com permissões específicas.
 title: Permissões
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '728'
 ht-degree: 5%
 
 ---

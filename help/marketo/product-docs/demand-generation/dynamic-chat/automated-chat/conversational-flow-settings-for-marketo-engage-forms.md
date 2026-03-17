@@ -1,11 +1,11 @@
 ---
-description: Configurações De Fluxo De Conversa Do Marketo Engage Forms - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como tornar os formulários do Marketo conversacionais com os Fluxos de conversa do Dynamic Chat. Qualificar clientes potenciais para reservas de reunião e metas personalizadas usando dados de formulário ou lista.
 title: Configurações De Fluxo De Conversação Para O Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---

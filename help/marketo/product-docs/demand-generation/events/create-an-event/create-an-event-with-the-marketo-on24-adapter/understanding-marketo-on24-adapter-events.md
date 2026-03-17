@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096658
-description: Noções básicas sobre os eventos do adaptador Marketo On24 - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o adaptador Marketo ON24 e como ele conecta webinários ON24 ao Marketo. Entender os tipos de evento e o comportamento de sincronização.
 title: Noções básicas sobre os eventos do Marketo ON24 Adapter
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 

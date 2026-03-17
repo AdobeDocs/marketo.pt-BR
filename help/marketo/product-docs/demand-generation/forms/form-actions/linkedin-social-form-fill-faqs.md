@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10098238
-description: Perguntas frequentes sobre o preenchimento de formulários no LinkedIn Social - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda sobre o preenchimento de formulário social do LinkedIn com formulários do Marketo. Encontre respostas para perguntas comuns sobre a integração de preenchimento de formulário do LinkedIn.
 title: 'Perguntas frequentes sobre preenchimento de formulários com rede social: LinkedIn'
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '529'
 ht-degree: 1%
 
 ---

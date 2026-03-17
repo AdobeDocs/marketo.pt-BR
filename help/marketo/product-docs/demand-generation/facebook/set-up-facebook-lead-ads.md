@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379622
-description: Configurar anúncios do Facebook - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o Facebook Lead Ads com o Marketo. Conecte sua conta do Facebook e sincronize os envios de anúncios de clientes potenciais ao Marketo.
 title: Configurar anúncios de lead no Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '350'
 ht-degree: 4%
 
 ---

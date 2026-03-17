@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359705
-description: Adicionar um novo formulário a uma página de aterrissagem de forma livre - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um novo formulário a uma página de aterrissagem de forma livre no Marketo. Insira um formulário do Marketo para capturar leads na página.
 title: Adicionar um novo formulário a uma página de destino de forma livre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 13%
+source-wordcount: '155'
+ht-degree: 15%
 
 ---
 
@@ -20,7 +20,7 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
 >* [Criar um Formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Criar uma Página de Aterrissagem de Formato Livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

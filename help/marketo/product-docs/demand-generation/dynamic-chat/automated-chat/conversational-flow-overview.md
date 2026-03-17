@@ -1,11 +1,11 @@
 ---
-description: Visão geral do fluxo de conversa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre Fluxos de conversa e como eles se diferem de Caixas de diálogo. Crie fluxos acionados por ações do visitante e os use em formulários ou pop-ups.
 title: Visão geral do fluxo de conversa
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 3%
 
 ---
@@ -74,7 +74,7 @@ Na metade superior da guia Configurações, é possível atualizar o nome do Flu
 >
 >Selecionar um idioma diferente altera somente o idioma do texto do sistema. Você é responsável pela tradução do conteúdo.
 
-### Conversas no SDK {#conversations-sdk}
+### SDK de conversas {#conversations-sdk}
 
 Na metade inferior da guia Configurações, personalize o acionador Conversas, também conhecido como Conversas no SDK. Você pode decidir se a conversa será acionada no site quando um visitante clicar em qualquer link ou ao carregar a página.
 
@@ -82,7 +82,7 @@ Na metade inferior da guia Configurações, personalize o acionador Conversas, t
 
 >[!TIP]
 >
->Veja [Conversas SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=pt-BR){target="_blank"} em ação!
+>Veja [Conversas SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} em ação!
 
 >[!MORELIKETHIS]
 >

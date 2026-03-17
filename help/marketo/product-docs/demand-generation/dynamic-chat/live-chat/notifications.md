@@ -1,13 +1,13 @@
 ---
-description: Notificações - Documentação do Marketo - Documentação do produto
+description: Saiba como habilitar notificações do navegador para agentes de chat ao vivo do Dynamic Chat. Permitir que notificações nas configurações de Chrome, Firefox ou SO recebam alertas de chat.
 title: Notificações
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '181'
 ht-degree: 1%
 
 ---

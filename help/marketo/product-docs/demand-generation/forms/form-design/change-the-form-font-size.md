@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359610
-description: Altere o tamanho da fonte do formulário - Marketo Docs - Documentação do produto
+description: Saiba como alterar o tamanho da fonte do formulário no Marketo. Ajuste o tamanho do texto em rótulos e campos de formulário.
 title: Alterar o tamanho da fonte do formulário
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ O Marketo facilita a personalização da aparência dos formulários. Talvez voc
 >
 >Essa configuração afeta o rótulo do formulário, o texto de entrada e o texto do botão de envio.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

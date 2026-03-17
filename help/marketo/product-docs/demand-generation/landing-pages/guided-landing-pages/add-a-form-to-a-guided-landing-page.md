@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515107
-description: Adicionar um formulário a uma página de aterrissagem guiada - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um formulário a uma página de aterrissagem guiada no Marketo. Insira um elemento de formulário e escolha o formulário do Marketo.
 title: Adicionar um formulário a uma página de destino guiada
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '184'
 ht-degree: 13%
 
 ---

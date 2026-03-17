@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472283
-description: Personalizar visualização móvel para sua página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
+description: Saiba como personalizar a visualização móvel para sua página de aterrissagem de formato livre no Marketo. Ajuste o layout e o conteúdo para visitantes móveis.
 title: Personalizar visualização móvel de uma página de destino de forma livre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 4%
+source-wordcount: '376'
+ht-degree: 5%
 
 ---
 
@@ -107,7 +107,7 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
    >
    >A visualização não é interativa. Cada smartphone exibe as coisas de forma um pouco diferente. Recomendamos visualizar sua landing page em alguns dispositivos para ver exatamente como ela se comportará.
 
-Divirta-se!
+Divirta-se.
 
 >[!MORELIKETHIS]
 >

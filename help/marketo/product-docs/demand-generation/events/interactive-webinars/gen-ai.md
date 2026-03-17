@@ -1,11 +1,11 @@
 ---
-description: Recursos da GenAI - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os recursos da GenAI em Webinars interativos. Use a IA para aprimorar o conteúdo, os resumos ou o engajamento do webinário.
 title: Recursos da GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Depois de aceitar os termos e condições da GenAI da Adobe, o próximo passo é
 
 ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
-## Como acessar o {#how-to-access}
+## Como acessar {#how-to-access}
 
 1. Navegue até a página de visão geral do webinário em Webinários interativos do Marketo Engage.
 

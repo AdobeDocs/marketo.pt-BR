@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980661
-description: Adicionar a Correspondência de cliente do Google as a [!DNL LaunchPoint] Service - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar o Google Customer Match como um serviço LaunchPoint. Envie públicos da Marketo para a Google para direcionamento no AdWords, YouTube, Search e Gmail.
 title: Adicionar a Correspondência de Cliente do Google as a [!DNL LaunchPoint] Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 2%
+source-wordcount: '194'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Com essa integração, você pode enviar um público-alvo do Marketo para o Goog
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para **[!UICONTROL Admin]**.
 

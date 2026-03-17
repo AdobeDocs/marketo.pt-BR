@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949962
-description: Alternar dinamicamente a visibilidade de um campo de formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como mostrar ou ocultar dinamicamente um campo de formulário no Marketo. Exibir campos com base em outros valores ou regras de campo.
 title: Alternar dinamicamente a visibilidade de um campo de formulário
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 8%
+source-wordcount: '252'
+ht-degree: 9%
 
 ---
 
@@ -25,7 +25,7 @@ Um recurso muito interessante dos formulários do Marketo é que você pode ocul
 >
 >Neste exemplo, vamos ocultar o campo **Estado**, a menos que **País** esteja selecionado como &quot;Estados Unidos&quot;.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -69,6 +69,6 @@ E é isso! Agora, quando as pessoas preencherem este formulário e selecionarem 
 
 >[!IMPORTANT]
 >
->O comportamento do campo de formulário funcionará perfeitamente quando os valores de campo forem definidos/atualizados por meio de script personalizado usando [funções de API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} no Forms 2.0.
+>O comportamento do campo de formulário funcionará perfeitamente quando os valores de campo forem definidos/atualizados por meio de script personalizado usando [funções de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} no Forms 2.0.
 >
 >Campos condicionais podem não funcionar como esperado se os valores de campo forem modificados por scripts externos diferentes da API do JavaScript do Forms 2.0.

@@ -1,11 +1,11 @@
 ---
-description: Funções de retorno de chamada - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre as funções de retorno de chamada do widget do Dynamic Chat para enviar eventos de conversa para plataformas de terceiros. Use eventos para ações acionadas, engajadas e atingidas por metas.
 title: Funções de retorno de chamada
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '632'
 ht-degree: 8%
 
 ---

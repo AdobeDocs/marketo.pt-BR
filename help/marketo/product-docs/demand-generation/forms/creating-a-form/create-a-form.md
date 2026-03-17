@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359398
-description: Criar um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um formulário no Marketo. Adicione campos, configure o formulário e use-o nas páginas de aterrissagem ou no site para capturar clientes potenciais.
 title: Criar um formulário
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 5%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ Crie e use um formulário em uma landing page para gerar novos nomes ou capturar
 >
 >Saiba o que a Marketo Engage está fazendo para [manter seus formulários seguros](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/create-a-form-1.png)
 

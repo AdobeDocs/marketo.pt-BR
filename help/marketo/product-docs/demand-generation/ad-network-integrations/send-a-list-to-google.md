@@ -1,11 +1,11 @@
 ---
-description: Enviar uma lista para o Google - Documentação do Marketo - Documentação do produto
+description: Saiba como enviar uma lista estática do Marketo para o Google para Correspondência do cliente. Selecione a lista, escolha Google e conta de publicidade e, como opção, mantenha o público-alvo sincronizado.
 title: Enviar uma lista para o Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '226'
 ht-degree: 5%
 
 ---

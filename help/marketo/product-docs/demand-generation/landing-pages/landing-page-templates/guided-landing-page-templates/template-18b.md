@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438209
-description: Modelo 18B - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o modelo de página de aterrissagem guiada do Template 18B. Baixe e use-o para suas páginas de aterrissagem do Marketo.
 title: Modelo 18B
 exl-id: a0bb1104-a905-4285-895b-df515449db89
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
 # Modelo 18B {#template-18b}
 
-Clique com o botão direito para [baixar o Modelo 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=pt-BR)
+Clique com o botão direito para [baixar o Modelo 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
 
 ![](assets/image2015-8-17-18-3a6-3a30.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=pt-BR)
+[Modelo 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)

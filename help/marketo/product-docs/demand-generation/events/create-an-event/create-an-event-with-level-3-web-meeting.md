@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512328
-description: Criar um evento com [!DNL Level 3 Web Meeting] - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um evento com a Reunião na Web de Nível 3 no Marketo. Configure o registro da reunião da Web de integração e sincronização com o Marketo.
 title: Criar um Evento com [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949857
-description: Editar um canal de evento - Documentação do Marketo - Documentação do produto
+description: Saiba como editar um canal de evento no Marketo. Atualize o tipo de canal ou as configurações do seu programa de evento.
 title: Editar um canal de evento
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '196'
 ht-degree: 6%
 
 ---

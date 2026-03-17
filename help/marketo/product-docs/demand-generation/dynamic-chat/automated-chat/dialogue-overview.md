@@ -1,11 +1,11 @@
 ---
-description: Visão geral da caixa de diálogo - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre Diálogos como conversas de chat individuais no Dynamic Chat. Defina onde eles são exibidos, quem os vê e monitore a eficácia nos relatórios.
 title: Visão geral do diálogo
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---

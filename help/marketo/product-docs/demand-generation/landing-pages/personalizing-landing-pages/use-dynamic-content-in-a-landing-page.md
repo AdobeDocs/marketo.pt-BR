@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359532
-description: Usar conteúdo dinâmico em uma página de aterrissagem - Documentação do Marketo - Documentação do produto
+description: Saiba como usar conteúdo dinâmico em uma página de aterrissagem do Marketo. Mostrar conteúdo diferente para segmentos ou visitantes diferentes.
 title: Usar conteúdo dinâmico em uma página de destino
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 7%
+source-wordcount: '204'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ O uso de conteúdo dinâmico em páginas de aterrissagem envolve as pessoas com 
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

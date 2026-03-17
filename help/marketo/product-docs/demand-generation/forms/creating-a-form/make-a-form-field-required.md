@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359569
-description: Tornar um campo de formulário obrigatório - Documentação do Marketo - Documentação do produto
+description: Saiba como tornar um campo de formulário obrigatório no Marketo. Exigir que os visitantes preencham o campo antes de enviar o formulário.
 title: Tornar um campo de formulário obrigatório
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 13%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Ao [adicionar campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, talvez você queira tornar alguns deles obrigatórios para a pessoa que os preencherá. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/make-a-form-field-required-1.png)
 

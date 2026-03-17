@@ -1,11 +1,11 @@
 ---
-description: Criação De Webinars Interativos - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre como projetar webinários interativos no Marketo. Planeje o conteúdo, o layout e os elementos de envolvimento para obter experiências de webinário eficientes.
 title: Criação de webinários interativos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -76,9 +76,9 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 
 **Pod**: um componente dentro de um modelo que executa uma atividade específica durante o webinário. Por exemplo, configurar e entregar uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser preenchida por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade entregue por meio do pod de chat. Vários outros pods estão disponíveis, como Compartilhamento, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e Perguntas e respostas.
 
-      **Pod de pesquisa**: permite que os hosts projetem e entreguem formulários de comentários estruturados diretamente em uma sessão em tempo real. O Pod de pesquisa estende os recursos existentes do pod de pesquisa, permitindo que várias perguntas sejam apresentadas juntas, oferecendo uma maneira mais simplificada e coesa de coletar insights dos participantes. [Saiba mais](https://helpx.adobe.com/br/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Pod de pesquisa**: permite que os hosts projetem e entreguem formulários de comentários estruturados diretamente em uma sessão em tempo real. O Pod de pesquisa estende os recursos existentes do pod de pesquisa, permitindo que várias perguntas sejam apresentadas juntas, oferecendo uma maneira mais simplificada e coesa de coletar insights dos participantes. [Saiba mais](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Pod de recursos**: substitui os pods de arquivos e links da Web anteriores, fornecendo uma maneira única e unificada de compartilhar recursos durante as sessões ativas. [Saiba mais](https://helpx.adobe.com/br/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Pod de recursos**: substitui os pods de arquivos e links da Web anteriores, fornecendo uma maneira única e unificada de compartilhar recursos durante as sessões ativas. [Saiba mais](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

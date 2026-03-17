@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359566
-description: Editar um rótulo de campo em um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como editar um rótulo de campo em um formulário do Marketo. Altere o texto do rótulo que aparece ao lado de um campo de formulário.
 title: Editar um rótulo de campo em um formulário
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 13%
+source-wordcount: '130'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Você pode alterar o rótulo em um formulário para qualquer coisa - você pode até usar uma imagem ou apagá-la completamente! Veja como fazer isso.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/edit-a-field-label-in-a-form-1.png)
 

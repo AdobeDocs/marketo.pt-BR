@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359726
-description: Editar título e metadados da página de aterrissagem - Documentação do Marketo - Documentação do produto
+description: Saiba como editar o título e os metadados da página de aterrissagem no Marketo. Atualize o título da página e a meta descrição para SEO e exibição.
 title: Editar título e metadados da página de destino
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '142'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ O Marketo permite editar as [metatags da página de aterrissagem para fins de SE
    >
    >O designer da landing page será aberto em uma nova janela.
 
-1. Em **[!UICONTROL Ações da página de aterrissagem]**, clique em **[!UICONTROL Editar metatags de página]**.
+1. Em **[!UICONTROL Ações da página de aterrissagem]**, clique em **[!UICONTROL Editar marcas de Meta da página]**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 

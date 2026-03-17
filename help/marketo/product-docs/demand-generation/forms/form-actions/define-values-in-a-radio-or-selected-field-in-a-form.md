@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359614
-description: Definir valores em um rádio ou em um campo selecionado em um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como definir valores em um rádio ou campo suspenso em um formulário do Marketo. Defina as opções que os visitantes podem escolher.
 title: Definir valores em um botão de seleção ou campo selecionado de um formulário
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 13%
+source-wordcount: '201'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Depois de [definir um tipo de campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) como um botão de opção ou tipo de seleção, você desejará definir os valores que o usuário pode escolher. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 

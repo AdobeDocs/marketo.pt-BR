@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437840
-description: Modelo 16C - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o modelo de página de aterrissagem guiada do Template 16C. Baixe e use-o para suas páginas de aterrissagem do Marketo.
 title: Modelo 16C
 exl-id: 3e6369bd-4d36-4308-af41-65d67a01c172
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 8%
+source-wordcount: '60'
+ht-degree: 6%
 
 ---
 
 # Modelo 16C {#template-16c}
 
-Clique com o botão direito para [baixar o Modelo 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=pt-BR)
+Clique com o botão direito para [baixar o Modelo 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=pt-BR)
+[Modelo 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359644
-description: Mostrar formulário personalizado do HTML para pessoas conhecidas - Documentação do Marketo - Documentação do produto
+description: Saiba como mostrar o HTML personalizado para pessoas conhecidas em um formulário do Marketo. Exiba conteúdo ou mensagens diferentes para visitantes reconhecidos.
 title: Mostrar formulário HTML personalizado para pessoas conhecidas
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 7%
+source-wordcount: '264'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Se um visitante tiver fornecido seu nome completo e endereço de email no passado e você não quiser que ele receba o formulário inteiro, saiba como mostrar a ele algum HTML personalizado (por exemplo, apenas um botão de download).
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 

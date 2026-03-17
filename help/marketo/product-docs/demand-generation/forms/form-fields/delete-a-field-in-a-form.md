@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359606
-description: Excluir um campo em um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir um campo de um formulário do Marketo. Remova os campos que não são mais necessários do formulário.
 title: Excluir um campo em um formulário
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 20%
+source-wordcount: '87'
+ht-degree: 22%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 Se houver um campo que não é mais necessário no formulário, ele poderá ser facilmente excluído. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 

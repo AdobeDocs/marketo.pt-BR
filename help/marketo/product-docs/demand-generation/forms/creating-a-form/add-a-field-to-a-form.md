@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359543
-description: Adicionar um campo a um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um campo a um formulário no Marketo. Adicione campos de formulário e mapeie-os para atributos de pessoa ou empresa.
 title: Adicionar um campo a um formulário
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 10%
+source-wordcount: '150'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Depois de [criar seu formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} e [selecionar um tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, você pode adicionar outros campos para que as pessoas possam preenchê-los. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/add-a-field-to-a-form-1.png)
 

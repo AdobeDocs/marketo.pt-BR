@@ -1,11 +1,11 @@
 ---
-description: Introdução aos webinários interativos - Documentação do Marketo - Documentação do produto
+description: Introdução aos webinários interativos no Marketo. Conheça os pré-requisitos, os principais conceitos e as etapas para criar e entregar seu primeiro webinário interativo.
 title: Introdução a webinários interativos
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---

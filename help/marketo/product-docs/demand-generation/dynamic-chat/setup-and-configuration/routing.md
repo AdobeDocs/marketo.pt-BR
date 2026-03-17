@@ -1,11 +1,11 @@
 ---
-description: Roteamento - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como rotear reuniões e bate-papo ao vivo no Dynamic Chat. Configure regras de rodízio ou personalizadas para atribuir visitantes a agentes ou equipes específicas.
 title: Roteamento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '358'
 ht-degree: 2%
 
 ---
@@ -38,7 +38,7 @@ Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, 
 
    ![](assets/routing-3.png)
 
-1. Dê um nome à regra. Como opção, você pode adicionar uma descrição e definir seu nível de prioridade. Clique em **Avançar**.
+1. Dê um nome à regra. Como opção, você pode adicionar uma descrição e definir seu nível de prioridade. Clique em **Next**.
 
    ![](assets/routing-4.png)
 

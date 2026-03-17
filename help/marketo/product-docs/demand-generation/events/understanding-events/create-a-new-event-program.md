@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949844
-description: Criar um novo programa de evento - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um novo programa de evento no Marketo. Configure seu programa, escolha um canal e defina as configurações do evento.
 title: Criar um novo programa de evento
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Eventos permitem automatizar eventos online e offline. Registre o status dos seus funcionários à medida que eles avançam por diferentes estágios e obtenha medidas precisas do ROI para suas iniciativas de marketing.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 

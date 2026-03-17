@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783963
-description: Modelo 8B - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o modelo de página de aterrissagem guiada do Modelo 8B. Baixe e use-o para suas páginas de aterrissagem do Marketo.
 title: Modelo 8B
 exl-id: fd194747-2465-4685-a0de-bea7a294726d
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 6%
 
 ---
 
 # Modelo 8B {#template-8b}
 
-Clique com o botão direito do mouse para [baixar o Modelo 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html?lang=pt-BR)
+Clique com o botão direito do mouse para [baixar o Modelo 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html?lang=pt-BR)
+[Modelo 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)

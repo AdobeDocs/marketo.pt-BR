@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11376700
-description: Adicionar clientes em potencial a um público-alvo personalizado no Facebook - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar leads a um público-alvo personalizado no Facebook pelo Marketo. Enviar membros da lista para o Facebook para direcionamento de anúncios.
 title: Adicionar leads a um público-alvo personalizado no Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 6%
 
 ---
@@ -18,7 +18,7 @@ Já tem um público-alvo personalizado em [!DNL Facebook] e deseja adicionar mai
 >[!PREREQUISITES]
 >
 >* [Criar um público-alvo personalizado em [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Aceite os termos de públicos-alvo personalizados [!DNL Facebook] de &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta do [!DNL Facebook].
+>* [Aceite os termos de públicos-alvo personalizados [!DNL Facebook] de ](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta do [!DNL Facebook].
 >
 
 1. Localize e selecione a lista inteligente ou estática que contém os clientes em potencial que deseja adicionar.

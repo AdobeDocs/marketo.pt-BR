@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515069
-description: Noções básicas sobre elementos e variáveis em modelos guiados - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre elementos e variáveis em modelos de página de aterrissagem guiados pela Marketo. Defina o que é editável e como o conteúdo é colocado.
 title: Noções básicas sobre elementos e variáveis em modelos guiados
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 9%
 
 ---
 
@@ -49,7 +49,7 @@ Há três tipos de variáveis: variáveis de string, variáveis de cor e variáv
   </tr>
   <tr>
    <td>Cor</td>
-   <td><p>Código hexadecimal editável para cor</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemplo: cor do plano de fundo, cor da fonte, cor da borda</p></td>
+   <td><p>Código hexadecimal editável para cor</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Exemplo: cor do plano de fundo, cor da fonte, cor da borda</p></td>
   </tr>
   <tr>
    <td>Booleano</td>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359803
-description: Ativar URLs personalizados para uma página de aterrissagem - Documentação do Marketo - Documentação do produto
+description: Saiba como habilitar URLs personalizados para uma página de aterrissagem do Marketo. Permita que cada recipient tenha um URL rastreável exclusivo.
 title: Habilitar URLs personalizados para uma página de destino
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 17%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 

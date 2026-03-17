@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359823
-description: Publicar páginas de aterrissagem no Facebook - Documentação do Marketo - Documentação do produto
+description: Saiba como publicar páginas de aterrissagem do Marketo no Facebook. Compartilhe conteúdo da página de aterrissagem como publicações do Facebook para o seu público-alvo.
 title: Publicar páginas de destino no Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '297'
 ht-degree: 1%
 
 ---

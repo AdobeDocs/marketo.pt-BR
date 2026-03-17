@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095239
-description: Usar filtros e acionadores de anúncios principais em uma campanha inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como usar os filtros e acionadores do Facebook Lead Ads em uma campanha inteligente do Marketo. Automatizar ações quando os clientes potenciais enviarem do Facebook.
 title: Usar filtros e acionadores de anúncios de leads em uma campanha inteligente
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 23%
+source-wordcount: '93'
+ht-degree: 21%
 
 ---
 

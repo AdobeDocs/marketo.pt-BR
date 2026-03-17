@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949966
-description: Adicionar uma lista de opções do país ao seu formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar uma lista de opções de país ao seu formulário do Marketo. Forneça aos visitantes uma lista suspensa para selecionar seu país.
 title: Adicionar uma lista de opções de país ao formulário
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 9%
+source-wordcount: '197'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 Siga estas instruções para converter o campo País em um menu suspenso com uma lista de todos os países.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-9.png)
 

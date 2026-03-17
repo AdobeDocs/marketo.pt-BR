@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359810
-description: Ativar URLs personalizados para sua conta - Documentação do Marketo - Documentação do produto
+description: Saiba como habilitar URLs personalizados para sua conta do Marketo. Configure o recurso para que você possa usar URLs personalizados em páginas de aterrissagem.
 title: Habilitar URLs personalizados para sua conta
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 17%
 
 ---
 
@@ -17,7 +17,7 @@ URLs personalizados são excelentes para campanhas de email impresso.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a seção **[!UICONTROL Admin]** e clique em **[!UICONTROL Páginas de Aterrissagem]**.
 

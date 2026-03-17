@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359654
-description: Alterar o idioma de um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar o idioma de um formulário do Marketo. Exibir rótulos e mensagens de formulário em outro idioma para o público-alvo.
 title: Alterar o idioma de um formulário
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 12%
 
 ---
 
@@ -19,7 +19,7 @@ Saiba como alterar o idioma do formulário.
 >
 >Seguir as etapas deste artigo alterará o idioma dos campos padrão do Marketo, bem como a redação usada no rótulo do botão Enviar. Ele não traduzirá [campos personalizados](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
-1. Vá para **Atividades de marketing**.
+1. Acesse **Atividades de marketing**.
 
    ![](assets/change-the-language-of-a-form-1.png)
 

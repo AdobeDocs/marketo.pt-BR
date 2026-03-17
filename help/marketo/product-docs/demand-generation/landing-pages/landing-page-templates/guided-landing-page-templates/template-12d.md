@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437583
-description: Modelo 12D - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o modelo de página de aterrissagem guiada do Template 12D. Baixe e use-o para suas páginas de aterrissagem do Marketo.
 title: Modelo 12D
 exl-id: 5aae050c-2b88-4a4e-9d98-f23e9314adf7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 6%
 
 ---
 
 # Modelo 12D {#template-12d}
 
-Clique com o botão direito para [baixar o Modelo 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=pt-BR)
+Clique com o botão direito para [baixar o Modelo 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
 
 ![](assets/image2015-8-4-14-3a42-3a2.png)
 
@@ -29,4 +29,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=pt-BR)
+[Modelo 12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)

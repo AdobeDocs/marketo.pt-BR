@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359573
-description: Definir um formulário da página de agradecimento - Documentação do Marketo - Documentação do produto
+description: Saiba como definir uma página de agradecimento de formulário no Marketo. Envie os remetentes para uma página ou URL específica depois de enviarem o formulário.
 title: Definir um formulário de página de agradecimento
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '375'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ O que acontece quando alguém preenche um formulário? Para onde eles são encam
 
 ## Editar formulário {#edit-form}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 

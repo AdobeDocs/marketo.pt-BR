@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: Fazer upload de imagens e arquivos do Box - Documentação do Marketo - Documentação do produto
+description: Saiba como fazer upload de imagens e arquivos do Box para o Marketo. Conectar o Box e importar ativos para o Design Studio.
 title: Fazer upload de imagens e arquivos do Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 11%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 
@@ -35,7 +35,7 @@ Você pode fazer upload de arquivos do Box para usá-los em landing pages e emai
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Escolha onde deseja salvar os arquivos. Em seguida, selecione a pasta **[!DNL Box]** da qual deseja fazer upload. Clique em **[!UICONTROL Avançar]**.
+1. Escolha onde deseja salvar os arquivos. Em seguida, selecione a pasta **[!DNL Box]** da qual deseja fazer upload. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359880
-description: Organize suas imagens e arquivos usando pastas - Documentação do Marketo - Documentação do produto
+description: Saiba como organizar imagens e arquivos usando pastas no Marketo. Crie pastas no Design Studio para manter os ativos organizados.
 title: Organizar imagens e arquivos usando pastas
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '114'
+ht-degree: 17%
 
 ---
 
@@ -23,7 +23,7 @@ A criação de pastas permite mover imagens e arquivos, ver apenas o conjunto de
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. Nomeie sua pasta e clique em **[!UICONTROL Criar]**.
+1. Nomeie a pasta e clique em **[!UICONTROL Criar]**.
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 

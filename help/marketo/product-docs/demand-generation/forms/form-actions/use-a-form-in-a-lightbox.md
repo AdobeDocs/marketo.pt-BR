@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359677
-description: Usar um formulário em um Lightbox - Documentação do Marketo - Documentação do produto
+description: Saiba como usar um formulário em um lightbox no Marketo. Exiba seu formulário em uma sobreposição pop-up em uma página de aterrissagem ou site.
 title: Usar um formulário em um Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '117'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Uma Lightbox é uma técnica que abre um formulário na frente do conteúdo quando você deseja que ele seja exibido. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-8.png)
 

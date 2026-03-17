@@ -1,11 +1,11 @@
 ---
-description: Configurações de segurança - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar a segurança do Dynamic Chat com domínios bloqueados ou permitidos. Restrinja quais domínios de email os agentes veem e quais sites podem usar seu script de bate-papo.
 title: Configurações de segurança
 feature: Dynamic Chat
 exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
@@ -28,6 +28,6 @@ Incluir na lista de bloqueios Se houver visitantes com domínios de email com os
 
 A adição de domínios permitidos garante que terceiros não possam remover o javascript do seu site e adicioná-lo aos seus próprios.
 
-1. Selecione o controle deslizante **Habilitar Validação** para ativar o arquivo de inclui na lista de permissões. Insira os domínios permitidos e clique em **Salvar**.
+1. Selecione o controle deslizante **Habilitar Validação** para ativar o incluo na lista de permissões. Insira os domínios permitidos e clique em **Salvar**.
 
    ![](assets/security-settings-3.png)

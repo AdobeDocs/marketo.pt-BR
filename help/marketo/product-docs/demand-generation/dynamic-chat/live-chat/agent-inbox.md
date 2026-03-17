@@ -1,11 +1,11 @@
 ---
-description: Caixa de entrada do agente - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a Caixa de entrada do agente, onde os agentes de bate-papo ao vivo disputam conversas. Exibir bate-papos ativos e passados, informações do visitante e definir status de disponibilidade.
 title: Caixa de entrada do agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '597'
 ht-degree: 1%
 
 ---

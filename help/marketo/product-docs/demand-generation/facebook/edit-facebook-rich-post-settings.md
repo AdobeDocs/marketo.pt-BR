@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2950555
-description: Editar configurações de publicação avançada do Facebook - Documentação do Marketo - Documentação do produto
+description: Saiba como editar configurações de publicação avançada do Facebook no Marketo. Personalize como as páginas de aterrissagem são exibidas quando compartilhadas no Facebook.
 title: Editar configurações de publicação avançada do Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '314'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Os _aplicativos sociais_ do Marketo permitem que seus clientes potenciais compar
 
 Você pode especificar os tipos de informações de página a serem usadas nas postagens avançadas do [!DNL Facebook] geradas por compartilhamentos da sua página de aterrissagem.
 
-1. Selecione **[!UICONTROL Mensagem do Facebook]** no editor do vídeo ou do botão de redes sociais _&#x200B;_[!DNL YouTube_]_.
+1. Selecione **[!UICONTROL Mensagem do Facebook]** no editor do vídeo ou do botão de redes sociais __[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -59,7 +59,7 @@ Para controlar os elementos de página que serão incluídos nos compartilhament
 
    A **[!UICONTROL Designer da Página de Aterrissagem]** abre em uma nova janela.
 
-1. Selecione **[!UICONTROL Ações Da Página De Aterrissagem]** > **[!UICONTROL Editar Metatags De Página]**.
+1. Selecione **[!UICONTROL Ações da Página de Aterrissagem]** > **[!UICONTROL Editar Marcas de Meta de Página]**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

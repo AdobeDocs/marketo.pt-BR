@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515401
-description: Criar um modelo de página de aterrissagem guiada - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um modelo de página de aterrissagem guiado no Marketo. Use a sintaxe para definir variáveis e regiões editáveis para o editor guiado.
 title: Criar um modelo de página de destino guiada
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 2%
+source-wordcount: '1135'
+ht-degree: 15%
 
 ---
 
@@ -34,8 +34,8 @@ Se você definir uma região como Rich Text, os usuários poderão editar seu co
 
 Atributos obrigatórios:
 **classe**: &quot;mktoText&quot;
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
+**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
+**mktoName** : string. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:
 O conteúdo de um elemento com a classe mktoText (se fornecido) será usado como o valor padrão da região editável.
@@ -48,26 +48,26 @@ Exemplo:
 
 Você tem duas opções para definir Elementos de imagem editáveis. Você pode usar um `<div>`, que especifica um contêiner no qual a imagem será inserida, ou uma marca `<img>`.
 
-## Opção 1 - Usar um `<div>` {#option-use-a-div}
+## Opção 1: usar um `<div>` {#option-use-a-div}
 
 Atributos obrigatórios:
 
 class: &quot;mktoImg&quot;
-id: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
+id: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
 mktoName : Cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:
-mktoImgClass: String. O valor aqui será adicionado ao atributo de classe do elemento `<img>` dentro de div.
+mktoImgClass: String. O valor aqui será adicionado ao atributo de classe do elemento `<img>` dentro da div.
 
 Exemplo:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Opção 2 - Usar um `<img>` {#option-use-a-img}
+## Opção 2: usar um `<img>` {#option-use-a-img}
 
 Atributos obrigatórios:
 class: &quot;mktoImg&quot;
-id: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
+id: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
 mktoName : Cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:
@@ -85,8 +85,8 @@ Exemplo:
 
 Exemplo de atributos :Required:
 **classe**: &quot;mktoForm&quot;
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
+**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
+**mktoName** : string. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
@@ -94,8 +94,8 @@ Exemplo de atributos :Required:
 
 Atributos obrigatórios:
 **classe**: &quot;mktoSnippet&quot;
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
+**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
+**mktoName** : string. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
@@ -105,8 +105,8 @@ Exemplo:
 
 Atributos obrigatórios:
 **classe**: &quot;mktoShareButton&quot;
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
+**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
+**mktoName** : string. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
@@ -120,8 +120,8 @@ Exemplo:
 
 Atributos obrigatórios:
 **classe**: &quot;mktoVideo&quot;
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
+**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
+**mktoName** : string. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Exemplo:
 
@@ -143,8 +143,8 @@ As variáveis são declaradas como metatags dentro do elemento `<head>` do model
 
 Atributos necessários:
 **classe** : &quot;mktoString&quot;,
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
+**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
+**mktoName** : string. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:
 **padrão**: valor da cadeia de caracteres para o atributo. Em branco se nenhum for fornecido.
@@ -162,8 +162,8 @@ Exemplo com todos os atributos:
 
 Atributos necessários:
 **classe** : &quot;mktoColor&quot;,
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
+**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
+**mktoName** : string. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:
 **padrão**: um código de cor de caractere HEX de 7 dígitos. Por exemplo: &quot;#336699&quot;
@@ -180,8 +180,8 @@ Exemplo com todos os atributos:
 
 Atributos necessários:
 **classe** : &quot;mktoBoolean&quot;,
-**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço &quot;-&quot; e sublinhado &quot;_&quot;. Não são permitidos espaços. Deve ser única.
-**mktoName** : cadeia de caracteres. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
+**id**: cadeia de caracteres de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Deve ser única.
+**mktoName** : string. Esse é o nome de exibição que será mostrado no editor de landing page. A prática recomendada é usar um nome descritivo.
 
 Opcional:
 **padrão**: cadeia de caracteres booleana. &quot;true&quot; ou &quot;false&quot; controla se o valor começa nas posições ON ou OFF. &quot;false&quot; se não fornecido.

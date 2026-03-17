@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720856
-description: Adicionar uma visualização móvel para sua página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar uma visualização móvel para sua página de aterrissagem de formato livre no Marketo. Otimizar o layout da página para dispositivos móveis.
 title: Adicionar uma visualização móvel em sua página de destino de forma livre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 17%
+source-wordcount: '141'
+ht-degree: 19%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 17%
 >
 >A visualização móvel funciona em telas com 480 px de largura (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre resoluções de dispositivo](https://www.mydevice.io/).
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 

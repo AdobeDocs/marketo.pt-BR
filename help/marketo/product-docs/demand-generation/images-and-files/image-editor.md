@@ -1,11 +1,11 @@
 ---
-description: Editor de imagens - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o editor de imagens no Marketo Design Studio. Cortar, redimensionar e fazer edições básicas em imagens sem sair do Marketo.
 title: Editor de imagem
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 14%
+source-wordcount: '71'
+ht-degree: 11%
 
 ---
 

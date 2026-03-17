@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359667
-description: Aplicar mascaramento de entrada a um campo em um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como aplicar o mascaramento de entrada a um campo de formulário no Marketo. Formate o telefone, a data ou outros campos como tipos de visitantes.
 title: Aplicar mascaramento de entrada a um campo em um formulário
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 10%
+source-wordcount: '193'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 É possível restringir a entrada do visitante usando uma máscara de entrada. Por exemplo, talvez você queira que os visitantes insiram números de telefone somente em um formato específico.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-4.png)
 

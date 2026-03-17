@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359671
-description: Adicionar texto de dica a um campo de formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar texto de dica a um campo de formulário no Marketo. Mostrar espaço reservado ou texto de ajuda para orientar os visitantes.
 title: Adicionar texto de dica a um campo de formulário
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 13%
+source-wordcount: '129'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ Dicas e [instruções](/help/marketo/product-docs/demand-generation/forms/form-f
 >
 >As **Instruções** do formulário são pequenas dicas que mostram quando o visitante passa o mouse sobre o campo.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 

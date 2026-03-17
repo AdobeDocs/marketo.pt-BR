@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359657
-description: Alterar a localidade de um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar a localidade de um formulário no Marketo. Defina o idioma do formulário e o formato regional para rótulos e validação.
 title: Alterar a localidade de um formulário
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Ao lidar com formulários internacionais, será necessário exibir datas/horas nos formatos corretos. O Marketo fará isso automaticamente para você. Tudo o que você precisa fazer é definir o local do formulário e nós cuidaremos do resto.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-7.png)
 

@@ -1,12 +1,12 @@
 ---
-description: Painel de envolvimentos - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o painel de engajamento Webinars interativos. Exibir métricas e insights de envolvimento do participante durante e após seus webinários.
 title: Painel de engajamento
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 0%
+source-wordcount: '1755'
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ Visualize o engajamento para os seguintes tipos de sessões em um webinário int
 
 ## Exibir o painel {#view-the-dashboard}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/engagement-dashboard-1.png)
 
@@ -301,7 +301,7 @@ Entenda os critérios para classificar o nível de engajamento de cada participa
     <li>O participante fez pelo menos uma pergunta no pod de Perguntas e Respostas.</li></td>
   </tr>
   <tr>
-    <td>Meio</td>
+    <td>Médio</td>
     <td>Participantes que satisfaçam todos os seguintes critérios:
     <li>O nível de envolvimento do participante não está determinado como sendo alto.</li>
     <li>A duração da presença é de pelo menos 60% do tempo total do evento.</li>

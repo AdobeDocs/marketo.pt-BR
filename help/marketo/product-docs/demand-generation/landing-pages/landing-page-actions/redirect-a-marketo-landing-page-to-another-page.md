@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359740
-description: Redirecionar uma página de aterrissagem do Marketo para outra página - Documentação do Marketo - Documentação do produto
+description: Saiba como redirecionar uma landing page do Marketo para outra página. Envie os visitantes para um URL diferente quando eles chegarem na página.
 title: Redirecionar uma página de destino do Marketo para outra página
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 11%
+source-wordcount: '167'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,7 @@ Se você atualizar o URL de uma página e quiser que o URL antigo ainda funcione
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Em **[!UICONTROL Admin]**, clique em **[!UICONTROL Páginas de Aterrissagem]**.
 

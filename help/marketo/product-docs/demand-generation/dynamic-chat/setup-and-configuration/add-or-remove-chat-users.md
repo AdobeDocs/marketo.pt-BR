@@ -1,12 +1,12 @@
 ---
-description: Adicionar ou remover usuários do chat - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar ou remover usuários do Dynamic Chat na Adobe Admin Console. Atribua perfis de produto e gerencie o acesso da sua equipe.
 title: Adicionar ou remover usuários do chat
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 6%
+source-wordcount: '276'
+ht-degree: 5%
 
 ---
 

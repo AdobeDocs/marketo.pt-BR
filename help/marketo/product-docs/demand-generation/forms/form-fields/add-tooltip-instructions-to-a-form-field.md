@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359673
-description: Adicionar instruções de dica de ferramenta a um campo de formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar instruções de dica de ferramenta a um campo de formulário no Marketo. Mostre ajuda extra quando os visitantes passam o mouse sobre um campo.
 title: Adicionar instruções de dica de ferramenta a um campo de formulário
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 13%
+source-wordcount: '133'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 13%
 >
 >Formulário **Instruções** são pequenas dicas de ferramenta que aparecem quando o visitante passa o mouse sobre o campo.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-6.png)
 

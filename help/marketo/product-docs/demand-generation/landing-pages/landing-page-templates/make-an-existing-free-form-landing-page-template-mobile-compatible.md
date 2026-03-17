@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472348
-description: Tornar um modelo de página de aterrissagem de formato livre existente compatível com dispositivos móveis - Documentação do Marketo - Documentação do produto
+description: Saiba como tornar compatível um modelo de página de aterrissagem de forma livre existente para dispositivos móveis. Atualize do modelo ou do editor de landing page.
 title: Tornar um modelo de página de destino de forma livre compatível com dispositivos móveis
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '258'
 ht-degree: 3%
 
 ---

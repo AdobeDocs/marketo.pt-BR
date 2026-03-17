@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359620
-description: Alterar o estilo e a cor do botão Enviar - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar o estilo e a cor do botão de envio em um formulário do Marketo. Combine o botão com sua identidade visual e design.
 title: Alterar o estilo e a cor do botão Enviar
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 11%
+source-wordcount: '159'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Se você achar o botão de envio padrão maçante, ou se precisar de algo mais sofisticado, sinta-se à vontade para escolher entre uma grande variedade de estilos de botão prontos para uso.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 

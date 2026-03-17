@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359608
-description: Alterar a família de fontes do formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar a família de fontes de formulário no Marketo. Selecione uma fonte diferente para o texto do formulário.
 title: Alterar a família de fontes do formulário
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 8%
+source-wordcount: '150'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ As Google Fonts são incríveis, e as criamos no editor de formulários. Dê uma
 >
 >Essa configuração afeta o rótulo do formulário, o texto de entrada e qualquer rich text.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

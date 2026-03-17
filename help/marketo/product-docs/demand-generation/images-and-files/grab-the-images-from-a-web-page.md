@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359866
-description: Capturar as imagens de uma página da Web - Documentação do Marketo - Documentação do produto
+description: Saiba como capturar imagens de uma página da Web no Marketo. Importe imagens de um URL para o Design Studio.
 title: Capturar imagens de uma página da Web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 8%
+source-wordcount: '182'
+ht-degree: 7%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438203
-description: Modelo 17E - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o modelo de página de aterrissagem guiada do Template 17E. Baixe e use-o para suas páginas de aterrissagem do Marketo.
 title: Modelo 17E
 exl-id: c4ffe84c-a15f-4d11-bbfa-5de78f981a7a
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 8%
+source-wordcount: '57'
+ht-degree: 7%
 
 ---
 
 # Modelo 17E {#template-17e}
 
-Clique com o botão direito para [baixar o Modelo 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=pt-BR)
+Clique com o botão direito para [baixar o Modelo 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -28,4 +28,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=pt-BR)
+[Modelo 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)

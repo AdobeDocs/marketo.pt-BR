@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504180
-description: Usar uma lista do Marketo ou uma lista inteligente como um segmento de público do LinkedIn - Documentação do Marketo - Documentação do produto
+description: Saiba como usar uma lista Marketo ou uma lista inteligente como um segmento de público-alvo do LinkedIn. Envia listas para o LinkedIn para direcionamento de anúncios por meio do Ad Bridge.
 title: Usar uma lista ou lista inteligente do Marketo como segmento de público-alvo do LinkedIn
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 13%
+source-wordcount: '203'
+ht-degree: 12%
 
 ---
 

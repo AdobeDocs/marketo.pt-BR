@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720257
-description: Adicionar [!DNL Facebook] Públicos-alvo personalizados como um [!DNL LaunchPoint] Serviço - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar Públicos-alvo personalizados do Facebook como um serviço do LaunchPoint. Envie listas do Marketo para o Facebook para uso como Públicos-alvo personalizados em campanhas de publicidade.
 title: Adicionar [!DNL Facebook] Públicos-alvo Personalizados como um [!DNL LaunchPoint] Serviço
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 0%
+source-wordcount: '311'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Com essa integração, você pode enviar dados de público-alvo de listas estáticas e inteligentes do Marketo para o [!DNL Facebook] para serem usados como Públicos-alvo personalizados em [!DNL Facebook] Campanhas publicitárias. Veja como configurar isso.
 

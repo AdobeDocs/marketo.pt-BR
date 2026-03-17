@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359400
-description: Selecione um tema de formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como selecionar um tema de formulário no Marketo. Escolha um tema para controlar a aparência do formulário.
 title: Selecionar um tema de formulário
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 11%
+source-wordcount: '149'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Fizemos um monte de temas legais para seus formulários. De qual você gosta mais?
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/select-a-form-theme-1.png)
 

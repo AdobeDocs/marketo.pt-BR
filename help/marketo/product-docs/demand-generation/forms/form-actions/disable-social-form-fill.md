@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098242
-description: Desativar preenchimento de formulário social - Documentação do Marketo - Documentação do produto
+description: Saiba como desativar o preenchimento de formulário social em um formulário do Marketo. Desative a opção para os visitantes enviarem usando a rede social.
 title: Desabilitar preenchimento de formulário com rede social
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '97'
+ht-degree: 14%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 12%
 >
 >Nem todos os clientes compraram essa funcionalidade.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-10.png)
 

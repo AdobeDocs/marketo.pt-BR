@@ -1,11 +1,11 @@
 ---
-description: Perguntas frequentes sobre o Dynamic Chat - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda sobre acesso, instalação, retenção de dados e suporte de idioma do Dynamic Chat. Encontre respostas para perguntas comuns sobre o Marketo Engage Dynamic Chat.
 title: Perguntas frequentes sobre o Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---

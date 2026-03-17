@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359594
-description: Adicionar um conjunto de campos a um formulário - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um conjunto de campos a um formulário do Marketo. Agrupe campos relacionados juntamente com um cabeçalho para obter um melhor layout.
 title: Adicionar um conjunto de campos a um formulário
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 11%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Os conjuntos de campos são legais. Eles agrupam vários campos. Você também pode controlar um bloco inteiro de uma só vez!
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

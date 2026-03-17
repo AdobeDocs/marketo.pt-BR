@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359728
-description: Guias de uso para design de página de aterrissagem de forma livre - Documentação do Marketo - Documentação do produto
+description: Saiba como usar guias para design de página de aterrissagem de forma livre no Marketo. Alinhar elementos e manter o layout consistente com as guias.
 title: Usar guias para design de uma página de destino de forma livre
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 12%
+source-wordcount: '121'
+ht-degree: 11%
 
 ---
 

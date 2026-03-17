@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359798
-description: Adicionar outros CNAMEs de página inicial - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar outros CNAMEs de página de aterrissagem no Marketo. Use vários domínios personalizados para suas páginas de destino.
 title: Adicionar outros CNAMEs de página de destino
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 4%
+source-wordcount: '243'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +27,7 @@ Você pode adicionar CNAMEs de página de aterrissagem para permitir que URLs di
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **Administrador**.
 

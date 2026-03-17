@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359722
-description: Adicionar um vídeo a uma página de aterrissagem de formato livre - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um vídeo a uma página de aterrissagem de formato livre no Marketo. Incorpore conteúdo de vídeo na página de aterrissagem.
 title: Adicionar um vídeo a uma página de destino de forma livre
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 7%
+source-wordcount: '248'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359876
-description: Substituir uma imagem ou arquivo carregado - Documentação do Marketo - Documentação do produto
+description: Saiba como substituir uma imagem ou arquivo carregado no Marketo. Atualize o ativo mantendo o mesmo URL para links existentes.
 title: Substituir uma imagem ou arquivo carregado
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 10%
+source-wordcount: '127'
+ht-degree: 9%
 
 ---
 
