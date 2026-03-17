@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146997
-description: Usar um token de data em uma etapa de fluxo de espera - Documentação do Marketo - Documentação do produto
+description: Saiba como usar um token de data em uma etapa de fluxo de espera. Aguarde uma data dinâmica de um token antes de continuar.
 title: Usar um token de data em uma etapa de espera do fluxo
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '222'
 ht-degree: 9%
 
 ---

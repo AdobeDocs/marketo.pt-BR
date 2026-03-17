@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7503973
-description: Personalizar uma apresentação - Documentação do Marketo - Documentação do produto
+description: Saiba como personalizar uma apresentação do Calendário de marketing com exibições e metas. Defina a frequência de rotação e exiba o que é mais importante para sua equipe.
 title: Personalizar uma apresentação
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '311'
 ht-degree: 2%
 
 ---

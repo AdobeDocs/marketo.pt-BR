@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146942
-description: Definir lista inteligente para o Smart Campaign | Acionador - Documentação do Marketo - Documentação do produto
+description: Saiba como definir a Smart List para um acionador da Campanha inteligente. Defina filtros que qualificam pessoas para o acionador.
 title: Definir lista inteligente para campanha inteligente | Acionável
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '262'
 ht-degree: 5%
 
 ---

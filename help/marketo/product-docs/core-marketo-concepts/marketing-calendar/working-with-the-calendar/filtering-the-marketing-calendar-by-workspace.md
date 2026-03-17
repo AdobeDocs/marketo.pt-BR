@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147306
-description: Filtragem do calendário de marketing por Workspace - Documentação do Marketo - Documentação do produto
+description: Saiba como filtrar o Calendário de marketing por espaço de trabalho. Visualize somente objetos criados em um espaço de trabalho específico no painel de filtro.
 title: Filtrar o calendário de marketing por espaço de trabalho
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 18%
+source-wordcount: '80'
+ht-degree: 16%
 
 ---
 

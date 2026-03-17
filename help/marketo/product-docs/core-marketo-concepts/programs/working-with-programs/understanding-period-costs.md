@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504676
-description: Noções básicas sobre custos do período - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os custos do período em programas para rastrear gastos. Atribua custos aos períodos do programa para geração de relatórios e ROI.
 title: Noções básicas sobre custos do período
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 2%
+source-wordcount: '282'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ Custos de período referem-se ao dinheiro gasto em um mês específico em um pro
 >
 >[Noções básicas sobre programas](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Noções básicas sobre a associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Noções básicas de assinatura de programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Como os Custos do Período são Calculados {#how-period-costs-are-calculated}
 

@@ -1,12 +1,12 @@
 ---
-description: OP-Acquisition-API - Documentação do Marketo - Documentação do produto
+description: Modelo do programa operacional da API de aquisição. Use-a para capturar leads por meio da API.
 title: OP-Aquisição-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 21%
+source-wordcount: '178'
+ht-degree: 20%
 
 ---
 

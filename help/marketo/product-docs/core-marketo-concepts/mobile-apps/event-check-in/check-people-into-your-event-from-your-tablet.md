@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949839
-description: Inscreva pessoas em seu evento a partir do seu tablet - Documentação do Marketo - Documentação do produto
+description: Saiba como incluir pessoas em seu evento por meio de um tablet. Use o aplicativo Check-in de eventos para verificar e fazer check-in de participantes.
 title: Fazer o check-in de pessoas no evento pelo tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '844'
 ht-degree: 2%
 
 ---

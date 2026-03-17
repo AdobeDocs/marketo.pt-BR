@@ -1,11 +1,11 @@
 ---
-description: Gerenciamento de dados OP - Documentação do Marketo - Documentação do produto
+description: Modelo do programa operacional de gestão de dados. Use-o para manter seu banco de dados limpo e atualizado.
 title: OP-Gerenciamento de dados
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '327'
 ht-degree: 27%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 27%
 
 Este é um exemplo de workflows de práticas recomendadas simples de gerenciamento de dados operacionais usando um Programa padrão, para ajudá-lo a gerenciar a consistência de dados para registros no banco de dados do Marketo Engage.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

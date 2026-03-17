@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949891
-description: Noções básicas sobre listas estáticas - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre listas estáticas no Marketo para conjuntos fixos de pessoas. Use listas estáticas quando a associação for gerenciada manualmente.
 title: Noções básicas sobre listas estáticas
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146931
-description: Criar uma nova campanha inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma nova Campanha inteligente. Configure acionadores para uma Smart List e adicione etapas de fluxo para automatizar ações.
 title: Criar uma nova campanha inteligente
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 8%
+source-wordcount: '132'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ As Campanhas inteligentes são a ferramenta mais importante no Marketo Engage. E
 >
 >Saiba mais sobre [Campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 

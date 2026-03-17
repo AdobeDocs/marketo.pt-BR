@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557275
-description: Usar Smart Lists Integradas/Do Sistema - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como usar Smart Lists integradas e do sistema. Use listas pré-criadas como Todas as pessoas ou Todas as inscrições canceladas em campanhas.
 title: Usar listas inteligentes do sistema ou integradas
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '206'
 ht-degree: 12%
 
 ---

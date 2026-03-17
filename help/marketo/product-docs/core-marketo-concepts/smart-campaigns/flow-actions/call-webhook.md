@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147023
-description: Chamar Webhook - Documentação do Marketo - Documentação do produto
+description: Saiba como chamar um webhook a partir de uma etapa de fluxo do Smart Campaign. Envie dados para um sistema externo quando alguém entrar no fluxo.
 title: Chamar webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '91'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ Os webhooks permitem interagir com serviços de terceiros. Envie/receba informa�
 
 >[!NOTE]
 >
->Saiba mais sobre as muitas coisas fascinantes que [Webhooks](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} podem fazer por você.
+>Saiba mais sobre as muitas coisas fascinantes que [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} podem fazer por você.
 
 1. Selecione um Webhook no menu suspenso.
 

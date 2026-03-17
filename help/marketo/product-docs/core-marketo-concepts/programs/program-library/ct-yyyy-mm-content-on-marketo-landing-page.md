@@ -1,11 +1,11 @@
 ---
-description: Conteúdo CT-YYYY-MM na página de aterrissagem do Marketo - Documentação do Marketo - Documentação do produto
+description: Conteúdo no modelo de programa da página de aterrissagem do Marketo. Use-o para o conteúdo hospedado nas páginas de aterrissagem do Marketo.
 title: CT-MM-AAAA-Conteúdo na página de destino do Marketo
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '481'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este exemplo foi projetado para ser um programa de conteúdo que aproveita uma página de aterrissagem do Marketo Engage com um formulário do Marketo Engage utilizando um programa padrão do Marketo Engage. O formulário é para acessar o conteúdo/oferta. O link para a oferta pode ser exibido na página de agradecimento, enviado em um email de agradecimento ou em ambos.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

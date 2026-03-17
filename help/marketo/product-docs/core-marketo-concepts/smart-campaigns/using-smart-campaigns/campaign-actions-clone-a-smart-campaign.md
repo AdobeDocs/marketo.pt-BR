@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146989
-description: Ações do Campaign — clonar uma campanha inteligente — documentos do Marketo — documentação do produto
+description: Saiba como clonar uma Campanha inteligente. Crie uma cópia de uma campanha para reutilizar sua estrutura com um novo nome.
 title: Ações do Campaign — clonar uma campanha inteligente
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '99'
 ht-degree: 6%
 
 ---

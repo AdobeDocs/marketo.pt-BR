@@ -1,12 +1,12 @@
 ---
-description: Expiração de ativo local - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a expiração de ativos locais em programas. Definido quando os ativos locais em um programa expiram e são removidos.
 title: Expiração de ativos locais
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 2%
+source-wordcount: '276'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ Antes de agendar a expiração de um ativo, a função Marketo deve ter a permis
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Na área [!UICONTROL Administrador], clique em **[!UICONTROL Usuários e funções]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783563
-description: Pré-visualização de um email - Documentação do Marketo - Documentação do produto
+description: Saiba como visualizar um email no Marketo Moments. Veja a aparência do seu email antes de enviá-lo pelo aplicativo móvel.
 title: Pré-visualização de um email
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
+source-wordcount: '140'
+ht-degree: 5%
 
 ---
 

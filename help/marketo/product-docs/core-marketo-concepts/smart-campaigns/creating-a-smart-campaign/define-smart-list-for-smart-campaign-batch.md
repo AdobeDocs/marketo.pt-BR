@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146940
-description: Definir lista inteligente para o Smart Campaign | Lote - Documentação do Marketo - Documentação do produto
+description: Saiba como definir a Smart List de uma Campanha inteligente em lote. Escolha quem entra na campanha com filtros.
 title: Definir lista inteligente para campanha inteligente | Lote
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 5%
+source-wordcount: '283'
+ht-degree: 4%
 
 ---
 

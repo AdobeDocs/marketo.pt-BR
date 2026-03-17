@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720377
-description: Fazer referência a uma lista ou lista inteligente em espaços de trabalho - Documentação do Marketo - Documentação do produto
+description: Saiba como fazer referência a uma lista ou lista inteligente em espaços de trabalho. Use uma lista de um espaço de trabalho em outro com referência.
 title: Fazer referência a uma lista ou lista inteligente em espaços de trabalho
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 9%
+source-wordcount: '184'
+ht-degree: 11%
 
 ---
 
@@ -33,7 +33,7 @@ Listas e Smart Lists podem ser compartilhadas e referenciadas em espaços de tra
    >
    >O Assets só poderá ser compartilhado entre espaços de trabalho se eles estiverem aninhados em uma pasta.
 
-1. Nomeie sua pasta e clique em **[!UICONTROL Criar]**.
+1. Nomeie a pasta e clique em **[!UICONTROL Criar]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 

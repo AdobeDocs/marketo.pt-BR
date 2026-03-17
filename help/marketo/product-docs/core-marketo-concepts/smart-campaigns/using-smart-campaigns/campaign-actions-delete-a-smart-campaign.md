@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147055
-description: Ações de campanha — Excluir uma campanha inteligente — Documentação do Marketo — Documentação do produto
+description: Saiba como excluir uma Campanha inteligente. Remova uma campanha que não é mais necessária nas Atividades de marketing.
 title: Ações de campanha — excluir uma campanha inteligente
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 11%
 
 ---
 

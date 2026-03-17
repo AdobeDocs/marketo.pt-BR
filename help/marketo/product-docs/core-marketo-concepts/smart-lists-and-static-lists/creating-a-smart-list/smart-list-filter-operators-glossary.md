@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557312
-description: Glossário de operadores de filtro de lista inteligente - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda sobre os operadores de filtro de Smart List. Entenda quais são iguais, contém e outros operadores para criar filtros.
 title: Glossário de operadores de filtro de lista inteligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '623'
 ht-degree: 14%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: NUR-YYYY-MM-Simple Nurture - Documentação do Marketo - Documentação do produto
+description: Modelo do programa Simple Nurture. Use-o para campanhas de criação básicas com uma convenção de nomenclatura clara.
 title: NUR-MM-AAAA-Estímulo simples
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '356'
 ht-degree: 19%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Este é um exemplo de programas de aprendizado simples, utilizando o programa de envolvimento do Marketo Engage, com conteúdo cadenciado para gotejar ao longo do tempo para seu banco de dados e, ao mesmo tempo, utilizando fluxos para orientar registros por meio de jornadas com base no comportamento.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

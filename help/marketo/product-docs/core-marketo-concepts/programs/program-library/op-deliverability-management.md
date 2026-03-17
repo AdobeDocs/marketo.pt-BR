@@ -1,12 +1,12 @@
 ---
-description: OP-Deliverability Management - Documentação do Marketo - Documentação do produto
+description: Modelo do programa operacional de gerenciamento de entrega. Use-o para manter a capacidade de entrega de emails.
 title: OP-Gerenciamento de capacidade de entrega
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 21%
+source-wordcount: '253'
+ht-degree: 20%
 
 ---
 
@@ -18,7 +18,7 @@ Este é um exemplo de workflows de práticas recomendadas de gerenciamento de en
 >
 >Exige que o campo de sequência personalizado &quot;Motivo da suspensão de marketing&quot; seja importado. [Saiba mais](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

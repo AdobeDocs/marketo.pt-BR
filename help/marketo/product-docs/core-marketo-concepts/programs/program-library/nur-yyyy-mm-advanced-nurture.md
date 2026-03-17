@@ -1,11 +1,11 @@
 ---
-description: NUR-YYYY-MM-Advanced Nurture - Documentação do Marketo - Documentação do produto
+description: Modelo do programa Advanced Nurture. Use-o para criação de vários fluxos com uma convenção de nomenclatura.
 title: NUR-MM-AAAA-Estímulo avançado
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '497'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este é um exemplo de Programas de enfermagem avançados que utilizam o Programa de envolvimento da Marketo Engage. Os Programas de email aninhados impedem que as pessoas recebam conteúdo que já consumiram ou controlam o tipo de conteúdo que devem consumir em cada fluxo. O relatório de atribuição pode ser executado para cada Programa de email aninhado individual. Canais: &quot;Cuidar&quot;, e um canal dedicado &quot;Email de nutrição&quot; para os Programas de email aninhados envia um email de informativo utilizando um Programa de email do Marketo Engage. O email pode incluir ou não incluir um teste A/B.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

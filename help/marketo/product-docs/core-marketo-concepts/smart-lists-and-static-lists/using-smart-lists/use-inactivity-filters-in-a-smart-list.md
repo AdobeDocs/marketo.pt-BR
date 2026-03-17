@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511477
-description: Usar filtros de inatividade em uma Smart List - Documentação do Marketo - Documentação do produto
+description: Saiba como usar filtros de inatividade em uma Smart List. Encontre pessoas que não fizeram algo por um período determinado.
 title: Usar filtros de inatividade em uma lista inteligente
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Você sabia que pode procurar pessoas em uma Smart List que _não_ fizeram algo? Confira esses filtros de inatividade.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-1.png)
 

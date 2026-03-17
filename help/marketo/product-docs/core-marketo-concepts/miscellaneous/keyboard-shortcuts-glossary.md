@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147318
-description: Glossário de atalhos de teclado - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda sobre atalhos de teclado do Marketo para navegação de área, calendário e muito mais. Use atalhos para mover-se mais rápido no Marketo Engage.
 title: Glossário de atalhos de teclado
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 19%
+source-wordcount: '127'
+ht-degree: 17%
 
 ---
 

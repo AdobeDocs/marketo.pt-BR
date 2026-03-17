@@ -1,11 +1,11 @@
 ---
-description: Gerenciamento OP-Lead - Documentação do Marketo - Documentação do produto
+description: Modelo do programa operacional de gerenciamento de clientes potenciais. Use-o para gerenciar o ciclo de vida e a pontuação do cliente potencial.
 title: OP-Gerenciamento de leads
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '272'
 ht-degree: 16%
 
 ---
@@ -18,7 +18,7 @@ Este é um exemplo de fluxos de trabalho de práticas recomendadas de gerenciame
 >
 >No Marketo Engage, os registros no banco de dados são chamados de pessoas/pessoa. O gerenciamento de clientes potenciais neste exemplo refere-se aos registros em seu CRM.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html).
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Resumo do canal {#channel-summary}
 

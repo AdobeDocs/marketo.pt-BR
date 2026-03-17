@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514898
-description: Configuração de um acionador de campanha inteligente para vendas usando "A campanha é solicitada" - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar um acionador de Campanha inteligente para vendas usando o Campaign solicitado. Permitir que as vendas solicitem campanhas para clientes potenciais do CRM.
 title: Configurar uma campanha inteligente acionável para vendas usando “A campanha é solicitada”
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 8%
 
 ---

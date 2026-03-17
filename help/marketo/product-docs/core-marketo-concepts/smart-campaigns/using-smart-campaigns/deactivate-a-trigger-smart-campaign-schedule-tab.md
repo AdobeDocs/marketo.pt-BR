@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146991
-description: Desativar um acionador da campanha inteligente | Guia Programação - Documentação do Marketo - Documentação do produto
+description: Saiba como desativar um acionador do Smart Campaign na guia Agendar. Desative a campanha para que ela pare de processar acionadores.
 title: Desativar uma campanha inteligente acionável | Guia Programação
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 16%
+source-wordcount: '95'
+ht-degree: 14%
 
 ---
 

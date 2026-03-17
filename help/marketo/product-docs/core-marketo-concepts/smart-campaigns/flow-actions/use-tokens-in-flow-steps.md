@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146995
-description: Usar tokens em etapas de fluxo - Documentação do Marketo - Documentação do produto
+description: Saiba como usar tokens em etapas de fluxo. Insira valores dinâmicos no conteúdo da etapa de fluxo e e-mails.
 title: Usar tokens em etapas de fluxo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '201'
 ht-degree: 10%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Alterar dados dos membros do programa - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar os dados dos membros do programa em uma etapa de fluxo. Atualizar status do membro ou campos personalizados para pessoas em um programa.
 title: Alterar dados de membros do programa
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '154'
 ht-degree: 5%
 
 ---

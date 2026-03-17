@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: Noções básicas das tags - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre tags para organizar e filtrar programas. Use tags para categorizar programas e filtrar relatórios.
 title: Noções básicas sobre tags
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '178'
 ht-degree: 5%
 
 ---

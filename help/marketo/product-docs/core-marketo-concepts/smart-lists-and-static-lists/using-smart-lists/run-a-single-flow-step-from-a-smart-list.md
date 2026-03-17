@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557322
-description: Execute uma única etapa de fluxo em uma Smart List - Marketo Docs - Documentação do produto
+description: Saiba como executar uma única etapa do fluxo a partir de uma Smart List. Executar uma ação de fluxo para as pessoas selecionadas da lista.
 title: Executar uma única etapa de fluxo de uma lista inteligente
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 7%
+source-wordcount: '243'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Se você quiser executar uma etapa de fluxo única, poderá usar uma única etap
 >
 >[Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 

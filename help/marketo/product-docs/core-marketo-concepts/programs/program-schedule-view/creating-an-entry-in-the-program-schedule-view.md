@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147102
-description: Criação de uma entrada na visualização de programação do programa - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma entrada na Exibição de cronograma do programa. Adicione programas de email, Campanhas inteligentes ou entradas básicas à programação.
 title: Criação de uma entrada na visualização Cronograma do programa
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 9%
+source-wordcount: '185'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Você pode criar entradas na exibição de programação do programa para comple
 
 ## Criar uma entrada básica {#create-a-basic-entry}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

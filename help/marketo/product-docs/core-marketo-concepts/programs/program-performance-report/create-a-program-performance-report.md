@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147129
-description: Criar um relatório de desempenho do programa - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um relatório de desempenho do programa. Crie relatórios para ver o ROI, o sucesso e as métricas de membros do programa.
 title: Criar um relatório de desempenho do programa
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '135'
 ht-degree: 14%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 14%
 
 Veja excelentes estatísticas em seus programas com este relatório.
 
-1. [Crie um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Programa]** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Crie um relatório em um programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Programa]** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Clique na guia **[!UICONTROL Relatório]**.
-1. Você está aí! Explore seu relatório para ver como seus programas estão se saindo.
+1. É isso aí! Explore seu relatório para ver como seus programas estão se saindo.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 

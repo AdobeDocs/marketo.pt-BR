@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953415
-description: Uso da página de detalhes da pessoa - Documentação do Marketo - Documentação do produto
+description: Saiba como usar a página de detalhes da pessoa. Exibir e editar informações de cliente potencial, atividade e etapas de fluxo de execução de um único local.
 title: Uso da página Detalhes da pessoa
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 35%
+source-wordcount: '537'
+ht-degree: 34%
 
 ---
 
@@ -60,7 +60,7 @@ As informações de pessoa são categorizadas nas seguintes guias:
 
 >[!NOTE]
 >
->Você também pode ver informações de oportunidade [inseridas via API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias que não estão sincronizadas com um CRM.
+>Você também pode ver informações de oportunidade [inseridas via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) para instâncias que não estão sincronizadas com um CRM.
 
 ## Edição de um campo {#editing-a-field}
 

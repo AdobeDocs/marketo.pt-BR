@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147031
-description: Excluir pessoa do SFDC - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir uma pessoa do Salesforce com uma etapa de fluxo. Remova o cliente potencial ou contato da SFDC quando eles entrarem no fluxo.
 title: Excluir pessoa do SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 6%
+source-wordcount: '149'
+ht-degree: 5%
 
 ---
 

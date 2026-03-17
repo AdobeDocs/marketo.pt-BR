@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147001
-description: Utilização Da Lógica Padrão De Regras Da Smart List - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como usar a lógica padrão da regra de Smart List em uma Campanha inteligente. Combine filtros com lógica AND para qualificação.
 title: Uso da lógica de regra de lista inteligente padrão
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 

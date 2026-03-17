@@ -1,12 +1,12 @@
 ---
-description: Programa de feiras de vendas TS-YYYY-MM-DD-Marketo Docs - Documentação do produto
+description: Modelo do programa de show de vendas. Use-o para eventos e feiras comerciais com nomenclatura consistente.
 title: TS-DD-MM-AAAA-Programa de feira de vendas
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 18%
+source-wordcount: '416'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Este é um exemplo de um programa de feiras com convites e emails de acompanhamento utilizando um Programa de eventos do Marketo Engage.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097447
-description: Painel de banco de dados - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o Painel de banco de dados no Marketo. Visualizar as principais métricas do seu banco de dados e as pessoas rapidamente.
 title: Painel de banco de dados
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '182'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146980
-description: Use Adicionar escolha em uma etapa de fluxo - Documentação do Marketo - Documentação do produto
+description: Saiba como usar Adicionar escolha em uma etapa de fluxo. Ramifique o fluxo de campanha com base nas condições com lógica de escolha.
 title: Usar a opção Adicionar escolha em uma etapa de fluxo
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '204'
 ht-degree: 7%
 
 ---

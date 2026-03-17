@@ -1,11 +1,11 @@
 ---
-description: Substituição de prioridade para campanhas do acionador - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a substituição de prioridade para campanhas de acionador. Controle qual campanha é executada quando vários acionadores são acionados para a mesma pessoa.
 title: Substituição de prioridade em campanhas acionáveis
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '258'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ Os administradores podem substituir a prioridade determinada pela Marketo Engage
 
 >[!NOTE]
 >
->Este recurso só está disponível para Campanhas de Gatilho e para usuários que receberam a [&#x200B; permissão &quot;Editar Prioridade de Campanha de Gatilho&quot;](#grant-priority-override-access).
+>Este recurso só está disponível para Campanhas de Gatilho e para usuários que receberam a [ permissão &quot;Editar Prioridade de Campanha de Gatilho&quot;](#grant-priority-override-access).
 
 >[!CAUTION]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146937
-description: Exibir membros do Smart Campaign - Documentação do Marketo - Documentação do produto
+description: Saiba como visualizar membros do Smart Campaign. Veja quem está na campanha e seu status no fluxo.
 title: Exibir membros de campanha inteligente
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+source-wordcount: '101'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 Exibir pessoas que já passaram pelo fluxo do Smart Campaign.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/view-smart-campaign-members-1.png)
 

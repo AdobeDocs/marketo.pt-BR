@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848705
-description: Prática recomendada - Como organizar seus programas - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda sobre as práticas recomendadas para organizar seus programas. Estruture pastas e programas de campanha para maior clareza e escala.
 title: Prática recomendada - Como organizar seus programas
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '854'
 ht-degree: 4%
 
 ---
@@ -121,4 +121,4 @@ Algumas pessoas até abstraem a maior parte do texto nos emails e landing pages 
 
 ## Resumo {#summary}
 
-Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere serviços adicionais de [especialistas da Marketo Engage](https://business.adobe.com/br/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.
+Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere serviços adicionais de [especialistas da Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.

@@ -1,12 +1,12 @@
 ---
-description: Envio de email único em AAAA-MM-DD-Marketo - Documentação do produto
+description: Modelo do programa de envio de e-mail único. Use-a para enviar campanhas de email únicas com uma convenção de nomenclatura clara.
 title: EM-DD-MM-AAAA-Envio de email único
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 19%
+source-wordcount: '290'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Este exemplo envia um único email utilizando um Programa de email do Marketo Engage. O email pode incluir ou não incluir um teste A/B.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

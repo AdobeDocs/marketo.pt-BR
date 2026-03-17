@@ -1,11 +1,11 @@
 ---
-description: Serviço de etapa de fluxo - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o Serviço de etapa de fluxo para etapas de fluxo personalizadas. Estenda as Campanhas inteligentes com ações personalizadas por meio da API.
 title: Serviço de etapa de fluxo
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1233'
+source-wordcount: '1244'
 ht-degree: 0%
 
 ---

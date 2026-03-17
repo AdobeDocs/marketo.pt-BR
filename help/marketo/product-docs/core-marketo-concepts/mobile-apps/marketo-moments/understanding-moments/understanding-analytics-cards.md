@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781988
-description: Placas do Analytics - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os cartões do Analytics no Marketo Moments. Visualize as principais métricas e insights de desempenho no aplicativo móvel.
 title: Noções básicas sobre cartões de análise
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '287'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360047
-description: Filtrar um relatório de programa por programa - Documentação do Marketo - Documentação do produto
+description: Saiba como filtrar um relatório de programa por programa. Concentre seu relatório em programas específicos.
 title: Filtrar um relatório de programa por programa
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '109'
 ht-degree: 11%
 
 ---

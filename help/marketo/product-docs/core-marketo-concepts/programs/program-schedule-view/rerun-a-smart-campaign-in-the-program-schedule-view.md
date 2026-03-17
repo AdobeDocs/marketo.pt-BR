@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953331
-description: Execute novamente uma Campanha inteligente na Exibição de programação - Documentação do Marketo - Documentação do produto
+description: Saiba como executar novamente uma Campanha inteligente na Exibição de programação do programa. Execute uma campanha em lote novamente sob demanda.
 title: Executar novamente uma campanha inteligente na visualização Cronograma do programa
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Você pode criar facilmente novas execuções de uma Campanha inteligente existente diretamente da visualização do cronograma do programa.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 

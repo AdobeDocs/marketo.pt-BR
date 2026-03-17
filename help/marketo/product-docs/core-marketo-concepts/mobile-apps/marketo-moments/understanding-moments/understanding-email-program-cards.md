@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781911
-description: Entendendo os cartões do programa de email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os cartões do Programa de email no Marketo Moments. Exiba o status do programa de email e execute ações do aplicativo móvel.
 title: Noções básicas sobre cartões do programa de email
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '367'
 ht-degree: 4%
 
 ---

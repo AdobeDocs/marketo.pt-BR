@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147144
-description: Criação de um novo programa de email na exibição de agendamento - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um novo programa de email na Exibição de programação do programa. Adicione uma entrada de programa de email e configure-a.
 title: Criar um novo programa de email na visualização Cronograma
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 17%
+source-wordcount: '125'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 Você pode criar um programa de email na exibição de cronograma do programa. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 

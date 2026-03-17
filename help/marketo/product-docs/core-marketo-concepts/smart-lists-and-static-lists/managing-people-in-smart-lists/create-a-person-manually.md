@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147316
-description: Criar uma pessoa manualmente - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma pessoa manualmente no banco de dados. Adicionar um novo cliente em potencial ou contato com email e valores de campo.
 title: Criar uma pessoa manualmente
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 12%
+source-wordcount: '77'
+ht-degree: 10%
 
 ---
 

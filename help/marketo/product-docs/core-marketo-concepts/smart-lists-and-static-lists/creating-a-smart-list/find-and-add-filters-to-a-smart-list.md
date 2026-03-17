@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557273
-description: Localizar e adicionar filtros a uma lista inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como localizar e adicionar filtros a uma Smart List. Procure e adicione filtros da árvore de filtros para criar a lógica da lista.
 title: Localizar e adicionar filtros a uma lista inteligente
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '145'
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ Neste exemplo, vamos encontrar todas as pessoas na Califórnia com uma pontuaç�
 >
 >Explore a árvore à direita: os filtros são muito eficientes e têm uma grande variedade de funções possíveis.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147093
-description: Noções básicas sobre o Assets local em um programa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre ativos locais em um programa. Entenda como os emails, landing pages e outros ativos residem nos programas.
 title: Noções básicas sobre ativos locais em um programa
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '104'
 ht-degree: 17%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953362
-description: Confirme as entradas diretamente no Calendário de marketing - Documentação do Marketo - Documentação do produto
+description: Saiba como confirmar as possíveis entradas de Campanha inteligente e programa de email no Calendário de marketing. Execute a validação e confirme para que as campanhas sejam executadas.
 title: Confirmar entradas diretamente no calendário de marketing
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 18%
+source-wordcount: '98'
+ht-degree: 16%
 
 ---
 

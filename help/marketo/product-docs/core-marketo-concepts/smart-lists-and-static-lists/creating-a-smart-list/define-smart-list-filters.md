@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557316
-description: Definir Filtros De Smart List - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como definir filtros de Smart List. Defina restrições de filtro e valores para determinar quem aparece na lista.
 title: Definir filtros de lista inteligente
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 5%
+source-wordcount: '196'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ Agora que você [criou uma Smart List](/help/marketo/product-docs/core-marketo-c
 
 Continuando nosso exemplo, vamos definir esses filtros para encontrar todas as pessoas na Califórnia com uma pontuação acima de 50.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/define-smart-list-filters-1.png)
 

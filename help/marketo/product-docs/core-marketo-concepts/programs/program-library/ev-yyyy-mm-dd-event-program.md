@@ -1,12 +1,12 @@
 ---
-description: Programa de evento EV-YYYY-MM-DD - Documentação do Marketo - Documentação do produto
+description: Modelo de programa de evento. Use-o para executar webinários e eventos com uma estrutura de nomenclatura consistente.
 title: EV-DD-MM-AAAA-Programa de evento
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '561'
-ht-degree: 22%
+source-wordcount: '570'
+ht-degree: 21%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 22%
 
 Este é um exemplo de um programa de evento com uma página de registro, três emails de convite e emails de acompanhamento utilizando um Programa de evento do Marketo Engage. Adequado para todos os eventos em que você precisa de inscrições, incluindo shows, almoços, jantares ou apresentações em eventos de feiras comerciais.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783559
-description: Compartilhamento de um momento - Documentação do Marketo - Documentação do produto
+description: Saiba como compartilhar um momento no aplicativo Marketo Moments. Envie os principais insights ou ações aos colegas.
 title: Compartilhar um momento
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '157'
 ht-degree: 5%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147152
-description: Clonar um ativo em um programa - Documentação do Marketo - Documentação do produto
+description: Saiba como clonar um ativo em um programa. Crie uma cópia de um email, uma landing page ou outro ativo local.
 title: Clonar um ativo em um programa
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 12%
+source-wordcount: '129'
+ht-degree: 14%
 
 ---
 
@@ -21,7 +21,7 @@ Clonar um programa clona _tudo_. Às vezes, você só deseja clonar um ativo. Ve
 
 ## Clonar um ativo local {#clone-a-local-asset}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

@@ -1,12 +1,12 @@
 ---
-description: Criar um concierge - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma Brand Concierge e adicionar fontes de conhecimento. Configure sua primeira concierge com links do catálogo de produtos ou site.
 title: Criar um concierge
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1092'
 ht-degree: 1%
 
 ---
@@ -248,7 +248,7 @@ Também ajuda a entender o sentimento dos visitantes, certo?
 Eles estão falando positivo?
 
 10:00
-Quaisquer sentimentos negativos bem onde há qualquer tipo de reclamação que os visitantes estão fazendo, você vai ser capaz de entender esses e até mesmo o tom do visitante como eu disse, não neutro, apreciativo, entusiasmado, e assim por diante.
+Quaisquer sentimentos negativos exatamente onde há qualquer tipo de reclamação que os visitantes estão fazendo, você será capaz de entender esses e até mesmo o tom do visitante, como eu disse, não neutro, apreciativo, entusiasmado, e assim por diante.
 
 10:14
 Agora mesmo, eu já lhe disse tudo sobre a concierge.

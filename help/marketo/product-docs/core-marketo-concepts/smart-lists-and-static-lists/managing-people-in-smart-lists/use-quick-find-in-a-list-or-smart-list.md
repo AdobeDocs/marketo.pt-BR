@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557326
-description: Use a Localização rápida em uma lista ou lista inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como usar a Localização rápida em uma lista ou Smart List. Procure uma pessoa específica por nome ou email na lista.
 title: Usar a localização rápida em uma lista ou lista inteligente
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: '150'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 Localize uma pessoa nos resultados de uma lista ou Smart List usando a localização rápida.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

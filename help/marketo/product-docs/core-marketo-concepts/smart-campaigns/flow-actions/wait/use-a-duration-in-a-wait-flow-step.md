@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146978
-description: Use uma duração em uma etapa de fluxo de espera - Documentação do Marketo - Documentação do produto
+description: Saiba como usar uma duração em uma etapa de fluxo de espera. Pausar o fluxo por um número definido de dias antes da próxima ação.
 title: Usar uma duração em uma etapa de espera do fluxo
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '217'
+ht-degree: 9%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Executar o Campaign - Documentação do Marketo - Documentação do produto
+description: Saiba como usar a etapa Executar fluxo do Campaign. Execute outra Campanha inteligente quando alguém atingir essa etapa.
 title: Executar campanha
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '706'
-ht-degree: 1%
+source-wordcount: '718'
+ht-degree: 2%
 
 ---
 
@@ -53,14 +53,14 @@ Também é possível clonar uma Campanha inteligente existente. Se você clonar 
 Quando definido como true, os seguintes contextos de token serão enviados para a campanha filho (aquela que está sendo executada):
 
 * Meus tokens
-* Tokens de campanha
+* Tokens de campanhas
 * Tokens de programa
 * Tokens de membros
 * [Tokens de acionador](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (se chamados de uma Campanha acionada)
 
 **Interação de API**
 
-Ao usar a Campanha de agendamento ou solicitação [na API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem que você passe valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
+Ao usar a Campanha de agendamento ou solicitação [na API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem que você passe valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
 
 ## Itens a Observar {#things-to-note}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147142
-description: Criação de uma campanha inteligente em lote na exibição de programação do programa - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um Campaign inteligente em lote na Exibição de programação do programa. Adicione e configure uma entrada de campanha em lote.
 title: Criação de uma campanha inteligente em lote na visualização do cronograma do programa
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '162'
 ht-degree: 12%
 
 ---

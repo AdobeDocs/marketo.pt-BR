@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953348
-description: Crie entradas diretamente no Calendário de marketing - Documentação do Marketo - Documentação do produto
+description: Saiba como criar entradas diretamente no Calendário de marketing usando o foco do programa. Adicione entradas básicas, programas de email ou Campanhas inteligentes.
 title: Criar entradas diretamente no calendário de marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 14%
+source-wordcount: '132'
+ht-degree: 13%
 
 ---
 

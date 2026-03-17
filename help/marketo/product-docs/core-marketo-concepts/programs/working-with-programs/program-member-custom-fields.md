@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355569
-description: Campos personalizados de membros do programa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre campos personalizados de membros do programa. Armazene e use dados personalizados para cada pessoa em um programa.
 title: Campos personalizados de membros de programas
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '425'
 ht-degree: 4%
 
 ---

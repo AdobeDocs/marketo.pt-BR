@@ -1,11 +1,11 @@
 ---
-description: Encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo - Documentação do Marketo - Documentação do produto
+description: Saiba como encaminhar um segmento do Adobe Experience Platform para uma lista estática do Marketo. Sincronizar segmentos do AEP em listas do Marketo.
 title: Encaminhar um segmento da Adobe Experience Platform para uma lista estática do Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '663'
 ht-degree: 3%
 
 ---
@@ -99,7 +99,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
+   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
 
 1. Mapeie o Sobrenome e o Nome da Empresa clicando em **[!UICONTROL Adicionar Novo Mapeamento]** novamente e repita a Etapa 15 duas vezes, escolhendo **[!UICONTROL lastName]** e depois **[!UICONTROL companyName]**.
 

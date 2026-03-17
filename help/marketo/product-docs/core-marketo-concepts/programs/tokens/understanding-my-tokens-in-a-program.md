@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: Entendendo meus tokens em um programa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre Meus tokens em um programa. Use tokens para personalizar o conteúdo com dados de programa ou membro.
 title: Noções básicas sobre meus tokens em um programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '429'
 ht-degree: 6%
 
 ---
@@ -37,7 +37,7 @@ Exemplos:
  </thead>
  <tbody>
   <tr>
-   <td>Arquivo de calendário <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Arquivo de calendário <img alt="--" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
    <td>Use este token para <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">adicionar um arquivo de evento de calendário (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> aos seus emails e landing pages.</td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ Exemplos:
   </tr>
   <tr>
    <td>Script de e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td>
+   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td>
   </tr>
   <tr>
    <td>Número<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

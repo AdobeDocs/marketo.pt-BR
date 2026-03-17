@@ -1,11 +1,11 @@
 ---
-description: Adicionar ou remover pessoas do  [!DNL Dynamics] Campaign - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar ou remover pessoas de uma campanha do Microsoft Dynamics com uma etapa de fluxo. Sincronizar o Marketo com campanhas do Dynamics.
 title: Adicionar ou Remover Pessoas da sua  [!DNL Dynamics] Campanha
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---

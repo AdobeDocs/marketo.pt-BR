@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147009
-description: Sucesso do programa de alterações - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar o sucesso do programa em uma etapa de fluxo. Marcar as pessoas como sucesso em um programa quando elas concluírem uma ação.
 title: Alterar sucesso do programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 5%
+source-wordcount: '154'
+ht-degree: 4%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146962
-description: Pontuação de alterações - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar a pontuação de lead em uma etapa de fluxo. Adicione ou subtraia pontos de uma pontuação de pessoa na campanha.
 title: Alterar pontuação
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 

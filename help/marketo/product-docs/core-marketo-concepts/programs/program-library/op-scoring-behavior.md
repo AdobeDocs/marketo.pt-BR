@@ -1,12 +1,12 @@
 ---
-description: OP-Scoring-Behavior - Documentação do Marketo - Documentação do produto
+description: Modelo do programa operacional Comportamento da pontuação. Use-o para definir como funciona a pontuação de clientes potenciais.
 title: OP-Pontuação-Comportamento
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 30%
+source-wordcount: '355'
+ht-degree: 29%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 30%
 
 Este exemplo é um Programa operacional avançado (tokenizado) para a Pontuação de comportamento usando um Programa padrão do Marketo Engage. Exiba e edite os valores de pontuação na guia &quot;Meus tokens&quot; do programa. Requer o campo de pontuação personalizado chamado &quot;Pontuação de comportamento&quot;.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

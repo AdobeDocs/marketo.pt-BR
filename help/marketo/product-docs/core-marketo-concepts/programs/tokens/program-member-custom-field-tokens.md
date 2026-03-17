@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: Tokens de campo personalizado de membros do programa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os tokens de campo personalizado dos membros do programa. Use tokens para inserir dados do membro em emails e landing pages.
 title: Tokens de campo personalizado de membro do programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '444'
 ht-degree: 5%
 
 ---
@@ -53,7 +53,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 >
 >Não se esqueça de aprovar seu e-mail.
 
-**Páginas de aterrissagem**
+**Páginas de destino**
 
 1. Selecione sua Landing Page e clique em **[!UICONTROL Editar rascunho]**.
 

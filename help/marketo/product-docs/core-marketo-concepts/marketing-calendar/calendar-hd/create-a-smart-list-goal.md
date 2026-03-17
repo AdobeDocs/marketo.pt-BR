@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504128
-description: Criar um objetivo de lista inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma meta de lista inteligente no Calendário de marketing. Acompanhe o progresso com metas que são atualizadas automaticamente a cada 2 horas em apresentações.
 title: Criar uma meta de lista inteligente
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '159'
 ht-degree: 6%
 
 ---

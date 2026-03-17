@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953405
-description: Editar configurações de comportamento do Analytics - Documentação do Marketo - Documentação do produto
+description: Saiba como editar configurações de comportamento de análise para um programa. Configure como o sucesso e a receita do programa são rastreados.
 title: Editar configurações de comportamento das análises
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 6%
+source-wordcount: '191'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Você pode definir o [comportamento do analytics no nível do administrador nos canais](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, mas também pode editá-lo no nível do programa. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 

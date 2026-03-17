@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147015
-description: Fluxo do programa de engajamento de alteração - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar o fluxo do programa de engajamento em uma etapa de fluxo. Mover pessoas para um fluxo diferente no programa de envolvimento.
 title: Alterar fluxo do programa de envolvimento
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 8%
+source-wordcount: '106'
+ht-degree: 7%
 
 ---
 

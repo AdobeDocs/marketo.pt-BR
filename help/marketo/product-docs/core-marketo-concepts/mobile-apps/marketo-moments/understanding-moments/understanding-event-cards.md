@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781974
-description: Noções básicas sobre cartões de evento - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os cartões de Evento no Marketo Moments. Exibir detalhes do programa do evento e executar ações no aplicativo móvel.
 title: Noções básicas sobre cartões de evento
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 5%
+source-wordcount: '163'
+ht-degree: 4%
 
 ---
 

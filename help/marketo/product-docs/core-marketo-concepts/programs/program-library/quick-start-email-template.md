@@ -1,11 +1,11 @@
 ---
-description: Modelo de email de início rápido - Documentação do Marketo - Documentação do produto
+description: Modelo de email de início rápido. Use-o para criar emails rapidamente a partir de um modelo pré-criado.
 title: Modelo de email de início rápido
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '571'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ O editor de email do Marketo Engage vem equipado com recursos que ajudam a alter
 
 * **Variáveis**: quando um módulo é selecionado, as variáveis são exibidas no lado direito do editor. Eles podem ser usados para ajustar atributos do módulo que não são facilmente editáveis por meio de elementos de imagem ou texto.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo dos módulos {#modules-summary}
 

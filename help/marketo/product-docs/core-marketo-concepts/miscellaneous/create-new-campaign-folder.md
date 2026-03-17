@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953207
-description: Criar nova pasta do Campaign - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma nova pasta de campanha em Atividades de marketing. Organize seu espaço de trabalho com pastas de campanha para automação e ativos.
 title: Criar nova pasta de campanha
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '123'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 As pastas do Campaign ajudam você a manter um espaço de trabalho organizado. Siga estas etapas simples e você está a caminho da mágica da automação.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

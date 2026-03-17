@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147049
-description: Renomear uma campanha inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como renomear uma Campanha inteligente. Altere o nome da campanha nas configurações da campanha ou no menu de contexto.
 title: Renomear uma campanha inteligente
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 11%
+source-wordcount: '99'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Você pode alterar o nome de uma Campanha inteligente existente. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/rename-a-smart-campaign-1.png)
 

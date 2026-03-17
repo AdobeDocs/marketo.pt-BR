@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147070
-description: Exportar resultados da campanha inteligente para  [!DNL Excel] - Documentação do Marketo - Documentação do produto
+description: Saiba como exportar resultados do Smart Campaign para o Excel. Baixe dados dos membros da campanha para relatórios ou análises.
 title: Exportar resultados da campanha inteligente para  [!DNL Excel]
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---

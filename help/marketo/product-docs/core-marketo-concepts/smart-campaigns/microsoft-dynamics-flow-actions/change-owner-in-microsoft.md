@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356426
-description: Alterar proprietário no Microsoft - Documentação do Marketo - Documentação do produto
+description: Saiba como alterar o proprietário no Microsoft Dynamics com uma etapa de fluxo. Atribua um novo proprietário quando as pessoas entrarem no fluxo.
 title: Alterar proprietário na Microsoft
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 9%
+source-wordcount: '104'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146970
-description: Programar uma campanha inteligente em lote para execução posterior - Documentação do Marketo - Documentação do produto
+description: Saiba como agendar uma Campanha inteligente em lote para execução posterior. Defina uma data e hora para que a campanha seja executada uma vez.
 title: Programar uma campanha inteligente em lote para execução posterior
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146950
-description: Aguardar - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a etapa Fluxo de espera em Campanhas inteligentes. Pausar o fluxo por uma duração ou até uma data específica antes de continuar.
 title: Aguardar
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 15%
+source-wordcount: '205'
+ht-degree: 14%
 
 ---
 

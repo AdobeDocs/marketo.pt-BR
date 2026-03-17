@@ -1,10 +1,10 @@
 ---
-description: Visão geral do mapa de engajamento - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o Mapa de engajamento para visualizar suas Campanhas inteligentes. Use-a para visualizar acionadores, filtros e etapas de fluxo intuitivamente no Marketo.
 title: Visão geral do mapa de engajamento
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '757'
 ht-degree: 1%
 
 ---

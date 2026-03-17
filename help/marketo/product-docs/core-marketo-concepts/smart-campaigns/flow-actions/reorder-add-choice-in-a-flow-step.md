@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557333
-description: Reordenar opção de adição em uma etapa de fluxo - Documentação do Marketo - Documentação do produto
+description: Saiba como reordenar as opções Adicionar opção em uma etapa de fluxo. Altere a ordem das ramificações de escolha na campanha.
 title: Reordenar Adicionar Escolha em uma Etapa de Fluxo
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---

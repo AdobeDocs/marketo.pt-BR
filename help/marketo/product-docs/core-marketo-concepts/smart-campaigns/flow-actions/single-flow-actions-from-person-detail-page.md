@@ -1,14 +1,14 @@
 ---
-description: Página Ações de fluxo único de Detalhes da pessoa - Documentação do Marketo - Documentação do produto
+description: Saiba como executar uma única ação de fluxo na página de detalhes da pessoa. Execute uma etapa do fluxo para uma pessoa sob demanda.
 title: Ações de fluxo único da página Detalhes da pessoa
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 11%
+source-wordcount: '132'
+ht-degree: 12%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 11%
 
 Além de executar ações de fluxo único de uma Smart List, você também pode executá-las diretamente em uma página Detalhes da pessoa.
 
-1. Clique em **[!UICONTROL Banco de Dados]**.
+1. Clique em **[!UICONTROL Banco de dados]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 

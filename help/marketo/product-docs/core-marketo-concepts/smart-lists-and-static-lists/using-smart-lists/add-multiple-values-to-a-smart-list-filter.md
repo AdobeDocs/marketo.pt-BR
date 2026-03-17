@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: Adicionar vários valores a um Filtro de lista inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar vários valores a um filtro de Smart List. Corresponda a qualquer um dos vários valores em um filtro para obter flexibilidade.
 title: Adicionar múltiplos valores a um filtro de lista inteligente
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 12%
+source-wordcount: '141'
+ht-degree: 14%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 Digamos que você queira encontrar todos na Califórnia, mas você pode estar armazenando &quot;Califórnia&quot; e &quot;CA&quot; no seu banco de dados. Para incluir todas as pessoas aplicáveis, você poderia usar dois filtros [!UICONTROL Estado], mas é mais fácil com um.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 

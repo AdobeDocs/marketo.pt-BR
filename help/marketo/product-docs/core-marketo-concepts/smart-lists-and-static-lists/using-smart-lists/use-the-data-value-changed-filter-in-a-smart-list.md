@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557324
-description: Usar o filtro de valores de dados alterados em uma Smart List - Documentação do Marketo - Documentação do produto
+description: Saiba como usar o filtro Valor de dados alterado em uma Smart List. Localizar pessoas quando um valor de campo for alterado.
 title: Usar o filtro Alteração do valor de dados em uma lista inteligente
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 19%
+source-wordcount: '153'
+ht-degree: 18%
 
 ---
 

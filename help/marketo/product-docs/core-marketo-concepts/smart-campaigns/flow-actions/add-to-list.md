@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146952
-description: Adicionar à lista - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar pessoas a uma lista com a etapa de fluxo Adicionar à lista. Use-a para criar listas de ações de campanha.
 title: Adicionar à lista
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 16%
+source-wordcount: '51'
+ht-degree: 11%
 
 ---
 
@@ -20,5 +20,3 @@ Esta etapa de fluxo é usada para adicionar pessoas a listas.
 Localize e selecione a lista à qual deseja adicionar suas pessoas.
 
 ![](assets/add-to-list-2.png)
-
-Muito simples!

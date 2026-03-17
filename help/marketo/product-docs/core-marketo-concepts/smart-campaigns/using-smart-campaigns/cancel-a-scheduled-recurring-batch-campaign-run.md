@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147060
-description: Cancelar uma execução de campanha em lote recorrente agendada - Documentação do Marketo - Documentação do produto
+description: Saiba como cancelar uma execução de campanha em lote recorrente agendada. Interrompa uma programação recorrente para que ela não seja mais executada.
 title: Cancelar uma execução de campanha em lote recorrente programada
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 13%
+source-wordcount: '129'
+ht-degree: 12%
 
 ---
 

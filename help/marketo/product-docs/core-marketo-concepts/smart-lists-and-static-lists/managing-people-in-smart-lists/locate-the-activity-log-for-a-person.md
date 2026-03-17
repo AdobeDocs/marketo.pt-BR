@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472404
-description: Localizar o registro de atividades de uma pessoa - Documentação do Marketo - Documentação do produto
+description: Saiba como localizar o registro de atividades de uma pessoa. Exibir email, Web e outro histórico de atividades de um cliente potencial.
 title: Localizar o log de atividades de uma pessoa
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '138'
 ht-degree: 13%
 
 ---

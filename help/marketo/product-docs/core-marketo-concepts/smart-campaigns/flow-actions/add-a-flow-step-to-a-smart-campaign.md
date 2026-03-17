@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146944
-description: Adicionar uma etapa de fluxo a uma campanha inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar uma etapa de fluxo a uma Campanha inteligente. Insira ações como enviar email, alterar valor de dados ou adicionar à lista.
 title: Adicionar uma etapa de fluxo a uma campanha inteligente
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 9%
+source-wordcount: '181'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 As etapas de fluxo informam à Marketo Engage o que você deseja que aconteça com um grupo de pessoas que se qualificam.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 

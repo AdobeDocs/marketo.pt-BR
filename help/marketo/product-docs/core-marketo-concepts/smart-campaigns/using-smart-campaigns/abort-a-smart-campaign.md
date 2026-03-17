@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147053
-description: Anular uma campanha inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como abortar uma campanha inteligente. Interrompa uma campanha em lote em execução e evite a entrada de mais pessoas.
 title: Sobre campanhas inteligentes
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '154'
 ht-degree: 5%
 
 ---

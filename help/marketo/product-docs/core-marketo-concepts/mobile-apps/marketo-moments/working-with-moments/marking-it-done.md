@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783557
-description: Marcando a conclusão - Documentação do Marketo - Documentação do produto
+description: Saiba como marcar um momento como concluído no aplicativo Momentos da Marketo. Limpar itens da lista quando concluído.
 title: Marcar tarefas como concluídas
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '148'
 ht-degree: 5%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Solicitações de privacidade - Documentação do Marketo - Documentação do produto
+description: Saiba como gerenciar solicitações de privacidade para acesso e exclusão no Marketo. Envie solicitações por meio da interface do usuário ou da API do Privacy Service e processe dados do consumidor.
 title: Solicitações de privacidade
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 16%
+source-wordcount: '353'
+ht-degree: 15%
 
 ---
 

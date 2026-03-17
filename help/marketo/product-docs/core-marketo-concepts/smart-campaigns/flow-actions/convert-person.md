@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147019
-description: Converter pessoa - Documentação do Marketo - Documentação do produto
+description: Saiba como converter uma pessoa em uma etapa de fluxo. Marcar visitantes anônimos como conhecidos quando eles convertem.
 title: Converter pessoa
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '115'
 ht-degree: 3%
 
 ---

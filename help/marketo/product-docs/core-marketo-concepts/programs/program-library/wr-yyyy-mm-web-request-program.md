@@ -1,11 +1,11 @@
 ---
-description: Programa de solicitação da Web WR-YYYY-MM - Documentação do Marketo - Documentação do produto
+description: Modelo do programa de Solicitação da Web. Use-o para conteúdo fechado e envios de formulários.
 title: WR-MM-AAAA-Programa de solicitação da web
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '405'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Este é um exemplo de programa ideal para solicitação de contato, solicitação de orçamento, solicitação de demonstração ou formulários de solicitação de avaliação utilizando um Programa padrão da Marketo Engage. Pode ser usado com Páginas de aterrissagem do Marketo ou como um formulário incorporado em páginas de aterrissagem que não sejam da Marketo. Um email de alerta é enviado a uma pessoa especificada no envio do formulário.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

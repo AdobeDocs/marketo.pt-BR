@@ -1,11 +1,11 @@
 ---
-description: Página de aterrissagem de conteúdo não-Marketo para CT-YYYY-MM - Documentação do Marketo - Documentação do produto
+description: Modelo do programa de página de aterrissagem de conteúdo não-Marketo. Use-o para conteúdo em páginas de aterrissagem externas.
 title: CT-MM-AAAA-Conteúdo de página de destino não gerenciado pelo Marketo
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este é um exemplo de um programa de conteúdo com um formulário do Marketo Engage para baixar conteúdo em uma página de aterrissagem que não seja da Marketo Engage utilizando um programa padrão do Marketo Engage. Este programa deve funcionar com um formulário do Marketo Engage incorporado no seu site. O link para a oferta/conteúdo pode ser enviado em um email de agradecimento.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 

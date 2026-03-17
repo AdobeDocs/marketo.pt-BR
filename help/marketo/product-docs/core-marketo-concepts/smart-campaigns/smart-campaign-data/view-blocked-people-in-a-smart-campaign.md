@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147062
-description: Exibir pessoas bloqueadas em uma campanha inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como exibir pessoas bloqueadas em uma Campanha inteligente. Veja quem foi bloqueado do fluxo e por quê.
 title: Exibir pessoas bloqueadas em uma campanha inteligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 11%
+source-wordcount: '132'
+ht-degree: 10%
 
 ---
 

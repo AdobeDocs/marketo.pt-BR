@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146948
-description: Enviar email - Documentação do Marketo - Documentação do produto
+description: Saiba como enviar um email em uma etapa do fluxo do Campaign inteligente. Adicione a ação enviar email ao seu fluxo de campanha.
 title: Enviar email
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 4%
+source-wordcount: '106'
+ht-degree: 3%
 
 ---
 
