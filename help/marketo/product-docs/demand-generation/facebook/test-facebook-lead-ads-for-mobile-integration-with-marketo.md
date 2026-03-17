@@ -17,7 +17,7 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo!
 
 >[!PREREQUISITES]
 >
->Você deve [Configurar a [!UICONTROL Integração dos ] dos Anúncios de cliente potencial do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Você deve [Configurar a [!UICONTROL Integração dos &#x200B;] dos Anúncios de cliente potencial do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. No [!UICONTROL Facebook Power Editor], selecione uma campanha, um anúncio e clique em **[!UICONTROL Editar]**.
 
