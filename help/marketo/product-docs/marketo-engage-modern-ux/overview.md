@@ -1,12 +1,12 @@
 ---
-description: Visão geral da experiência moderna do Marketo Engage - Documentos do Marketo - Documentação do produto
+description: Saiba mais sobre o Marketo Engage Modern UX e sua interface atualizada com usabilidade aprimorada e nova aparência.
 title: Visão geral da experiência moderna do Marketo Engage
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 95%
 
 ---
 

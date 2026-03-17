@@ -1,12 +1,12 @@
 ---
-description: Uso da Pesquisa global - Documentação do Marketo - Documentação do produto
+description: Saiba como usar a pesquisa global no Marketo Engage para encontrar ativos em toda a instância. Execute pesquisas, clique em navegações estruturais para ir até os itens e use filtros para restringir os resultados.
 title: Uso da pesquisa global
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 8%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 
