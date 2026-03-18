@@ -42,9 +42,9 @@ Exporte facilmente um modelo, incluindo as diretrizes da sua marca, para a GenSt
 
    ![Exportando sua HTML](assets/genstudio-integration-1.png)
 
-1. [Carregar o modelo exportado do HTML](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} para o GenStudio for Performance Marketing.
+1. [Carregar o modelo exportado do HTML](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} para o GenStudio for Performance Marketing.
 
-1. No GenStudio, use este modelo para [criar várias variações de email](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} com prompts de IA e salvá-las.
+1. No GenStudio, use este modelo para [criar várias variações de email](https://experienceleague.adobe.com/pt-br/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} com prompts de IA e salvá-las.
 
 ## Aproveitar as experiências do GenStudio no Marketo Engage {#leverage-genstudio-experiences}
 
