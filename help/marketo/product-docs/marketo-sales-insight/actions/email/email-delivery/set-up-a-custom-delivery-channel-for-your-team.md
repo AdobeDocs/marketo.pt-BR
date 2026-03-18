@@ -1,12 +1,12 @@
 ---
-description: Configurar um canal de entrega personalizado para sua equipe - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar um canal de entrega personalizado para sua equipe. Configurar o envio e o rastreamento de emails de vendas.
 title: Configurar um canal de entrega personalizado para sua equipe
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

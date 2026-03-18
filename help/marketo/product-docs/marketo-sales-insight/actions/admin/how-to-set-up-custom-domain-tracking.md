@@ -1,18 +1,18 @@
 ---
-description: Como configurar o rastreamento de domínio personalizado - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o rastreamento de domínio personalizado para que os links rastreáveis usem o domínio da sua empresa.
 title: Como configurar o rastreamento de domínio personalizado
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 6%
 
 ---
 
 # Como configurar o rastreamento de domínio personalizado {#how-to-set-up-custom-domain-tracking}
 
-O Rastreamento de domínio personalizado permite que sua equipe use o nome da própria empresa em todos os links rastreáveis adicionados aos emails de vendas. Depois de configurar isso, incluiremos na lista de permissões qualquer link que você tiver no seu e-mail para aparecer como go.yourcompany.com, para que, quando alguém passar o mouse sobre um link, ele leia go.yourcompany.com em vez de go.toutapp.com.
+O Rastreamento de domínio personalizado permite que sua equipe use o nome da própria empresa em todos os links rastreáveis adicionados aos emails de vendas. Depois que você configurar isso, incluiremos na lista de permissões qualquer link que você tiver no seu email para que apareça como go.yourcompany.com, para que, quando alguém passar o mouse sobre um link, ele leia go.yourcompany.com em vez de go.toutapp.com.
 
 Você precisará da assistência da sua equipe de TI para configurar um registro CNAME para o seu domínio que aponte para go.toutapp.com. Esse CNAME será o que aparece em todos os links de rastreamento (por exemplo, go.yourcompany.com).
 

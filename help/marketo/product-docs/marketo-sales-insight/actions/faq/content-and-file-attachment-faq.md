@@ -1,11 +1,11 @@
 ---
-description: Perguntas frequentes sobre anexos de conteúdo e arquivo - Documentação do Marketo - Documentação do produto
+description: Obtenha respostas para perguntas comuns sobre conteúdo e anexos de arquivo em emails de vendas. Saiba mais sobre limites de tamanho, rastreamento e práticas recomendadas.
 title: Perguntas frequentes sobre conteúdo e anexo de arquivo
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '273'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382815
-description: Instalação do Marketo [!DNL Outlook] Plugin pela TI - Documentação da Marketo - Documentação do produto
+description: Saiba como o departamento de TI pode instalar o plug-in do Marketo Outlook para a organização. Implante o suplemento em escala para usuários do Outlook.
 title: Instalação do Marketo [!DNL Outlook] Plugin pela TI
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---

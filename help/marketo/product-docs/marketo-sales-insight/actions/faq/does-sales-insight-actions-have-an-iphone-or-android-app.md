@@ -1,12 +1,12 @@
 ---
-description: As ações do Sales Insight têm um aplicativo iPhone ou Android? - Documentos do Marketo - Documentação do produto
+description: Descubra se as Ações do Sales Insight têm um aplicativo móvel para iPhone ou Android. Saiba como usar Ações em dispositivos móveis.
 title: O recurso Ações de insight de vendas possui um aplicativo para iPhone ou Android?
 exl-id: 2789c76e-a26f-4efd-ae6b-e897197b9f55
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 27%
+source-wordcount: '59'
+ht-degree: 16%
 
 ---
 

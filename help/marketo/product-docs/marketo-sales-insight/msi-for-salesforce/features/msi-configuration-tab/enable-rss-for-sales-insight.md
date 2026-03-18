@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377005
-description: Ativar RSS para Insight de vendas - Documentação do Marketo - Documentação do produto
+description: Saiba como habilitar o RSS para o Marketo Sales Insight. Permitir que os usuários assinem atualizações de feed principais via RSS no Salesforce.
 title: Habilitar RSS para o Insight de vendas
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '102'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Se os usuários do Marketo quiserem exibir seu feed de cliente potencial não apenas em [!DNL Salesforce], mas também em um feed RSS, um administrador do Marketo deverá habilitá-lo primeiro. É fácil.
 

@@ -1,12 +1,12 @@
 ---
-description: Verificação de cancelamento de inscrição do Marketo - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a verificação de cancelamento de assinatura do Marketo para que os vendedores não possam enviar um email para as pessoas que cancelaram a assinatura no Marketo.
 title: Verificação de cancelamentos de inscrição no Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 4%
+source-wordcount: '149'
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ A [!UICONTROL Verificação de cancelamento de inscrição do Marketo] usa a con
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 ## Ativando {#turning-it-on}
 

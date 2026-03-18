@@ -1,11 +1,11 @@
 ---
-description: Configurações de gerenciamento de logon - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre as configurações de gerenciamento de logon para autenticação de ações do Sales Insight. Definir Somente Salesforce ou outras opções.
 title: Configurações de gerenciamento de logon
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '462'
 ht-degree: 2%
 
 ---

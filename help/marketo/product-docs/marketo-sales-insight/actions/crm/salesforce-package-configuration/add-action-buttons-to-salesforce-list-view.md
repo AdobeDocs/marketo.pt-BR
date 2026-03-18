@@ -1,10 +1,10 @@
 ---
-description: Adicionar botões de ação à exibição de lista do Salesforce - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar os botões Enviar email de vendas e Adicionar à campanha de vendas às exibições de lista do Salesforce. Configure no Lightning ou Classic usando os layouts do botão de exibição de lista.
 title: Adicionar botões de ação à exibição de lista do Salesforce
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '306'
 ht-degree: 8%
 
 ---

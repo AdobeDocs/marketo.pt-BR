@@ -1,12 +1,12 @@
 ---
-description: Chamada internacional - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre chamadas internacionais em Ações do Sales Insight. Faça e registre chamadas para números internacionais do discador.
 title: Chamada internacional
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 13%
+source-wordcount: '404'
+ht-degree: 12%
 
 ---
 

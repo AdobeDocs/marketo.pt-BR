@@ -1,12 +1,12 @@
 ---
-description: Verifique Seu Email - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como verificar seu endereço de email nas Ações do Sales Insight. Conclua a verificação para enviar emails de vendas rastreadas.
 title: Confirmar seu email
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 5%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 

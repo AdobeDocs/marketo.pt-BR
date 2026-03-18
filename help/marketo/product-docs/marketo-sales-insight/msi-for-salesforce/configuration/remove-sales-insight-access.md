@@ -1,12 +1,12 @@
 ---
-description: Remover o acesso ao Sales Insight - Documentação do Marketo - Documentação do produto
+description: Saiba como remover o acesso ao Sales Insight de usuários ou perfis no Salesforce. Revogue o acesso quando os usuários não precisarem mais do MSI.
 title: Remover acesso ao Insight de vendas
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 8%
+source-wordcount: '386'
+ht-degree: 7%
 
 ---
 

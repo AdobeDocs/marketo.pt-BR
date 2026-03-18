@@ -1,10 +1,10 @@
 ---
-description: Configurar uma sandbox de ações de vendas do Insight - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar uma sandbox de Ações do Sales Insight para testes. Solicite o provisionamento, ative a instância e conecte-se à Salesforce Sandbox.
 title: Configurar uma sandbox do recurso Ações de insight de vendas
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '682'
 ht-degree: 2%
 
 ---

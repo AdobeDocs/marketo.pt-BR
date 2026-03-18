@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512654
-description: Visualização do feed de cliente potencial no Salesforce1 - Documentação do Marketo - Documentação do produto
+description: Saiba como ver o feed principal no Salesforce Mobile (Salesforce1). Exibir atividade de lead em tempo real no painel MSI em dispositivos móveis.
 title: Visualização do feed de leads no Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '81'
 ht-degree: 7%
 
 ---
@@ -35,4 +35,4 @@ O Feed de lead é uma lista atualizada por minuto de eventos interessantes feito
 >
 >* [Momentos interessantes em [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Enviar emails do Marketo e ações do Campaign e da Lista de favoritos em [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [[!DNL Best Bets] em [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

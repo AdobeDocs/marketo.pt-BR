@@ -1,11 +1,11 @@
 ---
-description: Perguntas frequentes sobre a sincronização de dados de ações - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a sincronização de dados de ações entre o Marketo Engage, o Salesforce e as ações do Sales Insight. Obtenha respostas para perguntas comuns sobre pessoas e sincronização de dados de atividades.
 title: Perguntas frequentes sobre a Sincronização de Dados de Ações
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '974'
 ht-degree: 3%
 
 ---

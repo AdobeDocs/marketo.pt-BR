@@ -1,11 +1,11 @@
 ---
-description: Configuração de visualizações do MSI - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar visualizações do MSI no Microsoft Dynamics. Configure quais guias e dados do Marketo Sales Insight aparecem para os usuários.
 title: Configuração de exibições do MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '261'
 ht-degree: 4%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Tipos de etapa da campanha de vendas e tarefas de lembrete - Documentação do Marketo - Documentação do produto
+description: Entenda os tipos de etapa da Campanha de Vendas e as tarefas de lembrete. Use as etapas Email, Chamada, InMail e Tarefa personalizada e enfileire tarefas no Centro de comando e no Salesforce.
 title: Tipos de etapa de campanha de vendas e tarefas de lembrete
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '331'
 ht-degree: 5%
 
 ---

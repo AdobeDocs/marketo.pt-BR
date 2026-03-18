@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953338
-description: Envie um email de vendas do Marketo pela Microsoft Dynamics - Documentação do Marketo - Documentação do produto
+description: Saiba como enviar um email de vendas do Marketo pela Microsoft Dynamics. Componha e envie emails rastreados do painel MSI no Dynamics.
 title: Enviar um email de vendas do Marketo pelo Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '165'
 ht-degree: 6%
 
 ---

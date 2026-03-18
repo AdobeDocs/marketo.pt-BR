@@ -1,11 +1,11 @@
 ---
-description: Configurações De Compartilhamento - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como definir as configurações de compartilhamento para controlar quem pode compartilhar modelos em categorias.
 title: Configurações de compartilhamento
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '240'
 ht-degree: 1%
 
 ---

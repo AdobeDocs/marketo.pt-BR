@@ -1,11 +1,11 @@
 ---
-description: Criar uma campanha de vendas - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma Campanha de vendas com email, chamada, InMail e etapas de tarefa personalizadas. Organize, dimensione e meça o alcance da comunidade.
 title: Criar uma campanha de vendas
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '328'
 ht-degree: 2%
 
 ---

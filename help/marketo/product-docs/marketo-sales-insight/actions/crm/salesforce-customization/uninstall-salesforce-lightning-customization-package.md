@@ -1,12 +1,12 @@
 ---
-description: Desinstale o pacote de personalização do Salesforce Lightning - Documentação do Marketo - Documentação do produto
+description: Saiba como desinstalar o pacote de personalização do Salesforce Lightning para o Sales Insight. Remova o pacote da instância do Salesforce quando necessário.
 title: Desinstalar o pacote de personalização do Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 9%
+source-wordcount: '1169'
+ht-degree: 10%
 
 ---
 

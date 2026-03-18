@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146999
-description: Tokens de acionador para momentos interessantes - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre tokens de acionador para momentos interessantes no Marketo. Configure quais atividades criam momentos interessantes no painel MSI.
 title: Tokens acionadores de momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 68%
+source-wordcount: '556'
+ht-degree: 67%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 68%
 
 Confira [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) para ver todos os tokens que você pode colocar em um momento interessante.
 
-## Tokens de acionador {#trigger-tokens}
+## Tokens de acionadores {#trigger-tokens}
 
 Com base no acionador usado em uma campanha inteligente, os Tokens de acionador adicionais são disponibilizados.
 

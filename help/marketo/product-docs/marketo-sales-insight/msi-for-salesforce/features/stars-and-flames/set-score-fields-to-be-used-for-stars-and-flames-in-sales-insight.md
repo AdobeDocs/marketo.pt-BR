@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
-description: Definir campos de pontuação a serem usados para estrelas e chamas no Sales Insight - Marketo Docs - Documentação do produto
+description: Saiba como definir campos de pontuação para estrelas e chamas no Sales Insight. Mapeie os campos de pontuação do Marketo para a exibição do MSI no Salesforce.
 title: Definir campos de pontuação a serem usados para estrelas e chamas no Insight de vendas
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Por padrão, [!DNL Marketo Sales Insight] usa o campo **[!UICONTROL Pontuação do lead]** para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 

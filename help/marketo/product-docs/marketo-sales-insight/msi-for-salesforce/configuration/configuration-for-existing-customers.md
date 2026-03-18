@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762519
-description: Configuração para clientes existentes - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o Marketo Sales Insight para clientes existentes da Salesforce. Atualize a partir de pacotes mais antigos ou adicione Ações.
 title: Configuração para clientes existentes
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '179'
+ht-degree: 8%
 
 ---
 

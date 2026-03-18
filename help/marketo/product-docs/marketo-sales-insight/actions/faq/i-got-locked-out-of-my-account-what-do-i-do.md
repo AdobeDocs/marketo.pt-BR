@@ -1,12 +1,12 @@
 ---
-description: Não consigo entrar na minha conta. O que eu faço? - Documentos do Marketo - Documentação do produto
+description: Obtenha ajuda quando não tiver sua conta de Ações do Sales Insight. Saiba como redefinir a senha ou reconectar o Salesforce para recuperar o acesso.
 title: Não consigo entrar na minha conta. O que eu faço?
 exl-id: e3ef9909-36e6-434b-8f6e-161af69e093b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 61%
+source-wordcount: '61'
+ht-degree: 36%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762244
-description: Configuração de estrelas e chamas para registros de clientes potenciais/contatos - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar estrelas e chamas para registros de lead e contato no Dynamics. Mostrar pontuação de lead e urgência no CRM.
 title: Configuração dos ícones de estrelas e chamas para registros de leads/contatos
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '192'
 ht-degree: 9%
 
 ---

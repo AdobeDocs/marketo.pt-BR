@@ -1,11 +1,11 @@
 ---
-description: Salesforce Diagnostics - Documentação do Marketo - Documentação do produto
+description: Entenda os diagnósticos e as mensagens de erro do Salesforce para logs de dados com falha. Acesse a página Diagnósticos e use a folha de características de erro para solucionar problemas.
 title: Diagnóstico do Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1358'
 ht-degree: 1%
 
 ---
@@ -139,7 +139,7 @@ Parte de nossa integração [!DNL Salesforce] inclui uma página de Diagnóstico
 **Categoria:** Autenticação
 **Mensagem:** invalid_grant: ip restrito
 **O que está acontecendo:** estamos tentando acessar seu [!DNL Salesforce], mas você tem Restrições de IP em vigor que nos impedem de fazer isso.
-incluir na lista de permissões **Etapas de Solução de Problemas:** O Administrador do [!DNL Salesforce] precisará copiar nossos IPs. Os usuários devem entrar em contato com o Suporte para obter os endereços IP.
+**Etapas de Solução de Problemas:** O Administrador do [!DNL Salesforce] precisará incluir na lista de permissões nossos IPs. Os usuários devem entrar em contato com o Suporte para obter os endereços IP.
 
 **Erro:** INVALID_TYPE
 **Categoria:** Acesso/Validação

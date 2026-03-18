@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849099
-description: Atualize a solução de vendas da Insight da Marketo para Microsoft Dynamics - Documentação da Marketo - Documentação do produto
+description: Saiba como atualizar a solução Marketo Sales Insight para Microsoft Dynamics. Obtenha a versão mais recente e aplique a atualização.
 title: Atualizar a solução Insight de vendas do Marketo para Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 6%
+source-wordcount: '138'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Quando uma nova solução do [!DNL Microsoft Dynamics] for lançada para o [!DNL
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

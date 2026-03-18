@@ -1,11 +1,11 @@
 ---
-description: Modelos de e-mail de vendas transacionais - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre modelos de email de vendas transacionais e quando os links para o cancelamento de inscrição não são obrigatórios. Use para mensagens transacionais individuais.
 title: Modelos de email de vendas transacionais
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---

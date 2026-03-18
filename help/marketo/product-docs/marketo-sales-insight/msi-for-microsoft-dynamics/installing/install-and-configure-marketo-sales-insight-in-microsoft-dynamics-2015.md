@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513865
-description: Instalar e configurar o Marketo Sales Insight no Microsoft Dynamics 2015 - Documentação do Marketo - Documentação do produto
+description: Saiba como instalar e configurar o Marketo Sales Insight no Microsoft Dynamics 2015. Adicione a solução e conclua a configuração.
 title: Instalar e configurar o Insight de vendas do Marketo no Microsoft Dynamics 2015
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 4%
+source-wordcount: '415'
+ht-degree: 6%
 
 ---
 
@@ -53,11 +53,11 @@ OK, agora é hora de importar a solução [!DNL Marketo Sales Insight] para o [!
 
    ![](assets/image2014-12-12-9-3a5-3a45.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-12-12-9-3a5-3a55.png)
 
-1. A solução será carregada. Você pode visualizar o conteúdo do pacote se desejar. Clique em **[!UICONTROL Avançar]**.
+1. A solução será carregada. Você pode visualizar o conteúdo do pacote se desejar. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949279
-description: Atualize seu Suplemento de Email do Marketo para  [!DNL Outlook]  - Documentação do Marketo - Documentação do produto
+description: Saiba como atualizar o Suplemento de email do Marketo para Outlook. Obtenha a versão mais recente para novos recursos e correções.
 title: Atualize seu Suplemento de Email do Marketo para  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 11%
+source-wordcount: '335'
+ht-degree: 12%
 
 ---
 
@@ -129,7 +129,7 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -153,7 +153,7 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 

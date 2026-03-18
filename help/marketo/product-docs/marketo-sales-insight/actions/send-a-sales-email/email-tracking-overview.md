@@ -1,11 +1,11 @@
 ---
-description: Visão geral do rastreamento de email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o rastreamento de email para emails de vendas. Entenda como as exibições, os cliques e as respostas são rastreados e registrados.
 title: Visão geral de rastreamento de email
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '497'
 ht-degree: 5%
 
 ---

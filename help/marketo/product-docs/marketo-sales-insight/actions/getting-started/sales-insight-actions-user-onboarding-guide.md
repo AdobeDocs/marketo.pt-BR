@@ -1,12 +1,12 @@
 ---
-description: Guia de integração do usuário de ações do Insight de vendas - Documentação do Marketo - Documentação do produto
+description: Saiba como começar como um novo usuário de Ações do Sales Insight. Conclua as etapas de configuração e conecte email, Salesforce e Marketo.
 title: Guia de integração do usuário do recurso Ações de insight de vendas
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 5%
+source-wordcount: '331'
+ht-degree: 6%
 
 ---
 
@@ -47,7 +47,7 @@ Os novos usuários precisarão seguir as etapas abaixo.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 

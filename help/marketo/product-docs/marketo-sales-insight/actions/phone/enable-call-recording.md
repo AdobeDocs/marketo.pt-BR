@@ -1,12 +1,12 @@
 ---
-description: Habilitar Registro de Chamada - Documentação do Marketo - Documentação do Produto
+description: Saiba como habilitar a gravação de chamada em Ações do Sales Insight. Ativar a gravação e cumprir com o consentimento de dois participantes, quando necessário.
 title: Habilitar gravação de chamadas
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 6%
+source-wordcount: '112'
+ht-degree: 5%
 
 ---
 

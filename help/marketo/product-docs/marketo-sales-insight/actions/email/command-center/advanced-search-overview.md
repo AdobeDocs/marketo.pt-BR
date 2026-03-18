@@ -1,11 +1,11 @@
 ---
-description: Visão geral da pesquisa avançada - Documentação do Marketo - Documentação do produto
+description: Saiba como usar a pesquisa avançada no Centro de comando para localizar emails e tarefas. Filtre por data, remetente, status e outros critérios.
 title: Visão geral da pesquisa avançada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '443'
 ht-degree: 3%
 
 ---
@@ -65,7 +65,7 @@ Filtrar por destinatário/remetente do email na seção [!UICONTROL Quem].
  </tr>
 </table>
 
-**Quando**
+**When**
 
 Escolha por data de criação, data de entrega, data de falha ou data programada. As opções disponíveis mudam, dependendo do status do email escolhido ([!UICONTROL Enviado], [!UICONTROL Não entregue], [!UICONTROL Pendente]).
 
@@ -83,13 +83,13 @@ Há três status de email para escolher. As opções de tipo/atividade mudam com
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: Enviado**&#x200B;_
+_**Status: Enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtros de acordo com a atividade de email enviada. Você pode escolher [!UICONTROL exibições]/[!UICONTROL nenhuma exibição], [!UICONTROL cliques]/[!UICONTROL nenhum clique] e/ou [!UICONTROL respostas]/[!UICONTROL nenhuma resposta].
 
-_&#x200B;**Status: Pendente**&#x200B;_
+_**Status: Pendente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra por todos os emails pendentes.
  </tr>
 </table>
 
-_&#x200B;**Status: não entregue**&#x200B;_
+_**Status: não entregue**_
 
 ![](assets/advanced-search-overview-12.png)
 

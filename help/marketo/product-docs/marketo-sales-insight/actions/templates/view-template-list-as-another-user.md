@@ -1,14 +1,14 @@
 ---
-description: Visualizar a lista de modelos como outro usuário - Documentação do Marketo - Documentação do produto
+description: Saiba como visualizar a lista de modelos como outro usuário quando você é administrador. Use Visualizar como para ver os modelos de outro usuário.
 title: Exibir a lista de modelos como outro usuário
 hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '90'
+ht-degree: 16%
 
 ---
 
@@ -18,7 +18,7 @@ Como administrador, você pode visualizar os modelos como qualquer usuário.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Clique em **[!UICONTROL Modelos]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720314
-description: Relatório de desempenho de email do Sales Insight - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o relatório de desempenho de email do Sales Insight no Salesforce. Exibir métricas e engajamento de email para emails de vendas.
 title: Relatório de desempenho de emails do Insight de vendas
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 8%
+source-wordcount: '161'
+ht-degree: 16%
 
 ---
 
@@ -41,7 +41,7 @@ Visualize o desempenho de emails enviados por meio do [!DNL Salesforce], [!DNL M
 
 >[!TIP]
 >
->Clique no nome de um email para abri-lo no Pré-visualizador de email.
+>Clique no nome de um email para abri-lo no pré-visualizador de emails.
 
 ## Agrupar por [!UICONTROL Representante de Vendas] {#group-by-sales-rep}
 

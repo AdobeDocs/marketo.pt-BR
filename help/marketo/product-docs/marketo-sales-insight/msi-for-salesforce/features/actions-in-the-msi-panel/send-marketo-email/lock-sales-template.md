@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981050
-description: Bloquear modelo de vendas - Documentação do Marketo - Documentação do produto
+description: Saiba como bloquear um modelo de vendas no Marketo Sales Insight. Impedir alterações em um modelo para que vendas usem a versão aprovada.
 title: Bloquear modelo de vendas
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 4%
+source-wordcount: '225'
+ht-degree: 5%
 
 ---
 
@@ -23,7 +23,7 @@ Para impedir que usuários do CRM editem modelos de vendas, os administradores p
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para **[!UICONTROL Admin]** e clique em **[!UICONTROL Sales Insight]**.
 

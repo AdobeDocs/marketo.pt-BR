@@ -1,12 +1,12 @@
 ---
-description: Conectar novo administrador ao Marketo - Documentação do Marketo - Documentação do produto
+description: Saiba como conectar um novo administrador ao Marketo e transferir a integração do Marketo. Siga as etapas para desconectar o administrador atual e estabelecer uma nova conexão.
 title: Conectar novo(a) admin ao Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 2%
+source-wordcount: '508'
+ht-degree: 1%
 
 ---
 

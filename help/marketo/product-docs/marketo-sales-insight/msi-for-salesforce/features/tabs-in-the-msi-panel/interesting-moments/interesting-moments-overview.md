@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949720
-description: Visão geral de momentos interessantes - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre momentos interessantes no painel Marketo Sales Insight. Consulte atividades principais de clientes potenciais e envolvimento no Salesforce.
 title: Visão geral de momentos interessantes
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 5%
 
 ---
 

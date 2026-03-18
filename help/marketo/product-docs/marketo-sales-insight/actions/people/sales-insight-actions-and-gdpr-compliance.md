@@ -1,11 +1,11 @@
 ---
-description: Ações do Sales Insight e conformidade com o GDPR - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre Ações de vendas do Insight e conformidade com o GDPR. Entenda o manuseio de dados e as opções para oferecer suporte à privacidade e ao consentimento.
 title: Ações do insight de vendas e conformidade com o RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1378'
 ht-degree: 9%
 
 ---
@@ -71,7 +71,7 @@ No novo Cartão de conformidade, os usuários podem rastrear a origem de um cont
 
 Novamente, os usuários têm várias opções suspensas para escolher, incluindo:
 
-* [!UICONTROL Sincronização do CRM]
+* [!UICONTROL Sincronização com CRM]
 * [!UICONTROL Importar]
 * [!UICONTROL Carregamento Manual]
 * [!UICONTROL Extensão do Chrome]

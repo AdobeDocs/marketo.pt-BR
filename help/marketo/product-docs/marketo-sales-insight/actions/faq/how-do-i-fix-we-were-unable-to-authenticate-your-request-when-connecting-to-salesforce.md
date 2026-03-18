@@ -1,11 +1,11 @@
 ---
-description: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce - Marketo Docs - Documentação do produto
+description: Corrigir erros de autenticação ao conectar as Ações do Sales Insight ao Salesforce. Verifique o OAuth, as permissões e as etapas de conexão.
 title: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---

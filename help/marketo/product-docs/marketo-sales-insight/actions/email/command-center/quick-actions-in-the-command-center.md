@@ -1,11 +1,11 @@
 ---
-description: Ações rápidas no Centro de comando - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre ações rápidas no Centro de comando para emails e tarefas de vendas. Use ações para responder, marcar como concluída ou gerenciar itens rapidamente.
 title: Ações rápidas no Centro de comando
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '336'
 ht-degree: 5%
 
 ---

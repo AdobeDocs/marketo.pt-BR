@@ -1,12 +1,12 @@
 ---
-description: Adicionar texto com hiperlink - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar texto com hiperlink a modelos de email. Insira links rastreáveis e formate o texto do link no editor de modelo.
 title: Adicionar texto com hiperlink
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 5%
 
 ---
 
@@ -26,7 +26,7 @@ Siga as etapas abaixo para saber como adicionar hiperlinks aos seus modelos de e
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR`). Escolha se deseja que a URL seja aberta na mesma janela ou em uma nova janela e clique em **[!UICONTROL Salvar]**.
+1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Escolha se deseja que a URL seja aberta na mesma janela ou em uma nova janela e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

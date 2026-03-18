@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949716
-description: Enviar e rastrear um email com o suplemento de email do  [!DNL Outlook] - Documentação do Marketo - Documentação do produto
+description: Saiba como enviar e rastrear um email com o Suplemento de email do Marketo para Outlook. Redija a partir do Outlook e veja os modos de exibição, cliques e respostas.
 title: Enviar e Acompanhar um Email com o Suplemento de Email para  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---

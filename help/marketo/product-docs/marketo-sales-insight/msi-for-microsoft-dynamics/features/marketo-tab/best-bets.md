@@ -1,11 +1,11 @@
 ---
-description: Melhores Opções - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre as Melhores Opções no Marketo Sales Insight for Dynamics. Veja quais leads estão mais engajados e prontos para o alcance externo.
 title: Melhores opções
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---

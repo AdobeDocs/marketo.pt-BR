@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571735
-description: Instalar e configurar o Marketo Sales Insight no Microsoft Dynamics 2011 - Documentação do Marketo - Documentação do produto
+description: Saiba como instalar e configurar o Marketo Sales Insight no Microsoft Dynamics 2011. Adicione a solução e conclua a configuração.
 title: Instalar e configurar o Insight de vendas do Marketo no Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 4%
+source-wordcount: '376'
+ht-degree: 6%
 
 ---
 
@@ -39,7 +39,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de 
    >
    >Você já deve ter [instalado e configurado](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) a solução da Marketo antes de prosseguir.
 
-1. Clique em **[!UICONTROL Procurar]**. Selecione a solução [!DNL Marketo Sales Insight] que você [baixou](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Procurar]**. Selecione a solução [!DNL Marketo Sales Insight] que você [baixou](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -47,7 +47,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de 
 
    ![](assets/image2015-5-4-10-3a57-3a31.png)
 
-1. Verifique se a opção de mensagem do SDK está marcada. Clique em **[!UICONTROL Avançar]**.
+1. Verifique se a opção de mensagem do SDK está marcada. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-11-3a43-3a37.png)
 
@@ -71,7 +71,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de 
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Faça logon no Marketo e clique em **[!UICONTROL Admin]**.
 

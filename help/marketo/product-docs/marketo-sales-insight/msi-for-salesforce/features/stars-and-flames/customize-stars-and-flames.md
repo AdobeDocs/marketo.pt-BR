@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360303
-description: Personalizar estrelas e chamas - Documentação do Marketo - Documentação do produto
+description: Saiba como personalizar estrelas e chamas no Marketo Sales Insight. Configure como a pontuação e a urgência do lead aparecem no Salesforce.
 title: Personalizar estrelas e chamas
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Em [!UICONTROL Admin], clique em **[!UICONTROL Sales Insight]**.
 

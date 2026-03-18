@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095358
-description: Exibir informações e atividades de pessoas e contas no Google Mail - Documentação do Marketo - Documentação do produto
+description: Saiba como exibir informações e atividades de pessoas e contas no Gmail. Use a extensão do Marketo Insights para Chrome para contexto no email.
 title: Exibir informações e atividades de pessoas e contas no Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '299'
 ht-degree: 6%
 
 ---

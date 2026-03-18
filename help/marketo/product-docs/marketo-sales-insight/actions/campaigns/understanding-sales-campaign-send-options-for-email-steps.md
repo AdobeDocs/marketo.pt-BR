@@ -1,11 +1,11 @@
 ---
-description: Noções básicas sobre as opções de envio do Sales Campaign para as etapas de e-mail - Documentação do Marketo - Documentação do produto
+description: Entenda as opções de envio para as etapas de email do Sales Campaign. Escolha quando enviar, agende o horário de envio ou crie uma tarefa para enviar a si mesmo para a primeira etapa e etapas subsequentes.
 title: Noções básicas sobre opções de envio da campanha de vendas para etapas de email
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '755'
 ht-degree: 4%
 
 ---
@@ -75,5 +75,5 @@ Para qualquer dia/etapa subsequente em sua Campanha de vendas, você terá as se
 >[!MORELIKETHIS]
 >
 >[Criar uma campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Configurações da campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>[Tipos de Etapa de Campanha de Vendas e Tarefas de Lembrete](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[Configurações da campanha de vendas](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

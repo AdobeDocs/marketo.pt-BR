@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949281
-description: Emita uma licença do complemento de email do Marketo - Documentação do Marketo - Documentação do produto
+description: Saiba como emitir uma licença do Suplemento de email do Marketo para Outlook. Conceder licenças para que os usuários possam instalar e usar o suplemento.
 title: Emitir uma licença do complemento de email do Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '309'
 ht-degree: 4%
 
 ---
@@ -24,7 +24,7 @@ Qualquer pessoa que quiser usar o Suplemento de Email do Marketo [!DNL Outlook] 
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Em Meu Marketo, clique em **[!UICONTROL Admin]** e depois em **[!UICONTROL Sales Insight]**.
 

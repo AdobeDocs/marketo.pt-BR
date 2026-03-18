@@ -1,13 +1,13 @@
 ---
-description: Adicionar à campanha de marketing - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar contatos a uma campanha de marketing do Marketo em Ações do Sales Insight. Selecione contatos e adicione-os à campanha.
 title: Adicionar à campanha de marketing
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '334'
 ht-degree: 2%
 
 ---

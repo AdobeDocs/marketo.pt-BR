@@ -1,9 +1,9 @@
 ---
-description: Gerencie Seu Perfil - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como gerenciar seu perfil de Ações do Sales Insight. Atualize as preferências de nome, email, assinatura e notificação em Configurações.
 title: Gerenciar seu perfil
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '269'
 ht-degree: 6%
 
 ---

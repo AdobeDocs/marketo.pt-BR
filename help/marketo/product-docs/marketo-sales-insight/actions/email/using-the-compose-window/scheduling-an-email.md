@@ -1,9 +1,9 @@
 ---
-description: Agendamento de um email - Documentação do Marketo - Documentação do produto
+description: Saiba como agendar um email de vendas para entrega posterior. Defina a data e a hora da composição em Ações do Sales Insight ou em sua caixa de entrada.
 title: Agendar um email
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---

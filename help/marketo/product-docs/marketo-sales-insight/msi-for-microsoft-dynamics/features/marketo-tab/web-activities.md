@@ -1,12 +1,12 @@
 ---
-description: Atividades da Web - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre atividades da Web na guia Marketo no Dynamics. Consulte dados de visita e envolvimento da Web para clientes potenciais e contatos.
 title: Atividades da web
 exl-id: dca3f5ca-72b4-4c9c-a0fc-d9dee37c8ad6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 5%
+source-wordcount: '89'
+ht-degree: 4%
 
 ---
 

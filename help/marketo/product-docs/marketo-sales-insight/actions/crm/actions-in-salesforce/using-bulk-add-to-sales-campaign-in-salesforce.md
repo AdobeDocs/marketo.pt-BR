@@ -1,10 +1,10 @@
 ---
-description: Uso de inclusão em massa na campanha de vendas no Salesforce - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar clientes em potencial e contatos em massa a uma Campanha de vendas do Salesforce. Selecione uma exibição de lista e use o botão Adicionar à campanha de vendas no Lightning ou Classic.
 title: Uso do recurso “Adicionar em massa” na campanha de vendas do Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '598'
 ht-degree: 2%
 
 ---

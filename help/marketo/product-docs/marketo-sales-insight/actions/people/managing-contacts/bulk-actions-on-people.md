@@ -1,12 +1,12 @@
 ---
-description: Ações em massa em pessoas — Documentação do Marketo — Documentação do produto
+description: Saiba como executar ações em massa em pessoas nas Ações do Sales Insight. Adicione à campanha, envie um email ou exclua vários contatos de uma só vez.
 title: Ações em massa em pessoas
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Opções De Email Em Massa - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre as opções de email em massa em Ações do Sales Insight. Envie para vários recipients usando o email de grupo, selecione e envie ou campanhas.
 title: Opções de envio de email em massa
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 6%
+source-wordcount: '272'
+ht-degree: 5%
 
 ---
 

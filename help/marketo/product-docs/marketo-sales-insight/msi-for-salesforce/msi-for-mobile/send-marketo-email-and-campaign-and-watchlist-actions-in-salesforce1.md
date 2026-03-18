@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511931
-description: Enviar emails do Marketo e ações do Campaign e da lista de favoritos no Salesforce1 - Documentação do Marketo - Documentação do produto
+description: Saiba como enviar email do Marketo e usar ações de campanha e lista de observação no Salesforce Mobile. Use ações MSI em dispositivos móveis.
 title: Enviar email do Marketo e ações da campanha e da lista de controle no Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '176'
 ht-degree: 6%
 
 ---

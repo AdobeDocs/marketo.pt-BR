@@ -1,11 +1,11 @@
 ---
-description: Visão geral da página do Analytics - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a guia Analytics e os dados de engajamento por email para Ações do Sales Insight. Exibir estatísticas individuais e de equipe nas guias Eu, Equipe e Conteúdo.
 title: Visão geral da página de análise
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---

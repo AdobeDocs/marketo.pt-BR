@@ -1,11 +1,11 @@
 ---
-description: Noções básicas sobre a guia Conteúdo - Documentação do Marketo - Documentação do produto
+description: Entenda a guia Conteúdo e as métricas de envolvimento do modelo em Ações do Sales Insight. Exibir Armas Secretas, Envolvimento Mais Alto e Mais Baixo e os principais anexos e links.
 title: Noções básicas sobre a guia Conteúdo
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '200'
 ht-degree: 2%
 
 ---

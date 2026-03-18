@@ -1,11 +1,11 @@
 ---
-description: Configuração das ações do Insight de vendas no Salesforce - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar as Ações do Sales Insight no Salesforce. Adicione sites remotos, ative Ações MSI e insira a Chave secreta da API.
 title: Configuração das ações de insight de vendas no Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 4%
+source-wordcount: '251'
+ht-degree: 3%
 
 ---
 

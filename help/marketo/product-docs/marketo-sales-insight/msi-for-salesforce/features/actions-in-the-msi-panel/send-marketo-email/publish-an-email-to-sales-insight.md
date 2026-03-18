@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949718
-description: Publicar um email no Sales Insight - Marketo Docs - Documentação do produto
+description: Saiba como publicar um email do Marketo no Sales Insight. Disponibilizar um modelo de email do Marketo para usuários de vendas no painel MSI.
 title: Publicar um email no Insight de vendas
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '213'
 ht-degree: 4%
 
 ---

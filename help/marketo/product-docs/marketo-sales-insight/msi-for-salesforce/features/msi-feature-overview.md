@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356893
-description: Visão geral dos recursos MSI - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os recursos do Marketo Sales Insight no Salesforce. Exibir pontuação de clientes potenciais, atividades, email e ações de campanha no painel.
 title: Visão geral do recurso MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '943'
 ht-degree: 13%
 
 ---

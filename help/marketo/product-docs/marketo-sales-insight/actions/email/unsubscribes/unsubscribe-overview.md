@@ -1,11 +1,11 @@
 ---
-description: Visão geral do cancelamento de inscrição - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o manuseio de cancelamento de inscrição em Ações do Sales Insight. Entenda como as cancelamentos de assinatura funcionam e são sincronizadas com o Marketo e o Salesforce.
 title: Visão geral do cancelamento de inscrição
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '354'
 ht-degree: 3%
 
 ---

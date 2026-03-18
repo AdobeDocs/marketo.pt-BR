@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
-description: Configurar os rodapés de cancelamento de inscrição no Marketo Sales Insight - Marketo Docs - Documentação do produto
+description: Saiba como configurar rodapés de cancelamento de inscrição no Marketo Sales Insight. Configurar links de cancelamento de inscrição e conformidade para emails de vendas.
 title: Configurar rodapés de cancelamento de inscrição no Insight de vendas do Marketo
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 3%
+source-wordcount: '210'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Emails de vendas colocam automaticamente o rodapé de cancelamento de inscriçã
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!NOTE]
 >

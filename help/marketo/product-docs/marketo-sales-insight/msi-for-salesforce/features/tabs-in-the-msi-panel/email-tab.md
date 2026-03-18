@@ -1,12 +1,12 @@
 ---
-description: Guia Email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a guia Email no painel Marketo Sales Insight. Exibir emails enviados, aberturas, cliques e respostas do cliente potencial ou contato.
 title: Guia Email
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 5%
+source-wordcount: '174'
+ht-degree: 4%
 
 ---
 

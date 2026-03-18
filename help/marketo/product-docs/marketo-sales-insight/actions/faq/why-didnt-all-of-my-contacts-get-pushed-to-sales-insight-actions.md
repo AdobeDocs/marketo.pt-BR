@@ -1,12 +1,12 @@
 ---
-description: Por que todos os meus contatos não foram encaminhados para as ações de vendas do Insight? - Documentos do Marketo - Documentação do produto
+description: Descubra por que alguns contatos não foram sincronizados com as Ações do Sales Insight. Saiba mais sobre o proprietário de vendas e os requisitos de sincronização para clientes potenciais e contatos.
 title: Por que todos os meus contatos não foram encaminhados para as Ações de insight de vendas?
 exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '96'
+ht-degree: 12%
 
 ---
 

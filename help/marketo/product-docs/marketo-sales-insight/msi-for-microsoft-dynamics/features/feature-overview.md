@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37357043
-description: Visão geral dos recursos - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os recursos do Marketo Sales Insight para Microsoft Dynamics. Exibir pontuação de cliente potencial, atividades e ações no Dynamics CRM.
 title: Visão geral do recurso
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 37%
+source-wordcount: '181'
+ht-degree: 34%
 
 ---
 

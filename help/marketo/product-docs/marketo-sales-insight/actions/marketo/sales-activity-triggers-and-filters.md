@@ -1,12 +1,12 @@
 ---
-description: Acionadores e filtros de atividades de vendas - Documentação do Marketo - Documentação do produto
+description: Entender os acionadores e filtros da atividade de vendas no Marketo. Use atividades de Ações para acionar campanhas inteligentes e leads de segmento.
 title: Acionadores e filtros de atividades de vendas
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 7%
 
 ---
 

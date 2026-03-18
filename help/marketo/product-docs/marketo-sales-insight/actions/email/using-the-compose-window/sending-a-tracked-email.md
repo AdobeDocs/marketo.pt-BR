@@ -1,12 +1,12 @@
 ---
-description: Envio de um email rastreado - Documentação do Marketo - Documentação do produto
+description: Saiba como enviar um email de vendas rastreadas para ver visualizações, cliques e respostas. Use um canal de entrega e rastreie a partir do Centro de comando.
 title: Enviar um email rastreado
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '215'
+ht-degree: 3%
 
 ---
 

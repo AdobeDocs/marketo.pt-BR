@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762514
-description: Visão geral dos recursos do painel de insights - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o Painel de insights no Marketo Sales Insight. Visualize a velocidade do engajamento, campanhas futuras e tarefas no painel.
 title: Visão geral do recurso Painel de insights
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1522'
+source-wordcount: '1533'
 ht-degree: 0%
 
 ---

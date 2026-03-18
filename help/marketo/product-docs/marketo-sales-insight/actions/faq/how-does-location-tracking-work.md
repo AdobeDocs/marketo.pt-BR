@@ -1,11 +1,11 @@
 ---
-description: Como funciona o rastreamento de localização - Documentação do Marketo - Documentação do produto
+description: Entenda como o rastreamento de localização funciona para emails de vendas. Saiba quais dados de localização são coletados e como são usados.
 title: Como funciona o rastreamento de localização
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '123'
 ht-degree: 4%
 
 ---

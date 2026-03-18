@@ -1,11 +1,11 @@
 ---
-description: Por que meus emails são marcados como spam? - Documentos do Marketo - Documentação do produto
+description: Obtenha ajuda quando seus emails de vendas forem marcados como spam. Saiba mais sobre causas comuns e como melhorar a capacidade de entrega e a reputação do remetente.
 title: Por que meus emails são marcados como spam?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 11%
+source-wordcount: '190'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-description: Gerenciar Categorias De Modelo - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como gerenciar categorias de modelo em Ações do Sales Insight. Organize modelos em categorias e controle o compartilhamento.
 title: Gerenciar categorias de modelo
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '131'
 ht-degree: 9%
 
 ---
