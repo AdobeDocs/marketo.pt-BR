@@ -35,7 +35,7 @@ Adicione seu próprio CSS personalizado diretamente no Designer de email do Mark
    >
    >O botão **[!UICONTROL Adicionar CSS personalizado]** só está disponível quando **[!UICONTROL Corpo]** é selecionado. No entanto, você pode aplicar estilos CSS personalizados a todos os componentes dentro do conteúdo.
 
-1. Insira seu código CSS na área de texto dedicada que aparece. Verifique se o CSS personalizado [ é válido e segue a sintaxe adequada](#use-valid-css). Clique em **Salvar** quando terminar.
+1. Insira seu código CSS na área de texto dedicada que aparece. Verifique se o CSS personalizado [&#x200B; é válido e segue a sintaxe adequada](#use-valid-css). Clique em **Salvar** quando terminar.
 
    ![](assets/custom-css-2.png)
 
