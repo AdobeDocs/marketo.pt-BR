@@ -21,7 +21,7 @@ Siga estas etapas simples para conectar [!DNL Sales Connect] a [!DNL Salesforce]
 
    ![](assets/one.png)
 
-1. Em [!UICONTROL  Configurações de Administração], clique em **[!UICONTROL Salesforce]**.
+1. Em [!UICONTROL &#x200B; Configurações de Administração], clique em **[!UICONTROL Salesforce]**.
 
    ![](assets/six.png)
 
