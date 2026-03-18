@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900595
-description: Definir um público-alvo com uma Smart List - Documentação do Marketo - Documentação do produto
+description: Saiba como definir um público-alvo do programa de email com uma lista inteligente. Use filtros para identificar quem recebe seu programa de email.
 title: Definir um público-alvo com uma lista inteligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 7%
+source-wordcount: '275'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ Depois de [criar um programa de email](/help/marketo/product-docs/email-marketin
 >
 >A definição do público só funcionará quando o programa de email não for aprovado.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

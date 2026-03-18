@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger — Do endereço — Marketo Docs — Documentação do produto
+description: Saiba como executar testes Champion/Challenger a partir do endereço. Teste diferentes endereços de remetente e declare um vencedor por critérios.
 title: Champion/Challenger - Do endereço
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 3%
 
 ---
 
@@ -47,7 +47,7 @@ Quer experimentar um endereço diferente de sem confusão? Veja como.
 
    Para obter confiança estatística, escolha uma porcentagem que inclua pessoas suficientes para que seu teste seja válido. Não se deixe enganar por resultados inconclusivos.
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

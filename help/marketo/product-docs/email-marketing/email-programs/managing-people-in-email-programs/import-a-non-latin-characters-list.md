@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472678
-description: Importar uma lista de caracteres não latinos - Documentação do Marketo - Documentação do produto
+description: Saiba como importar listas com caracteres não latinos para programas de email. Garantir a codificação e a formatação para públicos internacionais.
 title: Importar uma lista de caracteres não latinos
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '317'
 ht-degree: 14%
 
 ---

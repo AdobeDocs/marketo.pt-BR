@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953572
-description: Noções básicas sobre programas de email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre programas de email e o painel de controle do Campaign. Envie emails, execute testes A/B e visualize painéis em um único local.
 title: Noções básicas sobre programas de email
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '331'
 ht-degree: 3%
 
 ---

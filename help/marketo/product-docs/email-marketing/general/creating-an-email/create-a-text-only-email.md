@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900556
-description: Criar um email somente de texto - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um email somente texto no Marketo. Use a versão de texto para campanhas de texto sem formatação ou como um fallback.
 title: Criar um email somente texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '197'
 ht-degree: 9%
 
 ---

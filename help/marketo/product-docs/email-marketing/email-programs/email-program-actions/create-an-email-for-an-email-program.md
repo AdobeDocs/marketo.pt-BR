@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900593
-description: Criar um email para um programa de email - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um email para um programa de email. Adicione um novo ativo de email e escolha um modelo ou email existente.
 title: Criar um email para um programa de email
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 9%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 Depois de criar seu programa de email e definir seu público-alvo, decida qual email você está enviando. Você pode [escolher um email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) existente ou criar um do zero. Veja como criar um novo email.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one.png)
 

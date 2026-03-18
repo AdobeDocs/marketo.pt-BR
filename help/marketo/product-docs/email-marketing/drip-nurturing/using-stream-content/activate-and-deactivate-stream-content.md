@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359669
-description: Ativar e desativar conteúdo de fluxo - Documentação do Marketo - Documentação do produto
+description: Saiba como ativar e desativar o conteúdo de fluxo para conversões de engajamento.
 title: Ativar e desativar conteúdo de fluxo
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ O conteúdo do fluxo está desativado por padrão. Ative o conteúdo para enviá
 
 ## Ativar conteúdo de fluxo {#activate-stream-content}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

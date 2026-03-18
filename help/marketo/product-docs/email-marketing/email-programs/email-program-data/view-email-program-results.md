@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951167
-description: Exibir resultados do programa de e-mail - Documentação do Marketo - Documentação do produto
+description: Saiba como visualizar os resultados e o desempenho do programa de email. O Access abre, clica, rejeita e outras métricas para o seu programa.
 title: Exibir resultados do programa de email
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 10%
+source-wordcount: '87'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Assim como na guia [!UICONTROL Resultados] das campanhas inteligentes, você pode ver as mesmas informações nos programas de email.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147358
-description: Adicionar um trecho a um email - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um trecho a um email. Insira blocos de conteúdo reutilizáveis da biblioteca de trechos em seus emails.
 title: Adicionar um snippet a um email
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '162'
 ht-degree: 7%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900589
-description: Adicionar links rastreados a um email de texto - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar links rastreados a emails somente texto. Ative o rastreamento de links para poder medir cliques em seus relatórios de email.
 title: Adicionar links rastreados a um email de texto
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '174'
 ht-degree: 8%
 
 ---

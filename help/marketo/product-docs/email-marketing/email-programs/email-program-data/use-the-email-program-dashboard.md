@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359476
-description: Use o painel do programa de email - Documentação do Marketo - Documentação do produto
+description: Saiba como usar o painel do programa de email para visualizar o desempenho. Monitorar aberturas, cliques e outras métricas rapidamente.
 title: Usar o painel do programa de email
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 3%
+source-wordcount: '408'
+ht-degree: 2%
 
 ---
 

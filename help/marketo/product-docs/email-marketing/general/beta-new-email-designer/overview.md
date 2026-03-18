@@ -1,20 +1,20 @@
 ---
-description: Visão geral - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o novo beta do Email Designer. Acesse o editor e os modelos de arrastar e soltar do programa beta do Marketo Engage.
 title: Visão geral
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 2%
+source-wordcount: '211'
+ht-degree: 30%
 
 ---
 
 # Visão geral {#overview}
 
-Bem-vindo à nova Adobe Marketo Engage Email Designer.
+Damos as boas-vindas ao novo Designer de email do Adobe Marketo Engage.
 
 >[!IMPORTANT]
 >
@@ -22,7 +22,7 @@ Bem-vindo à nova Adobe Marketo Engage Email Designer.
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não foi migrada e você gostaria de acelerar o processo, entre em contato com a equipe de contas da Adobe (seu gerente de conta) ou com o [Suporte do Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 O novo Email Designer é a mais recente inovação no Marketo Engage, criada para fornecer uma experiência renovada de criação de modelos de email e email para melhorar a produtividade e a eficiência. Ele oferece um editor visual de arrastar e soltar, juntamente com modelos padrão prontos para uso. Crie facilmente modelos de email personalizados sem precisar gastar dinheiro com fornecedores.
 

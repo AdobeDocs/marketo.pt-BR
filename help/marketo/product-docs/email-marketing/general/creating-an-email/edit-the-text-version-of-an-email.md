@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11372054
-description: Editar a versão em texto de um email - Documentação do Marketo - Documentação do produto
+description: Saiba como editar a versão de texto de um email. Atualize a versão de texto sem formatação para acessibilidade e exibição de fallback.
 title: Editar a versão de texto de um email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 6%
+source-wordcount: '241'
+ht-degree: 5%
 
 ---
 

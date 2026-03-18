@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950617
-description: Uso do conteúdo dinâmico em um e-mail - Documentação do Marketo - Documentação do produto
+description: Saiba como usar conteúdo dinâmico em um email. Mostre conteúdo diferente para segmentos diferentes com base em regras e atributos.
 title: Usar conteúdo dinâmico em um email
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 4%
+source-wordcount: '270'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ Use o Conteúdo dinâmico em emails para enviar informações direcionadas aos s
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

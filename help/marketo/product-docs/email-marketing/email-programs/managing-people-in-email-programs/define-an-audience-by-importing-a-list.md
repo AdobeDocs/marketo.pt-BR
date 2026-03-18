@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900597
-description: Definir um público-alvo importando uma lista - Documentação do Marketo - Documentação do produto
+description: Saiba como definir um público-alvo do programa de email importando uma lista. Use listas estáticas ou carregadas para direcionar seu envio.
 title: Definir um público-alvo importando uma lista
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 14%
+source-wordcount: '384'
+ht-degree: 15%
 
 ---
 
@@ -25,7 +25,7 @@ Depois de criar um programa de email, você deverá informar para quem enviar o 
 >
 >Qualquer campo de data/hora importado será tratado como Horário central. Se você tiver campos de data/hora em um fuso horário diferente, poderá usar uma fórmula do Excel para convertê-los para o Horário central (América/Chicago).
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

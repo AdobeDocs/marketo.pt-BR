@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147352
-description: Enviar um email de amostra - Documentação do Marketo - Documentação do produto
+description: Saiba como enviar um email de amostra para testar o conteúdo antes de iniciar. Use o editor de email para enviar uma cópia de teste para você ou outras pessoas.
 title: Enviar email de exemplo
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '337'
 ht-degree: 3%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting).
+   >O campo de acionador só é aplicável para quem utiliza [script de email](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Enviar um email de amostra com base em um segmento {#send-a-sample-email-based-on-a-segment}
 

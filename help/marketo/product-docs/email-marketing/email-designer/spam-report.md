@@ -2,11 +2,11 @@
 solution: Marketo Engage
 product: marketo
 title: Relatório de spam de email
-description: Saiba como usar o SpamAssassin para testar seu conteúdo de email e ver a probabilidade de ele ser marcado como spam.
+description: Saiba como usar o SpamAssassin para testar a probabilidade de spam no conteúdo de email. Verifique seus emails antes de enviar para melhorar a capacidade de entrega.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 5%

@@ -1,18 +1,19 @@
 ---
-title: Criar conteúdo acessível
-description: Saiba como criar conteúdo acessível para seus emails no Adobe Marketo Engage.
+title: Crie conteúdo acessível
+description: Saiba como criar conteúdo de email acessível no Marketo Engage. Aplique as práticas recomendadas para que os emails funcionem para todos os recipients.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: email, design, acessibilidade
-source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1374'
 ht-degree: 0%
 
 ---
 
-# Criar conteúdo acessível {#accessible-content}
+# Crie conteúdo acessível {#accessible-content}
 
 A [Lei Europeia da Acessibilidade](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} é uma diretiva destinada a reforçar o mercado interno de produtos e serviços acessíveis, eliminando os obstáculos causados pelas diferentes regras nacionais entre os Estados-Membros.
 

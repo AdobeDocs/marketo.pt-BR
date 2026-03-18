@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099077
-description: Saiba como importar uma lista de propagação para sua instância do Marketo Engage.
+description: Saiba como importar uma lista de propagação para o Marketo Engage para testes de posicionamento da caixa de entrada. Use o Everest para baixar e adicionar a lista de campanhas de capacidade de delivery.
 title: Power Pack de capacidade de entrega de email - Como importar uma lista de seeds
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 0%
+source-wordcount: '343'
+ht-degree: 2%
 
 ---
 

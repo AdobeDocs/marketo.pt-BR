@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Testar renderização de email com Litmus
-description: Os usuários do Marketo Engage podem integrar sua conta Litmus para testar aparentemente a renderização do conteúdo em vários clientes de email.
+description: Saiba como testar a renderização de email entre clientes com o Litmus. Integre sua conta Litmus para visualização de conteúdo em vários clientes de email.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 0%
+source-wordcount: '374'
+ht-degree: 2%
 
 ---
 

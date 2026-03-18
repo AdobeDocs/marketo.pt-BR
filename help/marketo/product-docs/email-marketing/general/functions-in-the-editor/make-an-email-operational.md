@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147354
-description: Tornar um email operacional - Documentação do Marketo - Documentação do produto
+description: Saiba como tornar um email operacional para que ele possa alcançar pessoas que não assinaram. Uso para comunicações transacionais ou obrigatórias.
 title: Tornar um email operacional
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '173'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982903
-description: Programar programas de email com fuso horário do destinatário - Documentação do Marketo - Documentação do produto
+description: Saiba como agendar programas de email com fuso horário do recipient. Defina o delivery para dentro de 25 horas ou mais e escolha o comportamento do fuso horário.
 title: Agendar programas de email com o fuso horário do destinatário
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '839'
+source-wordcount: '851'
 ht-degree: 2%
 
 ---

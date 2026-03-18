@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: Programar programas de engajamento com fuso horário do recipient - Documentação do Marketo - Documentação do produto
+description: Saiba como agendar conversões do programa de engajamento com o fuso horário do recipient. Defina o primeiro elenco com pelo menos 25 horas de antecedência para delivery global.
 title: Agendar programas de engajamento com fuso horário do destinatário
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 8%
+source-wordcount: '207'
+ht-degree: 9%
 
 ---
 
@@ -30,4 +30,4 @@ Quando você agendar um fluxo de programa de envolvimento e o fuso horário do r
 >[!MORELIKETHIS]
 >
 >* [Noções Básicas sobre o Fuso Horário do Destinatário](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Definir Cadência de Fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [Definir cadência do fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

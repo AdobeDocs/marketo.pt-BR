@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359451
-description: Escolha um email existente - Documentação do Marketo - Documentação do produto
+description: Saiba como escolher um email existente para um programa de email. Selecione no Design Studio ou em emails locais para o seu programa.
 title: Escolher um email existente
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 3%
+source-wordcount: '241'
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 Depois de [criar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definir seu público-alvo, você decidirá qual email está enviando. Você pode [criar um email para um programa de email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) do zero ou escolher um que já existe. Veja como escolher um que já existe.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

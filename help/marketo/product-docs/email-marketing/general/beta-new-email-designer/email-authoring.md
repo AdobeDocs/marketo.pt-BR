@@ -1,14 +1,14 @@
 ---
-description: Criação de email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a criação de emails no novo Designer de email. Criar, personalizar e visualizar emails no Marketo Engage.
 title: Criação de email
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1503'
-ht-degree: 1%
+source-wordcount: '1514'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email 
 
 >[!PREREQUISITES]
 >
->Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não tiver sido lançada e você quiser solicitá-la, contate a Equipe de Conta da Adobe (seu gerente de conta) ou o [Suporte da Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não foi migrada e você gostaria de acelerar o processo, entre em contato com a equipe de contas da Adobe (seu gerente de conta) ou com o [Suporte do Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Criar um email {#create-an-email}
 

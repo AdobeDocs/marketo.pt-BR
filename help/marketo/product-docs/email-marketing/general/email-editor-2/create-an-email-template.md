@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096400
-description: Criar um modelo de email - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um modelo de email no Editor de email 2.0. Criar modelos reutilizáveis com módulos e seções editáveis.
 title: Criar um modelo de email
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 2%
+source-wordcount: '284'
+ht-degree: 12%
 
 ---
 
@@ -69,7 +69,7 @@ Se você criou um email que gostaria de salvar como modelo para uso futuro, siga
 
    >[!CAUTION]
    >
-   >Ao salvar um email como template, os valores de variável não serão transferidos. As variáveis continuarão a usar os padrões especificados no modelo subjacente. Os módulos disponíveis no email também não serão transferidos, a menos que tenham sido inseridos no corpo do email.
+   >Ao salvar um email como modelo, os valores de variável não serão transferidos. As variáveis continuarão a usar os padrões especificados no modelo subjacente. Os módulos disponíveis no email também não serão transferidos, a menos que tenham sido inseridos no corpo do email.
 
 Para personalizar seu template de email, confira o artigo abaixo.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359553
-description: Adicione um Email Champion/Challenger - Marketo Docs - Documentação do produto
+description: Saiba como adicionar um teste de email Especialista/Desafiador. Configure várias variantes e defina como o vencedor será escolhido.
 title: Adicionar um email de controlador/variante
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 4%
+source-wordcount: '217'
+ht-degree: 7%
 
 ---
 
@@ -28,7 +28,7 @@ Veja como começar.
 >
 >Os emails de Especialista/Desafiador funcionam somente com campanhas de acionador e fluxos de programa de engajamento. Para correspondências em lote, use a [funcionalidade de teste A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) do programa de email.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

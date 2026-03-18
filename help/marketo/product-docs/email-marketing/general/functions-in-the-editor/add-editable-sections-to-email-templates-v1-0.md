@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900585
-description: Adicionar seções editáveis a Modelos de email v1.0 - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar seções editáveis a modelos de email na v1.0. Permitir que os usuários editem áreas específicas, mantendo o restante bloqueado.
 title: Adicionar seções editáveis a modelos de email v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 16%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 

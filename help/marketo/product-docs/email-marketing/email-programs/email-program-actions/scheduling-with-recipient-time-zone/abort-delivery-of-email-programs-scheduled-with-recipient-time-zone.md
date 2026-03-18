@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795727
-description: Anular a entrega de programas de email agendados com fuso horário do destinatário - Documentação do Marketo - Documentação do produto
+description: Saiba como abortar o delivery de programas de email agendados com fuso horário do recipient. Interrompa o envio e manipule os destinatários restantes.
 title: Interromper a entrega de programas de email agendados com o fuso horário do destinatário
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 8%
 
 ---
 

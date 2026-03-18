@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359596
-description: Ativar/desativar limites de comunicação em um programa de email - Documentação do Marketo - Documentação do produto
+description: Saiba como ativar ou desativar limites de comunicação em um programa de email. Controla a frequência com que as pessoas podem receber emails do programa.
 title: Habilitar/desabilitar limites de comunicação em um programa de email
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ Ao executar um programa de email, você pode optar por ignorar ou respeitar os [
 >
 >Os limites de comunicação estão [definidos na seção Admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e ajudam a evitar o envio de emails demais para uma pessoa.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 

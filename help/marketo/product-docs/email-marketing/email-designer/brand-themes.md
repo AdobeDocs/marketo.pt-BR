@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Temas da marca
-description: Saiba como criar e gerenciar as diretrizes da sua marca.
+description: Saiba como criar e gerenciar diretrizes de marca no Marketo Engage. Configure temas de marca para um design de email consistente.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1097'
+source-wordcount: '1107'
 ht-degree: 2%
 
 ---

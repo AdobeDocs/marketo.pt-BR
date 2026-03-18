@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900563
-description: Criar um arquivo de evento de calendário (.ics) - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um arquivo de evento de calendário (.ics) para emails. Adicione anexos de calendário para que os destinatários possam salvar eventos.
 title: Criar um arquivo de evento de calendário (.ics)
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 12%
+source-wordcount: '107'
+ht-degree: 11%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514918
-description: Noções básicas sobre o cancelamento de inscrição - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os tipos de cancelamento de assinatura no Marketo Incluir na lista de bloqueios (Cancelamento de assinatura, Marketing suspenso,). Use o campo certo para cada cenário em suas campanhas.
 title: Noções básicas sobre cancelamento de inscrição
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 4%
 
 ---

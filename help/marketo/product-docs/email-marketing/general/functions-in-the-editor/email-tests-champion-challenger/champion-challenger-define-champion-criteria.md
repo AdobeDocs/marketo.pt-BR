@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger — defina critérios de Champion — Marketo Docs — documentação do produto
+description: Saiba como definir critérios de Especialista para testes de email. Defina as regras que determinam qual variante ganha o teste Campeão/Desafiador.
 title: Champion/Challenger - defina os critérios do Champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '188'
 ht-degree: 5%
 
 ---

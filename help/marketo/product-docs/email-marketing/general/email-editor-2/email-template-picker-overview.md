@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912237
-description: Visão geral do Seletor de modelo de email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o seletor de modelo de email no Editor de email 2.0. Escolha entre modelos ao criar novos emails.
 title: Visão geral do seletor de modelos de email
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 2%
+source-wordcount: '285'
+ht-degree: 3%
 
 ---
 

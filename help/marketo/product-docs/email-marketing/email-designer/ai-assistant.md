@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Usar o Assistente de IA
-description: Aproveite a tecnologia de IA generativa da Adobe para adicionar texto e/ou imagens úteis a emails.
+description: Saiba como usar o assistente de IA para adicionar texto e imagens a emails. Use a IA gerativa do Adobe no Designer de email para ideias de conteúdo.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 9%
+source-wordcount: '824'
+ht-degree: 7%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359547
-description: Programar o teste A/B - Documentação do Marketo - Documentação do produto
+description: Saiba como agendar um teste A/B para um programa de email. Defina a hora de envio e quando o vencedor será declarado.
 title: Agendar o teste A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '222'
 ht-degree: 5%
 
 ---

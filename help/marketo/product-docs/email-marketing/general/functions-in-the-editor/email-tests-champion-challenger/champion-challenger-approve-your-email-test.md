@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359581
-description: Champion/Challenger - Aprove Seu Teste De Email - Marketo Docs - Documentação Do Produto
+description: Saiba como aprovar o teste de email Champion/Challenger. Conclua a aprovação para que o teste possa ser executado e um vencedor possa ser declarado.
 title: Champion/Challenger - Aprove Seu Teste De E-Mail
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 5%
+source-wordcount: '151'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ A etapa final na configuração do teste de email para aprová-lo. Veja como.
 >
 >[Configurar alertas de relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

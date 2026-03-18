@@ -1,21 +1,21 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Tokens do Personalization
-description: Saiba como usar tokens de personalização no novo Marketo Engage Email Designer
+title: Tokens de personalização
+description: Saiba como usar tokens de personalização no Designer de email. Adicione dados dinâmicos do recipient ao seu conteúdo de email.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '247'
+ht-degree: 1%
 
 ---
 
-# Tokens do Personalization {#personalization-tokens}
+# Tokens de personalização {#personalization-tokens}
 
 O designer de email tem um formato diferente do editor de email clássico quando se trata de tokens de personalização de email. A alteração foi implementada para melhorar a compatibilidade com o script do Handlebar e simplificar o processo de criação de email.
 
@@ -25,7 +25,7 @@ O designer de email tem um formato diferente do editor de email clássico quando
 
 ## Caso de uso principal {#primary-use-case}
 
-Esse aprimoramento beneficia principalmente as transições de [scripts do Velocity](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting){target="_blank"} para scripts do Handlebar. O novo designer de email só oferece suporte ao novo formato de token. O formato atualizado elimina espaços e introduz uma estrutura de texto padrão revisada, garantindo uma experiência de script mais suave e eficiente.
+Esse aprimoramento beneficia principalmente as transições de [scripts do Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} para scripts do Handlebar. O novo designer de email só oferece suporte ao novo formato de token. O formato atualizado elimina espaços e introduz uma estrutura de texto padrão revisada, garantindo uma experiência de script mais suave e eficiente.
 
 ## Experiência do token {#token-experience}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359462
-description: Aprovar/desaprovar um programa de email - Documentação do Marketo - Documentação do produto
+description: Saiba como aprovar ou cancelar a aprovação de um programa de email. Conclua o fluxo de trabalho de aprovação para que o programa possa ser agendado e enviado.
 title: Aprovar/cancelar aprovação de um programa de email
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 5%
+source-wordcount: '200'
+ht-degree: 9%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 Agora que seu programa está pronto para ser concluído, o passo final é aprová-lo. Veja como:
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,7 +53,7 @@ Agora que seu programa está pronto para ser concluído, o passo final é aprov�
 
 Se você mudar de ideia e decidir que não quer que ele seja lançado, poderá cancelar a aprovação do programa de email.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 

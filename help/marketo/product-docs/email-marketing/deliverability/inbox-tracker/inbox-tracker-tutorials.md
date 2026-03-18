@@ -1,12 +1,12 @@
 ---
-description: Teste, monitore e entenda os problemas de capacidade de delivery com o Rastreador de caixa de entrada.
+description: Saiba mais sobre o Rastreador de caixa de entrada para testar e monitorar a capacidade de entrega de emails. Acesse vídeos de treinamento para navegação, painéis e rastreamento de campanha.
 title: Tutoriais do rastreador da caixa de entrada
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 

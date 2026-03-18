@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Adicionar CSS personalizado ao conteúdo do email
-description: Saiba como adicionar CSS personalizado ao seu conteúdo de email diretamente no Designer de email no Marketo Engage.
+description: Saiba como adicionar CSS personalizado ao conteúdo de email no Designer de email. Estilize seus emails com código personalizado no Marketo Engage.
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '624'
 ht-degree: 4%
 
 ---
@@ -35,7 +35,7 @@ Adicione seu próprio CSS personalizado diretamente no Designer de email do Mark
    >
    >O botão **[!UICONTROL Adicionar CSS personalizado]** só está disponível quando **[!UICONTROL Corpo]** é selecionado. No entanto, você pode aplicar estilos CSS personalizados a todos os componentes dentro do conteúdo.
 
-1. Insira seu código CSS na área de texto dedicada que aparece. Verifique se o CSS personalizado [&#x200B; é válido e segue a sintaxe adequada](#use-valid-css). Clique em **Salvar** quando terminar.
+1. Insira seu código CSS na área de texto dedicada que aparece. Verifique se o CSS personalizado [ é válido e segue a sintaxe adequada](#use-valid-css). Clique em **Salvar** quando terminar.
 
    ![](assets/custom-css-2.png)
 
@@ -220,13 +220,13 @@ Se o CSS personalizado não for aplicado, tente as sugestões abaixo.
 
 * Verifique se a marca de estilo `global-custom` tem o atributo `data-disabled` definido como `true`. Nesse caso, o CSS personalizado não será aplicado.
 
-+++ Por exemplo:
+  +++ Por exemplo:
 
   ```html
   <style data-name="global-custom" type="text/css" data-disabled="true"> body: { color: red; } </style>
   ```
 
-+++
+  +++
 
 * Certifique-se de que o CSS não seja substituído por outras regras CSS.
 
@@ -234,7 +234,7 @@ Se o CSS personalizado não for aplicado, tente as sugestões abaixo.
 
    * Considere adicionar `!important` às suas declarações para garantir que elas tenham prioridade.
 
-+++ Por exemplo:
+     +++ Por exemplo:
 
      ```css
      .acr-Form {
@@ -242,7 +242,7 @@ Se o CSS personalizado não for aplicado, tente as sugestões abaixo.
      }
      ```
 
-+++
+     +++
 
 >[!NOTE]
 >

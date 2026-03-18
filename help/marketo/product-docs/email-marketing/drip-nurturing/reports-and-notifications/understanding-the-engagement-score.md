@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359890
-description: Noções básicas da pontuação de engajamento - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a pontuação de engajamento (0 a 100) e como ela mede a eficácia do conteúdo. Use o painel para comparar o desempenho do conteúdo.
 title: Noções básicas sobre a pontuação de engajamento
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '193'
 ht-degree: 4%
 
 ---

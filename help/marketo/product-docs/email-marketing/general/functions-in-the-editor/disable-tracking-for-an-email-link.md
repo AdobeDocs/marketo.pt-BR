@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900579
-description: Desativar o rastreamento para um link de email - Documentação do Marketo - Documentação do produto
+description: Saiba como desativar o rastreamento de links de email específicos. Desative o rastreamento de cliques quando necessário para URLs de privacidade ou redirecionamento.
 title: Desabilitar o rastreamento de um link de email
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '298'
 ht-degree: 4%
 
 ---

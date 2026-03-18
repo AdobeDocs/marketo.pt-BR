@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147328
-description: Rejeições permanentes e temporárias no email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre rejeições permanentes e temporárias e como o Marketo as classifica. Use os campos Email suspenso e Email inválido para gerenciar o delivery com problemas.
 title: Rejeições permanentes e temporárias no email
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 15%
+source-wordcount: '298'
+ht-degree: 14%
 
 ---
 

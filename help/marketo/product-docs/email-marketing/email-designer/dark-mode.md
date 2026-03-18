@@ -1,11 +1,12 @@
 ---
-description: Modo escuro — Documentação do Marketo — Documentação do produto
+description: Saiba como criar emails no modo escuro no Designer de email. Defina a exibição personalizada no modo escuro para oferecer suporte a clientes de email.
 title: Modo escuro
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1232'
 ht-degree: 1%
 
 ---

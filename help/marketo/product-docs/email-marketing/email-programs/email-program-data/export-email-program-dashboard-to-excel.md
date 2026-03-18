@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359598
-description: Exportar o painel do programa de e-mail para o Excel - Documentação do Marketo - Documentação do produto
+description: Saiba como exportar o painel do programa de email para o Excel. Baixe as métricas do programa para relatórios e análises.
 title: Exportar o painel do programa de email para o Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 15%
+source-wordcount: '99'
+ht-degree: 18%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Depois de executar um programa de email e ter alguns dados no painel, você pode exportar esses dados brutos para o Excel para análise adicional. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

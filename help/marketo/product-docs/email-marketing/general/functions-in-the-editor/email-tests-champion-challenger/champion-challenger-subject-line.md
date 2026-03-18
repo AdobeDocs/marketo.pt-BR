@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359557
-description: Champion/Challenger — Linha de assunto — Marketo Docs — Documentação do produto
+description: Saiba como executar testes de linha de assunto de Especialista/Desafiador. Teste diferentes linhas de assunto e declare um vencedor de acordo com seus critérios.
 title: Champion/Challenger - linha de assunto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 1%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 1%
 
    Para obter confiança estatística, verifique se a porcentagem escolhida inclui pessoas suficientes para que o teste seja válido. Não se deixe enganar por resultados inconclusivos.
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

@@ -1,14 +1,14 @@
 ---
 title: Conectar documento do Experience Manager
-description: Saiba como conectar o Adobe Experience Manager Cloud Services ao Adobe Marketo Engage para poder aproveitar seus ativos da AEM.
+description: Saiba como conectar o AEM Cloud Services ao Marketo Engage. Use os ativos do AEM ao criar emails no designer.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Saiba como conectar sua conta do AEM Assets Cloud Services à instância do Adob
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. No Marketo Engage, vá para a área **Admin** e selecione **Adobe Experience Manager** na árvore de navegação esquerda.
 

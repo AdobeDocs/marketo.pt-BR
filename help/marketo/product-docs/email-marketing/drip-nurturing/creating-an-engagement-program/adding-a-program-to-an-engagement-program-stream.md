@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: Adicionar um programa a um fluxo de programa de engajamento - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre programas aninhados em fluxos de engajamento e quando usá-los. Adicione programas para subgrupos, multitoque e etapas de fluxo extras.
 title: Adicionar um programa a um fluxo de programa de engajamento
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 3%
+source-wordcount: '470'
+ht-degree: 4%
 
 ---
 

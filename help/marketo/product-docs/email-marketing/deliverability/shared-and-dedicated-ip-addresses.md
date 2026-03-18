@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912085
-description: Endereços IP compartilhados e dedicados - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre endereços IP compartilhados e dedicados e seus prós e contras. Decida qual opção se encaixa em suas metas de volume e reputação de envio.
 title: Endereços IP compartilhados e dedicados
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 2%
 
 ---

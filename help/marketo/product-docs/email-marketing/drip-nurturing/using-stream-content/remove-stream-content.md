@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359915
-description: Remover conteúdo de fluxo - Documentação do Marketo - Documentação do produto
+description: Saiba como remover conteúdo de fluxo quando não é necessário preservar o histórico.
 title: Remover conteúdo de fluxo
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 6%
+source-wordcount: '127'
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Você pode remover ou arquivar um conteúdo. Ao contrário da remoção do conteúdo de fluxo, o [arquivamento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) preserva todo o histórico associado ao conteúdo. Se você não se importar em perder as estatísticas históricas de algum conteúdo e quiser removê-lo, veja como fazer isso.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

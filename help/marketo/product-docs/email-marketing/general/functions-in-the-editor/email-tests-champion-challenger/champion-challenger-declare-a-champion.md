@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359584
-description: Champion/Challenger -Declare a Champion - Marketo Docs - Documentação do produto
+description: Saiba como declarar um especialista para seu teste de email. Escolha a variante vencedora e envie o restante do público-alvo para o vencedor.
 title: Champion/Challenger - declare um Champion
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '138'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ Quando estiver pronto, você pode declarar um campeão para seu teste de email.
 >
 >[Champion/Challenger: Aprove Seu Teste De Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 

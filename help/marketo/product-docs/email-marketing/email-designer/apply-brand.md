@@ -2,16 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: TÍTULO
-description: Saiba como simplificar a criação de emails com temas e módulos reutilizáveis, garantindo a consistência e a eficiência do design.
+description: Saiba como aplicar temas de marca a emails para um design consistente. Use temas e módulos reutilizáveis no Designer de email.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '735'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ Key Benefits:
 - **Customization**: Add custom CSS and mobile-specific styles for advanced designs.
 - **Scalability**: Eliminate repetitive styling tasks, enabling faster email creation.-->
 
-## Proteções e limitações {#themes-guardrails}
+## Medidas de proteção e limitações {#themes-guardrails}
 
 * Ao criar um email do zero, você pode optar por começar a criar o conteúdo usando um tema para aplicar rapidamente um estilo específico que se ajuste à sua marca e design.
 

@@ -1,62 +1,62 @@
 ---
 unique-page-id: 2359647
-description: Noções básicas sobre programas de engajamento - Documentação do Marketo - Documentação do produto
-title: Noções básicas sobre programas de engajamento
+description: Saiba mais sobre programas de envolvimento, fluxos, conteúdo, conversões e cadência no Marketo. Entenda como os programas de nutrição apresentam conteúdo sistematicamente.
+title: Noções básicas de programas de engajamento
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 11%
+source-wordcount: '295'
+ht-degree: 93%
 
 ---
 
-# Noções básicas sobre programas de engajamento {#understanding-engagement-programs}
+# Noções básicas de programas de engajamento {#understanding-engagement-programs}
 
-Os programas de engajamento são projetados para vender para novas pessoas, apresentando o conteúdo a elas de forma sistemática.
+Os programas de engajamento são projetados para anunciar para novas pessoas, apresentando o conteúdo a elas de forma sistemática.
 
 >[!NOTE]
 >
->Há um limite de 100 programas de envolvimento **ativos** por assinatura.
+>Há um limite de 100 programas de engajamento **ativos** por assinatura.
 
 ## Programa de engajamento {#engagement-program}
 
-Um **programa de engajamento** é um tipo de programa que pode realizar atividades complexas com facilidade.
+Um **programa de engajamento** é um tipo de programa que pode realizar estímulos complexos com facilidade.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
 >[!MORELIKETHIS]
 >
->[Criar um Programa de Participação](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>[Criar um programa de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## Fluxo {#stream}
 
-Um **fluxo** é um pool de conteúdo priorizado que o programa de envolvimento usará para nutrir as pessoas.
+Um **fluxo** é um pool de conteúdo priorizado que o programa de engajamento usará para estimular as pessoas.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
 >[!MORELIKETHIS]
 >
 >* [Adicionar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
->* [Clonar um Fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
+>* [Clonar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## Conteúdo {#content}
 
-Há dois tipos de **conteúdo** que você pode adicionar aos fluxos do programa de engajamento: emails e programas. Os e-mails serão enviados às pessoas no horário do elenco.
+Há dois tipos de **conteúdo** que você pode adicionar aos fluxos do programa de engajamento: emails e programas. Os emails serão enviados às pessoas no momento do disparo.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
 >* [Adicionar conteúdo a um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [Priorizar Conteúdo de Fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
->* [Editar Disponibilidade de Conteúdo de Fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [Priorizar conteúdo do fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [Editar disponibilidade do conteúdo do fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [Remover conteúdo do fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
->* [Arquivar e Desarquivar Conteúdo de Fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
+>* [Arquivar e desarquivar conteúdo do fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## Transmissão {#cast}
 
-Um **cast** é o evento de enviar emails de um Programa de Envolvimento.
+Um **disparo** é o evento de envio de emails de um programa de engajamento.
 
 >[!NOTE]
 >
@@ -64,34 +64,34 @@ Um **cast** é o evento de enviar emails de um Programa de Envolvimento.
 
 ## Cadência do fluxo {#stream-cadence}
 
-Você decide quando ocorre uma conversão configurando a **cadência de fluxo**. É assim que você agenda o conteúdo para ser enviado em intervalos regulares.
+Você decide quando ocorre o disparo configurando a **cadência do fluxo**. É assim que você agenda o conteúdo para ser enviado em intervalos regulares.
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
 >[!MORELIKETHIS]
 >
->[Definir Cadência de Fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[Definir cadência do fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## Cadência da pessoa {#person-cadence}
 
-A **cadência da pessoa** é um status que define sua capacidade de receber conteúdo de um programa de envolvimento. Você pode usar a etapa de fluxo **[!UICONTROL Alterar Cadência do Programa de Envolvimento]** para alterar isso para [!UICONTROL Pausado] ou [!UICONTROL Normal].
+A **cadência da pessoa** é um status que define sua capacidade de receber conteúdo de um programa de engajamento. Você pode usar a etapa de fluxo **[!UICONTROL Alterar cadência do programa de engajamento]** para alterar a cadência para [!UICONTROL Pausada] ou [!UICONTROL Normal].
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## Esgotado {#exhausted}
 
-Depois que uma pessoa recebe cada parte do conteúdo de um fluxo, chamamos a pessoa **Exausta**.
+Assim que uma pessoa recebe todo o conteúdo de um fluxo, dizemos que ela está **Esgotada**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
 >[!MORELIKETHIS]
 >
->[Pessoas Com Conteúdo Esgotado](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+>[Pessoas com conteúdo esgotado](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## Nível de engajamento de conteúdo {#content-engagement-level}
 
-O Nível de engajamento de conteúdo é uma pontuação de 0 a 100 pontos que o Marketo dará ao seu conteúdo. Esse número é determinado por uma sofisticada fórmula que utiliza aberturas, cliques, cancelamentos de inscrição, sucesso do programa e outros fatores.
+O Nível de engajamento de conteúdo é uma pontuação de 0 a 100 que o Marketo dará ao seu conteúdo. Esse número é determinado por uma sofisticada fórmula que utiliza aberturas, cliques, cancelamentos de inscrição, sucesso do programa e outros fatores.
 
 >[!MORELIKETHIS]
 >
->[Noções básicas sobre a pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
+>[Noções básicas de pontuação de engajamento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)

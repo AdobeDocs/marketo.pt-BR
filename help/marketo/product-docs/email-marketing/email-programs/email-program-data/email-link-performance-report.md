@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359478
-description: Relatório de desempenho de link de email - Documentação do Marketo - Documentação do produto
+description: Saiba como criar e usar o relatório de Desempenho do link de email. Veja como cada link em seu email funciona para cliques e engajamento.
 title: Relatório de desempenho de link de email
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 5%
+source-wordcount: '254'
+ht-degree: 4%
 
 ---
 

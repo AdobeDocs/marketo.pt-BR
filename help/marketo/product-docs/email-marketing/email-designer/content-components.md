@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: Componentes do conteúdo
-description: DESCRIÇÃO.
+description: Saiba mais sobre os componentes de conteúdo para personalizar o layout de email. Adicione e estilize componentes dentro de componentes da estrutura no Designer de email.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 0%
+source-wordcount: '1308'
+ht-degree: 42%
 
 ---
 
@@ -26,7 +26,7 @@ Para adicionar componentes de conteúdo ao seu email e ajustá-los às suas nece
 
 1. No Designer de email, use um conteúdo existente ou arraste e solte **[!UICONTROL Componentes da estrutura]** no seu conteúdo vazio para definir o layout do seu email. `[Learn how](content-from-scratch.md)`
 
-1. Para acessar a seção **[!UICONTROL Componentes de conteúdo]**, selecione o botão correspondente no painel esquerdo do Designer de email.
+1. Para acessar a seção **[!UICONTROL Componentes de conteúdo]** selecione o botão correspondente no painel esquerdo do Designer de email.
 
    CAPTURA DE TELA
 
@@ -50,15 +50,15 @@ Para adicionar componentes de conteúdo ao seu email e ajustá-los às suas nece
 
 Para aplicar um estilo específico a um grupo de componentes de conteúdo, você pode adicionar um componente **[!UICONTROL Contêiner]** e depois adicionar o(s) componente(s) de conteúdo desejado(s) dentro dele. Isso permite aplicar um estilo distinto ao contêiner, que será diferente do estilo aplicado aos componentes de conteúdo dentro dele.
 
-Por exemplo, adicione um componente **[!UICONTROL Contêiner]** e adicione um componente [Botão](#button) dentro desse contêiner. Você pode usar um plano de fundo específico para o contêiner e outro para o botão.
+Por exemplo, adicione um componente **[!UICONTROL Container]** e, em seguida, adicione um componente [Botão](#button) dentro desse container. Você pode usar um plano de fundo específico para o container e outro para o botão.
 
 CAPTURA DE TELA
 
 ## Botão {#button}
 
-Use o componente **[!UICONTROL Botão]** para inserir um ou vários botões no email e redirecionar o público-alvo de email para outra página.
+Use o componente **[!UICONTROL Botão]** para inserir um ou vários botões no email e redirecionar o público-alvo do email para outra página.
 
-1. Em **[!UICONTROL Componentes do conteúdo]**, arraste e solte o componente **[!UICONTROL Botão]** em um **[!UICONTROL componente de Estrutura]**.
+1. De **[!UICONTROL Componentes de conteúdo]**, arraste e solte o componente **[!UICONTROL Botão]** em um **[!UICONTROL Componente Estrutura]**.
 
 1. Clique no botão recém-adicionado para personalizar o texto e ter acesso às guias **[!UICONTROL Configurações]** e **[!UICONTROL Estilos]** no painel direito do Email Designer.
 
@@ -69,14 +69,14 @@ Use o componente **[!UICONTROL Botão]** para inserir um ou vários botões no e
 1. Escolha como o público será redirecionado com a lista suspensa **[!UICONTROL Target]**:
 
    * **[!UICONTROL Nenhum]**: abre o link no mesmo quadro em que foi clicado (padrão).
-   * **[!UICONTROL Em branco]**: abre o link em uma nova janela ou guia.
-   * **[!UICONTROL Self]**: abre o link no mesmo quadro em que foi clicado.
-   * **[!UICONTROL Pai]**: abre o link no quadro pai.
-   * **[!UICONTROL Superior]**: abre o link no corpo inteiro da janela.
+   * **[!UICONTROL Branco]**: abre o link em uma nova janela ou guia.
+   * **[!UICONTROL Auto]**: abre o link no mesmo quadro em que foi clicado.
+   * **[!UICONTROL Principal]**: abre o link no quadro principal.
+   * **[!UICONTROL Superior]**: abre o link no corpo completo da janela.
 
    CAPTURA DE TELA
 
-1. Você pode personalizar ainda mais seu botão alterando atributos de estilo como **[!UICONTROL Borda]**, **[!UICONTROL Tamanho]**, **[!UICONTROL Margem]**, etc. do painel **[!UICONTROL Configurações de componente]**.
+1. Você pode personalizar ainda mais seu botão alterando atributos de estilo como **[!UICONTROL Borda]**, **[!UICONTROL Tamanho]**, **[!UICONTROL Margem]** etc., do painel **[!UICONTROL Configurações do componente]**.
 
 ## Texto {#text}
 
@@ -92,9 +92,9 @@ CAPTURA DE TELA
 
    CAPTURA DE TELA
 
-   * **[!UICONTROL Alterar estilo do texto]**: aplique negrito, itálico, sublinhado ou tachado ao texto.
-   * **Alterar alinhamento**: escolha entre alinhamento à esquerda, à direita, centralizado ou justificado para o texto.
-   * **[!UICONTROL Criar lista]**: adicionar lista de marcadores ou números ao texto.
+   * **[!UICONTROL Alterar estilo do texto]**: aplique negrito, itálico, sublinhado ou riscado ao seu texto.
+   * **Alterar alinhamento**: escolha entre alinhamento esquerdo, direito, central ou justificado para o texto.
+   * **[!UICONTROL Criar lista]**: adicione marcadores ou listas de números ao texto.
    * **[!UICONTROL Definir cabeçalho]**: adicione até seis níveis de cabeçalho ao texto.
    * **Tamanho da fonte**: selecione o tamanho da fonte do texto em pixels.
    * **[!UICONTROL Alterar cor da fonte]**: escolha a cor da fonte.
@@ -104,28 +104,28 @@ CAPTURA DE TELA
    * **[!UICONTROL Adicionar personalização]**: adicione campos de personalização para personalizar o conteúdo dos dados de seus perfis. `[Learn more about content personalization](../personalization/personalize.md)`
    * **[!UICONTROL Mostrar o código-fonte]**: exibir o código-fonte do texto. Ele não pode ser modificado.
    * **[!UICONTROL Habilitar conteúdo condicional]**: adicione conteúdo condicional para adaptar o conteúdo do componente aos perfis direcionados. `[Learn more about dynamic content](../personalization/get-started-dynamic-content.md)`
-   * **[!UICONTROL Duplicar]**: adicione uma cópia do componente de texto.
-   * **[!UICONTROL Excluir]**: exclui o componente de texto selecionado do seu email.
+   * **[!UICONTROL Duplicar]**: adicione uma cópia do seu componente de texto.
+   * **[!UICONTROL Excluir]**: exclua o componente de texto selecionado do seu email.
 
-1. Ajuste os outros atributos de estilo, como cor do texto, família da fonte, borda, preenchimento, margem, etc. na guia **[!UICONTROL Estilos]**.
+1. Ajuste os outros atributos de estilo, como cor do texto, família da fonte, borda, preenchimento, margem etc., na guia **[!UICONTROL Estilos]**.
 
    CAPTURA DE TELA
 
 ## Divisor {#divider}
 
-Use o componente **[!UICONTROL Divider]** para inserir uma linha divisória para organizar o layout e o conteúdo do seu email.
+Use o componente **[!UICONTROL Divisor]** para inserir uma linha divisória para organizar o layout e o conteúdo do email.
 
-É possível ajustar atributos de estilo, como cor, estilo e altura da linha, nas guias **[!UICONTROL Configurações]** e **[!UICONTROL Estilos]**.
+É possível ajustar atributos de estilo, como cor da linha, estilo e altura, a partir das guias **[!UICONTROL Configurações]** e **[!UICONTROL Estilos]**.
 
 CAPTURA DE TELA
 
 ## HTML {#HTML}
 
-Use o componente **[!UICONTROL HTML]** para copiar e colar as diferentes partes do HTML existente. Isso permite criar componentes modulares gratuitos do HTML para reutilizar algum conteúdo externo.
+Use o componente **[!UICONTROL HTML]** para copiar e colar as diferentes partes do HTML existente. Isso permite que você crie componentes de HTML modulares gratuitos para reutilizar algum conteúdo externo.
 
-1. Em **[!UICONTROL Componentes do Conteúdo]**, arraste e solte o componente **[!UICONTROL HTML]** em um **[!UICONTROL componente de Estrutura]**.
+1. De **[!UICONTROL Componentes de conteúdo]**, arraste e solte o componente **[!UICONTROL HTML]** em um **[!UICONTROL Componente Estrutura]**.
 
-1. Clique no componente recém-adicionado e selecione **[!UICONTROL Mostrar o código-fonte]** na barra de ferramentas contextual para adicionar seu HTML.
+1. Clique no componente recém-adicionado e selecione **[!UICONTROL Mostrar o código-fonte]** na barra de ferramentas contextual para adicionar o HTML.
 
    CAPTURA DE TELA
 
@@ -135,7 +135,7 @@ Use o componente **[!UICONTROL HTML]** para copiar e colar as diferentes partes 
 
 >[!NOTE]
 >
->Para simplesmente tornar um conteúdo externo compatível com o Email Designer, a Adobe recomenda criar uma mensagem do zero e copiar o conteúdo do seu email existente para os componentes.
+>Para tornar de forma simples um conteúdo externo compatível com o Designer de email, a Adobe recomenda criar uma mensagem do zero e copiar o conteúdo do email existente para os componentes.
 
 ## Imagem {#image}
 
@@ -147,7 +147,7 @@ Use o componente **[!UICONTROL Imagem]** para inserir um arquivo de imagem do se
 
 1. Na guia **[!UICONTROL Configurações]**, clique em **[!UICONTROL Procurar]** para escolher um arquivo de imagem de seus ativos ou em **[!UICONTROL Importar mídia]** para carregar um ativo para a Adobe Experience Manager Assets.
 
-   Para saber mais sobre [!DNL Adobe Experience Manager Assets], consulte a [documentação do Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=pt-BR){target="_blank"}.
+   Para saber mais sobre [!DNL Adobe Experience Manager Assets], consulte a [documentação do Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
 
    >[!NOTE]
    >
@@ -157,24 +157,24 @@ Use o componente **[!UICONTROL Imagem]** para inserir um arquivo de imagem do se
 
 1. Clique no componente recém-adicionado e configure as propriedades da imagem:
 
-   * **[!UICONTROL O título da imagem]** permite definir um título para a imagem.
-   * **[!UICONTROL O texto alternativo]** permite definir a legenda vinculada à sua imagem. Isso corresponde ao atributo alt HTML.
+   * **[!UICONTROL Título da imagem]** permite definir um título para a imagem.
+   * **[!UICONTROL Texto alternativo]** permite definir a legenda vinculada à imagem. Isso corresponde ao atributo alt HTML.
 
    CAPTURA DE TELA
 
 1. Você também pode optar por **[!UICONTROL Localizar fotos semelhantes do Stock]**. `[Learn more](../integrations/stock.md)`
 
-1. Na guia **[!UICONTROL Estilos]**, ajuste os outros atributos de estilo, como margem, borda etc. ou adicionando um link para redirecionar o público-alvo para outro conteúdo do painel **[!UICONTROL Configurações de componente]**.
+1. Na guia **[!UICONTROL Estilos]**, ajuste os outros atributos de estilo, como margem, borda etc. ou adicione um link para redirecionar o seu público-alvo para outro conteúdo a partir do painel **[!UICONTROL Configurações do componente]**.
 
 ## Redes sociais {#social}
 
-Use o componente **[!UICONTROL Social]** para inserir links para páginas de redes sociais no seu conteúdo de email.
+Use o componente **[!UICONTROL Social]** para inserir links às páginas de redes sociais no seu conteúdo de email.
 
-1. Em **[!UICONTROL Componentes do Conteúdo]**, arraste e solte o componente **[!UICONTROL Social]** em um **[!UICONTROL componente de Estrutura]**.
+1. De **[!UICONTROL Componentes de conteúdo]**, arraste e solte o componente **[!UICONTROL Social]** em um **[!UICONTROL Componente Estrutura]**.
 
 1. Selecione o componente recém-adicionado.
 
-1. No campo **[!UICONTROL Social]** da guia **[!UICONTROL Configurações]**, escolha a mídia social que deseja adicionar ou remover.
+1. No campo **[!UICONTROL Social]** da guia **[!UICONTROL Configurações]**, escolha qual rede social deseja adicionar ou remover.
 
    CAPTURA DE TELA
 
@@ -186,7 +186,7 @@ Use o componente **[!UICONTROL Social]** para inserir links para páginas de red
 
 1. Você também pode alterar os ícones de cada uma das mídias sociais, se necessário, no Assets.
 
-1. Ajuste os outros atributos de estilo, como estilo, margem, borda etc. na guia **[!UICONTROL Estilos]**.
+1. Ajuste os outros atributos de estilo, como estilo, margem, borda etc., na guia **[!UICONTROL Estilos]**.
 
 ## Decisão de oferta {#offer-decision}
 

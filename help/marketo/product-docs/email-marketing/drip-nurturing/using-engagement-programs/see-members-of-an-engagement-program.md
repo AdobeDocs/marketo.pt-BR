@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359861
-description: Consulte Membros de um programa de envolvimento - Documentação do Marketo - Documentação do produto
+description: Saiba como exibir membros de um programa de envolvimento.
 title: Consultar membros de um programa de engajamento
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 22%
+source-wordcount: '60'
+ht-degree: 23%
 
 ---
 
