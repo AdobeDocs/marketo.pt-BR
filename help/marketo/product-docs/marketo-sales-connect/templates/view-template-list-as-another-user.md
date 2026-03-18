@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317369
-description: Visualizar a lista de modelos como outro usuário - Documentação do Marketo - Documentação do produto
+description: Saiba como exibir a lista de modelos como outro usuário no Sales Connect. Use Exibir como administrador para ver o que um usuário vê.
 title: Exibir a lista de modelos como outro usuário
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 
@@ -17,7 +17,7 @@ Como administrador, você pode visualizar os modelos como qualquer usuário.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Clique em **[!UICONTROL Modelos]**.
 

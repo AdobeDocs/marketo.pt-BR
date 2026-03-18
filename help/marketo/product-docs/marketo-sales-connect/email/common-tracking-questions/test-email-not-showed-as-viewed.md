@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352538
-description: Email de teste não exibido como visualizado - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda quando um email de teste não for exibido como exibido no Sales Connect. Solucionar problemas de rastreamento de exibição para envios de teste ou pré-visualização.
 title: Email de teste não exibido como visualizado
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 8%
+source-wordcount: '154'
+ht-degree: 7%
 
 ---
 

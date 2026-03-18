@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352587
-description: A Campanha Terminou - Documentação Do Marketo - Documentação Do Produto
+description: Obtenha ajuda quando vir que o Campaign terminou no Sales Connect. Entenda por que você não pode enviar e o que fazer quando uma campanha é concluída.
 title: A campanha terminou
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 8%
+source-wordcount: '93'
+ht-degree: 6%
 
 ---
 

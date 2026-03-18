@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352416
-description: Visão geral da página do [!UICONTROL Analytics] - Documentação do Marketo - Documentação do produto
-title: Visão geral da página do Analytics
+description: Saiba mais sobre a página do Sales Connect Analytics e os dados de engajamento por email. Exibir estatísticas individuais e de equipe nas guias Eu, Equipe e Conteúdo.
+title: Visão geral da página de análise
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---

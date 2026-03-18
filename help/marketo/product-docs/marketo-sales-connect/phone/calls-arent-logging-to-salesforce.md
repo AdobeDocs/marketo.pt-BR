@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352435
-description: Chamadas não estão sendo registradas no Salesforce - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda quando as chamadas do Sales Connect não estiverem fazendo logon no Salesforce. Solução de problemas de configurações de conexão e registro de atividades.
 title: Chamadas não registradas no Salesforce
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 4%
+source-wordcount: '131'
+ht-degree: 3%
 
 ---
 

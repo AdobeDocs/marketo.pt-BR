@@ -1,11 +1,11 @@
 ---
-description: Gerencie Seu Perfil - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como gerenciar seu perfil do Sales Connect. Atualize seu nome, email e outras configurações de perfil no aplicativo web.
 title: Gerenciar seu perfil
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '256'
 ht-degree: 6%
 
 ---

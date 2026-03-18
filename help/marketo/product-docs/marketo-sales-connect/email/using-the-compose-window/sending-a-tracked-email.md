@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356565
-description: Envio de um email rastreado - Documentação do Marketo - Documentação do produto
+description: Saiba como enviar um email rastreado no Sales Connect. Enviar a partir da janela de composição e rastrear aberturas, cliques e respostas.
 title: Enviar um email rastreado
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 4%
+source-wordcount: '207'
+ht-degree: 3%
 
 ---
 

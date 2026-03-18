@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352486
-description: Por que nenhum dos meus contatos está sendo encaminhado para o Sales Connect? - Documentos do Marketo - Documentação do produto
+description: Obtenha ajuda quando nenhum contato for enviado pelo Salesforce para o Sales Connect. Solução de problemas de conexão e configurações de sincronização.
 title: Por que nenhum dos meus contatos está sendo encaminhado para o Sales Connect?
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 19%
+source-wordcount: '81'
+ht-degree: 13%
 
 ---
 

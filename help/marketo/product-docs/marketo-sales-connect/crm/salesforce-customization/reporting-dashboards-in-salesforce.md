@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352464
-description: Painéis de relatórios no Salesforce - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os painéis de relatórios no Salesforce que usam dados do Sales Connect. Visualize a atividade de chamada e email nos relatórios e painéis do Salesforce.
 title: Painéis de relatórios no Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 3%
 
 ---
 

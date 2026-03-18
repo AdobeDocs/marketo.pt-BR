@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746177
-description: Cancelar assinatura novamente - Documentação do Marketo - Documentação do produto
+description: Saiba como assinar novamente um contato que cancelou a assinatura no Sales Connect. Restaurar a capacidade de receber emails de vendas quando apropriado.
 title: Reinscrever-se após o cancelamento da inscrição
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!CAUTION]
 >

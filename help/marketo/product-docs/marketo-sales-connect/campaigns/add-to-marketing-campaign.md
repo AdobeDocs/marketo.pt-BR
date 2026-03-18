@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745611
-description: Adicionar à campanha de marketing - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar indivíduos ou grupos a uma campanha de marketing do Marketo pelo Sales Connect. Use a guia Pessoas e a opção Campanha de marketing com a seleção do espaço de trabalho.
 title: Adicionar à campanha de marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '327'
 ht-degree: 2%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: Entendendo a guia [!UICONTROL Equipe] - Documentação do Marketo - Documentação do produto
+description: Entenda a guia Equipe e as métricas em toda a equipe no Sales Connect. Visualize emails enviados com modelos, horário de pico de engajamento, ofertas fechadas e quadro de classificação de representante.
 title: Compreendendo a Guia [!UICONTROL Equipe]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---

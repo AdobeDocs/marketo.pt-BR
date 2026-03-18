@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45416566
-description: Configurações De Consentimento De Duas Partes - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre configurações de consentimento de terceiros para gravação de chamada do Sales Connect. Cumpra as leis estaduais que exigem consentimento para registrar.
 title: Configurações de consentimento de dois participantes
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '166'
+ht-degree: 6%
 
 ---
 

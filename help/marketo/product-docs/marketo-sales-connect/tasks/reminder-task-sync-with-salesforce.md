@@ -1,11 +1,11 @@
 ---
-description: Sincronização de tarefa de lembrete com o Salesforce - Documentação do Marketo - Documentação do produto
+description: Entenda como as tarefas de lembrete do Sales Connect são sincronizadas com o Salesforce. Saiba mais sobre o comportamento de sincronização e onde as tarefas aparecem no Salesforce.
 title: Sincronização de tarefa de lembrete com o Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '517'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081307
-description: Colunas De Página De Pessoas - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre as colunas da página Pessoas no Sales Connect. Personalize quais colunas são exibidas para exibir as informações de contato necessárias.
 title: Colunas da página de pessoas
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '308'
 ht-degree: 6%
 
 ---

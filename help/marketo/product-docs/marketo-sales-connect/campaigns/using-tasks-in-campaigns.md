@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352619
-description: Uso de tarefas em campanhas - Documentação do Marketo - Documentação do produto
+description: Entenda como as tarefas funcionam nas campanhas do Sales Connect. Use email, chamadas, InMail e tarefas personalizadas e gerencie-as no Command Center ou Salesforce.
 title: Uso de tarefas em campanhas
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 4%
+source-wordcount: '207'
+ht-degree: 3%
 
 ---
 

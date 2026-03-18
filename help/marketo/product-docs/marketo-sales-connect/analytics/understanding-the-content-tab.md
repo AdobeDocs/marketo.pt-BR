@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352615
-description: Noções básicas sobre a guia Conteúdo - Documentação do Marketo - Documentação do produto
+description: Entenda a guia Conteúdo e as métricas de envolvimento do modelo no Sales Connect. Exibir arma secreta, modelos de engajamento mais alto e mais baixo e anexos principais.
 title: Noções básicas sobre a guia Conteúdo
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '199'
 ht-degree: 2%
 
 ---

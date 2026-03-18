@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352469
-description: Importe uma Salesforce ID para o Sales Connect - Marketo Docs - Documentação do produto
+description: Saiba como importar uma Salesforce ID para o Sales Connect. Mapeie os registros do Salesforce para contatos do Sales Connect para sincronização.
 title: Importar uma ID do Salesforce para o Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '149'
 ht-degree: 9%
 
 ---

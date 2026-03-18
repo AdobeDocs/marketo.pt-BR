@@ -1,12 +1,12 @@
 ---
-description: Acesso à nova instância do Sales Connect - Documentação do Marketo - Documentação do produto
+description: Saiba como acessar sua nova instância do Sales Connect. Obtenha etapas de provisionamento para administradores do Marketo concederem acesso ao Sales Connect.
 title: Acessar a nova instância do Sales Connect
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 10%
+source-wordcount: '130'
+ht-degree: 9%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746188
-description: Sincronização de cancelamentos de assinatura com o Salesforce - Documentação do Marketo - Documentação do produto
+description: Saiba como sincronizar cancelamentos de assinatura do Sales Connect com o Salesforce. Mantenha o status de recusa em sincronia para que você não envie emails de contatos com assinaturas canceladas.
 title: Sincronização de cancelamentos de inscrição com o Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '430'
 ht-degree: 2%
 
 ---

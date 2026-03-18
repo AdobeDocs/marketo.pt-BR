@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352494
-description: Não consigo entrar na minha conta. O que eu faço? - Documentos do Marketo - Documentação do produto
+description: Obtenha ajuda quando bloquear sua conta do Sales Connect. Saiba como redefinir sua senha ou entrar em contato com o suporte para recuperar o acesso.
 title: Não consigo entrar na minha conta. O que eu faço?
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 51%
+source-wordcount: '71'
+ht-degree: 30%
 
 ---
 

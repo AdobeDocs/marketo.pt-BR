@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352430
-description: Como registrar emails em outros CRMs - Documentação do Marketo - Documentação do produto
+description: Saiba como registrar emails do Sales Connect em CRMs diferentes do Salesforce. Obtenha opções para registrar atividade no seu CRM.
 title: Como registrar emails em outros CRMs
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 8%
 
 ---
@@ -21,7 +21,7 @@ Se o CRM fornecer um endereço CCO, você poderá usar a seção &quot;outro&quo
 
 * Nosso recurso de CCO automático funciona com quase todos os CRMs que gravam emails enviados com [!DNL Sales Connect] aos seus clientes potenciais. Certifique-se de que seu CRM preferido forneça um endereço CCO para aproveitar isso.
 
-**[!DNL Salesforce]**:
+**[!DNL Salesforce]**
 
 * Fazemos tudo o que foi exposto acima e muito mais!
 

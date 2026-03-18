@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352434
-description: Chamada internacional por telefone de vendas - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre Chamadas internacionais de Telefone de Vendas no Sales Connect. Faça e registre chamadas internacionais e verifique os países apoiados.
 title: Chamada internacional de telefone de vendas
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 14%
+source-wordcount: '409'
+ht-degree: 13%
 
 ---
 

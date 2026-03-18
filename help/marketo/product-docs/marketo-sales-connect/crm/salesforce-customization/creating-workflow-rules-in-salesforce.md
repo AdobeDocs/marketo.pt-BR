@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745823
-description: Criação de regras de fluxo de trabalho no Salesforce - Documentação do Marketo - Documentação do produto
+description: Saiba como criar regras de fluxo de trabalho no Salesforce para atividades do Sales Connect. Automatize ações quando o Sales Connect registrar emails ou chamadas.
 title: Criação de regras de fluxo de trabalho no Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '480'
 ht-degree: 3%
 
 ---

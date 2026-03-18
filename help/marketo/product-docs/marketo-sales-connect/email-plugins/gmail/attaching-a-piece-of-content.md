@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352442
-description: Anexar um conteúdo - Documentação do Marketo - Documentação do produto
+description: Saiba como anexar um conteúdo do plug-in do Gmail. Adicione conteúdo ou arquivos rastreáveis ao email do Sales Connect do Gmail.
 title: Anexar conteúdo
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 15%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 

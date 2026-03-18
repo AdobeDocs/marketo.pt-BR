@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417460
-description: Atribuição de tarefas a membros da equipe - Documentação do Marketo - Documentação do produto
+description: Saiba como atribuir tarefas a membros da equipe no Sales Connect. Delegar tarefas de email ou chamada do Centro de comando ou do Feed ativo.
 title: Atribuição de tarefas a membros da equipe
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+source-wordcount: '131'
+ht-degree: 7%
 
 ---
 

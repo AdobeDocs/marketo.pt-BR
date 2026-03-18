@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762825
-description: Uso de ações em massa no Salesforce Lightning - Documentação do Marketo - Documentação do produto
+description: Saiba como usar ações em massa no Salesforce Lightning com o Sales Connect. Enviar vários clientes em potencial ou contatos para o Sales Connect de uma só vez.
 title: Uso de ações em massa no Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '401'
 ht-degree: 2%
 
 ---

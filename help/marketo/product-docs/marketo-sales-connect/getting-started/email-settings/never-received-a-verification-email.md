@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352411
-description: Nunca recebi um email de verificação - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda se você nunca tiver recebido um email de verificação do Sales Connect. Solucione problemas e solicite um novo email de verificação.
 title: Nunca recebi um email de verificação
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 21%
+source-wordcount: '56'
+ht-degree: 19%
 
 ---
 

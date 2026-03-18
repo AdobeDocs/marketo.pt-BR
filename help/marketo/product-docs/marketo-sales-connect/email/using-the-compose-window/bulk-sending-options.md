@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356575
-description: Opções De Envio Em Massa - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre as opções de envio em massa no Sales Connect. Escolha como enviar emails para vários recipients e controle o tempo ou a personalização.
 title: Opções de envio em massa
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 2%
+source-wordcount: '272'
+ht-degree: 4%
 
 ---
 

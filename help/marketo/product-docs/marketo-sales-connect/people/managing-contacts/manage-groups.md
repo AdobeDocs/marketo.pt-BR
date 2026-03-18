@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081250
-description: Gerenciar grupos - Documentação do Marketo - Documentação do produto
+description: Saiba como gerenciar grupos no Sales Connect. Crie, edite, compartilhe e organize grupos de contato para campanhas e divulgação.
 title: Gerenciar grupos
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '291'
 ht-degree: 2%
 
 ---

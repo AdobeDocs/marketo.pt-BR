@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352439
-description: Como adicionar um modelo - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um modelo ao compor do Gmail com o Sales Connect. Insira um template e personalize antes de enviar.
 title: Como adicionar um modelo
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 18%
+source-wordcount: '65'
+ht-degree: 15%
 
 ---
 

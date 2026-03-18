@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356329
-description: Visão geral da pesquisa avançada - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre pesquisa avançada no Centro de comando do Sales Connect. Encontre emails e tarefas por recipient, data, campanha ou outros filtros.
 title: Visão geral da pesquisa avançada
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '418'
 ht-degree: 4%
 
 ---
@@ -53,7 +53,7 @@ Filtrar por destinatário/remetente do email na seção [!UICONTROL Quem].
 | **[!UICONTROL Por Grupo]** | Filtre emails por um grupo específico de recipients. |
 | **[!UICONTROL Por Pessoa]** | Filtrar por um recipient específico. |
 
-**Quando**
+**When**
 
 Escolha por data de criação, data de entrega, data de falha ou data programada. As opções disponíveis mudam, dependendo do status do email escolhido ([!UICONTROL Enviado], [!UICONTROL Não entregue], [!UICONTROL Pendente]).
 

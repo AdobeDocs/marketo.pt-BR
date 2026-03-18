@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352592
-description: Como inserir campos dinâmicos - Documentação do Marketo - Documentação do produto
+description: Saiba como inserir campos dinâmicos em modelos do Sales Connect. Adicione o nome, a empresa e outros campos de mesclagem no editor de modelo.
 title: Como inserir campos dinâmicos
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '242'
 ht-degree: 4%
 
 ---

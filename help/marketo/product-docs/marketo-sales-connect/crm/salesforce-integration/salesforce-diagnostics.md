@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745730
-description: Salesforce Diagnostics - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o diagnóstico Salesforce para Sales Connect. Solucione problemas de conexão e sincronização entre o Sales Connect e o Salesforce.
 title: Diagnóstico do Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1322'
+source-wordcount: '1333'
 ht-degree: 1%
 
 ---
@@ -150,7 +150,7 @@ Parte de nossa integração [!DNL Salesforce] inclui uma página de Diagnóstico
 **Categoria:** Autenticação
 **Mensagem:** invalid_grant: ip restrito
 **O que está acontecendo:** estamos tentando acessar seu [!DNL Salesforce], mas você tem Restrições de IP em vigor que nos impedem de fazer isso.
-incluir na lista de permissões **Etapas de Solução de Problemas:** O Administrador do [!DNL Salesforce] precisará copiar nossos IPs. Os usuários devem entrar em contato com o Suporte para obter os endereços IP.
+**Etapas de Solução de Problemas:** O Administrador do [!DNL Salesforce] precisará incluir na lista de permissões nossos IPs. Os usuários devem entrar em contato com o Suporte para obter os endereços IP.
 
 **Erro:** INVALID_TYPE
 **Categoria:** Acesso/Validação

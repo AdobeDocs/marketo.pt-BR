@@ -1,12 +1,12 @@
 ---
-description: Configuração Da Mensagem De Cancelamento De Inscrição De Anexação Automática - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre a configuração de mensagem de cancelamento de inscrição de anexação automática no Sales Connect. Adicione um link de cancelamento de inscrição automaticamente a emails de vendas.
 title: Configuração da mensagem de cancelamento de inscrição anexada automaticamente
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '208'
+ht-degree: 3%
 
 ---
 

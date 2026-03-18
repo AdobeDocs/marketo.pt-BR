@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352495
-description: Quais são os termos de serviço do Sales Connect? - Documentos do Marketo - Documentação do produto
+description: Saiba mais sobre os termos de serviço do Sales Connect. Encontre os termos e condições legais para usar o Marketo Sales Connect.
 title: Quais são os termos de serviço do Sales Connect?
 exl-id: 958d5d0f-1cf4-4653-aaf9-e516a23cb702
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 29%
+source-wordcount: '48'
+ht-degree: 16%
 
 ---
 

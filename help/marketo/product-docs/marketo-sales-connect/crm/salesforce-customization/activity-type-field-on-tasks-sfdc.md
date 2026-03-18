@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352476
-description: Campo Tipo de atividade em tarefas (SFDC) - Documentação do Marketo - Documentação do produto
+description: Entenda o campo de tipo de atividade em tarefas ao sincronizar o Sales Connect com o Salesforce. Veja como os tipos de tarefa são mapeados e exibidos no Salesforce.
 title: Campo Tipo de atividade em tarefas (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 6%
+source-wordcount: '268'
+ht-degree: 5%
 
 ---
 

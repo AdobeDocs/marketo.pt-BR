@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352639
-description: Criar um novo modelo - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um novo modelo de email no Sales Connect. Crie modelos reutilizáveis com campos dinâmicos e conteúdo rastreável.
 title: Criar um novo modelo
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 8%
+source-wordcount: '112'
+ht-degree: 7%
 
 ---
 

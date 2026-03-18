@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352457
-description: Visão geral do suplemento .NET - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o suplemento do Sales Connect .NET para Outlook. Entenda o suplemento herdado e como ele funciona com o desktop do Outlook.
 title: Visão geral do complemento .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 6%
+source-wordcount: '221'
+ht-degree: 5%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352472
-description: Editar acessibilidade de campo do Salesforce - Documentação do Marketo - Documentação do produto
+description: Saiba como editar a acessibilidade de campo do Salesforce para o Sales Connect. Controlar quais campos o Sales Connect pode ler ou gravar no Salesforce.
 title: Editar acessibilidade de campo do Salesforce
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '130'
 ht-degree: 6%
 
 ---

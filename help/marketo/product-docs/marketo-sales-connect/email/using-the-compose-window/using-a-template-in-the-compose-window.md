@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356593
-description: Uso de um modelo na janela Compor - Documentação do Marketo - Documentação do produto
+description: Saiba como usar um modelo na janela compor do Sales Connect. Insira um template e personalize antes de enviar emails rastreados.
 title: Uso de um modelo na janela Compor
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '244'
 ht-degree: 5%
 
 ---

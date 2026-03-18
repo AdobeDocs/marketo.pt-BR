@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081230
-description: Ações em massa em pessoas — Documentação do Marketo — Documentação do produto
+description: Saiba como usar ações em massa na página Pessoas no Sales Connect. Adicionar à campanha, remover da campanha ou excluir vários contatos.
 title: Ações em massa em pessoas
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 11%
+source-wordcount: '155'
+ht-degree: 10%
 
 ---
 

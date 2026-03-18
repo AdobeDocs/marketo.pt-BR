@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352490
-description: Não acessou o Salesforce - Documentação do Marketo - Documentação do produto
+description: Obtenha ajuda quando a atividade Sales Connect não efetuar logon no Salesforce. Solucione por que os emails, chamadas ou tarefas não estão sendo sincronizados.
 title: Não registrado no Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
 

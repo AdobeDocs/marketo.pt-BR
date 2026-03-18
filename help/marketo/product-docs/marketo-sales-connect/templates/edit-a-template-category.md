@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352506
-description: Editar uma categoria de modelo - Documentação do Marketo - Documentação do produto
+description: Saiba como editar uma categoria de modelo no Sales Connect. Renomeie ou atualize as configurações e o compartilhamento da categoria.
 title: Editar uma categoria de modelo
 exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 9%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 

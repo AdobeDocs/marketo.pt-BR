@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317367
-description: Visualizar a lista de campanhas como outro usuário - Documentação do Marketo - Documentação do produto
+description: Saiba como exibir a lista de campanhas como outro usuário no Sales Connect. Use o menu suspenso Exibir como como administrador para ver as campanhas de qualquer usuário.
 title: Exibir a lista de campanhas como outro usuário
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 14%
+source-wordcount: '97'
+ht-degree: 15%
 
 ---
 
@@ -17,7 +17,7 @@ Como administrador, você pode visualizar campanhas como qualquer usuário.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. No aplicativo Web, clique em **[!UICONTROL Campanhas]**.
 

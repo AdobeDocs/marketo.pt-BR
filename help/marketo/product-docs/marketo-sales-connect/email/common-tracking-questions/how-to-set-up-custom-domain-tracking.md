@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352539
-description: Como configurar o rastreamento de domínio personalizado - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o rastreamento de domínio personalizado no Sales Connect. Use seu próprio domínio para rastrear links a fim de melhorar a capacidade de entrega.
 title: Como configurar o rastreamento de domínio personalizado
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 15%
+source-wordcount: '100'
+ht-degree: 14%
 
 ---
 
@@ -17,4 +17,4 @@ Oferecemos a opção de configurar o rastreamento de domínio personalizado para
 
 Para configurar isso, o administrador de TI precisa seguir as etapas listadas em nossa [página de configurações](https://toutapp.com/custom_tracking_domain).
 
-Depois que você configurar isso, nós faremos a inclui na lista de permissões de qualquer link que você tiver no seu e-mail para que ele apareça como &quot;go.yourcompany.com&quot;.
+Depois de configurar isso, incluiremos na lista de permissões qualquer link que você tiver no seu email para aparecer como &quot;go.yourcompany.com&quot;.

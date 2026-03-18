@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352410
-description: Adicione Sua Assinatura De Email - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como adicionar sua assinatura de email no Sales Connect. Configure uma assinatura padrão para emails de vendas enviados pelo aplicativo web ou plug-ins.
 title: Adicionar assinatura de email
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 

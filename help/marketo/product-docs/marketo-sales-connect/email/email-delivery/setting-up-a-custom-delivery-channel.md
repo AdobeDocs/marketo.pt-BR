@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746470
-description: Configuração de um canal de entrega personalizado - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar um canal de entrega personalizado no Sales Connect. Use seu próprio SMTP ou infraestrutura de envio para emails de vendas.
 title: Configuração de um canal de entrega personalizado
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 4%
+source-wordcount: '398'
+ht-degree: 5%
 
 ---
 
@@ -69,7 +69,7 @@ Os usuários podem configurar um servidor SMTP personalizado para seu próprio u
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Faça logon no [aplicativo Web](https://toutapp.com/login), clique no ícone de engrenagem na parte superior direita e escolha **[!UICONTROL Configurações]**.
 

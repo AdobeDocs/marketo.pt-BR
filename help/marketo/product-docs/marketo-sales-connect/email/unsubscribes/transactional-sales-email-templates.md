@@ -1,10 +1,10 @@
 ---
-description: Modelos de e-mail de vendas transacionais - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre modelos de email de vendas transacionais no Sales Connect. Usar templates que ignoram o cancelamento de inscrição para mensagens transacionais.
 title: Modelos de email de vendas transacionais
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '182'
 ht-degree: 4%
 
 ---

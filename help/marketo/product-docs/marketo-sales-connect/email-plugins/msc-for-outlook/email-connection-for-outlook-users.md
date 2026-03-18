@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
-description: Conexão de email para usuários do Outlook - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a conexão de email para usuários do Outlook no Sales Connect. Conecte o Outlook para enviar emails rastreados e faça logon no Salesforce.
 title: Conexão de email para usuários do Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 4%
+source-wordcount: '316'
+ht-degree: 5%
 
 ---
 

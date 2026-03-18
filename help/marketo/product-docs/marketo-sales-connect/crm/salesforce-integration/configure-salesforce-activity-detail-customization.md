@@ -1,11 +1,11 @@
 ---
-description: Configurar A Personalização Dos Detalhes Da Atividade Do Salesforce - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como configurar a personalização dos detalhes de atividade do Salesforce para o Sales Connect. Personalize como as atividades aparecem no Salesforce.
 title: Configurar a personalização dos detalhes da atividade do Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '683'
 ht-degree: 2%
 
 ---

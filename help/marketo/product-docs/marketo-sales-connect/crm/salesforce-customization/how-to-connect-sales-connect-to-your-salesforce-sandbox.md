@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368205
-description: Como conectar as vendas Conecte-se à sandbox da Salesforce - Documentação da Marketo - Documentação do produto
+description: Saiba como conectar o Sales Connect à sandbox da Salesforce. Configurar a integração em um ambiente de sandbox para testes.
 title: Como conectar o Sales Connect à sandbox do Salesforce
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 13%
+source-wordcount: '144'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 >[!PREREQUISITES]
 >
->Sua conta do [!DNL &#x200B; Sales Connect] já não pode ser conectada ao [!DNL Salesforce] ao estabelecer uma conexão com a sandbox. Se estiver, [desconecte-se](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) antes de seguir as etapas deste artigo.
+>Sua conta do [!DNL  Sales Connect] já não pode ser conectada ao [!DNL Salesforce] ao estabelecer uma conexão com a sandbox. Se estiver, [desconecte-se](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) antes de seguir as etapas deste artigo.
 
 1. Em [!DNL Sales Connect], clique no ícone de engrenagem no canto superior direito e selecione **[!UICONTROL Configurações]**.
 

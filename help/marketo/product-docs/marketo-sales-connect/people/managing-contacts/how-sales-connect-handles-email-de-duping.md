@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352514
-description: Como O Sales Connect Lida Com A Eliminação Da Duplicação De Email - Documentação Do Marketo - Documentação Do Produto
+description: Entenda como o Sales Connect lida com a eliminação de duplicação de email. Saiba como os contatos duplicados são mesclados ou tratados durante a sincronização.
 title: Como o Sales Connect lida com a eliminação de duplicações de email
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 6%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 

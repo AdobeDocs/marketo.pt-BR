@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352630
-description: Excluir um modelo - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir um modelo no Sales Connect. Remova os modelos que não são mais necessários da sua conta ou categoria.
 title: Excluir um modelo
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 10%
+source-wordcount: '69'
+ht-degree: 8%
 
 ---
 
