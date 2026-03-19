@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100644
-description: Configuração do botão de mensagem no aplicativo - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o botão de mensagem no aplicativo. Configurar cor, forma, imagem personalizada, fonte e ações de toque para o Apple e o Android.
 title: Configurar o botão Mensagens no aplicativo
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---

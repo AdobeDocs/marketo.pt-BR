@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617434
-description: Selecione A Mensagem No Aplicativo - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como selecionar a mensagem no aplicativo para seu programa. Escolha na lista suspensa e edite, visualize ou continue a agendar.
 title: Selecionar mensagem no aplicativo
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 

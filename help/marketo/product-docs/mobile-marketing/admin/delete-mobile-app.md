@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512442
-description: Excluir aplicativo móvel - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir um aplicativo móvel do Marketo. Remova o aplicativo para que as notificações por push não possam mais ser enviadas dele.
 title: Excluir aplicativo móvel
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 12%
+source-wordcount: '62'
+ht-degree: 9%
 
 ---
 

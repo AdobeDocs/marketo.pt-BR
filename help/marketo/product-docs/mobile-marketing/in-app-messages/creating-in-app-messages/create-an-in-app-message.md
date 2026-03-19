@@ -1,12 +1,12 @@
 ---
-description: Criar uma mensagem no aplicativo - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma mensagem no aplicativo. Adicione-o como um ativo local em Atividades de marketing, nomeie-o e escolha um layout e crie sua mensagem.
 title: Criar uma mensagem no aplicativo
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 3%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
@@ -16,7 +16,7 @@ Há várias etapas para criar a mensagem perfeita no aplicativo. Comece aqui e s
 
 Depois de criar a mensagem no aplicativo, clique [aqui](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) para ver como enviá-la.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![Imagem 1](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 

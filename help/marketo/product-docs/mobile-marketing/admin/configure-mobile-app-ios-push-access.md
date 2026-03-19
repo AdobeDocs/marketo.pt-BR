@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512434
-description: Configurar o acesso por push do iOS para aplicativos móveis - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o acesso por push do iOS para seu aplicativo móvel. Adicione o certificado e a senha do desenvolvedor no Admin.
 title: Configurar o acesso por push do iOS para aplicativos móveis
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 8%
+source-wordcount: '151'
+ht-degree: 7%
 
 ---
 

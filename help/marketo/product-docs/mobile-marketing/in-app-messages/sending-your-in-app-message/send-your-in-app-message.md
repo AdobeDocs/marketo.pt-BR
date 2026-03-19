@@ -1,12 +1,12 @@
 ---
-description: Enviar A Mensagem No Aplicativo - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como enviar a mensagem no aplicativo. Crie um programa, use o Painel de controle do Campaign para definir o público-alvo e a mensagem e, em seguida, aprove para iniciar.
 title: Enviar sua mensagem no aplicativo
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 5%
+source-wordcount: '171'
+ht-degree: 7%
 
 ---
 

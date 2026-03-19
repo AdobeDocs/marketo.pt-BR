@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617440
-description: Aprovar a mensagem no aplicativo - Documentação do Marketo - Documentação do produto
+description: Saiba como aprovar sua mensagem no aplicativo para iniciá-la. Pause, retome ou interrompa o programa e monitore o desempenho com o Painel no aplicativo.
 title: Aprovar mensagem no aplicativo
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '335'
 ht-degree: 2%
 
 ---

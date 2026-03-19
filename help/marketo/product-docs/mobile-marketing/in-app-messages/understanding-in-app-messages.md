@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100397
-description: Noções básicas sobre mensagens no aplicativo - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre as mensagens no aplicativo para envolver os usuários do aplicativo com ofertas e lembretes. Crie e envie mensagens com deep links ou ignore com um toque.
 title: Noções básicas sobre mensagens no aplicativo
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '258'
 ht-degree: 2%
 
 ---

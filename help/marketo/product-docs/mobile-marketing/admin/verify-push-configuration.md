@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512445
-description: Verificar configuração por push - Documentação do Marketo - Documentação do produto
+description: Saiba como verificar a configuração de push para que seu aplicativo móvel seja sincronizado. Confirme as plataformas no Admin e comece a enviar notificações por push.
 title: Verificar configuração de push
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '92'
+ht-degree: 6%
 
 ---
 

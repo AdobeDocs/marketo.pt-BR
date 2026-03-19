@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512432
-description: Configurar o acesso por push do Android para aplicativos móveis - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o acesso por push do Android para seu aplicativo móvel. Insira a chave da API do servidor e o número do projeto do desenvolvedor em Admin.
 title: Configurar o acesso por push do Android para aplicativos móveis
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 14%
+source-wordcount: '111'
+ht-degree: 12%
 
 ---
 

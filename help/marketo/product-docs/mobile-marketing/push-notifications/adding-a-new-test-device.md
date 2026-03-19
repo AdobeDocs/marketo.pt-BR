@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783146
-description: Adição de um novo dispositivo de teste - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar um novo dispositivo de teste para notificações por push. Use um URL ou código QR para conectar seu dispositivo e enviar testes por push.
 title: Adicionar um novo dispositivo de teste
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 9%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Clique em **[!UICONTROL Admin]** e depois no link **[!UICONTROL Aplicativos para dispositivos móveis]**.
 

@@ -1,13 +1,13 @@
 ---
-description: Usar mensagens SMS de vibrações em acionadores e filtros de lista inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como usar acionadores e filtros de SMS de Vibes em Campanhas inteligentes. Defina quando enviar ou filtrar por assinatura e associação a listas.
 title: Usar mensagens SMS de vibrações em acionadores e filtros de lista inteligente
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 0%
+source-wordcount: '420'
+ht-degree: 1%
 
 ---
 

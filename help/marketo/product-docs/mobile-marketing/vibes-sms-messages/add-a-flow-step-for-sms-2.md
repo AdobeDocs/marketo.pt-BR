@@ -1,12 +1,12 @@
 ---
-description: Adicionar uma etapa de fluxo para SMS - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar etapas de fluxo de SMS a Campanhas inteligentes. Use Enviar mensagem SMS, Assinar a lista de visibilidade ou Cancelar assinatura da lista de visibilidade.
 title: Adicionar uma etapa de fluxo para SMS
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 3%
 
 ---

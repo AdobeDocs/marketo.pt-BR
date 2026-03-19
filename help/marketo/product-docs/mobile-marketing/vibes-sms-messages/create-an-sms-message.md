@@ -1,11 +1,11 @@
 ---
-description: Criar uma mensagem SMS - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma mensagem SMS. Adicione texto, tokens e links no editor e siga os limites de caracteres e os requisitos de conformidade.
 title: Criar uma mensagem de SMS
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '495'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ Veja como criar uma mensagem SMS.
 >
 >[Adicionar Vibrações como um Serviço do LaunchPoint](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/create-an-sms-message-1.png)
 

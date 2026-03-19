@@ -1,12 +1,12 @@
 ---
-description: Configurar notificação por push para dispositivos móveis - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar uma notificação por push para dispositivos móveis. Defina o aplicativo, o texto da mensagem, toque em ações, deep links e aprove para envio.
 title: Configurar notificação por push para dispositivo móvel
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 4%
+source-wordcount: '476'
+ht-degree: 5%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 4%
    >
    >Se sua mensagem de push se aplicar a apenas uma plataforma (por exemplo, iOS), você poderá excluir a outra plataforma deslizando manualmente seu seletor para **Desabilitado**.
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -82,7 +82,7 @@ Um URI de deep link é composto de três partes: nome do esquema, caminho e iden
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções na definição de URIs de deep link, portanto, peça a ele para enviar os URIs (links) das páginas que você está interessado em usar. Isso garante que os URIs inseridos nas mensagens de push apontem para os locais certos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções na definição de URIs de deep link, portanto, peça a ele para enviar os URIs (links) das páginas que você está interessado em usar. Isso garante que os URIs inseridos nas mensagens de push apontem para os locais certos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

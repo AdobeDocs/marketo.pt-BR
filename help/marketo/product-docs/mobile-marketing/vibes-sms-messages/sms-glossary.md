@@ -1,11 +1,11 @@
 ---
-description: Glossário de SMS - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre termos de SMS de Vibes comuns usados com o Marketo Engage. Use este glossário para aquisição, listas de assinaturas, códigos curtos e muito mais.
 title: Glossário de SMS
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '749'
 ht-degree: 1%
 
 ---

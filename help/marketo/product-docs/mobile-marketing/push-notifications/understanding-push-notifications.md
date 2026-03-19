@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511518
-description: Noções básicas das notificações por push - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre notificações por push no Marketo. Entenda a configuração de administrador e desenvolvedor e, em seguida, crie, configure e envie por meio de campanhas inteligentes.
 title: Noções básicas sobre notificações por push
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '226'
 ht-degree: 2%
 
 ---

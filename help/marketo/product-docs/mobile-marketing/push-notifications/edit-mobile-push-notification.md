@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512460
-description: Editar notificação por push de dispositivos móveis - Documentação do Marketo - Documentação do produto
+description: Saiba como editar uma notificação por push para dispositivos móveis. Abra Atividades de marketing, selecione o ativo de push e use Editar rascunho para fazer alterações.
 title: Editar notificação por push para celular
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 37%
+source-wordcount: '51'
+ht-degree: 27%
 
 ---
 

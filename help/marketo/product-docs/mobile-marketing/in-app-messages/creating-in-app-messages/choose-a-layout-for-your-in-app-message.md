@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100434
-description: Escolha um layout para sua mensagem no aplicativo - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os seis layouts de mensagem no aplicativo. Escolha modelos de Pop-up ou Tela cheia para criar sua mensagem com imagens e botões.
 title: Escolha um layout para a mensagem no aplicativo
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '490'
 ht-degree: 2%
 
 ---
