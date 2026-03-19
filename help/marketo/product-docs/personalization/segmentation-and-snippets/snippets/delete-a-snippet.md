@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359518
-description: Excluir um trecho - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir um trecho que não é mais necessário. Cancele a aprovação do trecho e remova as associações de ativos; em seguida, use as Ações do trecho no Design Studio para excluir.
 title: Excluir um snippet
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '97'
+ht-degree: 6%
 
 ---
 

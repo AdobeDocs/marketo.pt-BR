@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359492
-description: Relatórios de pessoa de grupo por segmento - Documentação do Marketo - Documentação do produto
+description: Saiba como agrupar relatórios de pessoas por qualquer segmento de suas segmentações. Use a guia Configuração do relatório e o Agrupar pessoas por para selecionar uma segmentação e exibir resultados.
 title: Agrupar relatórios de pessoas por segmento
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 7%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359463
-description: Aprovar um trecho - Documentação do Marketo - Documentação do produto
+description: Saiba como aprovar um trecho para que ele possa ser usado em emails e landing pages. Use as ações do Design Studio e do trecho para alterar o status de Rascunho para Aprovado.
 title: Aprovar um snippet
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 14%
+source-wordcount: '77'
+ht-degree: 10%
 
 ---
 

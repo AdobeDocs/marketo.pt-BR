@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953417
-description: Noções básicas sobre conteúdo dinâmico - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o conteúdo dinâmico do Marketo para personalizar páginas de aterrissagem e emails por segmento. Entenda a segmentação, os blocos de conteúdo dinâmico e os trechos reutilizáveis.
 title: Noções básicas sobre conteúdo dinâmico
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '237'
 ht-degree: 4%
 
 ---

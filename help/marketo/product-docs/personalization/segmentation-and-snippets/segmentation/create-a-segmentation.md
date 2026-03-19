@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359447
-description: Criar uma segmentação - Documentação do Marketo - Documentação do produto
+description: Saiba como criar uma segmentação para agrupar pessoas para relatórios e conteúdo dinâmico. Adicione segmentos ao Banco de dados, defina a ordem e, em seguida, defina as regras de segmento.
 title: Criar uma segmentação
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---

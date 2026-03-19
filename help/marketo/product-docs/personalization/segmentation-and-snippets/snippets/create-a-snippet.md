@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359459
-description: Criar um trecho - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um trecho para conteúdo dinâmico em emails e landing pages. Crie um novo snippet e adicione conteúdo para reutilização entre os ativos.
 title: Criar um snippet
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 7%
+source-wordcount: '95'
+ht-degree: 6%
 
 ---
 

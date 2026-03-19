@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359510
-description: Excluir uma segmentação - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir uma segmentação que não é mais necessária. Remova as associações de ativos, cancele a aprovação da segmentação e use as Ações de segmentação para excluir.
 title: Excluir uma segmentação
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '119'
 ht-degree: 5%
 
 ---

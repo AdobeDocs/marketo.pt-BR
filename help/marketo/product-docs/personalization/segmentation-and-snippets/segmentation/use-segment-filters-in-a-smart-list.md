@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359512
-description: Usar filtros de segmento em uma Smart List - Documentação do Marketo - Documentação do produto
+description: Saiba como usar Filtros de segmento em uma Smart List para otimizar o desempenho. Adicione o filtro Segmento para segmentar pessoas por segmentação em suas listas inteligentes.
 title: Usar filtros de segmento em uma lista inteligente
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 12%
+source-wordcount: '81'
+ht-degree: 9%
 
 ---
 

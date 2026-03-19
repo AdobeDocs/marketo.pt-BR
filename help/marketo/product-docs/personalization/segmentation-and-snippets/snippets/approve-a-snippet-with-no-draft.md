@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: Aprovar um trecho sem rascunho - Documentação do Marketo - Documentação do produto
+description: Saiba como aprovar um trecho com opções sem rascunho. Escolha Atualizar tudo ou Criar rascunhos ao aprovar para controlar como os ativos que usam o trecho são atualizados.
 title: Aprovar um snippet sem rascunho
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '240'
 ht-degree: 4%
 
 ---
