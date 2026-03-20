@@ -18,7 +18,7 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 >[!PREREQUISITES]
 >
 >* Concluir a configuração de [Redirecionamento com Dados do Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Revise a [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentação do Facebook sobre Públicos-alvo personalizados](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Remarketing.
+>* Revise a [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentação do Facebook sobre Públicos-alvo personalizados](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e Remarketing.
 
 ## Criando um Público-alvo em [!DNL Facebook] {#creating-an-audience-in-facebook}
 

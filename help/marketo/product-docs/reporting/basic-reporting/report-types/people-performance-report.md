@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Use um Relatório de [!UICONTROL Desempenho de Pessoas] para medir o crescimento do banco de dados ao longo do tempo. Você pode ver quantas pessoas adicionou e quando. Saiba mais sobre as pessoas e avalie seus programas. Agrupe os resultados por qualquer atributo de pessoa ou empresa, ou por [segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Pessoas]** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Pessoas]** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **[!UICONTROL Relatório]**.
 

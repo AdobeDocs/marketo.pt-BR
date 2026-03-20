@@ -21,7 +21,7 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
 >
 >Para capturar a atividade do seu site na Marketo, primeiro você precisa configurar [up [!DNL Munchkin] no seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Atividade da Web da Empresa[](report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Atividade da Web da Empresa[&#128279;](report-type-overview.md).
 
 1. Opte por [exibir pessoas conhecidas ou anônimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) no relatório.
 

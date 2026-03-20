@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504923
-description: Saiba como definir conversões do [!dnl google adwords] no modelo de receita com uma conta de gerente no Marketo Engage. Use este guia para concluir a próxima etapa.
+description: Saiba como definir conversões do [ !dnl google adwords] no modelo de receita com uma conta de gerente no Marketo Engage. Use este guia para concluir a próxima etapa.
 title: Definir [!DNL Google AdWords] Conversões no Modelo de Receita com uma Conta de Gerente
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
