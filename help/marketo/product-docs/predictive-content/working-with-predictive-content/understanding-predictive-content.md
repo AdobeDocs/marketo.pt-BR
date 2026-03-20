@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384665
-description: Noções básicas sobre conteúdo preditivo - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre títulos de conteúdo preditivo aprovados, fontes ativadas, cliques e dados de conversão. Use filtros e datas para comparar como as recomendações são executadas na Web e por email.
 title: Noções básicas sobre conteúdo preditivo
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '323'
 ht-degree: 1%
 
 ---

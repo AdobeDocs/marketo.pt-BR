@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385579
-description: Criar padrões de conteúdo - Documentação do Marketo - Documentação do produto
+description: Saiba como definir padrões de URL para que o Conteúdo preditivo detecte automaticamente as páginas do HTML que os visitantes visualizam ou clicam. Adicione caminhos e categorias em Padrões de URL de configurações de conteúdo.
 title: Criar padrões de conteúdo
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '385'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ Para _domain.com_:
    <td><p>Descobre todo o conteúdo que corresponde ao padrão domain.com/article/2017/:</p><p>domain.com/article/2017/5-top-tricks</p></td>
   </tr>
   <tr>
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
    <td><p>Descobre qualquer URL que contenha a palavra "folhas de dados":</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
   </tr>
   <tr>

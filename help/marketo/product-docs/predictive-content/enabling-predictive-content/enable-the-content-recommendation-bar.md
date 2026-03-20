@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720108
-description: Ativar a Barra de recomendação de conteúdo - Documentação do Marketo - Documentação do produto
+description: Saiba como habilitar e estilizar a Barra de recomendação de conteúdo com análises preditivas para cada URL. Use Configurações de conteúdo para ativar ou desativar páginas e personalizar cores e caminhos.
 title: Habilitar a barra de recomendação de conteúdo
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '341'
 ht-degree: 3%
 
 ---
