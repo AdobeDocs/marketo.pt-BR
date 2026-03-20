@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360235
-description: Criar um analisador de influência de oportunidade - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um analisador de influência de oportunidade no Marketo Engage usando criar uma influência de oportunidade. Use este guia para concluir a próxima etapa.
 title: Criar um analisador de influência de oportunidade
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 4%
+source-wordcount: '224'
+ht-degree: 5%
 
 ---
 
@@ -52,7 +52,7 @@ Use o Analisador de influência de oportunidade para mostrar a contribuição do
    >
    >Na maioria dos casos, **[!UICONTROL Todos os tempos]** é a escolha mais simples.
 
-1. Você está aí! Clique na guia principal para ver os momentos e os sucessos interessantes envolvidos na oportunidade.
+1. É isso aí! Clique na guia principal para ver os momentos e os sucessos interessantes envolvidos na oportunidade.
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

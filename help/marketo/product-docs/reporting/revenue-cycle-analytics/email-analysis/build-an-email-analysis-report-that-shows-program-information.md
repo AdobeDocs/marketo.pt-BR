@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360409
-description: Crie um relatório de análise de e-mail que mostre informações do programa - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um relatório de análise de email que mostra informações do programa no Marketo Engage usando a criação de um email. Use este guia para concluir a próxima etapa.
 title: Criar um relatório de análise de email que mostre informações do programa
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 13%
+source-wordcount: '165'
+ht-degree: 12%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718675
-description: Alteração do nome de um estágio - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como alterar o nome de um estágio no Marketo Engage, incluindo como alterar o nome de um estágio. Use este guia para concluir a próxima etapa.
 title: Alteração do nome de um estágio
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 18%
+source-wordcount: '90'
+ht-degree: 15%
 
 ---
 

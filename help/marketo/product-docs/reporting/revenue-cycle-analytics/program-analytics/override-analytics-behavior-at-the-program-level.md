@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360421
-description: Substituir o comportamento do Analytics no nível do programa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como substituir o comportamento da análise no nível do programa no Marketo Engage, incluindo substituir o comportamento da análise. Dê o próximo passo com confiança.
 title: Substituir o comportamento de análise no nível do programa
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 11%
+source-wordcount: '202'
+ht-degree: 10%
 
 ---
 

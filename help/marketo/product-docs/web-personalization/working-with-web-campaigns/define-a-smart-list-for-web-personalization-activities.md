@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097867
-description: Definir uma lista inteligente para atividades do Web Personalization - Documentação do Marketo - Documentação do produto
+description: Saiba como definir uma lista inteligente para atividades de personalização da Web no Marketo Engage usando a definição de uma lista inteligente para. Use este guia para concluir a próxima etapa.
 title: Definir uma lista inteligente para atividades de personalização da web
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '305'
 ht-degree: 2%
 
 ---

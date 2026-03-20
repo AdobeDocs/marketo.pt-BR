@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360008
-description: Exibir pessoas ou visitantes anônimos em relatórios da Web - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre pessoas de exibição ou visitantes anônimos em relatórios da Web no Marketo Engage, incluindo pessoas de exibição ou. Use este guia para concluir a próxima etapa.
 title: Exibir pessoas ou visitantes anônimos em relatórios da web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 10%
+source-wordcount: '170'
+ht-degree: 9%
 
 ---
 

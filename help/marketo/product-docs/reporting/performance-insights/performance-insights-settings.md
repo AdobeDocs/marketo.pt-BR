@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795492
-description: Configurações do Performance Insights - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre as configurações de Insights de desempenho, incluindo agregação de sucesso do programa, configuração do período anterior, oportunidades influenciadas por marketing e opções de cálculo de custo. Defina as configurações com base na visualização de painel.
 title: Configurações de insights de desempenho
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '391'
 ht-degree: 10%
 
 ---

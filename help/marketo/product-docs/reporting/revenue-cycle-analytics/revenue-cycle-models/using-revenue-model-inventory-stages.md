@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718666
-description: Uso dos estágios de inventário do modelo de receita - Documentação do Marketo - Documentação do produto
+description: Saiba como usar estágios de inventário de modelo de receita no Marketo Engage usando estágios de inventário de modelo de receita. Use este guia para concluir a próxima etapa.
 title: Uso de estágios de inventário do modelo de receita
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---

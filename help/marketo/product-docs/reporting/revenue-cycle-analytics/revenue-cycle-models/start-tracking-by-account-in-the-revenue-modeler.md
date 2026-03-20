@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718681
-description: Comece o rastreamento por conta na Receita do Modeler - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como começar a rastrear por conta no modelador de receita no Marketo Engage, incluindo como começar a rastrear por conta. Use este guia para concluir a próxima etapa.
 title: Começar a rastrear por conta no modelador de receita
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '263'
 ht-degree: 6%
 
 ---

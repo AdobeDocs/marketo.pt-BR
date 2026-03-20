@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472328
-description: Atualizar um relatório - Documentação do Marketo - Documentação do produto
+description: Saiba como atualizar relatórios manualmente para obter os dados mais recentes, mesmo que os relatórios sejam atualizados automaticamente a cada 24 horas. Use o botão atualizar ou o menu Ações de Relatório para atualizar os resultados.
 title: Atualizar um relatório
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 4%
 
 ---
 

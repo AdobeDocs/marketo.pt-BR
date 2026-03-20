@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360389
-description: Disponibilizar um programa sem um custo de período no Gerenciador e analisadores de receita - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como disponibilizar um programa sem um custo de período no Gerenciador de receita e nos Analisadores no Marketo Engage. Use este guia para concluir a próxima etapa.
 title: Disponibilizar um programa sem custo de período no explorador de receita e nos analisadores
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '259'
 ht-degree: 11%
 
 ---
@@ -17,7 +17,7 @@ Custos do período de programa permitem definir &quot;Quanto dinheiro&quot; e &q
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Alguns programas podem precisar ser incluídos mesmo se não tiverem um custo de período. Embora você possa inserir 0 para o custo do período, facilitamos a inclusão desses programas.
 

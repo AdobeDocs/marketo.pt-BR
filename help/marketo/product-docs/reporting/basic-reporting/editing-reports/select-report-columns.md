@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359994
-description: Selecione Colunas de relatório - Documentação do Marketo - Documentação do produto
+description: Saiba como selecionar quais colunas aparecem em seus relatórios escolhendo entre as opções disponíveis. Personalize as exibições de relatório clicando nos cabeçalhos da coluna e selecionando Colunas.
 title: Selecionar colunas do relatório
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 10%
+source-wordcount: '78'
+ht-degree: 7%
 
 ---
 

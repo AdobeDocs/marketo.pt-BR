@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951877
-description: Noções básicas da área de análise de oportunidade do programa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como entender a área de análise de oportunidades do programa no Marketo Engage, incluindo como entender o. Use este guia para concluir a próxima etapa.
 title: Noções básicas sobre a área de análise de oportunidade do programa
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 22%
+source-wordcount: '919'
+ht-degree: 21%
 
 ---
 

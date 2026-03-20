@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360423
-description: Encontrar todos os clientes em potencial em um modelo de ciclo de receita - Documentação do Marketo - Documentação do produto
+description: Saiba como encontrar todos os clientes em potencial em um modelo de ciclo de receita no Marketo Engage usando Localizar todos os clientes em um ciclo de receita. Use este guia para concluir a próxima etapa.
 title: Localizar todos os leads em um modelo de ciclo de receita
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '200'
 ht-degree: 8%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360016
-description: Filtrar pessoas em um relatório com uma lista inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como filtrar pessoas em relatórios usando listas inteligentes para restringir os resultados por atributos específicos de pessoas. Aplique filtros na guia Smart List para vários tipos de relatório.
 title: Filtrar pessoas em um relatório com uma lista inteligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 38%
+source-wordcount: '147'
+ht-degree: 34%
 
 ---
 

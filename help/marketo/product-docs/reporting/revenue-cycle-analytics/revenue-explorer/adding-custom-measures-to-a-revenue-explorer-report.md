@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097747
-description: Adição de medidas personalizadas a um Relatório do Gerenciador de receita - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como adicionar medidas personalizadas a um relatório do explorador de receita no Marketo Engage, incluindo como adicionar medidas personalizadas. Use este guia para concluir a próxima etapa.
 title: Adição de medidas personalizadas a um relatório do gerenciador de receita
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '217'
 ht-degree: 7%
 
 ---

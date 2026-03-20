@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718670
-description: Uso dos estágios de portal do modelo de receita - Documentação do Marketo - Documentação do produto
+description: Saiba como usar estágios de porta do modelo de receita no Marketo Engage usando estágios de porta do modelo de receita. Use este guia para concluir a próxima etapa.
 title: Uso de estágios de portão do modelo de receita
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '288'
 ht-degree: 4%
 
 ---

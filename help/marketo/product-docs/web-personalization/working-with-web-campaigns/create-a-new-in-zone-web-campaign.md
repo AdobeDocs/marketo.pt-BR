@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719400
-description: Criar uma nova Campanha da Web na zona - Documentação do Marketo - Documentação do produto
+description: Crie campanhas da Web na zona que substituem elementos do site com base na ID da zona por conteúdo personalizado ou banners gráficos. Use IDs de zona para segmentar áreas específicas do seu site.
 title: Criar uma nova campanha da web segmentada por zona
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '711'
 ht-degree: 4%
 
 ---

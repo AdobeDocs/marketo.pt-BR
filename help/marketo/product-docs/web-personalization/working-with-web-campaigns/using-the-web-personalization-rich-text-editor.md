@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719179
-description: Uso do editor de rich text do Web Personalization - Documentação do Marketo - Documentação do produto
+description: Saiba como usar o editor de rich text de personalização da Web no Marketo Engage usando a personalização da Web dnl. Dê o próximo passo com confiança.
 title: Uso do editor de rich text de personalização da web
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 10%
+source-wordcount: '193'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ Os ícones importantes no editor de rich text incluem:
 <table>
  <tbody>
   <tr>
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
+   <td colspan="1"><img alt="--" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td>
    <td colspan="1"><strong>Editar fonte HTML</strong></td>
    <td colspan="1">Permite exibir o código-fonte do HTML</td>
   </tr>

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7513771
-description: Gerenciamento de logon e usuários - Documentação do Marketo - Documentação do produto
+description: Saiba como fazer logon e gerenciar usuários no Marketo Engage usando o logon e o gerenciamento de usuários para fazer logon e gerenciamento de usuários. Use este guia para concluir a próxima etapa.
 title: Gerenciamento de logon e usuários
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '321'
 ht-degree: 2%
 
 ---

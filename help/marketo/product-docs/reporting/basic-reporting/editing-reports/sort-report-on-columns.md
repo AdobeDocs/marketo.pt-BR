@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359996
-description: Classificar relatório em colunas - Documentação do Marketo - Documentação do produto
+description: Saiba como classificar dados do relatório por colunas para destacar os números mais importantes. Clique nos cabeçalhos da coluna na guia Relatório para selecionar a ordem de classificação crescente ou decrescente.
 title: Classificar relatório em colunas
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 11%
+source-wordcount: '98'
+ht-degree: 9%
 
 ---
 

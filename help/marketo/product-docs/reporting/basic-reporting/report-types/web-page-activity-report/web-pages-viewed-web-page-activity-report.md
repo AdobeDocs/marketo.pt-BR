@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360052
-description: Páginas Da Web Exibidas, Relatório De Atividades Da Página Da Web - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre as páginas da Web exibidas, relatório de atividades da página da Web no Marketo Engage, incluindo páginas da Web exibidas, página da Web. Use este guia para concluir a próxima etapa.
 title: Páginas da web exibidas, relatório de atividades de página da web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 11%
 
 ---
 

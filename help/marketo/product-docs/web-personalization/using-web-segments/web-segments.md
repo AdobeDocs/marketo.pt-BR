@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719093
-description: Segmentos da Web - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre segmentos da Web no Marketo Engage, incluindo a guia segmentos que exibe todos os personalizados. Use este guia para concluir a próxima etapa.
 title: Segmentos da web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '2043'
+source-wordcount: '2061'
 ht-degree: 5%
 
 ---
@@ -187,7 +187,7 @@ Selecione de uma [Lista de contas nomeadas](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
+>O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
 
 **Excluir ISP**
 
@@ -286,7 +286,7 @@ Adicione o valor de Evento que deseja direcionar. Por exemplo, de fontes de dado
 
 **API de Contexto de Usuário**
 
-Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

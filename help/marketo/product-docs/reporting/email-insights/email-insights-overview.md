@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099408
-description: Visão geral do Email Insights - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre Insights de email que fornecem análises avançadas de dados históricos de email por meio das seções Analytics e Envios. Explore as métricas de entrega e envolvimento com opções avançadas de filtragem.
 title: 'Insights de email: visão geral'
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '233'
 ht-degree: 3%
 
 ---

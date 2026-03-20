@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719338
-description: Relatórios de email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre relatórios de email automatizados para o Web Personalization, incluindo Organizações, Pessoas, Campanhas de melhor desempenho e Relatórios de resumo. Personalize quais relatórios você recebe nas Configurações do usuário.
 title: Relatórios de email
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---

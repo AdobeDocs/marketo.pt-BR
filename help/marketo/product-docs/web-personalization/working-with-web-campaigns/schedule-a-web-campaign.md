@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097100
-description: Programar uma campanha da Web - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como agendar uma campanha da Web no Marketo Engage, incluindo agendar uma campanha da Web agenda-a-campanha-da-Web. Use este guia para concluir a próxima etapa.
 title: Agendar uma campanha da web
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '312'
 ht-degree: 3%
 
 ---

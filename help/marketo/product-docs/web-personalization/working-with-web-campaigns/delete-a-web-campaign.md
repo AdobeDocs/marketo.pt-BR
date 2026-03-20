@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719410
-description: Excluir uma campanha da Web - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir uma campanha da Web no Marketo Engage usando a opção excluir uma campanha da Web excluir uma campanha da Web. Use este guia para concluir a próxima etapa.
 title: Excluir uma campanha da web
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '88'
+ht-degree: 9%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Filtrar registros mesclados/excluídos em um relatório de email - Documentação do Marketo - Documentação do produto
+description: Saiba como filtrar registros mesclados/excluídos em um relatório de email no Marketo Engage usando o filtro registros mesclados excluídos no. Dê o próximo passo com confiança.
 title: Filtrar registros mesclados/excluídos em um relatório de email
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 7%
+source-wordcount: '134'
+ht-degree: 6%
 
 ---
 

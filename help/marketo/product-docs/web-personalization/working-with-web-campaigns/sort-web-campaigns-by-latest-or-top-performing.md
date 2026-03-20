@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951252
-description: Classifique as campanhas da Web pelo desempenho mais recente ou superior - Documentação do Marketo - Documentação do produto
+description: Saiba como classificar campanhas da Web pelo último ou melhor desempenho no Marketo Engage usando a classificação de campanhas da Web pelo último ou. Use este guia para concluir a próxima etapa.
 title: Classificar campanhas da web por “Mais recentes” ou “Melhor desempenho”
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 

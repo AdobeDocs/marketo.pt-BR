@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571900
-description: Visão geral do Web Personalization - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os recursos do Web Personalization, incluindo campanhas da Web, Marketing pela Web com base em conta, Redirecionamento de site e IA de conteúdo. Introdução a experiências personalizadas da Web e insights do visitante.
 title: Visão geral da personalização da web
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '866'
 ht-degree: 2%
 
 ---

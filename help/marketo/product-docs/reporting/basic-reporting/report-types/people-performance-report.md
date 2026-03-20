@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360014
-description: Relatório de desempenho de pessoas - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os relatórios de desempenho de pessoas que medem o crescimento do banco de dados ao longo do tempo e agrupam pessoas por atributos. Analise seus programas e explore informações detalhadas sobre clientes em potencial com recursos detalhados.
 title: Relatório de desempenho de pessoas
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Use um Relatório de [!UICONTROL Desempenho de Pessoas] para medir o crescimento do banco de dados ao longo do tempo. Você pode ver quantas pessoas adicionou e quando. Saiba mais sobre as pessoas e avalie seus programas. Agrupe os resultados por qualquer atributo de pessoa ou empresa, ou por [segmentação](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Pessoas]** [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **[!UICONTROL Tipo de relatório de Desempenho de Pessoas]** [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **[!UICONTROL Relatório]**.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504238
-description: Painéis RTP personalizados no Google Universal Analytics - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os painéis rtp personalizados no google universal analytics no Marketo Engage, incluindo painéis rtp personalizados no. Dê o próximo passo com confiança.
 title: Painéis de RTP personalizados no Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '769'
 ht-degree: 2%
 
 ---

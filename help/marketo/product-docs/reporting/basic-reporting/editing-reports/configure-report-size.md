@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360002
-description: Configurar tamanho do relatório - Documentação do Marketo - Documentação do produto
+description: Saiba como configurar o tamanho do relatório alterando o limite máximo de linhas das 5.000 linhas padrão. Ajuste as Linhas de Exportação Disponíveis na guia Configuração para otimizar o desempenho do relatório.
 title: Configurar tamanho do relatório
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 11%
+source-wordcount: '131'
+ht-degree: 9%
 
 ---
 

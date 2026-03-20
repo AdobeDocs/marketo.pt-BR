@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095084
-description: Geração De Gráficos De Resultados Do Explorador De Receita - Documentação Do Marketo - Documentação Do Produto
+description: Saiba mais sobre como representar os resultados no gráfico do explorador de receita no Marketo Engage, incluindo como representar os resultados no gráfico da receita. Use este guia para concluir a próxima etapa.
 title: Gráficos de resultados do gerenciador de receita
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '267'
 ht-degree: 1%
 
 ---

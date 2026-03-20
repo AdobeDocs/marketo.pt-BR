@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720075
-description: Exibir campanhas da Web de um rótulo específico - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como exibir campanhas da Web de um rótulo específico no Marketo Engage, incluindo como exibir campanhas da Web de um rótulo específico. Use este guia para concluir a próxima etapa.
 title: Exibir campanhas da web de um rótulo específico
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 17%
+source-wordcount: '98'
+ht-degree: 14%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383877
-description: Clonar um analisador de programa - Documentação do Marketo - Documentação do produto
+description: Saiba como clonar um analisador de programa no Marketo Engage usando o comando clone um analisador de programa clone-a-program-analyzer. Use este guia para concluir a próxima etapa.
 title: Clonar um analisador de programa
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 

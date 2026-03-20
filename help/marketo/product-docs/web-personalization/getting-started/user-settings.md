@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719336
-description: Configurações do usuário - Documentação do Marketo - Documentação do produto
+description: Saiba como definir as Configurações do usuário, incluindo fuso horário, relatórios por email, senha, notificações móveis e configurações de região pessoal. Personalize sua experiência com o Web Personalization e exporte preferências.
 title: Configurações de usuário
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---

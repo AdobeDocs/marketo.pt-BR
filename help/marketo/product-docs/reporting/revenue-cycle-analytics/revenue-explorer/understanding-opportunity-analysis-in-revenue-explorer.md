@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951884
-description: Noções básicas da análise de oportunidade no Explorador de receita - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como entender a análise de oportunidades no Gerenciador de receita do Marketo Engage, incluindo como entender. Use este guia para concluir a próxima etapa.
 title: Noções básicas sobre a análise de oportunidades no gerenciador de receita
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '910'
 ht-degree: 11%
 
 ---

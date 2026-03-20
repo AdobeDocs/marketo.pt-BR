@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360188
-description: Relatório de desempenho de email do Campaign - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os relatórios de desempenho de email do Campaign que agrupam as estatísticas de email por campanha inteligente. Rastrear aberturas, cliques, devoluções e cancelamentos de subscrição para medir a eficácia da campanha.
 title: Relatório de desempenho de email da campanha
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 5%
+source-wordcount: '234'
+ht-degree: 33%
 
 ---
 
@@ -25,7 +25,7 @@ Para ver as estatísticas de desempenho de email agrupadas por [campanha intelig
 
    >[!TIP]
    >
-   >Clique no nome de um email para abri-lo no Pré-visualizador de email.
+   >Clique no nome de um email para abri-lo no pré-visualizador de emails.
 
    [As colunas que você pode selecionar](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) para um relatório de Desempenho de email da campanha incluem:
 

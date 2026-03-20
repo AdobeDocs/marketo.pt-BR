@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360030
-description: Excluir um relatório - Documentação do Marketo - Documentação do produto
+description: Saiba como excluir relatórios desnecessários clicando com o botão direito do mouse na árvore de navegação. Mantenha o espaço de trabalho de relatórios organizado removendo relatórios desatualizados.
 title: Excluir um relatório
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 8%
+source-wordcount: '86'
+ht-degree: 6%
 
 ---
 

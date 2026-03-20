@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360401
-description: Compare a eficácia do canal com o Analisador de programa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como comparar a eficácia do canal com o analisador de programa no Marketo Engage, incluindo como comparar canais. Use este guia para concluir a próxima etapa.
 title: Comparar a eficácia do canal com o analisador de programa
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 1%
 
 ---

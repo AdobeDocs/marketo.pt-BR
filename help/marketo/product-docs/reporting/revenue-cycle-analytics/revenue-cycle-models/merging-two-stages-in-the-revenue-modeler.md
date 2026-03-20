@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718685
-description: Mesclar dois estágios no Modeler de receita - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como mesclar dois estágios no modelador de receita no Marketo Engage, incluindo a mesclagem de dois estágios na receita. Use este guia para concluir a próxima etapa.
 title: Mesclar dois estágios no modelador de receita
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 12%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 

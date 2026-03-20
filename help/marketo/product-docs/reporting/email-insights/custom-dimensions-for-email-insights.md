@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375276
-description: Dimensões personalizadas para insights de email - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar até 10 dimensões personalizadas a insights de email usando segmentações e tags de programa. Escolha as dimensões com cuidado, pois elas não podem ser excluídas ou substituídas depois de adicionadas.
 title: Dimensões personalizadas para insights de email
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 9%
+source-wordcount: '126'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Todas as dimensões padrão do Marketo estão incluídas, mas você tem a opçã
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!CAUTION]
 >

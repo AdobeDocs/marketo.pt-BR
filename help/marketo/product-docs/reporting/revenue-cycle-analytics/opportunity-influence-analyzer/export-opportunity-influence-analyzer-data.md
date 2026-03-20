@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360394
-description: Exportar dados do Analisador de influência de oportunidade - Documentação do Marketo - Documentação do produto
+description: Saiba como exportar dados do analisador de influência de oportunidade no Marketo Engage usando o analisador de influência de oportunidade de exportação. Dê o próximo passo com confiança.
 title: Exportar dados do analisador de influência de oportunidade
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '147'
+ht-degree: 6%
 
 ---
 

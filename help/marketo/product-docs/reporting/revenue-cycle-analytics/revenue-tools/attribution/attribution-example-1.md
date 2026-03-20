@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514126
-description: Exemplo 1 de atribuição - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o exemplo de atribuição 1 no Marketo Engage, incluindo o exemplo de atribuição 1 exemplo de atribuição. Use este guia para concluir a próxima etapa.
 title: Atribuição - Exemplo 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 7%
 
 ---

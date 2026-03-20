@@ -1,11 +1,11 @@
 ---
-description: Visão geral avançada do BI Analytics - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o Advanced BI Analytics, uma interface de relatórios flexível com visualizações avançadas e desempenho mais rápido para dados do Marketo Engage. Crie relatórios personalizados com painéis interativos e opções de exportação.
 title: Visão geral da análise de BI avançada
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1064'
 ht-degree: 1%
 
 ---
@@ -125,7 +125,7 @@ Saiba como exportar seções específicas do relatório.
 
 Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451687/?quality=12&learn=on&captions=por_br){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 

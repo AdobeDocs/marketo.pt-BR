@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095347
-description: Proteger a configuração de administrador de assinatura - Documentação do Marketo - Documentação do produto
+description: Saiba como proteger as configurações de administrador de assinatura para exigir logon antes de baixar relatórios. Defina essa opção de segurança em Configurações de logon do administrador para Configurações do relatório de Smart List.
 title: Proteger a configuração de administração de assinatura
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 11%
+source-wordcount: '104'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Um administrador pode optar por exigir logon para visualizar um relatório.
 

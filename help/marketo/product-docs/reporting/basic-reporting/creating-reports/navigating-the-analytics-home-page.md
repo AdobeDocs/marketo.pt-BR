@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513141
-description: Navegar pela página inicial do Analytics - Documentação do Marketo - Documentação do produto
+description: Saiba como navegar na página inicial do Analytics para acessar diferentes tipos de relatório e retornar à exibição inicial. Selecione tipos de relatório e gerencie seu espaço de trabalho de relatórios.
 title: Navegação na página inicial do Analytics
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 18%
+source-wordcount: '78'
+ht-degree: 14%
 
 ---
 

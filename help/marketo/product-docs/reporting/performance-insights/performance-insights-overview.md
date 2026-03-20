@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979006
-description: Visão geral do Performance Insights - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os insights de desempenho que ajudam a otimizar a combinação de canais e descobrir tendências de longo prazo para estratégias vencedoras consistentes. Analise a contribuição, as tendências e exporte dados para o PowerPoint ou Excel.
 title: Visão geral de insights de desempenho
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '254'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511725
-description: Entendendo meus relatórios e relatórios de grupo - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a diferença entre Meus relatórios, que estão visíveis somente para você, e Relatórios de grupo, que estão visíveis para todos os usuários do espaço de trabalho. Organize os relatórios salvos de maneira eficaz.
 title: Noções básicas sobre meus relatórios e relatórios de grupo
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 

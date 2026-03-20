@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097163
-description: Ativação ou desativação da tag RTP JavaScript - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como ativar ou desativar a tag javascript rtp no Marketo Engage, incluindo como ativar ou desativar o rtp. Use este guia para concluir a próxima etapa.
 title: Habilitar ou desabilitar a tag RTP de JavaScript
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 10%
+source-wordcount: '151'
+ht-degree: 9%
 
 ---
 

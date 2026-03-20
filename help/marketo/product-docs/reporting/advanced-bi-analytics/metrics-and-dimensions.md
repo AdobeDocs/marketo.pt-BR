@@ -1,11 +1,11 @@
 ---
-description: Métricas e dimensões - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre métricas e dimensões disponíveis para relatórios do Advanced BI Analytics, incluindo análise de email, lead, programa e oportunidade. Crie relatórios personalizados usando esses elementos de dados.
 title: Métricas e dimensões
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1058'
 ht-degree: 27%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12978906
-description: Defina Como A Campanha Da Web Será Exibida - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como definir como a campanha da Web é exibida no Marketo Engage usando a definição definir como a campanha da Web é exibida. Use este guia para concluir a próxima etapa.
 title: Definir como a campanha da web será exibida
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '230'
 ht-degree: 7%
 
 ---

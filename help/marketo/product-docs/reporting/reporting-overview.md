@@ -1,11 +1,11 @@
 ---
-description: Visão geral dos relatórios - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os módulos de relatórios do Marketo Engage, incluindo relatórios básicos, insights de email, insights de desempenho e análise avançada de BI. Descubra qual solução de relatórios atende às suas necessidades.
 title: Visão geral de relatórios
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
@@ -54,7 +54,7 @@ Alguns benefícios de geração de relatórios avançados do BI Analytics inclue
 
 ## Análise de Jornada avançada {#advanced-journey-analytics}
 
-Modelos de ciclo de receita: modele todos os estágios de todo o seu funil de receita e como eles fazem a transição entre esses estágios, desde o momento em que você interage pela primeira vez com um cliente potencial até que o cliente potencial seja um cliente único.
+Modelos de ciclo de receita: modele todos os estágios de todo o funnel de receita e como eles fazem a transição entre esses estágios, desde o momento em que você interage com um cliente potencial pela primeira vez até que o cliente potencial seja um cliente único.
 
 Analisador de caminho de sucesso: obtenha uma representação visual da velocidade e do fluxo em seu Modelo de ciclo de receita. O Analisador de caminho de sucesso exige que você crie modelos de Ciclo de receita.
 

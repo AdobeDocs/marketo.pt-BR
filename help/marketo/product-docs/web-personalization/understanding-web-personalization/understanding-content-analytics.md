@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093159
-description: Noções básicas sobre o Content Analytics - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a compreensão da análise de conteúdo no Marketo Engage, incluindo a compreensão da análise de conteúdo. Use este guia para concluir a próxima etapa.
 title: Noções básicas sobre análise de conteúdo
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ A tabela Analytics fornece os seguintes detalhes:
    <td colspan="1" rowspan="1">Nome do ativo de conteúdo digital. Clique em <strong>Título</strong> para abrir a URL de Conteúdo em uma nova guia.</td>
   </tr>
   <tr>
-   <td colspan="1"><p><strong>Recomendação </strong><strong>Ícone</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1"><p><strong>Recomendação </strong><strong>Ícone</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
    <td colspan="1">Indica se o conteúdo foi adicionado para <a href="#">Recomendações de conteúdo</a>.</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ As análises de conteúdo adicionais incluem:
 
 * **[!UICONTROL Exibições]**: exibições desse conteúdo para o escopo de tempo selecionado
 * **[!UICONTROL Conversões diretas]**: visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita.
-* **[!UICONTROL Taxa de Conversão]**&#x200B;**:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
+* **[!UICONTROL Taxa de Conversão]****:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
 
 **[!UICONTROL Tendências]**
 

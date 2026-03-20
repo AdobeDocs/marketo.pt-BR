@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718654
-description: Noções básicas sobre modelos de receita - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como entender modelos de receita no Marketo Engage, incluindo como entender modelos de receita. Use este guia para concluir a próxima etapa.
 title: Noções básicas sobre modelos de receita
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
 
 # Noções básicas sobre modelos de receita {#understanding-revenue-models}
 
-Os modelos de ciclo de receita elevam o marketing ao próximo nível. Eles modelam todos os estágios de todo o seu funil de receita, desde quando você interage com um cliente potencial pela primeira vez até que o cliente potencial seja um cliente único.
+Os modelos de ciclo de receita elevam o marketing ao próximo nível. Eles modelam todos os estágios de todo o funnel de receita, desde o momento em que você interage com um cliente potencial pela primeira vez até que ele seja um cliente único.
 
 ## Modelo mental (como pensar sobre essa coisa) {#mental-model-how-to-think-about-this-thing}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7505310
-description: Assinar uma lista inteligente - Documentação do Marketo - Documentação do produto
+description: Saiba como se inscrever em listas inteligentes para receber relatórios enviados diretamente para sua caixa de entrada. Crie assinaturas de Atividades de marketing ou Banco de dados com frequência e formato personalizáveis.
 title: Assinar uma lista inteligente
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 2%
+source-wordcount: '446'
+ht-degree: 3%
 
 ---
 

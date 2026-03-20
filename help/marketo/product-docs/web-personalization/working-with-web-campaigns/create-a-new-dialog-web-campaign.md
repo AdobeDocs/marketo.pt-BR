@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: Criar uma nova caixa de diálogo Campanha da Web - Documentação do Marketo - Documentação do produto
+description: Crie campanhas da Web de diálogo para personalizar o conteúdo em tempo real com mensagens pop-up em seu site. Personalize estilos de diálogo, posições, animações e configurações de exibição para engajar os visitantes.
 title: Criar uma nova caixa de diálogo da campanha da web
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '765'
 ht-degree: 4%
 
 ---
@@ -83,7 +83,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
    <td colspan="1">Personalize a cor e a opacidade do modal.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Tempo limite </strong></td>
+   <td colspan="1"><strong>Tempo-limite </strong></td>
    <td colspan="1">O número de segundos em que a caixa de diálogo é ativada antes de desaparecer.</td>
   </tr>
   <tr>

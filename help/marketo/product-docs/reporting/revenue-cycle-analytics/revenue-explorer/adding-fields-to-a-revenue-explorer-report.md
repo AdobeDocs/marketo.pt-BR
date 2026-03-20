@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504383
-description: Adição de campos a um relatório do Gerenciador de receita - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como adicionar campos a um relatório do explorador de receita no Marketo Engage, incluindo como adicionar campos a uma receita. Use este guia para concluir a próxima etapa.
 title: Adicionar campos a um relatório do gerenciador de receita
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 10%
+source-wordcount: '178'
+ht-degree: 9%
 
 ---
 

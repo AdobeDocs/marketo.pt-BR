@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951220
-description: Criar um relatório de desempenho de pessoas com colunas de plataforma móvel - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um relatório de desempenho de pessoas com colunas de plataforma móvel no Marketo Engage usando a criação de pessoas. Use este guia para concluir a próxima etapa.
 title: Criar um relatório de desempenho de pessoas com colunas da plataforma móvel
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 6%
+source-wordcount: '306'
+ht-degree: 7%
 
 ---
 
@@ -17,7 +17,7 @@ Siga estas etapas para criar um Relatório de desempenho de pessoas com colunas 
 
 ## Criar listas inteligentes para dispositivos móveis {#create-mobile-smart-lists}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/ma.png)
 

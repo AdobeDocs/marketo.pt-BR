@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720810
-description: Remarketing personalizado no Google - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o remarketing personalizado no Google no Marketo Engage, incluindo o remarketing personalizado no Google. Use este guia para concluir a próxima etapa.
 title: Remarketing personalizado no Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 3%
+source-wordcount: '297'
+ht-degree: 4%
 
 ---
 
@@ -34,7 +34,7 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. No Construtor de público-alvo, clique em **[!UICONTROL Sequências]** e **[!UICONTROL Localize os dados RTP]** em [!UICONTROL Dimensões personalizadas], [!UICONTROL UICONTROL [ !]Variáveis Personalizadas &#x200B;], [!UICONTROL Eventos].
+1. No Construtor de público-alvo, clique em **[!UICONTROL Sequências]** e **[!UICONTROL Localize os dados RTP]** em [!UICONTROL Dimensões personalizadas], [!UICONTROL [!]Variáveis Personalizadas UICONTROL], [!UICONTROL Eventos].
 
 >[!TIP]
 >

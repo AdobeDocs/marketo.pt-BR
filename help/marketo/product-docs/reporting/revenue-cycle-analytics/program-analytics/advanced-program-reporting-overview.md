@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953144
-description: Visão geral dos relatórios do programa avançado - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a visão geral de relatórios avançados de programas no Marketo Engage, incluindo uma visão geral avançada de relatórios de programas. Use este guia para concluir a próxima etapa.
 title: Visão geral dos relatórios avançados do programa
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '285'
 ht-degree: 2%
 
 ---

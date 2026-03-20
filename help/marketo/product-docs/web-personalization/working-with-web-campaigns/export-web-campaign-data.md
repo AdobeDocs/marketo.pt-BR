@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615749
-description: Exportar dados da campanha da Web - Documentação do Marketo - Documentação do produto
+description: Saiba como exportar dados de campanha da Web no Marketo Engage usando exportar dados de campanha da Web exportar-web-campanha-dados. Use este guia para concluir a próxima etapa.
 title: Exportar dados da campanha da web
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 14%
+source-wordcount: '70'
+ht-degree: 11%
 
 ---
 

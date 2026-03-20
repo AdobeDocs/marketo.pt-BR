@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360397
-description: Assinar um relatório do Revenue Explorer - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como assinar um relatório de explorador de receita no Marketo Engage, incluindo como assinar um explorador de receita. Use este guia para concluir a próxima etapa.
 title: Assinar um relatório do gerenciador de receita
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 4%
+source-wordcount: '153'
+ht-degree: 3%
 
 ---
 

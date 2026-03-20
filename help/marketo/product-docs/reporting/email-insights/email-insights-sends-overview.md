@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099413
-description: Visão geral dos envios de insights de email - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a página Envios de insights de email, que examina as características de comunicações de email recentes. Visualize métricas de entrega, métricas de envolvimento e pontuações de engajamento para seus emails enviados.
 title: Visão geral de envios de insights de email
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '190'
 ht-degree: 4%
 
 ---

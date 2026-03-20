@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360411
-description: Criar um Analisador de caminho de sucesso - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um analisador de caminho de sucesso no Marketo Engage usando a opção criar um analisador de caminho de sucesso. Use este guia para concluir a próxima etapa.
 title: Criar um analisador de caminho de sucesso
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 5%
 
 ---

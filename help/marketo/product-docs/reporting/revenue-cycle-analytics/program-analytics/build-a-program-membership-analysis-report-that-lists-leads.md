@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360405
-description: Criar um relatório de análise de associação ao programa que liste clientes potenciais - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um relatório de análise de associação de programa que lista clientes potenciais no Marketo Engage usando a criação de um programa. Use este guia para concluir a próxima etapa.
 title: Criar um relatório de análise de associação ao programa com uma lista de leads
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 11%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 

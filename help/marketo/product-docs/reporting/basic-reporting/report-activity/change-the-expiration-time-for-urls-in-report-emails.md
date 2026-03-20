@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360032
-description: Altere a hora de expiração dos URLS em Emails de relatório - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como alterar a hora de expiração dos urls em emails de relatório no Marketo Engage, incluindo como alterar a expiração. Use este guia para concluir a próxima etapa.
 title: Alterar a hora de expiração dos URLS em emails de relatório
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Os links nos emails de assinatura de relatório expiram após três dias. Para alterar a hora de expiração desses links, siga estas etapas.
 

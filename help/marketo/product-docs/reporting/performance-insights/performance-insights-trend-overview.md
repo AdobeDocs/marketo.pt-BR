@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979010
-description: Visão geral da tendência do Performance Insights - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre a exibição de Tendência de insights de desempenho, que mostra as tendências de desempenho do canal ao longo do tempo com gráficos de rosca e de linha. Analise tendências de 12 meses para identificar estratégias vencedoras consistentes.
 title: Visão geral da tendência de insights de desempenho
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---

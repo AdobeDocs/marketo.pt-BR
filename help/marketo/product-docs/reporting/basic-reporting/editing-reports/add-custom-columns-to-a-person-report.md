@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360201
-description: Adicionar colunas personalizadas a um relatório de pessoa - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar colunas personalizadas a relatórios de pessoas usando listas inteligentes como filtros. Aprimore seus relatórios com métricas adicionais arrastando colunas personalizadas na guia Configuração.
 title: Adicionar colunas personalizadas a um relatório de pessoas
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '114'
+ht-degree: 12%
 
 ---
 

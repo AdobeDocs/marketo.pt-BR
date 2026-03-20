@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359991
-description: Gerenciar assinaturas de relatório - Documentação do Marketo - Documentação do produto
+description: Saiba como gerenciar todas as assinaturas de relatório em um local na guia Assinaturas do Analytics. Edite a frequência, os recipients e as configurações ou exclua as assinaturas conforme necessário.
 title: Gerenciar assinaturas de relatório
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 3%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719348
-description: Rotular o segmento - Documentação do Marketo - Documentação do produto
+description: Saiba como rotular o segmento no Marketo Engage usando rotular o segmento rótulo - seu segmento. Use este guia para concluir a próxima etapa.
 title: Rotular o segmento
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '137'
 ht-degree: 4%
 
 ---

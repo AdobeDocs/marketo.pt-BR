@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949154
-description: Rotular As Campanhas Da Web - Documentação Do Marketo - Documentação Do Produto
+description: Saiba como rotular suas campanhas da Web no Marketo Engage usando rotular suas campanhas da Web rotular suas campanhas da Web. Use este guia para concluir a próxima etapa.
 title: Rotular campanhas da web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 5%
+source-wordcount: '169'
+ht-degree: 4%
 
 ---
 

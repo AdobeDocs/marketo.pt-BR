@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795534
-description: Painéis do Performance Insights - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre os painéis do Performance Insights, incluindo Envolvimento, Pipeline e Visualizações de receita. Meça o engajamento do público-alvo, a aquisição de novos nomes e o desempenho do canal com métricas de primeiro e multitoque.
 title: Painéis de insights de desempenho
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '504'
-ht-degree: 11%
+source-wordcount: '522'
+ht-degree: 10%
 
 ---
 

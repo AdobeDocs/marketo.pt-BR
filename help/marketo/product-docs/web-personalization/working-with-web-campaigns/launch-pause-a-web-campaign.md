@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719406
-description: Iniciar/Pausar uma campanha da Web - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como iniciar/pausar uma campanha da Web no Marketo Engage, incluindo a campanha de inicialização e pausa da Web. Use este guia para concluir a próxima etapa.
 title: Iniciar/pausar uma campanha da web
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '180'
+ht-degree: 5%
 
 ---
 

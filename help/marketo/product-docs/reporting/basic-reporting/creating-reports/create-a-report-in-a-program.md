@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359963
-description: Criar um relatório em um programa - Documentação do Marketo - Documentação do produto
+description: Saiba como criar um relatório em um programa para analisar pessoas, programas, landing pages, emails e ativos sociais. Execute relatórios diretamente das Atividades de marketing ou na guia Analytics.
 title: Criar um relatório em um programa
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 6%
+source-wordcount: '200'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Execute um relatório para analisar pessoas, seus programas, landing pages, emails e ativos sociais.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

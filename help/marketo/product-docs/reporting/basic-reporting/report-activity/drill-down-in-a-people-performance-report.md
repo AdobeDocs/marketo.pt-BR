@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360035
-description: Detalhamento em um Relatório de desempenho de pessoas - Documentação do Marketo - Documentação do produto
+description: Saiba como detalhar nos relatórios de Desempenho de Pessoas para ver informações adicionais sobre pessoas selecionando uma linha e escolhendo um atributo. Explorar dados detalhados do lead em uma nova guia de relatório.
 title: Detalhar um relatório de desempenho de pessoas
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 12%
+source-wordcount: '152'
+ht-degree: 10%
 
 ---
 

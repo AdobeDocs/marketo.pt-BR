@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360341
-description: Sincronizar campos personalizados com o Explorador de receita - Documentação do Marketo - Documentação do produto
+description: Saiba como sincronizar campos personalizados com o explorador de receita no Marketo Engage usando a sincronização de campos personalizados com a receita. Use este guia para concluir a próxima etapa.
 title: Sincronizar campos personalizados com o gerenciador de receita
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 6%
+source-wordcount: '150'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a seção **[!UICONTROL Admin]**.
 

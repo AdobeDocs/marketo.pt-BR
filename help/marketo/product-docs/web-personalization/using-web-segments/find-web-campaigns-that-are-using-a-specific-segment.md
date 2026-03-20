@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719396
-description: Encontrar campanhas da Web que estão usando um segmento específico - Documentação do Marketo - Documentação do produto
+description: Saiba como localizar campanhas da Web que estão usando um segmento específico no Marketo Engage usando as campanhas da Web Localizar que estão. Dê o próximo passo com confiança.
 title: Localizar campanhas da web que estão usando um segmento específico
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 23%
+source-wordcount: '102'
+ht-degree: 20%
 
 ---
 

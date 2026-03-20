@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718636
-description: Noções básicas da área de análise de custo do programa - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como entender a área de análise de custo do programa no Marketo Engage, incluindo como entender o custo do programa. Use este guia para concluir a próxima etapa.
 title: Noções básicas sobre a área de análise de custo do programa
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 25%
+source-wordcount: '341'
+ht-degree: 24%
 
 ---
 

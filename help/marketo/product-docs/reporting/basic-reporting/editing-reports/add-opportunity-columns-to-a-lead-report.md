@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360018
-description: Adicionar colunas de oportunidade a um relatório de cliente potencial - Documentação do Marketo - Documentação do produto
+description: Saiba como adicionar colunas de oportunidade a relatórios de clientes potenciais para exibir estatísticas e métricas de oportunidade. Exibir dados da oportunidade, incluindo valores, taxas de conversão e informações sobre o ciclo de vendas.
 title: Adicionar colunas de oportunidade a um relatório de leads
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '295'
 ht-degree: 7%
 
 ---

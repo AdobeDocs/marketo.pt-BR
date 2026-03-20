@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360429
-description: Relatório sobre seu modelo de receita - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o relatório no seu modelo de receita no Marketo Engage, incluindo relatórios no seu modelo de receita. Use este guia para concluir a próxima etapa.
 title: Relatório sobre o modelo de receita
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 7%
+source-wordcount: '155'
+ht-degree: 6%
 
 ---
 
@@ -43,4 +43,4 @@ Para cada modelo de ciclo de receita, é possível gerar um relatório sobre qua
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-Por que isso é útil? O modelo mostra seu funil de vendas e marketing. Acompanhe seus saldos ao longo do tempo para identificar gargalos antes que eles se tornem um problema.
+Por que isso é útil? O modelo mostra sua funnel de vendas e marketing. Acompanhe seus saldos ao longo do tempo para identificar gargalos antes que eles se tornem um problema.

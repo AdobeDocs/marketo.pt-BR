@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095554
-description: Incorpore um formulário em uma campanha da Web - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre como incorporar um formulário a uma campanha da Web no Marketo Engage, incluindo como incorporar um formulário a uma campanha da Web. Use este guia para concluir a próxima etapa.
 title: Incorporar um formulário em uma campanha da web
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '348'
 ht-degree: 8%
 
 ---
@@ -85,4 +85,4 @@ Para adicionar o código CSS ao script:
 >
 >* [Editar o CSS de um Tema de Formulário](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostrar mensagem de agradecimento sem uma página de aterrissagem de acompanhamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

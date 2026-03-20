@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360057
-description: Relatório de atividade de campanha - Documentação do Marketo - Documentação do produto
+description: Saiba mais sobre o relatório de atividades de campanha no Marketo Engage, incluindo o relatório de atividades de campanha campaign-activity-report. Use este guia para concluir a próxima etapa.
 title: Relatório de atividades de campanha
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 15%
+source-wordcount: '234'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Veja o desempenho de suas [Campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}.
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **tipo de relatório** Atividade da campanha[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **tipo de relatório** Atividade da campanha[](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
 1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} e clique na guia **Relatório**.
 
