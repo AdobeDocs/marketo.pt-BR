@@ -6,9 +6,9 @@ description: Saiba como usar o assistente de IA para adicionar texto e imagens a
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 750af291d324acc188cb0fe2693507c156d09c0d
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '876'
 ht-degree: 7%
 
 ---
@@ -24,6 +24,8 @@ O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails 
 ## Configurar permissões {#set-up-permissions}
 
 _Após_ seguir o pré-requisito acima, os administradores do Marketo devem aplicar acesso a usuários/funções específicos antes que os usuários vejam os botões GenAI.
+
++++Saiba como configurar permissões
 
 1. No Marketo Engage, clique em **Administrador** e selecione **Usuários e funções**.
 
@@ -44,6 +46,8 @@ _Após_ seguir o pré-requisito acima, os administradores do Marketo devem aplic
 1. Selecione a função escolhida na Etapa 3 e o espaço de trabalho desejado (se aplicável). Clique em **Salvar**.
 
    ![](assets/use-the-ai-assistant-0e.png)
+
++++
 
 ## Casos de uso {#use-cases}
 
@@ -119,19 +123,27 @@ Após a criação do email, você tem a opção de modificar determinadas seçõ
 
 ![](assets/use-the-ai-assistant-7.png)
 
-Neste exemplo, estamos usando um modelo de assistência médica. Se a imagem existente do especialista em saúde não atender às suas necessidades, você pode instruir o assistente de IA a criar sua própria imagem de um especialista em saúde. Basta selecionar o conteúdo da imagem e clicar em Assistente de IA.
+Neste exemplo, estamos usando um template financeiro. Se uma ou mais imagens existentes não atenderem às suas necessidades, você pode instruir o assistente de IA a criar uma nova imagem com base na sua descrição. Selecione a imagem desejada e clique no ícone do assistente de IA.
 
 ![](assets/use-the-ai-assistant-8.png)
 
-Insira os detalhes relevantes no prompt, como &quot;gere uma imagem para um especialista da área de saúde&quot;, e adicione qualquer personalização desejada. Você também pode usar a biblioteca de prompts (à direita do prompt) se não tiver certeza sobre o que inserir.
-
-Depois de clicar em **Gerar**, várias variantes são criadas para você escolher.
+Insira os detalhes relevantes no prompt, como &quot;Um banqueiro sentado em sua mesa com pilhas de dinheiro&quot;. Você também pode usar a biblioteca de prompts (à direita do prompt) se não tiver certeza sobre o que inserir. Clique em **Configurações de imagem**.
 
 ![](assets/use-the-ai-assistant-9.png)
 
-Assim como a imagem, partes de texto do email também podem ser modificadas.
+Clique no botão de alternância para habilitar _Gerar imagens usando a IA_ e alterar qualquer configuração desejada, incluindo qual modelo usar (Adobe Firefly ou Gemini 2.5 Nano Banana). Quando terminar, clique em **Gerar**.
 
 ![](assets/use-the-ai-assistant-10.png)
+
+Várias variantes são criadas. Escolha seu favorito e clique em **Aplicar**.
+
+![](assets/use-the-ai-assistant-11.png)
+
+>[!NOTE]
+>
+>Se nenhuma das imagens atender às suas necessidades, clique em **Gerar** novamente para criar novas versões.
+
+Assim como a imagem, partes de texto do email também podem ser modificadas.
 
 ## Criar um email inteiro a partir de um modelo selecionado {#create-an-entire-email}
 
@@ -139,18 +151,18 @@ Essa opção só estará disponível se o email for criado usando um template ex
 
 Selecione um modelo, sem selecionar nenhum componente no modelo, e clique no botão Assistente de IA no Designer de email.
 
-![](assets/use-the-ai-assistant-11.png)
+![](assets/use-the-ai-assistant-12.png)
 
 Insira o prompt relevante e escolha as configurações de texto, os ativos de marca e qualquer configuração de imagem desejada para seu email.
 
-![](assets/use-the-ai-assistant-12.png)
+![](assets/use-the-ai-assistant-13.png)
 
 Se você quiser gerar imagens usando o Firefly, selecione as Configurações de Imagem e selecione o alternador para **Gerar Imagens usando a IA**.
 
-![](assets/use-the-ai-assistant-13.png)
+![](assets/use-the-ai-assistant-14.png)
 
 Selecione o _Tipo de Conteúdo_, _Cor e Tom_, _Luminosidade_ e _Composição_ desejados para criar imagens Gen-AI para seu email. Clique em **Gerar** quando terminar.
 
-![](assets/use-the-ai-assistant-14.png)
+![](assets/use-the-ai-assistant-15.png)
 
 Veja como uma variação será exibida em seu email clicando em **Visualizar**. Escolha uma variação clicando em **Aplicar**.
