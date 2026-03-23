@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
+source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
 workflow-type: tm+mt
-source-wordcount: '9334'
+source-wordcount: '9338'
 ht-degree: 99%
 
 ---
@@ -239,7 +239,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -1973,6 +1973,7 @@ ht-degree: 99%
    + Versões anteriores {#previous-releases}
       + 2026 {#2026}
          + [Notas de versão: janeiro de 2026](release-notes/previous-releases/2026/release-notes-jan-26.md)
+         + [Notas de versão: 26 de fevereiro](release-notes/previous-releases/2026/release-notes-feb-26.md)
       + 2025 {#2025}
          + [Notas de versão: janeiro de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Notas de versão: março de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)

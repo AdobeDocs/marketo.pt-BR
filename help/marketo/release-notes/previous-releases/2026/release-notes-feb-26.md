@@ -1,24 +1,24 @@
 ---
-description: Notas de versão atuais - Documentos do Marketo - Documentação do produto
-title: Notas da versão atual
-exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+description: Notas de versão - fevereiro de 2026 - Documentação do Marketo - Documentação do produto
+title: Notas de versão - Fevereiro de 2026
 feature: Release Information
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
+source-git-commit: 2d774545b17959ec0dfdf3ed004e7679d925fb98
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 40%
+source-wordcount: '393'
+ht-degree: 43%
 
 ---
 
-# Notas de versão: março de 2026 {#release-notes-mar-26}
+# Notas de versão: fevereiro de 2026 {#release-notes-feb-26}
 
-Abaixo você encontrará todos os recursos incluídos na versão de março de 2026. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de fevereiro de 2026. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
 Para ver as notas de versão específicas do Adobe Dynamic Chat, consulte [esta página](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 27 de março de 2026**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 20 de fevereiro de 2026**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,17 +28,11 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Gerenciar marcas (beta)</strong>: gere conteúdo de email com base nas diretrizes de redação de cópia específicas de sua organização/marca.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Alinhamento da Marca</strong>: use o verificador de qualidade de conteúdo para emails a fim de medir a legibilidade geral e a consistência de suas mensagens.
+   <td><strong>Email Designer - Ações de Pasta</strong>: paridade com o editor de email antigo.
+   <ul>
+   <li>Compartilhar e arquivar ações de pastas para ativos do Designer de email.</li>
+   <li>Compartilhe pastas entre espaços de trabalho, clique com o botão direito do mouse em uma pasta para criar um novo ativo e mover ativos por meio de arrastar e soltar.</li>
+   </ul>
    </td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
@@ -49,8 +43,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Correção de Renderização do Email Designer - Outlook</strong>: essa atualização corrige problemas de renderização, especialmente no MS Outlook. O "modo Expert" permite fazer pequenas edições de HTML/CSS ou adicionar tags de script ao email (a prática recomendada é não fazer outras alterações no HTML do email para manter os elementos visuais como estão).
-   </td>
+   <td><strong>Email Designer - API</strong>: agora você pode usar chamadas de API para o Email Designer.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -60,8 +53,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Ações Rápidas</strong>: <i>Paridade com o antigo editor de email</i>. As ações rápidas agora estão disponíveis para todos os ativos de email do Designer (emails, modelos de email, fragmentos). As ações rápidas compatíveis incluem: Duplicar, Excluir, Mover, Criar/Editar rascunho.
-   </td>
+   <td><strong>Email Designer - Verificador de qualidade da marca</strong>: avalie a qualidade do conteúdo geral para identificar possíveis problemas de legibilidade, consistência do conteúdo e eficácia, independentemente das diretrizes da sua marca.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -71,19 +63,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Gerenciamento de lista de opções</strong>: agora é possível especificar os valores que podem ser usados em campos no Marketo Engage.
-   </td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Notificações por push</strong>: as URLs de redirecionamento configuradas nas mensagens de notificação por push agora oferecem suporte a tokens do Marketo Engage (aplicável somente a <i>URLs de aplicativos de inicialização</i>).
-   </td>
+   <td><strong>Email Designer - Geração de imagem do assistente de IA</strong>: agora, além do Firefly, você pode usar modelos do Nano Banana para gerar imagens com o Assistente de IA para conteúdo de email.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
