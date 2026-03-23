@@ -3,10 +3,10 @@ description: Saiba mais sobre o Gerenciamento de agentes no Dynamic Chat. Exibir
 title: Gerenciamento de agentes
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 2%
+source-wordcount: '364'
+ht-degree: 3%
 
 ---
 
@@ -77,3 +77,17 @@ Selecione uma mensagem padrão (sistema) ou escreva uma personalizada para os vi
 >[!TIP]
 >
 >Ao criar uma mensagem personalizada, você pode estilizar a fonte, usar links e até mesmo inserir emojis! `:)`
+
+## Configurações {#settings}
+
+### Limite de chats ao vivo simultâneos {#concurrent-live-chat}
+
+Defina o número de bate-papos ativos simultâneos que um agente pode realizar de uma vez. Pode definir entre 1 e 10.
+
+![](assets/agent-management-10.png)
+
+### Limite de tempo de espera do visitante {#visitor-wait-time}
+
+Controle a quantidade máxima de tempo que um visitante aguardará (em segundos) para ser conectado a um agente ativo antes que o visitante receba uma mensagem de fallback. Pode ser definido entre 10 e 500 segundos.
+
+![](assets/agent-management-11.png)

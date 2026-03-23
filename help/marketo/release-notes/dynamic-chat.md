@@ -3,10 +3,10 @@ description: Notas de versão do Dynamic Chat - Documentos do Marketo - Document
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '3438'
-ht-degree: 99%
+source-wordcount: '3474'
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,13 @@ Para acessar a página de notas de versão padrão do Marketo Engage [clique aqu
 
 ## Versão de março de 2026 {#march-2026-release}
 
+### Limite de tempo de espera do visitante {#visitor-wait-time}
+
+Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+
 ### Baixar transcrição {#download-transcript}
 
-Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Mais informações](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versão de junho de 2025 {#june-2025-release}
 
@@ -110,7 +114,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível é e
 
 <p>
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 <table><thead>
   <tr>
@@ -136,7 +140,7 @@ _&#x200B;**Roteamento de conta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento personalizado**&#x200B;_
+_**Roteamento personalizado**_
 
 <table><thead>
   <tr>
@@ -162,7 +166,7 @@ _&#x200B;**Roteamento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento de equipe**&#x200B;_
+_**Roteamento de equipe**_
 
 <table><thead>
   <tr>
@@ -188,7 +192,7 @@ _&#x200B;**Roteamento de equipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 <table><thead>
   <tr>
