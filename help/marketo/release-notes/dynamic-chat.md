@@ -3,10 +3,10 @@ description: Notas de versão do Dynamic Chat - Documentos do Marketo - Document
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
 workflow-type: tm+mt
-source-wordcount: '3414'
-ht-degree: 100%
+source-wordcount: '3438'
+ht-degree: 99%
 
 ---
 
@@ -15,6 +15,12 @@ ht-degree: 100%
 As versões do Adobe Dynamic Chat operam em um modelo de entrega contínua, o que permite uma abordagem mais escalável para a implantação de recursos. Às vezes, há vários lançamentos em um mês, portanto, verifique regularmente para obter as informações mais atualizadas.
 
 Para acessar a página de notas de versão padrão do Marketo Engage [clique aqui](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Versão de março de 2026 {#march-2026-release}
+
+### Baixar transcrição {#download-transcript}
+
+Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Mais informações](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versão de junho de 2025 {#june-2025-release}
 
