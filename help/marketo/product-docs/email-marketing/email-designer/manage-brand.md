@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5688edd53ead1c6a4f0f7e90ab3f4f6598fa489f
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 8%
+source-wordcount: '1334'
+ht-degree: 2%
 
 ---
 
@@ -27,37 +27,33 @@ Insira e organize manualmente os detalhes da sua marca ou faça upload dos docum
 
 ## Acessar marcas {#generative-access}
 
-Para acessar o menu **[!UICONTROL Marcas]** em [!DNL Adobe Marketo Engage], os usuários precisam receber as permissões **[!UICONTROL Gerenciar kit de marca]** ou **[!UICONTROL Habilitar assistente de IA]**.
+Para acessar o menu **[!UICONTROL Marcas]** em [!DNL Adobe Marketo Engage], os usuários precisam receber as permissões relevantes.
 
 +++  Saiba como atribuir permissões relacionadas à marca
 
-Para atribuir permissões para marcas, siga estas etapas:
+### Usuários e funções {#users-and-roles}
 
-1. No produto **Permissões**, abra a guia **Funções** e selecione a **função** desejada.
+1. Em _Admin_, selecione **Usuários e Funções**.
 
-1. Clique em **Editar** para modificar as permissões.
+1. Selecione a função desejada.
 
-1. Adicione o recurso **Assistente de IA** e selecione **Gerenciar kit de marca** ou **[!UICONTROL Habilitar assistente de IA]** no menu suspenso.
+1. Clique para expandir o menu do **Access Design Studio**.
 
-   Observe que a permissão **[!UICONTROL Habilitar assistente de Ia]** fornece acesso somente leitura ao menu **[!UICONTROL Marcas]**.
+1. Selecione **Acessar o Assistente de IA** e clique em **Salvar**.
 
-   CAPTURA DE TELA
+### Admin
 
-1. Clique em **Salvar** para aplicar as alterações.
+1. De volta à área Administração, clique em Nova experiência.
 
-   As permissões de todos os usuários já atribuídos a essa função serão atualizadas automaticamente.
+1. Ao lado de _Gerenciar suas Marcas_, clique em **Editar**.
 
-1. Para atribuir essa função a novos usuários, navegue até a guia **Usuários** no painel **Funções** e clique em **Adicionar usuário**.
-
-1. Insira o nome do usuário, seu endereço de email ou escolha na lista e clique em **Salvar**.
-
-1. Se o usuário não tiver sido criado anteriormente, consulte [esta documentação](https://experienceleague.adobe.com/pt-br/docs/experience-platform/access-control/abac/permissions-ui/users).
+OK, O QUE VEM DEPOIS??
 
 +++
 
 ## Crie e gerencie a sua marca {#create-brand-kit}
 
-Para criar e gerenciar as diretrizes de marca, você pode inserir os detalhes por conta própria ou fazer upload do documento de diretrizes de marca para que as informações sejam extraídas automaticamente:
+Para criar e gerenciar a diretriz da marca, você pode inserir os detalhes por conta própria ou fazer upload do documento de diretrizes da marca para que as informações sejam extraídas automaticamente.
 
 1. No menu **[!UICONTROL Marcas]**, clique em **[!UICONTROL Criar marca]**.
 
