@@ -4,9 +4,10 @@ title: Gerenciamento de Lista de Separação
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ Cada entrada da lista de opções tem um Valor de Exibição e um Valor Enviado.
 
 ## Sugestão automática {#autosuggest}
 
+Quando a configuração _Lista de opções gerenciada_ estiver habilitada, as etapas Filtros, Opções de Etapa de Fluxo e Alterar Valor dos Dados sugerirão automaticamente valores da lista de opções gerenciada. Quando esta configuração está desabilitada, somente valores não gerenciados são sugeridos.
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### Alternância entre listas de seleção gerenciadas e não gerenciadas {#switching}
 
 A maioria das assinaturas do Marketo Engage contém dados de antes da introdução do Managed Picklists. Para usar valores em smart lists ou etapas de fluxo dessa lista de opções de versão não gerenciada (por exemplo, do conjunto completo de valores que existem em registros em seu banco de dados), alterne a configuração Lista de opções gerenciada na visualização da Lista inteligente ou do Campaign. Quando ativados, somente os valores da lista de opções gerenciada são exibidos. Quando desativado, a lista de opções não gerenciada é usada e os valores são sugeridos automaticamente com base nos valores existentes no banco de dados.
 
-### Listas de opções de formulário (Selecionar campos de tipo) {#form-picklists}
+## Listas de opções de formulário (Selecionar campos de tipo) {#form-picklists}
 
 Assim como as listas de opções pré-implantadas e gerenciadas pelo CRM, os valores das Listas de opções gerenciadas propagam-se para o Forms ao usar o tipo de campo Selecionar. Para um campo com uma lista de opções gerenciada, selecione esse campo e defina o Tipo de Campo como _Selecionar_.
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 Mostra o conjunto de valores da lista de seleção gerenciada definido para esse campo.
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
