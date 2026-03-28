@@ -4,7 +4,7 @@ description: Saiba como usar o editor de rich text para conteúdo de email. Form
 title: Uso do editor de rich text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 3%
@@ -39,7 +39,7 @@ A configuração do elemento de bloco raiz define quais tags vinculam seu conte�
 
    ![](assets/four.png)
 
-   Se você tiver `<div class=“mktEditable”></div>` em um Modelo de email, verá o seguinte comportamento do HTML Source ao abrir a seção e digitar &quot;O texto vai aqui&quot; no editor:
+   Se você tiver `<div class="mktEditable"></div>` em um Modelo de email, verá o seguinte comportamento do HTML Source ao abrir a seção e digitar &quot;O texto vai aqui&quot; no editor:
 
 <table>
  <tbody>
@@ -51,7 +51,7 @@ A configuração do elemento de bloco raiz define quais tags vinculam seu conte�
   <tr>
    <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;O texto é inserido aqui&lt;/p&gt;<br>&lt;/div&gt;</p></td>
    <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;O texto é inserido aqui&lt;/div&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class="mktEditable"&gt;<br>O texto é inserido aqui<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>Texto aqui<br>&lt;/div&gt;</p></td>
   </tr>
  </tbody>
 </table>
@@ -79,7 +79,8 @@ Estes são os recursos que você encontrará em um RTE.
 | ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Negrito] | **Mais escuro e mais grosso**. |
 | ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Itálico] | *Angled, para ênfase ou cotação* s. |
 | ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Sublinhado] | Coloca uma linha abaixo do texto. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alinhamento] | Use essa lista suspensa para dispor seu texto e imagens. Centralize-os, escolha o alinhamento à esquerda ou à direita ou espalhe-o de borda a borda com a justificação completa. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Escolha marcadores ou números na lista suspensa. Os marcadores são válidos para listas e números com etapas. |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alinhamento] | Use essa lista suspensa para dispor seu texto e imagens. Centralize-os, escolha o alinhamento à esquerda ou à direita ou espalhe-o de borda a borda com a justificação completa. |
+| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Escolha marcadores ou números na lista suspensa. Os marcadores são válidos para listas e números com etapas. |
 | ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Recuo] | Escolha mais ou menos recuo. Use para parágrafos ou qualquer texto que desejar destacar. |
 | ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Inserir/Editar Link] | Coloque um link para um site ou outro conteúdo; faça alterações facilmente. |
 | ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Inserir/Editar Imagem] | Uma imagem vale mais do que mil palavras. Solte um em. Clique no ícone de câmera para navegar no Design Studio. Você pode colocar imagens lado a lado. |

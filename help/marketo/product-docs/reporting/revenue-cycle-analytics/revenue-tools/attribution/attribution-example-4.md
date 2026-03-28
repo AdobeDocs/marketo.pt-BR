@@ -4,7 +4,7 @@ description: Saiba mais sobre o exemplo de atribuição 4 no Marketo Engage, inc
 title: Atribuição - Exemplo 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 6%
@@ -15,15 +15,15 @@ ht-degree: 6%
 
 Leia o cenário a seguir e tente determinar os números que devem estar na grade.
 
-* Abril de 11 | Michelle baixa e-Book (Conteúdo) - Sucesso
-* Abril de 15 | John comparece (webinário) - Sucesso
-* Abril de 22 | (Oportunidade 1) criada por US$ 3.000
-* Abril de 24 | (Oportunidade 2) criada por US$ 5.000
-* Abril de 25 | John e Michelle estão associados a **ambos** opções
-* Abril de 29 | [A opção 1] está fechada
+* 11 de abril | Michelle baixa e-Book (Conteúdo) - Sucesso
+* 15 de abril | John participa (webinário) - Sucesso
+* 22 de abril | (Oportunidade 1) criada por US$ 3.000
+* 24 de abril | (Oportunidade 2) criada por US$ 5.000
+* 25 de abril | John e Michelle estão associados a **ambos** opções
+* 29 de abril | [A opção 1] está fechada
 
-| Nome do programa | (Conteúdo) | (Webinário) |
-|---|---|---|
+| Nome do programa | (Conteúdo) | (Webinário) | | |
+|---|---|---|---|---|
 |   | (Opção 1) | (Opção 2) | (Opção 1) | (Opção 2) |
 | (MT) Opção criada | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Planejamento criado | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
