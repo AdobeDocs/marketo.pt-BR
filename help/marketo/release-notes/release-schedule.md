@@ -4,7 +4,7 @@ description: Programação de lançamento - Documentos do Marketo - Documentaç�
 title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f97e0e03b6b0fe0635c57e01be4f5785f0519691
+source-git-commit: 8422914df5727690fd5d4a53209648704529eec8
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 90%
@@ -55,7 +55,7 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Março de 2026</td>
    <td>27 de março de 2026</td>
-   <td>No cronograma</td>
+   <td>Em andamento</td>
   </tr>
   <tr>
   <td>Maio de 2026</td>
