@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Notas de versão - Winter '17 - Marketo Docs - Documentação do produto
 title: Notas de versão - inverno de 17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 8%
@@ -38,7 +38,7 @@ Exporte todos os detalhes e análises do Web Campaign em um formato CSV. Em segu
 
 ## Localização {#localization}
 
-Os aplicativos Web Personalization, [!UICONTROL Conteúdo preditivo] e Insights de email agora estão disponíveis em japonês, alemão e espanhol. Você [seleciona seu idioma e localidade](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) para exibir seu conteúdo nesses idiomas.
+Os aplicativos Web Personalization, [!UICONTROL Conteúdo preditivo] e Insights de email agora estão disponíveis em japonês, alemão e espanhol. Você [seleciona seu idioma e localidade](/help/marketo/product-docs/administration/settings/change-time-zone.md) para exibir seu conteúdo nesses idiomas.
 
 ![](assets/japanese-web-personalization.png)
 

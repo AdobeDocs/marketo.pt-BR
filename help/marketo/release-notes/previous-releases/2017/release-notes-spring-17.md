@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Notas de versão - Segundo trimestre de 2017 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - primavera de 17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 3%
@@ -86,13 +86,13 @@ O arquivamento é um novo status do Web Campaign que permite arquivar [!UICONTRO
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Localização](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localização](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 O Web Personalization agora é oferecido em todos os idiomas suportados pela Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
 ## Melhorias preditivas {#predictive-enhancements}
 
-**[Localização](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localização](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 O conteúdo preditivo agora é oferecido em todos os idiomas suportados pela Marketo (inglês, japonês, alemão, espanhol, francês e português).
 

@@ -4,7 +4,7 @@ description: Saiba como agendar programas de email com fuso horário do recipien
 title: Agendar programas de email com o fuso horário do destinatário
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '851'
 ht-degree: 2%
@@ -36,7 +36,7 @@ Isso oferece duas opções:
 >
 >* **[!UICONTROL Entregar o dia seguinte no fuso horário do destinatário]**: se o email estiver agendado para sair na terça-feira às 9:00am, as pessoas qualificadas que vivem nos fusos horários em que o horário agendado já passou receberão o email em *quarta-feira* às 9:00am.
 >
->* **[!UICONTROL Entregar usando a hora definida padrão do programa]**: se o email estiver agendado para sair na terça-feira às 9:00am, as pessoas qualificadas que vivem nos fusos horários em que a hora agendada já passou receberão o email *com base nas configurações de fuso horário da sua assinatura*. Portanto, se as [configurações de fuso horário da sua assinatura](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) estiverem definidas como PDT America/Los Angeles, esses destinatários ainda receberão o email na terça-feira às 9:00am PDT (qualquer hora que estiver em seus próprios fusos horários).
+>* **[!UICONTROL Entregar usando a hora definida padrão do programa]**: se o email estiver agendado para sair na terça-feira às 9:00am, as pessoas qualificadas que vivem nos fusos horários em que a hora agendada já passou receberão o email *com base nas configurações de fuso horário da sua assinatura*. Portanto, se as [configurações de fuso horário da sua assinatura](/help/marketo/product-docs/administration/settings/change-time-zone.md) estiverem definidas como PDT America/Los Angeles, esses destinatários ainda receberão o email na terça-feira às 9:00am PDT (qualquer hora que estiver em seus próprios fusos horários).
 
 >[!NOTE]
 >

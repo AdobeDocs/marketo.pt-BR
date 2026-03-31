@@ -4,8 +4,8 @@ description: Enviar um email - Documentos do Marketo - Documentação do produto
 title: Enviar um email
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 100%
 
@@ -125,7 +125,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >O fuso horário padrão não é o seu? Saiba como [atualizá-lo aqui](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >O fuso horário padrão não é o seu? Saiba como [atualizá-lo aqui](/help/marketo/product-docs/administration/settings/change-time-zone.md){target="_blank"}.
 
 1. Clique em **[!UICONTROL Aprovar programa]** no bloco [!UICONTROL Aprovação] e pronto.
 

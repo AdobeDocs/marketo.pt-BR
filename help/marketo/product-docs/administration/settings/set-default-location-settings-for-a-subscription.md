@@ -4,9 +4,9 @@ description: Como os administradores visualizam e editam as configurações padr
 title: Definir configurações de localização padrão para uma assinatura
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '247'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,7 @@ Este artigo descreve como um Administrador visualizaria e editaria as configura�
 
 ## Definir configurações de localização padrão para uma assinatura {#set-default-location-settings-for-a-subscription-1}
 
-Quando um Administrador altera as configurações padrão de local, os usuários recém-criados herdam essas configurações. Os usuários sempre podem [alterar suas preferências de idioma, localidade e fuso horário](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) em suas contas individuais.
+Quando um Administrador altera as configurações padrão de local, os usuários recém-criados herdam essas configurações. Os usuários podem [alterar seu fuso horário](/help/marketo/product-docs/administration/settings/change-time-zone.md) em suas contas individuais.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -65,4 +65,4 @@ Se você estiver alterando o local padrão dos usuários, talvez também queira 
 
 >[!MORELIKETHIS]
 >
->* [Selecione seu idioma, localidade e fuso horário](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [Alterar Fuso Horário](/help/marketo/product-docs/administration/settings/change-time-zone.md)
