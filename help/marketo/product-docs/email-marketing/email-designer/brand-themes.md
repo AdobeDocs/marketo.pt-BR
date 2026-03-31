@@ -6,7 +6,7 @@ description: Saiba como criar e gerenciar diretrizes de marca no Marketo Engage.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 2%
@@ -73,7 +73,7 @@ Para editar uma variante, clique no ícone de lápis.
 
 >[!NOTE]
 >
->É possível criar até seis variantes.
+>É possível criar até quatro variantes.
 
 Vários elementos estão disponíveis para personalização. As configurações de variante são agrupadas nas seguintes categorias:
 
