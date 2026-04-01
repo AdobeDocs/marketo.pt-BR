@@ -6,9 +6,9 @@ description: Saiba como usar o assistente de IA para adicionar texto e imagens a
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '923'
 ht-degree: 6%
 
 ---
@@ -51,17 +51,21 @@ _Após_ seguir o pré-requisito acima, os administradores do Marketo devem aplic
 
 ## Casos de uso {#use-cases}
 
-Existem três casos de uso principais para o Assistente de IA:
+Existem alguns casos de uso principais para o Assistente de IA:
 
-* [Crie uma linha de assunto](#create-a-subject-line) para seu email
+* [Crie uma linha de assunto e/ou pré-cabeçalho](#create-a-subject-line-preheader) para seu email
 * [Criar conteúdo para uma seção específica](#create-content-for-a-specific-section) do seu email
 * [Criar um email inteiro](#create-an-entire-email) a partir de um modelo selecionado
 
-## Criar uma linha de assunto {#create-a-subject-line}
+## Criar uma linha de assunto/pré-cabeçalho {#create-a-subject-line-preheader}
 
-Quando um email for criado usando a Nova Designer de email, insira uma linha de assunto temporária.
+Você pode usar o Assistente do AI para criar uma linha de assunto, um pré-cabeçalho ou ambos.
 
 ![](assets/use-the-ai-assistant-1.png)
+
+O exemplo abaixo ilustra a linha de assunto. Para um pré-cabeçalho, as mesmas etapas podem ser seguidas clicando na caixa de seleção _Pré-cabeçalho_ (exibida na imagem acima).
+
+Quando um email for criado usando a Nova Designer de email, insira uma linha de assunto temporária.
 
 Após a criação do email, a linha de assunto fica na coluna _Detalhes_ à direita. Clique no botão do assistente de IA ( ![Ícone de filtro](assets/icon-ai-assistant.png) ) ao lado dele para obter assistência na criação de uma nova linha de assunto usando a funcionalidade Gen AI.
 

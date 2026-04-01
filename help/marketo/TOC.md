@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '9337'
+source-wordcount: '9340'
 ht-degree: 99%
 
 ---
@@ -240,7 +240,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -1049,7 +1049,7 @@ ht-degree: 99%
          + [Integração do GenStudio para Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Bloqueio de conteúdo](product-docs/email-marketing/email-designer/content-locking.md)
          + [Colaboração por email](product-docs/email-marketing/email-designer/email-collaboration.md)
-         + [Assistente de IA](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [Assistente de IA para Designer de email](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Relatório de spam por email com o SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + Programas de email {#email-programs}
          + Criação de um programa de email {#creating-an-email-program}
