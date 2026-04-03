@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + Documentos do produto {#product-docs}
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
-         + Noções básicas sobre SEO {#understanding-seo}
-            + [Noções básicas sobre a otimização do mecanismo de pesquisa (SEO)](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Noções básicas do painel de SEO: recomendações de SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [Noções básicas do painel de SEO: instantâneo de SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - Adicionar um site/excluir um site](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - Adicionar concorrentes](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO - Gerenciamento de listas](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - Escolher a região/país para seu mecanismo de pesquisa](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO - Definir suas preferências de alerta por email](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Palavras-chave {#keywords}
-            + [SEO - Adicionar palavras-chave](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - Adicionar/remover colunas da exibição de palavras-chave](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - Adicionar/remover palavras-chave de uma lista](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - Exportação de resultados de palavras-chave](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - Filtrar resultados de palavras-chave](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO - Obter sugestões de palavras-chave](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO - Importação de palavras-chave com um CSV](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO - Gráfico de tendências de palavras-chave](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO - Otimizar páginas específicas com palavras-chave direcionadas](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO - Remover uma palavra-chave](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO - Noções básicas sobre palavras-chave](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - Exibir resultados de palavras-chave em um mecanismo de pesquisa](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Páginas {#pages}
-            + [SEO - Adicionar notas aos problemas da página](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO - Adicionar páginas](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - Adicionar/remover página da lista](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO - Adicionar/remover problema da página de uma lista](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - Exportar problemas para um CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - Remover/excluir um problema de página](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO - Remover/excluir uma página](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO - Noções básicas sobre páginas](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO - Uso do detalhamento de página](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + Links de entrada {#inbound-links}
-            + [SEO - Adicionar um URL de link de entrada manualmente](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO - Adicionar/remover um URL de link de entrada de uma lista](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO - Obter sugestões de links de entrada](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO - Remover/excluir um URL de link de entrada](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO - Noções básicas sobre links de entrada](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + Relatórios {#reports}
             + [SEO - Uso do relatório de tendências de palavra-chave do concorrente](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - Uso do relatório de tendências de palavra-chave](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -239,7 +205,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
