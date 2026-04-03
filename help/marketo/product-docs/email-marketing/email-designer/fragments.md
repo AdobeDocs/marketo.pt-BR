@@ -6,7 +6,7 @@ description: Saiba como criar e usar fragmentos como componentes de email reutil
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '1974'
 ht-degree: 1%
@@ -133,7 +133,7 @@ O status do fragmento determina sua disponibilidade para uso em um email ou mode
 
    >[!INFO]
    >
-   >Saiba mais sobre [configurações de tema](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
+   >Saiba mais sobre [configurações de tema](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md#settings){target="_blank"}.
 
 1. Clique em **[!UICONTROL Salvar]** a qualquer momento para salvar o fragmento de rascunho.
 

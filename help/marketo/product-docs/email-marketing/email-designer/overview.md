@@ -5,7 +5,7 @@ description: Saiba mais sobre o Email Designer e seu editor de arrastar e soltar
 title: Visão geral
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 95%
@@ -54,7 +54,7 @@ Para acessar o novo Designer de email, sua assinatura do Marketo Engage deve ser
 
 * [Conversor de imagem para HTML](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: faça upload de um arquivo de imagem PNG/JPEG compatível de um email e ele será convertido automaticamente em HTML para uso no novo designer de email.
 
-* [Temas da marca](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: defina temas da marca no Marketo Engage. As configurações de estilo podem ser reutilizadas e aplicadas em modelos de email e outros ativos de email para manter a consistência da marca.
+* [Temas da marca](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}: defina temas da marca no Marketo Engage. As configurações de estilo podem ser reutilizadas e aplicadas em modelos de email e outros ativos de email para manter a consistência da marca.
 
 * [Importador de modelo](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: importe modelos de email do editor de email clássico para criar modelos compatíveis com o novo Designer de email no Design Studio.
 
@@ -84,7 +84,7 @@ A edição de ativos via API não é compatível com o novo Designer de email ne
 
 **Existe uma maneira de aplicar a identidade visual (fontes, logotipos e cores)?**
 
-Sim! Crie e gerencie suas diretrizes de marca com [temas de marca](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md).
+Sim! Crie e gerencie suas diretrizes de marca com [temas de marca](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md).
 
 **A criação de módulos para modelos será mais personalizável e escalável?**
 
