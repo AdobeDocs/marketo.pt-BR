@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 3ab1d36fd99e72566adc463429fb8084dbf364c9
 workflow-type: tm+mt
 source-wordcount: '9339'
 ht-degree: 99%
@@ -239,7 +239,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -1051,8 +1051,8 @@ ht-degree: 99%
             + [Temas da marca](product-docs/email-marketing/email-designer/brands/brand-themes.md)
             + [Aplicar marca](product-docs/email-marketing/email-designer/brands/apply-brand.md)
             + [Gerenciar marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Personalize suas marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Gerenciar marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Personalize suas marcas](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [Alinhamento da marca](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + Programas de email {#email-programs}
          + Criação de um programa de email {#creating-an-email-program}
             + [Criar um programa de email](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
