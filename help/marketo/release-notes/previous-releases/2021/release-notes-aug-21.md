@@ -2,9 +2,9 @@
 description: Notas de versão - agosto de 2021 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Agosto de 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '897'
 ht-degree: 1%
 
 ---
@@ -57,13 +57,13 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 >
 >A limitação de email está disponível no Beta agora. [Saiba mais](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
-* **Insights Aprimorados da Atividade de Vendas**: capture e ative o envolvimento personalizado com base nas atividades anteriores de sua equipe de vendas. Novos atributos, como Link de registro de chamada de vendas, Nome da campanha de vendas e Assunto do email de vendas, podem ser usados nas listas inteligentes do Marketo Engage.  Essas atividades podem ser exportadas e relatadas por meio da API REST do Marketo Engage ou Exportação em massa e estão disponíveis em filtros e acionadores como restrições adicionais para smart lists.
+* **Insights Aprimorados de Atividades de Vendas**: capture e ative o envolvimento personalizado com base nas atividades anteriores de sua equipe de vendas. Novos atributos, como Link de registro de chamada de vendas, Nome da campanha de vendas e Assunto do email de vendas, podem ser usados nas listas inteligentes do Marketo Engage.  Essas atividades podem ser exportadas e relatadas por meio da API REST do Marketo Engage ou Exportação em massa e estão disponíveis em filtros e acionadores como restrições adicionais para smart lists.
 
 ## [!DNL Bizible] {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Integração do Forms com a Geração de Clientes Potenciais**: os profissionais de marketing agora podem realizar atribuição de receita em conversões que ocorrem quando [!DNL LinkedIn] captura preenchimentos de formulário por meio de suas unidades de anúncio do Forms de Geração de Clientes Potenciais. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. A Geração líder de Forms [!DNL LinkedIn] é uma das ofertas de mídia paga de crescimento mais rápido da [!DNL LinkedIn] e esse novo recurso está incluído na integração existente do [!DNL LinkedIn] Ads com o [!DNL Bizible].
+* **[!DNL Bizible][!DNL LinkedIn] Integração do Forms com a Geração de Clientes Potenciais**: os profissionais de marketing agora podem realizar atribuição de receita em conversões que ocorrem quando [!DNL LinkedIn] captura preenchimentos de formulário por meio de suas unidades de anúncio do Forms de Geração de Clientes Potenciais. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. A Forms da Geração de Clientes Potenciais [!DNL LinkedIn] é uma das ofertas de mídia paga de crescimento mais rápido da [!DNL LinkedIn] e esse novo recurso está incluído na integração existente do [!DNL LinkedIn] Ads com o [!DNL Bizible].
 
 * **Painel do Velocity aprimorado**: adicionamos uma nova métrica de velocidade e um novo filtro de painel para obter insights mais profundos. Esse painel é usado pelos profissionais de marketing para entender a velocidade do lead e da oportunidade estágio por estágio e a eficiência de diferentes formas de envolvimento de marketing e vendas.
 
@@ -81,7 +81,7 @@ Esta seção inclui novos recursos para usuários do Bizible que concluíram a m
 
 ## Anúncios {#announcements}
 
-* **Atualização das Configurações de Assinatura da Universal ID**: para oferecer suporte à futura integração da Marketo Engage e da Adobe Identity para usuários existentes, todas as assinaturas do Marketo Engage serão unificadas na habilitação do suporte à Universal ID. Mais informações [podem ser encontradas aqui](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
+* **Atualização das Configurações de Assinatura da Universal ID**: para oferecer suporte à futura integração da Marketo Engage e da Adobe Identity para usuários existentes, todas as assinaturas do Marketo Engage serão unificadas na habilitação do suporte à Universal ID.
 
 **_Webinar de lançamento de produto_**
 

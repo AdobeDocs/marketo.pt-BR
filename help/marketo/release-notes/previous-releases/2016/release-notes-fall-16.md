@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Notas de versão - Último trimestre de 2016 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Último trimestre de 2016
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 1%
@@ -34,7 +34,7 @@ Com a integração do [!DNL Facebook] Conversões offline, os dados de conversã
 
 ![](assets/facebook.png)
 
-## [ID universal](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## ID universal {#universal-id}
 
 A Universal ID permite acessar várias assinaturas do Marketo com um único logon e alternar rapidamente entre as assinaturas. Você pode usar um único perfil de comunidade para todas as suas assinaturas.
 
