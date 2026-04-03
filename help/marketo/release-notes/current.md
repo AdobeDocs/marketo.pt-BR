@@ -3,10 +3,10 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 39%
+ht-degree: 38%
 
 ---
 
@@ -29,8 +29,19 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Email Designer - Gerenciar marcas (beta)</strong>: gere conteúdo de email com base nas diretrizes de redação de cópia específicas de sua organização/marca.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Lançado</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">Criar e gerenciar marcas</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Ações Rápidas</strong>: <i>Paridade com o antigo editor de email</i>. As ações rápidas agora estão disponíveis para todos os ativos de email do Designer (emails, modelos de email, fragmentos). As ações rápidas compatíveis incluem: Duplicar, Excluir, Mover, Criar/Editar rascunho.
+   </td>
+   <td>Lançado</i></td>
+   <td>n/d</td>
   </tr>
   <tr>
    <td> </td>
@@ -49,17 +60,6 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td><strong>Correção de Renderização do Email Designer - Outlook</strong>: essa atualização corrige problemas de renderização, especialmente no MS Outlook. O "modo Expert" permite fazer pequenas edições de HTML/CSS ou adicionar tags de script ao email (a prática recomendada é não fazer outras alterações no HTML do email para manter os elementos visuais como estão).
-   </td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Ações Rápidas</strong>: <i>Paridade com o antigo editor de email</i>. As ações rápidas agora estão disponíveis para todos os ativos de email do Designer (emails, modelos de email, fragmentos). As ações rápidas compatíveis incluem: Duplicar, Excluir, Mover, Criar/Editar rascunho.
    </td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
@@ -92,7 +92,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do recurso de SEO**: na terça-feira, 31 de março de 2026, o Marketo Engage descontinuará o recurso de Otimização do Mecanismo de Pesquisa (SEO). Se você não usa o SEO ativamente, não precisa fazer nada. Se você tiver usado o SEO recentemente, terá a opção de exportar seus dados. [Saiba mais](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=pt){target="_blank"}.
+* **Descontinuação do recurso de SEO**: na terça-feira, 31 de março de 2026, o Marketo Engage descontinuará o recurso de Otimização do Mecanismo de Pesquisa (SEO). Se você não usa o SEO ativamente, não precisa fazer nada. Se você tiver usado o SEO recentemente, terá a opção de exportar seus dados. [Saiba mais](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limite de Clientes Potenciais de Mesclagem da API REST**: a partir de 31 de março de 2026, as chamadas que incluírem mais de 25 IDs no parâmetro leadIds de uma chamada da API de Clientes Potenciais de Mesclagem resultarão em um código de erro 1080 e a chamada será ignorada. As tarefas que exigem a fusão de mais de 25 registros em um devem ser divididas em várias tarefas para garantir o sucesso dessas chamadas.
 

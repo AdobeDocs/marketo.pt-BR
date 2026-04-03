@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9339'
 ht-degree: 99%
 
 ---
@@ -224,7 +224,6 @@ ht-degree: 99%
          + [Definir uma página substituta](product-docs/administration/settings/set-a-fallback-page.md)
          + [Definir configurações de localização padrão para uma assinatura](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Noções básicas sobre configurações de privacidade](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [Uso de uma ID universal para logon de assinatura](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + Tags {#tags}
          + [Criar uma nova tag de programa e valores de tag](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Criar um canal de programa](product-docs/administration/tags/create-a-program-channel.md)
@@ -240,7 +239,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -1036,9 +1035,6 @@ ht-degree: 99%
          + [Converter imagens em modelos HTML](product-docs/email-marketing/email-designer/image-to-html.md)
          + [Criar conteúdo acessível](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personalizado](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Temas da marca](product-docs/email-marketing/email-designer/brand-themes.md)
-         + [Aplicar marca](product-docs/email-marketing/email-designer/apply-brand.md)
-         + [Gerenciar marca](product-docs/email-marketing/email-designer/manage-brand.md)
          + [Modo escuro](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Testar renderização de email com Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Tokens de personalização](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1051,6 +1047,12 @@ ht-degree: 99%
          + [Colaboração por email](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Assistente de IA para Designer de email](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Relatório de spam por email com o SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+         + Marcas {#brands}
+            + [Temas da marca](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Aplicar marca](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Gerenciar marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Personalize suas marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Gerenciar marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
       + Programas de email {#email-programs}
          + Criação de um programa de email {#creating-an-email-program}
             + [Criar um programa de email](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
