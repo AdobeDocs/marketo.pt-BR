@@ -48,7 +48,7 @@ Na etapa 7 de [a seção abaixo](#create-a-subscription), o usuário selecionari
 
 Depois de [identificar seu data center e pod/servidor](#identify), siga as etapas abaixo para criar uma assinatura.
 
-1. Em [status.adobe.com](https://status.adobe.com/pt-BR), clique em **Gerenciar assinaturas**.
+1. Em [status.adobe.com](https://status.adobe.com/pt-br/pt-BR), clique em **Gerenciar assinaturas**.
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
