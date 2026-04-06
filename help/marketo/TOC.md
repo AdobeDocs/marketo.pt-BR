@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
+source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
 workflow-type: tm+mt
 source-wordcount: '9171'
 ht-degree: 99%
@@ -58,12 +58,12 @@ ht-degree: 99%
       + [Instância herdada: documentar sua configuração](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Revisão das principais habilidades](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Documentos do produto {#product-docs}
-   + MARKETO MCP {#marketo-mcp}
-      + [Visão geral](product-docs/marketo-mcp/overview.md)
-      + [Configurações e configuração](product-docs/marketo-mcp/settings-setup.md)
+   + MARKETO AI {#marketo-ai}
+      + [Visão geral](product-docs/marketo-ai/overview.md)
+      + [Configurações e configuração](product-docs/marketo-ai/settings-setup.md)
       + Agentes {#agents}
-         + [Importar clientes em potencial](product-docs/marketo-mcp/agents/import-leads.md)
-         + [Controle de qualidade do programa](product-docs/marketo-mcp/agents/program-qa.md)
+         + [Importar clientes em potencial](product-docs/marketo-ai/agents/import-leads.md)
+         + [Controle de qualidade do programa](product-docs/marketo-ai/agents/program-qa.md)
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
          + Palavras-chave {#keywords}
@@ -211,7 +211,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
