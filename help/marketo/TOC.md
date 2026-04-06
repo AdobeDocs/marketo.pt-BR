@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 8a9445f0cce6afc6506d0cb30b67bd071828f0a1
+source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
 workflow-type: tm+mt
-source-wordcount: '9168'
+source-wordcount: '9171'
 ht-degree: 99%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 99%
 + Documentos do produto {#product-docs}
    + MARKETO MCP {#marketo-mcp}
       + [Visão geral](product-docs/marketo-mcp/overview.md)
+      + [Configurações e configuração](product-docs/marketo-mcp/settings-setup.md)
       + Agentes {#agents}
          + [Importar clientes em potencial](product-docs/marketo-mcp/agents/import-leads.md)
          + [Controle de qualidade do programa](product-docs/marketo-mcp/agents/program-qa.md)
@@ -210,7 +211,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
