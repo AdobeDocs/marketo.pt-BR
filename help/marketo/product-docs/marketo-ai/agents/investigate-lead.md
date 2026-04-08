@@ -3,9 +3,9 @@ description: Em breve.
 title: Investigar lead
 hide: true
 hidefromtoc: true
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Descubra por que alguém não entrou em MQL, se qualificou para um programa ou avançou pelo ciclo de vida.
 
-Para visualizar a lista completa de cenários de investigação, clique na seta para baixo à direita.
+Para visualizar a lista completa de cenários de investigação, clique na seta à direita.
 
 CAPTURA DE TELA
 
