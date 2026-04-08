@@ -4,10 +4,10 @@ title: Configurações e configuração
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 1%
+source-wordcount: '333'
+ht-degree: 0%
 
 ---
 
@@ -17,19 +17,51 @@ Saiba como habilitar permissões e usar a área Configurações para exibir deta
 
 ## Permissões {#permissions}
 
-Para acessar a IA do Marketo, os administradores devem primeiro habilitar as permissões de função.
+>[!IMPORTANT]
+>
+>Na fase Alpha da IA do Marketo, o _acesso é habilitado por padrão_ para as seguintes funções: Administrador, Usuário de marketing do administrador do produto Adobe, Usuário padrão. Portanto, em vez de ativá-lo para funções que você deseja ter acesso, desative-o para funções que não deseja.
+
+### Acesso para todos {#access-for-all}
+
+Se você quiser que a IA do Marketo seja habilitada para todas as funções listadas acima, não é necessário fazer nada.
+
+### Acesso para alguns {#access-for-some}
+
+Se quiser remover o acesso de qualquer função, siga as etapas abaixo.
 
 1. Em Meu Marketo, clique em **Administrador** e depois em **Usuários e funções**.
 
    ![](assets/settings-setup-1.png)
 
-1. Na guia _Funções_, selecione a função desejada e clique em **Editar Função**.
+1. Na guia _Funções_, selecione a(s) função(ões) desejada(s) e clique em **Editar Função**.
 
    ![](assets/settings-setup-2.png)
 
-1. Role para baixo e marque a caixa de seleção **Acessar compilação com IA** e clique em **Salvar**.
+1. Role para baixo e _desmarque_ a caixa de seleção **Acessar compilação com IA** e clique em **Salvar**.
 
    ![](assets/settings-setup-3.png)
+
+### Função personalizada {#custom-role}
+
+Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando a _Compilação do Access com IA_ juntamente com qualquer outra coisa que desejar e [atribuindo essa função](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
+
+<!-- ## Permissions {#permissions}
+
+In order to access Marketo AI, Admins must first enable role permissions. 
+
+1. In your My Marketo, click **Admin**, then **Users & Roles**.
+
+   ![](assets/settings-setup-1.png)
+
+1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+
+   ![](assets/settings-setup-3.png)
+
+-->
 
 ## Configurações {#settings}
 

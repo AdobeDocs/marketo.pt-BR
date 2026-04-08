@@ -4,7 +4,7 @@ title: Visão geral da IA do Marketo Engage
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 3%
@@ -31,6 +31,14 @@ No console central há sete recursos de Agência para ajudá-lo com várias tare
 
 ## Agentes {#agents}
 
+### Controle de qualidade do programa {#program-qa}
+
+Valide os programas do Marketo Engage em relação às práticas recomendadas e identifique problemas antes do lançamento. [Saiba mais](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### Importar clientes em potencial {#import-leads}
+
+Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo. [Saiba mais](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### Investigar lead (em breve) {#investigate-lead}
 
 Descubra por que alguém não entrou em MQL, se qualificou para um programa ou avançou pelo ciclo de vida.
@@ -42,14 +50,6 @@ Crie um documento de configuração de programa para que outras pessoas possam u
 ### Criar programa (em breve) {#create-program}
 
 Gere um programa Marketo Engage inteiro usando um resumo da campanha, completo com email, landing page e Campanha inteligente.
-
-### Controle de qualidade do programa {#program-qa}
-
-Valide os programas do Marketo Engage em relação às práticas recomendadas e identifique problemas antes do lançamento. [Saiba mais](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### Importar clientes em potencial {#import-leads}
-
-Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo. [Saiba mais](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Normalizar dados (em breve) {#normalize-data}
 
