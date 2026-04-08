@@ -4,9 +4,9 @@ title: Importar clientes em potencial
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,52 @@ ht-degree: 0%
 
 Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo.
 
-Importar uma lista de clientes em potencial? PESSOAS? no formato csv, aplicação de algumas regras de normalização de dados e salvamento no banco de dados do Marketo.
+## Como usar {#how-to-use}
 
-Clicar nesse Agente o direciona para a IA de conversação. No painel esquerdo, há um Assistente de IA que fornece uma janela para o Agente postar orientação, respostas e opções para quais recursos de normalização de dados executar.
+1. Em Minha Marketo, clique no bloco **Criar com IA**.
 
-Para iniciar o processo de Importação, clique no ícone de anexo para fazer upload de um arquivo.
+   ![](assets/import-leads-1.png)
 
-Digite na lista Importar e clique em Enviar
+1. Clique no agente **Importar clientes em potencial**.
 
-Insira a regra de negócios a ser aplicada e clique em Enviar. Uma vez inserida, uma janela no console central fornecerá os resultados da regra aplicada.
+   ![](assets/import-leads-2.png)
 
-Insira outra regra de negócios, se desejar, e clique em Enviar.
+   Você é levado para a IA de conversação. No painel esquerdo, o Agente publica orientações, respostas e opções para quais recursos de normalização de dados executar.
 
-Para exibir uma lista de campos de lista mapeada para o banco de dados, clique na guia mapping.
+   ![](assets/import-leads-3.png)
 
-Quando estiver pronto para salvar a lista no banco de dados, clique em Import to Marketo.
+1. Para começar a importar seus clientes em potencial, clique no ícone de anexo e faça upload por meio do arquivo .CSV.
 
-Selecione a pasta para salvar a lista, insira um nome para a lista de clientes potenciais e marque as caixas de consentimento e clique no botão &quot;Aprovar e importar para o Marketo&quot;.
+   ![](assets/import-leads-4.png)
 
-Depois que a lista for salva, uma verificação receberá um resumo dos registros processados, com falha ou com avisos.
+1. Digite _Lista de importações_ e clique em **Enviar**.
+
+   ![](assets/import-leads-5.png)
+
+   Sua lista é visualizada no console central.
+
+   ![](assets/import-leads-6.png)
+
+1. Insira uma regra de negócios desejada e clique em **Enviar**.
+
+   ![](assets/import-leads-7.png)
+
+   Os resultados são exibidos no console central.
+
+   ![](assets/import-leads-8.png)
+
+   Se desejar, insira regras de negócios adicionais.
+
+1. Para exibir os campos mapeados, clique na guia **Mapeamentos**.
+
+1. Se algum campo foi mapeado incorretamente, corrija-os aqui.
+
+   ![](assets/import-leads-9.png)
+
+1. Quando estiver pronto para importar sua lista, clique na guia **Importar para o Marketo**.
+
+1. Selecione a pasta de destino e digite um nome. Marque cada caixa de consentimento e clique em **Aprovar e importar para a Marketo**.
+
+   ![](assets/import-leads-10.png)
+
+Quando a importação for concluída, a verificação receberá um resumo dos clientes potenciais processados, linhas com falha e avisos.
