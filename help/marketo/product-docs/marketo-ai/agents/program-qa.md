@@ -1,12 +1,12 @@
 ---
-description: Em breve.
+description: Saiba como auditar seus programas em busca de práticas recomendadas para todos os componentes, como emails, páginas de aterrissagem, campanhas e muito mais.
 title: Controle de qualidade do programa
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Faça auditoria de seus programas para obter as práticas recomendadas para todos os componentes, como emails, landing pages, campanhas e muito mais.
 
-Há duas maneiras de acessar este Agente.
+## Como usar {#how-to-use}
 
-Clique no agente na janela central e clique na lista suspensa na parte superior direita
+1. Em Minha Marketo, clique no bloco **Criar com IA**.
 
-clique no botão Use this Agent
+   ![](assets/program-qa-1.png)
 
-e, no painel esquerdo da caixa de diálogo do prompt, o texto padrão será exibido.
+1. Clique no agente **Controle de qualidade do programa**.
 
-Em seguida, selecione o Programa que deseja testar no painel direito
+   ![](assets/program-qa-2.png)
 
-Um resumo do programa será exibido na janela central fornecendo uma visão geral do programa e do que foi criado para ele.
+   Você é direcionado à tela de IA de conversação.
 
-Ou clique no Agente na tela principal IA de conversa.
+1. Selecione o programa desejado no painel direito.
 
-O Assistente de IA mostrará o texto padrão para mostrar qual Agente será executado.
+   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-Em seguida, selecione o programa à direita que precisa ser de QA.
+Um resumo do programa é exibido no painel central, fornecendo uma visão geral do programa.
 
-e o mesmo resumo será exibido no console central
+![](assets/program-qa-4.png){width="450" zoomable="yes"}
