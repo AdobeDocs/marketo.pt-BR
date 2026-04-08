@@ -1,19 +1,19 @@
 ---
-description: Em breve.
-title: Visão geral da IA do Marketo
+description: Explore o conjunto de agentes do Marketo Engage AI projetados para automatizar tarefas de marketing como controle de qualidade do programa, importação de clientes potenciais, normalização de dados e muito mais.
+title: Visão geral da IA do Marketo Engage
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
 
-# Visão geral da IA do Marketo {#overview}
+# Visão geral da IA do Marketo Engage {#overview}
 
-A IA de conversa do Marketo fornece vários agentes projetados para automatizar funções de marketing tediosas, mas importantes.
+A IA do Marketo Engage fornece vários agentes projetados para automatizar funções de marketing tediosas, mas importantes.
 
 ## Como acessar {#access}
 
@@ -21,7 +21,7 @@ Na tela Meu Marketo, clique no bloco **Criar com IA**.
 
 ![](assets/overview-1.png)
 
-A interface da interface do Conversational AI fornece um conjunto de recursos de agente projetados para automatizar tarefas manuais em um esforço de melhorar a produtividade.
+A interface conversacional fornece um conjunto de recursos de agente projetados para automatizar tarefas manuais que melhoram significativamente a produtividade.
 
 Clique no botão **Introdução** na área de prompt da caixa de diálogo (&quot;_Introdução aos agentes de IA..._&quot; está no prompt por padrão).
 
@@ -37,19 +37,19 @@ Descubra por que alguém não entrou em MQL, se qualificou para um programa ou a
 
 ### Programa do plano (em breve) {#plan-program}
 
-Criar um documento de configuração de programa para que outras pessoas possam usar em um resumo do Campaign.
+Crie um documento de configuração de programa para que outras pessoas possam usá-lo em um resumo da campanha.
 
 ### Criar programa (em breve) {#create-program}
 
-Gere um programa Marketo Engage inteiro usando um resumo da campanha, completo com email, página de aterrissagem e campanha inteligente.
+Gere um programa Marketo Engage inteiro usando um resumo da campanha, completo com email, landing page e Campanha inteligente.
 
 ### Controle de qualidade do programa {#program-qa}
 
-Valide os programas do Marketo Engage em relação às práticas recomendadas e identifique problemas antes do lançamento. [Saiba mais](/help/marketo/product-docs/marketo-ai/agents/program-qa.md)
+Valide os programas do Marketo Engage em relação às práticas recomendadas e identifique problemas antes do lançamento. [Saiba mais](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
 
 ### Importar clientes em potencial {#import-leads}
 
-Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo. [Saiba mais](/help/marketo/product-docs/marketo-ai/agents/import-leads.md)
+Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo. [Saiba mais](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Normalizar dados (em breve) {#normalize-data}
 
