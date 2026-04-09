@@ -4,9 +4,9 @@ title: Configurações e configuração
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
+source-git-commit: dc2126b2949411a436cb48a91d187ec8b8fa21f2
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Se quiser remover o acesso de qualquer função, siga as etapas abaixo.
 
    ![](assets/settings-setup-1.png)
 
-1. Na guia _Funções_, selecione a(s) função(ões) desejada(s) e clique em **Editar Função**.
+1. Na guia _Funções_, selecione a função desejada e clique em **Editar Função**.
 
    ![](assets/settings-setup-2.png)
 
@@ -41,9 +41,11 @@ Se quiser remover o acesso de qualquer função, siga as etapas abaixo.
 
    ![](assets/settings-setup-3.png)
 
+Repita essas etapas para qualquer outra função desejada.
+
 ### Função personalizada {#custom-role}
 
-Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando a _Compilação do Access com IA_, juntamente com qualquer outra coisa que desejar, e [atribuindo essa função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
+Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando a _Compilação do Access com IA_, juntamente com qualquer outra coisa que desejar, e [atribuindo essa função](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
 
 <!-- ## Permissions {#permissions}
 
