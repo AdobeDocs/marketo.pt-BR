@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '366'
 ht-degree: 2%
 
 ---
 
-# Editar modelos de email com o editor avançado do HTML {#email-template-expert-mode}
+# Editar modelos de email com o editor avançado do HTML {#advanced-html-mode}
 
 O modo HTML avançado permite exibir e editar o código fonte bruto de modelos de email diretamente da interface do Designer de email do [!DNL Marketo Engage].
 
@@ -40,13 +40,13 @@ Para abrir o editor avançado do HTML e editar a fonte do modelo, siga estas eta
 
 1. Abra ou [crie um modelo de email](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) no Designer de email.
 
-1. Na tela Editar modelo de email, clique no botão HTML no canto superior direito.
+1. Na tela _Editar modelo de email_, clique no botão HTML no canto superior direito.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. Na primeira vez que você abrir o editor avançado do HTML, uma mensagem de aviso será exibida. Revise e clique em **[!UICONTROL OK]** quando terminar.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ Para abrir o editor avançado do HTML e editar a fonte do modelo, siga estas eta
 
 1. O editor avançado do HTML é exibido.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. Adicione as alterações desejadas ao conteúdo do email.
 
@@ -64,7 +64,7 @@ Para abrir o editor avançado do HTML e editar a fonte do modelo, siga estas eta
 
 1. A simulação e o salvamento de conteúdo não estão disponíveis na visualização avançada do HTML por motivos de compatibilidade. Volte para a exibição da área de trabalho para visualizar seu conteúdo e salvar suas alterações.
 
-   CAPTURA DE TELA
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
