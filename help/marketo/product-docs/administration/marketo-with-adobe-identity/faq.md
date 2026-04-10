@@ -3,7 +3,7 @@ description: Perguntas frequentes sobre a Adobe Identity for Marketo Engage, inc
 title: Perguntas frequentes sobre o gerenciamento de identidades da Adobe
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
 source-wordcount: '1591'
 ht-degree: 98%
@@ -57,9 +57,9 @@ Sim. Quem tiver sido integrado ao Adobe IMS não poderá utilizar todas as APIs 
 
 **Com quem podemos entrar em contato para obter suporte se estivermos integrados ao IMS?**
 
-* Pré-migração de usuários: abra um caso de suporte na [Comunidade da nação de marketing](https://nation.marketo.com/t5/support/ct-p/Support) ou envie um email a `customercare@marketo.com`.
+* Pré-migração de usuários: abra um caso de suporte na [Comunidade da nação de marketing](https://nation.marketo.com/t5/support/ct-p/Support) ou envie um email a `marketocares@adobe.com`.
 
-* Pós-migração de usuários: abra um caso de suporte na [Comunidade da nação de marketing](https://nation.marketo.com/t5/support/ct-p/Support) ou envie um email a `customercare@marketo.com`.
+* Pós-migração de usuários: abra um caso de suporte na [Comunidade da nação de marketing](https://nation.marketo.com/t5/support/ct-p/Support) ou envie um email a `marketocares@adobe.com`.
 
 * Suporte pós-conclusão da migração: os administradores de suporte para produtos podem abrir casos por meio do portal de suporte da Experience League.
 

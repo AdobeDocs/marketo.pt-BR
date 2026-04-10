@@ -4,10 +4,10 @@ description: Etapas para criar, excluir e editar funções de usuário, incluind
 title: Criar, excluir, editar e alterar uma função de usuário
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 9%
+source-wordcount: '295'
+ht-degree: 7%
 
 ---
 
@@ -21,13 +21,10 @@ ht-degree: 9%
 
 >[!IMPORTANT]
 >
->As seguintes funções são funções do sistema e não podem ser editadas ou excluídas:
+>As seguintes funções são funções do sistema e não podem ser excluídas:
 >
 >* Admin
 >* Administrador de produtos da Adobe
->* Usuário padrão
->* Editor de RTP
->* Iniciador de RTP
 
 ## Criar uma função {#create-a-role}
 
