@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '830'
 ht-degree: 14%
 
 ---
@@ -262,22 +262,10 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Disponível</td>
   </tr>
   <tr>
-    <td>Fluxos de trabalho de aprovação de conteúdo</td>
-    <td>Capacidade de introduzir workflows de aprovação para emails no Marketo Engage.</td>
-    <td>Indisponível</td>
-    <td>A ser definido</td>
-  </tr>
-  <tr>
-    <td>Emails no CRM</td>
-    <td>Capacidade de enviar informações relacionadas a emails para o seu CRM.</td>
+    <td>Editor HTML</td>
+    <td>Capacidade de modificar o conteúdo do HTML de <a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md">modelos de email</a>.</td>
     <td>Disponível</td>
-    <td>A ser definido</td>
-  </tr>
-  <tr>
-    <td>Editor de código</td>
-    <td>Capacidade de modificar o conteúdo do HTML de emails, modelos de email e fragmentos.</td>
     <td>Disponível</td>
-    <td>A ser definido</td>
   </tr>
   <tr>
     <td>Suporte para mover, excluir e importar programas com ativos de email</td>
