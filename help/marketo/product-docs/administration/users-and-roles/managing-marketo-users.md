@@ -4,7 +4,7 @@ description: Etapas para criar e excluir usuários, redefinir senhas e editar in
 title: Gerenciamento de usuários do Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->Este artigo é somente para quem _não_ usa a [Marketo com a Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Se você fizer isso, siga as etapas em [este artigo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Este artigo é somente para quem _não_ usa a [Marketo com a Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Se você fizer isso, siga as etapas em [este artigo](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md){target="_blank"}.
 
 ## Criar usuários {#create-users}
 
