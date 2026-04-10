@@ -4,9 +4,9 @@ description: Saiba como emitir uma licença do Suplemento de email do Marketo pa
 title: Emitir uma licença do complemento de email do Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '336'
 ht-degree: 4%
 
 ---
@@ -40,9 +40,9 @@ Qualquer pessoa que quiser usar o Suplemento de Email do Marketo [!DNL Outlook] 
 
    >[!NOTE]
    >
-   >* Para instalar o plug-in remotamente, deixe a caixa de seleção _Enviar email de registro_ desmarcada e envie sua [Chave corporativa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) para a equipe de TI.
+   >* Para instalar o plug-in remotamente, deixe a caixa de seleção _Enviar email de Registro com link de download_ desmarcada e envie sua [Chave Corporativa](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) para a equipe de TI.
    >
-   >* Se os seus representantes de vendas tiverem acesso de administrador a seus computadores, marque a caixa de seleção _Enviar email de Registro_ e pronto. Os destinatários têm **30 dias** para clicar no link do email antes que ele expire.
+   >* Se os seus representantes de vendas tiverem acesso de administrador aos computadores deles, marque a caixa de seleção _Enviar email de registro com link de download_ e pronto. Os destinatários têm **30 dias** para clicar no link no email antes que ele expire.
 
 >[!MORELIKETHIS]
 >

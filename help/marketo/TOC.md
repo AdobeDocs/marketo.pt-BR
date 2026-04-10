@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '9176'
 ht-degree: 99%
 
 ---
@@ -211,7 +211,7 @@ ht-degree: 99%
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -1005,6 +1005,7 @@ ht-degree: 99%
          + [Criação de modelo de email](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Importar um modelo](product-docs/email-marketing/email-designer/import-template.md)
          + [Converter imagens em modelos HTML](product-docs/email-marketing/email-designer/image-to-html.md)
+         + [Editor avançado de HTML do modelo de email](product-docs/email-marketing/email-designer/advanced-html-mode.md)
          + [Criar conteúdo acessível](product-docs/email-marketing/email-designer/accessible-content.md)
          + [CSS personalizado](product-docs/email-marketing/email-designer/custom-css.md)
          + [Modo escuro](product-docs/email-marketing/email-designer/dark-mode.md)
