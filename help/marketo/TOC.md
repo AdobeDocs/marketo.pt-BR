@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 99%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 99%
          + [Visão geral do Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Configuração de admin](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Configuração de admin do produto](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [Adicionar usuário somente de API para assinaturas habilitadas para o Adobe IMS](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [Adicionar ou remover admin de produto](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [Adicionar ou remover usuário](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [Perguntas frequentes](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Logon de usuários com o Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + Assinatura e migração de usuário {#subscription-and-user-migration}
-            + [Migração para a identidade da Adobe](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Noções básicas da assinatura do Marketo e a migração de usuários para o Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Migração de suporte do Marketo Engage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [Manual de solução de problemas](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Configurações {#settings}
          + [Dados da API de exportação em massa](product-docs/administration/settings/bulk-export-api-information.md)
          + [Inspetor de campanhas](product-docs/administration/settings/campaign-inspector.md)
@@ -205,13 +196,16 @@ ht-degree: 99%
          + [Ocultar/reexibir um canal de programa](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [Gerenciamento de valores de tag](product-docs/administration/tags/managing-tag-values.md)
       + Usuários e funções {#users-and-roles}
+         + [Adicionar ou remover admin de produto](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [Adicionar ou remover usuário](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [Criar uma função de usuário somente de API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [Criar um usuário somente de API](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Criar, excluir, editar e alterar uma função de usuário](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Verificação de email](product-docs/administration/users-and-roles/email-verification.md)
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}

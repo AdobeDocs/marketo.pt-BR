@@ -3,20 +3,16 @@ description: Visão geral do Adobe Identity Management para Marketo Engage, incl
 title: Visão geral do Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 11%
+source-wordcount: '350'
+ht-degree: 3%
 
 ---
 
 # Visão geral do Adobe Identity Management {#adobe-identity-management-overview}
 
-Todas as novas assinaturas do Adobe Marketo Engage (31 de julho de 2023 ou posterior) são integradas ao Adobe Identity Management System. Atualmente, as assinaturas do Marketo Engage existentes estão sendo migradas para o Adobe Identity Management System após qualquer evento de vendas, que inclui renovações, eventos de recontratação e/ou adendos. As migrações fora de um evento de vendas são compatíveis a partir de outubro de 2024. Os administradores do Marketo receberão uma notificação com 2 a 4 semanas de antecedência se houver planos de que sua assinatura seja migrada para fora de um evento de vendas.
-
->[!NOTE]
->
->O Suporte da Marketo não pode fornecer atualizações relacionadas à migração do Adobe IMS. A equipe de conta da Adobe entrará em contato com a linha do tempo estimada nos próximos meses. Para obter mais informações, consulte [este artigo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} e as [Perguntas frequentes](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+Todas as novas assinaturas do Adobe Marketo Engage (31 de julho de 2023 ou posterior) são integradas ao Adobe Identity Management System.
 
 Para assinaturas integradas à identidade do Adobe, o Adobe Admin Console é usado para gerenciamento de usuários. Conceitos relacionados à identidade, como Logon único, também são gerenciados no Admin Console.
 
@@ -25,7 +21,7 @@ Para assinaturas integradas à identidade do Adobe, o Adobe Admin Console é usa
 
 >[!NOTE]
 >
->Se você quiser implementar o logon único (SSO) e a sua assinatura tiver sido integrada à identidade da Adobe sem o SSO implementado na organização da Adobe, envie um tíquete para o [Suporte do Marketo](https://nation.marketo.com/){target="_blank"} e especifique o tópico como “Marketo no Admin Console, implementação do SSO”.
+>Se você quiser implementar o Logon único e sua assinatura tiver sido integrada à Adobe Identity sem o SSO implementado na Organização da Adobe, envie um tíquete para o [Suporte da Marketo](https://nation.marketo.com/){target="_blank"} e especifique o tópico como &quot;Marketo no Admin Console, implementando o SSO&quot;.
 
 ## Níveis de perfil {#profile-levels}
 
@@ -54,10 +50,6 @@ As assinaturas do Adobe Marketo Engage integradas ao Sistema Adobe Identity Mana
   <td>Uma pessoa que recebeu acesso ao Marketo Engage. Sem privilégios administrativos.</td>
  </tr>
 </table>
-
-## Perguntas frequentes {#faq}
-
-As Perguntas Frequentes [podem ser encontradas aqui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
