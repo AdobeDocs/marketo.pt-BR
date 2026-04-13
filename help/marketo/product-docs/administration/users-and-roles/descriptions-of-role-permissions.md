@@ -4,10 +4,10 @@ description: Lista de referência de todas as permissões de função no Marketo
 title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
-source-wordcount: '1468'
-ht-degree: 16%
+source-wordcount: '1320'
+ht-degree: 18%
 
 ---
 
@@ -32,10 +32,10 @@ Ao [criar ou editar uma função](/help/marketo/product-docs/administration/user
 Exiba e faça alterações nas configurações na seção Minha conta do Administrador.
 
 * Acessar o Adobe Connect - Dá aos usuários acesso à tela do Adobe Connect
-* Acessar o Adobe Experience Manager&#42; - Concede aos usuários acesso à tela do Adobe Experience Manager
-* Acessar o Mapeamento da Organização da Adobe&#42; - Dá aos usuários acesso à tela Mapeamento da Organização da Adobe
-* Acessar Registro de Auditoria de Admin&#42; - Dá aos usuários acesso à tela Registro de Auditoria de Admin
-* Acessar Registro de Auditoria de Acesso&#42; - Concede aos usuários acesso ao Registro de Auditoria de Acesso
+* Acessar o Adobe Experience Manager - Dá aos usuários acesso à tela do Adobe Experience Manager
+* Acessar o mapeamento de organização da Adobe - Dá aos usuários acesso à tela Mapeamento de organização da Adobe
+* Acessar trilha de auditoria do administrador - Concede aos usuários acesso à tela Trilha de auditoria do administrador
+* Acessar trilha de auditoria de acesso - Concede aos usuários acesso à trilha de auditoria de acesso
 * Acessar trilha de auditoria - Dá aos usuários acesso à trilha de auditoria do ativo e à trilha de auditoria do administrador.
 * Acessar CAPTCHA - Acesso à tela CAPTCHA
 * Canais de acesso - Concede aos usuários acesso somente para modificar a tag de Canal, não a outras tags personalizadas
@@ -51,11 +51,11 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Local de acesso - Dá aos usuários acesso ao Local no Admin para definir idioma, local, fuso horário e moeda padrão
 * Acessar histórico de logon - Dá aos usuários acesso ao histórico de logon do usuário na trilha de auditoria
 * Acessar configurações de logon - Dá aos usuários acesso às Configurações de logon nas configurações de Administração para segurança, Restrições de IP e Relatórios de lista inteligente
-* Acessar nova experiência&#42; - Dá aos usuários acesso à tela Nova experiência
+* Acessar nova experiência - Dá aos usuários acesso à tela Nova experiência
 * Acessar a atividade personalizada do Marketo - Concede aos usuários acesso às Atividades personalizadas do Marketo no Administrador
 * Acessar objeto personalizado do Marketo - Concede aos usuários acesso aos Objetos personalizados do Marketo no Administrador
 * Acesso [!DNL Munchkin] - Concede aos usuários acesso a [!DNL Munchkin] em Administração para definir o código de rastreamento, o rastreamento de pessoas e habilitar a configuração da API
-* Acessar públicos preditivos&#42; - Dá aos usuários acesso à tela de públicos preditivos
+* Acessar públicos preditivos - Concede aos usuários acesso à tela Públicos preditivos
 * Acessar o Revenue Cycle Analytics - Dá aos usuários acesso ao Revenue Cycle Analytics no Admin para a configuração Sincronizar resumo e atribuição
 * Funções de acesso - concede aos usuários acesso para gerenciar e editar funções, mas não aos usuários
 * Acessar o Sales Insight - Dá aos usuários acesso para gerenciar o Sales Insight no Admin, para definir status, configuração de API, pontuação de pessoas e outras configurações
@@ -67,8 +67,6 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acessar usuários - Dá aos usuários acesso para editar e gerenciar usuários (mas não funções) no Admin
 * Webhooks de acesso - Oferece aos usuários Webhooks no Admin para a configuração de detalhes e Mapeamentos de resposta
 * Acessar espaços de trabalho e partições - Concede aos usuários acesso para criar, editar e excluir espaços de trabalho e partições no Administrador
-
-_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-la quando ela estiver ativa em meados de 2024._
 
 ## API de acesso  {#access-api}
 
@@ -102,11 +100,9 @@ Concede aos usuários com **Somente API** **Função** acesso às APIs individua
 Fornece aos usuários acesso às guias do Analytics, Insights de email, relatórios e aos três itens abaixo, a menos que estejam desmarcados.
 
 * Acessar Gerenciador de Receita - Desmarcar remove o acesso do usuário ao Gerenciador de Receita
-* Criar relatório&#42; - Fornece aos usuários acesso para criar, clonar, ler, atualizar e mover ativos de relatório em Atividades de análise e marketing, bem como ativos do Modeler do ciclo de receita
+* Criar relatório - fornece aos usuários acesso para criar, clonar, ler, atualizar e mover ativos de relatório nas Atividades de análise e marketing, bem como ativos do Modeler do ciclo de receita
 * Excluir relatório - Desmarcar remove a capacidade do usuário de excluir relatórios
 * Exportar dados do Analytics - Desmarcar remove a capacidade do usuário de exportar dados do Analytics
-
-_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-la quando ela estiver ativa em meados de 2024._
 
 ## Acessar apresentações de calendários {#access-calendar-presentations}
 
@@ -178,7 +174,7 @@ Exibir o banco de dados, bem como exibir e editar listas inteligentes/estáticas
    * Editar segmentação
 
 * Excluir pessoa
-* Criar Lista&#42;
+* Criar lista
    * Acesso para criar um ativo de lista em Atividades de banco de dados e marketing
    * Acesso para criar um ativo de lista inteligente no banco de dados e nas atividades de marketing
 * Excluir lista
@@ -190,8 +186,6 @@ Exibir o banco de dados, bem como exibir e editar listas inteligentes/estáticas
 * Executar Ações de Fluxo Único - Permite que os usuários executem a etapa de fluxo **Alterar Valor de Dados** em pessoas do banco de dados
 
 * Exibir dados da oportunidade - Oculta as informações da oportunidade na página de detalhes da pessoa
-
-_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-la quando ela estiver ativa em meados de 2024._
 
 ## Acessar atividades de marketing {#access-marketing-activities}
 
@@ -225,8 +219,6 @@ Acessar SEO
 
 * Administrar SEO
 * SEO padrão
-
-_&#42;Para evitar a interrupção para usuários existentes, essa permissão está sendo introduzida no modo passivo e está visível, mas não está acessível no momento. Comunicaremos como implementá-la quando ela estiver ativa em meados de 2024._
 
 ## Direcionamento e personalização {#targeting-and-personalization}
 
