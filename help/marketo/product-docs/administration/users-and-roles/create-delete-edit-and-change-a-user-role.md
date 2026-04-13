@@ -4,10 +4,10 @@ description: Etapas para criar, excluir e editar funções de usuário, incluind
 title: Criar, excluir, editar e alterar uma função de usuário
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 7%
+source-wordcount: '283'
+ht-degree: 8%
 
 ---
 
@@ -95,10 +95,6 @@ ht-degree: 7%
    >[!NOTE]
    >
    >As alterações feitas na função afetarão todos os usuários associados a essa função.
-
-   >[!TIP]
-   >
-   >Deseja atualizar o endereço de email da conta? [Saiba mais aqui](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Alterar a função de um usuário {#change-a-users-role}
 

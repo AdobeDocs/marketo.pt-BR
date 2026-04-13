@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9129'
 ht-degree: 99%
 
 ---
@@ -169,7 +169,6 @@ ht-degree: 99%
          + [Inspetor de campanhas](product-docs/administration/settings/campaign-inspector.md)
          + [Alterar configurações de atribuição do Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Criar uma guia personalizada para a página Detalhes da pessoa](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Editar configurações de conta](product-docs/administration/settings/edit-account-settings.md)
          + [Editar as configurações de suporte “Não rastrear” do navegador](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Editar configurações da página de destino](product-docs/administration/settings/edit-landing-page-settings.md)
          + [Editar expiração de link em relatórios e alertas](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
@@ -202,7 +201,7 @@ ht-degree: 99%
          + [Editar Espaços de Trabalho de Usuário](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
