@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 99%
          + [Dados da API de exportação em massa](product-docs/administration/settings/bulk-export-api-information.md)
          + [Inspetor de campanhas](product-docs/administration/settings/campaign-inspector.md)
          + [Alterar configurações de atribuição do Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Alterar a senha do Marketo](product-docs/administration/settings/change-your-marketo-password.md)
-         + [Alterar configurações de segurança de senha](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Criar uma guia personalizada para a página Detalhes da pessoa](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Editar configurações de conta](product-docs/administration/settings/edit-account-settings.md)
          + [Editar as configurações de suporte “Não rastrear” do navegador](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 99%
          + [Restringir logons do Marketo com base no IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Alterar Fuso Horário](product-docs/administration/settings/change-time-zone.md)
          + [Definir uma página substituta](product-docs/administration/settings/set-a-fallback-page.md)
-         + [Definir configurações de localização padrão para uma assinatura](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [Definir a moeda padrão](product-docs/administration/settings/set-default-currency.md)
          + [Noções básicas sobre configurações de privacidade](product-docs/administration/settings/understanding-privacy-settings.md)
       + Tags {#tags}
          + [Criar uma nova tag de programa e valores de tag](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,11 +199,10 @@ ht-degree: 99%
          + [Criar uma função de usuário somente de API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Criar um usuário somente de API](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Criar, excluir, editar e alterar uma função de usuário](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [Verificação de email](product-docs/administration/users-and-roles/email-verification.md)
+         + [Editar Espaços de Trabalho de Usuário](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [Gerenciamento de usuários do Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
