@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Saiba mais sobre a sandbox da Marketo Engage para testes antes da produção. Use uma instância de sandbox para testar sem afetar a produção.
 title: Sandbox do Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Uma sandbox da Marketo não pode ser sincronizada com o seu CRM normal se já es
 
 ## O que você deve saber sobre sandboxes {#things-to-know-about-sandboxes}
 
-* Se quiser adicionar usuários, o processo é o mesmo que [adicionar usuários na produção](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon no Marketo.
+* Se quiser adicionar usuários, o processo é o mesmo que [adicionar usuários na produção](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user#add-a-user). Novamente, eles devem usar um endereço de email diferente se já tiverem um logon no Marketo.
 * A sandbox da Marketo começará vazia, mas terá os mesmos recursos disponíveis que a instância de produção.
 * Se você criar um programa em sua sandbox e quiser movê-lo para a produção, poderá executar uma [importação de programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
 * As sandboxes são limitadas para que as instâncias de produção não sejam afetadas negativamente pelos ambientes de teste. Você pode enviar até 20 emails por execução de campanha.

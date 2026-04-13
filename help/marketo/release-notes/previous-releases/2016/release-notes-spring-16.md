@@ -4,7 +4,7 @@ description: Notas de versão - Segundo trimestre de 2016 - Documentação do Ma
 title: Notas de versão - primavera de 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '790'
 ht-degree: 1%
@@ -85,7 +85,7 @@ Hoje, é difícil diferenciar entre instâncias do Marketo, por exemplo, instân
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [Acesso limitado por tempo para assinaturas](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## Acesso limitado por tempo para assinaturas {#limited-time-access-for-subscriptions}
 
 Hoje, os usuários são convidados a assinar o Marketo por um período indefinido. Esse recurso permite que administradores convidem usuários para assinaturas por um período de tempo limitado, por exemplo, 2 semanas ou 1 mês.
 
