@@ -4,10 +4,10 @@ description: Saiba mais sobre a sintaxe do modelo de email no Editor de email 2.
 title: Sintaxe do modelo de email
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '2462'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -29,7 +29,7 @@ A sintaxe de email do Marketo só funciona em modelos e emails individuais. Ela 
 
 Os elementos são regiões de conteúdo definidas como editáveis no modelo de email. A experiência de edição de um elemento é exclusiva a seu tipo e oferece uma maneira simples de trabalhar com conteúdo. Os possíveis elementos que podem ser incluídos em um modelo de email são:
 
-* Rich text
+* Texto formatado
 * Imagens
 * Trechos
 * Vídeos
@@ -106,7 +106,7 @@ Valor padrão (opcional)
 
 Exemplo:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Opção 2: usar um \&lt;img\> {#option-use-an-img}
 
@@ -126,9 +126,9 @@ Atributos obrigatórios
 Exemplo:
 `<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
-## Trechos {#snippets}
+## Snippets {#snippets}
 
-Se você definir uma região como um trecho, os usuários finais poderão escolher qual [Trecho](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)aprovado querem inserir nesta região. Embora os elementos de Rich Text possam ser convertidos em trechos a partir do editor de email, ao se definir uma região especificamente como um trecho, ela não pode ser convertida em Rich Text. Você pode especificar uma região de trecho, usando um `<div>` com classe=“mktoSnippet”
+Se você definir uma região como um Trecho, os usuários finais poderão escolher qual [Trecho](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) aprovado eles gostariam de inserir nessa região. Embora os elementos de Rich Text possam ser convertidos em trechos a partir do editor de email, ao se definir uma região especificamente como um trecho, ela não pode ser convertida em Rich Text. Você pode especificar uma região de trecho, usando um `<div>` com classe=“mktoSnippet”
 
 Atributos obrigatórios
 
@@ -370,4 +370,4 @@ Atributos obrigatórios
 
 >[!CAUTION]
 >
->Os containers só podem conter módulos. Se houver algo mais presente, o container será considerado inválido. Somente um container é permitido por modelo.
+>Os contêineres só podem conter módulos. Se houver algo mais presente, o contêiner será considerado inválido. Somente um container é permitido por modelo.

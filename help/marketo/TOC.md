@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '9129'
 ht-degree: 99%
@@ -201,7 +201,7 @@ ht-degree: 99%
          + [Editar Espaços de Trabalho de Usuário](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -988,6 +988,12 @@ ht-degree: 99%
             + [Priorizar conteúdo de fluxo](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Remover conteúdo de fluxo](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + Designer de email {#email-designer}
+         + Marcas {#brands}
+            + [Temas da marca](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Aplicar marca](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Criar e gerenciar suas marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Personalize suas marcas](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [Alinhamento da marca](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [Visão geral](product-docs/email-marketing/email-designer/overview.md)
          + [Comparação de recursos](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Criação de email](product-docs/email-marketing/email-designer/email-authoring.md)
@@ -1010,12 +1016,6 @@ ht-degree: 99%
          + [Colaboração por email](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Assistente de IA para Designer de email](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Relatório de spam por email com o SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-         + Marcas {#brands}
-            + [Temas da marca](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [Aplicar marca](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [Criar e gerenciar suas marcas](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Personalize suas marcas](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [Alinhamento da marca](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + Programas de email {#email-programs}
          + Criação de um programa de email {#creating-an-email-program}
             + [Criar um programa de email](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
