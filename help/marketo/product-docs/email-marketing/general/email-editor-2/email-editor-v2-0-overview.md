@@ -4,10 +4,10 @@ description: Saiba mais sobre o Editor de email v2.0 e seus recursos. Crie e edi
 title: Visão geral do Editor de email v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 96%
+source-wordcount: '476'
+ht-degree: 86%
 
 ---
 
@@ -17,7 +17,7 @@ Visão geral do editor de email clássico.
 
 >[!IMPORTANT]
 >
->Embora não haja uma data exata definida, o editor de email clássico provavelmente será descontinuado em algum momento de 2027 (quando definida, anunciaremos a data exata). É altamente recomendável começar a adoção do [Designer de email](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avançado, pois ele tem muitos recursos não disponíveis no editor clássico.
+>Embora não haja uma data exata, o editor de email clássico acabará sendo descontinuado (anunciaremos uma data exata quando tivermos uma). É altamente recomendável começar a adoção do [Designer de email](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avançado, pois ele tem muitos recursos não disponíveis no editor clássico.
 
 **Seletor de modelos de email**
 
