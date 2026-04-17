@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
 workflow-type: tm+mt
 source-wordcount: '9132'
 ht-degree: 99%
@@ -61,7 +61,7 @@ ht-degree: 99%
    + MARKETO AI {#marketo-ai}
       + [Visão geral](product-docs/marketo-ai/overview.md)
       + [Configurações e configuração](product-docs/marketo-ai/settings-setup.md)
-      + [Configurações e configuração](product-docs/marketo-ai/settings-setup-new.md)
+      + [Configurações e configuração](product-docs/marketo-ai/settings-setup-old.md)
       + Agentes {#agents}
          + [Importar clientes em potencial](product-docs/marketo-ai/agents/import-leads.md)
          + [Controle de qualidade do programa](product-docs/marketo-ai/agents/program-qa.md)
@@ -202,7 +202,7 @@ ht-degree: 99%
          + [Editar Espaços de Trabalho de Usuário](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões ](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
