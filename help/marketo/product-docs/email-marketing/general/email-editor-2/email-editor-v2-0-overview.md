@@ -4,10 +4,10 @@ description: Saiba mais sobre o Editor de email v2.0 e seus recursos. Crie e edi
 title: Visão geral do Editor de email v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
+source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 86%
+source-wordcount: '457'
+ht-degree: 85%
 
 ---
 
@@ -102,12 +102,6 @@ Você tem a opção de adicionar um [!UICONTROL Pré-cabeçalho]. Um [!UICONTROL
 >[!CAUTION]
 >
 >Os tokens não funcionam no [!UICONTROL Pré-cabeçalho] ao usar o editor de email. Para usar um token no [!UICONTROL Pré-cabeçalho], ele deve ser feito por meio do seu próprio HTML em um modelo de email.
-
-Muitos recursos novos excelentes. Divirta-se.
-
->[!NOTE]
->
->Se você quiser se aprofundar, assista a este [vídeo](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
