@@ -4,7 +4,7 @@ title: Configurações e configuração
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: c0854d574b4fc995f249783aebcd15ed7d224851
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -45,9 +45,10 @@ Repita essas etapas para qualquer outra função desejada.
 
 ### Função personalizada {#custom-role}
 
-Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando a _Compilação do Access com IA_, juntamente com qualquer outra coisa que desejar, e [atribuindo essa função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
+Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando a _Compilação do Access com IA_, juntamente com qualquer outra coisa que desejar, e [atribuindo essa função](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
 
-<!-- ## Permissions {#permissions}
+<!-- 
+## Permissions {#permissions}
 
 In order to access Marketo AI, Admins must first enable role permissions. 
 
