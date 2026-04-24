@@ -4,10 +4,10 @@ description: Adicione domínios de marca extras para várias marcas em uma inst�
 title: Adicionar um novo domínio de marca
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 3%
+source-wordcount: '723'
+ht-degree: 21%
 
 ---
 
@@ -76,29 +76,31 @@ Siga estas etapas para habilitar o SSL nos domínios existentes.
     <td>Os registros CAA não estão atualizados. Para aqueles que usam certificados SSL gerenciados pela Marketo Engage, os registros CAA precisam ser atualizados para certificados recomendados pelo fornecedor. Entre em contato com o departamento de TI para atualizar os registros de CAA. Consulte <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">esta página</a> para obter detalhes adicionais.</td>
   </tr>
   <tr>
-    <td><i>O certificado SSL já foi emitido.</i></td>
-    <td>Já existe um certificado SSL para este domínio personalizado. Nenhuma ação adicional é necessária, a menos que o certificado tenha expirado ou precise ser reemitido.</td>
+    <td><i>SSL certificate has already been issued.</i></td>
+    <td>Já existe um certificado SSL para este domínio personalizado. No further action is needed unless the certificate has expired or needs to be reissued.</td>
   </tr>
   <tr>
-    <td><i>O domínio padrão não foi encontrado. Entre em contato com o Suporte para obter assistência.</i></td>
-    <td>Ocorreu um problema ao tentar localizar o domínio padrão. Entre em contato com o Suporte para que possam investigar.</td>
+    <td><i>The default domain was not found. Please contact Support for assistance.</i></td>
+    <td>Ocorreu um problema ao tentar localizar o domínio padrão. Please reach out to Support so they can investigate.</td>
   </tr>
   <tr>
-    <td><i>Erro inesperado encontrado ao criar um domínio. Entre em contato com o Suporte para obter assistência.</i></td>
-    <td>Ocorreu um erro inesperado. Colete logs e detalhes de erros e encaminhe o problema para o <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Suporte da Marketo</a>.</td>
+    <td><i>Unexpected error encountered while creating a domain. Please contact Support for assistance.</i></td>
+    <td>An unexpected error has occurred. Please gather logs and error details, and escalate the issue to <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo Support</a>.</td>
   </tr>
 </tbody></table>
 
-## Itens a Observar {#things-to-note}
+## Things to Note {#things-to-note}
 
-* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pelo Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **DNS mapping for domain to Marketo Engage**: Before adding adding domains in the UI, you must [map CNAMEs to a Marketo-provided domain](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
-* **SSLs personalizados**: se você precisar de um SSL personalizado, envie um [Tíquete de suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Não use a caixa de seleção de autoatendimento para criação de SSL.
+* **Custom SSLs**: If you need a custom SSL, please submit a [Support ticket](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Do not use the self-service checkbox for SSL creation.
 
-* **SSLs pré-existentes**: ao adicionar um domínio, o sistema verifica se há SSLs pré-existentes, que podem ter sido criados manualmente antes. Se encontrar essa validação, crie seu domínio sem selecionar a criação de SSL e nós os conectaremos para você. [Contate o Suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obter mais detalhes/opções.
+* **Pre-existing SSLs**: While adding a domain, the system checks for pre-existing SSLs, which may have been manually created prior. If you encounter this validation, create your domain without selecting SSL creation, and we will connect them for you. [Contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} more additional details/options.
 
-* **Exclusão de domínios**: a exclusão automática de um domínio **não** exclui o certificado SSL. Essa proteção evita erros de usuário que resultam na ausência de certificados SSL em um site. Se você deseja remover os certificados SSL, [contate o Suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* **Deletion of domains**: Automatically deleting a domain **does not** delete the SSL certificate. Essa proteção evita erros de usuário que resultam na ausência de certificados SSL em um site. If you do want to remove the SSL certificates, [contact Support](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+* If the domain you add is listed as anything other than a CNAME, the ability to add further branded tracking domains will be locked out. You will need to edit any existing domain and ensure it is a CNAME record and not, say, an A record. The Add button dynamically checks for CNAMES and CNAMES only.
 
 >[!MORELIKETHIS]
 >
->[Editar Seu Domínio De Identidade Visual Padrão](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"}
+>[Edit Your Default Branding Domain](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"}

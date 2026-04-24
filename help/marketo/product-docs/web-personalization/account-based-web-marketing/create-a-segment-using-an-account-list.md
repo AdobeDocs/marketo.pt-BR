@@ -1,23 +1,27 @@
 ---
 unique-page-id: 4720236
-description: Saiba como criar um segmento usando uma lista de contas no Marketo Engage usando a opção criar um segmento usando uma lista de contas. Use este guia para concluir a próxima etapa.
+description: Learn how to create a segment using an account list in Marketo Engage using create a segment using an account list. Use this guide to complete your next step.
 title: Criar um segmento usando uma lista de contas
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 11%
+source-wordcount: '215'
+ht-degree: 9%
 
 ---
 
 # Criar um segmento usando uma lista de contas {#create-a-segment-using-an-account-list}
 
-Veja como criar um segmento usando uma Lista de contas.
+Here&#39;s how to create a segment using an Account List.
 
 >[!PREREQUISITES]
 >
->[Criar uma Nova Lista de Contas](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[Create a New Account List](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+
+>[!NOTE]
+>
+>The ability to see Account Lists within Web Personalization requires an additional module called &quot;Web ABM&quot;. If you do not see Account Lists as an option, reach out to the Adobe Account Team (your account manager) for assistance.
 
 1. Vá para **[!UICONTROL Segmentos]**.
 
@@ -27,20 +31,20 @@ Veja como criar um segmento usando uma Lista de contas.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Insira um nome para o segmento. Arraste e solte **[!UICONTROL Listas de Contas]** da seção **[!UICONTROL Firmographics]**.
+1. Enter a name for the segment. Drag and drop **[!UICONTROL Account Lists]** from the **[!UICONTROL Firmographics]** section.
 
    ![](assets/set-segment-hands.jpg)
 
-1. Selecione uma Lista de contas na lista de contas nomeadas que você carregou. O número entre parênteses ao lado do Nome da lista da conta é a ID da lista para referência da API.
+1. Select an Account List from the list of named accounts you&#39;ve uploaded. The number in brackets next to the Account List Name is the ID of the List for API reference.
 
    ![](assets/select-list-for-segment-hands.jpg)
 
    >[!NOTE]
    >
-   >As listas de contas são sincronizadas do ABM para o Web Personalization para uso na segmentação. Selecione-os no menu suspenso. A sincronização pode levar até cinco minutos. Ele só será sincronizado se houver uma ou mais contas nomeadas na lista de contas.
+   >Account Lists are synced from ABM to Web Personalization for use in Segmentation. Select them from the drop-down. The sync can take up to five minutes. It will only sync if there are one or more Named Accounts in the Account List.
 
-1. Clique em **[!UICONTROL Salvar]** ou em **[!UICONTROL Salvar e definir a campanha]** para ir para a página Campanhas.
+1. Click **[!UICONTROL Save]**, or click **[!UICONTROL Save &amp; Define Campaign]** to go to the Campaigns page.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Parabéns! Agora você configurou um segmento que direciona uma Lista de contas.
+Parabéns! You&#39;ve now set up a segment targeting an Account List.
