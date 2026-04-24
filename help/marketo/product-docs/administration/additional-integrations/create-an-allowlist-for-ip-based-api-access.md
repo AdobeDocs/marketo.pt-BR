@@ -4,10 +4,10 @@ description: Restrinja o acesso da API a endereços IP ou intervalos específico
 title: Criar uma lista de permissões de acesso à API baseada em IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: d0c8f8d5dda0747a83e4a76004863c650998c75f
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 11%
+source-wordcount: '173'
+ht-degree: 12%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 11%
 >
 >**Permissões de administrador são necessárias**
 
->[!NOTE]
+>[!CAUTION]
 >
->Este recurso opera independentemente das [restrições de logon baseadas em IP](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} do Marketo Engage, que estão sendo substituídas pelo [controle de acesso baseado em IP](https://helpx.adobe.com/br/enterprise/using/ip-based-access.html){target="_blank"} do Admin Console. Ele continuará funcionando como está após a migração do Adobe IMS.
+>A habilitação desse recurso impede que você acesse o [Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} no momento. Isso será corrigido em uma versão futura.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
