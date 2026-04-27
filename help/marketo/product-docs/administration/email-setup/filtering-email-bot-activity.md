@@ -3,10 +3,10 @@ description: Filtre ou registre a atividade de bot de email para evitar abertura
 title: Filtragem da atividade do bot de email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 11%
 
 ---
 
@@ -67,7 +67,7 @@ Em relação à atividade de clique em links de email e abertura de email, novos
 
 ## INCLUIR NA LISTA DE BLOQUEIOS IP {#ip-blocklist}
 
-Compilamos uma lista de endereços IP responsáveis por gerar milhões de envolvimentos falsos, já que esses envolvimentos recebidos de qualquer um dos seguintes IPs são automaticamente filtrados e não adicionados à instância do Marketo Engage. Isso pode resultar em uma redução nas aberturas de email, cliques e outras atividades relacionadas. A lista a seguir apresentada pode ser atualizada periodicamente.
+Compilamos uma lista de endereços IP responsáveis por gerar milhões de envolvimentos falsos, já que esses envolvimentos recebidos de qualquer um dos seguintes IPs são automaticamente filtrados e não adicionados à instância do Marketo Engage. Isso pode resultar em uma redução nas aberturas de email, cliques e outras atividades relacionadas. The list below may be updated periodically.
 
 * 40.94.34.52
 * 40.94.34.86
@@ -123,4 +123,4 @@ Compilamos uma lista de endereços IP responsáveis por gerar milhões de envolv
 
 >[!NOTE]
 >
->Analisamos e examinamos meticulosamente cada endereço IP antes de adicioná-lo a esta lista, garantindo que apenas os IPs mais críticos e prejudiciais sejam bloqueados.
+>We meticulously analyze and scrutinize every IP address before adding it to this list, ensuring only the most critical and harmful IPs are blocked.

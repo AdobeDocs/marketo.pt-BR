@@ -4,9 +4,9 @@ description: Saiba mais sobre endereços IP compartilhados e dedicados e seus pr
 title: Endereços IP compartilhados e dedicados
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '447'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ _Vantagens_
 _Contras_
 
 **Alterações de volume** - Os picos de volume podem afetar negativamente sua reputação e precisam ser gerenciados.
-**Processo de aquecimento de IP** - A reputação é criada ao longo do tempo. Alguns ISPs (provedores de serviço de internet) limitam endereços IP sem histórico de volume, portanto, você terá que criar uma reputação durante as primeiras semanas (o Marketo pode ajudar a orientá-lo).
+**Processo de aquecimento de IP** - A reputação é compilada ao longo do tempo. Alguns ISPs (provedores de serviço de internet) limitam endereços IP sem histórico de volume, portanto, você terá que criar uma reputação durante as primeiras semanas (o Marketo pode ajudar a orientá-lo).
 **Custo** - Geralmente, há uma cobrança adicional para enviar a partir de um IP dedicado com qualquer provedor.
 
 **Vantagens e desvantagens de um IP compartilhado**

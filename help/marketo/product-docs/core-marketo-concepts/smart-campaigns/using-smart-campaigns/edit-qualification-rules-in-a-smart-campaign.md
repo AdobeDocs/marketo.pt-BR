@@ -4,9 +4,9 @@ description: Saiba como editar regras de qualificação em uma Campanha intelige
 title: Editar regras de qualificação em uma campanha inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '202'
 ht-degree: 6%
 
 ---
@@ -29,14 +29,6 @@ As regras de qualificação controlam quantas vezes alguém pode passar pelo flu
 
    >[!NOTE]
    >
-   >Quando você define uma regra para uma vez por dia todos os dias, o Marketo converte isso em horas. Por exemplo, se você definir a regra para uma vez por dia e uma pessoa se qualificar às 22h em um domingo à noite, ela não poderá se qualificar novamente até às 22h de segunda-feira à noite. Essa lógica também se aplica ao usar semanas ou meses. Um mês é sempre contado como 30 dias.
-
-   >[!NOTE]
+   >* Quando você define uma regra para uma vez por dia todos os dias, o Marketo converte isso em horas. Por exemplo, se você definir a regra para uma vez por dia e uma pessoa se qualificar às 22h em um domingo à noite, ela não poderá se qualificar novamente até às 22h de segunda-feira à noite. Essa lógica também se aplica ao usar semanas ou meses. Um mês é sempre contado como 30 dias.
    >
-   >Os limites de comunicação não são aplicados a Campanhas inteligentes por padrão. Saiba como [aplicar limites de comunicação a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
-
-   >[!NOTE]
-   >
-   >[Aplicar limites de comunicação a campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
-
-Missão cumprida! Agora você sabe como controlar regras de qualificação em uma Campanha inteligente.
+   >* Os limites de comunicação não são aplicados a Campanhas inteligentes por padrão. Saiba como [aplicar limites de comunicação a uma campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
