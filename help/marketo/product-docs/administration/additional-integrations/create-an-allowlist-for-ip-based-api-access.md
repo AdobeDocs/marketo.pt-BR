@@ -21,7 +21,7 @@ ht-degree: 12%
 
 >[!CAUTION]
 >
->A habilitação desse recurso impede que você acesse o [Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} no momento. Espera-se que isso seja resolvido em uma versão futura.
+>A habilitação desse recurso impede que você acesse o [Marketo MCP Server](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server){target="_blank"} no momento. Espera-se que isso seja resolvido em uma versão futura.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
