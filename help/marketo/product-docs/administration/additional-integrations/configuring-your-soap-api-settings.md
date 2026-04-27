@@ -2,20 +2,22 @@
 unique-page-id: 2360352
 description: Defina a chave de criptografia da API do SOAP e obtenha detalhes do ponto de extremidade nos Serviços Web de administração para desenvolvedores.
 title: Configurar a API SOAP
+hide: true
+hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '105'
+ht-degree: 16%
 
 ---
 
 # Configurar a API SOAP {#configuring-your-soap-api-settings}
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Sugerimos usar a REST API. Saiba mais em [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>A API do SOAP está [sendo substituída](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) em 31 de julho de 2026. Em vez disso, é recomendável usar a [REST API](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -35,8 +37,4 @@ ht-degree: 15%
 
 >[!CAUTION]
 >
->Seu ponto de extremidade do SOAP e [!UICONTROL ID de Usuário] serão exclusivos; não envie a captura de tela deste artigo para seu Desenvolvedor.
-
->[!MORELIKETHIS]
->
->[Documentação da API do SOAP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/soap/soap-api)
+>Seu ponto de extremidade do SOAP e [!UICONTROL ID do Usuário] são exclusivos; não envie a captura de tela deste artigo para o seu Desenvolvedor.

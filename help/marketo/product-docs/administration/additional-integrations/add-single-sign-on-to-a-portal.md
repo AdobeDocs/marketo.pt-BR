@@ -4,20 +4,20 @@ description: Ative o logon único do SAML 2.0 para que seu provedor de identidad
 title: Adicionar logon único a um portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '608'
-ht-degree: 4%
+source-wordcount: '658'
+ht-degree: 5%
 
 ---
 
 # Adicionar logon único a um portal {#add-single-sign-on-to-a-portal}
 
-Se você tiver um serviço de diretório que autentica usuários, poderá permitir logon único (SSO) na Marketo. Oferecemos suporte a este recurso usando o [!DNL Security Assertion Markup Language] (SAML) versão 2.0 e superior.
+Se você tiver um serviço de diretório que autentica usuários, poderá permitir logon único (SSO) na Marketo. O Marketo dá suporte a esse recurso usando o [!DNL Security Assertion Markup Language] (SAML) versão 2.0 e superior.
 
 O Marketo funciona como um Provedor de serviço (SP) SAML e depende de um Provedor de identidade externo (IdP) para autenticar os usuários.
 
-Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Quando um usuário deseja usar o software Marketo, o IdP envia uma mensagem SAML assinada para a Marketo, atuando como o SP. Essa mensagem garante à Marketo que o usuário está autorizado a usar o software da Marketo.
+Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Quando um usuário deseja usar o software Marketo, o IdP envia uma mensagem SAML assinada para a Marketo, atuando como o SP. Esta mensagem confirma à Marketo que o usuário está autorizado a usar o software Marketo.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Quando o SSO está ativado, o IdP pode validar as credenciais de um usuário. Qu
 
 >[!IMPORTANT]
 >
->Isso **não** se aplica às assinaturas integradas à Adobe Identity. As configurações anteriores podem ser exibidas (antes da migração do IMS), mas não se aplicam mais. Para assinaturas integradas à Adobe Identity, o Logon único é configurado no nível da Organização da Adobe no Adobe Admin Console. [Saiba mais aqui](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"}.
+>Isso **não** se aplica às assinaturas integradas à Adobe Identity. As configurações anteriores podem ser exibidas (antes da migração do IMS), mas não se aplicam mais. Para assinaturas integradas à Adobe Identity, o [Logon único está configurado](https://helpx.adobe.com/br/enterprise/using/set-up-identity.html){target="_blank"} no nível da Organização da Adobe no Adobe Admin Console.
 
 >[!NOTE]
 >
->Você é um usuário de [!DNL Microsoft Azure]? Confira o [tutorial de integração](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"} deles. Para sua informação, há um erro de digitação na Etapa 5c do tutorial. Defina o Estado de Retransmissão como `https://<munchkinid>.mktoweb.com`, **_não_** `https://<munchkinid>.marketo.com`.
+>Você é um usuário de [!DNL Microsoft Azure]? Confira o [tutorial de integração](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"} deles. Observe que há um erro de digitação na Etapa 5c do tutorial. Defina o Estado de Retransmissão para `https://<munchkinid>.mktoweb.com`, **_não_** `https://<munchkinid>.marketo.com`.
 
 ## Como enviar a solicitação {#how-to-send-the-request}
 

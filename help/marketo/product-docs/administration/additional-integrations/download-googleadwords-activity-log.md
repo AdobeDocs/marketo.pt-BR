@@ -4,16 +4,16 @@ description: Baixe o log de atividades  [!DNL Google AdWords]  do LaunchPoint pa
 title: Baixar [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
 
 # Baixar Log de Atividades [!DNL Google Adwords] {#download-googleadwords-activity-log}
 
-Coisas acontecem. Às vezes, é necessário baixar o registro de atividades para solucionar problemas.
+Saiba como baixar o registro de atividades para solucionar problemas.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -27,4 +27,4 @@ Coisas acontecem. Às vezes, é necessário baixar o registro de atividades para
 
    ![](assets/download-googleadwords-activity-log-3.png)
 
-1. Um arquivo .zip será baixado no computador.
+1. Um arquivo .zip é baixado no computador.

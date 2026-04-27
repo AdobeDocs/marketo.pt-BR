@@ -4,16 +4,16 @@ description: Criar um serviço LaunchPoint personalizado vinculado a um usuário
 title: Criar um serviço personalizado para usar com a API REST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 12%
+source-wordcount: '175'
+ht-degree: 15%
 
 ---
 
 # Criar um serviço personalizado para usar com a API REST {#create-a-custom-service-for-use-with-rest-api}
 
-Se quiser integrar ao Marketo por meio da API ReST, crie um serviço personalizado. Veja como.
+Se quiser integrar ao Marketo por meio da API ReST, crie um serviço personalizado.
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Se quiser integrar ao Marketo por meio da API ReST, crie um serviço personaliza
 
 >[!TIP]
 >
->Consulte nossa documentação de desenvolvedores para obter detalhes sobre a [REST API](https://developer.adobe.com/marketo-apis/). Também temos a [API do SOAP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/soap/soap-api), se for o que você precisa.
+>Consulte a documentação de desenvolvedores para obter detalhes sobre a [REST API](https://developer.adobe.com/marketo-apis/).
 
 ## Criar serviço personalizado {#create-custom-service}
 
@@ -47,15 +47,11 @@ Se quiser integrar ao Marketo por meio da API ReST, crie um serviço personaliza
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
-   >[!NOTE]
-   >
-   >Observe que já temos integração nativa para serviços populares de webinários.
-
 1. Clique em **[!UICONTROL Criar]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
-   Ah, sim! O serviço foi criado, vamos buscar todas as credenciais para fornecer acesso.
+   O serviço foi criado. Recupere as credenciais para fornecer acesso.
 
 ## Credenciais para acesso à API {#credentials-for-api-access}
 
@@ -81,4 +77,4 @@ Se quiser integrar ao Marketo por meio da API ReST, crie um serviço personaliza
 
 >[!CAUTION]
 >
->Não compartilhe essa informação; é o segredo dos seus dados. Mantenha-o seguro!
+>Não compartilhe essas informações, pois elas fornecem acesso aos seus dados.

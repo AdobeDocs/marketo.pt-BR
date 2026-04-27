@@ -4,16 +4,16 @@ description: Link [!DNL Google AdWords] para o Marketo via LaunchPoint para carr
 title: Adicionar [!DNL Google AdWords] como um [!DNL LaunchPoint] Serviço
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
 
 # Adicionar [!DNL Google AdWords] como um Serviço [!DNL LaunchPoint] {#add-google-adwords-as-a-launchpoint-service}
 
-Vincule sua conta do [!DNL Google AdWords] ao Marketo para carregar automaticamente dados de conversão offline do Marketo para o [!DNL Google AdWords]. Na interface do usuário do [!DNL AdWords], você poderá ver facilmente quais cliques resultaram em clientes potenciais qualificados, oportunidades e novos clientes (ou quaisquer estágios de receita que você queira rastrear) depois de [adicionar colunas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} em [!DNL AdWords]. Essas informações não aparecem na interface do usuário do Marketo.
+Vincule sua conta do [!DNL Google AdWords] ao Marketo para carregar automaticamente dados de conversão offline do Marketo para o [!DNL Google AdWords]. Na interface do usuário do [!DNL AdWords], você pode ver quais cliques resultaram em clientes potenciais qualificados, oportunidades e novos clientes (ou qualquer estágio de receita que você queira rastrear) depois de [adicionar colunas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} em [!DNL AdWords]. Essas informações não aparecem na interface do usuário do Marketo.
 
 Saiba mais sobre o [recurso de importação de conversão offline do Google](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
@@ -61,7 +61,7 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. O status será exibido como **[!UICONTROL Sucesso]**. Selecione **[!UICONTROL Próximo]**.
+1. O status é exibido como **[!UICONTROL Sucesso]**. Selecione **[!UICONTROL Próximo]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
@@ -90,7 +90,7 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
    >
    >[A marcação automática](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} deve ser selecionada para que este recurso funcione. A desativação deve ser feita dentro de [!DNL AdWords].
 
-Ótimo! Agora veja o Artigo Relacionado abaixo para saber como mapear [!DNL AdWords] conversões offline no seu modelo de receita.
+Consulte o Artigo Relacionado abaixo para saber como mapear [!DNL AdWords] conversões offline no seu modelo de receita.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Crie um webhook no Administrador para chamar serviços da Web de te
 title: Criar um  [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Use o [!DNL Webhooks] para aproveitar os serviços Web de terceiros para enviar 
 
    * **[!UICONTROL URL]**: insira a URL usada em sua solicitação para o serviço Web. Para inserir um token, como o endereço de email da pessoa (**`{{lead.Email Address}}`**), em sua solicitação, clique em **[!UICONTROL Inserir token]**.
 
-   * **[!UICONTROL Modelo]**: se desejar transmitir informações no corpo da solicitação, insira por meio do modelo de carga. Modelos permitidos para os seguintes tipos de solicitação: POST, DELETE, PATCH ou PUT. Você pode usar formatos de dados como JSON ou XML. Para inserir um token no modelo, clique em **[!UICONTROL Inserir Token]**.
+   * **[!UICONTROL Modelo]**: se quiser transmitir informações no corpo da solicitação, insira-as por meio do modelo de carga. Modelos permitidos para os seguintes tipos de solicitação: POST, DELETE, PATCH ou PUT. Você pode usar formatos de dados como JSON ou XML. Para inserir um token no modelo, clique em **[!UICONTROL Inserir Token]**.
 
    * **[!UICONTROL Solicitar Codificação de Token]**: se os valores de token incluírem caracteres especiais (como um E comercial, &quot;&amp;&quot;), indique o formato da sua solicitação (**JSON** ou **Form/Url**).
 
@@ -51,4 +51,4 @@ Use o [!DNL Webhooks] para aproveitar os serviços Web de terceiros para enviar 
 
 >[!NOTE]
 >
->Saiba mais no aprofundamento de [[!DNL Webhooks]](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Saiba mais no aprofundamento de [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

@@ -4,9 +4,9 @@ description: Adicione  [!DNL Webex] Webinars como um serviço do LaunchPoint par
 title: Adicionar [!DNL Webex] como um [!DNL LaunchPoint] Serviço
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '113'
 ht-degree: 4%
 
 ---
@@ -39,11 +39,11 @@ O Marketo Engage gerencia o registro e a participação no webinário do [!DNL W
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. O Webex será aberto em uma nova guia. Faça logon usando as credenciais da Webex.
+1. Webex abre em uma nova guia. Faça logon usando as credenciais da Webex.
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. Após o logon bem-sucedido, a guia será fechada e o modal _Novo serviço_ no Marketo Engage lerá &quot;Conta de webinários da Webex definida.&quot; Clique em **[!UICONTROL Criar]**.
+1. Após o logon bem-sucedido, a guia é fechada e o modal _Novo serviço_ no Marketo Engage lê &quot;Conta de webinários da Webex definida.&quot; Clique em **[!UICONTROL Criar]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 
