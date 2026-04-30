@@ -4,9 +4,9 @@ description: Regras e etapas para compartilhar segmentações entre espaços de 
 title: Compartilhar segmentações entre espaços de trabalho e partições
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '471'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 4%
 
 ## O que é uma segmentação? {#whats-a-segmentation}
 
-O Marketo é excelente para escolher as pessoas certas para um programa ou campanha inteligente. No entanto, para perfis mais permanentes, você deve usar segmentações. Eles são necessários para usar conteúdo dinâmico avançado no Marketo.
+O Marketo identifica as pessoas certas para um programa ou campanha inteligente. No entanto, para perfis mais permanentes, você deve usar segmentações. Eles são necessários para usar conteúdo dinâmico avançado no Marketo.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Depois de configurar essas personalidades (_e_ você usa espaços de trabalho), 
 
 * Cada assinatura do Marketo pode conter até 20 Segmentações &quot;no total&quot; em vários espaços de trabalho (**não 20 por espaço de trabalho**).
 * Você só pode compartilhar uma Segmentação com espaços de trabalho aos quais tem acesso.
-* Crie e utilize um **Espaço de trabalho padrão que tenha visibilidade sobre todas as partições**.
+* Crie e utilize um **Espaço de trabalho padrão que tenha visibilidade de todas as partições**.
 
 * O processamento de segmentação só é executado nas pessoas no espaço de trabalho em que a segmentação é criada.
 
@@ -46,7 +46,7 @@ Depois de configurar essas personalidades (_e_ você usa espaços de trabalho), 
 
 >[!NOTE]
 >
->Algumas dessas regras são um pouco complexas. A maneira mais fácil de começar é testar com pessoas específicas. Você sempre pode fazer novas segmentações e se livrar das antigas.
+>Algumas dessas regras são complexas. Recomenda-se fazer testes com pessoas específicas. É possível criar novas segmentações e excluir as antigas, conforme necessário.
 
 ## Exemplos de cenários {#example-scenarios}
 
@@ -64,7 +64,7 @@ Depois de configurar essas personalidades (_e_ você usa espaços de trabalho), 
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Nomeie a pasta que você vai compartilhar entre espaços de trabalho (exemplo: Compartilhar segmentações) e clique em **[!UICONTROL Criar]**.
+1. Nomeie a pasta a ser compartilhada entre espaços de trabalho (exemplo: Compartilhar Segmentações) e clique em **[!UICONTROL Criar]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 

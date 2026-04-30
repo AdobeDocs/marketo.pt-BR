@@ -3,10 +3,10 @@ description: Como adicionar ou remover usuários do Marketo Engage no Adobe Admi
 title: Adicionar ou remover usuário
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 6%
+source-wordcount: '268'
+ht-degree: 10%
 
 ---
 
@@ -54,7 +54,7 @@ O usuário receberá um email para fazer logon no Marketo Engage.
 
 >[!NOTE]
 >
->Quando adicionado ao Marketo Engage por meio da Adobe Admin Console, ele recebe a função de &quot;Usuário padrão&quot; no espaço de trabalho Padrão da assinatura. Se a função do usuário no espaço de trabalho precisar ser ajustada, isso é feito no Marketo Engage, [conforme descrito aqui](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Quando adicionado ao Marketo Engage por meio da Adobe Admin Console, ele recebe a função &quot;Usuário padrão&quot; no espaço de trabalho Padrão da assinatura. Se a função do usuário no espaço de trabalho precisar ser ajustada, isso será feito no Marketo Engage, [conforme descrito aqui](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Remover um usuário {#remove-a-user}
 

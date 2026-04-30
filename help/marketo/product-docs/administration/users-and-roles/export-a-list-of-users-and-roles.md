@@ -4,9 +4,9 @@ description: Saiba como exportar uma lista de usuários e funções.
 title: Exportar uma lista de usuários e funções
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '75'
 ht-degree: 22%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 22%
 >
 >**Permissões de administrador são necessárias**
 
-É muito fácil exportar uma lista completa de seus usuários e funções de usuário. Veja como.
+Siga as etapas abaixo para exportar uma lista completa de usuários e funções de usuário.
 
 1. Vá para **[!UICONTROL Admin]**.
 
@@ -39,6 +39,6 @@ ht-degree: 22%
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   E isso é tudo, pessoal! Você deve baixar o novo arquivo do Excel.
+   O download do arquivo do Excel começa.
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

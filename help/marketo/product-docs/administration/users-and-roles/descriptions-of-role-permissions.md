@@ -4,10 +4,10 @@ description: Lista de referência de todas as permissões de função no Marketo
 title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 18%
+source-wordcount: '1344'
+ht-degree: 19%
 
 ---
 
@@ -54,7 +54,7 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acessar nova experiência - Dá aos usuários acesso à tela Nova experiência
 * Acessar a atividade personalizada do Marketo - Concede aos usuários acesso às Atividades personalizadas do Marketo no Administrador
 * Acessar objeto personalizado do Marketo - Concede aos usuários acesso aos Objetos personalizados do Marketo no Administrador
-* Acesso [!DNL Munchkin] - Concede aos usuários acesso a [!DNL Munchkin] em Administração para definir o código de rastreamento, o rastreamento de pessoas e habilitar a configuração da API
+* Acesso [!DNL Munchkin] - Concede aos usuários acesso a [!DNL Munchkin] em Administração, para definir o código de rastreamento, o rastreamento de pessoas e habilitar a configuração da API
 * Acessar públicos preditivos - Concede aos usuários acesso à tela Públicos preditivos
 * Acessar o Revenue Cycle Analytics - Dá aos usuários acesso ao Revenue Cycle Analytics no Admin para a configuração Sincronizar resumo e atribuição
 * Funções de acesso - concede aos usuários acesso para gerenciar e editar funções, mas não aos usuários
@@ -65,7 +65,7 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Tags de acesso - Concede aos usuários acesso a todas as tags personalizadas, exceto a tag de canal.
 * Acessar o Treasure Chest - Dá aos usuários acesso aos recursos experimentais no Treasure Chest no Administrador
 * Acessar usuários - Dá aos usuários acesso para editar e gerenciar usuários (mas não funções) no Admin
-* Webhooks de acesso - Oferece aos usuários Webhooks no Admin para a configuração de detalhes e Mapeamentos de resposta
+* Webhooks de acesso - Concede aos usuários acesso a Webhooks no Admin para a configuração de detalhes e Mapeamentos de resposta
 * Acessar espaços de trabalho e partições - Concede aos usuários acesso para criar, editar e excluir espaços de trabalho e partições no Administrador
 
 ## API de acesso  {#access-api}
@@ -179,7 +179,7 @@ Exibir o banco de dados, bem como exibir e editar listas inteligentes/estáticas
    * Acesso para criar um ativo de lista inteligente no banco de dados e nas atividades de marketing
 * Excluir lista
 * Editar Pessoa - Impede a edição manual e a execução de etapas de fluxo único; você ainda pode editar pessoas executando campanhas com elas
-* Exportar pessoa - Exporte planilhas com das listas do banco de dados
+* Exportar Pessoa - Exporte planilhas das listas do banco de dados
 * Importar objeto personalizado
 * Importar lista
 * Mesclar pessoas

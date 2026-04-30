@@ -3,9 +3,9 @@ description: Etapas para adicionar ou remover Administradores de produto no Adob
 title: Adicionar ou remover admin de produto
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '294'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Administradores de **Sistema** são criados apenas no nível da Organização da Adobe. Se você precisar de mais de um, contate o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br/support).
+>Administradores de **Sistema** são criados apenas no nível da Organização da Adobe. Se você precisar de mais de um, contate o [Suporte da Adobe](https://experienceleague.adobe.com/en/support).
 
 ## Adicionar um administrador de produto {#add-a-product-admin}
 
@@ -62,7 +62,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-O usuário receberá dois emails. O primeiro email notifica que eles receberam direitos de administrador de produto no Marketo Engage. O segundo email os convida a fazer logon no Marketo Engage.
+O usuário receberá dois emails. O primeiro email notifica que receberam direitos de administrador de produto no Marketo Engage. O segundo email os convida a fazer logon no Marketo Engage.
 
 >[!NOTE]
 >

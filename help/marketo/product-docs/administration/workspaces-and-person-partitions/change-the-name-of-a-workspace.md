@@ -4,10 +4,10 @@ description: Saiba como renomear um espaço de trabalho.
 title: Alterar o nome de um espaço de trabalho
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 19%
+source-wordcount: '74'
+ht-degree: 20%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 19%
 >
 >[Criar um Novo Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
-Os usuários podem alterar o nome de um espaço de trabalho. É bem simples.
+Os usuários podem alterar o nome de um espaço de trabalho.
 
 >[!NOTE]
 >
->Entenda primeiro com [Entendendo os Espaços de Trabalho e as Partições de Pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Para obter mais informações, consulte [Noções básicas sobre espaços de trabalho e partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

@@ -4,10 +4,10 @@ description: Saiba como os espaços de trabalho organizam ativos de marketing e 
 title: Noções básicas dos espaços de trabalho e partições de pessoas
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 97%
+source-wordcount: '551'
+ht-degree: 78%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 >[!CAUTION]
 >
->Os espaços de trabalho podem ser complexos de configurar. Entre em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para saber se são adequados para você.
+>Os espaços de trabalho podem ser complexos de configurar. Contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para descobrir se eles são adequados para você.
 
 Os espaços de trabalho são áreas separadas no Marketo que contêm ativos de marketing, como programas, páginas de destino, emails e muito mais. Eles podem ser usados por várias pessoas. Cada usuário tem acesso a um ou mais espaços de trabalho.
 
@@ -38,7 +38,7 @@ Os espaços de trabalho são áreas separadas no Marketo que contêm ativos de m
 
 ## Compartilhamento entre espaços de trabalho {#sharing-across-workspaces}
 
-Confira abaixo como compartilhar ativos entre espaços de trabalho. Funciona da mesma forma para qualquer item que você queira compartilhar. Este exemplo mostra segmentações.
+As etapas a seguir explicam como compartilhar ativos entre espaços de trabalho. Funciona da mesma forma para qualquer item que você queira compartilhar. Este exemplo mostra segmentações.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Confira abaixo como compartilhar ativos entre espaços de trabalho. Funciona da 
 
    >[!NOTE]
    >
-   >Agora, a pasta de origem mostrará uma pequena seta verde, indicando que foi compartilhada. No espaço de trabalho compartilhado, a pasta mostrará um cadeado, indicando que é somente de leitura.
+   >A pasta de origem agora terá uma pequena seta verde, indicando que foi compartilhada. No espaço de trabalho compartilhado, a pasta mostrará um cadeado, indicando que é somente de leitura.
 
 Você pode compartilhar esses itens entre espaços de trabalho.
 
@@ -84,7 +84,7 @@ Você pode compartilhar esses itens entre espaços de trabalho.
 
 ## Clonagem entre espaços de trabalho {#cloning-across-workspaces}
 
-Para ativos que não são modelos, é melhor cloná-los como ativos locais dentro de um programa. Com o nível de acesso apropriado, você pode arrastar e soltar esses ativos em outro espaço de trabalho:
+Para ativos que não são modelos, é recomendável cloná-los como ativos locais dentro de um programa. Com o nível de acesso apropriado, você pode arrastar e soltar esses ativos em outro espaço de trabalho:
 
 * Programas
 * Emails
@@ -105,11 +105,11 @@ Para mover ativos para um novo espaço de trabalho, coloque-os em uma pasta e ar
 
 >[!NOTE]
 >
->Você não pode mover um programa que contenha membros de um espaço de trabalho para outro.
+>Um programa que contém membros não pode ser movido de um espaço de trabalho para outro.
 
 ## Partições de pessoas {#person-partitions}
 
-As partições de pessoas atuam como bancos de dados separados. Cada partição tem suas próprias pessoas, que não são desduplicadas nem combinadas com outras partições. Se você achar que tem um caso de uso comercial que pode exigir registros duplicados com o mesmo endereço de email, entre em contato com o [Suporte do Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+As partições de pessoas atuam como bancos de dados separados. Cada partição tem suas próprias pessoas, que não são desduplicadas nem combinadas com outras partições. Se o caso de uso comercial exigir registros duplicados com o mesmo endereço de email, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Você pode atribuir partições de pessoas a [espaços de trabalho](create-a-new-workspace.md) nas seguintes configurações:
 
@@ -121,7 +121,7 @@ Você pode atribuir partições de pessoas a [espaços de trabalho](create-a-new
 >
 >Motivos para usar uma partição de pessoa:
 >
->* Os seus espaços de trabalho, além de ter ativos diferentes, também não compartilham nenhuma pessoa
+>* Seus espaços de trabalho não só têm ativos diferentes, como também não compartilham pessoas
 >* Você quer fazer duplicações por outros motivos comerciais
 
 >[!CAUTION]

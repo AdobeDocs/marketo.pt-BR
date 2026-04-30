@@ -4,16 +4,16 @@ description: Saiba como editar as partições de pessoas atribuídas a um espaç
 title: Atribuir partições de pessoa a espaços de trabalho
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 11%
+source-wordcount: '142'
+ht-degree: 15%
 
 ---
 
 # Atribuir partições de pessoa a espaços de trabalho {#assign-person-partitions-to-workspaces}
 
-Veja como editar a partição de pessoa/atribuições de espaço de trabalho:
+Siga as etapas abaixo para editar as atribuições de partição de pessoa e espaço de trabalho:
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Veja como editar a partição de pessoa/atribuições de espaço de trabalho:
    >
    >* A caixa de seleção &quot;[!UICONTROL Todas as Partições de Pessoa]&quot; indica que este espaço de trabalho tem acesso a todas as partições de pessoas no sistema.
    >
-   >* As partições primárias de pessoas são o padrão em que todas as pessoas são inseridas. Use [etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} para mover pessoas.
+   >* As partições principais de pessoas são o padrão em que todas as pessoas são inseridas. Use [etapas de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) ou [regras de atribuição](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} para mover pessoas entre partições.
 
 1. Clique em **[!UICONTROL Salvar]**.
 
@@ -56,8 +56,6 @@ Veja como editar a partição de pessoa/atribuições de espaço de trabalho:
 Depois de salvar, você deve ver as alterações.
 
 ![](assets/assign-person-partitions-to-workspaces-6.png)
-
-Você editou seu espaço de trabalho com êxito!
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Etapas para excluir um espaço de trabalho, incluindo a confirmaç�
 title: Excluir um espaço de trabalho
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '65'
 ht-degree: 13%
 
 ---
@@ -33,6 +33,6 @@ ht-degree: 13%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Confirme o número de ativos que você está prestes a excluir (ele está listado para você ao lado de &quot;[!UICONTROL total de ativos]&quot;), marque a caixa de seleção **[!UICONTROL Não é possível desfazer]** e clique em **[!UICONTROL Excluir]**.
+1. Confirme o número de ativos a serem excluídos (listados ao lado de &quot;[!UICONTROL total de ativos]&quot;), marque a caixa de seleção **[!UICONTROL Não é possível desfazer]** e clique em **[!UICONTROL Excluir]**.
 
    ![](assets/delete-a-workspace-4.png)

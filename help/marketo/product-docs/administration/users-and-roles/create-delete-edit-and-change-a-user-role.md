@@ -4,16 +4,16 @@ description: Etapas para criar, excluir e editar funções de usuário, incluind
 title: Criar, excluir, editar e alterar uma função de usuário
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 8%
 
 ---
 
 # Criar, excluir, editar e alterar uma função de usuário {#create-delete-edit-and-change-a-user-role}
 
-**Funções** agrupam um conjunto de permissões. **Permissões** permitem que você faça coisas no Marketo. Você atribui uma **função** a um usuário. Fácil como torta.
+**Funções** agrupam um conjunto de permissões. **Permissões** permitem que você execute ações no Marketo. Você atribui uma **função** a um usuário.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Para editar sua própria função de usuário, é necessário fazer logon como outro usuário com direitos de Administrador.
+>Para editar sua própria função de usuário, será necessário fazer logon como outro usuário com direitos de Administrador.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

@@ -4,16 +4,16 @@ description: Saiba como alterar a partição principal de um espaço de trabalho
 title: Editar um espaço de trabalho
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
 # Editar um espaço de trabalho {#edit-a-workspace}
 
-Às vezes, é necessário fazer alterações em uma Workspace. É fácil.
+Às vezes, é necessário fazer alterações em uma Workspace.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Detalhe os espaços de trabalho com [Noções básicas sobre espaços de trabalho e partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Para obter mais informações sobre espaços de trabalho, consulte [Noções básicas sobre espaços de trabalho e partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -57,7 +57,7 @@ ht-degree: 8%
 
    >[!NOTE]
    >
-   >Você não pode alterar o idioma do espaço de trabalho.
+   >O idioma do espaço de trabalho não pode ser alterado.
 
 >[!MORELIKETHIS]
 >

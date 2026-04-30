@@ -1,22 +1,22 @@
 ---
 description: Saiba como exportar todas as funções e suas permissões.
-title: 'Exportar funções e permissões '
+title: Exportar funções e permissões
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 9%
+source-wordcount: '89'
+ht-degree: 12%
 
 ---
 
-# Exportar funções e permissões  {#export-roles-and-permissions}
+# Exportar funções e permissões {#export-roles-and-permissions}
 
-Veja como exportar todas as funções e suas permissões.
+As etapas a seguir explicam como exportar todas as funções e suas permissões.
 
 >[!NOTE]
 >
->Permissões de administrador necessárias
+>**Permissões de administrador são necessárias**
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -36,7 +36,7 @@ Veja como exportar todas as funções e suas permissões.
 
 >[!NOTE]
 >
->Certifique-se de que seu navegador não esteja bloqueando pop-ups do Marketo.
+>Certifique-se de que o navegador não esteja bloqueando pop-ups do Marketo.
 
 Os dados serão exportados como um CSV e conterão funções, permissões e uma contagem de quantas permissões foram habilitadas por grupo.
 
