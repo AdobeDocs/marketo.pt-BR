@@ -3,10 +3,10 @@ description: Notas de versão - setembro de 2025 - Documentação do Marketo - D
 title: Notas de versão — Setembro de 2025
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '933'
-ht-degree: 88%
+source-wordcount: '960'
+ht-degree: 85%
 
 ---
 
@@ -34,7 +34,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   <tr>
    <td><strong>Retenção de atividade do webinário sob demanda</strong>: os usuários de webinários interativos agora têm dados do Painel de webinários sob demanda disponíveis por mais de 30 dias (anteriormente, era apenas até 30 dias a partir do dia do webinário).</td>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronização manual</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronização manual</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -98,4 +98,4 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 * **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
-* **Migração de Fluxo de Dados de Atividades de Cliente Potencial Herdadas**: essa migração afeta apenas alguns usuários que foram integrados ao Fluxo de Dados de Atividades de Cliente Potencial antes de sua integração com o Adobe I/O Events. Se você for um usuário de fluxos de dados mais recente ou já gerenciar o Fluxo de dados da atividade principal por meio de Eventos de E/S, isso não terá impacto em você. Consulte [este artigo](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} para obter detalhes.
+* **Substituição do Fluxo de Dados de Atividades de Clientes Potenciais Herdados**: até o final de junho de 2026, os usuários deverão migrar do Fluxo de Dados de Atividades de Clientes Potenciais herdado para o novo Fluxo de Dados de Atividades de Clientes Potenciais (LADS) do Adobe I/O. Essa descontinuação afeta apenas alguns usuários que foram integrados ao fluxo de dados da atividade principal antes de ele ser integrado ao Adobe I/O Events. Se você for um usuário de fluxos de dados mais recente ou já gerenciar o Fluxo de dados da atividade principal por meio de Eventos de E/S, isso não terá impacto em você. Consulte [este artigo](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} para obter detalhes sobre a migração.

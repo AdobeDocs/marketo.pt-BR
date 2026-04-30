@@ -4,9 +4,9 @@ description: Saiba como gerenciar e exibir membros do programa. Veja quem está 
 title: Gerenciar e exibir membros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '257'
 ht-degree: 3%
 
 ---
@@ -79,11 +79,9 @@ Você pode alterar o status das pessoas dentro da grade de membros.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   Isso pode demorar um pouco. Você verá a mensagem abaixo quando tudo estiver concluído!
+   Isso pode demorar um pouco. A mensagem abaixo é exibida quando o processo é concluído.
 
    ![](assets/changestatusconfirm.png)
-
-Tantos recursos, mas todos eles são bastante diretos. Aproveite!
 
 >[!MORELIKETHIS]
 >

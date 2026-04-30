@@ -3,10 +3,10 @@ description: Modelo do programa operacional da API de aquisição. Use-a para ca
 title: OP-Aquisição-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 20%
+source-wordcount: '182'
+ht-degree: 21%
 
 ---
 
@@ -86,4 +86,4 @@ Este programa de exemplo é para processos operacionais para rastrear a aquisiç
 
 * Considere utilizar programas semelhantes para garantir o alinhamento às práticas recomendadas em todas as fontes de entrada para incluir seu CRM ou Integrações de dados.
 
-* Em iniciativas de marketing de canal específicas, capture a aquisição quando necessário.
+* Nas iniciativas de marketing de canal específicas, certifique-se de que a aquisição seja capturada quando necessário.

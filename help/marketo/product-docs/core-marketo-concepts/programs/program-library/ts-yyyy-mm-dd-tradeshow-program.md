@@ -3,10 +3,10 @@ description: Modelo do programa de show de vendas. Use-o para eventos e feiras c
 title: TS-DD-MM-AAAA-Programa de feira de vendas
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 17%
+source-wordcount: '440'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 17%
 
 Este é um exemplo de um programa de feiras com convites e emails de acompanhamento utilizando um Programa de eventos do Marketo Engage.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -33,7 +33,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <br/>03-Registrado
    <br/>04-Cabine Visitada
    <br/>05-Envolvido no Programa - Sucesso
-   <br/>06-Envolvido no Post Show - Sucesso</td>
+   <br/>06-Envolvido na Pós-Apresentação - Sucesso</td>
    <td>Inclusivo</td>
    <td>Evento</td>
   </tr>
@@ -146,7 +146,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr>
-   <td>Texto formatado</td>
+   <td>Rich text</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
@@ -211,7 +211,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;03 - Engajado pelo e-mail de acompanhamento (sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de enviar seus emails.
+>Ative a campanha &quot;03 - Engajado pelo e-mail de acompanhamento (sucesso do programa)&quot; para rastrear o sucesso antes que seus e-mails sejam enviados.
 
 >[!IMPORTANT]
 >

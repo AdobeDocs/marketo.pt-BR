@@ -3,9 +3,9 @@ description: Modelo do programa de página de aterrissagem online do Advertising
 title: OA-MM-AAAA-Página de destino de publicidade online do Marketo
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este é um exemplo de um programa de rastreamento de anúncios online, incluindo uma Página de aterrissagem do Marketo com formulário de registro e utilizando um Programa padrão do Marketo. O link para a oferta pode ser exibido na página de agradecimento, enviado em um email de agradecimento ou em ambos.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -121,7 +121,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <th>Valor</th>
   </tr>
   <tr>
-   <td>Texto formatado</td>
+   <td>Rich text</td>
    <td><code>{{my.Content-Description}}</code></td>
    <td>Clique duas vezes para obter detalhes
 <br/><code><--My Content Description Here--></code>
@@ -208,7 +208,7 @@ CAPTURA DE TELA DAS REGRAS DE CONFLITO
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;02 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de o seu formulário estar online e os emails serem enviados.
+>Ative a campanha &quot;02 - Envolvido (sucesso do programa)&quot; para rastrear o sucesso antes que seu formulário esteja ativo e os emails sejam enviados.
 
 >[!IMPORTANT]
 >

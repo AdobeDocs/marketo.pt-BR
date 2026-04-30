@@ -3,10 +3,10 @@ description: Conteúdo no modelo de programa da página de aterrissagem do Marke
 title: CT-MM-AAAA-Conteúdo na página de destino do Marketo
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 15%
+source-wordcount: '501'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este exemplo foi projetado para ser um programa de conteúdo que aproveita uma página de aterrissagem do Marketo Engage com um formulário do Marketo Engage utilizando um programa padrão do Marketo Engage. O formulário é para acessar o conteúdo/oferta. O link para a oferta pode ser exibido na página de agradecimento, enviado em um email de agradecimento ou em ambos.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -121,7 +121,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <th>Valor</th>
   </tr>
   <tr>
-   <td>Texto formatado</td>
+   <td>Rich text</td>
    <td><code>{{my.Content-Description}}</code></td>
    <td>Clique duas vezes para obter detalhes
 <br/><code><--My Content Description Here--></code>
@@ -202,7 +202,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a Campanha &quot;02-Engajado&quot; para rastreamento do sucesso! Faça _antes_ de o seu formulário estar online e os emails serem enviados.
+>Ative a campanha &quot;02-Envolvido&quot; para rastrear o sucesso antes que seu formulário seja publicado e os emails sejam enviados.
 
 >[!IMPORTANT]
 >

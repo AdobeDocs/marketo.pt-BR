@@ -4,10 +4,10 @@ description: Saiba como editar entradas na Exibição do cronograma do programa.
 title: Editar entradas na visualização Cronograma do programa
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ Você pode fazer edições nos diferentes elementos do seu programa na visualiza
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Ótimo! Sua descrição foi alterada.
+1. A descrição foi atualizada.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -49,7 +49,7 @@ Você pode fazer edições nos diferentes elementos do seu programa na visualiza
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-Você arrasa! Agora, a data da sua entrada foi movida para uma nova data.
+A data da sua entrada foi atualizada.
 
 >[!NOTE]
 >

@@ -3,10 +3,10 @@ description: Modelo do programa Simple Nurture. Use-o para campanhas de criaçã
 title: NUR-MM-AAAA-Estímulo simples
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 19%
+source-wordcount: '369'
+ht-degree: 20%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 Este é um exemplo de programas de aprendizado simples, utilizando o programa de envolvimento do Marketo Engage, com conteúdo cadenciado para gotejar ao longo do tempo para seu banco de dados e, ao mesmo tempo, utilizando fluxos para orientar registros por meio de jornadas com base no comportamento.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -171,4 +171,4 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;04 - Envolvido (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de enviar seus emails.
+>Ative a campanha &quot;04 - Envolvido (sucesso do programa)&quot; para rastrear o sucesso antes que seu formulário esteja ativo e os emails sejam enviados.

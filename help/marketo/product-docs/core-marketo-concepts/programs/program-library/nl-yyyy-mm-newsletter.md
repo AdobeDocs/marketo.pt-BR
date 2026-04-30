@@ -3,10 +3,10 @@ description: Modelo do programa informativo. Use-o para receber informativos por
 title: NL-MM-AAAA-Boletim informativo
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 18%
+source-wordcount: '293'
+ht-degree: 19%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 Este exemplo envia um email de informativo utilizando um Programa de email do Marketo Engage. O email pode incluir ou não incluir um teste A/B.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -144,4 +144,4 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;01-Engajado&quot; para rastrear o sucesso! Faça _antes_ de o seu formulário estar online e os emails serem enviados.
+>Ative a campanha &quot;01-Envolvido&quot; para rastrear o sucesso antes que seu formulário seja publicado e os emails sejam enviados.

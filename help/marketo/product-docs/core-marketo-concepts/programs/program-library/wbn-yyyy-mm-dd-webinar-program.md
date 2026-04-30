@@ -3,10 +3,10 @@ description: Modelo do programa de webinário. Use-o para webinários com uma co
 title: WBN-DD-MM-AAAA-Programa de webinário
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 20%
+source-wordcount: '621'
+ht-degree: 21%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 Este é um exemplo de um programa de webinário com gerenciamento de registro, três emails de convite, lembrete de participação e emails de acompanhamento utilizando um Programa de evento do Marketo Engage.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -310,7 +310,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 ## Práticas recomendadas {#best-practices}
 
-* Se você estiver usando um provedor de webinário integrado, não se esqueça de conectar o programa Marketo Engage ao seu webinário no sistema de hospedagem.
+* Se você estiver usando um provedor de webinário integrado, conecte o programa Marketo Engage ao seu webinário no sistema de hospedagem.
 
 * Após a importação do programa de webinário, mova o formulário de um ativo local para um ativo global localizado no Design Studio.
    * Diminuir o número de formulários e utilizar mais ativos globais do Design Studio permite mais escalabilidade no design do programa e na governança administrativa. Ele também oferece flexibilidade em atualizações de conformidade regulares para campos, idioma de aceitação etc.
@@ -325,7 +325,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;05 - Participou (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de enviar seus emails.
+>Ative a campanha &quot;05 - Participou (êxito do programa)&quot; para rastrear o sucesso antes que seus emails sejam enviados.
 
 >[!IMPORTANT]
 >

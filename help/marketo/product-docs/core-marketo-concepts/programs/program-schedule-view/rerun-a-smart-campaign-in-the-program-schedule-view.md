@@ -4,16 +4,16 @@ description: Saiba como executar novamente uma Campanha inteligente na Exibiçã
 title: Executar novamente uma campanha inteligente na visualização Cronograma do programa
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 15%
 
 ---
 
 # Executar novamente uma campanha inteligente na visualização Cronograma do programa {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
-Você pode criar facilmente novas execuções de uma Campanha inteligente existente diretamente da visualização do cronograma do programa.
+Novas execuções de uma Campanha inteligente existente podem ser criadas diretamente na visualização do cronograma do programa.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -23,11 +23,11 @@ Você pode criar facilmente novas execuções de uma Campanha inteligente existe
 
    ![](assets/image2015-4-16-14-3a40-3a11.png)
 
-1. Na exibição de agendamento, clique no dia em que deseja definir sua nova execução e dê à sua entrada um nome que seja facilmente compreendido (por exemplo, &quot;Segundo convite&quot;).
+1. Na exibição de agendamento, clique no dia em que deseja definir sua nova execução e dê à sua entrada um nome fácil de entender (por exemplo, &quot;Segundo convite&quot;).
 
    ![](assets/image2015-4-16-14-3a42-3a0.png)
 
-1. Selecione o menu suspenso de tipo de entrada e escolha a Campanha inteligente que deseja executar novamente.
+1. Selecione o menu suspenso de tipo de entrada e escolha a Campanha inteligente para executar novamente.
 
    ![](assets/image2015-4-16-15-3a26-3a33.png)
 
@@ -35,4 +35,4 @@ Você pode criar facilmente novas execuções de uma Campanha inteligente existe
    >
    >Você também pode fazer isso no [foco do programa](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
-Boom! Assim, você agendou outra execução para essa Campanha Inteligente. Se essa Campanha inteligente continha etapas de envio de email, você as verá também.
+A Campanha inteligente agora está programada para outra execução. Se contiver etapas para enviar email, elas também aparecerão aqui.

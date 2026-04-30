@@ -4,10 +4,10 @@ description: Saiba como clonar um ativo em um programa. Crie uma cópia de um em
 title: Clonar um ativo em um programa
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 14%
+source-wordcount: '130'
+ht-degree: 13%
 
 ---
 
@@ -41,7 +41,7 @@ Clonar um programa clona _tudo_. Às vezes, você só deseja clonar um ativo. Ve
    >
    >Também é possível clonar um ativo para um programa diferente. Use o menu suspenso **[!UICONTROL Programa]** para fazer sua seleção.
 
-1. Ótimo! Agora você deve ver o novo ativo clonado.
+1. O novo ativo clonado agora deve estar visível.
 
    ![](assets/report.jpg)
 

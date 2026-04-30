@@ -3,10 +3,10 @@ description: Modelo de programa de evento. Use-o para executar webinários e eve
 title: EV-DD-MM-AAAA-Programa de evento
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 21%
+source-wordcount: '600'
+ht-degree: 22%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 21%
 
 Este é um exemplo de um programa de evento com uma página de registro, três emails de convite e emails de acompanhamento utilizando um Programa de evento do Marketo Engage. Adequado para todos os eventos em que você precisa de inscrições, incluindo shows, almoços, jantares ou apresentações em eventos de feiras comerciais.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -204,7 +204,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr>
-   <td>Texto formatado</td>
+   <td>Rich text</td>
    <td><code>{{my.Content-Description}}</code></td>
    <td>Clique duas vezes para obter detalhes
 <br/><code><--My Content Description Here--></code>
@@ -330,7 +330,7 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 
 >[!TIP]
 >
->Não se esqueça de ativar a campanha &quot;06-Participou (Sucesso do programa)&quot; para rastrear o sucesso! Faça _antes_ de o seu formulário estar online e os emails serem enviados.
+>Ative a campanha &quot;06-Participou (sucesso do programa)&quot; para rastrear o sucesso antes que seu formulário esteja online e os emails sejam enviados.
 
 >[!IMPORTANT]
 >

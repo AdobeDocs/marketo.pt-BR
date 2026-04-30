@@ -4,10 +4,10 @@ description: Saiba como usar tags em um programa. Adicione tags para organizar p
 title: Usar tags em um programa
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 10%
+source-wordcount: '171'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. Diretamente. Você verá a nova tag na tela.
+1. A nova tag agora aparece na tela.
 
    ![](assets/use-tags-in-a-program-5.png)
 
@@ -55,7 +55,7 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. Ótimo! Você deve ver as edições refletidas na tela.
+1. As edições agora devem ser refletidas na tela.
 
    ![](assets/use-tags-in-a-program-9.png)
 
@@ -69,4 +69,4 @@ Tags são atributos que descrevem seus programas e são usadas para agrupar tipo
 
    ![](assets/use-tags-in-a-program-11.png)
 
-Bom trabalho! Programas com tags consistentes facilitam muito a execução de relatórios.
+Programas com tags consistentes tornam os relatórios mais eficientes.
