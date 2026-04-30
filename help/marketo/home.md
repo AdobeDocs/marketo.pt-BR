@@ -26,9 +26,9 @@ Se você estiver apenas começando e quiser um tutorial introdutório do Marketo
 
 ## Artigos populares do Marketo Engage
 
-* [Noções básicas sobre a sincronização do  [!DNL Salesforce] ](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [Noções básicas sobre a sincronização do  [!DNL Salesforce] &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Noções básicas sobre a sincronização do  [!DNL Microsoft Dynamics] ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [Noções básicas sobre a sincronização do  [!DNL Microsoft Dynamics] &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Noções básicas sobre Campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
