@@ -47,7 +47,7 @@ Depois de preparar o título do conteúdo, a descrição e a imagem para a mídi
 
 ## Personalize o código Javascript e incorpore-o ao seu site  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte a documentação do modelo de Recomendação de Mídia Avançada [no site de Desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Isso explica como personalizar o modelo para seu site.
+Consulte a documentação do modelo de Recomendação de Mídia Avançada [no site de Desenvolvedores do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Isso explica como personalizar o modelo para seu site.
 
 Cole o código do JavaScript no site no local onde deseja que o modelo apareça.
 
