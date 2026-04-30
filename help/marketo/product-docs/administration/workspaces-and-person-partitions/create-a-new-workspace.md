@@ -28,7 +28,7 @@ Os espaços de trabalho são úteis para subdividir a empresa. Os motivos para c
 
 >[!TIP]
 >
->Para saber mais sobre as práticas recomendadas da Workspace, contate os [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Para saber mais sobre as práticas recomendadas da Workspace, contate os [Marketo Professional Services](https://business.adobe.com/br/products/marketo/services-support.html){target="_blank"}.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Administradores de **Sistema** são criados apenas no nível da Organização da Adobe. Se você precisar de mais de um, contate o [Suporte da Adobe](https://experienceleague.adobe.com/en/support).
+>Administradores de **Sistema** são criados apenas no nível da Organização da Adobe. Se você precisar de mais de um, contate o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br/support).
 
 ## Adicionar um administrador de produto {#add-a-product-admin}
 
