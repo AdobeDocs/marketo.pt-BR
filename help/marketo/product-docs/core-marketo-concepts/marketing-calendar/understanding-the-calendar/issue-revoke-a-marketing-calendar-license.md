@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147255
 description: Saiba como emitir ou revogar uma licença do Calendário de marketing para usuários. Conceder ou remover acesso ao Calendário.
-title: Emitir/revogar uma licença do calendário de marketing
+title: Emitir ou Revogar uma Licença de Calendário de Marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 15%
+source-wordcount: '108'
+ht-degree: 2%
 
 ---
 
-# Emitir/revogar uma licença do calendário de marketing {#issue-revoke-a-marketing-calendar-license}
+# Emitir ou Revogar uma Licença de Calendário de Marketing {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**Permissões de administrador são necessárias**
 
-Para usar suas estações do [Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, você precisa emitir licenças para usuários que precisam de acesso. Veja como.
+Para usar suas estações do [Calendário de marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, você precisa emitir licenças para usuários que precisam de acesso.
 
 1. Vá para a seção **[!UICONTROL Admin]**.
 
@@ -43,6 +43,6 @@ Para usar suas estações do [Calendário de marketing](/help/marketo/product-do
 
    ![](assets/4.png)
 
-   Muito bem! Está vendo a marca de seleção verde em &#39;[!UICONTROL Calendário]?&#39;
+   A marca de seleção verde agora deve aparecer em &#39;[!UICONTROL Calendário].&#39;
 
    ![](assets/5.png)

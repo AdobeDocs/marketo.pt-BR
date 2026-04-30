@@ -2,10 +2,10 @@
 description: Saiba como gerenciar solicitações de privacidade para acesso e exclusão no Marketo. Envie solicitações por meio da interface do usuário ou da API do Privacy Service e processe dados do consumidor.
 title: Solicitações de privacidade
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 15%
+source-wordcount: '371'
+ht-degree: 21%
 
 ---
 
@@ -30,18 +30,16 @@ Você pode enviar solicitações individuais para acessar e excluir dados do con
 
 O [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=pt-BR){target="_blank"} oferece suporte a dois tipos de solicitações: acesso e exclusão de dados.
 
-Saiba como criar solicitações de Acesso e Exclusão.
-
 ## Configuração necessária para enviar solicitações para o Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
 Para fazer solicitações de Acesso e Exclusão de dados para o Marketo Engage, você deve:
 
 1. Identificar o seguinte:
 
-   a. ID da Organização IMS<br/>
-b. Endereço de e-mail da pessoa sobre a qual deseja agir
+   a) ID organizacional IMS<br/>
+b) Endereço de email da pessoa sobre a qual você deseja agir
 
-   Uma ID de organização IMS é uma string de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID de organização IMS, entre em contato com o Atendimento ao cliente da Adobe em `gdprsupport@adobe.com`. Você precisará da ID de organização IMS para enviar solicitações à API de privacidade.
+   Uma ID de organização IMS é uma string de 24 caracteres alfanuméricos anexada com @AdobeOrg. Se a sua equipe de marketing ou o administrador interno do sistema da Adobe não souber a ID de organização IMS, entre em contato com o Suporte da Adobe em `gdprsupport@adobe.com`. Você precisará da ID de organização IMS para enviar solicitações à API de privacidade.
 
 1. No Privacy Service, você pode enviar solicitações de Acesso e Exclusão ao Marketo Engage e verificar o status das solicitações existentes.
 

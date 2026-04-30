@@ -3,9 +3,9 @@ description: Saiba mais sobre o Check-in de eventos para fazer o check-in de cli
 title: Visão geral do check-in do evento
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '314'
 ht-degree: 4%
 
 ---
@@ -22,15 +22,13 @@ Este artigo descreve o processo completo. Os cabeçalhos são vinculados aos art
 
 Algumas atividades ocorrem antes do evento, como criar uma nova função e convidar participantes. Alguns ocorrem durante o evento, como fazer check-in dos participantes. Após o evento, você sincroniza seus dados com o Marketo, atualizando o status da pessoa.
 
-Tenha um grande evento!
-
 ## Prepare-se para o seu evento
 
 Antes do evento:
 
 * [Criar uma nova função de Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} para [!DNL iPad] ou [!DNL Android] usuários para o evento
 * [Convidar novos usuários do tablet para o evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} e atribuir a eles a nova função
-* [Criar um novo programa de eventos do Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+* [Criar um novo programa de evento do Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Especificar as datas do evento
 * Adicionar pessoas ao seu evento
 

@@ -4,9 +4,9 @@ description: Saiba mais sobre os cartões do Smart Campaign no Marketo Moments. 
 title: Noções básicas sobre cartões de campanha inteligente
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Use o Marketo Moments para exibir cada execução das Campanhas inteligentes do 
 >
 >Em 2 de outubro de 2023, a Adobe removeu o aplicativo Marketo Moments de todas as lojas de aplicativos. Se você já tiver o aplicativo instalado no tablet/dispositivo móvel, poderá continuar usando-o por enquanto. Depois que sua instância do Marketo Engage for migrada para a Adobe Identity para autenticação do Marketo, você não poderá mais acessar o aplicativo. [Saiba mais](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Para campanhas inteligentes futuras que estão programadas, mas ainda não foram executadas, o cartão Momentos da Marketo ainda não exibe nenhuma estatística da campanha. Eles aparecerão em uma versão futura.
+Para campanhas inteligentes futuras que estão programadas, mas ainda não foram executadas, o cartão Momentos do Marketo ainda não exibe nenhuma estatística de campanha. Eles aparecerão em uma versão futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -43,7 +43,7 @@ Para campanhas inteligentes futuras que estão programadas, mas ainda não foram
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Agora, você verá o fluxo da Campanha inteligente. Esta campanha tem apenas uma etapa de fluxo, mas pode haver várias.
+1. O fluxo da Campanha inteligente é mostrado aqui. Esta campanha tem apenas uma etapa de fluxo, mas pode haver várias.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -55,7 +55,7 @@ Para campanhas inteligentes futuras que estão programadas, mas ainda não foram
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Vê aqueles dois pontos na base? Eles indicam que há dois emails conectados a essa Campanha inteligente. Para visualizar os resultados do outro email, passe o dedo para a tela à esquerda. Estes são os resultados do segundo email.
+1. Os dois pontos na parte inferior indicam que há dois emails conectados a essa Campanha Inteligente. Para visualizar os resultados do outro email, passe o dedo para a tela à esquerda. Estes são os resultados do segundo email.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -93,7 +93,7 @@ Os cartões para Campanhas inteligentes não confirmadas ficam em cinza até que
 
    >[!NOTE]
    >
-   >Agora seu cartão ficará laranja!
+   >O cartão ficará laranja.
 
 ## Cancelar uma execução de campanha inteligente {#canceling-a-smart-campaign-run}
 
@@ -127,8 +127,6 @@ Você pode reagendar uma Campanha inteligente confirmada que ainda não foi exec
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
-   Pedaço de bolo!
-
 ## Outras ações do Smart Campaign {#other-smart-campaign-actions}
 
 Assim como em outros cartões Marketo Moments, você pode tocar nos três pontos em qualquer cartão do Smart Campaign ou cartão de detalhes para:
@@ -145,4 +143,4 @@ Assim como em outros cartões Marketo Moments, você pode tocar nos três pontos
 
 ## Excluir rapidamente um cartão de campanha inteligente {#quickly-delete-a-smart-campaign-card}
 
-Se você tiver um cartão que não precisa mais, talvez um que tenha usado para testes, poderá se livrar dele com um rápido deslizamento para a esquerda ou para a direita.
+Se você tiver uma placa que não é mais necessária, talvez uma que tenha usado para testes, ela poderá ser removida com um deslizamento rápido para a esquerda ou para a direita.

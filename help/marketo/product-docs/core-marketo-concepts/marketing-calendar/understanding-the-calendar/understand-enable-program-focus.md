@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953364
 description: Entenda como o Foco do programa permite interagir com entradas do Calendário de marketing. Ativar o foco em um programa para criar, editar, excluir ou confirmar entradas.
-title: Entender/habilitar foco do programa
+title: Entender e ativar o foco do programa
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 4%
+source-wordcount: '169'
+ht-degree: 0%
 
 ---
 
-# Entender/habilitar foco do programa {#understand-enable-program-focus}
+# Entender e ativar o foco do programa {#understand-enable-program-focus}
 
 O Calendário de marketing oferece uma visão abrangente das coisas, mas também permite algumas interações. Você pode [criar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [editar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [excluir](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} e [confirmar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} entradas. Para interagir com as entradas, você deve se concentrar em um programa primeiro.
 
@@ -23,7 +23,7 @@ O Calendário de marketing oferece uma visão abrangente das coisas, mas também
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
-1. Observe que agora estamos focados em nosso programa chamado &quot;Press Release&quot;.
+1. O programa agora se concentra em &quot;Press Release&quot;.
 
    ![](assets/image2014-10-20-13-3a24-3a15.png)
 
@@ -31,11 +31,11 @@ O Calendário de marketing oferece uma visão abrangente das coisas, mas também
    >
    >Focar em um programa permite interagir somente com entradas que pertencem a ele e criar novas entradas que serão abrigadas por ele.
 
-1. Quando terminar, libere o foco para interagir com outros programas/entradas.
+1. Quando terminar, libere o foco para interagir com outros programas ou entradas.
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-Fantástico! Agora vá em frente e aprenda a interagir com as entradas.
+Use os links abaixo para saber como interagir com entradas.
 
 >[!MORELIKETHIS]
 >

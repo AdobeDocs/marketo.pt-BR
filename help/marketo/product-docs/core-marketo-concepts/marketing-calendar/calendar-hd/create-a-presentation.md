@@ -4,10 +4,10 @@ description: Saiba como criar uma apresentação do Calendário de marketing par
 title: Criar uma apresentação
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 9%
+ht-degree: 7%
 
 ---
 
@@ -36,7 +36,7 @@ Crie uma apresentação para projetar as visualizações e metas do calendário 
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
-   Excelente! Agora você está pronto para personalizar sua apresentação.
+   A apresentação está pronta para ser personalizada.
 
 >[!MORELIKETHIS]
 >

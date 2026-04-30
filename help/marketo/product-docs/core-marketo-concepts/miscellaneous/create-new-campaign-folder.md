@@ -3,16 +3,16 @@ unique-page-id: 2953207
 description: Saiba como criar uma nova pasta de campanha em Atividades de marketing. Organize seu espaço de trabalho com pastas de campanha para automação e ativos.
 title: Criar nova pasta de campanha
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 17%
+source-wordcount: '110'
+ht-degree: 20%
 
 ---
 
 # Criar nova pasta de campanha {#create-new-campaign-folder}
 
-As pastas do Campaign ajudam você a manter um espaço de trabalho organizado. Siga estas etapas simples e você está a caminho da mágica da automação.
+As pastas do Campaign ajudam você a manter um espaço de trabalho organizado. Siga estas etapas para começar.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -38,11 +38,11 @@ As pastas do Campaign ajudam você a manter um espaço de trabalho organizado. S
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Fantástico! Você acabou de criar uma pasta de campanha. Dê uma olhada na árvore.
+   A pasta da campanha aparece na árvore.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Agora, ao [criar um novo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), você verá esta pasta de campanha como uma opção.
+   Agora, ao [criar um novo programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), esta pasta de campanha aparece como uma opção.
 
 >[!MORELIKETHIS]
 >

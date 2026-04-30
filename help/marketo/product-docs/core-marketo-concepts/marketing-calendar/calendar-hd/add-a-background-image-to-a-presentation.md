@@ -4,10 +4,10 @@ description: Saiba como adicionar uma imagem de plano de fundo a uma apresentaç
 title: Adicionar uma imagem de fundo a uma apresentação
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 12%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 
@@ -35,12 +35,11 @@ Personalize uma apresentação selecionando uma imagem de fundo.
 
    >[!TIP]
    >
-   >Para aparência mais limpa, use uma imagem com **1920 x 1080** ou **1280 x 720**.
+   >Para a aparência mais limpa, use uma imagem que seja **1920 x 1080** ou **1280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Clique em **[!UICONTROL Visualizar]** para fazer check-out.
+1. Clique em **[!UICONTROL Visualizar]** para visualizá-la.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
-   E é isso!

@@ -4,9 +4,9 @@ description: Saiba como personalizar uma apresentação do Calendário de market
 title: Personalizar uma apresentação
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '284'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ As apresentações percorrem [definições de filtro](/help/marketo/product-docs
 
 ## Adicionar uma meta {#add-a-goal}
 
-As apresentações são as mais incríveis quando exibem as metas da sua equipe. Basta arrastar [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} ou [metas da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} diferentes. Você pode usar até 10.
+As apresentações são mais eficazes quando exibem metas de equipe. Arraste sobre [metas personalizadas](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} ou [metas da lista inteligente](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} diferentes. Você pode usar até 10.
 
 1. Na árvore direita, arraste as metas diferentes que deseja exibir na sua apresentação.
 
@@ -44,7 +44,7 @@ As apresentações são as mais incríveis quando exibem as metas da sua equipe.
 
 ## Definir a frequência de rotação {#set-the-frequency-of-rotation}
 
-Depois de obter as exibições desejadas na apresentação, defina a frequência com que ela gira entre as diferentes exibições.
+Depois que as visualizações forem coletadas, defina a frequência com que ela gira entre as diferentes visualizações.
 
 1. Clique em **[!UICONTROL 5 minutos]** (esta é a cadência padrão).
 
@@ -66,11 +66,9 @@ A exibição do calendário pode ser alterada para uma exibição de 3 semanas o
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Fantástico! Pronto para ver sua apresentação?
-
 >[!TIP]
 >
->Defina uma [imagem de plano de fundo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} para sua apresentação. Sugerimos gatinhos ou arco-íris.
+>Defina uma [imagem de plano de fundo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} para sua apresentação.
 
 ## Visualizar uma Apresentação {#preview-a-presentation}
 
@@ -80,11 +78,11 @@ Após a configuração da apresentação, ela estará pronta para ser visualizad
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   Ta-da! Esta pode ser a sua apresentação.
+   Esta pode ser a sua apresentação.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   Não gosta do que você vê? Retorne e use diferentes definições de filtro para criar a exibição desejada.
+   Para ajustar a exibição, use definições de filtro diferentes.
 
 >[!MORELIKETHIS]
 >

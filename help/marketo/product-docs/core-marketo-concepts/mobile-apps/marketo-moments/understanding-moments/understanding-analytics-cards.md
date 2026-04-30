@@ -4,9 +4,9 @@ description: Saiba mais sobre os cartões do Analytics no Marketo Moments. Visua
 title: Noções básicas sobre cartões de análise
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '311'
 ht-degree: 2%
 
 ---
@@ -33,11 +33,11 @@ Toque em um cartão do Analytics para mostrar:
 * Uma comparação mês a mês
 * Um gráfico de barras dos três principais ou mais (dependendo do cartão)
 
-Por exemplo, vamos examinar os detalhes do cartão de análise [!UICONTROL Clientes potenciais adquiridos]:
+Por exemplo, estes são os detalhes do cartão do Analytics [!UICONTROL Clientes potenciais adquiridos]:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
-Neste exemplo, vermelho indica que o valor diminuiu ao longo do intervalo de datas selecionado (oh!). Verde indica que o valor aumentou (aa!).
+Neste exemplo, o vermelho indica que o valor diminuiu ao longo do intervalo de datas selecionado. Verde indica que o valor aumentou.
 
 ## [!UICONTROL Clientes potenciais adquiridos] {#acquired-leads}
 

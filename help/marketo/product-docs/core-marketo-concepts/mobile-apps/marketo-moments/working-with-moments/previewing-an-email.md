@@ -4,16 +4,16 @@ description: Saiba como visualizar um email no Marketo Moments. Veja a aparênci
 title: Pré-visualização de um email
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '160'
 ht-degree: 5%
 
 ---
 
 # Pré-visualização de um email {#previewing-an-email}
 
-Clique com o botão direito do mouse em um cartão de email para visualizá-lo, antes de puxar o acionador.
+Clique com o botão direito do mouse em um cartão de email para visualizá-lo antes de enviar.
 
 >[!IMPORTANT]
 >

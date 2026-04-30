@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: Saiba mais sobre pastas dentro de programas para organizar Campanhas inteligentes e ativos. Criar, renomear e excluir pastas.
 title: Noções básicas sobre pastas
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 5%
+source-wordcount: '274'
+ht-degree: 4%
 
 ---
 
@@ -28,11 +28,9 @@ As pastas em um programa podem ser usadas para organizar suas campanhas e ativos
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-Ótimo! Agora você tem uma nova pasta para armazenar seus ativos locais.
+A nova pasta agora está pronta para seus ativos locais.
 
 ## Renomear uma pasta {#rename-a-folder}
-
-Não há problema em mudar de ideia.
 
 1. Clique com o botão direito do mouse na pasta e selecione **[!UICONTROL Renomear Pasta]**.
 
@@ -68,6 +66,6 @@ Ao arquivar uma pasta:
 Funcionalidade que **não** será alterada durante o arquivamento:
 
 * A pesquisa global ainda encontra resultados em pastas arquivadas
-* Um ativo que está em uso continuará a funcionar mesmo depois de ser arquivado
+* Um ativo que está em uso continuará a funcionar mesmo após ser arquivado
 * Você pode usar um filtro para selecionar ativos arquivados para uso em relatórios
 * Os ativos arquivados não estão desativados. Eles também devem ser desativados se você quiser que eles parem de funcionar

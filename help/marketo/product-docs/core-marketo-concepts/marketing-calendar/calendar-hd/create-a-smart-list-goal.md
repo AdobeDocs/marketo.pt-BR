@@ -4,16 +4,16 @@ description: Saiba como criar uma meta de lista inteligente no Calendário de ma
 title: Criar uma meta de lista inteligente
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '155'
 ht-degree: 6%
 
 ---
 
 # Criar uma meta de lista inteligente {#create-a-smart-list-goal}
 
-Metas são maneiras de rastrear o progresso e motivar sua equipe. Eles podem ser combinados com listas inteligentes para rastrear todos os tipos de coisas no Marketo. Além disso, após configurar uma meta de lista inteligente, ela será atualizada automaticamente a cada 2 horas quando for usada em uma apresentação.
+Metas são maneiras de rastrear o progresso e motivar sua equipe. Elas podem ser combinadas com listas inteligentes para rastrear uma variedade de métricas no Marketo. Além disso, após a configuração de uma meta de lista inteligente, ela será atualizada automaticamente a cada 2 horas quando for usada em uma apresentação.
 
 Como as apresentações, as metas são específicas do [espaço de trabalho](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
@@ -37,14 +37,14 @@ Como as apresentações, as metas são específicas do [espaço de trabalho](/he
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [Definir a lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). As possibilidades são infinitas!
+1. [Definir a lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
    ![](assets/mql.png)
 
-1. Depois que a lista inteligente estiver totalmente configurada, clique no botão **[!UICONTROL Fechar]** e volte para a guia anterior.
+1. Após configurar a lista inteligente, clique no botão **[!UICONTROL Fechar]** e volte para a guia anterior.
 
    ![](assets/mql2.png)
 
-   Olhe para isso! Sua meta da lista inteligente foi criada.
+   A meta da lista inteligente foi criada.
 
    ![](assets/image2015-3-24-13-3a0-3a35.png)

@@ -4,16 +4,16 @@ description: Saiba como conceder aos usuários acesso ao aplicativo Check-in de 
 title: Conceder aos usuários acesso ao aplicativo de check-in
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '308'
 ht-degree: 5%
 
 ---
 
 # Conceder aos usuários acesso ao aplicativo de check-in {#grant-users-access-to-the-check-in-app}
 
-O Marketo Engage tem uma função de usuário especial para o aplicativo de check-in de eventos. Veja como criar uma nova função com permissão para usar o aplicativo.
+O Marketo Engage tem uma função de usuário especial para o aplicativo de check-in de eventos. Siga as etapas abaixo para criar uma nova função com permissão para usar o aplicativo.
 
 >[!IMPORTANT]
 >
@@ -55,7 +55,7 @@ O Marketo Engage tem uma função de usuário especial para o aplicativo de chec
 
    >[!CAUTION]
    >
-   >Os usuários que não têm acesso ao banco de dados não podem ver nenhuma pessoa no aplicativo.
+   >Os usuários que não têm acesso ao banco de dados não podem ver pessoas no aplicativo.
 
    >[!TIP]
    >

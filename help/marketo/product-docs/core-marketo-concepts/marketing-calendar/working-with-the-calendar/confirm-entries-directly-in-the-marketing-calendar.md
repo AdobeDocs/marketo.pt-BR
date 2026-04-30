@@ -4,16 +4,16 @@ description: Saiba como confirmar as possíveis entradas de Campanha inteligente
 title: Confirmar entradas diretamente no calendário de marketing
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 16%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 
 # Confirmar entradas diretamente no calendário de marketing {#confirm-entries-directly-in-the-marketing-calendar}
 
-Campanhas inteligentes e programas de e-mail podem ser criados como entradas experimentais e devem ser confirmados para que algo realmente aconteça. Veja como.
+Campanhas inteligentes e programas de e-mail podem ser criados como entradas experimentais e devem ser confirmados para que algo realmente aconteça.
 
 1. Vá para o **[!UICONTROL Calendário]**.
 
@@ -23,7 +23,7 @@ Campanhas inteligentes e programas de e-mail podem ser criados como entradas exp
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
-1. Continue e confirme a entrada.
+1. Confirme a entrada.
 
    ![](assets/image2014-10-20-13-3a22-3a26.png)
 

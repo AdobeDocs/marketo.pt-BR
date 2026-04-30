@@ -4,16 +4,16 @@ description: Saiba mais sobre o Marketo Moments para ver o que é importante qua
 title: Noções básicas sobre momentos do Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 4%
+source-wordcount: '623'
+ht-degree: 2%
 
 ---
 
 # Noções básicas sobre momentos do Marketo {#understanding-marketo-moments}
 
-A força do Marketo agora está literalmente nas suas mãos! Pré-visualizar e reagendar emails diretamente do seu telefone ou iPad.
+O poder do Marketo agora está em suas mãos. Pré-visualizar e reagendar emails diretamente do seu telefone ou iPad.
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Aqui estão os diferentes fluxos em Moments.
 >* [!UICONTROL Mais tarde]: qualquer item que ocorra depois deste momento entra aqui.
 >* [!UICONTROL Concluído]: tudo que tiver terminado ou você tiver marcado como concluído vai aqui.
 
-OK, agora que já temos isso fora do caminho, vamos dar uma olhada no Marketo Moments em um telefone!
+Veja os Momentos do Marketo em um telefone.
 
 ## Três tipos de cartões {#three-kinds-of-cards}
 
@@ -48,11 +48,11 @@ O Marketo Moments oferece três cartões diferentes para acompanhar o progresso 
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Heartbeat]** - Ei - este email está sendo entregue agora! E aqui estão estatísticas também. Vá em frente e compartilhe.
+**[!UICONTROL Heartbeat]** - Este email está sendo entregue agora, incluindo estatísticas. Compartilhe-o com sua equipe.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Resultados]** - Veja como foi o email. Depois que o email terminar de ser executado, o cartão Resultados exibe a pontuação de engajamento e outras estatísticas.
+**[!UICONTROL Resultados]** - Mostra como o email foi executado. Depois que o email terminar de ser executado, o cartão Resultados exibe a pontuação de engajamento e outras estatísticas.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -74,7 +74,7 @@ Tocar nos três pontos abre um menu de ação de cartão.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Ótimo! Agora, é possível fazer algo acontecer tocando em:
+Toque em qualquer um dos itens a seguir para executar uma ação:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -85,8 +85,8 @@ Tocar nos três pontos abre um menu de ação de cartão.
 >* [!UICONTROL Favorito]: é fácil prestar atenção aos itens mais oportunos e importantes se você torná-los favoritos.
 >* [!UICONTROL Concluído]: concluído o tira da exibição do Marketo Moments (mas o deixa no Marketo, em segurança e em som).
 >* [!UICONTROL Compartilhar]: envie uma imagem para motivar ou parabenizar sua equipe.
->* [!UICONTROL Enviar Amostra] (somente email): use esta opção para permitir que outras pessoas verifiquem a aparência dos seus emails antes que você os envie.
->* [!UICONTROL Visualizar email] (somente emails): sempre é uma boa ideia verificar seus emails antecipadamente.
+>* [!UICONTROL Enviar Amostra] (somente email): use esta opção para permitir que outras pessoas revisem a aparência dos seus emails antes que você os envie.
+>* [!UICONTROL Visualizar Email] (somente emails): é sempre uma boa ideia analisar seus emails antecipadamente.
 
 ## Momentos posteriores {#later-moments}
 
@@ -106,13 +106,13 @@ A seção Posteriormente mostra as atividades futuras.
 
 ## Cartões do programa de email {#email-program-cards}
 
-Os cartões do programa de email mostram coisas importantes como cronograma, público-alvo, status e outras coisas úteis, mesmo quando você está em horário de almoço.
+Os cartões do programa de email mostram detalhes importantes como programação, público-alvo, status e outras informações úteis, mesmo quando você estiver em horário de almoço.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
 ## Cartões de evento {#event-cards}
 
-Para eventos, você verá o número total de membros e seus status.
+Para eventos, o cartão mostra o número total de membros e seus status.
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
@@ -134,7 +134,7 @@ Os cartões de campanha inteligentes representam uma única execução de uma ca
 
 ## Confirmar ou cancelar uma ação {#confirm-or-cancel-an-action}
 
-Em cada etapa do caminho, você pode confirmar ou cancelar uma ação. Se mudar de ideia, apenas toque em **[!UICONTROL Ignorar]**.
+Em cada etapa do caminho, você pode confirmar ou cancelar uma ação. Se mudar de ideia, toque em **[!UICONTROL Ignorar]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -143,9 +143,7 @@ Em cada etapa do caminho, você pode confirmar ou cancelar uma ação. Se mudar 
 O Marketo Moments é compatível com estas versões de sistema operacional:
 
 * [!DNL Apple] iOS 8.0 e superior.
-* [!DNL Android] versão 4.1 e superior (basicamente Jellybean e superior).
-
-Pronto para saber mais?
+* [!DNL Android] versão 4.1 e superior.
 
 >[!MORELIKETHIS]
 >

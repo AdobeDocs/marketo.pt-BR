@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: Saiba mais sobre os tipos de notificação no Marketo, incluindo falha de campanha, sincronização de CRM e envolvimento. Entenda o que cada alerta significa.
 title: Tipos de notificação
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '256'
 ht-degree: 6%
 
 ---
@@ -36,7 +36,7 @@ Se você usa o [!DNL Salesforce], as notificações de erro de sincronização s
 
 ## Engajamento {#engagement}
 
-Quando as pessoas ficam exaustas em um riacho, enviamos uma notificação. A notificação inclui o número de pessoas que se exauriram e algumas outras informações.
+Quando as pessoas ficam exaustas em um fluxo, uma notificação é enviada. A notificação inclui o número de pessoas que se exauriram e algumas outras informações.
 
 ![](assets/image2014-10-14-10-3a57-3a9.png)
 
@@ -60,4 +60,4 @@ Você será notificado quando atingir sua cota diária. A cota é redefinida a c
 
 >[!NOTE]
 >
->Alguns dos códigos de erro que você pode receber estão descritos em nossa [Documentação do desenvolvedor](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/error-codes).
+>Alguns dos códigos de erro que você pode receber estão descritos na [Documentação do desenvolvedor](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

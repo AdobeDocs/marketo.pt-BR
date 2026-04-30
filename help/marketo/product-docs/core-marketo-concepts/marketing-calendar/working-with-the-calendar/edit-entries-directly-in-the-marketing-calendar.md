@@ -4,16 +4,16 @@ description: Saiba como editar entradas diretamente no Calendário de marketing.
 title: Editar entradas diretamente no calendário de marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 9%
+source-wordcount: '184'
+ht-degree: 7%
 
 ---
 
 # Editar entradas diretamente no calendário de marketing {#edit-entries-directly-in-the-marketing-calendar}
 
-Quando estiver no modo de foco do programa, você poderá fazer rapidamente alterações nas entradas do calendário. Veja como.
+Quando estiver no modo de foco do programa, você poderá fazer rapidamente alterações nas entradas do calendário.
 
 ## Ativar foco do programa {#enable-program-focus}
 
@@ -27,7 +27,7 @@ Quando estiver no modo de foco do programa, você poderá fazer rapidamente alte
 
 ## Reprogramar Entrada {#reschedule-entry}
 
-1. Basta arrastar e soltar uma entrada para reagendá-la.
+1. Arraste e solte uma entrada para reagendá-la.
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -63,7 +63,7 @@ Você pode obter acesso rápido a diferentes áreas de suas entradas para ediç�
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-Pronto! Como você pode ver, há muitas coisas que você pode fazer diretamente do Calendário de marketing.
+Há muitas coisas que você pode fazer diretamente do Calendário de marketing.
 
 >[!MORELIKETHIS]
 >

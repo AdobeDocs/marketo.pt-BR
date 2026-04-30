@@ -4,9 +4,9 @@ description: Saiba como se preparar para o seu evento com o Check-in de eventos.
 title: Prepare-se para o seu evento
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '438'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ O Marketo tem uma função de usuário especial para o aplicativo de check-in de
 
 ## Especificar as datas do evento {#specify-the-event-dates}
 
-É muito fácil definir as datas dos seus eventos.
+Definir datas de evento é simples.
 
 1. Clique no evento no cronograma e defina a data e a hora de início e término.
 

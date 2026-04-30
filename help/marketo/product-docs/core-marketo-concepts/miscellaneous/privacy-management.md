@@ -2,9 +2,9 @@
 description: Saiba mais sobre as ferramentas de Gerenciamento de privacidade no Marketo Engage para GDPR, CCPA e muito mais. Manipule solicitações de acesso e exclusão para cumprir com os regulamentos.
 title: Gerenciamento de privacidade
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '439'
 ht-degree: 1%
 
 ---
@@ -42,4 +42,4 @@ Para facilitar a conformidade com a privacidade, o Marketo Engage permite manipu
 * O **Direito de acesso** é o direito do Titular de dados de obter a confirmação do Controlador de dados, caso os dados relativos a ele estiverem sendo processados, onde e com qual finalidade. O controlador de dados deve fornecer uma cópia gratuita dos dados pessoais em formato eletrônico.
 * Também conhecido como Eliminação de dados, o **Direito ao esquecimento** (solicitação de exclusão) permite que o Titular de dados tenha seus dados pessoais apagados pelo Controlador de dados, interrompendo a divulgação e, possivelmente, o processamento desses dados por parte de terceiros.
 
-Para saber como criar solicitações de acesso/exclusão e como as processamos, consulte [este artigo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Para saber como criar solicitações de acesso ou exclusão e como elas são processadas, consulte [este artigo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

@@ -4,10 +4,10 @@ description: Saiba como filtrar o Calendário de marketing por espaço de trabal
 title: Filtrar o calendário de marketing por espaço de trabalho
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 16%
+source-wordcount: '79'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ O Calendário de marketing pode ser filtrado por objetos em espaços de trabalho
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
-   Ótimo! Agora você só verá objetos criados nesse espaço de trabalho específico.
+   Somente os objetos criados nesse espaço de trabalho agora estarão visíveis.
 
    >[!NOTE]
    >

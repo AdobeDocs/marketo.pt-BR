@@ -3,10 +3,10 @@ unique-page-id: 11386358
 description: Saiba mais sobre a sandbox da Marketo Engage para testes antes da produção. Use uma instância de sandbox para testar sem afetar a produção.
 title: Sandbox do Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ Uma sandbox da Marketo Engage é uma instância adicional usada para fins de tes
 >
 >Nem todos compraram este recurso. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
-Uma sandbox da Marketo não pode ser sincronizada com o seu CRM normal se já estiver sincronizada com a sua instância de produção. Use a sandbox do CRM para a sincronização e siga as mesmas etapas da sincronização original.
+Uma sandbox da Marketo não pode ser sincronizada com o CRM normal se já estiver sincronizada com a instância de produção. Use a sandbox do CRM para a sincronização e siga as mesmas etapas da sincronização original.
 
 ## O que você deve saber sobre sandboxes {#things-to-know-about-sandboxes}
 
@@ -29,12 +29,12 @@ Uma sandbox da Marketo não pode ser sincronizada com o seu CRM normal se já es
 
 >[!CAUTION]
 >
->No momento, não há suporte para a atualização da sandbox da sincronização do Salesforce do Marketo Dynamics _ou_. Se você precisar atualizar sua sandbox do CRM, será necessária uma nova sandbox da Marketo. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
+>A atualização da sandbox para a sincronização do Salesforce do Marketo Dynamics _or_ não é suportada no momento. Se você precisar atualizar sua sandbox do CRM, será necessária uma nova sandbox da Marketo. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
 ## Cópia da instância {#instance-copy}
 
-É possível enviar um caso de suporte solicitando uma cópia de instância única para preencher sua sandbox. No entanto, a cópia da instância não trará _tudo_. Consulte o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter detalhes.
+É possível enviar um caso de suporte solicitando uma cópia de instância única para preencher sua sandbox. No entanto, a cópia da instância não trará _tudo_. Entre em contato com o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para obter detalhes.
 
 >[!NOTE]
 >
->Se você estiver alterando seu CRM nativo, será necessária uma nova instância do Marketo e não será possível fazer uma cópia da instância para a nova instância do Marketo. Em vez disso, trabalhe com o Suporte da Marketo para explorar a funcionalidade do Programa de importação.
+>Se você estiver alterando o CRM nativo, será necessária uma nova instância do Marketo e não será possível fazer uma cópia da instância para a nova instância do Marketo. Em vez disso, trabalhe com o Suporte da Marketo para explorar a funcionalidade do Programa de importação.

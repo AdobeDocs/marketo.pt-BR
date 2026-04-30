@@ -3,10 +3,10 @@ description: Saiba mais sobre Públicos preditivos e direcionamento orientado po
 title: Introdução aos públicos-alvo preditivos
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 
@@ -30,7 +30,7 @@ O desempenho dos modelos de IA/ML depende dos dados em sua assinatura. Quanto ma
 
 ## Disponibilidade
 
-Os públicos preditivos são incluídos e ativados automaticamente para instâncias que utilizam pacotes de preços do Prime ou do Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com a Equipe de conta da Adobe (seu gerente de conta).
+Os públicos preditivos são incluídos e ativados automaticamente para instâncias que utilizam pacotes de preços do Prime ou do Ultimate. Para saber mais sobre como obter acesso a esse recurso, entre em contato com a Equipe de conta da Adobe (seu Gerente de conta).
 
 1. Depois que o recurso for adicionado à sua instância, navegue até a página **[!UICONTROL Públicos-alvo preditivos]** na área **[!UICONTROL Administrador]** do Marketo.
 

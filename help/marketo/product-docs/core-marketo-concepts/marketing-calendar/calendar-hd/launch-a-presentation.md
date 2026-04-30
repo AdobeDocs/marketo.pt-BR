@@ -4,16 +4,16 @@ description: Saiba como iniciar uma apresentação de Calendário de marketing a
 title: Iniciar uma apresentação
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 4%
+source-wordcount: '116'
+ht-degree: 5%
 
 ---
 
 # Iniciar uma apresentação {#launch-a-presentation}
 
-Depois de definir as visualizações e a frequência de rotação para sua apresentação, é hora de explodir!
+Depois que as visualizações e a frequência de rotação forem definidas, a apresentação estará pronta para ser iniciada.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ Depois de definir as visualizações e a frequência de rotação para sua apres
 
 >[!TIP]
 >
->Certifique-se de _Visualizar uma Apresentação_ antes de iniciar.
+>Visualize a apresentação antes de iniciar.
 
 1. Clique em **[!UICONTROL Iniciar]**.
 

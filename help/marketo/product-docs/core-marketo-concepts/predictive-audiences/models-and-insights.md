@@ -3,10 +3,10 @@ description: Saiba mais sobre modelos de Públicos preditivos e fatores que infl
 title: Modelos e insights
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 3%
+source-wordcount: '234'
+ht-degree: 5%
 
 ---
 
@@ -18,13 +18,13 @@ O desempenho de seus modelos depende da qualidade e da integridade dos dados de 
 >
 >Comportamentos marcados com (+) influenciam positivamente as previsões (e vice-versa).
 
-Aqui está como avaliar a saúde do seu modelo.
+Use o seguinte para avaliar a integridade do seu modelo.
 
-Navegue até a seção **[!UICONTROL Modelos e Integridade dos Dados]** em **[!UICONTROL Predictive Audiences]** na área **[!UICONTROL Administrador]** do Marketo Engage. Aqui você verá todos os seus modelos e seus status.
+Navegue até a seção **[!UICONTROL Modelos e Integridade dos Dados]** em **[!UICONTROL Predictive Audiences]** na área **[!UICONTROL Administrador]** do Marketo Engage. Todos os modelos e seus status são mostrados aqui.
 
 ![Imagem 1](assets/models-and-insights-1.png)
 
-* **Status do Treinamento**: indica se seu modelo está treinando ativamente (melhorando as previsões). O treinamento ocorre automaticamente a cada duas semanas. Qualquer modelo que esteja _Processando_ pode levar até 24 horas para ser concluído. Para qualquer modelo de _Falha_, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Status do Treinamento**: indica se seu modelo está treinando ativamente (melhorando as previsões). O treinamento ocorre automaticamente a cada duas semanas. Qualquer modelo que esteja _Processando_ pode levar até 24 horas para ser concluído. Para qualquer modelo _com falha_, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Status da Pontuação**: indica se o modelo está calculando previsões ativamente (porcentagens de probabilidade) para membros do programa.
 * **Desempenho**: categorização da integridade do seu modelo com base na Integridade dos Dados e na Qualidade dos Dados (veja abaixo).
 * **Integridade dos Dados**: porcentagem de atributos de dados que estão presentes/completos.

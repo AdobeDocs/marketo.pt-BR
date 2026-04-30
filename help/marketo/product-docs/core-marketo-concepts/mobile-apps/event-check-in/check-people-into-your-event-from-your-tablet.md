@@ -4,9 +4,9 @@ description: Saiba como incluir pessoas em seu evento por meio de um tablet. Use
 title: Fazer o check-in de pessoas no evento pelo tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '880'
 ht-degree: 2%
 
 ---
@@ -81,11 +81,11 @@ O convidado agora tem um status Participou e recebe uma marca de seleção. O re
 
 >[!TIP]
 >
->Se uma pessoa foi convidada, mas ainda não se registrou, você pode pesquisar pelo nome clicando em **[!UICONTROL Pesquisar no Servidor]**, logo abaixo da caixa Pesquisar. O status Convidado muda para **[!UICONTROL Participou]** do evento.
+>Se uma pessoa foi convidada, mas não se registrou, você pode pesquisar pelo nome clicando em **[!UICONTROL Pesquisar no Servidor]**, abaixo da caixa Pesquisar. O status Convidado muda para **[!UICONTROL Participou]** do evento.
 
 ## Criar uma nova pessoa no tablet {#create-a-new-person-on-the-tablet}
 
-Você pode adicionar convidados manualmente que não são pessoas existentes no banco de dados do Marketo. Eles terão check-in automático e serão adicionados ao banco de dados quando você sincronizar com o Marketo.
+Você pode adicionar convidados manualmente que não são pessoas existentes no banco de dados do Marketo. Eles terão check-in e serão adicionados automaticamente ao banco de dados quando você sincronizar com o Marketo.
 
 1. Clique em **[!UICONTROL Adicionar]**.
 
@@ -103,7 +103,7 @@ Você pode adicionar convidados manualmente que não são pessoas existentes no 
 
    >[!NOTE]
    >
-   >Você só pode usar os campos existentes. Você não pode criar arquivos personalizados.
+   >Somente os campos existentes estão disponíveis. Não é possível criar campos personalizados.
 
    >[!CAUTION]
    >
@@ -119,11 +119,10 @@ Se você tiver feito o check-in de uma pessoa por engano, _antes de sincronizar 
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
-   Tudo consertado!
 
 ## Editar um registro de pessoa no check-in {#edit-a-person-record-at-check-in}
 
-Você pode adicionar e modificar informações do convidado, diretamente no evento!
+Você pode adicionar e modificar informações do convidado no evento.
 
 1. Toque no nome na lista de pessoas e toque em **[!UICONTROL Editar]**.
 
@@ -157,7 +156,7 @@ O aplicativo Eventos da Marketo funciona de forma independente até que você si
 
 ## Trabalhar com acesso limitado à Internet {#working-with-limited-internet-access}
 
-Alguns locais têm péssimo acesso à Internet. Você precisa de uma boa conexão para:
+Alguns locais têm acesso inadequado à Internet. Você precisa de uma boa conexão para:
 
 * Baixe e instale o aplicativo
 * Login
@@ -168,7 +167,7 @@ Se você estiver preocupado com o acesso à Internet no local, convém fazer log
 
 >[!TIP]
 >
->Se você não tiver uma conexão com a Internet, ainda poderá criar uma nova pessoa para fazer o check-in. Ele se reconciliará com a pessoa existente ao sincronizar o aplicativo.
+>Se não houver conexão com a Internet, ainda será possível criar uma nova pessoa para fazer o check-in. Ele reconciliará com a pessoa existente ao sincronizar o aplicativo.
 
 >[!NOTE]
 >

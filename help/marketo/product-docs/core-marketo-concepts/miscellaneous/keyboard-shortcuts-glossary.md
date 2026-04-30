@@ -1,18 +1,20 @@
 ---
 unique-page-id: 1147318
 description: Obtenha ajuda sobre atalhos de teclado do Marketo para navegação de área, calendário e muito mais. Use atalhos para mover-se mais rápido no Marketo Engage.
+hide: true
+hidefromtoc: true
 title: Glossário de atalhos de teclado
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 17%
 
 ---
 
 # Glossário de atalhos de teclado {#keyboard-shortcuts-glossary}
 
-Você é uma pessoa que usa atalhos de teclado? Nós temos você coberto!
+Use esses atalhos de teclado para navegar pelo Marketo mais rapidamente.
 
 ## Navegação de área {#area-navigation}
 
@@ -41,4 +43,4 @@ Você é uma pessoa que usa atalhos de teclado? Nós temos você coberto!
 |---|---|
 | ESC | Fechar pop-up |
 | Devolver/Inserir | Enviar pop-up |
-| Ctrl + Alt/Opt + H | Ocultar/reexibir um campo no editor de formulários |
+| Ctrl + Alt/Opt + H | Ocultar ou reexibir um campo no editor de formulários |

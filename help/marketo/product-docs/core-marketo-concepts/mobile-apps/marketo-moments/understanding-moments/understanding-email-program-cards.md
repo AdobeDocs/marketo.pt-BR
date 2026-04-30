@@ -4,9 +4,9 @@ description: Saiba mais sobre os cartões do Programa de email no Marketo Moment
 title: Noções básicas sobre cartões do programa de email
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '386'
 ht-degree: 4%
 
 ---
@@ -51,7 +51,7 @@ Depois que o email é enviado, o cartão exibe outras informações valiosas, in
 
    >[!NOTE]
    >
-   >Agora seu cartão ficará laranja!
+   >O cartão ficará laranja.
 
 ## Cancelando o envio de um cartão de e-mail {#canceling-an-email-card-send}
 
@@ -83,7 +83,7 @@ Você pode reagendar cartões de email confirmados ou não confirmados.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   Desde que você tenha um serviço sem fio, é possível reagendar a partir de qualquer lugar!
+   Com uma conexão sem fio, o reagendamento é possível de qualquer local.
 
 ## Envio de uma amostra {#sending-a-sample}
 
@@ -109,7 +109,7 @@ Clique com o botão direito do mouse em um cartão de email para pré-visualizá
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   Dessa forma, você sabe que seu email é perfeito antes de puxar o gatilho!
+   Isso permite a verificação de que o email parece correto antes do envio.
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
