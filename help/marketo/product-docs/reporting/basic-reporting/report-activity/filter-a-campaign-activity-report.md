@@ -4,9 +4,9 @@ description: Saiba como filtrar um relatório de atividades de campanha no Marke
 title: Filtrar um relatório de atividades de campanha
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 8%
 
 ---

@@ -4,16 +4,16 @@ description: Saiba mais sobre Campanhas inteligentes para automação no Marketo
 title: Noções básicas sobre campanhas inteligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 92%
+source-wordcount: '264'
+ht-degree: 85%
 
 ---
 
 # Noções básicas sobre campanhas inteligentes {#understanding-smart-campaigns}
 
-Se pensarmos no Marketo Engage como um carro, a campanha inteligente seria o seu motor. Campanhas inteligentes são mais úteis do que você pode imaginar, além de serem fáceis de se utilizar.
+Se pensarmos no Marketo Engage como um carro, a campanha inteligente seria o seu motor. Campanhas inteligentes podem fazer mais do que você pode imaginar, e é fácil começar a usá-las.
 
 A Campanha inteligente tem 3 áreas principais: as guias [Lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} e [Programação](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 

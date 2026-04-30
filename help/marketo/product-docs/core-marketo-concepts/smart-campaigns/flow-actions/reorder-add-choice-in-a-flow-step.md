@@ -4,9 +4,9 @@ description: Saiba como reordenar as opções Adicionar opção em uma etapa de 
 title: Reordenar Adicionar Escolha em uma Etapa de Fluxo
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -35,4 +35,4 @@ Como apenas a primeira opção de correspondência se aplica a uma pessoa, a ord
 
 ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-É fácil reorganizar a ordem de suas escolhas de degraus de fluxo.
+É fácil reorganizar a ordem de suas escolhas de etapas de fluxo.

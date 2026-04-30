@@ -4,9 +4,9 @@ description: Saiba mais sobre programas aninhados em fluxos de engajamento e qua
 title: Adicionar um programa a um fluxo de programa de engajamento
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '477'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 ## Por que usar um programa aninhado em um fluxo de programa de engajamento? {#why-use-a-nested-program-in-an-engagement-program-stream}
 
-É fácil adicionar um email a um fluxo em um programa de engajamento e ele funciona bem. No entanto, se as necessidades da sua empresa forem mais complexas, pode fazer sentido colocar o email dentro de um programa. Por exemplo, talvez você queira:
+É fácil adicionar um email a um fluxo em um programa de engajamento, e ele funciona bem. No entanto, se as necessidades da sua empresa forem mais complexas, pode fazer sentido colocar o email dentro de um programa. Por exemplo, talvez você queira:
 
 * Enviar um email para um subgrupo de pessoas na transmissão
 * Enviar emails *diferentes* para subgrupos dentro do fluxo

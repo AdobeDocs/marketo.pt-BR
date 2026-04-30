@@ -4,9 +4,9 @@ description: Saiba como aprovar sua mensagem no aplicativo para iniciá-la. Paus
 title: Aprovar mensagem no aplicativo
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ Você precisa aprovar o envio antes que a mensagem no aplicativo seja enviada.
 
    >[!NOTE]
    >
-   >Quando você interrompe um programa, ele não é mais executado e não pode ser retomado. Se quiser executá-lo novamente, será necessário recriá-lo. Então, certifique-se de ter terminado um programa antes de clicar em **[!UICONTROL Parar programa]**!
+   >Quando você interrompe um programa, ele não é mais executado e não pode ser retomado. Se quiser executá-lo novamente, será necessário recriá-lo. Portanto, termine com um programa antes de clicar em **[!UICONTROL Parar programa]**!
 
 ## Painel no aplicativo {#in-app-dashboard}
 

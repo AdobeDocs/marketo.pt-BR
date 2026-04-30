@@ -3,9 +3,9 @@ description: Saiba como conectar sua conta de Ações do Sales Insight ao Salesf
 title: Conectar sua conta do recurso Ações de insight de vendas ao Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 9%
 
 ---
@@ -32,7 +32,7 @@ Siga estas etapas simples para conectar a conta do [!DNL Sales Insight Actions] 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. Se você já estiver conectado ao Salesforce, estará conectado. Caso não esteja, você será solicitado a fazer logon.
+1. Se você já estiver conectado ao Salesforce, estará conectado. Caso contrário, você será solicitado a fazer logon.
 
 ## Como se conectar como um não administrador {#how-to-connect-as-a-non-admin}
 
@@ -50,4 +50,4 @@ Siga estas etapas simples para conectar a conta do [!DNL Sales Insight Actions] 
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. Se você já estiver conectado ao Salesforce, estará conectado. Caso não esteja, você será solicitado a fazer logon.
+1. Se você já estiver conectado ao Salesforce, estará conectado. Caso contrário, você será solicitado a fazer logon.

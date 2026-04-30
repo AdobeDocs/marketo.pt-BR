@@ -4,10 +4,10 @@ description: Importar uma lista de pessoas - Documentos do Marketo - Documentaç
 title: Importar uma lista de pessoas
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '577'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '589'
+ht-degree: 95%
 
 ---
 
@@ -43,7 +43,7 @@ Neste tutorial, saiba como importar pessoas de um arquivo de planilha para o Mar
    >
    >* Verifique se os endereços de email contêm apenas caracteres ASCII.
    >
-   >* O Marketo **não** permite o uso de endereços de email com emojis.
+   >* O Marketo **não** permite o uso de endereços de email que contêm emojis.
    >
    >* A importação de valores `NULL` por meio de um CSV pode gerar uma “Alteração de valor dos dados” para campos numéricos no [log de atividades](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} de uma pessoa, _mesmo que os campos já estejam em branco_. Se você tiver [campanhas inteligentes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} que usam o filtro “Valor de dados alterado” ou o acionador “Alterações no valor dos dados”, isso poderá fazer com que as pessoas se qualifiquem para essas campanhas, mesmo que os dados não estejam realmente mudando. Você pode usar [restrições](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} para garantir que ninguém se qualifique para essas campanhas após a importação.
 
@@ -113,7 +113,7 @@ Neste tutorial, saiba como importar pessoas de um arquivo de planilha para o Mar
 
    >[!TIP]
    >
-   >Os cabeçalhos de coluna devem sempre corresponder exatamente ao campo (maiúsculas de minúsculas são diferenciadas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não encontrá-los na lista suspensa, volte e [crie-os](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} para disponibilizá-los como opções.
+   >Os cabeçalhos de coluna devem sempre corresponder exatamente ao campo (maiúsculas de minúsculas são diferenciadas) para obter os melhores resultados de mapeamento automático. Se você estiver usando campos personalizados e não os vir na lista suspensa, volte e [crie-os](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} para que eles se tornem opções.
 
    >[!NOTE]
    >

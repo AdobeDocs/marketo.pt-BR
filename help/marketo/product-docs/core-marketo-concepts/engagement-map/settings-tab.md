@@ -2,9 +2,9 @@
 description: Saiba mais sobre a guia Configurações para regras de qualificação, execuções e recorrência do Smart Campaign. Defina a frequência com que as pessoas são executadas pelo fluxo de campanha.
 title: Guia Configurações
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '324'
 ht-degree: 3%
 
 ---
@@ -56,11 +56,11 @@ A guia Configurações também inclui uma visão geral rápida da Campanha intel
 
 Conjuntos de permissões e erros na guia Configurações:
 
-Todos os conjuntos de permissões existentes serão aplicáveis na guia Configurações. Se o botão Editar estiver acinzentado, clique no ícone de ajuda para descobrir o motivo.
+Todos os conjuntos de permissões existentes serão aplicáveis na guia Configurações. Se o botão Editar estiver esmaecido, clique no ícone de ajuda para descobrir o motivo.
 
 >[!NOTE]
 >
->Se, depois de clicar no ícone de ajuda, você visualizar &quot;Permissão adicional necessária&quot;, entre em contato com o administrador do Marketo.
+>Se, depois de clicar no ícone de ajuda, você visualizar &quot;Permissão adicional necessária&quot;, entre em contato com a equipe de conta da Adobe (seu gerente de conta).
 
 ![](assets/settings-tab-5.png)
 

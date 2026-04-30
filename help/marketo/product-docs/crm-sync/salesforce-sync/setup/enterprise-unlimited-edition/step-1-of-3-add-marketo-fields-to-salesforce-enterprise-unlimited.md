@@ -4,9 +4,9 @@ description: Saiba como adicionar campos do Marketo ao Salesforce Enterprise ou 
 title: Etapa 1 de 3 - Adicionar campos do Marketo à Salesforce (Enterprise/Unlimited)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '766'
 ht-degree: 9%
 
 ---
@@ -125,7 +125,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Clique em **[!UICONTROL Salvar e Novo]** para voltar e criar cada um dos outros dois campos personalizados. Clique em **[!UICONTROL Salvar]** ao terminar com todos os três.
+1. Clique em **[!UICONTROL Salvar e Novo]** para voltar e criar cada um dos outros dois campos personalizados. Clique em **[!UICONTROL Salvar]** com você para concluir as três.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 

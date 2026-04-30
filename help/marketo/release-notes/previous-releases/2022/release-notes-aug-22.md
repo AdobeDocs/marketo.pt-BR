@@ -2,9 +2,9 @@
 description: Notas de versão - agosto de 2022 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Agosto de 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 7%
 
 ---
@@ -58,7 +58,7 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 
 ## Ambiente de dados de marketing {#marketing-data-environment}
 
-* **Corrigir truncamento da interface do usuário dos campos de Objeto personalizado &quot;[!UICONTROL Usado por]&quot;**: agora é mais fácil identificar campos de objeto personalizado que estão &quot;em uso&quot; para que você possa excluir campos de um Objeto personalizado quando necessário.
+* **Corrigir truncamento de Objeto Personalizado &quot;[!UICONTROL Usado por]&quot; campos** na interface do usuário: agora é mais fácil identificar campos de objeto personalizado que estão &quot;em uso&quot; para que você possa excluir campos de um Objeto Personalizado quando necessário.
 
 ## Aprimoramentos na API {#api-enhancements}
 
@@ -74,4 +74,4 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 
 **_Webinar de lançamento de produto_**
 
-[Webinar da versão de junho e agosto de 2022 do Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Webinário da versão de junho e agosto de 2022 do Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

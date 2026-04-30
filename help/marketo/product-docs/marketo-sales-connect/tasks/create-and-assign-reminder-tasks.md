@@ -3,9 +3,9 @@ description: Saiba como criar e atribuir tarefas de lembrete no Sales Connect. D
 title: Criar e atribuir tarefas de lembrete
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '155'
 ht-degree: 6%
 
 ---
@@ -34,7 +34,7 @@ As tarefas de lembrete são uma ótima maneira de manter o controle sobre o envo
 
    ![](assets/create-and-assign-reminder-tasks-5.png)
 
-1. Adicione a pessoa com quem você está acompanhando, com esta tarefa de lembrete.
+1. Adicione a pessoa com a qual você está fazendo acompanhamento, com esta tarefa de lembrete.
 
    ![](assets/create-and-assign-reminder-tasks-6.png)
 

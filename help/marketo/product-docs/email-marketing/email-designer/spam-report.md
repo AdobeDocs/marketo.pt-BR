@@ -6,9 +6,9 @@ description: Saiba como usar o SpamAssassin para testar a probabilidade de spam 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '236'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 Usando o SpamAssassin no Marketo Engage, você pode testar seu conteúdo de e-mail e ver a probabilidade de ISPs/provedores de caixa de correio marcá-lo como spam.
 
-O SpamAssassin analisa seu conteúdo e atribui uma pontuação com base em vários critérios. Quanto menor a pontuação, melhor. É importante manter uma pontuação baixa, pois o envio de emails com uma pontuação alta pode afetar negativamente a capacidade geral de entrega.
+O SpamAssassin analisa seu conteúdo e atribui uma pontuação com base em vários critérios. Quanto menor a pontuação, melhor. É importante manter uma pontuação baixa, pois o envio de emails com uma pontuação alta pode afetar negativamente a capacidade geral de delivery.
 
 ## Acessar o relatório de spam {#access-the-spam-report}
 

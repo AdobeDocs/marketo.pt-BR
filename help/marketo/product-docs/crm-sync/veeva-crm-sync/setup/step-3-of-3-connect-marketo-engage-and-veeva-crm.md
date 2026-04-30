@@ -3,9 +3,9 @@ description: Saiba como conectar o Marketo Engage ao Veeva CRM na etapa final de
 title: Etapa 3 de 3 - Conectar o Marketo Engage e [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---

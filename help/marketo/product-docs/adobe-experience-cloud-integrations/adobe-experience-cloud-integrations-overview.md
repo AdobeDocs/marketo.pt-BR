@@ -3,16 +3,16 @@ description: Saiba mais sobre as integrações do Adobe Experience Cloud com o M
 title: Visão geral de integrações da Adobe Experience Cloud
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 85%
+source-wordcount: '188'
+ht-degree: 73%
 
 ---
 
 # Visão geral de integrações da Adobe Experience Cloud{#adobe-experience-cloud-integrations-overview}
 
-A Adobe oferece uma solução robusta de marketing de demanda, começando pela sincronização de público-alvo nativa dos produtos da Adobe Experience Cloud. Aproveite dados exclusivos com foco em B2B no Adobe Audience Manager, desbloqueando casos de uso de marketing de demanda avançados e o potencial inexplorado de aplicativos existentes da Adobe.
+A Adobe oferece uma solução robusta de marketing de demanda, começando pela sincronização de público-alvo nativa dos produtos da Adobe Experience Cloud. Aproveite dados exclusivos centrados em B2B no Adobe Audience Manager, desbloqueando casos de uso avançados de marketing por demanda e potencial inexplorado para aplicativos Adobe existentes.
 
 >[!NOTE]
 >
@@ -30,6 +30,6 @@ Permite sincronizar listas estáticas de pessoas conhecidas do Marketo Engage co
 
 **Integração do Marketo com o Adobe Experience Manager**
 
-* [Importar ativos com o Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
+* [Importação de ativos com o Adobe Experience Manager](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 
-* [Integrar com o Adobe Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}
+* [Integrar ao Adobe Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}

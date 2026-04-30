@@ -3,9 +3,9 @@ description: Saiba como usar a pesquisa global no Marketo Engage para encontrar 
 title: Uso da pesquisa global
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '171'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ A poderosa pesquisa global oferece muitas opções sem limite nos resultados exi
 
    ![](assets/using-the-global-search-4.png)
 
-Você é levado diretamente ao email desejado.
+Você será direcionado diretamente ao email desejado.
 
 ![](assets/using-the-global-search-5.png)
 

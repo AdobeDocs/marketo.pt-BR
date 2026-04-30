@@ -4,10 +4,10 @@ description: Saiba como criar e usar o relatório de desempenho de email. Rastre
 title: Relatório de desempenho de emails
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 96%
+source-wordcount: '514'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ Para ver o desempenho de seus emails com estatísticas como entregue, aberto, cl
 
 1. [Crie um Relatório em um Programa](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione **[!UICONTROL Desempenho de email]** [Tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Altere o intervalo de tempo do relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **[!UICONTROL Relatório]**.
-1. É isso aí! Agora explore o relatório para ver como seus emails se comportaram.
+1. Você está aí! Agora explore o relatório para ver como seus emails se comportaram.
 
    >[!NOTE]
    >

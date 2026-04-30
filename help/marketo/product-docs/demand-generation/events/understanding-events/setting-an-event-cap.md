@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '213'
 ht-degree: 3%
 
 ---
@@ -47,6 +47,6 @@ Limite a quantidade de pessoas que podem se registrar no seu evento com um limit
 
    ![](assets/setting-an-event-cap-5.png)
 
-   Está tudo pronto. Se decidir editar os detalhes do limite de eventos, clique no texto azul ao lado de [!UICONTROL Limite de eventos].
+   Tudo pronto. Se decidir editar os detalhes do limite de eventos, clique no texto azul ao lado de [!UICONTROL Limite de eventos].
 
    ![](assets/setting-an-event-cap-6.png)

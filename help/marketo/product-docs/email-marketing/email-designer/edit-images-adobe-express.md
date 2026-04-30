@@ -6,10 +6,10 @@ description: Saiba como editar imagens no Designer de email usando o Adobe Expre
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '846'
-ht-degree: 1%
+source-wordcount: '857'
+ht-degree: 2%
 
 ---
 
@@ -141,7 +141,7 @@ Os recursos podem ser acessados no lado esquerdo da página de imagem.
 
 >[!TIP]
 >
->Se você não estiver satisfeito com o resultado, basta clicar em **X** para fechar a janela.
+>Se você não estiver satisfeito com o resultado, simplesmente clique em **X** para fechar a janela.
 
 #### Cortar imagem {#crop-image}
 

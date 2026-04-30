@@ -4,10 +4,10 @@ description: Saiba mais sobre tokens para personalizar páginas de aterrissagem 
 title: Visão geral dos tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 94%
+source-wordcount: '313'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ Um token é uma variável que pode ser usada em etapas de fluxo de campanha inte
 
 ## Noções básicas dos valores padrão {#understanding-default-values}
 
-Ao usar um token, também é uma boa ideia fornecer um valor padrão. Trata-se do texto que aparece quando uma pessoa não tem um valor para o campo que você está referenciando.
+Ao usar um token, também é uma boa ideia fornecer um valor padrão. Este é o texto que mostra se uma pessoa não tem um valor para o campo que você está referenciando.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 

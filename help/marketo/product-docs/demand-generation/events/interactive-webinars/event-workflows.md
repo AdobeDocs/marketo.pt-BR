@@ -3,9 +3,9 @@ description: Saiba mais sobre os fluxos de trabalho de eventos para webinários 
 title: Fluxos de trabalho de evento
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '476'
 ht-degree: 4%
 
 ---
@@ -47,7 +47,7 @@ Acesse a guia Visão geral para exibir o webinário gravado, obtenha o link para
 >* Os webinars interativos não são registrados automaticamente. Depois que o webinário começar, clique na lista suspensa ao lado do nome do webinário e selecione **Gravar sessão**.
 >* Se a sessão for gravada, o host precisará encerrar manualmente a gravação ou selecionar &quot;End session for all&quot; para interromper a gravação. Caso contrário, a gravação será interrompida automaticamente dentro de 10 minutos após o último participante sair da sala.
 >* A gravação é baixada no formato MP4.
->* Ao compartilhar a gravação, ela poderá ser visualizada por qualquer pessoa que tenha o link. Portanto, verifique se ela está compartilhada com o público-alvo desejado.
+>* Ao compartilhar a gravação, ela poderá ser visualizada por qualquer pessoa que tenha o link. Portanto, verifique se ele está compartilhado com o público-alvo desejado.
 
 ## Acionadores e filtros {#triggers-and-filters}
 

@@ -3,9 +3,9 @@ description: Saiba mais sobre o manuseio de cancelamento de inscrição em Açõ
 title: Visão geral do cancelamento de inscrição
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '357'
 ht-degree: 3%
 
 ---
@@ -38,7 +38,7 @@ Use a barra de pesquisa para procurar pessoas não inscritas.
 
 ![](assets/unsubscribe-overview-3.png)
 
-Se você for um Administrador, vá para o grupo de cancelamento de inscrição e filtre por [!UICONTROL Cancelamentos de inscrição de conta] e veja todas as cancelamentos de inscrição que foram coletadas no banco de dados de pessoas.
+Se você for um Administrador, poderá ir para o grupo de cancelamento de inscrição e filtrar por [!UICONTROL Cancelamentos de inscrição de conta] e ver todas as cancelamentos de inscrição que foram coletadas no banco de dados de pessoas.
 
 ![](assets/unsubscribe-overview-4.png)
 

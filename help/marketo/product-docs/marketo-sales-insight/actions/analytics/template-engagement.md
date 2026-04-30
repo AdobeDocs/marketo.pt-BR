@@ -3,9 +3,9 @@ description: Saiba como visualizar o envolvimento do modelo na guia Conteúdo do
 title: Engajamento de modelo
 exl-id: b59677a9-8192-4c80-9105-42192a128ef7
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 2%
 
 ---
@@ -28,4 +28,4 @@ Siga as etapas abaixo para exibir o envolvimento do modelo.
 
    **Envolvimento Mais Baixo** - Um modelo que precisa ser reformulado para sua taxa de engajamento (esse modelo pode ser compartilhado ou não na equipe)
 
-   A partir daí, role para baixo e veja todos os modelos criados em sua equipe com base em suas taxas de exibição dentro desse intervalo de datas selecionado. Em um nível de modelo individual, você pode ver: quem o criou, seja compartilhado ou não, número de emails usados com ele e dados de rastreamento (exibições, cliques, respostas).
+   A partir daí, role para baixo e veja todos os modelos criados em sua equipe com base em suas taxas de exibição dentro desse intervalo de datas selecionado. Em um nível de modelo individual, você pode ver: quem o criou, se está compartilhado ou não, número de emails usados com ele e dados de rastreamento (exibições, cliques, respostas).

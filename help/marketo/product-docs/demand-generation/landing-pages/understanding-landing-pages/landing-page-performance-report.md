@@ -4,9 +4,9 @@ description: Saiba mais sobre o relatório de desempenho da landing page no Mark
 title: Relatório de desempenho da página de destino
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '218'
 ht-degree: 4%
 
 ---
@@ -17,9 +17,9 @@ Veja quantas pessoas preencheram os formulários em suas páginas de aterrissage
 
 >[!NOTE]
 >
->Se você observar uma discrepância nos números entre o Relatório de desempenho da lista inteligente e da página de aterrissagem, é provável que isso ocorra porque as listas inteligentes filtram apenas dados das pessoas, enquanto os Relatórios de desempenho da página de aterrissagem incluem atividades sociais (Facebook, Google Ads etc.) e anônimas, além dos dados das pessoas.
+>Se você observar uma discrepância nos números entre o Relatório de desempenho da lista inteligente e da página de aterrissagem, é provável que as listas inteligentes filtrem apenas os dados das pessoas, enquanto os Relatórios de desempenho da página de aterrissagem incluem dados sociais (Facebook, Google Ads etc.) e anônimas, além dos dados de Pessoas.
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Desempenho da página de aterrissagem[&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório[Desempenho da página de aterrissagem]](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia [!UICONTROL Relatório].
 1. Pronto! Explore o relatório para avaliar o desempenho de suas landing pages.
 

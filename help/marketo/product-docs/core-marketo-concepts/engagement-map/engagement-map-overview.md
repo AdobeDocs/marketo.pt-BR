@@ -2,9 +2,9 @@
 description: Saiba mais sobre o Mapa de engajamento para visualizar suas Campanhas inteligentes. Use-a para visualizar acionadores, filtros e etapas de fluxo intuitivamente no Marketo.
 title: Visão geral do mapa de engajamento
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Não. O Mapa de engajamento tem compatibilidade total com versões anteriores. C
 
 **Ter o Mapa de Envolvimento no Marketo Engage significa que perderei o acesso à estrutura de pastas e precisarei reaprender a criar uma Campanha Inteligente?**
 
-Não. O melhor do mapa de engajamento é que ele oferece o melhor dos dois mundos; complementa a maneira atual de criar campanhas. Todos os usuários ainda obterão o poderoso conjunto de recursos do Marketo Engage, agora complementado por visuais claros.
+Não. O Mapa de engajamento oferece o melhor dos dois mundos; complementa a maneira atual de criar campanhas. Todos os usuários ainda obterão o poderoso conjunto de recursos do Marketo Engage, agora complementado por visuais claros.
 
 **O Mapa de Envolvimentos é um complemento pago?**
 
@@ -85,7 +85,7 @@ Não. Todos os usuários existentes e novos do Marketo Engage em todas as assina
 
 **Como administrador do Marketo Engage, sou responsável por ativar/desativar o Mapa de Envolvimento?**
 
-Não. O Mapa de engajamento estará disponível para todos os usuários em suas instâncias. Você não poderá ativá-lo/desativá-lo para determinados usuários, espaços de trabalho, etc.
+Não. O Mapa de engajamento estará disponível para todos os usuários em suas instâncias. Você não poderá ativá-lo ou desativá-lo para determinados usuários, espaços de trabalho, etc.
 
 **Qual é a diferença em relação aos outros construtores visuais?**
 
@@ -93,7 +93,7 @@ Há três itens principais que destacam o Mapa de engajamento:
 
 * Flexibilidade: gerencie e valide facilmente campanhas interconectadas ou profundamente aninhadas com visualização.
 
-* Funcionalidade: todos os visuais estão prontos para uso, facilitando sua utilização; a estrutura aninhada permite que você mergulhe e obtenha a imagem completa.
+* Funcionalidade: todos os visuais estão prontos para uso, facilitando seu uso; a estrutura aninhada permite explorar a fundo e ver a imagem completa.
 
 * Potência: você mantém toda a sofisticação existente do Marketo Engage, agora em um formato visual.
 

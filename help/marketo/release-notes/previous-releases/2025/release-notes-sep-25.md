@@ -3,10 +3,10 @@ description: Notas de versão - setembro de 2025 - Documentação do Marketo - D
 title: Notas de versão — Setembro de 2025
 feature: Release Information
 exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
-source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 97%
+source-wordcount: '933'
+ht-degree: 88%
 
 ---
 
@@ -34,7 +34,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   <tr>
    <td><strong>Retenção de atividade do webinário sob demanda</strong>: os usuários de webinários interativos agora têm dados do Painel de webinários sob demanda disponíveis por mais de 30 dias (anteriormente, era apenas até 30 dias a partir do dia do webinário).</td>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronização manual</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronização manual</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -97,3 +97,5 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 * **Descontinuação do parâmetro “access_token” da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+
+* **Migração de Fluxo de Dados de Atividades de Cliente Potencial Herdadas**: essa migração afeta apenas alguns usuários que foram integrados ao Fluxo de Dados de Atividades de Cliente Potencial antes de sua integração com o Adobe I/O Events. Se você for um usuário de fluxos de dados mais recente ou já gerenciar o Fluxo de dados da atividade principal por meio de Eventos de E/S, isso não terá impacto em você. Consulte [este artigo](https://developer.adobe.com/events/docs/guides/using/marketo/marketo-lead-activity-data-stream-migration){target="_blank"} para obter detalhes.

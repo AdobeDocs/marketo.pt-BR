@@ -3,10 +3,10 @@ description: Saiba como conectar o Dynamic Chat à sua assinatura do Marketo Eng
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 2%
+source-wordcount: '312'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Após concluir a [configuração inicial](/help/marketo/product-docs/demand-gene
 
 >[!NOTE]
 >
->O Dynamic Chat oferece suporte à sincronização de [campos nativos](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} do Marketo e campos de pessoa personalizados e campos de empresa.
+>O Dynamic Chat oferece suporte à sincronização de [campos nativos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} do Marketo e campos de pessoa personalizados e campos de empresa.
 
 1. Em Minha Marketo, clique no bloco **[!UICONTROL Dynamic Chat]**.
 
@@ -28,7 +28,7 @@ Após concluir a [configuração inicial](/help/marketo/product-docs/demand-gene
    >
    >Se você não vir o bloco, entre em contato com o administrador do Marketo.
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Para conectar sua instância do Marketo, selecione **[!UICONTROL Integrações]**.
 
@@ -72,7 +72,7 @@ Após a sincronização inicial, veja como remover um atributo.
 
 >[!NOTE]
 >
->Você só verá a opção para remover um atributo se ele não estiver sendo usado atualmente por nenhuma caixa de diálogo.
+>Você só verá a opção para remover um atributo se ele não estiver sendo usado por nenhuma caixa de diálogo.
 
 1. Em **[!UICONTROL Integrações]**, verifique se a guia **[!UICONTROL Adobe Marketo Engage]** está selecionada e clique no atributo que deseja remover.
 

@@ -2,9 +2,9 @@
 description: Saiba como enviar emails de vendas em massa do Salesforce. Selecione leads ou contatos em uma exibição de lista e use o botão Enviar email de vendas no Lightning ou Classic.
 title: Uso do envio em massa de emails de vendas no Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '618'
 ht-degree: 2%
 
 ---

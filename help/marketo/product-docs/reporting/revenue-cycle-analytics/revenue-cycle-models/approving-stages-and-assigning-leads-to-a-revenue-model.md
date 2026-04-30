@@ -4,9 +4,9 @@ description: Saiba mais sobre aprovação de estágios e atribuição de leads a
 title: Aprovar estágios e atribuir leads a um modelo de receita
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '354'
 ht-degree: 5%
 
 ---
@@ -63,7 +63,7 @@ Excelente! Vamos seguir em frente e atribuir esses leads.
 
 >[!NOTE]
 >
->Se o modelo estiver no estado Estágios aprovados, você não verá eventos de Alterar estágio de receita nos logs de atividade dos clientes potenciais. Se seu modelo for totalmente aprovado, esta etapa do fluxo será ignorada se você mover um cliente em potencial para o mesmo estágio em que ele está no momento.
+>Se o modelo estiver no estado Estágios aprovados, você não verá eventos de Alterar estágio de receita nos logs de atividade dos clientes potenciais. Se o modelo for totalmente aprovado, esta etapa do fluxo será ignorada se você mover um cliente em potencial para o mesmo estágio em que ele está no momento.
 
 ## Novos Clientes Potenciais: Criar Regras De Atribuição  {#new-leads-create-assignment-rules}
 

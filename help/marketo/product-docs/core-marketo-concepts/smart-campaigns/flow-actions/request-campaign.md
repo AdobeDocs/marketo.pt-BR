@@ -4,9 +4,9 @@ description: Saiba como usar a etapa Solicitar fluxo do Campaign. Acione outra c
 title: Solicitar campanha
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '132'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Você pode colocar pessoas em uma campanha específica usando a etapa de fluxo �
 
 >[!NOTE]
 >
->A campanha em que você está inserindo a pessoa deve estar ativa e ter o acionador [Campanha solicitada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}.
+>A campanha em que você está colocando a pessoa deve estar ativa e ter o acionador [Campanha solicitada](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}.
 
 1. No **[!UICONTROL Banco de Dados]**, localize e selecione a pessoa/pessoas desejadas.
 

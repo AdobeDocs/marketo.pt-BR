@@ -4,16 +4,16 @@ description: Saiba como criar uma notificação por push. Adicione-o como um ati
 title: Criar uma notificação por push
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 12%
 
 ---
 
 # Criar uma notificação por push {#create-a-push-notification}
 
-É fácil criar uma notificação por push. No entanto, antes de começar, você deve ter o administrador do Marketo e o desenvolvedor de aplicativos móveis configurados para fazer o que for necessário. Consulte [Noções básicas sobre notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) para obter detalhes.
+É fácil criar uma notificação por push. No entanto, antes de começar, você deve ter o Administrador do Marketo e o Desenvolvedor de aplicativos móveis configurados para fazer o que for necessário. Consulte [Noções básicas sobre notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) para obter detalhes.
 
 1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 

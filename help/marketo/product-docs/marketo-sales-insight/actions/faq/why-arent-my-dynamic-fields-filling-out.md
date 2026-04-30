@@ -3,9 +3,9 @@ description: Solucionar problemas quando os campos dinâmicos não preencherem o
 title: Por que meus campos dinâmicos não estão sendo preenchidos?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '312'
 ht-degree: 4%
 
 ---
@@ -30,7 +30,7 @@ Campos Básicos das Ações do Marketo Sales Insight: por exemplo, `{{company}}`
 
 Campos Personalizados de Ações do Marketo Sales Insight: ex.: `{{custom_field_favorite_movie}}`
 
-* O campo correspondente precisa ser salvo para o seu contato na [página Pessoas](https://toutapp.com/next#relationships){target="_blank"} para que o nosso campo dinâmico faça referência. Por exemplo, se você estiver enviando um email para Mary e estiver usando o campo `{{company}}`, mas o registro de contato dela não listar uma empresa, não poderemos preenchê-lo.
+* O campo correspondente precisa ser salvo para o seu contato na [página Pessoas](https://toutapp.com/next#relationships){target="_blank"} para que o nosso campo dinâmico faça referência. Por exemplo, se você estiver enviando um email para Mary e usando o campo `{{company}}`, mas o registro de contato dela não listar uma empresa, não poderemos preenchê-lo.
 
 ## Por Que Meu Email Foi Enviado Sem Preencher Todos Os Campos Dinâmicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 

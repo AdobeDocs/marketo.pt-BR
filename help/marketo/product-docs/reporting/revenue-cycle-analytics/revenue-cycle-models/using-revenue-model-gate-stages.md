@@ -4,9 +4,9 @@ description: Saiba como usar estágios de porta do modelo de receita no Marketo 
 title: Uso de estágios de portão do modelo de receita
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '292'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Um estágio de porta serve como uma verificação de qualificação.
 
 >[!TIP]
 >
->É uma ótima ideia criar um modelo de prática em um programa de gráficos ou apresentação e confirmá-lo com seus colegas.
+>é uma ótima ideia criar um modelo de prática em um programa de gráficos ou apresentação e confirmá-lo com seus colegas.
 
 ## Adicionar Um Estágio De Portão {#add-a-gate-stage}
 

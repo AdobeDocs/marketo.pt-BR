@@ -3,16 +3,16 @@ description: Obtenha ajuda sobre as práticas recomendadas para webinários inte
 title: Práticas recomendadas para webinários interativos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1713'
+source-wordcount: '1775'
 ht-degree: 0%
 
 ---
 
 # Práticas recomendadas para webinários interativos {#best-practices-for-interactive-webinars}
 
-Ao executar eventos virtuais, destinados a um público pequeno ou grande, é importante que as coisas aconteçam conforme planejado. Com várias etapas necessárias para planejar e executar um evento, desde a preparação, promoção, delivery e acompanhamento, às vezes pode parecer muito.
+Ao executar eventos virtuais, destinados a um público pequeno ou grande, é essencial que as coisas aconteçam conforme planejado. Com várias etapas necessárias para planejar e executar um evento, desde a preparação, promoção, delivery e acompanhamento, às vezes pode parecer muito.
 
 Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajudar no planejamento, na criação e na produção de webinários bem-sucedidos e envolventes. Essas dicas ajudarão você a aproveitar ao máximo os Webinars interativos viabilizados pelo Adobe Connect.
 
@@ -85,7 +85,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * **Pod de perguntas e respostas**: o nome do participante que enviou a pergunta e o nome do host/apresentador que respondeu podem estar ocultos. Isso pode ser feito desmarcando as opções de Privacidade na seção &quot;Pod de perguntas e respostas&quot; nas Preferências da sala.
 
-* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
+* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
 
 * **Chat Privado**: desative o chat privado para impedir que os participantes possam enviar ping para outro participante. Isso pode ser feito ao desmarcar a opção &quot;Permitir que os participantes conversem de forma privada&quot; na seção &quot;Bate-papo&quot; nas Preferências da sala.
 
@@ -99,7 +99,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
    * Decida quem moderará os pods de Perguntas e Respostas e Bate-papo.
    * Preencha as Perguntas e Respostas e os Pods de chat com qualquer pergunta/chat inicial.
 
-* Abra os programas que você está compartilhando na tela na janela apropriada e esteja pronto para demonstrar. Evite iniciar e fazer logon em programas enquanto compartilha a tela.
+* Abra os programas que você está compartilhando a tela na janela apropriada e esteja pronto para demonstrar. Evite iniciar e fazer logon em programas enquanto compartilha a tela.
 
 * Os participantes podem entrar no quarto 15 minutos antes do início programado. Mude para o layout da sala de espera 15 minutos antes do início agendado para os participantes que chegarem cedo.
 

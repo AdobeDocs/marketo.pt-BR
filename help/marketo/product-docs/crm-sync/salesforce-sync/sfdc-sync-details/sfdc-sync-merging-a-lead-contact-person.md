@@ -4,16 +4,16 @@ description: Entenda como a mesclagem de clientes potenciais, contatos e pessoas
 title: Sincronização da SFDC - Intercalando um cliente em potencial/contato/pessoa
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '204'
 ht-degree: 3%
 
 ---
 
 # Sincronização do SFDC: mesclar um lead, contato ou pessoa {#sfdc-sync-merging-a-lead-contact-person}
 
-Às vezes é melhor apenas listar as regras. Aqui vamos nós:
+Às vezes, é melhor apenas listar as regras. Aqui vamos nós:
 
 * Quando você mescla dois clientes em potencial no **[!DNL Salesforce]**, a sincronização normal informa ao Marketo e os clientes em potencial são mesclados automaticamente como pessoas no Marketo.
 * Mesclar duas pessoas no **Marketo** invoca o mesmo processo que mesclá-las como clientes em potencial no [!DNL Salesforce]. Ele ainda funciona automaticamente.

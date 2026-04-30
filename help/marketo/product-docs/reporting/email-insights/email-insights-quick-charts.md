@@ -4,9 +4,9 @@ description: Saiba como criar e salvar Gráficos rápidos como miniaturas para e
 title: Gráficos rápidos de insights de email
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---

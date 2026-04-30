@@ -4,10 +4,10 @@ description: Obtenha ajuda quando os campos dinâmicos não estiverem sendo pree
 title: Meus campos dinâmicos não estão sendo preenchidos
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 4%
+source-wordcount: '302'
+ht-degree: 3%
 
 ---
 
@@ -31,7 +31,7 @@ Campos Básicos de Tout: ex.: `{{company}}`
 
 Tout de Campos Personalizados: ex.: `{{custom_field_favorite_movie}}`
 
-* O campo correspondente precisa ser salvo para o seu contato na [página Pessoas](https://toutapp.com/next#relationships) para que o nosso campo dinâmico faça referência. Por exemplo, se você estiver enviando um email para Mary e estiver usando o campo `{{company}}`, mas o registro de contato dela não listar uma empresa, não poderemos preenchê-lo.
+* O campo correspondente precisa ser salvo para o seu contato na [página Pessoas](https://toutapp.com/next#relationships) para que o nosso campo dinâmico faça referência. Por exemplo, se você estiver enviando um email para Mary e usando o campo `{{company}}`, mas o registro de contato dela não listar uma empresa, não poderemos preenchê-lo.
 
 ## Por Que Meu Email Foi Enviado Sem Preencher Todos Os Campos Dinâmicos? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 

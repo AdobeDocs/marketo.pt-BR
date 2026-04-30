@@ -2,9 +2,9 @@
 description: Notas de versão - maio de 2022 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Maio de 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '835'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ Os recursos a seguir serão lançados em **6 de maio de 2022**, com uma implanta
 
 ## Experiência de última geração {#modern-ux}
 
-**Alternar alternância padrão para a experiência da próxima geração**: a alternância padrão será a nova experiência em todas as telas em que estiver disponível, facilitando a descoberta de designs e aprimoramentos de usabilidade atualizados pelos usuários.
+**Alternar alternância padrão para a experiência da próxima geração**: a alternância padrão será a nova experiência em todas as telas em que estiver disponível, facilitando a descoberta de designs atualizados e aprimoramentos de usabilidade pelos usuários.
 
 **Tela atualizada na experiência da próxima geração**:
 
@@ -69,4 +69,4 @@ A Verificação de email para assinaturas que usam o recurso &quot;[!UICONTROL L
 
 **_Webinar de lançamento de produto_**
 
-[Webinar da versão de março e maio de 2022 do Marketo Engage](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
+[Webinário da versão de março e maio de 2022 do Marketo Engage](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

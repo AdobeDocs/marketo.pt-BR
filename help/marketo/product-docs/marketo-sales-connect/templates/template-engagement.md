@@ -4,9 +4,9 @@ description: Entenda o envolvimento do modelo no Sales Connect. Visualize quais 
 title: Engajamento de modelo
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 2%
 
 ---
@@ -29,4 +29,4 @@ Siga as etapas abaixo para exibir o envolvimento do modelo.
 
    **Envolvimento Mais Baixo** - Um modelo que precisa ser reformulado para sua taxa de engajamento (esse modelo pode ser compartilhado ou não na equipe)
 
-   A partir daí, role para baixo e veja todos os modelos criados em sua equipe com base em suas taxas de exibição dentro desse intervalo de datas selecionado. Em um nível de modelo individual, você pode ver: quem o criou, seja compartilhado ou não, número de emails usados com ele e dados de rastreamento (exibições, cliques, respostas).
+   A partir daí, role para baixo e veja todos os modelos criados em sua equipe com base em suas taxas de exibição dentro desse intervalo de datas selecionado. Em um nível de modelo individual, você pode ver: quem o criou, se está compartilhado ou não, número de emails usados com ele e dados de rastreamento (exibições, cliques, respostas).

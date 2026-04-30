@@ -4,10 +4,10 @@ description: Página inicial com um formulário - Documentação do Marketo - Do
 title: Página de destino com formulário
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 6%
+source-wordcount: '557'
+ht-degree: 7%
 
 ---
 
@@ -69,7 +69,7 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -77,7 +77,7 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/landing-page-with-a-form-10.png)
 
@@ -117,7 +117,7 @@ Muito bem! Agora que criamos um programa, vamos criar conteúdo.
 
    >[!NOTE]
    >
-   >Você pode ter um modelo diferente do que o da nossa captura de tela, tudo bem, basta escolher um e continuar.
+   >Você pode ter um modelo diferente do que o da nossa captura de tela. Tudo bem, basta escolher um e continuar.
 
    ![](assets/landing-page-with-a-form-17.png)
 

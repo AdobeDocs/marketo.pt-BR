@@ -4,9 +4,9 @@ description: Saiba como adicionar um token do sistema como um link em um email. 
 title: Adicionar um token do sistema como um link em um email
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '224'
 ht-degree: 9%
 
 ---
@@ -53,7 +53,7 @@ Veja como adicioná-los a um email:
 
 >[!IMPORTANT]
 >
->Se estiver usando esta abordagem para adicionar o token do sistema &quot;viewAsWebpageLink&quot;, você pode **não** substituí-lo usando tokens. Em vez disso, use [Adicionar uma Exibição como Link de Página da Web para uma abordagem de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) que permite substituir &quot;viewAsWebPageLink&quot; por tokens.
+>Se você estiver usando esta abordagem para adicionar o token do sistema &quot;viewAsWebpageLink&quot;, é possível **não** substituí-lo usando tokens. Em vez disso, use [Adicionar uma Exibição como Link de Página da Web para uma abordagem de Email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) que permite substituir &quot;viewAsWebPageLink&quot; por tokens.
 
 >[!NOTE]
 >

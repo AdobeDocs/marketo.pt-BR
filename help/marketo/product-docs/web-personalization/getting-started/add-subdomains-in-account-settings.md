@@ -4,10 +4,10 @@ description: Saiba como adicionar subdomínios nas configurações de conta no M
 title: Adicione subdomínios nas configurações de conta
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '168'
+ht-degree: 8%
 
 ---
 
@@ -27,7 +27,7 @@ Veja como adicionar subdomínios aos domínios primários em [!UICONTROL Configu
 
    ![](assets/add.png)
 
-1. Insira o URL do subdomínio. Clique em **[!UICONTROL Adicionar]** ou **[!UICONTROL Excluir]** para gerenciar a lista de subdomínios e clique em **[!UICONTROL OK]** quando terminar.
+1. Insira o URL do subdomínio. Clique em **[!UICONTROL Adicionar]** ou **[!UICONTROL Excluir]** para gerenciar a lista de subdomínios e em **[!UICONTROL OK]** quando terminar.
 
    ![](assets/newsubdomain.png)
 

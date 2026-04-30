@@ -4,9 +4,9 @@ description: Obtenha ajuda sobre os operadores de filtro de Smart List. Entenda 
 title: Glossário de operadores de filtro de lista inteligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '626'
 ht-degree: 14%
 
 ---
@@ -128,7 +128,7 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
 >
 >**Exemplo**
 >
->Os campos de data podem complicar quando você está trabalhando com eventos passados e futuros. Veja alguns exemplos.
+>Os campos de data podem se tornar complicados ao trabalhar com eventos passados e futuros. Veja alguns exemplos.
 >
 >**[!UICONTROL No passado antes]**
 >

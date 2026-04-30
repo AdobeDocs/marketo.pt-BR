@@ -3,9 +3,9 @@ description: Saiba mais sobre o Stream Designer e os cartões para criar convers
 title: Designer de fluxo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1215'
+source-wordcount: '1220'
 ht-degree: 2%
 
 ---
@@ -46,7 +46,7 @@ O Stream Designer contém vários cartões que você pode adicionar para moldar 
  </tr>
  <tr>
   <td style="width:25%"><strong>Meta</strong></td>
-  <td>Essa é a única carta que os visitantes não verão. Cabe a você determinar em qual ponto uma meta é alcançada no chat específico (por exemplo: se coletar o email do visitante for a sua meta, coloque o cartão de Meta imediatamente após a Captura de informações no stream).</td>
+  <td>Essa é a única carta que os visitantes não verão. É para você determinar em qual ponto uma meta é alcançada no chat específico (por exemplo: se coletar o email do visitante for a sua meta, coloque o cartão Meta imediatamente após a Captura de informações no stream).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Ação*</strong></td>

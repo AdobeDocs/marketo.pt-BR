@@ -3,10 +3,10 @@ description: Saiba mais sobre o Marketo Engage Modern UX e sua interface atualiz
 title: Visão geral da experiência moderna do Marketo Engage
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 95%
+source-wordcount: '462'
+ht-degree: 91%
 
 ---
 

@@ -4,9 +4,9 @@ description: Saiba como definir padrões de URL para que o Conteúdo preditivo d
 title: Criar padrões de conteúdo
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '406'
 ht-degree: 2%
 
 ---

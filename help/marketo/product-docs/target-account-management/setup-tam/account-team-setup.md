@@ -4,9 +4,9 @@ description: Saiba como configurar equipes de conta e mapear funções de conta 
 title: Configuração de equipe de conta
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '199'
 ht-degree: 5%
 
 ---
@@ -37,7 +37,7 @@ Uma equipe de conta é um grupo de participantes que trabalham juntos em uma con
 
    >[!NOTE]
    >
-   >Você não pode selecionar [!UICONTROL Proprietário da conta]. Ele é escolhido por padrão no nível da conta no seu CRM.
+   >Você não pode selecionar [!UICONTROL Proprietário da conta]. Ela é escolhida por padrão entre as contas no seu CRM.
 
 1. Clique em **[!UICONTROL Salvar]** quando terminar.
 

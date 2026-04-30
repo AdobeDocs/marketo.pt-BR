@@ -2,9 +2,9 @@
 description: Saiba como sincronizar atividades de vendas com o Salesforce por meio da API ou do Cco. Configure o email e o registro de chamadas.
 title: Sincronizar atividades de vendas com o Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '775'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ Essa funcionalidade exige que você esteja na edição Enterprise/Unlimited do S
 
    ![](assets/sync-sales-activities-to-salesforce-1.png)
 
-1. Em Configurações do Administrador (ou &quot;Minha Conta&quot; se você não for um Administrador), clique em **Salesforce**.
+1. Em Configurações do Administrador (ou &quot;Minha Conta&quot;, se você não for um Administrador), clique em **Salesforce**.
 
    ![](assets/sync-sales-activities-to-salesforce-2.png)
 
@@ -55,7 +55,7 @@ Depois de ativar &quot;Email para Salesforce (Cco)&quot;, você receberá um CCO
 
    ![](assets/sync-sales-activities-to-salesforce-6.png)
 
-1. Em Configurações do Administrador (ou &quot;Minha Conta&quot; se você não for um Administrador), clique em **Salesforce**.
+1. Em Configurações do Administrador (ou &quot;Minha Conta&quot;, se você não for um Administrador), clique em **Salesforce**.
 
    ![](assets/sync-sales-activities-to-salesforce-7.png)
 
@@ -99,7 +99,7 @@ Se você não vir Meu email para o Salesforce em suas Configurações, talvez o 
 
    ![](assets/sync-sales-activities-to-salesforce-10.png)
 
-1. Em Configurações do Administrador (ou &quot;Minha Conta&quot; se você não for um Administrador), clique em **Salesforce**.
+1. Em Configurações do Administrador (ou &quot;Minha Conta&quot;, se você não for um Administrador), clique em **Salesforce**.
 
    ![](assets/sync-sales-activities-to-salesforce-11.png)
 

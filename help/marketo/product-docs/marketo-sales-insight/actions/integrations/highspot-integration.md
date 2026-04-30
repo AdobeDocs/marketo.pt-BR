@@ -3,9 +3,9 @@ description: Saiba mais sobre a integração do Highspot com as ações de venda
 title: Integração com o Highspot
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '348'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ Acesse o Highspot e adicione conteúdo aos seus emails da janela de composição
 
    ![](assets/highspot-integration-7.png)
 
-1. Faça login na sua conta do Highspot (se você ainda não estiver logado).
+1. Faça login na sua conta do Highspot (se você ainda não estiver conectado).
 
    ![](assets/highspot-integration-8.png)
 

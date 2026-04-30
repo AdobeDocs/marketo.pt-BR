@@ -4,9 +4,9 @@ description: Saiba como personalizar quais atividades o Marketo envia para o Sal
 title: Personalizar sincronização de atividades
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '325'
 ht-degree: 2%
 
 ---
@@ -104,4 +104,4 @@ Se você não usar o Marketo Sales Insight, a Marketo Engage poderá criar Regis
 
 >[!TIP]
 >
->Se você estiver interessado em obter mais informações do Marketo na Salesforce, confira nosso produto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+>Se você estiver interessado em obter mais informações sobre o Marketo na Salesforce, confira nosso produto [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.

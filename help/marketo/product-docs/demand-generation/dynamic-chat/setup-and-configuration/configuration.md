@@ -3,9 +3,9 @@ description: Saiba como personalizar a aparência da janela de diálogo do Dynam
 title: Configuração
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '416'
 ht-degree: 2%
 
 ---
@@ -60,7 +60,7 @@ Selecione o controle deslizante para ativar &quot;Poke&quot;, que exibe a pergun
 >
 >O Poke só está disponível no primeiro [cartão](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} da conversa.
 
-Quando terminar de fazer alterações, lembre-se de clicar em **Salvar**.
+Quando terminar de fazer as alterações, lembre-se de clicar em **Salvar**.
 
 ![](assets/configuration-7.png)
 

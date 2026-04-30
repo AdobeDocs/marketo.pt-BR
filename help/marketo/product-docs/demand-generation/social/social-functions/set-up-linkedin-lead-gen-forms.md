@@ -4,9 +4,9 @@ description: Saiba como configurar o LinkedIn Lead Gen Forms com o Marketo. Cone
 title: Configurar formulário de geração de lead do LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '515'
 ht-degree: 3%
 
 ---
@@ -43,7 +43,7 @@ Use o Forms de geração de leads do LinkedIn para executar campanhas de publici
 
    ![](assets/set-up-linkedin-lead-gen-forms-4.png)
 
-1. Depois de entrar no LinkedIn, volte para o Marketo e clique em **[!UICONTROL Autorizar]**.
+1. Depois de fazer logon no LinkedIn, volte para o Marketo e clique em **[!UICONTROL Autorizar]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-5.png)
 
@@ -63,7 +63,7 @@ Use o Forms de geração de leads do LinkedIn para executar campanhas de publici
 
    >[!TIP]
    >
-   >Se você não vir as contas comerciais que está esperando, verifique se a conta do LinkedIn do usuário que está sendo autorizada tem permissões de gerente de formulário de geração de lead para a conta comercial no LinkedIn.
+   >Se você não vir as Contas comerciais que está esperando, verifique se a conta do LinkedIn do usuário que está sendo autorizada tem Permissões de gerente de formulário de geração de lead para a Conta comercial no LinkedIn.
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 

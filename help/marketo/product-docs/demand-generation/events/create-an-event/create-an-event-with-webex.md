@@ -4,9 +4,9 @@ description: Saiba como criar um evento com Webex no Marketo. Configure a integr
 title: Criar um Evento com [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '661'
 ht-degree: 1%
 
 ---

@@ -6,9 +6,9 @@ exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '265'
 ht-degree: 7%
 
 ---
@@ -57,4 +57,4 @@ Parabéns! Você adicionou um botão de rede social à página de aterrissagem. 
 
 >[!MORELIKETHIS]
 >
->Você concluiu, mas pode alterar as configurações do botão de redes sociais, se necessário. Comece com _personalizando o estilo de botão_ ou _editando as mensagens compartilhadas_ que ele apresenta.
+>você concluiu, mas pode alterar as configurações do botão social, se necessário. Comece com _personalizando o estilo de botão_ ou _editando as mensagens compartilhadas_ que ele apresenta.

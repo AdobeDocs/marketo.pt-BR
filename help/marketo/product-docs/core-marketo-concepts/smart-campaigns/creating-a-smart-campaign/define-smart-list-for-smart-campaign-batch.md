@@ -4,9 +4,9 @@ description: Saiba como definir a Smart List de uma Campanha inteligente em lote
 title: Definir lista inteligente para campanha inteligente | Lote
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '285'
 ht-degree: 4%
 
 ---
@@ -51,7 +51,7 @@ As Smart Lists são o mecanismo usado no Marketo Engage para definir &quot;quem&
    >
    >Por padrão, as pessoas que atendem a TODAS as regras da Smart List são qualificadas. Isso pode ser modificado para atender às suas necessidades de campanha. Confira as [Regras da Smart List para Lógica Complexa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} para saber mais.
 
-   Para acionar em eventos ao vivo uma pessoa por vez, saiba como [Definir a lista inteligente para o Smart Campaign | Gatilho](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   Para acionar em eventos ao vivo uma pessoa por vez, saiba como [Definir a lista inteligente para o Smart Campaign | Acionador](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >

@@ -4,9 +4,9 @@ description: Saiba como editar a acessibilidade de campo do Salesforce para o Sa
 title: Editar acessibilidade de campo do Salesforce
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '131'
 ht-degree: 6%
 
 ---

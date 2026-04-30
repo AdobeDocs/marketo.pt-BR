@@ -4,9 +4,9 @@ description: Saiba como instalar e configurar o Marketo Sales Insight no Microso
 title: Instalar e configurar o Insight de vendas do Marketo no Microsoft Dynamics 2013
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '410'
 ht-degree: 6%
 
 ---
@@ -23,7 +23,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para fornecer à su
 
 ## Importar solução {#import-solution}
 
-OK, agora é hora de importar a solução [!DNL Marketo Sales Insight] para o [!DNL Microsoft Dynamics].
+OK, agora é hora de importar a solução [!DNL Marketo Sales Insight] para [!DNL Microsoft Dynamics].
 
 1. Em **[!UICONTROL Microsoft Dynamics CRM]**, clique em **[!UICONTROL Configurações]**.
 
@@ -99,7 +99,7 @@ Vamos vincular sua instância do Marketo a [!DNL Sales Insight] em [!DNL Dynamic
 
    >[!NOTE]
    >
-   >Os seguintes campos devem ser sincronizados com o Marketo Insight para que _o cliente potencial e o contato_ funcionem:
+   >Os seguintes campos devem ser sincronizados com o Marketo para que _o cliente potencial e o contato_ funcionem:
    >
    >* Prioridade
    >* Urgência

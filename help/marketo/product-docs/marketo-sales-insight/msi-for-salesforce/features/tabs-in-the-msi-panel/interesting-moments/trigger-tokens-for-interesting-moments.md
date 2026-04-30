@@ -4,9 +4,9 @@ description: Saiba mais sobre tokens de acionador para momentos interessantes no
 title: Tokens acionadores de momentos interessantes
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '557'
 ht-degree: 67%
 
 ---

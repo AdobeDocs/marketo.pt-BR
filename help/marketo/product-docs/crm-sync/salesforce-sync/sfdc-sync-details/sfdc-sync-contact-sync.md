@@ -4,9 +4,9 @@ description: Saiba como a sincronização de contatos funciona entre o Salesforc
 title: SFDC Sync - Sincronização de contatos
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 1%
 
 ---

@@ -3,9 +3,9 @@ description: Saiba como configurar as Ações do Sales Insight como administrado
 title: Guia de configuração de admin do recurso Ações de insight de vendas
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '669'
 ht-degree: 4%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >Se você não estiver vendo uma ID do cliente e um Segredo do cliente no cartão de Informações de integração, ative a instância das Ações convidando o primeiro usuário e verá a ID do cliente e o Segredo do cliente aparecerem.
+   >Se você não vir uma ID do cliente e um Segredo do cliente no cartão de Informações de integração, ative a instância de Ações convidando o primeiro usuário e verá a ID do cliente e o Segredo do cliente aparecerem.
 
 1. Clique em **Sales Insight** e depois em **Actions Config**. Selecione de uma lista de administradores do Marketo a convidar e clique em **Enviar Convite**.
 
@@ -94,7 +94,7 @@ O usuário receberá um email com etapas para obter acesso à conta.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-Se você já estiver conectado ao Salesforce, estará conectado. Caso não esteja, você será solicitado a fazer logon.
+Se você já estiver conectado ao Salesforce, estará conectado. Caso contrário, você será solicitado a fazer logon.
 
 ## Conectar o Marketo à sua conta de aplicativos de vendas {#connect-marketo-to-your-sales-apps-account}
 

@@ -4,9 +4,9 @@ description: Saiba como usar conteúdo dinâmico em um email. Mostre conteúdo d
 title: Usar conteúdo dinâmico em um email
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 5%
 
 ---
@@ -39,7 +39,7 @@ Use o Conteúdo dinâmico em emails para enviar informações direcionadas aos s
 
    >[!NOTE]
    >
-   >Você também pode tornar um elemento dentro do email dinâmico. Para fazer isso, selecione a área, clique no ícone de engrenagem e selecione **Tornar dinâmico** (ou [Substituir por trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), dependendo do que você estiver fazendo).
+   >Você também pode tornar um elemento dentro do email dinâmico. Para fazer isso, selecione a área, clique no ícone de engrenagem e selecione **Tornar dinâmico** (ou [Substituir pelo trecho](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), dependendo do que você estiver fazendo).
 
 1. Insira o nome da Segmentação, selecione-o e clique em **[!UICONTROL Salvar]**.
 

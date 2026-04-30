@@ -4,9 +4,9 @@ description: Saiba como executar testes A/B da linha de assunto em programas de 
 title: Usar teste A/B de “Linha de assunto”
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '255'
 ht-degree: 4%
 
 ---

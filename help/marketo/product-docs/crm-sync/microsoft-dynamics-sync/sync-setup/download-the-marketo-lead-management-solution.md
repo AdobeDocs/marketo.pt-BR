@@ -4,9 +4,9 @@ description: Saiba como baixar a solução de gerenciamento de clientes potencia
 title: Download da solução de gerenciamento de leads do Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 15%
 
 ---
@@ -21,7 +21,7 @@ Será necessário baixar e instalar uma Solução da Marketo na conta [!DNL Micr
 
 >[!CAUTION]
 >
->É fundamental que você baixe a Solução da Marketo mais recente _antes_ de executar qualquer atualização.
+>é fundamental baixar a Solução da Marketo mais recente _antes_ de executar qualquer atualização.
 
 >[!NOTE]
 >

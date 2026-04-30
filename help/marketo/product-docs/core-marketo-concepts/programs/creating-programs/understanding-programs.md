@@ -4,16 +4,16 @@ description: Saiba mais sobre os programas no Marketo para organizar campanhas e
 title: Noções básicas de programas
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 87%
+source-wordcount: '165'
+ht-degree: 81%
 
 ---
 
 # Noções básicas de programas {#understanding-programs}
 
-Programas representam uma única iniciativa de marketing. Você pode pensar nisso como um container com todas as coisas que você precisa para fazer o programa funcionar. São chamados de ativos locais e incluem **páginas de destino**, **email**, **campanhas inteligentes** e muito mais. Os programas fazem muita coisa, mas é fácil começar.
+Programas representam uma única iniciativa de marketing. Você pode pensar nisso como um container com todas as coisas que você precisa para fazer o programa funcionar. São chamados de ativos locais e incluem **páginas de destino**, **email**, **campanhas inteligentes** e muito mais. Os programas fazem muito, mas é fácil começar.
 
 Há quatro tipos de programas:
 

@@ -4,9 +4,9 @@ description: Saiba como gerenciar grupos no Sales Connect. Crie, edite, comparti
 title: Gerenciar grupos
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '293'
 ht-degree: 2%
 
 ---

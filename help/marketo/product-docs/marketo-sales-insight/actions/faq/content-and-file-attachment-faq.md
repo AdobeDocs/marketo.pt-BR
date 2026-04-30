@@ -3,9 +3,9 @@ description: Obtenha respostas para perguntas comuns sobre conteúdo e anexos de
 title: Perguntas frequentes sobre conteúdo e anexo de arquivo
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '276'
 ht-degree: 3%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 3%
 
 Um **anexo de arquivo** é como um anexo de arquivo que você usaria em seu cliente de email normal.
 
-**Conteúdo** é o que usamos para descrever qualquer arquivo (PPT, PDF, documento do Word, etc.) que você queira que seja acompanhado por [!DNL Sales Insight Actions].
+**Conteúdo** é o que usamos para descrever qualquer arquivo (PPT, PDF, documento do Word, etc.) que você gostaria que fosse rastreado por [!DNL Sales Insight Actions].
 
-Depois de clicar nesse botão, você pode escolher um arquivo já carregado ou fazer upload de um novo arquivo a ser rastreado. Em seguida, inserimos um link no email ou modelo que você está usando.
+Depois de clicar nesse botão, você pode escolher um arquivo que já foi carregado ou fazer upload de um novo arquivo a ser rastreado. Em seguida, inserimos um link no email ou modelo que você está usando.
 
 Na extremidade de recebimento, o recipient clica no link e o conteúdo será preenchido no navegador. Isso nos permite rastrear cada exibição de página e relatá-la ao usuário [!DNL Sales Insight Actions] no Feed ao vivo.
 

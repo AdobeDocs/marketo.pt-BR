@@ -4,16 +4,16 @@ description: Saiba como visualizar uma notificação por push no Android e no iO
 title: Pré-visualizar uma notificação por push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '266'
 ht-degree: 3%
 
 ---
 
 # Pré-visualizar uma notificação por push {#preview-a-push-notification}
 
-É fácil visualizar como a notificação por push será exibida para o Android ou para o iOS. Há quatro maneiras de fazer isso.
+É fácil visualizar como a notificação por push será para o Android ou para o iOS. Há quatro maneiras de fazer isso.
 
 Na árvore de navegação, clique com o botão direito do mouse no arquivo da notificação que deseja visualizar e clique em **[!UICONTROL Visualizar]**.
 
@@ -27,7 +27,7 @@ Ou, na página de exibição Notificação por push, clique em **[!UICONTROL Aç
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Por fim, no editor, você pode clicar na guia **[!UICONTROL Visualizar Rascunho]**, no canto superior direito, enquanto trabalha na notificação.
+Finalmente, no editor, você pode clicar na guia **[!UICONTROL Visualizar rascunho]** no canto superior direito enquanto estiver trabalhando na notificação.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
@@ -59,7 +59,7 @@ Na tela Lock (Bloqueio), ele aparece parcialmente para baixo.
 
 ![](assets/image2015-9-17-17-3a2-3a1.png)
 
-Na tela da Central de notificações, perto da parte superior,
+Na tela da Central de notificações, ela fica perto da parte superior,
 
 ![](assets/image2015-9-17-17-3a3-3a15.png)
 

@@ -4,9 +4,9 @@ description: Saiba mais sobre como adicionar e remover valores da lista de opç�
 title: Adicionar/remover valores da lista de seleção
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '244'
 ht-degree: 3%
 
 ---
@@ -34,7 +34,7 @@ Quando um valor de lista de opções é removido de um campo em [!DNL Salesforce
 Se um campo de cliente potencial e um campo de contato em [!DNL Salesforce] tiverem valores diferentes:
 
 1. Adicionar um valor adicional no SFDC a uma lista de opções receberá uma notificação.
-1. A notificação informará onde ele é usado. Agora você pode adicionar esse novo valor como uma opção no formulário, se desejar.
+1. A notificação informará onde ela é usada. Agora você pode adicionar esse novo valor como uma opção no formulário, se desejar.
 
 Se uma lista de opções de um cliente potencial do SFDC tiver valores diferentes de uma lista de opções de um contato do SFDC, os valores comuns serão usados como opções de valor padrão no formulário.
 

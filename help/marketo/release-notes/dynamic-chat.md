@@ -3,10 +3,10 @@ description: Notas de versão do Dynamic Chat - Documentos do Marketo - Document
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '3474'
-ht-degree: 98%
+source-wordcount: '3551'
+ht-degree: 94%
 
 ---
 
@@ -20,11 +20,11 @@ Para acessar a página de notas de versão padrão do Marketo Engage [clique aqu
 
 ### Limite de tempo de espera do visitante {#visitor-wait-time}
 
-Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Baixar transcrição {#download-transcript}
 
-Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versão de junho de 2025 {#june-2025-release}
 
@@ -58,7 +58,7 @@ Se o agente não estiver disponível, o sistema:
 
 * Em vez disso, ele:
 
-   * Mostrará o calendário de reuniões do agente mapeado (se estiver habilitado),
+   * Mostra o calendário de reuniões do agente mapeado (se estiver habilitado),
 -ou-
    * Retornará a uma mensagem padrão (pior cenário).
 
@@ -74,7 +74,7 @@ O fallback Round Robin não é acionado apenas porque um agente não responde.
 
 Se nenhum dos agentes gerar engajamento:
 
-* O sistema mostrará o calendário do agente da primeira tentativa (se habilitado),
+* O sistema mostra o calendário do agente da primeira tentativa (se ativado),
 -ou-
 * Exibirá a mensagem de fallback padrão.
 
@@ -104,7 +104,7 @@ A regra de roteamento no nível do cartão (Personalizada, Equipe, Round Robin) 
 
 * Se nenhum engajamento for bem-sucedido, a lógica de fallback será aplicada:
 
-   * Fallback de calendário (se habilitado),
+   * Fallback de calendário (se ativado),
 -ou-
    * Mensagem padrão.
 
@@ -114,7 +114,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível é e
 
 <p>
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 <table><thead>
   <tr>
@@ -140,7 +140,7 @@ _&#x200B;**Roteamento de conta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento personalizado**&#x200B;_
+_**Roteamento personalizado**_
 
 <table><thead>
   <tr>
@@ -166,7 +166,7 @@ _&#x200B;**Roteamento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento de equipe**&#x200B;_
+_**Roteamento de equipe**_
 
 <table><thead>
   <tr>
@@ -192,7 +192,7 @@ _&#x200B;**Roteamento de equipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 <table><thead>
   <tr>
@@ -354,13 +354,13 @@ Assim, quando um(a) visitante com o cookie abc chegar em uma página e fornecer 
     <td>Pessoa conhecida</td>
     <td>xyz</td>
     <td>Diferente da pessoa existente</td>
-    <td>este cenário não é possível, pois é como se um novo cookie, por padrão, fosse considerado como um novo perfil anônimo</td>
+    <td>este cenário não é possível como se fosse um novo cookie por padrão considerado como um novo perfil anônimo</td>
   </tr>
 </tbody></table>
 
 ### Opção de herdar fonte {#option-to-inherit-font}
 
-Agora você pode habilitar o chatbot para herdar diretamente a fonte da página da web em que ele está sendo hospedado, em vez de gerenciar a fonte da marca no Dynamic Chat. Ao habilitar essa opção, o chatbot utilizará a fonte definida na tag `<body>` da página.
+Agora você pode ativar o chatbot para herdar diretamente a fonte da página da Web em que está sendo hospedado, em vez de gerenciar a fonte da marca no Dynamic Chat. Ao habilitar essa opção, o chatbot utilizará a fonte definida na tag `<body>` da página.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
@@ -424,7 +424,7 @@ Anteriormente, quando a sincronização do Marketo Engage era ativada, o Dynamic
 
 ### Envio de dados adicionais de visitante para fluxos de conversa {#pass-additional-visitor-data}
 
-Se você estiver capturando informações de visitante por outros canais, como formulários ou detalhes de logon, agora é possível transmitir essas informações diretamente para o Dynamic Chat.
+Se você estiver capturando informações do visitante por outros canais, como formulários ou logon, agora é possível passar essas informações diretamente para a Dynamic Chat.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -514,7 +514,7 @@ _&#42;Disponível anteriormente como um recurso de avaliação com 100 interaç�
 
 ### Funções de retorno de chamada {#callback-functions}
 
-As [funções de retorno de chamada](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} permitem coletar eventos de análise do Dynamic Chat em sistemas externos, como o Adobe Analytics ou o Google Analytics, conforme os visitantes participam de conversas do Dynamic Chat. Habilite os eventos de análise do Dynamic Chat registrando um retorno de chamada na API para monitorar os eventos. Isso permite ter uma visão mais completa do engajamento do Dynamic Chat e sua relação com outros dados importantes, como o tráfego na web. 
+As [funções de retorno de chamada](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} permitem coletar eventos de análise do Dynamic Chat em sistemas externos, como o Adobe Analytics ou o Google Analytics, conforme os visitantes participam de conversas do Dynamic Chat. Habilite os eventos de análise do Dynamic Chat registrando um retorno de chamada na API para monitorar os eventos. Isso permite ter uma visão mais completa do engajamento do Dynamic Chat e sua relação com outros dados importantes, como o tráfego na web.
 
 ### Condições de disponibilidade do agente ativo adicionadas à ramificação condicional {#live-agent-availability-conditional-branching}
 
@@ -534,7 +534,7 @@ Lançamos a ramificação condicional para diálogos no início deste ano e agor
 
 ### Chat ao vivo para fluxos de conversa {#live-chat-for-conversational-flows}
 
-Lançamos a funcionalidade de chat ao vivo para diálogos em 2023 e agora é possível adicionar interações do chat ao vivo aos fluxos de conversa. Se estiver usando fluxos de conversa com seus formulários do Marketo Engage, agora é possível permitir que visitantes qualificados conversem com um agente ativo imediatamente após o envio do formulário.
+Lançamos a funcionalidade de chat ao vivo para diálogos em 2023 e agora é possível adicionar interações do chat ao vivo aos fluxos de conversa. Se você estiver usando Fluxos de conversa com seus formulários do Marketo Engage, agora é possível permitir que visitantes qualificados conversem com um agente ao vivo imediatamente após o envio do formulário!
 
 ### Atividades recentes do Marketo Engage na caixa de entrada do agente {#recent-marketo-engage-activities-in-agent-inbox}
 

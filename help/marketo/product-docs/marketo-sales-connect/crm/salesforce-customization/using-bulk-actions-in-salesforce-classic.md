@@ -4,9 +4,9 @@ description: Saiba como usar ações em massa no Salesforce Classic com o Sales 
 title: Usando Ações em Massa no  [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---
@@ -35,11 +35,11 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 
 1. Um email do MSC será exibido. Ele inclui os seguintes recursos:
 
-   a. O campo &quot;[!UICONTROL Para]&quot; mostra &quot;[!UICONTROL Todos os Destinatários]&quot; - isso corresponde à lista de clientes potenciais escolhidos na Exibição da Lista de Clientes Potenciais
-b. Esta lista está visível no painel esquerdo chamado &quot;[!UICONTROL Composição em Massa]&quot; - você pode adicionar/remover destinatários aqui
-c. Você pode escolher um modelo ou criar seu próprio email
-d. Você pode visualizar os campos dinâmicos que serão preenchidos no seu email
-e. Você pode enviar o email imediatamente ou agendar o envio posteriormente
+   a) O campo &quot;[!UICONTROL Para]&quot; mostra &quot;[!UICONTROL Todos os Destinatários]&quot; - isso corresponde à lista de clientes potenciais escolhidos na Exibição da Lista de Clientes Potenciais
+b) Esta lista está visível no painel esquerdo chamado &quot;[!UICONTROL Composição em Massa]&quot; - você pode adicionar/remover destinatários aqui
+c) Você pode escolher um modelo ou criar seu próprio email
+d) Você pode visualizar os campos dinâmicos que serão preenchidos no seu email
+e. Você pode enviar o email imediatamente ou agendar o envio mais tarde
 
    ![](assets/three-4.png)
 

@@ -4,9 +4,9 @@ description: Saiba mais sobre as mensagens no aplicativo para envolver os usuár
 title: Noções básicas sobre mensagens no aplicativo
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '269'
 ht-degree: 2%
 
 ---

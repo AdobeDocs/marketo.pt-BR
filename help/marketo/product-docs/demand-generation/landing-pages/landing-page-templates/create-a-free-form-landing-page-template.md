@@ -4,10 +4,10 @@ description: Saiba como criar um modelo de página de aterrissagem de forma livr
 title: Criar um modelo de página de destino de forma livre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 5%
+source-wordcount: '218'
+ht-degree: 6%
 
 ---
 

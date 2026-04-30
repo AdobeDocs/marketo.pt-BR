@@ -3,9 +3,9 @@ description: Saiba como configurar sua nova instância do Sales Connect. Siga as
 title: Guia de Introdução para  [!DNL Sales Connect] Administradores
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---

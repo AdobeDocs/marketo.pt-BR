@@ -4,10 +4,10 @@ description: Entenda as configurações de sincronização do Salesforce para o 
 title: Configurações de sincronização do Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 3%
+source-wordcount: '444'
+ht-degree: 4%
 
 ---
 

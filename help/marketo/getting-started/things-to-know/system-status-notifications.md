@@ -3,9 +3,9 @@ description: Assinar notificações de status do sistema - Documentação do Mar
 title: Assinar Notificações de Status do Sistema
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -48,11 +48,11 @@ Na etapa 7 de [a seção abaixo](#create-a-subscription), o usuário selecionari
 
 Depois de [identificar seu data center e pod/servidor](#identify), siga as etapas abaixo para criar uma assinatura.
 
-1. Em [status.adobe.com](https://status.adobe.com/pt-br/pt-BR), clique em **Gerenciar assinaturas**.
+1. Em [status.adobe.com](https://status.adobe.com/pt-BR), clique em **Gerenciar assinaturas**.
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. Entre (se ainda não estiver usando) com suas credenciais da Adobe ou clique em **Criar uma conta**, se ainda não tiver uma.
+1. Entre (se você ainda não tiver) usando suas credenciais da Adobe ou clique em **Criar uma conta**, se você ainda não tiver uma.
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
 

@@ -3,10 +3,10 @@ description: Saiba como começar como um novo usuário de Ações do Sales Insig
 title: Guia de integração do usuário do recurso Ações de insight de vendas
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 6%
+source-wordcount: '337'
+ht-degree: 5%
 
 ---
 
@@ -31,7 +31,7 @@ Os novos usuários precisarão seguir as etapas abaixo.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
-1. Se você já estiver conectado à sua conta [!DNL Salesforce], será direcionado automaticamente para a próxima tela. Se você não estiver conectado, faça isso agora.
+1. Se você já estiver conectado à sua conta do [!DNL Salesforce], será direcionado automaticamente para a próxima tela. Se você não estiver conectado, faça isso agora.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-3.png)
 

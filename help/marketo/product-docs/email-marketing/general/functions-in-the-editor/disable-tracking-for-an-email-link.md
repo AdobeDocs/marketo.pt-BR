@@ -4,10 +4,10 @@ description: Saiba como desativar o rastreamento de links de email específicos.
 title: Desabilitar o rastreamento de um link de email
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 4%
+source-wordcount: '302'
+ht-degree: 5%
 
 ---
 

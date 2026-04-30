@@ -4,10 +4,10 @@ short-description: Conheça os termos do Marketo Engage e suas definições para
 title: Glossário do Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '4065'
-ht-degree: 100%
+source-wordcount: '4187'
+ht-degree: 92%
 
 ---
 
@@ -25,11 +25,11 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
  <tbody>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">Teste A/B</a></strong></td>
-   <td colspan="1">Permite modificar componentes do email (por exemplo, linha de assunto, endereço inicial etc.) e definir critérios de teste para determinar qual conjunto de conteúdo tem melhor desempenho.</td>
+   <td colspan="1">Permite modificar componentes do email (por exemplo, linha de assunto, endereço de, etc.) e definir critérios de teste para determinar qual conjunto de conteúdo tem melhor desempenho.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Conta</strong></td>
-   <td colspan="1">Este termo pode ter significados diferentes:<br> - Sua própria instância do Marketo pode ser chamada de conta do Marketo.<br>No <strong>TAM</strong>, uma <strong>conta nomeada</strong> é a que o usuário determinou como a conta que deseja buscar.<br>-No TAM, uma conta do CRM é uma conta mapeada do seu <strong>CRM</strong> vinculado (conta no <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> ou <strong>API</strong>).<br>-No seu CRM, as contas são as empresas/negócios aos quais leads e contatos estão associados.</td>
+   <td colspan="1">Este termo pode ter significados diferentes:<br>. A própria instância do Marketo pode ser chamada de conta do Marketo.<br>-Em <strong>TAM</strong>, uma <strong>Conta Nomeada</strong> é uma conta que o usuário determinou que é uma conta de destino que ele deseja buscar.<br>-Em TAM, uma Conta do CRM é uma conta mapeada do seu <strong>CRM</strong> vinculado (conta no <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> ou <strong>API</strong>).<br>-No seu CRM, as contas são a empresa/negócio à qual os clientes potenciais e os contatos estão associados.</td>
   </tr>
   <tr>
    <td><strong>Lista de contas</strong></td>
@@ -41,7 +41,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Pontuação de contas</a></strong></td>
-   <td colspan="1">No <strong>TAM</strong>, é uma pontuação atribuída a uma conta que ajuda a determinar seu nível de engajamento.</td>
+   <td colspan="1">Em <strong>TAM</strong>, é uma pontuação atribuída a uma conta para ajudá-lo a determinar seu nível de engajamento.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Data da aquisição</strong></td>
@@ -261,7 +261,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr>
   <tr>
    <td colspan="1"><strong>Documentos</strong></td>
-   <td colspan="1">Os documentos são artigos que ajudam os clientes a entender melhor o produto. O Marketo tem vários tipos diferentes de documentos: documentos do produto (o site em que você está no momento), documentos do <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home" rel="nofollow">desenvolvedor</a> e documentos de <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">suporte</a>.</td>
+   <td colspan="1">Os documentos são artigos que ajudam os clientes a entender melhor o produto. O Marketo tem vários tipos diferentes de documentos: Documentos do produto (o site em que você está no momento), documentos do <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home" rel="nofollow">Desenvolvedor</a> e documentos do <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Suporte</a>.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Autenticação de mensagens baseada em domínio, relatórios e conformidade (DMARC)</strong></td>
@@ -285,7 +285,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Conteúdo dinâmico</a></strong></td>
-   <td colspan="1">Conteúdo (por exemplo, imagens, snippets, texto etc.) que aparece em um <strong>email</strong> ou <strong>página de destino</strong> com base em critérios especificados, permitindo que você personalize a experiência para o leitor. </td>
+   <td colspan="1">Conteúdo (por exemplo, imagens, trechos, texto etc.) que é preenchida em uma <strong>página de aterrissagem</strong> ou <strong>página de email</strong> com base nos critérios especificados, permitindo que você personalize a experiência para o leitor. </td>
   </tr>
  </tbody>
 </table>
@@ -429,7 +429,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
  <tbody>
   <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Momento interessante</strong></a></td>
-   <td><p>No <strong>Insight de vendas do Marketo</strong>, uma ocorrência que você considera de particular relevância (por exemplo, quando alguém visita uma página específica do site, clica em um link específico de um email etc.) e deseja relatar à sua equipe de vendas.</p></td>
+   <td><p>No <strong>Marketo Sales Insight</strong>, uma ocorrência que você considera de particular relevância (por exemplo, quando alguém visita uma página específica do seu site, clica em um link específico de um email, etc.) que você deseja que sua equipe de vendas saiba.</p></td>
   </tr>
  </tbody>
 </table>
@@ -470,7 +470,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr>
   <tr>
    <td><strong>Lead</strong></td>
-   <td>No <strong>Adobe Marketo Engage</strong>, lead é o termo anterior (que foi substituído por <strong>pessoa</strong>) usado para descrever um indivíduo no <strong>banco de dados</strong> do Marketo com o qual você interage por meio de campanhas de marketing. No seu <strong>CRM</strong>, um lead pode representar um conceito diferente (por exemplo, um indivíduo associado a uma <strong>oportunidade</strong>), independentemente da funcionalidade do Marketo.</td>
+   <td>No <strong>Adobe Marketo Engage</strong>, lead é o termo anterior (substituído por <strong>pessoa</strong>) usado para descrever um indivíduo no seu <strong>banco de dados</strong> do Marketo com o qual você está se envolvendo por meio de suas campanhas de marketing. No seu <strong>CRM</strong>, um lead pode representar um conceito diferente (por exemplo, um indivíduo associado a uma <strong>oportunidade</strong>), independentemente da funcionalidade do Marketo.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Banco de dados de leads</strong></td>
@@ -481,7 +481,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
     <div>
      <p><strong> Lista</strong></p>
     </div></td>
-   <td colspan="1">Uma coleção de pessoas. O Marketo contém listas inteligentes e listas estáticas. Uma <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">lista inteligente</a> é uma lista dinâmica de pessoas que pode mudar constantemente, pois é baseada em filtros que você define (por exemplo, todos no banco de dados que moram na Califórnia). Quando novas pessoas se qualificam para os critérios (ou pessoas existentes não se qualificam mais), a lista é alterada. Uma <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">lista estática</a> é, como seu nome diz, estática. Ela não se altera, a menos que você adicione ou exclua alguém manualmente.</td>
+   <td colspan="1">Uma coleção de pessoas. O Marketo contém listas inteligentes e listas estáticas. Uma <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">lista inteligente</a> é uma lista dinâmica de pessoas que podem mudar constantemente, pois é baseada em filtros que você define (por exemplo, todos no banco de dados que moram na Califórnia). Quando novas pessoas se qualificam para os critérios (ou pessoas existentes não se qualificam mais), a lista é alterada. Uma <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">lista estática</a> é, como seu nome diz, estática. Ela não se altera, a menos que você adicione ou exclua alguém manualmente.</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Ativos locais</strong></a></td>
@@ -624,7 +624,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   </tr>
   <tr>
    <td><strong>Pessoa</strong></td>
-   <td>Um indivíduo no seu <strong>banco de dados</strong> do Marketo com o qual você está interagindo por meio de campanhas de marketing.</td>
+   <td>Um indivíduo no seu <strong>banco de dados</strong> do Marketo com o qual você está se envolvendo por meio de campanhas de marketing.</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">Partição de pessoas</a></strong></td>

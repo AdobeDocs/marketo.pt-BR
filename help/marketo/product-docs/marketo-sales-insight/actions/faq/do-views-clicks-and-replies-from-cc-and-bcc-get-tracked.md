@@ -2,10 +2,10 @@
 description: Saiba se os destinatários CC e CCO são rastreados para exibições, cliques e respostas. Entenda o comportamento de rastreamento para vários recipients.
 title: As exibições, cliques e respostas dos destinatários listados na seção CC e CCO do email são rastreados?
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 34%
+source-wordcount: '118'
+ht-degree: 33%
 
 ---
 

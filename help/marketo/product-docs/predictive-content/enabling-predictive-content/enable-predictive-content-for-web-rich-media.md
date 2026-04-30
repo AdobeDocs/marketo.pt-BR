@@ -4,9 +4,9 @@ description: Saiba como ativar o conteúdo preditivo para modelos de mídia avan
 title: Habilitar conteúdo preditivo para mídia avançada da Web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '338'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ O conteúdo preditivo envolve os visitantes da Web com o conteúdo mais relevant
 
 >[!NOTE]
 >
->Recomenda-se ativar mais de cinco partes de conteúdo por categoria e por origem (email, mídia avançada, barra) antes de testar e usar o Conteúdo preditivo. Mais conteúdo oferece um resultado preditivo melhor.
+>é recomendável ativar mais de cinco partes de conteúdo por categoria e por origem (email, mídia avançada, barra) antes de testar e usar o Conteúdo preditivo. Mais conteúdo oferece um resultado preditivo melhor.
 
 >[!PREREQUISITES]
 >
@@ -47,7 +47,7 @@ Depois de preparar o título do conteúdo, a descrição e a imagem para a mídi
 
 ## Personalize o código Javascript e incorpore-o ao seu site  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte a documentação do modelo de Recomendação de Mídia Avançada [no site de Desenvolvedores do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Isso explica como personalizar o modelo para seu site.
+Consulte a documentação do modelo de Recomendação de Mídia Avançada [no site de Desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Isso explica como personalizar o modelo para seu site.
 
 Cole o código do JavaScript no site no local onde deseja que o modelo apareça.
 

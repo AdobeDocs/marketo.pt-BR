@@ -4,9 +4,9 @@ description: Saiba como inserir campos dinâmicos em modelos do Sales Connect. A
 title: Como inserir campos dinâmicos
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '246'
 ht-degree: 4%
 
 ---
@@ -29,7 +29,7 @@ Permitimos que você personalize seus modelos de email com atributos predefinido
    >
    >Ao enviar por email contatos que existem no [!DNL Sales Connect], você pode usar os campos dinâmicos básicos. Eles extrairão diretamente do contato.
 
-Se estiver enviando emails para contatos existentes no [!DNL Salesforce], você poderá aproveitar os campos dinâmicos do [!DNL Salesforce]. Todos eles começam com &quot;sfdc&quot;. Desde que você tenha uma conexão com [!DNL Salesforce], esses campos chamarão diretamente o cliente potencial/contato em [!DNL Salesforce] para preencher as informações no modelo.
+Se você estiver enviando emails para contatos existentes no [!DNL Salesforce], poderá aproveitar os campos dinâmicos do [!DNL Salesforce]. Todos eles começam com &quot;sfdc&quot;. Desde que você tenha uma conexão com [!DNL Salesforce], esses campos chamarão diretamente o cliente potencial/contato em [!DNL Salesforce] para preencher as informações no modelo.
 
 ## Inserir Campos Dinâmicos em uma Linha de Assunto {#insert-dynamic-fields-in-a-subject-line}
 

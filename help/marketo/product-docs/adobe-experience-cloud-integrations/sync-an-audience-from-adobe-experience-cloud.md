@@ -3,9 +3,9 @@ description: Saiba como sincronizar um público-alvo do Adobe Experience Cloud c
 title: Sincronizar um público-alvo da Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 5%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 5%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. Para o destino, você pode selecionar uma lista existente ou digitar o nome de uma nova. Neste exemplo, estamos criando um novo. Clique em **[!UICONTROL Sincronizar]** quando terminar.
+1. Para o destino, você pode selecionar uma lista existente ou digitar o nome de uma nova. Neste exemplo, uma nova lista está sendo criada. Clique em **[!UICONTROL Sincronizar]** quando terminar.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -56,7 +56,7 @@ Uma outra etapa é necessária para associar o perfil de usuário anônimo a um 
 
 **Por que o tamanho da lista no Marketo é diferente do tamanho da lista no Adobe?**
 
-Uma pessoa também não será sincronizada se não for possível vincular uma ID de cookie da ECID a uma pessoa conhecida no Marketo.
+Uma pessoa também não será sincronizada se uma ID de cookie da ECID não puder ser vinculada a uma pessoa conhecida no Marketo.
 
 **Esta é uma sincronização única?**
 

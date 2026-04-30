@@ -1,9 +1,9 @@
 ---
 description: Saiba como agendar um email de vendas para entrega posterior. Defina a data e a hora da composição em Ações do Sales Insight ou em sua caixa de entrada.
 title: Agendar um email
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 4%
 
 ---

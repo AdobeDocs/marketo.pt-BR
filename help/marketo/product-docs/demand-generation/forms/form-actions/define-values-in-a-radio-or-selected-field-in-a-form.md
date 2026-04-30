@@ -4,9 +4,9 @@ description: Saiba como definir valores em um rádio ou campo suspenso em um for
 title: Definir valores em um botão de seleção ou campo selecionado de um formulário
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '203'
 ht-degree: 14%
 
 ---
@@ -29,7 +29,7 @@ Depois de [definir um tipo de campo](/help/marketo/product-docs/administration/f
 
    >[!NOTE]
    >
-   >O primeiro valor padrão é sempre &quot;[!UICONTROL Selecionar...]&quot; Sinta-se à vontade para editar isso. Se você alterar o botão de opção padrão para outra linha, &quot;[!UICONTROL Selecionar...]&quot; não aparecerá como uma escolha no formulário.
+   >O primeiro valor padrão é sempre &quot;[!UICONTROL Selecionar...]&quot; Fique à vontade para editar isso. Se você alterar o botão de opção padrão para outra linha, &quot;[!UICONTROL Selecionar...]&quot; não aparecerão como uma escolha no formulário.
 
 1. Clique em para adicionar seu valor.
 

@@ -4,16 +4,16 @@ description: Saiba como usar o Feed principal na guia Marketo do Salesforce. Con
 title: Uso do feed de leads
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '351'
 ht-degree: 4%
 
 ---
 
 # Uso do feed de leads {#using-the-lead-feed}
 
-O Feed de lead é uma lista atualizada por minuto de eventos interessantes feitos por seus leads. Você o encontrará no lado direito ao clicar na guia Marketo. É como um RSS ou feed do [!DNL Twitter]. As atualizações mais recentes estão no topo da lista. Use isso para saltar em leads enquanto você ainda está fresco em suas mentes.
+O Feed de lead é uma lista atualizada por minuto de eventos interessantes feitos por seus leads. Você o encontrará no lado direito ao clicar na guia Marketo. É como um RSS ou feed [!DNL Twitter]. As atualizações mais recentes estão no topo da lista. Use isso para saltar em leads enquanto você ainda está fresco em suas mentes.
 
 >[!NOTE]
 >

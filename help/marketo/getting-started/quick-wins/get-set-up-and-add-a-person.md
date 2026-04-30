@@ -4,10 +4,10 @@ description: Configurar e adicionar uma pessoa - Documentos do Marketo - Documen
 title: Configurar e adicionar uma pessoa
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '225'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 96%
 
 ---
 
@@ -73,7 +73,7 @@ Adicione a si mesmo(a) como uma pessoa no Marketo para que possa enviar emails d
 
 ## Configuração concluída {#set-up-complete}
 
-Está tudo pronto para começar sua primeira missão.
+Você está pronto para começar sua primeira missão!
 
 <br> 
 

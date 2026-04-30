@@ -4,10 +4,10 @@ description: Saiba como definir os critérios de vencedor do teste A/B. Defina a
 title: Definir os critérios do vencedor do teste A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 20%
+source-wordcount: '462'
+ht-degree: 23%
 
 ---
 
@@ -28,7 +28,7 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
    <table>
    <tr>
    <td><b>[!UICONTROL Abre]</b></td>
-   <td>Uma página aberta é registrada quando imagens são baixadas em um email. Mesmo que você não inclua uma imagem, por padrão, o Marketo insere um único pixel de rastreamento em todos os emails do HTML.</td>
+   <td>Uma página aberta é registrada quando imagens são baixadas em um email. Mesmo que você não inclua uma imagem, por padrão, o Marketo insere um único pixel de rastreamento em todos os emails HTML.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Cliques]</b></td>
@@ -40,7 +40,7 @@ Ao [adicionar um teste A/B](/help/marketo/product-docs/email-marketing/email-pro
    </tr>
    <tr>
    <td><b>[!UICONTROL Pontuação de Envolvimento]</b></td>
-   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=pt-BR" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
+   <td>A <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">pontuação de engajamento</a> ajuda a determinar a eficácia do conteúdo.</td>
    </tr>
    </table>
 

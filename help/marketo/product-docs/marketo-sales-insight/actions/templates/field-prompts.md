@@ -2,9 +2,9 @@
 description: Saiba mais sobre prompts de campo em modelos de email. Adicione espaços reservados que solicitam que o remetente preencha o conteúdo personalizado ao enviar.
 title: Prompts de campo
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -29,4 +29,4 @@ Para adicionar um prompt de campo, digite o texto desejado. Coloque um ponto de 
 
 >[!NOTE]
 >
->Ao usar prompts com campanhas de vendas, é melhor usá-los com etapas de email manuais. Essas etapas atribuirão ao usuário uma tarefa de lembrete para enviar o email, dando a ele a oportunidade de substituir os prompts por texto personalizado. As etapas automáticas de email das Campanhas de vendas tentarão enviar automaticamente, sem permitir que o usuário substitua os prompts. Os prompts que não forem substituídos farão com que os emails não sejam enviados.
+>Ao usar prompts com Campanhas de vendas, é melhor usá-los com etapas de email manuais. Essas etapas atribuirão ao usuário uma tarefa de lembrete para enviar o email, dando a ele a oportunidade de substituir os prompts por texto personalizado. As etapas automáticas de email das Campanhas de vendas tentarão enviar automaticamente, sem permitir que o usuário substitua os prompts. Os prompts que não forem substituídos farão com que os emails não sejam enviados.

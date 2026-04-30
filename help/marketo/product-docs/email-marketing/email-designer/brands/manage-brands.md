@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 badge: Beta
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 2%
+source-wordcount: '453'
+ht-degree: 4%
 
 ---
 
@@ -84,7 +84,7 @@ Para criar e gerenciar a diretriz da marca, você pode inserir os detalhes por c
 
    >[!NOTE]
    >
-   >Isso cria uma cópia temporária no modo de edição, substituindo a versão ativa após sua publicação.
+   >Essa ação cria uma cópia temporária no modo de edição, substituindo a versão ativa após a publicação.
 
    ![](assets/create-and-manage-brands-11.png)
 

@@ -3,10 +3,10 @@ description: Saiba mais sobre o bate-papo ao vivo para conversas em tempo real e
 title: Visão geral do chat ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 1%
+source-wordcount: '914'
+ht-degree: 2%
 
 ---
 
@@ -41,7 +41,7 @@ Use o cartão de chat ao vivo no [Stream do Designer](/help/marketo/product-docs
 ### Práticas recomendadas {#best-practices}
 
 * Use um cartão de perguntas antes do cartão de chat ao vivo perguntando ao visitante se ele deseja se conectar.
-* Depois que o visitante concordar em se conectar, use o cartão de captura de informações para coletar algumas informações, como nome/sobrenome, endereço de email, cargo etc. (é recomendável solicitar pelo menos o nome e o endereço de email).
+* Depois que o visitante concordar em se conectar, use o cartão de captura de informações para coletar algumas de suas informações, como nome/sobrenome, endereço de email, cargo etc. (é recomendável solicitar pelo menos o nome e o endereço de email).
 
 ## Opções de Cartão de Bate-papo ao Vivo {#live-chat-card-options}
 
@@ -88,7 +88,7 @@ Os agentes de bate-papo ao vivo serão solicitados pelo navegador a mostrar as n
 
 Se os agentes não receberem notificações do navegador mesmo depois de permitirem no navegador, talvez seja necessário ativar as notificações para o navegador nas configurações de notificação do SO:
 
-[Etapas para Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[Etapas para o Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
 [Etapas para Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
@@ -100,7 +100,7 @@ Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na p
 
 >[!TIP]
 >
->Você também tem a opção de configurar as notificações do navegador, que alertarão você caso não esteja conectado ao Dynamic Chat.
+>Você também tem a opção de configurar notificações do navegador, que o alertará caso não esteja conectado ao Dynamic Chat.
 >
 >* Habilitar notificações do navegador no [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Habilitar notificações do navegador no [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}

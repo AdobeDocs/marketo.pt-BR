@@ -4,9 +4,9 @@ description: Saiba como ativar ou desativar assinaturas de relatório para relat
 title: Habilitar/desabilitar assinaturas de relatório
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '89'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ O [!UICONTROL Web Personalization] tem vários relatórios úteis enviados por e
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. Selecione o relatório que deseja assinar e sua frequência. Clique em **[!UICONTROL Salvar]**.
+1. Selecione o relatório que deseja assinar e ele é uma frequência. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/email-settings.png)
 

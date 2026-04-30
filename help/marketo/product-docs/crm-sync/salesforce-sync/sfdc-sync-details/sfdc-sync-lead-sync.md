@@ -4,9 +4,9 @@ description: Saiba mais sobre como a sincronização de clientes potenciais func
 title: Sincronização do SFDC - Sincronização com o lead
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '245'
 ht-degree: 2%
 
 ---

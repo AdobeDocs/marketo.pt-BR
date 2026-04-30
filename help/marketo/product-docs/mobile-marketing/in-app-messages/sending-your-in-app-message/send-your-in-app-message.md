@@ -3,9 +3,9 @@ description: Saiba como enviar a mensagem no aplicativo. Crie um programa, use o
 title: Enviar sua mensagem no aplicativo
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '183'
 ht-degree: 7%
 
 ---
@@ -16,7 +16,7 @@ Depois de criar a mensagem no aplicativo, é hora de enviá-la. Estas são as et
 
 >[!NOTE]
 >
->Quando estiver testando uma mensagem no aplicativo acionada por [!UICONTROL Abrir Aplicativo], baixe o aplicativo no telefone, abra-o e feche-o. Isso inicializa o código SDK. Na próxima vez que você abrir o aplicativo, a mensagem no aplicativo será exibida. Os eventos personalizados são acionados na primeira vez que o aplicativo é aberto.
+>Quando você estiver testando uma mensagem no aplicativo acionada por [!UICONTROL Abrir Aplicativo], baixe o aplicativo no telefone, abra-o e feche-o. Isso inicializa o código SDK. Na próxima vez que você abrir o aplicativo, a mensagem no aplicativo será exibida. Os eventos personalizados são acionados na primeira vez que o aplicativo é aberto.
 
 1. Em [!UICONTROL Atividades de marketing], clique na pasta em que deseja que o programa fique e escolha **[!UICONTROL Novo programa]**.
 

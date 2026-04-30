@@ -4,9 +4,9 @@ description: Saiba mais sobre acionadores e filtros para campanhas inteligentes 
 title: Acionadores e filtros de campanhas inteligentes para dispositivos móveis
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '849'
 ht-degree: 3%
 
 ---
@@ -75,7 +75,7 @@ Use este filtro para descobrir todas as pessoas que já tiveram seu aplicativo i
 
 >[!TIP]
 >
->É uma prática recomendada especificar Tem aplicativo móvel = true e Está habilitado para push = true, bem como o nome do aplicativo móvel ao definir a lista inteligente de quem deve receber uma notificação por push.
+>é uma prática recomendada especificar Tem aplicativo móvel = true e Está habilitado para push = true, bem como o nome do aplicativo móvel ao definir a lista inteligente de quem deve receber uma notificação por push.
 
 O Aplicativo Móvel Está/Foi Instalado
 
@@ -103,7 +103,7 @@ O Aplicativo Móvel Está/Foi Aberto
 
 Teve/Teve Atividade De Aplicativo Móvel
 
-Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e do [para o iOS](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e do [para o iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tem atividade de aplicativo móvel - acionador
 

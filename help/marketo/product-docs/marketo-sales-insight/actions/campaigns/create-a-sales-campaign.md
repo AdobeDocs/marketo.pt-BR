@@ -3,9 +3,9 @@ description: Saiba como criar uma Campanha de vendas com email, chamada, InMail 
 title: Criar uma campanha de vendas
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---

@@ -2,9 +2,9 @@
 description: Saiba como desinstalar o Marketo Sales Connect do Salesforce Classic. Remova as personalizações e botões do Sales Connect do Classic.
 title: Desinstalar o Marketo Sales Connect do Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1196'
 ht-degree: 10%
 
 ---
@@ -151,7 +151,7 @@ Depois de remover todos os objetos da sua conta da Salesforce, siga as etapas ab
 
 1. Clique em **Excluir** ao lado de todas as entradas &quot;MarketoSalesConnectionCustomization&quot; ou &quot;MarketoSalesEngageCustomization&quot; na sua lista.
 
-Pronto!
+Tudo pronto!
 
 Veja a seguir uma lista de todos os objetos que precisam ser removidos da instância do Salesforce:
 

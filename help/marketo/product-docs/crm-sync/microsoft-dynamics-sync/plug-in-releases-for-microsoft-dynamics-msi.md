@@ -4,10 +4,10 @@ description: Saiba mais sobre lançamentos de plug-ins do Microsoft Dynamics MSI
 title: Versões de plug-in para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 1%
+source-wordcount: '499'
+ht-degree: 12%
 
 ---
 
@@ -59,7 +59,7 @@ E é isso! Após a atualização, você verá apenas uma Solução MSI.
    <th>Observações</th>
   </tr>
   <tr>
-   <td>14/02/24</td>
+   <td>02/14/24</td>
    <td>2.00.31</td>
    <td>Alterações na paginação em atividade da Web anônima.
    <p>
@@ -68,67 +68,67 @@ E é isso! Após a atualização, você verá apenas uma Solução MSI.
    Ao atualizar o plug-in do MSI para Dynamics, é recomendável atualizar a chave secreta da API do SOAP e as credenciais do MSI como uma forma de atualização para garantir que nenhuma permissão de acesso ocorra com o novo pacote que está sendo instalado.</td>
   </tr>
   <tr>
-   <td>18/10/23</td>
+   <td>10/18/23</td>
    <td>2.00.30</td>
    <td>Consolidação do registro de erros MSI e remoção de notificações de informações para exibição na entidade de erro do Marketo.</td>
   </tr>
   <tr>
-   <td>19/05/23</td>
+   <td>05/19/23</td>
    <td>2.00.29</td>
    <td>Correção de problemas de paginação de Atividade da Web e Momentos interessantes no painel global.</td>
   </tr>
   <tr>
-   <td>23/03/23</td>
+   <td>03/23/23</td>
    <td>2.00.28</td>
    <td>Criado um <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">novo pacote</a> para MSI para conexões não nativas com o CRM.</td>
   </tr>
   <tr>
-   <td>03/02/22</td>
+   <td>02/03/22</td>
    <td>2.0.0.27</td>
    <td>Layout de conta para Insights: momentos interessantes, alterações de pontuação, atividades da Web, atividades de email.</td>
   </tr>
   <tr>
-   <td>05/01/22</td>
+   <td>01/05/22</td>
    <td>2.0.0.26</td>
    <td>Pontuação de adoção de programa para enviar email.</td>
   </tr>
   <tr>
-   <td>28/10/21</td>
+   <td>10/28/21</td>
    <td>2.0.0.25</td>
    <td>Métricas de pontuação de adoção de produtos, novo Painel global (Atividade da Web, Email, Melhores opções).</td>
   </tr>
   <tr>
-   <td>10/02/21</td>
+   <td>02/10/21</td>
    <td>2.0.0.22</td>
    <td>Remova a Auditoria automática ativada e as alterações na documentação na solução MSI.</td>
   </tr>
   <tr>
-   <td>01/10/20</td>
+   <td>10/01/20</td>
    <td>2.0.0.21</td>
    <td>Correção de erros: atribuição de acesso aos campos de configuração da API MSI para usuários com a função Sales Insight.</td>
   </tr>
   <tr>
-   <td>20/07/20</td>
+   <td>07/20/20</td>
    <td>2.0.0.20</td>
    <td>Correção de erros: adicione uma mensagem de validação para registros não sincronizados.</td>
   </tr>
   <tr>
-   <td>12/06/20</td>
+   <td>06/12/20</td>
    <td>2.0.0.19</td>
    <td>Correção de erros: para ocultar a senha secreta MSI na configuração da API do MSD.</td>
   </tr>
   <tr>
-   <td>26/05/20</td>
+   <td>05/26/20</td>
    <td>2.0.0.18</td>
    <td>Correção de erros: Para alterar a validação da ID de atribuição do MSI para exibir botões MSI.</td>
   </tr>
   <tr>
-   <td>21/05/20</td>
+   <td>05/21/20</td>
    <td>2.0.0.17</td>
    <td>Correção de erros: reexiba o campo do proprietário e torne os campos não obrigatórios.</td>
   </tr>
   <tr>
-   <td>28/04/20</td>
+   <td>04/28/20</td>
    <td>2.0.0.16</td>
    <td>Correção de erros: removendo a dependência do link de configuração do mapa de site do MSD CRM.</td>
   </tr>

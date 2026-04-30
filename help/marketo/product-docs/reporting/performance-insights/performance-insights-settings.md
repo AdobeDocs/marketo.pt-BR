@@ -4,10 +4,10 @@ description: Saiba mais sobre as configurações de Insights de desempenho, incl
 title: Configurações de insights de desempenho
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 10%
+source-wordcount: '402'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Saiba mais sobre as diferentes opções de Configurações em MPI.
 
 >[!NOTE]
 >
->Dependendo do painel em que estiver, você verá diferentes opções de configuração.
+>Dependendo do painel em que você estiver, você verá diferentes opções de configuração.
 
 ## Exibir o sucesso do programa por {#view-program-success-by}
 

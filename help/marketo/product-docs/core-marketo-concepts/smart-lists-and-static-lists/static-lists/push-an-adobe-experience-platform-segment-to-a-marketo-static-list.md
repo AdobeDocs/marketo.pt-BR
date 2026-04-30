@@ -3,9 +3,9 @@ description: Saiba como encaminhar um segmento do Adobe Experience Platform para
 title: Encaminhar um segmento da Adobe Experience Platform para uma lista estática do Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '682'
 ht-degree: 3%
 
 ---
@@ -51,7 +51,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Se você estiver escolhendo Nova Conta, poderá encontrar sua Munchkin ID em **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (também faz parte da URL da Marketo depois de conectado). ID/segredo do cliente que você deve ter seguindo os pré-requisitos na parte superior deste artigo.
+   >Se você estiver escolhendo Nova Conta, poderá encontrar sua Munchkin ID em **[!UICONTROL Admin]** > **[!UICONTROL Munchkin]** (ela também faz parte da URL da Marketo depois de conectada). ID/segredo do cliente que você deve ter seguindo os pré-requisitos na parte superior deste artigo.
 
 1. Escolha a conta de destino e clique em **[!UICONTROL Selecionar]**.
 
@@ -99,7 +99,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
+   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
 
 1. Mapeie o Sobrenome e o Nome da Empresa clicando em **[!UICONTROL Adicionar Novo Mapeamento]** novamente e repita a Etapa 15 duas vezes, escolhendo **[!UICONTROL lastName]** e depois **[!UICONTROL companyName]**.
 

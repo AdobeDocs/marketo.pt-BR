@@ -3,9 +3,9 @@ description: Lista de verificação de atividades de marketing de instância her
 title: Lista de Verificação de Atividades de Marketing de Instância Herdada
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '855'
 ht-degree: 3%
 
 ---
@@ -37,13 +37,13 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
 <li>Todos os programas <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">estão sincronizados com as Campanhas do SFDC</a> (se aplicável)?</li>
 <li>Você tem etapas de fluxo atribuindo um <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de aquisição</a> a pessoas?</li>
 <li>Existe um local central configurado para modelos de programa?
-   <br/>     Caso contrário, escolha entre vários exemplos de programas pré-criados da <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Biblioteca de Programas da Marketo Engage</a>.</li></td>
+   <br/> Caso contrário, escolha entre vários exemplos de programas pré-criados da <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Biblioteca de Programas da Marketo Engage</a>.</li></td>
   </tr>
   <tr>
    <td>Arquivar</td>
    <td><li>Os programas mais antigos <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">foram arquivados</a>?</li>
 <li>Com que frequência sua empresa analisa e arquiva programas antigos?</li>
-<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: É bom fazer uma análise a cada ano.</td>
+<p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: é bom fazer uma revisão todos os anos.</td>
   </tr>
   <tr>
    <td>Notificações</td>
@@ -70,16 +70,16 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
   <tr>
    <td>Tokens</td>
    <td><li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> estão sendo usados nos tipos de programas mais usados?
-   <br/>     Caso contrário, você deve considerar usá-los para aumentar a eficiência.</li>
+   <br/> Caso contrário, você deve considerar usá-los para aumentar a eficiência.</li>
 <li>Se os tokens forem implementados, há tokens de pasta global? Como eles estão sendo usados?</li></td>
   </tr>
   <tr>
    <td>Programas de engajamento</td>
    <td><li>Há <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programas de Participação</a> em execução ao vivo?</li>
 <li>Quantas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">pessoas estão exaustas</a>?
-<br/>     Se houver muitas pessoas exaustas, considere <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adicionar conteúdo</a>.</li>
+<br/> Se houver muitas pessoas exaustas, considere <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">adicionar conteúdo</a>.</li>
 <li>As pessoas <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">estão se envolvendo com o conteúdo</a>?
-<br/>     Caso contrário, considere atualizá-lo e/ou realizar um teste A/B.</li>
+<br/> Caso contrário, considere atualizá-lo e/ou realizar um teste A/B.</li>
 <li>Você encontrou pessoas em vários programas de engajamento? Eles devem estar em mais de um?</li></td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
   <tr>
    <td>Privacidade e conformidade</td>
    <td><li>Você tem programas para garantir a conformidade com as leis de spam e privacidade de dados?
-   <br/>     Considere o <a href="https://business.adobe.com/br/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA etc.</li>
+   <br/> Considere o <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, etc.</li>
 <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: lembre-se de sempre consultar a equipe jurídica sobre esses problemas. Pergunte à sua equipe sobre iniciativas anteriores para manter a conformidade antes de fazer qualquer alteração.</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
   </tr>
   <tr>
    <td>Central de Assinaturas/Preferências</td>
-   <td><li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=pt-BR" target="_blank">Central de Assinaturas/Preferências</a> configurada? Está funcionando como deveria?</li></td>
+   <td><li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Central de Assinaturas/Preferências</a> configurada? Está funcionando como deveria?</li></td>
   </tr>
   <tr>
    <td>Momentos interessantes (se aplicável)</td>

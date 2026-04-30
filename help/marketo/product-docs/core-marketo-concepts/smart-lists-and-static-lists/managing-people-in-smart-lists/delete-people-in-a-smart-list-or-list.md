@@ -4,9 +4,9 @@ description: Saiba como excluir pessoas de uma lista inteligente ou lista estát
 title: Excluir pessoas em uma lista ou lista inteligente
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 6%
 
 ---

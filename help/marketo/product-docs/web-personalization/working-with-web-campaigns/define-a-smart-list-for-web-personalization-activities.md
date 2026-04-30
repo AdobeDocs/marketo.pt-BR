@@ -4,9 +4,9 @@ description: Saiba como definir uma lista inteligente para atividades de persona
 title: Definir uma lista inteligente para atividades de personalização da web
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '307'
 ht-degree: 2%
 
 ---

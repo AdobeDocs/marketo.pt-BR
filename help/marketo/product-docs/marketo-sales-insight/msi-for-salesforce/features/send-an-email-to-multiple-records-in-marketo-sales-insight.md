@@ -4,9 +4,9 @@ description: Saiba como enviar um email para vários registros do Marketo Sales 
 title: Enviar um email para vários registros no Insight de vendas do Marketo
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '149'
 ht-degree: 6%
 
 ---

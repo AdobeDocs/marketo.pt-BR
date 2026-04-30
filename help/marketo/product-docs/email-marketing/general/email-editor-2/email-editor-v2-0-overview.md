@@ -4,10 +4,10 @@ description: Saiba mais sobre o Editor de email v2.0 e seus recursos. Crie e edi
 title: Visão geral do Editor de email v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 85%
+source-wordcount: '462'
+ht-degree: 79%
 
 ---
 
@@ -21,7 +21,7 @@ Visão geral do editor de email clássico.
 
 **Seletor de modelos de email**
 
-Ao criar um novo email, você é direcionado ao [Seletor de modelos de email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Ao criar um novo email, você é levado ao [Seletor de Modelos de Email](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 

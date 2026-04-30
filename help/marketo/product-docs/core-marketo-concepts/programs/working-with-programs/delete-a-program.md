@@ -4,9 +4,9 @@ description: Saiba como excluir um programa no Marketo. Remova os programas desn
 title: Excluir um programa
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '187'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,7 @@ Você pode arquivar um programa, mas às vezes só quer se livrar dele permanent
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selecione o botão de opção &quot;Excluir tudo...&quot;. Revise os efeitos da exclusão do programa e clique em **[!UICONTROL Excluir]** para confirmar.
+1. Selecione a opção &quot;Excluir tudo...&quot; botão de opção. Revise os efeitos da exclusão do programa e clique em **[!UICONTROL Excluir]** para confirmar.
 
 >[!TIP]
 >

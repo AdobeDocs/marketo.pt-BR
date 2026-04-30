@@ -4,9 +4,9 @@ description: Saiba como personalizar URLs de página de aterrissagem com um CNAM
 title: Personalizar os URLs da página de destino com um CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '244'
 ht-degree: 10%
 
 ---

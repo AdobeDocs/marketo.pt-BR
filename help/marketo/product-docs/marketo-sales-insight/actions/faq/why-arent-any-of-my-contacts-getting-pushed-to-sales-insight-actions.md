@@ -3,10 +3,10 @@ description: Solucione problemas quando nenhum contato estiver sincronizando com
 title: Por que nenhum dos meus contatos está sendo encaminhado para as Ações de insight de vendas?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 14%
+source-wordcount: '92'
+ht-degree: 13%
 
 ---
 

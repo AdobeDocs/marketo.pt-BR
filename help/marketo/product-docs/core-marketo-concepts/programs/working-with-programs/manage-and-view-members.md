@@ -4,9 +4,9 @@ description: Saiba como gerenciar e exibir membros do programa. Veja quem está 
 title: Gerenciar e exibir membros
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '267'
 ht-degree: 3%
 
 ---

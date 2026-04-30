@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 91%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 100%
 
 O que é o Marketo Engage, você pergunta? Ótima pergunta!
 
-[Conheça o Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[Saiba mais sobre o Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Iniciar a configuração {#get-set-up}
 
 Com uma pequena ajuda da sua equipe de TI, você pode fazer isso rapidamente.
 
-[Iniciar a configuração](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[Iniciar configuração](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Conclua algumas missões rápidas {#get-some-quick-wins}
 
@@ -125,6 +125,6 @@ Conclua essas missões para conhecer os recursos principais do Marketo Engage.
 </tr>
 </table>
 
-## ETAPA 4 - Parabéns! Você está pronto(a) para a Nation  {#congrats-youre-ready-for-the-nation}
+## ETAPA 4 - Parabéns! Você está pronto para a nação  {#congrats-youre-ready-for-the-nation}
 
 Confira a [Marketing Nation](https://nation.marketo.com){target="_blank"}.

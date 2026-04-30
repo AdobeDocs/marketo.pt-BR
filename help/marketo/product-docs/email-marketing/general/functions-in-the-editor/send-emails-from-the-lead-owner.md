@@ -4,9 +4,9 @@ description: Saiba como enviar emails do endereço do proprietário do lead. Use
 title: Enviar emails do proprietário de leads
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '208'
 ht-degree: 6%
 
 ---
@@ -59,6 +59,6 @@ E se você quiser enviar um email para um cliente potencial em nome do Propriet�
 
    ![](assets/ten.png)
 
-1. Verifique se os campos **[!UICONTROL Responder-para]** e **[!UICONTROL Assunto]** estão preenchidos, e pronto!
+1. Verifique se os campos **[!UICONTROL Responder para]** e **[!UICONTROL Assunto]** estão preenchidos, e pronto!
 
    ![](assets/eleven.png)

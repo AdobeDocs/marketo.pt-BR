@@ -4,9 +4,9 @@ description: Saiba como editar o cabeçalho do seu email (nome, email, resposta,
 title: Editar o cabeçalho do email
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '213'
 ht-degree: 3%
 
 ---
@@ -36,7 +36,7 @@ Também é possível tornar o campo dinâmico usando segmentos.
 
 ![](assets/three-2.png)
 
-O ícone de chave na extremidade direita do campo [!UICONTROL Do endereço] permite saber se você está usando uma assinatura personalizada do DKIM.
+O ícone de chave na extremidade direita do campo [!UICONTROL Do endereço] permite saber se você está usando uma assinatura DKIM personalizada.
 
 ![](assets/four-2.png)
 

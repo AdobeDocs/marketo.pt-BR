@@ -3,9 +3,9 @@ description: Introdução aos webinários interativos no Marketo. Conheça os pr
 title: Introdução a webinários interativos
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '304'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Você leu a [Visão geral dos webinários interativos](/help/marketo/product-doc
 
 **Etapa três (opcional)**: [Adicionar uma Equipe de Webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}{target="_blank"} — Se não estiver planejando hospedar o webinário sozinho, saiba como adicionar apresentadores e co-hosts para compartilhar tarefas de hospedagem/apresentação.
 
-**Etapa quatro**: [Crie seu Webinário Interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} — Depois que o webinário for criado e uma equipe opcional for adicionada, é hora de adaptar o evento às suas necessidades específicas.
+**Etapa quatro**: [Criar o webinário interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} — depois que o webinário for criado e uma equipe opcional for adicionada, é hora de adaptar o evento às suas necessidades específicas.
 
 **Etapa Cinco**: [Promova Seu Webinário](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — Aprenda dicas valiosas sobre como promover seu evento futuro.
 

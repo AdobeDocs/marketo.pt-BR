@@ -4,9 +4,9 @@ description: Saiba como adicionar indivíduos ou grupos a uma campanha de market
 title: Adicionar à campanha de marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 2%
 
    ![](assets/eight.png)
 
-1. Você verá os contatos que se qualificam. Clique em **[!UICONTROL Iniciar]** para adicioná-los.
+1. Você verá os contatos qualificados. Clique em **[!UICONTROL Iniciar]** para adicioná-los.
 
    ![](assets/nine.png)
 
@@ -101,6 +101,6 @@ ht-degree: 2%
 
    ![](assets/eight.png)
 
-1. Você verá os contatos que se qualificam. Clique em **[!UICONTROL Iniciar]** para adicioná-los.
+1. Você verá os contatos qualificados. Clique em **[!UICONTROL Iniciar]** para adicioná-los.
 
    ![](assets/nine.png)

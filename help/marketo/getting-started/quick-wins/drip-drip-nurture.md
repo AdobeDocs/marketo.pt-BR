@@ -4,10 +4,10 @@ description: Drip, Drip, Nurture — Documentação do Marketo — Documentaçã
 title: Estímulo gota a gota
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 27%
+source-wordcount: '471'
+ht-degree: 23%
 
 ---
 
@@ -86,7 +86,7 @@ Você pode criar facilmente um sistema de nutrição avançado e sofisticado no 
 
 ## Etapa 3: adicionar conteúdo a seu fluxo {#step-add-content-to-your-stream}
 
-Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento usando os e-mails que criou.
+Agora é hora de criar um fluxo de conteúdo para o seu programa de engajamento usando os emails que você criou.
 
 1. Selecione seu programa de engajamento e clique na guia **[!UICONTROL Fluxos]**.
 
@@ -130,7 +130,7 @@ Agora é hora de criar um fluxo de conteúdo para seu programa de envolvimento u
 
    >[!NOTE]
    >
-   >A pessoa de teste é a pessoa que verifica se o programa de engajamento está correto antes de enviar para os clientes.
+   >A pessoa de teste é a pessoa que verifica seu programa de engajamento para testar se ele está correto antes de enviar para os clientes.
 
 ## Etapa 6: adicionar uma pessoa de teste ao programa de envolvimento {#step-add-a-test-person-to-your-engagement-program}
 

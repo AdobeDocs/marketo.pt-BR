@@ -4,10 +4,10 @@ description: Saiba mais sobre a conexão de email para usuários do Outlook no S
 title: Conexão de email para usuários do Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 5%
+source-wordcount: '321'
+ht-degree: 4%
 
 ---
 
@@ -43,7 +43,7 @@ Conectar-se ao [!DNL Outlook] significa que você receberá o controle de respos
 
    ![](assets/five-a.png)
 
-1. Selecione a versão do [!DNL Outlook] que você está usando e clique em **[!UICONTROL Avançar]**. Neste exemplo, estamos escolhendo [!DNL Outlook Online].
+1. Selecione a versão de [!DNL Outlook] que você está usando e clique em **[!UICONTROL Avançar]**. Neste exemplo, estamos escolhendo [!DNL Outlook Online].
 
    ![](assets/six-a.png)
 
@@ -68,7 +68,7 @@ Conectar-se ao [!DNL Outlook] significa que você receberá o controle de respos
 
    ![](assets/seven-a.png)
 
-1. Se você não estiver conectado no [!DNL Outlook], digite suas informações de logon e clique em **[!UICONTROL Avançar]**. Se você estiver, escolha a conta à qual deseja se conectar e clique em **[!UICONTROL Avançar]**. Neste exemplo, já estamos conectados.
+1. Se você não tiver feito logon no [!DNL Outlook], insira suas informações de logon e clique em **[!UICONTROL Avançar]**. Se você estiver, escolha a conta à qual deseja se conectar e clique em **[!UICONTROL Avançar]**. Neste exemplo, já estamos conectados.
 
    ![](assets/eight-a.png)
 
@@ -106,7 +106,7 @@ Conectar-se ao [!DNL Exchange On-Premise] significa que você receberá o contro
 
    ![](assets/five-a.png)
 
-1. Selecione a versão do [!DNL Outlook] que você está usando e clique em **[!UICONTROL Avançar]**. Neste exemplo, estamos escolhendo [!DNL Exchange On-premise].
+1. Selecione a versão de [!DNL Outlook] que você está usando e clique em **[!UICONTROL Avançar]**. Neste exemplo, estamos escolhendo [!DNL Exchange On-premise].
 
    ![](assets/six-b.png)
 

@@ -4,10 +4,10 @@ description: Saiba como criar um analisador de caminho de sucesso no Marketo Eng
 title: Criar um analisador de caminho de sucesso
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 5%
+source-wordcount: '202'
+ht-degree: 4%
 
 ---
 

@@ -4,9 +4,9 @@ description: Saiba como configurar o botão Dispensar e aprovar sua mensagem no 
 title: Configurar o botão Dispensar e aprovar a mensagem
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---

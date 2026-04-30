@@ -4,9 +4,9 @@ description: Saiba mais sobre a pontuação de engajamento (0 a 100) e como ela 
 title: Noções básicas sobre a pontuação de engajamento
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 4%
 
 ---
@@ -19,7 +19,7 @@ A pontuação de engajamento facilita a visualização da eficiência do conteú
 
 ![](assets/highestengagementwidget.jpg)
 
-A pontuação é baseada em um algoritmo proprietário que leva em conta o comportamento envolvido ([!UICONTROL Abrir], [!UICONTROL Clicar], [!UICONTROL Êxito do Programa]) e o comportamento desconectado ([!UICONTROL Cancelar Inscrição]). Ele é comparado a emails estilo gotejamento e nutrição para dar uma média de 50. Para dar às pessoas a chance de se envolver com seu conteúdo, a pontuação de engajamento é calculada 72 horas após cada elenco. Além disso, a pontuação só cobre dados de **suas últimas três** execuções.
+A pontuação é baseada em um algoritmo proprietário que leva em conta o comportamento envolvido ([!UICONTROL Abrir], [!UICONTROL Clicar], [!UICONTROL Êxito do Programa]) e o comportamento desconectado ([!UICONTROL Cancelar Inscrição]). Ele é comparado a emails de estilo de gotejamento e nutrição para fornecer uma média de 50. Para dar às pessoas a chance de se envolver com seu conteúdo, a pontuação de engajamento é calculada 72 horas após cada elenco. Além disso, a pontuação só cobre dados de **suas últimas três** execuções.
 
 >[!NOTE]
 >

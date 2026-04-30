@@ -3,9 +3,9 @@ description: Explore o conjunto de agentes do Marketo Engage AI projetados para 
 title: Visão geral da IA do Marketo Engage
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '286'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ A IA do Marketo Engage fornece vários agentes projetados para automatizar funç
 
 >[!NOTE]
 >
->Esse recurso está na versão beta aberta e será implantado em fases nos próximos meses. Você saberá quando estiver habilitado para a sua assinatura quando visualizar um bloco _Build com IA_ na tela Minha Marketo.
+>Esse recurso está na versão beta aberta e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar um bloco _Build com IA_ na tela Minha Marketo.
 
 ## Como acessar {#access}
 

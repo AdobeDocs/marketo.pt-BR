@@ -4,9 +4,9 @@ description: Obtenha ajuda sobre a lista de verificação do Smart Campaign. Use
 title: Lista de verificação de campanha inteligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---

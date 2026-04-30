@@ -3,16 +3,16 @@ description: Use a lista de verificação de integração do usuário de Ações
 title: Lista de verificação de integração de usuário do recurso Ações de insight de vendas
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 9%
 
 ---
 
 # Lista de verificação de integração de usuário do recurso Ações de insight de vendas {#sales-insight-actions-user-onboarding-checklist}
 
-Se estiver procurando recursos para começar a usar as Ações de Insight de Vendas do Marketo, [baixe a lista de verificação de integração](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+Se você estiver procurando recursos para começar a usar as Ações de Insight do Marketo Sales, [baixe a lista de verificação de integração](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
 
 >[!NOTE]
 >

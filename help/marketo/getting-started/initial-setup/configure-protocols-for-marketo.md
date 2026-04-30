@@ -4,10 +4,10 @@ description: Configurar protocolos do Marketo Engage – Documentos do Marketo E
 title: Configurar protocolos do Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '2129'
-ht-degree: 100%
+source-wordcount: '2203'
+ht-degree: 83%
 
 ---
 
@@ -39,7 +39,7 @@ Adicione o CNAME da página de destino que eles enviaram a você ao registro DNS
 
 `2` **Adicionar CNAME para links de rastreamento de email**
 
-Adicione o CNAME de email que a equipe de marketing enviou a você para que o `[YourEmailCNAME]` aponte para [MktoTrackingLink], o link de rastreamento padrão atribuído pelo Marketo Engage, no formato:
+Adicione o email CNAME marketing enviado a você, para que `[YourEmailCNAME]` aponte para [MktoTrackingLink], o link de rastreamento padrão atribuído pelo Marketo Engage, no formato:
 `[YourEmailCNAME].[YourDomain].com` NO CNAME `[MktoTrackingLink]`
 
 Por exemplo:
@@ -91,12 +91,12 @@ Sua equipe de marketing também deve ter enviado informações de DKIM (Domain K
 1. Para configurar a SPF, adicione a seguinte linha às entradas de DNS:
 
    `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
-include: mktomail.com ~all
+incluir: mktomail.com ~all
 
-   Se já tivermos um registro de SPF em nossa entrada DNS, basta adicionar o seguinte a ele: 
-include: mktomail.com
+   Se você já tiver um registro SPF na entrada DNS, basta adicionar o seguinte a ele:
+incluir: mktomail.com
 
-   Substitua CompanyDomain pelo domínio principal do seu site (ex: “`(company.com/)`”) e CorpIP pelo endereço IP do seu servidor de email corporativo (ex: “255.255.255.255”). Se você for enviar emails de vários domínios por meio do Marketo Engage, a equipe de TI deve adicionar essa linha para cada domínio (em uma linha).
+   Substitua CompanyDomain pelo domínio principal do seu site (ex: “`(company.com/)`”) e CorpIP pelo endereço IP do seu servidor de email corporativo (ex: &quot;255.255.255.255&quot;). Se você for enviar emails de vários domínios por meio do Marketo Engage, a equipe de TI deve adicionar essa linha para cada domínio (em uma linha).
 
 1. Para o DKIM, crie registros de recursos de DNS para cada domínio que gostaria de configurar. Abaixo estão os registros do host e valores TXT para cada domínio que assinaremos:
 
@@ -117,11 +117,11 @@ Para que o DMARC funcione, você deve ter pelo menos um dos seguintes registros 
 
 Além disso, você deve ter um registro TXT de DNS específico do DMARC para o domínio FROM:. Como opção, você pode definir um endereço de email de sua escolha para indicar para onde os relatórios DMARC devem ser enviados dentro da sua organização, permitindo que você monitore os relatórios.
 
-Como prática recomendada, você deve fazer a implementação do DMARC lentamente, escalando a política do DMARC de p=nenhum para p=colocar em quarentena, para p=rejeitar conforme você entende o impacto potencial do DMARC e define sua política do DMARC para alinhamento relaxado na SPF e no DKIM.
+Como prática recomendada, é recomendável implantar lentamente a implementação do DMARC, escalando sua política do DMARC de p=none para p=quarantine, para p=reject conforme você entende o impacto potencial do DMARC e define sua política do DMARC para alinhamento relaxado no SPF e no DKIM.
 
 ### Exemplo de fluxo de trabalho do DMARC {#dmarc-example-workflow}
 
-1. Se você configurou o recebimento de relatórios DMARC, siga os passos abaixo...
+1. Se estiver configurado para receber relatórios do DMARC, você deve fazer o seguinte...
 
    I. Analise o feedback e os relatórios que você recebe e use (p=nenhum), que instrui o destinatário a não executar nenhuma ação em relação às mensagens que falham na autenticação, mas ainda assim enviar relatórios por email ao remetente.
 
@@ -135,11 +135,11 @@ Como prática recomendada, você deve fazer a implementação do DMARC lentament
 
    I. Revise os relatórios para garantir que os resultados sejam o que era esperado.
 
-1. Se você estiver satisfeito com o comportamento das mensagens no nível p=colocar em quarentena, você pode ajustar a política para (p=rejeitar). A política p=rejeitar instrui o destinatário a negar completamente (rejeição) qualquer email para o domínio com falha na autenticação. Com essa política habilitada, somente os emails que forem verificados como 100% autenticados pelo seu domínio terão chance de serem exibidos na caixa de entrada.
+1. Se você estiver satisfeito com o comportamento das mensagens no nível p=quarentena, será possível ajustar a política para (p=reject). A política p=rejeitar instrui o destinatário a negar completamente (rejeição) qualquer email para o domínio com falha na autenticação. Com essa política habilitada, somente os emails que forem verificados como 100% autenticados pelo seu domínio terão chance de serem exibidos na caixa de entrada.
 
 >[!CAUTION]
 >
->Use esta política com cautela e determine se ela é apropriada para sua organização.
+>Use essa política com cuidado e determine se ela é apropriada para sua organização.
 
 ### Relatórios DMARC {#dmarc-reporting}
 
@@ -147,7 +147,7 @@ O DMARC oferece a capacidade de receber relatórios sobre emails com falhas na S
 
 * Relatórios agregados (RUA): não contêm nenhuma informação de identificação pessoal (PII) que seja sensível ao RGPD (Regulamento Geral sobre a Proteção de Dados).
 
-* Relatórios forenses (RUF): contêm endereços de email que são sensíveis ao GDPR. Antes de usar, é melhor verificar internamente como lidar com informações que precisam estar em conformidade com o RGPD.
+* Relatórios forenses (RUF): contêm endereços de email que são sensíveis ao GDPR. Antes de usar o, é melhor verificar internamente como lidar com informações que precisam ser compatíveis com o GDPR.
 
 O principal uso desses relatórios é receber uma visão geral dos emails que são tentativas de falsificação. São relatórios altamente técnicos e são melhor assimilados por meio de uma ferramenta de terceiros.
 
@@ -190,10 +190,10 @@ Os registros DMARC têm vários componentes, chamados tags DMARC. Cada tag tem u
     <td>fo</td>
     <td>Opcional</td>
     <td>Permite que o proprietário do domínio especifique opções de relatórios.</td>
-    <td>0: gerar relatório se tudo falhar
+    <td>0: Gerar relatório se tudo falhar
     <br>1: gerar relatório se algo falhar
     <br>d: gerar relatório se o DKIM falhar
-    <br>s: gerar relatório se a SPF falhar</td>
+    <br>s: gerar relatório se o SPF falhar</td>
     <td>1 (recomendado para relatórios DMARC)</td>
   </tr>
   <tr>
@@ -227,14 +227,14 @@ Os registros DMARC têm vários componentes, chamados tags DMARC. Cada tag tem u
   <tr>
     <td>adkim</td>
     <td>Opcional</td>
-    <td>Pode ser estrito (s) ou relaxado ®.  Alinhamento simples significa que o domínio é usado na assinatura do DKIM e pode ser um subdomínio do endereço “De”. Alinhamento estrito significa que o domínio usado na assinatura do DKIM deve ser uma correspondência exata do domínio usado no endereço “De”.</td>
+    <td>Pode ser estrito (s) ou relaxado ®. Alinhamento simples significa que o domínio é usado na assinatura do DKIM e pode ser um subdomínio do endereço “De”. Alinhamento estrito significa que o domínio usado na assinatura do DKIM deve ser uma correspondência exata do domínio usado no endereço “De”.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
   <tr>
     <td>aspf</td>
     <td>Opcional</td>
-    <td>Pode ser estrito (s) ou relaxado ®.  Alinhamento simples significa que o domínio ReturnPath pode ser um subdomínio do endereço De. Alinhamento estrito significa que o domínio Return-Path deve corresponder exatamente ao endereço De.</td>
+    <td>Pode ser estrito (s) ou relaxado ®. Alinhamento simples significa que o domínio ReturnPath pode ser um subdomínio do endereço De. Alinhamento estrito significa que o domínio Return-Path deve corresponder exatamente ao endereço De.</td>
     <td>aspf=r</td>
     <td>r</td>
   </tr>
@@ -249,7 +249,7 @@ Há dois tipos de alinhamento para o DMARC — alinhamento DKIM e alinhamento SP
 
 >[!NOTE]
 >
->É recomendável fazer o alinhamento do DMARC no DKIM em relação à SPF para o Marketo Engage.
+>é recomendável fazer o alinhamento do DMARC no DKIM em relação ao SPF para o Marketo Engage.
 
 * DMARC alinhado ao DKIM: para configurar o DMARC alinhado ao DKIM, você deve:
 
@@ -264,19 +264,19 @@ Há dois tipos de alinhamento para o DMARC — alinhamento DKIM e alinhamento SP
 
    * Configurar o DMARC para o domínio Return-Path com marca
 
-* Se você estiver enviando emails do Marketo Engage por meio de um IP dedicado e ainda não tiver implementado o return-path com marca, ou se não tiver certeza, abra um chamado junto ao [Suporte da Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Se você estiver enviando emails da Marketo Engage por meio de um IP dedicado e ainda não tiver implementado um caminho de retorno com marca, ou se não tiver certeza se já implementou, abra um tíquete com o [Suporte da Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Se você estiver enviando emails do Marketo Engage por meio de um pool compartilhado de IPs, poderá verificar se eles estão qualificados para IPs confiáveis [inscrevendo-se aqui](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. O return-path com marca é oferecido gratuitamente para quem envia emails de IPs confiáveis do Marketo Engage. Se aprovado para este programa, entre em contato com o Suporte da Adobe para configurar o return-path com marca.
+* Se você estiver enviando emails do Marketo Engage por meio de um pool compartilhado de IPs, poderá ver se está qualificado para IPs Confiáveis ao [aplicar aqui](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. O return-path com marca é oferecido gratuitamente para quem envia emails de IPs confiáveis do Marketo Engage. Se aprovado para este programa, entre em contato com o Suporte da Adobe para configurar o return-path com marca.
 
    * IPs confiáveis: um conjunto compartilhado de IPs reservado para usuários com baixo volume de envio (&lt;75 mil/mês) que não se qualificam para um IP dedicado. Esses usuários também devem atender aos requisitos de práticas recomendadas.
 
-* Se estiver enviando emails do Marketo Engage por meio de IPs compartilhados e não se qualificar para IPs confiáveis e enviar mais de 100.000 mensagens por mês, você precisará entrar em contato com a Equipe de contas da Adobe (seu gerente de conta) para comprar um IP dedicado.
+* Se você estiver enviando emails da Marketo Engage por meio de IPs compartilhados e não se qualificar para IPs confiáveis e enviar mais de 100.000 mensagens por mês, será necessário entrar em contato com a Equipe de contas da Adobe (seu gerente de conta) para comprar um IP dedicado.
 
 * O alinhamento estrito da SPF não é compatível ou recomendado para o Marketo Engage.
 
 ## Etapa 5: configurar registros MX para o seu domínio {#step-set-up-mx-records-for-your-domain}
 
-Um registro MX permite que você receba emails no domínio de onde está enviando os emails para processar respostas e respostas automáticas. Se estiver enviando do domínio corporativo, provavelmente você já tem essa configuração. Caso contrário, geralmente é possível configurá-lo para mapear para o registro MX do domínio corporativo.
+Um registro MX permite receber emails do domínio do qual você está enviando email para processar respostas e respostas automáticas. Se estiver enviando do domínio corporativo, provavelmente você já tem essa configuração. Caso contrário, geralmente é possível configurá-lo para mapear para o registro MX do domínio corporativo.
 
 ## Endereços IP de saída {#outbound-ip-addresses}
 
@@ -292,7 +292,7 @@ A [sincronização do Salesforce CRM](/help/marketo/product-docs/crm-sync/salesf
 
 **Blocos de endereço IP de saída do Marketo Engage**
 
-As tabelas a seguir englobam todos os servidores Marketo Engage que fazem chamadas de saída. Utilize as listas abaixo se estiver configurando alguma lista de permissões de IP, servidor, firewall, lista de controle de acesso, grupo de segurança ou serviço de terceiros para receber conexões de saída do Marketo Engage.
+As tabelas a seguir englobam todos os servidores Marketo Engage que fazem chamadas de saída. Use as listas abaixo se estiver configurando qualquer incluo na lista de permissões IP, servidor, firewall, lista de controle de acesso, grupo de segurança ou serviço de terceiros para receber conexões de saída do Marketo Engage.
 
 <table>
  <tbody>

@@ -4,16 +4,16 @@ description: Saiba como adicionar uma visualização móvel para sua página de 
 title: Adicionar uma visualização móvel em sua página de destino de forma livre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '150'
 ht-degree: 19%
 
 ---
 
 # Adicionar uma visualização móvel em sua página de destino de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
 
-É fácil fazer suas páginas de aterrissagem de forma livre parecerem ótimas em um smartphone.
+É fácil fazer suas páginas de aterrissagem de forma livre parecem ótimas em um smartphone.
 
 >[!NOTE]
 >

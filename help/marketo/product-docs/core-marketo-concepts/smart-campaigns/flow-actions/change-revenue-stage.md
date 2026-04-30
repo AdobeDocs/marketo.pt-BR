@@ -4,16 +4,16 @@ description: Saiba como alterar o estágio de receita em uma etapa do fluxo do C
 title: Alterar estágio de receita
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 6%
 
 ---
 
 # Alterar estágio de receita {#change-revenue-stage}
 
-Se estiver usando o Revenue Cycle Modeler e tiver um modelo aprovado, você pode decidir mover pessoas manualmente de um estágio para outro. Esta etapa de fluxo ajudará.
+Se você estiver usando o Revenue Cycle Modeler e tiver um modelo aprovado, poderá decidir mover pessoas manualmente de um estágio para outro. Esta etapa de fluxo ajudará.
 
 ![](assets/change-revenue-stage-1.png)
 

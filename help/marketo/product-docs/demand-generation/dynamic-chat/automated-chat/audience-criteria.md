@@ -3,9 +3,9 @@ description: Saiba mais sobre os Critérios de público-alvo para direcionar que
 title: Critérios de público-alvo
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '627'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Semelhante às Smart Lists do Marketo Engage, os atributos de Critérios de púb
 
 ## Prioridade {#priority}
 
-A prioridade determina qual diálogo um lead recebe caso se qualifique para mais de um. É estabelecido quando você [cria sua Caixa de Diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} pela primeira vez. Você pode alterar a prioridade de uma caixa de diálogo existente abrindo-a e acessando **[!UICONTROL Detalhes da caixa de diálogo]** na guia Critérios de público-alvo.
+A prioridade determina qual diálogo um lead recebe caso se qualifique para mais de um. Ele é estabelecido quando você [cria sua Caixa de Diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} pela primeira vez. Você pode alterar a prioridade de uma caixa de diálogo existente abrindo-a e acessando **[!UICONTROL Detalhes da caixa de diálogo]** na guia Critérios de público-alvo.
 
 ![](assets/audience-criteria-1.png)
 

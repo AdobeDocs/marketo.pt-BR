@@ -4,9 +4,9 @@ description: Saiba mais sobre o feed ao vivo no Sales Connect. Visualize o engaj
 title: Visão geral do feed ao vivo
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
@@ -101,4 +101,4 @@ Veja suas principais pessoas (ordenadas da mais alta para a mais baixa) classifi
 
 >[!NOTE]
 >
->Se você está vendo alguém visualizar seu email várias vezes no seu Feed ao vivo, ele pode ter encaminhado o email para recipients adicionais. Esse é o caso mais provável se você observar a localização começar a mudar para essas exibições.
+>Se você estiver vendo alguém visualizar seu email repetidamente no seu Feed ativo, ele pode ter encaminhado o email para recipients adicionais. Esse é o caso mais provável se você observar a localização começar a mudar para essas exibições.

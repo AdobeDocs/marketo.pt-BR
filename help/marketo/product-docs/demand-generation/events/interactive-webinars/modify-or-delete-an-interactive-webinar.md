@@ -3,9 +3,9 @@ description: Saiba como modificar ou excluir um Webinário interativo no Marketo
 title: Modificar ou excluir um webinário interativo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '330'
 ht-degree: 4%
 
 ---
@@ -74,7 +74,7 @@ Saiba como fazer alterações no webinário interativo.
 
    >[!NOTE]
    >
-   >Você só pode salvar um Webinar interativo clonado como um Webinar interativo no momento. Salvar um webinário clonado como um Webinário de parceiro (por exemplo, Zoom, ON24 etc.) estará disponível em breve.
+   >Você só pode salvar um Webinar interativo clonado como um Webinar interativo no momento. Salvar um webinário clonado como um webinário de parceiro (por exemplo, Zoom, ON24 etc.) estará disponível em breve.
 
 1. Escolha as configurações do webinário clonado e clique em **Clonar**.
 

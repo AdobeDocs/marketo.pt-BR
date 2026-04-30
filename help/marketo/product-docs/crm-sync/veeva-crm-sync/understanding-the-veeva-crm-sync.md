@@ -3,7 +3,7 @@ description: Saiba como a sincronização do Veeva CRM funciona entre o Marketo 
 title: Compreendendo a  [!DNL Veeva] Sincronização do CRM
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 9%
@@ -30,8 +30,8 @@ A sincronização entre [!DNL Veeva] e o Marketo Engage é bidirecional somente 
 
 * [Contas Pessoais](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Usuários
-* [Chamar e Chamar Objetos de Chave](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
-* [Objetos Personalizados](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
+* [Chamar e chamar objetos principais](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [Objetos personalizados](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## O que você deve saber {#things-to-know}
 

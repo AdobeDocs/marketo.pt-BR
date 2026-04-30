@@ -4,10 +4,10 @@ description: Saiba como executar uma única etapa do fluxo a partir de uma Smart
 title: Executar uma única etapa de fluxo de uma lista inteligente
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 9%
+source-wordcount: '246'
+ht-degree: 8%
 
 ---
 

@@ -4,10 +4,10 @@ title: Criação de email
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1783'
-ht-degree: 3%
+source-wordcount: '1821'
+ht-degree: 5%
 
 ---
 

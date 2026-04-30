@@ -4,9 +4,9 @@ description: Saiba como usar transições de modelo de receita no Marketo Engage
 title: Uso de transições do modelo de receita
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 >
 >[Criar um Novo Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-Ao criar seu modelo e selecionar e organizar seus estágios de inventário, é hora de definir as transições.
+Ao criar o modelo e selecionar e organizar os estágios de inventário, é hora de definir as transições.
 
 ![](assets/one-2.png)
 
@@ -37,7 +37,7 @@ Ao criar seu modelo e selecionar e organizar seus estágios de inventário, é h
 
    >[!TIP]
    >
-   >Como o modelador de receita está configurando você para relatórios, recomenda-se que as transições sempre incluam acionadores. Dessa forma, seus relatórios refletirão a verdadeira velocidade do fluxo do modelo/estágio. Filtros podem ser adicionados com os acionadores para restrições adicionais.
+   >Como o modelador de receita está configurando você para relatórios, é recomendável que as transições sempre incluam acionadores. Dessa forma, seus relatórios refletirão a verdadeira velocidade do fluxo do modelo/estágio. Filtros podem ser adicionados com os acionadores para restrições adicionais.
 
    ![](assets/four-2.png)
 

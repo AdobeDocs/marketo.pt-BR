@@ -3,9 +3,9 @@ description: Saiba como configurar a personalização dos detalhes de atividade 
 title: Configurar a personalização dos detalhes da atividade do Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '680'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ A Personalização dos detalhes da atividade permite que os administradores conf
 
 >[!NOTE]
 >
->* As atualizações feitas no campo de assunto em [!DNL Sales Connect] de uma tarefa de lembrete serão refletidas no campo de assunto da tarefa [!DNL Salesforce] correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` na Personalização dos Detalhes da atividade.
+>* As atualizações feitas no campo de assunto em [!DNL Sales Connect] de uma tarefa de lembrete serão refletidas no campo de assunto da tarefa [!DNL Salesforce] correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` na Personalização dos detalhes da atividade.
 >* Não há suporte para quebras de linha ao registrar informações no campo de assunto [!DNL Salesforce]. Quaisquer quebras de linha no editor de Personalização de Detalhes da Atividade serão removidas quando um assunto da tarefa de vendas for atualizado.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)

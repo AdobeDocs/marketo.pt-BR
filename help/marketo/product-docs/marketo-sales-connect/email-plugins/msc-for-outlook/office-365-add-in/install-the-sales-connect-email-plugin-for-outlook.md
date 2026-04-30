@@ -4,10 +4,10 @@ description: Saiba como instalar o plug-in de email Sales Connect para Outlook. 
 title: Instalar o Plug-in de Email do Sales Connect para Outlook
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 7%
+source-wordcount: '228'
+ht-degree: 6%
 
 ---
 
@@ -25,7 +25,7 @@ Como Administrador, você pode [instalar em nome de toda a equipe](https://docs.
 >
 >Se você não tiver um botão de loja, não estará na versão mais recente do [!DNL Outlook] para Mac. Siga estas etapas para ser atualizado:
 >
->i. Vá para o botão Ajuda (no início da navegação, à direita de &quot;Outlook&quot;)
+>i) Vá para o botão Ajuda (no início da navegação, à direita de &quot;Outlook&quot;)
 >
 >ii. Escolha **[!UICONTROL Verificar Atualizações]** no menu suspenso
 >

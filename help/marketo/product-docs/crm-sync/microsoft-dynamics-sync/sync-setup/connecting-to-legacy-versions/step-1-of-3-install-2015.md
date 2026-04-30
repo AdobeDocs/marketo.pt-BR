@@ -4,9 +4,9 @@ description: Saiba como instalar a solução Marketo para Dynamics 2015 no local
 title: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 1 de 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '315'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 2015 No Local com o Marketo, é
 
 >[!PREREQUISITES]
 >
->Se você estiver usando o [!DNL Microsoft Dynamics] No Local, deve ter o [Implantação para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configurados. Observação: o documento IFD é baixado automaticamente quando você clica no link.
+>Se você estiver usando o [!DNL Microsoft Dynamics] No Local, deverá ter o [Implantação para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configurados. Observação: o documento IFD é baixado automaticamente quando você clica no link.
 >
 >[Baixe a Solução de Gerenciamento de Clientes Potenciais da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de começar.
 
@@ -31,7 +31,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 2015 No Local com o Marketo, é
 >
 >Você precisa de privilégios de administrador do CRM para executar esta sincronização.
 
-1. Faça logon em **[!DNL Dynamics].** Clique no menu suspenso **[!UICONTROL Microsoft Dynamics CRM]** e selecione **[!UICONTROL Configurações]**.
+1. Fazer logon em **[!DNL Dynamics].** Clique no menu suspenso **[!UICONTROL Microsoft Dynamics CRM]** e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 

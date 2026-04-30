@@ -3,7 +3,7 @@ description: Saiba mais sobre ações rápidas no Centro de comando para emails 
 title: Ações rápidas no Centro de comando
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 5%

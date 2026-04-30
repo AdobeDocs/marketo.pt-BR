@@ -4,9 +4,9 @@ description: Saiba como alterar um valor de dados em uma etapa do fluxo do Campa
 title: Alterar valor dos dados
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '125'
 ht-degree: 4%
 
 ---

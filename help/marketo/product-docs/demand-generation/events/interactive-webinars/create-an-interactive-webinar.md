@@ -3,10 +3,10 @@ description: Saiba como criar um Webinário interativo no Marketo. Siga as etapa
 title: Criar um webinário interativo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 4%
+source-wordcount: '305'
+ht-degree: 3%
 
 ---
 
@@ -64,4 +64,4 @@ Crie um Webinário interativo em algumas etapas fáceis.
 >
 >Recomenda-se que dois eventos consecutivos sejam espaçados em 30 minutos (a menos que a licença suporte webinários simultâneos) como buffer caso o webinário anterior seja executado além do horário agendado.
 
-Agora, é hora de [criar seu webinário](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Agora é hora de [criar seu webinário](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.

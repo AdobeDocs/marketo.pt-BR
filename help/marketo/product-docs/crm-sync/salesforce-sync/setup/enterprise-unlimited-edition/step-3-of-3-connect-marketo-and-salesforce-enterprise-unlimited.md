@@ -4,7 +4,7 @@ description: Saiba como conectar o Marketo e o Salesforce na etapa final Enterpr
 title: Etapa 3 de 3 - Conectar o Marketo e o Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%

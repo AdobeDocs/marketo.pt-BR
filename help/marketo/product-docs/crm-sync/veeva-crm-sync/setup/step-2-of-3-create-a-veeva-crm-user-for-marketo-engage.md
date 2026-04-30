@@ -3,9 +3,9 @@ description: Saiba como criar um usuário do Veeva CRM para sincronização com 
 title: Etapa 2 de 3 - Criar um usuário do Veeva CRM para Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '644'
 ht-degree: 6%
 
 ---
@@ -66,7 +66,7 @@ Seguir essas etapas permitirá que o usuário de sincronização do Marketo atua
    >
    >Crie duas colunas para os campos arrastando para o lado direito da página. Você pode mover campos de um lado para o outro para equilibrar os comprimentos de coluna.
 
-1. Quando terminar com o Layout do [!UICONTROL HCP-Profissional], clique em **[!UICONTROL Salvar]**.
+1. Quando terminar com o Layout [!UICONTROL HCP-Profissional], clique em **[!UICONTROL Salvar]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-6.png)
 

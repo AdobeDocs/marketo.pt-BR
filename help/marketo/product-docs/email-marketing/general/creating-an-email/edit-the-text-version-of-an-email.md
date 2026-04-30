@@ -4,9 +4,9 @@ description: Saiba como editar a versão de texto de um email. Atualize a versã
 title: Editar a versão de texto de um email
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '249'
 ht-degree: 5%
 
 ---
@@ -41,4 +41,4 @@ Ao criar um email, talvez você queira que sua versão de texto seja redigida de
 
 >[!CAUTION]
 >
->Selecionar **Copiar do HTML** ou remarcar **Copiar automaticamente do HTML** em emails com conteúdo dinâmico definirá o sinalizador Revisado como _true_ para todos os segmentos (produzindo a marca de seleção verde que indica que ele foi revisado) nas versões do email do HTML e do Text. Se você executar qualquer uma das ações acima, verifique seu conteúdo novamente antes de enviar.
+>Selecionar **Copiar do HTML** ou remarcar **Copiar automaticamente do HTML** em emails com conteúdo dinâmico definirá o sinalizador Revisado como _true_ para todos os segmentos (produzindo a marca de seleção verde que indica que ele foi revisado) nas versões HTML e Text do email. Se você executar qualquer uma das ações acima, verifique seu conteúdo novamente antes de enviar.

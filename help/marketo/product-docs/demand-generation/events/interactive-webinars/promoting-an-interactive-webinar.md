@@ -3,9 +3,9 @@ description: Saiba como promover um webinário interativo no Marketo. Compartilh
 title: Promover um webinário interativo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '801'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Depois que os membros forem adicionados ou importados, você poderá criar uma c
 >
 >Se você quiser adicionar um co-host ou apresentador como membro do público-alvo do programa Evento de webinário interativo, use uma ID de email diferente para ele, caso contrário, ele receberá um erro &quot;este email já está registrado&quot;.
 
-O email pode conter detalhes específicos do programa, bem como incluir um URL de página de aterrissagem que redirecionaria o recipient para uma página específica onde mais informações sobre o webinário (por exemplo, conteúdo, informações do apresentador etc.) podem ser adicionadas. Essa landing page pode ser criada como um ativo local no programa de evento de webinários interativos.
+O email pode conter detalhes específicos do programa, bem como incluir um URL de página de aterrissagem que redirecionaria o recipient para uma página específica onde mais informações sobre o webinário (por exemplo, conteúdo, informações do apresentador etc.) pode ser adicionado. Essa landing page pode ser criada como um ativo local no programa de evento de webinários interativos.
 
 Você pode solicitar o registro para esse webinário ativando um formulário na página de aterrissagem e vinculando os cliques do formulário ao registro ativado no programa de evento de webinário interativo. Uma campanha pode ser criada usando envios de formulários como um acionador e alterando o Status do programa de &quot;convidado&quot; para &quot;registrado&quot;.
 
@@ -46,7 +46,7 @@ Webinars interativos permitem solicitar registro antes, durante ou depois de um 
 
 ## Tokens de webinários interativos {#interactive-webinars-tokens}
 
-Use tokens para promover Webinars interativos em emails sem precisar adicionar manualmente os detalhes do webinário. Isso melhora a eficiência geral, pois qualquer alteração feita nos metadados do webinário (como título do webinário, data de início etc.) será refletida automaticamente em seus ativos.
+Use tokens para promover Webinars interativos em emails sem precisar adicionar manualmente os detalhes do webinário. Isso melhora a eficiência geral, pois quaisquer alterações feitas nos metadados do webinário (como título do webinário, data de início etc.) refletirá automaticamente em seus ativos.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 

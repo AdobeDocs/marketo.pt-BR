@@ -3,9 +3,9 @@ description: Saiba como criar um novo Fluxo de conversa no Dynamic Chat. Escolha
 title: Criar um fluxo de conversa
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '109'
 ht-degree: 7%
 
 ---

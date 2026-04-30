@@ -4,9 +4,9 @@ description: Saiba como excluir conteúdo da página Todo o conteúdo quando nã
 title: Excluir conteúdo
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '74'
 ht-degree: 5%
 
 ---

@@ -4,10 +4,10 @@ description: Saiba como criar um analisador de influência de oportunidade no Ma
 title: Criar um analisador de influência de oportunidade
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 5%
+source-wordcount: '227'
+ht-degree: 4%
 
 ---
 
@@ -52,7 +52,7 @@ Use o Analisador de influência de oportunidade para mostrar a contribuição do
    >
    >Na maioria dos casos, **[!UICONTROL Todos os tempos]** é a escolha mais simples.
 
-1. É isso aí! Clique na guia principal para ver os momentos e os sucessos interessantes envolvidos na oportunidade.
+1. Você está aí! Clique na guia principal para ver os momentos e os sucessos interessantes envolvidos na oportunidade.
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

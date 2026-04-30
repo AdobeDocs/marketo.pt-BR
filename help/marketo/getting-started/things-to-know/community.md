@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ CAPTURA DE TELA
 
 ## Enviar uma pergunta {#submit-a-question}
 
-É aqui que você normalmente pedirá ajuda. Inicie um thread de discussão (ou pesquise por um já existente) quando estiver procurando feedback sobre um problema específico ou vá para o thread de outra pessoa para ajudá-la com um problema sobre o qual você tem conhecimento.
+É aqui que você normalmente pedirá ajuda. Inicie um thread de discussão (ou procure um já existente) quando estiver procurando por feedback sobre um problema específico ou vá para o thread de outra pessoa para ajudá-la com um problema sobre o qual você tem conhecimento.
 
 CAPTURA DE TELA
 
@@ -84,7 +84,7 @@ CAPTURA DE TELA
 >
 >Isso só é aplicável para quem tem várias assinaturas do Marketo Engage e criou inadvertidamente vários perfis ao fazer logon na Comunidade da nação de marketing.
 
-Siga as etapas abaixo para mesclar o histórico em vários perfis da comunidade. Recomenda-se substituir o Perfil da comunidade que tenha menos atividade da comunidade nele, pois os dados substituídos não podem ser recuperados.
+Siga as etapas abaixo para mesclar o histórico em vários perfis da comunidade. É recomendável substituir o Perfil da comunidade que tenha menos atividade da comunidade nele, pois os dados substituídos não podem ser recuperados.
 
 Envie um email para `ccare@marketo.com` para solicitar que os dados de seus diferentes perfis da comunidade sejam mesclados ao perfil associado à sua assinatura de produção primária. Quando os perfis forem mesclados, você perderá a atividade histórica do perfil substituído de sua escolha.
 

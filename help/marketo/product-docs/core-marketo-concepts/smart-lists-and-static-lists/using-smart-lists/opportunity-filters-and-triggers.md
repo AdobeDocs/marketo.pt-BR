@@ -4,9 +4,9 @@ description: Saiba mais sobre filtros e acionadores de oportunidade no Marketo. 
 title: Filtros e acionadores de oportunidade
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '482'
 ht-degree: 6%
 
 ---
@@ -27,7 +27,7 @@ Os filtros de oportunidade permitem que você detalhe seus clientes potenciais d
 * A oportunidade foi removida
 * A oportunidade foi atualizada
 
-Se estiver procurando seus campos de Oportunidade (personalizados ou padrão), use o filtro **Tem Oportunidade** ou **A oportunidade tinha`[Added/Removed/Updated]`** filtros ou acionadores.
+Se você estiver procurando seus campos de Oportunidade (personalizados ou padrão), use o filtro **Tem Oportunidade** ou **A oportunidade tinha`[Added/Removed/Updated]`** filtros ou acionadores.
 
 **Número de Opções, Valor Total da Opção, Receita Total Esperada da Opção**
 

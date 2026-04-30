@@ -2,9 +2,9 @@
 description: Saiba mais sobre a guia Mapa de engajamento e seus acionadores, filtros e cartões de fluxo. Clique em cartões para exibir detalhes e editar elementos de campanha.
 title: Guia Mapa de engajamento
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '968'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Etapas de Fluxo: se uma Etapa de Fluxo _não_ incluir opções, este cartão mos
    * Campanha à qual a Etapa de fluxo pertence
    * Editar etapa do fluxo
    * Lista de atributos associados à Etapa de fluxo
-   * Botão &quot;Exibir lista&quot;, que abre uma lista de campanhas que usam a Campanha de Solicitação/Execução específica
+   * Botão &quot;Exibir lista&quot;, que abre uma lista de campanhas que usam a Solicitação específica ou Executar a campanha
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ Etapas de Fluxo: se uma Etapa de Fluxo _não_ incluir opções, este cartão mos
    * Campanha à qual a escolha pertence
    * Editar escolha
    * Lista de condições de escolha associadas à Etapa de fluxo
-   * Lista de exibição, que abre uma lista de campanhas que usam a Campanha de Solicitação/Execução específica
+   * Lista de exibição, que abre uma lista de campanhas que usam a Solicitação específica ou Executar campanha
 
   ![](assets/engagement-map-tab-10.png)
 
@@ -101,7 +101,7 @@ Você pode clicar na Etapa Executar Fluxo da Campanha na &quot;Campanha B&quot;,
 
 As campanhas de solicitação são executadas em paralelo com a campanha principal. As pessoas qualificadas para uma campanha de solicitação concluem todas as Etapas de fluxo da campanha e depois saem da campanha. Simultaneamente, o mesmo conjunto de pessoas passa pelas Etapas de fluxo da campanha principal.
 
-Este é um exemplo de uma Campanha inteligente, &quot;Campanha A&quot;, que inclui uma etapa de fluxo de campanha de solicitação. Pense na &quot;Campanha A&quot; como sua campanha principal.
+Veja abaixo um exemplo de uma Campanha inteligente, &quot;Campanha A&quot;, que inclui uma etapa de fluxo de campanha de solicitação. Pense na &quot;Campanha A&quot; como sua campanha principal.
 
 ![](assets/engagement-map-tab-14.png)
 
@@ -116,7 +116,7 @@ Você pode se aprofundar em suas campanhas aninhadas se qualquer uma das Etapas 
 
 ![](assets/engagement-map-tab-16.png)
 
-Este é um exemplo de uma campanha de solicitação com opções.
+Veja abaixo um exemplo de uma campanha de solicitação com opções.
 
 ![](assets/engagement-map-tab-17.png)
 

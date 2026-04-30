@@ -4,10 +4,10 @@ description: Saiba como alterar o estilo e a cor do botão de envio em um formul
 title: Alterar o estilo e a cor do botão Enviar
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 13%
+source-wordcount: '163'
+ht-degree: 12%
 
 ---
 
@@ -61,4 +61,4 @@ Se você achar o botão de envio padrão maçante, ou se precisar de algo mais s
 
    >[!NOTE]
    >
-   >Como muitos elementos gráficos, o botão pode parecer diferente dependendo do navegador que você está usando.
+   >Como muitos elementos gráficos, o botão pode parecer diferente dependendo do navegador usado.

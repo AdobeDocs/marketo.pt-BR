@@ -3,9 +3,9 @@ description: Saiba como enviar uma mensagem SMS por lote ou campanha de acionado
 title: Enviar uma mensagem de SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '342'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Você [criou sua mensagem SMS](/help/marketo/product-docs/mobile-marketing/vibes
 >Ao enviar mensagens SMS:
 >
 >* A Marketo Engage elimina a duplicação por número de telefone. Assim, se várias pessoas tiverem o mesmo número de telefone, somente uma pessoa receberá a mensagem se for membro de apenas uma lista de assinaturas Vibes. A desduplicação é feita no nível da lista de assinaturas Vibes, não no nível do programa Marketo.
->* O Marketo incluir na lista de bloqueios não enviará para as pessoas que estão aprovadas ou com suspensão de marketing.
+>* O Marketo não enviará para as pessoas que estão aprovadas ou com suspensão de marketing.
 >* Uma mensagem SMS não enviará a ninguém que tenha cancelado a assinatura se não estiver na lista do banco de dados móvel do Vibes.
 
 ## Enviar um SMS em lote {#send-a-batch-sms}

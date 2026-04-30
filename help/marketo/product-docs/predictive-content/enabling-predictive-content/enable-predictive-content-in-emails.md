@@ -4,9 +4,9 @@ description: Saiba como tornar as imagens de email preditivas com a IA de conte�
 title: Habilitar conteúdo preditivo em emails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para 
 
 >[!NOTE]
 >
->Recomenda-se ativar mais de cinco partes de conteúdo por categoria e por origem (email, mídia avançada, barra) antes de testar e usar o Conteúdo preditivo. Mais conteúdo oferece um resultado preditivo melhor.
+>é recomendável ativar mais de cinco partes de conteúdo por categoria e por origem (email, mídia avançada, barra) antes de testar e usar o Conteúdo preditivo. Mais conteúdo oferece um resultado preditivo melhor.
 
 >[!PREREQUISITES]
 >
@@ -69,7 +69,7 @@ Torne uma ou mais imagens no seu email preditiva, adaptando a experiência para 
    >
    >A imagem não é selecionada **_até que o destinatário abra o email_**. Portanto, o que você vê na visualização é apenas um exemplo e não será necessariamente a imagem que o recipient vê.
 
-1. Quando terminar de visualizar seu email, clique no menu suspenso **[!UICONTROL Ações de Visualização]** e selecione **[!UICONTROL Aprovar e Fechar]**. Ou se ainda tiver que fazer edições, clique em **[!UICONTROL Editar rascunho]** à direita.
+1. Quando tiver terminado de visualizar seu email, clique no menu suspenso **[!UICONTROL Ações de Visualização]** e selecione **[!UICONTROL Aprovar e Fechar]**. Ou se ainda tiver que fazer edições, clique em **[!UICONTROL Editar rascunho]** à direita.
 
    ![](assets/eight.png)
 

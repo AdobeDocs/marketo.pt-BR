@@ -4,9 +4,9 @@ description: Saiba mais sobre endereços IP compartilhados e dedicados e seus pr
 title: Endereços IP compartilhados e dedicados
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '450'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ _Vantagens_
 
 **Reputação** - Você é totalmente proprietário da sua reputação e capacidade de entrega.
 **Monitoramento** - O monitoramento dos relatórios de capacidade de entrega permite que você responda rapidamente às alterações em suas métricas de entrega.
-**Resolução de problemas** - É mais fácil pesquisar, entender e resolver problemas de entrega.
+**Resolução de problemas** - é mais fácil pesquisar, entender e resolver problemas de entrega.
 
 _Contras_
 
@@ -53,7 +53,7 @@ _Vantagens_
 
 _Contras_
 
-**Colegas de quarto inválidos** - Se as pessoas com quem você está compartilhando seu IP se envolverem em práticas de envio ruins, suas campanhas de email poderão ser afetadas negativamente.
+**Colegas de quarto ruins** - Se as pessoas com quem você está compartilhando seu IP se envolverem em práticas de envio ruins, suas campanhas de email poderão ser afetadas negativamente.
 **Controle** - Você tem muito menos controle sobre a reputação do remetente.
 **Resolução de Problemas** - Geralmente, pode ser mais difícil resolver um problema ao enviar de IPs Compartilhados.
 

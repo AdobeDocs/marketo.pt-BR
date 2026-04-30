@@ -4,9 +4,9 @@ description: Saiba como configurar o mapeamento organizacional do Adobe no Marke
 title: Configurar o mapeamento da organização da Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '247'
 ht-degree: 6%
 
 ---
@@ -36,7 +36,7 @@ Para sincronizar com aplicativos do Adobe, como o Audience Manager, o conector B
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Insira sua ID organizacional IMS da Adobe (saiba como localizar [aqui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=pt-BR){target="_blank"}) e clique em **[!UICONTROL OK]**.
+1. Insira sua [ID da Organização IMS da Adobe](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) e clique em **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -50,8 +50,8 @@ Para sincronizar com aplicativos do Adobe, como o Audience Manager, o conector B
 
    >[!IMPORTANT]
    >
-   >Por motivos de segurança, você deve ser um Org Admin da Organização da Adobe para a qual deseja mapear. Se você não estiver, a ação falhará. Além disso, o usuário do Adobe e o usuário do Marketo devem usar o mesmo endereço de email ao fazer logon.
+   >Por motivos de segurança, você deve ser um Org Admin da Organização da Adobe para a qual deseja mapear. Caso não esteja, a ação falhará. Além disso, o usuário do Adobe e o usuário do Marketo devem usar o mesmo endereço de email ao fazer logon.
 
-1. Se você _não_ já estiver conectado, um pop-up será exibido em uma nova guia/janela. Fazer logon na organização da Adobe (essa ação valida o acesso à organização).
+1. Se você _não_ já estiver conectado, um pop-up será exibido em uma nova guia ou janela. Fazer logon na organização da Adobe (essa ação valida o acesso à organização).
 
 Agora você pode [compartilhar dados de público-alvo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} com a Adobe Experience Cloud ou [sincronizar um público-alvo](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} dela.

@@ -4,10 +4,10 @@ description: Saiba como adicionar módulos ao seu email no Editor de email 2.0. 
 title: Adicionar módulos ao email
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 4%
+source-wordcount: '265'
+ht-degree: 7%
 
 ---
 

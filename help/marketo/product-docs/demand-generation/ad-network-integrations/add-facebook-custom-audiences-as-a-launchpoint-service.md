@@ -4,9 +4,9 @@ description: Saiba como adicionar Públicos-alvo personalizados do Facebook como
 title: Adicionar [!DNL Facebook] Públicos-alvo Personalizados como um [!DNL LaunchPoint] Serviço
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '320'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Com essa integração, você pode enviar dados de público-alvo de listas estát
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Depois de entrar no [!DNL Facebook], volte para a Marketo. Clique em **[!UICONTROL Autorizar]**.
+1. Depois de fazer logon no [!DNL Facebook], volte para a Marketo. Clique em **[!UICONTROL Autorizar]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 

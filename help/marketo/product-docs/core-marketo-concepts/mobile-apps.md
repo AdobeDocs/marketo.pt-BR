@@ -2,10 +2,10 @@
 unique-page-id: 7516612
 description: Saiba mais sobre os aplicativos móveis da Marketo, incluindo o Check-in do evento e os Momentos Marketo. Faça o check-in dos participantes do evento e visualize os principais insights quando eles forem mais importantes.
 title: Aplicativos móveis
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 7%
+source-wordcount: '70'
+ht-degree: 5%
 
 ---
 

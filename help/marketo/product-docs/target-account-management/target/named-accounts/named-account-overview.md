@@ -4,16 +4,16 @@ description: Saiba mais sobre Contas nomeadas e como elas mantêm as pessoas de 
 title: Visão geral da [!UICONTROL Conta nomeada]
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '254'
 ht-degree: 10%
 
 ---
 
 # Visão geral da [!UICONTROL Conta nomeada] {#named-account-overview}
 
-[!UICONTROL Contas nomeadas] mantêm as pessoas das empresas que você está direcionando. O painel fornece dados atuais de cada atributo para todas as suas contas nomeadas.
+[!UICONTROL Contas nomeadas] contêm as pessoas das empresas que você está direcionando. O painel fornece dados atuais de cada atributo para todas as suas contas nomeadas.
 
 ## Painel de [!UICONTROL Contas Nomeadas] {#named-accounts-dashboard}
 

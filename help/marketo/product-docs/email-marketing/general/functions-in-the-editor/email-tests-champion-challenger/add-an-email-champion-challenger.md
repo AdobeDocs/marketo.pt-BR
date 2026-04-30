@@ -4,16 +4,16 @@ description: Saiba como adicionar um teste de email Especialista/Desafiador. Con
 title: Adicionar um email de controlador/variante
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '219'
 ht-degree: 7%
 
 ---
 
 # Adicionar um email de controlador/variante {#add-an-email-champion-challenger}
 
-É uma boa ideia testar todos os emails que você usa com frequência para garantir que eles estejam funcionando. Uma maneira é comparar a eficácia de um email com outras versões ou desafiantes. Em um teste de campeão/desafiante, você pode testar todo o email, a linha de assunto ou o endereço do remetente.
+É recomendável testar todos os emails usados com frequência para verificar se estão funcionando. Uma maneira é comparar a eficácia de um email com outras versões ou desafiantes. Em um teste de campeão/desafiante, você pode testar todo o email, a linha de assunto ou o endereço do remetente.
 
 O email existente que você está testando é considerado o campeão. Quaisquer variantes criadas em um teste são consideradas desafiantes. Você determina a porcentagem de pessoas que recebem o conteúdo campeão ou o desafiante. Se você tiver definido vários desafiantes, eles serão igualmente distribuídos entre os desafiantes.
 

@@ -4,10 +4,10 @@ description: Saiba como configurar o acesso por push do iOS para seu aplicativo 
 title: Configurar o acesso por push do iOS para aplicativos móveis
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 7%
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 
-Ótimo trabalho! Certifique-se de configurar o aplicativo com o Android.
+Muito bem! Certifique-se de configurar o aplicativo com o Android.
 
 >[!MORELIKETHIS]
 >

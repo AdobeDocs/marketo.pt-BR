@@ -4,9 +4,9 @@ description: Saiba como remover pessoas do fluxo com a etapa Remover do fluxo. I
 title: Remover do fluxo
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '158'
 ht-degree: 3%
 
 ---

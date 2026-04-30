@@ -4,9 +4,9 @@ description: Entenda como o Perfil de Conta classifica as empresas por ICP e adi
 title: Classificação e ajuste da criação de perfis de conta
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '426'
 ht-degree: 5%
 
 ---
@@ -178,6 +178,6 @@ Clique em **[!UICONTROL Atualizar Modelo]** para que as alterações entrem em v
 
 ![](assets/refresh-button.png)
 
-Quando terminar de ajustar o modelo (depois de atualizá-lo), volte para a guia Resultados do Modelo e clique em **[!UICONTROL Salvar e Aplicar Classificações]**.
+Quando terminar de ajustar o modelo (depois de atualizá-lo), volte para a guia Resultados do Modelo e clique em **[!UICONTROL Salvar e aplicar classificações]**.
 
 ![](assets/ranks.png)

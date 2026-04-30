@@ -4,9 +4,9 @@ description: Saiba como aplicar o mascaramento de entrada a um campo de formulá
 title: Aplicar mascaramento de entrada a um campo em um formulário
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '195'
 ht-degree: 12%
 
 ---

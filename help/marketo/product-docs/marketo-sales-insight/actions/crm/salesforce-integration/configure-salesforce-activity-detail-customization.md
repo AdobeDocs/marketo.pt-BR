@@ -3,9 +3,9 @@ description: Saiba como configurar a personalização de detalhes de atividade d
 title: Configurar a personalização dos detalhes da atividade do Salesforce
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: '689'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ A Personalização dos detalhes da atividade permite que administradores configu
 
 >[!NOTE]
 >
->* As atualizações feitas no campo de assunto em [!DNL Sales Insight Actions] de uma tarefa de lembrete serão refletidas no campo de assunto da tarefa [!DNL Salesforce] correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` na Personalização dos Detalhes da atividade.
+>* As atualizações feitas no campo de assunto em [!DNL Sales Insight Actions] de uma tarefa de lembrete serão refletidas no campo de assunto da tarefa [!DNL Salesforce] correspondente, se você estiver usando o campo dinâmico `{{activity_subject}}` na Personalização dos detalhes da atividade.
 >* Não há suporte para quebras de linha ao registrar informações no campo de assunto [!DNL Salesforce]. Quaisquer quebras de linha no editor de Personalização de Detalhes da Atividade serão removidas quando um assunto da tarefa de vendas for atualizado.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)

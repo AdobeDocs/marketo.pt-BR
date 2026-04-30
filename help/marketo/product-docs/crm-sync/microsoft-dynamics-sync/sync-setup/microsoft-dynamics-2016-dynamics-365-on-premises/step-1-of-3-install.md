@@ -3,9 +3,9 @@ description: Saiba como instalar a solução Marketo para Dynamics 2016 ou Dynam
 title: Instalar o Marketo para  [!DNL Microsoft Dynamics] 2016/Dynamics 365 no Local Etapa 1 de 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 com o
 
 >[!PREREQUISITES]
 >
->Se você estiver usando o [!DNL Microsoft Dynamics] No Local, deve ter o [Implantação para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configurados. Observação: o documento IFD é baixado automaticamente quando você clica no link.
+>Se você estiver usando o [!DNL Microsoft Dynamics] No Local, deverá ter o [Implantação para a Internet](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) com os [Serviços de Federação do Ative Diretory](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) configurados. Observação: o documento IFD é baixado automaticamente quando você clica no link.
 >
 >[Baixe a Solução de Gerenciamento de Clientes Potenciais da Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} antes de começar.
 
@@ -30,7 +30,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 com o
 >
 >Você precisa de privilégios de administrador do CRM para executar esta sincronização.
 
-1. Faça logon em **[!DNL Dynamics].** Clique no menu suspenso **[!DNL Microsoft Dynamics]CRM** e selecione **[!UICONTROL Configurações]**.
+1. Fazer logon em **[!DNL Dynamics].** Clique no menu suspenso **[!DNL Microsoft Dynamics]CRM** e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 

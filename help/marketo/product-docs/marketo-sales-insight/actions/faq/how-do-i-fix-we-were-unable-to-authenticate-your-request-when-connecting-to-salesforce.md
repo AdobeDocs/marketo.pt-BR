@@ -3,16 +3,16 @@ description: Corrigir erros de autenticação ao conectar as Ações do Sales In
 title: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
 # Como Corrijo &quot;Não Conseguimos Autenticar Sua Solicitação&quot; Ao Conectar-Se A [!DNL Salesforce] {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Se estiver tentando conectar sua instância do Marketo Sales ao Salesforce e estiver vendo o erro &quot;Não foi possível autenticar sua solicitação&quot;, provavelmente ele está relacionado à configuração da instância do Salesforce.
+Se estiver tentando conectar sua instância do Marketo Sales à Salesforce e estiver vendo o erro &quot;Não foi possível autenticar sua solicitação&quot;, provavelmente ele está relacionado à forma como a instância do Salesforce está configurada.
 
 Há dois tipos de erros que podem estar produzindo esta página de autenticação com falha.
 

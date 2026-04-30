@@ -4,10 +4,10 @@ description: Saiba mais sobre a conexão de email para usuários do Gmail no Sal
 title: Conexão de email para usuários do Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 9%
+source-wordcount: '208'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Conectar-se ao Gmail significa que você receberá o rastreamento de respostas, 
 
 >[!CAUTION]
 >
->Se você está [usando filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} ou regras em sua conta do Gmail para marcar emails automaticamente como lidos, isso pode causar problemas no rastreamento de respostas. Recomendamos desativar todas as regras que marcam automaticamente os emails como lidos ao usar o rastreamento de resposta com o Gmail.
+>Se você está [usando filtros](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} ou regras em sua conta do Gmail para marcar automaticamente os emails como lidos, isso pode causar problemas no rastreamento de respostas. Recomendamos desativar todas as regras que marcam automaticamente os emails como lidos ao usar o rastreamento de resposta com o Gmail.
 
 1. Em [!DNL Sales Connect], clique no ícone de engrenagem e selecione **[!UICONTROL Configurações]**.
 

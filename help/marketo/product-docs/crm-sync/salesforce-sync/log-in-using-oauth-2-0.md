@@ -3,10 +3,10 @@ description: Saiba como conectar o Marketo e o Salesforce usando o OAuth 2.0. Co
 title: Fazer logon usando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 1%
+source-wordcount: '671'
+ht-degree: 2%
 
 ---
 

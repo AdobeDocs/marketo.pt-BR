@@ -4,9 +4,9 @@ description: Saiba como usar estágios de inventário de modelo de receita no Ma
 title: Uso de estágios de inventário do modelo de receita
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '287'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Todos os clientes em potencial e contas conhecidos residem inicialmente no Está
 
 >[!TIP]
 >
->É uma ótima ideia criar um modelo de prática em um programa de gráficos ou apresentação e confirmá-lo com seus colegas primeiro.
+>é uma ótima ideia criar um modelo de prática em um programa de gráficos ou apresentação e confirmá-lo com seus colegas primeiro.
 
 ## Adicionar Um Estágio De Inventário {#add-an-inventory-stage}
 
@@ -63,7 +63,7 @@ Ao selecionar um ícone de Inventário, você pode editar o **[!UICONTROL Nome]*
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Você também pode excluir um estágio clicando nele e, na lista suspensa **[!UICONTROL Ações de Estágio]**, selecione **[!UICONTROL Excluir]**.
+1. Você também pode excluir um estágio clicando nele e, no menu suspenso **[!UICONTROL Ações de Estágio]**, selecione **[!UICONTROL Excluir]**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 

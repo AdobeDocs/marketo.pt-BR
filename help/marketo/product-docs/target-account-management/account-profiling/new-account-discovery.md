@@ -4,9 +4,9 @@ description: Saiba como encontrar novas contas para direcionar usando recomenda�
 title: Nova descoberta de conta
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '323'
 ht-degree: 3%
 
 ---
@@ -25,7 +25,7 @@ A Nova descoberta de conta pode ajudar você a encontrar novas contas para direc
 
 >[!TIP]
 >
->É recomendável pressionar o botão **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja vendo os dados mais recentes. Esta atualização pode levar até 24 horas.
+>é recomendável pressionar o botão **Atualizar contas existentes** antes de executar uma nova pesquisa de conta para garantir que você esteja vendo os dados mais recentes. Esta atualização pode levar até 24 horas.
 
 1. Em Meu Marketo, clique em **[!UICONTROL Gerenciamento de Conta de Destino]**.
 
