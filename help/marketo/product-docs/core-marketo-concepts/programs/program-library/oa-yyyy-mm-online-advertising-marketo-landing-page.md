@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Este é um exemplo de um programa de rastreamento de anúncios online, incluindo uma Página de aterrissagem do Marketo com formulário de registro e utilizando um Programa padrão do Marketo. O link para a oferta pode ser exibido na página de agradecimento, enviado em um email de agradecimento ou em ambos.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
