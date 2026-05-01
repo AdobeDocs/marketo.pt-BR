@@ -4,7 +4,7 @@ description: Saiba mais sobre pessoas de exibição ou visitantes anônimos em r
 title: Exibir pessoas ou visitantes anônimos em relatórios da web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 9%
@@ -35,7 +35,7 @@ Nos relatórios de [[!UICONTROL Atividade da Página da Web]](/help/marketo/prod
    >
    >A inclusão de ISPs para visitantes anônimos gera um relatório mais longo, mas sua exclusão fornece uma visualização mais clara de onde seus visitantes vêm além das fontes padrão, como o Google.
 
-1. Pronto. Clique na guia **[!UICONTROL Relatório]** para voltar e exibir seu relatório com pessoas conhecidas ou anônimas.
+1. Clique na guia **[!UICONTROL Relatório]** para voltar e exibir seu relatório com pessoas conhecidas ou anônimas.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 

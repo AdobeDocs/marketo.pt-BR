@@ -4,10 +4,10 @@ description: Saiba como usar uma duração em uma etapa de fluxo de espera. Paus
 title: Usar uma duração em uma etapa de espera do fluxo
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 9%
+source-wordcount: '216'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa em u
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. Pronto! O fluxo será pausado pela duração especificada. Para opções avançadas, clique no ícone de engrenagem à direita.
+1. O fluxo é pausado pela duração especificada. Para opções avançadas, clique no ícone de engrenagem à direita.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 

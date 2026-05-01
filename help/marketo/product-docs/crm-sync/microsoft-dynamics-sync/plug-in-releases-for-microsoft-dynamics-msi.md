@@ -4,9 +4,9 @@ description: Saiba mais sobre lançamentos de plug-ins do Microsoft Dynamics MSI
 title: Versões de plug-in para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '496'
 ht-degree: 12%
 
 ---
@@ -47,7 +47,7 @@ Se você estiver usando a solução de sincronização nativa do CRM da Marketo 
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 
-E é isso! Após a atualização, você verá apenas uma Solução MSI.
+Após a atualização, você verá apenas uma Solução MSI.
 
 ## Atualizações de versão {#version-updates}
 

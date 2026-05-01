@@ -4,9 +4,9 @@ title: Criação de email
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1821'
+source-wordcount: '1819'
 ht-degree: 5%
 
 ---
@@ -67,7 +67,7 @@ Emails do designer de email só podem ser criados no Design Studio e referenciad
 
 >[!ENDTABS]
 
-Pronto. Agora é hora de projetar seu email.
+Agora é hora de projetar seu email.
 
 ## Escolha seu tipo de conteúdo {#choose-your-content-type}
 

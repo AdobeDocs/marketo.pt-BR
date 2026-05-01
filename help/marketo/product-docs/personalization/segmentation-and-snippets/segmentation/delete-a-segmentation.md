@@ -4,9 +4,9 @@ description: Saiba como excluir uma segmentação que não é mais necessária. 
 title: Excluir uma segmentação
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '104'
 ht-degree: 5%
 
 ---
@@ -36,5 +36,3 @@ Uma segmentação pode ser excluída seguindo as etapas abaixo.
 1. Depois de cancelada a aprovação, clique em **[!UICONTROL Ações de segmentação]** e [!UICONTROL Excluir] a segmentação.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
-
-Pronto. Você não pode recuperá-lo, então certifique-se de não precisar mais dele.

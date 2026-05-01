@@ -4,10 +4,10 @@ description: Saiba como remover pessoas de uma campanha do Salesforce com uma et
 title: Remover da campanha do SFDC
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ Da mesma forma que você pode [Adicionar ao SFDC Campaign](/help/marketo/product
    >
    >Se a pessoa ou o cliente em potencial não for um membro da campanha selecionada, eles serão ignorados.
 
-Pronto! Quando as pessoas ou os clientes potenciais continuarem, eles serão removidos da campanha [!DNL Salesforce] que você escolheu.
+Quando as pessoas ou os clientes potenciais continuarem, eles serão removidos da campanha [!DNL Salesforce] que você escolheu.

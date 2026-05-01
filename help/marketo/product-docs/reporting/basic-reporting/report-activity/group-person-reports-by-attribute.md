@@ -4,10 +4,10 @@ description: Saiba mais sobre relatórios de pessoa de grupo por atributo no Mar
 title: Agrupar relatórios de pessoa por atributo
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -39,7 +39,7 @@ Você pode agrupar seus relatórios pessoais por qualquer atributo de pessoa ou 
    >
    >Se você escolher um atributo que tenha um valor numérico, como _[!UICONTROL Criado às]_ ou _[!UICONTROL Receita anual]_, selecione as métricas no menu suspenso **[!UICONTROL Unidades]** à direita.
 
-   Pronto! Clique na guia **[!UICONTROL Relatório]** para ver seu relatório agrupado de acordo.
+   Clique na guia **[!UICONTROL Relatório]** para ver seu relatório agrupado de acordo.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 

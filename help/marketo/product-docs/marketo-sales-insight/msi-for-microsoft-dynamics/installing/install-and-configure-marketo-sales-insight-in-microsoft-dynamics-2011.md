@@ -4,10 +4,10 @@ description: Saiba como instalar e configurar o Marketo Sales Insight no Microso
 title: Instalar e configurar o Insight de vendas do Marketo no Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 6%
+source-wordcount: '370'
+ht-degree: 7%
 
 ---
 
@@ -91,7 +91,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de 
 
    >[!NOTE]
    >
-   >Os seguintes campos devem ser sincronizados com o Marketo Insight para que _o cliente potencial e o contato_ funcionem:
+   >Os seguintes campos devem ser sincronizados com o Marketo para que _o cliente potencial e o contato_ funcionem:
    >
    >* Prioridade
    >* Urgência
@@ -143,11 +143,9 @@ Configure as funções de usuário para conceder a usuários específicos acesso
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   E é isso! Todos os usuários com acesso agora poderão ver a seção insight de vendas na exibição detalhada de clientes potenciais/contatos.
+   Todos os usuários com acesso agora poderão ver a seção insight de vendas na exibição detalhada de clientes potenciais/contatos.
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
-
-   Parabéns. Você liberou o poder do [!DNL Marketo Sales Insight].
 
 >[!MORELIKETHIS]
 >

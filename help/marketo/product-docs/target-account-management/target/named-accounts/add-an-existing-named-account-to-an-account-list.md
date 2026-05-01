@@ -4,7 +4,7 @@ description: Saiba como adicionar uma conta nomeada existente a uma lista de con
 title: Adicionar uma conta nomeada existente a uma lista de contas
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 8%
@@ -30,8 +30,6 @@ ht-degree: 8%
 1. Clique no menu suspenso **[!UICONTROL Lista de Contas]**, selecione a lista de contas desejada e clique em **[!UICONTROL Adicionar]**.
 
    ![](assets/six-1.png)
-
-   Pronto!
 
 >[!MORELIKETHIS]
 >

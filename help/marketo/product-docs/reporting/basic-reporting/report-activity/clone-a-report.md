@@ -4,9 +4,9 @@ description: Saiba como clonar relatórios para criar duplicatas para personaliz
 title: Clonar um relatório
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '96'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ Crie uma duplicata do seu relatório para personalizá-lo ainda mais sem alterar
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 
-   Pronto - você está pronto para começar a personalizar seu clone!
+   O clone está agora disponível para personalização.
 
    >[!MORELIKETHIS]
    >

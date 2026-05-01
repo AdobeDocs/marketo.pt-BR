@@ -4,10 +4,10 @@ description: Saiba como adicionar pessoas a uma conta nomeada usando ações de 
 title: Adicionar pessoas à conta nomeada
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 7%
+source-wordcount: '200'
+ht-degree: 6%
 
 ---
 
@@ -51,7 +51,7 @@ Há três maneiras diferentes de adicionar pessoas manualmente a uma conta nomea
 
    ![](assets/eight.png)
 
-   Pronto! Em seguida, agende (ou ative) sua campanha inteligente e a etapa de fluxo começará a adicionar pessoas qualificadas à conta nomeada designada.
+   Em seguida, agende (ou ative) sua campanha inteligente e a etapa de fluxo começará a adicionar pessoas qualificadas à conta nomeada designada.
 
 ## Importação de lista {#list-import}
 

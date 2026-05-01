@@ -4,10 +4,10 @@ description: Automatizar um alerta para possíveis pessoas duplicadas - Document
 title: Automatizar um alerta sobre possíveis pessoas duplicadas
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 8%
 
 ---
 
@@ -44,7 +44,7 @@ Deseja receber um alerta sempre que uma pessoa duplicada possível for criada? V
 
    ![](assets/automate-an-alert-3.png)
 
-Pronto! Esta campanha inteligente será acionada sempre que uma nova pessoa com um nome completo existente for criada no Marketo.
+Esta campanha inteligente será acionada sempre que uma nova pessoa com um nome completo existente for criada no Marketo.
 
 >[!MORELIKETHIS]
 >

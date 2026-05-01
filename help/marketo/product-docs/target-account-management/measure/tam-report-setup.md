@@ -4,9 +4,9 @@ description: Saiba como configurar o email semanal Relatório de vendas TAM para
 title: Configuração de relatório do TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 4%
 
 ---
@@ -48,8 +48,6 @@ O Relatório de vendas do TAM é um e-mail personalizado semanal enviado à equi
 1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/seven-2.png)
-
-E é isso!
 
 ## Como cancelar a inscrição {#how-to-unsubscribe}
 

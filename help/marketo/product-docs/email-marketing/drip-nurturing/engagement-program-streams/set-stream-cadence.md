@@ -4,10 +4,10 @@ description: Saiba como definir a cadência de fluxo para programas de envolvime
 title: Definir cadência dos fluxos
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 4%
+source-wordcount: '381'
+ht-degree: 3%
 
 ---
 
@@ -68,8 +68,6 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
    >[!NOTE]
    >
    >Neste exemplo, um email será enviado na quinta-feira. Em seguida, pulamos uma semana e enviamos novamente na terça, quarta e quinta da semana seguinte. E então repetimos novamente.
-
-Pronto! Continue lendo se quiser configurar uma cadência mensal.
 
 ## Mensal {#monthly}
 

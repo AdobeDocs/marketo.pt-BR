@@ -4,9 +4,9 @@ description: Saiba como criar um público-alvo personalizado no Facebook pelo Ma
 title: Criar um público-alvo personalizado no Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '249'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 3%
 >[!PREREQUISITES]
 >
 >* [Adicionar [!DNL Facebook] Públicos-alvo personalizados como um Serviço do LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} na seção de Administrador.
->* [Aceite os Termos de Públicos-alvo personalizados [!DNL Facebook] do &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} na sua conta do [!DNL Facebook].
+>* [Aceite os Termos de Públicos-alvo personalizados](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} do  [!DNL Facebook] na sua conta do [!DNL Facebook].
 
 >[!TIP]
 >
@@ -58,7 +58,7 @@ ht-degree: 3%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   E é isso! No Facebook você verá o novo público em **Ads Manager** > **Audiences**.
+   No Facebook, você verá o novo público em **Ads Manager** > **Audiences**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 

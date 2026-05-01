@@ -4,9 +4,9 @@ description: Saiba como criar um modelo de email no Editor de email 2.0. Criar m
 title: Criar um modelo de email
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 12%
 
 ---
@@ -64,8 +64,6 @@ Se você criou um email que gostaria de salvar como modelo para uso futuro, siga
 1. Clique no menu suspenso **[!UICONTROL Pasta]**, selecione onde deseja que o modelo fique e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/five-1.png)
-
-   E é isso!
 
    >[!CAUTION]
    >

@@ -4,9 +4,9 @@ description: Saiba como criar Smart Lists de conta para identificar contas de al
 title: Listas inteligentes da conta
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '523'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Aqui está como o contêiner ficará.
 >
 >Criar um contêiner de filtros cria uma regra &quot;and&quot;, o que significa que retornará apenas todos os resultados combinados. Neste exemplo, as contas com um setor de serviços de saúde, junto com uma localização na Califórnia _e_ com alguém listado como CFO. Se você não quiser utilizar contêineres, basta soltar o filtro abaixo/acima do filtro existente.
 
-E é isso! Confira a seção abaixo para ver como você pode aproveitar sua [!UICONTROL Lista inteligente de contas].
+Consulte a seção abaixo para ver como você pode aproveitar sua [!UICONTROL Lista inteligente de contas].
 
 >[!TIP]
 >

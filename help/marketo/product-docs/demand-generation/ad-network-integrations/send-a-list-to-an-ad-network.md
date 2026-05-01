@@ -3,9 +3,9 @@ description: Saiba como enviar uma lista estática para o LinkedIn, Facebook ou 
 title: Enviar uma lista para uma rede de publicidade
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '232'
 ht-degree: 7%
 
 ---
@@ -38,9 +38,9 @@ Saiba como enviar uma Lista Estática para o [!DNL LinkedIn], [!DNL Facebook] ou
 
    >[!NOTE]
    >
-   >Se você selecionar &quot;[!UICONTROL Habilitar sincronização contínua de público-alvo]&quot;, a Marketo manterá a lista atualizada na Rede de publicidade escolhida, à medida que a lista for alterada na instância do Marketo. Ambos adicionamos **e** removemos pessoas do público-alvo se elas forem adicionadas/removidas da lista estática.
+   >Se você selecionar &quot;[!UICONTROL Habilitar sincronização contínua de público-alvo]&quot;, a Marketo manterá a lista atualizada na Rede de publicidade escolhida, à medida que a lista for alterada na instância do Marketo. Ambos adicionamos **e** removemos pessoas do público-alvo se elas forem adicionadas ou removidas da lista estática.
 
-1. E é isso! Clique em **[!UICONTROL OK]** para sair.
+1. Clique em **[!UICONTROL OK]** para sair.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

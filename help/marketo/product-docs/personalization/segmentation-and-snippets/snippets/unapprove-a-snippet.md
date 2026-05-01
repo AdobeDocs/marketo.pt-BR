@@ -4,10 +4,10 @@ description: Saiba como cancelar a aprovação de um trecho para fazer alteraç�
 title: Cancelar aprovação de um snippet
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 8%
+source-wordcount: '97'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ Um trecho não aprovado não pode ser usado em emails ou landing pages.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
-Pronto! O trecho está no status de rascunho agora para que você faça alterações ou exclua.
+O trecho está no status de rascunho agora para que você faça alterações ou exclua.

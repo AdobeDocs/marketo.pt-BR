@@ -4,9 +4,9 @@ description: Saiba como agrupar o relatório de desempenho de email por segmenta
 title: Agrupar relatórios de email por segmentações
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 9%
 
 ---
@@ -35,7 +35,7 @@ As segmentações não se destinam apenas ao conteúdo dinâmico. Também é pos
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Pronto! Clique na guia **[!UICONTROL Relatório]**. Se você usar uma segmentação, seu relatório mostrará uma linha para cada segmento.
+1. Clique na guia **[!UICONTROL Relatório]**. Se você usar uma segmentação, seu relatório mostrará uma linha para cada segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

@@ -4,10 +4,10 @@ description: Saiba mais sobre grupos de teste de landing page no Marketo. Execut
 title: Grupos de teste de páginas de destino
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 4%
+source-wordcount: '213'
+ht-degree: 3%
 
 ---
 
@@ -42,14 +42,14 @@ O Marketo rastreia o número de exibições de página e conclusões de formulá
 
    ![](assets/three-1.png)
 
-1. Clique na lista suspensa **[!UICONTROL Ações do Grupo de Teste]** e selecione **[!UICONTROL Aprovar Grupo de Teste]**.
+1. Clique no menu suspenso **[!UICONTROL Ações de Grupo de Teste]** e selecione **[!UICONTROL Aprovar Grupo de Teste]**.
 
    ![](assets/four-1.png)
 
-   Pronto! Agora é possível comparar as estatísticas das Páginas de aterrissagem selecionadas.
+   Agora é possível comparar as estatísticas das Páginas de aterrissagem selecionadas.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Se quiser excluir o Grupo de Teste, basta clicar em **[!UICONTROL Ações de Grupo de Teste]** e selecionar **[!UICONTROL Excluir grupo de teste]**.
+   >Se você quiser excluir o Grupo de Teste, clique em **[!UICONTROL Ações de Grupo de Teste]** e selecione **[!UICONTROL Excluir grupo de teste]**.

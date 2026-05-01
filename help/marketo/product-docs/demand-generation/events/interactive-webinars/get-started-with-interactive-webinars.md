@@ -3,9 +3,9 @@ description: Introdução aos webinários interativos no Marketo. Conheça os pr
 title: Introdução a webinários interativos
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
@@ -29,8 +29,6 @@ Você leu a [Visão geral dos webinários interativos](/help/marketo/product-doc
 **Etapa Cinco**: [Promova Seu Webinário](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"} — Aprenda dicas valiosas sobre como promover seu evento futuro.
 
 **Etapa Seis**: [Forneça Seu Webinário Interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — Tudo o que você precisa saber sobre como apresentar seu webinário.
-
-Pronto!
 
 ## Documentação adicional {#additional-documentation}
 

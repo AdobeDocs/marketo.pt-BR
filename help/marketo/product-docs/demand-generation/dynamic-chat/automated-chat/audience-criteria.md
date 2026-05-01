@@ -3,9 +3,9 @@ description: Saiba mais sobre os Critérios de público-alvo para direcionar que
 title: Critérios de público-alvo
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '624'
 ht-degree: 1%
 
 ---
@@ -65,8 +65,6 @@ Há _muitas_ combinações de atributos para escolher. No exemplo abaixo, estamo
 1. Digite 50 e clique em outro lugar na tela para salvar.
 
    ![](assets/audience-criteria-11.png)
-
-E é isso!
 
 **Pessoas Anônimas**
 

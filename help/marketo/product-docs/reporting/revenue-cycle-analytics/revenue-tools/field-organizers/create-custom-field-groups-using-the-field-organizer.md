@@ -4,9 +4,9 @@ description: Saiba como criar grupos de campos personalizados usando o organizad
 title: Criar grupos de campos personalizados usando o organizador de campos
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1033'
 ht-degree: 4%
 
 ---
@@ -183,5 +183,3 @@ As próximas três seções descrevem como criar um grupo de campos personalizad
    O exemplo abaixo mostra uma entrada para os leads do primeiro trimestre de 2015 até o terceiro trimestre.
 
    ![](assets/16.5.png)
-
-   E é isso! Bom trabalho.

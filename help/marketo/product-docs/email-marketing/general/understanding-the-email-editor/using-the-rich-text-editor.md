@@ -4,9 +4,9 @@ description: Saiba como usar o editor de rich text para conteúdo de email. Form
 title: Uso do editor de rich text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '759'
 ht-degree: 3%
 
 ---
@@ -131,5 +131,3 @@ A configuração do elemento de bloco raiz define quais tags vinculam seu conte�
 1. No menu suspenso **[!UICONTROL Editor de Landing Page]**, selecione `<p>` ou [!UICONTROL Nenhum] e clique em **[!UICONTROL Salvar]**. `<p>` é usado neste exemplo.
 
    ![](assets/five.png)
-
-   E é isso!

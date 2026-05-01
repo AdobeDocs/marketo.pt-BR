@@ -4,9 +4,9 @@ description: Saiba mais sobre os relatórios de Atividade na Web da empresa que 
 title: Relatório de atividades da empresa na web
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '275'
 ht-degree: 6%
 
 ---
@@ -21,13 +21,13 @@ Crie um [Relatório de atividades da página da Web](/help/marketo/product-docs/
 >
 >Para capturar a atividade do seu site na Marketo, primeiro você precisa configurar [up [!DNL Munchkin] no seu site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório]Atividade da Web da Empresa[&#128279;](report-type-overview.md).
+1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o [!UICONTROL Tipo de relatório[Atividade da Web da Empresa]](report-type-overview.md).
 
 1. Opte por [exibir pessoas conhecidas ou anônimas](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) no relatório.
 
 1. [Defina o período do seu relatório](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e clique na guia **[!UICONTROL Relatório]**.
 
-1. Pronto! Revise seu relatório para ver quais empresas estão visitando seu site.
+1. Revise seu relatório para ver quais empresas estão visitando seu site.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 

@@ -4,10 +4,10 @@ description: Saiba como ouvir e agir em atividades comportamentais no nível da 
 title: Acionadores de conta
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '119'
+ht-degree: 3%
 
 ---
 
@@ -39,7 +39,7 @@ Clique na lista suspensa de contas nomeadas...
 
 ![](assets/six-1.png)
 
-Pronto! Depois de concluir o restante da campanha inteligente, lembre-se de ativá-la.
+Depois de concluir o restante da campanha inteligente, ative-a.
 
 >[!MORELIKETHIS]
 >

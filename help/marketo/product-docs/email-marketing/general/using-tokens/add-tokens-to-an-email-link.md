@@ -4,10 +4,10 @@ description: Saiba como adicionar tokens a links de email. Insira valores dinâm
 title: Adicionar tokens a um link de email
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 16%
+source-wordcount: '94'
+ht-degree: 17%
 
 ---
 
@@ -34,8 +34,6 @@ Para inserir parâmetros extras e específicos de pessoas em seus links, é poss
 1. Clique em **[!UICONTROL Salvar]**.
 
    ![](assets/five.png)
-
-   E é isso!
 
 >[!MORELIKETHIS]
 >

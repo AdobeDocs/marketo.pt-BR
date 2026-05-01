@@ -4,9 +4,9 @@ description: Saiba como criar e salvar Gráficos rápidos como miniaturas para e
 title: Gráficos rápidos de insights de email
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---
@@ -55,11 +55,9 @@ Neste exemplo, escolheremos taxa de abertura para as primeiras três semanas de 
 
    ![](assets/8.png)
 
-   E é isso!
-
    >[!TIP]
    >
-   >Para mover qualquer gráfico rápido, basta clicar e arrastá-lo para a posição desejada.
+   >Para mover qualquer gráfico rápido, clique e arraste-o para a posição desejada.
 
 ## Excluir um Gráfico Rápido {#delete-a-quick-chart}
 

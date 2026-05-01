@@ -4,10 +4,10 @@ description: Saiba como arquivar ou desarquivar o conteúdo de fluxo para preser
 title: Arquivar e desarquivar conteúdo de fluxo
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 7%
+source-wordcount: '151'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ Se você não quiser mais usar um conteúdo em um fluxo, é possível [removê-l
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   Pronto! Lembre-se de arquivar se quiser preservar o histórico.
+   Arquive se quiser preservar o histórico.
 
 ## Desarquivar conteúdo de fluxo {#unarchive-stream-content}
 
