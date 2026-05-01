@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
+source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
 workflow-type: tm+mt
-source-wordcount: '9236'
+source-wordcount: '9238'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 99%
       + [Novas práticas recomendadas da instância: documentar sua configuração](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + O que você deve saber {#things-to-know}
       + [Glossário do Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Novo glossário](getting-started/things-to-know/new-glossary.md)
       + [Ícone do glossário](getting-started/things-to-know/icon-glossary.md)
       + [Ícone glossário clássico](getting-started/things-to-know/classic-icon-glossary.md)
       + [Central de ajuda](getting-started/things-to-know/help-center.md)
