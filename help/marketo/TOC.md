@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [Assinar notificações de status do sistema](getting-started/things-to-know/system-status-notifications.md)
       + [Assistente de IA para conhecimento do produto](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Comunidade da nação de marketing](getting-started/things-to-know/community.md)
+      + [Migração do AWS](getting-started/things-to-know/aws-migration.md)
    + Missões rápidas {#quick-wins}
       + [Configurar e adicionar uma pessoa](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Enviar um email](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [Habilitar restrições de pessoa para campanhas inteligentes](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Rastreamento de abertura de email no nível da campanha](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [Filtragem da atividade do bot de email](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Remover texto de cancelamento de inscrição](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Remover texto de cancelamento de inscrição](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + Gerenciamento de campos {#field-management}
          + [Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Bloquear atualizações em um campo](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -202,7 +203,7 @@ ht-degree: 99%
          + [Editar Espaços de Trabalho de Usuário](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Exportar uma lista de usuários e funções](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gerenciamento de funções e permissões de usuário](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Exportar funções e permissões &#x200B;](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Exportar funções e permissões](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrições de permissões de função](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Habilitar a opção “Sem rascunho” para snippets](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Espaços de trabalho e partições de pessoas {#workspaces-and-person-partitions}
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [Sincronização de tarefa de lembrete com o Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Sincronizar pela primeira vez as tarefas do Sales Connect com o Salesforce](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Modelos {#templates}
-         + [Adicionar cancelamentos de inscrição automáticos a um modelo](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [Gerenciar modelos](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [Adicionar texto com hiperlink](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [Arquivar modelos](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [Criar uma nova categoria](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [Criar um novo modelo](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [Personalizar exibição de modelo](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [Excluir uma categoria de modelo](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [Excluir um modelo](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [Editar uma categoria de modelo](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [Marcar um modelo como favorito](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [Mesclar e desduplicar categorias](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Modelos recomendados](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [Modelos compartilhados](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Engajamento de modelo](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [Uso de HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Exibir a lista de modelos como outro usuário](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [Gerenciar categorias de modelo](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + Campos dinâmicos {#dynamic-fields}
             + [Criar campos dinâmicos personalizados](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [Glossário de campos dinâmicos](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
