@@ -4,9 +4,9 @@ description: Saiba como apagar valores de campo em uma etapa do fluxo do Campaig
 title: Limpar valores do campo
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 5%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 5%
 
    >[!CAUTION]
    >
-   >Deixar o novo valor em branco ou simplesmente inserir um ESPAÇO não esvaziará o campo. Você deve digitar NULL. Além disso, lembre-se, as etapas de fluxo não podem ser desfeitas após a execução.
+   >Deixar o novo valor em branco ou inserir um ESPAÇO não esvaziará realmente o campo. Você deve digitar NULL. Além disso, lembre-se de que as etapas de fluxo não podem ser desfeitas após a execução.

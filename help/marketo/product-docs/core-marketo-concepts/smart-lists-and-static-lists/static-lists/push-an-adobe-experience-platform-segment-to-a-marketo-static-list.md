@@ -3,9 +3,9 @@ description: Saiba como encaminhar um segmento do Adobe Experience Platform para
 title: Encaminhar um segmento da Adobe Experience Platform para uma lista estática do Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '683'
 ht-degree: 3%
 
 ---
@@ -16,10 +16,10 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
 >[!PREREQUISITES]
 >
->* [Edite a Função de API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} para verificar se ela tem a permissão **Pessoa de Leitura-Gravação** (localizada no menu suspenso Access API).
+>* [Edite a Função de API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} para confirmar se ela tem a permissão **Pessoa de Leitura-Gravação** (encontrada no menu suspenso Access API).
 >* [Criar um Usuário de API](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"} no Marketo.
->* Vá para **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Encontre o nome da função que você acabou de criar e clique em **[!UICONTROL Exibir Detalhes]**. Copie e salve as informações na **[!UICONTROL ID do Cliente]** e no **[!UICONTROL Segredo do Cliente]**, como você poderia precisar para a Etapa 7.
->* No Marketo, crie uma lista estática ou localize e selecione uma que você já criou. Você precisará da ID dele.
+>* Vá para **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Encontre o nome da função que você criou e clique em **[!UICONTROL Exibir Detalhes]**. Copie e salve as informações na **[!UICONTROL ID do Cliente]** e no **[!UICONTROL Segredo do Cliente]**, como você poderia precisar para a Etapa 7.
+>* No Marketo, crie uma lista estática ou localize e selecione uma que você já tenha criado. Você precisará da ID dela.
 
 1. Faça logon no [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
 
@@ -63,7 +63,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Se você escolher &quot;[!UICONTROL Corresponder somente a pessoas existentes do Marketo]&quot;, será necessário mapear somente o email e/ou a ECID, para que seja possível ignorar as etapas 13 a 16.
+   >Se você escolher &quot;[!UICONTROL Corresponder somente a pessoas existentes do Marketo]&quot;, será necessário mapear apenas o email ou a ECID, para que seja possível ignorar as etapas 13 a 16.
 
 1. Esta seção é opcional. Clique em **[!UICONTROL Criar]** para ignorar.
 
@@ -99,7 +99,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!NOTE]
    >
-   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
+   >Você pode mapear atributos do Experience Platform para qualquer um dos atributos aos quais sua organização tem acesso no Marketo Engage. Use a [Solicitação de API de Descrição](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} para recuperar campos de atributo aos quais sua organização tem acesso.
 
 1. Mapeie o Sobrenome e o Nome da Empresa clicando em **[!UICONTROL Adicionar Novo Mapeamento]** novamente e repita a Etapa 15 duas vezes, escolhendo **[!UICONTROL lastName]** e depois **[!UICONTROL companyName]**.
 
@@ -119,7 +119,7 @@ Esse recurso permite enviar segmentos localizados no Adobe Experience Platform p
 
    >[!IMPORTANT]
    >
-   >Mapear o email e/ou a ECID da guia **[!UICONTROL Namespace de identidade]** é a coisa mais importante a ser feita para garantir que a pessoa corresponda no Marketo. O mapeamento de email garantirá a mais alta taxa de correspondência.
+   >Mapear o email ou a ECID a partir da guia **[!UICONTROL Namespace de identidade]** é a coisa mais importante a ser feita para garantir que a pessoa corresponda no Marketo. O mapeamento de email garantirá a mais alta taxa de correspondência.
 
 1. Agora é hora de escolher os campos de origem. Para email, clique no ícone de cursor.
 

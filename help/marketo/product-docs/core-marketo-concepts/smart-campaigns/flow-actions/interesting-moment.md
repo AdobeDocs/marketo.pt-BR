@@ -4,7 +4,7 @@ description: Saiba como criar um momento interessante em uma etapa de fluxo. Reg
 title: Momento interessante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 3%
@@ -27,7 +27,7 @@ Se você tem o Marketo Sales Insight, pode usar a etapa de fluxo **Momento inter
 
    >[!TIP]
    >
-   >_Menos é mais_. Trabalhe com sua equipe de vendas para garantir que momentos interessantes sejam realmente interessantes.
+   >_Menos é mais_. Trabalhe com sua equipe de vendas para confirmar se momentos interessantes são realmente interessantes.
 
 Você também pode usar [tokens em momentos interessantes](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} para fazer descrições dinâmicas realmente úteis.
 

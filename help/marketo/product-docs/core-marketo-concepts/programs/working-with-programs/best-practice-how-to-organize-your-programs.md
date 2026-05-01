@@ -4,9 +4,9 @@ description: Obtenha ajuda sobre as práticas recomendadas para organizar seus p
 title: Prática recomendada - Como organizar seus programas
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '855'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Há muitas maneiras de organizar a árvore em Atividades de marketing, bem como 
 
 >[!TIP]
 >
->Um dia (quando você for promovido!), outra pessoa tentará dar sentido aos seus programas. Uma boa organização os ajudará a se tornarem produtivos rapidamente.
+>Um dia, alguém pode precisar entender seus programas. Uma boa organização os ajudará a se tornarem produtivos rapidamente.
 
 ## Pastas {#folders}
 
@@ -105,20 +105,20 @@ Eles são usados para fins de limpeza de dados. Ter pastas para as datas em que 
 
 ## Aninhamento de programas de email {#nesting-email-programs}
 
-Programas de e-mail são projetados para ser sua ferramenta de explosão de e-mail. Você pode colocá-los em Eventos ou outros programas para promoções, convites e lembretes. Eles vêm com um painel divertido e outros recursos de teste A/B. Além disso, elas são facilmente manipuladas na exibição do cronograma do programa.
+Programas de e-mail são projetados para ser sua ferramenta de explosão de e-mail. Você pode colocá-los em Eventos ou outros programas para promoções, convites e lembretes. Eles vêm com um painel e outros recursos de teste A/B. Elas também podem ser gerenciadas na visualização de programação do programa.
 
-Você também pode criar um programa de email como um programa independente. Programas de email não são permitidos dentro de outros programas de email. Isso seria loucura!
+Você também pode criar um programa de email como um programa independente. Programas de email não são permitidos dentro de outros programas de email.
 
 ## Clonando {#cloning}
 
-Um dos recursos mais interessantes do Marketo é a capacidade de clonar programas. Isso significa que você pode configurar um &quot;modelo&quot; de programa que tenha todas as campanhas inteligentes e emails desejados. Configure com antecedência e depois clone-o para sua próxima iniciativa de marketing.
+Um dos recursos mais úteis do Marketo é a capacidade de clonar programas. Isso significa que você pode configurar um &quot;modelo&quot; de programa que tenha todas as campanhas inteligentes e emails desejados. Configure com antecedência e depois clone-o para sua próxima iniciativa de marketing.
 
 >[!TIP]
 >
 >Observe os Modelos de evento no exemplo na parte superior. Coloque os diferentes tipos de eventos lá para facilitar a clonagem.
 
-Algumas pessoas até abstraem a maior parte do texto nos emails e landing pages em tokens. Isso permite clonar e editar os tokens. Finalmente, vá para a exibição de cronograma do programa e ajuste as datas, e você estará concluído. Voila!
+Algumas pessoas até abstraem a maior parte do texto nos emails e landing pages em tokens. Isso permite clonar e editar os tokens. Finalmente, vá para a exibição de cronograma do programa e ajuste as datas, e você estará concluído.
 
 ## Resumo {#summary}
 
-Como você pode ver, há muito poder no Marketo. Abordamos as noções básicas aqui, mas considere serviços adicionais de [especialistas da Marketo Engage](https://business.adobe.com/br/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.
+Como você pode ver, há muito poder no Marketo. As noções básicas são abordadas aqui, mas considere os serviços adicionais de [especialistas da Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} para ajustar e preparar-se para o sucesso.

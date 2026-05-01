@@ -4,9 +4,9 @@ description: Saiba mais sobre os tokens de campo personalizado dos membros do pr
 title: Tokens de campo personalizado de membro do programa
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '445'
 ht-degree: 5%
 
 ---
@@ -51,7 +51,7 @@ Você pode inserir tokens de campos personalizados do membro do programa em emai
 
 >[!NOTE]
 >
->Não se esqueça de aprovar seu e-mail.
+>Lembre-se de aprovar seu email.
 
 **Páginas de destino**
 

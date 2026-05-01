@@ -3,9 +3,9 @@ description: Saiba mais sobre a expiração de ativos locais em programas. Defin
 title: Expiração de ativos locais
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '277'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ Antes de agendar a expiração de um ativo, a função Marketo deve ter a permis
 
    ![](assets/local-asset-expiration-4.png)
 
-1. Verifique o(s) ativo(s) para o(s) qual(is) você deseja definir uma data de expiração e clique em **[!UICONTROL Definir expiração]**.
+1. Verifique o ativo para o qual deseja definir uma data de expiração e clique em **[!UICONTROL Definir expiração]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -48,7 +48,7 @@ Antes de agendar a expiração de um ativo, a função Marketo deve ter a permis
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Defina um horário. Você deve agendar um horário para pelo menos 15 minutos no futuro (não se esqueça de inserir AM/PM). Clique em **[!UICONTROL Confirmar]** quando terminar.
+1. Defina um horário. Você deve agendar um horário para pelo menos 15 minutos no futuro (lembre-se de inserir AM/PM). Clique em **[!UICONTROL Confirmar]** quando terminar.
 
    ![](assets/local-asset-expiration-7.png)
 

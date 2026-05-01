@@ -4,16 +4,16 @@ description: Saiba como exibir pessoas bloqueadas em uma Campanha inteligente. V
 title: Exibir pessoas bloqueadas em uma campanha inteligente
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 10%
 
 ---
 
 # Exibir pessoas bloqueadas em uma campanha inteligente {#view-blocked-people-in-a-smart-campaign}
 
-As pessoas bloqueadas no banco de dados do Marketo Engage incluir na lista de bloqueios são marcadas como, canceladas, com suspensão de marketing e/ou têm um email inválido ou vazio.
+As pessoas bloqueadas no banco de dados do Marketo Engage são marcadas como, canceladas, com suspensão de marketing ou têm um email inválido ou vazio.
 
 1. Na Campanha inteligente, clique em **[!UICONTROL Agendar]**. Em **[!UICONTROL Status da Smart List]**, clique no segundo link.
 

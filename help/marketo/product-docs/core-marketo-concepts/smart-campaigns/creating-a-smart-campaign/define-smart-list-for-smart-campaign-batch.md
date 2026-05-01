@@ -4,16 +4,16 @@ description: Saiba como definir a Smart List de uma Campanha inteligente em lote
 title: Definir lista inteligente para campanha inteligente | Lote
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 4%
+source-wordcount: '274'
+ht-degree: 5%
 
 ---
 
 # Definir lista inteligente para campanha inteligente | Lote {#define-smart-list-for-smart-campaign-batch}
 
-As Smart Lists são o mecanismo usado no Marketo Engage para definir &quot;quem&quot; (quais pessoas) incluir, seja um relatório, uma lista ou uma Campanha inteligente. Veja como definir uma Smart List para uma campanha em lote.
+As Smart Lists são o mecanismo usado no Marketo Engage para definir &quot;quem&quot; (quais pessoas) incluir, seja um relatório, uma lista ou uma Campanha inteligente.
 
 >[!CAUTION]
 >

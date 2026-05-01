@@ -4,10 +4,10 @@ description: Obtenha ajuda sobre a lista de verificação do Smart Campaign. Use
 title: Lista de verificação de campanha inteligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 3%
+source-wordcount: '257'
+ht-degree: 2%
 
 ---
 
@@ -49,7 +49,7 @@ Na guia **[!UICONTROL Agendamento]**, verifique o **[!UICONTROL Status da Smart 
 
 ## Verificar Limite de Restrições de Pessoa {#check-person-restrictions-limit}
 
-Na guia **[!UICONTROL Agendar]**, verifique se o número de pessoas qualificadas não excede o limite de restrição de pessoas.
+Na guia **[!UICONTROL Agendar]**, confirme se o número de pessoas qualificadas não excede o limite de restrição de pessoas.
 
 ![](assets/smart-campaign-checklist-4.png)
 
@@ -63,4 +63,4 @@ Na guia **[!UICONTROL Agendar]**, verifique se o número de pessoas qualificadas
 >
 >Se a Campanha inteligente ainda falhar, saiba como [entender as notificações](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) para descobrir o que aconteceu e como corrigi-lo.
 
-Excelente trabalho! Mantenha essa lista de verificação acessível antes de executar uma Campanha inteligente.
+Mantenha essa lista de verificação acessível antes de executar uma Campanha inteligente.

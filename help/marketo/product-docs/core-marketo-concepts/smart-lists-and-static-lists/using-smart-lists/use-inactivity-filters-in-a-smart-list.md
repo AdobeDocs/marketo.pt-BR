@@ -4,16 +4,16 @@ description: Saiba como usar filtros de inatividade em uma Smart List. Encontre 
 title: Usar filtros de inatividade em uma lista inteligente
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '133'
 ht-degree: 13%
 
 ---
 
 # Usar filtros de inatividade em uma lista inteligente {#use-inactivity-filters-in-a-smart-list}
 
-Você sabia que pode procurar pessoas em uma Smart List que _não_ fizeram algo? Confira esses filtros de inatividade.
+Use os filtros de inatividade para localizar pessoas em uma Smart List que não fizeram algo.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -23,7 +23,7 @@ Você sabia que pode procurar pessoas em uma Smart List que _não_ fizeram algo?
 
    ![](assets/use-inactivity-filters-in-a-smart-list-2.png)
 
-1. Localize e arraste o filtro de inatividade de sua escolha para a tela. Como exemplo, vamos encontrar pessoas que não visitaram nenhuma de suas páginas.
+1. Localize e arraste o filtro de inatividade de sua escolha para a tela. Como exemplo, este exemplo encontra pessoas que não visitaram nenhuma de suas páginas.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-3.png)
 

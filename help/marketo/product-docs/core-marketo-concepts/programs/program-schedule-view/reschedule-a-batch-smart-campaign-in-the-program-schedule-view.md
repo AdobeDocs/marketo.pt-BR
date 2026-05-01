@@ -4,10 +4,10 @@ description: Saiba como reagendar uma Campanha Inteligente em lote na Visualiza�
 title: Reprogramar uma campanha inteligente em lote na visualização Cronograma do programa
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 19%
+ht-degree: 18%
 
 ---
 
@@ -23,7 +23,7 @@ Deseja reagendar uma execução de Campanha em Lote? Arraste-os e solte-os no fu
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Ótimo! A Campanha Inteligente foi reprogramada. A hora também pode ser alterada no menu suspenso **[!UICONTROL Data]** nos detalhes da entrada.
+1. A Campanha Inteligente foi reprogramada. A hora também pode ser alterada no menu suspenso **[!UICONTROL Data]** nos detalhes da entrada.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

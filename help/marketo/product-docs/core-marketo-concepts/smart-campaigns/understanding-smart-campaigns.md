@@ -4,9 +4,9 @@ description: Saiba mais sobre Campanhas inteligentes para automação no Marketo
 title: Noções básicas sobre campanhas inteligentes
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '248'
 ht-degree: 85%
 
 ---
@@ -51,7 +51,7 @@ O fluxo inclui as etapas que você deseja que a campanha inteligente execute, in
 
 Por fim, essa opção controla quando você executa a campanha inteligente. Você pode até mesmo configurar a recorrência para que ela seja executada em um cronograma repetitivo.
 
-Há uma enorme quantidade de coisas que a campanha inteligente pode fazer. Pegue o jeito e você verá que tudo no Marketo se torna muito mais fácil de entender.
+Há uma enorme quantidade de coisas que a campanha inteligente pode fazer.
 
 >[!CAUTION]
 >

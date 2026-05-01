@@ -4,9 +4,9 @@ description: Saiba como adicionar vários valores a um filtro de Smart List. Cor
 title: Adicionar múltiplos valores a um filtro de lista inteligente
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '138'
 ht-degree: 14%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 14%
 >* [Criar uma lista inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Localizar e Adicionar Filtros a uma Lista Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Digamos que você queira encontrar todos na Califórnia, mas você pode estar armazenando &quot;Califórnia&quot; e &quot;CA&quot; no seu banco de dados. Para incluir todas as pessoas aplicáveis, você poderia usar dois filtros [!UICONTROL Estado], mas é mais fácil com um.
+Suponha que você queira encontrar todos na Califórnia, mas você pode armazenar &quot;Califórnia&quot; e &quot;CA&quot; no seu banco de dados. Para incluir todas as pessoas aplicáveis, você poderia usar dois filtros [!UICONTROL Estado], mas é mais fácil com um.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -32,11 +32,10 @@ Digamos que você queira encontrar todos na Califórnia, mas você pode estar ar
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
-1. Você pode escolher valores à esquerda ou simplesmente digitá-los à direita e clicar em **[!UICONTROL OK]**.
+1. Você pode escolher valores à esquerda ou digitá-los à direita e clicar em **[!UICONTROL OK]**.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
-Trabalho rápido!
 
 >[!MORELIKETHIS]
 >

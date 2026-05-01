@@ -4,10 +4,10 @@ description: Saiba como reordenar as opções Adicionar opção em uma etapa de 
 title: Reordenar Adicionar Escolha em uma Etapa de Fluxo
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 1%
+source-wordcount: '170'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Como apenas a primeira opção de correspondência se aplica a uma pessoa, a ord
    >
    >Ao reordenar, você pode **[!UICONTROL Mover para Cima]**, **[!UICONTROL Mover para Baixo]** ou **[!UICONTROL Mover para Cima]**.
 
-   Excelente! Agora você sabe como mover uma opção para cima/para baixo por incrementos únicos.
+   Você pode mover uma opção para cima ou para baixo por incrementos únicos.
 
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
@@ -35,4 +35,3 @@ Como apenas a primeira opção de correspondência se aplica a uma pessoa, a ord
 
 ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-É fácil reorganizar a ordem de suas escolhas de etapas de fluxo.

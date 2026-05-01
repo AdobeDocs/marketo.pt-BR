@@ -4,16 +4,16 @@ description: Saiba como excluir pessoas de uma lista inteligente ou lista estát
 title: Excluir pessoas em uma lista ou lista inteligente
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 6%
 
 ---
 
 # Excluir pessoas em uma lista ou lista inteligente {#delete-people-in-a-smart-list-or-list}
 
-É possível excluir de maneira rápida e fácil algumas/todas as pessoas que estão em uma lista ou em uma Smart List.
+Você pode excluir algumas ou todas as pessoas que estão em uma lista ou em uma Smart List.
 
 >[!PREREQUISITES]
 >
@@ -67,4 +67,4 @@ ht-degree: 6%
    >
    >Para exibir os resultados da exclusão em massa, clique em **[!UICONTROL Exibir resultados]** na caixa pop-up Ação de fluxo único no canto superior direito da tela. Os tempos de exclusão podem variar bastante, dependendo de vários fatores.
 
-   Este é um excelente recurso. Tenha cuidado ao usá-lo!
+   Use esse recurso com cuidado.

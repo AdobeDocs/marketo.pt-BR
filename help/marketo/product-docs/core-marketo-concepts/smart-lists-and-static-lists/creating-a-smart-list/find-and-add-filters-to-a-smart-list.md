@@ -4,18 +4,18 @@ description: Saiba como localizar e adicionar filtros a uma Smart List. Procure 
 title: Localizar e adicionar filtros a uma lista inteligente
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 13%
+source-wordcount: '137'
+ht-degree: 14%
 
 ---
 
 # Localizar e adicionar filtros a uma lista inteligente {#find-and-add-filters-to-a-smart-list}
 
-Depois de [criar uma Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, é necessário adicionar e [definir](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filtros. Veja como encontrar e adicionar filtros.
+Depois de [criar uma Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}, é necessário adicionar e [definir](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filtros.
 
-Neste exemplo, vamos encontrar todas as pessoas na Califórnia com uma pontuação acima de 50.
+Neste exemplo, o objetivo é encontrar todas as pessoas na Califórnia com uma pontuação acima de 50.
 
 >[!TIP]
 >
@@ -37,7 +37,7 @@ Neste exemplo, vamos encontrar todas as pessoas na Califórnia com uma pontuaç�
 
    ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
-Perfeito! Vamos definir esses filtros.
+Defina esses filtros.
 
 >[!MORELIKETHIS]
 >

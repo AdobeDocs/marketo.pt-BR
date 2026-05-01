@@ -4,9 +4,9 @@ description: Saiba como criar sobreposições personalizadas na Exibição do cr
 title: Criação de sobreposições personalizadas na visualização Cronograma do programa
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 16%
 
 ---
@@ -31,6 +31,6 @@ ht-degree: 16%
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 
-   Fantástico. Agora, a sobreposição exibirá apenas as entradas definidas.
+   Agora, a sobreposição exibirá apenas as entradas definidas.
 
    ![](assets/image2014-9-24-10-3a20-3a37.png)

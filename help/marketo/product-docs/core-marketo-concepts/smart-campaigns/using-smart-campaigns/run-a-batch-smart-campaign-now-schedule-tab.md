@@ -4,16 +4,16 @@ description: Saiba como executar uma Campanha inteligente em lote agora, na guia
 title: Executar uma campanha inteligente em lote agora | Guia Programação
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Executar uma campanha inteligente em lote agora | Guia Programação {#run-a-batch-smart-campaign-now-schedule-tab}
 
-Quando terminar de criar a Campanha em lote, você pode optar por executá-la agora ou posteriormente. Veja como executá-lo imediatamente.
+Quando terminar de criar a Campanha em lote, você pode optar por executá-la agora ou posteriormente.
 
 1. Selecione a Campanha em lote, vá para a guia **[!UICONTROL Agendar]** e clique em **[!UICONTROL Executar uma vez]**.
 
@@ -27,7 +27,7 @@ Quando terminar de criar a Campanha em lote, você pode optar por executá-la ag
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Fácil! Você também pode [agendar execuções para mais tarde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}, se preferir.
+   Você também pode [agendar execuções para mais tarde](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}, se preferir.
 
    >[!NOTE]
    >

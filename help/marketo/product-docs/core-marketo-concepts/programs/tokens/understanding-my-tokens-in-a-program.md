@@ -4,9 +4,9 @@ description: Saiba mais sobre Meus tokens em um programa. Use tokens para person
 title: Noções básicas sobre meus tokens em um programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '441'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Um token é uma variável que pode ser usada em emails, Landing Pages e Campanhas inteligentes para facilitar sua vida.
 
-Além de Meus tokens, também é possível usar qualquer um dos tokens incorporados em seus programas. Confira a [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+Além de Meus tokens, também é possível usar qualquer um dos tokens incorporados em seus programas. Consulte a [Visão geral dos tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Meus tokens  {#my-tokens}
 
@@ -46,7 +46,7 @@ Exemplos:
   </tr>
   <tr>
    <td>Script de e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td>
+   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td>
   </tr>
   <tr>
    <td>Número<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

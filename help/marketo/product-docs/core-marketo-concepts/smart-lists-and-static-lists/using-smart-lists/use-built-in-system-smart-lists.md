@@ -4,16 +4,16 @@ description: Saiba como usar Smart Lists integradas e do sistema. Use listas pr�
 title: Usar listas inteligentes do sistema ou integradas
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 12%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
-# Usar listas inteligentes do sistema ou integradas {#use-built-in-system-smart-lists}
+# Usar Smart Lists do Sistema Integradas {#use-built-in-system-smart-lists}
 
-O Marketo Engage tem algumas Smart Lists integradas muito úteis. Vamos dar uma olhada!
+O Marketo Engage tem Smart Lists integradas que são úteis para tarefas comuns de segmentação.
 
 1. Vá para o **[!UICONTROL Banco de Dados]**.
 
@@ -31,7 +31,7 @@ O Marketo Engage tem algumas Smart Lists integradas muito úteis. Vamos dar uma 
    >
    >Os filtros em Smart Lists do sistema não precisam ser aplicados a cada Smart List/Campanha. Seu conteúdo é reconhecido automaticamente.
 
-Aqui está um resumo do que as Smart Lists integradas fazem:
+Veja a seguir um resumo do que as Smart Lists integradas fazem:
 
 <table><thead>
   <tr>

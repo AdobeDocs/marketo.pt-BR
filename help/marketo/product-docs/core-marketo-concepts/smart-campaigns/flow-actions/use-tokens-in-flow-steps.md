@@ -4,9 +4,9 @@ description: Saiba como usar tokens em etapas de fluxo. Insira valores dinâmico
 title: Usar tokens em etapas de fluxo
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 10%
 
 ---
@@ -46,7 +46,7 @@ Um token é uma variável. Você o usa em emails, Landing Pages e Campanhas inte
    >
    >Os tokens de campo personalizado do membro do programa podem ser usados em: Criar tarefa, Criar tarefa no Microsoft, Momentos interessantes, Ações de fluxo Alterar valor de dados e Webhooks.
 
-   Legal! Os dados serão extraídos do token quando a Campanha inteligente for executada.
+   Os dados serão extraídos do token quando a Campanha inteligente for executada.
 
    >[!MORELIKETHIS]
    >

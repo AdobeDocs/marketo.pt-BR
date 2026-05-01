@@ -4,9 +4,9 @@ description: Saiba como alterar uma partição de pessoa em uma etapa de fluxo. 
 title: Alterar partição de pessoas
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '55'
 ht-degree: 10%
 
 ---
@@ -21,4 +21,3 @@ Se você estiver usando [espaços de trabalho e partições](/help/marketo/produ
 
 ![](assets/change-person-partition-2.png)
 
-É fácil assim!

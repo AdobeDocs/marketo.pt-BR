@@ -4,7 +4,7 @@ description: Saiba mais sobre filtros inferidos em Smart Lists. Entenda como o M
 title: Filtros inferidos
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Filtros inferidos {#inferred-filters}
 
-Quando alguém visita o seu site, o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} faz o cookie e o coloca no sistema. Pesquisamos o IP deles em um banco de dados especial e inferimos todos os tipos de informações.
+Quando alguém visita o seu site, o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} faz o cookie e o coloca no sistema. O sistema pesquisa o IP em um banco de dados especial e infere todos os tipos de informações.
 
 >[!NOTE]
 >
->Para garantir que os valores de campo inferidos permaneçam atualizados, atualizamos periodicamente o banco de dados usado para pesquisas de endereço IP. As atualizações do banco de dados podem apresentar novos valores de campo inferidos que talvez você precise adicionar às definições de filtro da Smart List.
+>Para garantir que os valores de campo inferidos permaneçam atuais, o banco de dados usado para pesquisas de endereço IP é atualizado periodicamente. As atualizações do banco de dados podem apresentar novos valores de campo inferidos que talvez você precise adicionar às definições de filtro da Smart List.
 >
 >As atualizações de banco de dados podem ocorrer durante uma [versão do produto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Quando ocorrer uma atualização, as [notas de versão do Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} conterão uma explicação de quaisquer alterações nos valores de campo inferidos.
 

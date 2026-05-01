@@ -4,10 +4,10 @@ description: Saiba como usar a lógica padrão da regra de Smart List em uma Cam
 title: Uso da lógica de regra de lista inteligente padrão
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ Você pode ter notado a opção &quot;Usar filtros&quot; ao criar Smart Lists do
 >
 >A alteração da lógica da regra de lista inteligente se aplica somente a filtros, _não_ acionadores.
 
-Os acionadores são sempre avaliados como OU, mesmo se a configuração acima estiver definida como ALL. Veja um exemplo:
+Os acionadores são sempre avaliados como OU, mesmo se a configuração acima estiver definida como ALL. Por exemplo:
 
 ![](assets/using-standard-smart-list-rule-logic-2.png)
 

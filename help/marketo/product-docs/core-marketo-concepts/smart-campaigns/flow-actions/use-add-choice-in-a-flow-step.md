@@ -4,10 +4,10 @@ description: Saiba como usar Adicionar escolha em uma etapa de fluxo. Ramifique 
 title: Usar a opção Adicionar escolha em uma etapa de fluxo
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 7%
+source-wordcount: '204'
+ht-degree: 6%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 7%
    >
    >Somente a primeira opção correspondente é aplicada à etapa do fluxo. Saiba como [reordenar &quot;Adicionar opção&quot; em uma ação de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   Ótimo! Agora você pode criar uma única Campanha inteligente com opções de etapa de fluxo em vez de criar várias Campanhas inteligentes para cada escolha.
+   Agora você pode criar uma única Campanha inteligente com opções de etapa de fluxo em vez de criar várias Campanhas inteligentes para cada escolha.
 
    >[!MORELIKETHIS]
    >

@@ -4,16 +4,16 @@ description: Saiba como atualizar uma lista ou lista inteligente. Atualizar as p
 title: Atualizar uma lista ou lista inteligente
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '149'
 ht-degree: 8%
 
 ---
 
 # Atualizar uma lista ou lista inteligente {#refresh-a-list-or-smart-list}
 
-Se você tiver executado uma Smart List e alguns minutos tiverem passado, os resultados poderão ser diferentes agora. Atualize para descobrir.
+Se você tiver executado uma Smart List e alguns minutos tiverem passado, os resultados poderão ser diferentes agora - atualize para descobrir.
 
 ## Atualizar resultados {#refresh-results}
 

@@ -4,10 +4,10 @@ description: Saiba como usar membros de listas em um filtro de Smart List. Inclu
 title: Usar membros de uma lista em uma lista inteligente
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 12%
+source-wordcount: '144'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 12%
 >
 >Você pode adicionar pessoas a uma lista usando a [etapa de fluxo Importar](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) ou a [etapa Adicionar à Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
-Com esse filtro, é possível extrair membros de outra lista fazendo referência a ele nas regras da Smart List. Veja como.
+Com esse filtro, é possível extrair membros de outra lista fazendo referência a ele nas regras da Smart List.
 
 1. Selecione uma Smart List e clique na guia **[!UICONTROL Smart List]**.
 
@@ -31,4 +31,4 @@ Com esse filtro, é possível extrair membros de outra lista fazendo referência
 
    ![](assets/memberoflist.png)
 
-   Concluído! Neste exemplo, a Smart List agora segmentará somente os membros dessa lista e os avaliará com base em quaisquer outras regras incluídas.
+   Neste exemplo, a Smart List agora segmentará somente os membros dessa lista e os avaliará com base em quaisquer outras regras incluídas.

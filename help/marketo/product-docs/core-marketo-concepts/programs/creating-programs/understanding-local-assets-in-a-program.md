@@ -4,16 +4,16 @@ description: Saiba mais sobre ativos locais em um programa. Entenda como os emai
 title: Noções básicas sobre ativos locais em um programa
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 17%
+source-wordcount: '103'
+ht-degree: 30%
 
 ---
 
 # Noções básicas sobre ativos locais em um programa {#understanding-local-assets-in-a-program}
 
-Os ativos locais são o conteúdo que compõe o programa. O Assets é personalizável e permite que você crie iniciativas de marketing automatizadas. Veja a seguir a maioria dos ativos locais que você pode criar em um programa:
+Os ativos locais são o conteúdo que compõe o programa. O Assets é personalizável e permite que você crie iniciativas de marketing automatizadas. A seguir estão a maioria dos ativos locais que você pode criar em um programa:
 
 ![](assets/one.png)
 
@@ -28,7 +28,7 @@ Os ativos locais são o conteúdo que compõe o programa. O Assets é personaliz
 * [Programas de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}
 * [Email](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
 * [Notificações por push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
-* [Página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
-* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
+* [Página de destino](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
+* [Formulários](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [Grupo de teste](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
-* [Vibes Mensagens SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+* [Mensagens SMS do Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

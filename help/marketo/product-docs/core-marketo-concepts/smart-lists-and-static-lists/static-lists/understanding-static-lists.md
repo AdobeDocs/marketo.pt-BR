@@ -4,16 +4,16 @@ description: Saiba mais sobre listas estáticas no Marketo para conjuntos fixos 
 title: Noções básicas sobre listas estáticas
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '222'
 ht-degree: 5%
 
 ---
 
 # Noções básicas sobre listas estáticas {#understanding-static-lists}
 
-As listas estáticas são um dos recursos mais simples e úteis do Marketo. Eles são simplesmente uma lista de nomes do seu banco de dados. Você encontrará muitas razões para usá-los.
+As listas estáticas são um dos recursos mais simples e úteis do Marketo. Eles são uma lista de nomes do seu banco de dados. Você encontrará muitas razões para usá-los.
 
 >[!NOTE]
 >
@@ -28,9 +28,9 @@ A diferença entre uma Lista estática e uma Lista inteligente é essencial para
 
 >[!CAUTION]
 >
->Um dos erros mais comuns é pensar que você pode remover uma pessoa de uma lista simplesmente &quot;excluindo a pessoa&quot;. **Isso está errado**. Excluir a pessoa irá excluí-la de **todo o banco de dados**, não apenas da lista.
+>Um dos erros mais comuns é pensar que você pode remover uma pessoa de uma lista &quot;excluindo a pessoa&quot;. **Isso está errado**. Excluir a pessoa irá excluí-la de **todo o banco de dados**, não apenas da lista.
 
-## Maneiras de adicionar/remover pessoas de uma lista {#ways-to-add-remove-people-from-a-list}
+## Maneiras de adicionar ou remover pessoas de uma lista {#ways-to-add-remove-people-from-a-list}
 
 1. Etapa de fluxo do Campaign inteligente ([Adicionar à Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remover da Lista](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
@@ -43,8 +43,6 @@ A diferença entre uma Lista estática e uma Lista inteligente é essencial para
 * Uma lista que foi pré-selecionada para receber uma mensagem de marketing.
 * Uma lista de &quot;concorrentes&quot; usada para enviar mensagens de contrainteligência travessas.
 * Uma lista temporária de pessoas em um estado específico, que são removidas pelas Campanhas inteligentes quando saem desse estado.
-
-Aproveite o poder da LISTA!
 
 >[!MORELIKETHIS]
 >

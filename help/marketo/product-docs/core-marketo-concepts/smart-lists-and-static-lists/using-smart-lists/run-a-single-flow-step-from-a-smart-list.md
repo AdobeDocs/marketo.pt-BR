@@ -4,10 +4,10 @@ description: Saiba como executar uma única etapa do fluxo a partir de uma Smart
 title: Executar uma única etapa de fluxo de uma lista inteligente
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 8%
+source-wordcount: '239'
+ht-degree: 9%
 
 ---
 
@@ -39,7 +39,7 @@ Se você quiser executar uma etapa de fluxo única, poderá usar uma única etap
    >
    >Se os resultados se estenderem por várias páginas, ao clicar em **[!UICONTROL Selecionar tudo]**, serão selecionadas todas as pessoas em todas as páginas.
 
-1. Em **[!UICONTROL Ações da pessoa]**, selecione a etapa de fluxo de sua escolha. Neste exemplo, usaremos [Alterar Valor de Dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. Em **[!UICONTROL Ações da pessoa]**, selecione a etapa de fluxo de sua escolha. Este exemplo usa [Alterar Valor de Dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
@@ -55,7 +55,7 @@ Se você quiser executar uma etapa de fluxo única, poderá usar uma única etap
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
-Ótimo trabalho! Você verá o status da etapa de fluxo único no canto superior direito.
+O status da etapa de fluxo única aparecerá no canto superior direito.
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 

@@ -4,9 +4,9 @@ description: Saiba como visualizar pessoas qualificadas em uma Campanha intelige
 title: Exibir pessoas qualificadas em uma campanha inteligente
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '171'
 ht-degree: 8%
 
 ---
@@ -35,7 +35,7 @@ Exibir pessoas qualificadas para passar pelo fluxo ao executar uma Campanha Inte
    >
    >O número de pessoas qualificadas também depende das regras de qualificação do Smart Campaign. Saiba como [editar regras de qualificação](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-Legal! Você pode usar essa lista para verificar quais pessoas podem passar pelo fluxo antes de executar uma Campanha inteligente.
+Use esta lista para verificar quais pessoas podem passar pelo fluxo antes de executar uma Campanha inteligente.
 
 >[!MORELIKETHIS]
 >

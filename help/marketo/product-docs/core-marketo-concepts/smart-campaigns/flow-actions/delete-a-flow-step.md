@@ -4,9 +4,9 @@ description: Saiba como excluir uma etapa de fluxo de uma Campanha inteligente. 
 title: Excluir uma etapa do fluxo
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >A remoção de etapas de fluxo, _especialmente etapas de espera_ de Campanhas Inteligentes ativas, pode ter resultados inesperados. Leia este artigo cuidadosamente.
 
-Primeiro vamos falar sobre as noções básicas. Veja como remover uma etapa de fluxo indesejada de uma Campanha inteligente.
+Para remover uma etapa de fluxo indesejada de uma Campanha inteligente:
 
 1. No **[!UICONTROL Fluxo]** do Smart Campaign, clique no ícone **X** para excluir qualquer etapa do fluxo.
 

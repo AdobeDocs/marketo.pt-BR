@@ -4,10 +4,10 @@ description: Saiba como alterar um valor de dados em uma etapa do fluxo do Campa
 title: Alterar valor dos dados
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 4%
+source-wordcount: '120'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ Você pode usar o Marketo para atualizar o valor de um campo. Para isso, você u
 
    ![](assets/change-data-value-2.png)
 
-1. Insira o valor desejado e pronto!
+1. Insira o valor desejado.
 
    ![](assets/change-data-value-3.png)
 

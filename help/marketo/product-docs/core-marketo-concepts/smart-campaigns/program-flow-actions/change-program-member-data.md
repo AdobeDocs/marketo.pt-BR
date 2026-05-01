@@ -3,9 +3,9 @@ description: Saiba como alterar os dados dos membros do programa em uma etapa de
 title: Alterar dados de membros do programa
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '151'
 ht-degree: 5%
 
 ---
@@ -34,7 +34,7 @@ Você pode usar o Marketo para atualizar o valor de um campo utilizando a ação
 >
 >Você também pode usar tokens em [!UICONTROL Novo valor].
 
-Agora basta executar a Campanha Inteligente, e pronto!
+Execute a Campanha inteligente quando estiver pronto.
 
 >[!TIP]
 >

@@ -4,10 +4,10 @@ description: Saiba como alterar o sucesso do programa em uma etapa de fluxo. Mar
 title: Alterar sucesso do programa
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 
@@ -41,4 +41,4 @@ Se você tiver um grupo de pessoas marcado incorretamente com Sucesso do program
    >
    >Você pode usar a etapa de fluxo duas vezes para definir o sinalizador Sucesso, bem como a data.
 
-Ótimo! Agora você sabe como desfazer e forçar o sucesso.
+Agora você sabe como desfazer e forçar o sucesso.

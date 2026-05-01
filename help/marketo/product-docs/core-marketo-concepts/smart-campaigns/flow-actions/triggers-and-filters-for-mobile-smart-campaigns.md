@@ -4,7 +4,7 @@ description: Saiba mais sobre acionadores e filtros para campanhas inteligentes 
 title: Acionadores e filtros de campanhas inteligentes para dispositivos móveis
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 3%
@@ -103,7 +103,7 @@ O Aplicativo Móvel Está/Foi Aberto
 
 Teve/Teve Atividade De Aplicativo Móvel
 
-Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e do [para o iOS](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Eles fornecem uma maneira avançada de rastrear atividades móveis personalizadas. Você precisará trabalhar com seu desenvolvedor para configurar o rastreamento do [para o Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e do [para o iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Tem atividade de aplicativo móvel - acionador
 
@@ -136,7 +136,7 @@ As Restrições de ação permitem usar o acionador e os filtros para rastrear a
 >   * Custou US$ 30
 >   * Demorou 20 segundos para comprar
 
-Veja como o filtro é exibido no Marketo:
+O filtro tem esta aparência no Marketo:
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 

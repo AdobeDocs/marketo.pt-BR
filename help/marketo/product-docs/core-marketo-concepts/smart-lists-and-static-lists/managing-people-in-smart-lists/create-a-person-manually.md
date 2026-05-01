@@ -4,16 +4,16 @@ description: Saiba como criar uma pessoa manualmente no banco de dados. Adiciona
 title: Criar uma pessoa manualmente
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 10%
 
 ---
 
 # Criar uma pessoa manualmente {#create-a-person-manually}
 
-Há muitas maneiras de inserir uma pessoa no Marketo Engage. Se você precisar criar um manualmente, veja como fazer isso.
+Há muitas maneiras de inserir uma pessoa no Marketo Engage. Para criar um manualmente, siga as etapas abaixo.
 
 >[!CAUTION]
 >

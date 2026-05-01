@@ -4,9 +4,9 @@ description: Obtenha ajuda sobre os operadores de filtro de Smart List. Entenda 
 title: Glossário de operadores de filtro de lista inteligente
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '614'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 Um operador é parte da Smart List que ajuda a obter informações específicas. Ele permite descrever o filtro ou acionador em uma linguagem simples. Os operadores disponíveis são diferentes para cada tipo de campo.
 
-Aqui está um glossário descrevendo cada conjunto de operadores.
+Este glossário descreve cada conjunto de operadores.
 
 ## Campos de data {#date-fields}
 
@@ -102,7 +102,7 @@ Quando você escolhe um operador, o lado direito muda dinamicamente.
   </tr>
 </tbody></table>
 
-**&#42;** A entrada de linguagem natural é legal. Estes são alguns dos padrões que você pode inserir:
+A entrada de linguagem natural **&#42;** usa os seguintes padrões:
 
 * 1 hora
 * 82 dias
@@ -110,7 +110,7 @@ Quando você escolhe um operador, o lado direito muda dinamicamente.
 * 14 meses
 * 1 ano
 
-Basta digitar o número e a unidade juntos e vai funcionar!
+Digite o número e a unidade juntos.
 
 >[!NOTE]
 >
@@ -236,4 +236,4 @@ Use o diagrama a seguir para entender a diferença entre os operadores de data.
 </tbody>
 </table>
 
-Como você pode ver, esses operadores facilitam a fala em Marketo com fluência!
+Como você pode ver, esses operadores facilitam a fala em Marketo com fluência.

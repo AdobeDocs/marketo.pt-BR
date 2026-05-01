@@ -3,7 +3,7 @@ description: Saiba como usar a etapa Executar fluxo do Campaign. Execute outra C
 title: Executar campanha
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 2%
@@ -60,7 +60,7 @@ Quando definido como true, os seguintes contextos de token serão enviados para 
 
 **Interação de API**
 
-Ao usar a Campanha de agendamento ou solicitação [na API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem que você passe valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
+Ao usar a Campanha de agendamento ou solicitação [na API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem que você passe valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
 
 ## Itens a Observar {#things-to-note}
 
@@ -73,7 +73,7 @@ Ao usar a Campanha de agendamento ou solicitação [na API](https://experiencele
 
 >[!CAUTION]
 >
->Nunca deixe suas listas inteligentes para Campanhas executáveis inválidas, caso contrário _ninguém_ se qualificará para ela. A prática recomendada é criar ativos de lista inteligente separados, defini-los completamente e garantir que sejam válidos. Em seguida, use o filtro &quot;Membro da Smart List&quot; na Campanha Executável para trocar a definição da sua smart list.
+>Nunca deixe suas listas inteligentes para Campanhas executáveis inválidas, caso contrário _ninguém_ se qualificará para ela. A prática recomendada é criar ativos de lista inteligente separados, defini-los completamente e confirmar que sejam válidos. Em seguida, use o filtro &quot;Membro da Smart List&quot; na Campanha Executável para trocar a definição da sua smart list.
 
 ## Exemplo de herança do token {#token-inheritance-example}
 

@@ -4,9 +4,9 @@ description: Saiba como adicionar uma pessoa ao arquivo de inclui na lista de bl
 title: Adicionar pessoa à lista de bloqueio
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '195'
 ht-degree: 5%
 
 ---
@@ -53,7 +53,7 @@ Adicionar pessoas à sua Inclui na lista de bloqueios as impede de receber sua c
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. Selecione a lista inteligente que acabou de criar.
+1. Selecione a lista inteligente que você criou.
 
    ![](assets/add-person-to-blocklist-9.png)
 

@@ -4,9 +4,9 @@ description: Saiba como mover uma Campanha inteligente. Realocar a campanha para
 title: Mover uma campanha inteligente
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 7%
 
 ---
@@ -33,8 +33,8 @@ Mova uma Campanha inteligente entre diferentes programas ou pastas usando o recu
 
    >[!NOTE]
    >
-   >Neste exemplo, estamos movendo a Campanha Inteligente para outro programa, mas você também pode movê-la para uma pasta de campanha.
+   >Neste exemplo, a Campanha inteligente está sendo movida para outro programa, mas você também pode movê-la para uma pasta de campanha.
 
-Muito bem! A Campanha inteligente foi movida.
+A Campanha inteligente foi movida.
 
 ![](assets/move-a-smart-campaign-4.png)

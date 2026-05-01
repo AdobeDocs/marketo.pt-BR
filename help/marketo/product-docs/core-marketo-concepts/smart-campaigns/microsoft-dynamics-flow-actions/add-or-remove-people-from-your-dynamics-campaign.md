@@ -3,9 +3,9 @@ description: Saiba como adicionar ou remover pessoas de uma campanha do Microsof
 title: Adicionar ou Remover Pessoas da sua  [!DNL Dynamics] Campanha
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Na Campanha inteligente, localize e selecione a campanha do Dynamics à qual des
 
 >[!NOTE]
 >
->Se não for possível ver uma campanha do Dynamics na lista de campanhas:
+>Se não conseguir ver uma campanha do Dynamics na lista de campanhas:
 >
->* Verifique se a Sincronização do Campaign está funcional
+>* Verificar se a sincronização do Campaign está funcionando
 >* A campanha não está ativa em [!DNL Microsoft Dynamics]
 
 O sistema cria automaticamente uma Lista de marketing estática específica da campanha, cada uma para leads e contatos, à qual a pessoa será adicionada. É uma ação única e, uma vez para sincronizações subsequentes da campanha, a mesma Lista de marketing é usada. O padrão de nomenclatura adotado para o nome estático da Lista de marketing é `Mkto-leads-<uniqueID>` para clientes potenciais e `Mkto-contacts-<uniqueID>` para contatos.
@@ -51,5 +51,5 @@ Na Campanha inteligente, localize e selecione a campanha do Dynamics da qual des
 >
 >Se você não vir uma campanha [!DNL Dynamics] na lista de campanhas:
 >
->* Verifique se a Sincronização do Campaign está funcional
+>* Verificar se a sincronização do Campaign está funcionando
 >* A campanha não está ativa em [!DNL Microsoft Dynamics]

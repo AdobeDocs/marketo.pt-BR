@@ -4,9 +4,9 @@ description: Saiba como aplicar limites de comunicação a uma Campanha intelige
 title: Aplicar limites de comunicação à campanha inteligente
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 8%
 
 ---
@@ -39,4 +39,4 @@ Não é uma boa ideia enviar email para alguém várias vezes ao dia, ou muitas 
 >
 >Para tornar isso o padrão, edite seus [limites de comunicação](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} na seção de Administrador.
 
-Agora você pode ter certeza de que não está enviando muitos emails acidentalmente para seu público-alvo.
+Agora você pode ter certeza de que não está enviando muitos emails acidentalmente para o seu público-alvo.

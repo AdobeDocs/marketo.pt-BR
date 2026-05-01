@@ -4,16 +4,16 @@ description: Saiba como editar regras de qualificação em uma Campanha intelige
 title: Editar regras de qualificação em uma campanha inteligente
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 6%
+source-wordcount: '196'
+ht-degree: 7%
 
 ---
 
 # Editar regras de qualificação em uma campanha inteligente {#edit-qualification-rules-in-a-smart-campaign}
 
-As regras de qualificação controlam quantas vezes alguém pode passar pelo fluxo em uma Campanha inteligente. Por padrão, mesmo que alguém acione uma Campanha inteligente várias vezes, ele só será enviado pelo fluxo uma vez. Veja como modificar essas configurações.
+As regras de qualificação controlam quantas vezes alguém pode passar pelo fluxo em uma Campanha inteligente. Por padrão, mesmo que alguém acione uma Campanha inteligente várias vezes, ele só será enviado pelo fluxo uma vez.
 
 1. Na Campanha inteligente, clique na guia **[!UICONTROL Agendar]** e depois em **[!UICONTROL Editar configurações]**.
 

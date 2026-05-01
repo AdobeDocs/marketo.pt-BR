@@ -4,9 +4,9 @@ description: Saiba mais sobre o Painel de banco de dados no Marketo. Visualizar 
 title: Painel de banco de dados
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 2%
 
 ---
@@ -31,8 +31,8 @@ Os gráficos indicam o número total de pessoas, o número de pessoas comerciali
 
 >[!TIP]
 >
->Deseja obter informações mais específicas ou oportunas sobre seu pessoal? Experimente um [Relatório de Desempenho de Pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Para obter informações mais específicas ou oportunas sobre seu pessoal, tente um [Relatório de desempenho do People](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Total de Pessoas:** O número de pessoas de todas as horas do espaço de trabalho listado.
 
-incluir na lista de bloqueios **Pessoas Comercializáveis:** o número total de pessoas do espaço de trabalho listadas, _menos o seguinte_: pessoas sem um endereço de email, pessoas cujo email foi rejeitado, pessoas que estão registradas, pessoas que cancelaram a assinatura, pessoas atualmente definidas como Marketing Suspenso.
+**Pessoas Comercializáveis:** o número total de pessoas do espaço de trabalho listadas, _menos o seguinte_: pessoas sem um endereço de email, pessoas cujo email foi rejeitado, pessoas que estão registradas, pessoas que cancelaram a assinatura, pessoas atualmente definidas como Marketing Suspenso.

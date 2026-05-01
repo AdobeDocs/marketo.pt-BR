@@ -4,9 +4,9 @@ description: Saiba como configurar um acionador de Campanha inteligente para ven
 title: Configurar uma campanha inteligente acionável para vendas usando “A campanha é solicitada”
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '289'
 ht-degree: 8%
 
 ---
@@ -19,10 +19,10 @@ Um dos recursos mais interessantes do Marketo é a capacidade de permitir que os
 >
 >Exemplos de campanhas inteligentes a serem solicitadas:
 >
->1. **Enfermagem de longo prazo** - quando eles não têm um orçamento para este ano e você só quer continuar no radar
->1. **Ciclo de vendas ativo** - quando o vendedor não deseja receber mensagens para ele, exceto as suas. (use o sinalizador de suspensão de marketing para cancelar a inscrição temporariamente)
+>1. **Envelhecimento a longo prazo** - quando eles não têm orçamento este ano e você deseja permanecer no radar
+>1. **Ciclo de vendas ativo** - quando o vendedor não deseja nenhuma mensagem para a pessoa, exceto a própria. (use o sinalizador de suspensão de marketing para cancelar a inscrição temporariamente)
 >
->Seja criativo. O que o vendedor gostaria de automatizar? Basta pedir-lhes e ligá-lo!
+>Pergunte à equipe de vendas o que ela gostaria de automatizar e configurar.
 
 1. Crie uma campanha inteligente.
 
@@ -38,7 +38,7 @@ Um dos recursos mais interessantes do Marketo é a capacidade de permitir que os
    >
    >Os operadores de origem são para segurança. Você pode restringir a campanha a solicitações feitas apenas por fontes específicas, como outras Campanhas inteligentes ou desenvolvedores. Escolha **[!UICONTROL É Qualquer]** na primeira caixa se desejar permitir solicitações de todas as fontes.
    >
-   >_Lembre-se_: ao escolher Sales Insight, ele aparecerá magicamente na caixa de vendas. Não exagere. Muitos serão ignorados por eles.
+   >_Lembre-se_: ao escolher Sales Insight, ele aparecerá magicamente na caixa de vendas. Evite adicionar muitas, pois elas serão ignoradas.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
@@ -46,4 +46,4 @@ Essa é uma ótima maneira de estender o alcance de marketing para outros depart
 
 >[!TIP]
 >
->Não se esqueça de nomear suas Campanhas inteligentes com clareza. Eles serão exibidos no Sales Insight exatamente como você os nomeará.
+>Dê um nome mais claro às suas Campanhas inteligentes. Eles serão exibidos no Sales Insight exatamente como você os nomeará.

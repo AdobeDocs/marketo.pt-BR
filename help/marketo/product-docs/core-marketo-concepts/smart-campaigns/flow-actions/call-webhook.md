@@ -4,9 +4,9 @@ description: Saiba como chamar um webhook a partir de uma etapa de fluxo do Smar
 title: Chamar webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '98'
 ht-degree: 4%
 
 ---
@@ -23,13 +23,13 @@ Os webhooks permitem interagir com serviços de terceiros. Envie/receba informa�
 
 >[!NOTE]
 >
->Saiba mais sobre as muitas coisas fascinantes que [Webhooks](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} podem fazer por você.
+>Saiba mais sobre as muitas coisas fascinantes que [Webhooks](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} podem fazer por você.
 
 1. Selecione um Webhook no menu suspenso.
 
 ![](assets/call-webhook-2.png)
 
-Isso é tudo! Seu webhook agora será chamado sempre que as pessoas entrarem no fluxo de campanha inteligente.
+Seu webhook agora será chamado sempre que as pessoas entrarem no fluxo de campanha inteligente.
 
 >[!MORELIKETHIS]
 >
