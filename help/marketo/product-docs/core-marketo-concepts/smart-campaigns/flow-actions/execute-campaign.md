@@ -60,7 +60,7 @@ Quando definido como true, os seguintes contextos de token serão enviados para 
 
 **Interação de API**
 
-Ao usar a Campanha de agendamento ou solicitação [na API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem que você passe valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
+Ao usar a Campanha de agendamento ou solicitação [na API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem que você passe valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
 
 ## Itens a Observar {#things-to-note}
 
