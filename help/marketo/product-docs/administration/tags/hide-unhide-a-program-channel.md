@@ -4,9 +4,9 @@ description: Etapas para ocultar um canal de programa quando ele estiver em uso 
 title: Ocultar/reexibir um canal de programa
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 11%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 11%
 >
 >**Permissões de administrador são necessárias**
 
-Você pode [excluir um canal de programa](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se ele não estiver sendo usado por nenhum programa.  No entanto, uma vez usado, precisamos mantê-lo por perto.  No entanto, você pode ocultá-lo se não precisar mais dele.
+Você pode [excluir um canal de programa](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se ele não estiver sendo usado por nenhum programa.  No entanto, uma vez em uso, ele deve permanecer no sistema. Você pode ocultá-la se não precisar mais dela.
 
 ## Ocultar um canal de programa {#hide-a-program-channel}
 
@@ -36,8 +36,6 @@ Você pode [excluir um canal de programa](/help/marketo/product-docs/administrat
 1. Em **[!UICONTROL Ações de Marca]**, clique em **[!UICONTROL Ocultar]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
-
-Calma, calma!
 
 ## Revelar um canal de programa {#unhide-a-program-channel}
 

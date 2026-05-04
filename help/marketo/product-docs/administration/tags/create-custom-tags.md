@@ -4,7 +4,7 @@ description: Como criar um novo tipo de tag com valores, escolher a quais tipos 
 title: Criar tags personalizadas
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 4%
@@ -17,7 +17,7 @@ As tags ajudarão você a organizar seus programas, enquanto os canais ajudarão
 
 >[!NOTE]
 >
->Confira [Noções básicas sobre tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obter mais informações.
+>Consulte [Noções básicas sobre tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) para obter mais informações.
 
 >[!NOTE]
 >
@@ -62,7 +62,7 @@ Para criar um novo tipo de tag:
 
    >[!TIP]
    >
-   >Se você quiser tornar uma marca semelhante necessária para alguns tipos de programas, mas opcional para outros, precisará configurar duas marcas separadas, cada uma se aplicando a tipos de programas diferentes, uma com &quot;[!UICONTROL Obrigatório]&quot; selecionado e a outra com &quot;[!UICONTROL Obrigatório]&quot; não selecionado.
+   >Se você quiser tornar uma marca semelhante necessária para alguns tipos de programas, mas opcional para outros, precisará configurar duas marcas separadas, cada uma se aplicando a tipos de programas diferentes com uma com &quot;[!UICONTROL Obrigatório]&quot; selecionado e a outra com &quot;[!UICONTROL Obrigatório]&quot; não selecionado.
 
 1. Clique em **[!UICONTROL Criar]**.
 

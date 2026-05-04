@@ -4,9 +4,9 @@ description: Etapas para criar um canal de programa com status e etapas de progr
 title: Criar um canal de programa
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '435'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
 
    >[!NOTE]
    >
-   >Por que tags? Um canal é uma maneira de descrever um programa, como outras tags. O canal tem apenas recursos extras especiais.
+   >Por que tags? Um canal é uma maneira de descrever um programa, como outras tags. O canal tem recursos extras especiais.
 
 1. Clique no sinal **+** ao lado de [!UICONTROL Canal] para expandir e ver os canais existentes.
 
@@ -50,7 +50,7 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
    >Canal: Outdoor
    >
    >* Aplicar a: Padrão
-   >* Progressão: Membro, Envolvido (em caso de dúvida, esses trabalhos funcionam bem)
+   >* Progressão: Membro, Envolvido (são padrões adequados)
    >* Sucesso: Envolvido
    >
    >Canal: Festa
@@ -59,15 +59,15 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
    >* Progressão: Convidado, Inscrito, Sem Apresentação e Presente
    >* Sucesso: Participou
    >
-   >Confira as Progressões dos canais existentes para ter uma ideia de como usá-los.
+   >Revise o andamento dos canais existentes para obter orientação sobre como usá-los.
 
-1. Vamos seguir o exemplo do Canal de partido. Nomeie seu novo **[!UICONTROL Canal]** e selecione o tipo de programa ao qual ele será aplicado.
+1. Usando o Canal de participante como exemplo, nomeie seu novo **[!UICONTROL Canal]** e selecione o tipo de programa ao qual ele será aplicado.
 
    ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
-   >Aplicar a quê? Existem vários tipos de programas. Corresponda o canal ao tipo certo. Em caso de dúvida, escolha **[!UICONTROL Padrão]**.
+   >Existem vários tipos de programas. Corresponda o canal ao tipo certo. Se não tiver certeza, escolha **[!UICONTROL Padrão]**.
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
 
    >[!TIP]
    >
-   >O número **[!UICONTROL Etapa]** é usado para classificar os status do programa. Lembre-se de que as pessoas não podem retroceder nesses passos de progressão. Eles só podem alterar o status para um status de valor maior ou igual. Use os valores iguais quando os status pretenderem alternar entre si, em vez de uma progressão.
+   >O número **[!UICONTROL Etapa]** é usado para classificar os status do programa. Observe que as pessoas não podem retroceder nesses passos de progressão. Eles só podem alterar o status para um status de valor maior ou igual. Use os valores iguais quando os status pretenderem alternar entre si, em vez de uma progressão.
 
 1. Insira o número do último programa **[!UICONTROL Status]** e **[!UICONTROL Etapa]**.
 
@@ -117,4 +117,4 @@ Um programa é uma iniciativa de marketing específica. O canal deve ser o mecan
 
    ![](assets/create-a-program-channel-11.png)
 
-   Muito bem! Quando você cria um novo programa desse tipo, esse novo canal será uma das opções.
+   Quando você cria um novo programa desse tipo, esse novo canal será uma das opções.

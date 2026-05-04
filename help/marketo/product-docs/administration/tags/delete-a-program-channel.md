@@ -4,9 +4,9 @@ description: Etapas para excluir um canal de programa quando ele não estiver as
 title: Excluir um canal de programa
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 7%
 
 ---
@@ -29,7 +29,7 @@ Se você fizer um por acidente ou não precisar mais de um, é possível excluí
 
    >[!TIP]
    >
-   >Se o canal estiver associado a algum programa, não será possível excluí-lo, apenas ocultar.
+   >Se o canal estiver associado a algum programa, não será possível excluir, apenas ocultar.
 
    ![](assets/delete-a-program-channel-3.png)
 

@@ -4,16 +4,16 @@ description: Como remover o status de um programa de um canal no Admin em Tags, 
 title: Excluir um status de programa de um canal de programa
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '131'
+ht-degree: 12%
 
 ---
 
 # Excluir um status de programa de um canal de programa {#delete-a-program-status-from-a-program-channel}
 
-Os status do programa são os pontos de verificação através de um caminho de programas (canal). Se você fizer um status por engano ou não precisar mais dele, sinta-se livre para excluí-lo.
+Os status do programa são pontos de verificação no caminho do programa (canal). Se você fizer um status por engano ou não precisar mais dele, é possível excluí-lo.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -33,6 +33,6 @@ Os status do programa são os pontos de verificação através de um caminho de 
 
    >[!TIP]
    >
-   >Se alguma pessoa estiver atualmente atribuída ao status em questão, você não poderá excluí-la, mas pode ocultá-la.
+   >Se alguma pessoa estiver atualmente atribuída ao status em questão, você não poderá excluí-la, mas poderá ocultá-la.
 
-Muito bem! Você também pode [excluir um canal inteiro](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), se necessário.
+Você também pode [excluir um canal inteiro](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), se necessário.
