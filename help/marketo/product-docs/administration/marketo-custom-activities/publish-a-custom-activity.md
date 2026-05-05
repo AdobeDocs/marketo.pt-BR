@@ -4,16 +4,16 @@ description: Etapas para publicar uma atividade personalizada.
 title: Publicar uma atividade personalizada
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 11%
+source-wordcount: '58'
+ht-degree: 13%
 
 ---
 
 # Publicar uma atividade personalizada {#publish-a-custom-activity}
 
-Você tem sua atividade personalizada exatamente como deseja. Agora, é hora de publicá-lo!
+Saiba como publicar sua atividade personalizada.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -31,12 +31,10 @@ Você tem sua atividade personalizada exatamente como deseja. Agora, é hora de 
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Você verá o [!UICONTROL estado] da sua atividade personalizada no [!UICONTROL Rascunho]...
+   O [!UICONTROL Estado] da atividade personalizada foi alterado de [!UICONTROL Rascunho]...
 
    ![](assets/publish-a-custom-activity-5.png)
 
    ...para [!UICONTROL Publicado].
 
    ![](assets/publish-a-custom-activity-6.png)
-
-   Muito bem!

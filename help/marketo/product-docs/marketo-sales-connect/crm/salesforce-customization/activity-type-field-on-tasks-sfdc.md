@@ -4,9 +4,9 @@ description: Entenda o campo de tipo de atividade em tarefas ao sincronizar o Sa
 title: Campo Tipo de atividade em tarefas (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 5%
 
 ---
@@ -35,7 +35,7 @@ Primeiro, verifique se você tem os valores corretos da lista de seleção em vi
 1. Clique em **[!UICONTROL Atividades]**.
 1. Clique em **[!UICONTROL Campos de tarefa]**.
 1. Clique em **[!UICONTROL Tipo]**.
-1. Você está agora na Lista de opções de tipos de tarefa. Verifique se não há um &#39;Padrão&#39; selecionado.
+1. Você está agora na Lista de opções de tipos de tarefa. Verifique se não há um &quot;Padrão&quot; selecionado.
 1. Verifique se há um valor de [!UICONTROL Tipo] listado para [!UICONTROL Email], [!UICONTROL Chamada] e [!UICONTROL Resposta].
 
 Agora que isso foi feito, você começará a ver o campo Type preenchendo o valor correspondente para Emails, Chamadas e Respostas registrados. Esses valores _não_ serão preenchidos nas tarefas de lembrete do Sales Connect.

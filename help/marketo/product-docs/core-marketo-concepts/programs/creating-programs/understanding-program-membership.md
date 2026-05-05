@@ -4,9 +4,9 @@ description: Saiba mais sobre associação a programas e como as pessoas entram 
 title: Noções básicas sobre assinaturas de programas
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ O objetivo de um programa é criar uma interação significativa com a pessoa ou
 
 >[!NOTE]
 >
->Para um webinário, registrar não é uma interação significativa se eles não assistirem ao webinário. Participar é um sucesso neste caso.
+>Para um webinário, o registro não é uma interação significativa se eles não assistirem ao webinário. Participar é um sucesso neste caso.
 
 ## Programa de aquisição {#acquisition-program}
 

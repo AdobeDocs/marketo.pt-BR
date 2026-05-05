@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100275
 description: Como adicionar, editar ou excluir campos em uma atividade personalizada.
-title: Adicionar, editar e excluir campos de atividade personalizados do Marketo
+title: Adicionar, editar ou excluir campos de atividade personalizados do Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 6%
+source-wordcount: '288'
+ht-degree: 0%
 
 ---
 
-# Adicionar, editar e excluir campos de atividade personalizados do Marketo {#add-edit-delete-marketo-custom-activity-fields}
+# Adicionar, editar ou excluir campos de atividade personalizados do Marketo {#add-edit-delete-marketo-custom-activity-fields}
 
-Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo de atividade personalizado. Veja como.
+Saiba como adicionar, alterar ou remover um campo de atividade personalizado.
 
 ## Adicionar um campo de atividade personalizado {#add-a-custom-activity-field}
 
@@ -43,13 +43,13 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    >[!TIP]
    >
-   >Não tem certeza do que selecionar? Nós temos você coberto! Todos os tipos de dados disponíveis estão definidos em [este artigo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Para obter definições de todos os tipos de dados disponíveis, consulte [este artigo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Nomeie o campo. O Nome da API é preenchido automaticamente. Quando terminar, clique em **[!UICONTROL Salvar]**.
+1. Nomeie o campo. O [!UICONTROL Nome da API] é preenchido automaticamente. Quando terminar, clique em **[!UICONTROL Salvar]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   Pronto! O novo campo foi adicionado.
+   O novo campo foi adicionado.
 
 ## Editar um campo de atividade personalizado {#edit-a-custom-activity-field}
 
@@ -73,27 +73,27 @@ Talvez seja necessário adicionar, alterar ou até mesmo se livrar de um campo d
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   O pop-up **[!UICONTROL Editar campo]** é exibido. Neste exemplo, vamos alterar o nome do campo.
+   O pop-up **[!UICONTROL Editar campo]** é exibido. Neste exemplo, o nome do campo está sendo alterado.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Insira o novo Nome e Nome da API e clique em **[!UICONTROL Salvar]**.
+1. Insira o novo Nome e [!UICONTROL Nome da API] e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >O [!UICONTROL Nome da API] não será preenchido automaticamente ao editar um campo. Embora não seja necessário que o Campo [!UICONTROL Nome] e [!UICONTROL Nome da API] correspondam, recomendamos que correspondam.
+   >O [!UICONTROL Nome da API] não será preenchido automaticamente ao editar um campo. Embora não seja necessário que o Campo [!UICONTROL Nome] e o [!UICONTROL Nome da API] correspondam, a Marketo recomenda que correspondam.
 
    >[!CAUTION]
    >
-   >Você só poderá editar o Nome da API ou alterar o campo para Principal se a atividade personalizada nunca tiver sido publicada.
+   >Você só poderá editar o [!UICONTROL Nome da API] ou alterar o campo para Primário se a atividade personalizada nunca tiver sido publicada.
 
    >[!NOTE]
    >
    >Se você quiser alterar qual campo é Principal, primeiro desmarque o campo existente.
 
-Seu campo foi editado!
+O campo foi atualizado.
 
 ## Excluir um campo de atividade personalizado {#delete-a-custom-activity-field}
 

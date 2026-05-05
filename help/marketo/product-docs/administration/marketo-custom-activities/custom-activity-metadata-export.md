@@ -3,9 +3,9 @@ description: Saiba como exportar o esquema personalizado de metadados de ativida
 title: Exportação de metadados de atividade personalizada
 exl-id: 7dba5cf0-6394-4bb7-b9e1-5db156e6d888
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 9%
 
 ---
@@ -34,4 +34,4 @@ Siga as etapas abaixo para exportar seu esquema de metadados de atividade person
 >
 >A atividade personalizada deve estar no estado Aprovado para ser exportada.
 
-Agora você tem uma planilha com o Schema da Atividade personalizada, em três guias.
+Agora você tem uma planilha com o schema da Atividade personalizada, em três guias.

@@ -3,9 +3,9 @@ description: Saiba mais sobre o painel de engajamento Webinars interativos. Exib
 title: Painel de engajamento
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1781'
 ht-degree: 1%
 
 ---
@@ -301,9 +301,9 @@ Entenda os critérios para classificar o nível de engajamento de cada participa
     <li>O participante fez pelo menos uma pergunta no pod de Perguntas e Respostas.</li></td>
   </tr>
   <tr>
-    <td>Médio</td>
+    <td>Meio</td>
     <td>Participantes que satisfaçam todos os seguintes critérios:
-    <li>O nível de envolvimento do participante não está determinado como sendo alto.</li>
+    <li>O nível de engajamento do participante não está determinado como alto.</li>
     <li>A duração da presença é de pelo menos 60% do tempo total do evento.</li>
     <li>Pelo menos uma das seguintes ações foi executada pelo participante:
     <ul>

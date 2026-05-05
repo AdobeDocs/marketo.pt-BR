@@ -3,10 +3,10 @@ unique-page-id: 11380218
 description: Notas de versão - Verão de 16 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Verão de 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 4%
+source-wordcount: '799'
+ht-degree: 3%
 
 ---
 
