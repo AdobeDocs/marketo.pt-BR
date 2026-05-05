@@ -4,9 +4,9 @@ description: Etapas para adicionar campos a um objeto personalizado, incluindo n
 title: Adicionar campos de objeto personalizados do Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '305'
 ht-degree: 3%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Após criar um objeto personalizado, é necessário adicionar campos a ele para atender às suas necessidades comerciais.
 
-Os campos definem as informações específicas usadas por um objeto personalizado. Os campos de link têm um trabalho especial, para conectar objetos personalizados, e são abordados em um [artigo separado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Os campos definem as informações específicas usadas por um objeto personalizado. Os campos de link atendem a um propósito específico (conexão de objetos personalizados) e são abordados em um [artigo separado](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -45,7 +45,7 @@ Os campos definem as informações específicas usadas por um objeto personaliza
    >
    >O [!UICONTROL Nome da API] pode ser editado somente até ser aprovado.
 
-1. Agora, escolha um [!UICONTROL Tipo de Dados] apropriado na lista.
+1. Escolha um [!UICONTROL Tipo de Dados] apropriado na lista.
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
@@ -61,7 +61,7 @@ Os campos definem as informações específicas usadas por um objeto personaliza
 
    >[!NOTE]
    >
-   >Se você estiver criando uma estrutura de um para muitos, será necessário adicionar um campo Link ao seu objeto personalizado. Para uma estrutura muitos para muitos, você não precisa de um campo de link no objeto personalizado, mas deve adicionar dois campos de link no objeto intermediário. Consulte [Adicionar campos de link de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para criar os campos de link e [Noções básicas sobre objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações sobre tipos de objetos personalizados.
+   >Se você estiver criando uma estrutura de um para muitos, será necessário adicionar um campo Link ao objeto personalizado. Para uma estrutura muitos para muitos, não é necessário um campo de link no objeto personalizado, mas você deve adicionar dois campos de link no objeto intermediário. Consulte [Adicionar campos de link de objeto personalizado do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) para criar os campos de link e [Noções básicas sobre objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações sobre tipos de objetos personalizados.
 
 >[!MORELIKETHIS]
 >

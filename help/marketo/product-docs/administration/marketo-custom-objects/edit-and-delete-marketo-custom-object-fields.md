@@ -4,9 +4,9 @@ description: Como editar ou excluir campos em um objeto personalizado não aprov
 title: Editar e excluir campos de objeto personalizado do Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 12%
 
 ---
@@ -39,17 +39,17 @@ ht-degree: 12%
 
 ## Excluir um campo {#delete-a-field}
 
-Quando não precisar mais de um campo em um objeto personalizado, você poderá excluí-lo.
+Quando um campo em um objeto personalizado não é mais necessário, você pode excluí-lo.
 
 1. Na guia Campos, clique em **[!UICONTROL Ações do Campo]** e **[!UICONTROL Excluir Campo]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Certifique-se de que realmente deseja excluir o campo antes de puxar o gatilho! Clique em **[!UICONTROL Excluir]**.
+1. Confirme se deseja excluir o campo antes de continuar. Clique em **[!UICONTROL Excluir]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-Se foi!
+O campo é excluído.
 
 ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 

@@ -4,10 +4,10 @@ description: Como usar acionadores de adição ou alteração de objeto personal
 title: Acionar alterações de objeto personalizado
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 5%
+source-wordcount: '203'
+ht-degree: 8%
 
 ---
 
@@ -18,9 +18,10 @@ ht-degree: 5%
 >Este recurso está disponível somente:
 >
 >* Para uso somente com objetos personalizados do Marketo, não com objetos personalizados sincronizados por meio da integração [!DNL Salesforce] ou [!DNL Microsoft Dynamics] nativa
+>
 >* Como acionador, não como filtro
 >
->Contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitar os Acionadores de Alteração de Objeto Personalizado.
+>Contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) para habilitar os Gatilhos de Alteração de Objeto Personalizado.
 
 Em uma lista inteligente de campanha inteligente, é possível acionar uma ação de fluxo quando um objeto personalizado é adicionado a uma pessoa ou empresa. Você também pode criar uma lista inteligente que usa uma _alteração_ em um objeto personalizado como um disparador. Por exemplo, use-o para enviar um email quando um nome de curso for atualizado.
 
@@ -48,7 +49,7 @@ Em uma lista inteligente de campanha inteligente, é possível acionar uma açã
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. E aí está você. A alteração é salva automaticamente.
+1. A alteração é salva automaticamente.
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

@@ -4,10 +4,10 @@ description: Como aprovar objetos personalizados novos ou editados no Admin, inc
 title: Aprovar um objeto personalizado
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 3%
+source-wordcount: '303'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Você deve aprovar um objeto personalizado antes de usá-lo. O processo é um po
 
 ## Aprovar um novo objeto personalizado {#approve-a-new-custom-object}
 
-Você criou um novo objeto personalizado. Veja como aprová-la.
+Um novo objeto personalizado foi criado. Siga as etapas abaixo para aprová-la.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -43,13 +43,13 @@ Você criou um novo objeto personalizado. Veja como aprová-la.
    >
    >Um objeto personalizado usado em uma _estrutura de um para muitos_ deve ter pelo menos um campo de eliminação de duplicação, um campo de link, um nome de objeto vinculado e um nome de campo vinculado a ser aprovado.
    >
-   >Um objeto personalizado usado em uma estrutura _muitos para muitos_ **não** precisa de um campo de link, nome de objeto vinculado ou um nome de campo vinculado ao aprová-lo (porque ele está no objeto intermediário).
+   >Um objeto personalizado usado em uma estrutura _muitos para muitos_ **não** precisa de um campo de link, nome de objeto vinculado ou um nome de campo vinculado ao aprová-lo (porque ele reside no objeto intermediário).
    >
    >Um objeto personalizado usado como um _objeto intermediário_ requer um campo de link, um nome de objeto vinculado e um nome de campo vinculado, mas **não** requer um campo de eliminação de duplicação.
    >
    >Consulte [Entendendo os objetos personalizados do Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) para obter mais informações.
 
-Pronto! Agora, você pode selecionar o objeto personalizado nas restrições de seus filtros e acionadores para usar em suas campanhas.
+Agora é possível selecionar o objeto personalizado nas restrições dos filtros e acionadores para usar nas campanhas.
 
 ## Aprovar um objeto personalizado editado {#approve-an-edited-custom-object}
 

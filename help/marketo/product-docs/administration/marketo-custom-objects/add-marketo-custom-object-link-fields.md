@@ -4,9 +4,9 @@ description: Como adicionar campos de link para conectar objetos personalizados 
 title: Adicionar campos de link de objeto personalizado do Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '735'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Ao criar objetos personalizados, você deve fornecer campos de link para conecta
 
 ## Criar um campo de link para uma estrutura de um para muitos {#create-a-link-field-for-a-one-to-many-structure}
 
-Veja como criar um campo de link em um objeto personalizado para uma estrutura de um para muitos.
+Siga as etapas abaixo para criar um campo de link em um objeto personalizado para uma estrutura de um para muitos.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -42,13 +42,13 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura d
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Nomeie o campo de link e adicione uma [!UICONTROL Descrição] opcional. Certifique-se de selecionar o tipo de dados [!UICONTROL Link].
+1. Nomeie o campo de link e adicione uma [!UICONTROL Descrição] opcional. Selecione o tipo de dados [!UICONTROL Link].
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >Você não poderá voltar e criar, editar ou excluir um [!UICONTROL Link] ou [!UICONTROL Campo de Desduplicação] depois que o objeto personalizado for aprovado.
+   >Não é possível voltar e criar, editar ou excluir um [!UICONTROL Link] ou [!UICONTROL Campo de Desduplicação] depois que o objeto personalizado for aprovado.
 
 1. Selecione se o [!UICONTROL Objeto de Link] é para uma [!UICONTROL cliente em potencial] (pessoa) ou uma [!UICONTROL empresa].
 
@@ -56,7 +56,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura d
 
    >[!NOTE]
    >
-   >Se você escolher [!UICONTROL cliente em potencial], verá ID, endereço de email e quaisquer campos personalizados na lista.
+   >Se você escolher [!UICONTROL cliente em potencial], verá ID, Endereço de email e quaisquer campos personalizados na lista.
    >
    >Se você escolher [!UICONTROL empresa], verá a ID e todos os campos personalizados na lista.
 
@@ -74,7 +74,7 @@ Veja como criar um campo de link em um objeto personalizado para uma estrutura d
 
 ## Criar um campo de link para uma estrutura muitos para muitos {#create-a-link-field-for-a-many-to-many-structure}
 
-Veja como criar um campo de link em um objeto intermediário para uso em uma estrutura muitos para muitos.
+Siga as etapas abaixo para criar um campo de link em um objeto intermediário para uso em uma estrutura muitos para muitos.
 
 >[!PREREQUISITES]
 >
@@ -96,13 +96,13 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Você precisa criar dois campos de link. Crie um de cada vez. Primeiro, nomeie o campo para os membros da lista do banco de dados (leadID, por exemplo). Adicione uma [!UICONTROL Descrição] opcional. Certifique-se de selecionar o [!UICONTROL link] [!UICONTROL Tipo de Dados].
+1. Crie dois campos de link, um de cada vez. Primeiro, nomeie o campo para os membros da lista do banco de dados (leadID, por exemplo). Adicione uma [!UICONTROL Descrição] opcional. Selecione o [!UICONTROL link] [!UICONTROL Tipo de Dados].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >Você não poderá voltar e criar, editar ou excluir um [!UICONTROL Link] ou [!UICONTROL Campo de Desduplicação] depois que o objeto personalizado for aprovado.
+   >Não é possível voltar e criar, editar ou excluir um [!UICONTROL Link] ou [!UICONTROL Campo de Desduplicação] depois que o objeto personalizado for aprovado.
 
 1. Selecione o [!UICONTROL Objeto de Link] do seu banco de dados; neste caso, [!UICONTROL Lead].
 
@@ -128,7 +128,7 @@ Veja como criar um campo de link em um objeto intermediário para uso em uma est
 
 ## Uso de objetos personalizados {#using-custom-objects}
 
-A próxima etapa é usar esses objetos personalizados em filtros em suas campanhas inteligentes. Com uma relação muitos para muitos, você pode selecionar várias pessoas/empresas e vários objetos personalizados. No exemplo abaixo, qualquer pessoa no banco de dados que corresponda a esses critérios será listada. O campo nome do curso vem do objeto personalizado do curso e o nível de inscrição vem do objeto intermediário.
+A próxima etapa é usar esses objetos personalizados em filtros em suas campanhas inteligentes. Com uma relação muitos para muitos, você pode selecionar várias pessoas ou empresas e vários objetos personalizados. No exemplo abaixo, qualquer pessoa no banco de dados que corresponda a esses critérios será listada. O campo nome do curso vem do objeto personalizado do curso e o nível de inscrição vem do objeto intermediário.
 
 ![](assets/add-marketo-custom-object-link-fields-18.png)
 

@@ -3,16 +3,16 @@ description: Como exportar o esquema de metadados do objeto personalizado para u
 title: Exportação de metadados de objeto personalizado
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 
 # Exportação de metadados de objeto personalizado {#custom-object-metadata-export}
 
-Se você estiver usando nossa API do SOAP ou a API [!DNL Munchkin], o Esquema de metadados do objeto personalizado pode ser exportado. Veja como obtê-lo.
+Se você estiver usando a API do SOAP ou a API [!DNL Munchkin], o Esquema de metadados do objeto personalizado poderá ser exportado. Siga as etapas abaixo.
 
 >[!AVAILABILITY]
 >
@@ -38,7 +38,7 @@ Se você estiver usando nossa API do SOAP ou a API [!DNL Munchkin], o Esquema de
 >
 >O objeto personalizado deve estar no estado aprovado para ser exportado.
 
-Agora você tem uma planilha com o Esquema do Objeto personalizado em três guias.
+Agora você tem uma planilha com o schema do Objeto personalizado, em três guias.
 
 ![](assets/custom-object-metadata-export-5.png)
 
