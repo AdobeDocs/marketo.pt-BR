@@ -4,16 +4,16 @@ description: Personalize o texto do link Exibir como página da Web e o HTML no 
 title: Editar a mensagem “Exibir como uma página da web”
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 13%
+source-wordcount: '182'
+ht-degree: 24%
 
 ---
 
 # Editar a mensagem “Exibir como uma página da web” {#edit-the-view-as-web-page-message}
 
-Se você precisar editar o texto &quot;[Exibir como uma página da Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, veja como.
+Saiba como editar o texto &quot;[Exibir como página da Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Se você precisar editar o texto &quot;[Exibir como uma página da Web](/help/ma
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >A segunda parte `##MKT_TOK##` é o cookie [!UICONTROL munchkin] dessa pessoa. Ele garante que sejam corretamente guiados ao clicar no link.
+   >A segunda parte `##MKT_TOK##` é o cookie [!UICONTROL Munchkin] dessa pessoa. Isso garante que eles sejam rastreados adequadamente ao clicar no link.
 
 1. Edite as versões **[!UICONTROL Exibir como HTML da Página da Web]** e **[!UICONTROL Exibir como Texto da Página da Web]** de sua preferência e clique em **[!UICONTROL Salvar Alterações]**.
 
@@ -48,7 +48,7 @@ Se você precisar editar o texto &quot;[Exibir como uma página da Web](/help/ma
 >* Adicionar URLs adicionais a qualquer uma das caixas do HTML
 >* Inserção do HTML na versão de texto
 
-É isso aí. Envie emails de teste para garantir a formatação.
+Envie emails de teste para verificar a formatação.
 
 ## Texto padrão &quot;Exibir como página da Web&quot; {#default-view-as-web-page-text}
 
@@ -62,5 +62,3 @@ Se você precisar reverter para o sistema padrão &quot;[!UICONTROL Exibir como 
 
 Para exibir esse email como uma página da Web, vá para o seguinte endereço:
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`
-
-Pronto!

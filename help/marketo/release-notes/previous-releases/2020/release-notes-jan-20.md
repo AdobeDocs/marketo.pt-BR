@@ -4,9 +4,9 @@ description: Notas de versão - Janeiro de 2020 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '844'
 ht-degree: 2%
 
 ---
@@ -29,7 +29,7 @@ Os recursos a seguir serão lançados em **17 de janeiro de 2020**.
 
 >[!NOTE]
 >
->Atualmente, o Seletor de ativos do AEM só é totalmente compatível com o Firefox. Ele não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie SameSite.
+>Atualmente, o Seletor de ativos do AEM só é totalmente compatível com o Firefox. Não é compatível com o Safari e pode não funcionar na versão mais recente do Chrome (v. 80), dependendo das configurações de cookie SameSite.
 
 * **[!DNL Microsoft Dynamics]- Sincronizar Cliente Potencial com o CRM em Tempo Real**: sincronização em tempo real de clientes potenciais e contatos entre o Marketo Engage e [!DNL Microsoft Dynamics]. Crie clientes potenciais ou contatos e os veja imediatamente no [!DNL Microsoft Dynamics] com a ação de fluxo &quot;Sincronizar Pessoa com o Microsoft&quot;.
 * **[!DNL LinkedIn]Mapeamento de Campo Adicional da Geração de Líderes do Forms**: capture dados de lead da Geração de Líderes do Forms [!DNL LinkedIn] para criar experiências mais relevantes para pontos de contato de vendas e marketing. Transfira campos ocultos, campos de consentimento e o campo de clientes potenciais de teste para o Marketo Engage.
@@ -57,7 +57,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Edição de imagens](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=pt-BR#design-studio): acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas facilmente, como aprimorar, recortar e adicionar texto a imagens diretamente no [!UICONTROL Design Studio].
+* [Edição de imagens](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas facilmente, como aprimorar, recortar e adicionar texto a imagens diretamente no [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 

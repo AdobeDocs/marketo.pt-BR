@@ -4,16 +4,16 @@ description: Defina limites de email por dia e por dia 7 para evitar comunicaç�
 title: Habilitar limites de comunicação
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 7%
 
 ---
 
 # Habilitar limites de comunicação {#enable-communication-limits}
 
-É muito importante não se comunicar demais com o seu pessoal. Definir limites de comunicação ajudará a impedir que sua organização envie muitos emails.
+É importante não se comunicar excessivamente com o seu pessoal. Definir limites de comunicação ajudará a impedir que sua organização envie muitos emails.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 8%
    >
    >[!UICONTROL Por Dia] é baseado no dia do calendário no fuso horário da assinatura (meia-noite-meia-noite).
 
-1. Clique na lista suspensa **[!UICONTROL Por Dia]** e selecione o limite desejado. Neste exemplo, estamos escolhendo 1.
+1. Clique na lista suspensa **[!UICONTROL Por Dia]** e selecione o limite desejado. Neste exemplo, 1 está sendo usado.
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 8%
    >
    >Você também pode escolher **[!UICONTROL Personalizado]** se nenhuma das opções predefinidas funcionar para você.
 
-1. Clique na lista suspensa **[!UICONTROL Por 7 dias]** e selecione o limite desejado. Neste exemplo, estamos escolhendo 5.
+1. Clique na lista suspensa **[!UICONTROL Por 7 dias]** e selecione o limite desejado. Neste exemplo, 5 está sendo usado.
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -63,7 +63,7 @@ ht-degree: 8%
    >
    >**Exemplo**
    >
-   >As configurações acima significam que as pessoas não receberão mais de **email por dia** ou mais de **5 em qualquer período de sete dias**.
+   >As configurações acima significam que as pessoas não receberão mais de **1 email por dia** ou mais de **5 em qualquer período de sete dias**.
 
    >[!NOTE]
    >

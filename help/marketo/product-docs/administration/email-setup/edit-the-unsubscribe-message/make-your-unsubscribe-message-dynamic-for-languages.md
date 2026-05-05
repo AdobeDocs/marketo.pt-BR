@@ -4,20 +4,20 @@ description: Use o conteúdo dinâmico e a segmentação para exibir a mensagem 
 title: Tornar a mensagem de cancelamento de inscrição dinâmica em diferentes idiomas
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 6%
+source-wordcount: '472'
+ht-degree: 8%
 
 ---
 
 # Tornar a mensagem de cancelamento de inscrição dinâmica em diferentes idiomas {#make-your-unsubscribe-message-dynamic-for-languages}
 
-A mensagem e o link padrão para cancelar a inscrição estão em inglês. Você pode usar o conteúdo dinâmico para exibi-lo em diferentes idiomas.
+A mensagem e o link padrão para cancelar a inscrição estão em inglês. Você pode usar o conteúdo dinâmico para exibi-los em diferentes idiomas.
 
 >[!NOTE]
 >
->Este artigo representa uma prática recomendada, mas pode ser realizado de outras maneiras.
+>Este artigo representa uma prática recomendada, mas pode ser realizada de outras maneiras.
 
 ## Preparar seus dados {#prepare-your-data}
 
@@ -53,7 +53,7 @@ A mensagem e o link padrão para cancelar a inscrição estão em inglês. Você
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Vá para a guia **[!UICONTROL Smart List]**. Digite o **[!UICONTROL Idioma Preferencial]** no campo de pesquisa. Arraste e solte o filtro na tela de desenho.
+1. Acesse a guia **[!UICONTROL Lista inteligente]**. Digite o **[!UICONTROL Idioma Preferencial]** no campo de pesquisa. Arraste e solte o filtro na tela de desenho.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -71,7 +71,7 @@ A mensagem e o link padrão para cancelar a inscrição estão em inglês. Você
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. Na lista suspensa **[!UICONTROL Novo]**, clique em **[!UICONTROL Novo trecho]**.
+1. No menu suspenso **[!UICONTROL Novo]**, clique em **[!UICONTROL Novo trecho]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
@@ -95,7 +95,7 @@ A mensagem e o link padrão para cancelar a inscrição estão em inglês. Você
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Selecione um segmento na árvore. Clique no cancelamento de inscrição e no ícone de link.
+1. Selecione um segmento na árvore. Clique no texto de cancelamento de inscrição e no ícone de link.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
@@ -107,11 +107,9 @@ A mensagem e o link padrão para cancelar a inscrição estão em inglês. Você
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-Fantástico. Quase lá!
+## Usar um trecho em um email {#use-a-snippet-in-an-email}
 
-## Usar trecho em um email {#use-snippet-in-an-email}
-
-1. No editor de email, clique no elemento editável. Em seguida, clique no ícone de engrenagem e selecione **[!UICONTROL Substituir por trecho]**. Se você estiver selecionando um elemento de trecho editável, clique no ícone de engrenagem e selecione **[!UICONTROL Editar]**.
+1. No editor de email, clique no elemento editável. Em seguida, clique no ícone de engrenagem e selecione **[!UICONTROL Substituir por trecho]**. Se você selecionar um elemento de trecho editável, clique no ícone de engrenagem e selecione **[!UICONTROL Editar]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
@@ -133,9 +131,9 @@ Fantástico. Quase lá!
 
    >[!TIP]
    >
-   >É claro que você também pode editar o restante do seu email para linguagem dinâmica. Enquanto estiver nessa página, faça a mesma técnica na página de cancelamento de inscrição.
+   >Também é possível editar o restante do email para linguagem dinâmica. Use a mesma técnica na página de cancelamento de inscrição.
 
-## Personalização da página de cancelamento de inscrição com conteúdo dinâmico {#customizing-your-unsubscribe-page-with-dynamic-content}
+## Personalizar a página de cancelamento de inscrição com conteúdo dinâmico {#customize-your-unsubscribe-page-with-dynamic-content}
 
 Se você quiser que seus funcionários acessem uma página de cancelamento de inscrição no idioma de sua preferência, é possível usar o conteúdo dinâmico na página de aterrissagem e na página de confirmação.
 
@@ -159,8 +157,6 @@ Se você quiser que seus funcionários acessem uma página de cancelamento de in
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   Edite seu conteúdo para cada página de aterrissagem, aprove e você está pronto para prosseguir!
-
    >[!NOTE]
    >
-   >Saiba mais sobre o [conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) e todas as coisas interessantes que você pode fazer.
+   >Saiba mais sobre [conteúdo dinâmico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).

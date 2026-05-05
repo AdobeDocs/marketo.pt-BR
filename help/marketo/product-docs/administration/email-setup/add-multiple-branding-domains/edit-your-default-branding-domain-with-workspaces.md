@@ -4,10 +4,10 @@ description: Altere o domínio de marca genérico para o domínio da sua empresa
 title: Editar o domínio de marca padrão com espaços de trabalho
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 11%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 
@@ -28,8 +28,6 @@ ht-degree: 11%
    >[!NOTE]
    >
    >**[!UICONTROL Adicionar]** não funciona até que você edite o domínio genérico. **[!UICONTROL Excluir]** não funciona até que você adicione um segundo domínio.
-   >
-   >Não é possível adicionar outro domínio até que você edite o domínio genérico pela primeira vez.
 
 1. Digite o nome do domínio padrão e clique em **[!UICONTROL Avançar]**.
 
@@ -41,6 +39,6 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->Ao adicionar domínios de marca adicionais, você pode optar por tornar esse domínio primário para um ou mais espaços de trabalho, e todos os emails não enviados existentes serão definidos como &quot;Padrão&quot; e todos os emails recém-criados serão padronizados para o domínio primário. Você pode substituí-lo por email.
+>Ao adicionar domínios de marca adicionais, você pode optar por tornar esse domínio primário para um ou mais espaços de trabalho, e todos os emails não enviados existentes definidos como &quot;Padrão&quot; e todos os emails recém-criados assumirão o domínio primário como padrão. Você pode substituí-lo por email.
 
 Agora você pode [adicionar outros domínios de marca](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) necessários para os espaços de trabalho.

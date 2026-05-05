@@ -4,16 +4,16 @@ description: Defina um número máximo de pessoas que podem se qualificar para u
 title: Habilitar restrições de pessoa para campanhas inteligentes
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 10%
+source-wordcount: '153'
+ht-degree: 11%
 
 ---
 
 # Habilitar restrições de pessoa para campanhas inteligentes {#enable-person-restrictions-for-smart-campaigns}
 
-Há um recurso no Marketo para limitar o _número máximo_ de pessoas que podem se qualificar para uma Campanha Inteligente. Isso evita enviar acidentalmente um email para todo o banco de dados.
+Há um recurso no Marketo para limitar o número _máximo_ de pessoas que podem se qualificar para uma Campanha Inteligente. Isso evita enviar acidentalmente um email para todo o banco de dados.
 
 >[!NOTE]
 >
@@ -50,8 +50,6 @@ Há um recurso no Marketo para limitar o _número máximo_ de pessoas que podem 
    >[!CAUTION]
    >
    >Esse limite é aplicado a todas as Campanhas inteligentes, mas pode ser substituído no nível da campanha. Saiba como [substituir restrições de pessoa em uma Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
-
-Concluído! Você acabou de ligar o interruptor de segurança.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Adicione outros domínios de marca e atribua um domínio principal 
 title: Adicionar um novo domínio de marca com espaços de trabalho
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '131'
 ht-degree: 13%
 
 ---
@@ -17,9 +17,9 @@ Se você tiver espaços de trabalho, poderá adicionar outros domínios de marca
 
 >[!PREREQUISITES]
 >
->Você deve [editar primeiro seu domínio de marca padrão](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
+>* [Editar seu domínio de marca padrão](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
 >
->Primeiro [substitua o link de rastreamento genérico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) por um domínio de marca antes de adicionar outros domínios de marca.
+>* [Substitua o link de rastreamento genérico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) por um domínio de marca antes de adicionar outros domínios de marca.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -39,7 +39,7 @@ Se você tiver espaços de trabalho, poderá adicionar outros domínios de marca
 
    >[!NOTE]
    >
-   >Você pode optar por definir esse como Domínio primário para um ou mais espaços de trabalho, e todos os emails não enviados existentes serão definidos como &quot;Padrão&quot; e todos os emails recém-criados serão padronizados para o domínio primário. Você pode substituí-lo por email.
+   >Você pode optar por tornar esse domínio primário para um ou mais espaços de trabalho, e todos os emails não enviados existentes definidos como &quot;Padrão&quot; e todos os emails recém-criados assumirão o domínio primário como padrão. Você pode substituí-lo por email.
 
 1. Selecione o novo domínio de identidade visual e clique em **[!UICONTROL Salvar]**.
 

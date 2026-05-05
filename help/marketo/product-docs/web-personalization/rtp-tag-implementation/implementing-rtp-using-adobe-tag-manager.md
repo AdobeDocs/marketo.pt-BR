@@ -4,9 +4,9 @@ description: Saiba mais sobre como implementar o rtp usando o gerenciador de tag
 title: Implementação do RTP usando o gerenciador de tags da Adobe
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '230'
 ht-degree: 5%
 
 ---
@@ -19,7 +19,7 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. Vá para **[!UICONTROL Configurações da conta]**.
 
-   a. Se você já tiver recebido sua tag do JavaScript do suporte, continue para a etapa 4.
+   a) Se você já tiver recebido sua tag do JavaScript do suporte, continue para a etapa 4.
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
@@ -29,7 +29,7 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. Faça logon em sua conta do [!DNL Dynamic Tag Manager] ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Ir para **[!UICONTROL Painel].** Clique na propriedade da Web relevante.
+1. Ir para **[!UICONTROL Painel].** Clique em na propriedade da Web relevante.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
@@ -60,7 +60,7 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo:
 
 1. Clique em **[!UICONTROL Salvar Código]** no editor de scripts e em **[!UICONTROL Salvar Regra]** no editor de regras.
 
-1. No painel Regras, localize a regra de carregamento de página do Marketo RTP e, na lista suspensa **[!UICONTROL Ações]**, selecione **[!UICONTROL Ativar regras]**.
+1. No painel Regras, localize a regra de carregamento de página do Marketo RTP e, no menu suspenso **[!UICONTROL Ações]**, selecione **[!UICONTROL Ativar regras]**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 

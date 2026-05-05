@@ -3,18 +3,18 @@ description: Filtre ou registre a atividade de bot de email para evitar abertura
 title: Filtragem da atividade do bot de email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '496'
 ht-degree: 11%
 
 ---
 
 # Filtragem da atividade do bot de email {#filtering-email-bot-activity}
 
-Às vezes, a atividade de bot por email pode inflar erroneamente seus dados de aberturas e cliques de email. Siga as etapas abaixo para corrigir isso.
+Às vezes, a atividade de bot por email pode inflar erroneamente seus dados de aberturas e cliques de email. Siga as etapas abaixo para resolver isso.
 
-Usamos dois métodos separados para confirmar a atividade do bot:
+Dois métodos separados são usados para confirmar a atividade do bot:
 
 * Corresponder com [Lista de bots do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: atividades que correspondem a qualquer item na lista UA/IP (Agente do usuário/endereço IP) do IAB serão marcadas como bots.
 * Correspondência com o padrão de proximidade: quando duas ou mais atividades acontecem ao mesmo tempo (em menos de um segundo), elas são identificadas como bots. Os atributos considerados durante a comparação são:
@@ -47,27 +47,27 @@ Em relação à atividade de clique em links de email e abertura de email, novos
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. Se você habilitar a **[!UICONTROL Correspondência com o Padrão de Proximidade]**, escolha se deseja [!UICONTROL registrar a atividade de bot] _ou_ [!UICONTROL filtrar a atividade de bot]. Você também pode definir a quantidade de segundos para **Duração entre atividades** (o padrão é 0, o máximo é 3).
+1. Se você habilitar a **[!UICONTROL Correspondência com o Padrão de Proximidade]**, escolha se deseja [!UICONTROL registrar a atividade de bot] _ou_ [!UICONTROL filtrar a atividade de bot]. Você também pode definir o número de segundos para **Duração entre atividades** (o padrão é 0, o máximo é 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->Com a **Duração Entre Atividades** definida como 0 segundos, identificaremos as atividades de email que estão ocorrendo exatamente no mesmo segundo. Se várias atividades de email ocorrerem dentro da quantidade designada de segundos, elas serão identificadas como atividade de bot.
+>Com a **Duração Entre Atividades** definida como 0 segundos, as atividades de email serão identificadas como ocorrendo exatamente no mesmo segundo. Se várias atividades de email ocorrerem dentro do número designado de segundos, elas serão identificadas como atividade de bot.
 
 >[!IMPORTANT]
 >
->* Se você escolher [!UICONTROL Filtrar atividade de bot], poderá ver uma queda nas aberturas e cliques de email, já que as atividades falsas serão eliminadas.
+>* Se você escolher [!UICONTROL Filtrar atividade de bot], poderá ver uma queda nas aberturas de email e cliques, à medida que atividades falsas forem removidas.
 
-**ETAPA OPCIONAL**: para desabilitar qualquer um dos recursos, basta desmarcar o respectivo controle deslizante. Se você fizer isso, os dados não serão redefinidos.
+**ETAPA OPCIONAL**: para desabilitar qualquer um dos recursos, desmarque o respectivo controle deslizante. Se você fizer isso, os dados não serão redefinidos.
 
 >[!TIP]
 >
->Aproveite os dados de atividade de bot nas Smart Lists por meio das opções &quot;Is Bot Activity&quot; (sim/não) e &quot;Bot Activity Pattern&quot; nos filtros &quot;Link clicado no email&quot; e &quot;Abrir email&quot;, e &quot;Clicks Link no email&quot; e &quot;Abrir email&quot; acionadores.
+>Use dados de atividade de bot em Smart Lists por meio da opção &quot;É atividade de bot&quot; booleana (sim/não) e do &quot;Padrão de atividade de bot&quot; nos filtros &quot;Link clicado no email&quot; e &quot;Abrir email&quot; e nos acionadores &quot;Clica no link no email&quot; e &quot;Abre email&quot;.
 
 ## INCLUIR NA LISTA DE BLOQUEIOS IP {#ip-blocklist}
 
-Compilamos uma lista de endereços IP responsáveis por gerar milhões de envolvimentos falsos, já que esses envolvimentos recebidos de qualquer um dos seguintes IPs são automaticamente filtrados e não adicionados à instância do Marketo Engage. Isso pode resultar em uma redução nas aberturas de email, cliques e outras atividades relacionadas. The list below may be updated periodically.
+A Marketo compilou uma lista de endereços IP responsáveis por gerar milhões de engajamentos falsos. Como resultado, qualquer envolvimento recebido dos seguintes IPs é automaticamente filtrado e não adicionado à sua assinatura do Marketo Engage. Isso pode resultar em uma redução nas aberturas de email, cliques e outras atividades relacionadas. A lista a seguir apresentada pode ser atualizada periodicamente.
 
 * 40.94.34.52
 * 40.94.34.86
@@ -123,4 +123,4 @@ Compilamos uma lista de endereços IP responsáveis por gerar milhões de envolv
 
 >[!NOTE]
 >
->We meticulously analyze and scrutinize every IP address before adding it to this list, ensuring only the most critical and harmful IPs are blocked.
+>Cada endereço IP é cuidadosamente revisado antes de ser adicionado a essa lista, garantindo que apenas os IPs mais prejudiciais sejam bloqueados.

@@ -4,16 +4,16 @@ description: Defina os valores padrão Do email e Do rótulo para novos emails c
 title: Alterar o email padrão e rótulo de remetente
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '111'
 ht-degree: 18%
 
 ---
 
 # Alterar o email padrão e rótulo de remetente {#change-the-default-from-email-and-from-label}
 
-Cada usuário administrador tem a capacidade de alterar os valores padrão de **[!UICONTROL Do email]** e **[!UICONTROL Do rótulo]** para que, quando criarem novos emails, esses padrões sejam usados.
+Cada usuário administrador pode alterar os valores padrão de **[!UICONTROL Do email]** e **[!UICONTROL Do rótulo]** para que, quando ele criar novos emails, esses padrões sejam usados.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Cada usuário administrador tem a capacidade de alterar os valores padrão de **
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Insira os valores padrão desejados para **[!UICONTROL Do email]** e **[!UICONTROL Do rótulo]** e clique em **[!UICONTROL Salvar alterações]**.
+1. Insira os valores padrão desejados para **[!UICONTROL Do Email]** e **[!UICONTROL Do Rótulo]** e clique em **[!UICONTROL Salvar Alterações]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 
@@ -35,4 +35,4 @@ Cada usuário administrador tem a capacidade de alterar os valores padrão de **
 >
 >A alteração é aplicável somente a você e não a outros usuários do Marketo.
 
-Bom trabalho! Toda vez que criar um novo email, os valores padrão definidos serão usados.
+Agora, sempre que você criar um novo email, os valores padrão definidos serão usados.

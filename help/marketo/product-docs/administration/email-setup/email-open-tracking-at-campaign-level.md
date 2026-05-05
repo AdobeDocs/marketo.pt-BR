@@ -3,34 +3,34 @@ description: Controle se as aberturas de email são rastreadas por campanha ou u
 title: Rastreamento de abertura de email no nível da campanha
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 15%
 
 ---
 
 # Rastreamento de abertura de email no nível da campanha {#email-open-tracking-at-campaign-level}
 
-Esse recurso permite controlar o rastreamento de aberturas de email, uma vez para cada abertura em uma campanha ou apenas uma vez para cada email, independentemente de quantas vezes ele é usado em campanhas diferentes.
+Esse recurso permite controlar o rastreamento de abertura de email, uma vez para cada abertura em uma campanha ou apenas uma vez para cada email, independentemente de quantas vezes ele é usado em campanhas diferentes.
 
 >[!NOTE]
 >
 >**Permissões de administrador são necessárias**
 
-1. Vá para a área **Administrador**.
+1. Vá para a área **[!UICONTROL Administrador]**.
 
    ![](assets/email-open-tracking-at-campaign-level-1.png)
 
-1. Clique em **Campanha Inteligente**.
+1. Clique em **[!UICONTROL Campanha Inteligente]**.
 
    ![](assets/email-open-tracking-at-campaign-level-2.png)
 
-1. Ao lado de _Configurações para aberturas de email_, clique em **Editar**.
+1. Ao lado de _Configurações para aberturas de email_, clique em **[!UICONTROL Editar]**.
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 
-1. Clique na lista suspensa, escolha a configuração desejada e clique em **Salvar**.
+1. Clique na lista suspensa, escolha a configuração desejada e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/email-open-tracking-at-campaign-level-4.png)
 

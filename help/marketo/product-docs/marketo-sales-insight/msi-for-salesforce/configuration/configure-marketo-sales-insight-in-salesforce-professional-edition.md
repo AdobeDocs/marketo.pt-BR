@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571743
 description: Saiba como configurar o Marketo Sales Insight no Salesforce Professional Edition.
-title: Configurar o Marketo Sales Insight no Salesforce Professional Edition
+title: Configurar o Insight de vendas do Marketo na edição Professional do Salesforce
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '762'
-ht-degree: 0%
+source-wordcount: '779'
+ht-degree: 1%
 
 ---
 

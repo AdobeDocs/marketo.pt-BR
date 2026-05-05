@@ -4,9 +4,9 @@ title: Ferramentas de engajamento em webinários interativos
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '1280'
+source-wordcount: '1285'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ CAPTURA DE TELA
 
 Arquivos
 
-O pod Arquivos é usado para compartilhar conteúdo baixável. Ele pode ser usado para compartilhar whitepapers de produtos, estudos de caso, apresentações, vídeos etc. participantes. Os arquivos podem ser adicionados clicando no botão de adição ou arrastando e soltando arquivos diretamente no pod. Para saber mais sobre o pod Arquivos, assista a este vídeo.
+O pod Arquivos é usado para compartilhar conteúdo baixável. Ele pode ser usado para compartilhar whitepapers, estudos de caso, apresentações, vídeos etc. do produto com os participantes. Os arquivos podem ser adicionados clicando no botão de adição ou arrastando e soltando arquivos diretamente no pod. Para saber mais sobre o pod Arquivos, assista a este vídeo.
 
 CAPTURA DE TELA
 
