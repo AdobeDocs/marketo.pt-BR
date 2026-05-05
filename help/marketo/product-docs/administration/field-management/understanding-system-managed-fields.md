@@ -4,9 +4,9 @@ description: Saiba mais sobre campos gerenciados pelo sistema não editáveis na
 title: Noções básicas sobre campos gerenciados pelo sistema
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '537'
 ht-degree: 17%
 
 ---
@@ -129,7 +129,7 @@ Abaixo estão alguns valores possíveis e o que eles significam.
   </tr>
   <tr>
     <td>Contato</td>
-    <td>A pessoa foi sincronizada do Webhook como um contato</td>
+    <td>A pessoa foi sincronizada da Salesforce como um contato</td>
   </tr>
   <tr>
     <td>API Munchkin</td>

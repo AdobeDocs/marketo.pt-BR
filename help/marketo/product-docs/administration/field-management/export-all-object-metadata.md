@@ -3,10 +3,10 @@ description: Exporte todos os objetos e seus metadados, incluindo campos de clie
 title: Exportar todos os metadados do objeto
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 25%
+source-wordcount: '85'
+ht-degree: 24%
 
 ---
 
@@ -43,8 +43,8 @@ Esse recurso permite exportar todos os objetos e seus metadados.
 
 >[!NOTE]
 >
->Certifique-se de que seu navegador não esteja bloqueando pop-ups do Marketo.
+>Certifique-se de que o navegador não esteja bloqueando pop-ups do Marketo.
 
-Os dados serão exportados como CSV.
+Os dados são exportados como CSV.
 
 ![](assets/export-all-object-metadata-4.png)

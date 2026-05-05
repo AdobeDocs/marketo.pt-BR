@@ -4,16 +4,16 @@ description: Baixe uma planilha de todos os campos do Marketo e seus nomes de AP
 title: Exportar uma lista de todos os nomes de campos da API do Marketo
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 20%
+source-wordcount: '100'
+ht-degree: 21%
 
 ---
 
 # Exportar uma lista de todos os nomes de campos da API do Marketo {#export-a-list-of-all-marketo-api-field-names}
 
-Se estiver usando nosso [!DNL SOAP API] ou [!DNL Munchkin API], você precisará de uma lista de todos os seus campos e seus Nomes de API. Veja como obter esta lista.
+Se estiver usando o [!DNL SOAP API] ou o [!DNL Munchkin API], você precisará de uma lista de todos os seus campos e seus Nomes de API.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Se estiver usando nosso [!DNL SOAP API] ou [!DNL Munchkin API], você precisará
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 
-Legal! Agora você tem uma planilha com uma lista de todos os campos e seus Nomes de API.
+Agora você tem uma planilha com uma lista de todos os campos e seus Nomes de API.
 
 ![](assets/export-a-list-of-all-marketo-api-field-names-4.png)
 

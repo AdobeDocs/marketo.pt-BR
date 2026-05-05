@@ -5,10 +5,10 @@ description: Saiba mais sobre o Email Designer e seu editor de arrastar e soltar
 title: Visão geral
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 95%
+source-wordcount: '682'
+ht-degree: 89%
 
 ---
 
@@ -62,9 +62,9 @@ Para acessar o novo Designer de email, sua assinatura do Marketo Engage deve ser
 
 ## Perguntas frequentes {#faq}
 
-**O antigo editor de email continuará funcionando? Em caso afirmativo, por quanto tempo?**
+**Quando o editor de email clássico será descontinuado?**
 
-Sim, o editor de email antigo (clássico) coexistirá com o novo Designer de email. Os emails criados no editor clássico serão mantidos. Não há data definida para a descontinuação do editor clássico, mas ele continuará funcionando em 2026. Avisaremos com vários meses de antecedência antes de descontinuar o editor antigo.
+Embora o editor clássico acabe sendo descontinuado, não há data específica no momento. Mas haverá um aviso de _vários_ meses antes da desativação.
 
 **Em quais programas posso usar os emails do novo designer de email?**
 

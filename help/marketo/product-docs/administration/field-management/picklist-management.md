@@ -1,13 +1,13 @@
 ---
-description: Descrição aqui.
+description: Saiba como definir um conjunto fixo de valores para um campo para simplificar o gerenciamento de dados e fluxo de trabalho.
 title: Gerenciamento de Lista de Separação
 hide: true
 hidefromtoc: true
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Você pode ver o status de uma lista de opções na página Gerenciamento de cam
 
 * **Pré-implantado**: o campo tem uma lista definida pelo sistema de valores sugeridos para o usuário.
 
-* **CRM**: o campo tem um valor definido pelo sistema CRM, Salesforce.com ou Microsoft Dynamics, que está sincronizado com a instância.
+* **CRM**: o campo tem um valor definido pelo sistema CRM, Salesforce.com ou Microsoft Dynamics, que é sincronizado com a instância.
 
   ![](assets/picklist-management-1.png)
 
@@ -40,7 +40,7 @@ Na caixa de diálogo _Gerenciar Lista de Opções_, você pode adicionar, editar
 
 ![](assets/picklist-management-3.png)
 
-Cada entrada da lista de opções tem um Valor de Exibição e um Valor Enviado. O Valor de exibição é o que é sugerido ao usuário ao criar Smart Lists, Campanhas inteligentes ou formulários, enquanto o valor enviado é o que está armazenado. Por exemplo, seu caso de uso Código do território pode sugerir o nome completo de um território (por exemplo, Alberta), enquanto armazena o código de duas letras (AB).
+Cada entrada da lista de opções tem um Valor de Exibição e um Valor Enviado. O Valor de exibição é o que é sugerido ao usuário ao criar Smart Lists, Campanhas inteligentes ou formulários, enquanto o Valor enviado é o que está armazenado. Por exemplo, um caso de uso de Código do território pode sugerir o nome completo de um território (por exemplo, Alberta), enquanto armazena o código de duas letras (AB).
 
 ## Sugestão automática {#autosuggest}
 
@@ -54,7 +54,7 @@ Quando a configuração _Lista de opções gerenciada_ estiver habilitada, as et
 
 ### Alternância entre listas de seleção gerenciadas e não gerenciadas {#switching}
 
-A maioria das assinaturas do Marketo Engage contém dados de antes da introdução do Managed Picklists. Para usar valores em smart lists ou etapas de fluxo dessa lista de opções de versão não gerenciada (por exemplo, do conjunto completo de valores que existem em registros em seu banco de dados), alterne a configuração Lista de opções gerenciada na visualização da Lista inteligente ou do Campaign. Quando ativados, somente os valores da lista de opções gerenciada são exibidos. Quando desativado, a lista de opções não gerenciada é usada e os valores são sugeridos automaticamente com base nos valores existentes no banco de dados.
+A maioria das assinaturas do Marketo Engage contém dados de antes da introdução do Managed Picklists. Para usar valores em smart lists ou etapas de fluxo dessa versão não gerenciada da lista de opções (por exemplo, a partir do conjunto completo de valores que existem em registros em seu banco de dados), alterne a configuração Lista de opções gerenciada na visualização da Lista inteligente ou do Campaign. Quando ativados, somente os valores da lista de opções gerenciada são exibidos. Quando desativado, a lista de opções não gerenciada é usada e os valores são sugeridos automaticamente com base nos valores existentes no banco de dados.
 
 ## Listas de opções de formulário (Selecionar campos de tipo) {#form-picklists}
 

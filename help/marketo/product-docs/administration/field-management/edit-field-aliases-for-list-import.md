@@ -4,16 +4,16 @@ description: Crie e edite aliases de campo para que as importações de lista co
 title: Editar aliases de campo para importação de lista
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 10%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
 # Editar aliases de campo para importação de lista {#edit-field-aliases-for-list-import}
 
-Ao importar uma lista com cabeçalhos desconhecidos, você pode criar aliases de campo para facilitar o processo. Também é possível editar esses aliases no gerenciamento de campos. Dê uma olhada.
+Ao importar uma lista com cabeçalhos desconhecidos, você pode criar aliases de campo para simplificar importações futuras. Também é possível editar esses aliases no Gerenciamento de campos.
 
 >[!NOTE]
 >
@@ -43,6 +43,6 @@ Ao importar uma lista com cabeçalhos desconhecidos, você pode criar aliases de
 >
 >Clique em **[!UICONTROL Adicionar outro]** e insira mais aliases se precisar deles.
 
-Olhe para isso! Agora, se você importar uma planilha com uma coluna chamada &quot;DOB&quot;, o Marketo a reconhecerá automaticamente como &quot;Data de nascimento&quot; e importará os dados para o campo correto.
+Agora, se você importar uma planilha com uma coluna chamada &quot;DOB&quot;, o Marketo a reconhecerá automaticamente como &quot;Data de nascimento&quot; e importará os dados para o campo correto.
 
 ![](assets/edit-field-aliases-for-list-import-6.png)

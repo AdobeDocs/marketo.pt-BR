@@ -4,7 +4,7 @@ description: Referência para tipos de campo personalizados no Marketo, incluind
 title: Glossário de tipos de campos personalizados
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 3%
@@ -25,11 +25,11 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 >[!NOTE]
 >
->A maioria dos campos não atinge o número máximo de caracteres, mas a quantidade de bytes. Por esse motivo, não podemos fornecer um limite de caracteres definitivo para cada campo. A exceção é **String**, que tem no máximo 255 caracteres.
+>A maioria dos campos não atinge o número máximo de caracteres, mas a quantidade de bytes. Por esse motivo, o Marketo não pode fornecer um limite de caracteres definitivo para cada campo. A exceção é **String**, que tem no máximo 255 caracteres.
 
 ## Booleano {#boolean}
 
-**Nome de Exemplo:** É Cliente - Marque seus funcionários como clientes
+**Nome de Exemplo:** É Cliente - Marcar pessoas como clientes
 
 **Valores de Exemplo:** Verdadeiro (marcado) / Falso (desmarcado)
 
@@ -61,7 +61,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Email {#email}
 
-**Nome de Exemplo:** Email Alternativo - Mantenha um endereço de email alternativo para sua equipe (na verdade, não é possível enviar emails para este campo, como o campo de endereço de email padrão, pois esse é especial)
+**Nome de Exemplo:** Email Alternativo - Mantenha um endereço de email alternativo para as pessoas (na verdade, não é possível enviar emails para este campo, como o campo de endereço de email padrão)
 
 **Valores de Exemplo:** <name@company.com>
 
@@ -77,13 +77,13 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Fórmula {#formula}
 
-**Nome de Exemplo:** Saudações - use este campo especial em uma solução [&#x200B; para obter a saudação correta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) com base no sexo
+**Nome de Exemplo:** Saudações - Use este campo especial em uma solução [ para obter a saudação correta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) com base no sexo
 
-**Valores de Exemplo:** verifique a solução vinculada
+**Valores de Exemplo:** Verifique a solução vinculada
 
 ## Inteiro {#integer}
 
-**Nome de Exemplo:** Número de Funcionários - armazene um valor numérico que não exige decimais
+**Nome de Exemplo:** Número de Funcionários - Armazene um valor numérico que não exija decimais
 
 **Valores de Exemplo:** 600
 
@@ -91,7 +91,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Porcentagem {#percent}
 
-**Nome de Exemplo:** Probabilidade de Compra - armazene um valor percentual (talvez calculado no lado do CRM)
+**Nome de Exemplo:** Probabilidade de Compra - Armazene um valor percentual (calculado no CRM)
 
 **Valores de Exemplo:** 85%
 
@@ -99,7 +99,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Telefone {#phone}
 
-**Exemplo de Nome:** Telefone Alternativo - armazene um número de telefone adicional para sua equipe
+**Exemplo de Nome:** Telefone Alternativo - Armazene um número de telefone adicional para pessoas
 
 **Exemplo de valor:** 650-555-5555
 
@@ -107,7 +107,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Pontuação {#score}
 
-**Nome do Exemplo:** Pontuação Comportamental/Pontuação Demográfica - crie vários campos de pontuação para acompanhar atributos diferentes
+**Nome do Exemplo:** Pontuação Comportamental/Pontuação Demográfica - Crie vários campos de pontuação para acompanhar atributos diferentes
 
 **Valor de Exemplo:** 14
 
@@ -115,7 +115,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## String {#string}
 
-**Nome do Exemplo:** Nome do Meio - armazenar um atributo de texto adicional
+**Nome do Exemplo:** Nome do Meio - Armazenar um atributo de texto adicional
 
 **Exemplo de valor:** Rose
 
@@ -123,7 +123,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## Área de texto {#text-area}
 
-**Nome de Exemplo:** Comentários - adicione um campo de comentários aos seus formulários para permitir a entrada de texto multilinha
+**Nome de Exemplo:** Comentários - Adicione um campo de comentários aos seus formulários para permitir a entrada de texto multilinha
 
 **Exemplo de valor:** este artigo é fantástico!
 
@@ -131,7 +131,7 @@ Ao criar um campo personalizado no Marketo, você tem uma lista de tipos para es
 
 ## URL {#url}
 
-**Nome de Exemplo:** Blog - criar um campo para armazenar URLs de blogs de pessoas
+**Nome de Exemplo:** Blog - Criar um campo para armazenar URLs de blogs de pessoas
 
 **Valor de Exemplo:** &lt;www.myblog.com>
 

@@ -4,16 +4,16 @@ description: Etapas para criar um novo campo personalizado no Marketo Engage par
 title: Criar um campo personalizado no Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 6%
+source-wordcount: '203'
+ht-degree: 9%
 
 ---
 
 # Criar um campo personalizado no Marketo {#create-a-custom-field-in-marketo}
 
-Se você precisar de um novo campo personalizado no Marketo Engage para armazenar/capturar dados, veja como criar um.
+Saiba como criar um campo personalizado no Marketo Engage para armazenar e capturar dados.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -51,7 +51,7 @@ Se você precisar de um novo campo personalizado no Marketo Engage para armazena
 
 >[!CAUTION]
 >
->Os nomes de campos não podem começar com os seguintes caracteres: **. &amp; +[]**
+>Nomes de campos não podem começar com os seguintes caracteres: **. &amp; +[]**
 
 ![](assets/create-a-custom-field-in-marketo-6.png)
 
@@ -59,4 +59,4 @@ Se você precisar de um novo campo personalizado no Marketo Engage para armazena
 >
 >O nome da API é usado pela API do SOAP e outros processos de back-end.
 
-Agora você pode usar esse campo personalizado em formulários, etapas de fluxo e Smart Lists!
+Agora você pode usar esse campo personalizado em formulários, etapas de fluxo e Smart Lists.

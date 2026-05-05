@@ -4,16 +4,16 @@ description: Exporte uma lista de ativos que usam um campo para que você possa 
 title: Exportar os dados “Usado por” de um campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 15%
 
 ---
 
 # Exportar os dados “Usado por” de um campo {#export-used-by-data-for-a-field}
 
-Como administrador, você pode exportar ativos relacionados de um campo para que possa delegar a desvinculação deles à sua equipe.
+Como administrador, você pode exportar ativos relacionados de um campo para poder delegar a desvinculação deles à sua equipe.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Como administrador, você pode exportar ativos relacionados de um campo para que
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Um arquivo [!DNL Excel] será exportado. Abra-o para visualizar seu conteúdo.
+1. Exportações de um arquivo [!DNL Excel]. Abra-o para visualizar seu conteúdo.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

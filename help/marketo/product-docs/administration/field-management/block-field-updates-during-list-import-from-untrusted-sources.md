@@ -4,16 +4,16 @@ description: Bloqueie a substituição de campos principais durante importaçõe
 title: Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 11%
+source-wordcount: '205'
+ht-degree: 10%
 
 ---
 
 # Bloquear atualizações de campo durante a importação de lista de fontes não confiáveis {#block-field-updates-during-list-import-from-untrusted-sources}
 
-Você pode confiar mais nos dados de algumas listas do que de outras. Às vezes, você tem dados questionáveis e quer usá-los se o campo estiver em branco, mas não se houver um valor existente. Você pode fazer isso bloqueando as atualizações de campo em campos principais.
+Você pode confiar mais nos dados de algumas listas do que de outras. Às vezes, você tem dados questionáveis e quer aceitar os dados se o campo estiver em branco, mas não se houver um valor existente. Você pode fazer isso bloqueando as atualizações de campo em campos principais.
 
 >[!NOTE]
 >
@@ -51,4 +51,4 @@ Repita as etapas acima para quaisquer outros campos que você queira manter a sa
 
 Para obter instruções detalhadas sobre como importar listas, consulte [Importar uma Lista de Pessoas](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-Bom trabalho! Agora você sabe como manter os campos principais protegidos contra listas não confiáveis.
+Os campos principais agora estão protegidos contra importações de listas não confiáveis.
