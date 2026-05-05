@@ -57,7 +57,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Edição de imagens](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas facilmente, como aprimorar, recortar e adicionar texto a imagens diretamente no [!UICONTROL Design Studio].
+* [Edição de imagens](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=pt-BR#design-studio): acesse os recursos de edição do Adobe sem precisar sair do Marketo Engage. Essa nova funcionalidade permite que você faça coisas facilmente, como aprimorar, recortar e adicionar texto a imagens diretamente no [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 
