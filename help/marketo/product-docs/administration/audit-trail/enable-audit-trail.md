@@ -4,10 +4,10 @@ description: Habilite a Trilha de auditoria e o Histórico de logon para uma fun
 title: Habilitar trilha de auditoria
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 3%
+source-wordcount: '244'
+ht-degree: 4%
 
 ---
 
@@ -67,13 +67,13 @@ A Trilha de auditoria está disponível para todos os clientes e é controlada p
    >
    >Esse processo também se aplica quando você está criando um novo usuário.
 
-1. Selecione as funções de trilha de auditoria que você criou. Neste exemplo, criamos &quot;Trilha de auditoria - Ativo e administrador&quot; e &quot;Trilha de auditoria - Com histórico de logon&quot;.
+1. Selecione as funções de trilha de auditoria que você criou. Este exemplo mostra como criar a &quot;Trilha de auditoria - Ativo e administrador&quot; e a &quot;Trilha de auditoria - Com histórico de logon&quot;.
 
    ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
-   >Se você tiver espaços de trabalho ativados, certifique-se de marcar a caixa de seleção da atribuição, que seleciona todos os espaços de trabalho. Desmarcar um espaço de trabalho individual ocultará a Trilha de auditoria. Isso significa que você verá os dados da Trilha de auditoria para cada espaço de trabalho. Você tem a opção de ocultar espaços de trabalho ao [filtrar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Se você tiver espaços de trabalho ativados, certifique-se de marcar a caixa de seleção da atribuição, que seleciona todos os espaços de trabalho. Desmarcar um espaço de trabalho individual oculta a Trilha de auditoria. Você tem a opção de ocultar espaços de trabalho ao [filtrar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Clique em **[!UICONTROL Salvar]**.
 

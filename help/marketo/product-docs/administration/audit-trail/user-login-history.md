@@ -4,10 +4,10 @@ description: Visualize quem fez logon na sua assinatura e quando, incluindo tent
 title: Histórico de logon do usuário
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 5%
+source-wordcount: '191'
+ht-degree: 6%
 
 ---
 
@@ -67,7 +67,7 @@ Para exibir o Histórico de Login do Usuário:
 
    >[!NOTE]
    >
-   >A interface do usuário do exibe até 30 dias de dados. Se precisar de mais, você pode baixar os seis meses mais recentes de dados para um arquivo csv.
+   >A interface do usuário do exibe até 30 dias de dados. Se precisar de mais, você pode baixar os seis meses mais recentes de dados para um arquivo CSV.
 
    >[!MORELIKETHIS]
    >

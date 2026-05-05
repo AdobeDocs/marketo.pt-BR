@@ -4,9 +4,9 @@ description: Visão geral da Trilha de auditoria e como ela captura um históric
 title: Visão geral da trilha de auditoria
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '354'
 ht-degree: 2%
 
 ---
@@ -25,15 +25,15 @@ A Trilha de auditoria oferece a capacidade de obter um histórico completo (equi
 
 A Trilha de auditoria captura em tempo real uma lista abrangente de ações e eventos que ocorrem em uma assinatura do Marketo. Ele inclui uma forma de autoatendimento para acessar um histórico de dados de seis meses para ajudar a responder a perguntas como:
 
-O que aconteceu com esse ativo ou configuração e quem o atualizou pela última vez?
+&quot;O que aconteceu com esse ativo ou configuração e quem o atualizou pela última vez?&quot;
 
-O que o usuário X tem feito?
+&quot;O que o usuário X tem feito?&quot;
 
-Quem está fazendo login em nossa conta?
+&quot;Quem está fazendo logon em nossa conta?&quot;
 
 ## O que auditamos {#what-we-audit}
 
-A Marketo auditará as [ações de criação, edição e exclusão](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
+A Marketo audita as ações [criar, editar e excluir](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) para:
 
 * Ativos do design studio
 * Todos os programas do Marketo
@@ -62,11 +62,11 @@ Monitore detalhes com base no usuário.
 
 **3) [Histórico de Logon do Usuário](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
-Veja quem está fazendo logon na sua assinatura e quando. Também inclui tentativas de logon com falha.
+Veja quem está fazendo logon na sua assinatura e quando (também inclui tentativas de logon com falha).
 
 >[!TIP]
 >
->Há tanta coisa que você pode auditar usando a Trilha de Auditoria; certifique-se de utilizar a [Filtragem](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>Como há tanta coisa que você pode auditar usando a Trilha de Auditoria, [filtrar](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) pode economizar muito tempo.
 
 ## Exportando dados {#exporting-data}
 
@@ -78,7 +78,7 @@ Você só poderá visualizar os dados correspondentes a 30 dias na sua instânci
 >
 >**Definição**
 >
->**Desconhecido:** Em [!DNL Webhook], você pode ver o nome de usuário e o email listados como &quot;Desconhecido&quot;. Isso acontece quando você faz uma alteração nos valores da lista de seleção no CRM. Esses valores aparecem nos formulários e nas páginas de aterrissagem do Marketo. Essa atualização no lado do CRM rascunhará automaticamente as páginas de aterrissagem que fazem referência ao formulário. Em [!DNL Webhook], capturaremos que a página de aterrissagem foi rascunhada, mas o nome do usuário e o email serão exibidos como &quot;Desconhecido&quot;, pois não poderemos capturar as informações do usuário no lado do CRM.
+>**Desconhecido:** Em [!DNL Webhook], você pode ver o nome de usuário e o email listados como &quot;Desconhecido&quot;. Isso acontece quando você faz uma alteração nos valores da lista de seleção no CRM. Esses valores aparecem nos formulários e nas páginas de aterrissagem do Marketo. Essa atualização no lado do CRM rascunhará automaticamente as páginas de aterrissagem que fazem referência ao formulário. Em [!DNL Webhook], o Marketo captura que a página de aterrissagem foi rascunhada, mas o nome e email do usuário serão exibidos como &quot;Desconhecido&quot;, já que o Marketo não pode capturar as informações do usuário no lado do CRM.
 
 >[!MORELIKETHIS]
 >

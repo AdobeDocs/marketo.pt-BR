@@ -4,10 +4,10 @@ description: Filtrar a trilha de auditoria por intervalo de tempo, tipo de ativo
 title: Filtragem na trilha de auditoria
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 5%
+source-wordcount: '146'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ Filtre por intervalo de tempo, tipo de ativo, usuários, ações realizadas e mu
 
    >[!NOTE]
    >
-   >Há várias combinações possíveis de parâmetros de pesquisa. Neste exemplo, localizamos: _todos os emails - editados por qualquer pessoa - nos sete dias anteriores_.
+   >Há várias combinações possíveis de parâmetros de pesquisa. Este exemplo localiza: _todos os emails - editados por qualquer pessoa - nos últimos sete dias_.
 
 1. Clique no menu suspenso **[!UICONTROL Período]** e selecione **[!UICONTROL Últimos 7 dias]**.
 
@@ -39,7 +39,7 @@ Filtre por intervalo de tempo, tipo de ativo, usuários, ações realizadas e mu
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Clique no menu suspenso **Actions** e selecione **[!UICONTROL Editar]**.
+1. Clique no menu suspenso **[!UICONTROL Ações]** e selecione **[!UICONTROL Editar]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
@@ -51,11 +51,9 @@ Filtre por intervalo de tempo, tipo de ativo, usuários, ações realizadas e mu
 
    ![](assets/filtering-in-audit-trail-8.png)
 
-   Pronto!
-
    >[!NOTE]
    >
-   >Se você tiver espaços de trabalho ativados, verá dados de auditoria para todos os espaços de trabalho. Se você aplicar um filtro de espaço de trabalho, o Marketo lembrará do valor anterior sempre que você usar a trilha de auditoria. As permissões do Workspace no nível do ativo são aplicadas.
+   >Se você tiver espaços de trabalho ativados, verá dados de auditoria para todos os espaços de trabalho. Se você aplicar um filtro de espaço de trabalho, o Marketo se lembrará do valor do espaço de trabalho anterior sempre que você usar a Trilha de auditoria. As permissões do Workspace no nível do ativo são aplicadas.
 
    >[!MORELIKETHIS]
    >

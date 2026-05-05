@@ -4,16 +4,16 @@ description: Referência para saber quais detalhes de alteração a Trilha de au
 title: Detalhes da alteração na trilha de auditoria
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '1906'
+source-wordcount: '1910'
 ht-degree: 15%
 
 ---
 
 # Detalhes da alteração na trilha de auditoria {#change-details-in-audit-trail}
 
-A Trilha de auditoria oferece uma grande quantidade de informações do insight sobre quem está fazendo o que na sua assinatura do Marketo. Aqui estão os detalhes.
+A Trilha de auditoria oferece uma grande quantidade de informações do insight sobre quem está fazendo o que na sua assinatura do Marketo.
 
 ## Trilha de auditoria de ativos {#asset-audit-trail}
 
@@ -412,7 +412,7 @@ A Trilha de auditoria oferece uma grande quantidade de informações do insight 
   </tr>
   <tr>
    <td>Modificar configuração do programa</td>
-   <td>Excluir comportamento do Analytics "nome do comportamento"</td>
+   <td>Excluir o "nome do comportamento" do comportamento de análise</td>
   </tr>
   <tr>
    <td colspan="1">Modificar configuração do programa</td>
@@ -428,7 +428,7 @@ A Trilha de auditoria oferece uma grande quantidade de informações do insight 
   </tr>
   <tr>
    <td colspan="1">Modificar configuração do programa</td>
-   <td colspan="1">Adição do parceiro de evento ‘partner_name’</td>
+   <td colspan="1">Parceiro de evento 'partner_name' adicionado</td>
   </tr>
   <tr>
    <td>Exportar</td>
@@ -749,7 +749,7 @@ A Trilha de auditoria oferece uma grande quantidade de informações do insight 
   <tr>
    <td>Grau de segurança da senha</td>
    <td>Editar</td>
-   <td>Segurança de senha alterada para modelo: Segurança padrão, comprimento mínimo: #, inferior-superior: #, número: #, misto de maiúsculas e minúsculas: # , expiração: #, tempo limite da sessão: #</td>
+   <td>Segurança de senha alterada para modelo: Segurança padrão, comprimento mínimo: #, inferior-superior: #, número: #, misto de maiúsculas e minúsculas: #, expiração: #, tempo limite da sessão: #</td>
   </tr>
   <tr>
    <td rowspan="3">Função<br><br></td>
@@ -765,9 +765,9 @@ A Trilha de auditoria oferece uma grande quantidade de informações do insight 
    <td>Função editada de "nome anterior" para "novo nome" (OBSERVAÇÃO: se você precisar de detalhes sobre permissões editadas, contate o suporte) - <br>mostra um instantâneo das permissões atribuídas à função<br></td>
   </tr>
   <tr>
-   <td>Relatório da lista inteligente</td>
+   <td>Relatório de lista inteligente</td>
    <td>Editar</td>
-   <td>SmartList editado para fazer logon no download: "true ou false"</td>
+   <td>Smart List editada para fazer logon no download: "true ou false"</td>
   </tr>
   <tr>
    <td rowspan="7">Usuário<br><br><br><br></td>
