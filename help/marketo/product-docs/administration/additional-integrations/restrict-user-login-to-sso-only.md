@@ -4,10 +4,10 @@ description: Exigir SSO para todos os usuários para que eles não possam ignora
 title: Logon de usuário restrito apenas a SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 6%
+source-wordcount: '273'
+ht-degree: 5%
 
 ---
 
@@ -45,13 +45,13 @@ Se você estiver [usando SSO](/help/marketo/product-docs/administration/addition
 
 >[!TIP]
 >
->Se você selecionar **[!UICONTROL Exigir SSO]**, poderá excluir uma [função de usuário](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) dessa restrição marcando a opção **[!UICONTROL Ignorar Logon Único]** ao configurar a função. Isso permitirá que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo por meio da tela de logon. Se o SSO e a Universal ID estiverem habilitados, você deve ter a permissão &quot;Ignorar logon único&quot; definida para alternar entre as assinaturas.
+>Se você selecionar **[!UICONTROL Exigir SSO]**, poderá excluir uma [função de usuário](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) dessa restrição marcando a opção **[!UICONTROL Ignorar Logon Único]** ao configurar a função. Isso permite que os usuários façam logon normalmente. Por exemplo, os usuários administradores ainda podem precisar fazer logon no Marketo por meio da tela de logon. Se o SSO e a Universal ID estiverem habilitados, você deve ter a permissão &quot;Ignorar logon único&quot; definida para alternar entre as assinaturas.
 
 >[!CAUTION]
 >
->Quando novos usuários são convidados, eles recebem emails de convite. No entanto, se **[!UICONTROL Exigir SSO]** for selecionado, eles não receberão esses emails, a menos que sejam atribuídos a uma função definida como **[!UICONTROL Ignorar logon único]**.
+>Quando novos usuários são convidados, eles recebem emails de convite. No entanto, se **[!UICONTROL Exigir SSO]** for selecionado, eles não receberão esses emails, a menos que sejam atribuídos a uma função definida como **[!UICONTROL Ignorar Logon Único]**.
 
-Pronto! Agora todos os usuários (exceto os usuários com permissão para ignorar o logon único) serão restritos a usar somente o logon com SSO.
+Agora todos os usuários (exceto os usuários com permissão para ignorar o logon único) estão restritos a usar somente o logon com SSO.
 
 >[!MORELIKETHIS]
 >

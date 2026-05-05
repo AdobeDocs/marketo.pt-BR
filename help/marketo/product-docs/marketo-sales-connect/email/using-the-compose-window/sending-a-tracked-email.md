@@ -4,7 +4,7 @@ description: Saiba como enviar um email rastreado no Sales Connect. Enviar a par
 title: Enviar um email rastreado
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 3%
@@ -57,4 +57,4 @@ Ao enviar um email com [!DNL Marketo Sales Connect], os modos de exibição (abe
    >[!MORELIKETHIS]
    >
    >* [Agendando um Email](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [Modelos](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [Modelos](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md)

@@ -4,9 +4,9 @@ description: Saiba como criar campos dinâmicos personalizados em modelos do Sal
 title: Criar campos dinâmicos personalizados
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '256'
 ht-degree: 3%
 
 ---
@@ -45,7 +45,7 @@ Há duas maneiras de criar campos dinâmicos personalizados.
 
 Depois que os campos personalizados forem armazenados usando os métodos acima, você poderá referenciá-los em seus modelos.
 
-1. [Crie um modelo](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) e clique no botão **[!UICONTROL Campos Dinâmicos]**, como você faria normalmente.
+1. [Crie um modelo](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md#create-a-template) e clique no botão **[!UICONTROL Campos Dinâmicos]**, como você faria normalmente.
 
 1. Selecione **[!UICONTROL Campos Personalizados]** no menu suspenso exibido.
 
