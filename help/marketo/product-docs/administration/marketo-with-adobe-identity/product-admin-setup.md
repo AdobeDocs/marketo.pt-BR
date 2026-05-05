@@ -3,9 +3,9 @@ description: Etapas para que administradores de produtos concluam a configuraç�
 title: Configuração de admin do produto
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '100'
 ht-degree: 6%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 6%
 
    ![](assets/admin-setup-7.png)
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com um Adobe ID, será direcionado diretamente para o Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-8.png)
 
-É simples assim! Os administradores de produto são responsáveis principalmente por adicionar usuários. [Saiba como fazer isso aqui](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}.
+Os administradores de produto são responsáveis principalmente por adicionar usuários. [Saiba como fazer isso aqui](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user){target="_blank"}.

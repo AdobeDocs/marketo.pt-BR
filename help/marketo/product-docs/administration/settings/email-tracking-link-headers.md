@@ -3,10 +3,10 @@ description: Como personalizar os cabeçalhos de link de rastreamento de email n
 title: Cabeçalhos do link de rastreamento de email
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 9%
+source-wordcount: '119'
+ht-degree: 10%
 
 ---
 
@@ -35,4 +35,4 @@ Siga as etapas abaixo para personalizar os cabeçalhos do link de rastreamento d
 
 >[!CAUTION]
 >
->É importante analisar essas configurações com a equipe de TI para determinar como a política da sua organização deve ser definida. Configurações incorretas podem impedir que alguns visitantes acessem seus links de email.
+>É importante analisar essas configurações com a equipe de TI para determinar como a política da organização deve ser definida. Configurações incorretas podem impedir que alguns visitantes acessem seus links de email.

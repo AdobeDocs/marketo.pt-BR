@@ -4,10 +4,10 @@ description: Lista de navegadores e versões compatíveis com o Marketo Engage, 
 title: Navegadores compatíveis
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 8%
+source-wordcount: '98'
+ht-degree: 7%
 
 ---
 
@@ -26,4 +26,4 @@ O Marketo atualmente é compatível com os seguintes navegadores:
 >
 >Para usuários que migraram para o [Marketo com Identidade do Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, todos os navegadores são compatíveis com o Mac e o Windows, com exceção do Microsoft Edge no modo Strict.
 
-Para obter a melhor experiência, **mantenha seu navegador atualizado**!
+Para obter a melhor experiência, **mantenha seu navegador atualizado**.

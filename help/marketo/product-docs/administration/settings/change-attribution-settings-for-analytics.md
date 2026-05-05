@@ -4,9 +4,9 @@ description: Como definir as opções de atribuição de primeiro e de multitoqu
 title: Alterar configurações de atribuição do Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '200'
 ht-degree: 5%
 
 ---
@@ -31,7 +31,7 @@ Essas configurações afetarão os relatórios do [!UICONTROL Explorador de Rece
 
    >[!TIP]
    >
-   >A alteração dessa configuração não modifica nenhum dado do Marketo; ela simplesmente altera a forma como seus relatórios são executados. Isso pode ser revertido a qualquer momento.
+   >A alteração dessa configuração não modifica nenhum dado do Marketo; ela altera a forma como seus relatórios são executados. Isso pode ser revertido a qualquer momento.
 
 1. Selecione uma opção e clique em **[!UICONTROL Salvar]**.
 

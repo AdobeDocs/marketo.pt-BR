@@ -4,16 +4,16 @@ description: Etapas para definir uma página de fallback para que os visitantes 
 title: Definir uma página substituta
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '81'
 ht-degree: 13%
 
 ---
 
 # Definir uma página substituta {#set-a-fallback-page}
 
-As páginas substitutas são a última linha de defesa se a landing page estiver offline ou não for encontrada. Certifique-se de ter um.
+As páginas substitutas são a última linha de defesa se a landing page estiver offline ou não for encontrada. Certifique-se de configurar um.
 
 >[!NOTE]
 >

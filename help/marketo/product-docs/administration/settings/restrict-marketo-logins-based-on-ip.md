@@ -4,16 +4,16 @@ description: Saiba como permitir ou bloquear logons do Marketo por endereço IP.
 title: Restringir logons do Marketo com base no IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 7%
+source-wordcount: '249'
+ht-degree: 6%
 
 ---
 
 # Restringir logons do Marketo com base no IP {#restrict-marketo-logins-based-on-ip}
 
-Você pode restringir ou permitir que os usuários acessem o Marketo com base em seus endereços IP. Veja como.
+Você pode restringir ou permitir que os usuários acessem o Marketo com base em seus endereços IP. Siga as etapas abaixo.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
 
 >[!IMPORTANT]
 >
->O Adobe Admin Console (AAC) dá suporte a [controle de acesso baseado em IP](https://helpx.adobe.com/br/enterprise/using/ip-based-access.html){target="_blank"}. Para garantir uma transição suave, as restrições de IP da Marketo Engage existentes estarão ativas, incluindo usuários da Adobe ID, até o primeiro trimestre de 2027, nas assinaturas em que esse recurso estiver habilitado.
+>O Adobe Admin Console (AAC) dá suporte a [controle de acesso baseado em IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Para garantir uma transição suave, as restrições de IP da Marketo Engage existentes estarão ativas, incluindo usuários da Adobe ID, até o primeiro trimestre de 2027, nas assinaturas em que esse recurso estiver habilitado.
 >
 >* Você pode configurar o acesso baseado em IP da AAC a qualquer momento.
 >* As restrições da AAC e do Marketo Engage podem ser executadas simultaneamente. Use a mesma lista de permissões de IP para obter compatibilidade.
@@ -40,7 +40,7 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Escolha se deseja **Permitir** ou **Bloquear** endereços específicos, insira o(s) endereço(s) e clique em **[!UICONTROL Salvar]**.
+1. Escolha se deseja **Permitir** ou **Bloquear** endereços específicos, insira um ou mais endereços e clique em **[!UICONTROL Salvar]**.
 
    >[!NOTE]
    >
@@ -52,6 +52,6 @@ Você pode restringir ou permitir que os usuários acessem o Marketo com base em
 
    >[!NOTE]
    >
-   >Você pode adicionar várias restrições, mas elas só podem ser TODAS permitidas ou TODAS bloqueadas. Não é possível misturar e combinar permitidos e bloqueados.
+   >Você pode adicionar várias restrições, mas elas só podem ser TODAS permitidas ou TODAS bloqueadas. Não é possível combinar endereços permitidos e bloqueados.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)

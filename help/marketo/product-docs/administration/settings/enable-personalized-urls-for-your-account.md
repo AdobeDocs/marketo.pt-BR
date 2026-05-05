@@ -4,16 +4,16 @@ description: Etapas para habilitar URLs personalizados para sua assinatura para 
 title: Habilitar URLs personalizados para sua conta
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 19%
+source-wordcount: '96'
+ht-degree: 17%
 
 ---
 
 # Habilitar URLs personalizados para sua conta {#enable-personalized-urls-for-your-account}
 
-URLs personalizados são excelentes para campanhas de email impresso.
+URLs personalizados são úteis para campanhas de email impressas.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ URLs personalizados são excelentes para campanhas de email impresso.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Excelente trabalho! Agora que você habilitou os PURLs para sua conta, é possível [habilitá-los para páginas de aterrissagem individuais](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Agora que você habilitou os PURLs para sua conta, é possível [habilitá-los para páginas de aterrissagem individuais](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

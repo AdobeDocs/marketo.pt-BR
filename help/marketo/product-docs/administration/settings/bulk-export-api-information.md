@@ -3,20 +3,20 @@ description: Como verificar o uso da capacidade da API de extração em massa no
 title: Dados da API de exportação em massa
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 7%
+source-wordcount: '116'
+ht-degree: 6%
 
 ---
 
 # Dados da API de exportação em massa {#bulk-export-api-information}
 
-Saiba como verificar quanto a capacidade da [API de extração em massa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} foi ocupada pela sua instância do Marketo Engage nos últimos sete dias.
+Saiba como verificar quanto a capacidade da [API de extração em massa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} foi ocupada pela sua instância do Marketo Engage nos últimos sete dias.
 
 >[!NOTE]
 >
->Se precisar de capacidade adicional, entre em contato com o representante de conta.
+>Se precisar de mais capacidade, entre em contato com o representante de conta.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

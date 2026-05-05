@@ -4,16 +4,16 @@ description: Como criar um layout personalizado para a página de detalhes da pe
 title: Criar uma guia personalizada para a página Detalhes da pessoa
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 12%
+source-wordcount: '138'
+ht-degree: 13%
 
 ---
 
 # Criar uma guia personalizada para a página Detalhes da pessoa {#creating-a-custom-tab-for-the-person-detail-page}
 
-Se você estiver procurando um conjunto específico de campos nos detalhes da pessoa repetidamente, considere criar um layout personalizado para facilitar as coisas.
+Se você precisar acessar com frequência um conjunto específico de campos na página de detalhes da pessoa, considere criar um layout personalizado.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
@@ -43,6 +43,6 @@ Se você estiver procurando um conjunto específico de campos nos detalhes da pe
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   Ótimo trabalho! Agora, ao carregar os detalhes de uma pessoa, você pode usar o layout personalizado para acessar as informações importantes para você.
+   Ao carregar os detalhes de uma pessoa, você pode usar o layout personalizado para acessar as informações importantes para você.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

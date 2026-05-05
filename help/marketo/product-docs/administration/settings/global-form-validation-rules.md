@@ -3,9 +3,9 @@ description: Como habilitar a permissão Acessar regras de validação de formul
 title: Regras globais de validação de formulários
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Esse recurso permite bloquear o envio de domínios específicos para formulário
 
 ## Como habilitar o acesso {#how-to-enable-access}
 
-Antes de utilizar esse recurso, é necessário habilitar a permissão de acordo com a função desejada.
+Antes de usar esse recurso, é necessário habilitar a permissão de acordo com a função desejada.
 
 1. No Marketo, clique em **[!UICONTROL Admin]**.
 
@@ -46,7 +46,7 @@ Antes de utilizar esse recurso, é necessário habilitar a permissão de acordo 
 
 >[!IMPORTANT]
 >
->Essas regras serão aplicadas a todos os formulários em suas assinaturas do Marketo Engage.
+>Essas regras se aplicam a todos os formulários nas assinaturas do Marketo Engage.
 
 1. No Marketo, clique em **[!UICONTROL Admin]**.
 
@@ -64,13 +64,13 @@ Antes de utilizar esse recurso, é necessário habilitar a permissão de acordo 
    >
    >O menu suspenso [!UICONTROL Ações de Regra de Validação de Formulário] permite excluir ou editar regras existentes.
 
-1. Nomeie sua regra, forneça uma descrição opcional a ela e insira a mensagem de erro que você deseja que os visitantes do formulário vejam. Insira o(s) domínio(s) que deseja bloquear na caixa de regras, selecione **[!UICONTROL Ativar Regra]** e clique em **[!UICONTROL Criar]**.
+1. Nomeie sua regra, forneça uma descrição opcional a ela e insira a mensagem de erro que você deseja que os visitantes do formulário vejam. Insira um ou mais domínios que deseja bloquear na caixa de regras, selecione **[!UICONTROL Ativar Regra]** e clique em **[!UICONTROL Criar]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->O Marketo Engage tem uma inclui na lista de bloqueios definida de domínios de email de consumidor livre que são bloqueados ao usar a regra pré-carregada &quot;Inclui na lista de bloqueios de domínio de email do consumidor&quot;. [Exibir esta lista aqui](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (para baixar, verifique se o seu navegador está atualizado e pode aceitar downloads).
+>O Marketo Engage tem uma inclui na lista de bloqueios definida de domínios de email de consumidor livre que são bloqueados ao usar a regra pré-carregada &quot;Inclui na lista de bloqueios de domínio de email do consumidor&quot;. [Exiba essa lista aqui](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (para baixar, verifique se o seu navegador está atualizado e pode aceitar downloads).
 
 ## Como desativar o acesso por formulário{#how-to-disable-access-per-form}
 

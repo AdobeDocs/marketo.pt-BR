@@ -4,9 +4,9 @@ description: Visão geral das opções de privacidade e rastreamento, incluindo 
 title: Noções básicas sobre configurações de privacidade
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Para fazer isso, você deve adicionar um parâmetro a um link para opção de n�
 
 ?marketo_opt_out=true
 
-Abaixo estão exemplos de uma página da Web com um link para opção de não participação e uma página de aterrissagem para depois que o link for clicado. O seu vai variar.
+Abaixo estão exemplos de uma página da Web com um link para opção de não participação e uma página de aterrissagem para depois que o link for clicado. Elas variam.
 
 Esta é uma página da Web com um botão com o parâmetro &quot;?marketo_opt_out=true&quot; no link para opção de não participação.
 
@@ -66,9 +66,9 @@ Os profissionais de marketing podem permitir que os usuários aceitem usar os re
 
 ## Rastreamento usando um IP anônimo {#tracking-using-an-anonymized-ip}
 
-Os profissionais de marketing podem preservar a privacidade rastreando usuários com um endereço IP anônimo. Para fazer isso, adicione este código ao RTP ou Javascript [!DNL Munchkin] que está incorporado no site.
+Os profissionais de marketing podem preservar a privacidade rastreando usuários com um endereço IP anônimo. Para fazer isso, adicione este código ao RTP ou JavaScript [!DNL Munchkin] que está incorporado no site.
 
-* Para [!DNL Munchkin], adicione `{"anonymizeIP",true}` à [função de inicialização](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Para [!DNL Munchkin], adicione `{"anonymizeIP",true}` à [função de inicialização](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Para o Web Personalization (RTP), adicione isso ao javascript:
 

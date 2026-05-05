@@ -4,9 +4,9 @@ description: Como honrar ou ignorar a solicitação Do Not Track do navegador ed
 title: Editar as configurações de suporte “Não rastrear” do navegador
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '138'
 ht-degree: 12%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 12%
 
    >[!NOTE]
    >
-   >A prática recomendada é oferecer suporte ao recurso &quot;Não rastrear&quot;. Na Europa, é a lei!
+   >A prática recomendada é oferecer suporte ao recurso &quot;Não rastrear&quot;. Na Europa, é a lei.
 
    >[!TIP]
    >

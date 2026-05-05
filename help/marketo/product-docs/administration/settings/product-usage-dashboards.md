@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '622'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ Os Painéis de uso de produtos do Marketo Engage permitem visualizar o uso do pr
 
 ### Média de atividades semanais {#average-weekly-activities}
 
-O painel Uso semanal de atividade fornece uma contagem semanal de Tipos de atividade em um período contínuo de 52 semanas. As atividades produzidas semanalmente são um bom indicador de quanto marketing você está fazendo no Marketo Engage. As atividades servem como um proxy para os vários processos do sistema e eventos rastreáveis que ocorrem no Marketo.
+O painel Uso semanal de atividade fornece uma contagem semanal de Tipos de atividade em um período contínuo de 52 semanas. As atividades semanais produzidas são um bom indicador de quanto marketing você está fazendo no Marketo Engage. As atividades servem como um proxy para os vários processos do sistema e eventos rastreáveis que ocorrem no Marketo.
 
 Os Tipos de atividade incluem contagens de atividades capturadas quando as pessoas/clientes potenciais interagem com eventos de marketing, bem como atividades baseadas no sistema acionadas por Ações de fluxo. Alguns exemplos de atividades iniciadas por pessoas são quando um recipient abre um email enviado por você ou clica em um link em um email. Um exemplo de uma atividade baseada no sistema acionada por uma Ação de Fluxo é _Enviar para a SFDC_ quando o gatilho é iniciado.
 
@@ -42,7 +42,7 @@ Os Tipos de atividade incluem contagens de atividades capturadas quando as pesso
 
 **Quais Tipos de Atividade são contados?**
 
-Ela depende das atividades incluídas no pipeline.
+Ela depende de quais atividades estão incluídas no pipeline.
 
 **A atividade de pessoa/cliente potencial conhecida e anônima foi incluída?**
 
@@ -54,15 +54,15 @@ As contagens de atividades são atualizadas todas as manhãs.
 
 ## Detalhamento de atividade {#activity-breakdown}
 
-Aqui obtemos contagens de atividades dos últimos sete dias com base em fatias significativas dos dados. Agrupar atividades pelos tipos de atividades mais comuns observados nos últimos sete dias. Isso pode incluir categorias como _Alterar Valor dos Dados_, _Adicionar à Lista_ ou _Enviar Email_. Isso permite que você veja quais tipos de atividades estão acontecendo com mais frequência no sistema. O uso do Tipo de atividade é um indicador importante para determinar o crescimento ou se são necessárias otimizações para reduzir o uso.
+Esta seção fornece contagens de atividades dos últimos sete dias com base em fatias significativas dos dados. Agrupar atividades pelos tipos de atividades mais comuns observados nos últimos sete dias. Isso pode incluir categorias como _Alterar Valor dos Dados_, _Adicionar à Lista_ ou _Enviar Email_. Isso permite que você veja quais tipos de atividades estão acontecendo com mais frequência no sistema. O uso do Tipo de atividade é um indicador importante para determinar o crescimento ou se são necessárias otimizações para reduzir o uso.
 
 >[!NOTE]
 >
->* Todos os detalhamentos abaixo são uma soma acumulada de sete dias e **não** incluem o dia atual. Então pense nisso como &quot;ontem + seis dias antes disso.&quot;
+>* Todos os detalhamentos abaixo são uma soma acumulada de sete dias e **não** incluem o dia atual. Considere como &quot;ontem + seis dias antes disso.&quot;
 >
 >* O painel mostra apenas os 20 principais tipos de atividade, enquanto o restante é classificado em uma categoria chamada &quot;Outros&quot;.
 
-O uso da atividade mostra quanto marketing está sendo realizado e ajuda a visualizar o crescimento em relação ao nível de produto contratado para o. Os painéis também podem ser usados como guia para determinar a otimização que pode/deve ser feita ao reduzir os campos que estão sendo atualizados.
+O uso da atividade mostra quanto marketing está sendo realizado e ajuda a visualizar o crescimento em relação ao nível de produto contratado para o. Os painéis também podem ser usados como guia para determinar quanta otimização pode ou deve ser feita ao reduzir os campos que estão sendo atualizados.
 
 ### Por tipo {#by-type}
 
@@ -70,8 +70,8 @@ Agrupar atividades pelos tipos de atividades mais comuns observados nos últimos
 
 ### Por atributo de valor de dados de alteração {#by-change-data-value-attribute}
 
-_Alterar Valor de Dados_ é o tipo de atividade mais comum. Indica quando uma parte das informações em um registro de pessoa/cliente potencial é atualizada. Aqui, agrupamos pelos campos que são alterados com mais frequência para que você possa determinar quais informações são úteis para suas operações de marketing, se há oportunidades para otimizar o uso da plataforma etc.
+_Alterar Valor de Dados_ é o tipo de atividade mais comum. Indica quando uma parte das informações em um registro de pessoa/cliente potencial é atualizada. Agrupe pelos campos que são alterados com mais frequência para determinar quais informações são úteis para suas operações de marketing e se há oportunidades para otimizar o uso da plataforma.
 
 ### Por campanha {#by-campaign}
 
-Grupo pelo qual as campanhas estão produzindo mais atividades. Isso permite ver se você tem campanhas particularmente &quot;barulhentas&quot; que criam mais atividade do que o necessário. Aprenda rapidamente sobre campanhas que devem ser desativadas ou campanhas que estão fazendo mais trabalho do que o esperado.
+Grupo pelo qual as campanhas estão produzindo mais atividades. Isso permite ver se você tem campanhas particularmente &quot;barulhentas&quot; que criam mais atividade do que o necessário. Saiba mais sobre campanhas que devem ser descontinuadas ou que estão fazendo mais trabalho do que o esperado.

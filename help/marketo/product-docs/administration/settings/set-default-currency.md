@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359902
-description: Como os administradores visualizam e editam a moeda padrão para suas assinaturas do Marketo Engage.
+description: Como os administradores visualizam e editam a moeda padrão de suas assinaturas do Marketo Engage.
 title: Definir a moeda padrão
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---

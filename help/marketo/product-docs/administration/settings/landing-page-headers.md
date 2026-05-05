@@ -3,9 +3,9 @@ description: Como personalizar cabeçalhos HTTP para domínios de página de ate
 title: Cabeçalhos da página de destino
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---
@@ -43,4 +43,4 @@ Siga as etapas abaixo para personalizar alguns dos cabeçalhos HTTP nos domínio
 
 >[!CAUTION]
 >
->É importante analisar essas configurações com a equipe de TI para determinar como a política da sua organização deve ser definida. Configurações incorretas podem impedir que alguns visitantes acessem suas Landing Pages.
+>É importante analisar essas configurações com a equipe de TI para determinar como a política da organização deve ser definida. Configurações incorretas podem impedir que alguns visitantes acessem suas Landing Pages.

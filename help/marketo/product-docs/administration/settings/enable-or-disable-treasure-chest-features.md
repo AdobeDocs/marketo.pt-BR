@@ -4,7 +4,7 @@ description: Como ativar ou desativar as características experimentais do Tóra
 title: Habilitar ou desabilitar recursos do Baú do tesouro
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 17%
@@ -13,7 +13,7 @@ ht-degree: 17%
 
 # Habilitar ou desabilitar recursos do Baú do tesouro {#enable-or-disable-treasure-chest-features}
 
-O Treasure Chest possui características experimentais divertidas que não são totalmente suportadas.
+O Treasure Chest contém características experimentais que não são totalmente suportados.
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ O Treasure Chest possui características experimentais divertidas que não são 
 
    >[!TIP]
    >
-   >Talvez seja necessário fazer logoff e, em seguida, entrar novamente no Marketo para ver as alterações entrarem em vigor.
+   >Talvez seja necessário fazer logoff e logon novamente no Marketo para que as alterações entrem em vigor.

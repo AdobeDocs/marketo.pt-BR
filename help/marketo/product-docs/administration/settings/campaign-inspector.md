@@ -3,16 +3,16 @@ description: Como ativar e usar o Inspetor de campanhas do para visualizar e pes
 title: Inspetor de campanhas
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 3%
+source-wordcount: '134'
+ht-degree: 2%
 
 ---
 
 # Inspetor de campanhas {#campaign-inspector}
 
-Use o Inspetor de campanhas para exibir/pesquisar todas as suas Campanhas inteligentes em um único local.
+Use o Inspetor de campanhas para exibir e pesquisar todas as suas Campanhas inteligentes em um único local.
 
 ## Ativar o Inspetor de campanha {#enable-campaign-inspector}
 

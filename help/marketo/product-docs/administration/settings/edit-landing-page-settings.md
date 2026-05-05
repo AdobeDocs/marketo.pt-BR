@@ -4,16 +4,16 @@ description: Como editar o nome do domínio, a página de fallback, o preenchime
 title: Editar configurações da página de destino
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 7%
+source-wordcount: '236'
+ht-degree: 5%
 
 ---
 
 # Editar configurações da página de destino {#edit-landing-page-settings}
 
-É possível editar o nome de domínio e a página de fallback, habilitar ou desabilitar o preenchimento prévio do formulário, evitar o uso indevido da página de aterrissagem e muito mais. Veja como.
+É possível editar o nome de domínio e a página de fallback, habilitar ou desabilitar o preenchimento prévio do formulário, evitar o uso indevido da página de aterrissagem e muito mais. Siga as etapas abaixo.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ ht-degree: 7%
 
    | Termo | Definição |
    |---|---|
-   | [!UICONTROL Nome de domínio das páginas de aterrissagem] | Este é o seu CNAME. Um CNAME é a primeira parte do URL que você fornece às pessoas para landing pages. Por exemplo, em `https://go.yourCompany.com`, a palavra &quot;go&quot; é o CNAME. Você pode ter múltiplos, mas a maioria das pessoas só usa um. |
+   | [!UICONTROL Nome de domínio das páginas de aterrissagem] | Este é o seu CNAME. Um CNAME é a primeira parte do URL que você fornece às pessoas para landing pages. Por exemplo, em `https://go.yourCompany.com`, a palavra &quot;go&quot; é o CNAME. Você pode ter vários, mas a maioria das pessoas usa apenas um. |
    | [!UICONTROL Página de fallback] | É aqui que você pode ir se a landing page não existir ou estiver inativa. Saiba mais sobre [páginas de fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Página inicial] | Insira o URL do site corporativo. |
 
@@ -55,4 +55,4 @@ ht-degree: 7%
 
    ![](assets/edit-landing-page-settings-6.png)
 
-   Excelente trabalho! Suas landing pages agora têm as informações certas e devem começar a funcionar imediatamente.
+   As landing pages agora têm as informações certas e devem começar a funcionar imediatamente.
