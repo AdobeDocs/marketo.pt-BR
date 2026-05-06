@@ -3,10 +3,10 @@ description: Saiba como configurar uma notificação por push para dispositivos 
 title: Configurar notificação por push para dispositivo móvel
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 3d0c7a7ee68bfcd128ba106bef4e44d88eac02cc
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 5%
+source-wordcount: '521'
+ht-degree: 4%
 
 ---
 
@@ -82,7 +82,19 @@ Um URI de deep link é composto de três partes: nome do esquema, caminho e iden
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções na definição de URIs de deep link, portanto, peça a ele para enviar os URIs (links) das páginas que você está interessado em usar. Isso garante que os URIs inseridos nas mensagens de push apontem para os locais certos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções na definição de URIs de deep link, portanto, peça a ele para enviar os URIs (links) das páginas que você está interessado em usar. Isso garante que os URIs inseridos nas mensagens de push apontem para os locais certos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+
+## URLs de redirecionamento {#redirect-urls}
+
+Os URLs de redirecionamento configurados nas Mensagens de notificação por push suportam tokens Marketo neles. Aplicável somente para &quot;URLs do aplicativo de inicialização&quot;.
+
+Formato de exemplo:
+
+* Formato de aplicativo existente:
+  `com.onboardmd://financing?FirstName={{lead.First Name}}&City={{lead.City}}`
+
+* Formatar com valores de fallback:
+  `com.onboardmd://financing?FirstName={{lead.First Name:default=edit me}}&City={{lead.City:default=edit me}}`
 
 >[!MORELIKETHIS]
 >

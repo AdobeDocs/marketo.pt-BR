@@ -5,22 +5,22 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 3d0c7a7ee68bfcd128ba106bef4e44d88eac02cc
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 67%
+source-wordcount: '247'
+ht-degree: 52%
 
 ---
 
-# Notas de versão: fevereiro de 2026 {#release-notes-jan-26}
+# Notas de versão: maio de 2026 {#release-notes-may-26}
 
-Abaixo você encontrará todos os recursos incluídos na versão de fevereiro de 2026. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de maio de 2026. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
 Para ver as notas de versão específicas do Adobe Dynamic Chat, consulte [esta página](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 20 de fevereiro de 2026**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **22 de maio de 2026**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto">
  <tbody>
@@ -30,11 +30,47 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Ações de Pasta</strong>: paridade com o editor de email antigo.
-   <ul>
-   <li>Compartilhar e arquivar ações de pastas para ativos do Designer de email.</li>
-   <li>Compartilhe pastas entre espaços de trabalho, clique com o botão direito do mouse em uma pasta para criar um novo ativo e mover ativos por meio de arrastar e soltar.</li>
-   </ul>
+   <td><strong>TÍTULO</strong>: Descrição.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TÍTULO</strong>: Descrição.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr>
+   <td><strong>TÍTULO</strong>: Descrição.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>TÍTULO</strong>: Descrição.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Gerenciamento de lista de opções</strong>: agora é possível especificar os valores que podem ser usados em campos no Marketo Engage.
    </td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
@@ -45,47 +81,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - API</strong>: agora você pode usar chamadas de API para o Email Designer.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Gerenciamento de lista de opções</strong>: especifique os valores que podem ser usados em campos na interface do Marketo.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de Email - RECURSO</strong>: Descrição.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de Email - RECURSO</strong>: Descrição.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer de Email - RECURSO</strong>: Descrição.</td>
+   <td><strong>TÍTULO</strong>: Descrição.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
@@ -95,6 +91,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do parâmetro “access_token” da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após 31 de março de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* NOVA OBSERVAÇÃO DE SEO
 
-* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em 31 de março de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de julho de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de julho de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
