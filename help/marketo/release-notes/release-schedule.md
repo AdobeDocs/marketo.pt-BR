@@ -4,10 +4,10 @@ description: Programação de lançamento - Documentos do Marketo - Documentaç�
 title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 39ea33ddb4827d1c0824ef871956a4357f0c9fa3
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 89%
+source-wordcount: '160'
+ht-degree: 79%
 
 ---
 
@@ -45,36 +45,36 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Março de 2026</td>
    <td>27 de março de 2026</td>
-   <td>Em andamento</td>
+   <td>Completado</td>
   </tr>
   <tr>
   <td>Maio de 2026</td>
-   <td>sábado, 15 de maio de 2026</td>
+   <td>22 de maio de 2026</td>
    <td>No cronograma</td>
   </tr>
   <tr>
   <td>Junho de 26</td>
-   <td>sábado, 26 de junho de 2026</td>
+   <td>26 de junho de 2026</td>
    <td>No cronograma</td>
   </tr>
   <tr>
   <td>Julho de 26</td>
-   <td>sábado, 31 de julho de 2026</td>
+   <td>31 de julho de 2026</td>
    <td>No cronograma</td>
   </tr>
   <tr>
   <td>Agosto de 26</td>
-   <td>sábado, 28 de agosto de 2026</td>
+   <td>28 de agosto de 2026</td>
    <td>No cronograma</td>
   </tr>
   <tr>
   <td>Setembro de 26</td>
-   <td>sábado, 25 de setembro de 2026</td>
+   <td>25 de setembro de 2026</td>
    <td>No cronograma</td>
   </tr>
   <tr>
   <td>Outubro de 26</td>
-   <td>sábado, 30 de outubro de 2026</td>
+   <td>30 de outubro de 2026</td>
    <td>No cronograma</td>
   </tr>
  </tbody>
