@@ -4,7 +4,7 @@ description: Saiba mais sobre como a sincronização de clientes potenciais func
 title: Microsoft Dynamics Sync - Sincronização de clientes em potencial
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sincronização de [!DNL Microsoft Dynamics]: Sincronização de Cliente Potencial {#microsoft-dynamics-sync-lead-sync}
 
-A sincronização do Marketo com o [!DNL Dynamics] é super poderosa. Veja os detalhes:
+A sincronização do Marketo com o [!DNL Dynamics] é poderosa. Veja os detalhes:
 
 ## Como os detalhes são mantidos em sincronia entre os dois sistemas? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,7 +25,7 @@ A sincronização é bidirecional. Se você fizer alterações em um cliente pot
 
 ## E se forem feitas alterações no mesmo campo, em ambos os sistemas ao mesmo tempo? (Colisão de dados) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Embora isso seja raro, o Marketo vencerá para as pessoas (clientes potenciais) e o [!DNL Dynamics] vencerá para os contatos. Isso ocorre porque consideramos que o departamento de marketing tem autoridade para as pessoas, enquanto o sistema oficial de registro de contatos está no departamento de vendas (CRM).
+Embora isso seja raro, o Marketo vencerá para as pessoas (clientes potenciais) e o [!DNL Dynamics] vencerá para os contatos. Isso ocorre porque o departamento de marketing é considerado autoritativo para as pessoas, enquanto o sistema oficial de registro de contatos está no departamento de vendas (CRM).
 
 ## Posso criar um cliente em potencial no [!DNL Dynamics] usando o Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 

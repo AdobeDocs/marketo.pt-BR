@@ -3,9 +3,9 @@ description: Saiba mais sobre os recursos da GenAI em Webinars interativos. Use 
 title: Recursos da GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Gere capítulos e resumos automaticamente para os webinars gravados, tornando-os
 
 * **Conteúdo editável**: modifique capítulos e resumos gerados, se desejar, usando funcionalidades de edição manuais e alimentadas por IA.
 
-* **Fácil integração**: adicione facilmente capítulos e resumos às suas Páginas de Aterrissagem copiando o código do HTML para o editor de páginas da Web de sua escolha.
+* **Integração perfeita**: adicione capítulos e resumos às suas Páginas de Aterrissagem copiando o código do HTML para o editor de páginas da Web de sua escolha.
 
 ## Ativar GenAI {#enable-genai}
 

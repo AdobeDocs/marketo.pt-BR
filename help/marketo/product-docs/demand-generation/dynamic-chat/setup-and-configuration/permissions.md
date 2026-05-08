@@ -3,9 +3,9 @@ description: Saiba mais sobre permissões do Dynamic Chat e perfis de produto no
 title: Permissões
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '737'
 ht-degree: 5%
 
 ---
@@ -20,7 +20,7 @@ Há cinco perfis padrão com permissões predefinidas que podem ser editadas no 
 
    ![](assets/permissions-1.png)
 
-1. Na guia **Perfis de produto**, selecione o perfil que deseja editar. Neste exemplo, estamos escolhendo **Live Agent**.
+1. Na guia **Perfis de produto**, selecione o perfil que deseja editar. Neste exemplo, o **Live Agent** está selecionado.
 
    ![](assets/permissions-2.png)
 
@@ -28,7 +28,7 @@ Há cinco perfis padrão com permissões predefinidas que podem ser editadas no 
 
    ![](assets/permissions-3.png)
 
-1. Selecione a área do perfil que deseja editar. Neste exemplo, estamos escolhendo Bate-papo ao Vivo. Clique no ícone de lápis.
+1. Selecione a área do perfil que deseja editar. Neste exemplo, o **Chat ao Vivo** está selecionado. Clique no ícone de lápis.
 
    ![](assets/permissions-4.png)
 

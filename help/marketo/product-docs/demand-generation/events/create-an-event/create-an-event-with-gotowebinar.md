@@ -4,9 +4,9 @@ description: Saiba como criar um evento com o GotoWebinar no Marketo. Configure 
 title: Criar um Evento com [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,9 @@ Insira as seguintes informações para seu webinário, que será extraído para 
 
 >[!TIP]
 >
->Se precisar de ajuda adicional do [!DNL GoToWebinar], visite o [Site de Ajuda](https://support.logmeininc.com/gotowebinar).
+>Se você precisar de ajuda adicional do [!DNL GoToWebinar], consulte o [Site de Ajuda](https://support.logmeininc.com/gotowebinar).
 
-Agora, vamos mergulhar no Marketo!
+Agora, prossiga para o Marketo.
 
 1. Selecione um evento. Clique em **[!UICONTROL Ações de Eventos]** e escolha **[!UICONTROL Configurações de Eventos]**.
 
@@ -83,7 +83,7 @@ Agora, vamos mergulhar no Marketo!
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Excelente! Agora o evento é sincronizado e agendado por **[!DNL GoToWebinar]**.
+1. O evento foi sincronizado e agendado por **[!DNL GoToWebinar]**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -107,7 +107,7 @@ Agora, vamos mergulhar no Marketo!
    >
    >Pode levar até 48 horas para que os dados sejam exibidos no Marketo. Se depois de aguardar tanto tempo você ainda não vir nada, selecione **[!UICONTROL Atualizar do Provedor de Webinar]** no menu [!UICONTROL Ações de Eventos] na guia **[!UICONTROL Resumo]** do seu evento.
 
-As pessoas que se inscreverem no seu webinário serão encaminhadas ao seu provedor do webinário através da etapa de fluxo [!UICONTROL Alterar status do programa] quando o [!UICONTROL Novo status] estiver definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Além disso, certifique-se de fazer a etapa de fluxo #1 do [!UICONTROL Alterar status do programa] e a etapa de fluxo #2 do [!UICONTROL Enviar email].
+As pessoas que se inscreverem no seu webinário serão encaminhadas ao seu provedor do webinário através da etapa de fluxo [!UICONTROL Alterar status do programa] quando o [!UICONTROL Novo status] estiver definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Além disso, faça a etapa de fluxo #1 [!UICONTROL Alterar status do programa] e a etapa de fluxo #2 [!UICONTROL Enviar email].
 
 ## Exibição do Agendamento  {#viewing-the-schedule}
 

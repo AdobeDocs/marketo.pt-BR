@@ -3,16 +3,16 @@ description: Saiba como criar e implementar modelos em Webinars interativos. Use
 title: Modelos para webinários interativos
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '333'
 ht-degree: 2%
 
 ---
 
 # Modelos para webinários interativos {#templates-for-interactive-webinars}
 
-Crie modelos fáceis de usar em webinários interativos para produzir conteúdo mais rapidamente e manter-se em conformidade com as diretrizes da marca ao trabalhar em uma equipe.
+Crie modelos reutilizáveis em Webinars interativos para produzir conteúdo mais rápido e manter-se em conformidade com as diretrizes da marca ao trabalhar em uma equipe.
 
 ## Conceder permissões {#grant-permissions}
 
@@ -26,7 +26,7 @@ Antes que qualquer usuário em sua organização possa acessar modelos em seus W
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
-1. Clique duas vezes na função à qual você deseja adicionar as permissões.
+1. Clique duas vezes na função à qual deseja adicionar as permissões.
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
@@ -68,7 +68,7 @@ Antes que qualquer usuário em sua organização possa acessar modelos em seus W
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. Uma nova guia é aberta. Para editar/salvar seu modelo, você terá que entrar em uma sala. Como essa não é uma sala de webinários real, não é necessário fazer seleções de áudio/vídeo. Clique em **Entrar na Sala**.
+1. Uma nova guia é aberta. Para editar ou salvar seu modelo, você terá que entrar em uma sala. Como essa não é uma sala de webinários real, não é necessário fazer seleções de áudio/vídeo. Clique em **Entrar na Sala**.
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
@@ -106,7 +106,7 @@ Siga as etapas abaixo para editar um template existente.
 
    ![](assets/templates-for-interactive-webinars-19.png)
 
-1. Uma nova guia é aberta. Para editar seu modelo, você terá que entrar em uma sala. Como essa não é uma sala de webinários real, não é necessário fazer seleções de áudio/vídeo. Clique em **Entrar na Sala**.
+1. Uma nova guia é aberta. Para editar o modelo, é necessário entrar em uma sala. Como essa não é uma sala de webinários real, não é necessário fazer seleções de áudio/vídeo. Clique em **Entrar na Sala**.
 
    ![](assets/templates-for-interactive-webinars-20.png)
 

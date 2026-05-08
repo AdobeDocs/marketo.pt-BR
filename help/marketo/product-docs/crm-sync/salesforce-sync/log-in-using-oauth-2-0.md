@@ -3,9 +3,9 @@ description: Saiba como conectar o Marketo e o Salesforce usando o OAuth 2.0. Co
 title: Fazer logon usando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '666'
 ht-degree: 2%
 
 ---
@@ -72,7 +72,7 @@ O Salesforce usa o protocolo OAuth para permitir que os usuários de aplicativos
 >* O usuário do Marketo Sync deve ser criado no Salesforce.
 >* Para clientes existentes, o recurso para &quot;Habilitar OAuth para sincronização do SFDC&quot; está habilitado na assinatura do cliente.
 >* Os bloqueadores de pop-ups estão desativados.
->* O Aplicativo Conectado foi criado e temos a [!UICONTROL Chave do Consumidor] e o [!UICONTROL Segredo do Consumidor] disponíveis para uso.
+>* O Aplicativo Conectado foi criado e a [!UICONTROL Chave do Consumidor] e o [!UICONTROL Segredo do Consumidor] estão disponíveis para uso.
 
 >[!CAUTION]
 >

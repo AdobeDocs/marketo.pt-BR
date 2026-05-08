@@ -3,9 +3,9 @@ description: Saiba mais sobre Fluxos de conversa e como eles se diferem de Caixa
 title: Visão geral do fluxo de conversa
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ Embora Diálogos e Fluxos de conversa tenham várias semelhanças, eles são doi
    <th style="width:50%">Fluxos de conversação</th>
   </tr>
   <tr>
-   <td>As caixas de diálogo são direcionadas — Você cria uma conversa para uma página e um público-alvo específicos com base nos parâmetros implementados.</td>
+   <td>As caixas de diálogo são direcionadas: você cria uma conversa para uma página e um público específicos com base nos parâmetros implementados.</td>
    <td>Os fluxos de conversa são acionados — Você cria uma conversa que pode ser acionada com base na ação de um visitante, como preencher um formulário, clicar em um link etc.</td>
   </tr>
    <tr>
@@ -82,7 +82,7 @@ Na metade inferior da guia Configurações, personalize o acionador Conversas, t
 
 >[!TIP]
 >
->Veja [Conversas SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=pt-BR){target="_blank"} em ação!
+>Veja [Conversas SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} em ação!
 
 >[!MORELIKETHIS]
 >

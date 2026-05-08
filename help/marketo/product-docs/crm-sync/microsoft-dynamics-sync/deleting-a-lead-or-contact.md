@@ -4,10 +4,10 @@ description: Entenda como a exclusão de clientes potenciais e contatos funciona
 title: Excluir um lead ou contato
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Há algumas coisas a saber quando se trata de excluir clientes potenciais/contatos em [!DNL Microsoft Dynamics].
 
-* O Marketo não exclui pessoas automaticamente apenas porque os clientes potenciais foram excluídos em [!DNL Dynamics]. Em vez disso, o sinalizador do campo &quot;Microsoft foi excluído&quot; está definido como verdadeiro. É possível acionar esse campo para excluir o registro no Marketo, se desejado.
+* A Marketo não exclui pessoas automaticamente apenas porque os clientes potenciais foram excluídos em [!DNL Dynamics]. Em vez disso, o sinalizador do campo &quot;Microsoft foi excluído&quot; está definido como verdadeiro. É possível acionar esse campo para excluir o registro no Marketo, se desejado.
 
 * Ação de fluxo &quot;Excluir pessoa&quot;: exclui apenas uma pessoa no Marketo (não há uma opção disponível para excluí-la no Dynamics).
 

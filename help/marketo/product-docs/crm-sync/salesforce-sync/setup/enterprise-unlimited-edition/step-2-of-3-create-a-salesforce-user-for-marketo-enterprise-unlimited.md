@@ -4,7 +4,7 @@ description: Saiba como criar um usuário do Salesforce para Marketo com ediçã
 title: Etapa 2 de 3 - Criar um usuário do Salesforce para Marketo (Enterprise/Unlimited)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '433'
 ht-degree: 4%
@@ -58,7 +58,7 @@ Neste artigo, você configurará as permissões de usuário no perfil [!DNL Sale
 
    >[!TIP]
    >
-   >Certifique-se de marcar a caixa **[!UICONTROL Senha nunca expira]**.
+   >Marque a caixa **[!UICONTROL A senha nunca expira]**.
 
 1. Na seção [!UICONTROL Permissões gerais de usuário], verifique se as seguintes caixas estão marcadas:
 
@@ -68,7 +68,7 @@ Neste artigo, você configurará as permissões de usuário no perfil [!DNL Sale
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Na seção [!UICONTROL Permissões de Objeto Padrão], verifique se as permissões [!UICONTROL Ler, Criar, Editar e Excluir] estão marcadas para:
+1. Na seção [!UICONTROL Permissões de Objeto Padrão], verifique se as permissões [!UICONTROL Ler, Criar, Editar e Excluir] estão verificadas para:
 
    * [!UICONTROL Contas]
    * [!UICONTROL Campanhas]
@@ -111,7 +111,7 @@ Neste artigo, você configurará as permissões de usuário no perfil [!DNL Sale
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Localize os campos desnecessários, verifique se a opção **[!UICONTROL Acesso de Leitura]** e **[!UICONTROL Editar Acesso]** está desmarcada. Clique em **[!UICONTROL Salvar]** quando terminar.
+1. Localize os campos desnecessários, verifique se **[!UICONTROL Acesso de Leitura]** e **[!UICONTROL Editar Acesso]** estão desmarcados. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    >[!NOTE]
    >

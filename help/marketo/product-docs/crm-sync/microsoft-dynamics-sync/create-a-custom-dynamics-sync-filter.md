@@ -4,9 +4,9 @@ description: Saiba como criar um filtro de sincronização personalizado do Dyna
 title: Criar um Filtro de Sincronização  [!DNL Dynamics]  Personalizado
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
@@ -79,7 +79,7 @@ O Marketo procura esse campo durante a sincronização automática em segundo pl
 
 ## Selecione o filtro no Marketo {#select-the-filter-in-marketo}
 
-Mesmo que você já tenha feito a sincronização inicial, acesse e selecione os campos a serem sincronizados com o Marketo.
+Mesmo que a sincronização inicial esteja concluída, acesse e selecione os campos que serão sincronizados com o Marketo.
 
 1. Vá para Admin e selecione **[!UICONTROL Microsoft Dynamics]**.
 
@@ -93,7 +93,7 @@ Mesmo que você já tenha feito a sincronização inicial, acesse e selecione os
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
-Ótimo, agora você ativou o filtro de sincronização do Marketo.
+Agora que você ativou o filtro de sincronização do Marketo.
 
 ## Crie um Fluxo de Trabalho [!DNL Dynamics] para Atribuir Valores de Filtro de Sincronização Automaticamente {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
@@ -135,7 +135,7 @@ Você sempre pode atribuir um valor manualmente aos campos SyncToMkto para seus 
 
 ## Detalhes do Filtro de Sincronização {#sync-filter-details}
 
-Estes são alguns detalhes de implementação que pensamos que você deveria saber:
+Detalhes da implementação:
 
 * Iniciar uma Operação de Sincronização
 

@@ -4,16 +4,16 @@ description: Saiba como usar os filtros e acionadores do Facebook Lead Ads em um
 title: Usar filtros e acionadores de anúncios de leads em uma campanha inteligente
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '94'
 ht-degree: 21%
 
 ---
 
 # Usar filtros e acionadores de anúncios de leads em uma campanha inteligente {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
-Depois de habilitar os [!UICONTROL Anúncios de cliente potencial do Facebook], você poderá usá-los em suas campanhas inteligentes para ver o sucesso do programa. Quando as pessoas enviam suas informações em uma unidade de Anúncios de cliente potencial do [!DNL Facebook], as informações são enviadas para a Marketo imediatamente.
+Quando você tiver habilitado os [!UICONTROL Anúncios de Clientes Potenciais do Facebook], poderá usá-los em suas campanhas inteligentes para ver o sucesso do programa. Quando as pessoas enviam suas informações em uma unidade de Anúncios de cliente potencial do [!DNL Facebook], as informações são enviadas para a Marketo imediatamente.
 
 1. Use o filtro ou acionador **[!UICONTROL Preencher formulário de anúncios de clientes potenciais do Facebook]**.
 

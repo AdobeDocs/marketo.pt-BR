@@ -4,9 +4,9 @@ description: Saiba como definir o sobrenome da pessoa padrão e o nome da empres
 title: Definir sobrenome da pessoa e nome da empresa padrão
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '149'
 ht-degree: 10%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 10%
    >
    >O Marketo Engage só atribui um valor padrão quando o registro é sincronizado inicialmente com o Salesforce e somente se qualquer um dos campos obrigatórios estiver vazio.
 
-E é isso! Toda vez que uma pessoa não tiver um sobrenome e/ou nome da empresa, o Marketo adicionará o valor padrão à medida que sincroniza o registro.
+Toda vez que uma pessoa não tiver um sobrenome ou nome da empresa, o Marketo adicionará o valor padrão à medida que sincroniza o registro.

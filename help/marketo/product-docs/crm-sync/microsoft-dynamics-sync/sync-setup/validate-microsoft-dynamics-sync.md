@@ -4,10 +4,10 @@ description: Saiba como executar a ferramenta Validar sincronização para verif
 title: Validar [!DNL Microsoft Dynamics] Sincronizar
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 2%
+source-wordcount: '266'
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 2%
 
 >[!CAUTION]
 >
->Se a Autenticação Multifator (MFA) estiver habilitada para a Sincronização do [!DNL Dynamics], você deverá desabilitá-la para que o [!DNL Dynamics] seja sincronizado corretamente com o Marketo. Para obter informações adicionais, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se a Autenticação Multifator (MFA) estiver habilitada para a Sincronização do [!DNL Dynamics], você deverá desabilitá-la para que o [!DNL Dynamics] seja sincronizado corretamente com o Marketo. Para obter mais informações, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Executar Validar sincronização no Marketo {#run-validate-sync-in-marketo}
 
-É muito importante executar a ferramenta Validar Sincronização para verificar se a Sincronização do [!DNL Microsoft Dynamics] com o Marketo está configurada corretamente antes de fazer a conexão final entre elas. O processo gera uma lista de verificação de sete etapas de configuração que indicam onde existem problemas. A verificação de que eles foram feitos corretamente pode economizar muito tempo depois.
+É muito importante executar a ferramenta Validar Sincronização para garantir que a Sincronização do [!DNL Microsoft Dynamics] com o Marketo esteja configurada corretamente antes de fazer a conexão final entre elas. O processo gera uma lista de verificação de sete etapas de configuração que indicam onde existem problemas. A verificação de que eles foram feitos corretamente pode economizar muito tempo depois.
 
 1. Clique na guia **[!UICONTROL Admin]** e depois no link **[!DNL Microsoft Dynamics]** na área de Integração.
 

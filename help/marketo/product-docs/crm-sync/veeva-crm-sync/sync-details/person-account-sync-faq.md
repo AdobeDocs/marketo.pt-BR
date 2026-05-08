@@ -3,9 +3,9 @@ description: Obtenha ajuda sobre a sincronização de conta pessoal entre o Mark
 title: Perguntas frequentes sobre sincronização de conta de pessoa
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '488'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ A sincronização dos campos relacionados ao contato da Conta de pessoa é bidir
 
 **E se forem feitas alterações em ambos os sistemas nos campos Contato da Conta de Pessoa ao mesmo tempo?**
 
-Nós seríamos legais e deixaríamos [!DNL Veeva] CRM ganhar. No entanto, é raro que esse tipo de colisão de dados ocorra.
+[!DNL Veeva] vitórias do CRM. É raro ocorrer esse tipo de colisão de dados, no entanto.
 
 **Os tipos de registros de Cliente Potencial ou Contato estão sincronizados com o [!DNL Veeva] CRM?**
 

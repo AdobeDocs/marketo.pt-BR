@@ -3,9 +3,9 @@ description: Saiba como habilitar ou desabilitar a sincronização de objetos pe
 title: Habilitar/desabilitar a sincronização de objetos personalizados
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 4%
 
 ---
@@ -70,7 +70,7 @@ Selecione o objeto que deseja sincronizar e clique em **[!UICONTROL Habilitar Si
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Excelente! Agora você pode usar os dados deste objeto personalizado em [!UICONTROL Campanhas inteligentes] e [!UICONTROL Listas inteligentes].
+Agora você pode usar os dados deste objeto personalizado em [!UICONTROL Campanhas inteligentes] e [!UICONTROL Listas inteligentes].
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Saiba como corrigir problemas de sincronização de validação do 
 title: Corrigir problemas de sincronização de validação do Dynamics
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '520'
 ht-degree: 8%
 
 ---
@@ -103,7 +103,7 @@ Se você tiver um ![x](assets/delete.png) aqui, verifique se nenhuma das etapas 
 
 ## Atribui-se o usuário de sincronização à solução Marketo {#sync-user-is-assigned-to-the-marketo-solution}
 
-Se você tiver um ![x](assets/delete.png) aqui, verifique se o usuário de sincronização está atribuído na página Padrão do Marketo no Microsoft Dynamics.
+Se você tiver um ![x](assets/delete.png) aqui, verifique se o usuário do Sync está atribuído na página Padrão do Marketo no Microsoft Dynamics.
 
 1. No Dynamics, clique no ícone Configurações e selecione **Configurações Avançadas**.
 

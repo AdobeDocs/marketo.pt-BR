@@ -4,9 +4,9 @@ description: Saiba mais sobre quais campos do Salesforce são sincronizados com 
 title: Sincronização do SFDC - Sincronização de campo
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Alterar o rótulo do campo no SFDC não afeta o rótulo do campo no Marketo.
 
 ## E se eu alterar um tipo de campo no SFDC? {#what-if-i-change-a-field-type-in-sfdc}
 
-Quando você altera um tipo de campo, o Marketo exclui os dados nos campos se eles não corresponderem (mas primeiro exibe um aviso). Para preservar os dados, exporte-os e importe-os novamente após alterar o tipo de campo.
+Quando você altera um tipo de campo, o Marketo exclui os dados nos campos se eles não corresponderem (mas primeiro exibe um aviso). Para preservar os dados, exporte-os e reimporte-os depois de alterar o tipo de campo.
 
 ## E se eu alterar um nome de API no SFDC? {#what-if-i-change-an-api-name-in-sfdc}
 

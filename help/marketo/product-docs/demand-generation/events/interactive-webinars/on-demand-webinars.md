@@ -3,10 +3,10 @@ description: Saiba mais sobre webinários sob demanda em Webinários interativos
 title: Webinários sob demanda
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
@@ -23,9 +23,9 @@ O Marketo Engage fornece as estatísticas de observação para webinários sob d
 * Resumo sob demanda: fornece um resumo da contagem de visitantes (não exibições) que assistem à gravação após o evento em um determinado dia
 
 * Estatísticas por demanda: esse widget fornece informações sobre:
-   * Dias em que a gravação sob demanda está disponível para exibição — Ajuda os profissionais de marketing a executar ações, como executar campanhas de email próximas ao final da duração da disponibilidade de gravação de 30 dias.
-   * Contagem geral de visitantes para webinários sob demanda até o momento — A contagem de todos os inscritos sem programa que assistiram à gravação sob demanda até o momento.
-   * Duração média do relógio em minutos para todos os visitantes — Dá aos profissionais de marketing uma noção de quanto da gravação é visualizada e quais Campanhas inteligentes podem ser usadas para direcionar leads acima de uma determinada duração do relógio.
+   * Dias em que a gravação por solicitação está disponível para exibição: ajuda os profissionais de marketing a executar ações, como executar campanhas de email próximas ao final da duração da disponibilidade de gravação de 30 dias.
+   * Contagem geral de visitantes para webinários sob demanda até o momento: a contagem de todos os inscritos sem exibição que assistiram à gravação sob demanda até o momento.
+   * Duração média do relógio em minutos para todos os visitantes: dá aos profissionais de marketing uma noção de quanto da gravação é visualizada e quais Campanhas inteligentes podem ser usadas para direcionar leads acima de uma determinada duração do relógio.
 
 ![](assets/on-demand-webinars-1.png)
 

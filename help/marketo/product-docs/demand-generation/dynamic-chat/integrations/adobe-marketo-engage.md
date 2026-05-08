@@ -3,9 +3,9 @@ description: Saiba como conectar o Dynamic Chat à sua assinatura do Marketo Eng
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '314'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ Após concluir a [configuração inicial](/help/marketo/product-docs/demand-gene
 
 >[!NOTE]
 >
->O Dynamic Chat oferece suporte à sincronização de [campos nativos](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} do Marketo e campos de pessoa personalizados e campos de empresa.
+>O Dynamic Chat oferece suporte à sincronização de [campos nativos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} do Marketo e campos de pessoa personalizados e campos de empresa.
 
 1. Em Minha Marketo, clique no bloco **[!UICONTROL Dynamic Chat]**.
 
@@ -28,7 +28,7 @@ Após concluir a [configuração inicial](/help/marketo/product-docs/demand-gene
    >
    >Se você não vir o bloco, entre em contato com o administrador do Marketo.
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Para conectar sua instância do Marketo, selecione **[!UICONTROL Integrações]**.
 
@@ -52,7 +52,7 @@ Após concluir a [configuração inicial](/help/marketo/product-docs/demand-gene
 
 ## Adicionar um atributo {#add-an-attribute}
 
-Após a sincronização inicial, veja como adicionar outros atributos.
+Após a sincronização inicial, siga estas etapas para adicionar outros atributos.
 
 1. Em **[!UICONTROL Integrações]**, verifique se a guia **[!UICONTROL Adobe Marketo Engage]** está selecionada e clique em **[!UICONTROL Adicionar Atributo]**.
 
@@ -68,7 +68,7 @@ Após a sincronização inicial, veja como adicionar outros atributos.
 
 ## Remover um atributo {#remove-an-attribute}
 
-Após a sincronização inicial, veja como remover um atributo.
+Após a sincronização inicial, siga estas etapas para remover um atributo.
 
 >[!NOTE]
 >

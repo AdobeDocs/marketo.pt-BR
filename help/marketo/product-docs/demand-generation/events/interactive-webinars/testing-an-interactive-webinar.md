@@ -3,9 +3,9 @@ description: Saiba como testar um webinário interativo antes de entrar em ativi
 title: Teste de um webinário interativo
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '384'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ O fluxo de trabalho para criar um webinário de teste permanece o mesmo que [cri
 >
 >Se você definir a data e a hora do webinário de teste muito perto no futuro e essa data/hora decorrer, os Webinários interativos considerarão o webinário entregue e deduzirão um crédito da sua licença.
 
-Um crédito será bloqueado para o webinário de teste, mas pode ser utilizado ao reagendar o programa para uso com um webinário real ou simplesmente excluindo o programa de webinário de teste.
+Um crédito será bloqueado para o webinário de teste, mas pode ser utilizado ao reagendar o programa para uso com um webinário real ou ao excluir o programa de webinário de teste.
 
 Depois de criar e projetar o webinário, o host, o coanfitrião e/ou os apresentadores podem participar para ensaiar o delivery. Convidados externos também podem ser adicionados como co-hosts para poder participar do teste. Os testes podem ser realizados da mesma forma que o webinário é realizado, para que os avaliadores tenham uma noção de como o webinário será realizado na frente de um público real. Todas as funcionalidades do webinário ao vivo também estariam disponíveis no webinário de teste. Isso pode ser executado até 15 minutos antes da hora de início do webinário.
 

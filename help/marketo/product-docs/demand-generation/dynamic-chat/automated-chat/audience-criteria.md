@@ -3,7 +3,7 @@ description: Saiba mais sobre os Critérios de público-alvo para direcionar que
 title: Critérios de público-alvo
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '624'
 ht-degree: 1%
@@ -22,7 +22,7 @@ A prioridade determina qual diálogo um lead recebe caso se qualifique para mais
 
 ## Eventos {#events}
 
-Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em que estão na sua página/site. No exemplo abaixo, direcionamos os visitantes que estão em uma página específica há mais de 20 segundos.
+Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em que estão na página ou no site. No exemplo abaixo, a configuração é direcionada a visitantes que estão em uma página específica por mais de 20 segundos.
 
 1. Pegue o evento **[!UICONTROL Tempo na página]** e arraste-o para a direita.
 
@@ -40,7 +40,7 @@ Os eventos permitem direcionar os visitantes com base na rolagem ou no tempo em 
 
 **Pessoas conhecidas**
 
-Há _muitas_ combinações de atributos para escolher. No exemplo abaixo, estamos direcionando todas as pessoas conhecidas na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
+Há _muitas_ combinações de atributos para escolher. No exemplo abaixo, a configuração é direcionada a todas as pessoas conhecidas na Califórnia que trabalham em uma empresa com mais de 50 funcionários.
 
 1. Pegue o atributo **[!UICONTROL Estado da pessoa]** e arraste-o para a direita.
 
@@ -68,7 +68,7 @@ Há _muitas_ combinações de atributos para escolher. No exemplo abaixo, estamo
 
 **Pessoas Anônimas**
 
-Há uma maneira fácil de direcionar especificamente as pessoas que ainda não estão no banco de dados. Neste exemplo, estamos direcionando todas as pessoas anônimas localizadas na área de Nova York.
+O item a seguir destina-se às pessoas que ainda não estão no banco de dados. Neste exemplo, a configuração é direcionada a todas as pessoas anônimas localizadas na área de Nova York.
 
 1. Pegue o atributo **[!UICONTROL Email de pessoa]** e arraste-o para a direita.
 
@@ -84,7 +84,7 @@ Há uma maneira fácil de direcionar especificamente as pessoas que ainda não e
 
    >[!NOTE]
    >
-   >Quando alguém visita o seu site, o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} faz o cookie e o coloca no sistema. Pesquisamos o IP deles em um banco de dados especial e inferimos todos os tipos de informações boas.
+   >Quando alguém visita o seu site, o [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} faz o cookie e o coloca no sistema. O endereço IP é pesquisado em um banco de dados especial para descobrir a localização e outras informações.
 
 1. _[!UICONTROL Is]_ está definido por padrão. No campo Selecionar valores, digite NY (também é possível clicar no menu suspenso e selecionar na lista).
 

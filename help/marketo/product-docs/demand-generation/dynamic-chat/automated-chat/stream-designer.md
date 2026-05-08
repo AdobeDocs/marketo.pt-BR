@@ -3,9 +3,9 @@ description: Saiba mais sobre o Stream Designer e os cartões para criar convers
 title: Designer de fluxo
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1206'
 ht-degree: 2%
 
 ---
@@ -76,7 +76,7 @@ O Stream Designer contém vários cartões que você pode adicionar para moldar 
 
 ## Ícones de Designer de fluxo {#stream-designer-icons}
 
-No canto superior direito do Stream Designer, você verá vários ícones. Aqui está o que eles fazem.
+No canto superior direito do Stream Designer, você verá vários ícones. A tabela a seguir descreve cada ícone.
 
 <table>
  <tr>
@@ -103,7 +103,7 @@ No canto superior direito do Stream Designer, você verá vários ícones. Aqui 
 
 ## Criar um fluxo {#create-a-stream}
 
-Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. Neste exemplo, criaremos um para uma caixa de diálogo.
+Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. Neste exemplo, um fluxo é criado para uma caixa de diálogo.
 
 1. Depois de [criar sua Caixa de Diálogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, clique na guia **[!UICONTROL Stream Designer]**.
 
@@ -119,7 +119,7 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
 
    >[!TIP]
    >
-   >Você pode personalizar a experiência para os visitantes do bate-papo!
+   >Você pode personalizar a experiência dos visitantes do chat.
    >
    >* Clique no ícone &quot;inserir HTML&quot; `</>` para inserir seu próprio HTML para a aparência desejada da conversa.
    >
@@ -137,7 +137,7 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
    >
    >**[!UICONTROL Editar valores armazenados]** é uma etapa opcional para quem deseja armazenar um valor diferente no banco de dados do que está sendo exibido para os visitantes no chatbot para atributos mapeados no cartão de Pergunta (por exemplo: o visitante vê &quot;Otimização do mecanismo de pesquisa&quot;, você armazena esse valor como &quot;SEO&quot;).
 
-1. Para &quot;Sim&quot;, queremos agendar uma reunião. Portanto, abaixo dessa opção, arraste o cartão _Reserva da reunião_.
+1. Para &quot;Sim&quot;, arraste o cartão _Reserva de reunião_ abaixo dessa opção.
 
    ![](assets/stream-designer-10.png)
 
@@ -153,7 +153,7 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
 
    ![](assets/stream-designer-13.png)
 
-1. Para o &quot;Não&quot;, queremos ver se eles vão entrar na lista de endereçamento. Portanto, abaixo dessa opção, arraste outro cartão [!UICONTROL Pergunta].
+1. Para &quot;Não&quot;, arraste sobre outro cartão [!UICONTROL Pergunta] abaixo dessa opção para verificar se o visitante deseja ingressar na lista de endereçamento.
 
    ![](assets/stream-designer-14.png)
 
@@ -185,11 +185,11 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
 
    ![](assets/stream-designer-20.png)
 
-1. Lembre-se de adicionar uma resposta se eles responderem &quot;Não&quot;. Uma opção é arrastar um cartão de mensagem abaixo e dizer &quot;obrigado mesmo assim&quot;. Mas, neste exemplo, forneceremos a eles um documento PDF gratuito.
+1. Lembre-se de adicionar uma resposta se eles responderem &quot;Não&quot;. Uma opção é arrastar um cartão de mensagem abaixo e dizer &quot;obrigado mesmo assim&quot;. Mas, neste exemplo, um documento gratuito do PDF é fornecido.
 
    ![](assets/stream-designer-21.png)
 
-1. Neste exemplo, criaremos um novo documento. Nomeie a página, digite a URL da PDF que você já hospedou e clique em **[!UICONTROL Salvar]**.
+1. Crie um novo documento. Nomeie a página, digite a URL da PDF que você já hospedou e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -199,7 +199,7 @@ Você pode criar fluxos para caixas de diálogo ou [Forms de conversação](/hel
 
 >[!NOTE]
 >
->Antes de clicar em [!UICONTROL Publicar], lembre-se de que você [inseriu sua(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Antes de clicar em [!UICONTROL Publicar], verifique se você inseriu [a(s) URL(s) de destino](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Saiba como instalar a solução Marketo para Dynamics 2011 no local
 title: Etapa 1 de 3 - Instalar a solução da Marketo (2011 no local)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '304'
 ht-degree: 6%
 
 ---
@@ -67,7 +67,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] no local e o Marketo, é necess
    >
    >Você precisará ativar os pop-ups no seu navegador para concluir o processo de instalação.
 
-1. Agora aguarde a conclusão da importação. Levante-se e faça alguns alongamentos.
+1. Agora aguarde a conclusão da importação.
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 

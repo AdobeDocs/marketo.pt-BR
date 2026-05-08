@@ -3,16 +3,16 @@ description: Saiba mais sobre o Dynamic Chat para direcionar visitantes e coleta
 title: Visão geral do Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 96%
+source-wordcount: '627'
+ht-degree: 74%
 
 ---
 
 # [!DNL Dynamic Chat] Visão geral {#dynamic-chat-overview}
 
-O Dynamic Chat permite usar uma interface fácil de usar para direcionar pessoas e contas que acessam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem conversar com um agente ao vivo e até mesmo marcar reuniões com a equipe de vendas. Os dados de atividade e engajamento do Dynamic Chat podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
+O Dynamic Chat permite usar uma interface intuitiva para direcionar pessoas e contas que visitam seu site. Colete conteúdo relevante, como nome, informações de contato e texto livre. Os visitantes do site também podem conversar com um agente ao vivo e até mesmo marcar reuniões com a equipe de vendas. Os dados de atividade e engajamento do Dynamic Chat podem ser usados para adicionar membros a programas do Marketo e acionar atividades entre canais.
 
 >[!TIP]
 >
@@ -20,7 +20,7 @@ O Dynamic Chat permite usar uma interface fácil de usar para direcionar pessoas
 
 ## Integrações {#integrations}
 
-Um componente importante do Dynamic Chat é sua capacidade de interagir nativamente com sua assinatura do Marketo. Para aproveitar todos os recursos dessa integração, primeiro inicie a sincronização de dados. Dependendo do tamanho do banco de dados do Marketo, pode levar até 24 horas para que os dados da [sincronização única](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} inicial sejam concluídos.
+Um componente importante do Dynamic Chat é sua capacidade de interagir nativamente com sua assinatura do Marketo. Para aproveitar todos os recursos dessa integração, primeiro será necessário iniciar a sincronização de dados. Dependendo do tamanho do banco de dados do Marketo, pode levar até 24 horas para que os dados da [sincronização única](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} inicial sejam concluídos.
 
 O seguinte será sincronizado:
 
@@ -42,11 +42,11 @@ Conecte seu calendário do Outlook ou Gmail para usar no agendamento de compromi
 
 ## Reuniões {#meetings}
 
-É aqui que você verá todos os compromissos agendados pelos visitantes do site por meio de suas várias caixas de diálogo. [Saiba mais sobre reuniões](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
+É aqui que você verá todos os compromissos que foram agendados pelos visitantes do site através de suas várias caixas de diálogo. [Saiba mais sobre reuniões](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
 
 ## Roteamento {#routing}
 
-Aqui você pode ver uma lista de todos os agentes que conectaram seus calendários, a ordem em que eles serão apresentados aos visitantes do site e criar regras de roteamento personalizadas. [Saiba mais sobre roteamento](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
+É aqui que você pode ver uma lista de todos os agentes que conectaram seus calendários, a ordem em que serão apresentados aos visitantes do site e criar regras de roteamento personalizadas. [Saiba mais sobre roteamento](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
 
 ## Chat ao vivo {#live-chat}
 
@@ -84,11 +84,11 @@ Siga as etapas abaixo para alterar o idioma do Dynamic Chat.
    >
    >Há dezenas de idiomas para escolher. No entanto, o [!DNL Dynamic Chat] oferece suporte apenas para os seguintes: inglês, francês, alemão, japonês, espanhol, italiano, português brasileiro, coreano, chinês simplificado e chinês tradicional.
 
-Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto as palavras que você preencheu pessoalmente (por exemplo, respostas do fluxo).
+Quando você atualiza o idioma, tudo no próprio aplicativo é alterado, exceto as palavras que você preencheu pessoalmente (por exemplo, respostas de transmissão).
 
 ## Limites de retenção de dados do Dynamic Chat {#dynamic-chat-data-retention-limits}
 
-Abaixo estão apenas alguns dos limites/parâmetros no Dynamic Chat. Para obter uma lista completa, consulte a [página Descrição do produto](https://helpx.adobe.com/br/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} do Marketo Engage.
+Abaixo estão alguns dos limites/parâmetros no Dynamic Chat. Para obter uma lista completa, consulte a [página Descrição do produto](https://helpx.adobe.com/br/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} da Marketo Engage.
 
 <table>
   <th>Tipo de dados</th>

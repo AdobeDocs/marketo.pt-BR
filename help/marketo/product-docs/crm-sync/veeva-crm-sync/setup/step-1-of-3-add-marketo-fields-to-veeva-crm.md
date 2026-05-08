@@ -3,9 +3,9 @@ description: Saiba como adicionar campos do Marketo ao Veeva CRM antes de se con
 title: Etapa 1 de 3 - Adicionar campos do Marketo ao [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '526'
 ht-degree: 8%
 
 ---

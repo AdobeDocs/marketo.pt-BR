@@ -4,9 +4,9 @@ description: Saiba como configurar regras de filtro de sincronização personali
 title: Regras de filtro de sincronização personalizado para um endereço de email
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '221'
 ht-degree: 7%
 
 ---

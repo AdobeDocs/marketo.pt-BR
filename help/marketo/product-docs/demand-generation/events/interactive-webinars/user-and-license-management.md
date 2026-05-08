@@ -3,9 +3,9 @@ description: Saiba mais sobre o gerenciamento de usuários e licenças para webi
 title: Gerenciamento de usuários e licenças
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 4%
 
 ---
@@ -102,9 +102,9 @@ Webinars interativos oferecem licenças específicas para criar eventos viabiliz
 
 * Toda vez que um evento é criado, ele é contado como &quot;consumido&quot; de sua respectiva licença (a menos que seja uma Licença de sala compartilhada). Será dada preferência à &quot;Licença de evento compartilhado&quot; se houver a &quot;Licença de evento compartilhado&quot; e a &quot;Licença de quarto compartilhado&quot; com a mesma capacidade. Se o evento não tiver sido entregue e o Programa de evento for excluído antes do horário agendado, a contagem de eventos será reposta. Se o evento não for entregue e o Programa de evento não for excluído antes do horário programado, o evento não será reposto.
 
-* O tipo &quot;Licença de Armazenamento Adicional&quot; apenas fornece armazenamento, portanto, o valor em cada campo _além de_ Capacidade de Armazenamento será listado simplesmente como &quot;-&quot;.
+* O tipo &quot;Licença de Armazenamento Adicional&quot; fornece somente armazenamento, portanto, o valor em cada campo _além de_ Capacidade de Armazenamento será listado como &quot;-&quot;.
 
-* O tipo &quot;Licença de quarto compartilhado&quot; tem eventos ilimitados e &quot;Licença de armazenamento adicional&quot; apenas fornece armazenamento, portanto, o campo Total de eventos para essas licenças será listado simplesmente como &quot;-&quot;.
+* O tipo &quot;Licença de quarto compartilhado&quot; tem eventos ilimitados e &quot;Licença de armazenamento adicional&quot; fornece somente armazenamento, portanto, o campo Total de eventos para essas licenças será listado como &quot;-&quot;.
 
 * Depois que uma licença for esgotada, seu bloco permanecerá na tela Webinars interativos na seção de Administrador com &quot;Total de eventos&quot; e &quot;Eventos consumidos&quot; tendo o mesmo valor. Somente quando a licença expirar ela será removida da tela.
 

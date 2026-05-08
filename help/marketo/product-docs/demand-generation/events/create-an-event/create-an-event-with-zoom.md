@@ -4,9 +4,9 @@ description: Saiba como criar um evento com Zoom no Marketo. Configure o Zoom in
 title: Criar um Evento com [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,9 @@ Insira as seguintes informações para seu webinário, que será extraído para 
 
 >[!TIP]
 >
->Você configurará outros campos no [!DNL Zoom] que NÃO afetarão a integração. Consulte a [[!DNL Zoom] Central de ajuda do webinário](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) para obter informações adicionais sobre esses campos.
+>Você configurará outros campos no [!DNL Zoom] que NÃO afetarão a integração. Consulte a [[!DNL Zoom] Central de Ajuda do Webinário](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) para obter informações adicionais sobre esses campos.
 
-Agora, vamos mergulhar no Marketo!
+Agora, prossiga para o Marketo.
 
 1. Selecione um evento. Clique em **[!UICONTROL Ações de Eventos]** e escolha **[!UICONTROL Configurações de Eventos]**.
 
@@ -81,7 +81,7 @@ Agora, vamos mergulhar no Marketo!
 
    ![](assets/eventsettingssave.png)
 
-   Excelente! Agora o evento é sincronizado e agendado por [!DNL Zoom].
+   O evento foi sincronizado e agendado por [!DNL Zoom].
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ Agora, vamos mergulhar no Marketo!
    >
    >Defina seu email de confirmação como **Operacional** para garantir que as pessoas que se registram e podem ter a assinatura cancelada ainda recebam suas informações de confirmação.
 
-   As pessoas que se inscreverem no seu webinário serão encaminhadas ao seu provedor do webinário através da etapa de fluxo **[!UICONTROL Alterar status do programa]** quando o [!UICONTROL Novo status] estiver definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Além disso, certifique-se de fazer a etapa de fluxo #1 do **[!UICONTROL Alterar status do programa]** e a etapa de fluxo #2 do **[!UICONTROL Enviar email]**.
+   As pessoas que se inscreverem no seu webinário serão encaminhadas ao seu provedor do webinário através da etapa de fluxo **[!UICONTROL Alterar status do programa]** quando o [!UICONTROL Novo status] estiver definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Além disso, faça a etapa de fluxo #1 **[!UICONTROL Alterar status do programa]** e a etapa de fluxo #2 **[!UICONTROL Enviar email]**.
 
    ![](assets/goto-webinar-1.png)
 

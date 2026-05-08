@@ -3,9 +3,9 @@ description: Saiba mais sobre como rotear reuniões e bate-papo ao vivo no Dynam
 title: Roteamento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Regra personalizada: você pode escolher agentes específicos para receber reuni
 
 ## Criar uma regra personalizada {#create-a-custom-rule}
 
-Neste exemplo, estamos enviando todas as reuniões dos estados inferidos de CA, OR e WA para o agente John.
+Neste exemplo, todas as reuniões dos estados inferidos de CA, OR e WA são encaminhadas para o agente John.
 
 1. Em Configuração, clique em **Regras de Roteamento**.
 
@@ -100,7 +100,7 @@ Identifique e faça upload da sua conta de público alvo e respectivos propriet�
 
 ### Adicionar uma conta {#add-an-account}
 
-Neste exemplo, direcionaremos todos os funcionários da Lego diretamente para o agente Steven.
+Neste exemplo, todos os funcionários da Lego são encaminhados diretamente ao agente Steven.
 
 1. Na guia Roteamento de Conta, clique em **+ Adicionar Conta**.
 

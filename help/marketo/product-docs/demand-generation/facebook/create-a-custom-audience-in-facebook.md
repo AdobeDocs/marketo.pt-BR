@@ -4,9 +4,9 @@ description: Saiba como criar um público-alvo personalizado no Facebook pelo Ma
 title: Criar um público-alvo personalizado no Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 3%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 3%
 
    >[!TIP]
    >
-   >Deseja trocar um novo público por um já existente que está associado a um conjunto de anúncios ou grupo? Marque a caixa de seleção **[!UICONTROL Substituir um público-alvo existente]**. Isso **não** excluirá o público-alvo que está sendo substituído.
+   >Para trocar um novo público por um público existente que esteja associado a um conjunto ou grupo de anúncios, marque a caixa de seleção **[!UICONTROL Substituir um público existente]**. Isso **não** excluirá o público-alvo que está sendo substituído.
 
 1. Quando terminar, a caixa de diálogo de status será atualizada.
 

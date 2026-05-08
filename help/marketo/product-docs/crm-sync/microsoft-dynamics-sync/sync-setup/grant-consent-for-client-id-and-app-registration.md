@@ -3,16 +3,16 @@ description: Saiba como conceder consentimento para a ID do cliente e o registro
 title: Conceder consentimento para a ID do cliente e o registro do aplicativo
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '293'
 ht-degree: 5%
 
 ---
 
 # Conceder consentimento para a ID do cliente e o registro do aplicativo {#grant-consent-for-client-id-and-app-registration}
 
-Siga as etapas abaixo para saber como conceder o consentimento/as permissões necessárias.
+Siga as etapas abaixo para saber como conceder o consentimento e as permissões necessárias.
 
 ## Conceder permissões de usuário delegado para o usuário de sincronização {#grant-delegated-user-permissions-for-the-sync-user}
 

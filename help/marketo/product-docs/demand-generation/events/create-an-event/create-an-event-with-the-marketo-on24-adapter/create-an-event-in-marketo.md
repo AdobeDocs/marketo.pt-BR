@@ -4,9 +4,9 @@ description: Saiba como criar um evento no Marketo para a integração ON24. Con
 title: Criar um evento no Marketo
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '151'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Um evento do Marketo rastreia a progressão de seus funcionários em um programa. Ele envia informações de registro e obtém informações de presença usando o adaptador ON24. O evento captura o status das pessoas à medida que elas avançam por ele.
 
-Veja como os dados são trocados:
+A seguir, é mostrado como os dados são trocados:
 
 ![](assets/image2015-12-16-13-33-56.png)
 

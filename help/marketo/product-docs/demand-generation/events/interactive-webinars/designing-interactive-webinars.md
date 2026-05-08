@@ -3,9 +3,9 @@ description: Saiba mais sobre como projetar webinários interativos no Marketo. 
 title: Criação de webinários interativos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Saiba como projetar seu webinário para atender às suas necessidades.
    >
    >* Sala é um espaço online usado para conduzir reuniões.
    >
-   >* Se você escolher uma Sala de Webinar existente e precisar renomeá-la, basta clicar no botão **Renomear Sala de Webinar** à direita.
+   >* Se você escolher uma Sala de Webinar existente e precisar renomeá-la, clique no botão **Renomear Sala de Webinar** à direita.
    >
    >* O menu suspenso mostra apenas as salas existentes que você criou anteriormente, não as de outros hosts.
 
@@ -50,7 +50,7 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 
    ![](assets/designing-interactive-webinars-5.png)
 
-1. Você pode refinar seu webinário imediatamente ou mais tarde. Vamos fazer isso agora. Clique Em **Refinar Seu Webinário Agora**.
+1. Você pode refinar seu webinário imediatamente ou mais tarde. Para continuar agora, clique em **Refinar seu webinário agora**.
 
    ![](assets/designing-interactive-webinars-6.png)
 
@@ -62,7 +62,7 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Para obter informações detalhadas sobre salas e modelos, verifique a seção &quot;Modelos e layouts de salas de reunião&quot; do [este artigo de ajuda do Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Para obter informações detalhadas sobre salas e modelos, consulte a seção &quot;Modelos e layouts de salas de reunião&quot; do [este artigo de ajuda do Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Quando terminar de criar o webinário, clique em **Sair da Sala**.
 
@@ -76,9 +76,9 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 
 **Pod**: um componente dentro de um modelo que executa uma atividade específica durante o webinário. Por exemplo, configurar e entregar uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser preenchida por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade entregue por meio do pod de chat. Vários outros pods estão disponíveis, como Compartilhamento, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e Perguntas e respostas.
 
-      **Pod de pesquisa**: permite que os hosts projetem e entreguem formulários de comentários estruturados diretamente em uma sessão em tempo real. O Pod de pesquisa estende os recursos existentes do pod de pesquisa, permitindo que várias perguntas sejam apresentadas juntas, oferecendo uma maneira mais simplificada e coesa de coletar insights dos participantes. [Saiba mais](https://helpx.adobe.com/br/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Pod de pesquisa**: permite que os hosts projetem e entreguem formulários de comentários estruturados diretamente em uma sessão em tempo real. O Pod de pesquisa estende os recursos existentes do pod de pesquisa, permitindo que várias perguntas sejam apresentadas juntas, oferecendo uma maneira mais simplificada e coesa de coletar insights dos participantes. [Saiba mais](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Pod de recursos**: substitui os pods de arquivos e links da Web anteriores, fornecendo uma maneira única e unificada de compartilhar recursos durante as sessões ativas. [Saiba mais](https://helpx.adobe.com/br/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Pod de recursos**: substitui os pods de arquivos e links da Web anteriores, fornecendo uma maneira única e unificada de compartilhar recursos durante as sessões ativas. [Saiba mais](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

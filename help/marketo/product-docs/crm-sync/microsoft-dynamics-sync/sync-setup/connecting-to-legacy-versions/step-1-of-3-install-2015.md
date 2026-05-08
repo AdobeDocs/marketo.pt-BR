@@ -4,10 +4,10 @@ description: Saiba como instalar a solução Marketo para Dynamics 2015 no local
 title: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 1 de 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 1%
+source-wordcount: '313'
+ht-degree: 0%
 
 ---
 
@@ -87,7 +87,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 2015 No Local com o Marketo, é
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   Bom trabalho! A instalação foi concluída.
+   A instalação está concluída.
 
    >[!CAUTION]
    >

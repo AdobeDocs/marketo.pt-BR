@@ -4,16 +4,16 @@ description: Saiba mais sobre um exemplo de integração de eventos ON24 com o M
 title: Exemplo de integração de evento do ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '398'
 ht-degree: 2%
 
 ---
 
 # Exemplo de integração de evento do ON24 {#example-on-event-integration}
 
-Este é um evento de amostra, incluindo campanhas, para um webinário ON24. Ao criar seu evento, certifique-se de testar suas campanhas antes de executá-las.
+Veja a seguir um exemplo de evento, incluindo campanhas, para um webinário ON24. Ao criar o evento, teste as campanhas antes de executá-las.
 
 ## Criar um novo evento em atividades de marketing {#create-a-new-event-in-marketing-activities}
 
@@ -55,7 +55,7 @@ Este é um evento de amostra, incluindo campanhas, para um webinário ON24. Ao c
 
 * **Lista Inteligente**
 
-   * Acione a campanha com base no **[!UICONTROL Formulário de Preenchimento]**. Certifique-se de incluir a página de aterrissagem em que o formulário está usando **[!UICONTROL Adicionar restrição]**, especialmente se o formulário for usado em várias páginas de aterrissagem.
+   * Acione a campanha com base no **[!UICONTROL Formulário de Preenchimento]**. Inclua a página de aterrissagem em que o formulário está usando **[!UICONTROL Adicionar restrição]**, especialmente se o formulário for usado em várias páginas de aterrissagem.
 
 >[!CAUTION]
 >

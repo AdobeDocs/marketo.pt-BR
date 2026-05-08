@@ -3,7 +3,7 @@ description: Saiba como editar campos para sincronização no Marketo antes de e
 title: Editar campos para sincronização antes de excluí-los no Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 4%
@@ -44,4 +44,4 @@ ht-degree: 4%
 >
 >Se a Sincronização não for interrompida antes da exclusão de um campo em [!DNL Dynamics], a sincronização poderá encontrar erros. Se isso acontecer, a sincronização será interrompida. Antes de continuar, o Administrador do Marketo precisaria revisar &quot;[!UICONTROL Selecionar campos para sincronização]&quot; (discutido acima) e clicar em **[!UICONTROL Salvar]** para que a sincronização aceite as alterações do esquema.
 
-Lembre-se de ativar a sincronização depois que as alterações forem salvas!
+Lembre-se de ativar a sincronização depois que as alterações forem salvas.

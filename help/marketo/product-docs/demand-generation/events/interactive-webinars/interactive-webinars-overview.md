@@ -3,20 +3,20 @@ description: Saiba mais sobre os webinários interativos no Marketo para envolvi
 title: Visão geral dos webinários interativos
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 92%
+source-wordcount: '555'
+ht-degree: 87%
 
 ---
 
 # Visão geral dos webinários interativos {#interactive-webinars-overview}
 
-O recurso de webinários interativos é a nossa plataforma de webinários integrada ao Marketo Engage. Não são necessárias ferramentas nem integrações adicionais.
+O recurso Webinars interativos é a plataforma de webinário integrada no Marketo Engage. Não são necessárias ferramentas nem integrações adicionais.
 
 >[!IMPORTANT]
 >
->Os webinários interativos viabilizados pelo Adobe Connect são um recurso com integração incorporada ao Adobe Connect. O uso de webinários interativos está sujeito a termos e condições adicionais. Consulte o seu contrato ou [entre em contato com a Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para saber mais sobre os termos e condições adicionais.
+>Os webinários interativos viabilizados pelo Adobe Connect são um recurso com integração incorporada ao Adobe Connect. O uso de webinários interativos está sujeito a termos e condições adicionais. Revise seu contrato ou [contate a Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para saber sobre os termos e condições adicionais.
 
 ## O que são webinários interativos? {#what-is-interactive-webinars}
 
@@ -54,7 +54,7 @@ Se o campo “nome” do lead estiver em branco, ele não pode se registrar no w
 
 **Estou com problemas de áudio/vídeo ao apresentar um webinário enquanto acesso a VPN da minha organização. O que faço?**
 
-O Adobe Connect, a plataforma de realização de webinários interativos, usa o WebRTC para compartilhamento de áudio/vídeo/tela. É provável que o firewall de rede da sua organização esteja bloqueando os endereços IP/portas que usamos para a comunicação baseada em WebRTC. A sua equipe de TI precisa permitir que essas portas funcionem para o WebRTC. [Saiba mais](https://helpx.adobe.com/br/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
+O Adobe Connect, a plataforma de realização de webinários interativos, usa o WebRTC para compartilhamento de áudio/vídeo/tela. É provável que o firewall de rede da sua organização esteja bloqueando os endereços IP e as portas usadas para a comunicação baseada em WebRTC. A sua equipe de TI precisa permitir que essas portas funcionem para o WebRTC. [Saiba mais](https://helpx.adobe.com/br/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **Os meus webinários interativos são gravados automaticamente?**
 

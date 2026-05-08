@@ -4,20 +4,20 @@ description: Saiba como testar a integração do Facebook Lead Ads para disposit
 title: Testar os anúncios de lead do Facebook para a integração móvel com o Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '221'
 ht-degree: 4%
 
 ---
 
 # Anúncios de clientes potenciais do teste [!DNL Facebook] para integração móvel com o Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
-Depois de criar seu anúncio de cliente potencial, você deve testá-lo!
+Depois de criar seu anúncio de cliente potencial, você deve testá-lo.
 
 >[!PREREQUISITES]
 >
->Você deve [Configurar a [!UICONTROL Integração dos &#x200B;] dos Anúncios de cliente potencial do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>Você deve [Configurar a [!UICONTROL Integração dos ] dos Anúncios de cliente potencial do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. No [!UICONTROL Facebook Power Editor], selecione uma campanha, um anúncio e clique em **[!UICONTROL Editar]**.
 
@@ -43,9 +43,9 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo!
 
    >[!NOTE]
    >
-   >Este é apenas um exemplo, que usa uma Saiba mais Call to action. O Call to action da sua unidade de anúncio principal pode ser diferente.
+   >Este é um exemplo que usa uma Saiba mais no Call to action. O Call to action da sua unidade de anúncio principal pode ser diferente.
 
-1. É aqui que a magia acontece! Depois de enviar o formulário, [crie uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados de clientes potenciais que usa o **[!UICONTROL Formulário de Anúncios de Clientes Potenciais do Facebook]** preenchido. Insira o Nome do formulário do anúncio de cliente potencial do formulário que acabou de enviar.
+1. Depois de enviar o formulário, [crie uma lista inteligente no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) como parte de um programa ou no banco de dados de clientes potenciais que usa o **[!UICONTROL Formulário de Anúncios de Clientes Potenciais do Facebook Preenchido]**. Insira o Nome do formulário do anúncio de cliente potencial do formulário enviado.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -53,8 +53,6 @@ Depois de criar seu anúncio de cliente potencial, você deve testá-lo!
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-Isso é legal ou o quê?
-
 >[!NOTE]
 >
->[Habilitar/Desabilitar [!UICONTROL Anúncios De Cliente Potencial Do Facebook]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Configurar [!UICONTROL Anúncios De Cliente Potencial Do Facebook]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

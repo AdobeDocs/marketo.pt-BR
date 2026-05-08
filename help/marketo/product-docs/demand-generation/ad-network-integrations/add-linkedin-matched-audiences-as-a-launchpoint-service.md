@@ -4,9 +4,9 @@ description: Saiba como adicionar públicos correspondentes do LinkedIn como um 
 title: Adicionar [!DNL LinkedIn] Públicos-alvo Correspondentes como um [!DNL LaunchPoint] Serviço
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '225'
 ht-degree: 3%
 
 ---
@@ -59,7 +59,7 @@ Conecte sua conta do Marketo com [!DNL LinkedIn] Públicos-alvo correspondentes 
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Fantástico! Agora você verá [!DNL LinkedIn] Públicos-alvo correspondentes listados como um serviço [!DNL LaunchPoint] na guia Serviços instalados.
+   [!DNL LinkedIn] Públicos-alvo correspondentes agora estão listados como um serviço [!DNL LaunchPoint] na guia Serviços instalados.
 
    ![](assets/bartholomew2.png)
 

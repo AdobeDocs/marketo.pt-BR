@@ -3,16 +3,16 @@ description: Saiba como configurar a API incorporada do Adobe PDF para o cartão
 title: API incorporada do Adobe PDF
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '159'
 ht-degree: 5%
 
 ---
 
 # API incorporada do Adobe PDF {#adobe-pdf-embed-api}
 
-O cartão Documento permite incorporar documentos do PDF em caixas de diálogo e rastrear a atividade de engajamento de documentos dos visitantes. Veja como configurar isso.
+O cartão Documento permite incorporar documentos do PDF em caixas de diálogo e rastrear a atividade de engajamento de documentos dos visitantes. Siga estas etapas para configurá-lo.
 
 1. Navegue até [API Incorporada do Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
@@ -30,7 +30,7 @@ O cartão Documento permite incorporar documentos do PDF em caixas de diálogo e
 
    >[!IMPORTANT]
    >
-   >Você precisará usar o domínio em que hospedará o chatbot (por exemplo, se estiver hospedando o chatbot em mycompany.com, verifique se inseriu isso na Etapa 4).
+   >Você precisará usar o domínio em que hospedará o chatbot (por exemplo, se estiver hospedando o chatbot em mycompany.com, insira esse domínio na Etapa 4).
 
 1. Clique em **[!UICONTROL Copiar]** para copiar a ID do cliente.
 
@@ -44,4 +44,4 @@ O cartão Documento permite incorporar documentos do PDF em caixas de diálogo e
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-Agora você pode usar o cartão Documento em suas [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} das caixas de diálogo!
+Agora você pode usar o cartão Documento na [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} das caixas de diálogo.

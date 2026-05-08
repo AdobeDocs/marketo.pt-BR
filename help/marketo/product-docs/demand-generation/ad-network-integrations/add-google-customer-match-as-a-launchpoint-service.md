@@ -4,9 +4,9 @@ description: Saiba como adicionar o Google Customer Match como um serviço Launc
 title: Adicionar a Correspondência de Cliente do Google as a [!DNL LaunchPoint] Service
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 3%
 
 ---
@@ -55,7 +55,7 @@ Com essa integração, você pode enviar um público-alvo do Marketo para o Goog
 
    ![](assets/authorizesuccess.png)
 
-   Fantástico! Agora você verá o Google Matched Audiences listado como um serviço [!DNL LaunchPoint] na guia Serviços instalados.
+   O Google Matched Audiences agora está listado como um serviço [!DNL LaunchPoint] na guia Serviços instalados.
 
 >[!NOTE]
 >

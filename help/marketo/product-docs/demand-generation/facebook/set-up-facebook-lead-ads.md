@@ -4,9 +4,9 @@ description: Saiba como configurar o Facebook Lead Ads com o Marketo. Conecte su
 title: Configurar anúncios de lead no Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---
@@ -19,11 +19,11 @@ Use os [Anúncios de cliente potencial do Facebook](https://www.facebook.com/bus
 >
 >* **Permissões de administrador são necessárias**
 >
->* Ao criar formulários do Facebook Lead Ads, certifique-se de que o nome do formulário não contenha apenas caracteres numéricos. O nome do formulário deve ser alfabético ou alfanumérico.
+>* Ao criar formulários do Facebook Lead Ads, verifique se o nome do formulário não contém apenas caracteres numéricos. O nome do formulário deve ser alfabético ou alfanumérico.
 
 >[!AVAILABILITY]
 >
->Para adicionar anúncios em potencial do Facebook à sua instância, entre em contato com a Equipe de conta da Adobe (seu gerente de conta).
+>Para adicionar anúncios de lead do Facebook à sua instância, entre em contato com a Equipe de conta da Adobe (seu gerente de conta).
 
 1. No Marketo Engage, vá para a área **Administrador**.
 
@@ -65,7 +65,7 @@ Use os [Anúncios de cliente potencial do Facebook](https://www.facebook.com/bus
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Para aceitar o padrão [!DNL Facebook] para mapeamentos de campo do Marketo, basta clicar em **[!UICONTROL Criar]**.
+1. Para aceitar o padrão [!DNL Facebook] para mapeamentos de campos do Marketo, clique em **[!UICONTROL Criar]**.
 
    >[!TIP]
    >
@@ -77,7 +77,7 @@ Use os [Anúncios de cliente potencial do Facebook](https://www.facebook.com/bus
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Muito bem! Os clientes potenciais começarão a fluir para a Marketo à medida que você executar [!DNL Facebook] campanhas de anúncios de clientes potenciais bem-sucedidas.
+   Os clientes potenciais começarão a fluir para a Marketo à medida que você executar [!DNL Facebook] campanhas de anúncios de clientes potenciais bem-sucedidas.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

@@ -4,16 +4,16 @@ description: Saiba como conectar a solução Marketo ao Dynamics 365 com conexã
 title: Etapa 3 de 3 - Conectar a solução da Marketo com conexão de servidor a servidor
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 3%
+source-wordcount: '479'
+ht-degree: 4%
 
 ---
 
 # Etapa 3 de 3: Conectar a solução da Marketo com conexão de servidor a servidor {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
-Esta é a última etapa da sincronização. Estamos quase lá!
+Esta é a etapa final da sincronização.
 
 >[!PREREQUISITES]
 >
@@ -52,7 +52,7 @@ Esta é a última etapa da sincronização. Estamos quase lá!
 
    >[!CAUTION]
    >
-   >Verifique se o URL da organização está correto, pois não é possível reverter as alterações subsequentes no esquema após o envio. Se um URL de organização incorreto for usado, será necessário obter uma nova assinatura do Marketo. Se você não souber a URL, [saiba como encontrá-la aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
+   >Verifique se o URL da organização está correto. As alterações subsequentes no esquema não podem ser revertidas após o envio. Se um URL de organização incorreto for usado, uma nova assinatura do Marketo será necessária. Se você não souber a URL, [saiba como encontrá-la aqui](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}.
 
 1. Insira as informações do Usuário de sincronização [!DNL Dynamics] e clique em **[!UICONTROL Salvar]** quando terminar.
 
@@ -78,7 +78,7 @@ Esta é a última etapa da sincronização. Estamos quase lá!
 
 ## Sincronizar campos para um filtro personalizado {#sync-fields-for-a-custom-filter}
 
-Se você criou um filtro personalizado, selecione os novos campos que serão sincronizados com o Marketo.
+Se você criou um filtro personalizado, acesse e selecione os novos campos que serão sincronizados com o Marketo.
 
 1. Vá para [!UICONTROL Admin] e selecione **[!UICONTROL Microsoft Dynamics]**.
 

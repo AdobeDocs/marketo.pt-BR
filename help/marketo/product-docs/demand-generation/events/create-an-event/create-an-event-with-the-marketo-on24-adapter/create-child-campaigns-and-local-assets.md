@@ -4,9 +4,9 @@ description: Saiba como criar campanhas filho e ativos locais para eventos ON24 
 title: Criar campanhas secundárias e ativos locais
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '688'
 ht-degree: 3%
 
 ---
@@ -65,7 +65,7 @@ Exemplos de campanhas filho são uma campanha por convite, uma campanha de regis
 **Registro/Confirmação (Campanha de Gatilho)**
 
 * Lista inteligente
-* Acionar com base em **Preenche o Formulário**. Certifique-se de incluir a página de aterrissagem em que o formulário está usando **Adicionar restrição**, especialmente se o mesmo formulário for usado em várias páginas de aterrissagem.
+* Acionar com base em **Preenche o Formulário**. Inclua a página de aterrissagem em que o formulário está usando **Adicionar restrição**, especialmente se o mesmo formulário for usado em várias páginas de aterrissagem.
 
 >[!CAUTION]
 >

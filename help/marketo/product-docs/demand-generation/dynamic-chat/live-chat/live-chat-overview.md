@@ -3,9 +3,9 @@ description: Saiba mais sobre o bate-papo ao vivo para conversas em tempo real e
 title: Visão geral do chat ao vivo
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '916'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ O bate-papo ao vivo permite que os visitantes do site se envolvam em conversas d
 
 >[!NOTE]
 >
->Para aqueles que estão no pacote Dynamic Chat Select, o chat ao vivo é um recurso de avaliação com um limite de vida útil de 100 envolvimentos. Quando esse limite é atingido, os visitantes que solicitarem o chat com um agente ao vivo não serão conectados e receberão a mensagem de fallback global. Para aumentar o limite, entre em contato com o representante de conta da Adobe para saber mais sobre as opções de atualização do pacote.
+>Para aqueles que estão no pacote Dynamic Chat Select, o chat ao vivo é um recurso de avaliação com um limite de vida útil de 100 envolvimentos. Quando esse limite é atingido, os visitantes que solicitarem o chat com um agente ao vivo não serão conectados e receberão a mensagem de fallback global. Para aumentar o limite, entre em contato com o representante de conta da Adobe para discutir sobre as opções de atualização do pacote.
 
 ## Adicionar agentes de bate-papo ao vivo {#add-live-chat-agents}
 
@@ -41,7 +41,7 @@ Use o cartão de chat ao vivo no [Stream do Designer](/help/marketo/product-docs
 ### Práticas recomendadas {#best-practices}
 
 * Use um cartão de perguntas antes do cartão de chat ao vivo perguntando ao visitante se ele deseja se conectar.
-* Depois que o visitante concordar em se conectar, use o cartão de captura de informações para coletar algumas de suas informações, como nome/sobrenome, endereço de email, cargo etc. (é recomendável solicitar pelo menos o nome e o endereço de email).
+* Depois que o visitante concordar em se conectar, use o cartão de captura de informações para coletar algumas de suas informações, como nome, sobrenome, endereço de email, cargo etc. (é recomendável solicitar pelo menos o nome e o endereço de email).
 
 ## Opções de Cartão de Bate-papo ao Vivo {#live-chat-card-options}
 
@@ -94,7 +94,7 @@ Se os agentes não receberem notificações do navegador mesmo depois de permiti
 
 ### Quando um bate-papo ao vivo é roteado para um agente {#when-a-live-chat-is-routed-to-an-agent}
 
-Quando um chat ao vivo for roteado para um agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite, bem como um som de notificação para ajudar a evitar notificações perdidas.
+Quando um chat ao vivo é roteado para um agente, ele verá um banner azul na parte superior da tela pedindo que ele aceite, bem como um som de notificação para ajudar a evitar notificações perdidas.
 
 ![](assets/live-chat-overview-3.png)
 
@@ -115,7 +115,7 @@ Quando uma ação, como uma reserva de reunião ou um chat ao vivo, falha, os us
 
 * Os agentes têm 100 segundos para responder antes que a mensagem &quot;Accept chat&quot; expire. Depois disso, os visitantes receberão a [mensagem de fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Para assinantes do Dynamic Chat Prime que têm a opção de roteamento definida como **Equipe**, haverá mais uma tentativa antes que a mensagem de fallback seja exibida.
 * No momento, há um limite de 10 bate-papos ao vivo por agente.
-* A Caixa de entrada do agente é apenas para conversas de bate-papo ao vivo. Se o bate-papo não for aceito por um agente, ele não aparecerá na Caixa de entrada do agente, pois não se qualifica como um bate-papo ao vivo.
+* A Caixa de entrada do agente é exclusivamente para conversas de bate-papo ao vivo. Se o bate-papo não for aceito por um agente, ele não aparecerá na Caixa de entrada do agente, pois não se qualifica como um bate-papo ao vivo.
 * A guia Conversation exibe toda a conversa, tanto em tempo real quanto em chat automatizado. Portanto, se uma conversa não for aceita pelo agente, ela será listada na guia Conversação. Há um atraso de até 24 horas na guia Conversação, pois não é em tempo real. A Caixa de entrada do agente, no entanto, é em tempo real.
 * Se não houver atividade de chat após 10 minutos (pelo agente ou visitante), o chat expirará.
 * Se um agente alterar a imagem de perfil (no account.adobe.com) _durante_ um Chat ao Vivo, o visitante ainda verá a imagem antiga até o fim do chat. O visitante verá a nova imagem na próxima vez que conversar e obter esse agente.

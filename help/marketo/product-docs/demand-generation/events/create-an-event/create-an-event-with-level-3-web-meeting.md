@@ -4,9 +4,9 @@ description: Saiba como criar um evento com a Reunião na Web de Nível 3 no Mar
 title: Criar um Evento com [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 >* [Criar um Novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Definir as [ações de fluxo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)apropriadas para rastrear o envolvimento
 
-Primeiro, crie seu Webinar no [!DNL Level 3]. Se precisar de ajuda, confira a [[!DNL Level 3] Biblioteca de Recursos](https://www.level3.com/en/resource-library/). Você o considerará muito semelhante a [!DNL BrightTalk].  O Marketo usa um pequeno subconjunto de [!DNL Level 3] campos:
+Primeiro, crie seu Webinar no [!DNL Level 3]. Se precisar de ajuda, consulte a [[!DNL Level 3] Biblioteca de Recursos](https://www.level3.com/en/resource-library/). É muito semelhante a [!DNL BrightTalk].  O Marketo usa um pequeno subconjunto de [!DNL Level 3] campos:
 
 * **Nome** - O nome do webcast.
 * **Data de início** - A data de início do webcast.
@@ -47,10 +47,10 @@ Primeiro, crie seu Webinar no [!DNL Level 3]. Se precisar de ajuda, confira a [[
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
-   Excelente! Você conectou seu evento ao [!DNL Level 3]!
+   O evento está agora conectado a [!DNL Level 3].
 
 ## Exibição do Agendamento  {#viewing-the-schedule}
 
-Na exibição de cronograma do programa, clique na entrada de calendário do evento. Você pode ver o cronograma no lado direito da tela!
+Na exibição de cronograma do programa, clique na entrada de calendário do evento. Você pode ver o cronograma no lado direito da tela.
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)

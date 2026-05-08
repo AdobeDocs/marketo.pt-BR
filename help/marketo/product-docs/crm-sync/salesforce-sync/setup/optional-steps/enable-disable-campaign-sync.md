@@ -4,10 +4,10 @@ description: Saiba como ativar ou desativar a sincronização de campanha do Sal
 title: Habilitar/desabilitar sincronização de campanha
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 8%
+source-wordcount: '85'
+ht-degree: 9%
 
 ---
 
@@ -31,7 +31,7 @@ Essa opção permite que o Marketo Engage sincronize sua associação e status d
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-É isso aí. Dê à sincronização algum tempo para obter os dados do Salesforce e você está pronto para começar.
+A sincronização pode levar algum tempo para obter os dados do Salesforce.
 
 >[!MORELIKETHIS]
 >

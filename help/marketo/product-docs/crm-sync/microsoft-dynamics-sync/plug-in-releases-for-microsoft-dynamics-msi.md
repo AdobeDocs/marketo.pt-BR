@@ -4,9 +4,9 @@ description: Saiba mais sobre lançamentos de plug-ins do Microsoft Dynamics MSI
 title: Versões de plug-in para  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 12%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 Ao sincronizar pela primeira vez com o [!DNL Microsoft Dynamics], você baixará e instalará a versão mais recente dos plug-ins para o Marketo Sales Insight (MSI). Periodicamente, o Marketo atualiza esses plug-ins para que você possa retornar ao mesmo lugar para baixar a nova versão.
 
-Se você estiver usando a solução de sincronização nativa do CRM da Marketo para [!DNL Dynamics], [baixe o plug-in mais recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondente à sua versão [!DNL Dynamics]. Para aqueles que têm uma sincronização personalizada e compraram o Marketo Sales Insight, o [pacote está aqui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Se você estiver usando a solução de sincronização nativa do CRM da Marketo para [!DNL Dynamics], [baixe o plug-in mais recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondente à sua versão do [!DNL Dynamics]. Para aqueles que têm uma sincronização personalizada e compraram o Marketo Sales Insight, o [pacote está aqui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Se você estiver usando a solução de sincronização nativa do CRM da Marketo 
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. Após uma importação bem-sucedida, você verá duas soluções MSI: MarketoSalesInsight e MarketoSalesInsight_Upgrade. Selecione a solução mais antiga e clique em Aplicar atualização da solução.
+1. Após uma importação bem-sucedida, duas soluções MSI serão exibidas: MarketoSalesInsight e MarketoSalesInsight_Upgrade. Selecione a solução mais antiga e clique em Aplicar atualização da solução.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 

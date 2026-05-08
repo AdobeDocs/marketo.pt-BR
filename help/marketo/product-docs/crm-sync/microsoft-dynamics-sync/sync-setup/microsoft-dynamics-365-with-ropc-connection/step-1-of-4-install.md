@@ -3,10 +3,10 @@ description: Saiba como instalar a solução Marketo no Dynamics 365 com conexã
 title: Etapa 1 de 4 - Instalar a Solução da Marketo com a Conexão de Controle de Senha do Proprietário do Recurso
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 4%
+source-wordcount: '311'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 365 e o Marketo, é necessário
 >[!CAUTION]
 >
 >* Não habilite a sincronização de entidade personalizada antes que a sincronização inicial seja concluída. Você será notificado por email quando a sincronização inicial for concluída.
->* Se a Autenticação Multifator (MFA) estiver habilitada para a Sincronização do [!DNL Dynamics], você deverá desabilitá-la para que o [!DNL Dynamics] seja sincronizado corretamente com o Marketo. Para obter informações adicionais, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>* Se a Autenticação Multifator (MFA) estiver habilitada para a Sincronização do [!DNL Dynamics], você deverá desabilitá-la para que o [!DNL Dynamics] seja sincronizado corretamente com o Marketo. Para obter mais informações, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 365 e o Marketo, é necessário
    >
    >Você precisará ativar os pop-ups no seu navegador para concluir o processo de instalação.
 
-1. Agora aguarde a conclusão da importação. Levante-se e faça alguns alongamentos.
+1. Agora aguarde a conclusão da importação.
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -87,7 +87,7 @@ Antes de sincronizar o [!DNL Microsoft Dynamics] 365 e o Marketo, é necessário
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   Bom trabalho! A instalação foi concluída.
+   A instalação está concluída.
 
    >[!MORELIKETHIS]
    >

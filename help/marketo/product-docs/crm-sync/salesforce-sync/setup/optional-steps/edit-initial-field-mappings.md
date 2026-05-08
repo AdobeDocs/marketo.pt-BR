@@ -4,9 +4,9 @@ description: Saiba como editar os mapeamentos de campo iniciais antes da primeir
 title: Editar mapeamentos de campo iniciais
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '297'
 ht-degree: 3%
 
 ---
@@ -59,7 +59,7 @@ Se você tiver campos nomeados de forma semelhante no cliente potencial e no obj
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   Legal! Você está quase terminando a sincronização inicial.
+   Você está quase terminando a sincronização inicial.
 
 ## Redefinir esquema {#reset-schema}
 

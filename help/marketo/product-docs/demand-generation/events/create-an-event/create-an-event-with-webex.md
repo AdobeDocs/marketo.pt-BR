@@ -4,9 +4,9 @@ description: Saiba como criar um evento com Webex no Marketo. Configure a integr
 title: Criar um Evento com [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '651'
 ht-degree: 1%
 
 ---
@@ -40,8 +40,8 @@ Você agenda seu evento e escolhe suas configurações preferidas na [Webex](htt
 
 ![](assets/create-an-event-with-webex-2.png)
 
-* **Senha do webinário**: (opcional) se você usar este campo, certifique-se de incluí-lo no email de confirmação.
-* **Senha da lista de painéis**: (opcional) se você usar este campo, certifique-se de incluí-lo na sua agenda de webinários.
+* **Senha do webinário**: (opcional) Se você usar este campo, inclua-o no email de confirmação.
+* **Senha da lista de painéis**: (opcional) Se você usar este campo, inclua-o na sua agenda de webinários.
 * **Exigir conta**: limita os participantes somente àqueles que possuem contas Webex.
 
 ### Opções de Conexão de Áudio {#audio-connection-options}
@@ -95,10 +95,10 @@ Você agenda seu evento e escolhe suas configurações preferidas na [Webex](htt
 
    ![](assets/create-an-event-with-webex-9.png)
 
-Seu evento Webex agora está sincronizado com seu Programa de evento do Marketo. As pessoas que se inscreverem no webinário serão encaminhadas ao seu provedor de webinário através da etapa de fluxo _Alterar status do programa_ quando o novo status estiver definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Certifique-se de marcar a etapa de fluxo #1 do _Alterar Status do Programa_ e a etapa de fluxo #2 do _Enviar Email_.
+Seu evento Webex agora está sincronizado com seu Programa de evento do Marketo. As pessoas que se inscreverem no webinário serão encaminhadas ao seu provedor de webinário através da etapa de fluxo _Alterar status do programa_ quando o novo status estiver definido como &quot;Registrado&quot;. Nenhum outro status enviará a pessoa. Faça com que a etapa de fluxo #1 _Alterar Status do Programa_ e a etapa de fluxo #2 _Enviar Email_.
 
 ## Itens a Observar {#things-to-note}
 
 * Evite usar Programas de email aninhados para enviar emails de confirmação. Em vez disso, use a Campanha inteligente do programa de evento.
 
-* Pode levar até 48 horas para que os dados sejam exibidos no Marketo. Se, após esse tempo de espera, você ainda não vir nada, clique em **Atualizar do Provedor de Webinar** na lista suspensa **Ações de Evento**, na guia **Resumo** do seu Programa de Eventos.
+* Pode levar até 48 horas para que os dados sejam exibidos no Marketo. Se, após esse tempo de espera, você ainda não vir nada, clique em **Atualizar do Provedor de Webinar** na lista suspensa **Ações de Evento**, na guia **Resumo** do seu Programa de Evento.

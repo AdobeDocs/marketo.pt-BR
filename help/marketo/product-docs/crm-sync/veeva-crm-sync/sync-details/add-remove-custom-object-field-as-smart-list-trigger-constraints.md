@@ -3,7 +3,7 @@ description: Saiba como adicionar ou remover campos de objeto personalizados do 
 title: Adicionar/remover campo de objeto personalizado como restrições de lista inteligente/acionador
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 11%
@@ -52,7 +52,7 @@ O Marketo Engage fornece controle específico sobre a sincronização de objetos
 
 >[!IMPORTANT]
 >
->Não se esqueça de reativar a sincronização global.
+>Lembre-se de reativar a sincronização global.
 
 Agora, suas Smart Lists e Campanhas inteligentes têm ainda mais poder.
 

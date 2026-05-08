@@ -3,9 +3,9 @@ description: Saiba como enviar uma lista estática do Marketo para o Google para
 title: Enviar uma lista para o Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -36,7 +36,7 @@ Para aqueles que usam o Google Customer Match, siga as etapas abaixo para enviar
 
    >[!NOTE]
    >
-   >* Selecionar **Manter a associação de público-alvo em sincronia** mantém a lista atualizada conforme ela muda na sua instância. Adicionamos/removemos pessoas do público-alvo quando são adicionadas/removidas da lista estática.
+   >* Selecionar **Manter a associação de público-alvo em sincronia** mantém a lista atualizada conforme ela muda na sua instância. A associação de público-alvo é atualizada quando as pessoas são adicionadas ou removidas da lista estática.
    >
    >* Marcar a caixa de seleção na parte inferior envia o status de consentimento como CONCEDIDO para dados do usuário enviados ao Google Ads para fins de publicidade e personalização de anúncios. Deixá-la desmarcada envia o status de consentimento como NÃO ESPECIFICADO. Para aqueles que planejam carregar dados para usuários no Espaço Econômico Europeu (EEA), a Google elaborou uma lista de [Perguntas frequentes](https://support.google.com/google-ads/answer/14310715){target="_blank"}, bem como detalhes adicionais descrevendo a [política de consentimento do usuário da EU](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 

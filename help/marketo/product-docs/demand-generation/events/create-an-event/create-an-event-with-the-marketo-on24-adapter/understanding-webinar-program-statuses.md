@@ -4,9 +4,9 @@ description: Saiba mais sobre os status do programa de webinário na integraçã
 title: Noções básicas sobre os status do programa de webinário
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '426'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Os status do programa representam os diferentes status de evento pelos quais uma
 
 As pessoas passam pelos status do programa de forma linear e não voltam ao status. Por exemplo, uma pessoa com o status **Participou** não pode voltar para **Registrado**.
 
-Aqui está uma breve descrição dos status do programa associados ao canal do webinário.
+Veja a seguir uma breve descrição dos status do programa associados ao canal do webinário.
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ Aqui está uma breve descrição dos status do programa associados ao canal do w
 
 >[!NOTE]
 >
->Para que o Marketo obtenha o status Não Mostrar, as pessoas devem ter sido registradas *no Marketo*. Não é possível capturar Nenhum programa que vem do feed de dados On24.
+>Para que o Marketo obtenha o status Não Mostrar, as pessoas devem ter sido registradas *no Marketo*. Não é possível capturar nenhuma exibição que vem do feed de dados On24.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Saiba como registrar um aplicativo no Azure para obter a sincroniza
 title: Registrar um aplicativo com o Azure para adquirir a ID do cliente/ID do aplicativo
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '355'
 ht-degree: 6%
 
 ---
@@ -84,6 +84,5 @@ O Azure Ative Diretory estende seus diretórios locais na nuvem, fornecendo supo
 
    ![](assets/fourteen.png)
 
-   E pronto!
 
    ![](assets/fifteen.png)

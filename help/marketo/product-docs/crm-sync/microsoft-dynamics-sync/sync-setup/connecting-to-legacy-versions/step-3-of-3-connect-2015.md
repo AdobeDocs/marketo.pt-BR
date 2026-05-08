@@ -4,9 +4,9 @@ description: Saiba como conectar o Marketo ao Dynamics 2015 no local na etapa fi
 title: Instalar o Marketo para Microsoft Dynamics 2015 no local Etapa 3 de 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 4%
 
    >[!CAUTION]
    >
-   >Verifique se suas credenciais estão corretas, pois não é possível reverter as alterações subsequentes no esquema após o envio. Se credenciais incorretas forem salvas, será necessário obter uma nova assinatura do Marketo.
+   >Verifique se suas credenciais estão corretas. As alterações subsequentes no esquema não podem ser revertidas após o envio. Se credenciais incorretas forem salvas, uma nova assinatura do Marketo será necessária.
 
 1. Insira o **[!UICONTROL Nome de Usuário]**, **[!UICONTROL Senha]**, [!DNL Microsoft Dynamics] **URL** e uma **[!UICONTROL Id de Cliente]/[!UICONTROL Segredo do Cliente]**. Clique em **[!UICONTROL Salvar]** quando terminar.
 
@@ -74,7 +74,7 @@ ht-degree: 4%
 
 ## Sincronizar campos para um filtro personalizado {#sync-fields-for-a-custom-filter}
 
-Se você criou um filtro personalizado, selecione os novos campos que serão sincronizados com o Marketo.
+Se você criou um filtro personalizado, acesse e selecione os novos campos que serão sincronizados com o Marketo.
 
 1. Vá para [!UICONTROL Admin] e selecione **[!UICONTROL Microsoft Dynamics]**.
 

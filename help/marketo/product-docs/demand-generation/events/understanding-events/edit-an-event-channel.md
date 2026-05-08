@@ -4,9 +4,9 @@ description: Saiba como editar um canal de evento no Marketo. Atualize o tipo de
 title: Editar um canal de evento
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---
@@ -65,4 +65,4 @@ Um novo tipo de canal também pode ser atribuído na guia **[!UICONTROL Configur
 
    ![](assets/2017-06-13-09-35-53.png)
 
-Parabéns! Você acabou de editar um canal!
+O canal foi editado.

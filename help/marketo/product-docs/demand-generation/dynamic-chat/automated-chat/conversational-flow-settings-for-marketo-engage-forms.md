@@ -3,7 +3,7 @@ description: Saiba como tornar os formulários do Marketo conversacionais com os
 title: Configurações De Fluxo De Conversação Para O Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Tornar o Marketo Engage Forms conversacional ao integrá-lo aos Fluxos de conver
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Um modal Opção padrão será exibido. Selecione sua preferência. Neste exemplo, estamos escolhendo **[!UICONTROL Usar Fluxo de Conversação]**.
+1. Um modal Opção padrão será exibido. Selecione sua preferência. Neste exemplo, **[!UICONTROL Usar Fluxo de Conversação]** está selecionado.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,7 +54,7 @@ Tornar o Marketo Engage Forms conversacional ao integrá-lo aos Fluxos de conver
    >
    >Antes do envio do formulário, o navegador do visitante deve ter um cookie criado como uma pessoa conhecida para se qualificar para membro da Static/Smart List.
 
-   **ETAPA OPCIONAL**: clique no sinal **+** em cada etapa para adicionar mais atributos, permitindo restringir o público-alvo direcionado (os atributos disponíveis são os campos escolhidos para o formulário). Neste exemplo, estamos direcionando os escritores técnicos da Adobe na Califórnia.
+   **ETAPA OPCIONAL**: clique no sinal **+** em cada etapa para adicionar mais atributos, permitindo restringir o público-alvo direcionado (os atributos disponíveis são os campos escolhidos para o formulário). Neste exemplo, a configuração é direcionada aos redatores técnicos da Adobe na Califórnia.
 
    ![](assets/conversational-flow-settings-8.png)
 

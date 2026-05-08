@@ -3,9 +3,9 @@ description: Saiba mais sobre a Caixa de entrada do agente, onde os agentes de b
 title: Caixa de entrada do agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '596'
 ht-degree: 1%
 
 ---
@@ -62,7 +62,7 @@ Os agentes podem encerrar manualmente uma sessão simplesmente clicando no botã
 >
 >Esse recurso faz parte da IA gerativa, disponível por meio da assinatura do Dynamic Chat Prime. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
 
-Os atalhos, viabilizados pela [Biblioteca de resposta](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) da IA gerativa, são uma ótima maneira de obter ajuda imediata ao conversar com um visitante. Basta digitar uma barra (`/`) na caixa de texto e escolher `ask` ou `search`.
+Os atalhos, viabilizados pela [Biblioteca de resposta](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) da IA gerativa, são uma maneira eficaz de obter ajuda ao conversar com um visitante. Digite uma barra (`/`) na caixa de texto e escolha `ask` ou `search`.
 
 ![](assets/agent-inbox-7.png)
 

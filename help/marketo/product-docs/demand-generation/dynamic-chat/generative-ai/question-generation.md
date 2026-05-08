@@ -3,10 +3,10 @@ description: Saiba como gerar perguntas para o Dynamic Chat usando URLs de orige
 title: Geração de perguntas
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 3%
+source-wordcount: '313'
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram ger
 
    ![](assets/question-generation-7.png)
 
-1. No arquivo do Excel, **[!DNL Task details]** mostra exatamente isso, vários detalhes sobre a tarefa, incluindo instruções sobre como adicionar/editar perguntas e/ou respostas.
+1. No arquivo do Excel, **[!DNL Task details]** mostra vários detalhes sobre a tarefa, incluindo instruções sobre como adicionar ou editar perguntas e respostas.
 
    ![](assets/question-generation-8.png)
 
@@ -74,7 +74,7 @@ Veja todas as suas tarefas e os detalhes pertinentes, como quando elas foram ger
 
 ## Endereços IP a serem Incluídos na lista de permissões {#ip-addresses-to-allowlist}
 
-Incluir na lista de permissões Para habilitar a extração de conteúdo dos URLs da Web durante a geração de perguntas e respostas, localize sua região abaixo e verifique se o endereço IP associado a ele é gravado pela equipe da Web.
+Para habilitar a extração de conteúdo dos URLs da Web durante a geração de perguntas e respostas, localize sua região abaixo e verifique se o endereço IP associado a ele é pela equipe da Web.
 
 <table width="450">
 <thead>

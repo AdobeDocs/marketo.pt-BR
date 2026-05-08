@@ -3,9 +3,9 @@ description: Obtenha ajuda sobre as práticas recomendadas para webinários inte
 title: Práticas recomendadas para webinários interativos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1775'
+source-wordcount: '1759'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Ao executar eventos virtuais, destinados a um público pequeno ou grande, é essencial que as coisas aconteçam conforme planejado. Com várias etapas necessárias para planejar e executar um evento, desde a preparação, promoção, delivery e acompanhamento, às vezes pode parecer muito.
 
-Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajudar no planejamento, na criação e na produção de webinários bem-sucedidos e envolventes. Essas dicas ajudarão você a aproveitar ao máximo os Webinars interativos viabilizados pelo Adobe Connect.
+As práticas recomendadas a seguir podem ajudar a planejar, projetar e produzir webinários bem-sucedidos e envolventes. Essas dicas ajudarão você a aproveitar ao máximo os Webinars interativos viabilizados pelo Adobe Connect.
 
 ## Preparação pré-evento {#pre-event-preparation}
 
@@ -22,15 +22,15 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 >[!TIP]
 >
->A experiência da Web móvel de Webinars interativos não é responsiva, portanto, recomendamos usar o aplicativo Adobe Connect para obter uma experiência de webinar contínua em seu dispositivo móvel. Observe que o aplicativo Adobe Connect não está disponível atualmente nas lojas de aplicativos na China.
+>A experiência da Web móvel de Webinars interativos não é responsiva, portanto, recomendamos usar o aplicativo Adobe Connect para obter uma experiência de webinar contínua em seu dispositivo móvel. O aplicativo Adobe Connect não está disponível atualmente nas lojas de aplicativos na China.
 
 * Crie um Webinar interativo (IW) de amostra e clone-o sempre para evitar começar do zero.
 
-* Reutilize as salas do Adobe Connect se entregar o mesmo conteúdo novamente mais tarde. Navegue até **Limpar conteúdo dos pods** no menu Pods para limpar o histórico do chat e os resultados de sondagem/questionário da última sessão. Isso simplesmente limpa o conteúdo da sala. Todos os dados das sessões anteriores continuarão disponíveis no Marketo Engage.
+* Reutilize as salas do Adobe Connect se entregar o mesmo conteúdo novamente mais tarde. Navegue até **Limpar conteúdo dos pods** no menu Pods para limpar o histórico do chat e os resultados de sondagem/questionário da última sessão. Isso limpa o conteúdo da sala. Todos os dados das sessões anteriores continuarão disponíveis no Marketo Engage.
 
 * Evite agendar sessões consecutivas. Certifique-se de ter pelo menos 30 minutos de tempo de preparação antes do início do webinário. Isso permitirá que você carregue qualquer alteração de última hora na apresentação, ajuste o microfone e a câmera e deixe qualquer novo apresentador confortável com a interface.
 
-* Atribua funções aos membros da equipe. Adicione-os como Co-hosts e Apresentadores. Hosts e Apresentadores podem entrar na sala antes dos participantes. Mas certifique-se de [projetar seu Webinar interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes_ de adicionar Co-hosts e Apresentadores.
+* Atribua funções aos membros da equipe. Adicione-os como Co-hosts e Apresentadores. Hosts e Apresentadores podem entrar na sala antes dos participantes. Mas [crie seu Webinar interativo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _antes_ de adicionar Co-hosts e Apresentadores.
 
 ### Promoção do evento {#promoting-your-event}
 
@@ -85,7 +85,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 * **Pod de perguntas e respostas**: o nome do participante que enviou a pergunta e o nome do host/apresentador que respondeu podem estar ocultos. Isso pode ser feito desmarcando as opções de Privacidade na seção &quot;Pod de perguntas e respostas&quot; nas Preferências da sala.
 
-* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
+* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
 
 * **Chat Privado**: desative o chat privado para impedir que os participantes possam enviar ping para outro participante. Isso pode ser feito ao desmarcar a opção &quot;Permitir que os participantes conversem de forma privada&quot; na seção &quot;Bate-papo&quot; nas Preferências da sala.
 
@@ -93,7 +93,7 @@ Para ajudar nisso, compilamos uma lista de práticas recomendadas que podem ajud
 
 ## Entrega {#delivery}
 
-* Execute algumas execuções secas para testar a configuração de áudio/vídeo e se familiarizar com o Adobe Connect se não o tiver usado antes. Não se esqueça de incluir seus apresentadores e co-apresentadores também quando você ensaiar.
+* Execute algumas execuções secas para testar a configuração de áudio/vídeo e se familiarizar com o Adobe Connect se não o tiver usado antes. Inclua seus apresentadores e coapresentadores também quando ensaiar.
 
 * Peça aos hosts e apresentadores que cheguem pelo menos 30 minutos antes do horário de início e verifique se tudo está funcionando corretamente.
    * Decida quem moderará os pods de Perguntas e Respostas e Bate-papo.

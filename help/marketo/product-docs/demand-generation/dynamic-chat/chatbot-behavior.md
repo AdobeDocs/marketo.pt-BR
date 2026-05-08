@@ -3,10 +3,10 @@ description: Saiba mais sobre o comportamento do chatbot do Dynamic Chat em caix
 title: Comportamento do chatbot
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1697'
-ht-degree: 3%
+source-wordcount: '1700'
+ht-degree: 1%
 
 ---
 
@@ -409,4 +409,4 @@ A seguir estão diferentes cenários possíveis que descrevem o comportamento es
 
 ## Resolução de lead em tempo real {#real-time-lead-resolution}
 
-Durante uma conversa com um lead anônimo em que uma ID de email é fornecida, descobrimos se existe um registro de lead conhecido com essa ID de email e usamos esse registro para a personalização em tempo real. Se encontrarmos vários registros, os mesclamos em tempo real. Esse comportamento é implementado para diálogos e fluxos de conversa.
+Durante uma conversa com um cliente potencial anônimo e uma ID de email é fornecida, o Dynamic Chat resolve se existe um registro de cliente potencial conhecido com essa ID de email e usa esse registro para personalização em tempo real. Se vários registros forem encontrados, eles serão mesclados em tempo real. Esse comportamento é implementado para diálogos e fluxos de conversa.

@@ -4,10 +4,10 @@ description: Saiba como adicionar Públicos-alvo personalizados do Facebook como
 title: Adicionar [!DNL Facebook] Públicos-alvo Personalizados como um [!DNL LaunchPoint] Serviço
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 1%
+source-wordcount: '314'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >**Permissões de administrador são necessárias**
 
-Com essa integração, você pode enviar dados de público-alvo de listas estáticas e inteligentes do Marketo para o [!DNL Facebook] para serem usados como Públicos-alvo personalizados em [!DNL Facebook] Campanhas publicitárias. Veja como configurar isso.
+Com essa integração, você pode enviar dados de público-alvo de listas estáticas e inteligentes do Marketo para o [!DNL Facebook] para serem usados como Públicos-alvo personalizados em [!DNL Facebook] Campanhas publicitárias. Siga estas etapas para configurá-lo.
 
 1. Vá para o **[!UICONTROL Administrador]** do Marketo.
 
@@ -59,11 +59,11 @@ Com essa integração, você pode enviar dados de público-alvo de listas estát
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Excelente trabalho! Agora você pode acessar qualquer lista estática ou inteligente no Marketo e enviar dados de público-alvo para o [!DNL Facebook].
+   Agora você pode acessar qualquer lista estática ou inteligente no Marketo e enviar dados de público-alvo para [!DNL Facebook].
 
    >[!CAUTION]
    >
-   >Oh, antes de ir, certifique-se de [Aceitar [!DNL Facebook]&#39;s Termos de Públicos-alvo personalizados](https://www.facebook.com/ads/manage/customaudiences/tos.php) em sua conta [!DNL Facebook]! Sem fazer isso, as atualizações de público-alvo falharão.
+   >Antes de usar sua integração, [Aceite [!DNL Facebook] os Termos de Públicos-alvo personalizados](https://www.facebook.com/ads/manage/customaudiences/tos.php) da sua conta [!DNL Facebook]! Sem fazer isso, as atualizações de público-alvo falharão.
 
 >[!MORELIKETHIS]
 >

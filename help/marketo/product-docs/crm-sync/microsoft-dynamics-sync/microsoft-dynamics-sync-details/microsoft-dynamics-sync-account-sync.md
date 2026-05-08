@@ -4,16 +4,16 @@ description: Saiba mais sobre como as informações da conta são sincronizadas 
 title: Microsoft Dynamics Sync - Sincronização de conta
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
 # Sincronização de [!DNL Microsoft Dynamics]: Sincronização de Conta {#microsoft-dynamics-sync-account-sync}
 
-Você sabia que o Marketo sincroniza todo o seu banco de dados com o [!DNL Dynamics]? Ele sincroniza, depois aguarda 5 minutos e depois sincroniza novamente, o dia todo, todos os dias. Estes são alguns detalhes sobre como a Marketo trata especificamente contas do [!DNL Dynamics].
+O Marketo sincroniza todo o banco de dados com o [!DNL Dynamics]. Ele sincroniza, depois aguarda 5 minutos e depois sincroniza novamente, o dia todo, todos os dias. Estes são alguns detalhes sobre como a Marketo trata especificamente contas do [!DNL Dynamics].
 
 ## De que forma as informações são sincronizadas? {#which-way-does-the-information-sync}
 

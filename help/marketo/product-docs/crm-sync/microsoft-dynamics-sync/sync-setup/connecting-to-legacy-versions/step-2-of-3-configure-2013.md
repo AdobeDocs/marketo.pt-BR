@@ -4,16 +4,16 @@ description: Saiba como configurar o usuário de sincronização do Marketo com 
 title: Etapa 2 de 3 - Configurar usuário de sincronização para o Marketo (2013 no local)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '383'
 ht-degree: 3%
 
 ---
 
 # Etapa 2 de 3: configurar usuário de sincronização para o Marketo (2013 On-Premises) {#step-of-configure-sync-user-for-marketo-on-premises}
 
-Ótimo trabalho completando as etapas anteriores, vamos continuar percorrendo isso.
+As etapas anteriores estão concluídas.
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 ## Atribuir Função de Usuário de Sincronização {#assign-sync-user-role}
 
-Atribua a função de Usuário de sincronização do Marketo somente ao usuário de sincronização do Marketo. Você não precisa atribuí-lo a nenhum outro usuário.
+Atribua a função de Usuário de sincronização do Marketo somente ao usuário de sincronização do Marketo. Ele não precisa ser atribuído a nenhum outro usuário.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 >[!IMPORTANT]
 >
->A configuração de idioma do Usuário de Sincronização [&#x200B; deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>A configuração de idioma do Usuário de Sincronização [ deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Em **[!UICONTROL Configurações]**, clique em **[!UICONTROL Administração]**.
 
@@ -61,7 +61,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 ## Configurar a solução da Marketo {#configure-marketo-solution}
 
-Quase pronto! Temos apenas algumas últimas configurações antes de passar para o próximo artigo.
+Algumas partes finais da configuração permanecem antes de passar para o próximo artigo.
 
 1. Em **[!UICONTROL Configurações]**, clique em **[!UICONTROL Configuração do Marketo]**.
 
@@ -93,7 +93,6 @@ Quase pronto! Temos apenas algumas últimas configurações antes de passar para
 * Execute o processo [Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md). Ele verifica se as configurações iniciais foram feitas corretamente.
 * Faça logon no Usuário do Marketo Sync no [!DNL Microsoft Dynamics] CRM.
 
-Muito bem!
 
 >[!MORELIKETHIS]
 >

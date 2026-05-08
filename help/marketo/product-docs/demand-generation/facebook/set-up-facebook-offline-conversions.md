@@ -4,16 +4,16 @@ description: Saiba como configurar conversões offline do Facebook no Marketo. E
 title: Configurar conversões offline do Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '331'
 ht-degree: 5%
 
 ---
 
 # Configurar [!DNL Facebook] conversões offline {#set-up-facebook-offline-conversions}
 
-Ao enviar de volta os dados de conversão offline para o [!DNL Facebook] para as pessoas criadas com os anúncios de cliente potencial, a sua equipe de publicidade poderá otimizar melhor do que nunca os gastos com anúncios. Veja como configurar isso.
+Ao enviar de volta os dados de conversão offline para o [!DNL Facebook] para as pessoas criadas com os anúncios de cliente potencial, a sua equipe de publicidade poderá otimizar melhor do que nunca os gastos com anúncios. Siga estas etapas para configurá-lo.
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ Ao enviar de volta os dados de conversão offline para o [!DNL Facebook] para as
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Doce! Você está na metade da habilitação de [!DNL Facebook] Conversões Offline. Vamos passar para o Revenue Cycle Modeler para mapear os estágios.
+   Você está na metade da habilitação de [!DNL Facebook] Conversões Offline. Acesse o Modeler do ciclo de receita para mapear os estágios.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ Ao enviar de volta os dados de conversão offline para o [!DNL Facebook] para as
 
    ![](assets/2.png)
 
-1. Aprove seu modelo e pronto!
+1. Aprove seu modelo e pronto.
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

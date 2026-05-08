@@ -3,16 +3,16 @@ description: Saiba como configurar o usuário de sincronização do Marketo para
 title: Instalar o Marketo para  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 No Local Etapa 2 de 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
 
 # Etapa 2 de 3 Configurar Marketo para [!DNL Dynamics] (2016 No Local/[!DNL Dynamics] 365 No Local){#step-of-set-up-for-marketo-on-premises-2016}
 
-Ótimo trabalho para concluir as etapas anteriores. Vamos continuar passando por isso.
+As etapas anteriores estão concluídas.
 
 >[!PREREQUISITES]
 >
@@ -66,7 +66,7 @@ Siga as etapas em [este artigo do Microsoft](https://docs.microsoft.com/en-us/wi
 
 ## Atribuir Função de Usuário de Sincronização {#assign-sync-user-role}
 
-Atribua a função de Usuário de sincronização do Marketo somente ao usuário de sincronização do Marketo. Você não precisa atribuí-lo a nenhum outro usuário.
+Atribua a função de Usuário de sincronização do Marketo somente ao usuário de sincronização do Marketo. Ele não precisa ser atribuído a nenhum outro usuário.
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 >[!IMPORTANT]
 >
->A configuração de idioma do Usuário de Sincronização [&#x200B; deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>A configuração de idioma do Usuário de Sincronização [ deve ser definida como Inglês](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Em **[!UICONTROL Configurações]**, clique em **[!UICONTROL Segurança]**.
 
@@ -106,7 +106,7 @@ Atribua a função de Usuário de sincronização do Marketo somente ao usuário
 
 ## Configurar a solução da Marketo {#configure-marketo-solution}
 
-Quase pronto! Temos apenas algumas últimas configurações antes de passar para o próximo artigo.
+Algumas partes finais da configuração permanecem antes de passar para o próximo artigo.
 
 1. Em **[!UICONTROL Configurações]**, clique em **[!UICONTROL Configuração do Marketo]**.
 

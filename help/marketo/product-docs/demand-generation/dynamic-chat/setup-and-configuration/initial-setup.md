@@ -3,9 +3,9 @@ description: Saiba como configurar o Dynamic Chat para sua instância do Marketo
 title: Configuração inicial
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 4%
 
 ---
@@ -24,12 +24,12 @@ Siga as etapas abaixo para configurar o Dynamic Chat.
 
    ![](assets/initial-setup-1.png)
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente para a Adobe Admin Console. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/initial-setup-2.png)
 
 ## Adicionar usuários {#add-users}
 
-1. Depois de fazer logon na Admin Console, a próxima ação a ser executada é adicionar usuários. Temos esse processo [documentado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}.
+1. Depois de fazer logon na Admin Console, a próxima ação a ser executada é adicionar usuários. Este processo está [documentado aqui](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}.
 
 Em seguida, é hora de [conectar o Dynamic Chat ao Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}.

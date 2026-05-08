@@ -3,9 +3,9 @@ description: Saiba como fornecer um Webinário interativo no Marketo. Execute o 
 title: Disponibilização de um webinário interativo
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1201'
+source-wordcount: '1198'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Seu webinário interativo está pronto para começar. Saiba tudo o que precisa s
 
    >[!NOTE]
    >
-   >Os participantes podem entrar no quarto até 15 minutos antes do início agendado e verão o layout ativo. Recomendamos projetar um layout de &quot;Lobby&quot; para eles.
+   >Os participantes podem entrar no quarto até 15 minutos antes do início agendado e verão o layout ativo. Recomenda-se criar um layout de &#39;Lobby&#39; para eles.
 
    >[!TIP]
    >
@@ -88,7 +88,7 @@ Para acessar, selecione **área de Host e Apresentador** no menu suspenso da sal
 
 ### Controles de Difusão {#broadcast-controls}
 
-O Controle de transmissão adiciona uma sala verde virtual à sessão de Webinars interativos. Ele permite que anfitriões e apresentadores falem e se vejam de forma privada, sem transmitir para os participantes da sala. É uma ótima maneira de testar seu microfone e webcam antes de uma sessão. Os apresentadores também podem colaborar na área Host e apresentador até que estejam prontos para entrar em funcionamento. Ele fornece uma maneira para o palestrante e os produtores se informarem em particular após uma sessão, caso um participante se esqueça de sair do webinário.
+O Controle de transmissão adiciona uma sala verde virtual à sessão de Webinars interativos. Ele permite que anfitriões e apresentadores falem e se vejam de forma privada, sem transmitir para os participantes da sala. Use-o para testar seu microfone e webcam antes de uma sessão. Os apresentadores também podem colaborar na área Host e apresentador até que estejam prontos para entrar em funcionamento. Ele fornece uma maneira para o palestrante e os produtores se informarem em particular após uma sessão, caso um participante se esqueça de sair do webinário.
 
 Os Controles de transmissão podem ser configurados para iniciar automaticamente a gravação depois que você sair da sala verde. Isso garante que os hosts não precisem se lembrar de iniciar manualmente e parar a gravação. Pausar ou parar a transmissão também pausará ou interromperá a gravação. Tudo é automático.
 
@@ -104,7 +104,7 @@ A discussão no Painel de bate-papo não é gravada. O Painel de Bate-papo tamb�
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Saiba mais sobre o [Painel de Chat](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Saiba mais sobre o [Painel de Chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Modo de preparação {#prepare-mode}
 
@@ -127,22 +127,22 @@ Saiba mais sobre o Modo de preparação [neste vídeo](https://www.youtube.com/w
 >[!NOTE]
 >
 >* Quaisquer alterações feitas nos pods ao vivo são refletidas instantaneamente para os participantes.
->* O [Painel de Chat](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} não faz parte do modo de Preparação e qualquer alteração nele refletirá instantaneamente para os participantes.
+>* O [Painel de Chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} não faz parte do modo de Preparação e qualquer alteração nele refletirá instantaneamente para os participantes.
 
 ### Acessibilidade {#accessibility}
 
 A Adobe se esforça para incluir apresentadores e participantes com deficiência, melhorando a acessibilidade de Webinars interativos. O software é aprimorado continuamente para atender às necessidades de todos os tipos de usuários e para aderir aos padrões mundiais que incluem indivíduos com deficiências visuais, auditivas, de mobilidade ou outras.
 
-Saiba mais sobre como a Adobe Connect oferece assistência para [necessidades visuais, auditivas e de mobilidade](https://helpx.adobe.com/br/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Saiba mais sobre como a Adobe Connect oferece assistência para [necessidades visuais, auditivas e de mobilidade](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Legendas codificadas {#closed-captions}
 
 As legendas ocultas são uma representação textual do áudio dentro de uma sala de Adobe Connect e ajudam os participantes surdos ou com deficiência auditiva a participar de eventos. É possível integrar legendas em tempo real de conteúdo de áudio em eventos e apresentar essas legendas na exibição de Legendas ocultas.
 
-Saiba como [habilitar legendas ocultas](https://helpx.adobe.com/br/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Saiba como [habilitar legendas ocultas](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
 
 ### Webinários simulados ao vivo {#simulated-live-webinars}
 
 Apresentar webinários pré-gravados como se estivessem ao vivo usando o formato de webinário Simulado ao vivo. Os participantes podem ingressar em um horário agendado e participar da sessão em tempo real, aproveitando recursos interativos como bate-papo, pesquisas e perguntas e respostas. Webinários simulados ao vivo combinam a confiabilidade do conteúdo gravado com a experiência interativa de um evento ao vivo.
 
-Saiba mais sobre [Webinários Simulados ao Vivo](https://helpx.adobe.com/br/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.
+Saiba mais sobre [Webinários Simulados ao Vivo](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.

@@ -4,16 +4,16 @@ description: Saiba como a sincronização do Salesforce mantém os dados do Mark
 title: Noções básicas da sincronização com o Salesforce
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 89%
+source-wordcount: '224'
+ht-degree: 81%
 
 ---
 
 # Noções básicas da sincronização com o [!DNL Salesforce] {#understanding-the-salesforce-sync}
 
-O Marketo Engage e o Salesforce são a combinação perfeita. Eles mantêm seus dados de vendas e marketing sincronizados.
+Saiba como a sincronização do Salesforce mantém os dados do Marketo e do Salesforce em sincronia.
 
 ## Como a sincronização funciona {#how-sync-works}
 

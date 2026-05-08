@@ -4,9 +4,9 @@ description: Saiba como conectar o Marketo e o Salesforce na etapa final Enterpr
 title: Etapa 3 de 3 - Conectar o Marketo e o Salesforce (Enterprise/Unlimited)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Neste artigo, você configurará o Marketo para sincronizar com a instância [!D
 
    >[!NOTE]
    >
-   >Certifique-se de [ocultar todos os campos desnecessários](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) no Marketo do usuário de sincronização antes de clicar em **[!UICONTROL Sincronizar Campos]**. Depois de clicar em [!UICONTROL Sincronizar Campos], todos os campos que o usuário puder ver serão criados permanentemente no Marketo e não poderão ser excluídos.
+   >[Oculte do usuário de sincronização todos os campos desnecessários](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) no Marketo antes de clicar em **[!UICONTROL Sincronizar Campos]**. Depois de clicar em [!UICONTROL Sincronizar Campos], todos os campos que o usuário puder ver serão criados permanentemente no Marketo e não poderão ser excluídos.
 
 1. Insira as credenciais do Usuário de Sincronização [!DNL Salesforce] criadas na parte 2 da configuração [!DNL Salesforce] ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) ou [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) e clique em **[!UICONTROL Sincronizar Campos]** (marque **[!UICONTROL Sandbox]** somente se estiver sincronizando uma Sandbox da Marketo com uma Sandbox do [!DNL Salesforce]).
 
@@ -100,7 +100,7 @@ O Marketo fornece mensagens de status para a sincronização [!DNL Salesforce] n
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Você acabou de configurar um dos recursos mais avançados do Marketo, clique!
+Você concluiu a configuração de um dos recursos mais avançados do Marketo.
 
 >[!MORELIKETHIS]
 >

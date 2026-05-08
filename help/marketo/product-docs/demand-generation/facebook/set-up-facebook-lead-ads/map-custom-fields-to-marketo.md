@@ -4,9 +4,9 @@ description: Saiba como mapear campos personalizados de anúncios de lead do Fac
 title: Mapear campos personalizados para o Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '266'
 ht-degree: 7%
 
 ---
@@ -17,7 +17,7 @@ Você pode coletar mais do que as informações padrão armazenadas por padrão 
 
 No entanto, o **Marketo não iniciará automaticamente a coleta desses dados**. Para que o Marketo comece a capturar valores de campos personalizados, você **deve** mapear esses campos personalizados para um campo no Marketo.
 
-Veja como configurar isso na área LaunchPoint do Administrador.
+Siga estas etapas para configurar isso na área LaunchPoint do Administrador.
 
 >[!NOTE]
 >
@@ -31,15 +31,15 @@ Veja como configurar isso na área LaunchPoint do Administrador.
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Deixe a conta autorizada como está. **não** faça alterações. Clique em **[!UICONTROL Next]**.
+1. Deixe a conta autorizada como está, **não** faça alterações. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Como antes, deixe as páginas selecionadas como estão. **não** faça alterações. Clique em **[!UICONTROL Next]**.
+1. Como antes, deixe as páginas selecionadas como estão, **não** faça alterações. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. Aqui é onde você mapeia o campo personalizado [!DNL Facebook] para seu campo do Marketo. Clique em **[!UICONTROL Adicionar].**
+1. Mapeie o campo personalizado [!DNL Facebook] para seu campo do Marketo. Clique em **[!UICONTROL Adicionar].**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 
@@ -51,7 +51,7 @@ Veja como configurar isso na área LaunchPoint do Administrador.
    >
    >Somente os campos que foram salvos em [!DNL Facebook] modelos de formulário aparecerão como opções aqui.
 
-1. Clique na coluna **[!UICONTROL Campo do Marketo]**. Digite para procurar o campo para o qual deseja mapear. Depois de selecionar um campo, clique em **[!UICONTROL Salvar]**.
+1. Clique na coluna **[!UICONTROL Campo do Marketo]**. Digite para procurar o campo para o qual deseja mapear. Após selecionar um campo, clique em **[!UICONTROL Salvar]**.
 
    ![](assets/image2017-10-24-11-3a16-3a42.png)
 

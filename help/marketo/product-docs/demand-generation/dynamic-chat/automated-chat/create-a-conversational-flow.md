@@ -3,16 +3,16 @@ description: Saiba como criar um novo Fluxo de conversa no Dynamic Chat. Escolha
 title: Criar um fluxo de conversa
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '102'
 ht-degree: 7%
 
 ---
 
 # Criar um fluxo de conversa {#create-a-conversational-flow}
 
-Veja como criar um novo Fluxo de conversa.
+Siga estas etapas para criar um novo Fluxo de conversa.
 
 1. Em [!UICONTROL Chat automatizado], clique em **[!UICONTROL Fluxos de conversa]**.
 
@@ -30,7 +30,7 @@ Veja como criar um novo Fluxo de conversa.
    >
    >Isso alterará somente o idioma do texto do sistema. Você é responsável pela tradução do conteúdo.
 
-1. Assim como nas Caixas de Diálogo, neste momento é hora de [criar um fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Assim como nas Caixas de Diálogo, [crie um fluxo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

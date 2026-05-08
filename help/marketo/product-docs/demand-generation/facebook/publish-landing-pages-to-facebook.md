@@ -4,9 +4,9 @@ description: Saiba como publicar páginas de aterrissagem do Marketo no Facebook
 title: Publicar páginas de destino no Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Se você estiver lançando um novo livro, poderá alcançar alguns de seus públ
    >
    >Para substituir as páginas de aterrissagem do Marketo publicadas anteriormente em [!DNL Facebook], selecione **[!UICONTROL Substituir Guia Existente]** e escolha a guia a ser substituída na lista suspensa. Observe que isso não substituirá guias que não sejam da Marketo.
 
-1. Os clientes em potencial agora podem visitar sua página de aterrissagem diretamente na sua página [!DNL Facebook]. Basta clicar no nome da guia abaixo da imagem da Capa.
+1. Os clientes em potencial agora podem visitar sua página de aterrissagem diretamente na sua página [!DNL Facebook]. Clique no nome da guia sob a imagem da capa.
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 

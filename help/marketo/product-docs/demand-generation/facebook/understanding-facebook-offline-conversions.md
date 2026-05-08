@@ -4,16 +4,16 @@ description: Saiba mais sobre as conversões offline do Facebook e como elas fun
 title: Noções básicas sobre conversões offline do Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '241'
 ht-degree: 2%
 
 ---
 
 # Compreendendo [!DNL Facebook] Conversões Offline {#understanding-facebook-offline-conversions}
 
-As campanhas do Facebook Lead Ads geram leads e os enviam para a Marketo para uso em campanhas de marketing. No entanto, sem visibilidade sobre conversões offline, o anunciante do [!DNL Facebook] não pode saber quais anúncios são mais eficazes. Aqui está um exemplo.
+As campanhas do Facebook Lead Ads geram leads e os enviam para a Marketo para uso em campanhas de marketing. No entanto, sem visibilidade sobre as conversões offline, o anunciante do [!DNL Facebook] não pode saber quais anúncios são mais eficazes. Veja um exemplo a seguir.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ As campanhas do Facebook Lead Ads geram leads e os enviam para a Marketo para us
 
 Você pode [configurar as Conversões Offline do Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) para enviar o desempenho de anúncio offline para [!DNL Facebook].
 
-1. Verifique se a integração [[!DNL Facebook] [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) está atualizada.
+1. Verifique se a sua integração do [[!DNL Facebook] [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) está atualizada.
 1. Mapear estágios no seu Modelo de Ciclo de Receita para estágios de conversão offline em [!DNL Facebook].
 1. Quando um cliente potencial [!DNL Facebook] é gerado a partir de um anúncio de cliente potencial [!DNL Facebook] e atinge um estágio mapeado, a Marketo envia dados de conversão offline para [!DNL Facebook] várias vezes por dia, por meio de uma API segura e automatizada. Os dados aparecem no [!DNL Facebook] Relatório do Gerenciador de Anúncios.
 
