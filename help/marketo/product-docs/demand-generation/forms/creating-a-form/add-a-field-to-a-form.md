@@ -4,16 +4,16 @@ description: Saiba como adicionar um campo a um formulário no Marketo. Adicione
 title: Adicionar um campo a um formulário
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 12%
+source-wordcount: '146'
+ht-degree: 10%
 
 ---
 
 # Adicionar um campo a um formulário {#add-a-field-to-a-form}
 
-Depois de [criar seu formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} e [selecionar um tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, você pode adicionar outros campos para que as pessoas possam preenchê-los. Veja como.
+Depois de [criar seu formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} e [selecionar um tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, você pode adicionar outros campos para que as pessoas possam preenchê-los.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -49,7 +49,7 @@ Depois de [criar seu formulário](/help/marketo/product-docs/demand-generation/f
 
 >[!NOTE]
 >
->Certifique-se de aprovar todos os rascunhos de página de aterrissagem criados devido às alterações no formulário.
+>Aprove qualquer rascunho de página de aterrissagem criado devido a alterações no formulário.
 
 >[!MORELIKETHIS]
 >

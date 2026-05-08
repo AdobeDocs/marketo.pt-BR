@@ -4,10 +4,10 @@ description: Saiba como desativar o preenchimento de formulário social em um fo
 title: Desabilitar preenchimento de formulário com rede social
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 14%
+source-wordcount: '91'
+ht-degree: 15%
 
 ---
 
@@ -42,5 +42,3 @@ ht-degree: 14%
 1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
-
-   Isso é tudo que você precisa fazer.

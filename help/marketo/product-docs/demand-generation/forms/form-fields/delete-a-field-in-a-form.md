@@ -4,10 +4,10 @@ description: Saiba como excluir um campo de um formulário do Marketo. Remova os
 title: Excluir um campo em um formulário
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 22%
+source-wordcount: '86'
+ht-degree: 23%
 
 ---
 
@@ -37,4 +37,4 @@ Se houver um campo que não é mais necessário no formulário, ele poderá ser 
 
 >[!NOTE]
 >
->Não esqueça de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+>Lembre-se de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.

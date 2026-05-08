@@ -4,10 +4,10 @@ description: Saiba como configurar a criação progressiva de perfis em um formu
 title: Configurar a criação de perfis progressiva do formulário
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 5%
+source-wordcount: '337'
+ht-degree: 4%
 
 ---
 
@@ -94,6 +94,4 @@ Formas curtas são boas! Quando alguém retorna a um formulário, é possível a
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-Excelente! O trabalho que você acabou de fazer compensará.
-
-Experimente esse recurso e certifique-se de testar. É avançado, mas você pode tornar seus formulários muito dinâmicos dessa maneira.
+Experimente esse recurso e teste-o. É avançado, mas você pode tornar seus formulários muito dinâmicos dessa maneira.

@@ -4,9 +4,9 @@ description: Saiba como editar um rótulo de campo em um formulário do Marketo.
 title: Editar um rótulo de campo em um formulário
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 15%
 
 ---
@@ -45,4 +45,4 @@ Você pode alterar o rótulo em um formulário para qualquer coisa - você pode 
 
 >[!NOTE]
 >
->Não esqueça de [aprovar o rascunho da Página de Aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} criado pelas alterações de formulário.
+>Lembre-se de [aprovar o rascunho da Página de Aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} criado pelas alterações de formulário.

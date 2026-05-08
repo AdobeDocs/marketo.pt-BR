@@ -4,10 +4,10 @@ description: Saiba como alterar a posição do rótulo do formulário no Marketo
 title: Alterar a posição do rótulo do formulário
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '108'
+ht-degree: 14%
 
 ---
 
@@ -51,8 +51,6 @@ Ao [criar um formulário](/help/marketo/product-docs/demand-generation/forms/cre
    >[!NOTE]
    >
    >Lembre-se de aprovar o rascunho da página de aterrissagem criado pelas alterações do formulário.
-
-Muito bem! Você vê como foi fácil alterar as posições das etiquetas em um formulário? OK, vamos ver o que podemos fazer sobre a alteração da fonte dos rótulos do formulário.
 
 >[!MORELIKETHIS]
 >

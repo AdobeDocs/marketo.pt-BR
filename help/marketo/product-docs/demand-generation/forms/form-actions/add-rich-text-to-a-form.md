@@ -4,16 +4,16 @@ description: Saiba como adicionar rich text a um formulário do Marketo. Insira 
 title: Adicionar rich text a um formulário
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 17%
+source-wordcount: '105'
+ht-degree: 19%
 
 ---
 
 # Adicionar rich text a um formulário {#add-rich-text-to-a-form}
 
-Use Rich Text em um formulário para adicionar instruções ou outras informações entre campos. Dê uma olhada.
+Use Rich Text em um formulário para adicionar instruções ou outras informações entre campos.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -50,8 +50,6 @@ Use Rich Text em um formulário para adicionar instruções ou outras informaç�
 1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
-
-   Muito bem! Dê uma olhada.
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 

@@ -4,9 +4,9 @@ description: Saiba como editar o CSS de um tema de formulário no Marketo. Perso
 title: Editar o CSS de um tema de formulário
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '192'
 ht-degree: 11%
 
 ---
@@ -39,7 +39,7 @@ Você tem alguns [temas pré-construídos que você pode simplesmente escolher e
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. Você pode recortar/colar esse CSS em seu próprio editor. Ela é somente leitura, portanto, você só precisará da substituição do CSS.
+1. Você pode copiar esse CSS para o seu próprio editor. Ela é somente leitura, portanto, você só precisará da substituição do CSS.
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -62,5 +62,3 @@ Você tem alguns [temas pré-construídos que você pode simplesmente escolher e
 1. Para ver seu formulário personalizado, clique em **[!UICONTROL Visualizar Rascunho]**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
-
-E é isso!

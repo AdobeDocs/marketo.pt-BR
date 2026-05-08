@@ -4,9 +4,9 @@ description: Saiba como aplicar o mascaramento de entrada a um campo de formulá
 title: Aplicar mascaramento de entrada a um campo em um formulário
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '189'
 ht-degree: 12%
 
 ---
@@ -51,12 +51,10 @@ ht-degree: 12%
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Dê uma olhada! Agora você solicita ao visitante que insira números em um formato específico.
+   Agora você solicita ao visitante que insira números em um formato específico.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
    >O campo pode não exibir regiões predefinidas, conforme mostrado na imagem acima. Pode parecer em branco até que o visitante comece a inserir números, que seguirão automaticamente ao formato de entrada definido para o campo.
-
-Muito legal, não é?

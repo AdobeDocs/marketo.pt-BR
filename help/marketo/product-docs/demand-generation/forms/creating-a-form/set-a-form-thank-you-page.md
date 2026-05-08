@@ -4,9 +4,9 @@ description: Saiba como definir uma página de agradecimento de formulário no M
 title: Definir um formulário de página de agradecimento
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 6%
 
 ---
@@ -127,8 +127,6 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
-   Ok, parece bom!
-
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
 1. Clique em **[!UICONTROL Concluir]**.
@@ -138,5 +136,3 @@ Você pode adicionar várias opções e criar opções para mostrar às pessoas 
 1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
-
-Muito bem!

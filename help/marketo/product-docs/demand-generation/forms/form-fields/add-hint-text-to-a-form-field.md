@@ -4,9 +4,9 @@ description: Saiba como adicionar texto de dica a um campo de formulário no Mar
 title: Adicionar texto de dica a um campo de formulário
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '133'
 ht-degree: 15%
 
 ---
@@ -45,8 +45,8 @@ Dicas e [instruções](/help/marketo/product-docs/demand-generation/forms/form-f
 
    >[!NOTE]
    >
-   >Não esqueça de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+   >Lembre-se de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Dê uma olhada! Vamos adicionar [instruções](add-tooltip-instructions-to-a-form-field.md) agora.
+Para adicionar instruções de dica de ferramenta a um campo de formulário, consulte [Adicionar instruções de dica de ferramenta a um campo de formulário](add-tooltip-instructions-to-a-form-field.md).

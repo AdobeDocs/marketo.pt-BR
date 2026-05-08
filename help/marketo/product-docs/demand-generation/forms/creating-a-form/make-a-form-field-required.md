@@ -4,16 +4,16 @@ description: Saiba como tornar um campo de formulário obrigatório no Marketo. 
 title: Tornar um campo de formulário obrigatório
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 15%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
 # Tornar um campo de formulário obrigatório {#make-a-form-field-required}
 
-Ao [adicionar campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, talvez você queira tornar alguns deles obrigatórios para a pessoa que os preencherá. Veja como.
+Ao [adicionar campos a um formulário](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, talvez você queira tornar alguns deles obrigatórios para a pessoa que os preencherá.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -31,7 +31,7 @@ Ao [adicionar campos a um formulário](/help/marketo/product-docs/demand-generat
 
    ![](assets/make-a-form-field-required-3.png)
 
-1. Muito bem! Clique em **[!UICONTROL Concluir]**.
+1. Clique em **[!UICONTROL Concluir]**.
 
    ![](assets/make-a-form-field-required-4.png)
 
@@ -41,7 +41,7 @@ Ao [adicionar campos a um formulário](/help/marketo/product-docs/demand-generat
 
 >[!NOTE]
 >
->Não esqueça de [aprovar qualquer Página de Aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} em que este formulário esteja para que as alterações entrem em vigor.
+>Lembre-se de [aprovar qualquer Página de Aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} deste formulário para que as alterações entrem em vigor.
 
 >[!MORELIKETHIS]
 >

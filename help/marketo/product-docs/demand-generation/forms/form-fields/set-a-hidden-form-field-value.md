@@ -4,9 +4,9 @@ description: Saiba como definir um valor de campo de formulário oculto no Marke
 title: Definir um valor de campo de formulário oculto
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '313'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ Se você quiser capturar Parâmetros de URL (Cadeias de Caracteres de Consulta) 
 
 >[!NOTE]
 >
->Parâmetros são meio técnicos, não são? Uma vez que você os pega, eles são poderosos. Esta [página da Wikipédia sobre Cadeias de Caracteres de Consulta](https://en.wikipedia.org/wiki/Query_string) é um pouco útil.
+>Os parâmetros são técnicos. Uma vez que você as entenda, elas são poderosas. Esta [página da Wikipédia sobre Cadeias de Caracteres de Consulta](https://en.wikipedia.org/wiki/Query_string) é um pouco útil.
 
 1. Selecione o **[!UICONTROL Parâmetro de URL]** para **[!UICONTROL Obter Tipo de Valor]**.
 

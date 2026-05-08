@@ -4,9 +4,9 @@ description: Saiba como alterar o estilo e a cor do botão de envio em um formul
 title: Alterar o estilo e a cor do botão Enviar
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '150'
 ht-degree: 12%
 
 ---
@@ -29,7 +29,7 @@ Se você achar o botão de envio padrão maçante, ou se precisar de algo mais s
 
    >[!TIP]
    >
-   >Você sabia que pode arrastar o botão de envio para a esquerda ou direita para alterar sua posição? É fácil assim. Experimente.
+   >Você pode arrastar o botão enviar para a esquerda ou direita para alterar sua posição.
 
 1. Escolha o estilo de botão desejado (role para cima/para baixo).
 
@@ -54,8 +54,6 @@ Se você achar o botão de envio padrão maçante, ou se precisar de algo mais s
 1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
-
-   Lá vai você!
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

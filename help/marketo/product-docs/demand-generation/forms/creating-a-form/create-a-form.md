@@ -4,9 +4,9 @@ description: Saiba como criar um formulário no Marketo. Adicione campos, config
 title: Criar um formulário
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '132'
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ Crie e use um formulário em uma landing page para gerar novos nomes ou capturar
 
 >[!TIP]
 >
->A maioria dos usuários cria um novo formulário para cada Página de aterrissagem, mas você também pode criar um formulário a ser usado com várias Páginas de aterrissagem. Depende inteiramente de você!
+>A maioria dos usuários cria um novo formulário para cada Página de aterrissagem, mas você também pode criar um formulário a ser usado com várias Páginas de aterrissagem.
 
 >[!MORELIKETHIS]
 >

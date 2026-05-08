@@ -4,10 +4,10 @@ description: Saiba como adicionar uma lista de opções de país ao seu formulá
 title: Adicionar uma lista de opções de país ao formulário
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 11%
+source-wordcount: '156'
+ht-degree: 14%
 
 ---
 
@@ -69,11 +69,9 @@ Siga estas instruções para converter o campo País em um menu suspenso com uma
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Muito bem! Agora, quando uma pessoa preenche o formulário, ela pode escolher na lista de países fornecida.
+   Agora, quando uma pessoa preenche o formulário, ela pode escolher na lista de países fornecida.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
-
-Como isso foi tão fácil, por que não fazer mais? Que tal mostrar dinamicamente o campo Estado quando um usuário seleciona Estados Unidos como o país na lista? Confira o artigo relacionado abaixo para descobrir como fazer isso.
 
 >[!MORELIKETHIS]
 >

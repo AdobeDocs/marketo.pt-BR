@@ -4,7 +4,7 @@ description: Saiba como fazer upload de imagens e arquivos do Box para o Marketo
 title: Fazer upload de imagens e arquivos do Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 12%
@@ -43,4 +43,4 @@ Você pode fazer upload de arquivos do Box para usá-los em landing pages e emai
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
-Seus arquivos agora estão prontos para serem usados em suas páginas de aterrissagem e emails!
+Os arquivos agora estão prontos para serem usados nas páginas de aterrissagem e emails.

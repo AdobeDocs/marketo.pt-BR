@@ -4,16 +4,16 @@ description: Saiba como adicionar um conjunto de campos a um formulário do Mark
 title: Adicionar um conjunto de campos a um formulário
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 14%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 
 # Adicionar um conjunto de campos a um formulário {#add-a-fieldset-to-a-form}
 
-Os conjuntos de campos são legais. Eles agrupam vários campos. Você também pode controlar um bloco inteiro de uma só vez!
+Os conjuntos de campos agrupam vários campos. Você pode controlar um bloco inteiro de uma só vez.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -35,11 +35,9 @@ Os conjuntos de campos são legais. Eles agrupam vários campos. Você também p
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. Veja como deveria parecer quando concluído.
+1. O exemplo a seguir mostra como deve ser quando concluído.
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
-
-É isso aí!
 
 >[!TIP]
 >

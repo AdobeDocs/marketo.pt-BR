@@ -4,16 +4,16 @@ description: Saiba como visualizar um formulário no Marketo antes de publicar. 
 title: Pré-visualizar um formulário
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 12%
 
 ---
 
 # Pré-visualizar um formulário {#preview-a-form}
 
-Antes de publicar, você pode ver o formulário neste pré-visualizador de formulário rápido e simples.
+Antes de publicar, você pode ver o formulário neste pré-visualizador de formulário.
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 

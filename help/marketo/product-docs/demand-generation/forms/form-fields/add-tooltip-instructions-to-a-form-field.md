@@ -4,9 +4,9 @@ description: Saiba como adicionar instruções de dica de ferramenta a um campo 
 title: Adicionar instruções de dica de ferramenta a um campo de formulário
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '130'
 ht-degree: 15%
 
 ---
@@ -45,8 +45,8 @@ ht-degree: 15%
 
    >[!NOTE]
    >
-   >Não esqueça de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
+   >Lembre-se de [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) criado pelas alterações de formulário.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-Ótimo trabalho! A dica de ferramenta será exibida quando um visitante passar o mouse sobre o campo.
+A dica de ferramenta será exibida quando um visitante passar o mouse sobre o campo.

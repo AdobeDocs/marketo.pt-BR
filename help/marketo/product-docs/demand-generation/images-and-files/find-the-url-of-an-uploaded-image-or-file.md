@@ -4,16 +4,16 @@ description: Saiba como encontrar o URL de uma imagem ou arquivo carregado no Ma
 title: Localizar o URL de uma imagem ou arquivo carregado
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 21%
 
 ---
 
 # Localizar o URL de uma imagem ou arquivo carregado {#find-the-url-of-an-uploaded-image-or-file}
 
-Procurando o endereço da Web (URL) de uma imagem ou arquivo que você carregou?
+Siga estas etapas para encontrar o URL de uma imagem ou arquivo que você carregou.
 
 1. Vá para o **[!UICONTROL Design Studio]**.
 
