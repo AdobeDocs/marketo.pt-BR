@@ -4,10 +4,10 @@ title: Documento temporário
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
@@ -37,11 +37,11 @@ Adicione imagens armazenadas na seção [Imagens e Arquivos](/help/marketo/produ
 
 Clique em Ativar conteúdo de condição para adicionar conteúdo dinâmico e adaptar o conteúdo aos perfis direcionados com base em regras condicionais.
 
-Se necessário, você pode personalizar ainda mais seu email clicando em Alternar para o editor de código no menu avançado. Isso permite editar o código-fonte do email, por exemplo, para adicionar rastreamento ou tags personalizadas do HTML.
+Se necessário, você pode personalizar ainda mais seu email clicando em Alternar para o editor de código no menu avançado. Isso permite editar o código-fonte do email, por exemplo, para adicionar rastreamento ou tags de HTML personalizadas.
 
 CUIDADO
-Você não pode reverter para o designer visual neste email depois de alternar para o editor de código.
+Não é possível reverter para o designer visual desse email após alternar para o editor de código.
 
-Quando o conteúdo estiver pronto, clique no botão Simular conteúdo para verificar a renderização. Você pode escolher a visualização de desktop ou móvel.
+Quando o conteúdo estiver pronto, clique no botão Simular conteúdo para verificar a renderização. Você pode escolher exibir no desktop ou em um dispositivo móvel.
 
 Quando estiver pronto, clique em Salvar

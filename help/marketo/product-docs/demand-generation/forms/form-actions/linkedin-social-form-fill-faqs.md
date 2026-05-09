@@ -3,12 +3,11 @@ unique-page-id: 10098238
 description: Obtenha ajuda sobre o preenchimento de formulário social do LinkedIn com formulários do Marketo. Encontre respostas para perguntas comuns sobre a integração de preenchimento de formulário do LinkedIn.
 title: 'Perguntas frequentes sobre preenchimento de formulários com rede social: LinkedIn'
 hide: true
-hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -63,15 +62,15 @@ Não, os formulários dos quais removemos essa funcionalidade permaneceram publi
 
 Não, removeremos apenas o botão [!DNL LinkedIn] do seu formulário. Sempre que o Preenchimento de formulário social é aplicado a um formulário, há um contêiner criado acima dele que contém os botões Preenchimento de formulário social. Antes de 28 de abril de 2016, se [!DNL LinkedIn] fosse a única opção, a aparência do contêiner seria semelhante a esta imagem:
 
-![—](assets/one.png)
+![--](assets/one.png)
 
 Depois de 28 de abril de 2016, há um contêiner vazio na parte superior de qualquer formulário que tenha removido o Preenchimento de formulário social [!DNL LinkedIn]:
 
-![—](assets/two.png)
+![--](assets/two.png)
 
 >[!NOTE]
 >
->As imagens acima são somente para exemplo. Pode não ser exatamente assim que o contêiner do botão Preenchimento de formulário social é renderizado. Qualquer cor, estilo, etc. da fonte você escolheu influenciar a aparência do seu recipiente.
+>As imagens acima são somente para exemplo. Pode não ser exatamente assim que o contêiner do botão Preenchimento de formulário social é renderizado. Qualquer cor, estilo, etc. da fonte escolhida influenciam a aparência do contêiner.
 
 ## Se [!DNL LinkedIn] foi minha única rede selecionada, como posso remover o container vazio acima do meu formulário? {#if-linkedin-was-my-only-selected-network-how-can-i-remove-the-empty-container-above-my-form}
 

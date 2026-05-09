@@ -3,12 +3,11 @@ description: Assistente de IA para conhecimento do produto - Documentação do M
 title: Assistente de IA para conhecimento do produto
 feature: Getting Started
 hide: true
-hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '169'
+ht-degree: 1%
 
 ---
 
@@ -42,4 +41,4 @@ Com o Assistente de IA de conhecimento do produto, suas equipes se movimentam ma
 
 Veja como o Assistente de IA para conhecimento de produtos funciona, em cerca de um minuto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480120?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}

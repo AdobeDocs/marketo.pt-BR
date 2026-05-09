@@ -3,8 +3,8 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
+exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -46,6 +46,6 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 ## Atualizações e suporte
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support).
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support).
 
 PARA ADICIONAR: POD/DETALHES DO DATA CENTER

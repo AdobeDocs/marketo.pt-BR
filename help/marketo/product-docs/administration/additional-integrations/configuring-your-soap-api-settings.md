@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: Defina a chave de criptografia da API do SOAP e obtenha detalhes do ponto de extremidade nos Serviços Web de administração para desenvolvedores.
 title: Configurar a API SOAP
 hide: true
-hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 16%
@@ -17,7 +16,7 @@ ht-degree: 16%
 
 >[!IMPORTANT]
 >
->A API do SOAP está [sendo substituída](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/soap/soap-api) em 31 de julho de 2026. Em vez disso, é recomendável usar a [REST API](https://developer.adobe.com/marketo-apis/).
+>A API do SOAP está [sendo substituída](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) em 31 de julho de 2026. Em vez disso, é recomendável usar a [REST API](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >

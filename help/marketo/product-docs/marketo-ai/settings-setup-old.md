@@ -2,11 +2,10 @@
 description: Saiba como habilitar permissões de IA do Marketo, definir regras organizacionais e gerenciar configurações como integrações e notificações.
 title: Configurações e configuração
 hide: true
-hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: c0854d574b4fc995f249783aebcd15ed7d224851
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -45,7 +44,7 @@ Repita essas etapas para qualquer outra função desejada.
 
 ### Função personalizada {#custom-role}
 
-Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando a _Compilação do Access com IA_, juntamente com qualquer outra coisa que desejar, e [atribuindo essa função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
+Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando a _Compilação do Access com IA_, juntamente com qualquer outra coisa que desejar, e [atribuindo essa função](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
 
 <!-- 
 ## Permissions {#permissions}

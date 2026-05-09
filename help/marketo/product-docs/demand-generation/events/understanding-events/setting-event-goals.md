@@ -2,10 +2,9 @@
 description: Saiba como definir metas de evento em programas de evento do Marketo. Defina métricas de sucesso e acompanhe o progresso em direção aos seus objetivos de evento.
 title: Definição de metas de evento
 hide: true
-hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 4%

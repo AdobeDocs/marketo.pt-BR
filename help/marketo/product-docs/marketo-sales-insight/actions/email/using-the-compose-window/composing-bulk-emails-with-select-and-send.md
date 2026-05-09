@@ -2,12 +2,11 @@
 description: Saiba como redigir e enviar emails em massa com Selecionar e Enviar. Escolha contatos na página Pessoas e envie emails personalizados em escala.
 title: Escrever emails em massa com as opções Selecionar e Enviar
 hide: true
-hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 3%
 
 ---
