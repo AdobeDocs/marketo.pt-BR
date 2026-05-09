@@ -3,12 +3,11 @@ description: Notas de versão do Dynamic Chat - Documentos do Marketo - Document
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
-hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 68%
+source-wordcount: '933'
+ht-degree: 66%
 
 ---
 
@@ -63,7 +62,7 @@ O fallback Round Robin não é acionado apenas porque um agente não responde.
 
 Se nenhum dos agentes gerar engajamento:
 
-* O sistema mostrará o calendário do agente da primeira tentativa (se habilitado),
+* O sistema mostra o calendário do agente da primeira tentativa (se ativado),
 -ou-
 * Exibirá a mensagem de fallback padrão.
 
@@ -93,7 +92,7 @@ A regra de roteamento no nível da placa (Personalizada, Equipe, Round Robin) fo
 
 * Se nenhum engajamento for bem-sucedido, a lógica de fallback será aplicada:
 
-   * Fallback de calendário (se habilitado),
+   * Fallback de calendário (se ativado),
 -ou-
    * Mensagem padrão.
 

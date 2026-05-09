@@ -2,10 +2,9 @@
 description: Saiba como configurar a sincronização de objetos personalizados do Veeva CRM para o Marketo Engage. Habilite objetos personalizados no Admin e use-os em Smart Lists e acionadores.
 title: Sincronização de objeto personalizado
 hide: true
-hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%

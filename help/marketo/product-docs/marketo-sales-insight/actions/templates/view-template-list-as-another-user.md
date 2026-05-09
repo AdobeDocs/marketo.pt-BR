@@ -2,12 +2,11 @@
 description: Saiba como visualizar a lista de modelos como outro usuário quando você é administrador. Use Visualizar como para ver os modelos de outro usuário.
 title: Exibir a lista de modelos como outro usuário
 hide: true
-hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '91'
 ht-degree: 16%
 
 ---

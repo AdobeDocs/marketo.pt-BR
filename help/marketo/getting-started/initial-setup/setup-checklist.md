@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 0%
+source-wordcount: '206'
+ht-degree: 2%
 
 ---
 
@@ -30,11 +30,11 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 1. Peça à TI para criar um registro DNS para sua página inicial CNAME
 1. Quando a TI estiver concluída, configure o nome de domínio da sua landing page no Marketo
 
-## Garantir a capacidade de entrega de e-mails {#ensure-email-deliverability}
+## Garanta a capacidade de entrega de email {#ensure-email-deliverability}
 
 1. Selecione um CNAME de email para links de rastreamento de marca
 1. Solicitar que a equipe de TI configure um registro DNS para seu CNAME de email
-1. Peça à TI para incluir na lista de permissões o Marketo
+1. Peça à TI para incluir na lista de permissões ao Marketo
 1. Configurar DKIM e SPF na área [!UICONTROL Administrador]
 1. Configurar MX para `[FromDomain1]`
 1. Quando a TI terminar com o CNAME de email, configure seu CNAME de email no Marketo

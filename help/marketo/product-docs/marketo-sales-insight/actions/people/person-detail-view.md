@@ -2,10 +2,9 @@
 description: Entenda a exibição de detalhes da pessoa em Ações do Sales Insight. Consulte informações de contato, histórico de atividades e ações rápidas de um cliente potencial ou contato.
 title: Exibição de detalhes da pessoa
 hide: true
-hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 3%

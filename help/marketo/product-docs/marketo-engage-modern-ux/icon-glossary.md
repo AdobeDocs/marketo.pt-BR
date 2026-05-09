@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '264'
 ht-degree: 85%
 
 ---
@@ -58,7 +58,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se precisar 
   <tr>
    <td><img src="assets/classic-email-template.png"></td>
    <td><img src="assets/email-template.png"></td>
-   <td>Modelo de e-mail</td>
+   <td>Modelo de email</td>
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td>
@@ -158,7 +158,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se precisar 
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
    <td><img src="assets/referral-offer.png"></td>
-   <td>Oferta de recomendação</td>
+   <td>Oferta da recomendação</td>
   </tr>
   <tr>
    <td><img src="assets/classic-report.png"></td>
@@ -168,7 +168,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se precisar 
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/search.png"></td>
-   <td>Pesquisa</td>
+   <td>Pesquisar</td>
   </tr>
   <tr>
    <td><img src="assets/classic-segment.png"></td>
@@ -198,7 +198,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se precisar 
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Botão de redes sociais</td>
+   <td>Botão social</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -260,7 +260,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se precisar 
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>Nunca executado</td>
+   <td>nunca executar</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -329,7 +329,7 @@ Abaixo estão os ícones da nova interface do Adobe Marketo Engage. Se precisar 
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td>
    <td><img src="assets/aborted.png"></td>
-   <td>Anulado</td>
+   <td>Anulado(s)</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>

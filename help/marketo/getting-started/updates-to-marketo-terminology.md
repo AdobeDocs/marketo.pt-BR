@@ -4,9 +4,9 @@ description: Atualizações na terminologia do Marketo - Documentos do Marketo -
 hide: true
 hidefromtoc: true
 title: Atualizações na terminologia do Marketo
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '328'
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+workflow-type: tm+mt
+source-wordcount: '359'
 ht-degree: 100%
 
 ---

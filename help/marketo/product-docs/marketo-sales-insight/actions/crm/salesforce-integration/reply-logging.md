@@ -2,13 +2,12 @@
 description: Saiba mais sobre o registro de respostas para que as respostas do cliente potencial sejam registradas no Salesforce. Habilitar Respostas de Log quando o log da API estiver ativado e o rastreamento de respostas estiver disponível.
 title: Registro de respostas
 hide: true
-hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 2%
+source-wordcount: '273'
+ht-degree: 4%
 
 ---
 

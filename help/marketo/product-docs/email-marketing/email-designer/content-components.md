@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1308'
-ht-degree: 42%
+source-wordcount: '1320'
+ht-degree: 37%
 
 ---
 
@@ -76,7 +76,7 @@ Use o componente **[!UICONTROL Botão]** para inserir um ou vários botões no e
 
    CAPTURA DE TELA
 
-1. Você pode personalizar ainda mais seu botão alterando atributos de estilo como **[!UICONTROL Borda]**, **[!UICONTROL Tamanho]**, **[!UICONTROL Margem]** etc., do painel **[!UICONTROL Configurações do componente]**.
+1. Você pode personalizar ainda mais seu botão alterando atributos de estilo como **[!UICONTROL Borda]**, **[!UICONTROL Tamanho]**, **[!UICONTROL Margem]**, etc. do painel **[!UICONTROL Configurações de componente]**.
 
 ## Texto {#text}
 
@@ -107,7 +107,7 @@ CAPTURA DE TELA
    * **[!UICONTROL Duplicar]**: adicione uma cópia do seu componente de texto.
    * **[!UICONTROL Excluir]**: exclua o componente de texto selecionado do seu email.
 
-1. Ajuste os outros atributos de estilo, como cor do texto, família da fonte, borda, preenchimento, margem etc., na guia **[!UICONTROL Estilos]**.
+1. Ajuste os outros atributos de estilo, como cor do texto, família da fonte, borda, preenchimento, margem, etc., na guia **[!UICONTROL Estilos]**.
 
    CAPTURA DE TELA
 
@@ -164,7 +164,7 @@ Use o componente **[!UICONTROL Imagem]** para inserir um arquivo de imagem do se
 
 1. Você também pode optar por **[!UICONTROL Localizar fotos semelhantes do Stock]**. `[Learn more](../integrations/stock.md)`
 
-1. Na guia **[!UICONTROL Estilos]**, ajuste os outros atributos de estilo, como margem, borda etc. ou adicione um link para redirecionar o seu público-alvo para outro conteúdo a partir do painel **[!UICONTROL Configurações do componente]**.
+1. Na guia **[!UICONTROL Estilos]**, ajuste os outros atributos de estilo, como margem, borda etc., ou adicione um link para redirecionar o público-alvo para outro conteúdo do painel **[!UICONTROL Configurações de componente]**.
 
 ## Redes sociais {#social}
 

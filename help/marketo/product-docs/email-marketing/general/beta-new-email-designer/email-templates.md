@@ -2,13 +2,12 @@
 description: Saiba mais sobre modelos de email no novo Designer de email. Crie e reutilize modelos para agilizar a criação de emails no Marketo Engage.
 title: Modelos de email
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1745'
-ht-degree: 3%
+source-wordcount: '1786'
+ht-degree: 4%
 
 ---
 
