@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
+source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
 workflow-type: tm+mt
-source-wordcount: '8829'
+source-wordcount: '8827'
 ht-degree: 96%
 
 ---
@@ -30,7 +30,6 @@ ht-degree: 96%
       + [Novas práticas recomendadas da instância: documentar sua configuração](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + O que você deve saber {#things-to-know}
       + [Glossário do Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
-      + {hide-from-toc}[Novo glossário](getting-started/things-to-know/new-glossary.md)
       + [Ícone do glossário](getting-started/things-to-know/icon-glossary.md)
       + [Ícone glossário clássico](getting-started/things-to-know/classic-icon-glossary.md)
       + [Central de ajuda](getting-started/things-to-know/help-center.md)
@@ -1118,7 +1117,7 @@ ht-degree: 96%
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
