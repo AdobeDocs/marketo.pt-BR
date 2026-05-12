@@ -4,9 +4,9 @@ description: Saiba mais sobre a exibição de Tendência de insights de desempen
 title: Visão geral da tendência de insights de desempenho
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Clique na guia **[!UICONTROL Tendência]** para acessar esta exibição.
 
 ![](assets/2-1.png)
 
-Selecione a métrica para exibir o desempenho. Neste exemplo, analisaremos as oportunidades conquistadas via [[!UICONTROL Primeiro contato]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Selecione a métrica para exibir o desempenho.
 
 ![](assets/3-2.png)
 

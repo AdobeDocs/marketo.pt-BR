@@ -4,7 +4,7 @@ description: Notas de versão - fevereiro de 2014 - Documentação do Marketo - 
 title: Notas de versão - fevereiro de 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 3%
@@ -45,7 +45,7 @@ Adicionamos a Pontuação de engajamento ao [[!UICONTROL Relatório de desempenh
 
 ## Detalhes do programa na análise de e-mail {#program-details-in-email-analysis}
 
-[Agora você pode agrupar suas métricas de email por Nome do Programa, Canal e Marcas](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). O nome do programa é adicionado ao campo Nome do email quando o email é um ativo local do Programa. O novo campo Nome do programa mostra o nome do programa da campanha inteligente que enviou o email. Isso pode ser diferente do programa no campo Nome do email se o email for um ativo local de um programa diferente.
+Agora é possível agrupar suas métricas de email por Nome do programa, Canal e Tags. O nome do programa é adicionado ao campo Nome do email quando o email é um ativo local do Programa. O novo campo Nome do programa mostra o nome do programa da campanha inteligente que enviou o email. Isso pode ser diferente do programa no campo Nome do email se o email for um ativo local de um programa diferente.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 

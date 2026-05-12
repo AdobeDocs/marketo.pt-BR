@@ -4,9 +4,9 @@ description: Integre várias contas do  [!DNL Google AdWords]  com a Marketo usa
 title: Adicionar [!DNL Google AdWords] como um [!DNL Launchpoint] Serviço com uma Conta de Gerente
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '309'
 ht-degree: 2%
 
 ---
@@ -93,7 +93,3 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
    Consulte o Artigo Relacionado abaixo para saber como mapear [!DNL AdWords] conversões offline no seu modelo de receita.
-
-   >[!MORELIKETHIS]
-   >
-   >[Definir [!DNL Google AdWords] Conversões no Modelo de Receita com uma Conta de Gerente](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

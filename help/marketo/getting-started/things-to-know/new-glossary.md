@@ -5,10 +5,10 @@ title: Glossário do Marketo Engage
 feature: Getting Started
 hide: true
 exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '6168'
-ht-degree: 63%
+source-wordcount: '6113'
+ht-degree: 62%
 
 ---
 
@@ -863,14 +863,6 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
   <tr>
    <td colspan="1"><strong>Endereço do caminho de retorno</strong></td>
    <td colspan="1">O endereço de email real de onde uma mensagem se origina, diferente do email no campo “Remetente”. </td>
-  </tr>
-  <tr>
-   <td><strong>Análise do ciclo de receita (RCA)</strong></td>
-   <td>Um recurso complementar que contém várias ferramentas projetadas para ajudar você a aprimorar os relatórios em sua instância.</td>
-  </tr>
-  <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>Modelo de receita</strong></a></td>
-   <td colspan="1">Uma ferramenta da <strong>análise do ciclo de receita (RCA)</strong> que usa uma série de estágios, permitindo que você rastreie onde seu <strong>lead</strong> está em qualquer momento durante seu esforço para convertê-los.</td>
   </tr>
   <tr>
    <td><strong>Função</strong></td>

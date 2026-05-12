@@ -3,9 +3,9 @@ description: Configure a seção Atividades de marketing para sua nova instânci
 title: Novas práticas recomendadas de instância - lista de verificação de atividades de marketing
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '1387'
+source-wordcount: '1363'
 ht-degree: 2%
 
 ---
@@ -102,7 +102,7 @@ Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/i
   </tr>
   <tr>
     <td>Gerenciar assinaturas de relatório</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=pt-BR" target="_blank">Configurar assinaturas de relatório</a> em Atividades de marketing ou em Análises para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=pt-BR" target="_blank">relatórios básicos</a> ou <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html?lang=pt-BR" target="_blank">relatórios do Gerenciador de Ciclo de Receita</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=pt-BR" target="_blank">Configurar assinaturas de relatório</a> em Atividades de marketing ou Análises para <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=pt-BR" target="_blank">relatórios básicos</a>.</li></td>
   </tr>
 </tbody>
 </table>

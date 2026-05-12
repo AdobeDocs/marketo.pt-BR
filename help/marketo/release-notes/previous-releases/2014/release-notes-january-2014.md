@@ -4,10 +4,10 @@ description: Notas de versão - Janeiro de 2014 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 4%
+source-wordcount: '301'
+ht-degree: 3%
 
 ---
 
@@ -47,6 +47,6 @@ Longe vão os dias de retirar o código html de formulários colocados em págin
 
 ## Campos adicionais na análise de associação de programa {#additional-fields-in-program-membership-analysis}
 
-Agora você pode adicionar e agrupar suas métricas da [Análise de Associação do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) por cliente potencial e atributos da empresa. Por exemplo, é possível adicionar o campo Setor para ver a divisão dos membros e os sucessos do programa.
+Agora é possível adicionar e agrupar suas métricas de Análise de participação no programa por atributos de cliente potencial e de empresa. Por exemplo, é possível adicionar o campo Setor para ver a divisão dos membros e os sucessos do programa.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

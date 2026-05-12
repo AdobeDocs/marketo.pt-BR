@@ -4,7 +4,7 @@ description: Notas de versão - fevereiro de 2013 - Documentação do Marketo - 
 title: Notas de versão - fevereiro de 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 1%
@@ -33,4 +33,4 @@ O ponto de extremidade de API preferencial do SOAP foi atualizado, mostrado em [
 
 ## Em breve: suporte para vários modelos {#coming-soon-support-for-multiple-models}
 
-Estamos estabelecendo as bases para oferecer suporte a vários modelos de ciclo de receita, votou a ideia #1 para a RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo [Filtros de Smart List e Adicionar Opções em Etapas de Fluxo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md), para oferecer suporte à seleção de um modelo e estágio. Também estamos removendo os campos Estágio da Receita Principal e Modelo de Ciclo de Receita Principal da guia de grade de Cliente Potencial da Smart List.
+Estamos preparando o terreno para dar suporte a vários modelos de ciclo de receita, votou a ideia #1 para a RCA na Comunidade, em uma versão futura. Nesta versão, você observará algumas alterações, incluindo filtros de Smart List e Adicionar opções em Etapas de fluxo para suportar a seleção de um modelo e estágio. Também estamos removendo os campos Estágio da Receita Principal e Modelo de Ciclo de Receita Principal da guia de grade de Cliente Potencial da Smart List.

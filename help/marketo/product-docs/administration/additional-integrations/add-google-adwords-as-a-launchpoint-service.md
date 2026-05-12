@@ -4,9 +4,9 @@ description: Link [!DNL Google AdWords] para o Marketo via LaunchPoint para carr
 title: Adicionar [!DNL Google AdWords] como um [!DNL LaunchPoint] Serviço
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '284'
 ht-degree: 2%
 
 ---
@@ -91,7 +91,3 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
    >[A marcação automática](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} deve ser selecionada para que este recurso funcione. A desativação deve ser feita dentro de [!DNL AdWords].
 
 Consulte o Artigo Relacionado abaixo para saber como mapear [!DNL AdWords] conversões offline no seu modelo de receita.
-
->[!MORELIKETHIS]
->
->[Definir [!DNL Google AdWords] Conversões no Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md){target="_blank"}

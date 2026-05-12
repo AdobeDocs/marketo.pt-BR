@@ -4,10 +4,10 @@ description: Saiba mais sobre os tipos de relatórios disponíveis, incluindo De
 title: Visão geral do tipo de relatório
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: f69cd13e686da48a531d7affb7ce224cf42f1806
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 15%
+source-wordcount: '235'
+ht-degree: 17%
 
 ---
 
@@ -46,16 +46,8 @@ Quando você [cria um relatório em um programa](/help/marketo/product-docs/repo
    <td>Geração automática de relatórios com base no campo Status da Pessoa.</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Relatório de pessoas por estágio da receita</a></strong></td>
-   <td>Relatórios básicos para seu Modelo de receita. Consulte <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análise do ciclo de receita</a> para obter relatórios mais profundos.</td>
-  </tr>
-  <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Desempenho da página</a>  </strong></td>
    <td>Visualize visitas, conversões e outras métricas para suas landing pages.</td>
-  </tr>
-  <tr>
-   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Desempenho do programa</a>  </strong></td>
-   <td>Métricas básicas do programa, como membros e sucesso. Consulte <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Análise do ciclo de receita</a> para obter relatórios mais profundos.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Atividade da empresa na Web</a></strong></td>

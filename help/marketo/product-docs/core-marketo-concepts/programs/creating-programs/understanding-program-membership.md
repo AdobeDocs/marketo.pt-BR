@@ -4,9 +4,9 @@ description: Saiba mais sobre associação a programas e como as pessoas entram 
 title: Noções básicas sobre assinaturas de programas
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '271'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,7 @@ O objetivo de um programa é criar uma interação significativa com a pessoa ou
 
 ## Programa de aquisição {#acquisition-program}
 
-Quando um novo nome entra no sistema como um membro do programa, a Marketo define automaticamente esse programa como &quot;aquisição&quot;. Isso estabelece crédito para [atribuição First-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
+Quando um novo nome entra no sistema como um membro do programa, a Marketo define automaticamente esse programa como &quot;aquisição&quot;.
 
 >[!MORELIKETHIS]
 >
