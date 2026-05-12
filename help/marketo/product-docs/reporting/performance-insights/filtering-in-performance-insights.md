@@ -4,10 +4,10 @@ description: Saiba como filtrar dados de Insights de desempenho por listas de co
 title: Filtragem de insights de desempenho
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 5%
+source-wordcount: '325'
+ht-degree: 4%
 
 ---
 
@@ -49,15 +49,11 @@ Você pode remover um filtro a qualquer momento clicando no X ao lado dele. Remo
  <tbody>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">Lista de contas ABM</span></strong></td>
-   <td colspan="1">Se você estiver usando o Marketo ABM, todas as suas listas de contas serão sincronizadas com o MPI e estarão visíveis por meio do filtro ‘Lista de contas do ABM’. Você pode selecionar uma lista de contas para filtrar os resultados para essas contas.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Saiba mais sobre as listas de contas ABM.</a></td>
+   <td colspan="1">Se você estiver usando o Marketo ABM, todas as suas listas de contas serão sincronizadas com o MPI e estarão visíveis por meio do filtro 'Lista de contas do ABM'. Você pode selecionar uma lista de contas para filtrar os resultados para essas contas.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Saiba mais sobre as listas de contas ABM.</a></td>
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">Conta nomeada ABM</span></strong></td>
-   <td colspan="1">Se você estiver usando o Marketo ABM, todas as suas contas nomeadas serão sincronizadas com o MPI e estarão visíveis por meio do filtro ‘Conta nomeada ABM’. Você pode selecionar uma conta nomeada para filtrar os resultados para essas contas.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Saiba mais sobre contas nomeadas ABM.</a></td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong><span class="uicontrol">Atributo personalizado</span></strong></td>
-   <td colspan="1"><p>Estes são determinados por você. Todos os campos <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">que você habilitar</a> para a análise de oportunidade podem ser filtrados em Performance Insights.</p></td>
+   <td colspan="1">Se você estiver usando o Marketo ABM, todas as contas nomeadas serão sincronizadas com o MPI e estarão visíveis por meio do filtro "Conta nomeada ABM". Você pode selecionar uma conta nomeada para filtrar os resultados para essas contas.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Saiba mais sobre contas nomeadas ABM.</a></td>
   </tr>
   <tr>
    <td colspan="1"><p><strong><span class="uicontrol">Período de investimento</span></strong></p></td>

@@ -4,9 +4,9 @@ description: Como definir as opções de atribuição de primeiro e de multitoqu
 title: Alterar configurações de atribuição do Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '174'
 ht-degree: 5%
 
 ---
@@ -14,8 +14,6 @@ ht-degree: 5%
 # Alterar configurações de atribuição do Analytics {#change-attribution-settings-for-analytics}
 
 Você pode alterar a maneira como a Marketo vincula contatos a oportunidades para atribuição de primeiro e de vários contatos, métricas de conversão de clientes potenciais e o sinalizador de oportunidade influenciada por marketing.
-
-Essas configurações afetarão os relatórios do [!UICONTROL Explorador de Receita] nas áreas [Análise de Oportunidade do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Análise de Oportunidade](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) e Análise de Cliente Potencial. Isso também afetará o relatório do [!UICONTROL Program Analyzer].
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

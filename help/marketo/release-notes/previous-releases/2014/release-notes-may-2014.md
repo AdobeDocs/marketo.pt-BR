@@ -4,9 +4,9 @@ description: Notas de versão - maio de 2014 - Documentação do Marketo - Docum
 title: Notas de versão - maio de 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---
@@ -69,11 +69,11 @@ Baixe a última versão do [!UICONTROL Sales Insight] da AppExchange para que se
 
 ## Status do Programa e Período de Sucesso na Análise de Associação ao Programa {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Visualize quantos [membros estão em cada Status do Programa](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando eles foram alterados para cada status, incluindo a data em que obtiveram êxito no Programa.
+Veja quantos membros estão em cada Status do Programa e quando eles foram alterados para cada status, incluindo a data em que obtiveram êxito no Programa.
 
 ## Emails de Teste A/B na [!UICONTROL Análise de email] {#a-b-test-emails-in-email-analysis}
 
-Relatório sobre cada uma das [variantes de email de teste A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) em [!UICONTROL Análise de email].
+Relate cada uma das variantes de email de teste A/B na [!UICONTROL Análise de email].
 
 ## Alterações de empacotamento do Analytics {#analytics-packaging-changes}
 

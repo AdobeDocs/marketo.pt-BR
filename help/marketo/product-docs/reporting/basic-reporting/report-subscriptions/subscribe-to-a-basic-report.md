@@ -4,20 +4,16 @@ description: Saiba como assinar endereços de email a relatórios básicos para 
 title: Assinar um relatório básico
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
 # Assinar um relatório básico {#subscribe-to-a-basic-report}
 
 Para receber atualizações automáticas de um relatório básico ou compartilhá-las, você pode inscrever qualquer endereço de email em um relatório existente.
-
->[!NOTE]
->
->Para assinaturas de relatório do Revenue Cycle Explorer, consulte [Assinar um Relatório do Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 

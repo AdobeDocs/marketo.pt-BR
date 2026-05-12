@@ -4,7 +4,7 @@ description: Saiba mais sobre a visualização de contribuição do Performance 
 title: Visão geral da contribuição de insights de desempenho
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 1%
@@ -20,10 +20,6 @@ No Marketo [!UICONTROL Performance Insights], a exibição da Contribuição é 
 Selecione a métrica para exibir o desempenho. Neste exemplo, analisaremos as oportunidades conquistadas via **[!UICONTROL multitoque]** no painel _[!UICONTROL Receita]_.
 
 ![](assets/2.png)
-
->[!NOTE]
->
->Saiba mais sobre [[!UICONTROL Primeiro contato] e [!UICONTROL Multitoque]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Escolha para qual período você gostaria de ver as métricas. Neste exemplo, estamos observando o ano atual (acumulado no ano).
 

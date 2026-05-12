@@ -4,10 +4,10 @@ description: Saiba como filtrar pessoas em relatórios usando listas inteligente
 title: Filtrar pessoas em um relatório com uma lista inteligente
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 34%
+source-wordcount: '143'
+ht-degree: 32%
 
 ---
 
@@ -19,7 +19,6 @@ Você pode usar smart lists com estes tipos de relatórios:
 
 * [Desempenho das pessoas](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Pessoas por status](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Pessoas por estágio da receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [Desempenho do e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Desempenho do link do e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Desempenho do fluxo de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
