@@ -59,11 +59,11 @@ Quando você [cria um relatório em um programa](/help/marketo/product-docs/repo
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Relatório de desempenho do fluxo de engajamento</a> </strong></td>
-   <td>Veja como o seu <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de envolvimento</a> está funcionando.</td>
+   <td>Veja como o seu <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de envolvimento</a> está funcionando.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Desempenho de e-mail da campanha</a> </strong></td>
-   <td>Veja como o seu <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de envolvimento</a> está funcionando.</td>
+   <td>Veja como o seu <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programa de envolvimento</a> está funcionando.</td>
   </tr>
  </tbody>
 </table>
