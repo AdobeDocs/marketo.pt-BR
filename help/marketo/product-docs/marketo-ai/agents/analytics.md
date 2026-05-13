@@ -1,0 +1,45 @@
+---
+description: Converse com a IA da Marketo sobre os dados de desempenho do Marketo Engage. Faça perguntas em linguagem simples e obtenha respostas com base no seu ambiente do Marketo.
+title: Analytics
+beta: true
+hide: true
+source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
+workflow-type: tm+mt
+source-wordcount: '451'
+ht-degree: 0%
+
+---
+
+# Analytics {#analytics}
+
+O Analytics permite conversar sobre os dados de desempenho do Marketo. Faça perguntas em linguagem simples e obtenha respostas com base no seu ambiente do Marketo.
+
+>[!PREREQUISITES]
+>
+>Você deve ter acesso aos programas e relatórios sobre os quais está consultando.
+
+## Como usar {#how-to-use}
+
+1. Em Minha Marketo, clique no bloco **Criar com IA**.
+
+1. Na janela do prompt, faça uma pergunta sobre o desempenho. Seja específico sobre o período ou programa, se você tiver um em mente.
+
+1. Revise os retornos resumidos da IA do Marketo. Ele incluirá métricas principais como taxas de abertura, taxas de clique, taxas de conversão e contagens de clientes potenciais, dependendo do que você solicitou.
+
+1. Faça perguntas complementares para explorar áreas específicas (por exemplo, &quot;Qual email naquele programa tinha a maior taxa de cliques?&quot;) ou &quot;Como isso se compara ao trimestre passado?&quot;).
+
+## Casos de uso {#use-cases}
+
+**Análise trimestral do programa**: um gerente de geração de demanda está se preparando para uma reunião de análise da campanha. Eles perguntam: &quot;Como meus programas de educação do segundo trimestre funcionaram em geral?&quot; A Marketo AI retorna taxas de abertura, taxas de clique para abrir, taxas de cancelamento de inscrição e o número de pessoas/leads que progrediram para MQL em todos os programas de criação do segundo trimestre, com uma observação sobre quais programas tiveram desempenho melhor que a média do grupo.
+
+**Comparando duas campanhas**: um gerente de campanha executou duas versões de uma série de convites de webinário com linhas de assunto diferentes. Eles perguntam: &quot;Como o programa de webinário de abril se comparou com o de março em termos de taxa de inscrição?&quot; A Marketo AI retorna os números de registro para cada um e destaca a diferença para que possam ver qual abordagem funcionou melhor.
+
+**Encontrando conteúdo com melhor desempenho**: um especialista em operações de marketing quer saber quais ativos de email impulsionaram mais engajamento no mês passado. Eles perguntam: &quot;Quais emails tiveram as maiores taxas de cliques em maio?&quot; A IA do Marketo retorna uma lista classificada de ativos de email com taxas de clique, para que possam identificar o que repercutiu e informar as decisões de conteúdo futuras.
+
+## Itens a serem observados {#things-to-note}
+
+* **As respostas do Analytics são baseadas nos dados disponíveis na sua instância do Marketo**: se um programa não for rastreado ou uma métrica não for capturada, a IA do Marketo não poderá criar relatórios sobre ele.
+* **Intervalos de datas muito grandes ou perguntas amplas podem retornar resumos de alto nível em vez de detalhes granulares**: por exemplo, &quot;Como todos os meus programas tiveram desempenho nos últimos dois anos?&quot;
+* **A IA do Marketo pode exibir dados, mas não pode fazer alterações** em seus programas ou relatórios com base no que ela encontra.
+* **Para obter relatórios personalizados detalhados com filtros e detalhamentos específicos**, as ferramentas de relatório integradas do Marketo ou uma integração de BI podem ser mais apropriadas.
+* **A atribuição em campanhas multitoque requer a configuração adequada do programa**: a IA do Marketo informará sobre o que é rastreado, não inferirá a atribuição que não foi configurada.
