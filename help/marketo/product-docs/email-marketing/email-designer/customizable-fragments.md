@@ -8,20 +8,14 @@ feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
 TQID: https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 8ba2ac1fa056e96aac50abbde16042e522779ab3
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: fdc003d7aed05d85687427d9455bb806eb33d0b2
 workflow-type: tm+mt
-source-wordcount: 1410
+source-wordcount: 1403
 ht-degree: 0%
 
 ---
@@ -40,7 +34,7 @@ Para tornar partes de um fragmento visual editáveis, siga estas etapas:
 
 >[!NOTE]
 >
->Campos editáveis podem ser adicionados aos componentes **imagem**, **texto** e **botão**. Para componentes do **HTML**, os campos editáveis são adicionados usando o editor de personalização, semelhante aos fragmentos de expressão. [Saiba como adicionar campos editáveis em componentes do HTML e fragmentos de expressão](#expression)
+>Campos editáveis podem ser adicionados aos componentes **imagem**, **texto** e **botão**. Para componentes do **HTML**, os campos editáveis são adicionados usando o editor de personalização, semelhante aos fragmentos de expressão. [Saiba mais sobre campos editáveis em componentes do HTML em fragmentos](#editable-html)
 
 1. Abra a tela de edição de conteúdo do fragmento.
 
@@ -64,7 +58,7 @@ Para tornar partes de um fragmento visual editáveis, siga estas etapas:
 
 Depois de adicionar o fragmento a um email, os usuários podem personalizar todos os campos editáveis configurados no fragmento.
 
-## Adicionar campos editáveis a componentes do HTML e fragmentos de expressão {#expression}
+## Componentes editáveis do HTML em fragmentos {#editable-html}
 
 Em um componente do HTML, os seguintes tipos de elementos podem se tornar editáveis:
 
