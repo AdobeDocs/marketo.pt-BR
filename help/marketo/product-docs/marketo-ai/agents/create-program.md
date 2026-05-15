@@ -3,9 +3,9 @@ description: Use a IA do Marketo para criar um programa do Marketo a partir de u
 title: Criar programa
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ Descreva uma campanha de marketing em linguagem simples e a IA do Marketo criar�
 
 >[!PREREQUISITES]
 >
->Você deve ter permissão para criar programas em sua conta do Marketo.
+>* Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+>
+>* Você deve ter permissão para criar programas em sua conta do Marketo.
 
 ## Como usar {#how-to-use}
 
@@ -48,8 +50,8 @@ Descreva uma campanha de marketing em linguagem simples e a IA do Marketo criar�
 
 ## Itens a serem observados {#things-to-note}
 
-* **Tenha uma ideia clara do que a campanha deve fazer**: quem é o público-alvo, qual ação o aciona (ou se é um envio em lote) e qual é a meta.
-* **Nenhum modelo ou formulário é necessário desde o início**: a IA do Marketo cria a estrutura e você pode conectar os ativos posteriormente (você ainda é responsável por gravar uma cópia de email e configurar páginas de aterrissagem).
-* **A IA do Marketo não pode acessar suas listas de público-alvo existentes automaticamente**: você deve conectar filtros de lista inteligente aos seus segmentos reais após a criação do programa.
-* **Programas complexos de várias etapas** com lógica de ramificação avançada podem precisar de refinamento manual após a criação.
-* **Se o ambiente do Marketo usa convenções de nomenclatura ou estruturas de pastas**: especifique-as no resumo para que o programa seja criado no lugar certo.
+* Tenha uma ideia clara do que a campanha deve fazer; quem é o público-alvo, que ação aciona (ou se é um envio em lote) e qual é o objetivo.
+* Nenhum modelo ou formulário é necessário antecipadamente. A IA do Marketo cria a estrutura e você pode conectar os ativos posteriormente (você ainda é responsável por escrever uma cópia de email e configurar quaisquer páginas de aterrissagem).
+* A IA do Marketo não pode acessar suas listas de públicos-alvo existentes automaticamente. Você deve conectar filtros de lista inteligente aos segmentos reais depois que o programa for criado.
+* Programas complexos de várias etapas com lógica de ramificação avançada podem precisar de refinamento manual após a criação.
+* Se o ambiente do Marketo usar convenções de nomenclatura ou estruturas de pastas. Especifique-os no seu resumo para que o programa seja criado no lugar certo.

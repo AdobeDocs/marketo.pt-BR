@@ -3,9 +3,9 @@ description: O programa Clone duplica um programa Marketo existente em uma nova 
 title: Clonar programa
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,10 @@ O agente do programa Clone copia um programa de trabalho, incluindo campanhas in
 
 >[!PREREQUISITES]
 >
+>* Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+>
 >* Você deve ter permissão para criar programas na pasta de destino.
+>
 >* O programa de origem que você deseja clonar já deve existir em seu ambiente do Marketo.
 
 ## Como usar {#how-to-use}
@@ -43,8 +46,8 @@ O agente do programa Clone copia um programa de trabalho, incluindo campanhas in
 
 ## Itens a serem observados {#things-to-note}
 
-* **Programas clonados são criados em um estado desativado**: nada entra em vigor até que você ative as campanhas inteligentes.
-* **Os ativos de email no clone são cópias, não compartilhadas com o original**: as alterações nos emails do clone não afetarão o programa de origem.
-* **Os tokens usados no programa de origem são copiados para o clone**: no entanto, eles ainda devem ser atualizados com novos valores (datas, URLs, nomes de eventos).
-* **Os filtros de campanha inteligente no clone fazem referência às mesmas listas e campos que os originais**: revise e atualize o direcionamento do público-alvo antes de ativar.
-* **Os ativos locais que fazem referência a outros programas ou listas compartilhadas são copiados para o clone**: essas referências devem ser revisadas antes da ativação.
+* Os programas clonados são criados em um estado desativado. Nada é publicado até que você ative as campanhas inteligentes.
+* Os ativos de email no clone são cópias, não compartilhadas com o original. As alterações nos emails do clone não afetarão o programa de origem.
+* Os tokens usados no programa de origem são copiados para o clone. No entanto, eles ainda devem ser atualizados com novos valores (datas, URLs, nomes de eventos).
+* Os filtros de campanha inteligente no clone fazem referência às mesmas listas e campos que os originais. Revise e atualize o direcionamento de público-alvo antes de ativar.
+* Os ativos locais que fazem referência a outros programas ou listas compartilhadas são copiados para o clone. Essas referências devem ser revisadas antes da ativação.

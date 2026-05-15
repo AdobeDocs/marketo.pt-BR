@@ -4,9 +4,9 @@ title: Investigar lead
 beta: true
 hide: true
 hidefromtoc: true
-source-git-commit: a2c170ced2119a86ffe1f2da1bde212afa4841f0
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,9 @@ Descubra por que uma pessoa/cliente potencial específico não atingiu um marco 
 
 >[!PREREQUISITES]
 >
->Você deve ter acesso de visualização ao registro de cliente potencial e ao programa ou marco que está investigando.
-
-## Como funciona
-
-Você informa à Marketo AI qual lead você está investigando e qual marco ou resultado você esperava. A Marketo AI verifica o histórico de atividades do lead, o registro de pontuação, a associação ao programa, o histórico de qualificação de campanha inteligente e quaisquer filtros ou regras de supressão relevantes. Em seguida, ele retorna uma explicação clara do que bloqueou ou atrasou o resultado esperado — por exemplo, &quot;A pontuação deste lead atingiu 48, mas o limite MQL é 50&quot; ou &quot;Este lead foi excluído da campanha porque a subscrição foi cancelada em 3 de março&quot;.
+>* Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+>
+>* Você deve ter acesso de visualização ao registro de cliente potencial e ao programa ou marco que está investigando.
 
 ## Como usar {#how-to-use}
 
@@ -29,9 +27,9 @@ Você informa à Marketo AI qual lead você está investigando e qual marco ou r
 
 1. Na janela do prompt, descreva o que você está investigando. Inclua o cliente potencial (por email ou nome) e o que você esperava que acontecesse.
 
->[!NOTE]
->
->Exemplos: &quot;Por que `john.smith@example.com` não atingiu o MQL no mês passado?&quot; ou &quot;Por que Brenda Gonzales não foi adicionada ao programa de webinário do terceiro trimestre?&quot;
+   >[!NOTE]
+   >
+   >Exemplos: &quot;Por que `john.smith@example.com` não atingiu o MQL no mês passado?&quot; ou &quot;Por que Sato Hanako não foi adicionado ao programa do webinário do terceiro trimestre?&quot;
 
 1. A IA do Marketo traz o histórico do lead e de relevância.
 
@@ -39,24 +37,18 @@ Você informa à Marketo AI qual lead você está investigando e qual marco ou r
 
 1. Realize uma ação com base na conclusão: corrija um problema de dados, ajuste um filtro, atualize a pontuação do lead ou aceite que o resultado foi correto.
 
-## Exemplos
+## Casos de uso {#use-cases}
 
-**Limite de MQL não atingido**
-Um gerente de geração de demanda percebe um lead que as vendas sinalizaram como interessadas, mas que nunca atingiram a MQL. Ela pergunta: &quot;Por que o david.chen@techcorp.com não chegou ao MQL?&quot; A Marketo AI descobre que a pontuação comportamental do lead é 42 (8 pontos abaixo do limite MQL de 50) e lista as atividades de pontuação que contribuíram. Ela pode ver exatamente quais comportamentos empurrariam a liderança acima do limiar.
+**Limite de MQL não atingido**: um gerente de geração de demanda percebe um cliente potencial que as vendas sinalizaram como interessado, mas que nunca atingiu o MQL. Eles perguntam: &quot;Por que `david.chen@techcorp.com` não chegou ao MQL?&quot; A Marketo AI descobre que a pontuação comportamental do lead é 42 (8 pontos abaixo do limite MQL de 50) e lista as atividades de pontuação que contribuíram. Eles podem ver exatamente quais comportamentos empurrariam o lead acima do limite.
 
-**Ignorar campanha devido à supressão**
-Um gerente de campanha pergunta por que um contato específico não recebeu um email de convite que foi para o restante da lista. A IA do Marketo descobre que o contato está na lista de marketing suspenso, o que os exclui automaticamente de todos os envios de campanha. O gerente entra em contato diretamente com o contato para investigar por que ele foi suprimido.
+**Ignorar campanha devido à supressão**: um gerente de campanha pergunta por que um contato específico não recebeu um email de convite que foi para o restante da lista. A IA do Marketo descobre que o contato está na lista de marketing suspenso, o que os exclui automaticamente de todos os envios de campanha. O gerente entra em contato com eles diretamente para investigar por que eles foram suprimidos.
 
-**Falha na qualificação do programa**
-Um especialista em operações de marketing está solucionando por que um lead que participou de um webinário não foi adicionado ao programa de acompanhamento pós-evento. A IA do Marketo rastreia o problema: o lead foi registrado, mas foi marcado como &quot;Não aparecer&quot; no programa do evento, e o filtro de campanha de acompanhamento requer o status &quot;Presente&quot;. O status foi definido incorretamente na integração.
+**Falha na qualificação do programa**: um especialista em operações de marketing está solucionando o motivo pelo qual um cliente potencial que participou de um webinário não foi adicionado ao programa de acompanhamento pós-evento. A IA do Marketo rastreia o problema: o lead foi registrado, mas foi marcado como &quot;Não aparecer&quot; no programa do evento, e o filtro de campanha de acompanhamento requer o status &quot;Presente&quot;. O status foi definido incorretamente na integração.
 
-**Chumbo preso em uma estrutura**
-Um gerente de geração de demanda percebe que um lead está na mesma fase de criação por 90 dias, sem progressão. Ela pede que a Marketo AI investigue. Ele descobre que a pontuação de engajamento do lead caiu abaixo do limite necessário para avançar para o próximo estágio e que o lead não abriu um email em 60 dias — qualificando-os para a ramificação de reengajamento.
+## Itens a serem observados {#things-to-note}
 
-## Dicas e limitações
-
-* A investigação de lead explica o que aconteceu com base na atividade e configuração gravadas da Marketo — ela não pode explicar as decisões tomadas fora do Marketo (por exemplo, por que um lead foi removido manualmente por um colega).
+* Investigação de lead explica o que aconteceu com base na atividade e configuração registradas da Marketo. Ele não pode explicar decisões tomadas fora do Marketo (por exemplo, por que um lead foi removido manualmente por um colega).
 * Se o histórico de atividades de um lead for muito longo, a IA do Marketo se concentra nos eventos mais recentes e relevantes relacionados à sua pergunta.
-* A Investigação de Cliente Potencial é somente leitura. Ela informará o que aconteceu, mas não fará alterações no registro de cliente potencial ou na associação ao programa.
-* Para problemas que resultam em problemas de qualidade de dados (valores de campo ausentes, fonte de cliente potencial incorreta), a correção precisará ser feita manualmente no registro de cliente potencial.
+* A investigação de lead é somente leitura. Ele informa o que aconteceu, mas não faz alterações no registro principal ou na associação ao programa.
+* Para problemas que resultam em problemas de qualidade de dados (valores de campo ausentes, fonte de cliente potencial incorreta), a correção deve ser feita manualmente no registro de cliente potencial.
 * Se a investigação revelar um problema de lógica de campanha inteligente que afete muitos clientes potenciais, use o Controle de qualidade do programa para analisar a configuração completa do programa.

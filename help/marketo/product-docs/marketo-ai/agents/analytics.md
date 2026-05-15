@@ -3,9 +3,9 @@ description: Converse com a IA da Marketo sobre os dados de desempenho do Market
 title: Analytics
 beta: true
 hide: true
-source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ O Analytics permite conversar sobre os dados de desempenho do Marketo. Faça per
 
 >[!PREREQUISITES]
 >
->Você deve ter acesso aos programas e relatórios sobre os quais está consultando.
+>* Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+>
+>* Você deve ter acesso aos programas e relatórios sobre os quais está consultando.
 
 ## Como usar {#how-to-use}
 
@@ -38,8 +40,8 @@ O Analytics permite conversar sobre os dados de desempenho do Marketo. Faça per
 
 ## Itens a serem observados {#things-to-note}
 
-* **As respostas do Analytics são baseadas nos dados disponíveis na sua instância do Marketo**: se um programa não for rastreado ou uma métrica não for capturada, a IA do Marketo não poderá criar relatórios sobre ele.
-* **Intervalos de datas muito grandes ou perguntas amplas podem retornar resumos de alto nível em vez de detalhes granulares**: por exemplo, &quot;Como todos os meus programas tiveram desempenho nos últimos dois anos?&quot;
-* **A IA do Marketo pode exibir dados, mas não pode fazer alterações** em seus programas ou relatórios com base no que ela encontra.
-* **Para obter relatórios personalizados detalhados com filtros e detalhamentos específicos**, as ferramentas de relatório integradas do Marketo ou uma integração de BI podem ser mais apropriadas.
-* **A atribuição em campanhas multitoque requer a configuração adequada do programa**: a IA do Marketo informará sobre o que é rastreado, não inferirá a atribuição que não foi configurada.
+* As respostas do Analytics são baseadas nos dados disponíveis na instância do Marketo. Se um programa não for rastreado ou uma métrica não for capturada, a IA do Marketo não poderá relatar isso.
+* Intervalos de datas muito grandes ou perguntas amplas podem retornar resumos de alto nível em vez de detalhes granulares. Por exemplo, &quot;Como foi o desempenho de todos os meus programas nos últimos dois anos?&quot;
+* A IA do Marketo pode exibir dados, mas não pode fazer alterações em seus programas ou relatórios com base no que encontra.
+* Para relatórios personalizados detalhados com filtros e detalhamentos específicos, as ferramentas de relatório integradas do Marketo ou uma integração de BI podem ser mais apropriadas.
+* A atribuição em campanhas multitoque requer a configuração adequada do programa. A IA do Marketo informará sobre o que é rastreado, não inferirá a atribuição que não foi configurada.

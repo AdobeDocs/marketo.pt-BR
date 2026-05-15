@@ -3,9 +3,9 @@ description: Saiba como usar o agente Importar clientes em potencial para carreg
 title: Importar clientes em potencial
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo.
 
+>[!PREREQUISITES]
+>
+>Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+
 >[!NOTE]
 >
->Esse recurso está na versão beta aberta e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar um bloco _Build com IA_ na tela Minha Marketo.
+>Esse recurso está na versão beta fechada e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar um bloco _Build com IA_ na tela Minha Marketo.
 
 ## Como usar {#how-to-use}
 
@@ -28,7 +32,7 @@ Importe e desduplique listas de clientes potenciais no banco de dados do Marketo
 
    ![](assets/import-leads-2.png)
 
-   Você é direcionado à tela de IA de conversação. No painel esquerdo, o Agente publica orientações, respostas e opções para quais recursos de normalização de dados executar.
+   Você é direcionado à tela de IA de conversação. O painel esquerdo exibe orientações, respostas e opções de normalização de dados disponíveis.
 
    ![](assets/import-leads-3.png)
 
@@ -36,7 +40,7 @@ Importe e desduplique listas de clientes potenciais no banco de dados do Marketo
 
    ![](assets/import-leads-4.png)
 
-1. Digite _Lista de importações_ e clique em **Enviar**.
+1. Digite &quot;Lista de importações&quot; e clique em **Enviar**.
 
    ![](assets/import-leads-5.png)
 
@@ -66,4 +70,4 @@ Importe e desduplique listas de clientes potenciais no banco de dados do Marketo
 
    ![](assets/import-leads-10.png)
 
-Quando a importação for concluída, a verificação receberá um resumo dos clientes potenciais processados, linhas com falha e avisos.
+Quando a importação for concluída, um resumo de verificação será exibido mostrando clientes em potencial processados, linhas com falha e avisos.
