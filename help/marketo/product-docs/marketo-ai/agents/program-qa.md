@@ -3,9 +3,9 @@ description: Saiba como auditar seus programas em busca de práticas recomendada
 title: Controle de qualidade do programa
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Faça auditoria de seus programas para obter as práticas recomendadas para todos os componentes, como emails, landing pages, campanhas e muito mais.
 
+>[!PREREQUISITES]
+>
+>Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+
 >[!NOTE]
 >
->Esse recurso está na versão beta aberta e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar um bloco _Build com IA_ na tela Minha Marketo.
+>Esse recurso está na versão beta fechada e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar um bloco _Build com IA_ na tela Minha Marketo.
 
 ## Como usar {#how-to-use}
 
@@ -34,7 +38,7 @@ Faça auditoria de seus programas para obter as práticas recomendadas para todo
 
    ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-   Um resumo do programa é exibido no painel central, fornecendo uma visão geral do programa.
+   Um resumo do programa selecionado é exibido no painel central.
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
