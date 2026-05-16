@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modelo 3D {#template-3d}
 
-Clique com o botão direito do mouse para [baixar Modelo 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Clique com o botão direito do mouse para [baixar Modelo 3D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=pt-BR)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -34,4 +34,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[Modelo 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=pt-BR)

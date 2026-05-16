@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modelo 6D {#template-6d}
 
-Clique com o botão direito do mouse para [baixar o Modelo 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+Clique com o botão direito do mouse para [baixar o Modelo 6D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=pt-BR)
 
 ![](assets/image2015-7-29-12-3a1-3a21.png)
 
@@ -33,4 +33,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html)
+[Modelo 6D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6d.html?lang=pt-BR)

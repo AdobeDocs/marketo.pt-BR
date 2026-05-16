@@ -29,7 +29,7 @@ Verifique se você está configurado corretamente na Comunidade do Marketo Engag
 
 * Leia as [**diretrizes da Comunidade da Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Saiba como [**enviar um caso de suporte**](https://experienceleague.adobe.com/en/support#home){target="_blank"} e confirmar se você está configurado como [Administrador de Suporte](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
+* Saiba como [**enviar um caso de suporte**](https://experienceleague.adobe.com/pt-br/support#home){target="_blank"} e confirmar se você está configurado como [Administrador de Suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
 ## Mesclar os perfis da comunidade do Marketo Engage {#merge-your-community-profiles}
 
@@ -80,10 +80,10 @@ Você também pode [baixar as listas de verificação](/help/marketo/getting-sta
 
 Precisa de mais ajuda? Conecte-se conosco ou com outros usuários do Marketo Engage pelos links abaixo.
 
-* Para obter assistência técnica com algo que não está funcionando corretamente, contate o **[Suporte ao Cliente da Marketo Engage](https://experienceleague.adobe.com/en/support){target="_blank"}**.
+* Para obter assistência técnica com algo que não está funcionando corretamente, contate o **[Suporte ao Cliente da Marketo Engage](https://experienceleague.adobe.com/pt-br/support){target="_blank"}**.
 
 * Conecte-se e aprenda com outros usuários do Marketo Engage na **[Comunidade do Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
-* Para obter assistência prática para aproveitar ao máximo sua instância do Marketo Engage, entre em contato com o **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Para obter assistência prática para aproveitar ao máximo sua instância do Marketo Engage, entre em contato com o **[Adobe Professional Services](https://business.adobe.com/br/products/marketo/services-support.html){target="_blank"}**.
 
-* Assista a **[vídeos tutoriais preparados](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** sobre diferentes aspectos do Marketo Engage.
+* Assista a **[vídeos tutoriais preparados](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR){target="_blank"}** sobre diferentes aspectos do Marketo Engage.

@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modelo 18B {#template-18b}
 
-Clique com o botão direito para [baixar o Modelo 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
+Clique com o botão direito para [baixar o Modelo 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=pt-BR)
 
 ![](assets/image2015-8-17-18-3a6-3a30.png)
 
@@ -34,4 +34,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
+[Modelo 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=pt-BR)

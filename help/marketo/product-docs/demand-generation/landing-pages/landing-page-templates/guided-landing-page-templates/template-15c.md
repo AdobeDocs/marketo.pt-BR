@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modelo 15C {#template-15c}
 
-Clique com o botão direito para [baixar o Modelo 15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
+Clique com o botão direito para [baixar o Modelo 15C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html?lang=pt-BR)
 
 ![](assets/image2015-8-13-13-3a40-3a23.png)
 
@@ -33,4 +33,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 15C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html)
+[Modelo 15C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15c.html?lang=pt-BR)

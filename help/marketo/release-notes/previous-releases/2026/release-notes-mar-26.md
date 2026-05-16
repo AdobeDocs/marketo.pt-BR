@@ -40,7 +40,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Email Designer - Componentes editáveis do HTML em fragmentos</strong>: dentro de fragmentos visuais, campos editáveis são suportados em componentes de imagem, texto e botão por meio do painel de propriedades do componente. Para componentes HTML, os campos editáveis são configurados de forma diferente, usando uma sintaxe baseada em variáveis dentro do código-fonte do próprio componente HTML.
    </td>
    <td>Lançado</i></td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componentes editáveis do HTML em fragmentos</a></td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componentes editáveis do HTML em fragmentos</a></td>
   </tr>
   <tr>
    <td> </td>

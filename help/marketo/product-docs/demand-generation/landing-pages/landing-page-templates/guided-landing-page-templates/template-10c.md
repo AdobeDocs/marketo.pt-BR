@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modelo 10C {#template-10c}
 
-Clique com o botão direito para [baixar o Modelo 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+Clique com o botão direito para [baixar o Modelo 10C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html?lang=pt-BR)
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 
@@ -33,4 +33,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
+[Modelo 10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html?lang=pt-BR)

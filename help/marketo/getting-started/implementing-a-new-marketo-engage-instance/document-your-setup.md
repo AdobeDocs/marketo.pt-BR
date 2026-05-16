@@ -37,8 +37,8 @@ Agora que você aprendeu as principais áreas de produto para configurar uma nov
 <tbody>
   <tr>
     <td>Importação de lista</td>
-    <td><li>Obtenha uma lista das fontes de dados das quais os registros serão extraídos para <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importar para o Marketo Engage</a>.</li>
-    <li>Se você estiver importando de várias fontes de dados, considere usar Listas Mestras ou <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">criar um campo personalizado</a> no registro de pessoa para indicar a fonte de dados.</li></td>
+    <td><li>Obtenha uma lista das fontes de dados das quais os registros serão extraídos para <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importar para o Marketo Engage</a>.</li>
+    <li>Se você estiver importando de várias fontes de dados, considere usar Listas Mestras ou <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">criar um campo personalizado</a> no registro de pessoa para indicar a fonte de dados.</li></td>
   </tr>
   <tr>
     <td>Integração de banco de dados</td>
@@ -74,11 +74,11 @@ Agora que você aprendeu as principais áreas de produto para configurar uma nov
   </tr>
   <tr>
     <td>Organização</td>
-    <td><li>Documente a estrutura de pastas acordada, as convenções de nomenclatura padrão para programas, ativos, etc. e o porquê por trás das decisões tomadas. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Saiba mais sobre as práticas recomendadas aqui.</a></li></td>
+    <td><li>Documente a estrutura de pastas acordada, as convenções de nomenclatura padrão para programas, ativos, etc. e o porquê por trás das decisões tomadas. <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Saiba mais sobre as práticas recomendadas aqui.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>Crie um changelog no qual você pode documentar o que está mudando na sua instância e o porquê das modificações. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Saiba mais sobre as práticas recomendadas aqui.</a></li></td>
+    <td><li>Crie um changelog no qual você pode documentar o que está mudando na sua instância e o porquê das modificações. <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Saiba mais sobre as práticas recomendadas aqui.</a></li></td>
   </tr>
   <tr>
     <td>Manuais de estratégia</td>

@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Modelo 8C {#template-8c}
 
-Clique com o botão direito do mouse para [baixar o Modelo 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+Clique com o botão direito do mouse para [baixar o Modelo 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=pt-BR)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 
@@ -34,4 +34,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+[Modelo 8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=pt-BR)

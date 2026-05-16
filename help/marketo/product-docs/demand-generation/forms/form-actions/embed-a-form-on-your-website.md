@@ -55,6 +55,6 @@ Agora basta fornecer o código de inserção ao desenvolvedor da Web e adicioná
 
 >[!NOTE]
 >
->Se o desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a ele a [Página de Desenvolvedores do Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Se o desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a ele a [Página de Desenvolvedores do Forms 2.0](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 Para obter o código da lightbox, consulte [Usar um Formulário em uma Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).
