@@ -4,8 +4,10 @@ title: Glossário de atividades de vendas
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 597
@@ -41,7 +43,7 @@ As atividades abaixo serão registradas no Marketo a partir de [!DNL Sales Conne
   <td>[!UICONTROL ID de Modelo]</td>
  </tr>
  <tr>
-  <td>URL do Modelo de Vendas [!UICONTROL]</td>
+  <td>URL do Modelo de Vendas </td>
  </tr>
  <tr>
   <td>URL da [!UICONTROL Campanha de Vendas]</td>

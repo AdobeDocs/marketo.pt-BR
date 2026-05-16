@@ -4,7 +4,8 @@ title: Visão geral da pesquisa avançada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 445
@@ -85,13 +86,13 @@ Há três status de email para escolher. As opções de tipo/atividade mudam com
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Status: Enviado**_
+_&#x200B;**Status: Enviado**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtros de acordo com a atividade de email enviada. Você pode escolher [!UICONTROL exibições]/[!UICONTROL nenhuma exibição], [!UICONTROL cliques]/[!UICONTROL nenhum clique] e/ou [!UICONTROL respostas]/[!UICONTROL nenhuma resposta].
 
-_**Status: Pendente**_
+_&#x200B;**Status: Pendente**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -116,7 +117,7 @@ Filtra por todos os emails pendentes.
  </tr>
 </table>
 
-_**Status: não entregue**_
+_&#x200B;**Status: não entregue**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

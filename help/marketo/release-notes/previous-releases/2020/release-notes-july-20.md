@@ -5,10 +5,19 @@ title: Notas de versão - julho de 20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
 TQID: https://experienceleague.adobe.com/m0gaKwTahjs5M2I7i-XVYMLZT4COy0XRTYwIsd3p9g8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-subfeature_v2: id: f5e85a9b-a883-40d0-8759-f3651efb32e9
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 651
@@ -68,6 +77,6 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 * **Remoção do parâmetro &quot;_method&quot; da API de ativos**: a partir de setembro de 2020, os pontos de extremidade da API de ativos não aceitarão mais &quot;_method&quot; para transmitir os Parâmetros de consulta em um corpo POST para ignorar as limitações de comprimento de URI. Para acomodar solicitações que exigem esse parâmetro, os limites de URI para APIs de ativos serão aumentados de 8 KB para 65 KB.
 * **[[!DNL Munchkin] Associar cliente potencial](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: nesta versão do Munchkin JavaScript Client, versão 159, iniciaremos a desativação do método [!DNL Munchkin] Associar cliente potencial. Se chamado, você receberá um aviso indicando que o método será removido em uma versão futura. Depois de removido, o método não estará mais funcional e as tentativas de usá-lo falharão. Os clientes do Marketo Engage que utilizaram esse método recentemente serão notificados individualmente sobre seu uso.
-* **Suporte para o Internet Explorer**: conforme anunciado anteriormente, o suporte do Marketo Engage para o Internet Explorer 11 termina em **31 de julho de 2020**. Continuaremos a oferecer suporte a [!DNL Google Chrome], [!DNL Mozilla Firefox],[!DNL  Apple Safari] e [!DNL Microsoft Edge].
+* **Suporte para o Internet Explorer**: conforme anunciado anteriormente, o suporte do Marketo Engage para o Internet Explorer 11 termina em **31 de julho de 2020**. Continuaremos a oferecer suporte a [!DNL Google Chrome], [!DNL Mozilla Firefox],[!DNL &#x200B; Apple Safari] e [!DNL Microsoft Edge].
 * **Experiência Padrão do Sky**: a opção para administradores ou usuários definirem [!DNL Marketo Sky] como a experiência padrão será removida nesta versão como preparação para uma atualização da experiência do usuário principal. Mais detalhes sobre a atualização da experiência principal, programada para o final deste ano, estarão disponíveis em julho. Os usuários que definiram [!DNL Marketo Sky] como sua experiência padrão, ou que receberam acesso a [!DNL Marketo Sky], podem continuar a acessar [!DNL Marketo Sky] de um bloco da home page do My Marketo.
 * **Suporte a [!DNL Microsoft Edge] EdgeHTML (não Chromium)**: a Marketo Engage não oferecerá mais suporte a versões EdgeHTML do Microsoft Edge no final de 2020. A partir de 1º de janeiro de 2021, ofereceremos suporte somente à versão mais recente do Chromium do Microsoft Edge.

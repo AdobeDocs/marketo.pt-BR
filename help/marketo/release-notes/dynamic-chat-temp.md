@@ -5,7 +5,8 @@ feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
 TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 933
@@ -37,7 +38,7 @@ Renovamos a lógica de roteamento de chat ao vivo no Dynamic Chat para garantir 
 
 * **Comportamento específico da regra de roteamento**
 
-_**Roteamento de conta**_
+_&#x200B;**Roteamento de conta**&#x200B;_
 
 Se o domínio de email de um visitante for mapeado para uma conta conhecida, o agente mapeado sempre será priorizado.
 
@@ -54,7 +55,7 @@ Em vez disso, ele:
 
 A regra de roteamento no nível do cartão (por exemplo, Equipe, Personalizado) só será considerada se o Roteamento de conta não for elegível (nenhum domínio ou agente correspondente).
 
-_**Roteamento personalizado/de equipe**_
+_&#x200B;**Roteamento personalizado/de equipe**&#x200B;_
 
 Essas regras podem retornar vários agentes elegíveis.
 
@@ -68,7 +69,7 @@ Se nenhum dos agentes gerar engajamento:
 -ou-
 * Exibirá a mensagem de fallback padrão.
 
-_**Roteamento Round Robin**_
+_&#x200B;**Roteamento Round Robin**&#x200B;_
 
 Quando usado como uma regra de roteiro principal, o sistema:
 
@@ -78,7 +79,7 @@ Quando usado como uma regra de roteiro principal, o sistema:
 
 Se Round Robin for usado como fallback, ele será ativado somente se nenhum agente for resolvido a partir da regra principal.
 
-_**Fluxo de experiência do visitante**_
+_&#x200B;**Fluxo de experiência do visitante**&#x200B;_
 
 O sistema verifica se o roteamento de conta deve ser aplicado.
 
@@ -102,7 +103,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível é e
 
 ##### Casos de uso {#use-cases}
 
-_**Roteamento de conta**_
+_&#x200B;**Roteamento de conta**&#x200B;_
 
 <table><thead>
   <tr>
@@ -128,7 +129,7 @@ _**Roteamento de conta**_
   </tr>
 </tbody></table>
 
-_**Roteamento personalizado**_
+_&#x200B;**Roteamento personalizado**&#x200B;_
 
 <table><thead>
   <tr>
@@ -154,7 +155,7 @@ _**Roteamento personalizado**_
   </tr>
 </tbody></table>
 
-_**Roteamento de equipe**_
+_&#x200B;**Roteamento de equipe**&#x200B;_
 
 <table><thead>
   <tr>
@@ -180,7 +181,7 @@ _**Roteamento de equipe**_
   </tr>
 </tbody></table>
 
-_**Roteamento Round Robin**_
+_&#x200B;**Roteamento Round Robin**&#x200B;_
 
 <table><thead>
   <tr>
