@@ -4,9 +4,13 @@ description: Saiba mais sobre a compreensão da análise de conteúdo no Marketo
 title: Noções básicas sobre análise de conteúdo
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/LYR0jnGcjfCf-R3YoxNQBArEuj0a5TTidVBBmSWoNq4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: 390
 ht-degree: 2%
 
 ---
@@ -86,7 +90,7 @@ As análises de conteúdo adicionais incluem:
 
 * **[!UICONTROL Exibições]**: exibições desse conteúdo para o escopo de tempo selecionado
 * **[!UICONTROL Conversões diretas]**: visitantes da Web que visualizaram o conteúdo e preencheram um formulário na mesma visita.
-* **[!UICONTROL Taxa de Conversão]**&#x200B;**:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
+* **[!UICONTROL Taxa de Conversão]****:** Uma taxa de conversão de porcentagem calculada por Conversões Diretas divididas por Cliques
 
 **[!UICONTROL Tendências]**
 

@@ -1,23 +1,26 @@
 ---
 unique-page-id: 2359665
 description: Saiba como definir a cadência de fluxo para programas de envolvimento. Programe conversões semanais ou mensais e, opcionalmente, use o fuso horário do recipient.
-title: Definir cadência dos fluxos
+title: Definir Cadência de Fluxo
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 3%
+source-wordcount: 381
+ht-degree: 0%
 
 ---
 
-# Definir cadência dos fluxos {#set-stream-cadence}
+# Definir Cadência de Fluxo {#set-stream-cadence}
 
 Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. Por exemplo: uma vez por semana ou a cada três terças-feiras do mês.
 
 ## Definir cadência {#set-cadence}
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +30,7 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
 1. Selecione com que frequência você deseja que a cadência se repita. Você pode escolher **[!UICONTROL Semanalmente]** ou **[!UICONTROL Mensalmente]**.
 
-## Semanal {#weekly}
+## Semanalmente {#weekly}
 
 1. Selecione **[!UICONTROL Semanalmente]**.
 

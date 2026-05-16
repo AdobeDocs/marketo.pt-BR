@@ -3,9 +3,13 @@ description: Notas de versão do Dynamic Chat - Documentos do Marketo - Document
 title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '3551'
+source-wordcount: 3551
 ht-degree: 94%
 
 ---
@@ -20,11 +24,11 @@ Para acessar a página de notas de versão padrão do Marketo Engage [clique aqu
 
 ### Limite de tempo de espera do visitante {#visitor-wait-time}
 
-Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Baixar transcrição {#download-transcript}
 
-Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versão de junho de 2025 {#june-2025-release}
 
@@ -114,7 +118,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível é e
 
 <p>
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 <table><thead>
   <tr>
@@ -140,7 +144,7 @@ _&#x200B;**Roteamento de conta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento personalizado**&#x200B;_
+_**Roteamento personalizado**_
 
 <table><thead>
   <tr>
@@ -166,7 +170,7 @@ _&#x200B;**Roteamento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento de equipe**&#x200B;_
+_**Roteamento de equipe**_
 
 <table><thead>
   <tr>
@@ -192,7 +196,7 @@ _&#x200B;**Roteamento de equipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 <table><thead>
   <tr>

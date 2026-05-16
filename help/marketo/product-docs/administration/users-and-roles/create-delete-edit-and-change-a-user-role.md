@@ -1,30 +1,35 @@
 ---
 unique-page-id: 2360198
 description: Etapas para criar, excluir e editar funções de usuário, incluindo funções de nomenclatura, seleção de permissões e quais funções do sistema não podem ser alteradas.
-title: Criar, excluir, editar e alterar uma função de usuário
+title: Criar, Deletar, Editar e Alterar uma Atribuição do Usuário
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+TQID: https://experienceleague.adobe.com/JcgZAmTXB5rvXJGwvBbK20FxB4w7t-AlYx0rkn4ccT0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 8%
+source-wordcount: 281
+ht-degree: 0%
 
 ---
 
-# Criar, excluir, editar e alterar uma função de usuário {#create-delete-edit-and-change-a-user-role}
+# Criar, Deletar, Editar e Alterar uma Atribuição do Usuário {#create-delete-edit-and-change-a-user-role}
 
 **Funções** agrupam um conjunto de permissões. **Permissões** permitem que você execute ações no Marketo. Você atribui uma **função** a um usuário.
 
 >[!NOTE]
 >
->**Permissões de administrador são necessárias**
+>**Permissões de administrador necessárias**
 
 >[!IMPORTANT]
 >
 >As seguintes funções são funções do sistema e não podem ser excluídas:
 >
 >* Admin
->* Administrador de produtos da Adobe
+>* Administrador de produto do Adobe
 
 ## Criar uma função {#create-a-role}
 

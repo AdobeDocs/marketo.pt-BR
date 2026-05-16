@@ -2,9 +2,13 @@
 description: Saiba como sincronizar atividades de vendas com o Salesforce por meio da API ou do Cco. Configure o email e o registro de chamadas.
 title: Sincronizar atividades de vendas com o Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/enTE6uqTCWaafotiQUOpOPKYit0m9ov9FNCCsyJ8H9U
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: 775
 ht-degree: 2%
 
 ---

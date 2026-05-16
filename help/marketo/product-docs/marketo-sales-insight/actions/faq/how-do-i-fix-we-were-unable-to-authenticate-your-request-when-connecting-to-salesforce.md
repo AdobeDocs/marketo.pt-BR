@@ -3,9 +3,11 @@ description: Corrigir erros de autenticação ao conectar as Ações do Sales In
 title: Como corrijo "Não foi possível autenticar sua solicitação" ao me conectar ao Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/H2VyryO38T7ohs85rfhLUP-BVUEMf-Yr9rusDrAFq6Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: 352
 ht-degree: 0%
 
 ---

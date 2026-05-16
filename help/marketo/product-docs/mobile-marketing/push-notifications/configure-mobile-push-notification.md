@@ -3,9 +3,12 @@ description: Saiba como configurar uma notificação por push para dispositivos 
 title: Configurar notificação por push para dispositivo móvel
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: 521
 ht-degree: 4%
 
 ---
@@ -82,7 +85,7 @@ Um URI de deep link é composto de três partes: nome do esquema, caminho e iden
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções na definição de URIs de deep link, portanto, peça a ele para enviar os URIs (links) das páginas que você está interessado em usar. Isso garante que os URIs inseridos nas mensagens de push apontem para os locais certos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Dito isso, a estrutura de deep link do seu aplicativo pode ser diferente do exemplo acima. Seu desenvolvedor tem muitas opções na definição de URIs de deep link, portanto, peça a ele para enviar os URIs (links) das páginas que você está interessado em usar. Isso garante que os URIs inseridos nas mensagens de push apontem para os locais certos. Seu desenvolvedor pode [encontrar mais informações aqui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 ## URIs de redirecionamento {#redirect-uris}
 

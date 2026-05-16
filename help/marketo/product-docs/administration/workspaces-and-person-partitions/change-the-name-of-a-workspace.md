@@ -1,21 +1,25 @@
 ---
 unique-page-id: 2360321
 description: Saiba como renomear um espaço de trabalho.
-title: Alterar o nome de um espaço de trabalho
+title: Alterar o nome de uma Workspace
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+TQID: https://experienceleague.adobe.com/iXWjE1SnJ3DowqnPN7wy3EidoDwvhe-nKvih4OtrE7M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 20%
+source-wordcount: 74
+ht-degree: 0%
 
 ---
 
-# Alterar o nome de um espaço de trabalho {#change-the-name-of-a-workspace}
+# Alterar o nome de uma Workspace {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
->**Permissões de administrador são necessárias**
+>**Permissões de administrador necessárias**
 
 >[!PREREQUISITES]
 >

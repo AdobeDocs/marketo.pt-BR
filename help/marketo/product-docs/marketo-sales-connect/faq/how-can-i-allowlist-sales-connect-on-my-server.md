@@ -4,9 +4,11 @@ description: Saiba como incluir na lista de permissões o Sales Connect no seu s
 title: Como incluir o Sales Connect na lista de permissões do meu servidor?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/Kd3CN6b68ZF1HZcIfjIayYHL7KTPKMGydbBKqKZ14R8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: 78
 ht-degree: 11%
 
 ---

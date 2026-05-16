@@ -1,17 +1,21 @@
 ---
 unique-page-id: 2359469
 description: Saiba como visualizar o painel do programa de email. Ver as métricas de desempenho e o status do programa num relance.
-title: Exibir o painel do programa de email
+title: Exibir o painel do programa de e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/XFLGP-fP49QTNHdurvS6vs-ZFJu8SUIw3oFyC46ojcc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 6%
+source-wordcount: 233
+ht-degree: 0%
 
 ---
 
-# Exibir o painel do programa de email {#view-the-email-program-dashboard}
+# Exibir o painel do programa de e-mail {#view-the-email-program-dashboard}
 
 Confira o desempenho do seu programa de email (com ou sem um teste A/B) com esse painel.
 
@@ -21,7 +25,7 @@ Confira o desempenho do seu programa de email (com ou sem um teste A/B) com esse
 
 ## Selecione seu programa de email {#select-your-email-program}
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

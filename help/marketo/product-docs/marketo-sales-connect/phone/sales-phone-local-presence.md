@@ -4,9 +4,11 @@ description: Saiba mais sobre a presença local de Telefone de Vendas no Sales C
 title: Presença local do telefone de vendas
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: 153
 ht-degree: 5%
 
 ---

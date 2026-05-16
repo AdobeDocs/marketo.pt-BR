@@ -1,13 +1,17 @@
 ---
 unique-page-id: 7511512
 description: Saiba como instalar e configurar o Marketo Sales Insight no Salesforce Mobile (Salesforce1). Use MSI em dispositivos móveis.
-title: Instalar e configurar o Insight de vendas do Marketo no Salesforce1
+title: Instalar e configurar o Marketo Sales Insight no Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/79BKa7swATbNiThcaosQIdgH4TiW54jnlT22HDVRf0s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 3%
+source-wordcount: 350
+ht-degree: 0%
 
 ---
 
@@ -33,7 +37,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] em [!DNL Salesforce1] inclui: [!DNL BMelhores Opções], Feed de Cliente Potencial, Momentos Interessantes e Adicionar ao Marketo Campaign.
+>[!DNL Marketo Sales Insight] em [!DNL Salesforce1] inclui: [!DNLBMelhores Opções], Feed de Cliente Potencial, Momentos Interessantes e Adicionar ao Marketo Campaign.
 
 ## Habilitar o Aplicativo Móvel [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 
@@ -163,6 +167,6 @@ Ufa! Você acabou de instalar o [!DNL Marketo Sales Insight] para [!DNL Salesfor
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [[!DNL Best Bets] em [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
 >* [Momentos interessantes em [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Enviar emails do Marketo e ações do Campaign e da Lista de favoritos em [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

@@ -3,9 +3,12 @@ description: Saiba como adicionar texto com hiperlink a modelos de email. Insira
 title: Adicionar texto com hiperlink
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/AG9YYnDYtvwKIRym4Rc5vyK0O3UQBz-er4ongNk-dCE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: 135
 ht-degree: 5%
 
 ---
@@ -26,7 +29,7 @@ Siga as etapas abaixo para saber como adicionar hiperlinks aos seus modelos de e
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=pt-BR`). Escolha se deseja que a URL seja aberta na mesma janela ou em uma nova janela e clique em **[!UICONTROL Salvar]**.
+1. Insira a URL à qual você deseja que ela seja vinculada (ou seja, `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Escolha se deseja que a URL seja aberta na mesma janela ou em uma nova janela e clique em **[!UICONTROL Salvar]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

@@ -1,17 +1,19 @@
 ---
 unique-page-id: 11384438
 description: Saiba como configurar o email semanal Relatório de vendas TAM para equipes de conta. Escolha o dia de entrega, a ordem de classificação e quais proprietários de conta ou membros da equipe receberão.
-title: Configuração de relatório do TAM
+title: Configuração de relatório TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/wXMjcc5C-4pYGtgqomP56DSwTgFHvDSoyjCshMWpBG4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 4%
+source-wordcount: 189
+ht-degree: 0%
 
 ---
 
-# Configuração de relatório do TAM {#tam-report-setup}
+# Configuração de relatório TAM {#tam-report-setup}
 
 O Relatório de vendas do TAM é um e-mail personalizado semanal enviado à equipe de conta.
 

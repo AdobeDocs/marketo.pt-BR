@@ -4,16 +4,19 @@ description: Saiba mais sobre o modelo de página de aterrissagem guiada Modelo 
 title: Modelo 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/DdNkGlTxiQaw8UCPtxvcdqN-5giF-qdtmlETUN4JBEs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: 77
+ht-degree: 5%
 
 ---
 
 # Modelo 5B {#template-5b}
 
-Clique com o botão direito do mouse para [baixar Modelo 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=pt-BR)
+Clique com o botão direito do mouse para [baixar Modelo 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 
@@ -29,4 +32,4 @@ Esse template inclui o seguinte conteúdo:
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=pt-BR)
+[Modelo 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)

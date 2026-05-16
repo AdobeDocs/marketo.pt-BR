@@ -1,16 +1,20 @@
 ---
 description: Saiba mais sobre Ações de vendas do Insight e inteligência baseada em marketing e ferramentas de engajamento para vendas. Use email de vendas, campanhas, discador e tarefas para acelerar a prospecção.
-title: Visão geral do recurso Ações de insight de vendas
+title: Visão Geral do Recurso de Ações do Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1375'
-ht-degree: 1%
+source-wordcount: 1390
+ht-degree: 0%
 
 ---
 
-# Visão geral do recurso Ações de insight de vendas {#msi-actions-feature-overview}
+# Visão Geral do Recurso de Ações do Sales Insight {#msi-actions-feature-overview}
 
 Acelere os esforços de prospecção com inteligência baseada em marketing e ferramentas de envolvimento em um único fluxo de trabalho usando as ações de vendas do Insight.
 
@@ -18,7 +22,7 @@ Acelere os esforços de prospecção com inteligência baseada em marketing e fe
 >
 >O Marketo Sales Insight Actions é um aplicativo baseado na Web que se integra exclusivamente ao Salesforce CRM por meio do [pacote Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Às vezes, é chamado de &quot;Vendas do Marketo&quot; ou simplesmente &quot;Ações&quot;.
 
-Para obter uma visão geral em vídeo das Ações do Sales Insight, [clique aqui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=pt-BR){target="_blank"}.
+Para obter uma visão geral em vídeo das Ações do Sales Insight, [clique aqui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -26,7 +30,7 @@ Para obter uma visão geral em vídeo das Ações do Sales Insight, [clique aqui
 
 As seguintes ações estão disponíveis no menu suspenso &quot;Escolher ações&quot; no início da navegação:
 
-* Enviar e-mail de vendas
+* Enviar email de vendas
    * Os emails de vendas têm controle de exibição, clique e resposta (quando o canal de entrega está configurado)
    * Inclui Email Personalization, Assinatura Personalizada e anexos
    * Compartilhamento de modelos e relatórios
@@ -34,7 +38,7 @@ As seguintes ações estão disponíveis no menu suspenso &quot;Escolher ações
    * A atividade de email de vendas será registrada no registro pessoal do Marketo
    * Filtros e acionadores correspondentes nas Campanhas inteligentes do Marketo (detalhes abaixo)
 
-* Adicionar a campanha de vendas
+* Adicionar à campanha de vendas
    * Adicionar leads aos manuais de vendas, que são uma sequência de emails e tarefas
    * Inclui acesso e compartilhamento de equipe, geração de tarefas, fim de semana ignorado, emails OOO como respostas e fim automático
    * A atividade da campanha será registrada no registro pessoal do Marketo
@@ -64,7 +68,7 @@ Os seguintes dados estão disponíveis nas guias no painel MSI:
    * Campanhas de vendas futuras - quando um cliente potencial faz parte de uma campanha contínua, essas informações ficam disponíveis na guia campanhas de vendas futuras
    * Tarefas futuras - Quando houver uma tarefa futura relacionada a um cliente potencial, essas informações estarão disponíveis na guia de tarefas futuras
 
-* Guia Email
+* Guia E-mail
    * Todos os emails de vendas enviados serão registrados aqui. As atividades também serão registradas no registro de pessoa do Marketo
    * As colunas incluem Assunto, Abrir, Clicar, Respondido (disponível somente para email de vendas com canal de entrega configurado), Remetente, Data
    * Inclui o cartão deslizante com detalhes adicionais como Remetente, Modelo, Campanha de Vendas e Visualizar Email
@@ -101,7 +105,7 @@ Os seguintes dados estão disponíveis nas guias:
    * Campanhas de vendas futuras - quando um contato da conta/oportunidade fizer parte de uma campanha contínua, essas informações estarão disponíveis na guia campanhas de vendas futuras
    * Tarefas futuras - Quando houver uma tarefa futura relacionada a um contato da conta/oportunidade, essas informações estarão disponíveis na guia de tarefas futuras
 
-* Guia Email
+* Guia E-mail
    * Todos os emails de vendas enviados aos contatos da conta/oportunidade serão registrados aqui. As atividades também serão registradas no registro de pessoa do Marketo
    * As colunas incluem Assunto, Abrir, Clicar, Respondido (disponível somente para email de vendas com canal de entrega configurado), Remetente e Data
    * Inclui o cartão deslizante com detalhes adicionais como Remetente, Modelo, Campanha de Vendas e Visualizar Email

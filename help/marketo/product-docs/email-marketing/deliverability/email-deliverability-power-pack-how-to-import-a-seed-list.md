@@ -4,9 +4,11 @@ description: Saiba como importar uma lista de propagação para o Marketo Engage
 title: Power Pack de capacidade de entrega de email - Como importar uma lista de seeds
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: 346
 ht-degree: 2%
 
 ---

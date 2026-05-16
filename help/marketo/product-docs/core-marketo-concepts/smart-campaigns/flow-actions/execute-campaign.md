@@ -3,9 +3,13 @@ description: Saiba como usar a etapa Executar fluxo do Campaign. Execute outra C
 title: Executar campanha
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/ggWhZOpbixcuP8E1mXOU4w49S-HQyT-NuXtLhFKGeeU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: 732
 ht-degree: 2%
 
 ---
@@ -60,7 +64,7 @@ Quando definido como true, os seguintes contextos de token serão enviados para 
 
 **Interação de API**
 
-Ao usar a Campanha de agendamento ou solicitação [na API](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem que você passe valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
+Ao usar a Campanha de agendamento ou solicitação [na API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), ambos permitem que você passe valores para Meus tokens, o que substitui os valores definidos para esses tokens na campanha que você está chamando. Se essa campanha executar outra campanha e definir &quot;Usar contexto pai como verdadeiro&quot;, ela usará os valores transmitidos pela API, em vez dos valores definidos no aplicativo.
 
 ## Itens a Observar {#things-to-note}
 

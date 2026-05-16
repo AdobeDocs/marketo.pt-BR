@@ -1,17 +1,22 @@
 ---
 unique-page-id: 2953419
 description: Saiba como usar o editor de rich text para conteúdo de email. Formatar texto, adicionar links e conteúdo de estilo no editor de email.
-title: Uso do editor de rich text
+title: Uso do Editor de Rich Text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/TIBs0w7HaCEdQfctJj7L48APmhsSp22DfNdqGDN0RmM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 3%
+source-wordcount: 759
+ht-degree: 0%
 
 ---
 
-# Uso do editor de rich text {#using-the-rich-text-editor}
+# Uso do Editor de Rich Text {#using-the-rich-text-editor}
 
 O editor de rich text (RTE) é exibido em todo o Marketo e está disponível sempre que você deseja adicionar ou editar conteúdo. Você verá uma versão dele nas landing pages, programas, emails, formulários e trechos. Basta clicar em **[!UICONTROL Editar Rascunho]**, que será exibido para você.
 
@@ -46,12 +51,12 @@ A configuração do elemento de bloco raiz define quais tags vinculam seu conte�
   <tr>
    <th>&lt;p&gt;</th>
    <th>&lt;div&gt;</th>
-   <th>None</th>
+   <th>Nenhum</th>
   </tr>
   <tr>
    <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;O texto é inserido aqui&lt;/p&gt;<br>&lt;/div&gt;</p></td>
    <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;O texto é inserido aqui&lt;/div&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class="mktEditable"&gt;<br>Texto aqui<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>O texto é inserido aqui<br>&lt;/div&gt;</p></td>
   </tr>
  </tbody>
 </table>
@@ -70,35 +75,35 @@ Estes são os recursos que você encontrará em um RTE.
 
 | Ícone | Nome | O que faz |
 |---|---|---|
-| ![--](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Família da fonte] | Escolha o seu estilo — temos muito! |
-| ![--](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Tamanho da Fonte] | Quão grande você quer? 25 opções, de 8px a 90px. |
-| ![--](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL Estilos] | Escolha &#39;Parágrafo&#39; ou seis estilos de cabeçalho (para páginas iniciais). |
-| ![--](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Espaçamento entre linhas] | Escolha a distância entre as linhas. |
-| ![--](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Cor do texto] | Preto, vermelho, ou o que quiser. |
-| ![--](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL Cor do Plano de Fundo] | Destaque para ênfase. |
-| ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Negrito] | **Mais escuro e mais grosso**. |
-| ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Itálico] | *Angled, para ênfase ou cotação* s. |
-| ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Sublinhado] | Coloca uma linha abaixo do texto. |
-| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alinhamento] | Use esse menu suspenso para dispor o texto e as imagens. Centralize-os, escolha o alinhamento à esquerda ou à direita ou espalhe-o de borda a borda com a justificação completa. |
-| ![--](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Escolha marcadores ou números no menu suspenso. Os marcadores são válidos para listas e números com etapas. |
-| ![--](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Recuo] | Escolha mais ou menos recuo. Use para parágrafos ou qualquer texto que desejar destacar. |
-| ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Inserir/Editar Link] | Coloque um link para um site ou outro conteúdo; faça alterações facilmente. |
-| ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Inserir/Editar Imagem] | Uma imagem vale mais do que mil palavras. Solte um em. Clique no ícone de câmera para navegar no Design Studio. Você pode colocar imagens lado a lado. |
-| ![--](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Inserir token] | Uma ferramenta eficiente, ideal para personalização de email e rastreamento de dados. Insira um valor padrão. |
-| ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL Desfazer] | Ih! Vamos voltar uma etapa e tentar novamente. |
-| ![--](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Refazer] | Se estiver realmente OK, retorne ao original. |
-| ![--](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Tabela] | Construa o seu, como este aqui. Um menu suspenso permite configurá-lo. |
-| ![--](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Inserir Âncora] | Solte a âncora! |
-| ![--](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL Linha horizontal] | Muitos usos - Ótimo para dividir seções. |
-| ![--](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL Editar HTML] | Exibe o Editor Source do HTML para que você possa ajustar seu código. |
-| ![--](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Subscrito] | Letras baixas (como em O`<sub>2</sub>`). |
-| ![--](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Sobrescrito] | Você tem o poder! (2`<sup>6</sup>`). |
-| ![--](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Tachado] | `<s>Put a line through text, like this</s>`. |
-| ![--](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Caractere especial] | Quer falar sobre euros? Matemática? Você tem 243 opções. |
-| ![--](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Localizar e Substituir] | Pesquise e altere as coisas com muito mais rapidez do que procurar cada instância por si mesmo. |
-| ![--](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Limpar Formatação] | Devolva as coisas ao padrão. |
-| ![--](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL Cancelar] | Pressione o botão para dizer: &quot;Não importa.&quot; |
-| ![--](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL Salvar] | Pressione o botão para dizer: &quot;OK, eu gostei.&quot; |
+| ![—](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Família da fonte] | Escolha o seu estilo — temos muito! |
+| ![—](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Tamanho da Fonte] | Quão grande você quer? 25 opções, de 8px a 90px. |
+| ![—](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL Estilos] | Escolha &#39;Parágrafo&#39; ou seis estilos de cabeçalho (para páginas iniciais). |
+| ![—](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Espaçamento entre linhas] | Escolha a distância entre as linhas. |
+| ![—](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Cor do texto] | Preto, vermelho, ou o que quiser. |
+| ![—](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL Cor do Plano de Fundo] | Destaque para ênfase. |
+| ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Negrito] | **Mais escuro e mais grosso**. |
+| ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Itálico] | *Angled, para ênfase ou cotação* s. |
+| ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Sublinhado] | Coloca uma linha abaixo do texto. |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alinhamento] | Use esse menu suspenso para dispor o texto e as imagens. Centralize-os, escolha o alinhamento à esquerda ou à direita ou espalhe-o de borda a borda com a justificação completa. |
+| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lista | Escolha marcadores ou números no menu suspenso. Os marcadores são válidos para listas e números com etapas. |
+| ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Recuo] | Escolha mais ou menos recuo. Use para parágrafos ou qualquer texto que desejar destacar. |
+| ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Inserir/Editar Link] | Coloque um link para um site ou outro conteúdo; faça alterações facilmente. |
+| ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Inserir/Editar Imagem] | Uma imagem vale mais do que mil palavras. Solte um em. Clique no ícone de câmera para navegar no Design Studio. Você pode colocar imagens lado a lado. |
+| ![—](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Inserir token] | Uma ferramenta eficiente, ideal para personalização de email e rastreamento de dados. Insira um valor padrão. |
+| ![—](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL Desfazer] | Opa! Vamos voltar uma etapa e tentar novamente. |
+| ![—](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Refazer] | Se estiver realmente OK, retorne ao original. |
+| ![—](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Tabela] | Construa o seu, como este aqui. Um menu suspenso permite configurá-lo. |
+| ![—](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Inserir Âncora] | Solte a âncora! |
+| ![—](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL Linha horizontal] | Muitos usos - Ótimo para dividir seções. |
+| ![—](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL Editar HTML] | Exibe o Editor Source do HTML para que você possa ajustar seu código. |
+| ![—](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Subscrito] | Letras baixas (como em O`<sub>2</sub>`). |
+| ![—](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Sobrescrito] | Você tem o poder! (2`<sup>6</sup>`). |
+| ![—](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Tachado] | `<s>Put a line through text, like this</s>`. |
+| ![—](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Caractere especial] | Quer falar sobre euros? Matemática? Você tem 243 opções. |
+| ![—](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Localizar e Substituir] | Pesquise e altere as coisas com muito mais rapidez do que procurar cada instância por si mesmo. |
+| ![—](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Limpar Formatação] | Devolva as coisas ao padrão. |
+| ![—](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL Cancelar] | Pressione o botão para dizer: &quot;Não importa.&quot; |
+| ![—](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL Salvar] | Pressione o botão para dizer: &quot;OK, eu gostei.&quot; |
 
 >[!TIP]
 >
@@ -108,7 +113,7 @@ Estes são os recursos que você encontrará em um RTE.
 >
 >Você não está limitado às fontes no menu suspenso. Você pode usar um não listado acessando o código HTML. Todas as fontes da Web são compatíveis com o Marketo, mas as fontes da Web não funcionam universalmente em todos os clientes de email.
 
-## Páginas de destino {#landing-pages}
+## Landing Pages {#landing-pages}
 
 A configuração do elemento de bloco raiz define quais tags vinculam seu conteúdo. Por padrão, o elemento de bloco raiz da página de aterrissagem usa `<div>` tags. Você tem a opção de alterar isso, seguindo as etapas abaixo.
 

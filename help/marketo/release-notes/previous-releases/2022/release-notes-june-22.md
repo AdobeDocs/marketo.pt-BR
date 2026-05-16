@@ -3,9 +3,14 @@ description: Notas de versão - junho de 2022 - Documentação do Marketo - Docu
 title: Notas de versão – Junho de 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/7AVr5aiUkEGNwpZMiQpl2JrhsX9yKP85aTcJhHwuXDY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: 620
 ht-degree: 6%
 
 ---
@@ -38,8 +43,8 @@ Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implan
 
 **Novos Modos de Exibição de Alternância**: os modos de exibição abaixo agora estão disponíveis na Experiência da Próxima Geração:
 
-* [Exibir detalhes do email](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [Exibição da Lista de Emails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [Exibição de detalhes do email](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [Exibição da lista de emails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Automação de experiência {#experience-automation}
 
@@ -77,4 +82,4 @@ Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implan
 
 **_Webinar de lançamento de produto_**
 
-[Webinar da versão de junho e agosto de 2022 do Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[Webinário da versão de junho e agosto de 2022 do Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

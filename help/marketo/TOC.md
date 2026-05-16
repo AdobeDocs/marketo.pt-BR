@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 1304a6808830d22a368bd8eed5e7540396372a08
+source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8840'
 ht-degree: 96%
 
 ---
@@ -1122,7 +1122,7 @@ ht-degree: 96%
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
@@ -1863,6 +1863,7 @@ ht-degree: 96%
       + 2026 {#2026}
          + [Notas de versão: janeiro de 2026](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [Notas de versão: 26 de fevereiro](release-notes/previous-releases/2026/release-notes-feb-26.md)
+         + [Notas de versão: março de 2026](release-notes/previous-releases/2026/release-notes-mar-26.md)
       + 2025 {#2025}
          + [Notas de versão: janeiro de 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Notas de versão: março de 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)

@@ -1,17 +1,21 @@
 ---
 unique-page-id: 4719400
 description: Crie campanhas da Web na zona que substituem elementos do site com base na ID da zona por conteúdo personalizado ou banners gráficos. Use IDs de zona para segmentar áreas específicas do seu site.
-title: Criar uma nova campanha da web segmentada por zona
+title: Criar uma nova campanha da Web na zona
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/zSJh1nSYnoILoZMXlFcgG7dJmgjlr3tx1H-QCPYsZ-k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '711'
-ht-degree: 4%
+source-wordcount: 715
+ht-degree: 0%
 
 ---
 
-# Criar uma nova campanha da web segmentada por zona {#create-a-new-in-zone-web-campaign}
+# Criar uma nova campanha da Web na zona {#create-a-new-in-zone-web-campaign}
 
 Uma campanha da Web é uma reação personalizada associada a um segmento específico e pode ser uma [caixa de diálogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) no seu site, uma substituição na zona, um [recurso de widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) ou um alerta por email. Uma campanha da Web Na Zona substitui um elemento do seu site com base na ID da Zona por conteúdo ou banners gráficos.
 
@@ -25,7 +29,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Selecione o tipo de campanha **[!UICONTROL Na Zona]**. Personalize e adicione uma **[!UICONTROL ID da Zona].** Defina a campanha como **[!UICONTROL Fixa]** e adicione seu criativo no editor. Adicione a URL da página para visualizar e clique em **[!UICONTROL Visualizar]** para ver como a campanha reagirá no site.
+1. Selecione o tipo de campanha **[!UICONTROL Na Zona]**. Personalizar e adicionar uma **[!UICONTROL ID da Zona].** Defina a campanha como **[!UICONTROL Fixa]** e adicione seu criativo no editor. Adicione a URL da página para visualizar e clique em **[!UICONTROL Visualizar]** para ver como a campanha reagirá no site.
 
    ![](assets/new-3-1.png)
 
@@ -50,8 +54,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
    <td colspan="1" rowspan="1"><p>Insira o nome da id encontrada no código HTML do elemento do site que a campanha substitui.</p></td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong> Fixo
- </strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong> Fixo </strong></p></td>
    <td colspan="1" rowspan="1">A caixa de seleção Fixo é marcada por padrão para a campanha Na zona e mantém a campanha Na zona em sua posição da ID da zona durante toda a sessão do visitante no site. É recomendável ter sempre uma Zona de entrada definida como Fixa.</td>
   </tr>
   <tr>
@@ -59,7 +62,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
    <td colspan="1" rowspan="1">Marcar a caixa de seleção Efeito do uso e Desaparecer fornece um efeito de desvanecimento da área ID da zona no site. Se a Zona de entrada for um banner gráfico, a página será carregada primeiro e a campanha será ativada com um efeito de esmaecimento.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Deslizamento</strong></td>
+   <td colspan="1"><strong>Deslizante</strong></td>
    <td colspan="1">Marcar a caixa de seleção Usar efeito e a opção Deslizante fornece um deslizamento em efeito para a área ID da zona no site. Se a Zona de entrada for um banner gráfico, a página será carregada primeiro e a campanha será ativada com um efeito deslizante da esquerda para a direita.</td>
   </tr>
   <tr>
@@ -103,11 +106,11 @@ Na página **Campanhas da Web**, clique em **Editar** na campanha.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
-## Clonar uma campanha da web {#clone-a-web-campaign}
+## Clonar uma campanha da Web {#clone-a-web-campaign}
 
 Consulte [Clonar uma campanha da Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
-## Excluir uma campanha da web {#delete-a-web-campaign}
+## Excluir uma campanha da Web {#delete-a-web-campaign}
 
 1. Na página Campanhas da Web, clique em **[!UICONTROL Excluir]** na campanha que deseja excluir.
 

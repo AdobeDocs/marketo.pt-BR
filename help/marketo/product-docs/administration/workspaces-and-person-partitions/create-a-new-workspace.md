@@ -4,9 +4,13 @@ description: Etapas para criar um novo espaço de trabalho, incluindo nomeá-lo,
 title: Criar um novo espaço de trabalho
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+TQID: https://experienceleague.adobe.com/sGqhyPt1HtQUKELmXx-4rqLC551Xhb69BvB048xX8HQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 227
 ht-degree: 5%
 
 ---
@@ -28,7 +32,7 @@ Os espaços de trabalho são úteis para subdividir a empresa. Os motivos para c
 
 >[!TIP]
 >
->Para saber mais sobre as práticas recomendadas da Workspace, contate os [Marketo Professional Services](https://business.adobe.com/br/products/marketo/services-support.html){target="_blank"}.
+>Para saber mais sobre as práticas recomendadas da Workspace, contate os [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

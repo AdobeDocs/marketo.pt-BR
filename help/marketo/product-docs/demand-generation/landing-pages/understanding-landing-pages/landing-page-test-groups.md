@@ -1,17 +1,20 @@
 ---
 unique-page-id: 2949904
 description: Saiba mais sobre grupos de teste de landing page no Marketo. Execute testes A/B ou multivariados para comparar o desempenho da landing page.
-title: Grupos de teste de páginas de destino
+title: Grupos de teste de landing page
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 3%
+source-wordcount: 213
+ht-degree: 0%
 
 ---
 
-# Grupos de teste de páginas de destino {#landing-page-test-groups}
+# Grupos de teste de landing page {#landing-page-test-groups}
 
 O Marketo rastreia o número de exibições de página e conclusões de formulário em cada página testada em um Grupo de teste. Você pode usar os resultados do grupo de teste para decidir qual página de aterrissagem é a mais atraente. Veja como criar um grupo de teste.
 

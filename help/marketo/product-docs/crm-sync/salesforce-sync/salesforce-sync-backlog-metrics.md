@@ -3,9 +3,13 @@ description: Saiba mais sobre as métricas de backlog de sincronização do Sale
 title: Métricas de lista de pendências de sincronização do Salesforce
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: 1155
 ht-degree: 1%
 
 ---
@@ -98,9 +102,9 @@ Quando uma grande quantidade de atualizações é feita (como a partir de uma al
 
 **Campos Atualizados com Frequência**: alguns campos estão sujeitos a atualizações frequentes. Por exemplo, campos de moeda que estão sujeitos a alterações de moeda. Verifique se eles precisam ser sincronizados ou se os campos devem ser criados de forma diferente. Se você tiver outros campos que são atualizados com frequência e não são necessários, oculte-os do usuário de sincronização. Converse com o administrador do SFDC sobre integrações que podem estar atualizando campos.
 
-**Objetos personalizados**: revise periodicamente [objetos personalizados](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar e desabilitar aqueles que não precisam mais ser sincronizados.
+**Objetos personalizados**: revise periodicamente [objetos personalizados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar e desabilitar aqueles que não precisam mais ser sincronizados.
 
-**Atividades**: [Verifique se alguma atividade](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitou a sincronização que possa ser removida da sincronização.  Essas atividades só são sincronizadas uma vez por dia por lead.
+**Atividades**: [Verifique se alguma atividade](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitou a sincronização que possa ser removida da sincronização.  Essas atividades só são sincronizadas uma vez por dia por lead.
 
 **Revisar erros de sincronização**: a manipulação de exceções pode retardar a sincronização. A revisão das notificações do usuário e a resolução de erros podem melhorar a integridade da sincronização.
 

@@ -4,10 +4,14 @@ description: Notas de versão - Janeiro de 2014 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
+TQID: https://experienceleague.adobe.com/yZMxP5iYZGzsopzYQ-zw77oiZhqNY-2jJwkdaiQiPTU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 3%
+source-wordcount: 301
+ht-degree: 0%
 
 ---
 
@@ -45,7 +49,7 @@ Longe vão os dias de retirar o código html de formulários colocados em págin
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## Campos adicionais na análise de associação de programa {#additional-fields-in-program-membership-analysis}
+## Campos adicionais na análise de associação ao programa {#additional-fields-in-program-membership-analysis}
 
 Agora é possível adicionar e agrupar suas métricas de Análise de participação no programa por atributos de cliente potencial e de empresa. Por exemplo, é possível adicionar o campo Setor para ver a divisão dos membros e os sucessos do programa.
 

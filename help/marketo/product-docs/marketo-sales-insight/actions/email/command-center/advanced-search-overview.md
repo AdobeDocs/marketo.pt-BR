@@ -3,9 +3,11 @@ description: Saiba como usar a pesquisa avançada no Centro de comando para loca
 title: Visão geral da pesquisa avançada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: 445
 ht-degree: 3%
 
 ---
@@ -83,13 +85,13 @@ Há três status de email para escolher. As opções de tipo/atividade mudam com
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: Enviado**&#x200B;_
+_**Status: Enviado**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtros de acordo com a atividade de email enviada. Você pode escolher [!UICONTROL exibições]/[!UICONTROL nenhuma exibição], [!UICONTROL cliques]/[!UICONTROL nenhum clique] e/ou [!UICONTROL respostas]/[!UICONTROL nenhuma resposta].
 
-_&#x200B;**Status: Pendente**&#x200B;_
+_**Status: Pendente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +116,7 @@ Filtra por todos os emails pendentes.
  </tr>
 </table>
 
-_&#x200B;**Status: não entregue**&#x200B;_
+_**Status: não entregue**_
 
 ![](assets/advanced-search-overview-12.png)
 

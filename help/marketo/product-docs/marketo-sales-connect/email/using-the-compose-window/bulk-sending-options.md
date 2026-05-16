@@ -4,9 +4,11 @@ description: Saiba mais sobre as opções de envio em massa no Sales Connect. Es
 title: Opções de envio em massa
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: 270
 ht-degree: 4%
 
 ---
@@ -37,7 +39,7 @@ O envio de emails em massa é uma ótima maneira de acelerar o engajamento do cl
   </tr>
   <tr>
    <td><p><span>Email do Grupo</span> </p></td>
-   <td><p><span>1.000</span> </p></td>
+   <td><p><span>1,000</span> </p></td>
    <td><p><span>Selecione um grupo e clique</span><span> no botão </span><span>"Ações de Grupo"</span><span>, ou digite o nome do grupo no campo Para. </span> </p></td>
    <td><p><span>Sim</span> </p></td>
    <td><p><span>Não</span> </p></td>

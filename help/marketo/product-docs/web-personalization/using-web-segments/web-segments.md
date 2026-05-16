@@ -4,9 +4,14 @@ description: Saiba mais sobre segmentos da Web no Marketo Engage, incluindo a gu
 title: Segmentos da web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: 2104
 ht-degree: 5%
 
 ---
@@ -17,7 +22,7 @@ ht-degree: 5%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-A guia Segmentos exibe todos os segmentos definidos pelo cliente que você configura com base em vários atributos.  **Um segmento é uma coleção de visitantes que atendem aos critérios especificados na página &#39;Definir um segmento&#39;.** Um segmento pode ser de visitantes de um setor, local ou com base na atividade do visitante no site.
+A guia Segmentos exibe todos os segmentos definidos pelo cliente que você configura com base em vários atributos.  **Um segmento é uma coleção de visitantes que atendem aos critérios especificados na página &#39;Definir um segmento&#39;.**  Um segmento pode ser de visitantes de um setor, local ou com base na atividade do visitante no local.
 
 Em [!DNL Web Personalizatio] , um visitante pode corresponder a mais de um segmento. Por exemplo, se houver um segmento para visitantes dos EUA e um segmento para empresas financeiras, um visitante do Bank of America corresponderá **tanto** o segmento para visitante dos EUA quanto o segmento para empresas financeiras.
 
@@ -149,7 +154,7 @@ Depois que o país for adicionado, também será possível especificar o estado,
 
 >[!TIP]
 >
->**Quais condições de segmento eu escolho? &quot;AND&quot; ou &quot;OR&quot;?** OR funciona como uma opção adicional em cada campo. Os clientes potenciais precisam atender apenas a um critério dos vários critérios selecionados em cada campo para se qualificarem para o segmento. (Por exemplo, clientes potenciais podem ser dos EUA *ou* do setor de defesa). AND funciona como um parâmetro obrigatório adicional que deve ser atendido para esse segmento. (Por exemplo, os clientes potenciais devem ser tanto dos EUA quanto da indústria de defesa). Em cada perfil de segmentação, cada campo separado pode funcionar como ambos, &quot;E&quot; ou &quot;OU&quot;, dependendo da Condição de segmento selecionada.
+>**Quais condições de segmento eu escolho? &#39;AND&#39; ou &#39;OR&#39;?** OR funciona como uma opção adicional em cada campo. Os clientes potenciais precisam atender apenas a um critério dos vários critérios selecionados em cada campo para se qualificarem para o segmento. (Por exemplo, os clientes potenciais podem ser dos EUA. *ou* da indústria de defesa). AND funciona como um parâmetro obrigatório adicional que deve ser atendido para esse segmento. (Por exemplo, os clientes potenciais devem ser tanto dos EUA quanto da indústria de defesa). Em cada perfil de segmentação, cada campo separado pode funcionar como ambos, &quot;E&quot; ou &quot;OU&quot;, dependendo da Condição de segmento selecionada.
 
 **Setores** Na seção **[!UICONTROL Segmentação de Perfil]**, marque a caixa ao lado de **[!UICONTROL Setor]**.
 
@@ -177,7 +182,7 @@ Na seção **[!UICONTROL Segmentação de Perfil]**, marque a caixa ao lado de *
 * **É destas empresas (nomes específicos)**
 
    * Selecione a empresa a ser direcionada no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
-   * Você pode digitar o nome exato da organização que deseja direcionar. *É *sempre* recomendável usar Listas de Contas Nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
+   * Você pode digitar o nome exato da organização que deseja direcionar. *É* sempre* recomendável usar Listas de Contas Nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
 
 **Lista de Contas Nomeadas**
 
@@ -187,7 +192,7 @@ Selecione de uma [Lista de contas nomeadas](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
+>O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
 
 **Excluir ISP**
 
@@ -282,11 +287,11 @@ Visitantes do Target que usam tipos e/ou versões específicas do navegador.
 
 **Eventos de dados** - Segmente visitantes que acionam eventos de dados personalizados específicos
 
-Adicione o valor de Evento que deseja direcionar. Por exemplo, de fontes de dados de terceiros.
+Adicione o valor de Evento que deseja direcionar. E.g. de fontes de dados de terceiros.
 
 **API de Contexto de Usuário**
 
-Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

@@ -1,17 +1,19 @@
 ---
 unique-page-id: 14352482
 description: Entenda como o rastreamento de resposta funciona no Sales Connect. Saiba como as respostas são detectadas e registradas no Salesforce ou no Marketo.
-title: Como funciona o rastreamento de respostas
+title: Como funciona o rastreamento de resposta
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/n3WVUG84dSlzCgmYbR1eSlFOL7dPyGasppSRgqiefMQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 4%
+source-wordcount: 179
+ht-degree: 0%
 
 ---
 
-# Como funciona o rastreamento de respostas {#how-reply-tracking-works}
+# Como funciona o rastreamento de resposta {#how-reply-tracking-works}
 
 O rastreamento de resposta é feito observando uma ID de mensagem que está em todos os emails enviados. Cada email contém uma ID de mensagem exclusiva que nos permite ter um dos melhores controles de resposta disponíveis.
 

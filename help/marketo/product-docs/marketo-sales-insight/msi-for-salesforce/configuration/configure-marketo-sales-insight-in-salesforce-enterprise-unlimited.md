@@ -1,13 +1,17 @@
 ---
 unique-page-id: 2360368
 description: Saiba como configurar o Marketo Sales Insight nas edições Salesforce Enterprise/Unlimited.
-title: Configurar o Insight de vendas do Marketo no Salesforce Enterprise/Unlimited
+title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Dhc6WFTsED3JZMqeDobufqLCCrMAp6x5t3aAa-rLmVA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '946'
-ht-degree: 5%
+source-wordcount: 946
+ht-degree: 0%
 
 ---
 
@@ -159,15 +163,15 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes do AppExchange
 
    * Último momento interessante
    * Data do último momento interessante
-   * Desc. do último momento interessante
-   * Fonte do último momento interessante
-   * Tipo do último momento interessante
+   * Última Descrição de Momento Interessante
+   * Source do último momento interessante
+   * Último tipo de momento interessante
    * Última atividade por vendas
    * Último engajamento por vendas
    * ID de contato MSI
    * Pontuação relativa
-   * Valor de pontuação relativa
-   * Urgência
+   * Valor da pontuação relativa
+   * Urgente
    * Valor de urgência
    * Exibir no Marketo
 

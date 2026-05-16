@@ -4,9 +4,14 @@ description: Saiba mais sobre os painéis rtp personalizados no google universal
 title: Painéis de RTP personalizados no Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: 787
 ht-degree: 2%
 
 ---
@@ -74,7 +79,7 @@ O painel consiste em 3 colunas
      <li><span class="uicontrol">Criar um gráfico de barras que mostre</span>: <span class="uicontrol">Sessão</span></li>
      <li><span class="uicontrol">Agrupado por</span>: <span class="uicontrol">Rótulo de evento</span></li>
      <li><span class="uicontrol">Deslocar por</span>: <span class="uicontrol">Agrupamento de Canais Padrão</span></li>
-     <li>Filtro: <br><span class="uicontrol">Somente Mostrar</span> | <span class="uicontrol">Categoria de Eventos</span> (<span class="uicontrol">contendo</span>) RTP-Segmentos</li>
+     <li>Filtro: <br><span class="uicontrol">Somente Mostrar</span> | <span class="uicontrol">Categoria de eventos</span> (<span class="uicontrol">contendo</span>) RTP-Segmentos</li>
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
@@ -140,8 +145,8 @@ O painel consiste em 3 colunas
     <ul>
      <li>Nome: Sessões e Metas por Segmentos Principais</li>
      <li>Tipo: Tabela<br></li>
-     <li>Exibir as seguintes colunas: <br>Rótulo de Evento | Sessões | Índice de conversão de meta</li>
-     <li>Filtro: <br>Mostrar apenas | Categoria de evento (contendo) Segmentos RTP</li>
+     <li>Exibir as seguintes colunas: <br>Rótulo de Evento | Sessões | Taxa de conversão da meta</li>
+     <li>Filtro: <br>Mostrar apenas | Categoria de evento (contendo) segmentos RTP</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th> </th>
   </tr>

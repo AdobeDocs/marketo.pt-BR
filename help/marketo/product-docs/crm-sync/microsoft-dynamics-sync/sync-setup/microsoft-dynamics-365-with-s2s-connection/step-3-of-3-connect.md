@@ -4,10 +4,12 @@ description: Saiba como conectar a solução Marketo ao Dynamics 365 com conexã
 title: Etapa 3 de 3 - Conectar a solução da Marketo com conexão de servidor a servidor
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 4%
+source-wordcount: 479
+ht-degree: 0%
 
 ---
 
@@ -22,7 +24,7 @@ Esta é a etapa final da sincronização.
 
 >[!NOTE]
 >
->**Permissões de administrador são necessárias**
+>**Permissões de administrador necessárias**
 
 >[!IMPORTANT]
 >
@@ -62,7 +64,7 @@ Esta é a etapa final da sincronização.
    >
    >O nome de usuário no Marketo deve corresponder ao [endereço de email](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} do Usuário do Aplicativo no CRM. O formato pode ser `user@domain.com` ou DOMÍNIO\usuário.
 
-## Selecionar campos para a sincronização {#select-fields-to-sync}
+## Selecionar campos para sincronização {#select-fields-to-sync}
 
 1. Clique em **[!UICONTROL Editar]** em **[!UICONTROL Etapa 2: Selecionar campos a serem sincronizados]**.
 
@@ -92,7 +94,7 @@ Se você criou um filtro personalizado, acesse e selecione os novos campos que s
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
-## Ativar sincronização {#enable-sync}
+## Habilitar sincronização {#enable-sync}
 
 1. Clique em **[!UICONTROL Editar]** em **[!UICONTROL Etapa 3: Habilitar Sincronização]**.
 

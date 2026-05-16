@@ -4,10 +4,14 @@ description: Entenda as configurações de sincronização do Salesforce para o 
 title: Configurações de sincronização do Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/6K6-oLauXJW9Ow1cnQfVBGJ-iVEvo88g-mknLd5PJyc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '444'
-ht-degree: 4%
+source-wordcount: 444
+ht-degree: 0%
 
 ---
 
@@ -37,7 +41,7 @@ Essa funcionalidade exige que você esteja na edição Enterprise/Unlimited do S
 
    ![](assets/four-1.png)
 
-1. Clique na guia **[!UICONTROL Salesforce API]**. Neste cartão, você pode configurar sua preferência por informações de log para [!DNL Salesforce]. Clique em **[!UICONTROL Salvar]** quando terminar.
+1. Clique na guia **[!UICONTROL Salesforce API]**. Neste cartão, você pode configurar sua preferência por informações de log para [!DNL Salesforce]. Clique em **[!UICONTROL Salvar]** ao concluir.
 
    ![](assets/five.png)
 
@@ -72,7 +76,7 @@ Se, por algum motivo, seu endereço de Email para [!DNL Salesforce] não for rec
 1. Faça logon na instância do [!DNL Salesforce].
 1. Encontre seu nome de usuário no canto superior direito e selecione a barra suspensa.
 1. Selecione **[!UICONTROL Minhas Configurações]**.
-1. Selecione **[!UICONTROL Email]**.
+1. Selecione **[!UICONTROL Email]**.
 1. Selecione **[!UICONTROL Meu Email para o Salesforce]**.
 1. Nessa página, você verá um campo chamado &quot;Endereço de email do Salesforce&quot;. Se não houver nada preenchido ao lado dele, role até &quot;Meus endereços de email aceitáveis&quot;.
 1. Digite o(s) endereço(s) de email que deseja Cco.
@@ -89,7 +93,7 @@ Se você não vir Meu email para o Salesforce em suas Configurações, talvez o 
 1. Clique em **[!UICONTROL Instalação]**.
 1. Clique em **[!UICONTROL Administração de email]**.
 1. Clique em **[!UICONTROL Enviar Email para o Salesforce]**.
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 1. Marque a caixa ao lado de &quot;[!UICONTROL Ativo]&quot;.
 1. Clique em **[!UICONTROL Salvar]**.
 

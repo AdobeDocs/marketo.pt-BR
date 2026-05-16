@@ -4,10 +4,14 @@ description: Notas de versão - Janeiro de 2015 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/NrxOOJ5YBCQW4FtOB2Ki-oMlhy8VwVWOhO6BmjaEkFM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c954475c-8548-4e33-a0b8-6b550d956115id: e2290edd-b061-4880-9d79-dee306cf5aa9id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 5%
+source-wordcount: 385
+ht-degree: 6%
 
 ---
 
@@ -21,7 +25,7 @@ Os recursos a seguir estão incluídos na versão de janeiro de 2015. Verifique 
 
 Agora você pode [criar exibições para dispositivos móveis para páginas de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) de dentro do editor de páginas de aterrissagem. Forneça sua mensagem de maneira eficaz, independentemente do dispositivo, e aumente o engajamento personalizando seu conteúdo para facilitar o consumo em qualquer lugar. Esse recurso será implantado gradualmente durante a semana seguinte ao lançamento.
 
-Vídeo de Apresentação da Página de Aterrissagem [-](https://youtu.be/aPQHlG2X6c0)
+[-Vídeo passo a passo da página inicial-](https://youtu.be/aPQHlG2X6c0)
 
 **Novas chamadas da API REST**
 
@@ -31,7 +35,7 @@ Três novas chamadas para a API REST de lead e atividade:
 * Obter clientes em potencial por ID de programa
 * Obter Clientes Potenciais Excluídos
 
-Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração do lead de forma assíncrona para uma chamada de API mais rápida. Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
+Além disso, há uma nova opção para Sincronizar lead, para gravar a alteração do lead de forma assíncrona para uma chamada de API mais rápida. Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
 
 **Suporte a objeto personalizado de script de e-mail**
 
@@ -62,6 +66,6 @@ As opções de Tag RTP em Configurações da conta foram atualizadas para inclui
 1. Tag assíncrona sem CDN
 1. Tag síncrona sem CDN
 
-Para obter o melhor desempenho, é recomendável colocar a marca na parte superior do cabeçalho da página da Web após `<head>`. Todas as marcas permitem o uso da [API RTP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obter informações sobre como implantar a RTP Tag, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Para obter o melhor desempenho, é recomendável colocar a marca na parte superior do cabeçalho da página da Web após `<head>`. Todas as marcas permitem o uso da [API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Para obter informações sobre como implantar a RTP Tag, consulte [aqui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

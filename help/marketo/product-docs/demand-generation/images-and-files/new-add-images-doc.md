@@ -1,21 +1,24 @@
 ---
 description: Saiba como adicionar imagens e arquivos ao Marketo Design Studio. Fazer upload, organizar e usar ativos em campanhas e páginas de aterrissagem.
-title: Novo documento Adicionar imagens
+title: Novo Documento Adicionar Imagens
 hide: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 8%
+source-wordcount: 308
+ht-degree: 0%
 
 ---
 
-# Novo documento Adicionar imagens {#new-add-images-doc}
+# Novo Documento Adicionar Imagens {#new-add-images-doc}
 
 Você tem várias opções para adicionar novos arquivos/imagens ao repositório Imagens e Arquivos.
 
-## Carregar imagem ou arquivo {#upload-image-or-file}
+## Fazer upload de imagem ou arquivo {#upload-image-or-file}
 
 1. Vá para o **Design Studio**.
 

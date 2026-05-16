@@ -3,9 +3,13 @@ description: Obtenha ajuda sobre as práticas recomendadas para webinários inte
 title: Práticas recomendadas para webinários interativos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: e9001ce2-5245-4a8e-8601-dd958009072fid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: 1759
 ht-degree: 0%
 
 ---
@@ -85,7 +89,7 @@ As práticas recomendadas a seguir podem ajudar a planejar, projetar e produzir 
 
 * **Pod de perguntas e respostas**: o nome do participante que enviou a pergunta e o nome do host/apresentador que respondeu podem estar ocultos. Isso pode ser feito desmarcando as opções de Privacidade na seção &quot;Pod de perguntas e respostas&quot; nas Preferências da sala.
 
-* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
+* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
 
 * **Chat Privado**: desative o chat privado para impedir que os participantes possam enviar ping para outro participante. Isso pode ser feito ao desmarcar a opção &quot;Permitir que os participantes conversem de forma privada&quot; na seção &quot;Bate-papo&quot; nas Preferências da sala.
 

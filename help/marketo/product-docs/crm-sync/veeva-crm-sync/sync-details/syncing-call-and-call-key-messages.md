@@ -3,10 +3,14 @@ description: Saiba mais sobre como os objetos Mensagem principal de Chamada e Ch
 title: Sincronização de mensagens de chamada e chave de chamada
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/IuF0jecYZcSgM6jZaVLeJO0CoSwBgYoxirK-9ZAiaWU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 11%
+source-wordcount: 495
+ht-degree: 12%
 
 ---
 

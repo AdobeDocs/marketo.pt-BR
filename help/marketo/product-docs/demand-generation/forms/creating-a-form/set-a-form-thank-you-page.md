@@ -1,23 +1,26 @@
 ---
 unique-page-id: 2359573
 description: Saiba como definir uma página de agradecimento de formulário no Marketo. Envie os remetentes para uma página ou URL específica depois de enviarem o formulário.
-title: Definir um formulário de página de agradecimento
+title: Definir um formulário da página de agradecimento
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/XSvtQnIKuj2A-YV-boONuf7516YTUjqsq5myRhtqIVE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 6%
+source-wordcount: 374
+ht-degree: 0%
 
 ---
 
-# Definir um formulário de página de agradecimento {#set-a-form-thank-you-page}
+# Definir um formulário da página de agradecimento {#set-a-form-thank-you-page}
 
 O que acontece quando alguém preenche um formulário? Para onde eles são encaminhados? Veja como configurá-lo.
 
 ## Editar formulário {#edit-form}
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -39,7 +42,7 @@ A opção Permanecer na página manterá o visitante na mesma página quando o f
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
-## URL externa {#external-url}
+## URL externo {#external-url}
 
 A configuração External URL permite definir qualquer URL como a página de acompanhamento. Depois que o usuário enviar o formulário, ele será direcionado para a URL especificada.
 
@@ -55,7 +58,7 @@ A configuração External URL permite definir qualquer URL como a página de aco
 >
 >A URL pode ser de um arquivo hospedado em algum lugar. Se você fizer isso, o botão &quot;[!UICONTROL Enviar]&quot; se comportará como um botão &quot;[!UICONTROL Baixar]&quot;.
 
-## Página de destino {#landing-page}
+## Landing Page {#landing-page}
 
 Você pode selecionar qualquer página de aterrissagem aprovada do Marketo como acompanhamento.
 

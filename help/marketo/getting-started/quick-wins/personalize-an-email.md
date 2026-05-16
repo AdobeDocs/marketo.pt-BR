@@ -4,9 +4,11 @@ description: Personalizar um email - Documentos do Marketo - Documentação do p
 title: Personalizar um email
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '336'
+TQID: https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+workflow-type: tm+mt
+source-wordcount: 337
 ht-degree: 100%
 
 ---
@@ -83,7 +85,7 @@ Se você não tiver habilitado um bloqueador de pop-up, o editor de email será 
 
    >[!TIP]
    >
-   >Sempre inclua um valor padrão para os tokens, pois isso garante que o valor padrão seja exibido no email caso faltem algumas das informações pessoais. 
+   >Sempre inclua um valor padrão para os tokens, pois isso garante que o valor padrão seja exibido no email caso faltem algumas das informações pessoais.
 
 1. Clique em **[!UICONTROL Salvar]**.
 
@@ -99,7 +101,7 @@ Se você não tiver habilitado um bloqueador de pop-up, o editor de email será 
 
 ### Missão cumprida {#mission-complete}
 
-Parabéns, você personalizou seu e-mail! 
+Parabéns, você personalizou seu e-mail!
 
 <br> 
 

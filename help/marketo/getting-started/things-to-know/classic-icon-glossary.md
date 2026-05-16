@@ -3,9 +3,13 @@ description: Glossário de ícones clássico - Documentação do Marketo - Docum
 title: Glossário de ícones clássicos
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: 566
 ht-degree: 35%
 
 ---
@@ -140,7 +144,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-8-16-3a34-3a53.png">
     </td>
-   <td>Localização</td>
+   <td>Local</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-16-3a36-3a19.png">
@@ -195,7 +199,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-8-18-3a28-3a16.png">
     </td>
-   <td>LaunchPoint</td>
+   <td>Ponto de lançamento</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-18-3a44-3a51.png">
@@ -220,7 +224,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png">
     </td>
-   <td>Admin</td>
+   <td>Administrador</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png">
@@ -261,7 +265,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2014-12-23-11-3a38-3a16.png">
     </td>
-   <td>Adicionar ao programa de envolvimento</td>
+   <td>Adicionar ao Programa de engajamento</td>
   </tr>
   <tr>
    <td><img src="assets/image2014-12-23-11-3a40-3a19.png">
@@ -351,7 +355,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-9-14-3a42-3a29.png">
     </td>
-   <td>Redes sociais</td>
+   <td>Social</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a43-3a17.png">
@@ -366,7 +370,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-9-14-3a45-3a45.png">
     </td>
-   <td>Visualização</td>
+   <td>Visualizar</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a46-3a39.png">
@@ -396,7 +400,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-9-14-3a55-3a51.png">
     </td>
-   <td>Visualização</td>
+   <td>Visualizar</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a56-3a46.png">
@@ -426,7 +430,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-9-15-3a17-3a24.png">
     </td>
-   <td>Visualização</td>
+   <td>Visualizar</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-15-3a17-3a53.png">
@@ -481,7 +485,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-14-13-3a3-3a56.png">
     </td>
-   <td>Visualização</td>
+   <td>Visualizar</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a4-3a4.png">
@@ -517,7 +521,7 @@ Abaixo estão os ícones antigos da interface do Marketo Classic. O glossário d
   <tr>
    <td><img src="assets/image2015-1-12-10-3a56-3a42.png">
     </td>
-   <td>Visualização</td>
+   <td>Visualizar</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a57-3a25.png">

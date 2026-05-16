@@ -4,9 +4,11 @@ description: Saiba como agendar uma campanha do Sales Connect. Defina os tempos 
 title: Agendar uma campanha
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/4mwXaTG4ScoNvv-LSnpGuE6RjDTpa1kkeIPMzp09a-w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: 192
 ht-degree: 3%
 
 ---

@@ -1,17 +1,21 @@
 ---
 unique-page-id: 10097100
 description: Saiba mais sobre como agendar uma campanha da Web no Marketo Engage, incluindo agendar uma campanha da Web agenda-a-campanha-da-Web. Use este guia para concluir a próxima etapa.
-title: Agendar uma campanha da web
+title: Programar uma campanha da Web
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/SlO5Mg3h-z6zcLmPTSUcpFc2nKvAoqlCSmYTILjy98c
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 3%
+source-wordcount: 318
+ht-degree: 0%
 
 ---
 
-# Agendar uma campanha da web {#schedule-a-web-campaign}
+# Programar uma campanha da Web {#schedule-a-web-campaign}
 
 Se você souber quando deseja que sua campanha da Web seja executada, é possível programá-la com antecedência. É fácil configurar datas de início e término, repetições e vários dias.
 
@@ -55,7 +59,7 @@ Você pode agendar a campanha da Web com base na hora do visitante da Web ou em 
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Clique em **[!UICONTROL Agendamento]**.
+1. Clique em **[!UICONTROL Agendar]**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 

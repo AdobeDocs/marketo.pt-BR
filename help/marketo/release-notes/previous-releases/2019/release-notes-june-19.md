@@ -4,9 +4,14 @@ description: Notas de versão - 19 de junho - Documentação do Marketo - Docume
 title: Notas de versão - junho de 2019
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 639
 ht-degree: 1%
 
 ---
@@ -22,7 +27,7 @@ Os recursos a seguir foram lançados em 14 de junho de 2019.
 ## Principais serviços do Marketo {#marketo-core-services}
 
 * **Soma de Verificação de Arquivo de Extração em Massa**: verifique se um arquivo completo foi recuperado comparando o hash do arquivo à cadeia de caracteres de soma de verificação dos trabalhos de extração concluídos.
-* **Migração automatizada do Email 1.0 para o Email 2.0**: o Email 2.0 é totalmente compatível com emails e modelos do Email 1.0. Aproveite novos recursos, como a capacidade de agrupar elementos de conteúdo (imagens, texto etc.) em módulos, definir variáveis como sequência, cor, imagem etc. modelos e utilize modelos iniciais totalmente responsivos. Também inclui um Seletor visual de modelo de email.
+* **Migração automatizada do Email 1.0 para o Email 2.0**: o Email 2.0 é totalmente compatível com emails e modelos do Email 1.0. Aproveite novos recursos, como a capacidade de agrupar elementos de conteúdo (imagens, texto etc.) nos módulos do, defina variáveis como Sequência, Cor, Imagem, etc. nos modelos do e utilize modelos iniciais totalmente responsivos. Também inclui um Seletor visual de modelo de email.
 
 >[!CAUTION]
 >
@@ -51,7 +56,7 @@ Espera-se que os seguintes recursos sejam lançados ao longo do segundo trimestr
 * **Widget de postagens do blog da comunidade**: acesse postagens recentes da comunidade no My Marketo.
 * **Widget de expiração em breve**: adicione o widget &quot;Expirando em breve&quot; ao painel Meu Marketo para ver quais campanhas e páginas de aterrissagem estão definidas para expirar em seguida.
 * **Mais Cartões de Lista Inteligente**: segmente e direcione adequadamente com cartões de lista inteligente adicionais, incluindo a etapa de fluxo &quot;Criar Tarefa&quot;, as regras de lista inteligente de CRM e muito mais.
-* **Página de detalhes do desafiante/especialista de email**: veja dados como critérios vencedores, criados em, etc. dos testes de campeão/desafiante por email.
+* **Página de detalhes do desafiante/campeão de email**: veja dados como critérios de vitória, criados em, etc., dos seus testes de desafiante/campeão de email.
 
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
@@ -68,4 +73,4 @@ Espera-se que os seguintes recursos sejam lançados ao longo do segundo trimestr
 * **Integração de Drift**: entenda como as conversas de Drift afetam a jornada do cliente. [!DNL Bizible] também irá obter endereços de email de conversas para criar um novo cliente potencial ou conectar o ponto de contato a um cliente potencial existente.
 * A **Localização**: [!DNL Bizible] agora está disponível em todos os idiomas com suporte da Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
-_&#x200B;**Webinar sobre a versão do produto**&#x200B;_ Assista à gravação do nosso webinário sobre as inovações da versão de 19 de junho [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Webinar sobre a versão do produto**_ Assista à gravação do nosso webinário sobre as inovações da versão de 19 de junho [aqui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

@@ -4,9 +4,13 @@ description: Atualizar dados da pessoa - Documentação do Marketo - Documentaç
 title: Atualizar dados da pessoa
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/-8fM9lrZT-YHWzC08KAsM917s-QfP-j-NisIydqSG0o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 182
 ht-degree: 34%
 
 ---
@@ -54,7 +58,7 @@ Imagine que, em sua recente feira de negócios, uma pessoa tenha fornecido infor
 >
 >* Verifique se os endereços de email contêm apenas caracteres ASCII.
 >
->* O Marketo **não** permite o uso de endereços de email com emojis.
+>* O Marketo **não** permite o uso de endereços de email que contêm emojis.
 
 >[!NOTE]
 >

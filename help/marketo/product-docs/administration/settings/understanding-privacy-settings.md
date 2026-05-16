@@ -4,9 +4,13 @@ description: Visão geral das opções de privacidade e rastreamento, incluindo 
 title: Noções básicas sobre configurações de privacidade
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+TQID: https://experienceleague.adobe.com/k7-N0cSCSBIFEOWnDIyuo0zbigki-P8mrBOjwEgmlqs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: 508
 ht-degree: 1%
 
 ---
@@ -68,7 +72,7 @@ Os profissionais de marketing podem permitir que os usuários aceitem usar os re
 
 Os profissionais de marketing podem preservar a privacidade rastreando usuários com um endereço IP anônimo. Para fazer isso, adicione este código ao RTP ou JavaScript [!DNL Munchkin] que está incorporado no site.
 
-* Para [!DNL Munchkin], adicione `{"anonymizeIP",true}` à [função de inicialização](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Para [!DNL Munchkin], adicione `{"anonymizeIP",true}` à [função de inicialização](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Para o Web Personalization (RTP), adicione isso ao javascript:
 

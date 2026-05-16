@@ -3,9 +3,13 @@ description: Notas de versão - setembro de 2023 - Documentação do Marketo - D
 title: Notas de versão - Setembro de 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/QKjIZ21uV2k4kVUcVs53W34pyrbmi5DjZjZTWxX-CrU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: 972
 ht-degree: 14%
 
 ---
@@ -91,7 +95,7 @@ Todos os recursos abaixo seguem um formato Agile e são lançados em várias dat
   <tr>
    <td><strong>Integração Marketo + Workfront</strong>: para aqueles que têm o Marketo e o Workfront, agora você pode usar os Modelos do Workfront Fusion para integrar os dois produtos e desbloquear novos fluxos de trabalho de automação para simplificar a execução da campanha.</td>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=pt-BR" target="_blank">Revisar e aprovar blueprint</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Revisar e aprovar blueprint</a></td>
   </tr>
  </tbody>
 </table>

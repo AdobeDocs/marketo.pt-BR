@@ -3,9 +3,14 @@ description: Saiba mais sobre o Advanced BI Analytics, uma interface de relatór
 title: Visão geral da análise de BI avançada
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/l-H2ZQsoyNEddqb-3cVWjz0GYS6kNaVEPUp8-NPX46Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: 1098
 ht-degree: 1%
 
 ---
@@ -66,7 +71,7 @@ Ao exportar um relatório completo, suas opções de exportação são PDF e PPT
 
 >[!TAB Na página Relatórios]
 
-1. Na página Relatórios, clique no ícone &#39;mais&#39; (...) do relatório desejado e selecione **Exportar**.
+1. Na página Relatórios, clique no ícone &quot;mais&quot; (...) do relatório desejado e selecione **Exportar**.
 
    ![](assets/export-a-report-1a.png)
 
@@ -125,7 +130,7 @@ Saiba como exportar seções específicas do relatório.
 
 Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451687/?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 

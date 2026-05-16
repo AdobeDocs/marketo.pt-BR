@@ -1,17 +1,19 @@
 ---
 unique-page-id: 11382535
 description: Saiba como usar URLs em Meus tokens. Armazene e faça referência a URLs em tokens para links e landing pages em emails.
-title: Usar URLs nos meus tokens
+title: Utilização de URLs em Meus tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/d7nzJcfEeJutTNuo95NXcT1eTQXBdNZJoEq5-BdTxs0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 4%
+source-wordcount: 267
+ht-degree: 0%
 
 ---
 
-# Usar URLs nos meus tokens {#using-urls-in-my-tokens}
+# Utilização de URLs em Meus tokens {#using-urls-in-my-tokens}
 
 Siga as etapas abaixo para usar [!UICONTROL Meus tokens] para inserir URLs em seus emails.
 

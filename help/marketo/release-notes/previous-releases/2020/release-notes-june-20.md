@@ -4,9 +4,14 @@ description: Notas de versão - 20 de junho - Documentação do Marketo - Docume
 title: Notas de versão - junho de 20
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 feature: Release Information
-source-git-commit: 7595f00ac2a752afe3b471f4ff701e3206841ffd
+TQID: https://experienceleague.adobe.com/HqmRqpmJ9HipbkC2SWTM7RaxYgp04IAbz9cOiDsuGiY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: beb7a3c1-66ab-4786-b879-7621375b3c40id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: 1099
 ht-degree: 1%
 
 ---
@@ -23,7 +28,7 @@ Os seguintes recursos estão incluídos na versão de junho de 2020. Verifique a
 
 ## Marketo Engage principal {#core-marketo-engage}
 
-* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=pt-BR#predictive-audiences)** ![(star)](assets/yellow-star.png): os novos filtros de Smart List e Campanha inteligente alimentados pela IA do Adobe permitem criar segmentos de público alimentados por IA para programas de marketing por email, evento e webinário. Use a IA para ajudar a segmentar públicos com base na probabilidade de um lead se registrar em um evento, participar de um evento ou cancelar a inscrição. Crie públicos-alvo semelhantes com base em programas anteriores para replicar com eficiência o sucesso anterior. Alcance metas de conversão com rastreamento preditivo de metas e obtenha recomendações sobre como refinar os segmentos de público-alvo para programas de eventos.
+* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png): os novos filtros de Smart List e Campanha Inteligente fornecidos pelo Adobe AI permitem criar segmentos de público alimentados por IA para programas de marketing por email, evento e webinário. Use a IA para ajudar a segmentar públicos com base na probabilidade de um lead se registrar em um evento, participar de um evento ou cancelar a inscrição. Crie públicos-alvo semelhantes com base em programas anteriores para replicar com eficiência o sucesso anterior. Alcance metas de conversão com rastreamento preditivo de metas e obtenha recomendações sobre como refinar os segmentos de público-alvo para programas de eventos.
 * **Aumento de emails em lote** ![(star)](assets/yellow-star.png): aprimoramento de nosso recurso de marketing por email que permite enviar até 3 milhões de emails em lote por hora. Reestruturamos nossa campanha em lote e o processamento de relatórios de email para aprimorar o desempenho de programas de email e campanhas de email em lote. Isso resulta em um lead time mais curto para envio, bem como em tempo de conclusão melhorado. Configure seus emails como você faria normalmente, não há complexidade adicional. Esse aprimoramento está disponível como um complemento de produto que também inclui um Pacote de lançamento de serviços de entrega, Ferramentas de entrega de email e vários Endereços IP dedicados.
 * **[Integração do Audience com o Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: nova integração do Adobe Experience Cloud (AEC) que permite sincronizar listas estáticas de clientes potenciais conhecidos do Marketo Engage com vários aplicativos da AEC para aprimorar os programas existentes, desbloquear novos casos de uso e orquestrar campanhas multicanais. Essa integração inclui Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager e Adobe Advertising Cloud.
 * **[Campos Personalizados de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**: capture e utilize campos personalizados sobre um membro do programa. Use esses novos campos em seus formulários do Marketo Engage, visualize-os na lista de membros de um programa, utilize-os em filtros e acionadores de Smart List e inclua-os em uma nova Ação de fluxo de campanha inteligente para automação aprimorada e personalização mais granular. Eles também podem ser importados e exportados por meio da interface do usuário e das APIs. Aprimoramento do recurso de objetos e campos de dados personalizados.
@@ -73,6 +78,6 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 ## Descontinuações {#deprecations}
 
-* **[Cliente Potencial Associado do Munchkin](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: a partir da versão 159 do [!DNL Munchkin] JS, um aviso de desativação será registrado no console do navegador quando o método Associar Cliente Potencial for chamado, indicando que o recurso será removido em uma versão futura.  A programação de descontinuação completa será anunciada posteriormente.
+* **[Cliente Potencial Associado do Munchkin](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: a partir da versão 159 do [!DNL Munchkin] JS, um aviso de desativação será registrado no console do navegador quando o método Associar Cliente Potencial for chamado, indicando que o recurso será removido em uma versão futura. O agendamento de desativação completo será anunciado posteriormente.
 
 **_Webinar sobre a versão do produto_** [Assista à gravação](https://engage.marketo.com/June-Release-2020-On-Demand.html) do nosso webinário sobre as inovações na versão do produto de junho de 2020.

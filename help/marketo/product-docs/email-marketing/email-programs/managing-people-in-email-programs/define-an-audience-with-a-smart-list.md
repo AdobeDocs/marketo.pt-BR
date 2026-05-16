@@ -4,10 +4,13 @@ description: Saiba como definir um público-alvo do programa de email com uma li
 title: Definir um público-alvo com uma lista inteligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/sGFMl-NIr1URbKsPhRb-ze6h2c1k72W-E28f-8p--sE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 8%
+source-wordcount: 276
+ht-degree: 0%
 
 ---
 
@@ -23,7 +26,7 @@ Depois de [criar um programa de email](/help/marketo/product-docs/email-marketin
 >
 >A definição do público só funcionará quando o programa de email não for aprovado.
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -55,9 +58,9 @@ Depois de [criar um programa de email](/help/marketo/product-docs/email-marketin
 >
 >Você notou o número bloqueado? Esse número é um subconjunto das pessoas qualificadas e representa as pessoas que não podem receber este email porque são:
 >
->* Inscrição cancelada
->* Campanha de marketing suspensa
->* Incluído na lista de bloqueios
+>* Assinatura cancelada
+>* Marketing suspenso
+>* µ
 >* Email inválido
 >* Email vazio
 >

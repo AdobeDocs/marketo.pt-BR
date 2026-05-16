@@ -4,10 +4,13 @@ description: Saiba como criar um programa de email no Marketo. Configure públic
 title: Criar um programa de email
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/tYpOfWjozk1q9NI4cFWZ38ymvC4mDgXYUm-XkLkKvhs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 8%
+source-wordcount: 141
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ ht-degree: 8%
 
 Use programas de email para enviar um email de maneira rápida e fácil para um grupo de pessoas.
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one.png)
 

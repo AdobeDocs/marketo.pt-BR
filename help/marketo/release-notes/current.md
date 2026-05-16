@@ -3,22 +3,27 @@ description: Notas de versão atuais - Documentos do Marketo - Documentação do
 title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 23%
+source-wordcount: 421
+ht-degree: 28%
 
 ---
 
-# Notas de versão: março de 2026 {#release-notes-mar-26}
+# Notas de versão: maio de 2026 {#release-notes-may-26}
 
-Abaixo você encontrará todos os recursos incluídos na versão de março de 2026. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
+Abaixo você encontrará todos os recursos incluídos na versão de maio de 2026. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
 
 Para ver as notas de versão específicas do Adobe Dynamic Chat, consulte [esta página](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Recursos do ciclo de lançamento padrão {#standard-release-cycle-features}
 
-Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **27 de março de 2026**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
+Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **22 de maio de 2026**, com uma implantação em fases dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique o status ao lado de cada recurso.
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,9 +33,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Gerenciar marcas (beta)</strong>: gere conteúdo de email com base nas diretrizes de redação de cópia específicas de sua organização/marca.</td>
-   <td>Lançado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">Criar e gerenciar marcas</a></td>
+   <td><strong>Email Designer - Conteúdo Condicional para Fragmentos de Email</strong>: <i>Paridade com o editor de email antigo</i>. O conteúdo condicional agora é compatível com Fragmentos.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -38,42 +43,10 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Ações Rápidas</strong>: <i>Paridade com o antigo editor de email</i>. As ações rápidas agora estão disponíveis para todos os ativos de email do Designer (emails, modelos de email, fragmentos). As ações rápidas compatíveis incluem: Duplicar, Excluir, Mover, Criar/Editar rascunho.
+   <td><strong>Gerenciamento de lista de opções</strong>: agora é possível especificar os valores que podem ser usados em campos no Marketo Engage.
    </td>
-   <td>Lançado</i></td>
-   <td>n/d</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr>
-   <td><strong>Correção de Renderização do Email Designer - Outlook</strong>: essa atualização corrige problemas de renderização, especialmente no MS Outlook. O Modo HTML avançado permite fazer pequenas edições de HTML/CSS ou adicionar tags de script ao modelo de email.
-   </td>
-   <td>Lançado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Editar modelos de email com o editor avançado do HTML</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Verificador de pontuação da marca</strong>: avalie a qualidade do conteúdo geral para identificar possíveis problemas de legibilidade, coesão do conteúdo e eficácia, independentemente das diretrizes da sua marca.</td>
-   <td>Lançado</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">Pontuação da marca</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Notificações por push</strong>: os URIs de redirecionamento configurados nas mensagens de notificação por push agora oferecem suporte a tokens do Marketo Engage (aplicável somente a <i>URLs de aplicativos de inicialização</i>).
-   </td>
-   <td>Lançado</td>
-   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">URIs de redirecionamento</a></td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
   </tr>
   </tbody>
 </table>
@@ -81,10 +54,18 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do recurso de SEO**: na terça-feira, 31 de março de 2026, o Marketo Engage descontinuará o recurso de Otimização do Mecanismo de Pesquisa (SEO). Se você não usa o SEO ativamente, não precisa fazer nada. Se você tiver usado o SEO recentemente, terá a opção de exportar seus dados. [Saiba mais](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=pt){target="_blank"}.
+* **Campos de descontinuação de recursos sociais**: em 2025, o Marketo Engage descontinuou os seguintes recursos sociais:
 
-* **Limite de Clientes Potenciais de Mesclagem da API REST**: a partir de 31 de março de 2026, as chamadas que incluírem mais de 25 IDs no parâmetro leadIds de uma chamada da API de Clientes Potenciais de Mesclagem resultarão em um código de erro 1080 e a chamada será ignorada. As tarefas que exigem a fusão de mais de 25 registros em um devem ser divididas em várias tarefas para garantir o sucesso dessas chamadas.
+   * Pesquisas
+   * Botão de redes sociais
+   * Oferta de recomendação
+   * Compartilhamento de vídeo
+   * Sorteios
+
+No início deste ano, os campos relacionados que foram deixados para trás foram removidos do Marketo. Logo depois, as solicitações de API que referenciavam determinados campos de lead relacionados ao Social retornavam um erro &quot;campo não encontrado&quot;, causando interrupções. O serviço foi restaurado depois que os campos afetados foram disponibilizados novamente, para evitar mais interrupções, o Marketo desvinculou permanentemente os campos do Social da desativação de recursos do Social (e, como tal, estará disponível na conta do Marketo). Os usuários são incentivados a revisar consultas e integrações de API que fazem referência a campos relacionados ao Marketo Social e determinam se esses campos ainda são necessários para processos de negócios em andamento.
 
 * **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de julho de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de julho de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+
+* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial e Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` retornarão um código de erro 1003 se a lista estática de destino contiver 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.

@@ -4,9 +4,13 @@ description: Restrinja o acesso da API a endereços IP ou intervalos específico
 title: Criar uma lista de permissões de acesso à API baseada em IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/MIuDfjHpqBC2Z-hMEgtk0BvK-W2DEL25M-j6GNQK9zI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 12%
 
 ---
@@ -21,7 +25,7 @@ ht-degree: 12%
 
 >[!CAUTION]
 >
->A habilitação desse recurso impede que você acesse o [Marketo MCP Server](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server){target="_blank"} no momento. Espera-se que isso seja resolvido em uma versão futura.
+>A habilitação desse recurso impede que você acesse o [Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} no momento. Espera-se que isso seja resolvido em uma versão futura.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 
