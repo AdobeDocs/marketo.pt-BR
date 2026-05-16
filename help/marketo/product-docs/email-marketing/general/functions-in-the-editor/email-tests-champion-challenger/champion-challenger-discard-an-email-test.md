@@ -4,9 +4,12 @@ description: Saiba como descartar um teste de email Champion/Challenger. Cancela
 title: Champion/Challenger — descarte um teste de e-mail
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/h2JUPuX869JUW1WVJ81xFG8onuS5NbQ42sGlqqSootQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: 101
 ht-degree: 11%
 
 ---

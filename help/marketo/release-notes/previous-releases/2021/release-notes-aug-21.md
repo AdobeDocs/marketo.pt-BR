@@ -2,9 +2,25 @@
 description: Notas de versão - agosto de 2021 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Agosto de 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+TQID: https://experienceleague.adobe.com/eX6BJ2kUTiOEw6RjiuSu8883IqyfX6cUBqkr7zdGZv0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: 908
 ht-degree: 1%
 
 ---
@@ -63,7 +79,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Integração do Forms com a Geração de Clientes Potenciais**: os profissionais de marketing agora podem realizar atribuição de receita em conversões que ocorrem quando [!DNL LinkedIn] captura preenchimentos de formulário por meio de suas unidades de anúncio do Forms de Geração de Clientes Potenciais. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. A Forms da Geração de Clientes Potenciais [!DNL LinkedIn] é uma das ofertas de mídia paga de crescimento mais rápido da [!DNL LinkedIn] e esse novo recurso está incluído na integração existente do [!DNL LinkedIn] Ads com o [!DNL Bizible].
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Integração do Forms com a Geração de Clientes Potenciais**: os profissionais de marketing agora podem realizar atribuição de receita em conversões que ocorrem quando [!DNL LinkedIn] captura preenchimentos de formulário por meio de suas unidades de anúncio do Forms de Geração de Clientes Potenciais. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. [!DNL LinkedIn] A Forms de geração de clientes potenciais é uma das ofertas de mídia paga que mais crescem no [!DNL LinkedIn] e esse novo recurso está incluído na integração existente do [!DNL LinkedIn] Ads com o [!DNL Bizible].
 
 * **Painel do Velocity aprimorado**: adicionamos uma nova métrica de velocidade e um novo filtro de painel para obter insights mais profundos. Esse painel é usado pelos profissionais de marketing para entender a velocidade do lead e da oportunidade estágio por estágio e a eficiência de diferentes formas de envolvimento de marketing e vendas.
 

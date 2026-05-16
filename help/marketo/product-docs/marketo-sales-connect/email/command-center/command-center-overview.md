@@ -4,9 +4,12 @@ description: Saiba mais sobre o Centro de comando em Sales Connect. Gerencie tar
 title: Visão geral do Centro de comando
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: 595
 ht-degree: 1%
 
 ---
@@ -73,7 +76,7 @@ A seção email oferece uma visualização rápida de todos os seus emails e sim
   <tr>
    <td title="Cor do plano de fundo : Azul"><br></td>
    <td title="Cor do plano de fundo : Azul">[!UICONTROL Spam]</td>
-   <td title="Cor do plano de fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo recipient.<br><strong>Observação:</strong> só será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</p></td>
+   <td title="Cor do plano de fundo : Azul"><p>Emails que foram marcados manualmente como spam pelo destinatário.<br><strong>Observação:</strong> somente será detectado se você for um usuário ToutApp herdado e tiver acesso aos Servidores MSC como um canal de entrega.</p></td>
   </tr>
  </tbody>
 </table>

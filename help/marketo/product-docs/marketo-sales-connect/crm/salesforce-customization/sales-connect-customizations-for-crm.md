@@ -4,10 +4,18 @@ description: Saiba mais sobre as personalizações do Sales Connect para CRM e S
 title: '[!DNL Sales Connect] Personalizações para o CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 2%
+source-wordcount: 692
+ht-degree: 0%
 
 ---
 
@@ -69,7 +77,7 @@ Depois de concluído, seu cartão mostrará &quot;Suas personalizações do Sale
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
-## Campos de atividades personalizadas {#custom-activity-fields}
+## Campos de atividade personalizados {#custom-activity-fields}
 
 O Marketo detectará a criação de novos campos e então fará um preenchimento retroativo de dados único, um remapeamento e uma sincronização contínua de valores somente nos campos **novos**. Campos antigos não serão atualizados.
 

@@ -1,17 +1,20 @@
 ---
 unique-page-id: 11378814
 description: Saiba como criar Smart Lists de conta para identificar contas de alto valor. Defina filtros de conta e de pessoa correspondentes e use os resultados em campanhas ou exportação.
-title: Listas inteligentes da conta
+title: Listas inteligentes de conta
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 1%
+source-wordcount: 523
+ht-degree: 0%
 
 ---
 
-# Listas inteligentes da conta {#account-smart-lists}
+# Listas inteligentes de conta {#account-smart-lists}
 
 Veja como identificar com rapidez e precisão suas contas de alto valor.
 

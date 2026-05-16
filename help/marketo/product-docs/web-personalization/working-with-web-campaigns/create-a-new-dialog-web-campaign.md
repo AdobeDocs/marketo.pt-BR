@@ -4,9 +4,17 @@ description: Crie campanhas da Web de diálogo para personalizar o conteúdo em 
 title: Criar uma nova caixa de diálogo da campanha da web
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: 768
 ht-degree: 4%
 
 ---
@@ -70,8 +78,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
    <td colspan="1">Personalize o botão Fechar da modal usando cor, estilo e posição. Você também pode usar seu próprio botão vinculando a ele na caixa Image URL.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Fixo
-</strong></td>
+   <td colspan="1"><strong>Fixo</strong></td>
    <td colspan="1">Ao marcar a caixa de seleção fixa, a caixa de diálogo permanece na posição, sem limite de tempo, até ser fechada pelo usuário e será exibida em todas as páginas durante a sessão do visitante.</td>
   </tr>
   <tr>
@@ -116,7 +123,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr>
   <tr>
    <td colspan="1"><strong>Visualizar no site</strong></td>
-   <td colspan="1">Visualize campanhas antes de iniciá-las.<br>
+   <td colspan="1">Visualize campanhas antes que sejam iniciadas.<br>
     <ul>
      <li>URL - Insira um URL de exemplo, no qual a campanha seria executada para ver um exemplo de visualização de como a campanha seria exibida.</li>
      <li>Dispositivo - Visualize como sua campanha será exibida por dispositivo: Desktop, Retrato móvel, Paisagem móvel, Retrato de tablet, Paisagem de retrato.<br></li>

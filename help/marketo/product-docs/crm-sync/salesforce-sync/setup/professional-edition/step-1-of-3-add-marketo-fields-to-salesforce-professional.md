@@ -4,10 +4,13 @@ description: Saiba como adicionar campos do Marketo à Salesforce Professional E
 title: Etapa 1 de 3 - Adicionar campos do Marketo ao Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 9%
+source-wordcount: 767
+ht-degree: 0%
 
 ---
 
@@ -47,7 +50,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Clique em **[!UICONTROL Next]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -82,9 +85,9 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 10<br>Casas decimais 0 </td>
   </tr>
   <tr>
-   <td>Data da aquisição</td>
+   <td>Data de aquisição</td>
    <td>mkto71_Acquisition_Date</td>
-   <td>Data/hora</td>
+   <td>Data/Hora</td>
    <td> </td>
   </tr>
   <tr>
@@ -106,7 +109,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 >
 >Os campos de texto e número exigem comprimento, mas os campos de Data/Hora não. Uma descrição é opcional.
 
-1. Clique em **[!UICONTROL Next]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
@@ -149,7 +152,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 18<br>Casas decimais 0 </td>
   </tr>
   <tr>
-   <td>Responsável pela indicação original</td>
+   <td>Referenciador original</td>
    <td>mkto71_Original_Referrer</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
@@ -167,55 +170,55 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Informações da fonte original</td>
+   <td>Informações originais do Source</td>
    <td>mkto71_Original_Source_Info</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Tipo de fonte original</td>
+   <td>Tipo de Source original</td>
    <td>mkto71_Original_Source_Type</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Cidade indicada</td>
+   <td>Cidade inferida</td>
    <td>mkto71_Cidade_inferida</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Empresa indicada</td>
+   <td>Empresa inferida</td>
    <td>mkto71_Inferred_Company</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>País indicado</td>
+   <td>País inferido</td>
    <td>mkto71_Inferred_Country</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Área metropolitana indicada</td>
+   <td>Área metropolitana inferida</td>
    <td>mkto71_Inferred_Metropolitan_Area</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Código de área telefônica indicado</td>
+   <td>Código de área do telefone inferido</td>
    <td>mkto71_Inferred_Phone_Area_Code</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Código postal indicado</td>
+   <td>Código postal inferido</td>
    <td>mkto71_Inferred_Postal_Code</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Estado/região indicado</td>
+   <td>Região do estado inferido</td>
    <td>mkto71_Inferred_State_Region</td>
    <td>Texto</td>
    <td>Comprimento 255</td>

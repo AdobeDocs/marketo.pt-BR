@@ -1,21 +1,29 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Usar o Assistente de IA
+title: Usar o assistente de IA
 description: Saiba como usar o assistente de IA para adicionar texto e imagens a emails. Use a IA gerativa do Adobe no Designer de email para ideias de conteúdo.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+TQID: https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 6%
+source-wordcount: 936
+ht-degree: 0%
 
 ---
 
 # Assistente de IA para Designer de email {#ai-assistant-email-designer}
 
-O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA generativa da Adobe, da biblioteca de solicitações e com o auxílio do Firefly para a geração de imagens, que ajuda na criação de conteúdo adequado para uma determinada persona, grupo de compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
+O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
 
 >[!PREREQUISITES]
 >
@@ -81,7 +89,7 @@ As configurações de texto incluem:
 
 <table><tbody>
   <tr>
-    <td style="width:25%"><b>Grupos de compras</b></td>
+    <td style="width:25%"><b>Grupo de compra</b></td>
     <td>Grupo de compras específico que você está direcionando (por exemplo, Profissional, Influenciador, Tomador de decisão).</td>
   </tr>
   <tr>

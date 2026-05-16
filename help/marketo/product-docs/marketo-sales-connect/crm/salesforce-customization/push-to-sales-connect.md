@@ -4,9 +4,16 @@ description: Saiba como usar o botão Push to Sales Connect no Salesforce. Adici
 title: Enviar para [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/piy3bPtiO48FQhWEmpu5qo4denlJ8v1ZU-VXBlWh0Mg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 190
 ht-degree: 0%
 
 ---
@@ -30,10 +37,10 @@ Nosso botão [!UICONTROL Encaminhar para Contorno] selecionará uma lista de seu
 1. Clique em **[!UICONTROL Ir]**.
 1. Selecione todos os clientes em potencial/contatos que você deseja enviar para o tout.
 1. Selecione **[!UICONTROL Enviar para o MSE]**.
-1. Uma nova janela será exibida verificando o número de leads/contatos que você gostaria de enviar. Selecione **[!UICONTROL Prosseguir para o Grupo]**.[!DNL Sales Connect] não enviará por push nenhum contato marcado como [!UICONTROL Recusa de email] em [!DNL Salesforce] ou [!UICONTROL Cancelamento de assinatura] em [!DNL Sales Connect].
+1. Uma nova janela será exibida verificando o número de leads/contatos que você gostaria de enviar. Selecione **[!UICONTROL Prosseguir para o Grupo]**.[!DNL Sales Connect] não enviará nenhum contato marcado como [!UICONTROL Recusa de email] em [!DNL Salesforce] ou [!UICONTROL Cancelamento de assinatura] em [!DNL Sales Connect].
 
    >[!NOTE]
    >
-   >[!DNL Sales Connect] adicionará este grupo chamado &quot;SFDC-...&quot; à página Relações no [aplicativo Web](https://toutapp.com/login).
+   >[!DNL Sales Connect] adicionará este grupo chamado &quot;SFDC-...&quot; para a página Relações no [aplicativo Web](https://toutapp.com/login).
 
 1. Selecione **[!UICONTROL Enviar Email para o Grupo Inteiro]** para enviar este email de grupo.

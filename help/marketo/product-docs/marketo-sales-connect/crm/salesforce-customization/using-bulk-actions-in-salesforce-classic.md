@@ -4,10 +4,13 @@ description: Saiba como usar ações em massa no Salesforce Classic com o Sales 
 title: Usando Ações em Massa no  [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 2%
+source-wordcount: 376
+ht-degree: 0%
 
 ---
 
@@ -57,7 +60,7 @@ e. Você pode enviar o email imediatamente ou agendar o envio mais tarde
 
    ![](assets/six.png)
 
-## Enviar por push ao Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Enviar para o Marketo Sales Connect {#push-to-marketo-sales-connect}
 
 1. Em [!DNL Salesforce], clique na guia **[!UICONTROL Clientes Potenciais]** e, em seguida, no botão **[!UICONTROL Ir]**.
 

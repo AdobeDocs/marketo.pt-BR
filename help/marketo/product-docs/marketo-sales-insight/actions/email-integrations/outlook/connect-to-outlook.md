@@ -1,15 +1,21 @@
 ---
 description: Saiba como conectar o Outlook às Ações do Sales Insight. Envie e rastreie emails de vendas do Outlook com a integração Ações.
-title: Conectar ao Outlook
+title: Conectar-se ao Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/tonzxiPICvRgvLIfWFADeUL1CLdSVwcqx-dAIETCDOc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '577'
-ht-degree: 3%
+source-wordcount: 577
+ht-degree: 0%
 
 ---
 
-# Conectar ao Outlook {#connect-to-outlook}
+# Conectar-se ao Outlook {#connect-to-outlook}
 
 Saiba como conectar sua conta de Ações do Sales Insight ao Outlook.
 
@@ -33,7 +39,7 @@ Conectar-se ao Outlook significa que você receberá rastreamento de resposta, a
 
    ![](assets/connect-to-outlook-3.png)
 
-1. Clique em **Começar**.
+1. Clique em **Introdução**.
 
    ![](assets/connect-to-outlook-4.png)
 
@@ -96,7 +102,7 @@ Conectar-se ao Exchange no local significa que você receberá rastreamento de r
 
    ![](assets/connect-to-outlook-12.png)
 
-1. Clique em **Começar**.
+1. Clique em **Introdução**.
 
    ![](assets/connect-to-outlook-13.png)
 

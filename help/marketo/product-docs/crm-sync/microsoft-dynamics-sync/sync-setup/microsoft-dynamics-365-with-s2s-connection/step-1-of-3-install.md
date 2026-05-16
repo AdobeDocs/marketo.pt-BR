@@ -3,9 +3,12 @@ description: Saiba como instalar a solução Marketo no Dynamics 365 com conexã
 title: Etapa 1 de 3 - Instalar a solução da Marketo com conexão de servidor a servidor
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/Zxz0uXhcLankhjuBt-n5T-kAuPxiSR--Jka2uybXqi4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: 270
 ht-degree: 1%
 
 ---

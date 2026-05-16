@@ -3,9 +3,23 @@ description: Lista de verificação do banco de dados da instância herdada - Do
 title: Lista de Verificação do Banco de Dados da Instância Herdada
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ssiWj0vQTwU1qBD5fyZ8VHz7RmFjaVxu1dj7J8G-P5U
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: 423
 ht-degree: 8%
 
 ---
@@ -27,7 +41,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
    <td><li>Quantas pessoas existem no <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">banco de dados</a>?</li>
 <li>Se o banco de dados estiver quase cheio, a política da empresa recomenda expandir o tamanho do banco de dados ou limpar os dados históricos?</li>
 <li>Seu banco de dados geral é no mínimo 85% comercializável?
-<br/>     Se o seu estiver abaixo desse limite, verifique as outras listas inteligentes do sistema (Inclui na lista de bloqueios, Marketing suspenso, Duplicatas, Cancelar inscrição) com mais escrutínio.</li></td>
+<br/> Se o seu estiver abaixo desse limite, verifique as outras listas inteligentes do sistema (Incluir na lista de bloqueios, Marketing suspenso, Duplicatas, Cancelar inscrição) com mais atenção.</li></td>
   </tr>
   <tr>
    <td>Pessoas com inscrição cancelada</td>
@@ -43,22 +57,22 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
   </tr>
    <tr>
    <td>Lista de bloqueios</td>
-   <td><li>Quais são seus critérios para <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">registrar registros de incluir na lista de bloqueios</a>? Incluir na lista de bloqueios Há pessoas demais que são revoltadas?</li></td>
+   <td><li>Quais são seus critérios para <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">registrar registros de incluir na lista de bloqueios</a>? Há pessoas demais que são revoltadas?</li></td>
   </tr>
   <tr>
    <td>Endereços de e-mail com mensagens devolvidas</td>
    <td><li>Você tem muitas <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">pessoas que devolveram</a> no seu Banco de Dados?
-   <br/>     Em caso afirmativo, considere investigar o motivo.</li></td></li></td>
+   <br/> Em caso afirmativo, considere investigar o motivo.</li></td></li></td>
   </tr>
   <tr>
    <td>Possíveis duplicados</td>
    <td><li>Quantos <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">registros possivelmente duplicados</a> há?
-   <br/>     Considere excluí-los ou mesclá-los.</li></td>
+   <br/> Considere excluí-los ou mesclá-los.</li></td>
   </tr>
    <tr>
    <td>Nenhum programa de aquisição</td>
    <td><li>Quantas pessoas não têm um <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programa de aquisição</a>?
-   <br/>     Se há muito, considere investigar o porquê.</li></td>
+   <br/> Se houver muitos, considere investigar o porquê.</li></td>
   </tr>
  </tbody>
 </table>
@@ -76,7 +90,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
    <td><li>Quantas <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Smart Lists</a> existem? Como eles são usados nessa instância?</li>
    <p><img src="assets/note-icon.png" alt="ícone de nota"> OBSERVAÇÃO: Na seção Banco de Dados, as Smart Lists de Grupo são geradas pelo usuário e as Smart Lists de Sistema são listas padrão criadas pelo Marketo Engage.
 <li>As listas estão organizadas em uma estrutura de pastas coesa?
-<br/>     Se você tiver listas órfãs, considere organizar sua árvore para que os ativos sejam fáceis de encontrar.</li>
+<br/> Se você tiver listas órfãs, considere organizar sua árvore para que os ativos sejam fáceis de encontrar.</li>
 <p><img src="assets/tip-icon.png" alt="ícone de dica">DICA: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">O arquivamento</a> de Smart Lists que não são mais necessárias ajudará na organização e no desempenho.</td>
   </tr>
  </tbody>
@@ -111,7 +125,7 @@ Entenda o número total de pessoas, pessoas comercializáveis e as principais fo
    <td><li>Quais <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentações</a> existem? Como eles estão sendo usados?</li>
 <li>Há muitas pessoas em <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmentos padrão</a>?</li>
 <li>Há uma segmentação para o público comercializável?
-<br/>     Caso contrário, considere a criação de um.</li></td>
+<br/> Caso contrário, considere criar um.</li></td>
   </tr>
  </tbody>
 </table>

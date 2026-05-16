@@ -1,17 +1,24 @@
 ---
 unique-page-id: 1146978
 description: Saiba como usar uma duração em uma etapa de fluxo de espera. Pausar o fluxo por um número definido de dias antes da próxima ação.
-title: Usar uma duração em uma etapa de espera do fluxo
+title: Usar uma duração em uma etapa de fluxo de espera
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/4T2sVyYvhrxdvwELe0DXw0zvGCywwHDKAuDGlIiIN9Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 8%
+source-wordcount: 216
+ht-degree: 0%
 
 ---
 
-# Usar uma duração em uma etapa de espera do fluxo {#use-a-duration-in-a-wait-flow-step}
+# Usar uma duração em uma etapa de fluxo de espera {#use-a-duration-in-a-wait-flow-step}
 
 Você pode usar a etapa Fluxo de espera para pausar a jornada de uma pessoa em uma Campanha inteligente por um determinado período. Você também pode especificar critérios para o dia da semana e a hora em que ela termina.
 

@@ -4,9 +4,17 @@ description: Crie campanhas da Web de widget que aparecem como texto fixo ou ban
 title: Criar uma nova campanha da web do widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: 655
 ht-degree: 4%
 
 ---
@@ -67,11 +75,10 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>Botão Widget</strong><br></p></td>
-   <td colspan="1" rowspan="1">Personalize o próprio botão do widget.<br>Seta: permite escolher entre vários ícones diferentes no menu suspenso direito. O menu suspenso esquerdo determina a cor.<br>Personalizado: insira a URL de qualquer imagem hospedada. Tipos de arquivo aceitos - .JPEG, .GIF (incluindo animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: o widget pode ser texto - personalize sua cor, tamanho e fonte.</td>
+   <td colspan="1" rowspan="1">Personalizar o próprio botão do widget.<br>Seta: Permite escolher entre vários ícones diferentes no menu suspenso direito. O menu suspenso esquerdo determina a cor.<br>Personalizado: insira a URL de qualquer imagem hospedada. Tipos de arquivo aceitos - .JPEG, .GIF (incluindo animado), .PNG, .APNG, .SVG, .BMP.<br>Texto: o widget pode ser texto - personalize sua cor, tamanho e fonte.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Fixo
-</strong></td>
+   <td colspan="1"><strong>Fixo</strong></td>
    <td colspan="1">Selecionar essa opção garante que o widget aparecerá em todas as páginas da Web durante a sessão do visitante.</td>
   </tr>
   <tr>
@@ -84,7 +91,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
   </tr>
   <tr>
    <td colspan="1"><strong>Visualizar no site </strong></td>
-   <td colspan="1">Visualize campanhas antes de iniciá-las.<br>
+   <td colspan="1">Visualize campanhas antes que sejam iniciadas.<br>
     <ul>
      <li>URL - Insira um URL de exemplo, no qual a campanha seria executada para ver um exemplo de visualização de como a campanha seria exibida.</li>
      <li>Visualização - Clique em <strong>Visualizar </strong>para abrir uma nova janela da URL de exemplo e ver como a campanha reage (Adicione a <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">extensão do Chrome</a> para obter a melhor experiência de visualização do Web Campaign.) </li>
@@ -96,7 +103,7 @@ Uma campanha da Web é uma reação personalizada associada a um segmento espec�
 
 >[!NOTE]
 >
->**Deseja testar A/B suas campanhas da Web?** Uma ou mais campanhas da Web podem ser [testadas A/B para obter os melhores resultados](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Com o recurso [!UICONTROL Ajuste automático], a plataforma reconhece automaticamente as campanhas com melhor desempenho, continua com as campanhas de conversão mais altas e pausa as outras.
+>**Deseja testar suas campanhas da Web com A/B?** Uma ou mais campanhas da Web podem ser [testadas A/B para obter os melhores resultados](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Com o recurso [!UICONTROL Ajuste automático], a plataforma reconhece automaticamente as campanhas com melhor desempenho, continua com as campanhas de conversão mais altas e pausa as outras.
 
 ## Editar uma campanha da Web {#edit-a-web-campaign}
 

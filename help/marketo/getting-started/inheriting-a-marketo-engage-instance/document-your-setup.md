@@ -3,9 +3,16 @@ description: Documento de instância herdado em sua configuração - Documentaç
 title: Configuração do documento de instância herdado
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 299
 ht-degree: 3%
 
 ---
@@ -46,7 +53,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
   <tr>
    <td>Dicionário de dados</td>
    <td><li>Há um dicionário de dados separado que explique os campos disponíveis?
-   <br/>     Caso contrário, considere criar um em uma pasta acessível à sua equipe de Operações de marketing.</li></td>
+   <br/> Caso contrário, considere criar um em uma pasta acessível à sua equipe de Operações de marketing.</li></td>
   </tr>
   <tr>
    <td>Organização</td>
@@ -61,7 +68,7 @@ Agora que você aprendeu as principais áreas do produto para auditar ao herdar 
   <tr>
    <td>Manuais de estratégia</td>
     <td><li>Sua organização tem um manual do usuário ou do administrador?
-    <br/>     Em caso afirmativo, atualize-os de acordo.</li></td>
+    <br/> Em caso afirmativo, atualize-os de acordo.</li></td>
   </tr>
   <tr>
    <td>Conversas com partes interessadas internas</td>

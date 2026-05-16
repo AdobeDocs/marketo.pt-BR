@@ -1,17 +1,20 @@
 ---
 unique-page-id: 37356584
 description: Saiba como enviar emails por email de grupo no Sales Connect. Envie um email para um grupo e rastreie o engajamento por recipient.
-title: Envio de emails em grupo
+title: Enviando Emails por Email de Grupo
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/f32d4DuWA3TMzH1b-8DJzOGevSpIZ3QQQFDkZbS4QK4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 5%
+source-wordcount: 175
+ht-degree: 0%
 
 ---
 
-# Envio de emails em grupo {#sending-emails-via-group-email}
+# Enviando Emails por Email de Grupo {#sending-emails-via-group-email}
 
 Veja como enviar/editar emails usando a opção Email de grupo.
 

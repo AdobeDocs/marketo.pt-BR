@@ -1,23 +1,26 @@
 ---
 unique-page-id: 8783146
 description: Saiba como adicionar um novo dispositivo de teste para notificações por push. Use um URL ou código QR para conectar seu dispositivo e enviar testes por push.
-title: Adicionar um novo dispositivo de teste
+title: Adicionando um novo dispositivo de teste
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/fdjspcqf5-ZQLGd9-1QwuKdAEG0YXSTjVSQvGMPvp8U
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 10%
+source-wordcount: 147
+ht-degree: 0%
 
 ---
 
-# Adicionar um novo dispositivo de teste {#adding-a-new-test-device}
+# Adicionando um novo dispositivo de teste {#adding-a-new-test-device}
 
 É fácil adicionar um novo dispositivo de teste para enviar notificações.
 
 >[!NOTE]
 >
->**Permissões de administrador são necessárias**
+>**Permissões de administrador necessárias**
 
 1. Clique em **[!UICONTROL Admin]** e depois no link **[!UICONTROL Aplicativos para dispositivos móveis]**.
 

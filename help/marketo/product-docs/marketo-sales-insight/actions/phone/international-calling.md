@@ -3,10 +3,13 @@ description: Saiba mais sobre chamadas internacionais em Ações do Sales Insigh
 title: Chamada internacional
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 12%
+source-wordcount: 404
+ht-degree: 29%
 
 ---
 
@@ -32,7 +35,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr>
   <tr>
    <td colspan="1">Áustria</td>
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 4369989, 43720, 43780, 439</td>
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td>
   </tr>
   <tr>
    <td colspan="1">Bahamas</td>
@@ -60,7 +63,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr>
   <tr>
    <td>Grécia </td>
-   <td>30.3021</td>
+   <td>30, 3021</td>
   </tr>
   <tr>
    <td>Hungria</td>
@@ -112,7 +115,7 @@ O Sales Dialer facilita a comunicação internacional. Para clientes que fazem c
   </tr>
   <tr>
    <td colspan="1">Polônia </td>
-   <td colspan="1">48.4832</td>
+   <td colspan="1">48, 4832</td>
   </tr>
   <tr>
    <td colspan="1">Portugal </td>

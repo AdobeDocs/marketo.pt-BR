@@ -3,16 +3,27 @@ description: Documente a configuração da sua nova instância do Marketo Engage
 title: Novas práticas recomendadas de instância - documente sua configuração
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+TQID: https://experienceleague.adobe.com/pqbf84tAUt49rWUD7rONRuZNgR8v5yMmYTqwqlXqgAs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 2%
+source-wordcount: 536
+ht-degree: 4%
 
 ---
 
-# Novas práticas recomendadas de instância: documentar sua configuração {#new-instance-best-practices-document-your-setup}
+# Novas práticas recomendadas da instância: documentar sua configuração {#new-instance-best-practices-document-your-setup}
 
-Agora que você aprendeu as principais áreas de produto para configurar para uma nova instância do Marketo Engage, a próxima etapa é criar a documentação para a configuração da sua instância e pilha técnica. Ao criá-la por meio de uma planilha ou um aplicativo de gerenciamento de projeto, sua documentação será um excelente recurso para rastrear o progresso e registrar os detalhes, bem como manter sua instância estruturada e sustentável para futuros profissionais de marketing em sua organização.
+Agora que você aprendeu as principais áreas de produto para configurar uma nova instância do Marketo Engage, a próxima etapa é criar a documentação para a configuração da instância e a pilha técnica. Ao criá-la por meio de uma planilha ou um aplicativo de gerenciamento de projeto, sua documentação será um excelente recurso para rastrear o progresso e registrar os detalhes, bem como manter sua instância estruturada e sustentável para futuros profissionais de marketing em sua organização.
 
 ## Dados {#data}
 
@@ -26,7 +37,7 @@ Agora que você aprendeu as principais áreas de produto para configurar para um
 <tbody>
   <tr>
     <td>Importação de lista</td>
-    <td><li>Obtenha uma lista das fontes de dados cujos registros serão extraídos para <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importar para o Marketo Engage</a>.</li>
+    <td><li>Obtenha uma lista das fontes de dados das quais os registros serão extraídos para <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importar para o Marketo Engage</a>.</li>
     <li>Se você estiver importando de várias fontes de dados, considere usar Listas Mestras ou <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">criar um campo personalizado</a> no registro de pessoa para indicar a fonte de dados.</li></td>
   </tr>
   <tr>
@@ -48,7 +59,7 @@ Agora que você aprendeu as principais áreas de produto para configurar para um
 <tbody>
   <tr>
     <td>Usuários</td>
-    <td><li>Documente os <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuários atuais</a> em sua instância por motivos de segurança. Os seguintes detalhes devem ser incluídos no mínimo (e estão visíveis ao acessar Admin &gt; Usuários e funções):</li>
+    <td><li>Documente os <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuários atuais</a> em sua instância por motivos de segurança. Os seguintes detalhes devem ser incluídos no mínimo (e estão visíveis ao acessar Admin &gt; Usuários e funções):</li>
     <ul>
     <li>Nome</li>
     <li>Email</li>
@@ -70,13 +81,13 @@ Agora que você aprendeu as principais áreas de produto para configurar para um
     <td><li>Crie um changelog no qual você pode documentar o que está mudando na sua instância e o porquê das modificações. <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Saiba mais sobre as práticas recomendadas aqui.</a></li></td>
   </tr>
   <tr>
-    <td>Playbooks</td>
+    <td>Manuais de estratégia</td>
     <td><li>Crie um Manual do usuário ou um Manual do administrador para usuários internos que estão integrando a instância.</li></td>
   </tr>
   <tr>
     <td>Conversas com equipes internas</td>
-    <td><li>Alinhe as expectativas da equipe interna de marketing em relação ao Marketo Engage com os recursos de Marketo Engage.</li>
-    <li>Identifique as equipes que serão suas partes interessadas na instância do Marketo Engage e documente suas metas para alcançar usando o Marketo Engage como uma tecnologia.</li></td>
+    <td><li>Alinhe as expectativas da equipe interna de marketing em relação ao Marketo Engage com os recursos do Marketo Engage.</li>
+    <li>Identifique as equipes que serão suas partes interessadas na instância do Marketo Engage e documente suas metas para alcançar o uso do Marketo Engage como uma tecnologia.</li></td>
   </tr>
   <tr>
     <td>Espaços de trabalho e partições (se aplicável)</td>

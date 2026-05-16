@@ -3,10 +3,18 @@ description: Saiba mais sobre IA gerativa no Dynamic Chat para produtividade do 
 title: IA gerativa no Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 5%
+source-wordcount: 472
+ht-degree: 0%
 
 ---
 
@@ -26,7 +34,7 @@ Crie uma mensagem para o visitante para quando ele atingir um determinado ponto 
 
 ![](assets/generative-ai-overview-2.png)
 
-## Sumário da conversa {#conversation-summary}
+## Resumo da conversa {#conversation-summary}
 
 Normalmente, para obter o contexto completo de uma conversa de visitante, é necessário percorrer toda a transcrição do chat. O Resumo da conversa gera um resumo para você em tempo real e inclui tópicos nos quais o visitante expressou interesse. Isso é particularmente útil para agentes de bate-papo que precisam de um contexto rápido de uma conversa quando estão alternando entre bate-papos com vários visitantes. Além de estarem visíveis na tela de bate-papo da Caixa de entrada do agente, os Resumos de conversas concluídos também podem ser encontrados no registro de atividades do Registro de pessoa do visitante no banco de dados do Marketo Engage.
 
@@ -38,19 +46,19 @@ Normalmente, para obter o contexto completo de uma conversa de visitante, é nec
 >
 >Um Resumo da conversa é gerado para bate-papos ao vivo e automatizados.
 
-## Geração de perguntas {#question-generation}
+## Geração de pergunta {#question-generation}
 
 [Aumente as experiências de entrada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) com conversas assistidas por IA para visitantes que usam uma interface treinada com vendas, marketing e conhecimento sobre produtos.
 
 ![](assets/generative-ai-overview-5.png)
 
-## Biblioteca de respostas {#response-library}
+## Biblioteca de resposta {#response-library}
 
 [Produza uma coleção personalizada](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) de perguntas e respostas, todas pré-aprovadas por você, para uso em campanhas de chat da IA gerativa.
 
 ![](assets/generative-ai-overview-6.png)
 
-## Log de atividade {#activity-log}
+## Log de atividades {#activity-log}
 
 [Veja uma lista de todas as tarefas](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) e seus detalhes de acompanhamento, incluindo nome, proprietário, tipo, quem as editou e quando.
 

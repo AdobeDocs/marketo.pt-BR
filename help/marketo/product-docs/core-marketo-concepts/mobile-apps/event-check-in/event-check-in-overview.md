@@ -3,9 +3,12 @@ description: Saiba mais sobre o Check-in de eventos para fazer o check-in de cli
 title: Visão geral do check-in do evento
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/ryjtMEfYnhdTzBAZuJFSvOOz2R-3hgWNJL37Hmcvkok
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: 314
 ht-degree: 4%
 
 ---

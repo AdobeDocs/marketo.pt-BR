@@ -1,17 +1,22 @@
 ---
 unique-page-id: 4720856
 description: Saiba como adicionar uma visualização móvel para sua página de aterrissagem de formato livre no Marketo. Otimizar o layout da página para dispositivos móveis.
-title: Adicionar uma visualização móvel em sua página de destino de forma livre
+title: Adicionar uma visualização móvel para sua página de aterrissagem de forma livre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 19%
+source-wordcount: 150
+ht-degree: 0%
 
 ---
 
-# Adicionar uma visualização móvel em sua página de destino de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
+# Adicionar uma visualização móvel para sua página de aterrissagem de forma livre {#add-a-mobile-view-for-your-free-form-landing-page}
 
 É fácil fazer suas páginas de aterrissagem de forma livre parecem ótimas em um smartphone.
 
@@ -19,7 +24,7 @@ ht-degree: 19%
 >
 >A visualização móvel funciona em telas com 480 px de largura (ou menos). Em outras palavras, smartphones. Veja mais [informações sobre resoluções de dispositivo](https://www.mydevice.io/).
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -35,7 +40,7 @@ ht-degree: 19%
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. Clique em **[!UICONTROL Ativar]**.
+1. Clique em **[!UICONTROL Ativar]**.
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 

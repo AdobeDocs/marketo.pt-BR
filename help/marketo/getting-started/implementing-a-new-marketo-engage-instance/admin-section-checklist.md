@@ -3,14 +3,37 @@ description: Configure a seção Admin para sua nova instância do Marketo Engag
 title: Novas Práticas Recomendadas Da Instância - Lista De Verificação Da Seção Do Administrador
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+TQID: https://experienceleague.adobe.com/9yNDZl4AGlgdf3FRLib3H7wVhKYTciLSXevJ0JTEFjQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+  - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+  - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+  - id: e5d29014-8a81-4c0c-845b-2adc7a5d6258
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 6%
+source-wordcount: 1125
+ht-degree: 4%
 
 ---
 
-# Novas Práticas Recomendadas Da Instância: Lista De Verificação Da Seção Admin {#new-instance-best-practices-admin-section-checklist}
+# Novas práticas recomendadas da instância: lista de verificação da seção de admins {#new-instance-best-practices-admin-section-checklist}
 
 Como novo administrador navegando em uma nova instância do Marketo Engage, aplique a lista de verificação abaixo para ajudar a orientá-lo pelo processo de implementação. Como em todos esses guias, você também pode [baixar as listas de verificação](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) e acompanhar seu progresso.
 

@@ -4,9 +4,16 @@ description: Saiba mais sobre os recursos do Marketo Sales Insight no Salesforce
 title: Visão geral do recurso MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: 946
 ht-degree: 13%
 
 ---
@@ -80,7 +87,7 @@ Campos:
 * Desc. do último momento interessante
 * Fonte do último momento interessante
 * Tipo do último momento interessante
-* Última atividade do Marketo por Vendas
+* Última atividade do Marketo no Sales
 * Pontuação relativa
 * Valor de pontuação relativa
 * Urgência

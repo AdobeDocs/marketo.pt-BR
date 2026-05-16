@@ -1,23 +1,29 @@
 ---
 unique-page-id: 1147126
 description: Saiba como usar a guia Início do programa. Veja a visão geral, o desempenho e os principais detalhes do programa em um único local.
-title: Uso da guia Página inicial do programa
+title: Usando a guia Início do programa
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/1YCKRjfWD2We--zAhgxrPaPLMEFfxbO4DVv2fwe56k0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: 170
+ht-degree: 0%
 
 ---
 
-# Uso da guia Página inicial do programa {#using-the-program-home-tab}
+# Usando a guia Início do programa {#using-the-program-home-tab}
 
 A guia Página inicial do programa fornece uma visão geral do que está acontecendo em seu programa.
 
 ## Exibição de resumo {#summary-view}
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -71,4 +77,4 @@ A guia Página inicial do programa fornece uma visão geral do que está acontec
 
    >[!MORELIKETHIS]
    >
-   >[Noções básicas de assinatura de programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[Noções básicas sobre a associação ao programa](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

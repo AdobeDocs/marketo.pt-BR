@@ -2,10 +2,15 @@
 description: Saiba mais sobre como sincronizar dados de Ações do Sales Insight com o Marketo Engage e o Salesforce.
 title: Sincronizar dados de ação de vendas com o Marketo e o Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/SEElhIJ05KyqQUi5rLjSZjwFMdHDDO5is9Hqk7JxeIE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 4%
+source-wordcount: 1072
+ht-degree: 0%
 
 ---
 
@@ -57,13 +62,13 @@ Há 11 campos que são sincronizados do Marketo Engage com as Ações do Sales I
 * ID de cliente potencial do Salesforce
 * ID da conta do Salesforce
 * ID de oportunidade do Salesforce
-* ID do Marketo
+* MARKETO ID
 * Empresa
 * Título
-* Email
+* E-mail
 * Número de telefone
 * URL do Linkedin
-* Origem
+* Source
 
 ## Os campos sincronizados entre o Marketo Engage e as ações do Sales Insight podem ser configurados? {#are-the-fields-that-sync-configurable}
 
@@ -71,7 +76,7 @@ Configurar quais campos do Marketo Engage sincronizam com as Ações do Sales In
 
 ## Por que as ações do Sales Insight têm seu próprio banco de dados? {#why-does-actions-have-its-own-database}
 
-O Sales Insight Actions tem seu próprio aplicativo web com um banco de dados de pessoas e atividades dedicado para fornecer um espaço de trabalho otimizado criado e projetado para equipes de vendas. Isso permite que gerentes e vendedores tenham um espaço para desenvolver e gerenciar sua estratégia de engajamento   sem conceder acesso ou privilégios ao espaço de trabalho principal do Marketo Engage, que é otimizado para especialistas em operações de marketing.
+O Sales Insight Actions tem seu próprio aplicativo web com um banco de dados de pessoas e atividades dedicado para fornecer um espaço de trabalho otimizado criado e projetado para equipes de vendas. Isso permite que gerentes e vendedores tenham um espaço para desenvolver e gerenciar sua estratégia de engajamento sem conceder acesso ou privilégios ao espaço de trabalho principal do Marketo Engage, que é otimizado para especialistas em operações de marketing.
 
 ## Como as duplicatas são tratadas? {#how-are-duplicates-handled}
 
@@ -95,13 +100,13 @@ Sim, as atividades do contrato de vendas serão registradas no Marketo como ativ
 
 Veja abaixo uma lista das atividades que fazem logon no Marketo:
 
-* Enviar e-mail de vendas
+* Enviar email de vendas
 * Abrir email de vendas
-* Clicar em email de vendas
-* Respondeu ao e-mail de vendas
-* E-mail de vendas foi devolvido
+* Clique em E-mail de vendas
+* Respondido para o e-mail de vendas
+* Email de vendas rejeitado
 * Chamada de vendas recebida
-* Adicionar a campanha de vendas
+* Adicionar à campanha de vendas
 * Removido da campanha de vendas
 
 ## As atividades de vendas registram no Salesforce? {#do-sales-activities-log-to-salesforce}

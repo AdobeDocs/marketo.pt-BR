@@ -4,9 +4,19 @@ description: Saiba mais sobre como gerenciar dados pessoais no Marketo Engage, i
 title: Gerenciar dados de pessoa
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rIiC-JXLkaMByk7GizVOcCEcUHN8AL-8Hy66-U2GZhs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: 213
 ht-degree: 24%
 
 ---
@@ -64,7 +74,7 @@ Aproveite os Dados da pessoa para [!DNL Web Personalization] selecionando os cam
   <tr>
    <td><p>título</p></td>
    <td><p>Título</p></td>
-   <td><p>Nome do cargo</p></td>
+   <td><p>Cargo</p></td>
   </tr>
   <tr>
    <td><p>avaliação</p></td>

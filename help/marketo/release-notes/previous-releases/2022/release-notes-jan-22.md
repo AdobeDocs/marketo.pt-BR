@@ -2,10 +2,29 @@
 description: Notas de versão - Janeiro de 2022 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - Janeiro de 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/sWnFMRl-gpHawYrXU3POsKo2V2OrO9DmiYKvo0oyN3g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 4%
+source-wordcount: 977
+ht-degree: 0%
 
 ---
 
@@ -15,7 +34,7 @@ Os seguintes recursos estão incluídos na versão de janeiro de 2022. Verifique
 
 >[!AVAILABILITY]
 >
->Os recursos indicados com uma estrela (![estrela](assets/yellow-star.png)) são complementos pagos. Entre em contato com o(a) representante do Marketo Engage para obter mais informações.
+>Os recursos indicados por uma estrela (![star](assets/yellow-star.png)) são complementos pagos. Entre em contato com seu representante da Marketo Engage para obter mais informações.
 
 **_Versões Trimestrais_**
 
@@ -28,7 +47,7 @@ Os recursos a seguir serão lançados em **21 de janeiro de 2022**, com uma impl
    * Detalhes de Ativo da Página de Aterrissagem no [!UICONTROL Design Studio]
    * Detalhes de ativos da landing page em [!UICONTROL atividades de marketing]
 
-## [!DNL Microsoft Dynamics] Integração {#microsoft-dynamics-integration}
+## Integração do [!DNL Microsoft Dynamics] {#microsoft-dynamics-integration}
 
 * **Sincronização do Tipo de Campo Multiselect Optionset Geralmente Disponível**: sincronize o tipo de campo multiselect optionset de [!DNL Microsoft Dynamics] para aproveitar em Smart Lists e Campanhas Inteligentes para um direcionamento de público mais granular. Os exemplos incluem: tópicos/produtos de interesse, modos de comunicação preferidos e muito mais. Esta nova sincronização está disponível para [!DNL Microsoft Dynamics] versão 9.X (incluindo o Dynamics 365 Online).
 

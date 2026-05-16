@@ -4,10 +4,13 @@ description: Saiba mais sobre Chamadas internacionais de Telefone de Vendas no S
 title: Chamada internacional de telefone de vendas
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 13%
+source-wordcount: 409
+ht-degree: 29%
 
 ---
 
@@ -33,7 +36,7 @@ O Telefone de Vendas facilita a comunicação internacional. Para clientes que l
   </tr>
   <tr>
    <td colspan="1">Áustria</td>
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 4369988, 4369989, 43720, 43780, 439</td>
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td>
   </tr>
   <tr>
    <td colspan="1">Bahamas</td>
@@ -61,7 +64,7 @@ O Telefone de Vendas facilita a comunicação internacional. Para clientes que l
   </tr>
   <tr>
    <td>Grécia </td>
-   <td>30.3021</td>
+   <td>30, 3021</td>
   </tr>
   <tr>
    <td>Hungria</td>
@@ -113,7 +116,7 @@ O Telefone de Vendas facilita a comunicação internacional. Para clientes que l
   </tr>
   <tr>
    <td colspan="1">Polônia </td>
-   <td colspan="1">48.4832</td>
+   <td colspan="1">48, 4832</td>
   </tr>
   <tr>
    <td colspan="1">Portugal </td>

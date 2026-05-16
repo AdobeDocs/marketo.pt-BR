@@ -4,10 +4,15 @@ description: Saiba como ativar e desativar o conteúdo de fluxo para conversões
 title: Ativar e desativar conteúdo de fluxo
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 11%
+source-wordcount: 138
+ht-degree: 0%
 
 ---
 
@@ -17,7 +22,7 @@ O conteúdo do fluxo está desativado por padrão. Ative o conteúdo para enviá
 
 ## Ativar conteúdo de fluxo {#activate-stream-content}
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 

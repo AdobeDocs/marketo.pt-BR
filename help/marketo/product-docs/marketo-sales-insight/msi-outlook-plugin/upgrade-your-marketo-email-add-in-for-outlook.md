@@ -4,10 +4,17 @@ description: Saiba como atualizar o Suplemento de email do Marketo para Outlook.
 title: Atualize seu Suplemento de Email do Marketo para  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/NK-fGmulqGGDopDM95ZBT-e21sa-z2FrDCTi2wu3kmQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 12%
+source-wordcount: 437
+ht-degree: 0%
 
 ---
 
@@ -119,7 +126,7 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
 
 &#42;Versão do Office 365: somente cliente Windows (no Windows 10, Windows 11, Enterprise ou Pro).
 
-## Atualização {#upgrade}
+## Atualizar {#upgrade}
 
 1. Identifique sua [[!DNL Microsoft Outlook] versão](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
 
@@ -129,7 +136,7 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Clique em **[!UICONTROL Next]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -153,7 +160,7 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Clique em **[!UICONTROL Next]**.
+1. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 

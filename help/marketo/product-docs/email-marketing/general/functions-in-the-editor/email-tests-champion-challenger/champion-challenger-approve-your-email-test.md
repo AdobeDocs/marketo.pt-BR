@@ -4,14 +4,17 @@ description: Saiba como aprovar o teste de email Champion/Challenger. Conclua a 
 title: Champion/Challenger - Aprove Seu Teste De E-Mail
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: 152
+ht-degree: 0%
 
 ---
 
-# Controlador/variante: aprovar o teste de email {#champion-challenger-approve-your-email-test}
+# Champion/Challenger: Aprove Seu Teste De Email {#champion-challenger-approve-your-email-test}
 
 A etapa final na configuração do teste de email para aprová-lo. Veja como.
 
@@ -19,7 +22,7 @@ A etapa final na configuração do teste de email para aprová-lo. Veja como.
 >
 >[Configurar alertas de relatório](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

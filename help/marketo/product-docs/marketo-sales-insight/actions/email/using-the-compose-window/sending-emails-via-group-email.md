@@ -3,10 +3,13 @@ description: Saiba como enviar emails de vendas por email de grupo. Envie um ema
 title: Envio de emails em grupo
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/M4ZhsvqF5rQrBo9JUHUizghuCD6FXRWOCzzuuaFXOZk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 5%
+source-wordcount: 172
+ht-degree: 8%
 
 ---
 
@@ -16,7 +19,7 @@ Veja como enviar/editar emails usando a opção Email de grupo.
 
 ## Enviando um email de grupo {#sending-a-group-email}
 
-1. Clique na guia **[!UICONTROL Pessoas]**.
+1. Clique na guia **[!UICONTROL Pessoas]**:
 
    ![](assets/sending-emails-via-group-email-1.png)
 

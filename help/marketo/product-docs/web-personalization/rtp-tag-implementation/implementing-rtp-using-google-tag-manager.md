@@ -4,9 +4,19 @@ description: Saiba mais sobre como implementar o rtp usando o google tag manager
 title: Implementação do RTP usando o gerenciador de tags do Google
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/XesXGBf2aDsnsbS2Ro1RLdd1EVrj-mBdCiv8C0dj8NU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 173
 ht-degree: 3%
 
 ---
@@ -17,13 +27,13 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo.
 
 1. Faça logon em sua conta do [!DNL Google Tag Manager].
 
-1. Adicione uma nova **[!UICONTROL Marca]** > **[!UICONTROL Configurações de Marca]** > **[!UICONTROL Marca Personalizada do HTML].** Chame de **RTP**.
+1. Adicionar uma nova **[!UICONTROL Marca]** > **[!UICONTROL Configurações de Marca]** > **[!UICONTROL Marca Personalizada do HTML].** Chame de **RTP**.
 
 1. Faça logon em sua **conta RTP**.
 
 1. Vá para **[!UICONTROL Configurações da conta]**.
 
-   a. Se você já tiver recebido sua tag do JavaScript do Suporte, continue para a Etapa 6.
+   a) Se você já recebeu a tag do JavaScript do suporte, continue para a Etapa 6.
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
@@ -39,4 +49,4 @@ Para implementar sua tag RTP, siga as instruções de instalação abaixo.
 
 1. Verifique se ele aparece em todas as páginas, incluindo páginas de aterrissagem e subdomínios.
 
-   a. Para fazer isso, clique com o botão direito do mouse na página do site. Vá para **[!UICONTROL Inspecionar Elemento]**, Pesquisar por **RTP** para localizar a marca.
+   a) Você pode fazer isso clicando com o botão direito do mouse na página do seu site. Vá para **[!UICONTROL Inspecionar Elemento]**, Pesquisar por **RTP** para localizar a marca.

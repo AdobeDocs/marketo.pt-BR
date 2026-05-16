@@ -3,9 +3,16 @@ description: Saiba mais sobre métricas e dimensões disponíveis para relatóri
 title: Métricas e dimensões
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/h8XJqbxeqH-Fm3xe8BzwBnSW41F5CfuDiA1sPP6JJVU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1058'
+source-wordcount: 1058
 ht-degree: 27%
 
 ---
@@ -318,7 +325,7 @@ Abaixo, você encontrará todas as métricas e dimensões disponíveis para o re
             <li>Partição de leads</li>
             <li>Registrar tipo de Source</li>
             <li>Inscrição cancelada</li>
-            <li>Endereço de email</li>
+            <li>Endereço de e-mail</li>
             <li>Email inválido</li>
             <li>Endereço de e-mail do proprietário do lead</li>
             <li>Nome do cargo do proprietário do lead</li>

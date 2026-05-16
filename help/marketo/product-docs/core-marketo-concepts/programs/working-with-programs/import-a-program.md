@@ -4,10 +4,27 @@ description: Saiba como importar um programa para o Marketo. Traga um programa d
 title: Importar um programa
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/uQNr3WjiGA4EIjRwxQ4nZqXG6CxuMRQj2Hz5aGX6hb8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 3%
+source-wordcount: 573
+ht-degree: 0%
 
 ---
 
@@ -24,7 +41,7 @@ Um programa pode ser importado de uma assinatura do Marketo Engage para outra. P
 
 ## Importando um programa {#importing-a-program}
 
-1. Acesse **[!UICONTROL Atividades de marketing]**.
+1. Vá para **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/import-a-program-1.png)
 
@@ -38,11 +55,11 @@ Um programa pode ser importado de uma assinatura do Marketo Engage para outra. P
    >
    >* Para conectar uma conta de sandbox à sua assinatura ativa, contate o [Suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Selecione uma **[!UICONTROL Assinatura]** do Marketo e um programa para importar. Clique em **[!UICONTROL Next]**.
+1. Selecione uma **[!UICONTROL Assinatura]** do Marketo e um programa para importar. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Especifique uma **[!UICONTROL Pasta de campanha]** para o programa importado. Clique em **[!UICONTROL Next]**.
+1. Especifique uma **[!UICONTROL Pasta de campanha]** para o programa importado. Clique em **[!UICONTROL Avançar]**.
 
    ![](assets/import-a-program-4.png)
 

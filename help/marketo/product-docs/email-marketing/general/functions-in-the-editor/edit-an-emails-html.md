@@ -4,9 +4,12 @@ description: Saiba como editar diretamente a HTML de um email. Acesse a visualiz
 title: Editar HTML de um email
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: 363
 ht-degree: 4%
 
 ---
@@ -50,7 +53,7 @@ Estas alterações de código **não** interromperão um email de seu modelo:
 * Excluindo um módulo do contêiner
 
 * Alteração de atributos específicos do mkto (por exemplo, &quot;mktoName&quot; ou &quot;mktoImgUrl&quot;) de qualquer Elemento fora de um Módulo
-* Editar o conteúdo de qualquer elemento (rich text, imagem, vídeo, etc.) fora de um módulo
+* Editar o conteúdo de qualquer elemento (rich text, imagem, vídeo etc.) fora de um módulo
 
 As seguintes ações que você pode executar no editor de código **quebrarão o email com base em seu modelo:**
 

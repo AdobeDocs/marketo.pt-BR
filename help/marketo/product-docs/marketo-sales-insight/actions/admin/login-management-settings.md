@@ -3,10 +3,13 @@ description: Saiba mais sobre as configurações de gerenciamento de logon para 
 title: Configurações de gerenciamento de logon
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 2%
+source-wordcount: 466
+ht-degree: 0%
 
 ---
 
@@ -34,7 +37,7 @@ Para atualizar suas preferências de gerenciamento de logon, siga estas etapas.
 
    ![](assets/login-management-settings-2.png)
 
-1. Role para baixo até o cartão [!UICONTROL Gerenciamento de logon] e selecione a configuração desejada (neste exemplo, estamos escolhendo Somente Salesforce). Clique em **[!UICONTROL Salvar]** quando terminar.
+1. Role para baixo até o cartão [!UICONTROL Gerenciamento de logon] e selecione a configuração desejada (neste exemplo, estamos escolhendo Somente Salesforce). Clique em **[!UICONTROL Salvar]** ao concluir.
 
    ![](assets/login-management-settings-3.png)
 

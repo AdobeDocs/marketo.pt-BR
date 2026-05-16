@@ -1,17 +1,22 @@
 ---
 unique-page-id: 2359866
 description: Saiba como capturar imagens de uma página da Web no Marketo. Importe imagens de um URL para o Design Studio.
-title: Capturar imagens de uma página da Web
+title: Capturar as imagens de uma página da Web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/7QJj1DvaBOQ-ZC5JrpFZ3lchV1t2t-2GpRX4uEmC-s0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 7%
+source-wordcount: 177
+ht-degree: 0%
 
 ---
 
-# Capturar imagens de uma página da Web {#grab-the-images-from-a-web-page}
+# Capturar as imagens de uma página da Web {#grab-the-images-from-a-web-page}
 
 Para adicionar imagens de uma página da Web, copie o endereço da Web (URL) da página que tem as imagens desejadas e, em seguida, siga estas etapas.
 

@@ -4,9 +4,12 @@ description: Saiba como adicionar outros CNAMEs de página de aterrissagem no Ma
 title: Adicionar outros CNAMEs de página de destino
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: 235
 ht-degree: 6%
 
 ---
@@ -23,7 +26,7 @@ Você pode adicionar CNAMEs de página de aterrissagem para permitir que URLs di
 >
 >**Mesmo domínio de nível superior - Ótimo! Cookies são compartilhados**.<br/> **ir**.mycompany.com > **informações**.mycompany.com
 >
->**Domínios de nível superior diferentes - Incorreto! Os cookies são _não_ compartilhados**.<br/> vá.**minhaempresa**.com > vá.**minhanovaempresa**.com
+>**Domínios de nível superior diferentes - Incorreto! Os cookies são _não_ compartilhados**.<br/> ir.**minhaempresa**.com > ir.**minhaempresa**.com
 
 >[!NOTE]
 >
@@ -61,7 +64,7 @@ Você pode adicionar CNAMEs de página de aterrissagem para permitir que URLs di
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Insira seu **[!UICONTROL Alias do Domínio].** A **[!UICONTROL Página Padrão]** será exibida se o visitante não colocar uma URL. Digite para onde eles devem ir nesse caso.
+1. Insira seu **[!UICONTROL Alias do Domínio].** A **[!UICONTROL Página padrão]** será exibida se o visitante não colocar uma URL. Digite para onde eles devem ir nesse caso.
 
    >[!NOTE]
    >

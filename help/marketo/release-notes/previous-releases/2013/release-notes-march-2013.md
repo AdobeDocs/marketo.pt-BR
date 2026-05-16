@@ -4,9 +4,12 @@ description: Notas de versão - março de 2013 - Documentação do Marketo - Doc
 title: Notas de versão - Março de 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/u4SHg7YFveX9aXItkVZek9w2juhS0-vUxrwvkNWLqFI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: 230
 ht-degree: 4%
 
 ---

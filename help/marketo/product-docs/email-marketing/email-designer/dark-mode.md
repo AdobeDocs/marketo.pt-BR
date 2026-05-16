@@ -4,10 +4,18 @@ title: Modo escuro
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/zGeCSfSKkyTkteiTaPmkiirkOXxEP1YVdWmHMvSWnR0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1232'
-ht-degree: 1%
+source-wordcount: 1236
+ht-degree: 0%
 
 ---
 
@@ -73,7 +81,7 @@ Algumas restrições podem se aplicar de acordo com cada cliente de email. Por e
 
 Para obter os melhores resultados, teste seu conteúdo nos clientes de email que você está direcionando. Para ver uma simulação em cada cliente, use o recurso [Renderização de email](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) no Designer de email.
 
-## Modo escuro no designer de email {#dark-mode-email-designer}
+## Modo escuro no Designer de email {#dark-mode-email-designer}
 
 Quando se trata do modo escuro no Designer de email, há dois aspectos a serem considerados:
 

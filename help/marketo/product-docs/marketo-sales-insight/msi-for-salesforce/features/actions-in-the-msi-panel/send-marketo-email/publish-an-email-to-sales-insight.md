@@ -4,9 +4,16 @@ description: Saiba como publicar um email do Marketo no Sales Insight. Disponibi
 title: Publicar um email no Insight de vendas
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: 215
 ht-degree: 4%
 
 ---
@@ -33,7 +40,7 @@ Habilite a configuração Publicar em [!DNL Sales Insight] para disponibilizar u
 
    >[!NOTE]
    >
-   >Às 23h00 (CST) da data de expiração (se você definir uma), o email que você disponibilizou desaparecerá de :59, bem como de qualquer um de seus suplementos. [!DNL Sales Insight] É claro que ele ainda estará acessível no Marketo.
+   >Às 23h00 (CST) da data de expiração (se você definir uma), o email que você disponibilizou desaparecerá de [!DNL Sales Insight], bem como de qualquer um de seus suplementos. :59É claro que ele ainda estará acessível no Marketo.
 
 1. Clique em **[!DNL Save]**.
 

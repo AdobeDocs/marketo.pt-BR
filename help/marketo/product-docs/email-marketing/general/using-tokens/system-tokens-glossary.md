@@ -4,9 +4,12 @@ description: Saiba mais sobre os tokens do sistema disponíveis em Emails do Mar
 title: Glossário de tokens do sistema
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: 229
 ht-degree: 2%
 
 ---
@@ -19,7 +22,7 @@ Além dos tokens de pessoa, você pode usar alguns tokens de sistema muito legai
 >
 >As configurações de fuso horário da conta afetam quando os tokens de data e hora são executados.
 
-## system.date {#system-date}
+## data.sistema {#system-date}
 
 O token `{{system.date}}` renderizará a data atual no tempo de execução da seguinte forma: **Ago 08, 2013**
 

@@ -4,9 +4,12 @@ description: Saiba mais sobre o Marketo Sales Connect e como ele impulsiona o en
 title: Visão geral do Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: 256
 ht-degree: 15%
 
 ---
@@ -48,11 +51,11 @@ Veja como seus clientes potenciais estão se envolvendo com seus esforços de ve
    <td><p>O usuário enviou um email de vendas do Sales Connect.</p></td>
   </tr>
   <tr>
-   <td><p>Abrir email de vendas</p></td>
+   <td><p>Abrir e-mail de vendas</p></td>
    <td><p>O cliente potencial abriu um email de vendas enviado pelo Sales Connect.</p></td>
   </tr>
   <tr>
-   <td><p>Clicar em email de vendas</p></td>
+   <td><p>Clicar em e-mail de vendas</p></td>
    <td><p>Cliente potencial clicou em um link em um email de vendas enviado pelo Sales Connect.</p></td>
   </tr>
   <tr>

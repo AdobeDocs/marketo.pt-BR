@@ -4,9 +4,17 @@ description: Saiba mais sobre o remarketing personalizado no Google no Marketo E
 title: Remarketing personalizado no Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: 310
 ht-degree: 4%
 
 ---
@@ -34,7 +42,7 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. No Construtor de público-alvo, clique em **[!UICONTROL Sequências]** e **[!UICONTROL Localize os dados RTP]** em [!UICONTROL Dimensões personalizadas], [!UICONTROL UICONTROL [ !]Variáveis Personalizadas &#x200B;], [!UICONTROL Eventos].
+1. No Construtor de público-alvo, clique em **[!UICONTROL Sequências]** e **[!UICONTROL Localize os dados RTP]** em [!UICONTROL Dimensões personalizadas], [!UICONTROL UICONTROL [ !]Variáveis personalizadas &#x200B;], [!UICONTROL Eventos].
 
 >[!TIP]
 >

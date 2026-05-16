@@ -4,9 +4,20 @@ description: Saiba mais sobre a implementação de rtp nas páginas de aterrissa
 title: Implementação do RTP em páginas de destino do Marketo
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/scyZfbFBloPu8JRfJiMjm62AFCHM7WCxaats3qssq2A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: 213
 ht-degree: 5%
 
 ---
@@ -25,7 +36,7 @@ Para implementar sua [!UICONTROL tag RTP], siga as instruções de instalação 
 
 1. Na sua conta RTP, vá para **[!UICONTROL Configurações da Conta]**.
 
-   a. Se você já tiver recebido a tag do JavaScript do suporte, continue para a etapa 5.
+   a) Se você já tiver recebido sua tag do JavaScript do suporte, continue para a etapa 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-2.png)
 
@@ -49,4 +60,4 @@ Para implementar sua [!UICONTROL tag RTP], siga as instruções de instalação 
 
 1. Verifique se ele aparece em todas as páginas, incluindo páginas de aterrissagem e subdomínios.
 
-   Você pode fazer isso clicando com o botão direito do mouse na página do site. Vá para **[!UICONTROL Exibir Página Source].** Procure por **[!UICONTROL RTP]** para localizar a marca.
+   Você pode fazer isso clicando com o botão direito do mouse na página do site. Ir para **[!UICONTROL Exibir Página Source].** Procure por **[!UICONTROL RTP]** para localizar a marca.
