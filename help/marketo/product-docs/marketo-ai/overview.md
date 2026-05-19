@@ -1,26 +1,26 @@
 ---
-description: Explore o conjunto de agentes do Marketo Engage AI projetados para automatizar tarefas de marketing como controle de qualidade do programa, importação de clientes potenciais, normalização de dados e muito mais.
-title: Visão geral da IA do Marketo Engage
+description: Explore o conjunto de agentes do Marketo AI projetados para automatizar tarefas de marketing como controle de qualidade do programa, importação de clientes potenciais, normalização de dados e muito mais.
+title: Visão geral da IA do Marketo
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
 
-# Visão geral da IA do Marketo Engage {#overview}
+# Visão geral da IA do Marketo {#overview}
 
-A IA do Marketo Engage fornece agentes projetados para automatizar funções de marketing demoradas, mas importantes.
+A IA do Marketo fornece agentes projetados para automatizar funções de marketing demoradas, mas importantes.
+
+>[!AVAILABILITY]
+>
+>Este recurso está em disponibilidade limitada. Para solicitar o acesso à sua assinatura, entre em contato com a Equipe de conta da Adobe (seu gerente de conta).
 
 >[!PREREQUISITES]
 >
->Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
-
->[!NOTE]
->
->Esse recurso está na versão beta fechada e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar o bloco _Criar com IA_ na tela Minha Marketo.
+>Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com seu gerente de conta para obter detalhes.
 
 >[!IMPORTANT]
 >
