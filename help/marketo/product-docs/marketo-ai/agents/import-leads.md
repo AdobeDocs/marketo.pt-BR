@@ -3,7 +3,7 @@ description: Saiba como usar o agente Importar clientes em potencial para carreg
 title: Importar clientes em potencial
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -18,9 +18,9 @@ Importe e desduplique listas de clientes potenciais no banco de dados do Marketo
 >
 >Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->Esse recurso está na versão beta fechada e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar um bloco _Build com IA_ na tela Minha Marketo.
+>Esse recurso está na versão beta fechada e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar o bloco _Criar com IA_ na tela Minha Marketo.
 
 ## Como usar {#how-to-use}
 
