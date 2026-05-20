@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
+source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
 workflow-type: tm+mt
-source-wordcount: '8840'
+source-wordcount: '8896'
 ht-degree: 96%
 
 ---
@@ -1122,7 +1122,7 @@ ht-degree: 96%
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
@@ -1731,6 +1731,67 @@ ht-degree: 96%
          + [Configurações de insights de desempenho](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [Visão geral da tendência de insights de desempenho](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [Configuração de insights de desempenho](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
+      + Análise do ciclo de receita {#revenue-cycle-analytics}
+         + Análise de emails {#email-analysis}
+            + [Criar um relatório de análise de email com uma lista de leads](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
+            + [Criar um relatório de análise de email que mostre informações do programa](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)
+            + [Noções básicas sobre a área de análise de email](product-docs/reporting/revenue-cycle-analytics/email-analysis/understanding-the-email-analysis-area.md)
+         + Analisador de influência da oportunidade {#opportunity-influence-analyzer}
+            + [Noções básicas sobre o analisador de influência de oportunidades](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
+            + [Configurar um analisador de influência de oportunidade](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+            + [Criar um analisador de influência de oportunidade](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+            + [Exportar dados do analisador de influência de oportunidade](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
+            + [Contar a história de marketing com um analisador de influência de oportunidade](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+         + Análises do programa {#program-analytics}
+            + [Visão geral dos relatórios avançados do programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
+            + [Criar um relatório de análise de associação ao programa com uma lista de leads](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
+            + [Clonar um analisador de programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+            + [Comparar a eficácia do canal com o analisador de programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+            + [Comparar a eficácia do programa com o analisador de programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+            + [Criar um analisador de programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+            + [Explorar detalhes do programa e do canal com o analisador de programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+            + [Disponibilizar um programa sem custo de período no explorador de receita e nos analisadores](product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)
+            + [Substituir o comportamento de análise no nível do programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+            + [Noções básicas sobre a área de análise de custo do programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-cost-analysis-area.md)
+            + [Noções básicas sobre a área de análise de associação ao programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
+            + [Noções básicas sobre a área de análise de oportunidade do programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
+            + [Noções básicas sobre a área de análise do estágio de receita do programa](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
+         + Modelos de ciclo de receita {#revenue-cycle-models}
+            + [Aprovar/cancelar aprovação de um modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+            + [Editar seu modelo aprovado](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
+            + [Aprovar estágios e atribuir leads a um modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
+            + [Alteração do nome de um estágio](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
+            + [Clonagem de um modelo de receita de exemplo do Marketo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
+            + [Criar um novo modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+            + [Criar um analisador de caminho de sucesso](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+            + [Habilitar grupos de campos personalizados para análise de desempenho do modelo (leads)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
+            + [Localizar todos os leads em um modelo de ciclo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
+            + [Mesclar dois estágios no modelador de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
+            + [Relatório sobre o modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+            + [Definir conversões do Google AdWords no modelo de receita com uma conta de gerente](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+            + [Definir conversões do Google AdWords no modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
+            + [Começar a rastrear por conta no modelador de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
+            + [Noções básicas sobre as fases do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
+            + [Noções básicas sobre o caminho de sucesso do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
+            + [Noções básicas sobre modelos de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
+            + [Uso de estágios de portão do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+            + [Uso de estágios de inventário do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+            + [Uso de estágios do SLA do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [Uso de transições do modelo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
+            + [Uso do analisador de caminho de sucesso](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
+         + Ferramentas de receita {#revenue-tools}
+            + [Definir custos do período](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
+            + [Habilitar sincronização de campos personalizados para a análise do ciclo de receita](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
+            + [Relatório de pessoas por estágio da receita](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+            + Atribuição {#attribution}
+               + [Noções básicas sobre atribuição](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
+               + [Atribuição - Exemplo 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+               + [Atribuição - Exemplo 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+               + [Atribuição - Exemplo 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+               + [Atribuição - Exemplo 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+            + Organizadores de campos {#field-organizers}
+               + [Uso de organizadores de campo](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
+               + [Criar grupos de campos personalizados usando o organizador de campos](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
       + Análise avançada de BI {#advanced-bi-analytics}
          + [Visão geral da análise de BI avançada](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [Métricas e dimensões](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
@@ -1859,7 +1920,8 @@ ht-degree: 96%
    + {hide-from-toc}[TEMP da versão atual](release-notes/current-temp.md)
    + [Versão do Dynamic Chat](release-notes/dynamic-chat.md)
    + {hide-from-toc}[TEMP de versão do Dynamic Chat](release-notes/dynamic-chat-temp.md)
-   + Versões anteriores {#previous-releases}
+   + [Versões anteriores](release-notes/previous-releases.md)
+   + {hide-from-toc} Versões anteriores {#previous-releases}
       + 2026 {#2026}
          + [Notas de versão: janeiro de 2026](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [Notas de versão: 26 de fevereiro](release-notes/previous-releases/2026/release-notes-feb-26.md)
@@ -1887,84 +1949,16 @@ ht-degree: 96%
          + [Notas de versão: julho de 2023](release-notes/previous-releases/2023/release-notes-july-23.md)
          + [Notas de versão: setembro de 2023](release-notes/previous-releases/2023/release-notes-sep-23.md)
          + [Notas de versão: outubro de 2023](release-notes/previous-releases/2023/release-notes-oct-23.md)
-      + 2022 {#2022}
-         + [Notas de versão: janeiro de 2022](release-notes/previous-releases/2022/release-notes-jan-22.md)
-         + [Notas de versão: março de 2022](release-notes/previous-releases/2022/release-notes-mar-22.md)
-         + [Notas de versão: maio de 2022](release-notes/previous-releases/2022/release-notes-may-22.md)
-         + [Notas de versão: junho de 2022](release-notes/previous-releases/2022/release-notes-june-22.md)
-         + [Notas de versão: agosto de 2022](release-notes/previous-releases/2022/release-notes-aug-22.md)
-         + [Notas de versão: outubro de 2022](release-notes/previous-releases/2022/release-notes-oct-22.md)
-      + 2021 {#2021}
-         + [Notas de versão: janeiro de 2021](release-notes/previous-releases/2021/release-notes-jan-21.md)
-         + [Notas de versão: maio de 2021](release-notes/previous-releases/2021/release-notes-may-21.md)
-         + [Notas de versão: agosto de 2021](release-notes/previous-releases/2021/release-notes-aug-21.md)
-         + [Notas de versão: outubro de 2021](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020 {#2020}
-         + [Notas de versão: janeiro de 2020](release-notes/previous-releases/2020/release-notes-jan-20.md)
-         + [Notas de versão: fevereiro de 2020](release-notes/previous-releases/2020/release-notes-feb-20.md)
-         + [Notas de versão: junho de 2020](release-notes/previous-releases/2020/release-notes-june-20.md)
-         + [Notas de versão: julho de 2020](release-notes/previous-releases/2020/release-notes-july-20.md)
-         + [Notas de versão: outubro de 2020](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 2019 {#2019}
-         + [Notas de versão: agosto de 2019](release-notes/previous-releases/2019/release-notes-august-19.md)
-         + [Notas de versão: junho de 2019](release-notes/previous-releases/2019/release-notes-june-19.md)
-         + [Notas de versão: primavera de 2019](release-notes/previous-releases/2019/release-notes-spring-19.md)
-         + [Notas de versão: inverno de 2019](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018 {#2018}
-         + [Notas de versão: outono de 2018](release-notes/previous-releases/2018/release-notes-fall-18.md)
-         + [Notas de versão: primavera de 2018](release-notes/previous-releases/2018/release-notes-spring-18.md)
-         + [Notas de versão: inverno de 2018](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017 {#2017}
-         + [Notas de versão: aprimoramentos da ABM de abril de 2017](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
-         + [Notas de versão: aprimoramentos da ABM de agosto de 2017](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
-         + [Notas de versão: outono de 2017](release-notes/previous-releases/2017/release-notes-fall-17.md)
-         + [Notas de versão: primavera de 2017](release-notes/previous-releases/2017/release-notes-spring-17.md)
-         + [Notas de versão: verão de 2017](release-notes/previous-releases/2017/release-notes-summer-17.md)
-         + [Notas de versão: inverno de 2017](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016 {#2016}
-         + [Notas de versão: outono de 2016](release-notes/previous-releases/2016/release-notes-fall-16.md)
-         + [Notas de versão: primavera de 2016](release-notes/previous-releases/2016/release-notes-spring-16.md)
-         + [Notas de versão: verão de 2016](release-notes/previous-releases/2016/release-notes-summer-16.md)
-         + [Notas de versão: inverno de 2016](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015 {#2015}
-         + [Notas de versão: abril de 2015](release-notes/previous-releases/2015/release-notes-april-2015.md)
-         + [Notas de versão: outono de 2015](release-notes/previous-releases/2015/release-notes-fall-15.md)
-         + [Notas de versão: fevereiro de 2015](release-notes/previous-releases/2015/release-notes-february-2015.md)
-         + [Notas de versão: janeiro de 2015](release-notes/previous-releases/2015/release-notes-january-2015.md)
-         + [Notas de versão: julho de 2015](release-notes/previous-releases/2015/release-notes-july-2015.md)
-         + [Notas de versão: junho de 2015](release-notes/previous-releases/2015/release-notes-june-2015.md)
-         + [Notas de versão: março de 2015](release-notes/previous-releases/2015/release-notes-march-2015.md)
-         + [Notas de versão: maio de 2015](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 2014 {#2014}
-         + [Notas de versão: agosto de 2014](release-notes/previous-releases/2014/release-notes-august-2014.md)
-         + [Notas de versão: dezembro de 2014](release-notes/previous-releases/2014/release-notes-december-2014.md)
-         + [Notas de versão: fevereiro de 2014](release-notes/previous-releases/2014/release-notes-february-2014.md)
-         + [Notas de versão: janeiro de 2014](release-notes/previous-releases/2014/release-notes-january-2014.md)
-         + [Notas de versão: julho de 2014](release-notes/previous-releases/2014/release-notes-july-2014.md)
-         + [Notas de versão: junho de 2014](release-notes/previous-releases/2014/release-notes-june-2014.md)
-         + [Notas de versão: março de 2014](release-notes/previous-releases/2014/release-notes-march-2014.md)
-         + [Notas de versão: maio de 2014](release-notes/previous-releases/2014/release-notes-may-2014.md)
-         + [Notas de versão: outubro de 2014](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 2013 {#2013}
-         + [Notas de versão: abril de 2013](release-notes/previous-releases/2013/release-notes-april-2013.md)
-         + [Notas de versão: agosto de 2013](release-notes/previous-releases/2013/release-notes-august-2013.md)
-         + [Notas de versão: dezembro de 2013](release-notes/previous-releases/2013/release-notes-december-2013.md)
-         + [Notas de versão: fevereiro de 2013](release-notes/previous-releases/2013/release-notes-february-2013.md)
-         + [Notas de versão: janeiro de 2013](release-notes/previous-releases/2013/release-notes-january-2013.md)
-         + [Notas de versão: julho de 2013](release-notes/previous-releases/2013/release-notes-july-2013.md)
-         + [Notas de versão: junho de 2013](release-notes/previous-releases/2013/release-notes-june-2013.md)
-         + [Notas de versão: março de 2013](release-notes/previous-releases/2013/release-notes-march-2013.md)
-         + [Notas de versão: maio de 2013](release-notes/previous-releases/2013/release-notes-may-2013.md)
-         + [Notas de versão: outubro de 2013](release-notes/previous-releases/2013/release-notes-october-2013.md)
-         + [Notas de versão: setembro de 2013](release-notes/previous-releases/2013/release-notes-september-2013.md)
-      + 2012 {#2012}
-         + [Notas de versão: abril de 2012](release-notes/previous-releases/2012/release-notes-april-2012.md)
-         + [Notas de versão: dezembro de 2012](release-notes/previous-releases/2012/release-notes-december-2012.md)
-         + [Notas de versão: janeiro e fevereiro de 2012](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
-         + [Notas de versão: junho de 2012](release-notes/previous-releases/2012/release-notes-june-2012.md)
-         + [Notas de versão: março de 2012](release-notes/previous-releases/2012/release-notes-march-2012.md)
-         + [Notas de versão: maio de 2012](release-notes/previous-releases/2012/release-notes-may-2012.md)
-         + [Notas de versão: outubro de 2012](release-notes/previous-releases/2012/release-notes-october-2012.md)
-         + [Notas de versão: setembro de 2012](release-notes/previous-releases/2012/release-notes-september-2012.md)
+      + [2022](release-notes/previous-releases/release-notes-2022.md)
+      + [2021](release-notes/previous-releases/release-notes-2021.md)
+      + [2020](release-notes/previous-releases/release-notes-2020.md)
+      + [2019](release-notes/previous-releases/release-notes-2019.md)
+      + [2018](release-notes/previous-releases/release-notes-2018.md)
+      + [2017](release-notes/previous-releases/release-notes-2017.md)
+      + [2016](release-notes/previous-releases/release-notes-2016.md)
+      + [2015](release-notes/previous-releases/release-notes-2015.md)
+      + [2014](release-notes/previous-releases/release-notes-2014.md)
+      + [2013](release-notes/previous-releases/release-notes-2013.md)
+      + [2012](release-notes/previous-releases/release-notes-2012.md)
       + [2010-2011](release-notes/previous-releases/2010-2011.md)
       + [2007-2009](release-notes/previous-releases/2007-2009.md)
