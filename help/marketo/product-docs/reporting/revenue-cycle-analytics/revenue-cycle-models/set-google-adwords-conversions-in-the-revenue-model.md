@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095029
-description: Saiba como definir conversões do [!dnl google adwords] no modelo de receita no Marketo Engage usando set dnl google. Use este guia para concluir a próxima etapa.
+description: Saiba como definir conversões do [ !dnl google adwords] no modelo de receita no Marketo Engage usando set dnl google. Use este guia para concluir a próxima etapa.
 title: Definir [!DNL Google AdWords] Conversões no Modelo de Receita
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
