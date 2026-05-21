@@ -1,32 +1,31 @@
 ---
 unique-page-id: 2359810
 description: Saiba como habilitar URLs personalizados para sua conta do Marketo. Configure o recurso para que você possa usar URLs personalizados em páginas de aterrissagem.
-title: Ativar URLs personalizados para sua conta
+title: Habilitar URLs personalizados para sua conta
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/As1NwttcwB-zbe-UNOF1tuYcot34gZcb3UH-lnQcRAM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 114
-ht-degree: 0%
+source-wordcount: 111
+ht-degree: 16%
 
 ---
 
-# Ativar URLs personalizados para sua conta {#enable-personalized-urls-for-your-account}
+# Habilitar URLs personalizados para sua conta {#enable-personalized-urls-for-your-account}
 
-URLs personalizados são excelentes para campanhas de email impresso.
+URLs personalizados funcionam bem para campanhas de email impressas.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Vá para a seção **[!UICONTROL Admin]** e clique em **[!UICONTROL Páginas de Aterrissagem]**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Clique em **[!UICONTROL Editar]**.
+1. Clique em **[!UICONTROL Editar]**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
@@ -34,7 +33,7 @@ URLs personalizados são excelentes para campanhas de email impresso.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Ótimo trabalho! Agora que você ativou os PURLs da sua conta, é possível ativá-los para páginas de aterrissagem individuais.
+Você ativou os PURLs da sua conta. Agora você pode ativá-los para páginas de aterrissagem individuais.
 
 >[!NOTE]
 >

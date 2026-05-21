@@ -5,17 +5,12 @@ title: Criar um modelo de página de destino de forma livre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/zAuwXys4flRTw2x2zthiov4yxcx-gKmZEWIMFoIaIq4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 208
 ht-degree: 6%
 
 ---
@@ -47,8 +42,6 @@ Páginas de aterrissagem de forma livre exigem menos conhecimento técnico do qu
 1. Quando terminar de fazer edições, clique em **[!UICONTROL Ações de Modelo]** e selecione **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/five.png)
-
-   Agora você tem um novo modelo de página de aterrissagem de forma livre!
 
    >[!NOTE]
    >

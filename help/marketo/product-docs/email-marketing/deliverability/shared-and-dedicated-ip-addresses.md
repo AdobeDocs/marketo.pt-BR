@@ -5,15 +5,12 @@ title: Endereços IP compartilhados e dedicados
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/iYWkYblhZa6DTMf8-ZAMQ5xnFemKl5q5jwaGNWshPOM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 450
+source-wordcount: 445
 ht-degree: 2%
 
 ---
@@ -54,18 +51,18 @@ _Contras_
 
 _Vantagens_
 
-**Colegas de quarto bons** - Se as pessoas com quem você está compartilhando seu IP seguirem as práticas recomendadas de envio, você se beneficiará.
+**Colegas de quarto bons** - Se os remetentes que compartilham seu IP seguirem as práticas recomendadas de envio, você se beneficiará.
 **Frequência de endereçamento** - Não há uma frequência de endereçamento mínima necessária para se qualificar para um IP compartilhado, ao contrário dos IPs dedicados.
 **Custo** - Nunca há um encargo adicional a ser enviado de um IP Compartilhado.
 
 _Contras_
 
-**Colegas de quarto ruins** - Se as pessoas com quem você está compartilhando seu IP se envolverem em práticas de envio ruins, suas campanhas de email poderão ser afetadas negativamente.
+**Colegas de quarto inválidos** - Se os remetentes que compartilham seu IP seguirem práticas de envio ruins, suas campanhas de email poderão ser afetadas negativamente.
 **Controle** - Você tem muito menos controle sobre a reputação do remetente.
 **Resolução de Problemas** - Geralmente, pode ser mais difícil resolver um problema ao enviar de IPs Compartilhados.
 
 >[!NOTE]
 >
->Ao tomar uma decisão, há outro fator importante a ser considerado: o volume de envio. Se você planeja enviar menos de 100.000 emails por mês, ou menos de duas correspondências em um mês, você provavelmente não se beneficiará de um IP dedicado. O envio de números como esse é considerado baixo e seria difícil manter seu IP dedicado &quot;quente&quot; o suficiente para ser considerado seguro pelos principais ISPs. Basicamente, se você não enviar emails com a frequência suficiente, os ISPs verão uma correspondência como um &quot;surto&quot; súbito de atividade e poderão acabar bloqueando-a como suspeita de spam.
+>Ao tomar uma decisão, há outro fator importante a ser considerado: volume de envio. Se você planeja enviar menos de 100.000 emails por mês, ou menos de duas correspondências em um mês, provavelmente não se beneficiará de um IP dedicado. O envio de números como esse é considerado baixo e seria difícil manter seu IP dedicado &quot;quente&quot; o suficiente para ser considerado seguro pelos principais ISPs. Se você não enviar emails com frequência suficiente, os ISPs verão uma correspondência como um &quot;surto&quot; repentino de atividade e poderão acabar bloqueando-a como suspeita de spam.
 
-Se tiver dúvidas ou estiver interessado em configurar um IP dedicado, entre em contato com o representante de vendas da Marketo.
+Em caso de dúvidas ou se estiver interessado em configurar um IP dedicado, entre em contato com o representante de conta da Marketo.

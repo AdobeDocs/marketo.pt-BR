@@ -5,11 +5,9 @@ title: Cancelamento de assinatura durável
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/Zr7XyDDSHtWW4lp4ATAM6xlPrNnTJlqoOOjjln-YuqI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 304
 ht-degree: 1%
@@ -18,7 +16,7 @@ ht-degree: 1%
 
 # Cancelamento de assinatura durável {#durable-unsubscribe}
 
-A Marketo aprimorou o comportamento da funcionalidade de cancelamento de inscrição para torná-la &quot;durável&quot;. Adicionamos um status de email principal, que é separado do sinalizador de cancelamento de inscrição visível no registro de detalhes da pessoa.
+A Marketo aprimorou o comportamento da funcionalidade de cancelamento de inscrição para torná-la &quot;durável&quot;. Um status de email principal foi adicionado, que é separado do sinalizador de cancelamento de inscrição visível no registro de detalhes da pessoa.
 
 Se o sinalizador de cancelamento de inscrição estiver definido como falso para verdadeiro, o status do email principal será atualizado e a alteração será propagada para outras pessoas com o mesmo endereço de email. Se uma pessoa for removida e recriada, ou se um novo registro for criado com o mesmo endereço de email, o sinalizador de cancelamento de inscrição **não** será substituído.
 
@@ -38,13 +36,13 @@ No Marketo, desmarque a caixa de cancelamento de inscrição na guia Informaçõ
 
 ![Limpando a caixa de cancelamento de inscrição em um registro de pessoa](assets/durable-unsubscribe-2.png)
 
-Execute uma etapa de fluxo _Alterar Valor de Dados_ como mostrado abaixo em uma ou várias pessoas.
+Execute uma etapa de fluxo **[!UICONTROL Alterar Valor de Dados]** como mostrado abaixo em uma ou várias pessoas.
 
 ![Alterar etapa do fluxo de valor de dados](assets/durable-unsubscribe-3.png)
 
 ## Criar uma nova pessoa {#creating-a-new-person}
 
-Quando uma nova pessoa é criada, o Marketo a verifica em relação à tabela principal de status de email. Se a inscrição da pessoa foi cancelada anteriormente, atualizaremos o registro para cancelar a inscrição.
+Quando uma nova pessoa é criada, o Marketo a verifica em relação à tabela principal de status de email. Se a inscrição da pessoa foi cancelada anteriormente, o registro será atualizado para cancelado.
 
 ## Alteração de um endereço de email {#changing-an-email-address}
 
@@ -52,7 +50,7 @@ Se você alterar o endereço de email de uma pessoa para um endereço de email c
 
 ## Assinando novamente {#re-subscribing}
 
-Da mesma forma que um cancelamento de inscrição faria com que todas as pessoas com o mesmo endereço de email tivessem suas assinaturas canceladas, uma reinscrição assinaria todas as pessoas com o mesmo endereço de email.
+Da mesma forma que o cancelamento de inscrição faz com que todas as pessoas com o mesmo endereço de email tenham suas assinaturas canceladas, uma nova inscrição também faz novas assinaturas para todas as pessoas com o mesmo endereço de email.
 
 >[!MORELIKETHIS]
 >

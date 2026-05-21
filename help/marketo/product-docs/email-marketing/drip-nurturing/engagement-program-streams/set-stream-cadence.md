@@ -1,28 +1,26 @@
 ---
 unique-page-id: 2359665
 description: Saiba como definir a cadência de fluxo para programas de envolvimento. Programe conversões semanais ou mensais e, opcionalmente, use o fuso horário do recipient.
-title: Definir Cadência de Fluxo
+title: Definir cadência dos fluxos
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 381
-ht-degree: 0%
+source-wordcount: 375
+ht-degree: 3%
 
 ---
 
-# Definir Cadência de Fluxo {#set-stream-cadence}
+# Definir cadência dos fluxos {#set-stream-cadence}
 
 Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. Por exemplo: uma vez por semana ou a cada três terças-feiras do mês.
 
 ## Definir cadência {#set-cadence}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +30,7 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
 1. Selecione com que frequência você deseja que a cadência se repita. Você pode escolher **[!UICONTROL Semanalmente]** ou **[!UICONTROL Mensalmente]**.
 
-## Semanalmente {#weekly}
+## Semanal {#weekly}
 
 1. Selecione **[!UICONTROL Semanalmente]**.
 
@@ -46,11 +44,11 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Agora escolha se você quer que a cadência aconteça a cada semana ou mais espaçada. Vamos escolher a cada 2 semanas.
+1. Agora escolha se você quer que a cadência aconteça a cada semana ou mais espaçada. Escolha a cada 2 semanas.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. Decida quais dias da semana. Nesse caso, façamos terça, quarta e quinta.
+1. Decida quais dias da semana. Nesse caso, selecione Terça, Quarta e Quinta.
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
@@ -66,13 +64,13 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
    >
    >O conteúdo será enviado na data selecionada para o primeiro elenco, portanto, verifique se coincide com o dia da semana escolhida; caso contrário, sairá duas vezes na primeira semana.
 
-1. Passe o mouse sobre a cadência. Você verá em quais dias os futuros elencos sairão.
+1. Passe o mouse sobre a cadência. Os dias de futuros lançamentos aparecerão.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >Neste exemplo, um email será enviado na quinta-feira. Em seguida, pulamos uma semana e enviamos novamente na terça, quarta e quinta da semana seguinte. E então repetimos novamente.
+   >Neste exemplo, um email será enviado na quinta-feira. A semana seguinte é ignorada e o email é enviado novamente na terça, quarta e quinta da semana seguinte. O ciclo então se repete.
 
 ## Mensal {#monthly}
 
@@ -84,7 +82,7 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Selecione se desejar que seja a cada mês ou mais espaçado... Vamos escolher a cada quatro meses.
+1. Selecione se desejar que seja a cada mês ou mais espaçado. Escolha a cada quatro meses.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -100,7 +98,7 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Passe o mouse sobre a cadência. Você verá em quais dias os futuros elencos sairão.
+1. Passe o mouse sobre a cadência. Os dias de futuros lançamentos aparecerão.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
@@ -108,7 +106,7 @@ Você pode enviar o conteúdo de envolvimento a qualquer intervalo que desejar. 
    >
    >Se decidir modificar a cadência do fluxo de engajamento posteriormente, verifique se a primeira conversão está definida como uma data futura.
 
-Agora você sabe como configurar uma cadência de fluxo!
+Agora você sabe como configurar uma cadência de fluxo.
 
 >[!MORELIKETHIS]
 >

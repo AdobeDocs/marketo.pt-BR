@@ -5,18 +5,15 @@ title: Adicionar um formulário a uma página de destino guiada
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 187
-ht-degree: 12%
+source-wordcount: 174
+ht-degree: 13%
 
 ---
 
 # Adicionar um formulário a uma página de destino guiada {#add-a-form-to-a-guided-landing-page}
-
-Formulário, página de aterrissagem de reuniões. Página de aterrissagem, formulário de atendimento.
 
 >[!PREREQUISITES]
 >
@@ -52,12 +49,10 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
    >
    >A página de acompanhamento é a página que as pessoas verão depois de enviar o formulário.
 
-1. Neste exemplo, usaremos [!UICONTROL Formulário definido]. Clique em **[!UICONTROL Inserir]**.
+1. Neste exemplo, selecione [!UICONTROL Formulário definido]. Clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   Muito bem!
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Agora basta fechar o editor de páginas de aterrissagem e [aprovar o rascunho da página de aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Feche o editor de páginas de aterrissagem e [aprove o rascunho](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) da página de aterrissagem.

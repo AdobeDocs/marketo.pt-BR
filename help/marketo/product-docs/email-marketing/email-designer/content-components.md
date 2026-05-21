@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 37%
+source-wordcount: '1317'
+ht-degree: 35%
 
 ---
 
@@ -135,7 +135,7 @@ Use o componente **[!UICONTROL HTML]** para copiar e colar as diferentes partes 
 
 >[!NOTE]
 >
->Para tornar de forma simples um conteúdo externo compatível com o Designer de email, a Adobe recomenda criar uma mensagem do zero e copiar o conteúdo do email existente para os componentes.
+>Para tornar o conteúdo externo compatível com o Email Designer, a Adobe recomenda criar uma mensagem do zero e copiar o conteúdo do seu email existente para os componentes.
 
 ## Imagem {#image}
 
@@ -147,7 +147,7 @@ Use o componente **[!UICONTROL Imagem]** para inserir um arquivo de imagem do se
 
 1. Na guia **[!UICONTROL Configurações]**, clique em **[!UICONTROL Procurar]** para escolher um arquivo de imagem de seus ativos ou em **[!UICONTROL Importar mídia]** para carregar um ativo para a Adobe Experience Manager Assets.
 
-   Para saber mais sobre [!DNL Adobe Experience Manager Assets], consulte a [documentação do Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=pt-BR){target="_blank"}.
+   Para saber mais sobre [!DNL Adobe Experience Manager Assets], consulte a [documentação do Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
 
    >[!NOTE]
    >
@@ -158,7 +158,7 @@ Use o componente **[!UICONTROL Imagem]** para inserir um arquivo de imagem do se
 1. Clique no componente recém-adicionado e configure as propriedades da imagem:
 
    * **[!UICONTROL Título da imagem]** permite definir um título para a imagem.
-   * **[!UICONTROL Texto alternativo]** permite definir a legenda vinculada à imagem. Isso corresponde ao atributo alt HTML.
+   * **[!UICONTROL Texto alternativo]** permite definir a legenda vinculada à imagem. Isso corresponde ao atributo HTML alternativo.
 
    CAPTURA DE TELA
 
@@ -198,7 +198,7 @@ Use o componente **[!UICONTROL Offer decision]** para inserir ofertas em suas me
 
    CAPTURA DE TELA
 
-1. Na lista suspensa, selecione seus **[!UICONTROL Posicionamentos]**.  Em seguida, selecione a **[!UICONTROL Decisão de oferta]** que deseja adicionar ao seu conteúdo e clique em **[!UICONTROL Adicionar]**.
+1. Na lista suspensa, selecione seus **[!UICONTROL Posicionamentos]**. Em seguida, selecione a **[!UICONTROL Decisão de oferta]** que deseja adicionar ao seu conteúdo e clique em **[!UICONTROL Adicionar]**.
 
    CAPTURA DE TELA
 

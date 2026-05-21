@@ -5,14 +5,10 @@ title: Lista de modelos de página de destino guiada
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 357
 ht-degree: 61%
@@ -21,7 +17,7 @@ ht-degree: 61%
 
 # Lista de modelos de página de destino guiada {#guided-landing-page-template-list}
 
-Procure nossa coleção de modelos de exemplo, para usar com o [Editor de página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada modelo é totalmente responsivo e baseado na estrutura do Bootstrap.
+Procure nossa coleção de modelos de exemplo para usar com o [Editor de página de aterrissagem guiada](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Cada modelo é totalmente responsivo e baseado na estrutura do Bootstrap.
 
 >[!NOTE]
 >
@@ -31,10 +27,10 @@ Para importar um template para o Marketo:
 
 1. Clique no nome do modelo para ampliá-lo.
 1. Baixe o modelo escolhido.
-1. No Marketo, navegue até o **[!UICONTROL Design Studio].**
-1. Clique em **[!UICONTROL Páginas de Aterrissagem]** na árvore do lado esquerdo e selecione **[!UICONTROL Modelos].**
+1. No Marketo, navegue até o **[!UICONTROL Design Studio]**.
+1. Clique em **[!UICONTROL Páginas de Aterrissagem]** na árvore do lado esquerdo e selecione **[!UICONTROL Modelos]**.
 
-1. Na barra de menus, clique em **[!UICONTROL Importar Modelo].**
+1. Na barra de menus, clique em **[!UICONTROL Importar Modelo]**.
 1. Escolha o arquivo baixado, insira um nome de modelo e clique em **[!UICONTROL Importar]** (certifique-se de escolher um nome descritivo e indicar que o modo de edição é **[!UICONTROL Guiado]**).
 
 <table>

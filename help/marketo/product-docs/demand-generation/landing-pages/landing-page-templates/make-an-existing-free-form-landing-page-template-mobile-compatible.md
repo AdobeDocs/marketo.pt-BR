@@ -5,19 +5,16 @@ title: Tornar um modelo de página de destino de forma livre compatível com dis
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/-EJdlRrUIvCn6r4P6LGvZbyAyBy1K3HJms38fW2VKnE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 263
-ht-degree: 3%
+source-wordcount: 259
+ht-degree: 7%
 
 ---
 
-# Tornar um Modelo de Página de Aterrissagem de Formato Livre Existente [!UICONTROL Compatível com Dispositivos Móveis] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Tornar um modelo de página de destino de forma livre compatível com dispositivos móveis {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 Isso pode ser feito em dois lugares, o Editor de modelo e o Editor de landing page.
 
@@ -57,9 +54,15 @@ Isso pode ser feito em dois lugares, o Editor de modelo e o Editor de landing pa
 
 ## O que torna um modelo [!UICONTROL compatível com dispositivos móveis]? {#what-makes-a-template-mobile-compatible}
 
-Ótimas perguntas! Seu modelo deve ter as seguintes tags:
+Seu template deve ter as seguintes tags:
 
-`Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
+```
+Must have <!DOCTYPE HTML> 
+Must have a <HEAD> element 
+Must have a <TITLE> in the <HEAD> element 
+Must have <META CHARSET="UTF-8"> within the <HEAD> element 
+Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>
+```
 
 Se tudo estiver bem, você verá esta mensagem.
 
@@ -69,7 +72,7 @@ Se algo estiver errado, uma mensagem de erro será exibida. Clique em reparar pa
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-Se você fizer alterações no modelo, clique em [!UICONTROL Ações do Modelo] e selecione [!UICONTROL Validar Compatibilidade Móvel].
+Se você fizer alterações no modelo, clique em **[!UICONTROL Ações do Modelo]** e selecione **[!UICONTROL Validar Compatibilidade Móvel]**.
 
 ## Atualização de um modelo do editor de página de aterrissagem de forma livre {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
@@ -87,4 +90,4 @@ Ao editar uma landing page e clicar na guia móvel, às vezes você notará que 
    >
    >Ativar a versão móvel de um modelo criará rascunhos de qualquer landing page que o use.
 
-Fantástico! Agora você pode [personalizar a exibição móvel](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas as páginas de aterrissagem que usam este modelo.
+Agora você pode [personalizar a exibição móvel](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) de todas as páginas de aterrissagem que usam este modelo.

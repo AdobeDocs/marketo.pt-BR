@@ -5,15 +5,11 @@ title: Usar uma lista ou lista inteligente do Marketo como segmento de público-
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
 TQID: https://experienceleague.adobe.com/n7Z4AKx6Hiu6f9cxXPpfSTJJdOLakTwy7ejQ-6LK4Bo
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: 207
 ht-degree: 14%
 
 ---
@@ -38,7 +34,7 @@ Integre sua equipe do Marketo Engage aos públicos do LinkedIn.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Clique no ícone ![—](assets/icon-ad-bridge.png) _Enviar por meio do Ad Bridge_ na parte inferior da lista.
+1. Clique no ícone ![—](assets/icon-ad-bridge.png) **[!UICONTROL Enviar por meio do Ad Bridge]** na parte inferior da lista.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
@@ -50,7 +46,7 @@ Integre sua equipe do Marketo Engage aos públicos do LinkedIn.
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
-1. Selecione um _Público-alvo do LinkedIn_.
+1. Selecione um **[!UICONTROL Público-alvo do LinkedIn]**.
 
    >[!NOTE]
    >
@@ -62,12 +58,12 @@ Integre sua equipe do Marketo Engage aos públicos do LinkedIn.
    >
    >O LinkedIn substituiu as APIs usadas para o tipo de push &quot;Limpar público-alvo e adicionar clientes potenciais&quot; em março de 2018. Essa opção não está mais disponível na versão do primeiro trimestre de 2018 da Marketo.
 
-1. Selecione um _[!UICONTROL Tipo de push]_. Clique **[!UICONTROL Atualizar]**.
+1. Selecione um **[!UICONTROL Tipo de push]**. Clique **[!UICONTROL Atualizar]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
    >[!NOTE]
    >
-   >Aguarde 15 minutos para que a sincronização ocorra.
+   >Aguarde 15 minutos para a sincronização ser concluída.
 
-Toque cinco! Seus dados agora serão adicionados aos públicos do LinkedIn. Para obter informações sobre como carregar listas para o LinkedIn para direcionamento de contas e contatos, visite o [centro de ajuda de soluções de marketing do LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}.
+Seus dados serão sincronizados com os públicos do LinkedIn. Para obter informações sobre como carregar listas para o LinkedIn para direcionamento de contas e contatos, visite o [centro de ajuda de soluções de marketing do LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}.

@@ -5,21 +5,13 @@ title: Adicionar um programa a um fluxo de programa de engajamento
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: 479
 ht-degree: 4%
 
 ---
@@ -44,13 +36,13 @@ Ao usar um programa aninhado, a decisão de enviar um email para uma pessoa é b
 * Se você for membro do programa, não receberá o email
 * Se você não for mais membro, mas tiver recebido o email anteriormente por meio desse programa, não receberá o email
 
-Quando você usa um programa em um fluxo, não importa se você recebeu esse email específico antes. Desde que o email não tenha sido enviado antes de *nesse programa específico*, você poderá recebê-lo novamente.
+Quando você usa um programa em um fluxo, não importa se recebeu esse email específico antes. Desde que o email não tenha sido enviado antes de *nesse programa específico*, você poderá recebê-lo novamente.
 
 Pode ser complicado misturar emails e programas em um programa de envolvimento. Talvez você queira usar um ou outro.
 
 >[!TIP]
 >
->Certifique-se de usar um filtro **[!UICONTROL Membro do Programa de Envolvimento]** em sua lista inteligente.
+>Use um filtro **[!UICONTROL Membro do Programa de Envolvimento]** em sua lista inteligente.
 
 ## O que acontece com as pessoas que não atendem aos critérios da lista inteligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 

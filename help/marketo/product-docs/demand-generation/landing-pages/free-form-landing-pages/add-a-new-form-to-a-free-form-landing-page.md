@@ -5,20 +5,16 @@ title: Adicionar um novo formulário a uma página de destino de forma livre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/FTZtA2OAveQS9d9MLetBmTb99aSH0xIWwO6LsT2T7Ic
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 161
-ht-degree: 16%
+source-wordcount: 150
+ht-degree: 17%
 
 ---
 
 # Adicionar um novo formulário a uma página de destino de forma livre {#add-a-new-form-to-a-free-form-landing-page}
-
-Formulário, página de aterrissagem de reuniões. Página de aterrissagem, formulário de atendimento.
 
 >[!PREREQUISITES]
 >
@@ -56,7 +52,5 @@ Formulário, página de aterrissagem de reuniões. Página de aterrissagem, form
 1. Clique em **[!UICONTROL Inserir]**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
-
-   Muito bem!
 
 Feche o editor de páginas de aterrissagem e [aprove o rascunho](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) da página de aterrissagem.

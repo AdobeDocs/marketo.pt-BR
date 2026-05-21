@@ -5,11 +5,9 @@ title: Adicionar SSL às páginas de destino
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 875
 ht-degree: 14%
@@ -66,7 +64,7 @@ Siga as etapas abaixo para ativar o SSL para seu domínio padrão.
 >
 >Pode levar até três minutos para que o SSL esteja no estado PRONTO. Atualize a página para que as alterações sejam exibidas.
 
-## Editar SSLs para aliases de domínios existentes
+## Editar SSLs para aliases de domínios existentes {#edit-ssl-existing-domain}
 
 Siga estas etapas para habilitar o SSL para seus aliases de domínio existentes.
 
@@ -124,10 +122,10 @@ Abaixo você encontrará mensagens de erro que poderá receber junto com suas de
 
 ## Itens a Observar {#things-to-note}
 
-* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pelo Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mapeamento de DNS para o domínio para o Marketo Engage**: antes de adicionar domínios na interface do usuário, você deve [mapear CNAMEs para um domínio fornecido pela Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSLs personalizados**: se você precisar de um SSL personalizado, envie um [Tíquete de suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Não use a caixa de seleção de autoatendimento para criação de SSL.
 
-* **SSLs pré-existentes**: ao adicionar um domínio, o sistema verifica se há SSLs pré-existentes, que podem ter sido criados manualmente antes. Se encontrar essa validação, crie seu domínio sem selecionar a criação de SSL e nós os conectaremos para você. [Contate o Suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obter mais detalhes/opções.
+* **SSLs pré-existentes**: ao adicionar um domínio, o sistema verifica se há SSLs pré-existentes, que podem ter sido criados manualmente antes. Se encontrar essa validação, crie seu domínio sem selecionar a criação de SSL e nós os conectaremos para você. [Contate o Suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} para obter detalhes ou opções adicionais.
 
 * **Exclusão de domínios**: a exclusão automática de um domínio **não** exclui o certificado SSL. Essa proteção evita erros de usuário que resultam na ausência de certificados SSL em um site. Se você deseja remover os certificados SSL, [contate o Suporte](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

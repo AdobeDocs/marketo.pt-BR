@@ -5,15 +5,12 @@ title: Editar um modelo de página de destino do Marketo
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/wC9hlqZXCOkpBfdi99jUtnbwmVSCPLKjmyx40wUH3h4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 105
-ht-degree: 12%
+source-wordcount: 102
+ht-degree: 11%
 
 ---
 
@@ -25,7 +22,7 @@ ht-degree: 12%
 
    ![](assets/designstudio.png)
 
-1. Expanda **[!UICONTROL Landing Pages]** para mostrar os modelos.
+1. Expanda **[!UICONTROL Páginas de Aterrissagem]** para mostrar os modelos.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
@@ -33,7 +30,7 @@ ht-degree: 12%
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
-   Pronto! Agora é possível editar o CSS do modelo e ter controle total sobre sua aparência e layout.
+   Agora você pode editar o CSS do modelo e ter controle total sobre sua aparência e layout.
 
    >[!NOTE]
    >

@@ -5,18 +5,17 @@ title: Habilitar URLs personalizados para uma página de destino
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/62RoGtAhtBHDi9sxFFXeL4oAKjC25cuRHC6y3m5mO-I
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 92
-ht-degree: 16%
+source-wordcount: 90
+ht-degree: 15%
 
 ---
 
 # Habilitar URLs personalizados para uma página de destino {#enable-personalized-urls-for-a-landing-page}
 
-URLs personalizados são excelentes para campanhas de email impresso.
+URLs personalizados funcionam bem para campanhas de email impressas.
 
 >[!PREREQUISITES]
 >
@@ -30,4 +29,4 @@ URLs personalizados são excelentes para campanhas de email impresso.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-Ótimo! Agora você ativou os URLs personalizados para sua página de aterrissagem. Os visitantes que usam esse URL serão reconhecidos e os tokens funcionarão corretamente.
+Você ativou os URLs personalizados para sua página de aterrissagem. Os visitantes que usam esse URL serão reconhecidos e os tokens funcionarão corretamente.

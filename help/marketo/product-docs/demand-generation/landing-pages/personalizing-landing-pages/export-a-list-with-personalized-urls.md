@@ -5,12 +5,11 @@ title: Exportar uma lista com URLs personalizados
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 187
-ht-degree: 6%
+source-wordcount: 170
+ht-degree: 7%
 
 ---
 
@@ -21,7 +20,7 @@ ht-degree: 6%
 >* [Habilitar URLs personalizados para sua conta](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Habilitar URLs personalizadas para uma Página de Aterrissagem](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Selecione sua lista ou lista inteligente, clique na guia **[!UICONTROL Clientes Potenciais]** para obter os resultados e clique no ícone do Excel. INLINE Verifique se você tem **[!UICONTROL Código exclusivo do Marketo]** e **[!UICONTROL Nome exclusivo do Marketo]** [colunas visíveis](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Selecione sua lista ou lista inteligente, clique na guia **[!UICONTROL Clientes Potenciais]** para obter os resultados e clique no ícone do Excel. Verifique se você tem **[!UICONTROL Código exclusivo Marketo]** e **[!UICONTROL Nome exclusivo Marketo]** [colunas visíveis](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -35,7 +34,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >Se você vir vários URLs para a mesma página de aterrissagem, é provável que tenha alterado o URL das páginas em algum ponto no passado e criado um redirecionamento.
+   >Se você vir vários URLs para a mesma página de aterrissagem, é provável que tenha alterado o URL da página em algum ponto no passado e criado um redirecionamento.
 
 1. Escolha um **[!UICONTROL Estilo]** e clique em **[!UICONTROL Exportar]**.
 
@@ -44,8 +43,6 @@ ht-degree: 6%
 1. Quando a exportação for concluída, clique no link **[!UICONTROL Baixar Agora]** para salvar o arquivo.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
-
-   E pronto! Agora você tem uma lista de clientes potenciais e URLs personalizados.
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

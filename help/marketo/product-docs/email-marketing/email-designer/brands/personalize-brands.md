@@ -7,10 +7,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 0%
+source-wordcount: '902'
+ht-degree: 1%
 
 ---
 
@@ -167,7 +167,7 @@ Para personalizar seu **[!UICONTROL Estilo de Redação]**:
 
 1. Se necessário, selecione uma de suas diretrizes ou exclusões para atualizar ou excluir.
 
-1. Clique no ícone &quot;Editar&quot; para editar o exemplo ou &quot;Excluir&quot; para excluí-lo.
+1. Clique no ícone **[!UICONTROL Editar]** para editar sua entrada ou no ícone **[!UICONTROL Excluir]** para excluí-la.
 
    CAPTURA DE TELA
 

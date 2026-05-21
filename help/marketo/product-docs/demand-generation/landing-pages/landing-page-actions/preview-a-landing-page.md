@@ -5,18 +5,17 @@ title: Pré-visualizar uma página de destino
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 153
-ht-degree: 9%
+source-wordcount: 149
+ht-degree: 8%
 
 ---
 
 # Pré-visualizar uma página de destino {#preview-a-landing-page}
 
-Você provavelmente quer ver a aparência da sua landing page antes de ativá-la.
+Visualize sua landing page para ver sua aparência antes de ativá-la.
 
 ## Pré-visualizar uma página de destino {#preview-a-landing-page-1}
 
@@ -52,4 +51,4 @@ Você provavelmente quer ver a aparência da sua landing page antes de ativá-la
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-Bom trabalho! Agora você sabe como visualizar páginas de aterrissagem.
+Agora você sabe como visualizar páginas de aterrissagem.

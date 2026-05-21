@@ -5,14 +5,12 @@ title: Visão geral dos tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 313
-ht-degree: 88%
+source-wordcount: 314
+ht-degree: 79%
 
 ---
 
@@ -115,7 +113,7 @@ Neste exemplo, o email dirá “Olá, (nome)” ou “Olá, terráqueo” (valor
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Campos personalizados de empresa também funcionam se você usar o nome de exibição da empresa, como, por exemplo, `{{Company.Custom Field Name}}`
+* Campos de empresa personalizados também funcionam se você usar seu nome para exibição, por exemplo, `{{Company.Custom Field Name}}`
 
 ## Tokens de campanhas {#campaign-tokens}
 
@@ -168,7 +166,7 @@ Neste exemplo, o email dirá “Olá, (nome)” ou “Olá, terráqueo” (valor
 
 ## Token de membro {#member-token}
 
-Os tokens de membro são usados para inserir valores exclusivos de parceiros de serviços integrados. Um uso comum de tokens de membros é para URLs exclusivos de participantes de webinários. Cada pessoa tem um URL exclusivo para acessar o webinário, que pode ser inserido por meio de um token de `{{member.webinar url}}`. O token de `{{member.webinar url}}` resolve automaticamente o URL de confirmação exclusivo da pessoa gerado pelo prestador de serviços.
+Os tokens de membro são usados para inserir valores exclusivos de parceiros de serviços integrados. Um uso comum de tokens de membros é para URLs exclusivos de participantes de webinários. Cada pessoa tem um URL exclusivo para acessar o webinário, que pode ser inserido por meio de um token de `{{member.webinar url}}`. O token `{{member.webinar url}}` resolve automaticamente a URL de confirmação exclusiva da pessoa gerada pelo provedor de serviços.
 
 * `{{member.webinar url}}`
 

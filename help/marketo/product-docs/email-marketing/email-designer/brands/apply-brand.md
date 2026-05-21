@@ -1,17 +1,17 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TÍTULO
+title: Aplicar temas ao conteúdo do email
 description: Saiba como aplicar temas de marca a emails para um design consistente. Use temas e módulos reutilizáveis no Designer de email.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 4%
+source-wordcount: '746'
+ht-degree: 5%
 
 ---
 
@@ -128,9 +128,9 @@ Para aplicar temas de estilo padrão ou personalizados a um email, siga as etapa
 
      >[!CAUTION]
      >
-     >Se você escolher o modo _Estilo manual_, não poderá aplicar temas, a menos que redefina seu email.
+     >* Se você escolher o modo _Estilo manual_, não poderá aplicar temas, a menos que redefina seu email.
      >
-     >Para usar um [fragmento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) no modo _Usar Temas_, este fragmento deve ter sido criado sozinho usando o modo _Usar Temas_.
+     >* Para usar um [fragmento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) no modo _Usar Temas_, este fragmento deve ter sido criado sozinho usando o modo _Usar Temas_.
 
 1. No Designer de Email, clique no botão **[!UICONTROL Temas]** no painel direito. O tema padrão ou o tema do modelo é exibido. Você pode alternar entre as duas variantes de cor para esse tema.
 

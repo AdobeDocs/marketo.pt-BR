@@ -1,0 +1,62 @@
+---
+unique-page-id: 2360405
+description: Saiba como criar um relatório de análise de associação de programa que lista clientes potenciais no Marketo Engage usando a criação de um programa. Use este guia para concluir a próxima etapa.
+title: Criar um relatório de análise de associação ao programa com uma lista de leads
+exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 10%
+
+---
+
+# Criar um relatório de análise de associação ao programa com uma lista de leads {#build-a-program-membership-analysis-report-that-lists-leads}
+
+Siga estas etapas para criar um relatório de Análise de programa que mostrará todos os nomes de membros do programa.
+
+>[!AVAILABILITY]
+>
+>Nem todos os usuários do Marketo Engage compraram essa funcionalidade. Entre em contato com a equipe de conta da Adobe (seu gerente de conta) para obter mais detalhes.
+
+1. Iniciar o **[!UICONTROL Gerenciador de Receita]**.
+
+   ![](assets/one.png)
+
+1. Clique em **[!UICONTROL Criar novo]** e depois em **[!UICONTROL Relatório]**.
+
+   ![](assets/two.png)
+
+1. Selecione **[!UICONTROL Análise de Associação de Programa]** e clique em **[!UICONTROL OK]**.
+
+   ![](assets/three.png)
+
+1. Localize e clique duas vezes no **[!UICONTROL Nome do Programa]** ponto amarelo.
+
+   ![](assets/four.png)
+
+1. Localize e clique duas vezes no ponto azul **[!UICONTROL Membros]**.
+
+   ![](assets/five.png)
+
+1. Localize e clique duas vezes no ponto azul **[!UICONTROL Sucesso (Total)]**.
+
+   ![](assets/six.png)
+
+Viu como foi fácil?
+
+![](assets/seven.png)
+
+Você pode adicionar rapidamente um atributo de cliente potencial, como _[!UICONTROL Nome Completo]_, para ver quem são os membros.
+
+>[!TIP]
+>
+>Há muitos atributos de cliente potencial/empresa entre os quais escolher. Dê uma olhada!
+
+1. Localize e clique duas vezes no ponto amarelo **[!UICONTROL Nome Completo]**.
+
+   ![](assets/eight.png)
+
+É isso aí!
+
+![](assets/nine.png)

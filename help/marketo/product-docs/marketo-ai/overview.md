@@ -3,7 +3,7 @@ description: Explore o conjunto de agentes do Marketo AI projetados para automat
 title: Visão geral da IA do Marketo
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 2%
@@ -24,7 +24,7 @@ A IA do Marketo fornece agentes projetados para automatizar funções de marketi
 
 >[!IMPORTANT]
 >
->Após habilitar este recurso para sua assinatura, execute algumas [etapas de instalação](/help/marketo/product-docs/marketo-ai/settings-setup.md) para garantir que os usuários desejados tenham acesso.
+>Após habilitar este recurso para sua assinatura, execute algumas [etapas de instalação](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} para garantir que os usuários desejados tenham acesso.
 
 ## Como acessar {#access}
 
