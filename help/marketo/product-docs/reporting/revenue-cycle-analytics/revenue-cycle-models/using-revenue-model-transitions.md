@@ -1,0 +1,68 @@
+---
+unique-page-id: 4718672
+description: Saiba como usar transições de modelo de receita no Marketo Engage usando transições de modelo de receita. Use este guia para concluir a próxima etapa.
+title: Uso de transições do modelo de receita
+exl-id: c658b631-b849-438a-b412-63ffd41e4c85
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+workflow-type: tm+mt
+source-wordcount: '232'
+ht-degree: 3%
+
+---
+
+# Uso de transições do modelo de receita {#using-revenue-model-transitions}
+
+>[!PREREQUISITES]
+>
+>[Criar um Novo Modelo de Receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+
+Ao criar o modelo e selecionar e organizar os estágios de inventário, é hora de definir as transições.
+
+![](assets/one-2.png)
+
+1. Clique com o botão direito do mouse (você também pode clicar duas vezes) em uma das setas para começar e selecione **[!UICONTROL Editar transição]**.
+
+   ![](assets/two-2.png)
+
+   >[!NOTE]
+   >
+   >Regras de transição &#39;[!UICONTROL Anônimo] ^ [!UICONTROL Conhecido]&#39; não podem ser editadas.
+
+1. Uma nova guia será aberta para a transição selecionada.
+
+   ![](assets/three-1.png)
+
+1. As transições controlam como os leads se movem entre estágios. Arraste o acionador (ou filtro) de sua escolha da direita e solte-o em qualquer lugar na tela de desenho. Neste exemplo, selecionaremos o acionador **[!UICONTROL Preencher formulário]**.
+
+   >[!TIP]
+   >
+   >Como o modelador de receita está configurando você para relatórios, é recomendável que as transições sempre incluam acionadores. Dessa forma, seus relatórios refletirão a verdadeira velocidade do fluxo do modelo/estágio. Filtros podem ser adicionados com os acionadores para restrições adicionais.
+
+   ![](assets/four-2.png)
+
+1. Escolha o(s) parâmetro(s) do acionador/filtro selecionado.
+
+   ![](assets/five-2.png)
+
+1. Para voltar ao seu modelo, clique em **[!UICONTROL Modeler]**.
+
+   ![](assets/six.png)
+
+1. Na parte inferior da tela, você verá as regras de transição.
+
+   ![](assets/seven.png)
+
+1. Depois de configurar as regras para todas as transições, clique em **[!UICONTROL Validar]** para verificar.
+
+   ![](assets/eight.png)
+
+1. Se feito corretamente, você verá a seguinte mensagem.
+
+   ![](assets/nine.png)
+
+Muito bem! Você modificou com êxito as transições de modelo.
+
+>[!MORELIKETHIS]
+>
+>[Aprovar/Cancelar aprovação de um modelo de receita](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

@@ -1,12 +1,12 @@
 ---
 description: O agente líder de investigação responde às perguntas que os profissionais de marketing fazem com mais frequência. É mais rápido e confiável do que pesquisar manualmente registros de atividades, histórico de campanhas inteligentes e registros de pontuação.
 title: Investigar lead
-beta: true
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ Descubra por que uma pessoa/cliente potencial específico não atingiu um marco 
 >* Para usar esse recurso, primeiro você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
 >
 >* Você deve ter acesso de visualização ao registro de cliente potencial e ao programa ou marco que está investigando.
+
+>[!AVAILABILITY]
+>
+>Esse recurso está na versão beta fechada e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar o bloco _Criar com IA_ na tela Minha Marketo.
 
 ## Como usar {#how-to-use}
 

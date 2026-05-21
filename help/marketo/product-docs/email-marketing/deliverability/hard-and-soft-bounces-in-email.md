@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: 310
 ht-degree: 14%
 
 ---
@@ -22,7 +22,7 @@ Uma rejeição permanente pode tornar o endereço de email de uma pessoa inváli
 
 ## Classificação de rejeição {#bounce-classification}
 
-Há 5 strings de pessoas no Marketo relacionadas à entrega de email com problemas.
+Há 5 campos de pessoa no Marketo relacionados ao delivery de email com problemas.
 
 1. **Email Suspenso** - Definido como Verdadeiro quando ocorrer um determinado tipo de rejeição permanente.
 1. **Causa de suspensão de email** - Pode haver muitos motivos. Este campo tenta explicar a causa.
@@ -34,7 +34,7 @@ Há 5 strings de pessoas no Marketo relacionadas à entrega de email com problem
 >
 >Depois que uma pessoa atinge o status de **email suspenso**, não há como limpar a caixa de seleção email suspenso. No entanto, a pessoa ainda poderá enviar correio 24 horas após a suspensão inicial.
 >
->Quando uma pessoa é marcada como **email inválido**, ela só pode ser redefinida manualmente (o que recomendamos que você saiba que o email dela é válido) ao desmarcar a caixa &quot;Email inválido&quot; na guia Informações da pessoa do registro.
+>Quando uma pessoa é marcada como **email inválido**, ela só pode ser redefinida manualmente (o que é recomendado somente se você tiver confirmado que o endereço de email é válido) ao desmarcar a caixa &quot;Email inválido&quot; na guia Informações da pessoa de seu registro.
 
 >[!PREREQUISITES]
 >

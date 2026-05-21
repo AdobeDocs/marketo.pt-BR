@@ -16,9 +16,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 395
+source-wordcount: 394
 ht-degree: 3%
 
 ---
@@ -71,7 +71,7 @@ As etapas a seguir são para usuários no [Plano Corporativo Litmus](https://www
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**ETAPA OPCIONAL**: se você decidir fazer alterações no seu email depois de clicar em **Renderizar email** para exibi-los, clique também no botão **Retestar** no canto superior direito da tela _Visualizações de Email_ do Litmus.
+**ETAPA OPCIONAL**: se você decidir fazer alterações no seu email depois de clicar em **Renderizar email** para exibi-los, lembre-se de clicar também no botão **Retestar** no canto superior direito da tela _Visualizações de email_ do Litmus.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
 

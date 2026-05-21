@@ -1,11 +1,11 @@
 ---
 description: O programa Clone duplica um programa Marketo existente em uma nova pasta com um novo nome, preservando sua estrutura e permitindo personalizar a nova campanha.
 title: Clonar programa
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ O agente do programa Clone copia um programa de trabalho, incluindo campanhas in
 >* Você deve ter permissão para criar programas na pasta de destino.
 >
 >* O programa de origem que você deseja clonar já deve existir em seu ambiente do Marketo.
+
+>[!AVAILABILITY]
+>
+>Esse recurso está na versão beta fechada e será implantado em fases nos próximos meses. Você saberá quando ele tiver sido habilitado para a sua assinatura ao visualizar o bloco _Criar com IA_ na tela Minha Marketo.
 
 ## Como usar {#how-to-use}
 

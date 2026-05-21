@@ -10,10 +10,10 @@ product_v2:
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 389
-ht-degree: 5%
+source-wordcount: 378
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 >
 >[Adicionar um Modo de Exibição Móvel para sua Página de Aterrissagem de Formato Livre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-A visualização móvel da página de aterrissagem de formato livre é em sua maioria automática, mas você pode personalizá-la. Veja como.
+A visualização móvel da página de aterrissagem de formato livre é em sua maioria automática, mas você pode personalizá-la.
 
 1. Selecione a página de aterrissagem de formato livre.
 
@@ -51,7 +51,7 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Informações importantes a saber: {#important-things-to-know}
+## O que é importante saber {#important-things-to-know}
 
 * As imagens serão expandidas para a largura do seu dispositivo móvel. Se desejar imagens menores, puxe o elemento rich text e adicione a imagem a partir desse ponto.
 * Use somente formulários do Forms 2.0. Eles são responsivos e se ajustarão automaticamente.
@@ -63,13 +63,13 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
 
 >[!TIP]
 >
->Menos significa mais em dispositivos móveis. Use menos palavras para clientes mais satisfeitos.
+>Menos significa mais em dispositivos móveis.
 
 1. Para ocultar um elemento, clique na caixa de seleção correspondente na coluna Dispositivo móvel.
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. Perfeito! Esse elemento não estará mais visível na visualização móvel.
+1. Esse elemento não estará mais visível na visualização móvel.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -77,7 +77,7 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
 
 >[!TIP]
 >
->Faça conteúdo especial (mais curto) apenas para a visualização móvel.
+>Diminua o conteúdo da exibição móvel.
 
 1. Para adicionar um elemento, arraste-o e solte-o na landing page de forma livre.
 
@@ -97,15 +97,15 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Quer ver algo legal? Selecione **[!UICONTROL Lado A Lado]**.
+1. Selecione **[!UICONTROL Lado a Lado]** para comparar as versões do desktop e dos dispositivos móveis ao mesmo tempo.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
-1. Agora você pode ver as versões para desktop e para dispositivos móveis de suas landing pages ao mesmo tempo.
+1. Agora você pode ver as versões para desktop e para dispositivos móveis de suas páginas de aterrissagem ao mesmo tempo.
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Se você gostou, clique em **[!UICONTROL Aprovar e Fechar]**.
+1. Clique em **[!UICONTROL Aprovar e Fechar]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -113,7 +113,6 @@ Por padrão, tudo na exibição da área de trabalho é mostrado na exibição m
    >
    >A visualização não é interativa. Cada smartphone exibe as coisas de forma um pouco diferente. Recomendamos visualizar sua landing page em alguns dispositivos para ver exatamente como ela se comportará.
 
-Divirta-se.
 
 >[!MORELIKETHIS]
 >

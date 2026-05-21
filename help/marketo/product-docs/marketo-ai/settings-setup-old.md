@@ -1,12 +1,12 @@
 ---
 description: Saiba como habilitar permissões de IA do Marketo, definir regras organizacionais e gerenciar configurações como integrações e notificações.
 title: Configurações e configuração
-hide: true
+badge: Beta
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 0%
+source-wordcount: '371'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Saiba como habilitar permissões e usar a área Configurações para exibir deta
 
 >[!IMPORTANT]
 >
->Na fase Alpha da IA do Marketo, o _acesso é habilitado por padrão_ para as seguintes funções: Administrador, Administrador de produto do Adobe, Usuário de marketing, Usuário padrão. Portanto, em vez de ativá-lo para funções que você deseja ter acesso, desative-o para funções que não deseja.
+>Na fase beta da IA do Marketo, o _acesso é habilitado por padrão_ para as seguintes funções: Administrador e Administrador do produto Adobe. Você deve habilitá-la para qualquer outra função que deseje acessar.
 
 ### Acesso para todos {#access-for-all}
 

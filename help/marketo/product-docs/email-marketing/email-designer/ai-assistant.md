@@ -1,7 +1,7 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Usar o assistente de IA
+title: Usar o Assistente de IA
 description: Saiba como usar o assistente de IA para adicionar texto e imagens a emails. Use a IA gerativa do Adobe no Designer de email para ideias de conteúdo.
 level: Beginner, Intermediate
 feature: Email Designer
@@ -14,10 +14,10 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 936
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -89,7 +89,7 @@ As configurações de texto incluem:
 
 <table><tbody>
   <tr>
-    <td style="width:25%"><b>Grupo de compra</b></td>
+    <td style="width:25%"><b>Grupos de compras</b></td>
     <td>Grupo de compras específico que você está direcionando (por exemplo, Profissional, Influenciador, Tomador de decisão).</td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ Também é possível fazer upload de um ativo da marca para usar o conteúdo den
 
 ![](assets/use-the-ai-assistant-5.png)
 
-Para escolher uma variação, marque a caixa de seleção e clique em **Selecionar**. Você também pode ajustá-lo clicando em **Refinar**. Além disso, você pode fornecer feedback clicando no ícone com os polegares para cima ou para baixo para que a tecnologia Gen-AI aprenda suas preferências.
+Para escolher uma variação, marque a caixa de seleção e clique em **Selecionar**. Você também pode ajustá-lo clicando em **Refinar**. Além disso, você pode fornecer feedback clicando no ícone de polegares para cima ou para baixo para que a tecnologia Gen-AI aprenda suas preferências.
 
 Depois de fazer a seleção, a Linha de assunto é preenchida nos Detalhes do email.
 

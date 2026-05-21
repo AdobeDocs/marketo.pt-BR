@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 208
+source-wordcount: 210
 ht-degree: 10%
 
 ---
@@ -43,7 +43,7 @@ Páginas de aterrissagem de forma livre podem ser criadas como ativos locais de 
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
-1. Nomeie sua página de aterrissagem e escolha o modelo de formato livre no menu suspenso.
+1. Nomeie sua landing page e escolha um template de formato livre no menu suspenso.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Páginas de aterrissagem de forma livre podem ser criadas como ativos locais de 
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
-1. Nomeie sua página de aterrissagem e escolha o modelo de formato livre no menu suspenso.
+1. Nomeie sua landing page e escolha um template de formato livre no menu suspenso.
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 

@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: 205
 ht-degree: 9%
 
 ---
 
 # Agendar programas de engajamento com fuso horário do destinatário {#schedule-engagement-programs-with-recipient-time-zone}
 
-Quando você agendar um fluxo de programa de envolvimento e o fuso horário do recipient estiver ativo, a conversão do programa começará a ser executada à meia-noite no primeiro fuso horário (UTC +14:00). Você precisa agendar o primeiro elenco **pelo menos 25 horas** no futuro, pois pode haver pessoas qualificadas para o elenco em todos os fusos horários do mundo. Iniciar o processamento neste horário no primeiro fuso horário garante que enviaremos o email na data e hora programadas para cada recipient.
+Quando você agendar um fluxo de programa de envolvimento e o fuso horário do recipient estiver ativo, a conversão do programa começará a ser executada à meia-noite no primeiro fuso horário (UTC +14:00). A primeira conversão deve ser agendada para **pelo menos 25 horas** no futuro, pois pode haver pessoas qualificadas para a conversão em todos os fusos horários do mundo. Iniciar o processamento neste horário no primeiro fuso horário garante que o email será entregue na data e hora agendadas para cada recipient.
 
 1. No seu programa de envolvimento, navegue até a guia **[!UICONTROL Fluxos]** e clique no agendamento de cadência de um fluxo para editá-lo.
 

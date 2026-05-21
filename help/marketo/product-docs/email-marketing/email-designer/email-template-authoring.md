@@ -20,10 +20,10 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1891
-ht-degree: 4%
+source-wordcount: 1806
+ht-degree: 2%
 
 ---
 
@@ -31,13 +31,9 @@ ht-degree: 4%
 
 Para um processo de design acelerado e aprimorado, é possível criar modelos de email independentes para reutilizar facilmente o conteúdo personalizado.
 
->[!PREREQUISITES]
->
->Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se a sua ainda não foi migrada e você gostaria de acelerar o processo, entre em contato com a equipe de contas da Adobe (seu gerente de conta) ou com o [Suporte do Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
-
 >[!NOTE]
 >
->Os modelos de email no novo designer de email só podem ser usados para criar emails no novo designer de email. Eles não podem ser referenciados no editor de email antigo.
+>Modelos de email no Designer de email só podem ser usados para criar emails no Designer de email. Eles não podem ser referenciados no editor de email clássico.
 
 ## Criar um modelo de email {#create-an-email-template}
 
@@ -185,7 +181,7 @@ Adicione imagens armazenadas na seção [Imagens e Arquivos](/help/marketo/produ
 
 >[!NOTE]
 >
->Você só pode adicionar imagens no novo designer, sem outros tipos de arquivo no momento.
+>Você só pode adicionar imagens no Designer de email, sem outros tipos de arquivo no momento.
 
 1. Para acessar suas imagens, clique no ícone Seletor de ativos.
 
@@ -236,7 +232,7 @@ O exemplo abaixo descreve as etapas para ajustar o preenchimento e o alinhamento
 
 ### Personalizar conteúdo {#personalize-content}
 
-Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é diferente. O exemplo abaixo descreve a adição de um token de nome com texto de fallback.
+Os tokens funcionam no Designer de email da mesma forma que no editor clássico, mas o ícone é diferente. O exemplo abaixo descreve a adição de um token de nome com texto de fallback.
 
 1. Selecione o componente de texto. Coloque o cursor onde deseja que o token apareça e clique no ícone **Adicionar personalização**.
 
@@ -252,7 +248,7 @@ Os tokens funcionam no novo editor da mesma forma que no antigo, mas o ícone é
 
    >[!NOTE]
    >
-   >&quot;Texto de fallback&quot; é o novo termo do editor para o valor padrão. Exemplo: ``{{lead.First Name:default=Friend}}``. É recomendado caso não haja valor para a pessoa no campo escolhido.
+   >&quot;Texto de fallback&quot; é o termo do Designer de email para o valor padrão. Exemplo: ``{{lead.First Name:default=Friend}}``. É recomendado caso não haja valor para a pessoa no campo escolhido.
 
 1. Defina o texto de fallback e clique em **Adicionar**.
 
@@ -384,4 +380,4 @@ Na página de listagem _Modelos de email_, selecione vários modelos marcando as
 
 >[!MORELIKETHIS]
 >
->[Criação de email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: saiba como criar, projetar e fazer referência a um email no novo designer.
+>[Criação de email](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

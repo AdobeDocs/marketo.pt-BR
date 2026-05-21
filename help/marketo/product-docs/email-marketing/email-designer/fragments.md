@@ -21,9 +21,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1980
+source-wordcount: 1975
 ht-degree: 1%
 
 ---
@@ -231,7 +231,7 @@ As edições em um fragmento dependem do status atual:
 
 1. Para atualizar o conteúdo, clique em **[!UICONTROL Criar versão de rascunho]** na parte superior direita.
 
-   Clique em **[!UICONTROL OK]** na caixa de diálogo para abrir a versão de rascunho no designer visual. Você pode alterar o `image source` KG - LINK AQUI, se necessário.
+   Clique em **[!UICONTROL OK]** na caixa de diálogo para abrir a versão de rascunho no designer visual. Você pode alterar o `image source`.
 
    ![Criar caixa de diálogo de versão de rascunho](assets/fragments-create-draft-version.png){width="300"}
 

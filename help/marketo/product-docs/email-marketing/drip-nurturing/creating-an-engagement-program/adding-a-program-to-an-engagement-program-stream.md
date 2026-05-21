@@ -17,9 +17,9 @@ subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: 479
 ht-degree: 4%
 
 ---
@@ -44,13 +44,13 @@ Ao usar um programa aninhado, a decisão de enviar um email para uma pessoa é b
 * Se você for membro do programa, não receberá o email
 * Se você não for mais membro, mas tiver recebido o email anteriormente por meio desse programa, não receberá o email
 
-Quando você usa um programa em um fluxo, não importa se você recebeu esse email específico antes. Desde que o email não tenha sido enviado antes de *nesse programa específico*, você poderá recebê-lo novamente.
+Quando você usa um programa em um fluxo, não importa se recebeu esse email específico antes. Desde que o email não tenha sido enviado antes de *nesse programa específico*, você poderá recebê-lo novamente.
 
 Pode ser complicado misturar emails e programas em um programa de envolvimento. Talvez você queira usar um ou outro.
 
 >[!TIP]
 >
->Certifique-se de usar um filtro **[!UICONTROL Membro do Programa de Envolvimento]** em sua lista inteligente.
+>Use um filtro **[!UICONTROL Membro do Programa de Envolvimento]** em sua lista inteligente.
 
 ## O que acontece com as pessoas que não atendem aos critérios da lista inteligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 

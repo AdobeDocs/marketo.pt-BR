@@ -15,16 +15,16 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: 114
 ht-degree: 12%
 
 ---
 
 # Adicionar um snippet a uma página de destino {#add-a-snippet-to-a-landing-page}
 
-Os snippets são pequenas partes do HTML que podem seguir regras e manter conteúdo personalizado.
+Os trechos são blocos reutilizáveis do HTML que podem seguir regras e manter conteúdo personalizado.
 
 >[!PREREQUISITES]
 >
@@ -50,4 +50,4 @@ Os snippets são pequenas partes do HTML que podem seguir regras e manter conte�
    >
    >Se quiser adicionar um trecho a uma Página de Aterrissagem Guiada, consulte [este artigo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
-Ótimo trabalho! Agora você sabe como adicionar trechos às suas páginas de aterrissagem.
+Agora você sabe como adicionar trechos às suas páginas de aterrissagem.

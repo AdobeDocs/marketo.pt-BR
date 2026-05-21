@@ -24,20 +24,16 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1819
-ht-degree: 5%
+source-wordcount: 1746
+ht-degree: 2%
 
 ---
 
 # Criação de email {#email-authoring}
 
-Saiba como criar, personalizar e visualizar emails no novo Marketo Engage Email Designer.
-
->[!PREREQUISITES]
->
->Para acessar o novo designer de email, sua assinatura do Marketo Engage deve ser migrada para o [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Se a sua ainda não foi migrada e você gostaria de acelerar o processo, entre em contato com a equipe de contas da Adobe (seu gerente de conta) ou com o [Suporte do Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Saiba como criar, personalizar e visualizar emails no Designer de email.
 
 ## Criar um email {#create-an-email}
 
@@ -73,7 +69,7 @@ Emails do designer de email só podem ser criados no Design Studio e referenciad
 
    ![](assets/create-an-email-5.png)
 
-1. Você tem duas opções para criar um novo email. Clique com o botão direito do mouse no nome do seu Programa de email e selecione **Novo ativo local** ou clique no botão **+Novo email** na caixa Email no painel. Neste exemplo, faremos o primeiro.
+1. Você tem duas opções para criar um novo email. Clique com o botão direito do mouse no nome do seu Programa de email e selecione **Novo ativo local** ou clique no botão **+Novo email** na caixa Email no painel. Neste exemplo, a primeira opção é usada.
 
    ![](assets/create-an-email-6.png)
 

@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 238
 ht-degree: 4%
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Noções básicas sobre cancelamento de inscrição {#understanding-unsubscribe}
 
-Na verdade, há vários tipos diferentes de cancelamentos de assinatura integrados no Marketo. Todos são representados por campos no objeto pessoa, como Nome.
+Há vários tipos diferentes de cancelamentos de assinatura integrados no Marketo. Todos são representados por campos no objeto person, como Nome.
 
 Todos esses campos são incorporados à sua assinatura do Marketo. Todos são do tipo booleano (caixa de seleção). Eles podem ser usados nas etapas de fluxo Forms ou [Alterar Valor de Dados](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
@@ -36,10 +36,10 @@ Este status bloqueia a correspondência de uma pessoa por 24 horas após uma rej
 
 >[!NOTE]
 >
->Email suspenso permanecerá marcado mesmo depois que o período de 24 horas terminar, para que você possa se referir a pessoas que foram historicamente marcadas como tal. Para ver se a pessoa pode enviar emails, basta calcular 24 horas após o momento da suspensão do email.
+>Email suspenso permanecerá marcado mesmo depois que o período de 24 horas terminar, para que você possa se referir a pessoas que foram historicamente marcadas como tal. Para ver se a pessoa pode receber emails, calcule 24 horas após o momento da suspensão do email.
 
 ## Incluído na lista de bloqueios {#blocklisted}
 
-[Use isto para pessoas como concorrentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Qualquer pessoa que quiser receber emails **não**—operacional, de marketing etc. Eles não ganham nada!
+[Use isto para pessoas como concorrentes](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Qualquer pessoa que quiser receber emails **não**—operacional, de marketing etc. Eles não recebem emails.
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

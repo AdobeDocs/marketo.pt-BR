@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 251
+source-wordcount: 243
 ht-degree: 6%
 
 ---
 
 # Fazer a transição de pessoas entre fluxos de engajamento {#transition-people-between-engagement-streams}
 
-Os programas de engajamento podem ter mais de um fluxo. Se você [adicionar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), desejará definir uma maneira de as pessoas moverem-se de um fluxo para outro. Elas são chamadas de **regras de transição.**
+Os programas de engajamento podem ter mais de um fluxo. Se você [adicionar um fluxo](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), defina uma maneira para as pessoas moverem-se de um fluxo para outro. Elas são chamadas de **regras de transição.**
 
 1. Acesse **[!UICONTROL Atividades de marketing]**.
 
@@ -36,23 +36,23 @@ Os programas de engajamento podem ter mais de um fluxo. Se você [adicionar um f
    >
    >As regras de transição são extraídas em um fluxo; sempre defina as regras no fluxo para o qual você deseja extrair.
 
-   Quando a janela da regra de transição for aberta, localize e arraste o acionador de sua escolha. Nesse caso, queremos mover as pessoas para o [!UICONTROL Estágio intermediário] quando ele for adicionado a uma oportunidade.
+   Quando a janela da regra de transição for aberta, localize e arraste o acionador de sua escolha. Neste exemplo, as pessoas serão movidas para o [!UICONTROL Estágio intermediário] quando adicionadas a uma oportunidade.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Vamos definir o operador como **[!UICONTROL é qualquer]** para que as pessoas se movam para qualquer oportunidade adicional.
+1. Defina o operador como **[!UICONTROL is any]** para que as pessoas se movam para qualquer oportunidade adicionada.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
-   >É possível adicionar vários acionadores e filtros a uma regra de transição, mas a regra de transição usa todos os filtros (usar TODOS os filtros é a única opção). Se você precisar usar OU em uma regra de transição, recomendamos que você configure uma campanha inteligente externa.
+   >É possível adicionar vários acionadores e filtros a uma regra de transição, mas a regra de transição usa todos os filtros (usar TODOS os filtros é a única opção). Se você precisar usar OU em uma regra de transição, é recomendável configurar uma campanha inteligente externa.
 
 1. Clique em **[!UICONTROL Fechar]**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   Ótimo! Agora, qualquer pessoa em seu programa de engajamento que for adicionada a uma oportunidade será movida para o fluxo de [!UICONTROL Estágio intermediário].
+   Agora, qualquer pessoa em seu programa de engajamento que for adicionada a uma oportunidade será movida para o fluxo de [!UICONTROL Estágio intermediário].
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 

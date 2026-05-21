@@ -10,9 +10,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 259
+source-wordcount: 229
 ht-degree: 7%
 
 ---
@@ -49,8 +49,4 @@ Coloque vídeos com opções de compartilhamento em redes sociais nas páginas d
 >
 >Para economizar tempo, você pode usar a opção **[!UICONTROL Clonar de]** para copiar todas as configurações de um compartilhamento de vídeo existente.
 
-Parabéns! Você adicionou um compartilhamento de vídeo à sua página de aterrissagem de formato livre. Aprove a landing page e o compartilhamento de vídeo estará ativo. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou _colocar o compartilhamento de vídeo em seu site_.
-
->[!MORELIKETHIS]
->
->você concluiu, mas pode alterar as configurações do compartilhamento de vídeo, se necessário. Comece com _personalizando o fluxo de compartilhamento_ (quando e onde o prompt de compartilhamento é aberto).
+Você adicionou um compartilhamento de vídeo à sua página de aterrissagem de formato livre. Aprove a landing page e o compartilhamento de vídeo estará ativo. Você também pode [publicar a página de aterrissagem no Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou colocar o compartilhamento de vídeo em seu site.

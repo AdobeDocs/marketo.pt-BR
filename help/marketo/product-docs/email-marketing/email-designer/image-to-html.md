@@ -25,9 +25,9 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1342
+source-wordcount: 1341
 ht-degree: 2%
 
 ---
@@ -65,7 +65,7 @@ Para converter uma imagem em um modelo de email do HTML totalmente personalizáv
 
    ![](assets/image-to-html-3.png)
 
-1. Role para baixo e marque a caixa de seleção _O arquivo de carregamento não contém..._. Clique em **Converter**.
+1. Role para baixo e selecione a caixa de seleção _o arquivo carregado não contém..._. Clique em **Converter**.
 
    ![](assets/image-to-html-4.png)
 

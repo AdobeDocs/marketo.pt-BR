@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359732
 description: Saiba como usar conteúdo dinâmico em uma página de aterrissagem de forma livre no Marketo. Mostrar conteúdo diferente para segmentos diferentes.
-title: Usar conteúdo dinâmico em uma página de aterrissagem de forma livre
+title: Usar conteúdo dinâmico em uma página de destino de forma livre
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/O80z2EtTU2E-1yf6ng-5n6FOWNXzVG2-Oq8xbXapvhI
@@ -15,16 +15,16 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 218
-ht-degree: 0%
+source-wordcount: 220
+ht-degree: 10%
 
 ---
 
-# Usar conteúdo dinâmico em uma página de aterrissagem de forma livre {#use-dynamic-content-in-a-free-form-landing-page}
+# Usar conteúdo dinâmico em uma página de destino de forma livre {#use-dynamic-content-in-a-free-form-landing-page}
 
-O uso do conteúdo dinâmico nas páginas de aterrissagem envolve seu público-alvo com informações direcionadas.
+O uso de conteúdo dinâmico em páginas de aterrissagem envolve seu público-alvo com informações direcionadas.
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ O uso do conteúdo dinâmico nas páginas de aterrissagem envolve seu público-a
 
 ## Adicionar segmentação {#add-segmentation}
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -86,7 +86,7 @@ O uso do conteúdo dinâmico nas páginas de aterrissagem envolve seu público-a
 >
 >Crie uma landing page padrão antes de modificar o conteúdo para os vários segmentos.
 
-Voila! Agora você pode enviar conteúdo direcionado.
+Agora você pode enviar conteúdo direcionado para seus segmentos.
 
 >[!MORELIKETHIS]
 >

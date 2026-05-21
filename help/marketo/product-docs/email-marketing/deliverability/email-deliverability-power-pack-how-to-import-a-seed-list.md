@@ -7,9 +7,9 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 346
+source-wordcount: 339
 ht-degree: 2%
 
 ---
@@ -58,6 +58,6 @@ Uma Seed List é uma lista de contas de email em vários provedores de caixa de 
 
 ## Adquirir novas Seedlists {#acquiring-new-seedlists}
 
-Sua lista de seeds pode mudar com a mesma frequência que a cada mês. É importante fazer logon no Pacote de energia de delivery de email regularmente e verificar o status da sua lista de propagação. Quando novos endereços forem adicionados ou uma atualização for necessária, você será alertado por meio do ícone de Notificação no lado inferior esquerdo do aplicativo.
+Sua lista de seeds pode mudar com a mesma frequência que a cada mês. É importante fazer logon no Power Pack Email Deliverability regularmente e verificar o status da sua Seed List. Quando novos endereços forem adicionados ou uma atualização for necessária, você será alertado por meio do ícone Notification no canto inferior esquerdo do aplicativo.
 
 Depois que a lista estática no Marketo for criada, você poderá começar a enviá-la para testar a inserção da caixa de entrada do email.
