@@ -59,7 +59,7 @@ Agora que você aprendeu as principais áreas de produto para configurar uma nov
 <tbody>
   <tr>
     <td>Usuários</td>
-    <td><li>Documente os <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuários atuais</a> em sua instância por motivos de segurança. Os seguintes detalhes devem ser incluídos no mínimo (e estão visíveis ao acessar Admin &gt; Usuários e funções):</li>
+    <td><li>Documente os <a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">usuários atuais</a> em sua instância por motivos de segurança. Os seguintes detalhes devem ser incluídos no mínimo (e estão visíveis ao acessar Admin &gt; Usuários e funções):</li>
     <ul>
     <li>Nome</li>
     <li>Email</li>
