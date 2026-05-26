@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: 421
-ht-degree: 28%
+source-wordcount: 541
+ht-degree: 23%
 
 ---
 
@@ -35,6 +35,37 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 <table style="table-layout:auto">
  <tbody>
+ <tr>
+   <th style="width:65%">Recurso</th>
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Documentação</th>
+  </tr>
+  <tr>
+   <td><strong>IA do Marketo</strong>: utilize um conjunto de agentes criado para automatizar funções de marketing demoradas, mas importantes (dois agentes disponíveis agora e, em breve, outros).
+</td>
+   <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">solicitar acesso aqui</a>)</td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/overview">Visão geral da IA do Marketo</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <th style="width:65%">Recurso</th>
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Documentação</th>
+  </tr>
+  <tr>
+   <td><strong>Servidor MCP do Marketo</strong>: o servidor MCP do Marketo atua como uma ponte entre o assistente de IA e o Marketo Engage. Ele expõe mais de 100 operações em formulários, programas, campanhas inteligentes, pessoas/clientes potenciais, emails, trechos, listas e pastas.</td>
+   <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">solicitar acesso aqui</a>)</td>
+   <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP Server</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
  <tr>
    <th style="width:65%">Recurso</th>
    <th style="width:10%">Status</th>
@@ -76,4 +107,4 @@ No início deste ano, os campos relacionados que foram deixados para trás foram
 
 * **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de julho de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
-* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial e Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` retornarão um código de erro 1003 se a lista estática de destino contiver 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
+* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial e Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` retornarão um código de erro 1003 se a lista estática de destino contiver 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
