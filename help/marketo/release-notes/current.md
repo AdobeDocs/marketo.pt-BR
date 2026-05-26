@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
 workflow-type: tm+mt
-source-wordcount: 541
+source-wordcount: 543
 ht-degree: 23%
 
 ---
@@ -57,7 +57,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>Servidor MCP do Marketo</strong>: o servidor MCP do Marketo atua como uma ponte entre o assistente de IA e o Marketo Engage. Ele expõe mais de 100 operações em formulários, programas, campanhas inteligentes, pessoas/clientes potenciais, emails, trechos, listas e pastas.</td>
+   <td><strong>Servidor MCP do Marketo Engage</strong>: o servidor MCP do Marketo Engage atua como uma ponte entre o assistente de IA e o Marketo Engage. Ele expõe mais de 100 operações em formulários, programas, campanhas inteligentes, pessoas/clientes potenciais, emails, trechos, listas e pastas.</td>
    <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">solicitar acesso aqui</a>)</td>
    <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP Server</a></td>
   </tr>
