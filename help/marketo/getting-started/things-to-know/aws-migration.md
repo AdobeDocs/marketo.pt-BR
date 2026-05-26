@@ -70,7 +70,7 @@ Antes de examinar a tabela abaixo, [saiba como identificar](/help/marketo/gettin
    <td>AB70<br>
    AB43</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Atualizações e suporte
