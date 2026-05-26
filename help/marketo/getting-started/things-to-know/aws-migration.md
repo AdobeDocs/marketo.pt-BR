@@ -4,10 +4,10 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 12c00719acd28ad2063b423eb14c866f495ac757
+source-git-commit: 5a260c00311588c3a55f176e7a7977f422bcc8a4
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '298'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Durante a janela de migração, todos os serviços da Marketo Engage ficarão in
 
 * **Revise e atualize as incluis na lista de permissões de IP** para logon, acesso à API, envio de email, rastreamento Web e integrações.
 
-* Adicione os seguintes endereços IP e mantenha seus IPs atuais como estão:
+* **Adicione os seguintes endereços IP** e mantenha seus IPs atuais como estão:
 
    * 54.160.246.246
    * 54.237.141.197
@@ -44,6 +44,35 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 * **As integrações de CRM e os serviços do LaunchPoint** serão desabilitados, mas serão retomados automaticamente depois.
 * **As páginas de aterrissagem, os formulários e a coleção de dados** não estarão disponíveis, e uma mensagem de manutenção será exibida.
 
+## Cronograma {#schedule}
+
+Novas datas e informações de data centers/pod são adicionadas periodicamente, portanto, verifique aqui novamente para obter detalhes.
+
+Antes de examinar a tabela abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:75%">Data</th>
+   <th style="width:25%">Pod</th>
+  </tr>
+  <tr>
+   <td>5 de junho de 2026</td>
+   <td>AB46</td>
+  </tr>
+  <tr>
+   <td>8 de julho de 2026</td>
+   <td>AB69<br>
+   AB64</td>
+  </tr>
+  <tr>
+   <td>9 de julho de 2026</td>
+   <td>AB70<br>
+   AB43</td>
+  </tr>
+  </body>
+  </table>
+
 ## Atualizações e suporte
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support).
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support).
