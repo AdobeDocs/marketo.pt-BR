@@ -4,21 +4,13 @@ title: Notas da versão atual
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
 workflow-type: tm+mt
-source-wordcount: 700
+source-wordcount: 704
 ht-degree: 19%
 
 ---
@@ -43,8 +35,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   <tr>
    <td><strong>IA do Marketo</strong>: utilize um conjunto de agentes criado para automatizar funções de marketing demoradas, mas importantes (dois agentes disponíveis agora e, em breve, outros).
 </td>
-   <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">solicitar acesso aqui</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/overview">Visão geral da IA do Marketo</a></td>
+   <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&amp;origin=QRCode">solicitar acesso aqui</a>)</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Visão geral da IA do Marketo</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -58,7 +50,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Servidor MCP do Marketo Engage</strong>: o servidor MCP do Marketo Engage atua como uma ponte entre o assistente de IA e o Marketo Engage. Ele expõe mais de 100 operações em formulários, programas, campanhas inteligentes, pessoas/clientes potenciais, emails, trechos, listas e pastas.</td>
-   <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">solicitar acesso aqui</a>)</td>
+   <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&amp;origin=QRCode">solicitar acesso aqui</a>)</td>
    <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Marketo MCP Server</a></td>
   </tr>
   <tr>
@@ -115,7 +107,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Status de Chat Perdido</strong>: agora, quando um agente não aceitar um chat, um novo status "Chat Perdido" aparecerá nos Detalhes da atividade da pessoa que conversou.
+   <td><strong>Dynamic Chat - Status de Chat Perdido</strong>: quando um agente não aceita um chat, um novo status "Chat Perdido" aparecerá nos Detalhes da atividade no Registro de pessoa da pessoa que conversou.
    </td>
    <td>Lançado</td>
    <td>n/d</td>
@@ -126,7 +118,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Novo Comportamento de Sincronização de Atributo</strong>: anteriormente, a adição de novos atributos bloqueava as alterações no ambiente por até 24 horas enquanto a sincronização era concluída, impedindo a edição e a publicação da caixa de diálogo. Agora, enquanto a adição de um novo atributo ainda requer uma sincronização de dados completa (que pode levar até 24 horas), o ambiente não é mais bloqueado durante esse processo.
+   <td><strong>Dynamic Chat - Novo Comportamento de Sincronização de Atributo</strong>: anteriormente, a adição de novos atributos bloqueava as alterações no ambiente por até 24 horas enquanto a sincronização era concluída, impedindo a edição e a publicação da caixa de diálogo. Agora, enquanto a adição de um novo atributo ainda requer uma sincronização de dados completa (que ainda pode levar até 24 horas), o ambiente não é mais bloqueado durante o processo.
    </td>
    <td>Lançado</td>
    <td>n/d</td>
@@ -151,4 +143,4 @@ No início deste ano, os campos relacionados que foram deixados para trás foram
 
 * **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de julho de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
-* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial e Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` retornarão um código de erro 1003 se a lista estática de destino contiver 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
+* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial e Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` retornarão um código de erro 1003 se a lista estática de destino contiver 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
