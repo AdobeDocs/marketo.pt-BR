@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    </td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Está digitando</strong>: agora o visitante e o agente veem um "está digitando..." notificação enquanto a outra parte está digitando, impedindo que uma interrompa a outra.
+   </td>
+   <td>Lançado</td>
+   <td>n/d</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Lista de opções/Campos suspensos do Marketo</strong>: os campos de pessoa da lista de opções/lista suspensa do Marketo (incluindo valores sincronizados com o Salesforce) agora estão disponíveis como valores suspensos no editor de perfil do chat.
+   </td>
+   <td>Lançado</td>
+   <td>n/d</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Status de Chat Perdido</strong>: agora, quando um agente não aceitar um chat, um novo status "Chat Perdido" aparecerá nos Detalhes da atividade da pessoa que conversou.
+   </td>
+   <td>Lançado</td>
+   <td>n/d</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Novo Comportamento de Sincronização de Atributo</strong>: anteriormente, a adição de novos atributos bloqueava as alterações no ambiente por até 24 horas enquanto a sincronização era concluída, impedindo a edição e a publicação da caixa de diálogo. Agora, enquanto a adição de um novo atributo ainda requer uma sincronização de dados completa (que pode levar até 24 horas), o ambiente não é mais bloqueado durante esse processo.
+   </td>
+   <td>Lançado</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
