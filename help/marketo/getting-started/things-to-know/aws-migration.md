@@ -76,7 +76,7 @@ Antes de examinar a tabela abaixo, [saiba como identificar](/help/marketo/gettin
    <td>17:00 PST<br>
    18h00 PST</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Atualizações e suporte
