@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
+source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
 workflow-type: tm+mt
 source-wordcount: '8896'
 ht-degree: 96%
@@ -59,18 +59,6 @@ ht-degree: 96%
       + [Instância herdada: documentar sua configuração](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Revisão das principais habilidades](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Documentos do produto {#product-docs}
-   + MARKETO AI {#marketo-ai}
-      + [Visão geral](product-docs/marketo-ai/overview.md)
-      + [Configurações e configuração](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[Configurações e instalação](product-docs/marketo-ai/settings-setup-old.md)
-      + Agentes {#agents}
-         + {hide-from-toc}[Conhecimento sobre o produto](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
-         + {hide-from-toc}[Criar programa](product-docs/marketo-ai/agents/create-program.md)
-         + {hide-from-toc}[Clonar programa](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[Investigar cliente em potencial](product-docs/marketo-ai/agents/investigate-lead.md)
-         + [Importar clientes em potencial](product-docs/marketo-ai/agents/import-leads.md)
-         + [Controle de qualidade do programa](product-docs/marketo-ai/agents/program-qa.md)
    + Aplicativos adicionais {#additional-apps}
       + SEO {#seo}
          + Palavras-chave {#keywords}
@@ -1119,10 +1107,22 @@ ht-degree: 96%
             + [Usar o token de envio de informações de alerta](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Usar URLs nos meus tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [Email em cópia (CC)](product-docs/email-marketing/general/email-cc.md)
+   + MARKETO AI {#marketo-ai}
+      + [Visão geral](product-docs/marketo-ai/overview.md)
+      + [Configurações e configuração](product-docs/marketo-ai/settings-setup.md)
+      + {hide-from-toc}[Configurações e instalação](product-docs/marketo-ai/settings-setup-old.md)
+      + Agentes {#agents}
+         + {hide-from-toc}[Conhecimento sobre o produto](product-docs/marketo-ai/agents/product-knowledge.md)
+         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
+         + {hide-from-toc}[Criar programa](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[Clonar programa](product-docs/marketo-ai/agents/clone-program.md)
+         + {hide-from-toc}[Investigar cliente em potencial](product-docs/marketo-ai/agents/investigate-lead.md)
+         + [Importar clientes em potencial](product-docs/marketo-ai/agents/import-leads.md)
+         + [Controle de qualidade do programa](product-docs/marketo-ai/agents/program-qa.md)
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
