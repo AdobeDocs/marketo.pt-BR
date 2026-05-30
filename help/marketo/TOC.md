@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [Ocultar e reexibir um campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [Tokens codificados em HTML em emails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Marcar campo como confidencial](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + {hide-from-toc}[Gerenciamento de lista de opções](product-docs/administration/field-management/picklist-management.md)
+         + [Gerenciamento de Lista de Separação](product-docs/administration/field-management/picklist-management.md)
          + [Renomear um campo](product-docs/administration/field-management/rename-a-field.md)
          + [Noções básicas sobre campos gerenciados pelo sistema](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Exibir mapeamentos de campo entre o Marketo e o Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -1122,7 +1122,7 @@ ht-degree: 96%
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
