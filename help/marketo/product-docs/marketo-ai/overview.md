@@ -3,7 +3,7 @@ description: Explore o conjunto de agentes do Marketo AI projetados para automat
 title: Visão geral da IA do Marketo
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
+source-git-commit: d905e4b850d63e3ccf2517c0d2573314b7b8938b
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 2%
@@ -42,7 +42,7 @@ O console central apresenta um conjunto cada vez maior de agentes disponíveis p
 
 ### Controle de qualidade do programa {#program-qa}
 
-O Controle de qualidade do programa verifica automaticamente sua configuração em relação às práticas recomendadas da Marketo e detecta problemas antes do lançamento. Saiba mais sobre o [Agente de controle de qualidade do programa](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}.
+O Controle de qualidade do programa verifica automaticamente sua configuração em relação às práticas recomendadas da Marketo e detecta problemas antes do lançamento. Saiba mais sobre o [Agente de Validação de programas](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
 
 ### Importar clientes em potencial {#import-leads}
 
@@ -58,4 +58,4 @@ Em breve, agentes adicionais projetados para lidar com o trabalho mais repetitiv
 
 >[!MORELIKETHIS]
 >
->O [Marketo Engage MCP Server](https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} atua como uma ponte entre o assistente de IA e a Marketo Engage.
+>O [Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=pt-BR){target="_blank"} atua como uma ponte entre o assistente de IA e a Marketo Engage.

@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
-ht-degree: 18%
+source-wordcount: 655
+ht-degree: 19%
 
 ---
 
@@ -74,8 +74,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   <tr>
    <td><strong>Gerenciamento de lista de opções</strong>: agora é possível especificar os valores que podem ser usados em campos no Marketo Engage.
    </td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Lançado</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Gerenciamento de Lista de Separação</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Está digitando</strong>: agora o visitante e o agente veem um "está digitando..." notificação enquanto a outra parte está digitando, impedindo que uma interrompa a outra.
+   <td><strong>Dynamic Chat - Está digitando</strong>: agora o visitante e o agente veem uma notificação "está digitando..." enquanto o outro está digitando, impedindo que um interrompa o outro.
    </td>
    <td>Lançado</td>
    <td>n/d</td>
