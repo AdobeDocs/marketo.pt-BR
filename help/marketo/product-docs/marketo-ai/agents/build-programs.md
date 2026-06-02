@@ -3,7 +3,7 @@ description: Use a IA do Marketo para criar um programa do Marketo a partir de u
 title: Criar programas
 badge: Beta
 hide: true
-source-git-commit: f2be5a29916b48fd0ba4932925aa4826b7f4ee7f
+source-git-commit: e055590a07ef9aa7cf6ebde42f6ea9f7420d7599
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Descreva uma campanha de marketing em linguagem simples e a IA do Marketo cria a
 
 1. Verifique se os filtros de campanha inteligentes e as etapas de fluxo correspondem ao público-alvo e à lógica desejados.
 
-1. Execute o agente [Controle de qualidade do programa](/help/marketo/product-docs/marketo-ai/agents/program-qa.md) antes de ativar.
+1. Execute o agente [Validar programas](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md) antes de ativar.
 
 ## Casos de uso {#use-cases}
 
