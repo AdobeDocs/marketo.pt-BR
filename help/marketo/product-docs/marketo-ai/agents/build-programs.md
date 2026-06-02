@@ -3,7 +3,7 @@ description: Use a IA do Marketo para criar um programa do Marketo a partir de u
 title: Criar programas
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 0%
@@ -58,4 +58,4 @@ Descreva uma campanha de marketing em linguagem simples e a IA do Marketo criar�
 * Nenhum modelo ou formulário é necessário antecipadamente. A IA do Marketo cria a estrutura e você pode conectar os ativos posteriormente (você ainda é responsável por escrever uma cópia de email e configurar quaisquer páginas de aterrissagem).
 * A IA do Marketo não pode acessar suas listas de públicos-alvo existentes automaticamente. Você deve conectar filtros de lista inteligente aos segmentos reais depois que o programa for criado.
 * Programas complexos de várias etapas com lógica de ramificação avançada podem precisar de refinamento manual após a criação.
-* Se o ambiente do Marketo usar convenções de nomenclatura ou estruturas de pastas. Especifique-os no seu resumo para que o programa seja criado no lugar certo.
+* Se o ambiente do Marketo usa convenções de nomenclatura ou estruturas de pastas, especifique-as no seu resumo para que o programa seja criado no lugar certo.
