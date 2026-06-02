@@ -3,9 +3,9 @@ description: Converse com a IA da Marketo sobre os dados de desempenho do Market
 title: Insights de superfície
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -48,4 +48,4 @@ O Surface Insights permite conversar sobre os dados de desempenho do Marketo. Fa
 * Intervalos de datas muito grandes ou perguntas amplas podem retornar resumos de alto nível em vez de detalhes granulares. Por exemplo, &quot;Como foi o desempenho de todos os meus programas nos últimos dois anos?&quot;
 * A IA do Marketo pode exibir dados, mas não pode fazer alterações em seus programas ou relatórios com base no que encontra.
 * Para relatórios personalizados detalhados com filtros e detalhamentos específicos, as ferramentas de relatório integradas do Marketo ou uma integração de BI podem ser mais apropriadas.
-* A atribuição em campanhas multitoque requer a configuração adequada do programa. A IA do Marketo informará sobre o que é rastreado, não inferirá a atribuição que não foi configurada.
+* A atribuição em campanhas multitoque requer a configuração adequada do programa. Os relatórios de IA do Marketo mostram o que é rastreado, não deduzem a atribuição que não foi configurada.
