@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -1114,7 +1114,7 @@ ht-degree: 96%
       + Agentes {#agents}
          + {hide-from-toc}[Conhecimento sobre o produto](product-docs/marketo-ai/agents/product-knowledge.md)
          + {hide-from-toc}[Insights de superfície](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[Criar programas](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[Criar programas](product-docs/marketo-ai/agents/build-programs.md)
          + {hide-from-toc}[Clonar programa](product-docs/marketo-ai/agents/clone-program.md)
          + {hide-from-toc}[Investigar clientes em potencial](product-docs/marketo-ai/agents/investigate-leads.md)
          + [Importar clientes em potencial](product-docs/marketo-ai/agents/import-leads.md)
@@ -1122,7 +1122,7 @@ ht-degree: 96%
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
