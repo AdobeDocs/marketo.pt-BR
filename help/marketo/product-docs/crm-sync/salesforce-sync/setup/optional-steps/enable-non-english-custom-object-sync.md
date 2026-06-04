@@ -7,9 +7,9 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 67c57a9162946c4b9c424ab3fd445b70e90b530a
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: 195
 ht-degree: 9%
 
 ---
@@ -18,17 +18,15 @@ ht-degree: 9%
 
 Se o usuário de sincronização do Marketo estiver definido com um idioma diferente do inglês, talvez ocorra um erro ao tentar habilitar uma sincronização de objeto personalizado.
 
-## O erro {#the-error}
-
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## Contornando-Se {#getting-around-it}
+## Como corrigir {#how-to-fix}
 
 1. Faça logon em [!DNL Salesforce] usando a marcação para sincronizar usuário.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. No nome de usuário, vá para **[!UICONTROL Instalação]**.
+1. Clique na lista suspensa de nomes de usuário e selecione **[!UICONTROL Instalação]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
@@ -48,19 +46,23 @@ Se o usuário de sincronização do Marketo estiver definido com um idioma difer
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. De volta ao Marketo, em **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objetos]**, clique em **[!UICONTROL Atualizar Esquema]**.
+1. Em seu [Perfil de Conta da Adobe](https://account.adobe.com/profile){target="_blank"}, role para baixo até **[!UICONTROL Idiomas preferenciais]** e verifique se seu primeiro idioma está definido como inglês.
+
+   ![](assets/enable-non-english-custom-object-sync-step-6.5.png)
+
+1. No Marketo Engage, navegue até **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objetos]**. Clique em **[!UICONTROL Atualizar Esquema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. Isso obterá a lista de objetos em inglês. Agora selecione o objeto de sua escolha e clique em **[!UICONTROL Habilitar Sincronização]**.
+1. Isso extrai a lista de objetos em inglês. Selecione o objeto de sua escolha e clique em **[!UICONTROL Habilitar sincronização]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. Observe que o objeto personalizado agora está habilitado e sincronizando.
+1. O objeto personalizado agora está habilitado e sincronizando.
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Agora, volte para [!DNL Salesforce] e use as etapas acima para alterar o usuário de sincronização de volta para seu idioma preferido.
+1. Volte para [!DNL Salesforce] e use as etapas acima para alterar o usuário de sincronização de volta para seu idioma preferido.
 
 >[!NOTE]
 >
