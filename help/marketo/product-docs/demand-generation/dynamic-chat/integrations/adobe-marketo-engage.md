@@ -4,20 +4,13 @@ title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
 TQID: https://experienceleague.adobe.com/n8HC8kkHZguZoZ2eBijiUetTrX1rY0ZLN0lIhZGUUcg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: 338
 ht-degree: 1%
 
 ---
@@ -30,7 +23,7 @@ Após concluir a [configuração inicial](/help/marketo/product-docs/demand-gene
 
 >[!NOTE]
 >
->O Dynamic Chat oferece suporte à sincronização de [campos nativos](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} do Marketo e campos de pessoa personalizados e campos de empresa.
+>O Dynamic Chat oferece suporte à sincronização de [campos nativos](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} do Marketo e campos de pessoa personalizados e campos de empresa.
 
 1. Em Minha Marketo, clique no bloco **[!UICONTROL Dynamic Chat]**.
 
@@ -38,9 +31,9 @@ Após concluir a [configuração inicial](/help/marketo/product-docs/demand-gene
 
    >[!NOTE]
    >
-   >Se você não vir o bloco, entre em contato com o administrador do Marketo.
+   >Se você não vir o bloco Dynamic Chat na tela Meu Marketo, acesse o Dynamic Chat no menu Aplicativo em experience.adobe.com e conecte-se ao Marketo pela **Configuração** > **Integrações**. Após a conexão, o bloco será exibido.
 
-1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Para conectar sua instância do Marketo, selecione **[!UICONTROL Integrações]**.
 
