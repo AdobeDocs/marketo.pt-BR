@@ -11,9 +11,9 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 922
+source-wordcount: 963
 ht-degree: 1%
 
 ---
@@ -29,6 +29,10 @@ Entre em contato com o administrador do Marketo Engage e verifique se ele adicio
 **É possível instalar o Dynamic Chat em qualquer lugar no site da empresa ou ele funciona somente nas Páginas de Aterrissagem do Marketo?**
 
 O trecho Dynamic Chat JavaScript pode ser instalado em qualquer site, bem como nas Páginas de aterrissagem do Marketo.
+
+**Tenho o Dynamic Chat, mas não vejo um bloco do Dynamic Chat em Meu Marketo. Como obtê-lo?**
+
+Acesse o Dynamic Chat no menu Aplicativo em experience.adobe.com e conecte-se ao Marketo por meio de **Configuração** > **Integrações**. Após a conexão, o bloco será exibido.
 
 **Por quanto tempo os dados são armazenados para relatórios?**
 
@@ -70,7 +74,7 @@ O limite de conversação engajada é redefinido no primeiro dia de cada mês.
 
 As caixas de diálogo foram projetadas para serem exibidas a um visitante apenas uma vez. Portanto, assim que um visitante atinge o final de qualquer ramificação em uma Caixa de diálogo, essa Caixa de diálogo é considerada concluída e nunca será exibida para esse visitante novamente.
 
-**Quando clico no bloco Dynamic Chat em Minha Marketo e faço logon no Adobe Experience Cloud, por que recebo a seguinte mensagem? &quot;_Parece que a sua Adobe ID não está vinculada às suas contas da solução da Adobe Experience Cloud_.&quot;**
+**Quando clico no bloco Dynamic Chat em Minha Marketo e faço logon na Adobe Experience Cloud, por que recebo a seguinte mensagem? &quot;_Parece que a sua Adobe ID não está vinculada às suas contas da solução Adobe Experience Cloud_.&quot;**
 
 Isso provavelmente indica que você não foi adicionado como usuário do Dynamic Chat no Adobe Admin Console. Entre em contato com um administrador do sistema da organização da Adobe ou com um administrador de produto do Dynamic Chat para solicitar acesso ao Dynamic Chat.
 

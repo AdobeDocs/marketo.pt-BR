@@ -15,9 +15,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: 338
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Após concluir a [configuração inicial](/help/marketo/product-docs/demand-gene
 
    >[!NOTE]
    >
-   >Se você não vir o bloco, entre em contato com o administrador do Marketo.
+   >Se você não vir o bloco Dynamic Chat na tela Meu Marketo, acesse o Dynamic Chat no menu Aplicativo em experience.adobe.com e conecte-se ao Marketo pela **Configuração** > **Integrações**. Após a conexão, o bloco será exibido.
 
 1. Se você tiver acessado anteriormente um aplicativo com uma Adobe ID, será direcionado diretamente ao Dynamic Chat. Caso contrário, [configure seu Adobe ID](https://helpx.adobe.com/br/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
