@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f5b235bda9063b8f54321fd62f2c9d5f4442c783
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 655
-ht-degree: 19%
+source-wordcount: 654
+ht-degree: 18%
 
 ---
 
@@ -63,8 +63,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Email Designer - Conteúdo Condicional para Fragmentos de Email</strong>: <i>Paridade com o editor de email antigo</i>. O conteúdo condicional agora é compatível com Fragmentos.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Lançado</td>
+   <td>n/d</td>
   </tr>
   <tr>
    <td> </td>
