@@ -106,7 +106,7 @@ Etapa 4: adicionar um resumo e materiais de referência
 
 &lbrack;PARA KEITH: Explique como anexar documentos de referência de marca breves ou outro contexto. Capa: - Tipos de arquivo compatíveis. - Como o Halo usa essas informações (extraídas para o contexto do prompt, aplicadas à geração de conteúdo etc.). - Limites de tamanho de arquivo, se houver
 
-Aqui está um mergulho profundo da minha sessão no summit no qual abordo isso: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Aqui está um mergulho profundo da minha sessão no summit no qual abordo isso: https://business.adobe.com/br/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
 Limitações - Eu posso conectá-lo com o engg - Neha Pullabhotla, que será capaz de nos ajudar sobre as especificidades aqui. &rbrack;
 
 [CAPTURA DE TELA: interface do anexo de resumo/referência]
