@@ -38,7 +38,7 @@ Um CSV de público-alvo pronto para upload. (Baixe um CSV de público-alvo de am
 Uma ideia clara do objetivo da campanha, por exemplo, &quot;conquistar clientes antigos&quot;, &quot;convidar usuários de avaliação para um webinário&quot;.
 
 Dica: se você é novo em escrever prompts para campanhas de marketing, reserve dois minutos para comemorar o Prompting Halo — práticas recomendadas antes de começar. Vai afiar tudo o que se segue.
-[PARA KEITH: Vamos ter que criar este documento adicional, será baseado em uma combinação de:
+&lbrack;PARA KEITH: Vamos ter que criar este documento adicional, será baseado em uma combinação de:
 
 1. Práticas de geração de conteúdo/prompts do AJO (seções aplicáveis:
 
@@ -50,7 +50,7 @@ Escrever objetivos eficazes
 
 Deixar de lado o conteúdo específico)
 
-2. Journey Agent (seções aplicáveis: seções DENTRO e fora do escopo, teremos que adicionar algo assim)
+&#x200B;2. Journey Agent (seções aplicáveis: seções DENTRO e fora do escopo, teremos que adicionar algo assim)
 
 Forma
 
@@ -104,10 +104,10 @@ Forma
 
 Etapa 4: adicionar um resumo e materiais de referência
 
-[PARA KEITH: Explique como anexar documentos de referência de marca breves ou outro contexto. Capa: - Tipos de arquivo compatíveis. - Como o Halo usa essas informações (extraídas para o contexto do prompt, aplicadas à geração de conteúdo etc.). - Limites de tamanho de arquivo, se houver
+&lbrack;PARA KEITH: Explique como anexar documentos de referência de marca breves ou outro contexto. Capa: - Tipos de arquivo compatíveis. - Como o Halo usa essas informações (extraídas para o contexto do prompt, aplicadas à geração de conteúdo etc.). - Limites de tamanho de arquivo, se houver
 
 Aqui está um mergulho profundo da minha sessão no summit no qual abordo isso: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitações - Eu posso conectá-lo com o engg - Neha Pullabhotla, que será capaz de nos ajudar sobre as especificidades aqui. ]
+Limitações - Eu posso conectá-lo com o engg - Neha Pullabhotla, que será capaz de nos ajudar sobre as especificidades aqui. &rbrack;
 
 [CAPTURA DE TELA: interface do anexo de resumo/referência]
 
@@ -181,14 +181,14 @@ Forma
 
 Perguntas comuns
 
-[PARA KEITH: 4-6 FAQs baseadas no feedback inicial do usuário. Iniciantes sugeridos - para discutir com nossa equipe engajada:
+&lbrack;PARA KEITH: 4-6 FAQs baseadas no feedback inicial do usuário. Iniciantes sugeridos - para discutir com nossa equipe engajada:
 - &quot;Por que a primeira resposta demora tanto?
 - &quot;E se a saída de Halo não estiver correta?&quot;
 - &quot;Posso editar e-mails diretamente ou apenas via chat?&quot;
 - &quot;Como salvar uma campanha sem lançá-la?&quot;
 - &quot;E se o CSV do meu público-alvo tiver erros?&quot;
 - &quot;Posso duplicar ou remixar uma campanha?&quot;
-- &quot;Como faço para compartilhar um rascunho de campanha com um colega de equipe para análise?&quot;]
+- &quot;Como faço para compartilhar um rascunho de campanha com um colega de equipe para análise?&quot;&rbrack;
 
 Forma
 
