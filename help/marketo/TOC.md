@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
+source-git-commit: a1efdaab40e02861b7ee9ceabeb004fdd6c5de57
 workflow-type: tm+mt
-source-wordcount: '8897'
+source-wordcount: '8903'
 ht-degree: 96%
 
 ---
@@ -467,6 +467,9 @@ ht-degree: 96%
                + [Envio de uma amostra](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Compartilhar um momento](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + Diversos {#miscellaneous}
+         + {hide-from-toc}[Halo 1](product-docs/core-marketo-concepts/miscellaneous/halo-1.md)
+         + {hide-from-toc}[Halo 2](product-docs/core-marketo-concepts/miscellaneous/halo-2.md)
+         + {hide-from-toc}[Halo 3](product-docs/core-marketo-concepts/miscellaneous/halo-3.md)
          + {hide-from-toc}[Configurando a Integração com o Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Criar nova pasta de campanha](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[Glossário de atalhos de teclado](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -1122,7 +1125,7 @@ ht-degree: 96%
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
