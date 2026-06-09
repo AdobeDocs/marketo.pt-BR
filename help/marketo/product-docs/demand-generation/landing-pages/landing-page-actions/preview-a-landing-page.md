@@ -7,10 +7,10 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+source-git-commit: c4c2273fffb84f37c682e730f4fc27009ebca26d
 workflow-type: tm+mt
-source-wordcount: 149
-ht-degree: 8%
+source-wordcount: 179
+ht-degree: 4%
 
 ---
 
@@ -18,38 +18,38 @@ ht-degree: 8%
 
 Visualize sua landing page para ver sua aparência antes de ativá-la.
 
-## Pré-visualizar uma página de destino {#preview-a-landing-page-1}
+>[!IMPORTANT]
+>
+>Algumas metatags personalizadas não têm suporte no modo de visualização (como a diretiva de redirecionamento `<meta http-equiv="refresh" ...>`), pois podem violar a Política de Segurança de Conteúdo estabelecida para manter a Marketo Engage segura. É possível visualizar as páginas de aterrissagem com essas marcas gerando a URL de visualização (**Ações de visualização** > **Gerar URL de Visualização**) e colando-a em uma nova janela do navegador.
 
-1. Selecione uma página de aterrissagem e clique em **[!UICONTROL Visualizar página]**.
+## Pré-visualizar uma página aprovada {#preview-approved-page}
 
-   ![](assets/image2014-9-16-16-3a21-3a10.png)
+1. Selecione a página de aterrissagem desejada e clique em **[!UICONTROL Visualizar]**.
 
-   >[!NOTE]
-   >
-   >O rascunho é a versão em que você está trabalhando, não a versão em tempo real que os clientes veem.
+   ![](assets/preview-a-landing-page-1.png)
 
-1. Você também pode clicar com o botão direito do mouse na sua página de aterrissagem e selecionar **[!UICONTROL Visualizar]**.
+Você também pode clicar com o botão direito do mouse na sua página de aterrissagem e selecionar **[!UICONTROL Visualizar]**.
 
-   ![](assets/image2014-9-17-10-3a9-3a49.png)
+## Visualizar um rascunho {#preview-a-draft}
 
-## Visualizar um rascunho de página de aterrissagem {#preview-a-landing-page-draft}
+1. Selecione a página de aterrissagem desejada e clique em **[!UICONTROL Visualizar rascunho]**.
 
-1. Clique com o botão direito em uma página de aterrissagem aprovada que tenha uma versão de rascunho e clique em **[!UICONTROL Visualizar rascunho]**.
+   ![](assets/preview-a-landing-page-2.png)
 
-   ![](assets/image2014-9-17-10-3a9-3a56.png)
+>[!NOTE]
+>
+>O rascunho é a versão em que você está trabalhando, não a versão em tempo real que os clientes veem.
 
-## Visualizar um rascunho de página de aterrissagem ao editar {#preview-a-landing-page-draft-while-editing}
+## Visualizar um rascunho de página de aterrissagem ao editar {#preview-a-draft-while-editing}
 
-1. Selecione uma página de aterrissagem e clique em **[!UICONTROL Editar rascunho]**.
+1. Selecione a página de aterrissagem desejada e clique em **[!UICONTROL Editar rascunho]**.
 
-   ![](assets/image2014-9-17-10-3a10-3a4.png)
+   ![](assets/preview-a-landing-page-3.png)
 
-1. Em qualquer momento durante seu trabalho no editor de páginas de aterrissagem, você pode clicar em **[!UICONTROL Visualizar Rascunho]**.
+1. No editor de páginas de aterrissagem, clique em **[!UICONTROL Visualizar rascunho]**.
 
-   ![](assets/image2015-5-21-15-3a48-3a59.png)
+   ![](assets/preview-a-landing-page-4.png)
 
-1. Você pode retornar rapidamente à edição clicando em **[!UICONTROL Editar rascunho]**.
+1. Retorne à edição clicando em **[!UICONTROL Editar rascunho]**.
 
-   ![](assets/image2014-9-17-10-3a10-3a20.png)
-
-Agora você sabe como visualizar páginas de aterrissagem.
+   ![](assets/preview-a-landing-page-5.png)
