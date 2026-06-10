@@ -1,16 +1,16 @@
 ---
 description: Procure padrões reais de solicitação para o CX Enterprise Co-worker, organizados por caso de uso em campanhas de aquisição, envolvimento, eventos, conversão e retenção.
 title: Casos de uso
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
 
 # Casos de uso {#use-cases}
 
-Abaixo estão os padrões de solicitação reais que os profissionais de marketing de ciclo de vida e crescimento estão usando no CX Enterprise Co-worker atualmente. Cada uma é criada para ser copiada, trocada com seu próprio público-alvo e detalhes da marca e refinada na conversa.
+Abaixo estão os padrões de solicitação reais que os profissionais de marketing de ciclo de vida e crescimento estão usando no CX Enterprise Co-worker. Cada uma é criada para ser copiada, trocada com seu próprio público-alvo e detalhes da marca e refinada na conversa.
 
 ## Como usar
 
