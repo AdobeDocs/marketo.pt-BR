@@ -1,9 +1,9 @@
 ---
-description: A definir.
+description: Um guia passo a passo para criar uma campanha de e-mail no CX Enterprise Co-worker, desde escrever prompts até revisar e exportar sua campanha.
 title: Criar e gerar campanhas de email
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
@@ -73,10 +73,10 @@ Exemplo:
 
 ## Etapa 4: adicionar um resumo e materiais de referência
 
-&lbrack;PARA KEITH: Explique como anexar documentos de referência de marca breves ou outro contexto. Capa: - Tipos de arquivo compatíveis. - Como o CX Enterprise Co-Worker usa essas informações (extraídas para o contexto do prompt, aplicadas à geração de conteúdo etc.). - Limites de tamanho de arquivo, se houver
+[PARA KEITH: Explique como anexar documentos de referência de marca breves ou outro contexto. Capa: - Tipos de arquivo compatíveis. - Como o CX Enterprise Co-Worker usa essas informações (extraídas para o contexto do prompt, aplicadas à geração de conteúdo etc.). - Limites de tamanho de arquivo, se houver
 
-Aqui está um mergulho profundo da minha sessão no summit no qual abordo isso: https://business.adobe.com/br/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitações - Eu posso conectá-lo com o engg - Neha Pullabhotla, que será capaz de nos ajudar sobre as especificidades aqui. &rbrack;
+Aqui está um mergulho profundo da minha sessão no summit no qual abordo isso: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Limitações - Eu posso conectá-lo com o engg - Neha Pullabhotla, que será capaz de nos ajudar sobre as especificidades aqui. ]
 
 [CAPTURA DE TELA: interface do anexo de resumo/referência]
 
@@ -133,11 +133,11 @@ Quando estiver satisfeito com a campanha, você terá algumas opções:
 
 ## Perguntas comuns
 
-&lbrack;PARA KEITH: 4-6 FAQs baseadas no feedback inicial do usuário. Iniciantes sugeridos - para discutir com nossa equipe de inglês:
+[PARA KEITH: 4-6 FAQs baseadas no feedback inicial do usuário. Iniciantes sugeridos - para discutir com nossa equipe de inglês:
 * &quot;Por que a primeira resposta demora tanto?
 * &quot;E se o resultado do CX Enterprise Co-worker não estiver certo?&quot;
 * &quot;Posso editar e-mails diretamente ou apenas via chat?&quot;
 * &quot;Como salvar uma campanha sem lançá-la?&quot;
 * &quot;E se o CSV do meu público-alvo tiver erros?&quot;
 * &quot;Posso duplicar ou remixar uma campanha?&quot;
-* &quot;Como faço para compartilhar um rascunho de campanha com um colega de equipe para análise?&quot;&rbrack;
+* &quot;Como faço para compartilhar um rascunho de campanha com um colega de equipe para análise?&quot;]
