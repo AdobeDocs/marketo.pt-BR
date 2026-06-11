@@ -1,9 +1,9 @@
 ---
 description: Um guia passo a passo para criar uma campanha de e-mail no CX Enterprise Co-worker, desde escrever prompts até revisar e exportar sua campanha.
 title: Criar e gerar campanhas de email
-source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
+source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
 workflow-type: tm+mt
-source-wordcount: '1179'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ Na home page, você tem três maneiras de começar:
 
 [CAPTURA DE TELA: Página inicial com barra de prompt, linha de modelo e opção de &quot;prompt do help me&quot; realçada]
 
+![](assets/generate-email-campaigns-.png)
+
 [FOR KEITH: breve descrição de cada opção e quando usá-la. Recomende modelos para novatos, solicitações de forma livre para profissionais de marketing que sabem o que desejam e &quot;ajude-me a solicitar&quot; para qualquer pessoa entre eles.]
 
 ## Etapa 2: Escreva o prompt
@@ -61,11 +63,15 @@ Exemplo:
 
 [CAPTURA DE TELA: Barra de seleção com exemplo de prompt digitado em]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Etapa 3: Fazer upload do público
 
 [FOR KEITH: Apresentação do carregamento do CSV. Capa: - Onde o botão de upload está na interface. - Colunas necessárias e expectativas de formato. - Campos de personalização que o CX Enterprise Co-worker pode usar (nome, data do último pedido, categoria do produto etc.). - Link para CSV de amostra. - O que acontece se os dados estiverem confusos ou se os campos estiverem ausentes.]
 
 [CAPTURA DE TELA: Fluxo de carregamento CSV]
+
+![](assets/generate-email-campaigns-.png)
 
 >[!TIP]
 >
@@ -73,12 +79,14 @@ Exemplo:
 
 ## Etapa 4: adicionar um resumo e materiais de referência
 
-&lbrack;PARA KEITH: Explique como anexar documentos de referência de marca breves ou outro contexto. Capa: - Tipos de arquivo compatíveis. - Como o CX Enterprise Co-Worker usa essas informações (extraídas para o contexto do prompt, aplicadas à geração de conteúdo etc.). - Limites de tamanho de arquivo, se houver
+[PARA KEITH: Explique como anexar documentos de referência de marca breves ou outro contexto. Capa: - Tipos de arquivo compatíveis. - Como o CX Enterprise Co-Worker usa essas informações (extraídas para o contexto do prompt, aplicadas à geração de conteúdo etc.). - Limites de tamanho de arquivo, se houver
 
-Aqui está um mergulho profundo da minha sessão no summit no qual abordo isso: https://business.adobe.com/br/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitações - Eu posso conectá-lo com o engg - Neha Pullabhotla, que será capaz de nos ajudar sobre as especificidades aqui. &rbrack;
+Aqui está um mergulho profundo da minha sessão no summit no qual abordo isso: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Limitações - Eu posso conectá-lo com o engg - Neha Pullabhotla, que será capaz de nos ajudar sobre as especificidades aqui. ]
 
 [CAPTURA DE TELA: interface do anexo de resumo/referência]
+
+![](assets/generate-email-campaigns-.png)
 
 ## Etapa 5: gerar a campanha
 
@@ -94,6 +102,8 @@ Clique em **Gerar campanha**. O CX Enterprise Co-worker irá:
 
 [CAPTURA DE TELA: quadro de campanha gerado com plano, jornada e conteúdo visíveis]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Etapa 6: revisar e refinar
 
 A interface conversacional torna o refinamento simples. Para fazer alterações, entre em contato com o CX Enterprise Co-worker:
@@ -108,6 +118,8 @@ A interface conversacional torna o refinamento simples. Para fazer alterações,
 
 [CAPTURA DE TELA: Refinamento de conversa em ação — mostrar um email antes e depois de uma solicitação de chat]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Etapa 7: enviar um email de prova
 
 Antes de iniciar, envie a campanha para você mesmo ou para um membro de sua equipe para analisar em uma caixa de entrada real.
@@ -116,12 +128,15 @@ Antes de iniciar, envie a campanha para você mesmo ou para um membro de sua equ
 
 [CAPTURA DE TELA: enviar fluxo de prova]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Etapa 8: iniciar ou exportar
 
 Quando estiver satisfeito com a campanha, você terá algumas opções:
 
->[!NOTE]
->O Launch não está disponível no momento no lançamento, mas será ativado em até duas semanas a partir do lançamento inicial, enquanto aguarda a autorização legal.
+>[!AVAILABILITY]
+>
+>O Launch não está disponível na versão inicial, mas está planejado para ser ativado até o final de junho. Verifique aqui se há atualizações.
 
 * Inicie a campanha.
 * Exportar emails individuais como HTML.
@@ -131,13 +146,15 @@ Quando estiver satisfeito com a campanha, você terá algumas opções:
 
 [CAPTURA DE TELA: opções de inicialização/exportação]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Perguntas comuns
 
-&lbrack;PARA KEITH: 4-6 FAQs baseadas no feedback inicial do usuário. Iniciantes sugeridos - para discutir com nossa equipe de inglês:
+[PARA KEITH: 4-6 FAQs baseadas no feedback inicial do usuário. Iniciantes sugeridos - para discutir com nossa equipe de inglês:
 * &quot;Por que a primeira resposta demora tanto?
 * &quot;E se o resultado do CX Enterprise Co-worker não estiver certo?&quot;
 * &quot;Posso editar e-mails diretamente ou apenas via chat?&quot;
 * &quot;Como salvar uma campanha sem lançá-la?&quot;
 * &quot;E se o CSV do meu público-alvo tiver erros?&quot;
 * &quot;Posso duplicar ou remixar uma campanha?&quot;
-* &quot;Como faço para compartilhar um rascunho de campanha com um colega de equipe para análise?&quot;&rbrack;
+* &quot;Como faço para compartilhar um rascunho de campanha com um colega de equipe para análise?&quot;]
