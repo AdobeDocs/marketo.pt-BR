@@ -1,9 +1,9 @@
 ---
 description: Um guia passo a passo para criar uma campanha de e-mail no CX Enterprise Co-worker, desde escrever prompts até revisar e exportar sua campanha.
 title: Criar e gerar campanhas de email
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Saiba como criar e revisar campanhas de email completas em minutos.
 
 Verifique se você tem:
 
-* Uma conta ativa do CX Enterprise Co-worker ([inscreva-se aqui](https://coworker-essentials.experience.adobe.com/) se você ainda não tiver uma).
+* Uma conta ativa do CX Enterprise Co-worker ([inscreva-se aqui](https://coworker-essentials.experience.adobe.com/){target="_blank"} se você ainda não tiver uma).
 
 * Sua marca foi configurada em **Seus itens** > **Marcas**.
 
@@ -24,27 +24,29 @@ Verifique se você tem:
 
 * Um CSV de público-alvo pronto para upload.
 
-* Uma ideia clara do objetivo da campanha (por exemplo, &quot;conquistar clientes antigos&quot;, &quot;convidar usuários de avaliação para um webinário&quot;).
-
->[!TIP]
->
->Se você nunca escreveu prompts para campanhas de marketing, reserve dois minutos para ignorar _Solicitação do CX Enterprise Co-worker: práticas recomendadas_ antes de começar.
+* Uma ideia clara do objetivo da campanha (por exemplo, &quot;conquistar clientes antigos&quot; ou &quot;convidar usuários de avaliação para um webinário&quot;).
 
 ## Etapa 1: iniciar um novo chat
 
 Na home page, você tem três maneiras de começar:
 
-* Digite um prompt na barra de prompts central.
-* Escolha um template de campanha pronto na seção de modelos abaixo da barra de prompts.
-* Use a opção &quot;help me prompt&quot; na lista suspensa na barra de prompts para que o CX Enterprise Coworker o oriente durante a escrita de seu prompt.
+**Opção 1**: digite um prompt na barra de prompts central.
+
+_Quando usar: Quando você souber exatamente o que deseja._
+
+Opção dois: escolha um modelo pronto na seção **Modelos de campanha** abaixo da barra de prompts.
+
+_Quando usar: quando você não tem certeza de onde começar._
+
+Opção três: use a opção &quot;Ajude-me a solicitar&quot; no menu suspenso na barra de solicitações para que o CX Enterprise Co-worker o oriente durante a escrita do seu prompt.
+
+_Quando usar: quando você tiver uma ideia do que deseja, mas quiser obter ajuda._
 
 [CAPTURA DE TELA: Página inicial com barra de prompt, linha de modelo e opção de &quot;prompt do help me&quot; realçada]
 
 ![](assets/generate-email-campaigns-.png)
 
-[FOR KEITH: breve descrição de cada opção e quando usá-la. Recomende modelos para novatos, solicitações de forma livre para profissionais de marketing que sabem o que desejam e &quot;ajude-me a solicitar&quot; para qualquer pessoa entre eles.]
-
-## Etapa 2: Escreva o prompt
+## Etapa 2: criar seu prompt
 
 Um forte prompt do CX Enterprise Co-worker inclui:
 
@@ -55,11 +57,13 @@ Um forte prompt do CX Enterprise Co-worker inclui:
 
 Exemplo:
 
-```
-"Create a win-back email series for customers who bought last year but haven't returned. Use the CSV I uploaded. Include 2–3 emails that feel seasonal and remind them to shop again."
-```
+<pre style="white-space: pre-wrap;">
+"Crie uma série de emails de retorno para clientes que compraram no ano passado, mas não devolveram. Use o CSV que foi carregado. Inclua de 2 a 3 emails que pareçam sazonais e lembre-os de fazer compras novamente."
+</pre>
 
-[FOR KEITH: pode adicionar mais 2-3 exemplos de prompt abrangendo B2B e B2C para fornecer variedade. Extraia os Casos de uso do nosso documento de coleção para fins de consistência.]
+>[!TIP]
+>
+>Para obter mais exemplos, consulte o artigo _Casos de uso_.
 
 [CAPTURA DE TELA: Barra de seleção com exemplo de prompt digitado em]
 
@@ -116,7 +120,7 @@ A interface conversacional torna o refinamento simples. Para fazer alterações,
 
 [FOR KEITH: aborde como fazer alterações via chat e edição direta. Explicar como os artefatos são atualizados no local. Não mencione a capacidade de adicionar mais nós ao workflow por meio do editor, nem o controle de versão existe no momento. Para obter melhores resultados, também recomendamos que solicitem quaisquer alterações em seu fluxo de trabalho geral logo no início, quando seu plano for criado]
 
-[CAPTURA DE TELA: Refinamento de conversa em ação — mostrar um email antes e depois de uma solicitação de chat]
+[CAPTURA DE TELA: Refinamento de conversa em ação - mostrar um email antes e depois de uma solicitação de chat]
 
 ![](assets/generate-email-campaigns-.png)
 
