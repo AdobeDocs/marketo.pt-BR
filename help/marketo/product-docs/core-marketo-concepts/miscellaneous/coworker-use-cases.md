@@ -1,7 +1,8 @@
 ---
 description: Procure padrões reais de prompt para campanhas de colegas de trabalho do Adobe CX Enterprise, organizadas por caso de uso em campanhas de aquisição, envolvimento, eventos, conversão e retenção.
 title: Casos de uso
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+hide: true
+source-git-commit: 14ea82fe7161fdc9ca6c45937a606774f0144177
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
