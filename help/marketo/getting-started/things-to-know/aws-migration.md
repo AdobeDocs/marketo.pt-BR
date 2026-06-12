@@ -4,10 +4,10 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 3%
 
 ---
 
@@ -31,11 +31,7 @@ Durante a janela de migração, todos os serviços da Marketo Engage ficarão in
 
 * **Revise e atualize as incluis na lista de permissões de IP** para logon, acesso à API, envio de email, rastreamento Web e integrações.
 
-* **Adicione os seguintes endereços IP** e mantenha seus IPs atuais como estão:
-
-   * 54.160.246.246
-   * 54.237.141.197
-   * 52.20.211.99
+* **Adicione novos endereços IP** e mantenha seus IPs atuais como estão. Consulte os endereços IP a serem adicionados através da [tabela abaixo](#ip-addresses).
 
 ## Impactos esperados do serviço
 
@@ -44,17 +40,19 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 * **As integrações de CRM e os serviços do LaunchPoint** serão desabilitados, mas serão retomados automaticamente depois.
 * **As páginas de aterrissagem, os formulários e a coleção de dados** não estarão disponíveis, e uma mensagem de manutenção será exibida.
 
+## Identificar o data center/pod {#identify}
+
+Antes de examinar as tabelas abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
+
 ## Cronograma {#schedule}
 
 Novas datas e informações de data centers/pod são adicionadas periodicamente, portanto, verifique aqui novamente para obter detalhes.
-
-Antes de examinar a tabela abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
 
 <table>
  <tbody>
   <tr>
    <th style="width:50%">Data</th>
-   <th style="width:20%">Pod</th>
+   <th style="width:20%">Data Center/Pod</th>
    <th style="width:30%">Hora</th>
   </tr>
   <tr>
@@ -76,9 +74,34 @@ Antes de examinar a tabela abaixo, [saiba como identificar](/help/marketo/gettin
    <td>17:00 PST<br>
    18h00 PST</td>
   </tr>
-  &lt;/body>
+  </body>
+  </table>
+
+## Endereços IP a serem adicionados {#ip-addresses}
+
+Com base em seu data center, trabalhe com seu departamento de TI para adicionar os respectivos endereços IP.
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Centro de dados</th>
+   <th style="width:75%">Endereços IP</th>
+  </tr>
+  <tr>
+   <td>AB</td>
+   <td>54.160.246.246<br>
+   54.237.141.197<br>
+   52.20.211.99</td>
+  </tr>
+  <tr>
+   <td>NLD</td>
+   <td>34.247.24.245<br>
+18.200.201.81<br>
+54.220.138.65</td>
+  </tr>
+  </body>
   </table>
 
 ## Atualizações e suporte
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support).
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support).
