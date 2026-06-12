@@ -1,28 +1,28 @@
 ---
-description: Um guia passo a passo para criar uma campanha de e-mail no CX Enterprise Co-worker, desde escrever prompts até revisar e exportar sua campanha.
+description: Um guia passo a passo para gerar uma campanha de e-mail nas Campanhas de colegas de trabalho corporativas do Adobe CX, desde escrever prompts até revisar e exportar sua campanha.
 title: Criar uma campanha de email
-source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
 
 # Criar uma campanha de email {#create-an-email-campaign}
 
-Saiba como criar e revisar campanhas de email completas em minutos.
+Saiba como gerar e revisar campanhas de email completas em minutos.
 
 >[!IMPORTANT]
 >
->No momento, só é possível criar campanhas, mas não enviá-las (iniciá-las). A funcionalidade do Launch será lançada em breve.
+>Nesse momento, você só pode gerar campanhas. Não é possível enviá-las (iniciá-las) ainda. A funcionalidade do Launch será lançada em breve.
 
 ## Antes de começar
 
 Verifique se você tem:
 
-* Uma conta ativa do CX Enterprise Co-worker ([inscreva-se aqui](https://coworker-essentials.experience.adobe.com/){target="_blank"} se você ainda não tiver uma).
+* Uma conta ativa de Campanhas do Adobe CX Enterprise Co-worker ([inscreva-se aqui](https://coworker-essentials.experience.adobe.com/){target="_blank"} se você ainda não tiver uma conta).
 
-* Sua marca foi configurada em **Seus itens** > **Marcas**.
+* Sua marca adicionada em **Seus itens** > **Marcas**.
 
 * (Opcional, mas recomendado) Um modelo de email do HTML carregado em **Seus itens** > **Modelos de email**.
 
@@ -42,7 +42,7 @@ _Quando usar: Quando você souber exatamente o que deseja._
 
 _Quando usar: quando você não tem certeza do que deseja._
 
-**Opção três**: use a opção &quot;Ajude-me a avisar&quot; na lista suspensa na barra de prompts para que o CX Enterprise Coworker o oriente durante a escrita do prompt.
+**Opção três**: use a opção &quot;Ajude-me a avisar&quot; na lista suspensa na barra de prompts para que as Campanhas do Colaborador o orientem durante a escrita do seu prompt.
 
 _Quando usar: quando você tiver uma ideia do que deseja, mas quiser alguma ajuda (ou use &quot;Surpreenda-me&quot; para se surpreender)._
 
@@ -50,7 +50,7 @@ _Quando usar: quando você tiver uma ideia do que deseja, mas quiser alguma ajud
 
 ## Etapa 2: criar seu prompt
 
-Um forte prompt do CX Enterprise Co-worker inclui:
+Um forte prompt do Co-worker Campaigns inclui:
 
 * A meta da campanha (o que você está tentando alcançar).
 * O público-alvo (para quem são ou de onde vêm os dados do público-alvo).
@@ -67,11 +67,11 @@ Exemplo:
 
 >[!NOTE]
 >
->Se você já tiver um Resumo da campanha, faça upload dele junto com seu prompt como contexto adicional para o plano criado para você.
+>Se você já tiver um resumo da campanha, faça upload dele junto com o prompt como contexto adicional para o plano que ele gerará para você.
 
 ![Digitando seu próprio prompt](assets/create-an-email-campaign-2.png)
 
-Quando o prompt estiver pronto, clique em **Gerar campanha**. O CX Enterprise Co-worker irá então:
+Quando o prompt estiver pronto, clique em **Gerar campanha**. As Campanhas de colegas de trabalho irão:
 
 * Gerar um plano de campanha estruturado.
 * Pergunte pelo seu público-alvo, que também será usado para personalização de conteúdo.
@@ -81,7 +81,7 @@ Quando o prompt estiver pronto, clique em **Gerar campanha**. O CX Enterprise Co
 
 ## Etapa 3: Fazer upload do público
 
-Os públicos-alvo são carregados por CSV. Todos os públicos-alvo são específicos para suas respectivas campanhas.
+Os públicos-alvo são carregados por CSV. Todos os públicos-alvo são específicos para suas respectivas campanhas (eles não são armazenados em nenhum outro lugar do seu ambiente no momento).
 
 1. Depois de enviar seu prompt, revise as tarefas que o Co-worker executará e clique em **Compilação**.
 
@@ -91,15 +91,13 @@ Os públicos-alvo são carregados por CSV. Todos os públicos-alvo são específ
 
    >[!NOTE]
    >
-   >* Endereço de email é um campo obrigatório, nome e outros campos que podem ser usados para personalização são recomendados.
-   >
-   >* Campos de personalização que o CX Enterprise Co-worker pode usar: nome, data do último pedido, categoria do produto.
+   >* Endereço de email é um campo obrigatório, nome, última data de compra e qualquer outro campo que possa ser usado para personalização é recomendado.
 
 1. Importe seu arquivo CSV.
 
-   >[!TIP]
+   >[!IMPORTANT]
    >
-   >Exclua todos os contatos para os quais você não deseja enviar um email (usuários que cancelaram a inscrição, endereços internos, contas de teste) antes de fazer upload. Embora progressivamente possamos habilitar a funcionalidade para &#39;excluir&#39; usuários específicos ou &#39;adicionar atributos&#39; durante o curso da avaliação, ela não estará disponível imediatamente a partir da data de lançamento.
+   >Exclua todos os contatos para os quais você não deseja enviar um email (usuários que cancelaram a inscrição, endereços internos, contas de teste) antes de fazer upload. Embora progressivamente possamos habilitar a funcionalidade para excluir usuários específicos ou adicionar atributos durante o curso da avaliação, ela não está imediatamente disponível a partir da data de lançamento.
 
 ## Etapa 4: revisar e refinar o Campaign Assets
 
@@ -113,12 +111,11 @@ Há duas maneiras de atualizar seu conteúdo.
 
 -ou-
 
-* Use a interface conversacional para fazer alterações conversando diretamente com o CX Enterprise Co-worker. Alguns exemplos incluem:
+* Use a interface conversacional para fazer alterações conversando diretamente com Campanhas do colega de trabalho. Alguns exemplos incluem:
 
    * &quot;Torne a linha de assunto mais urgente.&quot;
    * &quot;Encurte a cópia do corpo.&quot;
    * &quot;Torne a call to action mais forte.&quot;
-   * &quot;Altere a espera de 3 dias para 5 dias.&quot;
 
 Você também pode usar os botões AI para ajudar a refinar o Assunto ou o Pré-cabeçalho.
 
@@ -142,11 +139,11 @@ A funcionalidade do Launch (envio da campanha de email) será adicionada em brev
 
 **Por que a primeira resposta demora tanto?**
 
-Isso está gerando uma campanha inteira para você, incluindo a estratégia, o público-alvo necessário, o fluxo de trabalho etc. (escute a gravação da marca 1:15ish)
+Isso está gerando uma campanha inteira para você, incluindo a estratégia, o público-alvo necessário, o fluxo de trabalho etc. O tempo médio da primeira resposta com seu conteúdo gerado normalmente é de cerca de um minuto.
 
-**O que devo fazer se a saída do CX Enterprise Coworker não estiver correta?**
+**O que devo fazer se o resultado das Campanhas entre Colegas não estiver totalmente correto?**
 
-Use o botão de feedback no canto superior direito e avise-nos para que possamos melhorar a plataforma.
+Clique no ícone de feedback no cabeçalho e informe-nos para que possamos melhorar a plataforma.
 
 **É possível editar emails diretamente ou somente via chat?**
 

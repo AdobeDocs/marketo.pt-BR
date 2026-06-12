@@ -1,20 +1,20 @@
 ---
-description: Procure padrões reais de solicitação para o CX Enterprise Co-worker, organizados por caso de uso em campanhas de aquisição, envolvimento, eventos, conversão e retenção.
+description: Procure padrões reais de prompt para campanhas de colegas de trabalho do Adobe CX Enterprise, organizadas por caso de uso em campanhas de aquisição, envolvimento, eventos, conversão e retenção.
 title: Casos de uso
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
 
 # Casos de uso {#use-cases}
 
-Abaixo estão os padrões de solicitação reais que os profissionais de marketing de ciclo de vida e crescimento estão usando no CX Enterprise Co-worker. Cada uma é criada para ser copiada, trocada com seu próprio público-alvo e detalhes da marca e refinada na conversa.
+Abaixo estão os padrões de solicitação reais que os profissionais de marketing de ciclo de vida e crescimento estão usando nas Campanhas de Colaborador Corporativo do Adobe CX. Cada uma é criada para ser copiada, trocada com seu próprio público-alvo e detalhes da marca e refinada na conversa.
 
 ## Como usar
 
-Escolha um caso de uso que se ajuste ao seu objetivo, copie o prompt de amostra e cole-o no CX Enterprise Co-worker, substitua os espaços reservados por suas especificidades e refine a saída via chat. Para o passo a passo completo, vá para Criar e gerar campanhas.
+Escolha um caso de uso que se encaixe em sua meta, copie o prompt de amostra e cole-o em Campanhas do colega de trabalho, substitua os espaços reservados por suas especificidades e refine a saída via chat. Para o passo a passo completo, vá para Criar e gerar campanhas.
 
 ## Aquisição e integração
 
@@ -24,7 +24,7 @@ Dê as boas-vindas a novos clientes, membros ou contas e configure-os para envol
 
 Melhor para: Ativação de conta corporativa, novas inscrições SaaS, entregas pós-venda.
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### Integração de novo membro, B2C
 
@@ -52,7 +52,7 @@ Mantenha seu público informado, educado e conectado entre os principais momento
 
 Melhor para: retenção do cliente, percepção do produto, liderança de pensamento.
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### Informativo mensal, B2C
 
@@ -142,7 +142,7 @@ Conquiste públicos que estão à deriva e reative segmentos dormentes.
 
 Melhor para: clientes obsoletos, compradores inativos, reativação sazonal.
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### Reengajamento de fãs cancelado, B2C (esportes e entretenimento)
 
@@ -158,4 +158,4 @@ Melhor para: qualquer público-alvo que ficou quieto.
 
 ## Pronto para criar?
 
-Escolha um caso de uso acima, visite _Criar e gerar campanhas_ para o passo a passo completo e experimente-o.
+Escolha um caso de uso acima, visite _Criar uma campanha por email_ para o passo a passo completo e experimente-o.
