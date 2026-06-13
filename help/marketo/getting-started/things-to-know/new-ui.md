@@ -3,7 +3,7 @@ description: Nova interface do usuário do Marketo Engage - Documentação do Ma
 title: Nova interface do Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 1%
@@ -44,7 +44,7 @@ CAPTURA DE TELA
 
 ## Interface do usuário nova e clássica {#new-and-classic}
 
-Para alternar para a nova interface do usuário, clique no menu suspenso de temas no canto superior direito e selecione **Novo (Beta)**.
+Para alternar para a nova interface, clique no menu suspenso de temas no canto superior direito e selecione **Novo (Beta)**.
 
 CAPTURA DE TELA
 
