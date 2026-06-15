@@ -3,16 +3,16 @@ description: Nova interface do usuário do Marketo Engage - Documentação do Ma
 title: Nova interface do Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: ee378219a9b294ae0c64620d0c0b306f73665f0d
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '235'
 ht-degree: 1%
 
 ---
 
 # Nova interface do Marketo Engage {#new-ui}
 
-Obrigado por participar da Nova interface do usuário beta do Marketo Engage. Essa atualização moderniza o estilo do Marketo Engage e melhora a capacidade de resposta, tudo sem alterar a funcionalidade. A nova interface é acessada usando um seletor de tema que aparece no canto superior direito da maioria das páginas no Marketo Engage.
+Obrigado por participar da Nova interface do usuário beta do Marketo Engage. Essa atualização moderniza o estilo do Marketo Engage e melhora a capacidade de resposta, sem alterar a funcionalidade. A nova interface é acessada usando um seletor de tema que aparece no canto superior direito da maioria das páginas no Marketo Engage.
 
 ## Antes de começar {#before-starting}
 
@@ -28,30 +28,30 @@ Os administradores podem conceder permissão de _Acesso à Nova Interface do Usu
 
 1. Na área **Administrador**, selecione **Usuários e funções**.
 
-CAPTURA DE TELA
+   ![](assets/new-ui-1.png)
 
 1. Clique na guia **Funções**. Selecione a função desejada e clique em **Editar Função**.
 
-CAPTURA DE TELA
+   ![](assets/new-ui-2.png)
 
 >[!NOTE]
 >
 >Você também pode criar uma nova função.
 
-1. Clique na caixa de seleção **Acessar novo tema** e clique em **Salvar**.
+1. Marque a caixa de seleção **Acessar novo tema** e clique em **Salvar**.
 
-CAPTURA DE TELA
+   ![](assets/new-ui-3.png)
 
 ## Interface do usuário nova e clássica {#new-and-classic}
 
-Para alternar para a nova interface, clique no menu suspenso de temas no canto superior direito e selecione **Novo (Beta)**.
+Para alternar para a nova interface, clique no menu suspenso de interface no canto superior direito e selecione **Novo (Beta)**.
 
-CAPTURA DE TELA
+![](assets/new-ui-4.png)
 
 Se você precisar voltar por algum motivo, clique no menu suspenso de temas novamente e selecione **Clássico**.
 
 ## Envio de feedback {#feedback}
 
-Seus comentários são bem-vindos. Se tiver problemas ao acessar ou usar a funcionalidade ao explorar a Nova interface do usuário, ou se tiver sugestões ou preocupações, clique no botão Feedback de Beta da interface do usuário no canto superior direito.
+Seus comentários são bem-vindos. Se tiver problemas ao acessar ou usar a funcionalidade ao explorar a nova interface do usuário, ou se tiver sugestões ou preocupações, clique no botão Feedback de Beta da interface do usuário no canto superior direito.
 
-CAPTURA DE TELA
+![](assets/new-ui-5.png)
