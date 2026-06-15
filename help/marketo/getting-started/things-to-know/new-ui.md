@@ -3,7 +3,7 @@ description: Nova interface do usuário do Marketo Engage - Documentação do Ma
 title: Nova interface do Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: 59d851d919aa28f41d49e26381d1703017076b7b
+source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 1%
@@ -52,6 +52,6 @@ Se precisar voltar por algum motivo, clique no menu suspenso da interface novame
 
 ## Envio de feedback {#feedback}
 
-Seus comentários são bem-vindos. Se tiver problemas ao acessar ou usar a funcionalidade ao explorar a nova interface do usuário, ou se tiver sugestões ou preocupações, clique no botão Feedback de Beta da interface do usuário no canto superior direito.
+Seus comentários são bem-vindos. Se tiver problemas ao acessar ou usar a funcionalidade ao explorar a nova interface do usuário, ou se tiver sugestões ou preocupações, clique no botão **Comentários sobre a Interface do Usuário do Beta** no canto superior direito.
 
 ![](assets/new-ui-5.png)
