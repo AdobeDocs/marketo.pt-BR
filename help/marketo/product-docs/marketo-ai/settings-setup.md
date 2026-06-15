@@ -2,9 +2,9 @@
 description: Saiba como habilitar permissões de IA do Marketo, definir regras organizacionais e gerenciar configurações como integrações e notificações.
 title: Configurações e configuração
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '562'
 ht-degree: 3%
 
 ---
@@ -23,11 +23,11 @@ Saiba como habilitar permissões e usar a área Configurações para exibir deta
 
 ## Permissões e funções {#permission-and-role}
 
-Há uma permissão de _Compilação de Acesso com IA_ e uma função de _Compilação com Usuário de IA_, dando aos administradores maior controle sobre quais usuários podem acessar o recurso **Compilação com IA**. A permissão é atribuída no nível da função. A função _Build com Usuário de IA_ vem com a permissão _Build de acesso com IA_ habilitada por padrão.
+Há uma permissão _Acessar a IA do Marketo_ e uma função de _Usuário da IA do Marketo_, dando aos administradores maior controle sobre quais usuários podem acessar o recurso **IA do Marketo**. A permissão é atribuída no nível da função. A função de _Usuário da IA do Marketo_ vem com a permissão _Acessar IA do Marketo_ habilitada por padrão.
 
 >[!IMPORTANT]
 >
->A _Compilação de Acesso com a permissão AI_ não está habilitada por padrão para todas as funções. Consulte a tabela abaixo para obter detalhes.
+>A permissão _Acessar Marketo AI_ não está habilitada por padrão para todas as funções. Consulte a tabela abaixo para obter detalhes.
 
 | Função | Status padrão |
 | --- | --- |
@@ -35,12 +35,12 @@ Há uma permissão de _Compilação de Acesso com IA_ e uma função de _Compila
 | Administrador de produtos da Adobe | Habilitado |
 | Usuário de campanha de marketing | Desabilitado |
 | Usuário padrão | Indisponível |
-| Criar com usuário de IA | Habilitado |
+| Usuário da IA do Marketo | Habilitado |
 | Funções personalizadas | Desabilitado |
 
-### Permissão Acessar build com IA {#access-build-with-ai-permission}
+### Permissão Acessar Marketo AI {#access-marketo-ai-permission}
 
-Siga as etapas abaixo para habilitar a _Compilação de Acesso com IA_ para funções qualificadas que ainda não a tenham habilitada.
+Siga as etapas abaixo para habilitar o _Access Marketo AI_ para funções qualificadas que ainda não o tenham habilitado.
 
 1. Em Meu Marketo, clique em **Administrador** e depois em **Usuários e funções**.
 
@@ -50,59 +50,59 @@ Siga as etapas abaixo para habilitar a _Compilação de Acesso com IA_ para fun�
 
    ![](assets/settings-setup-2.png)
 
-1. Role para baixo e marque a caixa de seleção _Acessar compilação com IA_ e clique em **Salvar**.
+1. Role para baixo e marque a caixa de seleção _Acessar IA do Marketo_ e clique em **Salvar**.
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >Você pode usar essas mesmas etapas para remover a permissão ao **executar** marcar a caixa de seleção _Acessar compilação com IA_.
+   >Você pode usar essas mesmas etapas para remover a permissão ao **executar** marcar a caixa de seleção _Acessar Marketo AI_.
 
-### Criar com a função de usuário de IA {#build-with-ai-user-role}
+### Função de usuário da IA do Marketo {#marketo-ai-user-role}
 
-Siga estas etapas para atribuir um usuário específico à função _Criar com Usuário de IA_.
+Siga estas etapas para atribuir um usuário específico à função _Usuário da IA do Marketo_.
 
 >[!NOTE]
 >
->Esta função **somente** contém a _Compilação de Acesso com a permissão AI_.
+>Esta função **somente** contém a permissão _Acessar Marketo AI_.
 
 1. Em Meu Marketo, clique em **Administrador** e depois em **Usuários e funções**.
 
-   ![](assets/settings-setup-1.png)
+   ![](assets/settings-setup-4.png)
 
 1. Selecione o usuário desejado e clique em **Editar Usuário**.
 
-   ![](assets/settings-setup-5b.png)
+   ![](assets/settings-setup-5.png)
 
-1. Em _Funções e Espaços de Trabalho_, marque a caixa de seleção _Criar com Usuário de IA_. Se você tiver mais de um espaço de trabalho, poderá especificar quais terão acesso no menu suspenso de assinaturas **+**. Clique em **Salvar** quando terminar.
+1. Em _Funções e Espaços de Trabalho_, marque a caixa de seleção _Usuário da IA do Marketo_. Se você tiver mais de um espaço de trabalho, poderá especificar quais terão acesso no menu suspenso de assinaturas **+**. Clique em **Salvar** quando terminar.
 
-   ![](assets/settings-setup-6b.png)
+   ![](assets/settings-setup-6.png)
 
 ### Função personalizada {#custom-role}
 
-Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando a _Compilação do Access com IA_, juntamente com qualquer outra coisa que desejar, e [atribuindo essa função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
+Você também tem a opção de [criar uma nova função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizar suas permissões, adicionando o _Access Marketo AI_, juntamente com qualquer outra coisa que desejar, e [atribuindo essa função](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a usuários específicos.
 
 ## Configurações {#settings}
 
-1. Em Minha Marketo, clique no bloco **Criar com IA**.
+1. Em Meu Marketo, clique no bloco **IA do Marketo**.
 
-   ![](assets/settings-setup-4.png)
+   ![](assets/settings-setup-7.png)
 
 1. Clique no ícone de engrenagem.
 
-   ![](assets/settings-setup-5.png)
+   ![](assets/settings-setup-8.png)
 
 ### Conexão {#connection}
 
 Esta guia não contém campos editáveis. Ele mostra as informações da conta como sua Munchkin ID e Organização IMS.
 
-![](assets/settings-setup-6.png)
+![](assets/settings-setup-9.png)
 
 ### Regras organizacionais {#organizational-rules}
 
 Defina as diretrizes e restrições organizacionais que a IA do Marketo segue ao criar ou modificar ativos do Marketo Engage.
 
-![](assets/settings-setup-7.png){width="800" zoomable="yes"}
+![](assets/settings-setup-10.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
