@@ -3,9 +3,9 @@ description: Use a IA do Marketo para criar um programa do Marketo a partir de u
 title: Criar programas
 badge: Beta
 hide: true
-source-git-commit: e055590a07ef9aa7cf6ebde42f6ea9f7420d7599
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Descreva uma campanha de marketing em linguagem simples e a IA do Marketo cria a
 
 ## Como usar {#how-to-use}
 
-1. Em Minha Marketo, clique no bloco **Criar com IA**.
+1. Em Meu Marketo, clique no bloco **IA do Marketo**.
 
 1. Na janela do prompt, digite uma descrição da campanha que deseja criar. Seja tão específico ou tão geral quanto você deseja (você sempre pode refinar).
 

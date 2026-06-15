@@ -3,9 +3,9 @@ description: Use o conhecimento do produto para perguntar à Marketo AI sobre re
 title: Conhecimento do produto
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ O conhecimento do produto oferece acesso sob demanda à experiência da Marketo 
 
 ## Como usar {#how-to-use}
 
-1. Em Minha Marketo, clique no bloco **Criar com IA**.
+1. Em Meu Marketo, clique no bloco **IA do Marketo**.
 
 1. Na janela do prompt, digite a pergunta no idioma natural; nenhuma sintaxe especial é necessária.
 

@@ -3,9 +3,9 @@ description: Converse com a IA da Marketo sobre os dados de desempenho do Market
 title: Insights de superfície
 badge: Beta
 hide: true
-source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ O Surface Insights permite conversar sobre os dados de desempenho do Marketo. Fa
 
 ## Como usar {#how-to-use}
 
-1. Em Minha Marketo, clique no bloco **Criar com IA**.
+1. Em Meu Marketo, clique no bloco **IA do Marketo**.
 
 1. Na janela do prompt, faça uma pergunta sobre o desempenho. Seja específico sobre o período ou programa, se você tiver um em mente.
 
