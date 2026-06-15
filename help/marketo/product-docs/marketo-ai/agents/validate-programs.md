@@ -2,9 +2,9 @@
 description: Saiba como auditar seus programas em busca de práticas recomendadas para todos os componentes, como emails, páginas de aterrissagem, campanhas e muito mais.
 title: Validar programas
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,22 +23,22 @@ Faça auditoria de seus programas para obter as práticas recomendadas para todo
 
 ## Como usar {#how-to-use}
 
-1. Em Minha Marketo, clique no bloco **Criar com IA**.
+1. Em Meu Marketo, clique no bloco **IA do Marketo**.
 
-   ![](assets/program-qa-1.png)
+   ![](assets/validate-programs-1.png)
 
 1. Selecione o agente **Validar programas**.
 
 1. No painel direito, selecione o programa que deseja validar.
 
-   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
+   ![](assets/validate-programs-3.png){width="800" zoomable="yes"}
 
    Um resumo do programa selecionado é exibido no painel central.
 
-   ![](assets/program-qa-4.png){width="450" zoomable="yes"}
+   ![](assets/validate-programs-4.png){width="450" zoomable="yes"}
 
 1. Na janela do prompt, digite &quot;validar programa&quot; e clique em **Enviar**.
 
    O Assistente de IA fornece um Controle de qualidade do programa selecionado, mostrando o que foi aprovado e o que falhou.
 
-   ![](assets/program-qa-6.png)
+   ![](assets/validate-programs-6.png)
