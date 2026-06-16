@@ -1,11 +1,9 @@
 ---
 description: Use o conhecimento do produto para perguntar à Marketo AI sobre recursos, práticas recomendadas e instruções do Marketo Engage. As respostas estão baseadas na documentação oficial da Adobe.
 title: Conhecimento do produto
-badge: Beta
-hide: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
