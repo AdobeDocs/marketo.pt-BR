@@ -2,30 +2,10 @@
 title: 2022
 description: 2022 - Documentação do Marketo - Documentação do produto
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 6%
@@ -46,7 +26,7 @@ Os seguintes recursos estão incluídos na versão de janeiro de 2022. Verifique
 
 Os recursos a seguir serão lançados em **21 de janeiro de 2022**, com uma implantação em fases de cada recurso nas semanas seguintes (a menos que especificado de outra forma).
 
-## Experiência de última geração {#modern-ux}
+## Experiência de última geração
 
 * **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
@@ -133,7 +113,7 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 * **Aprimoramento da Filtragem de atividade de bot por email**: como aprimoramento do recurso [Filtragem de atividade de bot por email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} lançado anteriormente, agora é possível aceitar atividades de registro identificadas como bots. Em seguida, você pode filtrar e acionar ações com base em atividades identificadas como executadas por bots.
 
-## Experiência de última geração {#modern-ux}
+## Experiência de última geração
 
 * **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
@@ -215,7 +195,7 @@ Os recursos a seguir serão lançados em **6 de maio de 2022**, com uma implanta
 
 **[Cabeçalho STS para Links de Acompanhamento de Email](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: atenda às práticas recomendadas de segurança com a capacidade de aplicar cabeçalhos de Segurança de Transporte Seguro para garantir que o tráfego para links rastreados esteja sempre seguro.
 
-## Experiência de última geração {#modern-ux}
+## Experiência de última geração
 
 **Alternar alternância padrão para a experiência da próxima geração**: a alternância padrão será a nova experiência em todas as telas em que estiver disponível, facilitando a descoberta de designs atualizados e aprimoramentos de usabilidade pelos usuários.
 
@@ -336,7 +316,7 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 
 ## Experiência da próxima geração
 
-* **Marca da Adobe**: aparência e comportamento atualizados para editores e página de detalhes da pessoa com a nova marca da Adobe Experience Cloud.
+* **Marca da Adobe**: aparência e comportamento atualizados para editores e página de detalhes da pessoa com a nova marca Adobe Experience Cloud.
 
 * **Exibir a Hierarquia de Pastas da Pasta de Destino na Caixa de Diálogo de Movimentação**: a exibição da hierarquia de pastas para cada pasta facilita a movimentação de ativos e reduz a probabilidade de colocá-los na pasta errada.
 
@@ -427,7 +407,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tbody>
 </table>
 
-### Experiência da próxima geração {#modern-ux}
+### Experiência da próxima geração
 
 </br>
 
@@ -565,3 +545,4 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 * **Forms 1.0**: a descontinuação do Forms 1.0 será concluída com a versão de outubro. Os ativos do Forms 1.0 não poderão mais enviar dados para o Marketo Engage e retornarão erros se forem tentados.
 
 * **No-Script Forms**: o Forms não funcionará mais quando o Javascript estiver desabilitado no navegador. O envio do formulário exigirá que o Javascript esteja habilitado.
+
