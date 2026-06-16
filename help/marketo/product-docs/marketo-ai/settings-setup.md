@@ -2,9 +2,9 @@
 description: Saiba como habilitar permissões de IA do Marketo, definir regras organizacionais e gerenciar configurações como integrações e notificações.
 title: Configurações e configuração
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
+source-git-commit: 9cc4e828948622b8862f207865dac0f4de6c52a8
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '563'
 ht-degree: 3%
 
 ---
@@ -40,7 +40,7 @@ Há uma permissão _Acessar a IA do Marketo_ e uma função de _Usuário da IA d
 
 ### Permissão Acessar Marketo AI {#access-marketo-ai-permission}
 
-Siga as etapas abaixo para habilitar o _Access Marketo AI_ para funções qualificadas que ainda não o tenham habilitado.
+Siga as etapas abaixo para habilitar o _Access Marketo AI_ para as funções qualificadas que ainda não o tenham habilitado.
 
 1. Em Meu Marketo, clique em **Administrador** e depois em **Usuários e funções**.
 
