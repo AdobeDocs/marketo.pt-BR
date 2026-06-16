@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 6%
@@ -46,7 +46,7 @@ Os seguintes recursos estão incluídos na versão de janeiro de 2022. Verifique
 
 Os recursos a seguir serão lançados em **21 de janeiro de 2022**, com uma implantação em fases de cada recurso nas semanas seguintes (a menos que especificado de outra forma).
 
-## Experiência de última geração {#modern-ux}
+## Experiência de última geração
 
 * **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
@@ -133,7 +133,7 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 * **Aprimoramento da Filtragem de atividade de bot por email**: como aprimoramento do recurso [Filtragem de atividade de bot por email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} lançado anteriormente, agora é possível aceitar atividades de registro identificadas como bots. Em seguida, você pode filtrar e acionar ações com base em atividades identificadas como executadas por bots.
 
-## Experiência de última geração {#modern-ux}
+## Experiência de última geração
 
 * **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
@@ -215,7 +215,7 @@ Os recursos a seguir serão lançados em **6 de maio de 2022**, com uma implanta
 
 **[Cabeçalho STS para Links de Acompanhamento de Email](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: atenda às práticas recomendadas de segurança com a capacidade de aplicar cabeçalhos de Segurança de Transporte Seguro para garantir que o tráfego para links rastreados esteja sempre seguro.
 
-## Experiência de última geração {#modern-ux}
+## Experiência de última geração
 
 **Alternar alternância padrão para a experiência da próxima geração**: a alternância padrão será a nova experiência em todas as telas em que estiver disponível, facilitando a descoberta de designs atualizados e aprimoramentos de usabilidade pelos usuários.
 
@@ -336,7 +336,7 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 
 ## Experiência da próxima geração
 
-* **Marca da Adobe**: aparência e comportamento atualizados para editores e página de detalhes da pessoa com a nova marca da Adobe Experience Cloud.
+* **Marca da Adobe**: aparência e comportamento atualizados para editores e página de detalhes da pessoa com a nova marca Adobe Experience Cloud.
 
 * **Exibir a Hierarquia de Pastas da Pasta de Destino na Caixa de Diálogo de Movimentação**: a exibição da hierarquia de pastas para cada pasta facilita a movimentação de ativos e reduz a probabilidade de colocá-los na pasta errada.
 
@@ -427,7 +427,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tbody>
 </table>
 
-### Experiência da próxima geração {#modern-ux}
+### Experiência da próxima geração
 
 </br>
 
@@ -565,3 +565,4 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
 * **Forms 1.0**: a descontinuação do Forms 1.0 será concluída com a versão de outubro. Os ativos do Forms 1.0 não poderão mais enviar dados para o Marketo Engage e retornarão erros se forem tentados.
 
 * **No-Script Forms**: o Forms não funcionará mais quando o Javascript estiver desabilitado no navegador. O envio do formulário exigirá que o Javascript esteja habilitado.
+
