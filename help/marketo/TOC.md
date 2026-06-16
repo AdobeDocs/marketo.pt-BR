@@ -1126,7 +1126,7 @@ ht-degree: 96%
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
