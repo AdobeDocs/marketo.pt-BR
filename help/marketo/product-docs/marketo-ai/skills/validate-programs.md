@@ -3,7 +3,7 @@ description: Saiba como auditar seus programas em busca de práticas recomendada
 title: Validar programas
 badge: beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -43,3 +43,4 @@ Faça auditoria de seus programas para obter as práticas recomendadas para todo
    O Assistente de IA fornece um Controle de qualidade do programa selecionado, mostrando o que foi aprovado e o que falhou.
 
    ![](assets/validate-programs-6.png)
+

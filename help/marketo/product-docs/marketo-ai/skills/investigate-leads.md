@@ -2,7 +2,7 @@
 description: O agente líder de investigação responde às perguntas que os profissionais de marketing fazem com mais frequência. É mais rápido e confiável do que pesquisar manualmente registros de atividades, histórico de campanhas inteligentes e registros de pontuação.
 title: Investigar clientes em potencial
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -54,3 +54,4 @@ Descubra por que uma pessoa/cliente potencial específico não atingiu um marco 
 * A investigação de lead é somente leitura. Ele informa o que aconteceu, mas não faz alterações no registro principal ou na associação ao programa.
 * Para problemas que resultam em problemas de qualidade de dados (valores de campo ausentes, fonte de cliente potencial incorreta), a correção deve ser feita manualmente no registro de cliente potencial.
 * Se a investigação revelar um problema de lógica de campanha inteligente que afete muitos clientes potenciais, use o Controle de qualidade do programa para analisar a configuração completa do programa.
+

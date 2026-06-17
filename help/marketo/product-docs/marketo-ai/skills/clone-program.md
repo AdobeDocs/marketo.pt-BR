@@ -3,7 +3,7 @@ description: O programa Clone duplica um programa Marketo existente em uma nova 
 title: Clonar programa
 badge: Beta
 hide: true
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -29,15 +29,10 @@ O agente do programa Clone copia um programa de trabalho, incluindo campanhas in
 ## Como usar {#how-to-use}
 
 1. Em Meu Marketo, clique no bloco **IA do Marketo**.
-
 1. Na janela do prompt, digite as instruções. Por exemplo, &quot;Clone meu programa de webinário do segundo trimestre na pasta Campanhas do terceiro trimestre e chame-o de webinário de demonstração de produto do terceiro trimestre&quot;.
-
 1. A Marketo AI confirma o programa de origem, a pasta de destino e o novo nome. Revise e confirme.
-
 1. O clone é criado. A IA do Marketo confirma quando está concluída e informa onde encontrá-la.
-
 1. Abra o novo programa no Marketo e atualize o que é diferente: conteúdo de email, datas, filtros de público-alvo, tokens etc.
-
 1. Execute o agente [Controle de qualidade do programa](/help/marketo/product-docs/marketo-ai/skills/program-qa.md) antes de ativar.
 
 ## Casos de uso {#use-cases}
