@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: 654
-ht-degree: 18%
+source-wordcount: 628
+ht-degree: 19%
 
 ---
 
@@ -43,8 +43,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   <tr>
    <td><strong>IA do Marketo</strong>: utilize um conjunto de agentes criado para automatizar funções de marketing demoradas, mas importantes (dois agentes disponíveis agora e, em breve, outros).
 </td>
-   <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">solicitar acesso aqui</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/overview">Visão geral da IA do Marketo</a></td>
+   <td>Abrir beta</td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Visão geral da IA do Marketo</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,8 +53,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Servidor MCP do Marketo Engage</strong>: o servidor MCP do Marketo Engage atua como uma ponte entre o assistente de IA e o Marketo Engage. Ele expõe mais de 100 operações em formulários, programas, campanhas inteligentes, pessoas/clientes potenciais, emails, trechos, listas e pastas.</td>
-   <td>Disponibilidade limitada (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">solicitar acesso aqui</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=pt-BR">Marketo MCP Server</a></td>
+   <td>Abrir beta</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=pt-BR" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -75,7 +75,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Gerenciamento de lista de opções</strong>: agora é possível especificar os valores que podem ser usados em campos no Marketo Engage.
    </td>
    <td>Lançado</td>
-   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Gerenciamento de Lista de Separação</a></td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">Gerenciamento de Lista de Separação</a></td>
   </tr>
   <tr>
    <td> </td>
