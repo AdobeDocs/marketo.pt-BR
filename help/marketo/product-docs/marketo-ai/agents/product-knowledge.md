@@ -1,7 +1,7 @@
 ---
 description: Use o conhecimento do produto para perguntar à Marketo AI sobre recursos, práticas recomendadas e instruções do Marketo Engage. As respostas estão baseadas na documentação oficial da Adobe.
 title: Conhecimento do produto
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 # Conhecimento do produto {#product-knowledge}
 
-O conhecimento do produto oferece acesso sob demanda à experiência da Marketo sem sair da plataforma. Faça uma pergunta em linguagem simples e a IA do Marketo se baseia na documentação oficial da Adobe para respondê-la.
+O conhecimento do produto oferece acesso sob demanda à experiência da Marketo sem sair da plataforma. Faça uma pergunta em linguagem simples e a IA do Marketo se baseia na documentação oficial do Adobe para respondê-la.
 
 >[!PREREQUISITES]
 >

@@ -1,9 +1,9 @@
 ---
 description: O agente líder de investigação responde às perguntas que os profissionais de marketing fazem com mais frequência. É mais rápido e confiável do que pesquisar manualmente registros de atividades, histórico de campanhas inteligentes e registros de pontuação.
 title: Investigar clientes em potencial
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
