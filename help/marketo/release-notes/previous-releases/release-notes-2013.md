@@ -14,7 +14,7 @@ subfeature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2516
 ht-degree: 3%
@@ -429,3 +429,4 @@ Introduzimos atributos adicionais de cliente potencial e empresa na [!UICONTROL 
 ## Adaptador de Eventos [!DNL BrightTALK] Aprimorado {#enhanced-brighttalk-event-adapter}
 
 Agora é possível transferir inscritos para o Marketo do canal e evento do [!DNL BrightTALK]. Você pode usar essas informações para informar outras campanhas de marketing!
+

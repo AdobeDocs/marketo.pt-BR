@@ -25,7 +25,7 @@ topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2768
 ht-degree: 2%
@@ -387,3 +387,4 @@ Gerencie variáveis e módulos para emails no formato v2.0 usando a API REST do 
 ## [Alterações na sincronização do Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
 A integração do [!DNL Salesforce] da Marketo está evoluindo para melhorar a maneira como os campos do Marketo são sincronizados com o [!DNL Salesforce]. Agora, em vez de precisar sincronizar um grande grupo de campos que podem ou não ser necessários, você pode escolher quais campos gostaria de incluir. Consulte nossa documentação aqui para obter mais informações: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+
