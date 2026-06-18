@@ -7,10 +7,10 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
 workflow-type: tm+mt
-source-wordcount: 204
-ht-degree: 3%
+source-wordcount: 267
+ht-degree: 2%
 
 ---
 
@@ -28,9 +28,13 @@ ht-degree: 3%
 >Mesclar 3 leads (pessoas) com pontuações de 10 cada um produzirá um resultado de 1 lead (pessoa) com uma pontuação de 30.
 
 * Valores de campo conflitantes são retirados do &quot;registro vencedor&quot;. (Registro = o lead ou contato resultante)
-* Se o &quot;registro perdedor&quot; (aquele que está desaparecendo) tivesse um valor e o registro vencedor não tivesse nenhum, nós manteremos o registro perdedor. Em outras palavras, &quot;algum valor é melhor do que nenhum valor&quot;.
+* Se o &quot;registro perdedor&quot; (aquele que está desaparecendo) tiver um valor e o registro vencedor não tiver nenhum (ou for nulo), manteremos o registro perdedor. Em outras palavras, &quot;algum valor é melhor do que nenhum valor&quot;.
 * Todos os itens do log de atividades são mesclados.
 
 >[!NOTE]
 >
->Aprofundamento para obter mais informações sobre [mesclando pessoas no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>O comportamento dos campos booleanos em uma mesclagem de API mudou na versão de março de 2026. Agora, um valor Falso é tratado corretamente como tendo um valor para esse campo. Somente um valor nulo é tratado como &quot;vazio&quot; ao avaliar campos conflitantes. Veja [esta publicação da Comunidade](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=pt){target="_blank"} mais detalhes.
+
+>[!MORELIKETHIS]
+>
+>Aprofundamento para obter mais informações sobre [mesclando pessoas no Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
