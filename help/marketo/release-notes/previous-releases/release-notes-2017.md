@@ -22,7 +22,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 2364
 ht-degree: 4%
@@ -109,7 +109,7 @@ Os desenvolvedores agora têm controle adicional sobre a entrega de notificaçõ
 
 Melhore seu direcionamento com uma nova opção de filtro, &quot;Membro da lista de vibrações&quot;.
 
-## [Descontinuação do Editor de Rich Text e do Editor de Formulário 1.0 herdados](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Descontinuação do Editor de Rich Text e do Editor de Formulário 1.0 herdados](https://nation.marketo.com/docs/DOC-4315)
 
 A partir de 1º de agosto de 2017, os clientes que ainda usam o Editor de Rich Text e o Editor de formulário 1.0 herdados passarão automaticamente para a nova experiência.
 
@@ -145,7 +145,7 @@ Foram-se os dias de limpeza de modelos desatualizados em [!DNL Sales Insight]. D
 
 Transfira facilmente grandes quantidades de dados pessoais e de atividades do Marketo para seus sistemas externos.
 
-## Aprimoramentos de ABM {#abm-enhancements}
+## Aprimoramentos de ABM
 
 **[Campos Personalizados em Contas com Nome ABM](https://docs.marketo.com/x/1wnG)**
 
@@ -159,7 +159,7 @@ As pontuações de contas nomeadas podem variar muito. O Marketo ABM agora calcu
 
 Aproveite as vantagens das integrações avançadas e robustas de parceiros ABM com o suporte aprimorado à API para Listas de contas nomeadas.
 
-## Aprimoramentos de personalização da web {#web-personalization-enhancements}
+## Aprimoramentos de personalização da web
 
 ![](assets/dialogoptions.png)
 
@@ -203,7 +203,7 @@ O Web Personalization agora é oferecido em todos os idiomas suportados pela Mar
 
 O conteúdo preditivo agora é oferecido em todos os idiomas suportados pela Marketo (inglês, japonês, alemão, espanhol, francês e português).
 
-## [Descontinuação do Editor de Rich Text e do Editor de Formulário 1.0 herdados](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Descontinuação do Editor de Rich Text e do Editor de Formulário 1.0 herdados](https://nation.marketo.com/docs/DOC-4315)
 
 A partir de 1º de agosto de 2017, os clientes que ainda usam o Editor de Rich Text e o Editor de formulário 1.0 herdados passarão automaticamente para a nova experiência.
 
@@ -225,7 +225,7 @@ Garanta a consistência da mensagem e do conteúdo, impedindo edições em seus 
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
-## Aprimoramentos de ABM {#abm-enhancements}
+## Aprimoramentos de ABM
 
 **Fonte de dados para pesquisa de empresa japonesa**
 
@@ -235,7 +235,7 @@ Corresponder nomes de empresas japonesas no idioma local.
 
 A integração do [!DNL LeanData] agora permite a correspondência entre lead e conta no Marketo. Mantenha o marketing e as vendas alinhadas tendo os mesmos clientes potenciais associados às contas nos sistemas de vendas e marketing do registro. Opções mais flexíveis oferecem às operações de marketing e vendas mais controle sobre as regras de correspondência entre lead e conta, para que possam atingir o nível desejado de precisão.
 
-## Aprimoramentos de personalização da web {#web-personalization-enhancements}
+## Aprimoramentos de personalização da web
 
 **[Aprimoramentos de visualização de campanha](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
@@ -308,7 +308,7 @@ Lançamos dois recursos como parte de nossa nova integração com o Slack:
 * Notificações do sistema: receba notificações do Slack sobre eventos importantes na sua instância do Marketo, como alertas sobre status atuais da campanha e qualquer problema que exija atenção imediata.
 * Momentos interessantes: quando um Insight do Marketo é acionado por um indivíduo conhecido de uma conta de vendas, os proprietários principais podem ser notificados por meio do Slack. As notificações incluem informações de cliente potencial, bem como detalhes sobre a conta de vendas.
 
-## Aprimoramentos de ABM {#abm-enhancements}
+## Aprimoramentos de ABM
 
 **[Mostrar Contas sem Contatos](https://docs.marketo.com/x/fKCt)**
 
@@ -324,7 +324,7 @@ Visualize e compare o desempenho do conteúdo nas Listas de contas do ABM para o
 * principais conteúdos convertidos
 * Conteúdo sugerido habilitado por IA para atividades de marketing
 
-## Aprimoramentos de personalização da web {#web-personalization-enhancements}
+## Aprimoramentos de personalização da web
 
 **[Tokens para campanhas on-line](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
@@ -387,3 +387,4 @@ O **[[!DNL Account Insight]](/help/marketo/product-docs/target-account-managemen
 Estamos adicionando uma nova maneira de criar listas de contas no ABM. Além das listas de contas existentes, agora é possível criar listas de contas dinâmicas geradas de Exibições de Contas públicas do CRM. Uma Exibição de conta do CRM é um conjunto de regras que atua como filtro ao exibir contas. Por exemplo, você pode usá-lo para encontrar contas em que o setor de saúde seja _e_ a receita seja superior a US$ 100 milhões.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)
+

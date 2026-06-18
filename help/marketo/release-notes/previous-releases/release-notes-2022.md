@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 6%
@@ -77,7 +77,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 Os clientes do Marketo Engage que também usam o Adobe Experience Platform (AEP) podem maximizar seu banco de dados com a capacidade de enviar registros de novas pessoas para o Marketo Engage a partir do AEP por meio do conector de destino do AEP. Ao enviar segmentos de público do AEP para o Marketo Engage, as pessoas dentro do segmento que ainda não existe no banco de dados do Marketo Engage [podem ser adicionadas automaticamente a ele](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(estrela)](assets/yellow-star.png)
 
@@ -93,7 +93,7 @@ Os clientes do Marketo Engage que também usam o Adobe Experience Platform (AEP)
 
 * **Layout de conta atualizado**: os vendedores podem obter uma visão coletiva das principais atividades, como atividades de email, atividades da Web, momentos interessantes e alterações de pontuação para todos os contatos em uma conta.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(estrela)](assets/yellow-star.png)
 
@@ -101,7 +101,7 @@ Os clientes do Marketo Engage que também usam o Adobe Experience Platform (AEP)
 
 * Personalização do Detalhe da Atividade **[!DNL Salesforce]**: capture mais dados da atividade de vendas e da tarefa em [!DNL Salesforce] personalizando quais informações são adicionadas ao campo de assunto da tarefa [!DNL Salesforce] quando uma atividade de vendas é registrada em [!DNL Salesforce] de [!DNL Sales Connect]. [Clique aqui](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) para saber mais.
 
-## Anúncios {#announcements}
+## Anúncios
 
 * **Descontinuação do Marketo Sky**: em março, o Marketo Sky não estará mais disponível, pois concentraremos nossos recursos no fornecimento da experiência de usuário da próxima geração. Em um esforço para manter o acesso a uma funcionalidade exclusiva do Marketo Sky hoje, estamos trazendo a Expiração de ativos e a Substituição de prioridade da Campanha inteligente para a experiência principal em março. [Clique aqui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para saber mais.
 
@@ -127,7 +127,7 @@ Os seguintes recursos estão incluídos na versão de março de 2022. Verifique 
 
 Os recursos a seguir serão lançados em **11 de março de 2022**, com uma implantação em fases de cada recurso nas semanas seguintes (a menos que especificado de outra forma).
 
-## Orquestração entre canais {#cross-channel-orchestration}
+## Orquestração entre canais
 
 * **[!DNL Dynamic Chat]**: maximize todas as oportunidades em seu site direcionando clientes em potencial e contas com conversas proativas, envolventes e personalizadas de 1:1. O [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permite que os usuários do Marketo Engage comecem a aproveitar o chat como parte essencial das experiências integradas entre canais para casos de uso de marketing e vendas B2B. Os recursos incluem: a capacidade de reservar reuniões diretamente no chat, roteamento de leads, modelos iniciais, criação de conversas com o método arrastar-e-soltar e muito mais. O Dynamic Chat está incluído em todos os pacotes do Marketo Engage e será lançado para todos os usuários do Marketo Engage este ano.
 
@@ -143,7 +143,7 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 * **Controle de Administração para o Switch de alternância da experiência da próxima geração**: gerencie a implantação da experiência da próxima geração de uma forma que funcione para seus usuários com a capacidade de os administradores selecionarem quais tipos de usuários poderão acessar o switch de alternância.
 
-## Automação de experiência {#experience-automation}
+## Automação de experiência
 
 * **Etapas de Fluxo de Autoatendimento (Beta)**: expanda a conectividade entre o Marketo Engage e o restante da pilha com a capacidade de criar etapas de fluxo personalizadas para uso em Campanhas Inteligentes. Tanto os usuários quanto os parceiros da Marketo podem aproveitar essa funcionalidade para permitir o uso de serviços Web externos em campanhas em lote e executáveis, em contraste com webhooks, que só podem ser usados em campanhas de acionador.
 
@@ -151,7 +151,7 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 * **Substituição de Prioridade de Campanha Inteligente**: certifique-se de que as Campanhas Inteligentes de acionador de alta prioridade sejam executadas o mais rápido possível com a capacidade de substituir a classificação de prioridade de campanha padrão. As Campanhas inteligentes de acionador de prioridade mais baixa também podem ter prioridade mais baixa para liberar recursos de processamento para outras tarefas de prioridade mais alta.
 
-## Aprimoramentos na API {#api-enhancements}
+## Aprimoramentos na API
 
 * **Retornar o Status de Rastreamento Aberto de Emails**: permite a leitura do status de rastreamento aberto de emails via API
 * **Recuperar linhas de assunto do conteúdo dinâmico do email**: permite que os profissionais de marketing analisem linhas de assunto dinâmicas nas ferramentas de BI
@@ -171,13 +171,13 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 * **Modelos de BI**: [!DNL Bizible] agora fornecerá artefatos de relatórios fundamentais e baixáveis, além de relatórios de amostra para Tableau e Power BI, para permitir o rápido desenvolvimento de relatórios personalizados adaptados às suas necessidades comerciais específicas.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(estrela)](assets/yellow-star.png)
 
 * **Limitação da Conexão de Email (GA)**: a Limitação da Conexão de Email permite que administradores do [!DNL Sales Connect] configurem a taxa de envio de emails ao usar o Gmail ou o [!DNL Exchange] como canal de entrega, para que a taxa na qual os emails sejam entregues ao provedor de canal de entrega não exceda os limites impostos.
 
-## Anúncios {#announcements}
+## Anúncios
 
 * **Descontinuação do Marketo Sky**: em março, o Marketo Sky não estará mais disponível, pois concentraremos nossos recursos no fornecimento da experiência de usuário da próxima geração. Em um esforço para manter o acesso a uma funcionalidade exclusiva do Marketo Sky hoje, estamos trazendo a Expiração de ativos e a Substituição de prioridade da Campanha inteligente para a experiência Clássica. [Clique aqui](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) para saber mais.
 
@@ -201,7 +201,7 @@ Os recursos a seguir serão lançados em **6 de maio de 2022**, com uma implanta
 
 **[Integração nativa do Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (disponibilidade limitada)**: melhore o engajamento com profissionais de saúde sincronizando a atividade entre o Veeva CRM e o Marketo Engage por meio da integração nativa. Essa integração permite que os profissionais de marketing criem experiências entre canais mais personalizadas e perfeitas para os profissionais de saúde. Entre em contato com o Gerente de sucesso do cliente se estiver interessado em participar.
 
-## Orquestração entre canais {#cross-channel-orchestration}
+## Orquestração entre canais
 
 **Eventos de Chatbot para[!DNL Dynamic Chat]**: aproveite dados de comportamento mais detalhados para visitantes da Web, como tempo na página, tempo no site e porcentagem de rolagem de página, para definir quando uma caixa de diálogo de chat deve ser exibida.
 
@@ -223,11 +223,11 @@ Os recursos a seguir serão lançados em **6 de maio de 2022**, com uma implanta
 
 Estamos fornecendo a Exibição de Detalhes do Modelo de Email no [!UICONTROL Design Studio] na experiência de próxima geração, oferecendo um design atualizado e aprimoramentos de usabilidade acessíveis via opção de alternância.
 
-## Automação de experiência {#experience-automation}
+## Automação de experiência
 
 **Etapas de Fluxo de Autoatendimento (continuação da versão beta)**: expanda a conectividade entre o Marketo Engage e o restante da pilha com a capacidade de criar etapas de fluxo personalizadas para uso em Campanhas inteligentes. Tanto os usuários quanto os parceiros da Marketo Engage podem aproveitar essa funcionalidade para permitir o uso de serviços Web externos em campanhas acionadoras, em lote e executáveis (em contraste com webhooks que só podem ser usados em campanhas acionadoras).
 
-## Aprimoramentos na API {#api-enhancements}
+## Aprimoramentos na API
 
 * **Acesso ampliado à API para assinaturas habilitadas para CRM**: estamos expandindo o acesso à API para assinaturas com sincronização de CRM habilitada para permitir que os usuários recuperem Empresas, Oportunidades e Vendedores da Marketo Engage.
 * **Suporte para tipos de dados &quot;ocultos&quot; no Forms**: fornece a capacidade de gerenciar campos de formulário ocultos por meio da API.
@@ -235,7 +235,7 @@ Estamos fornecendo a Exibição de Detalhes do Modelo de Email no [!UICONTROL De
 * **Permitir configuração de Valores de Exibição e Enviados em Listas de Seleção Separadamente**: Defina separadamente o valor de exibição e o valor de envio em um campo. Por exemplo, mostrar o nome de um hotel, mas enviar uma ID interna para o back-end.
 * **Permitir Configuração de Desabilitar Rastreamento Aberto em Criar ou Atualizar Email**: criar um email com rastreamento aberto desabilitado.
 
-## Anúncios {#announcements}
+## Anúncios
 
 **Exclusividade e Verificação de Email**: a partir de abril, a implantação da Verificação de Email começará. Nesse momento, os endereços de email de usuários do Marketo Engage exigirão verificação e exclusividade (isso não se aplica aos usuários somente da API). Os usuários autenticados do serviço de diretório terão seus emails verificados automaticamente quando a assinatura for habilitada com a Verificação de email.
 
@@ -257,11 +257,11 @@ Abaixo você encontrará todos os recursos incluídos na versão de junho de 202
 
 Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implantação em fases dos recursos restantes nas semanas seguintes (a menos que especificado de outra forma).
 
-## Ambiente de dados de marketing {#marketing-data-environment}
+## Ambiente de dados de marketing
 
 * **Expor campos CreatedAt/UpdatedAt para Objetos Personalizados**: oferece a capacidade de inspecionar esses campos na tela de Detalhes da pessoa para obter insight adicionais.
 
-## Orquestração entre canais {#cross-channel-orchestration}
+## Orquestração entre canais
 
 * **Usabilidade de Stream Designer aprimorada para[!DNL Dynamic Chat]**: adicione cartões diretamente da tela Stream Designer sem a necessidade de arrastar e soltar. A interface do [!DNL Dynamic Chat] também foi aprimorada para oferecer melhor visibilidade do conteúdo em cartões individuais.
 
@@ -278,7 +278,7 @@ Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implan
 * [Exibição de detalhes do email](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
 * [Exibição da lista de emails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
-## Automação de experiência {#experience-automation}
+## Automação de experiência
 
 * **Exclusões de Regra de Validação do Campo de Formulário Global**: exclua formulários específicos das Regras de Validação do Formulário Global para que as centrais de assinaturas e outros fluxos de trabalho críticos comerciais possam aceitar todos os valores.
 
@@ -288,7 +288,7 @@ Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implan
 
 * **Métodos HTTP adicionais para webhooks**: especifique PUT, PATCH e DELETE como tipos de solicitação para interagir com serviços Web.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(estrela)](assets/yellow-star.png)
 
@@ -296,19 +296,19 @@ Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implan
 
 * **Atualização do Meu Bloco do Marketo - [!DNL Sales Insight] Ações**: os Administradores do Marketo (e os usuários que eles designarem) agora podem navegar rapidamente para a instância de Ações do [!DNL Sales Insight] por meio de um novo bloco de Ações do [!DNL Sales Insight], localizado na página Meu Marketo.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(estrela)](assets/yellow-star.png)
 
 * **[!DNL Salesforce]Atualização da API**: com a versão do verão de 2022 do [!DNL Salesforce], as versões herdadas da API de 21 a 30 não serão mais suportadas pelo [!DNL Salesforce]. Com esta versão do Marketo Engage, todas as [!DNL Sales Connect] solicitações que usam versões de API herdadas foram atualizadas para permanecer em uma versão com suporte. Para obter detalhes completos sobre os planos de aposentadoria da API [!DNL Salesforce], clique [aqui](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
 
-## Aprimoramentos na API {#api-enhancements}
+## Aprimoramentos na API
 
 * **Novos recursos de filtragem para API de Extração de Membro de Programa em Massa**: filtre por status de associação de programa, updatedAt, cadência ou conteúdo esgotado para refinar o conjunto de dados extraído.
 
 * **Aprimoramento da API de Extração de Membro de Programa em Massa**: especifique até 10 programas durante a criação do trabalho para melhorar a taxa de transferência.
 
-## Anúncios {#announcements}
+## Anúncios
 
 * **Substituição do Forms - Forms 1.0, ponto de extremidade de captura/salvamento de clientes potenciais e versões sem script de formulários**: o suporte para ativos do Forms 1.0 será completamente removido do Marketo Engage até outubro de 2022. Todos os ativos existentes do Forms 1.0 deixarão de funcionar. Os formulários do Marketo Engage exigirão que o JavaScript seja carregado nas páginas de aterrissagem e sites.
 
@@ -326,7 +326,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de agosto de 20
 
 Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2022**.
 
-## Orquestração entre canais {#cross-channel-orchestration}
+## Orquestração entre canais
 
 * Habilitar/Desabilitar Todas as Caixas de Diálogo Publicadas de Uma Vez para [!DNL Dynamic Chat]**: habilite/desabilite globalmente todas as caixas de diálogo publicadas de uma só vez na página Configuração, pressionando um botão.
 
@@ -349,7 +349,7 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 >
 >A exceção é mover um ativo para uma pasta em um programa em Atividades de marketing. Essa ação de mover não exibirá a hierarquia de pastas, pois as pastas em um programa não podem ter nomes duplicados.
 
-## Automação de experiência {#experience-automation}
+## Automação de experiência
 
 * **[Etapas de Fluxo de Autoatendimento - Melhorias na Importação de Programas](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**: suporte aprimorado para a importação de programas com etapas de fluxo personalizadas, onde agora você pode usar várias instâncias do mesmo provedor de serviços e importar programas que tenham etapas de fluxo compatíveis com esses provedores de serviços.
 
@@ -363,21 +363,21 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 
 * **Sempre Executar Repetição da Campanha Após Mesclagem Anônima**: a mesclagem anônima de clientes potenciais ocorre antes da repetição da campanha, portanto, os filtros de campo personalizados se comportam de forma confiável quando a repetição anônima da campanha é feita.
 
-## Ambiente de dados de marketing {#marketing-data-environment}
+## Ambiente de dados de marketing
 
 * **Corrigir truncamento de Objeto Personalizado &quot;[!UICONTROL Usado por]&quot; campos** na interface do usuário: agora é mais fácil identificar campos de objeto personalizado que estão &quot;em uso&quot; para que você possa excluir campos de um Objeto Personalizado quando necessário.
 
-## Aprimoramentos na API {#api-enhancements}
+## Aprimoramentos na API
 
 * **Novos Recursos de Filtragem para API de Extração de Membro de Programa em Massa**: filtre por status de associação de programa, updatedAt, cadência ou conteúdo esgotado para refinar o conjunto de dados extraído.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(estrela)](assets/yellow-star.png)
 
 * **[[!DNL Sales Insight] Integração com o [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: visualize as atividades do [!DNL Dynamic Chat] no painel [!DNL Sales Insight] e aproveite esse novo ponto de dados em seu esforço de prospecção.
 
-## Anúncios {#announcements}
+## Anúncios
 
 **_Webinar de lançamento de produto_**
 
@@ -395,7 +395,7 @@ Abaixo você encontrará todos os recursos incluídos na versão de outubro de 2
 
 Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão a ser lançados em **sábado, 14 de outubro de 2022**, com uma implementação gradual dos recursos restantes nas semanas seguintes. Os recursos e as datas de lançamento estão sujeitos a alterações. Verifique abaixo cada recurso para obter seu status.
 
-### Ambiente de dados de marketing {#marketing-data-environment}
+### Ambiente de dados de marketing
 
 </br>
 
@@ -476,7 +476,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tbody>
 </table>
 
-### Aprimoramentos na API {#api-enhancements}
+### Aprimoramentos na API
 
 </br>
 
@@ -494,7 +494,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tbody>
 </table>
 
-### Sales Insight {#sales-insight}
+### Sales Insight
 
 </br>
 
@@ -560,9 +560,8 @@ Os seguintes recursos seguem um formato Agile e são lançados em várias datas 
   </tbody>
 </table>
 
-## Anúncios {#announcements}
+## Anúncios
 
 * **Forms 1.0**: a descontinuação do Forms 1.0 será concluída com a versão de outubro. Os ativos do Forms 1.0 não poderão mais enviar dados para o Marketo Engage e retornarão erros se forem tentados.
 
 * **No-Script Forms**: o Forms não funcionará mais quando o Javascript estiver desabilitado no navegador. O envio do formulário exigirá que o Javascript esteja habilitado.
-

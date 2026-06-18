@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 1871
 ht-degree: 4%
@@ -105,7 +105,7 @@ A Marketo está adicionando uma fonte de dados japonesa adicional para o Web Per
 
 O Web Personalization agora pode personalizar o conteúdo para um visitante conhecido da Web que faz parte de uma lista estática definida nas Atividades de marketing (MLM). Com esse aprimoramento, agora é possível vender para listas estáticas em canais e direcionar pessoas nessas listas com conteúdo personalizado no seu site.
 
-## IA de conteúdo {#contentai}
+## IA de conteúdo
 
 **Aprimoramento do Algoritmo Preditivo**
 
@@ -189,7 +189,7 @@ Compartilhe facilmente seus Gráficos Rápidos com outros usuários do [!UICONTR
 
 A navegação otimizada e os fluxos de trabalho aprimorados dão a você visibilidade dos critérios de sucesso do Programa e acesso aos detalhes do Programa.
 
-## IA de conteúdo {#contentai}
+## IA de conteúdo
 
 [Configuração da meta](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
@@ -217,7 +217,7 @@ Os seguintes recursos estão incluídos na versão do último trimestre de 2018.
 
 Clique nos links de título para exibir artigos detalhados para cada recurso, se disponíveis.
 
-## Melhorias da plataforma principal {#core-platform-enhancements}
+## Melhorias da plataforma principal
 
 **[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -305,3 +305,4 @@ O Marketo agora é compatível com o uso de campos de disposição de email por 
 >[!NOTE]
 >
 >A Marketo também está atualizando bibliotecas relacionadas a identidade e autenticação. Enquanto a atualização estiver em andamento, você poderá notar erros intermitentes se tiver uma sessão ativa aberta. Se você tiver problemas, faça logoff e logon novamente na sua assinatura.
+

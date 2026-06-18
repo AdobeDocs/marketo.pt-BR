@@ -31,7 +31,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 2528
 ht-degree: 3%
@@ -58,7 +58,7 @@ Clique nos links de título para exibir artigos detalhados para cada recurso, se
 >
 >O Marketo está atualizando a versão do OAuth para o GoToWebinar de 1.0 para 2.0. O suporte para OAuth 1.0 será descontinuado em janeiro de 2019. Se você for um cliente do GoToWebinar, precisará autenticar novamente seus logons por meio do LaunchPoint (na área de Administração) até **31 de janeiro de 2019** para garantir que sua integração continue funcionando. Para obter mais detalhes, consulte nossa [página da Comunidade](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
 
-## Melhorias da plataforma principal {#core-platform-enhancements}
+## Melhorias da plataforma principal
 
 **[Email CC para emails do Marketo](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
@@ -75,7 +75,7 @@ Inclua até cinco endereços por destinatário para CC nos e-mails enviados atra
 * **Gerenciamento de recusa**: gerencie facilmente recusas combinando o domínio do cookie de recusa com o domínio do cookie de rastreamento [!DNL Munchkin].
 * **Parâmetro de Decisor de Nível de Domínio**: domínios de duas letras (ou seja, &quot; [website.io](https://website.io)&quot;) rastrearão automaticamente no Marketo sem requisitos de configuração adicionais.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **[!DNL Salesforce]Perfil Personalizado**: o Sales Engage agora oferece suporte a perfis personalizados ilimitados.
 
@@ -89,7 +89,7 @@ Inclua até cinco endereços por destinatário para CC nos e-mails enviados atra
 * **Plug-in do OWA para[!DNL Windows]**: com um único suplemento, todos os clientes do [!DNL Windows Office365] terão suporte no Sales Engage, fornecendo a capacidade de usar o Feed Ativo no Outlook. O novo plug-in estará disponível na Microsoft Store.
 * **Pusher de atividades**: sincronizar o Sales Engage com a plataforma principal do Marketo para aproveitar os insights de marketing em tempo real.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 >[!NOTE]
 >
@@ -108,7 +108,7 @@ Inclua até cinco endereços por destinatário para CC nos e-mails enviados atra
 * **Aprimoramentos na Usabilidade do Programa de Email**: continuamos a avançar para a paridade na funcionalidade do Programa de Email entre nossa plataforma clássica de Gerenciamento de Cliente Potencial do Marketo e a nova experiência [!DNL Marketo Sky].
 * **Programas Event-With-Webinar**: os programas Event-With-Webinar agora estão disponíveis em [!DNL Marketo Sky] (observação: somente GoToWebinar terá suporte nesta versão, com mais integrações estabelecidas ao longo do tempo).
 
-## Marketing baseado em contas {#account-based-marketing}
+## Marketing baseado em contas
 
 **[Segmentação e filtragem com base em persona do ABM](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
@@ -159,7 +159,7 @@ Clique nos links de título para exibir artigos detalhados para cada recurso, se
 
 Os recursos a seguir foram lançados em 15 de março de 2019.
 
-## Melhorias da plataforma principal {#core-platform-enhancements}
+## Melhorias da plataforma principal
 
 * **Lista de espera:** Novo status de programa/evento para lista de espera de um membro quando você deseja [colocá-los em espera](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) até que uma vaga seja aberta. Isso se aplica aos canais associados aos programas de Eventos no Marketo Classic, e aos programas de Eventos e Eventos com Webinar no [!DNL Marketo Sky]. Por padrão, Lista de espera tem o mesmo valor de etapa que Registrado.
 * **[Limite de Comunicação Personalizado](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Agora os administradores podem definir limites de comunicação diários ou semanais personalizados.
@@ -177,19 +177,19 @@ Marketing baseado em contas
 
 Espera-se que os seguintes recursos sejam lançados ao longo do primeiro trimestre e no início do segundo trimestre de 2019.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * **Funcionalidade completa do programa de email**: envie emails, crie testes A/B e acompanhe os resultados em uma experiência simples.
 * **Funcionalidade do Smart Campaign**: aproveite a estabilidade aprimorada em uma nova interface de usuário, já que a funcionalidade do Smart Campaign continua sendo lançada no Sky.
 * **Gerenciar o Design Studio Assets**: adição da capacidade de gerenciar Modelos, Imagens, Forms, Trechos, Arquivos, Emails e Páginas de Aterrissagem em massa a partir das exibições de lista do Design Studio.
 * **Entregar no Painel de Fuso Horário do Destinatário**: entenda o comportamento do cliente com relatórios para emails enviados usando o recurso Entregar no Fuso Horário do Destinatário no Sky.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engage
 
 * **Auditoria Aprimorada**: nova visibilidade de todas as pessoas, emails e [conteúdo](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) em uma instância com capacidade adicional de [encerrar campanhas existentes](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)criadas por outros usuários.
 * **[Gerenciamento de Cancelamento de Assinatura](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: maximize a capacidade de entrega e a conformidade com a capacidade de [bloquear domínios de email](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) para que sejam contatados. O Marketo também fará referência cruzada com o banco de dados de clientes potenciais para cancelamentos de inscrição antes de enviar um email.
 
-## [!DNL Bizible] da Marketo {#bizible-by-marketo}
+## [!DNL Bizible] da Marketo
 
 * **[!DNL Bizible]Aprimoramentos dos recursos do Discover**: Os novos recursos de segmentação de painel permitem que os profissionais de marketing entendam melhor o desempenho.
 * **Suporte a Várias Moedas**: alterne entre sua moeda corporativa e qualquer moeda local com a nova funcionalidade de conversão automática de moeda de [!DNL Bizible], criada em tabelas de moeda do CRM.
@@ -212,7 +212,7 @@ Os recursos a seguir foram lançados em 14 de junho de 2019.
 >
 >A partir de 18 de junho de 2019, o Email 1.0 não estará mais disponível. Você pode saber mais sobre o Email 2.0 e a descontinuação do Email 1.0 [aqui](https://nation.marketo.com/docs/DOC-7038).
 
-## Marketing baseado em contas {#account-based-marketing}
+## Marketing baseado em contas
 
 * **[!DNL LinkedIn]Correspondência de Conta (BETA)** : um novo recurso ABM agora está disponível na versão beta, oferecendo a capacidade de enviar listas de contas conhecidas e de espaço em branco diretamente do Marketo para o LinkedIn. Essa funcionalidade é incluída automaticamente para todos os clientes do Marketo ABM.
 
@@ -222,7 +222,7 @@ Os recursos a seguir foram lançados em 14 de junho de 2019.
 
 Espera-se que os seguintes recursos sejam lançados ao longo do segundo trimestre e até ao início do terceiro trimestre de 2019.
 
-## [!DNL Marketo Sky] {#marketo-sky}
+## [!DNL Marketo Sky]
 
 * As **Limitações de eventos** e as **Metas de eventos** geralmente estão disponíveis em [!DNL Marketo Sky] no complemento Eventos Premium.
 
@@ -246,7 +246,7 @@ Espera-se que os seguintes recursos sejam lançados ao longo do segundo trimestr
 
 * **Modelos de email do sistema**: recursos de design, capacidade de resposta e internacionalização atualizados.
 
-## [!DNL Bizible] da Marketo {#bizible-by-marketo}
+## [!DNL Bizible] da Marketo
 
 * **Suporte a Várias Moedas para[!DNL Dynamics]**: [!DNL Bizible] agora se adapta às tabelas de moeda [!DNL Microsoft Dynamics], para que você possa facilmente alternar entre moedas corporativas e locais. (Observação: o suporte para o SFDC foi lançado no primeiro trimestre de 2019.)
 * **Integração com o Drift**: entenda como as conversas com o Drift afetam a jornada do cliente. [!DNL Bizible] também irá obter endereços de email de conversas para criar um novo cliente potencial ou conectar o ponto de contato a um cliente potencial existente.
@@ -294,3 +294,4 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados duran
 >**Para manter o acesso ao Marketo Engage, verifique se todos os sistemas cliente são compatíveis com TLS 1.2 antes de 13 de dezembro de 2019**. Você encontra informações mais detalhadas [aqui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
 **_Webinar de versão do produto_** [Junte-se a nós](https://engage.marketo.com/August_19_Release_Webinar.html) em 28 de agosto às 1:00PM PT / 4:00PM ET para um webinário ao vivo hospedado por nossa equipe de produtos e saiba mais sobre os recursos incluídos nesta versão.
+
