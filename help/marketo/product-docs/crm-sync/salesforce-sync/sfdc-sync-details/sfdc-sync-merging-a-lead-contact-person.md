@@ -33,7 +33,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->O comportamento dos campos booleanos em uma mesclagem de API mudou na versão de março de 2026. Agora, um valor Falso é tratado corretamente como tendo um valor para esse campo. Somente um valor nulo é tratado como &quot;vazio&quot; ao avaliar campos conflitantes. Veja [esta publicação da Comunidade](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} mais detalhes.
+>O comportamento dos campos booleanos em uma mesclagem de API mudou na versão de março de 2026. Agora, um valor Falso é tratado corretamente como tendo um valor para esse campo. Somente um valor nulo é tratado como &quot;vazio&quot; ao avaliar campos conflitantes. Veja [esta publicação da Comunidade](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=pt){target="_blank"} mais detalhes.
 
 >[!MORELIKETHIS]
 >
