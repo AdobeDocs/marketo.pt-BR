@@ -2,40 +2,10 @@
 title: 2021
 description: 2021 - Documentação do Marketo - Documentação do produto
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: fc9b09fe-b844-4544-887b-e420c3b82065id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4744
 ht-degree: 1%
@@ -56,13 +26,13 @@ Os seguintes recursos estão incluídos na versão de janeiro de 2021. Verifique
 
 Os recursos a seguir serão lançados em **15 de janeiro de 2021**.
 
-## Experiência do usuário de última geração {#next-generation-user-experience}
+## Experiência do usuário de última geração
 
-* Suporte para espaços de trabalho: a experiência de usuário de última geração da Marketo Engage reúne a aparência e a funcionalidade do Adobe Experience Cloud com inovações de produtividade para ajudar os profissionais de marketing a trabalhar de modo mais rápido e inteligente. Na versão mais recente, adicionamos suporte total para espaços de trabalho e partições, incluindo a capacidade de compartilhar pastas entre espaços de trabalho. A tela direita oferecerá um switch de alternância que permite a transição contínua entre experiências antigas e novas por recurso sem perder o contexto. [Saiba mais](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124) em Perguntas frequentes sobre a experiência da próxima geração na Nação de marketing.
+* Suporte para espaços de trabalho: a experiência de usuário de última geração da Marketo Engage reúne a aparência da Adobe Experience Cloud com inovações de produtividade para ajudar os profissionais de marketing a trabalharem de maneira mais rápida e inteligente. Na versão mais recente, adicionamos suporte total para espaços de trabalho e partições, incluindo a capacidade de compartilhar pastas entre espaços de trabalho. A tela direita oferecerá um switch de alternância que permite a transição contínua entre experiências antigas e novas por recurso sem perder o contexto. [Saiba mais](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124) em Perguntas frequentes sobre a experiência da próxima geração na Nação de marketing.
 
 ## Personalization multicanal {#multi-channel-personalization}
 
-* **[Fase de sincronização de público-alvo do Adobe Experience Cloud 3](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: o recurso de sincronização de público-alvo existente do Adobe Experience Cloud (AEC) agora oferece suporte à sincronização de público-alvo B2B contínua e bidirecional da Marketo Engage para outros aplicativos da AEC, incluindo ofertas da Adobe Experience Platform (AEP) como a Real-time Customer Data Platform e a Adobe Experience Platform Ativation.  À medida que clientes em potencial são adicionados e removidos dos segmentos de público-alvo, o Marketo Engage sincroniza automaticamente o público atualizado nos aplicativos da AEC conectados. Use-a para aproveitar a orquestração de vários canais, o redirecionamento, a supressão de público-alvo, a personalização e os casos de uso de relatórios do Adobe na sua pilha de tecnologia da AEC.
+* **[Fase de sincronização de público-alvo da Adobe Experience Cloud 3](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: o recurso de sincronização de público-alvo da Adobe Experience Cloud (AEC) agora oferece suporte à sincronização de público-alvo B2B contínua e bidirecional da Marketo Engage para outros aplicativos da AEC, incluindo ofertas da Adobe Experience Platform (AEP) como a Real-time Customer Data Platform e a Adobe Experience Platform Ativation.  À medida que clientes em potencial são adicionados e removidos dos segmentos de público-alvo, o Marketo Engage sincroniza automaticamente o público atualizado nos aplicativos da AEC conectados. Use-a para aproveitar a orquestração de vários canais, o redirecionamento, a supressão de público-alvo, a personalização e os casos de uso de relatórios do Adobe na sua pilha de tecnologia da AEC.
 * **[Sincronização Contínua de Público-Alvo com o Google, [!DNL Facebook], e [!DNL LinkedIn]](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**: a sincronização automatizada contínua com uma rede de anúncios pode ser habilitada em uma lista estática, atualizando a rede de anúncios como alterações de associação de lista sem a necessidade de intervenção do usuário.
 * **[Tokens para Campos Personalizados de Membros do Programa](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)**: estendemos os recursos de campo personalizado de membros do programa para oferecer suporte à estrutura de token. Os profissionais de marketing podem inserir tokens de campos personalizados de membros do programa em emails, landing pages, mensagens SMS, notificações por push e webhooks. Use novos tokens em ações de fluxo de campanha para alterar valores de dados, criar uma tarefa ou um momento interessante.
 
@@ -89,7 +59,7 @@ Os recursos a seguir serão lançados em **15 de janeiro de 2021**.
 
 Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos próximos meses.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(estrela)](assets/yellow-star.png)
 
@@ -99,7 +69,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 * **[[!DNL Sales Insight] para Integrações de CRM [!DNL Salesforce] Não Nativas](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: as assinaturas do GA com integrações personalizadas do Salesforce CRM podem instalar o pacote [!DNL Sales Insight] e ajudar as equipes de vendas a priorizar e interagir com os clientes potenciais e oportunidades mais promissores.
 * **[Melhorias nas melhores opções](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: contate rapidamente os clientes em potencial na guia Melhores Opções enviando um email ou adicionando-os a uma Campanha do Marketo Engage. Exibir um cliente potencial no Marketo Engage ou adicioná-lo à sua lista de observação. As ações em massa e as opções de classificação na guia [!UICONTROL Melhores Opções] economizam tempo e melhoram a eficiência da equipe de vendas.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(estrela)](assets/yellow-star.png)
 
@@ -135,11 +105,11 @@ Os recursos a seguir serão lançados em **7 de maio de 2021**.
 
 * **Smart Lists de Conta (disponibilidade geral)** ![](assets/yellow-star.png): identifique e qualifique dinamicamente contas com os atributos de conta e pessoa desejados para direcionar em campanhas de marketing entre canais e envie alertas oportunos para o setor de Vendas para fechar negócios mais rapidamente. Esse novo recurso permite a automação robusta de estratégias de marketing baseadas em conta. As Smart Lists de conta estão disponíveis para clientes com Gerenciamento de conta do Target que estão na experiência de usuário de última geração.
 
-## Experiência do usuário de última geração {#next-generation-user-experience}
+## Experiência do usuário de última geração
 
 Com a visualização da pesquisa global, os profissionais de marketing podem ver rapidamente onde um ativo compartilhado existe em sua instância. As guias do navegador exibem o local para melhorar a navegação em [!UICONTROL Atividades de marketing] ou [!UICONTROL Design Studio]. Filtros adicionais de árvore e pesquisa global ajudam a refinar seus critérios de pesquisa. A funcionalidade de arrastar e soltar na árvore foi restabelecida, permitindo mover pastas e ativos de maneira rápida e eficiente nas áreas principais do aplicativo. Os ícones recém-atualizados (que atendem aos padrões de acessibilidade da Adobe) e os selos de status permitem que os profissionais de marketing façam a distinção entre pastas e ativos de maneira rápida e fácil na árvore e identifiquem o status de programas e ativos.
 
-## Automação de experiência {#experience-automation}
+## Automação de experiência
 
 * **Executar Etapas de Fluxo de Campanha**: simplifique os fluxos de trabalho de criação de campanha e melhore o desempenho da campanha com uma nova etapa de fluxo para Campanhas Inteligentes. Crie e salve campanhas de modelo centralizadas para tarefas repetitivas no seu espaço de trabalho, como normalização de código de país, para serem chamadas e executadas a partir de qualquer Campanha inteligente por meio da nova etapa de fluxo &quot;Executar Campanha&quot;. Campanhas vinculadas serão executadas no pedido designado e garantirão a conclusão da tarefa antes de avançar para a próxima etapa do fluxo. Edite rapidamente o fluxo em apenas uma campanha centralizada para atualizar cada Campanha inteligente que a utiliza para simplificar o gerenciamento de dados, a pontuação de clientes potenciais e os fluxos de trabalho de roteamento.
 
@@ -153,7 +123,7 @@ Com a visualização da pesquisa global, os profissionais de marketing podem ver
 
 * **Atividade de filtragem de bots de email**: Evite alertas de vendas não intencionais e relatórios de email imprecisos por meio do novo recurso de filtragem de atividades de bot de email. Identifique e filtre aberturas e cliques que podem ser associados a bots de email que inspecionam links que levam a acionadores e alertas de vendas falsos ou relatórios incorretos.
 
-## Aprimoramentos na API {#api-enhancements}
+## Aprimoramentos na API
 
 Várias atualizações críticas para APIs em massa e de cliente potencial, incluindo a capacidade de exportar dados de objetos personalizados em massa, associar a empresa ao cliente potencial em massa, a capacidade de filtrar a extração de atividade em massa com base em um atributo principal e a capacidade de criar e atualizar a associação ao programa.
 
@@ -161,7 +131,7 @@ Várias atualizações críticas para APIs em massa e de cliente potencial, incl
 
 * **API de programa de exclusão aprimorada**: permite que aplicativos integrados excluam programas que contenham tipos adicionais de ativos, sem exigir que os usuários o façam manualmente no Adobe Marketo Engage.
 
-* **Associação de programa**: os profissionais de marketing podem consultar todos os registros de membros de um programa selecionado de acordo com critérios diferentes, como status de membro de programa. Compartilhe essas informações com um aplicativo externo, uma ferramenta de business intelligence ou a Adobe Experience Cloud para segmentar e melhorar a segmentação e criar um envolvimento mais direcionado.
+* **Associação de programa**: os profissionais de marketing podem consultar todos os registros de membros de um programa selecionado de acordo com critérios diferentes, como status de membro de programa. Compartilhe essas informações com um aplicativo externo, uma ferramenta de business intelligence ou a Adobe Experience Cloud para segmentar e melhorar a segmentação e criar um engajamento mais direcionado.
 
 * **Extração de Objeto Personalizado em Massa**: a exportação de dados em massa complementa os recursos de importação que os analistas de dados já estão desfrutando no Adobe Marketo Engage. Agora é possível extrair dados armazenados em objetos personalizados do Adobe Marketo Engage de primeiro nível em massa e carregá-los em outro aplicativo, data warehouse ou ferramenta de BI (Business Intelligence) para obter melhores insights sobre os dados na instância do Adobe Marketo Engage.  O movimento de dados em massa de objeto personalizado é bidirecional e pode ser agendado em um momento conveniente.
 
@@ -169,7 +139,7 @@ Várias atualizações críticas para APIs em massa e de cliente potencial, incl
 
 * **API de Extração de Atividade em Massa**: obtenha controle sobre a quantidade e o tipo de dados ao executar extrações em massa. Filtre pontos de dados desnecessários e controle o número de chamadas de API necessárias para extrair dados da atividade em massa.  Por exemplo, selecione emails abertos, visite uma página da Web ou altere a pontuação de lead e deixe para trás outras alterações no valor que você não deseja analisar. Simplifique o processo para diminuir o número de chamadas de API e a limpeza de dados.
 
-* **API de cliente potencial**: identifique clientes potenciais no Adobe Marketo Engage que tenham Adobe ECID (Experience Cloud ID) associada a eles.  Os clientes do Adobe Marketo Engage podem criar uma lista de clientes potenciais a partir de uma campanha selecionada e usar as ECIDs (Experience Cloud ID) para criar relatórios no Adobe Analytics para essa lista específica. A integração entre o Adobe Marketo Engage e o Adobe Experience Cloud abre oportunidades ilimitadas para segmentação, direcionamento e relatórios.
+* **API de cliente potencial**: identifique clientes potenciais no Adobe Marketo Engage que tenham a Adobe ECID (Experience Cloud ID) associada a eles.  Os clientes do Adobe Marketo Engage podem criar uma lista de clientes potenciais a partir de uma campanha selecionada e usar as ECIDs (Experience Cloud ID) para criar relatórios no Adobe Analytics para essa lista específica. A integração entre o Adobe Marketo Engage e a Adobe Experience Cloud abre oportunidades ilimitadas para segmentação, direcionamento e relatórios.
 
 * **API de Importação de Cliente Potencial em Massa**: controle a importação de clientes potenciais em massa e os recursos necessários. Esse aprimoramento cria associação entre lead e empresa durante o processo de importação de lead em massa. Aumente a eficiência e o desempenho do trabalho com dados e diminua o uso se as chamadas de API.
 
@@ -181,17 +151,17 @@ Várias atualizações críticas para APIs em massa e de cliente potencial, incl
 
 * **Pesquisar por ID de cliente potencial**: acesse rapidamente a pesquisa de registros de cliente potencial por ID de cliente potencial da Adobe Marketo Engage no banco de dados de clientes potenciais ou na lista estática. Na janela Localização Rápida, basta digitar `[id]` com o número correspondente e as informações do cliente potencial serão exibidas. Os usuários podem revisar rapidamente os detalhes da oportunidade, da empresa ou do cliente potencial.
 
-## Bizible {#bizible}
+## Bizible
 
 ![](assets/yellow-star.png)
 
 * **Integração com o [!DNL LinkedIn] Lead Gen Forms (Beta)**: obtenha mais visibilidade sobre seu investimento e ROI no canal do [!DNL LinkedIn] com a solução de atribuição Bizible premium. Através da última integração com o Forms de geração de leads de [!DNL LinkedIn], a Bizible transforma o insight em formulários que foram enviados dentro da plataforma [!DNL LinkedIn]. Esses preenchimentos de formulário são comparados com clientes potenciais da sua instância do CRM (Customer Relationship Management) ou Adobe Marketo Engage para que sejam qualificados para atribuição e possam ser rastreados em relação a outros contratos de marketing.
 
-## Anúncios {#announcements}
+## Anúncios
 
 * **Plataformas de alternância de documentos do produto Marketo**: estamos animados em anunciar que os documentos do produto Marketo ingressaram na Adobe Experience League a partir de sexta-feira, 7 de maio. Você ainda poderá usar o URL: docs.marketo.com e, se tiver algum artigo existente marcado, será redirecionado. Todos os documentos do produto estão disponíveis na nova plataforma, com melhorias planejadas para o final deste ano.
 
-* **Administração de usuário simplificada e logon único fornecidos pelo Sistema de identidade da Adobe**: a partir de julho de 2021, os novos clientes da Adobe Marketo Engage serão integrados usando as credenciais de usuário da Adobe. A migração dos clientes atuais para o sistema de identidade integrado não ocorrerá até meados de 2022 e nenhuma ação do cliente será necessária até aviso em contrário. O logon único permite que os administradores de TI/segurança gerenciem várias instâncias de produtos da Adobe Marketo Engage juntamente com outras soluções da Experience Cloud, bem como configurem o SSO (Shared Services Organization) por meio de um console comum. Os administradores podem gerenciar convenientemente grupos de usuários e direitos de usuário por meio de uma Admin Console comum.
+* **Administração de usuário simplificada e logon único fornecidos pelo Sistema de identidade da Adobe**: a partir de julho de 2021, os novos clientes da Adobe Marketo Engage serão integrados usando as credenciais de usuário da Adobe. A migração dos clientes atuais para o sistema de identidade integrado não ocorrerá até meados de 2022 e nenhuma ação do cliente será necessária até aviso em contrário. O logon único permite que os administradores de TI/segurança gerenciem várias instâncias de produtos da Adobe Marketo Engage juntamente com outras soluções da Experience Cloud, bem como configurem o SSO (Organização de Serviços Compartilhados) por meio de um console comum. Os administradores podem gerenciar convenientemente grupos de usuários e direitos de usuário por meio de uma Admin Console comum.
 
 **_Webinar de lançamento de produto_**
 
@@ -209,7 +179,7 @@ Os seguintes recursos estão incluídos na versão de agosto de 2021. Verifique 
 
 Os recursos a seguir serão lançados em **20 de agosto de 2021**.
 
-## Automação de experiência {#experience-automation}
+## Automação de experiência
 
 * **Autenticação de usuário do Marketo Engage por meio da Adobe Identity**: em breve, novos usuários do Marketo Engage com pacotes Enterprise serão integrados usando as credenciais de usuário do Adobe ID. A migração dos atuais utilizadores para o sistema de identidade integrado só ocorrerá em meados de 2022 e não é necessária qualquer ação até nova ordem. A autenticação de usuário de identidade da Adobe permite que os administradores de TI/segurança gerenciem várias instâncias de produtos da Marketo Engage juntamente com outras soluções da Experience Cloud, além de configurar o SSO por meio de um console comum. Os administradores podem gerenciar convenientemente grupos de usuários e direitos de usuário em um único local.
 
@@ -219,7 +189,7 @@ Os recursos a seguir serão lançados em **20 de agosto de 2021**.
 
 * **[Exportação de Atividades Personalizadas](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**: a exportação de metadados agora oferece suporte a todos os objetos e respectivos metadados que podem ser usados para compartilhar, analisar e projetar seu modelo de dados de assinatura.
 
-## Aprimoramentos na API {#api-enhancements}
+## Aprimoramentos na API
 
 * **Enviar API de Formulário**: quando um endereço de email é duplicado em dois ou mais registros de cliente potencial, atualizamos o registro &quot;última atualização&quot; em vez de ignorarmos completamente. Fornece paridade com a API do Forms 2.0.
 
@@ -229,13 +199,13 @@ Os recursos a seguir serão lançados em **20 de agosto de 2021**.
 
 Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos próximos meses.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(estrela)](assets/yellow-star.png)
 
 * **Visibilidade aprimorada das atividades de cliente potencial, contato, conta e oportunidade para usuários do Salesforce CRM**: o engajamento com clientes potenciais durante longos ciclos de vendas é mais informado devido a um maior número de registros de engajamento em [!DNL Sales Insight]. As guias de momentos interessantes, atividade da Web, email e pontuação mostram até 400 atividades em objetos de cliente potencial, contato, conta e oportunidade.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(estrela)](assets/yellow-star.png)
 
@@ -247,17 +217,17 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 * **Insights Aprimorados de Atividades de Vendas**: capture e ative o envolvimento personalizado com base nas atividades anteriores de sua equipe de vendas. Novos atributos, como Link de registro de chamada de vendas, Nome da campanha de vendas e Assunto do email de vendas, podem ser usados nas listas inteligentes do Marketo Engage.  Essas atividades podem ser exportadas e relatadas por meio da API REST do Marketo Engage ou Exportação em massa e estão disponíveis em filtros e acionadores como restrições adicionais para smart lists.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Integração do Forms com a Geração de Clientes Potenciais**: os profissionais de marketing agora podem realizar atribuição de receita em conversões que ocorrem quando [!DNL LinkedIn] captura preenchimentos de formulário por meio de suas unidades de anúncio do Forms de Geração de Clientes Potenciais. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. [!DNL LinkedIn] A Forms de geração de clientes potenciais é uma das ofertas de mídia paga que mais crescem no [!DNL LinkedIn] e esse novo recurso está incluído na integração existente do [!DNL LinkedIn] Ads com o [!DNL Bizible].
+* **[!DNL Bizible][!DNL LinkedIn] Integração do Forms com a Geração de Clientes Potenciais**: os profissionais de marketing agora podem realizar atribuição de receita em conversões que ocorrem quando [!DNL LinkedIn] captura preenchimentos de formulário por meio de suas unidades de anúncio do Forms de Geração de Clientes Potenciais. Esses insights podem ser usados para otimizar o desempenho do formulário e os investimentos em mídia paga. [!DNL LinkedIn] A Forms de geração de clientes potenciais é uma das ofertas de mídia paga que mais crescem no [!DNL LinkedIn] e esse novo recurso está incluído na integração existente do [!DNL LinkedIn] Ads com o [!DNL Bizible].
 
 * **Painel do Velocity aprimorado**: adicionamos uma nova métrica de velocidade e um novo filtro de painel para obter insights mais profundos. Esse painel é usado pelos profissionais de marketing para entender a velocidade do lead e da oportunidade estágio por estágio e a eficiência de diferentes formas de envolvimento de marketing e vendas.
 
 * **Novo Painel de Jornada em cascata de coorte**: isso permitirá que os profissionais de marketing visualizem a progressão de uma coorte selecionada por meio de um conjunto clássico de estágios de &quot;cascata de demanda&quot;, fornecendo um rápido entendimento das taxas de conversão e da causalidade de conversão de estágio implícita em cada estágio.
 
-## Integração do [!DNL Bizible] com o Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
+## Integração do [!DNL Bizible] com a Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
 Esta seção inclui novos recursos para usuários do Bizible que concluíram a migração do Adobe Identity Management System (IMS). Se tiver migrado, você verá seu novo Adobe ID nas Configurações do [!DNL Bizible] na guia Adobe ID. Todas as contas devem ser migradas até o final de 2021.
 
@@ -267,7 +237,7 @@ Esta seção inclui novos recursos para usuários do Bizible que concluíram a m
 
 * **[!DNL Bizible]Propriedade e Autogerenciamento do Domínio**: [!DNL Bizible] usuários podem aproveitar o Adobe Admin Console para gerenciar os domínios que o [!DNL Bizible] deseja rastrear. Isso leva o autoatendimento a um processo anteriormente manual e fornece uma experiência consistente sobre como a propriedade e o rastreamento de domínios são gerenciados nos aplicativos da Adobe Experience Cloud.
 
-## Anúncios {#announcements}
+## Anúncios
 
 * **Atualização das Configurações de Assinatura da Universal ID**: para oferecer suporte à futura integração da Marketo Engage e da Adobe Identity para usuários existentes, todas as assinaturas do Marketo Engage serão unificadas na habilitação do suporte à Universal ID.
 
@@ -299,7 +269,7 @@ Os recursos a seguir serão lançados em **22 de outubro de 2021**, com uma impl
 
 * **Monitorar tarefas**: monitore o status de tarefas executadas em segundo plano na nova experiência através da nova bandeja de notificação de tarefas na barra de navegação global. A bandeja captura notificações para tarefas iniciadas a partir da nova visualização de experiência de detalhes de formulário e lista de páginas de aterrissagem, incluindo a alteração do status em páginas de aterrissagem e ações em massa gerais usando a nova experiência.
 
-## Automação de experiência {#experience-automation}
+## Automação de experiência
 
 * **Suporte a Campo Personalizado de Membro da API de Formulário**: o ponto de extremidade da API de Formulário de Envio foi atualizado para oferecer suporte a Campos Personalizados de Membro do Programa, permitindo integrações de formulários personalizados para coletar dados específicos do programa.
 
@@ -311,7 +281,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 * **Conector do Adobe Experience Platform Marketo Data Source**: os usuários do Adobe Experience Platform e do Marketo Engage poderão utilizar o Conector do Marketo Source para trazer dados do Marketo para o AEP. Você poderá transmitir dados (e suas alterações) do Marketo no AEP para manter a consistência dos dados entre os dois produtos. O Marketo Connector pode ser visto por meio do catálogo Origens, listado em &quot;Aplicativos do Adobe&quot;.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(estrela)](assets/yellow-star.png)
 
@@ -325,7 +295,7 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 * **Melhores Opções[!UICONTROL no nível de Conta e Oportunidade]**: [!DNL Sales Insight] agora permite que os representantes de vendas analisem as Melhores Opções de todos os contatos na conta ou oportunidade que possuam, mesmo quando o contato estiver atribuído a outro membro da equipe. Isso dá aos proprietários de contas e oportunidades total visibilidade das atividades de contatos relevantes e os ajuda a agir com base em uma visão mais holística da conta ou oportunidade.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(estrela)](assets/yellow-star.png)
 
@@ -333,13 +303,13 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 
 * **Experiência de Usuário Simplificada**: esta atualização apresenta novas fontes, cores, botões e modais para o [!DNL Sales Connect], que são baseados no sistema de design do Adobe Spectrum. Com essas atualizações, estamos fornecendo uma experiência mais eficiente, em que os vendedores podem se concentrar no que é necessário, quando é necessário.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]Integração com o Adobe Privacy Service (GA)**: a integração do [!DNL Bizible] com o Adobe Privacy Service centraliza a conformidade com as regulamentações críticas de privacidade de dados, como o GDPR (Regulamento Geral sobre a Privacidade de Dados) ou a CCPA (Lei de Privacidade do Consumidor da Califórnia) nos aplicativos da Adobe Experience Cloud. Agora você pode aproveitar esse serviço e gerenciar todas as solicitações de privacidade centralmente por meio do Privacy Service da Adobe, para que as solicitações de alteração que entram no [!DNL Bizible] e em outros produtos da Adobe sejam refletidas em todos os aplicativos.
+* **[!DNL Bizible]Integração com o Adobe Privacy Service (GA)**: a integração de [!DNL Bizible] com o Adobe Privacy Service centraliza a conformidade com as regulamentações críticas de privacidade de dados, como o GDPR (Regulamento Geral sobre a Privacidade de Dados) ou a CCPA (Lei de Privacidade do Consumidor da Califórnia) nos aplicativos da Adobe Experience Cloud. Agora você pode aproveitar esse serviço e gerenciar todas as solicitações de privacidade centralmente por meio do Privacy Service da Adobe, para que as solicitações de alteração que entram no [!DNL Bizible] e em outros produtos da Adobe sejam refletidas em todos os aplicativos.
 
-## Anúncios {#announcements}
+## Anúncios
 
 * **Desativação do lead associado/Atualização do Munchkin Beta 161**: em 7 de setembro de 2021, a versão 161 do Munchkin começou a ser lançada para 10% das assinaturas com o Munchkin Beta habilitado, seguido por 50% em 16 de setembro e 100% em 30 de setembro. Essa alteração afeta as páginas de aterrissagem do Marketo Engage e a versão do arquivo munchkin-beta.js veiculada para páginas de aterrissagem externas carregadas de assinaturas para as quais a versão recente foi implementada. Esta versão substitui totalmente o método de cliente potencial associado [!DNL Munchkin], que é um recurso que permite o envio dos dados de uma pessoa para uma assinatura do Marketo Engage e o histórico de navegação na Web associado a um registro de pessoa conhecida. O Associar lead está sendo removido em favor de alternativas mais modernas e seguras, como a API JS do Forms, a API de envio de formulário e a API REST do Associar lead. [Saiba mais sobre esta descontinuação aqui](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
@@ -348,3 +318,4 @@ Os recursos a seguir estão em um ciclo não trimestral e serão lançados nos p
 **_Webinar de lançamento de produto_**
 
 [Webinário da versão de outubro de 2021 do Marketo Engage](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+

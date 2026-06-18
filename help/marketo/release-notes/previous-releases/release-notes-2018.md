@@ -2,33 +2,10 @@
 title: 2018
 description: 2018 - Documentação do Marketo - Documentação do produto
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b4dd41a7-ccf8-4e9d-918e-acaab534a307id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: beb7a3c1-66ab-4786-b879-7621375b3c40id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 1871
 ht-degree: 4%
@@ -105,7 +82,7 @@ A Marketo está adicionando uma fonte de dados japonesa adicional para o Web Per
 
 O Web Personalization agora pode personalizar o conteúdo para um visitante conhecido da Web que faz parte de uma lista estática definida nas Atividades de marketing (MLM). Com esse aprimoramento, agora é possível vender para listas estáticas em canais e direcionar pessoas nessas listas com conteúdo personalizado no seu site.
 
-## IA de conteúdo {#contentai}
+## IA de conteúdo
 
 **Aprimoramento do Algoritmo Preditivo**
 
@@ -189,7 +166,7 @@ Compartilhe facilmente seus Gráficos Rápidos com outros usuários do [!UICONTR
 
 A navegação otimizada e os fluxos de trabalho aprimorados dão a você visibilidade dos critérios de sucesso do Programa e acesso aos detalhes do Programa.
 
-## IA de conteúdo {#contentai}
+## IA de conteúdo
 
 [Configuração da meta](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
@@ -217,7 +194,7 @@ Os seguintes recursos estão incluídos na versão do último trimestre de 2018.
 
 Clique nos links de título para exibir artigos detalhados para cada recurso, se disponíveis.
 
-## Melhorias da plataforma principal {#core-platform-enhancements}
+## Melhorias da plataforma principal
 
 **[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -305,3 +282,4 @@ O Marketo agora é compatível com o uso de campos de disposição de email por 
 >[!NOTE]
 >
 >A Marketo também está atualizando bibliotecas relacionadas a identidade e autenticação. Enquanto a atualização estiver em andamento, você poderá notar erros intermitentes se tiver uma sessão ativa aberta. Se você tiver problemas, faça logoff e logon novamente na sua assinatura.
+
