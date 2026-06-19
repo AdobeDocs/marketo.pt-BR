@@ -4,7 +4,7 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 2778f5a4fdc2221b9b46fbda5df90f9e35fa6b9f
+source-git-commit: 1f54476f0f7d66f6250299464b3c1145b11e86b1
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -104,4 +104,4 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 
 ## Atualizações e suporte
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support).
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
