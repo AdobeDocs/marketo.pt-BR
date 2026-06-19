@@ -4,7 +4,7 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1f54476f0f7d66f6250299464b3c1145b11e86b1
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -44,9 +44,9 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 Antes de examinar as tabelas abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
 
-## Cronograma {#schedule}
+## Programação {#schedule}
 
-Novas datas e informações de data centers/pod são adicionadas periodicamente, portanto, verifique aqui novamente para obter detalhes.
+Novas datas e informações de data center/pod são adicionadas periodicamente, portanto, verifique aqui para obter detalhes.
 
 <table>
  <tbody>
@@ -74,7 +74,7 @@ Novas datas e informações de data centers/pod são adicionadas periodicamente,
    <td>17:00 PST<br>
    18h00 PST</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Endereços IP a serem adicionados {#ip-addresses}
@@ -99,9 +99,9 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 18.200.201.81<br>
 54.220.138.65</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Atualizações e suporte
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
