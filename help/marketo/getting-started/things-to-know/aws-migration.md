@@ -4,10 +4,10 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: 51020c6772c6a81ef53f3a0effcf43cda01f85f4
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 3%
+source-wordcount: '390'
+ht-degree: 2%
 
 ---
 
@@ -58,23 +58,42 @@ Novas datas e informações de data center/pod são adicionadas periodicamente, 
   <tr>
    <td>19 de junho de 2026</td>
    <td>AB46</td>
-   <td>17:00 PST</td>
+   <td>ADIADO</td>
   </tr>
   <tr>
    <td>8 de julho de 2026</td>
    <td>AB69<br>
    AB64</td>
-   <td>17:00 PST<br>
-   18h00 PST</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
   </tr>
   <tr>
    <td>9 de julho de 2026</td>
    <td>AB70<br>
    AB43</td>
-   <td>17:00 PST<br>
-   18h00 PST</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
   </tr>
-  &lt;/body>
+  <tr>
+   <td>13 de julho de 2026</td>
+   <td>NLD101</td>
+   <td>10h PDT (horário do Pacífico)</td>
+  </tr>
+  <tr>
+   <td>15 de julho de 2026</td>
+   <td>NLD102<br>
+   NLD104</td>
+   <td>10h PDT (horário do Pacífico)<br>
+   11:00 PDT</td>
+  </tr>
+  <tr>
+   <td>17 de julho de 2026</td>
+   <td>NLD103<br>
+   NLD105</td>
+   <td>10h PDT (horário do Pacífico)<br>
+   11:00 PDT</td>
+  </tr>
+  </body>
 </table>
 
 ## Endereços IP a serem adicionados {#ip-addresses}
@@ -99,9 +118,9 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
 ## Atualizações e suporte
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
