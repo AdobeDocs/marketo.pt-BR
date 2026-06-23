@@ -4,9 +4,9 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 51020c6772c6a81ef53f3a0effcf43cda01f85f4
+source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '392'
 ht-degree: 2%
 
 ---
@@ -56,11 +56,6 @@ Novas datas e informações de data center/pod são adicionadas periodicamente, 
    <th style="width:30%">Hora</th>
   </tr>
   <tr>
-   <td>19 de junho de 2026</td>
-   <td>AB46</td>
-   <td>ADIADO</td>
-  </tr>
-  <tr>
    <td>8 de julho de 2026</td>
    <td>AB69<br>
    AB64</td>
@@ -73,6 +68,11 @@ Novas datas e informações de data center/pod são adicionadas periodicamente, 
    AB43</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+  </tr>
+  <tr>
+   <td>11 de julho de 2026</td>
+   <td>AB46</td>
+   <td>10h PDT (horário do Pacífico)</td>
   </tr>
   <tr>
    <td>13 de julho de 2026</td>
@@ -93,7 +93,7 @@ Novas datas e informações de data center/pod são adicionadas periodicamente, 
    <td>10h PDT (horário do Pacífico)<br>
    11:00 PDT</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## Endereços IP a serem adicionados {#ip-addresses}
@@ -118,9 +118,9 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
 ## Atualizações e suporte
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
