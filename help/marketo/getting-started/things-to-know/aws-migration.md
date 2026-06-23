@@ -93,7 +93,7 @@ Novas datas e informações de data center/pod são adicionadas periodicamente, 
    <td>10h PDT (horário do Pacífico)<br>
    11:00 PDT</td>
   </tr>
-  </body>
+  &lt;/body>
 </table>
 
 ## Endereços IP a serem adicionados {#ip-addresses}
@@ -118,7 +118,7 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-</body>
+&lt;/body>
 </table>
 
 ## Atualizações e suporte
