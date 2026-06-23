@@ -5,33 +5,14 @@ title: Descrições de permissões de função
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
 TQID: https://experienceleague.adobe.com/3n-kUApPaDh4HNYgYPGgo94S04tjxqrTgA7UxdwY1h4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
-  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
-  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: f5e85a9b-a883-40d0-8759-f3651efb32e9id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
-ht-degree: 19%
+source-wordcount: 1338
+ht-degree: 18%
 
 ---
 
@@ -68,7 +49,7 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acesso `Data.com` - Concede aos usuários acesso à ação de fluxo Data.com
 * Acessar administrador de email - Concede aos usuários acesso ao Administrador de email para alterar as configurações padrão, como domínios de cancelamento de inscrição e identidade visual
 * Parceiros de evento de acesso - Fornece aos usuários acesso ao LaunchPoint no Administrador
-* Acessar o compartilhamento de público-alvo da Experience Cloud - Fornece aos usuários acesso para sincronizar um público-alvo do Adobe Experience Cloud com o Marketo Engage
+* Acessar o compartilhamento de público-alvo da Experience Cloud - fornece aos usuários acesso para sincronizar um público-alvo da Adobe Experience Cloud para a Marketo Engage
 * Gerenciamento de campos de acesso - Concede aos usuários acesso ao Gerenciamento de campos no Administrador
 * Acessar upload de arquivo - Oferece aos usuários a capacidade de carregar imagens e arquivos no Design Studio
 * Acessar páginas de aterrissagem - Concede aos usuários acesso às páginas de aterrissagem no Admin
@@ -234,15 +215,10 @@ Exiba a guia Atividades de marketing, campanhas e pastas de campanha.
 * Excluir ativo de marketing
 * Editar restrições de campanha
 * Editar ativo de marketing
-* Exportar Atividade de Campanha&#42;
+* Exportar atividade da campanha
 * Importar programa
 * Importação de lista
 * Programar campanha em lote
-
-Acessar SEO
-
-* Administrar SEO
-* SEO padrão
 
 ## Direcionamento e personalização {#targeting-and-personalization}
 
