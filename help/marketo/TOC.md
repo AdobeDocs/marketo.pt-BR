@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 85837c6612724787d58179dd69ff44b91a909b79
+source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
 workflow-type: tm+mt
-source-wordcount: '8893'
+source-wordcount: '8898'
 ht-degree: 96%
 
 ---
@@ -1110,6 +1110,7 @@ ht-degree: 96%
    + MARKETO AI {#marketo-ai}
       + [Visão geral](product-docs/marketo-ai/overview.md)
       + [Configurações e configuração](product-docs/marketo-ai/settings-setup.md)
+      + {hide-from-toc}[Folha de informações de dados do Marketo AI](product-docs/marketo-ai/data-information.md)
       + Habilidades {#skills}
          + [Conhecimento do produto](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[Insights de superfície](product-docs/marketo-ai/skills/surface-insights.md)
@@ -1121,7 +1122,7 @@ ht-degree: 96%
    + UX moderna do Marketo Engage {#marketo-engage-modern-ux}
       + [Visão geral](product-docs/marketo-engage-modern-ux/overview.md)
       + [Uso da pesquisa global](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-      + {hide-from-toc}[Alternar &#x200B;](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+      + {hide-from-toc}[Alternar ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
    + Notificações do Marketo {#marketo-notifications}
       + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
