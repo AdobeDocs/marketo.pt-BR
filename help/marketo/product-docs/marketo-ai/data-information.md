@@ -2,7 +2,7 @@
 description: Revise o escopo de dados da IA do Marketo, os controles de governança e as considerações de PII em fluxos de trabalho principais, como importação de clientes potenciais, controle de qualidade do programa e normalização de dados.
 title: Folha de informações de dados da IA do Marketo
 badge: beta
-source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
+source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
 workflow-type: tm+mt
 source-wordcount: '1454'
 ht-degree: 0%
@@ -127,25 +127,25 @@ Os dados processados pela IA do Marketo são determinados pelo padrão de uso do
 
 ### Fluxos de trabalho que utilizam apenas os metadados da campanha (sem informações de clientes potenciais)
 
-* Criação de programa a partir de resumo — gera estruturas de programa, campanhas inteligentes, etapas de fluxo e espaços reservados para conteúdo a partir de instruções em linguagem natural
-* Clonagem e tradução de e-mails — duplica e traduz conteúdo do HTML por e-mail, linhas de assunto e cópia de marketing em variantes de idioma
-* Auditoria de campanha — analisa configurações inteligentes de campanha, definições de acionador/filtro, lógica de fluxo e convenções de nomenclatura
-* Validação de controle de qualidade do programa — avalia os programas em relação às regras definidas pelo usuário para conformidade, status de aprovação e integridade estrutural
-* Revisões do centro de assinaturas e da arquitetura do programa — analisa a lógica da campanha e a estrutura do programa
-* Conhecimento do produto e orientação de práticas recomendadas — fornece respostas práticas da Marketo a partir de uma camada de conhecimento compartilhada
+* Criação de programa a partir de resumo: gera estruturas de programa, campanhas inteligentes, etapas de fluxo e espaços reservados para conteúdo a partir de instruções em linguagem natural
+* Clonagem e tradução de email: duplica e traduz conteúdo do HTML de email, linhas de assunto e cópia de marketing em variantes de idioma
+* Auditoria de campanha: revisa configurações de campanha inteligentes, definições de acionador/filtro, lógica de fluxo e convenções de nomenclatura
+* Validação de controle de qualidade do programa: avalia os programas em relação às regras definidas pelo usuário para conformidade, status de aprovação e integridade estrutural
+* Resenhas do centro de assinaturas e da arquitetura do programa: analisa a lógica da campanha e a estrutura do programa
+* Conhecimento do produto e orientação de práticas recomendadas: o fornece respostas passo a passo do Marketo a partir de uma camada de conhecimento compartilhada
 
 ### Fluxos de trabalho que usam registros de nível de lead (campos de contato B2B padrão)
 
-* Investigação e solução de problemas de clientes potenciais: examina valores de campo de clientes potenciais individuais fornecidos pelo usuário, histórico de atividades e progressão do ciclo de vida para diagnosticar por que um cliente potencial atingiu ou não o status de MQL ou se qualificou para uma campanha de marketing
-* Importação e normalização de clientes potenciais — processa dados de clientes potenciais fornecidos pelo usuário, inclusive nomes, endereços de email, números de telefone e campos da empresa para mapeamento, limpeza e desduplicação
+* Investigação e solução de problemas de lead: examina valores de campo de lead individuais fornecidos pelo usuário, histórico de atividades e progressão do ciclo de vida para diagnosticar por que um lead atingiu ou não o status de MQL ou se qualificou para uma campanha de marketing
+* Importação e normalização de clientes potenciais: processa dados de clientes potenciais fornecidos pelo usuário, incluindo nomes, endereços de email, números de telefone e campos da empresa para mapeamento, limpeza e desduplicação
 * Classificação e enriquecimento de clientes potenciais: avalia os registros de clientes potenciais em relação à pontuação ou lógica de classificação definida pelo usuário (por exemplo, clientes potenciais válidos vs. spam para integridade do banco de dados, personalidades para fins de personalização, clientes potenciais de negócios com clientes potenciais de email corporativo versus clientes potenciais de consumidor)
-* Auditorias de qualidade e capacidade de entrega de dados — analisa dados de contrato de nível de lead, padrões de rejeição e registros duplicados para identificar problemas de integridade do banco de dados
-* Análise de desempenho do Campaign — padrões de envolvimento de clientes potenciais de superfícies, dados de conversão e composição de público para oferecer suporte à análise de desempenho
+* Auditorias de qualidade e capacidade de entrega de dados: analisa dados de envolvimento no nível do lead, padrões de rejeição e registros duplicados para identificar problemas de integridade do banco de dados
+* Análise de desempenho do Campaign: padrões de envolvimento de clientes potenciais de superfícies, dados de conversão e composição de público para oferecer suporte à análise de desempenho
 
 ### Minimização de dados por design
 
 * Em todos os casos, os dados enviados para o modelo de IA são limitados ao necessário para atender à solicitação específica do usuário nesse fluxo de trabalho
-* A IA do Marketo segue as permissões existentes do Marketo Engage do usuário — ela não fornece acesso a registros, campos ou programas de clientes potenciais além do que o usuário tem permissão para visualizar por meio da interface do usuário do produto
+* A IA do Marketo segue as permissões existentes do Marketo Engage do usuário; ela não fornece acesso a registros, campos ou programas de clientes potenciais além do que o usuário tem permissão para visualizar por meio da interface do usuário do produto
 * Os usuários que desejam limitar o processamento de dados de clientes potenciais podem restringir o acesso aos fluxos de trabalho de investigação da ferramenta por meio dos controles de permissões e funções existentes do Marketo Engage, mantendo o acesso total aos recursos de IA estruturais e administrativos
 
 ### Sem exposição de dados incremental
