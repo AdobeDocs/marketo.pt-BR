@@ -2,9 +2,9 @@
 description: Revise o escopo de dados da IA do Marketo, os controles de governança e as considerações de PII em fluxos de trabalho principais, como importação de clientes potenciais, controle de qualidade do programa e normalização de dados.
 title: Folha de informações de dados da IA do Marketo
 badge: beta
-source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
+source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
 workflow-type: tm+mt
-source-wordcount: '1479'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
@@ -121,11 +121,11 @@ Esta seção resume os ambientes nos quais a IA do Marketo opera e onde ocorre o
 
 **Nenhum repositório entre usuários separado:** O serviço não introduz uma camada de armazenamento ou compartilhamento de dados separada entre usuários.
 
-## Considerações sobre PII e privacidade de dados: escopo de dados por tipo de fluxo de trabalho
+## Escopo de dados por tipo de fluxo de trabalho
 
 Os dados processados pela IA do Marketo são determinados pelo padrão de uso do usuário e pelo fluxo de trabalho específico chamado. Nem todos os fluxos de trabalho exigem dados de nível de lead de processamento.
 
-### Fluxos de trabalho que processam somente metadados da campanha (sem PII do cliente potencial)
+### Fluxos de trabalho que utilizam apenas os metadados da campanha (sem informações de clientes potenciais)
 
 * Criação de programa a partir de resumo — gera estruturas de programa, campanhas inteligentes, etapas de fluxo e espaços reservados para conteúdo a partir de instruções em linguagem natural
 * Clonagem e tradução de e-mails — duplica e traduz conteúdo do HTML por e-mail, linhas de assunto e cópia de marketing em variantes de idioma
@@ -134,9 +134,9 @@ Os dados processados pela IA do Marketo são determinados pelo padrão de uso do
 * Revisões do centro de assinaturas e da arquitetura do programa — analisa a lógica da campanha e a estrutura do programa
 * Conhecimento do produto e orientação de práticas recomendadas — fornece respostas práticas da Marketo a partir de uma camada de conhecimento compartilhada
 
-### Fluxos de trabalho que processam registros de nível de lead (campos de contato B2B padrão)
+### Fluxos de trabalho que usam registros de nível de lead (campos de contato B2B padrão)
 
-* Investigação e solução de problemas de clientes potenciais: examina valores de campo de clientes potenciais individuais, histórico de atividades e progressão do ciclo de vida para diagnosticar por que um cliente potencial atingiu ou não o MQL ou se qualificou para uma campanha de marketing
+* Investigação e solução de problemas de clientes potenciais: examina valores de campo de clientes potenciais individuais fornecidos pelo usuário, histórico de atividades e progressão do ciclo de vida para diagnosticar por que um cliente potencial atingiu ou não o status de MQL ou se qualificou para uma campanha de marketing
 * Importação e normalização de clientes potenciais — processa dados de clientes potenciais fornecidos pelo usuário, inclusive nomes, endereços de email, números de telefone e campos da empresa para mapeamento, limpeza e desduplicação
 * Classificação e enriquecimento de clientes potenciais: avalia os registros de clientes potenciais em relação à pontuação ou lógica de classificação definida pelo usuário (por exemplo, clientes potenciais válidos vs. spam para integridade do banco de dados, personalidades para fins de personalização, clientes potenciais de negócios com clientes potenciais de email corporativo versus clientes potenciais de consumidor)
 * Auditorias de qualidade e capacidade de entrega de dados — analisa dados de contrato de nível de lead, padrões de rejeição e registros duplicados para identificar problemas de integridade do banco de dados
@@ -145,8 +145,7 @@ Os dados processados pela IA do Marketo são determinados pelo padrão de uso do
 ### Minimização de dados por design
 
 * Em todos os casos, os dados enviados para o modelo de IA são limitados ao necessário para atender à solicitação específica do usuário nesse fluxo de trabalho
-* A IA herda as permissões existentes do Marketo Engage do usuário solicitante — não é possível acessar registros, campos ou programas de clientes potenciais além do que o usuário já pode visualizar por meio da interface do usuário do produto
-* Os workflows investigativos e de operações de dados exigem necessariamente dados de nível de lead, pois o usuário está pedindo explicitamente à IA que analise, classifique ou aja nesses registros
+* A IA do Marketo segue as permissões existentes do Marketo Engage do usuário — ela não fornece acesso a registros, campos ou programas de clientes potenciais além do que o usuário tem permissão para visualizar por meio da interface do usuário do produto
 * Os usuários que desejam limitar o processamento de dados de clientes potenciais podem restringir o acesso aos fluxos de trabalho de investigação da ferramenta por meio dos controles de permissões e funções existentes do Marketo Engage, mantendo o acesso total aos recursos de IA estruturais e administrativos
 
 ### Sem exposição de dados incremental
