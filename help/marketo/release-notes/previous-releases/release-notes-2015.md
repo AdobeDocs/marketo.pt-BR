@@ -1,5 +1,5 @@
 ---
-title: 2015
+title: "2015"
 description: 2015 - Documentação do Marketo - Documentação do produto
 feature: Release Information
 feature_v2:
@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
-source-wordcount: 2816
+source-wordcount: 2871
 ht-degree: 6%
 
 ---
@@ -281,8 +281,7 @@ No almoço, mas precisa reagendar um email? O aplicativo [!DNL Marketo Moments],
 
 ## Atualização do editor de rich text {#rich-text-editor-update}
 
-Editor de texto atualizado com aparência moderna, incluindo formatação de texto simplificada, edição de imagens, inserção de links e edição de HTML. O editor do HTML agora apresenta validação mínima, permitindo uma edição de código menos restritiva.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Essa atualização será lançada automaticamente em alguns dias a partir do lançamento de julho. Posteriormente, você poderá alternar entre as versões Nova e Herdada do editor de **[!UICONTROL Admin] > [!UICONTROL Email] > [!UICONTROL Editar configurações do editor]**.
+Editor de texto atualizado com aparência moderna, incluindo formatação de texto simplificada, edição de imagens, inserção de links e edição de HTML. O editor do HTML agora apresenta validação mínima, permitindo uma edição de código menos restritiva.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Essa atualização será lançada automaticamente em alguns dias a partir do lançamento de julho. Posteriormente, você poderá alternar entre as versões Nova e Herdada do editor de **[!UICONTROL Admin] > [!UICONTROL Email] > [!UICONTROL Editar configurações do editor]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 

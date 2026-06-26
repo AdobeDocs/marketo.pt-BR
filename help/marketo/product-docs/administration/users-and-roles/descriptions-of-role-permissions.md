@@ -28,10 +28,10 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
-ht-degree: 19%
+source-wordcount: 1338
+ht-degree: 18%
 
 ---
 
@@ -68,7 +68,7 @@ Exiba e faça alterações nas configurações na seção Minha conta do Adminis
 * Acesso `Data.com` - Concede aos usuários acesso à ação de fluxo Data.com
 * Acessar administrador de email - Concede aos usuários acesso ao Administrador de email para alterar as configurações padrão, como domínios de cancelamento de inscrição e identidade visual
 * Parceiros de evento de acesso - Fornece aos usuários acesso ao LaunchPoint no Administrador
-* Acessar o compartilhamento de público-alvo da Experience Cloud - Fornece aos usuários acesso para sincronizar um público-alvo do Adobe Experience Cloud com o Marketo Engage
+* Acessar o compartilhamento de público-alvo da Experience Cloud - fornece aos usuários acesso para sincronizar um público-alvo da Adobe Experience Cloud para a Marketo Engage
 * Gerenciamento de campos de acesso - Concede aos usuários acesso ao Gerenciamento de campos no Administrador
 * Acessar upload de arquivo - Oferece aos usuários a capacidade de carregar imagens e arquivos no Design Studio
 * Acessar páginas de aterrissagem - Concede aos usuários acesso às páginas de aterrissagem no Admin
@@ -234,15 +234,10 @@ Exiba a guia Atividades de marketing, campanhas e pastas de campanha.
 * Excluir ativo de marketing
 * Editar restrições de campanha
 * Editar ativo de marketing
-* Exportar Atividade de Campanha&#42;
+* Exportar atividade da campanha
 * Importar programa
 * Importação de lista
 * Programar campanha em lote
-
-Acessar SEO
-
-* Administrar SEO
-* SEO padrão
 
 ## Direcionamento e personalização {#targeting-and-personalization}
 
