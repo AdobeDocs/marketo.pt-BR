@@ -1,21 +1,17 @@
 ---
 unique-page-id: 2360368
 description: Saiba como configurar o Marketo Sales Insight nas edições Salesforce Enterprise/Unlimited.
-title: Configurar o Marketo Sales Insight no Salesforce Enterprise/Unlimited
+title: Configurar o Insight de vendas do Marketo no Salesforce Enterprise/Unlimited
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/Dhc6WFTsED3JZMqeDobufqLCCrMAp6x5t3aAa-rLmVA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 946
-ht-degree: 0%
+source-wordcount: 977
+ht-degree: 5%
 
 ---
 
@@ -105,6 +101,10 @@ Configure o Marketo Sales Insight no Salesforce Enterprise/Unlimited editions se
 
 ## Conceder acesso ao perfil de usuários do Sales Insight a objetos padrão do Salesforce {#grant-sales-insight-users-profile-access}
 
+>[!IMPORTANT]
+>
+>A Licença Salesforce padrão é necessária para a funcionalidade completa do MSI. Os usuários com a Licença da Salesforce Platform (uma classe de licença limitada) podem ver erros ao executar determinadas ações ou acessar algumas guias.
+
 Devido aos aprimoramentos de segurança do Salesforce, os pacotes do AppExchange não podem mais conceder permissão a objetos padrão e o acesso deve ser concedido aos objetos relevantes do Salesforce no perfil do usuário do Salesforce. Para conceder as permissões necessárias, siga estas etapas.
 
 1. Clique em **[!UICONTROL Instalação]**.
@@ -167,15 +167,15 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes do AppExchange
 
    * Último momento interessante
    * Data do último momento interessante
-   * Última Descrição de Momento Interessante
-   * Source do último momento interessante
-   * Último tipo de momento interessante
+   * Desc. do último momento interessante
+   * Fonte do último momento interessante
+   * Tipo do último momento interessante
    * Última atividade por vendas
    * Último engajamento por vendas
    * ID de contato MSI
    * Pontuação relativa
-   * Valor da pontuação relativa
-   * Urgente
+   * Valor de pontuação relativa
+   * Urgência
    * Valor de urgência
    * Exibir no Marketo
 
