@@ -1,7 +1,7 @@
 ---
 unique-page-id: 3571743
 description: Saiba como configurar o Marketo Sales Insight no Salesforce Professional Edition.
-title: Configurar o Marketo Sales Insight no Salesforce Professional Edition
+title: Configurar o Insight de vendas do Marketo na edição Professional do Salesforce
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw
@@ -12,10 +12,10 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 779
-ht-degree: 0%
+source-wordcount: 810
+ht-degree: 1%
 
 ---
 
@@ -87,6 +87,10 @@ Configure o Marketo Sales Insight no Salesforce Professional Edition seguindo as
 
 ## Conceder acesso ao perfil de usuários do Sales Insight a objetos padrão do Salesforce {#grant-sales-insight-users-profile-access}
 
+>[!IMPORTANT]
+>
+>A Licença Salesforce padrão é necessária para a funcionalidade completa do MSI. Os usuários com a Licença da Salesforce Platform (uma classe de licença limitada) podem ver erros ao executar determinadas ações ou acessar algumas guias.
+
 Devido aos aprimoramentos de segurança do Salesforce, os pacotes do AppExchange não podem mais conceder permissão a objetos padrão e o acesso deve ser concedido aos objetos relevantes do Salesforce no perfil do usuário do Salesforce. Conceda as permissões necessárias seguindo estas etapas.
 
 1. Clique em **[!UICONTROL Instalação]**.
@@ -147,7 +151,7 @@ Devido aos aprimoramentos de segurança do Salesforce, os pacotes do AppExchange
 
 1. Repita a etapa anterior para os seguintes campos:
 
-   * [!UICONTROL Compromisso]
+   * [!UICONTROL Engajamento]
    * [!UICONTROL Valor de Pontuação Relativo]
    * [!UICONTROL Valor de Urgência]
    * [!UICONTROL Data do Último Momento Interessante]
