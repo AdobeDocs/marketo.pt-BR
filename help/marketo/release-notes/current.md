@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: 14cdc585c2c5b972dd3743c5eb3e253a8a91f608
 workflow-type: tm+mt
-source-wordcount: 483
+source-wordcount: 481
 ht-degree: 22%
 
 ---
@@ -43,7 +43,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   <tr>
    <td><strong>Habilidade do Marketo AI - Conhecimento do produto</strong>: o conhecimento do produto oferece acesso sob demanda ao conhecimento da Marketo sem sair da plataforma. Faça uma pergunta em linguagem simples e a IA do Marketo se baseia na documentação oficial do Adobe para respondê-la.</td>
    <td>Abrir beta</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Visão geral da IA do Marketo</a></td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conhecimento do produto</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +54,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Habilidade do Marketo AI - Investigar clientes potenciais</strong>: descubra por que uma pessoa/cliente potencial específico não atingiu um marco (como MQL, qualificação de programa ou uma campanha) e obtenha uma explicação em linguagem simples do que aconteceu.
 </td>
    <td>Abrir beta</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Visão geral da IA do Marketo</a></td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Investigar clientes em potencial</a></td>
   </tr>
   <tr>
    <td> </td>
