@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
 workflow-type: tm+mt
-source-wordcount: '8902'
+source-wordcount: '8906'
 ht-degree: 96%
 
 ---
@@ -1011,6 +1011,7 @@ ht-degree: 96%
          + [Colaboração por email](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Assistente de IA para Designer de email](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Relatório de spam por email com o SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+         + {hide-from-toc}[Diretrizes de rastreamento aberto da CNIL](product-docs/email-marketing/email-designer/cnil-guidance.md)
       + Programas de email {#email-programs}
          + Criação de um programa de email {#creating-an-email-program}
             + [Criar um programa de email](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
