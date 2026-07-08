@@ -5,16 +5,16 @@ title: Diretrizes da CNIL - Rastreamento de abertura de email condicional
 description: Saiba como configurar o Marketo Engage para conformidade com a CNIL usando um campo booleano personalizado para rotear o rastreamento de abertura de email com base no status de consentimento de cada pessoa.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: de1e3b715de3a7978f851a336ca63b5da2aa86f3
+source-git-commit: b8d1872fc697e42a82675a2b45ce01f21bb83edd
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
 
 # Orientação da CNIL: rastreamento aberto de email condicional {#cnil}
 
-Saiba como configurar o Marketo Engage para honrar o consentimento do usuário final para o rastreamento de abertura de email (pixel), em alinhamento com as diretrizes da CNIL (LINK DA COMUNIDADE). A abordagem usa um campo booleano personalizado para determinar qual variante de email uma pessoa recebe, uma com rastreamento aberto ativado ou outra com ele desativado.
+Saiba como configurar o Marketo Engage para honrar o consentimento do usuário final para o rastreamento de aberturas de email (pixels), em alinhamento com as [diretrizes da CNIL](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=pt){target="_blank"}. A abordagem usa um campo booleano personalizado para determinar qual variante de email uma pessoa recebe, uma com rastreamento aberto ativado ou outra com ele desativado.
 
 ## Etapa 1: criar um campo booleano personalizado {#custom-field}
 
