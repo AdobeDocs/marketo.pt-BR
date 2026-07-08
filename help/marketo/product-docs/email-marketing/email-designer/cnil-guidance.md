@@ -6,10 +6,10 @@ description: Saiba como configurar o Marketo Engage para conformidade com a CNIL
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
+source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 1%
+source-wordcount: '419'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Saiba como configurar o Marketo Engage para honrar o consentimento do usuário f
 
 ## Etapa 2: Preencher o campo de consentimento {#populate}
 
-1. Defina o valor do campo EmailPixelTracking para cada pessoa por meio de importação de dados (sincronização de API ou upload de CSV).
+1. Defina o valor do campo Acompanhamento de pixels de email para cada pessoa por meio da importação de dados (sincronização de API ou [upload de CSV](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -51,7 +51,7 @@ Crie dois emails. Observe que o rastreamento de aberturas de email é ativado po
 
   ![](assets/cnil-5.png)
 
-No Designer Email, a caixa de seleção **Desabilitar rastreamento aberto** pode ser encontrada na guia _Detalhes_ do painel _Resumo_ à direita do seu email. No editor de email herdado, a caixa de seleção **Desabilitar rastreamento aberto** pode ser encontrada no menu _Editar Configurações_.
+No Designer Email, a caixa de seleção **Desabilitar rastreamento aberto** pode ser encontrada na guia _Detalhes_ do painel _Resumo_ à direita do seu email. No editor de email herdado, a caixa de seleção **Desabilitar rastreamento aberto** pode ser encontrada no menu _Configurações de email_.
 
 **Designer de email**
 
@@ -61,9 +61,9 @@ No Designer Email, a caixa de seleção **Desabilitar rastreamento aberto** pode
 
 ![](assets/cnil-7.png){width="800" zoomable="yes"}
 
-## Etapa 4: configurar a campanha inteligente {#smart-campaign}
+## Etapa 4: configurar a Campanha inteligente {#smart-campaign}
 
-Crie uma Campanha inteligente para determinar qual email cada pessoa recebe.
+[Crie uma Campanha Inteligente](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} para determinar qual email cada pessoa recebe.
 
 1. Na guia _Fluxo_ da Campanha Inteligente, insira a etapa de fluxo **Enviar Email**.
 
