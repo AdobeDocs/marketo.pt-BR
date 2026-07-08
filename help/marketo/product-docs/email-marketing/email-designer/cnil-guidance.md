@@ -1,19 +1,18 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Conformidade com as diretrizes da CNIL - Rastreamento aberto de email condicional
+title: Diretrizes da CNIL - Rastreamento de abertura de email condicional
 description: Saiba como configurar o Marketo Engage para conformidade com a CNIL usando um campo booleano personalizado para rotear o rastreamento de abertura de email com base no status de consentimento de cada pessoa.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: de1e3b715de3a7978f851a336ca63b5da2aa86f3
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
-# Conformidade com a orientação da CNIL: rastreamento aberto de email condicional {#cnil}
+# Orientação da CNIL: rastreamento aberto de email condicional {#cnil}
 
 Saiba como configurar o Marketo Engage para honrar o consentimento do usuário final para o rastreamento de abertura de email (pixel), em alinhamento com as diretrizes da CNIL (LINK DA COMUNIDADE). A abordagem usa um campo booleano personalizado para determinar qual variante de email uma pessoa recebe, uma com rastreamento aberto ativado ou outra com ele desativado.
 
