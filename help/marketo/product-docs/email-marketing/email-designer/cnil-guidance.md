@@ -6,9 +6,9 @@ description: Saiba como configurar o Marketo Engage para conformidade com a CNIL
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Saiba como configurar o Marketo Engage para honrar o consentimento do usuário f
 
 ## Etapa 2: Preencher o campo de consentimento {#populate}
 
-1. Defina o valor do campo Acompanhamento de pixels de email para cada pessoa por meio da importação de dados (sincronização de API ou [upload de CSV](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Defina o valor do campo Acompanhamento de pixels de email para cada pessoa por meio da importação de dados (sincronização de API ou [upload de CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -63,13 +63,13 @@ No Designer Email, a caixa de seleção **Desabilitar rastreamento aberto** pode
 
 ## Etapa 4: configurar a Campanha inteligente {#smart-campaign}
 
-[Crie uma Campanha Inteligente](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} para determinar qual email cada pessoa recebe.
+[Crie uma Campanha Inteligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} para determinar qual email cada pessoa recebe.
 
 1. Na guia _Fluxo_ da Campanha Inteligente, insira a etapa de fluxo **Enviar Email**.
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. Na etapa do fluxo, clique em **Adicionar opção**. Na Opção 1, defina **if** como _EmailPixelTracking_, defina o operador como _is_ e defina o valor como _false_. Para **Email**, selecione _Email Dois_.
+1. Na etapa do fluxo, clique em **Adicionar opção**. Na Opção 1, defina **if** como _Acompanhamento de Pixel de Email_, defina o operador como _is_ e defina o valor como _false_. Para **Email**, selecione _Email Dois_.
 
 1. Na Opção Padrão, defina o **Email** como _Email One_.
 
