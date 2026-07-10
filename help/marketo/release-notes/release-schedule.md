@@ -5,16 +5,13 @@ title: Cronograma de lançamento
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
 workflow-type: tm+mt
-source-wordcount: 165
-ht-degree: 78%
+source-wordcount: 152
+ht-degree: 83%
 
 ---
 
@@ -60,18 +57,13 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
    <td>Completado</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Julho de 2026 (1 de 2)</a></td>
+  <td><a href="/help/marketo/release-notes/current.md">Julho de 26</a></td>
    <td>10 de julho de 2026</td>
    <td>No cronograma</td>
   </tr>
   <tr>
-  <td>Julho de 26 (2 de 2)</td>
-   <td>31 de julho de 2026</td>
-   <td>No cronograma</td>
-  </tr>
-  <tr>
   <td>Agosto de 26</td>
-   <td>28 de agosto de 2026</td>
+   <td>14 de agosto de 2026</td>
    <td>No cronograma</td>
   </tr>
   <tr>
