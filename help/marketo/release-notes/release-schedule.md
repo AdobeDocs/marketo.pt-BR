@@ -11,7 +11,7 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
+source-git-commit: eb36cf28856d8f889f39d69825bb2e0046e1b197
 workflow-type: tm+mt
 source-wordcount: 152
 ht-degree: 83%
@@ -62,7 +62,7 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Julho de 26</a></td>
    <td>10 de julho de 2026</td>
-   <td>No cronograma</td>
+   <td>Em andamento</td>
   </tr>
   <tr>
   <td>Agosto de 26</td>
