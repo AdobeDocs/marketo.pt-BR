@@ -53,4 +53,4 @@ Acesse o código de inserção de um formulário para hospedá-lo em seu própri
 
    >[!TIP]
    >
-   >Se o desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a ele a [Página de Desenvolvedores do Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+   >Se o desenvolvedor quiser personalizar a aparência ou acessar funções avançadas da API, mostre a ele a [Página de Desenvolvedores do Forms 2.0](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
