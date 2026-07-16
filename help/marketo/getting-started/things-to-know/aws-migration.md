@@ -166,4 +166,4 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 
 ## Atualizações e suporte {#support}
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
