@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2871
+source-wordcount: 2874
 ht-degree: 6%
 
 ---
@@ -267,7 +267,9 @@ Use os algoritmos de aprendizado de máquina e análise preditiva da RTP para re
 
 Os recursos a seguir estão incluídos na versão de junho de 2015. Verifique a disponibilidade de recursos na sua Marketo Edition. Após o lançamento, não deixe de acessar os links para artigos detalhados de cada recurso.
 
-## [Relatório de email de atribuição](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## Relatório de email de atribuição {#attribution-email-report}
+
+[Relatório de email de atribuição](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 Consulte o valor que a personalização e o conteúdo recomendado fornecem às suas atividades de marketing. [O Relatório de Email de Atribuição](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) exibe os clientes em potencial diretos e assistidos atribuídos pelas campanhas de personalização e conteúdo recomendado da RTP. No RTP, Configurações do usuário e Relatório de email, adicione o Relatório de email de atribuição para receber emails mensais ou trimestrais.
 
@@ -281,7 +283,8 @@ No almoço, mas precisa reagendar um email? O aplicativo [!DNL Marketo Moments],
 
 ## Atualização do editor de rich text {#rich-text-editor-update}
 
-Editor de texto atualizado com aparência moderna, incluindo formatação de texto simplificada, edição de imagens, inserção de links e edição de HTML. O editor do HTML agora apresenta validação mínima, permitindo uma edição de código menos restritiva.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Essa atualização será lançada automaticamente em alguns dias a partir do lançamento de julho. Posteriormente, você poderá alternar entre as versões Nova e Herdada do editor de **[!UICONTROL Admin] > [!UICONTROL Email] > [!UICONTROL Editar configurações do editor]**.
+Editor de texto atualizado com aparência moderna, incluindo formatação de texto simplificada, edição de imagens, inserção de links e edição de HTML. O editor do HTML agora apresenta validação mínima, permitindo uma edição de código menos restritiva.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Essa atualização será lançada automaticamente em alguns dias a partir do lançamento de julho. Posteriormente, você poderá alternar entre as versões Nova e Herdada do editor de **[!UICONTROL Admin] > [!UICONTROL Email] > [!UICONTROL Editar configurações do editor]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
