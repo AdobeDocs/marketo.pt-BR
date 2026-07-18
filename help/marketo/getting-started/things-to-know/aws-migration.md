@@ -4,9 +4,9 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
+source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 5%
 
 ---
@@ -102,8 +102,8 @@ Novas datas e informações de data center/pod são adicionadas periodicamente, 
    NLD105</td>
    <td>10h PDT (horário do Pacífico)<br>
    11:00 PDT</td>
-   <td>No cronograma<br>
-   No prazo</td>
+   <td>Concluído<br>
+   Concluído</td>
   </tr>
   <tr>
    <td>21 de julho de 2026</td>
