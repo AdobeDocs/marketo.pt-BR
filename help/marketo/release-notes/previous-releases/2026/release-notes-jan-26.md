@@ -3,10 +3,10 @@ description: Notas de versão - Janeiro de 2026 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2026
 feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 32%
+source-wordcount: '566'
+ht-degree: 25%
 
 ---
 
@@ -86,16 +86,16 @@ Os recursos a seguir foram lançados fora do ciclo de lançamento padrão do Mar
 
 * **Pod de recursos**: o novo Pod de recursos substitui os pods de arquivos e links da Web anteriores, fornecendo uma maneira única e unificada de compartilhar recursos durante as sessões ativas.
 
-* **Experiência aprimorada com a interface do quarto**: aproveite uma interface do quarto mais moderna e atualizada, criada com base na estrutura de design mais recente do Spectrum 2 da Adobe, alinhada com a linguagem visual usada em outros produtos da Adobe, como o Creative Cloud e o Experience Cloud.
+* **Experiência aprimorada com a interface de sala**: aproveite uma interface de sala atualizada e mais moderna, criada com base na estrutura de design mais recente do Spectrum 2 da Adobe, alinhada à linguagem visual usada em outros produtos da Adobe, como o Creative Cloud e a Experience Cloud.
 
-Visite [esta página](https://helpx.adobe.com/br/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obter detalhes completos.
+Visite [esta página](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} para obter detalhes completos.
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do recurso de SEO**: na terça-feira, 31 de março de 2026, o Marketo Engage descontinuará o recurso de Otimização do Mecanismo de Pesquisa (SEO). Se você não usa o SEO ativamente, não precisa fazer nada. Se você tiver usado o SEO recentemente, terá a opção de exportar seus dados. [Saiba mais](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=pt){target="_blank"}.
+* **Descontinuação do recurso de SEO**: na terça-feira, 31 de março de 2026, o Marketo Engage descontinuará o recurso de Otimização do Mecanismo de Pesquisa (SEO). Se você não usa o SEO ativamente, não precisa fazer nada. Se você tiver usado o SEO recentemente, terá a opção de exportar seus dados. [Saiba mais](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
-* **Migração da comunidade do Marketo concluída**: a nova Comunidade da Adobe Experience League agora está ativa. [Foram feitos vários aprimoramentos](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=pt){target="_blank"} para melhorar ainda mais a sua experiência com a Marketo Community. [Confira](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=pt){target="_blank"}.
+* **Migração da comunidade do Marketo concluída**: a nova Comunidade da Adobe Experience League agora está ativa. [Foram feitos vários aprimoramentos](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} para melhorar ainda mais a sua experiência com a Marketo Community. [Confira](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
-* **Descontinuação do parâmetro “access_token” da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo será descontinuado e não estará disponível após sábado, 31 de julho de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de agosto de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Descontinuação da API SOAP**: o suporte para a API SOAP do Marketo terminará em sábado, 31 de julho de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de julho de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
