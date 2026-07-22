@@ -275,8 +275,8 @@ Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implan
 
 **Novos Modos de Exibição de Alternância**: os modos de exibição abaixo agora estão disponíveis na Experiência da Próxima Geração:
 
-* [Exibição de detalhes do email](https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR){target="_blank"}
-* [Exibição da lista de emails](https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR){target="_blank"}
+* [Exibição de detalhes do email](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}
+* [Exibição da lista de emails](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}
 
 ## Automação de experiência
 
@@ -340,7 +340,7 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 
 * **Exibir a Hierarquia de Pastas da Pasta de Destino na Caixa de Diálogo de Movimentação**: a exibição da hierarquia de pastas para cada pasta facilita a movimentação de ativos e reduz a probabilidade de colocá-los na pasta errada.
 
-* **[Screens Atualizado na Experiência da Próxima Geração](https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR){target="_blank"}**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e melhorias de usabilidade acessíveis através do switch de alternância:
+* **[Screens Atualizado na Experiência da Próxima Geração](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e melhorias de usabilidade acessíveis através do switch de alternância:
 
   * Detalhes do trecho
   * Detalhes de &quot;Imagens e arquivos&quot;
@@ -443,7 +443,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR">Botão de alternância</a></td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR">Botão de alternância</a></td>
   </tr>
   </tbody>
 </table>

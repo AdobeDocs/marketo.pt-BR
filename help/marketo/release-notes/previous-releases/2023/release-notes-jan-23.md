@@ -49,7 +49,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR">Botão de alternância</a></td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR">Botão de alternância</a></td>
   </tr>
   </tbody>
 
@@ -100,7 +100,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=pt-BR">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
