@@ -25,10 +25,10 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4282
-ht-degree: 6%
+source-wordcount: 4311
+ht-degree: 7%
 
 ---
 
@@ -50,8 +50,8 @@ Os recursos a seguir serão lançados em **21 de janeiro de 2022**, com uma impl
 
 * **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
-   * Detalhes de Ativo da Página de Aterrissagem no [!UICONTROL Design Studio]
-   * Detalhes de ativos da landing page em [!UICONTROL atividades de marketing]
+  * Detalhes de Ativo da Página de Aterrissagem no [!UICONTROL Design Studio]
+  * Detalhes de ativos da landing page em [!UICONTROL atividades de marketing]
 
 ## [!DNL Microsoft Dynamics] Integração {#microsoft-dynamics-integration}
 
@@ -129,7 +129,7 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 ## Orquestração entre canais
 
-* **[!DNL Dynamic Chat]**: maximize todas as oportunidades em seu site direcionando clientes em potencial e contas com conversas proativas, envolventes e personalizadas de 1:1. O [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permite que os usuários do Marketo Engage comecem a aproveitar o chat como parte essencial das experiências integradas entre canais para casos de uso de marketing e vendas B2B. Os recursos incluem: a capacidade de reservar reuniões diretamente no chat, roteamento de leads, modelos iniciais, criação de conversas com o método arrastar-e-soltar e muito mais. O Dynamic Chat está incluído em todos os pacotes do Marketo Engage e será lançado para todos os usuários do Marketo Engage este ano.
+* **[!DNL Dynamic Chat]**: maximize todas as oportunidades em seu site direcionando clientes em potencial e contas com conversas proativas, envolventes e personalizadas 1:1. O [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permite que os usuários do Marketo Engage comecem a aproveitar o chat como parte essencial das experiências integradas entre canais para casos de uso de marketing e vendas B2B. Os recursos incluem: a capacidade de reservar reuniões diretamente no chat, roteamento de leads, modelos iniciais, criação de conversas com o método arrastar-e-soltar e muito mais. O Dynamic Chat está incluído em todos os pacotes do Marketo Engage e será lançado para todos os usuários do Marketo Engage este ano.
 
 * **Aprimoramento da Filtragem de atividade de bot por email**: como aprimoramento do recurso [Filtragem de atividade de bot por email](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} lançado anteriormente, agora é possível aceitar atividades de registro identificadas como bots. Em seguida, você pode filtrar e acionar ações com base em atividades identificadas como executadas por bots.
 
@@ -137,7 +137,7 @@ Os recursos a seguir serão lançados em **11 de março de 2022**, com uma impla
 
 * **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
-   * Exibição de Lista de Formulários no [!UICONTROL Design Studio] (incluindo novas ações em massa)
+  * Exibição de Lista de Formulários no [!UICONTROL Design Studio] (incluindo novas ações em massa)
 
 * **Atualização do Fluxo de Trabalho do Programa de Importação**: o fluxo de trabalho do programa de importação está sendo fornecido na experiência de próxima geração com um design atualizado e melhorias na usabilidade. Essa será uma alteração automática sem um switch de alternância.
 
@@ -275,8 +275,8 @@ Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implan
 
 **Novos Modos de Exibição de Alternância**: os modos de exibição abaixo agora estão disponíveis na Experiência da Próxima Geração:
 
-* [Exibição de detalhes do email](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [Exibição da lista de emails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [Exibição de detalhes do email](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}
+* [Exibição da lista de emails](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}
 
 ## Automação de experiência
 
@@ -340,10 +340,10 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 
 * **Exibir a Hierarquia de Pastas da Pasta de Destino na Caixa de Diálogo de Movimentação**: a exibição da hierarquia de pastas para cada pasta facilita a movimentação de ativos e reduz a probabilidade de colocá-los na pasta errada.
 
-* **[Screens atualizado na Experiência da Próxima Geração](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
+* **[Screens Atualizado na Experiência da Próxima Geração](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e melhorias de usabilidade acessíveis através do switch de alternância:
 
-   * Detalhes do trecho
-   * Detalhes de &quot;Imagens e arquivos&quot;
+  * Detalhes do trecho
+  * Detalhes de &quot;Imagens e arquivos&quot;
 
 >[!NOTE]
 >
@@ -433,8 +433,8 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 * **Screens atualizado na Experiência da Próxima Geração**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e aprimoramentos de usabilidade acessíveis via switch de alternância:
 
-   * Detalhes do modelo de página de destino
-   * Lista de modelos de email
+  * Detalhes do modelo de página de destino
+  * Lista de modelos de email
 
 <table>
   <tr>
@@ -443,7 +443,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td>Lançado</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Botão de alternância</a></td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR">Botão de alternância</a></td>
   </tr>
   </tbody>
 </table>

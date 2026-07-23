@@ -2,10 +2,10 @@
 description: Notas de versão - maio de 2026 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - maio de 2026
 feature: Release Information
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '802'
-ht-degree: 14%
+source-wordcount: '760'
+ht-degree: 15%
 
 ---
 
@@ -69,7 +69,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Está digitando</strong>: agora o visitante e o agente veem um "está digitando..." notificação enquanto a outra parte está digitando, impedindo que uma interrompa a outra.</td>
+   <td><strong>Dynamic Chat - Está digitando</strong>: agora o visitante e o agente veem uma notificação "está digitando..." enquanto o outro está digitando, impedindo que um interrompa o outro.
+   </td>
    <td>Lançado</td>
    <td>n/d</td>
   </tr>
@@ -101,7 +102,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Novo Comportamento de Sincronização de Atributo</strong>: anteriormente, a adição de novos atributos bloqueava as alterações no ambiente por até 24 horas enquanto a sincronização era concluída, impedindo a edição e a publicação da caixa de diálogo. Agora, enquanto a adição de um novo atributo ainda requer uma sincronização de dados completa (que ainda pode levar até 24 horas), o ambiente não é mais bloqueado durante o processo.</td>
+   <td><strong>Dynamic Chat - Novo Comportamento de Sincronização de Atributo</strong>: anteriormente, a adição de novos atributos bloqueava as alterações no ambiente por até 24 horas enquanto a sincronização era concluída, impedindo a edição e a publicação da caixa de diálogo. Agora, enquanto a adição de um novo atributo ainda requer uma sincronização de dados completa (que ainda pode levar até 24 horas), o ambiente não é mais bloqueado durante o processo.
+   </td>
    <td>Lançado</td>
    <td>n/d</td>
   </tr>
@@ -113,17 +115,17 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Campos de descontinuação de recursos sociais**: em 2025, o Marketo Engage descontinuou os seguintes recursos sociais:
 
-   * Pesquisas
-   * Botão de redes sociais
-   * Oferta de recomendação
-   * Compartilhamento de vídeo
-   * Sorteios
+  * Pesquisas
+  * Botão de redes sociais
+  * Oferta de recomendação
+  * Compartilhamento de vídeo
+  * Sorteios
 
 No início deste ano, os campos relacionados que foram deixados para trás foram removidos do Marketo. Logo depois, as solicitações de API que referenciavam determinados campos de lead relacionados ao Social retornavam um erro &quot;campo não encontrado&quot;, causando interrupções. O serviço foi restaurado depois que os campos afetados foram disponibilizados novamente, para evitar mais interrupções, o Marketo desvinculou permanentemente os campos do Social da desativação de recursos do Social (e, como tal, estará disponível na conta do Marketo). Os usuários são incentivados a revisar consultas e integrações de API que fazem referência a campos relacionados ao Marketo Social e determinam se esses campos ainda são necessários para processos de negócios em andamento.
 
 * **Funcionalidade de mesclagem de APIs para campos booleanos**: o comportamento dos campos booleanos em uma mesclagem de APIs foi alterado na versão de março de 2026. Agora, um valor Falso é tratado corretamente como tendo um valor para esse campo. Somente um valor nulo é tratado como &quot;vazio&quot; ao avaliar campos conflitantes. Consulte [esta publicação da comunidade](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=pt){target="_blank"} para obter mais detalhes.
 
-* **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de julho de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de agosto de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Limite de Clientes Potenciais de Mesclagem da API REST**: a partir de 31 de julho de 2026, as chamadas que incluírem mais de 25 IDs no parâmetro leadIds de uma chamada da API de Clientes Potenciais de Mesclagem resultarão em um código de erro 1080 e a chamada será ignorada. As tarefas que exigem a fusão de mais de 25 registros em um devem ser divididas em várias tarefas para garantir o sucesso dessas chamadas.
 

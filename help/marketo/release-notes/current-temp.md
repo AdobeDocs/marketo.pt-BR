@@ -17,10 +17,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 22%
+source-wordcount: 466
+ht-degree: 23%
 
 ---
 
@@ -42,7 +42,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>Habilidade do Marketo AI - Conhecimento do produto</strong>: o conhecimento do produto oferece acesso sob demanda ao conhecimento da Marketo sem sair da plataforma. Faça uma pergunta em linguagem simples e a IA do Marketo se baseia na documentação oficial do Adobe para respondê-la.</td>
+   <td><strong>Habilidade do Marketo AI - Conhecimento do produto</strong>: o conhecimento do produto oferece acesso sob demanda ao conhecimento da Marketo sem sair da plataforma. Faça uma pergunta em linguagem simples e a IA do Marketo se baseia na documentação oficial do Adobe para respondê-la.
+</td>
    <td>Abrir beta</td>
    <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Visão geral da IA do Marketo</a></td>
   </tr>
@@ -74,7 +75,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-* **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de julho de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de agosto de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Limite de Clientes Potenciais de Mesclagem da API REST**: a partir de 31 de julho de 2026, as chamadas que incluírem mais de 25 IDs no parâmetro leadIds de uma chamada da API de Clientes Potenciais de Mesclagem resultarão em um código de erro 1080 e a chamada será ignorada. As tarefas que exigem a fusão de mais de 25 registros em um devem ser divididas em várias tarefas para garantir o sucesso dessas chamadas.
 

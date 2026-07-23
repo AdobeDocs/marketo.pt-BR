@@ -3,7 +3,7 @@ description: Notas de versão - fevereiro de 2026 - Documentação do Marketo - 
 title: Notas de versão - fevereiro de 2026
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 22%
@@ -67,6 +67,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Limite de Clientes Potenciais de Mesclagem da API REST**: a partir de 31 de julho de 2026, as chamadas que incluírem mais de 25 IDs no parâmetro leadIds de uma chamada da API de Clientes Potenciais de Mesclagem resultarão em um código de erro 1080 e a chamada será ignorada. As tarefas que exigem a fusão de mais de 25 registros em um devem ser divididas em várias tarefas para garantir o sucesso dessas chamadas.
 
-* **Descontinuação do parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de julho de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de agosto de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de julho de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
