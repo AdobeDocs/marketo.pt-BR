@@ -4,9 +4,9 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
+source-git-commit: b38557d141ba7364fa5900ba0b87c7ba9d24da4d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 5%
 
 ---
@@ -42,7 +42,7 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 >[!NOTE]
 >
->Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja preservar os dados durante a migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br/support){target="_blank"} e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
+>Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja preservar os dados durante a migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
 
 ## Identificar o data center/pod {#identify}
 
@@ -107,12 +107,9 @@ Novas datas e informações de data center/pod são adicionadas periodicamente, 
   </tr>
   <tr>
    <td>21 de julho de 2026</td>
-   <td>AB54<br>
-   AB56</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
-   <td>No cronograma<br>
-   No prazo</td>
+   <td>AB54</td>
+   <td>17:00 PDT</td>
+   <td>Concluído</td>
   </tr>
   <tr>
    <td>23 de julho de 2026</td>
@@ -170,4 +167,4 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 
 ## Atualizações e suporte {#support}
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
