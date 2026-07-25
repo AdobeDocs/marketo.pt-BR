@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '8901'
+source-wordcount: '8906'
 ht-degree: 96%
 
 ---
@@ -1119,7 +1119,7 @@ ht-degree: 96%
       + [Investigar clientes em potencial](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importar clientes em potencial](product-docs/marketo-ai/skills/import-leads.md)
       + [Validar programas](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Notificações do Marketo {#marketo-notifications}
     + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1662,6 +1662,7 @@ ht-degree: 96%
       + [Editar conteúdo preditivo da barra de recomendação](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
   + Relatórios {#reporting}
     + [Visão geral de relatórios](product-docs/reporting/reporting-overview.md)
+    + {hide-from-toc}[Política de Retenção de Dados de Atividade do Marketo](product-docs/reporting/data-retention.md)
     + Relatórios básicos {#basic-reporting}
       + Criação de relatórios {#creating-reports}
         + [Criar um relatório em um programa](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)

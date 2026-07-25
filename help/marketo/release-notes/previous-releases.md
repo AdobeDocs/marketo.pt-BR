@@ -2,10 +2,10 @@
 title: Versões anteriores
 description: Notas de versão para todas as versões anteriores do Marketo Engage, organizadas por ano.
 feature: Release Information
-source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 31%
+source-wordcount: '104'
+ht-degree: 36%
 
 ---
 
@@ -14,13 +14,14 @@ ht-degree: 31%
 
 >[!NOTE]
 >
->Para a versão atual, consulte [Notas de versão atuais](current.md). Para obter o histórico de versões do Dynamic Chat, consulte [Notas de versão do Dynamic Chat](dynamic-chat.md).
+>Para a versão atual, consulte as [Notas de Versão](current.md). Para obter informações sobre a versão do Dynamic Chat, consulte as [Notas de versão do Dynamic Chat](dynamic-chat.md).
 
 ## 2026
 
 * [Janeiro de 2026](previous-releases/2026/release-notes-jan-26.md)
 * [Fevereiro de 2026](previous-releases/2026/release-notes-feb-26.md)
 * [Março de 2026](previous-releases/2026/release-notes-mar-26.md)
+* [Maio de 2026](previous-releases/2026/release-notes-may-26.md)
 
 ## 2025
 
