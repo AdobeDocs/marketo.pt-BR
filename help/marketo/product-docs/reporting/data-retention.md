@@ -93,7 +93,7 @@ Muitos usuários podem considerar os dados de atividade anteriores à janela de 
 
 ## Exportar os dados
 
-A Marketo oferece a [API REST de extração em massa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que permite exportar atividades de pessoas e hospedá-las localmente. Depois que os dados forem extraídos por meio da API, você poderá armazená-los e classificá-los da maneira que precisar para o caso de uso.
+A Marketo oferece a [API REST de extração em massa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que permite exportar atividades de pessoas e hospedá-las localmente. Depois que os dados forem extraídos por meio da API, você poderá armazená-los e classificá-los da maneira que precisar para o caso de uso.
 
 >[!TIP]
 >
