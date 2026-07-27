@@ -4,10 +4,10 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 5%
+source-wordcount: '531'
+ht-degree: 6%
 
 ---
 
@@ -42,7 +42,7 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 >[!NOTE]
 >
->Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja preservar os dados durante a migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br/support){target="_blank"} e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
+>Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja preservar os dados durante a migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
 
 ## Identificar o data center/pod {#identify}
 
@@ -50,7 +50,7 @@ Antes de examinar as tabelas abaixo, [saiba como identificar](/help/marketo/gett
 
 ## Programação {#schedule}
 
-Novas datas e informações de data center/pod são adicionadas periodicamente, portanto, verifique aqui para obter detalhes.
+Novas datas e informações de data center/pod são adicionadas ou alteradas periodicamente, portanto, monitore essa programação para obter atualizações.
 
 <table>
  <tbody>
@@ -153,6 +153,24 @@ Novas datas e informações de data center/pod são adicionadas periodicamente, 
    <td>No cronograma<br>
    No prazo</td>
   </tr>
+  <tr>
+   <td>26 de agosto de 2026</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>No cronograma<br>
+   No prazo</td>
+  </tr>
+  <tr>
+   <td>28 de agosto de 2026</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>15h PDT<br>
+   16:00 PDT</td>
+   <td>No cronograma<br>
+   No prazo</td>
+  </tr>
   </body>
 </table>
 
@@ -183,4 +201,4 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 
 ## Atualizações e suporte {#support}
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
