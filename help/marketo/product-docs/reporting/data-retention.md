@@ -2,7 +2,7 @@
 description: Saiba como as políticas de retenção de dados de 25 meses e 90 dias do Marketo afetam os relatórios do Analytics, com um detalhamento por relatório e dicas para reter dados por mais tempo.
 title: Retenção de dados
 feature: Reporting
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
@@ -13,7 +13,7 @@ ht-degree: 5%
 
 O Marketo mantém os dados da atividade de marketing continuamente. Os dados de Atividade e Associação de campanha são armazenados por um período contínuo de 25 meses após a data da atividade, e os dados de atividades de alto volume são retidos por um período contínuo de 90 dias após a data da atividade por padrão, que pode ser ajustado por usuário. Além desses períodos de retenção, os dados não estarão mais disponíveis por meio da interface do usuário do Marketo.
 
-## Relatórios de análise do Marketo
+## Relatórios do Marketo Analytics
 
 Como os dados da atividade são retidos por até 25 meses, alguns relatórios do Marketo Analytics são afetados por essa política, enquanto outros não. Os relatórios que coletam dados de logs de atividades de pessoas só mostrarão dados de até 25 meses. Os relatórios que não fazem referência à atividade da pessoa não são afetados.
 
@@ -25,7 +25,7 @@ A tabela abaixo resume como cada relatório se comporta, incluindo cenários de 
 
 | Tipo de relatório | Filtrar cenário | Afetado pela política de retenção? |
 |---|---|---|
-| **Relatórios do Gerenciador de Ciclo de Receita** | Nenhum filtro disponível | Não — os usuários do Revenue Cycle Explorer e do Advanced Analytics estão totalmente isentos desses limites de retenção. Os dados de RCE são enviados durante a noite para um servidor de banco de dados separado que gerencia os relatórios de RCE. Como são alojados separadamente, e não em registros de atividades pessoais, esses relatórios não são afetados por essa política. O Gerenciador de ciclo de receita não extrai dados do banco de dados de pessoas diretamente, portanto, os filtros não estão disponíveis. |
+| **Relatórios do Gerenciador de Ciclo de Receita** | Nenhum filtro disponível | Não: os usuários do Revenue Cycle Explorer e do Advanced Analytics são totalmente isentos desses limites de retenção. Os dados de RCE são enviados durante a noite para um servidor de banco de dados separado que gerencia os relatórios de RCE. Como são alojados separadamente, e não em registros de atividades pessoais, esses relatórios não são afetados por essa política. O Gerenciador de ciclo de receita não extrai dados do banco de dados de pessoas diretamente, portanto, os filtros não estão disponíveis. |
 | **Relatório de Desempenho de Pessoas** | Nenhum filtro de lista inteligente | Não |
 | | Filtros em atributos de pessoa (Ex: Nome) | Não |
 | | Filtros em atividades de pessoas nos últimos 25 meses | Não |
@@ -38,7 +38,7 @@ A tabela abaixo resume como cada relatório se comporta, incluindo cenários de 
 | | Filtros em atributos de pessoa (Ex: Nome) | Não |
 | | Filtros em atividades de pessoas nos últimos 25 meses | Não |
 | | Filtros em atividades de pessoas sem restrição de data | Sim |
-| **Analisador de Caminho de Sucesso** | Não inclui Smart Lists | N/D |
+| **Analisador de Caminho de Sucesso** | Não inclui Smart Lists | N/A |
 | **Relatório de Influência Social** | Nenhum filtro de lista inteligente | Sim |
 | | Filtros em atributos de pessoa (Ex: Nome) | Sim |
 | | Filtros em atividades de pessoas nos últimos 25 meses | Sim |
@@ -57,11 +57,11 @@ A tabela abaixo resume como cada relatório se comporta, incluindo cenários de 
 | | Filtros em atributos de pessoa (Ex: Nome) | Não |
 | | Filtros em atividades de pessoas nos últimos 25 meses | Não |
 | | Filtros em atividades de pessoas sem restrição de data | Sim |
-| **Desempenho da página de aterrissagem** | Nenhum filtro de lista inteligente | Não — os dados de Desempenho da página de aterrissagem são retidos indefinidamente e não estão sujeitos à política de retenção. |
+| **Desempenho da página de aterrissagem** | Nenhum filtro de lista inteligente | Não: os dados de Desempenho da página de aterrissagem são retidos indefinidamente e não estão sujeitos à política de retenção. |
 | | Filtros em atributos de pessoa (Ex: Nome) | Não |
 | | Filtros em atividades de pessoas nos últimos 25 meses | Não |
 | | Filtros em atividades de pessoas sem restrição de data | Não |
-| **Atividade da página da Web** | Nenhum filtro de lista inteligente | Sim — sujeito ao período de retenção padrão de 90 dias (ajustável por usuário) |
+| **Atividade da página da Web** | Nenhum filtro de lista inteligente | Sim: sujeito ao período de retenção padrão de 90 dias (ajustável por usuário) |
 | | Filtros em atributos de pessoa (Ex: Nome) | Sim |
 | | Filtros em atividades de pessoas nos últimos 25 meses | Sim |
 | | Filtros em atividades de pessoas sem restrição de data | Sim |
@@ -93,7 +93,7 @@ Muitos usuários podem considerar os dados de atividade anteriores à janela de 
 
 ## Exportar os dados
 
-A Marketo oferece a [API REST de extração em massa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que permite exportar atividades de pessoas e hospedá-las localmente. Depois que os dados forem extraídos por meio da API, você poderá armazená-los e classificá-los da maneira que precisar para o caso de uso.
+A Marketo oferece a [API REST de extração em massa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que permite exportar atividades de pessoas e hospedá-las localmente. Depois que os dados forem extraídos por meio da API, você poderá armazená-los e classificá-los da maneira que precisar para o caso de uso.
 
 >[!TIP]
 >
