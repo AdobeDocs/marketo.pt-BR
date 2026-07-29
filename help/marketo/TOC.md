@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: 82084b98ee8f4e89896aa16b99c82af97fcea971
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 96%
 
 ---
@@ -163,6 +163,7 @@ ht-degree: 96%
       + [Inspetor de campanhas](product-docs/administration/settings/campaign-inspector.md)
       + [Alterar configurações de atribuição do Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [Criar uma guia personalizada para a página Detalhes da pessoa](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+      + {hide-from-toc}[Desabilitar Campanhas Inteligentes no Arquivo Morto](product-docs/administration/settings/disable-smart-campaigns-archive.md)
       + [Editar as configurações de suporte “Não rastrear” do navegador](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
       + [Editar configurações da página de destino](product-docs/administration/settings/edit-landing-page-settings.md)
       + [Editar expiração de link em relatórios e alertas](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
@@ -1119,7 +1120,7 @@ ht-degree: 96%
       + [Investigar clientes em potencial](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importar clientes em potencial](product-docs/marketo-ai/skills/import-leads.md)
       + [Validar programas](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Notificações do Marketo {#marketo-notifications}
     + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
