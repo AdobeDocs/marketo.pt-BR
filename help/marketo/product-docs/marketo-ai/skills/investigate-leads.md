@@ -1,10 +1,9 @@
 ---
 description: O agente líder de investigação responde às perguntas que os profissionais de marketing fazem com mais frequência. É mais rápido e confiável do que pesquisar manualmente registros de atividades, histórico de campanhas inteligentes e registros de pontuação.
 title: Investigar clientes em potencial
-badge: beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -13,15 +12,9 @@ ht-degree: 0%
 
 Descubra por que uma pessoa/cliente potencial específico não atingiu um marco (como MQL, qualificação de programa ou uma campanha) e obtenha uma explicação em linguagem simples do que aconteceu.
 
->[!AVAILABILITY]
+>[!PREREQUISITES]
 >
->No momento, esse recurso está na versão beta aberta. Para solicitar acesso, entre em contato com seu gerente de conta. Você também deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
->
->* Você deve ter acesso de visualização ao registro de pessoa/cliente potencial e ao programa ou marco que está investigando.
-
->[!AVAILABILITY]
->
->No momento, esse recurso está na versão beta aberta. Para obter acesso, entre em contato com seu gerente de conta.
+>Você deve ter acesso de visualização ao registro de pessoa/cliente potencial e ao programa ou marco que está investigando.
 
 ## Como usar {#how-to-use}
 

@@ -1,9 +1,8 @@
 ---
 description: Explore o conjunto de agentes do Marketo AI projetados para automatizar tarefas de marketing como controle de qualidade do programa, importação de clientes potenciais, normalização de dados e muito mais.
 title: Visão geral da IA do Marketo
-badge: beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f500c305c3e5c1331e9bb34c01cfec5974cf329e
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -16,7 +15,7 @@ A IA do Marketo fornece habilidades de agente projetadas para automatizar funç�
 
 >[!AVAILABILITY]
 >
->No momento, esse recurso está na versão beta aberta. Para solicitar acesso, entre em contato com seu gerente de conta. Você também deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. No momento, a IA do Marketo só está otimizada para inglês.
+>Esse recurso está disponível para todas as assinaturas. Se você não visualizar o bloco IA do Marketo na tela Meu Marketo, entre em contato com o gerente de conta. Você também deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 >[!IMPORTANT]
 >
@@ -64,4 +63,4 @@ Em breve, agentes adicionais projetados para lidar com o trabalho mais repetitiv
 
 >[!MORELIKETHIS]
 >
->O [Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=pt-BR){target="_blank"} atua como uma ponte entre o assistente de IA e a Marketo Engage.
+>O [Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} atua como uma ponte entre o assistente de IA e a Marketo Engage.

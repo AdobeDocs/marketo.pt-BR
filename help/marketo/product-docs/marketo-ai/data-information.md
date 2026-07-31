@@ -1,10 +1,9 @@
 ---
 description: Revise o escopo de dados da IA do Marketo, os controles de governança e as considerações de PII em fluxos de trabalho principais, como importação de clientes potenciais, controle de qualidade do programa e normalização de dados.
 title: Folha de informações de dados da IA do Marketo
-badge: beta
-source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
