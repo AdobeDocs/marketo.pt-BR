@@ -1,11 +1,10 @@
 ---
 description: Saiba como habilitar permissões de IA do Marketo, definir regras organizacionais e gerenciar configurações como integrações e notificações.
 title: Configurações e configuração
-badge: beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '547'
 ht-degree: 4%
 
 ---
@@ -16,7 +15,7 @@ Saiba como habilitar permissões e usar a área Configurações para exibir deta
 
 >[!AVAILABILITY]
 >
->No momento, esse recurso está na versão beta aberta. Para solicitar acesso, entre em contato com seu gerente de conta. Você também deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Esse recurso está disponível para todas as assinaturas. Se você não visualizar o bloco IA do Marketo na tela Meu Marketo, entre em contato com o gerente de conta. Você também deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 ## Permissões e funções {#permission-and-role}
 
