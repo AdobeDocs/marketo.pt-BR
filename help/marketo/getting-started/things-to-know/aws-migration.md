@@ -4,9 +4,9 @@ title: Migração do AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
+source-git-commit: 16ff6c279c222f3cd2d9b8a1a7bbba15472231cb
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '680'
 ht-degree: 6%
 
 ---
@@ -52,6 +52,7 @@ Antes de examinar as tabelas abaixo, [saiba como identificar](/help/marketo/gett
 
 Novas datas e informações de data center/pod são adicionadas ou alteradas periodicamente, portanto, monitore essa programação para obter atualizações.
 
++++Calendário de julho
 <table>
  <tbody>
   <tr>
@@ -121,7 +122,20 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
    <td>31 de julho de 2026</td>
    <td>AB43</td>
    <td>15h PDT</td>
-   <td>No cronograma</td>
+   <td>Concluído</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Data</th>
+   <th style="width:25%">Data Center/Pod</th>
+   <th style="width:25%">Hora</th>
+   <th style="width:25%">Status</th>
   </tr>
   <tr>
    <td>12 de agosto de 2026</td>
@@ -171,6 +185,24 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
    <td>No cronograma<br>
    No prazo</td>
   </tr>
+  <tr>
+   <td>8 de setembro de 2026</td>
+   <td>AB01<br>
+   AB02</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>No cronograma<br>
+   No prazo</td>
+  </tr>
+  <tr>
+   <td>10 de setembro de 2026</td>
+   <td>AB03<br>
+   AB04</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>No cronograma<br>
+   No prazo</td>
+  </tr>
   </body>
 </table>
 
@@ -202,3 +234,21 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 ## Atualizações e suporte {#support}
 
 Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+
+## Perguntas frequentes {#faq}
+
+**Onde os dados são armazenados?**
+Todos os dados de usuários do Marketo são armazenados no Amazon Web Services (AWS). A Marketo migrou sua infraestrutura de data centers físicos próprios para a plataforma de nuvem corporativa da AWS.
+
+**Onde especificamente são armazenados os dados pessoais?**
+Os dados pessoais são armazenados no Amazon Aurora, o serviço de banco de dados relacional totalmente gerenciado da AWS. A Aurora replica dados de seis maneiras em três zonas de disponibilidade separadas na região da AWS para proteger os dados pessoais contra falhas de hardware, degradação do armazenamento e eventos localizados de infraestrutura.
+
+**Quem é o proprietário do ambiente de armazenamento?**
+A infraestrutura de armazenamento pertence e é operada pela Amazon Web Services (AWS). A Adobe (Marketo) opera como cliente da AWS sob um modelo de responsabilidade compartilhada: a AWS é responsável pela segurança e disponibilidade da infraestrutura subjacente, enquanto a Adobe é responsável pela segurança dos dados e aplicativos em execução nela.
+
+**Quais são os detalhes completos sobre produção, locais de backup/DR e tecnologia de armazenamento?**
+O Marketo usa o Amazon Aurora, um mecanismo de banco de dados relacional nativo em nuvem totalmente gerenciado pela AWS, como sua tecnologia de banco de dados principal. A Aurora dissocia o computador e o armazenamento, replicando automaticamente os dados de seis maneiras em três zonas de disponibilidade na região de produção e exigindo um quorum de quatro cópias para confirmar qualquer operação de gravação.
+
+O Aurora também executa backups automáticos contínuos no Amazon S3 em tempo real, permitindo a recuperação point-in-time (PITR) a qualquer segundo dentro da janela de retenção configurada.
+
+No momento, a implantação do Marketo Aurora opera em uma única região da AWS, sem replicação entre regiões. Os dados de produção permanecem dentro da infraestrutura regional designada, e a recuperação de desastres é fornecida por meio da redundância de armazenamento de dados de vários AZ e backups contínuos do Aurora, em vez de failover geográfico para uma região secundária. Isso pode ser avaliado ainda mais à medida que a infraestrutura AWS da Marketo amadurece.
