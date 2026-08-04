@@ -4,19 +4,9 @@ title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 3551
@@ -34,11 +24,11 @@ Para acessar a página de notas de versão padrão do Marketo Engage [clique aqu
 
 ### Limite de tempo de espera do visitante {#visitor-wait-time}
 
-Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Baixar transcrição {#download-transcript}
 
-Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versão de junho de 2025 {#june-2025-release}
 
@@ -52,11 +42,11 @@ Renovamos a lógica de roteamento de chat ao vivo no Dynamic Chat para garantir 
 
 * **Até duas tentativas de engajamento por sessão**
 
-   * O sistema tentará se conectar com até dois agentes (no máximo), mas estritamente dentro da regra de roteamento principal.
+  * O sistema tentará se conectar com até dois agentes (no máximo), mas estritamente dentro da regra de roteamento principal.
 
-   * Se um agente estiver disponível, mas não responder (por exemplo, recusar ou ignorar o chat), o sistema tentará se conectar a um agente diferente do mesmo pool.
+  * Se um agente estiver disponível, mas não responder (por exemplo, recusar ou ignorar o chat), o sistema tentará se conectar a um agente diferente do mesmo pool.
 
-   * A lógica de fallback (como Round Robin) só será ativada se nenhum agente elegível for encontrado durante a resolução inicial, para que não seja realizada uma nova tentativa após uma falha no engajamento.
+  * A lógica de fallback (como Round Robin) só será ativada se nenhum agente elegível for encontrado durante a resolução inicial, para que não seja realizada uma nova tentativa após uma falha no engajamento.
 
 * **Comportamento específico da regra de roteamento**
 
@@ -72,9 +62,9 @@ Se o agente não estiver disponível, o sistema:
 
 * Em vez disso, ele:
 
-   * Mostra o calendário de reuniões do agente mapeado (se estiver habilitado),
--ou-
-   * Retornará a uma mensagem padrão (pior cenário).
+  * Mostra o calendário de reuniões do agente mapeado (se estiver habilitado),
+    -ou-
+  * Retornará a uma mensagem padrão (pior cenário).
 
 A regra de roteamento no nível do cartão (por exemplo, Equipe, Personalizado) só será considerada se o roteamento de conta não for elegível (nenhum domínio ou agente correspondente).
 
@@ -118,9 +108,9 @@ A regra de roteamento no nível do cartão (Personalizada, Equipe, Round Robin) 
 
 * Se nenhum engajamento for bem-sucedido, a lógica de fallback será aplicada:
 
-   * Fallback de calendário (se ativado),
--ou-
-   * Mensagem padrão.
+  * Fallback de calendário (se ativado),
+    -ou-
+  * Mensagem padrão.
 
 O fallback de Round Robin só é considerado quando nenhum agente elegível é encontrado na regra de roteamento principal, não quando os agentes individuais não respondem.
 
@@ -128,7 +118,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível é e
 
 <p>
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 <table><thead>
   <tr>
@@ -154,7 +144,7 @@ _&#x200B;**Roteamento de conta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento personalizado**&#x200B;_
+_**Roteamento personalizado**_
 
 <table><thead>
   <tr>
@@ -180,7 +170,7 @@ _&#x200B;**Roteamento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento de equipe**&#x200B;_
+_**Roteamento de equipe**_
 
 <table><thead>
   <tr>
@@ -206,7 +196,7 @@ _&#x200B;**Roteamento de equipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 <table><thead>
   <tr>
@@ -304,9 +294,9 @@ Quantifique seus leads com base na qualidade da interação no chat e use essa m
 
 * Definir uma pontuação:
 
-   * Na caixa de entrada do agente: durante um chat ao vivo, o agente pode atualizar ou definir uma pontuação para a conversa, que é armazenada na atividade da conversa
+  * Na caixa de entrada do agente: durante um chat ao vivo, o agente pode atualizar ou definir uma pontuação para a conversa, que é armazenada na atividade da conversa
 
-   * No designer de fluxo: no cartão de meta, o usuário pode atualizar ou definir uma pontuação para a conversa
+  * No designer de fluxo: no cartão de meta, o usuário pode atualizar ou definir uma pontuação para a conversa
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
