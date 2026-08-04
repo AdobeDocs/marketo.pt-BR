@@ -52,11 +52,11 @@ Renovamos a lógica de roteamento de chat ao vivo no Dynamic Chat para garantir 
 
 * **Até duas tentativas de engajamento por sessão**
 
-   * O sistema tentará se conectar com até dois agentes (no máximo), mas estritamente dentro da regra de roteamento principal.
+  * O sistema tentará se conectar com até dois agentes (no máximo), mas estritamente dentro da regra de roteamento principal.
 
-   * Se um agente estiver disponível, mas não responder (por exemplo, recusar ou ignorar o chat), o sistema tentará se conectar a um agente diferente do mesmo pool.
+  * Se um agente estiver disponível, mas não responder (por exemplo, recusar ou ignorar o chat), o sistema tentará se conectar a um agente diferente do mesmo pool.
 
-   * A lógica de fallback (como Round Robin) só será ativada se nenhum agente elegível for encontrado durante a resolução inicial, para que não seja realizada uma nova tentativa após uma falha no engajamento.
+  * A lógica de fallback (como Round Robin) só será ativada se nenhum agente elegível for encontrado durante a resolução inicial, para que não seja realizada uma nova tentativa após uma falha no engajamento.
 
 * **Comportamento específico da regra de roteamento**
 
@@ -72,9 +72,9 @@ Se o agente não estiver disponível, o sistema:
 
 * Em vez disso, ele:
 
-   * Mostra o calendário de reuniões do agente mapeado (se estiver habilitado),
--ou-
-   * Retornará a uma mensagem padrão (pior cenário).
+  * Mostra o calendário de reuniões do agente mapeado (se estiver habilitado),
+    -ou-
+  * Retornará a uma mensagem padrão (pior cenário).
 
 A regra de roteamento no nível do cartão (por exemplo, Equipe, Personalizado) só será considerada se o roteamento de conta não for elegível (nenhum domínio ou agente correspondente).
 
@@ -118,9 +118,9 @@ A regra de roteamento no nível do cartão (Personalizada, Equipe, Round Robin) 
 
 * Se nenhum engajamento for bem-sucedido, a lógica de fallback será aplicada:
 
-   * Fallback de calendário (se ativado),
--ou-
-   * Mensagem padrão.
+  * Fallback de calendário (se ativado),
+    -ou-
+  * Mensagem padrão.
 
 O fallback de Round Robin só é considerado quando nenhum agente elegível é encontrado na regra de roteamento principal, não quando os agentes individuais não respondem.
 
@@ -304,9 +304,9 @@ Quantifique seus leads com base na qualidade da interação no chat e use essa m
 
 * Definir uma pontuação:
 
-   * Na caixa de entrada do agente: durante um chat ao vivo, o agente pode atualizar ou definir uma pontuação para a conversa, que é armazenada na atividade da conversa
+  * Na caixa de entrada do agente: durante um chat ao vivo, o agente pode atualizar ou definir uma pontuação para a conversa, que é armazenada na atividade da conversa
 
-   * No designer de fluxo: no cartão de meta, o usuário pode atualizar ou definir uma pontuação para a conversa
+  * No designer de fluxo: no cartão de meta, o usuário pode atualizar ou definir uma pontuação para a conversa
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
