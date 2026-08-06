@@ -4,9 +4,9 @@ user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 17404d2a3a89cec66785ca395564d422837b860a
+source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
 workflow-type: tm+mt
-source-wordcount: '8911'
+source-wordcount: '8917'
 ht-degree: 96%
 
 ---
@@ -993,6 +993,7 @@ ht-degree: 96%
       + [Visão geral](product-docs/email-marketing/email-designer/overview.md)
       + [Comparação de recursos](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Criação de email](product-docs/email-marketing/email-designer/email-authoring.md)
+      + {hide-from-toc}[Usar módulos no Designer de email](product-docs/email-marketing/email-designer/email-modules.md)
       + [Conteúdo condicional](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Criação de modelo de email](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Importar um modelo](product-docs/email-marketing/email-designer/import-template.md)
