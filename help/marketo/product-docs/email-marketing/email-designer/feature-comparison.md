@@ -27,7 +27,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
 source-wordcount: 833
 ht-degree: 14%
@@ -115,8 +115,8 @@ Verifique se há atualizações nesta página (bem como nas [notas de versão at
     <td>Disponível</td>
   </tr>
   <tr>
-    <td>Assistente de IA</td>
-    <td>Capacidade de gerar a linha de assunto, parte do conteúdo ou email inteiro por meio de modelos de <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">IA de geração</a>.</td>
+    <td>Gerar conteúdo</td>
+    <td>Capacidade de gerar a linha de assunto, parte do conteúdo ou email inteiro por meio de modelos de <a href="/help/marketo/product-docs/email-marketing/email-designer/generate-content.md" target="_blank">IA de geração</a>.</td>
     <td>Indisponível</td>
     <td>Disponível</td>
   </tr>

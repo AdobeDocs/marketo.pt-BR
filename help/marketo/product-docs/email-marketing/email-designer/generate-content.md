@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Usar o Assistente de IA
-description: Saiba como usar o assistente de IA para adicionar texto e imagens a emails. Use a IA gerativa do Adobe no Designer de email para ideias de conteúdo.
+title: Gerar conteúdo no Designer de email
+description: Saiba como gerar conteúdo para adicionar texto e imagens a emails. Use a IA gerativa do Adobe no Designer de email para ideias de conteúdo.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -14,20 +14,20 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
-source-wordcount: 936
+source-wordcount: 914
 ht-degree: 1%
 
 ---
 
-# Assistente de IA para Designer de email {#ai-assistant-email-designer}
+# Gerar conteúdo no Designer de email {#generate-content}
 
-O Assistente de IA no Marketo Engage Email Designer ajuda você a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
+Gerar conteúdo no Marketo Engage Email Designer ajuda a criar e-mails contemporâneos, com desempenho e intuitivos. Isso é feito por meio da tecnologia de IA gerativa da Adobe e da biblioteca de prompts, juntamente com o Firefly, para geração de imagens, que auxilia na criação de conteúdo adequado para um determinado grupo de persona/compras, estágio de jornada de marketing, estratégia de comunicação, tom etc. Ativos de marca específicos também podem ser utilizados para criar conteúdo.
 
 >[!PREREQUISITES]
 >
->O Assistente de IA não está ativado por padrão. Primeiro, você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar a funcionalidade da Gen-AI no Designer de email. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
+>Esse recurso não está habilitado por padrão. Primeiro, você deve concordar com os [termos principais da Gen-AI e os termos complementares](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} para usar a funcionalidade da Gen-AI no Designer de email. Entre em contato com a Equipe de conta da Adobe (seu gerente de conta) para obter detalhes.
 
 ## Configurar permissões {#set-up-permissions}
 
@@ -59,15 +59,13 @@ _Após_ seguir o pré-requisito acima, os administradores do Marketo devem aplic
 
 ## Casos de uso {#use-cases}
 
-Existem alguns casos de uso principais para o Assistente de IA:
-
 * [Crie uma linha de assunto e/ou pré-cabeçalho](#create-a-subject-line-preheader) para seu email
 * [Criar conteúdo para uma seção específica](#create-content-for-a-specific-section) do seu email
 * [Criar um email inteiro](#create-an-entire-email) a partir de um modelo selecionado
 
 ## Criar uma linha de assunto/pré-cabeçalho {#create-a-subject-line-preheader}
 
-Você pode usar o Assistente do AI para criar uma linha de assunto, um pré-cabeçalho ou ambos.
+Crie uma linha de assunto, um pré-cabeçalho ou ambos.
 
 ![](assets/use-the-ai-assistant-1.png)
 
@@ -75,11 +73,11 @@ O exemplo abaixo ilustra a linha de assunto. Para um pré-cabeçalho, as mesmas 
 
 Quando um email for criado usando a Nova Designer de email, insira uma linha de assunto temporária.
 
-Após a criação do email, a linha de assunto fica na coluna _Detalhes_ à direita. Clique no botão do assistente de IA ( ![Ícone de filtro](assets/icon-ai-assistant.png) ) ao lado dele para obter assistência na criação de uma nova linha de assunto usando a funcionalidade Gen AI.
+Após a criação do email, a linha de assunto fica na coluna _Detalhes_ à direita. Clique no botão Gerar conteúdo ( ![Ícone de filtro](assets/icon-ai-assistant.png) ) ao lado dele para obter assistência na criação de uma nova linha de assunto usando a funcionalidade Gen AI.
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Habilite a opção **Usar conteúdo de referência** para que o Assistente de IA personalize o novo conteúdo com base no conteúdo selecionado.
+Habilite a opção **Usar conteúdo de referência** para personalizar o novo conteúdo com base no conteúdo selecionado.
 
 Digite o prompt para personalizar a linha do assunto. Insira configurações de texto relevantes e faça upload de quaisquer ativos de marca que você deseja usar como referência para criar uma linha de assunto apropriada.
 
@@ -135,7 +133,7 @@ Após a criação do email, você tem a opção de modificar determinadas seçõ
 
 ![](assets/use-the-ai-assistant-7.png)
 
-Neste exemplo, estamos usando um template financeiro. Se uma ou mais imagens existentes não atenderem às suas necessidades, você pode instruir o assistente de IA a criar uma nova imagem com base na sua descrição. Selecione a imagem desejada e clique no ícone do assistente de IA.
+Neste exemplo, estamos usando um template financeiro. Se uma ou mais imagens existentes não atenderem às suas necessidades, você poderá criar uma nova imagem com base na sua descrição. Selecione a imagem desejada e clique no ícone Generate content.
 
 ![](assets/use-the-ai-assistant-8.png)
 
@@ -161,7 +159,7 @@ Assim como a imagem, partes de texto do email também podem ser modificadas.
 
 Essa opção só estará disponível se o email for criado usando um template existente. Pode ser um template padrão fornecido pelo Designer de email, um template salvo que você já criou ou um template importado usando a opção Import HTML. Esta opção não estará disponível se você escolher [Criar do Zero](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) para seu email.
 
-Selecione um modelo, sem selecionar nenhum componente no modelo, e clique no botão Assistente de IA no Designer de email.
+Selecione um modelo, sem selecionar nenhum componente no modelo, e clique no botão Gerar conteúdo no Designer de email.
 
 ![](assets/use-the-ai-assistant-12.png)
 
