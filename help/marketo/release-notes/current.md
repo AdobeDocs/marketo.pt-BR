@@ -80,6 +80,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial ou Obter Alterações de Cliente Potencial que incluem o parâmetro `listId` falharão se as listas de destino contiverem 10.000 ou mais clientes potenciais com um Código de Erro 1003 indicando que a lista estática de destino tem muitos registros.
 
-Consulte o [Guia de Migração](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
+Consulte o [Guia de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
 
 * **Limite de Clientes Potenciais de Mesclagem da API REST**: a partir de 31 de julho de 2026, chamadas que incluem mais de 25 IDs no parâmetro leadIds de uma chamada da API de Clientes Potenciais de Mesclagem resultarão em um código de erro 1080, e a chamada será ignorada. As tarefas que exigem a fusão de mais de 25 registros em um devem ser divididas em várias tarefas para garantir o sucesso dessas chamadas.
