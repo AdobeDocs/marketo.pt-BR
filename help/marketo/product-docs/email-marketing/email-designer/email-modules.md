@@ -6,7 +6,7 @@ description: Saiba como acessar, inserir e personalizar módulos pré-criados no
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Usar módulos no Designer de email {#email-modules}
 
-O Designer de email inclui uma biblioteca de _módulos_: blocos de conteúdo totalmente estruturados e prontos para uso, criados para acelerar a montagem de emails e promover a consistência de design em suas comunicações.
+O Designer de e-mail inclui uma biblioteca de módulos: blocos de conteúdo totalmente estruturados e prontos para uso, projetados para acelerar a montagem de e-mails e promover a consistência do design em suas comunicações.
 
 Ao contrário dos [componentes de conteúdo](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content), que são espaços reservados vazios configurados do zero, os módulos são seções pré-criadas (como um cabeçalho de marca, uma grade de cartão de produto ou um rodapé com links para opção de não participação) que você solta diretamente na tela e personaliza a partir dela.
 
