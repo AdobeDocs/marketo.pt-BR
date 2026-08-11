@@ -3,13 +3,11 @@ description: Saiba mais sobre as ferramentas de Gerenciamento de privacidade no 
 title: Gerenciamento de privacidade
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 TQID: https://experienceleague.adobe.com/MzzRnGGXqzNNFzl2VYU0fZDsdyqhKqJ5BDwfdw1fQaY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 2cfe050fe4844f44815b9842cffafa4c1eb37c13
 workflow-type: tm+mt
-source-wordcount: 439
+source-wordcount: 268
 ht-degree: 1%
 
 ---
@@ -26,19 +24,11 @@ O Marketo Engage oferece um conjunto de ferramentas para ajudar você a cumprir 
 >
 >**-ou-**
 >
->* Usuários do Marketo Engage que utilizam outro produto Experience Cloud já presente no Adobe Identity Management System (por exemplo, RT-CDP, edições B2B e B2P, Audience Manager).
+>* Usuários do Marketo Engage que utilizam outro produto da Experience Cloud que já está no Sistema Adobe Identity Management (por exemplo, RT-CDP, edições B2B e B2P, Audience Manager).
 
 ## Regulamentos sobre a gestão da privacidade {#regulations-on-privacy-management}
 
-Os recursos do Marketo Engage ajudam você a cumprir os seguintes requisitos:
-
-* **[!DNL GDPR]** O [Regulamento Geral sobre a Proteção de Dados](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) é a lei de privacidade da União Europeia (UE) que adequa e moderniza os requisitos de proteção de dados para os países membros da UE.
-* A **[!DNL CCPA]** [Lei de Privacidade do Consumidor da Califórnia](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=) fornece aos residentes da Califórnia direitos no que diz respeito a suas informações pessoais e impõe responsabilidades de proteção de dados a determinadas entidades que realizam negócios na Califórnia.
-* A **[!DNL PDPA]** [Lei de Proteção de Dados Pessoais](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) é a lei de privacidade que adequa e moderniza os requisitos de proteção de dados na Tailândia.
-* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) em vigor a partir do início de 2021 para todas as empresas que coletam ou processam dados pessoais no Brasil.
-* A **[!DNL NZPA]** [Lei de Privacidade 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) é a lei de privacidade que adequa e moderniza os requisitos de proteção de dados na Nova Zelândia.
-
-Todos os regulamentos acima se aplicam a clientes do Marketo Engage que coletam dados de residentes nas respectivas regiões ou países mencionados acima (UE, Califórnia, Tailândia, Brasil, Nova Zelândia).
+Os recursos do Marketo Engage ajudam você a cumprir várias regras de privacidade. Para obter uma lista de regulamentos suportados, consulte [Visão geral dos regulamentos de privacidade](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/overview){target="_blank"}.
 
 ## Direito de acesso e Direito ao esquecimento {#right-to-access-and-right-to-be-forgotten}
 
