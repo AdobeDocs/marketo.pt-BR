@@ -30,7 +30,7 @@ O Marketo Engage oferece um conjunto de ferramentas para ajudar você a cumprir 
 
 ## Regulamentos sobre a gestão da privacidade {#regulations-on-privacy-management}
 
-Os recursos do Marketo Engage ajudam você a cumprir várias regras de privacidade. Para obter uma lista de regulamentos suportados, consulte [Visão geral dos regulamentos de privacidade](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/overview){target="_blank"}.
+Os recursos do Marketo Engage ajudam você a cumprir várias regras de privacidade. Para obter uma lista de regulamentos suportados, consulte [Visão geral dos regulamentos de privacidade](https://experienceleague.adobe.com/pt-br/docs/experience-platform/privacy/regulations/overview){target="_blank"}.
 
 ## Direito de acesso e Direito ao esquecimento {#right-to-access-and-right-to-be-forgotten}
 
