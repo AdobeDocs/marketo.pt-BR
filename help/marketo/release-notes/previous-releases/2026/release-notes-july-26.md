@@ -2,7 +2,7 @@
 description: Notas de versão - julho de 2026 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - julho de 2026
 feature: Release Information
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 19%
@@ -68,8 +68,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tbody>
 </table>
 <br/>
-
-
 
 ## Anúncios {#announcements}
 
