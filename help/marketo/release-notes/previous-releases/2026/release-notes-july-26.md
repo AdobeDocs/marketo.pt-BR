@@ -2,9 +2,9 @@
 description: Notas de versão - julho de 2026 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - julho de 2026
 feature: Release Information
-source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
+source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '503'
 ht-degree: 19%
 
 ---
@@ -60,7 +60,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Menu Contextual Gerar Conteúdo</strong>: os recursos "Gerar conteúdo" do Email Designer agora podem ser acessados no menu contextual (a barra preta). Por exemplo, quando você seleciona conteúdo de texto, o ícone Gerar conteúdo aparece no menu contextual, permitindo executar ações rápidas a partir daí.</td>
+   <td><strong>Email Designer - Menu Contextual Gerar Conteúdo</strong>: os recursos "Gerar conteúdo" do Email Designer agora podem ser acessados no menu contextual (a barra preta). Por exemplo, quando você seleciona conteúdo de texto, o ícone Gerar conteúdo é exibido no menu contextual, permitindo executar ações rápidas.</td>
    <td><i>Em breve</i></td>
 <td><i>Em breve</i></td>
   </tr>
