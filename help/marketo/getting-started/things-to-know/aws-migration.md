@@ -3,9 +3,9 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 35b46e05dc20fc25e3be470433857705528f76f9
+source-git-commit: 034bb35c7f1d46fb001c5380947f563d130b5ab9
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '856'
 ht-degree: 5%
 
 ---
@@ -41,7 +41,7 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 >[!NOTE]
 >
->Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja evitar a perda de dados de envio de formulário coletados enquanto o Marketo Engage não estiver disponível durante a janela de migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br/support){target="_blank"} **com pelo menos dois dias úteis** de antecedência e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
+>Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja evitar a perda de dados de envio de formulário coletados enquanto o Marketo Engage não estiver disponível durante a janela de migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **com pelo menos dois dias úteis** de antecedência e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
 
 ## Identificar o data center/pod {#identify}
 
@@ -152,12 +152,6 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
    <td>Concluído</td>
   </tr>
   <tr>
-   <td>18 de agosto de 2026</td>
-   <td><i>AB39</i></td>
-   <td><i>17:00 PDT</i></td>
-   <td><i>Adiado (data a ser definida)</i></td>
-  </tr>
-  <tr>
    <td>20 de agosto de 2026</td>
    <td>AB42<br>
    <i>AB44</i></td>
@@ -168,21 +162,21 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
   </tr>
   <tr>
    <td>26 de agosto de 2026</td>
-   <td>AB40<br>
+   <td><i>AB40</i><br>
    AB50</td>
-   <td>17:00 PDT<br>
+   <td>PDT</i><br> às 17h<i>
    18:00 PDT</td>
-   <td>No cronograma<br>
-   No prazo</td>
+   <td><i>Adiado (data a ser definida)</i><br>
+   No cronograma</td>
   </tr>
   <tr>
    <td>28 de agosto de 2026</td>
-   <td>AB53<br>
+   <td><i>AB53</i><br>
    AB56</td>
-   <td>15h PDT<br>
+   <td>PDT</i><br> às 15h<i>
    16:00 PDT</td>
-   <td>No cronograma<br>
-   No prazo</td>
+   <td><i>Adiado (data a ser definida)</i><br>
+   No cronograma</td>
   </tr>
   <tr>
    <td>8 de setembro de 2026</td>
@@ -268,7 +262,7 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 
 ## Atualizações e suporte {#support}
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Perguntas frequentes {#faq}
 
