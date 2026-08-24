@@ -3,9 +3,9 @@ description: Saiba como os metadados do C2PA são anexados automaticamente a ima
 title: Metadados C2PA no Marketo Engage
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ A tabela a seguir resume quando os metadados C2PA são anexados, com base na aç
 
 | Ação | Descrição | Metadados C2PA anexados? | Exemplo de caso de uso |
 |---|---|---|---|
-| **Gerar uma imagem** | Crie uma nova imagem a partir de um prompt de texto, de uma imagem de referência ou gere uma imagem semelhante. | Sempre. A imagem é gerada por IA gerativa, de modo que sempre transporta metadados C2PA novos. | Uma imagem de banner para uma campanha de email é gerada a partir de um prompt de texto que descreve o visual desejado. |
+| **Usar a ferramenta &#39;Gerar imagem&#39;** | Crie uma nova imagem a partir de um prompt de texto, de uma imagem de referência ou gere uma imagem semelhante. | Sempre. A imagem é gerada por IA gerativa, de modo que sempre transporta metadados C2PA novos. | Uma imagem de banner para uma campanha de email é gerada a partir de um prompt de texto que descreve o visual desejado. |
 | **Cortar uma imagem** | Ajuste uma imagem para as dimensões solicitadas. | Somente se a imagem de origem já tiver metadados C2PA. O corte recria os pixels da imagem, o que normalmente apagaria esses metadados do C2PA. Portanto, o Marketo Engage os lê da imagem de origem antes de cortar e, em seguida, os recria e anexa novamente ao resultado cortado. O corte em si não adiciona uma nova ação de IA gerativa; ele preserva a existente. | Uma imagem de banner gerada é cortada para caber em uma página da Web: os metadados C2PA são preservados por meio do corte. Uma foto do stock carregada usada como um plano de fundo de notificação por push é cortada para caber na tela: como a foto do stock não carrega nenhuma ação de IA gerativa, nenhum metadado C2PA é criado. |
 | **Adicionar uma sobreposição de texto** | Renderiza o texto gerado sobre uma imagem de plano de fundo. | Somente se a imagem de fundo já tiver metadados C2PA. A renderização da sobreposição produz uma nova imagem do plano de fundo mais o texto, o que normalmente apagaria esses metadados do C2PA. Portanto, o Marketo Engage os lê da imagem do plano de fundo com antecedência, depois os reconstrói e os reanexa ao resultado. A etapa de sobreposição não adiciona uma nova ação de IA gerativa. | Um título promocional é renderizado como uma sobreposição de texto em uma imagem de fundo gerada para uma landing page: os metadados C2PA da imagem de fundo são preservados. |
 
@@ -47,4 +47,4 @@ O Marketo Engage preserva os metadados C2PA associados aos ativos de imagem comp
 ## Recursos adicionais
 
 * [Diretrizes do usuário da IA gerada da Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [Medidas de proteção e limitações](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Medidas de proteção e limitações](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
