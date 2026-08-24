@@ -4,7 +4,7 @@ user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 9976bffe8ac2fac804cc1e1e5a95088622334bdf
 workflow-type: tm+mt
 source-wordcount: '8927'
 ht-degree: 96%
@@ -765,7 +765,7 @@ ht-degree: 96%
       + {hide-from-toc}[Novo Documento Adicionar Imagens](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [Adicionar imagens e arquivos ao Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + {hide-from-toc}[Editar Assets com Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
-      + [Metadados C2PA no Marketo Engage](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
+      + {hide-from-toc}[Metadados C2PA no Marketo Engage](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
       + [Excluir uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [Localizar o URL de uma imagem ou arquivo carregado](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [Capturar imagens de uma página da Web](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -1123,7 +1123,7 @@ ht-degree: 96%
       + [Investigar clientes em potencial](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importar clientes em potencial](product-docs/marketo-ai/skills/import-leads.md)
       + [Validar programas](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Notificações do Marketo {#marketo-notifications}
     + {hide-from-toc}[Notificação: Conexão Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
