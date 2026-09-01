@@ -3,7 +3,7 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
+source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 5%
@@ -41,13 +41,13 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 >[!NOTE]
 >
->Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja evitar a perda de dados de envio de formulário coletados enquanto o Marketo Engage não estiver disponível durante a janela de migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br/support){target="_blank"} **com pelo menos dois dias úteis** de antecedência e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
+>Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja evitar a perda de dados de envio de formulário coletados enquanto o Marketo Engage não estiver disponível durante a janela de migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **com pelo menos dois dias úteis** de antecedência e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
 
 ## Identificar o data center/pod {#identify}
 
 Antes de examinar as tabelas abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
 
-## Cronograma {#schedule}
+## Programação {#schedule}
 
 Novas datas e informações de data center/pod são adicionadas ou alteradas periodicamente, portanto, monitore essa programação para obter atualizações.
 
@@ -128,6 +128,8 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
 
 +++
 
++++Calendário de agosto
+
 <table>
  <tbody>
   <tr>
@@ -153,12 +155,9 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
   </tr>
   <tr>
    <td>20 de agosto de 2026</td>
-   <td>AB42<br>
-   <i>AB44</i></td>
-   <td>17:00 PDT<br>
-   PDT</i> às 18h<i></td>
-   <td>Concluído<br>
-   <i>Adiado (data a ser definida)</i></td>
+   <td>AB42</td>
+   <td>17:00 PDT</td>
+   <td>Concluído</td>
   </tr>
   <tr>
    <td>26 de agosto de 2026</td>
@@ -176,7 +175,20 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
    <td>PDT</i><br> às 15h<i>
    16:00 PDT</td>
    <td><i>Adiado (data a ser definida)</i><br>
-   No cronograma</td>
+   Concluído</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Data</th>
+   <th style="width:25%">Data Center/Pod</th>
+   <th style="width:25%">Hora</th>
+   <th style="width:25%">Status</th>
   </tr>
   <tr>
    <td>8 de setembro de 2026</td>
@@ -262,7 +274,7 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 
 ## Atualizações e suporte {#support}
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Perguntas frequentes {#faq}
 
