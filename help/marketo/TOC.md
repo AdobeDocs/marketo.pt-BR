@@ -498,7 +498,7 @@ ht-degree: 96%
       + [Investigar clientes em potencial](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar clientes em potencial](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server)
   + Sincronização com o CRM {#crm-sync}
     + Sincronização do Microsoft Dynamics {#microsoft-dynamics}
       + [Noções básicas sobre a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
