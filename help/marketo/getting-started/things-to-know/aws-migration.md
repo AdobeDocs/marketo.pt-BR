@@ -3,7 +3,7 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
+source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 5%
@@ -47,7 +47,7 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 Antes de examinar as tabelas abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
 
-## Cronograma {#schedule}
+## Programação {#schedule}
 
 Novas datas e informações de data center/pod são adicionadas ou alteradas periodicamente, portanto, monitore essa programação para obter atualizações.
 
@@ -128,6 +128,8 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
 
 +++
 
++++Calendário de agosto
+
 <table>
  <tbody>
   <tr>
@@ -153,12 +155,9 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
   </tr>
   <tr>
    <td>20 de agosto de 2026</td>
-   <td>AB42<br>
-   <i>AB44</i></td>
-   <td>17:00 PDT<br>
-   PDT</i> às 18h<i></td>
-   <td>Concluído<br>
-   <i>Adiado (data a ser definida)</i></td>
+   <td>AB42</td>
+   <td>17:00 PDT</td>
+   <td>Concluído</td>
   </tr>
   <tr>
    <td>26 de agosto de 2026</td>
@@ -176,7 +175,20 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
    <td>PDT</i><br> às 15h<i>
    16:00 PDT</td>
    <td><i>Adiado (data a ser definida)</i><br>
-   No cronograma</td>
+   Concluído</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Data</th>
+   <th style="width:25%">Data Center/Pod</th>
+   <th style="width:25%">Hora</th>
+   <th style="width:25%">Status</th>
   </tr>
   <tr>
    <td>8 de setembro de 2026</td>
