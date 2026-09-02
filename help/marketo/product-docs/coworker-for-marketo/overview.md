@@ -1,16 +1,16 @@
 ---
 description: Explore o conjunto de agentes do Co-worker para Marketo Engage projetado para automatizar tarefas de marketing, como controle de qualidade do programa, importação de clientes potenciais, normalização de dados e muito mais.
 title: Visão geral do Colaborador do Marketo Engage
-source-git-commit: 7526f4d10f9ee6da85677a6f709220e1390c6896
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Visão geral do Colaborador do Marketo Engage {#overview}
 
-O Co-worker para Marketo Engage fornece habilidades de agente projetadas para automatizar funções de marketing demoradas, porém importantes.
+O Co-worker para Marketo Engage (anteriormente conhecido como Marketo AI) fornece habilidades de agente projetadas para automatizar funções de marketing demoradas, mas importantes.
 
 >[!AVAILABILITY]
 >
@@ -18,9 +18,9 @@ O Co-worker para Marketo Engage fornece habilidades de agente projetadas para au
 
 >[!IMPORTANT]
 >
->* Depois que o Co-worker para Marketo Engage for habilitado para a sua assinatura, você deverá executar algumas [etapas de instalação](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} para garantir que os usuários desejados tenham acesso.
+>* Depois que o Co-worker para Marketo Engage for habilitado para a sua assinatura, você deverá executar algumas [etapas de instalação](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} para garantir que os usuários desejados tenham acesso.
 >
->* Revise o escopo de dados, os controles de governança e as considerações de PII no Colaborador da [folha de informações de dados](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"} do Marketo Engage.
+>* Revise o escopo de dados, os controles de governança e as considerações de PII no Colaborador da [folha de informações de dados](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"} do Marketo Engage.
 
 ## Como acessar {#access}
 
@@ -38,19 +38,19 @@ O console central apresenta um conjunto crescente de habilidades de agente dispo
 
 ### Investigar clientes em potencial {#investigate-leads}
 
-Descubra por que uma pessoa/cliente potencial específico não atingiu um marco (como MQL, qualificação de programa ou uma campanha) e obtenha uma explicação em linguagem simples do que aconteceu. Saiba mais sobre a [habilidade Investigar clientes potenciais](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
+Descubra por que uma pessoa/cliente potencial específico não atingiu um marco (como MQL, qualificação de programa ou uma campanha) e obtenha uma explicação em linguagem simples do que aconteceu. Saiba mais sobre a [habilidade Investigar clientes potenciais](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Conhecimento do produto {#product-knowledge}
 
-O conhecimento do produto oferece acesso sob demanda à experiência da Marketo sem sair da plataforma. Faça uma pergunta em linguagem simples, e o Coworker para Marketo Engage se baseia na documentação oficial do Adobe para respondê-la. Saiba mais sobre a [habilidade de conhecimento do produto](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}.
+O conhecimento do produto oferece acesso sob demanda à experiência da Marketo sem sair da plataforma. Faça uma pergunta em linguagem simples, e o Coworker para Marketo Engage se baseia na documentação oficial do Adobe para respondê-la. Saiba mais sobre a [habilidade de conhecimento do produto](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
 
 ### Validar programas {#validate-programs}
 
-A opção Validar programas verifica automaticamente a configuração em relação às práticas recomendadas da Marketo e detecta problemas antes do lançamento. Saiba mais sobre a [habilidade Validar programas](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}.
+A opção Validar programas verifica automaticamente a configuração em relação às práticas recomendadas da Marketo e detecta problemas antes do lançamento. Saiba mais sobre a [habilidade Validar programas](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}.
 
 ### Importar clientes em potencial {#import-leads}
 
-Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo. Saiba mais sobre a [habilidade Importar clientes em potencial](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}.
+Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo. Saiba mais sobre a [habilidade Importar clientes em potencial](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}.
 
 ## Em breve {#coming-soon}
 

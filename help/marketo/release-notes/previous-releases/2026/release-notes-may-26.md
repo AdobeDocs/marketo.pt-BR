@@ -2,10 +2,10 @@
 description: Notas de versão - maio de 2026 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - maio de 2026
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -27,10 +27,10 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>IA do Marketo</strong>: utilize um conjunto de agentes criado para automatizar funções de marketing demoradas, mas importantes (dois agentes disponíveis agora e, em breve, outros).
+   <td><strong>IA do Marketo</strong>: utilize um conjunto de habilidades de agente criado para automatizar funções de marketing demoradas, mas importantes (duas habilidades de agente disponíveis agora e mais em breve).
 </td>
    <td>Abrir beta</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Visão geral da IA do Marketo</a></td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Visão geral da IA do Marketo</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Está digitando</strong>: agora o visitante e o agente veem uma notificação "está digitando..." enquanto o outro está digitando, impedindo que um interrompa o outro.
+   <td><strong>Dynamic Chat - Está digitando</strong>: agora o visitante e o agente veem um "está digitando..." notificação enquanto a outra parte está digitando, impedindo que uma interrompa a outra.
    </td>
    <td>Lançado</td>
    <td>n/d</td>
