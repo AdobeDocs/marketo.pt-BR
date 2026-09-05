@@ -3,9 +3,9 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
+source-git-commit: 26975e7134c06510311ac3869e281f9c160d2657
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '903'
 ht-degree: 5%
 
 ---
@@ -47,7 +47,7 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 Antes de examinar as tabelas abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
 
-## Programação {#schedule}
+## Cronograma {#schedule}
 
 Novas datas e informações de data center/pod são adicionadas ou alteradas periodicamente, portanto, monitore essa programação para obter atualizações.
 
@@ -239,6 +239,36 @@ Novas datas e informações de data center/pod são adicionadas ou alteradas per
    <td>25 de setembro de 2026</td>
    <td>AB10<br>
    AB11</td>
+   <td>16:00 PDT<br>
+   17:00 PDT</td>
+   <td>No cronograma<br>
+   No prazo</td>
+  </tr>
+  <tr>
+   <td>29 de setembro de 2026</td>
+   <td>AB14</td>
+   <td>18:00 PDT</td>
+   <td>No cronograma</td>
+  </tr>
+   <tr>
+   <td>1 de outubro de 2026</td>
+   <td>AB15<br>
+   AB16</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>No cronograma<br>
+   No prazo</td>
+  </tr>
+  <tr>
+   <td>6 de outubro de 2026</td>
+   <td>AB18</td>
+   <td>17:00 PDT</td>
+   <td>No cronograma</td>
+  </tr>
+  <tr>
+   <td>9 de outubro de 2026</td>
+   <td>AB19<br>
+   AB22</td>
    <td>16:00 PDT<br>
    17:00 PDT</td>
    <td>No cronograma<br>
