@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 477
-ht-degree: 19%
+source-wordcount: 496
+ht-degree: 18%
 
 ---
 
@@ -55,7 +55,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Desabilitar Campanhas no Arquivo Morto</strong>: o arquivamento de uma pasta agora desabilita e desagenda todas as campanhas nessa árvore de pastas, impedindo a execução inesperada de Campanhas Inteligentes arquivadas.
 </td>
    <td>Lançado</td>
-   <td>n/d</td>
+   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Desativar campanhas no arquivo</a></td>
   </tr>
     <tr>
    <td> </td>
