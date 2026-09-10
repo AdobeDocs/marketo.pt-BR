@@ -3,9 +3,9 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: a314dd062a500c96d1bb5eab141adec5180a2c91
+source-git-commit: 157eb35db14f4aa425db32901f878b66fcb31330
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '993'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 Nos próximos meses, todas as assinaturas do Marketo Engage estarão sendo migradas de um data center privado para a nuvem pública da AWS para melhorar a confiabilidade, a escalabilidade e a velocidade.
 
-Você receberá um email e uma notificação no aplicativo aproximadamente 30 dias antes da migração. Use este guia para se preparar.
+Você receberá um email e uma notificação no aplicativo aproximadamente 30 dias antes da [migração](#identify). Use este guia para se preparar.
 
 ## Ações recomendadas {#actions}
 
@@ -37,19 +37,23 @@ Durante a janela de migração, todos os serviços da Marketo Engage ficarão in
 Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 * **As integrações de CRM e os serviços do LaunchPoint** serão desabilitados, mas serão retomados automaticamente depois.
-* **As páginas de aterrissagem, os formulários e a coleção de dados** não estarão disponíveis, e uma mensagem de manutenção será exibida.
+* **As páginas de aterrissagem, os formulários e a coleção de dados** não estarão disponíveis e uma mensagem de manutenção será exibida (veja abaixo).
 
->[!NOTE]
+  ![Mensagem que seus clientes veem quando acessam suas Páginas de Aterrissagem da Marketo Engage durante o tempo de inatividade](assets/maintenance-in-progress.png)
+
+>[!IMPORTANT]
 >
 >Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja evitar a perda de dados de envio de formulário coletados enquanto o Marketo Engage não estiver disponível durante a janela de migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br/support){target="_blank"} **com pelo menos dois dias úteis** de antecedência e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
 
 ## Identificar o data center/pod {#identify}
 
-Antes de examinar as tabelas abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
+Antes de revisar o agendamento abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
 
 ## Cronograma {#schedule}
 
-Novas datas e informações de data center/pod são adicionadas ou alteradas periodicamente, portanto, monitore essa programação para obter atualizações.
+Novas datas e informações de data center/pod são adicionadas ou alteradas periodicamente, portanto, monitore essa programação para obter atualizações. Não há opção de recusar ou solicitar que sua migração seja movida para uma data diferente.
+
+Se, por algum motivo, uma migração não for bem-sucedida, você será notificado e nós reagendaremos.
 
 +++Calendário de julho
 <table>
@@ -304,7 +308,11 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 
 ## Atualizações e suporte {#support}
 
-Para obter as atualizações mais recentes, salve esta página como favorita. Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Para obter as informações mais recentes, salve esta página como favorita.
+
+Para obter atualizações de status, você pode [inscrever-se para recebê-las](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} no início e na conclusão da migração. Você também pode visitar [status.adobe.com](https://status.adobe.com/pt-br/){target="_blank"} durante a janela de migração.
+
+Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
 
 ## Perguntas frequentes {#faq}
 
