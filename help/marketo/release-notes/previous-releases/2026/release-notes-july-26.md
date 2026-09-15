@@ -2,13 +2,11 @@
 description: Notas de versão - julho de 2026 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - julho de 2026
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 19%
-
+source-wordcount: '454'
+ht-degree: 22%
 ---
-
 # Notas de versão: julho de 2026 {#release-notes-july-26}
 
 Abaixo você encontrará todos os recursos incluídos na versão de 26 de julho. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
@@ -52,17 +50,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Email Designer - Módulos</strong>: agora você tem acesso a blocos de conteúdo totalmente estruturados e prontos para uso, projetados para acelerar a montagem de emails.</td>
    <td>Lançado</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Usar módulos no Designer de email</a></td>
-  </tr>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Menu Contextual Gerar Conteúdo</strong>: os recursos "Gerar conteúdo" do Email Designer agora podem ser acessados no menu contextual (a barra preta). Por exemplo, quando você seleciona conteúdo de texto, o ícone Gerar conteúdo é exibido no menu contextual, permitindo executar ações rápidas.</td>
-   <td><i>Em breve</i></td>
-<td><i>Em breve</i></td>
   </tr>
   </tr>
   </tbody>

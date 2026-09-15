@@ -6,23 +6,29 @@ feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
+    internal-label: Administration
+source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
 workflow-type: tm+mt
-source-wordcount: 496
-ht-degree: 18%
-
+source-wordcount: '546'
+ht-degree: 17%
 ---
-
 # Notas de versão: agosto de 2026 {#release-notes-aug-26}
 
 Abaixo você encontrará todos os recursos incluídos na versão de agosto de 2026. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
@@ -41,9 +47,9 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:25%">Documentação</th>
   </tr>
   <tr>
-   <td><strong>Nova interface do Marketo Engage</strong>: a interface do Marketo Engage tem uma aparência atualizada, incluindo menus, ícones e layout atualizados para oferecer uma experiência mais limpa e moderna. Esta é apenas uma atualização visual. Nenhuma funcionalidade ou fluxo de trabalho existente é afetado.
+   <td><strong>Nova interface do Marketo Engage</strong>: a interface do Marketo Engage tem uma aparência atualizada, incluindo menus, ícones e layout atualizados para oferecer uma experiência mais limpa e moderna. Esta é apenas uma atualização visual; nenhuma funcionalidade ou fluxo de trabalho existente é afetado.
 </td>
-   <td>Implantação em fases durante o mês de agosto</td>
+   <td>Implantação em fases durante agosto e setembro</td>
    <td><i>n/d</i></td>
   </tr>
   <tr>
@@ -68,6 +74,18 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
+  </tr>
+    <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Menu Contextual Gerar Conteúdo</strong>: os recursos "Gerar conteúdo" do Email Designer agora podem ser acessados no menu contextual (a barra preta). Por exemplo, quando você seleciona conteúdo de texto, o ícone Gerar conteúdo é exibido no menu contextual, permitindo executar ações rápidas.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  </tr>
   </tbody>
 </table>
 <br/>
@@ -80,6 +98,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **ID de Execução da Campanha da API REST**: em determinadas circunstâncias, o valor da ID de Execução da Campanha de uma atividade era retornado com formatação incorreta, entre dois pares de aspas (por exemplo, `"campaignRunId": ""102938""`).<br/>A partir da versão de agosto, esse valor sempre será retornado com o formato numérico correto (`"campaignRunId": 102938`)
 
-* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial ou Obter Alterações de Cliente Potencial que incluem o parâmetro `listId` falharão se as listas de destino contiverem 10.000 ou mais clientes potenciais com um Código de Erro 1003 indicando que a lista estática de destino tem muitos registros. Consulte o [Guia de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
+* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial ou Obter Alterações de Cliente Potencial que incluem o parâmetro `listId` falharão com um Código de Erro 1003 (indicando que a lista estática de destino tem muitos registros) se as listas de destino contiverem 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
 
 * **Limite de Clientes Potenciais de Mesclagem da API REST**: a partir de 31 de julho de 2026, chamadas que incluem mais de 25 IDs no parâmetro leadIds de uma chamada da API de Clientes Potenciais de Mesclagem resultarão em um código de erro 1080, e a chamada será ignorada. As tarefas que exigem a fusão de mais de 25 registros em um devem ser divididas em várias tarefas para garantir o sucesso dessas chamadas.
