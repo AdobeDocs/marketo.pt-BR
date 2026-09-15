@@ -4,13 +4,11 @@ user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '8931'
+source-wordcount: '8924'
 ht-degree: 96%
-
 ---
-
 
 # Guia do Marketo {#using}
 
@@ -498,7 +496,7 @@ ht-degree: 96%
       + [Investigar clientes em potencial](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar clientes em potencial](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronização com o CRM {#crm-sync}
     + Sincronização do Microsoft Dynamics {#microsoft-dynamics}
       + [Noções básicas sobre a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1027,7 +1025,7 @@ ht-degree: 96%
       + [Colaboração por email](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [Gerar conteúdo no Designer de email](product-docs/email-marketing/email-designer/generate-content.md)
       + [Relatório de spam por email com o SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-      + [Diretrizes de rastreamento aberto da CNIL](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [Rastreamento aberto condicional](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + Programas de email {#email-programs}
       + Criação de um programa de email {#creating-an-email-program}
         + [Criar um programa de email](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
