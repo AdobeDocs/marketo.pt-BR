@@ -4,7 +4,7 @@ user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: f812c2f442c39883e028735ce51efe607968142b
+source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
 workflow-type: tm+mt
 source-wordcount: '8930'
 ht-degree: 96%
@@ -491,12 +491,12 @@ ht-degree: 96%
     + Habilidades {#skills}
       + [Conhecimento do produto](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[Insights de superfície](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + [Criar programas](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[Criar programas](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[Clonar programa](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Investigar clientes em potencial](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar clientes em potencial](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronização com o CRM {#crm-sync}
     + Sincronização do Microsoft Dynamics {#microsoft-dynamics}
       + [Noções básicas sobre a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
