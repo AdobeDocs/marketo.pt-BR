@@ -11,14 +11,18 @@ product_v2:
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
-source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
+source-git-commit: 043d09315fec24d58897c362e9e28008df7d4aa9
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '97'
+ht-degree: 4%
 ---
 # Modelo 20A {#template-20a}
 
-Clique com o botão direito do mouse para [baixar o Modelo 20A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20a.html)
+Clique com o botão direito do mouse em [baixar Modelo 20A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20a.html) e selecione **Salvar link como...**
+
+>[!NOTE]
+>
+>As etapas completas sobre como baixar e importar um modelo [podem ser encontradas aqui](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -31,6 +35,6 @@ Esse template inclui o seguinte conteúdo:
 * Quatro seções do corpo (opcional)
 * Rodapé (opcional)
 
-**Clique com o botão direito do mouse abaixo para baixar este modelo:**
+**Clique com o botão direito do mouse abaixo (e selecione _Salvar link como..._) para baixar este modelo:**
 
 [Modelo 20A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20a.html)
