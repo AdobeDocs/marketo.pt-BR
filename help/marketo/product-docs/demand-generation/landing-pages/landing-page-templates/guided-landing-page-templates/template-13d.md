@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/svN7-4JCmS-sZvZ4Vn71uSU0jBiuJ9iypAQv8ojYBU4
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: '73'
 ht-degree: 5%
-
 ---
-
 # Modelo 13D {#template-13d}
 
-Clique com o botão direito do mouse para [baixar o Modelo 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html?lang=pt-BR)
+Clique com o botão direito do mouse para [baixar o Modelo 13D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13d.html)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 
@@ -26,11 +26,11 @@ Esse template inclui o seguinte conteúdo:
 
 * Uma seção principal
 
-   * inclui título de herói e sorteios
+  * inclui título de herói e sorteios
 
 * Cinco seções de corpo (opcional)
 * Rodapé (opcional)
 
 **Clique com o botão direito do mouse abaixo para baixar este modelo:**
 
-[Modelo 13D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html?lang=pt-BR)
+[Modelo 13D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13d.html)
