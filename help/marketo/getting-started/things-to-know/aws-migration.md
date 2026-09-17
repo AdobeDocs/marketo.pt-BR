@@ -3,9 +3,9 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 577eb59d80224137833c30979dda2c183c04af70
+source-git-commit: f162e96cb2706942d51f10be6d85f700ee4b9d49
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '997'
 ht-degree: 5%
 ---
 # Migração do AWS {#aws-migration}
@@ -216,17 +216,17 @@ Se, por algum motivo, uma migração não for bem-sucedida, você será notifica
    <i>AB06</i></td>
    <td>17:00 PDT<br>
    PDT</i> às 18h<i></td>
-   <td>No cronograma<br>
+   <td>Concluído<br>
    <i>Adiado (data a ser definida)</i></td>
   </tr>
   <tr>
    <td>17 de setembro de 2026</td>
    <td>AB07<br>
-   AB08</td>
+   <i>AB08</i></td>
    <td>17:00 PDT<br>
-   18:00 PDT</td>
+   PDT</i> às 18h<i></td>
    <td>No cronograma<br>
-   No prazo</td>
+   <i>Adiado (data a ser definida)</i></td>
   </tr>
   <tr>
    <td>22 de setembro de 2026</td>
@@ -262,12 +262,6 @@ Se, por algum motivo, uma migração não for bem-sucedida, você será notifica
    No prazo</td>
   </tr>
   <tr>
-   <td>6 de outubro de 2026</td>
-   <td>AB18</td>
-   <td>17:00 PDT</td>
-   <td>No cronograma</td>
-  </tr>
-  <tr>
    <td>9 de outubro de 2026</td>
    <td>AB19<br>
    AB22</td>
@@ -275,6 +269,13 @@ Se, por algum motivo, uma migração não for bem-sucedida, você será notifica
    17:00 PDT</td>
    <td>No cronograma<br>
    No prazo</td>
+  </tr>
+   <tr>
+   <td>30 de outubro de 2026<br> 
+   (reprogramado de 6 de outubro)</td>
+   <td>AB18</td>
+   <td>17:00 PDT</td>
+   <td>No cronograma</td>
   </tr>
   </body>
 </table>

@@ -1,9 +1,9 @@
 ---
 description: Saiba como as Regras organizacionais definem padrões de governança e orientam o Colaborador da Marketo Engage na criação de programas, no planejamento de campanhas e na validação.
 title: Regras organizacionais
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 0%
 ---
 # Regras organizacionais {#organizational-rules}
@@ -19,7 +19,7 @@ As Regras organizacionais são um documento de configuração baseado em marcaç
 * Requisitos de conformidade (links para cancelar inscrição, parâmetros UTM, filtros de exclusão)
 * Práticas recomendadas (design de email, configuração de Smart List)
 
-Cada instância do Marketo inclui Regras organizacionais padrão. Você pode personalizá-los para refletir as necessidades de governança específicas de sua organização.
+Todo ambiente do Marketo Engage inclui Regras organizacionais padrão. Você pode personalizá-los para refletir as necessidades de governança específicas de sua organização.
 
 ## Onde as Regras Organizacionais são usadas {#where-organizational-rules-are-used}
 
