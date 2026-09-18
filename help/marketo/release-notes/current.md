@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '524'
 ht-degree: 17%
 ---
 # Notas de versão: agosto de 2026 {#release-notes-aug-26}
@@ -62,18 +62,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 </td>
    <td>Lançado</td>
    <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Desativar campanhas no arquivo</a></td>
-  </tr>
-    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Construtor de Scripts</strong>: o Construtor de Scripts é um assistente habilitado para IA que ajuda você a criar scripts de personalização mais rapidamente.
-</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
-  </tr>
   </tr>
     <tr>
    <td> </td>

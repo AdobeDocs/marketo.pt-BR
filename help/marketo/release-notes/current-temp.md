@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # Notas de versão: setembro de 2026 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Etapas de Fluxo de Autoatendimento - Tempo Limite de Retorno de Chamada Aumentado</strong>: o período de tempo limite de retorno de chamada para Etapas de Fluxo de Autoatendimento está sendo aumentado de uma hora para quatro horas. Nenhuma ação é necessária da sua parte.</td>
+   <td><i>Em breve</i></td>
+   <td><i>Em breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Tabelas</strong>: agora é possível arrastar e soltar o tipo de conteúdo "tabela" no email, com a capacidade de definir o número de colunas e linhas.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
   </tr>
