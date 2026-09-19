@@ -2,13 +2,12 @@
 description: Saiba como criar, editar, mesclar duplicatas e excluir categorias de modelo do Marketo Sales Connect para manter seus modelos de email organizados e fáceis de encontrar.
 title: Gerenciar categorias de modelo
 feature: Marketo Sales Connect
-source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
+exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
+source-git-commit: 2b48226095a13f2e8323db4b13217f733cc7ea7f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 9%
-
 ---
-
 # Gerenciar categorias de modelo {#manage-template-categories}
 
 ## Criar uma nova categoria {#create-a-new-category}

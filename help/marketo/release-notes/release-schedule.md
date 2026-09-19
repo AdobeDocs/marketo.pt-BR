@@ -7,17 +7,18 @@ feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+    internal-label: Personalization
+source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
 workflow-type: tm+mt
-source-wordcount: 166
-ht-degree: 75%
-
+source-wordcount: '180'
+ht-degree: 69%
 ---
-
 # Cronograma de lançamento {#release-schedule}
 
 **Versão**: o mês e ano de cada versão. Uma vez disponíveis, as notas de versão serão vinculadas na tabela abaixo.
@@ -65,14 +66,14 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
    <td>Completado</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Agosto de 26</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">Agosto de 26</a></td>
    <td>14 de agosto de 2026</td>
-   <td>Em andamento</td>
+   <td>Completado</td>
   </tr>
   <tr>
-  <td>Setembro de 26</td>
+  <td><a href="/help/marketo/release-notes/current.md">Setembro de 26</a></td>
    <td>25 de setembro de 2026</td>
-   <td>No cronograma</td>
+   <td>Em andamento</td>
   </tr>
   <tr>
   <td>Outubro de 26</td>
