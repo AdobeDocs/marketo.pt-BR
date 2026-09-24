@@ -2,10 +2,10 @@
 description: Notas de versão - julho de 2026 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - julho de 2026
 feature: Release Information
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: a1b00f94acf0fe9cd354a48bf40f17c3ad9b8ae6
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 15%
+source-wordcount: '578'
+ht-degree: 13%
 ---
 # Notas de versão: agosto de 2026 {#release-notes-aug-26}
 
@@ -36,6 +36,16 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Servidor MCP do Marketo Engage</strong>: o servidor MCP do Marketo Engage atua como uma ponte entre o assistente de IA e o Marketo Engage. Ele expõe mais de 100 operações em formulários, programas, campanhas inteligentes, pessoas/clientes potenciais, emails, trechos, listas e pastas.</td>
+   <td>Agora disponível no mercado</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=pt-BR" target="_blank">Marketo MCP Server</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Desabilitar Campanhas no Arquivo Morto</strong>: o arquivamento de uma pasta agora desabilita e desagenda todas as campanhas nessa árvore de pastas, impedindo a execução inesperada de Campanhas Inteligentes arquivadas.
 </td>
    <td>Lançado</td>
@@ -50,7 +60,6 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Email Designer - Menu Contextual Gerar Conteúdo</strong>: os recursos "Gerar conteúdo" do Email Designer agora podem ser acessados no menu contextual (a barra preta). Por exemplo, quando você seleciona conteúdo de texto, o ícone Gerar conteúdo é exibido no menu contextual, permitindo executar ações rápidas.</td>
    <td><i>Em breve</i></td>
    <td><i>Em breve</i></td>
-  </tr>
   </tr>
   </tbody>
 </table>
