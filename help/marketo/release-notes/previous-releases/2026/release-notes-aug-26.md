@@ -2,9 +2,9 @@
 description: Notas de versão - julho de 2026 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - julho de 2026
 feature: Release Information
-source-git-commit: a1b00f94acf0fe9cd354a48bf40f17c3ad9b8ae6
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '577'
 ht-degree: 13%
 ---
 # Notas de versão: agosto de 2026 {#release-notes-aug-26}
@@ -37,7 +37,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Servidor MCP do Marketo Engage</strong>: o servidor MCP do Marketo Engage atua como uma ponte entre o assistente de IA e o Marketo Engage. Ele expõe mais de 100 operações em formulários, programas, campanhas inteligentes, pessoas/clientes potenciais, emails, trechos, listas e pastas.</td>
-   <td>Agora disponível no mercado</td>
+   <td>Geralmente disponível</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=pt-BR" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>

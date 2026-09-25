@@ -3,9 +3,9 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 662073adfb4fedc2a8f122cb60ae7c5a35672926
+source-git-commit: 8c767c18df9483c060fea9bd055e48be1a58c172
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1001'
 ht-degree: 5%
 ---
 # Migração do AWS {#aws-migration}
@@ -215,12 +215,9 @@ Se, por algum motivo, uma migração não for bem-sucedida, você será notifica
   </tr>
   <tr>
    <td>17 de setembro de 2026</td>
-   <td>AB07<br>
-   <i>AB08</i></td>
-   <td>17:00 PDT<br>
-   PDT</i> às 18h<i></td>
-   <td>Concluído<br>
-   <i>Adiado (data a ser definida)</i></td>
+   <td>AB07</td>
+   <td>17:00 PDT</td>
+   <td>Concluído</td>
   </tr>
   <tr>
    <td>22 de setembro de 2026</td>
@@ -242,9 +239,9 @@ Se, por algum motivo, uma migração não for bem-sucedida, você será notifica
   </tr>
   <tr>
    <td>29 de setembro de 2026</td>
-   <td>AB14</td>
-   <td>18:00 PDT</td>
-   <td>No cronograma</td>
+   <td><i>AB14</i></td>
+   <td><i>18:00 PDT</i></td>
+   <td><i>Adiado (data a ser definida)</i></td>
   </tr>
    <tr>
    <td>1 de outubro de 2026</td>
