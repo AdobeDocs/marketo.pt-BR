@@ -6,15 +6,15 @@ feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 4%
-
 ---
-
 # Enviar email de teste {#send-a-test-email}
 
 Antes de enviar um email, você pode testar o formato do email e os tokens enviando um email de teste para si mesmo em qualquer endereço de email.
@@ -39,4 +39,4 @@ Você receberá um email com valores de token preenchidos para os clientes poten
 
 >[!NOTE]
 >
->Não se preocupe, você permanecerá na página &quot;[!UICONTROL Enviar email do Marketo]&quot; mesmo após enviar o email de teste, para que não perca o email criado.
+>Não se preocupe, você continuará na página &quot;[!UICONTROL Enviar email do Marketo]&quot; mesmo depois de enviar o email de teste, para que não perca o email que você criou.

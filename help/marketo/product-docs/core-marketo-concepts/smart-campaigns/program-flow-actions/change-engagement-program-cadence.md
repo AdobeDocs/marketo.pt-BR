@@ -7,15 +7,15 @@ feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/nNhVJUelrVSsKcH2oxw2lzWTJINM5JBj1X36KxAoyWI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: '113'
 ht-degree: 7%
-
 ---
-
 # Alterar cadência do programa de envolvimento {#change-engagement-program-cadence}
 
 Uma vez que uma pessoa está sendo nutrida por um programa de envolvimento, você pode pausar temporariamente a nutrição para ela usando esta etapa de fluxo.
@@ -34,4 +34,4 @@ Uma vez que uma pessoa está sendo nutrida por um programa de envolvimento, voc�
 
    ![](assets/change-engagement-program-cadence-3.png)
 
-Você pode definir a pessoa de volta para **[!UICONTROL Normal]** se desejar que ela comece a receber conteúdo novamente.
+   Você pode definir a pessoa de volta para **[!UICONTROL Normal]** se desejar que ela comece a receber conteúdo novamente.

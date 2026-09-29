@@ -6,19 +6,22 @@ exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 1%
-
 ---
-
 # Métricas de lista de pendências de sincronização do Salesforce  {#salesforce-sync-backlog-metrics}
 
 O backlog de sincronização é o nome usado para a sincronização pendente de registros. Conta para registros com sincronização pendente do Salesforce para o Marketo Engage e vice-versa. Garantir que o backlog permaneça sob controle levará a sincronizações suaves e temporais. O backlog cobre os números pendentes de atualizações de publicação de sincronização em ambos os lados, e não aqueles que são realizados pelas etapas de fluxo de sincronização, como o lead de sincronização para as etapas de fluxo do SFDC.
@@ -89,7 +92,8 @@ As estatísticas refletem a taxa de transferência e o status do backlog para ca
     <td>Status do Backlog</td>
     <td>Isso mostra se o acúmulo aumentou nas últimas 6 horas. É inferido como "Crescente" se o backlog atual for maior que o backlog registrado 6 horas atrás. Caso contrário, será mostrado como 'Normal'. O objetivo é mostrar se a taxa de transferência de sincronização está alcançando o backlog.</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## O que causa pendências de sincronização {#what-causes-sync-backlogs}
 
@@ -107,9 +111,9 @@ Quando uma grande quantidade de atualizações é feita (como a partir de uma al
 
 **Campos Atualizados com Frequência**: alguns campos estão sujeitos a atualizações frequentes. Por exemplo, campos de moeda que estão sujeitos a alterações de moeda. Verifique se eles precisam ser sincronizados ou se os campos devem ser criados de forma diferente. Se você tiver outros campos que são atualizados com frequência e não são necessários, oculte-os do usuário de sincronização. Converse com o administrador do SFDC sobre integrações que podem estar atualizando campos.
 
-**Objetos personalizados**: revise periodicamente [objetos personalizados](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar e desabilitar aqueles que não precisam mais ser sincronizados.
+**Objetos personalizados**: revise periodicamente [objetos personalizados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} habilitados para sincronizar e desabilitar aqueles que não precisam mais ser sincronizados.
 
-**Atividades**: [Verifique se alguma atividade](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitou a sincronização que possa ser removida da sincronização.  Essas atividades só são sincronizadas uma vez por dia por lead.
+**Atividades**: [Verifique se alguma atividade](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} habilitou a sincronização que possa ser removida da sincronização.  Essas atividades só são sincronizadas uma vez por dia por lead.
 
 **Revisar erros de sincronização**: a manipulação de exceções pode retardar a sincronização. A revisão das notificações do usuário e a resolução de erros podem melhorar a integridade da sincronização.
 

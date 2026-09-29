@@ -7,13 +7,12 @@ feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 4%
-
 ---
-
 # Configuração de um canal de entrega personalizado {#setting-up-a-custom-delivery-channel}
 
 O [!DNL Marketo Sales Connect] permite a integração com um servidor SMTP personalizado para a entrega de seus emails. Essa é uma ótima opção para aqueles que não desejam enviar emails em massa a partir do Gmail ou do canal de entrega [!DNL Exchange].

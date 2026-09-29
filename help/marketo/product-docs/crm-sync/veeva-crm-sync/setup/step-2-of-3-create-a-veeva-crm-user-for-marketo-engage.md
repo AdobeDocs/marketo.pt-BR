@@ -6,16 +6,17 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 636
-ht-degree: 0%
-
+source-wordcount: '636'
+ht-degree: 6%
 ---
-
 # Etapa 2 de 3: Criar um Usuário do CRM do [!DNL Veeva] para Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
@@ -56,13 +57,13 @@ Seguir essas etapas permitirá que o usuário de sincronização do Marketo atua
 
 1. Repita a etapa acima para os seguintes campos:
 
-   * Cidade inferida
-   * Empresa inferida
-   * País inferido
-   * Área metropolitana inferida
-   * Código de área do telefone inferido
-   * Código postal inferido
-   * Região do estado inferido
+   * Cidade indicada
+   * Empresa indicada
+   * País indicado
+   * Área metropolitana indicada
+   * Código de área telef. indic.
+   * Código postal indicado
+   * Estado/região indicado
 
    >[!NOTE]
    >
@@ -148,15 +149,15 @@ Seguir essas etapas permitirá que o usuário de sincronização do Marketo atua
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-Localize os campos desnecessários, verifique se o [!UICONTROL Acesso de Leitura] e o [!UICONTROL Acesso de Edição] estão **un** marcados. Clique em **[!UICONTROL Salvar]** ao concluir.
+   Localize os campos desnecessários, verifique se o [!UICONTROL Acesso de Leitura] e o [!UICONTROL Acesso de Edição] estão **un** marcados. Clique em **[!UICONTROL Salvar]** quando terminar.
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->Edite somente a acessibilidade para os campos personalizados.
+   >[!NOTE]
+   >
+   >Edite somente a acessibilidade para os campos personalizados.
 
-1. Depois que você terminar de desabilitar todos os campos desnecessários, marque o [!UICONTROL Acesso de Leitura] e o [!UICONTROL Acesso de Edição] para os seguintes campos de objeto. Clique em **[!UICONTROL Salvar]** ao concluir.
+1. Depois que você terminar de desabilitar todos os campos desnecessários, marque o [!UICONTROL Acesso de Leitura] e o [!UICONTROL Acesso de Edição] para os seguintes campos de objeto. Clique em **[!UICONTROL Salvar]** quando terminar.
 
 <table>
  <tbody>
