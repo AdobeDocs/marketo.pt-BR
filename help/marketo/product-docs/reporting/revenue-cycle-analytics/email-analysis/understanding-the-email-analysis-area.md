@@ -8,9 +8,7 @@ source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 4%
-
 ---
-
 # Noções básicas sobre a área de análise de email {#understanding-the-email-analysis-area}
 
 A Área de análise de email se concentra nas métricas de email. Este artigo apresenta todos os relatórios disponíveis nele.

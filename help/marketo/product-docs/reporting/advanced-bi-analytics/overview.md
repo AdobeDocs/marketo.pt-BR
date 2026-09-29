@@ -6,22 +6,27 @@ exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
 TQID: https://experienceleague.adobe.com/l-H2ZQsoyNEddqb-3cVWjz0GYS6kNaVEPUp8-NPX46Q
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 subfeature_v2:
   - id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
+    internal-label: Program analysis
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 1098
+source-wordcount: '1098'
 ht-degree: 1%
-
 ---
-
 # Visão geral da análise de BI avançada {#advanced-bi-analytics-overview}
 
 O Advanced BI Analytics (anteriormente conhecido como Revenue Explorer e Advanced Report Builder) oferece uma interface de relatório e visualização flexível nos dados do Marketo Engage, fornecendo detalhes detalhados sobre progressão, desempenho e muito mais. Ele oferece interatividade e visualização mais avançadas, desempenho mais rápido e uma experiência do usuário mais contínua e intuitiva.
@@ -137,7 +142,7 @@ Saiba como exportar seções específicas do relatório.
 
 Assista ao vídeo a seguir para ver um exemplo de uma experiência de relatório drill-through de várias páginas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451687/?captions=por_br&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Relatórios padrão no Advanced BI Analytics {#standard-reports}
 
