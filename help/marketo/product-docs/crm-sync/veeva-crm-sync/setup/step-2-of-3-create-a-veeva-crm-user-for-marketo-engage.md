@@ -12,7 +12,7 @@ topic_v2:
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 6%
@@ -149,7 +149,7 @@ Seguir essas etapas permitirá que o usuário de sincronização do Marketo atua
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-   Localize os campos desnecessários, verifique se o [!UICONTROL Acesso de Leitura] e o [!UICONTROL Acesso de Edição] estão **un** marcados. Clique em **[!UICONTROL Salvar]** quando terminar.
+1. Localize os campos desnecessários, verifique se o [!UICONTROL Acesso de Leitura] e o [!UICONTROL Acesso de Edição] estão **un** marcados. Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 

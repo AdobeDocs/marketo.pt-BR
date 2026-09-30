@@ -19,7 +19,7 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '1703'
 ht-degree: 84%
@@ -69,7 +69,7 @@ A primeira parte é o CNAME de rastreamento de email, `[EmailTrackingCNAME]`. Vo
 
 >[!CAUTION]
 >
->Os CNAMEs de email e de página de destino devem ser diferentes. Além disso, evite CNAMEs como &quot;track&quot; ou &quot;link&quot;. Geralmente é sinalizado como spam
+>Os CNAMEs de email e de página de destino devem ser diferentes. Além disso, evite CNAMEs como &quot;track&quot; ou &quot;link&quot;. Geralmente, é sinalizado como spam.
 
 Para encontrar o link de rastreamento do Marketo, acesse a área **[!UICONTROL Administração]**.
 
