@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 767
-ht-degree: 0%
-
+source-wordcount: '767'
+ht-degree: 9%
 ---
-
 # Etapa 1 de 3: Adicionar campos do Marketo ao [!DNL Salesforce] (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
@@ -50,66 +49,66 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
 1. Insira o [!UICONTROL Rótulo do campo], [!UICONTROL Comprimento] e [!UICONTROL Nome do campo] para o campo, conforme mostrado na tabela abaixo.
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      Rótulo do campo
-    </div></th>
-   <th>
-    <div>
-      Nome do campo
-    </div></th>
-   <th>
-    <div>
-      Tipo de dados
-    </div></th>
-   <th>
-    <div>
-      Atributos do campo
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Pontuação</td>
-   <td>mkto71_Lead_Score</td>
-   <td>Número</td>
-   <td>Comprimento 10<br>Casas decimais 0 </td>
-  </tr>
-  <tr>
-   <td>Data de aquisição</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>Data/Hora</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>Programa de aquisição</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>Texto</td>
-   <td>Comprimento 255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         Rótulo do campo
+      </div></th>
+      <th>
+      <div>
+         Nome do campo
+      </div></th>
+      <th>
+      <div>
+         Tipo de dados
+      </div></th>
+      <th>
+      <div>
+         Atributos do campo
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>Pontuação</td>
+      <td>mkto71_Lead_Score</td>
+      <td>Número</td>
+      <td>Comprimento 10<br>Casas decimais 0 </td>
+   </tr>
+   <tr>
+      <td>Data da aquisição</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>Data/hora</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>Programa de aquisição</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>Texto</td>
+      <td>Comprimento 255</td>
+   </tr>
+   </tbody>
+   </table>
 
->[!NOTE]
->
->[!DNL Salesforce] anexa __c a Nomes de campos quando os usa para criar Nomes de API.
+   >[!NOTE]
+   >
+   >[!DNL Salesforce] anexa __c a Nomes de campos quando os usa para criar Nomes de API.
 
-![](assets/image2016-5-26-14-3a55-3a33.png)
+   ![](assets/image2016-5-26-14-3a55-3a33.png)
 
->[!NOTE]
->
->Os campos de texto e número exigem comprimento, mas os campos de Data/Hora não. Uma descrição é opcional.
+   >[!NOTE]
+   >
+   >Os campos de texto e número exigem comprimento, mas os campos de Data/Hora não. Uma descrição é opcional.
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
@@ -119,9 +118,9 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
 
    * Desmarque a caixa de seleção **[!UICONTROL Somente Leitura]** para o perfil do seu usuário de sincronização:
 
-      * Se você tiver um usuário com o perfil de um _Administrador do Sistema_ como o usuário de sincronização, desmarque a caixa de seleção **[!UICONTROL Somente Leitura]** do perfil de Administrador do Sistema (como mostrado abaixo)
+     * Se você tiver um usuário com o perfil de um _Administrador do Sistema_ como o usuário de sincronização, desmarque a caixa de seleção **[!UICONTROL Somente Leitura]** do perfil de Administrador do Sistema (como mostrado abaixo)
 
-      * Se você criou um _perfil personalizado_ para o usuário de sincronização, desmarque a caixa de seleção **[!UICONTROL Somente Leitura]** desse perfil personalizado
+     * Se você criou um _perfil personalizado_ para o usuário de sincronização, desmarque a caixa de seleção **[!UICONTROL Somente Leitura]** desse perfil personalizado
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -152,7 +151,7 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 18<br>Casas decimais 0 </td>
   </tr>
   <tr>
-   <td>Referenciador original</td>
+   <td>Responsável pela indicação original</td>
    <td>mkto71_Original_Referrer</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
@@ -170,55 +169,55 @@ Execute as etapas a seguir para cada um dos três campos personalizados para adi
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Informações originais do Source</td>
+   <td>Informações da fonte original</td>
    <td>mkto71_Original_Source_Info</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Tipo de Source original</td>
+   <td>Tipo de fonte original</td>
    <td>mkto71_Original_Source_Type</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Cidade inferida</td>
+   <td>Cidade indicada</td>
    <td>mkto71_Cidade_inferida</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Empresa inferida</td>
+   <td>Empresa indicada</td>
    <td>mkto71_Inferred_Company</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>País inferido</td>
+   <td>País indicado</td>
    <td>mkto71_Inferred_Country</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Área metropolitana inferida</td>
+   <td>Área metropolitana indicada</td>
    <td>mkto71_Inferred_Metropolitan_Area</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Código de área do telefone inferido</td>
+   <td>Código de área telefônica indicado</td>
    <td>mkto71_Inferred_Phone_Area_Code</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Código postal inferido</td>
+   <td>Código postal indicado</td>
    <td>mkto71_Inferred_Postal_Code</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
   </tr>
   <tr>
-   <td>Região do estado inferido</td>
+   <td>Estado/região indicado</td>
    <td>mkto71_Inferred_State_Region</td>
    <td>Texto</td>
    <td>Comprimento 255</td>
