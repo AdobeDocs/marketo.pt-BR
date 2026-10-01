@@ -7,21 +7,27 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/pMoHSEmaDbjOVpoVaUi1lvUHBYkyzOwkuF1n7mxpmY0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: a3bd8b47cc9c49d4b0c164219347d003441971c0
 workflow-type: tm+mt
-source-wordcount: 234
-ht-degree: 33%
-
+source-wordcount: '260'
+ht-degree: 30%
 ---
-
 # Relatório de desempenho de email da campanha {#campaign-email-performance-report}
 
-Para ver as estatísticas de desempenho de email agrupadas por [campanha inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), execute um relatório de Desempenho de Email da Campanha.
+Para ver as estatísticas de desempenho de email agrupadas por [Campanha Inteligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), execute um relatório de Desempenho de email da campanha.
+
+>[!NOTE]
+>
+>Um Relatório de desempenho de email da campanha só pode ser criado como um ativo local em um programa de Atividades de marketing. Não está disponível na seção Analytics.
 
 1. [Crie um relatório](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selecione o **[!UICONTROL Desempenho do Email da Campanha]** [tipo de relatório](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 

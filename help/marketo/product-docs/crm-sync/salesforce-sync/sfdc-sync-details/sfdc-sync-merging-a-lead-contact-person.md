@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
+    internal-label: Marketo Engage
+source-git-commit: c8f30157ca645b020191f85a414cf66407b421bb
 workflow-type: tm+mt
-source-wordcount: 268
-ht-degree: 2%
-
+source-wordcount: '207'
+ht-degree: 3%
 ---
-
 # Sincronização do SFDC: mesclar um lead, contato ou pessoa {#sfdc-sync-merging-a-lead-contact-person}
 
 Às vezes, é melhor apenas listar as regras. Aqui vamos nós:
@@ -30,10 +29,6 @@ ht-degree: 2%
 * Valores de campo conflitantes são retirados do &quot;registro vencedor&quot;. (Registro = o lead ou contato resultante)
 * Se o &quot;registro perdedor&quot; (aquele que está desaparecendo) tiver um valor e o registro vencedor não tiver nenhum (ou for nulo), manteremos o registro perdedor. Em outras palavras, &quot;algum valor é melhor do que nenhum valor&quot;.
 * Todos os itens do log de atividades são mesclados.
-
->[!NOTE]
->
->O comportamento dos campos booleanos em uma mesclagem de API mudou na versão de março de 2026. Agora, um valor Falso é tratado corretamente como tendo um valor para esse campo. Somente um valor nulo é tratado como &quot;vazio&quot; ao avaliar campos conflitantes. Consulte [esta publicação da comunidade](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=pt){target="_blank"} para obter mais detalhes.
 
 >[!MORELIKETHIS]
 >
