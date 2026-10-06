@@ -1,30 +1,28 @@
 ---
 description: Saiba como usar o agente Importar clientes em potencial para carregar um CSV, aplicar regras de negócios, mapear campos e importar clientes em potencial diretamente para o banco de dados do Marketo Engage.
 title: Importar clientes em potencial
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
-
 ---
-
 # Importar clientes em potencial {#import-leads}
 
 Importe e desduplique listas de clientes potenciais no banco de dados do Marketo Engage com assistência de mapeamento de campo.
 
 ## Como usar {#how-to-use}
 
-1. Em Meu Marketo, clique no bloco **Colaborador do Marketo Engage**.
+1. Em Meu Marketo, clique no bloco **CX Enterprise Coworker para Marketo Engage**.
 
-   ![](assets/import-leads-1.png)
+   ![](assets/cx-import-leads-1.png)
 
 1. Digite &quot;Importar uma lista de clientes potenciais e normalizar os dados&quot; (ou selecione-a se estiver listada como um prompt de exemplo) e clique no ícone de seta para cima.
 
-   ![](assets/import-leads-2.png)
+   ![](assets/cx-import-leads-2.png)
 
 1. Você será solicitado a fazer upload do arquivo CSV e verá as próximas etapas.
 
-   ![](assets/import-leads-3.png)
+   ![](assets/cx-import-leads-3.png)
 
 1. Clique no ícone **+** e selecione **Carregar arquivo**. Localize e faça upload do seu arquivo CSV.
 

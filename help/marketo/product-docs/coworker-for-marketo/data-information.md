@@ -1,22 +1,20 @@
 ---
-description: Revise o colaborador para escopo de dados do Marketo Engage, controles de governança e considerações de PII em fluxos de trabalho principais, como importação de clientes potenciais, controle de qualidade do programa e normalização de dados.
-title: Colaborador da folha de informações de dados do Marketo Engage
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+description: Revise o escopo de dados, os controles de governança e as considerações de PII do CX Enterprise Coworker para Marketo Engage em fluxos de trabalho importantes, como importação de clientes potenciais, controle de qualidade do programa e normalização de dados.
+title: Folha de informações de dados do CX Enterprise Coworker para Marketo Engage
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1459'
 ht-degree: 0%
-
 ---
+# Folha de informações de dados do CX Enterprise Coworker para Marketo Engage {#data-information}
 
-# Colaborador da folha de informações de dados do Marketo Engage {#data-information}
+O CX Enterprise Coworker for Marketo Engage é um recurso nativo e prático do Adobe Marketo Engage que permite que as equipes de operações de marketing automatizem fluxos de trabalho selecionados por meio da interação em linguagem natural, incluindo importação de clientes potenciais, validação de programas, normalização de dados, criação de programas, investigação de clientes potenciais, análise e orientação de produtos. O CX Enterprise Coworker for Marketo Engage opera dentro do ambiente Marketo Engage existente de um usuário e usa a infraestrutura gerenciada pela Adobe para raciocínio e orquestração de IA.
 
-O Co-worker para Marketo Engage é um recurso nativo e prático da Adobe Marketo Engage que permite que as equipes de operações de marketing automatizem fluxos de trabalho selecionados por meio da interação em linguagem natural, incluindo importação de clientes potenciais, validação de programas, normalização de dados, criação de programas, investigação de clientes potenciais, análise e orientação de produtos. O Co-worker para Marketo Engage opera dentro do ambiente Marketo Engage existente de um usuário e usa a infraestrutura gerenciada pela Adobe para raciocínio e orquestração de IA.
-
-**Ambiente de usuário:** O Co-worker para Marketo Engage funciona em um ambiente Marketo Engage existente e não apresenta um novo caminho de compartilhamento de usuário para usuário.
+**Ambiente de usuário:** o CX Enterprise Coworker for Marketo Engage funciona em um ambiente Marketo Engage existente e não apresenta um novo caminho de compartilhamento de usuário para usuário.
 
 **Escopo dos dados:** o serviço processa dados de marketing B2B padrão já presentes no ambiente do usuário, incluindo registros de cliente potencial, dados de programa e atividade de campanha inteligente.
 
-**Serviços de IA:** O Co-worker para Marketo Engage aproveita um recurso de IA criado pela Adobe e usa o Azure OpenAI GPT-4.1 e o Claude no AWS Bedrock para raciocínio de IA, com ferramentas MCP do Marketo que oferecem suporte à execução de ações do produto.
+**Serviços de IA:** o CX Enterprise Coworker for Marketo Engage aproveita um recurso de IA criado pela Adobe e usa o Azure OpenAI GPT-4.1 e o Claude no AWS Bedrock para o raciocínio de IA, com ferramentas MCP do Marketo que oferecem suporte à execução de ações do produto.
 
 **Governança:** as saídas geradas por IA permanecem no ambiente do usuário e estão sujeitas aos controles existentes de governança, residência e retenção.
 
@@ -62,7 +60,7 @@ O Co-worker para Marketo Engage é um recurso nativo e prático da Adobe Marketo
 
 ## Casos de uso
 
-Além dos listados, considere usar o Coworker para Marketo Engage para diagnosticar e solucionar problemas operacionais complexos (falhas de sincronização de CRM, erros de webhook, análise de causa principal do delivery de email, incompatibilidades de campo), realizar auditorias em sua conta (capacidade de delivery de email, conformidade do centro de subscrição, revisões de campanhas inteligentes, avaliações de modelos de pontuação) e acelerar a criação de programas a partir de resumos e modelos (programas de eventos, campanhas de email em vários idiomas, configurações de webinário). O Co-worker para Marketo Engage foi projetado para fornecer classificação de clientes potenciais assistidos por IA e enriquecimento de dados em escala, análise de desempenho com recomendações de correção e depuração guiada de configurações técnicas, como scripts Velocity e modelos de ciclo de vida.
+Além dos listados, considere usar o CX Enterprise Coworker for Marketo Engage para diagnosticar e solucionar problemas operacionais complexos (falhas de sincronização de CRM, erros de webhook, análise de causa principal de delivery de email, incompatibilidades de campo), realizar auditorias em sua conta (capacidade de delivery de email, conformidade do centro de subscrição, revisões de campanhas inteligentes, avaliações de modelos de pontuação) e acelerar a criação de programas a partir de resumos e modelos (programas de eventos, campanhas de email em vários idiomas, configurações de webinário). O CX Enterprise Coworker for Marketo Engage foi projetado para fornecer classificação de clientes potenciais assistidos por IA e enriquecimento de dados em escala, análise de desempenho com recomendações de correção e depuração guiada de configurações técnicas, como scripts Velocity e modelos de ciclo de vida.
 
 ## Status de disponibilidade e implantação
 
@@ -78,13 +76,13 @@ Além dos listados, considere usar o Coworker para Marketo Engage para diagnosti
 
 **Documentação:** a documentação do Experience League está sendo expandida como parte da disponibilidade geral.
 
-**Modelo de suporte:** a abordagem de suporte atual inclui entrada de comentários do usuário, horário comercial e um colaborador para a comunidade do Marketo Engage Experience League.
+**Modelo de suporte:** a abordagem de suporte atual inclui entrada de comentários do usuário, horário comercial e uma comunidade do CX Enterprise Coworker para Marketo Engage Experience League.
 
 **Monitoramento de serviço:** o Adobe identifica a observabilidade, os painéis de comentários e os mecanismos de avaliação de qualidade como componentes importantes da maturidade da inicialização e do aprimoramento contínuo.
 
 ## Dados e exclusões fora do escopo
 
-**Não há novos dados de categoria especial:** O Co-worker para Marketo Engage não introduz um novo processamento para dados de integridade, financeiros, de localização precisa, biométricos ou outros dados de categoria especial.
+**Nenhum dado de categoria especial:** o CX Enterprise Coworker for Marketo Engage não apresenta um novo processamento para dados de saúde, financeiros, de localização precisa, biométricos ou de outra categoria especial.
 
 **Nenhum novo caminho de compartilhamento:** O serviço não cria um novo mecanismo de compartilhamento de conteúdo de usuário para usuário.
 
@@ -94,13 +92,13 @@ Além dos listados, considere usar o Coworker para Marketo Engage para diagnosti
 
 ## Uso do Azure OpenAI e do Claude no AWS Bedrock
 
-Esta seção explica como o Azure OpenAI oferece suporte ao Co-worker para workflows do Marketo Engage. Quaisquer diagramas ou descrições de fluxo relacionados devem ser lidos juntamente com os controles descritos aqui, incluindo limitações no escopo dos dados, supervisão do usuário e treinamento do modelo.
+Esta seção explica como o Azure OpenAI oferece suporte ao CX Enterprise Coworker para fluxos de trabalho do Marketo Engage. Quaisquer diagramas ou descrições de fluxo relacionados devem ser lidos juntamente com os controles descritos aqui, incluindo limitações no escopo dos dados, supervisão do usuário e treinamento do modelo.
 
 **Propósito:** o Azure OpenAI GPT-4.1 é usado para raciocínio conversacional e orquestração de fluxos de trabalho orientados por agente.
 
 **Escopo dos dados:** As entradas estão limitadas aos dados de marketing B2B padrão já presentes no ambiente Marketo Engage do usuário e necessários para preencher o fluxo de trabalho solicitado.
 
-**Saída de IA:** as saídas de IA são determinadas por solicitações e configurações do usuário, e o Co-worker para recursos do Marketo Engage não toma decisões de forma autônoma sem a configuração do usuário.
+**Saída de IA:** as saídas de IA são determinadas por prompts e configuração do usuário, e os recursos do CX Enterprise Coworker para Marketo Engage não tomam decisões de forma autônoma sem a configuração do usuário.
 
 **Treinamento:** a Adobe não usa dados do usuário para treinar ou ajustar modelos do Azure OpenAI para este serviço.
 
@@ -116,11 +114,11 @@ Esta seção explica como o Azure OpenAI oferece suporte ao Co-worker para workf
 
 ## Locais de processamento e armazenamento de dados
 
-Esta seção resume os ambientes nos quais o Co-worker para Marketo Engage opera e onde ocorre o processamento. Se o documento incluir diagramas regionais ou visuais de infraestrutura, esses materiais devem ser entendidos como representações de alto nível do local de serviço e do fluxo de processamento, em vez de esquemas de rede exaustivos.
+Esta seção resume os ambientes nos quais o CX Enterprise Coworker for Marketo Engage opera e onde ocorre o processamento. Se o documento incluir diagramas regionais ou visuais de infraestrutura, esses materiais devem ser entendidos como representações de alto nível do local de serviço e do fluxo de processamento, em vez de esquemas de rede exaustivos.
 
-**Ambiente de aplicativo:** O Co-worker para Marketo Engage opera dentro do ambiente Adobe Marketo Engage existente do usuário.
+**Ambiente de aplicativo:** o CX Enterprise Coworker for Marketo Engage opera dentro do ambiente Adobe Marketo Engage existente do usuário.
 
-**Processamento de IA:** O Co-worker para Marketo Engage usa o Azure OpenAI GPT-4.1 e o Claude no AWS Bedrock para raciocínio conversacional e orquestração de tarefas.
+**Processamento de IA:** o CX Enterprise Coworker for Marketo Engage usa o Azure OpenAI GPT-4.1 e o Claude no AWS Bedrock para raciocínio conversacional e orquestração de tarefas.
 
 **Local dos dados do usuário:** os dados do usuário e as saídas geradas por IA permanecem no ambiente Marketo Engage do usuário e estão sujeitos aos controles existentes de residência, governança e retenção do usuário.
 
@@ -128,7 +126,7 @@ Esta seção resume os ambientes nos quais o Co-worker para Marketo Engage opera
 
 ## Escopo de dados por tipo de fluxo de trabalho
 
-Os dados processados pelo Colaborador para o Marketo Engage são determinados pelo padrão de uso do usuário e pelo fluxo de trabalho específico chamado. Nem todos os fluxos de trabalho exigem dados de nível de lead de processamento.
+Os dados processados pelo CX Enterprise Coworker para o Marketo Engage são determinados pelo padrão de uso do usuário e pelo fluxo de trabalho específico chamado. Nem todos os fluxos de trabalho exigem dados de nível de lead de processamento.
 
 ### Fluxos de trabalho que utilizam apenas os metadados da campanha (sem informações de clientes potenciais)
 
@@ -150,9 +148,9 @@ Os dados processados pelo Colaborador para o Marketo Engage são determinados pe
 ### Minimização de dados por design
 
 * Em todos os casos, os dados enviados para o modelo de IA são limitados ao necessário para atender à solicitação específica do usuário nesse fluxo de trabalho
-* O colaborador do Marketo Engage segue as permissões existentes do Marketo Engage do usuário; ele não fornece acesso a registros, campos ou programas de clientes potenciais além do que o usuário tem permissão para visualizar por meio da interface do usuário do produto
+* O CX Enterprise Coworker for Marketo Engage segue as permissões existentes do Marketo Engage do usuário; ele não fornece acesso a registros, campos ou programas de clientes potenciais além do que o usuário tem permissão para visualizar por meio da interface do usuário do produto
 * Os usuários que desejam limitar o processamento de dados de clientes potenciais podem restringir o acesso aos fluxos de trabalho de investigação da ferramenta por meio dos controles de permissões e funções existentes do Marketo Engage, mantendo o acesso total aos recursos de IA estruturais e administrativos
 
 ### Sem exposição de dados incremental
 
-A IA funciona como um acelerador nas permissões do usuário existentes, não como um caminho de escalonamento. Um usuário que não consegue visualizar determinados campos, programas ou partições principais na interface do usuário do Marketo Engage também não pode exibir esses dados por meio do Colaborador para o Marketo Engage. O serviço não ignora regras de partição, permissões em nível de campo ou restrições de espaço de trabalho.
+A IA funciona como um acelerador nas permissões do usuário existentes, não como um caminho de escalonamento. Um usuário que não consegue visualizar determinados campos, programas ou partições principais na interface do usuário do Marketo Engage também não pode exibir esses dados por meio do CX Enterprise Coworker para Marketo Engage. O serviço não ignora regras de partição, permissões em nível de campo ou restrições de espaço de trabalho.
