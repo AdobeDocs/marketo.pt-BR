@@ -3,10 +3,10 @@ description: Migração do AWS - Documentação do Marketo Engage - Documentaç�
 title: Migração do AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78cbf2bc22a769e1b1013ddf7293e1a49ccd77e4
+source-git-commit: a02e4782a1c320ec1baa8c304d50c7e1807ab445
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 5%
+source-wordcount: '1227'
+ht-degree: 4%
 ---
 # Migração do AWS {#aws-migration}
 
@@ -20,7 +20,7 @@ Durante a janela de migração, todos os serviços da Marketo Engage ficarão in
 
 * **Evite criar ou atualizar clientes potenciais/pessoas** ou executar processos que modificam registros de Pessoa.
 
-* **Não acionar processos de acompanhamento**, pois as campanhas agendadas serão pausadas.
+* **Não acionar processos de acompanhamento**, pois todas as campanhas agendadas serão pausadas.
 
 * **Desabilite temporariamente todas as integrações** que enviam ou recebem dados para ou da Marketo Engage.
 
@@ -45,7 +45,7 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 ## Identificar o data center/pod {#identify}
 
-Antes de revisar o agendamento abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) em qual data center e pod/servidor sua assinatura está localizada.
+Antes de revisar o agendamento abaixo, [saiba como identificar](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"} em qual data center e pod/servidor sua assinatura está localizada.
 
 ## Cronograma {#schedule}
 
@@ -362,3 +362,13 @@ O Marketo usa o Amazon Aurora, um mecanismo de banco de dados relacional nativo 
 O Aurora também executa backups automáticos contínuos no Amazon S3 em tempo real, permitindo a recuperação point-in-time (PITR) a qualquer segundo dentro da janela de retenção configurada.
 
 No momento, a implantação do Marketo Aurora opera em uma única região da AWS, sem replicação entre regiões. Os dados de produção permanecem dentro da infraestrutura regional designada, e a recuperação de desastres é fornecida por meio da redundância de armazenamento de dados de vários AZ e backups contínuos do Aurora, em vez de failover geográfico para uma região secundária. Isso pode ser avaliado ainda mais à medida que a infraestrutura AWS da Marketo amadurece.
+
+**Como as cancelamentos de assinatura são tratados durante o tempo de inatividade?**
+As cancelamentos de assinatura padrão e de lista (de clientes de email) ainda são recebidos e serão processados logo após a migração.
+
+**Há alguma alternativa para pausar campanhas?**
+Sim. Se quiser impedir que as pessoas avancem, mas não quiser perder os dados recebidos, considere estas opções:
+
+* Adicionar uma etapa de escolha: em vez de desabilitar a campanha, deixe-a ativa, mas adicione uma [etapa do fluxo de espera](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} ou uma etapa imediata de &quot;Não fazer nada&quot; bem na parte superior do fluxo. Defina uma [regra de Escolha](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} que direcione seus usuários para esse estado pausado e atualize as regras de Escolha quando estiver pronto.
+* Remover do Fluxo: se as pessoas já tiverem entrado na campanha, mas você precisar interromper o progresso, use a ação [Remover do Fluxo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} para retirá-las sem desabilitar permanentemente o acionador da campanha.
+* Alternativa em lote: considere converter Campanhas de acionador em Campanhas em lote se não precisar de roteamento ou respostas instantâneas e se quiser processar pessoas durante a noite ou em intervalos programados.

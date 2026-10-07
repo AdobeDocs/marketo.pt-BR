@@ -1,16 +1,16 @@
 ---
-description: Use o Colaborador para o Marketo Engage para criar um programa do Marketo adaptando um modelo existente. Prepare campanhas inteligentes, agendamento e espaços reservados para ativos para revisar e refinar.
+description: Use o CX Enterprise Coworker for Marketo Engage para criar um programa do Marketo adaptando um modelo existente. Prepare campanhas inteligentes, agendamento e espaços reservados para ativos para revisar e refinar.
 title: Criar programas
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # Criar programas {#build-programs}
 
-Descreva uma campanha de marketing em linguagem simples. O Co-worker para Marketo Engage adapta um modelo de programa existente para atender às suas necessidades, atualizando automaticamente o conteúdo do email e criando ativos adicionais duplicando a estrutura do modelo.
+Descreva uma campanha de marketing em linguagem simples. O CX Enterprise Coworker para Marketo Engage adapta um modelo de programa existente para atender às suas necessidades, atualizando automaticamente o conteúdo do email e criando ativos adicionais duplicando a estrutura do modelo.
 
-As [Regras Organizacionais](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} da sua organização explicam como o Co-worker para estruturas da Marketo Engage valida o programa durante a criação. Essas regras garantem que o novo programa se alinhe às suas convenções de nomenclatura, aos tokens necessários, à estrutura de pastas e aos padrões de conformidade.
+As [Regras organizacionais](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} da sua organização explicam como o CX Enterprise Coworker for Marketo Engage estrutura e valida o programa durante a criação. Essas regras garantem que o novo programa se alinhe às suas convenções de nomenclatura, aos tokens necessários, à estrutura de pastas e aos padrões de conformidade.
 
 >[!PREREQUISITES]
 >
@@ -20,15 +20,15 @@ As [Regras Organizacionais](/help/marketo/product-docs/coworker-for-marketo/orga
 
 ## Como usar {#how-to-use}
 
-1. Em Meu Marketo, clique no bloco **Colaborador do Marketo Engage**.
+1. Em Meu Marketo, clique no bloco **CX Enterprise Coworker para Marketo Engage**.
 
 1. Selecione um programa modelo. Escolha um programa existente que corresponda ao seu tipo de campanha (por exemplo, Email, Webinário, Preparação).
 
 1. Na janela do prompt, digite uma descrição da campanha que deseja criar. Seja tão específico ou tão geral quanto você deseja (você sempre pode refinar).
 
-1. O colaborador do Marketo Engage confirma a interpretação do seu resumo e lista o que ele planeja criar. Analise isso antes de criá-lo.
+1. O CX Enterprise Coworker for Marketo Engage confirma a interpretação do seu resumo e lista o que ele planeja criar. Analise isso antes de criá-lo.
 
-1. Confirme e o Co-worker para Marketo Engage cria o programa em seu ambiente.
+1. Confirme e o CX Enterprise Coworker for Marketo Engage criará o programa em seu ambiente.
 
 1. Abra o programa recém-criado no Marketo e revise a estrutura.
 
@@ -40,13 +40,13 @@ As [Regras Organizacionais](/help/marketo/product-docs/coworker-for-marketo/orga
 
 ## Casos de uso {#use-cases}
 
-**Programa de registro em webinários**: um gerente de campanha digita &quot;Crie um programa de registro em webinário para nossa demonstração de produto em agosto. Envie um email de convite, um lembrete no dia anterior e um acompanhamento com o link de gravação depois.&quot; O colega de trabalho do Marketo Engage cria um programa com três Campanhas inteligentes (convite, lembrete, acompanhamento), emails de espaço reservado para cada uma e agendamento com base na data do evento.
+**Programa de registro em webinários**: um gerente de campanha digita &quot;Crie um programa de registro em webinário para nossa demonstração de produto em agosto. Envie um email de convite, um lembrete no dia anterior e um acompanhamento com o link de gravação depois.&quot; O CX Enterprise Coworker para Marketo Engage cria um programa com três Campanhas inteligentes (convite, lembrete, acompanhamento), emails de espaço reservado para cada uma e agendamento com base na data do evento.
 
-**Campanha do acionador de pontuação do lead**: um especialista em operações de marketing digita &quot;Criar um programa que é acionado quando um lead atinge uma pontuação de 50 e o envia para uma Lista inteligente MQL.&quot; O colaborador do Marketo Engage cria o programa com um acionador de campanha que acompanha a alteração de pontuação e uma etapa de fluxo que adiciona o lead à lista MQL.
+**Campanha do acionador de pontuação do lead**: um especialista em operações de marketing digita &quot;Criar um programa que é acionado quando um lead atinge uma pontuação de 50 e o envia para uma Lista inteligente MQL.&quot; O CX Enterprise Coworker para Marketo Engage cria o programa com um acionador de campanha que escuta a alteração de pontuação e uma etapa de fluxo que adiciona o lead à lista MQL.
 
-**Promoção de reengajamento**: um gerente de geração de demanda solicita uma série de reengajamento de 3 emails direcionada a clientes potenciais que não se engajaram em 90 dias. O colaborador do Marketo Engage cria a campanha em lote com o filtro de inatividade, três etapas de envio de email com etapas de espera apropriadas entre elas e uma etapa de fluxo para atualizar o status do lead se alguém se envolver novamente.
+**Promoção de reengajamento**: um gerente de geração de demanda solicita uma série de reengajamento de 3 emails direcionada a clientes potenciais que não se engajaram em 90 dias. O CX Enterprise Coworker para Marketo Engage cria a campanha em lote com o filtro de inatividade, três etapas de envio de email com etapas de espera apropriadas entre elas e uma etapa de fluxo para atualizar o status do lead se alguém se envolver novamente.
 
-**Programa de acompanhamento de eventos**: depois de uma feira de negócios, um gerente pede ao Colaborador para que a Marketo Engage crie um programa de acompanhamento pós-evento que envie um email de agradecimento aos participantes e um email de erro para inscritos que não apareceram. O colaborador do Marketo Engage cria duas Campanhas inteligentes, uma para cada segmento, com os filtros e espaços reservados para email corretos.
+**Programa de acompanhamento de eventos**: depois de uma feira de negócios, um gerente solicita que a CX Enterprise Coworker crie um programa de acompanhamento pós-evento que envie um email de agradecimento aos participantes e um email de erro para inscritos que não participaram. O CX Enterprise Coworker para Marketo Engage cria duas Campanhas inteligentes, uma para cada segmento, com os filtros e espaços reservados para email corretos.
 
 >[!NOTE]
 >
@@ -58,6 +58,6 @@ As [Regras Organizacionais](/help/marketo/product-docs/coworker-for-marketo/orga
 * A seleção do modelo é obrigatória. Escolha um template com pelo menos um email e uma Campanha Inteligente. A ferramenta não pode funcionar com modelos vazios.
 * O conteúdo de email é gerado automaticamente, mas os filtros e as etapas de fluxo do Smart Campaign permanecem manuais. Você deve configurar a lógica após a criação para corresponder ao comportamento pretendido da campanha.
 * Os ativos adicionais são criados por duplicação. Se o breve chamar quatro emails, mas o modelo tiver um, a ferramenta criará três duplicatas. Revise todas para garantir a consistência; elas herdam o design e a estrutura do modelo.
-* O colega de trabalho do Marketo Engage não pode acessar suas listas de público-alvo existentes automaticamente. Você deve configurar manualmente os filtros da Smart List para direcionar os segmentos reais após a criação do programa.
+* O CX Enterprise Coworker para Marketo Engage não pode acessar suas listas de público-alvo existentes automaticamente. Você deve configurar manualmente os filtros da Smart List para direcionar os segmentos reais após a criação do programa.
 * Programas complexos de várias etapas com lógica de ramificação avançada podem precisar de refinamento manual após a criação.
 * Se o ambiente do Marketo usa convenções de nomenclatura ou estruturas de pastas, especifique-as no seu resumo para que o programa seja criado no lugar certo.
