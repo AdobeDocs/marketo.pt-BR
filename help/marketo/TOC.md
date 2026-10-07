@@ -4,7 +4,7 @@ user-guide-title: Guia do Marketo
 user-guide-description: Documentação de produto do Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: b6799a351d9256e96a6db644c840f061a88198b4
+source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
 workflow-type: tm+mt
 source-wordcount: '8936'
 ht-degree: 96%
@@ -497,7 +497,7 @@ ht-degree: 96%
       + [Investigar clientes em potencial](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importar clientes em potencial](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Validar programas](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Sincronização com o CRM {#crm-sync}
     + Sincronização do Microsoft Dynamics {#microsoft-dynamics}
       + [Noções básicas sobre a sincronização do Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
