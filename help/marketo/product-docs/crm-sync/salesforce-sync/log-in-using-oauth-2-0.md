@@ -85,7 +85,7 @@ O Salesforce usa o protocolo OAuth para permitir que os usuários de aplicativos
 >* O usuário do Marketo Sync deve ser criado no Salesforce.
 >* Os bloqueadores de pop-ups estão desativados.
 >* O Aplicativo Conectado foi criado e a [!UICONTROL Chave do Consumidor] e o [!UICONTROL Segredo do Consumidor] estão disponíveis para uso.
->* Contate o [Suporte da Marketo](https://experienceleague.adobe.com/en/support) para habilitar os seguintes recursos: Habilitar OAuth para sincronização do SFDC, Exigir segredo para Fluxo de Token de Atualização e Chave de Prova para Troca de Código (PKCE).
+>* Contate o [Suporte da Marketo](https://experienceleague.adobe.com/pt-br/support) para habilitar os seguintes recursos: Habilitar OAuth para sincronização do SFDC, Exigir segredo para Fluxo de Token de Atualização e Chave de Prova para Troca de Código (PKCE).
 
 >[!CAUTION]
 >
