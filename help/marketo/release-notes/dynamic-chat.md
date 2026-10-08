@@ -51,11 +51,11 @@ Para acessar a página de notas de versão padrão do Marketo Engage [clique aqu
 
 ### Limite de tempo de espera do visitante {#visitor-wait-time}
 
-Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Defina um período máximo (entre 10 e 500 segundos) durante o qual um visitante aguardará para ser conectado a um agente ativo antes de receber uma mensagem de fallback. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Baixar transcrição {#download-transcript}
 
-Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Agora é possível baixar um arquivo .txt da transcrição do chat após o término de um chat ao vivo. [Saiba mais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versão de junho de 2025 {#june-2025-release}
 
@@ -145,7 +145,7 @@ O fallback de Round Robin só é considerado quando nenhum agente elegível é e
 
 <p>
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 <table><thead>
   <tr>
@@ -171,7 +171,7 @@ _&#x200B;**Roteamento de conta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento personalizado**&#x200B;_
+_**Roteamento personalizado**_
 
 <table><thead>
   <tr>
@@ -197,7 +197,7 @@ _&#x200B;**Roteamento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento de equipe**&#x200B;_
+_**Roteamento de equipe**_
 
 <table><thead>
   <tr>
@@ -223,7 +223,7 @@ _&#x200B;**Roteamento de equipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 <table><thead>
   <tr>
