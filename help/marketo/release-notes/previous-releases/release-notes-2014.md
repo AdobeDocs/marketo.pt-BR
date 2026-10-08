@@ -1,35 +1,58 @@
 ---
-title: "2014"
+title: '2014'
 description: 2014 - Documentação do Marketo - Documentação do produto
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3331
+source-wordcount: '3332'
 ht-degree: 5%
-
 ---
-
 
 # 2014
 
@@ -325,7 +348,7 @@ Além do calendário de marketing com o qual você gerencia seus eventos e progr
 
 ## Operações de lista na API REST {#list-operations-in-the-rest-api}
 
-Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Consulte [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api) para obter a documentação completa.
+Adicionamos as chamadas abaixo relacionadas às operações de lista no ReST. Consulte [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api) para obter a documentação completa.
 
 * Obter Lista por ID
 * Obter Várias Listas
@@ -356,7 +379,7 @@ A página RTP Definir Campanha agora [inclui modelos prontos](/help/marketo/prod
 
 ## RTP: melhorias na API do JavaScript {#rtp-javascript-api-enhancements}
 
-Nova chamada de API RTP para obter dados do visitante em tempo real, como organização, setor, localização e correspondência de código de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código do segmento. Consulte nosso [site de desenvolvedores](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter a documentação completa.
+Nova chamada de API RTP para obter dados do visitante em tempo real, como organização, setor, localização e correspondência de código de segmento. Além disso, passar o mouse sobre um nome de segmento na página Segmentos revelará uma dica de ferramenta que mostra o código do segmento. Consulte nosso [site de desenvolvedores](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter a documentação completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
@@ -422,7 +445,7 @@ Você perguntou sobre a comunidade e nós entregamos! Agora é possível incluir
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Segmentação e direcionamento :1 aprimorados {#enhanced-segmentation-and-targeting}
+## Segmentação e direcionamento 1:1 aprimorados {#enhanced-segmentation-and-targeting}
 
 Agora você pode usar operadores de filtro avançados para direcionar visitantes conhecidos.
 
@@ -469,7 +492,7 @@ Use a API para obter novas atividades ou alterações em clientes potenciais:
 * Obter tipos de atividade
 * Obter token de paginação
 
-Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api).
+Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Enviar Email do Marketo para [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -509,7 +532,7 @@ Use uma nova chamada que acompanhe o histórico de visitas anteriores do visitan
 * Produtos interessados em
 * Quais campanhas RTP elas viram
 
-Visite [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter os detalhes completos.
+Visite [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) para obter os detalhes completos.
 
 ## Dezembro de 2014 {#december}
 
@@ -565,7 +588,7 @@ Três novas chamadas para a API REST de lead e atividade:
 
 · Mesclar lead
 
-Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
+Detalhes completos estarão disponíveis após o lançamento em [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/home)
 
 ## Aprimoramentos de Compatibilidade do [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 

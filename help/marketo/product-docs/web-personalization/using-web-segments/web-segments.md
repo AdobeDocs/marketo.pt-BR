@@ -4,23 +4,28 @@ description: Saiba mais sobre segmentos da Web no Marketo Engage, incluindo a gu
 title: Segmentos da web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+TQID: 'https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2104
+source-wordcount: '2104'
 ht-degree: 5%
-
 ---
-
 # Segmentos da web {#web-segments}
 
 ## Exibir segmento {#view-segment}
@@ -106,8 +111,8 @@ Defina parâmetros gerais para o seu segmento:
 * **Lógica da regra de segmento:** selecione uma lógica AND/OR para criar cada atributo de segmentação
 * **Horário:** defina o nível de envolvimento do visitante que você deseja em sua campanha
 
-   * **Na Entrada**: participação do visitante que chega ao site
-   * **Após o primeiro - o nono clique**: envolver o visitante após uma quantidade específica de cliques no site
+  * **Na Entrada**: participação do visitante que chega ao site
+  * **Após o primeiro - o nono clique**: envolver o visitante após uma quantidade específica de cliques no site
 
 >[!TIP]
 >
@@ -148,8 +153,8 @@ Arraste e solte **[!UICONTROL Local]** no editor de segmentos.
 
 * Selecione entre os seguintes parâmetros:
 
-   * **[!UICONTROL Incluir]** - Selecione se deseja que a campanha inclua ou exclua uma localização.
-   * **[!UICONTROL Selecione o país a ser adicionado]** - Na caixa suspensa, selecione o país que deseja incluir no segmento. O nome do país é exibido à direita. Você pode escolher vários países.
+  * **[!UICONTROL Incluir]** - Selecione se deseja que a campanha inclua ou exclua uma localização.
+  * **[!UICONTROL Selecione o país a ser adicionado]** - Na caixa suspensa, selecione o país que deseja incluir no segmento. O nome do país é exibido à direita. Você pode escolher vários países.
 
 Depois que o país for adicionado, também será possível especificar o estado, a cidade e o CEP do segmento.
 
@@ -165,8 +170,8 @@ Depois que o país for adicionado, também será possível especificar o estado,
 
 * Selecione entre os seguintes parâmetros:
 
-   * **[!UICONTROL Inclui]** - Selecione se você deseja que o segmento inclua ou exclua um setor.
-   * **[!UICONTROL Selecione os setores a serem adicionados]** - Selecione o setor que deseja incluir no segmento. O setor aparece abaixo da caixa suspensa. Você pode escolher vários setores.
+  * **[!UICONTROL Inclui]** - Selecione se você deseja que o segmento inclua ou exclua um setor.
+  * **[!UICONTROL Selecione os setores a serem adicionados]** - Selecione o setor que deseja incluir no segmento. O setor aparece abaixo da caixa suspensa. Você pode escolher vários setores.
 
 **Grupo de Organizações**
 
@@ -174,11 +179,11 @@ Na seção **[!UICONTROL Segmentação de Perfil]**, marque a caixa ao lado de *
 
 * Na caixa suspensa, selecione uma das seguintes opções:
 
-   * Fortune 500 - inclui neste segmento somente empresas da Fortune 500
-   * Fortune 1000 - inclui neste segmento apenas empresas da Fortune 1000
-   * Global 2000 - inclui as empresas Global 2000 neste segmento
-   * Empresa - inclui organizações com mais de 1.000 funcionários e receita superior a US$ 250 milhões
-   * SMB - Inclui somente empresas de pequeno e médio porte neste segmento
+  * Fortune 500 - inclui neste segmento somente empresas da Fortune 500
+  * Fortune 1000 - inclui neste segmento apenas empresas da Fortune 1000
+  * Global 2000 - inclui as empresas Global 2000 neste segmento
+  * Empresa - inclui organizações com mais de 1.000 funcionários e receita superior a US$ 250 milhões
+  * SMB - Inclui somente empresas de pequeno e médio porte neste segmento
 
 **Contas Nomeadas-**
 
@@ -186,8 +191,8 @@ Na seção **[!UICONTROL Segmentação de Perfil]**, marque a caixa ao lado de *
 
 * **É destas empresas (nomes específicos)**
 
-   * Selecione a empresa a ser direcionada no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
-   * Você pode digitar o nome exato da organização que deseja direcionar. *É* sempre* recomendável usar Listas de Contas Nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
+  * Selecione a empresa a ser direcionada no menu suspenso &#39;Selecionar empresa para adicionar&#39;.
+  * Você pode digitar o nome exato da organização que deseja direcionar. *É* sempre* recomendável usar Listas de Contas Nomeadas em vez de digitar os nomes manualmente para obter melhores correspondências (veja abaixo).
 
 **Lista de Contas Nomeadas**
 
@@ -197,7 +202,7 @@ Selecione de uma [Lista de contas nomeadas](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
+>O número entre colchetes ao lado do nome da Lista de Contas Nomeadas é usado como uma referência de índice para a lista da [API de Leitura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization) do Web Personalization.
 
 **Excluir ISP**
 
@@ -240,11 +245,11 @@ Defina seu segmento de acordo com o status de um cliente potencial: conhecido ou
 
 * Número de visitas - Selecione essa opção na caixa suspensa para especificar o número de visitas para prospetos no site.
 
-   * Selecione Igual, Igual ou Maior que, ou Igual ou Menor que na caixa suspensa.
+  * Selecione Igual, Igual ou Maior que, ou Igual ou Menor que na caixa suspensa.
 
 * Visitas específicas - Selecione essa opção na caixa suspensa para especificar um visitante específico.
 
-   * Na caixa de texto à direita, digite o número do visitante que deseja rastrear. O número exclusivo de identificação do visitante [!DNL Web Personalization] pode ser encontrado ao clicar em um visitante (na página de visitantes) e no painel Definir campanha no lado direito. A ID do visitante está localizada na seção Configurações avançadas. A ID de visitante também pode ser encontrada no URL (por exemplo, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+  * Na caixa de texto à direita, digite o número do visitante que deseja rastrear. O número exclusivo de identificação do visitante [!DNL Web Personalization] pode ser encontrado ao clicar em um visitante (na página de visitantes) e no painel Definir campanha no lado direito. A ID do visitante está localizada na seção Configurações avançadas. A ID de visitante também pode ser encontrada no URL (por exemplo, VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Termos de Pesquisa** - Defina um segmento de acordo com os termos de pesquisa de um cliente potencial.
 
@@ -275,9 +280,9 @@ Arraste e solte o [!UICONTROL SO móvel] no editor de segmentos
 * **Tipo de visitante**<br />
   **[!UICONTROL SO móvel]** - Na caixa suspensa, selecione um ou mais SOs móveis listados. O SO móvel selecionado é exibido abaixo.
 
-   * O visitante está usando qualquer dispositivo móvel
-   * O visitante está usando este dispositivo/SO específico
-   * O visitante não está usando nenhum dispositivo móvel
+  * O visitante está usando qualquer dispositivo móvel
+  * O visitante está usando este dispositivo/SO específico
+  * O visitante não está usando nenhum dispositivo móvel
 
 * **[!UICONTROL Dispositivo]** - Na lista suspensa, selecione um ou mais dispositivos (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). Os dispositivos selecionados são exibidos abaixo.
 
@@ -296,7 +301,7 @@ Adicione o valor de Evento que deseja direcionar. E.g. de fontes de dados de ter
 
 **API de Contexto de Usuário**
 
-Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chamada de API do Web Personalization [leia mais sobre isso aqui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

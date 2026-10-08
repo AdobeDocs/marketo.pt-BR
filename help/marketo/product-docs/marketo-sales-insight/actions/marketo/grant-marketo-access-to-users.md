@@ -3,18 +3,20 @@ description: Saiba como conceder acesso ao Marketo a usuários em Ações do Sal
 title: Conceder acesso ao Marketo aos usuários
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/H5SelzlqZyQE6oq5Okvpq-v-B5km2cBBu2cUH7GhC2A
+TQID: 'https://experienceleague.adobe.com/H5SelzlqZyQE6oq5Okvpq-v-B5km2cBBu2cUH7GhC2A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 226
+source-wordcount: '226'
 ht-degree: 4%
-
 ---
-
 # Conceder acesso ao Marketo aos usuários {#grant-marketo-access-to-users}
 
 Siga as etapas deste artigo para conceder aos usuários do [!DNL Sales Insight Actions] acesso à conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e acesso a Campanhas de marketing.

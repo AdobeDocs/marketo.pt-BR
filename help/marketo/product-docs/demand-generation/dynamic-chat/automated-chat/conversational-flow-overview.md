@@ -3,19 +3,25 @@ description: Saiba mais sobre Fluxos de conversa e como eles se diferem de Caixa
 title: Visão geral do fluxo de conversa
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-TQID: https://experienceleague.adobe.com/9y7MvnN91I03IMieLIKv1QhjKdr2uPFOnby-DbpR-cE
+TQID: 'https://experienceleague.adobe.com/9y7MvnN91I03IMieLIKv1QhjKdr2uPFOnby-DbpR-cE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 370
+source-wordcount: '370'
 ht-degree: 3%
-
 ---
-
 # Visão geral do fluxo de conversa {#conversational-flow-overview}
 
 Crie um Fluxo de conversa e acione-o para qualquer visitante com base em uma ação específica (por exemplo, clicar em um botão do call-to-action, no carregamento da página, tempo gasto na página etc.).
@@ -88,7 +94,7 @@ Na metade inferior da guia Configurações, personalize o acionador Conversas, t
 
 >[!TIP]
 >
->Veja [Conversas SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=pt-BR){target="_blank"} em ação!
+>Veja [Conversas SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} em ação!
 
 >[!MORELIKETHIS]
 >

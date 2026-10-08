@@ -5,18 +5,21 @@ title: SEO - Exportação de resultados de palavras-chave
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/V8HVfCGhMhXFAMkW5ruLIs0JAdN-JRK54uQnxXCrfmo
+TQID: 'https://experienceleague.adobe.com/V8HVfCGhMhXFAMkW5ruLIs0JAdN-JRK54uQnxXCrfmo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Optimization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 4%
-
 ---
-
 # SEO - Exportação de resultados de palavras-chave {#seo-exporting-keyword-results}
 
 Saiba como exportar resultados de palavras-chave para compartilhar com sua equipe ou criar um relatório.
@@ -25,10 +28,10 @@ Saiba como exportar resultados de palavras-chave para compartilhar com sua equip
 >
 >Em 31 de março de 2026, o Marketo Engage [descontinuou o recurso de Otimização do Mecanismo de Pesquisa](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) ainda está disponível por um tempo limitado. Siga as etapas dos artigos abaixo para exportar dados.
 >
->* [Exportar problemas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Exportar Resultados de Palavra-chave](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Exportar Tendências de Palavra-chave](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Exportar Tendências de Palavra-chave do Concorrente](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Exportar problemas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Exportar Resultados de Palavra-chave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Exportar Tendências de Palavra-chave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Exportar Tendências de Palavra-chave do Concorrente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Vá para a seção **[!UICONTROL Palavras-chave]**.
 

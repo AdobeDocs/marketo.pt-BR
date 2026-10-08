@@ -4,20 +4,23 @@ description: Saiba mais sobre a guia Configuração do Marketo Sales Insight no 
 title: Guia Configuração do Insight de vendas do Marketo no Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+TQID: 'https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 1%
-
 ---
-
 # Guia Configuração [!DNL Marketo Sales Insight] em [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Configurações Operacionais {#operational-settings}
@@ -38,8 +41,8 @@ As configurações são aplicáveis a todos os usuários MSI e não são especí
 **Configurações da página Visualforce**
 
 * Habilitar menu suspenso de Ação:
-   * Capacidade de ocultar o menu suspenso Enviar email do Marketo no lead e no layout MSI do contato
-   * Capacidade de ocultar as opções Adicionar ao Marketo Campaign do menu suspenso no Layout MSI de cliente potencial e contato
+  * Capacidade de ocultar o menu suspenso Enviar email do Marketo no lead e no layout MSI do contato
+  * Capacidade de ocultar as opções Adicionar ao Marketo Campaign do menu suspenso no Layout MSI de cliente potencial e contato
 * Eventos futuros: capacidade de mostrar eventos convidados, todos os eventos para usuários ou ocultar completamente esta guia
 * Campanhas futuras: capacidade de mostrar todas as campanhas de email ou ocultar completamente essa guia
 * Carregar campanhas e eventos futuros: capacidade de reduzir o número de chamadas à API Rest feitas pelos usuários, colocando a guia Eventos e campanhas atrás de um botão &quot;Carregar itens futuros&quot; sob demanda

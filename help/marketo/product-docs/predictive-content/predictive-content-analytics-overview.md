@@ -4,18 +4,21 @@ description: Saiba mais sobre os painéis do Predictive Content Analytics para p
 title: Visão geral da análise de conteúdo preditivo
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+TQID: 'https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 380
+source-wordcount: '380'
 ht-degree: 10%
-
 ---
-
 # Visão geral da análise de conteúdo preditivo {#predictive-content-analytics-overview}
 
 Use a análise de conteúdo para obter mais insights sobre seu conteúdo existente, saber (com base em algoritmos de IA e Predictive ) qual conteúdo funciona para seus públicos e aumentar o ROI de seus esforços de marketing.

@@ -2,15 +2,19 @@
 description: Saiba mais sobre as ferramentas de engajamento em Webinars interativos. Use pesquisas, perguntas e respostas e outros recursos para aumentar a interação do participante durante webinários.
 title: Ferramentas de engajamento em webinários interativos
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Interactive Webinars
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1285'
 ht-degree: 0%
-
 ---
-
 # Ferramentas de engajamento em webinários interativos {#engagement-tools-in-interactive-webinars}
 
 Funções de entrega de pods em uma sala do Adobe Connect. Para adicionar um pod a um layout, clique no menu pods e selecione o pod que deseja adicionar.

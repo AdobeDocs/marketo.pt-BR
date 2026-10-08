@@ -4,16 +4,18 @@ description: Obtenha ajuda quando vir um erro inesperado no plug-in do Gmail do 
 title: Erro inesperado no Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak
+TQID: 'https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 107
+source-wordcount: '107'
 ht-degree: 14%
-
 ---
-
 # Erro inesperado no Gmail {#unexpected-error-in-gmail}
 
 Se você estiver recebendo um &quot;Erro inesperado&quot; no Gmail ao tentar enviar um email, provavelmente precisará redefinir sua conexão com o Gmail.

@@ -3,20 +3,26 @@ description: Filtre ou registre a atividade de bot de email para evitar abertura
 title: Filtragem da atividade do bot de email
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+TQID: 'https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 496
+source-wordcount: '496'
 ht-degree: 11%
-
 ---
-
 # Filtragem da atividade do bot de email {#filtering-email-bot-activity}
 
 Às vezes, a atividade de bot por email pode inflar erroneamente seus dados de aberturas e cliques de email. Siga as etapas abaixo para resolver isso.
@@ -25,10 +31,10 @@ Dois métodos separados são usados para confirmar a atividade do bot:
 
 * Corresponder com [Lista de bots do Interative Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: atividades que correspondem a qualquer item na lista UA/IP (Agente do usuário/endereço IP) do IAB serão marcadas como bots.
 * Correspondência com o padrão de proximidade: quando duas ou mais atividades acontecem ao mesmo tempo (em menos de um segundo), elas são identificadas como bots. Os atributos considerados durante a comparação são:
-   * ID do lead (deve ser o mesmo)
-   * Ativo de email (deve ser o mesmo)
-   * Clique em links ou e-mail aberto
-   * Diferença de tempo (deve ser menor que um segundo)
+  * ID do lead (deve ser o mesmo)
+  * Ativo de email (deve ser o mesmo)
+  * Clique em links ou e-mail aberto
+  * Diferença de tempo (deve ser menor que um segundo)
 
 Em relação à atividade de clique em links de email e abertura de email, novos atributos serão preenchidos com os valores abaixo:
 

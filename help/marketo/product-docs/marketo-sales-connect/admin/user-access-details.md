@@ -4,18 +4,20 @@ description: Saiba mais sobre permissões de usuário administrador e não admin
 title: Detalhes de acesso do usuário
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY
+TQID: 'https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 248
+source-wordcount: '248'
 ht-degree: 2%
-
 ---
-
 # Detalhes de acesso do usuário {#user-access-details}
 
 A que administradores e não administradores têm acesso?
@@ -48,30 +50,30 @@ Os administradores podem interromper as campanhas em nome dos usuários.
 
 * Analytics:
 
-   * Os usuários podem ver a análise de equipe
-   * Os usuários podem detalhar apenas as equipes às quais pertencem
-   * Os usuários podem examinar suas próprias análises
+  * Os usuários podem ver a análise de equipe
+  * Os usuários podem detalhar apenas as equipes às quais pertencem
+  * Os usuários podem examinar suas próprias análises
 
 * Página de relacionamentos:
 
-   * Os usuários podem compartilhar grupos com todos
-   * Os usuários podem compartilhar grupos apenas com as equipes às quais pertencem
-   * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador principal que excluiu o usuário
+  * Os usuários podem compartilhar grupos com todos
+  * Os usuários podem compartilhar grupos apenas com as equipes às quais pertencem
+  * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador principal que excluiu o usuário
 
 * Sales Beat - Next e Live Feed:
 
-   * Os usuários podem visualizar a visualização &quot;todos&quot;
-   * Os usuários podem filtrar pelas equipes às quais pertencem
-   * O usuário pode compartilhar publicações com todos
-   * Os usuários podem compartilhar publicações apenas com as equipes às quais pertencem
+  * Os usuários podem visualizar a visualização &quot;todos&quot;
+  * Os usuários podem filtrar pelas equipes às quais pertencem
+  * O usuário pode compartilhar publicações com todos
+  * Os usuários podem compartilhar publicações apenas com as equipes às quais pertencem
 
 * Página Gerenciamento da Equipe:
 
-   * Não é possível exibir
+  * Não é possível exibir
 
 * Página Modelos:
 
-   * Os usuários podem compartilhar modelos com todos
-   * Os usuários podem compartilhar modelos em categorias que os administradores permitem
-   * Quando um usuário é removido de uma equipe, seus modelos não são compartilhados com essa equipe
-   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador principal que excluiu o usuário
+  * Os usuários podem compartilhar modelos com todos
+  * Os usuários podem compartilhar modelos em categorias que os administradores permitem
+  * Quando um usuário é removido de uma equipe, seus modelos não são compartilhados com essa equipe
+  * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador principal que excluiu o usuário

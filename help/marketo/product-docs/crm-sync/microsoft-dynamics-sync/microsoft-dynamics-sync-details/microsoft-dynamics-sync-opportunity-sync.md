@@ -4,16 +4,21 @@ description: Saiba mais sobre como a sincronização de oportunidades funciona d
 title: Microsoft Dynamics Sync - Sincronização de oportunidade
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg
+TQID: 'https://experienceleague.adobe.com/vDSWrvMSvAa2-XSn6A-lcZYaoWRjrtKwsLo1fJvPAkg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 0%
-
 ---
-
 # Sincronização de [!DNL Microsoft Dynamics]: Sincronização de Oportunidade {#microsoft-dynamics-sync-opportunity-sync}
 
 A sincronização do Marketo com o [!DNL Dynamics] é poderosa. Aqui estão todos os detalhes da sincronização de oportunidade:
@@ -36,8 +41,8 @@ O Contato/Conta pode ser associado à Oportunidade de duas maneiras:
 
 * Ao criar uma oportunidade, o Contato (campo de pesquisa no formulário a ser contatado) e/ou a Conta (campo de pesquisa no formulário a ser contado) podem ser definidos. Em ambos os casos, esses valores são armazenados no campo Cliente em potencial (customerid) no Dynamics. Este campo não aparece no formulário de oportunidade, mas pode ser adicionado das configurações. Este campo pode conter apenas 1 valor, seja contato ou conta. A Marketo faz o seguinte:
 
-   * Se o valor do contato for definido e a conta for deixada vazia, a Marketo criará um `opportunitycontactrole` e definirá a conta na oportunidade para a conta do contato. Se o contato não tiver uma conta, esse campo ficará vazio.
-   * Se o valor da conta for definido e o contato for deixado em branco, a Marketo somente definirá a conta na oportunidade para essa conta.
-   * Se ambos os valores forem definidos, o Dynamics escolherá a conta como o valor de customerid, para que o comportamento seja o mesmo acima.
+  * Se o valor do contato for definido e a conta for deixada vazia, a Marketo criará um `opportunitycontactrole` e definirá a conta na oportunidade para a conta do contato. Se o contato não tiver uma conta, esse campo ficará vazio.
+  * Se o valor da conta for definido e o contato for deixado em branco, a Marketo somente definirá a conta na oportunidade para essa conta.
+  * Se ambos os valores forem definidos, o Dynamics escolherá a conta como o valor de customerid, para que o comportamento seja o mesmo acima.
 
 * Por meio das partes interessadas: o Dynamics usa conexões para conectar a oportunidade ao contato por meio das partes interessadas da página de criação da oportunidade. Para isso, um registro `opportunitycontactrole` é criado para cada nova parte interessada.

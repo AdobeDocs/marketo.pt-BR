@@ -3,16 +3,21 @@ description: Saiba mais sobre o Rastreador de caixa de entrada para testar e mon
 title: Tutoriais do rastreador da caixa de entrada
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-TQID: https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc
+TQID: 'https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: '309'
 ht-degree: 2%
-
 ---
-
 # Tutoriais do rastreador da caixa de entrada {#inbox-tracker-tutorials}
 
 Teste, monitore e entenda os problemas de capacidade de entrega com as Ferramentas de capacidade de entrega de email viabilizadas pela plataforma do Rastreador de caixa de entrada Bird (antigo MessageBird). O Rastreador de caixa de entrada é um aplicativo único que combina a inteligência de seu programa e a previsão de renderização/teste de caixa de entrada de email para maximizar o desempenho de seus emails.

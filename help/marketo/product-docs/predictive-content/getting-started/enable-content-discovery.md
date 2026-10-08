@@ -4,16 +4,18 @@ description: Saiba como ativar a Descoberta de conteúdo para que o Conteúdo pr
 title: Habilitar descoberta de conteúdo
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w
+TQID: 'https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 3%
-
 ---
-
 # Habilitar descoberta de conteúdo {#enable-content-discovery}
 
 O recurso Descoberta de conteúdo detecta e marca automaticamente o conteúdo já existente (incluindo estudos de caso, publicações de blog, vídeos, press releases etc.) em seu site e rastreia o número de visualizações desses materiais.  O conteúdo preditivo usa o conteúdo descoberto, empregando análises preditivas para determinar qual é o conteúdo com melhor desempenho e recomenda o melhor conteúdo para a pessoa certa.

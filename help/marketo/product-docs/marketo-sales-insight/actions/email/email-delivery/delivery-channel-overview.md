@@ -3,16 +3,18 @@ description: Saiba mais sobre os canais de entrega para enviar emails de vendas 
 title: Visão geral do canal de entrega
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE
+TQID: 'https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 678
+source-wordcount: '679'
 ht-degree: 0%
-
 ---
-
 # Visão geral do canal de entrega {#delivery-channel-overview}
 
 O Marketo Sales oferece várias opções para enviar emails. Este artigo analisará os canais de entrega que você pode usar, como selecioná-los e quando escolher um em vez do outro.
@@ -57,7 +59,7 @@ Os servidores MSC não são compatíveis com os métodos de autenticação DKIM 
 
 ## Servidores Marketo {#marketo-servers}
 
-Os servidores de e-mail da Marketo não se integram ao Marketo Sales. Os servidores da Marketo são otimizados para entrega em massa para permitir que eles sejam dimensionados de acordo com as necessidades dos profissionais de marketing. No entanto, o Gmail e o [!DNL Exchange] têm uma taxa de sucesso mais alta para 1:1 comunicação de vendas, razão pela qual recomendamos o uso desses servidores para sua comunicação de vendas.
+Os servidores de e-mail da Marketo não se integram ao Marketo Sales. Os servidores da Marketo são otimizados para entrega em massa para permitir que eles sejam dimensionados de acordo com as necessidades dos profissionais de marketing. No entanto, o Gmail e o [!DNL Exchange] têm uma taxa de sucesso mais alta para comunicações de vendas 1:1, razão pela qual recomendamos o uso desses servidores para suas comunicações de vendas.
 
 >[!MORELIKETHIS]
 >

@@ -1,23 +1,26 @@
 ---
 unique-page-id: 2949279
 description: Saiba como atualizar o Suplemento de email do Marketo para Outlook. Obtenha a versão mais recente para novos recursos e correções.
-title: Atualize seu Suplemento de Email do Marketo para  [!DNL Outlook]
+title: Atualize seu Suplemento de Email do Marketo para [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/NK-fGmulqGGDopDM95ZBT-e21sa-z2FrDCTi2wu3kmQ
+TQID: 'https://experienceleague.adobe.com/NK-fGmulqGGDopDM95ZBT-e21sa-z2FrDCTi2wu3kmQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 437
-ht-degree: 0%
-
+source-wordcount: '437'
+ht-degree: 11%
 ---
-
 # Atualize seu Suplemento de Email do Marketo para [!DNL Outlook] {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Quando uma nova versão do Suplemento de Email do Marketo para [!DNL Outlook] estiver disponível, siga estas instruções para atualizar.
@@ -46,10 +49,10 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
   </tr>
   <tr>
    <td><strong>Versão do <span class="dnl">Outlook</span></strong></td>
-   <td><strong>32 bits</strong></td>
-   <td><strong>64 bits</strong></td>
-   <td><strong>32 bits</strong></td>
-   <td><strong>64 bits</strong></td>
+   <td><strong>32-bit</strong></td>
+   <td><strong>64-bit</strong></td>
+   <td><strong>32-bit</strong></td>
+   <td><strong>64-bit</strong></td>
   </tr>
   <tr>
    <td><span class="dnl">Outlook</span> 2000</td>
@@ -126,7 +129,7 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
 
 &#42;Versão do Office 365: somente cliente Windows (no Windows 10, Windows 11, Enterprise ou Pro).
 
-## Atualizar {#upgrade}
+## Atualização {#upgrade}
 
 1. Identifique sua [[!DNL Microsoft Outlook] versão](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
 
@@ -136,7 +139,7 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -160,7 +163,7 @@ Baixe o instalador apropriado para sua versão do Microsoft [!DNL Outlook].
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 

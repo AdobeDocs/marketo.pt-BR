@@ -3,13 +3,17 @@ description: Lista de verificação de atividades de marketing de instância her
 title: Lista de Verificação de Atividades de Marketing de Instância Herdada
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '906'
 ht-degree: 3%
-
 ---
-
 # Instância herdada: lista de verificação de atividades de marketing {#inherited-instance-marketing-activities-checklist}
 
 Organize corretamente a seção Marketing Activities para ajudar outras pessoas a encontrar e gerenciar vários programas na instância do Marketo Engage e garantir que as pessoas sejam processadas para passar de Marketing para Vendas. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhar seu progresso.
@@ -157,7 +161,7 @@ Organize corretamente a seção Marketing Activities para ajudar outras pessoas 
   </tr>
   <tr>
    <td>Central de Assinaturas/Preferências</td>
-   <td><li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=pt-BR" target="_blank">Central de Assinaturas/Preferências</a> configurada? Está funcionando como deveria?</li></td>
+   <td><li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Central de Assinaturas/Preferências</a> configurada? Está funcionando como deveria?</li></td>
   </tr>
   <tr>
    <td>Momentos interessantes (se aplicável)</td>

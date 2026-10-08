@@ -4,16 +4,21 @@ description: Saiba mais sobre a Pontuação de conta e como ela ajuda a prioriza
 title: Pontuação de contas
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
+TQID: 'https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 376
+source-wordcount: '376'
 ht-degree: 1%
-
 ---
-
 # [!UICONTROL Pontuação da conta] {#account-score}
 
 A Pontuação de Conta é uma parte vital do [!UICONTROL Gerenciamento de Conta de Destino]. Isso ajuda a determinar o nível de engajamento de suas contas.
@@ -49,7 +54,10 @@ No mundo complexo dos processos de compra B2B, é raro que um único indivíduo 
 >
 >Para calcular pontuações da conta, primeiro é necessário criar pontuações de lead. O Marketo TAM agrega automaticamente pontuações de clientes potenciais às pontuações de contas. Como exemplo, vamos usar dois dos exemplos acima (_Pontuação de interesse do produto da conta_ e _Pontuação de envolvimento da Web da conta_).
 >
->Primeiro, crie campos de pontuação de lead que capturem detalhes relevantes de cada lead de uma conta de destino.Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:Pontuação de Juros do Produto da Conta = SUM (Pontuação de Juros do Produto Cliente Potencial)Pontuação de envolvimento da Web da conta = SUM (Pontuação de envolvimento da Web do lead)
+>Primeiro, crie campos de pontuação de lead que capturem detalhes relevantes de cada lead de uma conta de destino.
+>Em seguida, atribua essas pontuações de lead às respectivas pontuações de conta:
+>Pontuação de Juros do Produto da Conta = SUM (Pontuação de Juros do Produto Cliente Potencial)
+>Pontuação de envolvimento da Web da conta = SUM (Pontuação de envolvimento da Web do lead)
 
 >[!NOTE]
 >

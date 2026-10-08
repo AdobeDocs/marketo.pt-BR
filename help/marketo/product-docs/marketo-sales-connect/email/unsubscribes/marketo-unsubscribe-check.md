@@ -4,18 +4,20 @@ description: Entenda a verificação de cancelamento de inscrição do Marketo n
 title: Verificação de cancelamentos de inscrição no Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ZowbVUMoJ8xNXBl47SJDZWpYvjfkAP90xPT1d6dQdPA
+TQID: 'https://experienceleague.adobe.com/ZowbVUMoJ8xNXBl47SJDZWpYvjfkAP90xPT1d6dQdPA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 5%
-
 ---
-
 # Verificação de cancelamentos de inscrição no Marketo {#marketo-unsubscribe-check}
 
 A [!UICONTROL Verificação de cancelamento de inscrição do Marketo] usa a conexão de sua equipe com o Marketo para evitar que os emails sejam enviados para pessoas que cancelaram a inscrição no sistema de gerenciamento de clientes potenciais da Marketo. Quando um usuário de vendas enviar um email com [!DNL Sales Connect], será feita uma chamada à API para a Marketo verificar se a assinatura da ID do email foi cancelada. Se for, bloquearemos o envio do email.

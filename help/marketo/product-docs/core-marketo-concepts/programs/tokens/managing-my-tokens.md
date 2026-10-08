@@ -4,18 +4,20 @@ description: Saiba como gerenciar Meus tokens em um programa. Crie e use tokens 
 title: Gerenciar meus tokens
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-TQID: https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY
+TQID: 'https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 226
+source-wordcount: '226'
 ht-degree: 7%
-
 ---
-
 # Gerenciar meus tokens {#managing-my-tokens}
 
 O uso de tokens pode simplificar seus esforços no Marketo Engage. Você pode usar [Meus tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (tokens personalizados) em etapas de fluxo, webhooks, emails e Landing Pages. Aqui está como fazê-los.

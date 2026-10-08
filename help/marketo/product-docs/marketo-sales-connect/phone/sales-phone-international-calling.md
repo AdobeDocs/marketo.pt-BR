@@ -4,16 +4,18 @@ description: Saiba mais sobre Chamadas internacionais de Telefone de Vendas no S
 title: Chamada internacional de telefone de vendas
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+TQID: 'https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 29%
-
 ---
-
 # Chamada internacional de telefone de vendas {#sales-phone-international-calling}
 
 O Telefone de Vendas facilita a comunicação internacional. Para clientes que ligam dos Estados Unidos, o Telefone de Vendas pode ser usado para chamadas de saída para países internacionais. Para clientes fora dos Estados Unidos, oferecemos suporte a chamadas de países internacionais.

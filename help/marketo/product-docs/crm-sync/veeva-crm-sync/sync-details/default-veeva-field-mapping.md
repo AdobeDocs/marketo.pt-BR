@@ -1,18 +1,23 @@
 ---
 description: Saiba mais sobre o mapeamento de campo padrão Veeva entre o Veeva CRM e o Marketo Engage. Veja como os campos de contato e conta são mapeados e quais campos personalizados são sincronizados.
-title: 'Mapeamento de Campo Padrão [!DNL Veeva] '
+title: Mapeamento de Campo [!DNL Veeva] Padrão
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
+TQID: 'https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '273'
 ht-degree: 44%
-
 ---
-
 # Mapeamento de Campo [!DNL Veeva] Padrão {#default-veeva-field-mapping}
 
 Inicialmente, ao sincronizar sua conta do Marketo Engage com o [!DNL Veeva], a Marketo faz automaticamente essas associações entre seus campos internos do [!DNL Veeva] e do Marketo. O Marketo também sincronizará os campos personalizados em suas Contas e Contatos.

@@ -4,21 +4,26 @@ description: Saiba como agendar conversões do programa de engajamento com o fus
 title: Agendar programas de engajamento com fuso horário do destinatário
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
+TQID: 'https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '206'
 ht-degree: 9%
-
 ---
-
 # Agendar programas de engajamento com fuso horário do destinatário {#schedule-engagement-programs-with-recipient-time-zone}
 
-Quando você agendar um fluxo de programa de envolvimento e o fuso horário do recipient estiver ativo, a conversão do programa começará a ser executada à meia-noite no primeiro fuso horário (UTC +14:00). A primeira conversão deve ser agendada para **pelo menos 25 horas** no futuro, pois pode haver pessoas qualificadas para a conversão em todos os fusos horários do mundo. Iniciar o processamento neste horário no primeiro fuso horário garante que o email será entregue na data e hora agendadas para cada recipient.
+Quando você agendar um fluxo de programa de engajamento e o fuso horário do recipient estiver ativo, a conversão do programa começará a ser executada à meia-noite no primeiro fuso horário (UTC +14:00). A primeira conversão deve ser agendada para **pelo menos 25 horas** no futuro, pois pode haver pessoas qualificadas para a conversão em todos os fusos horários do mundo. Iniciar o processamento neste horário no primeiro fuso horário garante que o email será entregue na data e hora agendadas para cada recipient.
 
 1. No seu programa de envolvimento, navegue até a guia **[!UICONTROL Fluxos]** e clique no agendamento de cadência de um fluxo para editá-lo.
 

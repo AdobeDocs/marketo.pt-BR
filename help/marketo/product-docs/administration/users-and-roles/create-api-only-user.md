@@ -3,13 +3,17 @@ description: Como criar e gerenciar usuários da API somente no Marketo Engage q
 title: Adicionar usuário somente de API para assinaturas habilitadas para o Adobe IMS
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: cfbc8488d05cb25263fc71501def2ba74f945c0e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 10%
-
 ---
-
 # Adicionar usuário somente de API para assinaturas habilitadas para o Adobe IMS {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 
 Enquanto os usuários e administradores de marketing do Marketo Engage são gerenciados no Adobe Admin Console, somente a API do Marketo Engage deve ser criada e gerenciada no Marketo Engage.

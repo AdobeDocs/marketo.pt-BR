@@ -7,13 +7,28 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '570'
 ht-degree: 3%
-
 ---
-
 # Pontuação da marca {#brand-score}
 
 Analisar a pontuação da sua marca garante a consistência no tom, nas mensagens e na identidade visual em todas as campanhas de email, além de servir como uma verificação de qualidade antes do conteúdo ser publicado.
@@ -47,15 +62,15 @@ Depois que sua marca for [configurada e publicada](/help/marketo/product-docs/em
 1. Selecione qualquer diretriz sinalizada para exibir comentários e sugestões específicos. O alinhamento da marca avalia as seguintes categorias:
 
    * **[!UICONTROL Estilo de escrita]**:
-      * **[!UICONTROL Estilo de comunicação da marca]**: define a personalidade e o tom emocional para garantir uma voz consistente da marca em todos os canais.
-      * **[!UICONTROL Padrões de mensagem da marca]**: regras estruturais e de formatação para texto promocional e de marketing eficaz.
-      * **[!UICONTROL Padrões de conformidade legal]**: garante que todas as comunicações estejam em conformidade com os requisitos legais, incluindo a colocação de texto e listas de verificação de conformidade.
+     * **[!UICONTROL Estilo de comunicação da marca]**: define a personalidade e o tom emocional para garantir uma voz consistente da marca em todos os canais.
+     * **[!UICONTROL Padrões de mensagem da marca]**: regras estruturais e de formatação para texto promocional e de marketing eficaz.
+     * **[!UICONTROL Padrões de conformidade legal]**: garante que todas as comunicações estejam em conformidade com os requisitos legais, incluindo a colocação de texto e listas de verificação de conformidade.
 
    * **[!UICONTROL Conteúdo visual]**:
-      * **[!UICONTROL Padrões de fotografia]**: requisitos para conteúdo fotográfico, incluindo resolução, composição, iluminação e formatos de arquivo.
-      * **[!UICONTROL Padrões de ilustração]**: parâmetros de estilo, espessura da linha, uso de cor e requisitos de formato de arquivo para ilustrações.
-      * **[!UICONTROL Padrões de ícones]**: especificações para design de ícones, incluindo sistemas de grade, espessuras de traçado e dimensionamento para uniformidade.
-      * **[!UICONTROL Diretrizes de uso]**: práticas recomendadas para seleção de imagem, posicionamento e contexto para manter a identidade da marca.
+     * **[!UICONTROL Padrões de fotografia]**: requisitos para conteúdo fotográfico, incluindo resolução, composição, iluminação e formatos de arquivo.
+     * **[!UICONTROL Padrões de ilustração]**: parâmetros de estilo, espessura da linha, uso de cor e requisitos de formato de arquivo para ilustrações.
+     * **[!UICONTROL Padrões de ícones]**: especificações para design de ícones, incluindo sistemas de grade, espessuras de traçado e dimensionamento para uniformidade.
+     * **[!UICONTROL Diretrizes de uso]**: práticas recomendadas para seleção de imagem, posicionamento e contexto para manter a identidade da marca.
 
    ![](assets/brand-score-4.png){width="800" zoomable="yes"}
 

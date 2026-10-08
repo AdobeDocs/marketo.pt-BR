@@ -4,24 +4,30 @@ description: Saiba como criar um evento com o Adobe Connect no Marketo. Configur
 title: Criar um evento com o Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-TQID: https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY
+TQID: 'https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 425
+source-wordcount: '425'
 ht-degree: 3%
-
 ---
-
 # Criar um evento com o Adobe Connect {#create-an-event-with-adobe-connect}
 
 A sincronização com o Adobe Connect permite gerenciar o registro e a participação no webinário no Marketo, o que garante que o engajamento não fique sem rastreamento.
@@ -31,7 +37,7 @@ A sincronização com o Adobe Connect permite gerenciar o registro e a participa
 >* [Vincular Adobe Connect e Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Criar um Novo Programa de Evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-Primeiro, verifique se você criou sua reunião ou seminário no Adobe Connect. Se precisar de ajuda, consulte o [Guia do Usuário do Adobe Connect](https://help.adobe.com/pt_BR/connect/9.0/using/index.html).
+Primeiro, verifique se você criou sua reunião ou seminário no Adobe Connect. Se precisar de ajuda, consulte o [Guia do Usuário do Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 As reuniões e os seminários criados no Adobe Connect devem ser criados na pasta especificada ao inserir suas credenciais no Marketo. Depois de criar a reunião ou seminário, anote todas as informações logísticas relevantes (como o número de telefone), a serem usadas no email de confirmação e no arquivo ICS.
 

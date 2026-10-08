@@ -4,13 +4,19 @@ description: Saiba como criar um analisador de programa no Marketo Engage usando
 title: Criar um analisador de programa
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 1%
-
 ---
-
 # Criar um [!UICONTROL Analisador de programas] {#create-a-program-analyzer}
 
 Descubra quais programas e canais estão dando a você o maior retorno sobre o investimento em marketing. Use o analisador de programas para examinar e comparar cada custo e retorno em detalhes, por programa ou por canal.

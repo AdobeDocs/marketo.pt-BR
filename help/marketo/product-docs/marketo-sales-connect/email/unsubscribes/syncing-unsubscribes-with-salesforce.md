@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14746188
 description: Saiba como sincronizar cancelamentos de assinatura do Sales Connect com o Salesforce. Mantenha o status de recusa em sincronia para que você não envie emails de contatos com assinaturas canceladas.
-title: Sincronização de cancelamentos de assinatura com o Salesforce
+title: Sincronização de cancelamentos de inscrição com o Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+TQID: 'https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 435
-ht-degree: 0%
-
+source-wordcount: '436'
+ht-degree: 2%
 ---
-
 # Sincronizando Cancelamentos de Assinatura com [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
 ## Requisitos para cancelamentos de assinatura para sincronização com [!DNL Salesforce] {#requirements-for-unsubscribes-to-sync-to-salesforce}
@@ -28,7 +30,7 @@ Quando um cancelamento de inscrição é coletado em [!DNL Sales Connect], nós 
 
 **Cancelar Assinatura da Sincronização**
 
-Após habilitar a sincronização de cancelamento de inscrição (Etapa 3 abaixo), você ativará a sincronização noturna. A sincronização ocorre uma vez por dia, por volta das 20h00 PST. :00Ele sincronizará bidirecionalmente todas as cancelamentos de subscrições no Marketo Sales com o campo Opt Out no Salesforce.
+Após habilitar a sincronização de cancelamento de inscrição (Etapa 3 abaixo), você ativará a sincronização noturna. A sincronização ocorre uma vez por dia, por volta das 20h PST. Ele sincronizará bidirecionalmente todas as cancelamentos de subscrições no Marketo Sales com o campo Opt Out no Salesforce.
 
 ## Configurar Cancelar Assinatura da Sincronização para [!DNL Salesforce] {#configure-unsubscribe-sync-to-salesforce}
 
@@ -93,7 +95,7 @@ A Recusa de Email é um campo padrão no [!DNL Salesforce] que está disponível
 
    ![](assets/twelve.png)
 
-## Opção de não participação de vendas da Marketo {#marketo-sales-opt-out}
+## Desativação de Marketo Sales {#marketo-sales-opt-out}
 
 O campo Recusa de vendas do Marketo é um campo personalizado disponível para usuários que instalaram as Personalizações do Marketo [!DNL Sales Connect].
 

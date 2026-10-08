@@ -2,13 +2,17 @@
 description: Saiba como as políticas de retenção de dados de 25 meses e 90 dias do Marketo afetam os relatórios do Analytics, com um detalhamento por relatório e dicas para reter dados por mais tempo.
 title: Retenção de dados
 feature: Reporting
-source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
-
 ---
-
 # Política de retenção de dados de atividades do Marketo - Impacto nos relatórios
 
 O Marketo mantém os dados da atividade de marketing continuamente. Os dados de Atividade e Associação de campanha são armazenados por um período contínuo de 25 meses após a data da atividade, e os dados de atividades de alto volume são retidos por um período contínuo de 90 dias após a data da atividade por padrão, que pode ser ajustado por usuário. Além desses períodos de retenção, os dados não estarão mais disponíveis por meio da interface do usuário do Marketo.
@@ -38,7 +42,7 @@ A tabela abaixo resume como cada relatório se comporta, incluindo cenários de 
 | | Filtros em atributos de pessoa (Ex: Nome) | Não |
 | | Filtros em atividades de pessoas nos últimos 25 meses | Não |
 | | Filtros em atividades de pessoas sem restrição de data | Sim |
-| **Analisador de Caminho de Sucesso** | Não inclui Smart Lists | N/A |
+| **Analisador de Caminho de Sucesso** | Não inclui Smart Lists | N/D |
 | **Relatório de Influência Social** | Nenhum filtro de lista inteligente | Sim |
 | | Filtros em atributos de pessoa (Ex: Nome) | Sim |
 | | Filtros em atividades de pessoas nos últimos 25 meses | Sim |
@@ -93,7 +97,7 @@ Muitos usuários podem considerar os dados de atividade anteriores à janela de 
 
 ## Exportar os dados
 
-A Marketo oferece a [API REST de extração em massa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que permite exportar atividades de pessoas e hospedá-las localmente. Depois que os dados forem extraídos por meio da API, você poderá armazená-los e classificá-los da maneira que precisar para o caso de uso.
+A Marketo oferece a [API REST de extração em massa](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), que permite exportar atividades de pessoas e hospedá-las localmente. Depois que os dados forem extraídos por meio da API, você poderá armazená-los e classificá-los da maneira que precisar para o caso de uso.
 
 >[!TIP]
 >

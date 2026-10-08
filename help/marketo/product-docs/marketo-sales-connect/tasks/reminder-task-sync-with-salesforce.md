@@ -3,16 +3,18 @@ description: Entenda como as tarefas de lembrete do Sales Connect são sincroniz
 title: Sincronização de tarefa de lembrete com o Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gxQs0GlZN5Bp262OW4wa0Rk4-txe0tC3MBL0V-2mTeo
+TQID: 'https://experienceleague.adobe.com/gxQs0GlZN5Bp262OW4wa0Rk4-txe0tC3MBL0V-2mTeo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 518
+source-wordcount: '518'
 ht-degree: 1%
-
 ---
-
 # Sincronização de Tarefa de Lembrete com [!DNL Salesforce] {#reminder-task-sync-with-salesforce}
 
 >[!NOTE]

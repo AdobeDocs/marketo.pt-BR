@@ -4,16 +4,18 @@ description: Saiba como adicionar um anexo ou conteúdo rastreável ao email do 
 title: Adicionar um anexo ou conteúdo rastreável ao seu email
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UqC-6S-D0UXuCyoQL4ut3N2s67Wm2ywVndovL5Buc50
+TQID: 'https://experienceleague.adobe.com/UqC-6S-D0UXuCyoQL4ut3N2s67Wm2ywVndovL5Buc50'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 5%
-
 ---
-
 # Adicionar um anexo ou conteúdo rastreável ao seu email {#add-an-attachment-or-trackable-content-to-your-email}
 
 Ao enviar um email por meio do [!DNL Sales Connect], você tem a opção de adicionar um arquivo como anexo ou tornar um arquivo um link baixável (e rastreável).

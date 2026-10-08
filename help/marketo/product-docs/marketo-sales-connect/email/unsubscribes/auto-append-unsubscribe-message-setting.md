@@ -3,18 +3,20 @@ description: Saiba mais sobre a configuração de mensagem de cancelamento de in
 title: Configuração da mensagem de cancelamento de inscrição anexada automaticamente
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-TQID: https://experienceleague.adobe.com/vF4DuUUB10XpQoMJYGquk8yptjT-5lFcMqYJB9QF7A0
+TQID: 'https://experienceleague.adobe.com/vF4DuUUB10XpQoMJYGquk8yptjT-5lFcMqYJB9QF7A0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 212
+source-wordcount: '212'
 ht-degree: 4%
-
 ---
-
 # Configuração da mensagem de cancelamento de inscrição anexada automaticamente {#auto-append-unsubscribe-message-setting}
 
 Certifique-se de que cada email enviado inclua uma mensagem de cancelamento de inscrição para que os recipients tenham uma opção fácil de não se comunicar. Quando a opção anexar mensagem de cancelamento de inscrição estiver ativada, todas as comunicações que sua equipe envia do Marketo Sales incluirão uma mensagem de cancelamento de inscrição, incluindo emails enviados do aplicativo web, do Salesforce, do plug-in do Gmail e do plug-in do Outlook.

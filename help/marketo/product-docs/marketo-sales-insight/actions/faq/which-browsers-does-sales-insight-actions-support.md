@@ -3,16 +3,18 @@ description: Descubra quais navegadores o Sales Insight Actions suporta. Use um 
 title: Quais navegadores são compatíveis com as Ações de insight de vendas?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/OYjJ1Kk-RFCIob4Ffpfxbffk0qh5VjnY9iiM-5Lg-Fw
+TQID: 'https://experienceleague.adobe.com/OYjJ1Kk-RFCIob4Ffpfxbffk0qh5VjnY9iiM-5Lg-Fw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 81
+source-wordcount: '81'
 ht-degree: 30%
-
 ---
-
 # Quais navegadores são compatíveis com as Ações de insight de vendas? {#which-browsers-does-sales-insight-actions-support}
 
 As Ações do Marketo Sales Insight atualmente oferecem suporte aos seguintes navegadores.

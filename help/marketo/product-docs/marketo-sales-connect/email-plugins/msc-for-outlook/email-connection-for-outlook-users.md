@@ -4,16 +4,18 @@ description: Saiba mais sobre a conexão de email para usuários do Outlook no S
 title: Conexão de email para usuários do Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/xS268qisPGnUKV--cpLyVKNjjCRsehNptKj9qhf93ss
+TQID: 'https://experienceleague.adobe.com/xS268qisPGnUKV--cpLyVKNjjCRsehNptKj9qhf93ss'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 321
-ht-degree: 0%
-
+source-wordcount: '321'
+ht-degree: 4%
 ---
-
 # Conexão de email para [!DNL Outlook] usuários {#email-connection-for-outlook-users}
 
 Saiba como conectar sua conta do [!DNL Sales Connect] ao [!DNL Outlook].
@@ -38,7 +40,7 @@ Conectar-se ao [!DNL Outlook] significa que você receberá o controle de respos
 
    ![](assets/three.png)
 
-1. Clique em **[!UICONTROL Introdução]**.
+1. Clique em **[!UICONTROL Começar]**.
 
    ![](assets/four.png)
 
@@ -101,7 +103,7 @@ Conectar-se ao [!DNL Exchange On-Premise] significa que você receberá o contro
 
    ![](assets/three.png)
 
-1. Clique em **[!UICONTROL Introdução]**.
+1. Clique em **[!UICONTROL Começar]**.
 
    ![](assets/four.png)
 

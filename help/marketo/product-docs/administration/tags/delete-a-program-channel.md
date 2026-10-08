@@ -4,20 +4,24 @@ description: Etapas para excluir um canal de programa quando ele não estiver as
 title: Excluir um canal de programa
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-TQID: https://experienceleague.adobe.com/s57oqqZJDzLS1qqSvxnIpbNOeA8UO2J-LlnmK8MX848
+TQID: 'https://experienceleague.adobe.com/s57oqqZJDzLS1qqSvxnIpbNOeA8UO2J-LlnmK8MX848'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: eabd8318-c438-41ef-8756-bedd6f38b8fc
+    internal-label: Tag administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '105'
 ht-degree: 7%
-
 ---
-
 # Excluir um canal de programa {#delete-a-program-channel}
 
 Os canais do programa são uma coleção de status ou pontos de verificação pelos quais os clientes potenciais devem passar em um programa.

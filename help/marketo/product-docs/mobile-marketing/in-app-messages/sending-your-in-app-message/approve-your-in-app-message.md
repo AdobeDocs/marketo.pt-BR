@@ -4,16 +4,18 @@ description: Saiba como aprovar sua mensagem no aplicativo para iniciá-la. Paus
 title: Aprovar mensagem no aplicativo
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
+TQID: 'https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 347
+source-wordcount: '347'
 ht-degree: 2%
-
 ---
-
 # Aprovar mensagem no aplicativo {#approve-your-in-app-message}
 
 Você precisa aprovar o envio antes que a mensagem no aplicativo seja enviada.

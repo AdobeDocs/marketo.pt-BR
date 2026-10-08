@@ -1,19 +1,24 @@
 ---
 unique-page-id: 3571809
 description: Saiba como conectar o Microsoft Dynamics 2011 no local com o Marketo na etapa final. Insira as informações do usuário de sincronização no Marketo Admin e habilite a sincronização.
-title: Etapa 3 de 3 -Conectar [!DNL Microsoft Dynamics] com o Marketo (2011 no Local)
+title: Etapa 3 de 3 -Conectar [!DNL Microsoft Dynamics] com Marketo (2011 no Local)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
+TQID: 'https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 379
+source-wordcount: '380'
 ht-degree: 2%
-
 ---
-
 # Etapa 3 de 3: Conectar o [!DNL Microsoft Dynamics] ao Marketo (2011 no Local) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
 A solução está instalada e o usuário de sincronização está configurado. Em seguida, conecte o Marketo e o [!DNL Dynamics].

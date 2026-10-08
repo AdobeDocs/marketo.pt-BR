@@ -4,21 +4,25 @@ description: Saiba mais sobre Meus tokens em um programa. Use tokens para person
 title: Noções básicas sobre meus tokens em um programa
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-TQID: https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4
+TQID: 'https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Flow Step
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 441
+source-wordcount: '441'
 ht-degree: 6%
-
 ---
-
 # Noções básicas sobre meus tokens em um programa {#understanding-my-tokens-in-a-program}
 
 Um token é uma variável que pode ser usada em emails, Landing Pages e Campanhas inteligentes para facilitar sua vida.
@@ -54,7 +58,7 @@ Exemplos:
   </tr>
   <tr>
    <td>Script de e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td>
+   <td>Use esse token para executar um script do Velocity em seus emails. Saiba mais <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Seguir link" rel="nofollow">aqui</a>. </td>
   </tr>
   <tr>
    <td>Número<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

@@ -1,18 +1,23 @@
 ---
 description: Saiba como instalar a solução Marketo para Dynamics 2016 ou Dynamics 365 no local. Importe a solução e conclua as etapas de instalação no Dynamics.
-title: Instalar o Marketo para  [!DNL Microsoft Dynamics] 2016/Dynamics 365 no Local Etapa 1 de 3
+title: Instalar o Marketo para [!DNL Microsoft Dynamics] 2016/Dynamics 365 no Local Etapa 1 de 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA
+TQID: 'https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 324
+source-wordcount: '325'
 ht-degree: 0%
-
 ---
-
 # Etapa 1 de 3: Configurar usuário de sincronização para o Marketo (2016 No local /Dynamics 365 No local) {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
 Antes de sincronizar o [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 com o Marketo, é necessário instalar a solução do Marketo no Dynamics.

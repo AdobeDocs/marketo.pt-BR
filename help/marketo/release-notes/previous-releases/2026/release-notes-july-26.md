@@ -2,7 +2,16 @@
 description: Notas de versão - julho de 2026 - Documentação do Marketo - Documentação do produto
 title: Notas de versão - julho de 2026
 feature: Release Information
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 22%
@@ -28,7 +37,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Habilidade do Marketo AI - Conhecimento do produto</strong>: o conhecimento do produto oferece acesso sob demanda ao conhecimento da Marketo sem sair da plataforma. Faça uma pergunta em linguagem simples e a IA do Marketo se baseia na documentação oficial do Adobe para fornecer uma resposta.
 </td>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">Conhecimento do produto</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">Conhecimento do produto</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -39,7 +48,7 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <td><strong>Habilidade do Marketo AI - Investigar clientes potenciais</strong>: descubra por que uma pessoa/cliente potencial específico não atingiu um marco (como MQL, qualificação de programa ou uma campanha) e obtenha uma explicação em linguagem simples do que aconteceu.
 </td>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">Investigar clientes em potencial</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">Investigar clientes em potencial</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -61,4 +70,4 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 * **Descontinuação do Parâmetro &#39;access_token&#39; da API**: o parâmetro de consulta `access_token` usado para autenticar chamadas da API REST do Marketo está sendo descontinuado e não estará disponível após 31 de agosto de 2026. Todas as integrações novas e já existentes devem autenticar chamadas da API REST usando o cabeçalho “Authorization”, [conforme descrito aqui](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 * **Limite de Clientes Potenciais de Mesclagem da API REST**: a partir de 31 de julho de 2026, as chamadas que incluírem mais de 25 IDs no parâmetro leadIds de uma chamada da API de Clientes Potenciais de Mesclagem resultarão em um código de erro 1080 e a chamada será ignorada. As tarefas que exigem a fusão de mais de 25 registros em um devem ser divididas em várias tarefas para garantir o sucesso dessas chamadas.
 * **Descontinuação da API do SOAP**: o suporte para a API do Marketo SOAP terminará em 31 de julho de 2026. Os serviços que usam os recursos da API SOAP devem ser migrados para a [API REST](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
-* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial e Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` retornarão um código de erro 1003 se a lista estática de destino contiver 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
+* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial e Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` retornarão um código de erro 1003 se a lista estática de destino contiver 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.

@@ -1,25 +1,30 @@
 ---
 unique-page-id: 2360354
 description: Adicione o Marketo [!DNL Munchkin] JavaScript ao seu site para rastrear visitas e habilitar campanhas baseadas na Web.
-title: Adicionar  [!DNL Munchkin] Código de Acompanhamento ao seu Site
+title: Adicionar o código de rastreamento [!DNL Munchkin] ao seu site
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-TQID: https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts
+TQID: 'https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 685
-ht-degree: 0%
-
+source-wordcount: '687'
+ht-degree: 3%
 ---
-
 # Adicionar o código de rastreamento [!DNL Munchkin] ao seu site {#add-munchkin-tracking-code-to-your-website}
 
 O código personalizado de rastreamento do JavaScript da Marketo, chamado [!DNL Munchkin], rastreia todas as pessoas que visitam seu site para que você possa reagir às suas visitas com campanhas de marketing automatizadas. Até mesmo visitantes anônimos são rastreados junto com seus endereços IP e outras informações. **Sem este código de rastreamento, você não poderá rastrear visitas ou outras atividades no seu site**!
@@ -32,7 +37,7 @@ O código personalizado de rastreamento do JavaScript da Marketo, chamado [!DNL 
 
 >[!NOTE]
 >
->Os usuários do Adobe Experience Cloud também podem usar a [integração do Marketo no Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} para incluir o script [!DNL Munchkin] em suas páginas da Web. Se você usa o Adobe Launch, _o script [!DNL Munchkin] é adicionado automaticamente_, portanto, você mesmo não precisará adicioná-lo.
+>Os usuários da Adobe Experience Cloud também podem usar a [integração do Marketo no Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} para incluir o script [!DNL Munchkin] em suas páginas da Web. Se você usa o Adobe Launch, _o script [!DNL Munchkin] é adicionado automaticamente_, portanto, você mesmo não precisará adicioná-lo.
 
 1. Vá para a área **[!UICONTROL Administrador]**.
 

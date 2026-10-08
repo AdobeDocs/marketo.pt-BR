@@ -4,16 +4,25 @@ title: Notas de versão do Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+TQID: 'https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 933
+source-wordcount: '933'
 ht-degree: 66%
-
 ---
-
 # Notas de versão do Dynamic Chat {#dynamic-chat-release}
 
 As versões do Adobe Dynamic Chat operam em um modelo de entrega contínua, o que permite uma abordagem mais escalável para a implantação de recursos. Às vezes, há vários lançamentos em um mês, portanto, verifique regularmente para obter as informações mais atualizadas.
@@ -30,15 +39,15 @@ Renovamos a lógica de roteamento de chat ao vivo no Dynamic Chat para garantir 
 
 * **Até duas tentativas de engajamento por sessão**
 
-   * O sistema tenta se conectar com até dois agentes (no máximo), mas estritamente dentro da regra de roteamento principal.
+  * O sistema tenta se conectar com até dois agentes (no máximo), mas estritamente dentro da regra de roteamento principal.
 
-   * Se um agente estiver disponível, mas não responder (por exemplo, recusar ou perder o bate-papo), o sistema tentará se conectar a um agente diferente do mesmo pool.
+  * Se um agente estiver disponível, mas não responder (por exemplo, recusar ou perder o bate-papo), o sistema tentará se conectar a um agente diferente do mesmo pool.
 
-   * A lógica de fallback (como Round Robin) só será ativada se nenhum agente elegível for encontrado durante a resolução inicial, para que não seja realizada uma nova tentativa após uma falha no engajamento.
+  * A lógica de fallback (como Round Robin) só será ativada se nenhum agente elegível for encontrado durante a resolução inicial, para que não seja realizada uma nova tentativa após uma falha no engajamento.
 
 * **Comportamento específico da regra de roteamento**
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 Se o domínio de email de um visitante for mapeado para uma conta conhecida, o agente mapeado sempre será priorizado.
 
@@ -55,7 +64,7 @@ Em vez disso, ele:
 
 A regra de roteamento no nível do cartão (por exemplo, Equipe, Personalizado) só será considerada se o Roteamento de conta não for elegível (nenhum domínio ou agente correspondente).
 
-_&#x200B;**Roteamento personalizado/de equipe**&#x200B;_
+_**Roteamento personalizado/de equipe**_
 
 Essas regras podem retornar vários agentes elegíveis.
 
@@ -69,7 +78,7 @@ Se nenhum dos agentes gerar engajamento:
 -ou-
 * Exibirá a mensagem de fallback padrão.
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 Quando usado como uma regra de roteiro principal, o sistema:
 
@@ -79,7 +88,7 @@ Quando usado como uma regra de roteiro principal, o sistema:
 
 Se Round Robin for usado como fallback, ele será ativado somente se nenhum agente for resolvido a partir da regra principal.
 
-_&#x200B;**Fluxo de experiência do visitante**&#x200B;_
+_**Fluxo de experiência do visitante**_
 
 O sistema verifica se o roteamento de conta deve ser aplicado.
 
@@ -95,15 +104,15 @@ A regra de roteamento no nível da placa (Personalizada, Equipe, Round Robin) fo
 
 * Se nenhum engajamento for bem-sucedido, a lógica de fallback será aplicada:
 
-   * Fallback de calendário (se ativado),
--ou-
-   * Mensagem padrão.
+  * Fallback de calendário (se ativado),
+    -ou-
+  * Mensagem padrão.
 
 O fallback de Round Robin só é considerado quando nenhum agente elegível é encontrado na regra de roteamento principal, não quando os agentes individuais não respondem.
 
 ##### Casos de uso {#use-cases}
 
-_&#x200B;**Roteamento de conta**&#x200B;_
+_**Roteamento de conta**_
 
 <table><thead>
   <tr>
@@ -129,7 +138,7 @@ _&#x200B;**Roteamento de conta**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento personalizado**&#x200B;_
+_**Roteamento personalizado**_
 
 <table><thead>
   <tr>
@@ -155,7 +164,7 @@ _&#x200B;**Roteamento personalizado**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento de equipe**&#x200B;_
+_**Roteamento de equipe**_
 
 <table><thead>
   <tr>
@@ -181,7 +190,7 @@ _&#x200B;**Roteamento de equipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Roteamento Round Robin**&#x200B;_
+_**Roteamento Round Robin**_
 
 <table><thead>
   <tr>

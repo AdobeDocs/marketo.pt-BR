@@ -4,16 +4,18 @@ description: Saiba como definir padrões de URL para que o Conteúdo preditivo d
 title: Criar padrões de conteúdo
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
+TQID: 'https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '406'
 ht-degree: 2%
-
 ---
-
 # Criar padrões de conteúdo {#create-content-patterns}
 
 Quando você define padrões de conteúdo, o conteúdo é descoberto automaticamente quando um visitante da Web clica na página da Web do HTML relevante ao padrão de conteúdo. Ele é usado para adicionar páginas do HTML (publicações de blogs, comunicados de imprensa, artigos de notícias) como partes de conteúdo à página Todo o conteúdo. Quando a descoberta automática se baseia em padrões de conteúdo, ela descobre e rastreia páginas do HTML relacionadas ao padrão de URL definido quando um visitante da Web visualiza ou clica em um link para a página. Essa parte do conteúdo (o URL, o nome da página e os metadados, incluindo o URL da imagem e a descrição) é adicionada à página Todo o conteúdo para preparar conteúdo preditivo. Para a descoberta automática de outro conteúdo, como PDFs e vídeo incorporado, você precisa [habilitar a descoberta de conteúdo](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).

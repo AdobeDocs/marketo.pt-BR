@@ -4,19 +4,21 @@ description: Saiba como desconectar o Salesforce da sua conta do Sales Connect.
 title: Desconectar o Salesforce da sua conta do Sales Connect
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/lpF4DjG2mzxkt5QZfx5VKSSxvGbjRyjt9Tw1G6D-E0A
+TQID: 'https://experienceleague.adobe.com/lpF4DjG2mzxkt5QZfx5VKSSxvGbjRyjt9Tw1G6D-E0A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 15%
-
 ---
-
 # Desconectar o Salesforce da sua conta do Sales Connect {#disconnect-salesforce-from-your-sales-connect-account}
 
-Às vezes, pode ser necessário desconectar a conta do [!DNL &#x200B; Salesforce] da conta do [!DNL Sales Connect]. Veja como.
+Às vezes, pode ser necessário desconectar a conta do [!DNL  Salesforce] da conta do [!DNL Sales Connect]. Veja como.
 
 ## Como se desconectar do Salesforce como administrador {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -24,7 +26,7 @@ ht-degree: 15%
 
    ![](assets/one-1.png)
 
-1. Em [!UICONTROL &#x200B; Configurações de Administração], clique em **[!UICONTROL Salesforce]**.
+1. Em [!UICONTROL  Configurações de Administração], clique em **[!UICONTROL Salesforce]**.
 
    ![](assets/six-1.png)
 
@@ -34,7 +36,7 @@ ht-degree: 15%
 
 ## Como se desconectar do Salesforce como um usuário não administrativo {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. Em [!DNL &#x200B; Sales Connect], clique no ícone de engrenagem no canto superior direito e selecione **[!UICONTROL Configurações]**.
+1. Em [!DNL  Sales Connect], clique no ícone de engrenagem no canto superior direito e selecione **[!UICONTROL Configurações]**.
 
    ![](assets/one-1.png)
 

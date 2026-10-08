@@ -4,16 +4,21 @@ description: Saiba como adicionar outros CNAMEs de página de aterrissagem no Ma
 title: Adicionar outros CNAMEs de página de destino
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+TQID: 'https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 232
+source-wordcount: '232'
 ht-degree: 6%
-
 ---
-
 # Adicionar outros CNAMEs de página de destino {#add-additional-landing-page-cnames}
 
 Você pode adicionar CNAMEs de página de aterrissagem para permitir que URLs diferentes apontem para suas páginas de aterrissagem do Marketo. Seguir as etapas abaixo ajudará você a gerenciar vários domínios.

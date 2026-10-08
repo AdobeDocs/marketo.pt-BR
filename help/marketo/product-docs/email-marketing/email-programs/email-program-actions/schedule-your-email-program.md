@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2359455
 description: Saiba como agendar seu programa de email. Defina a data e a hora do delivery e, opcionalmente, use o fuso horário do recipient.
-title: Agendar seu programa de email
+title: Agendar programa de email
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/mB-ot4Cdsc80DCdpPOzzY9QRyfvNYwZb4xZbiHUq1vE
+TQID: 'https://experienceleague.adobe.com/mB-ot4Cdsc80DCdpPOzzY9QRyfvNYwZb4xZbiHUq1vE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
-ht-degree: 0%
-
+source-wordcount: '149'
+ht-degree: 9%
 ---
-
-# Agendar seu programa de email {#schedule-your-email-program}
+# Agendar programa de email {#schedule-your-email-program}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +32,7 @@ ht-degree: 0%
 
 Com seu programa de email criado, público definido e email selecionado, você vai querer dizer ao seu programa *quando* para enviar o email. Veja como.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -4,18 +4,20 @@ description: Saiba como sincronizar tarefas do Sales Connect com o Salesforce pe
 title: Sincronizar pela primeira vez as tarefas do Sales Connect com o Salesforce
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5anDeeHVD0mkZLIac5rTb4vW7iiiOBHDBgQKUf5lv4Y
+TQID: 'https://experienceleague.adobe.com/5anDeeHVD0mkZLIac5rTb4vW7iiiOBHDBgQKUf5lv4Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: '267'
 ht-degree: 3%
-
 ---
-
 # Sincronizando [!DNL Sales Connect] Tarefas com [!DNL Salesforce] pela primeira vez {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
 Quando você ativa a sincronização entre as tarefas do [!DNL Sales Connect] e do [!DNL Salesforce] pela primeira vez, nós importamos suas tarefas do [!DNL Salesforce]. Nós **não** transferiremos quaisquer tarefas atuais que você tenha em [!DNL Sales Connect] para [!DNL Salesforce]. Para reduzir a desordem e as duplicatas, as únicas tarefas que são sincronizadas de [!DNL Sales Connect] para [!DNL Salesforce] são tarefas criadas *depois* que você sincroniza [!DNL Sales Connect] com o SFDC.

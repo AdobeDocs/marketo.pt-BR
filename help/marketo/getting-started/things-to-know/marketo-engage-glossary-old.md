@@ -4,13 +4,17 @@ short-description: Conheça os termos do Marketo Engage e suas definições para
 title: Glossário do Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '4132'
 ht-degree: 91%
-
 ---
-
 # Glossário do Marketo Engage {#marketo-engage-glossary}
 
 Abaixo estão definições para muitos dos termos que você pode encontrar ao usar o Marketo Engage. Para solicitar a adição de um termo, [envie-nos um email](mailto:GRP-Marketo-articlefeedback@adobe.com).

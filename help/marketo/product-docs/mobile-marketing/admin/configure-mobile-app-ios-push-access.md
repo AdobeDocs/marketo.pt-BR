@@ -4,16 +4,18 @@ description: Saiba como configurar o acesso por push do iOS para seu aplicativo 
 title: Configurar o acesso por push do iOS para aplicativos móveis
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0
+TQID: 'https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 152
+source-wordcount: '152'
 ht-degree: 9%
-
 ---
-
 # Configurar o acesso por push do iOS para aplicativos móveis {#configure-mobile-app-ios-push-access}
 
 1. Clique em **[!UICONTROL Administrador]**.

@@ -1,22 +1,29 @@
 ---
 unique-page-id: 2359494
 description: Saiba como executar testes A/B da linha de assunto em programas de email. Teste diferentes linhas de assunto e escolha um vencedor por desempenho.
-title: Use O Teste A/B "Linha De Assunto"
+title: Usar teste A/B de “Linha de assunto”
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/jF6mldDXXbl9YOWTOfwgvxvbh-QmIH6sqnnELOv1lxQ
+TQID: 'https://experienceleague.adobe.com/jF6mldDXXbl9YOWTOfwgvxvbh-QmIH6sqnnELOv1lxQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 255
-ht-degree: 0%
-
+source-wordcount: '255'
+ht-degree: 4%
 ---
-
-# Use O Teste A/B &quot;Linha De Assunto&quot; {#use-subject-line-a-b-testing}
+# Usar teste A/B de “Linha de assunto” {#use-subject-line-a-b-testing}
 
 Você pode facilmente testar seus emails A/B. Um dos testes mais comuns é o teste **[!UICONTROL Linha de assunto]**.
 

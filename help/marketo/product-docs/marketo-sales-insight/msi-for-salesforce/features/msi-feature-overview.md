@@ -4,20 +4,23 @@ description: Saiba mais sobre os recursos do Marketo Sales Insight no Salesforce
 title: Visão geral do recurso MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+TQID: 'https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: '946'
 ht-degree: 13%
-
 ---
-
 # Visão geral do recurso MSI {#msi-feature-overview}
 
 O MSI tem os seguintes recursos disponíveis no [!DNL Salesforce] Lightning e Classic.
@@ -32,17 +35,17 @@ O painel MSI Visualforce inclui as seguintes funcionalidades:
 
 * Guias
 
-   * [Painel de insights](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Momentos interessantes
-   * Atividade na Web
-   * Email
-   * Pontuação
+  * [Painel de insights](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * Momentos interessantes
+  * Atividade na Web
+  * Email
+  * Pontuação
 
 * Ações
 
-   * Adicionar à campanha do Marketo
-   * Enviar e-mail do Marketo
-   * Adicionar/Remover da Lista de Controle
+  * Adicionar à campanha do Marketo
+  * Enviar e-mail do Marketo
+  * Adicionar/Remover da Lista de Controle
 
 * Estrelas e chamas
 
@@ -151,37 +154,37 @@ Os seguintes recursos **não estão disponíveis** na página Layout da oportuni
 
 * [!DNL Best Bets]
 
-   * Inclui a capacidade de criar e editar visualizações. Capacidade de Ocultar Melhores Opções dependendo da configuração da opção &quot;Ocultar Padrão&quot; na página de Configuração do Marketo
-   * Colunas - Nome, Conta, Último Momento Interessante, Cabeçalho De Status, Envolvimento (Estrelas E Chamas), Ocultar
+  * Inclui a capacidade de criar e editar visualizações. Capacidade de Ocultar Melhores Opções dependendo da configuração da opção &quot;Ocultar Padrão&quot; na página de Configuração do Marketo
+  * Colunas - Nome, Conta, Último Momento Interessante, Cabeçalho De Status, Envolvimento (Estrelas E Chamas), Ocultar
 
 * Minha lista de observação
 
-   * Inclui a capacidade de criar e editar visualizações
-   * Colunas - Nome, Conta, Último momento interessante, Cabeçalho de status, Envolvimento (Estrelas e Chamas), Remover
+  * Inclui a capacidade de criar e editar visualizações
+  * Colunas - Nome, Conta, Último momento interessante, Cabeçalho de status, Envolvimento (Estrelas e Chamas), Remover
 
 * Atividade na Web
 
-   * Inclui a capacidade de criar e editar visualizações, a funcionalidade de filtro de intervalo de tempo
-   * Coluna - Exibição de página, Nome, Conta, Última visita
+  * Inclui a capacidade de criar e editar visualizações, a funcionalidade de filtro de intervalo de tempo
+  * Coluna - Exibição de página, Nome, Conta, Última visita
 
 * Atividade anônima na Web
 
-   * Inclui a capacidade de criar e editar visualizações, a funcionalidade de filtro de intervalo de tempo
-   * Colunas - Exibição de página, Empresa, Última visita, Pesquisa (abre a página do LinkedIn da empresa)
+  * Inclui a capacidade de criar e editar visualizações, a funcionalidade de filtro de intervalo de tempo
+  * Colunas - Exibição de página, Empresa, Última visita, Pesquisa (abre a página do LinkedIn da empresa)
 
 * Meu e-mail
 
-   * Inclui a capacidade de criar e editar visualizações
-   * Colunas - Nome, Conta, Assunto, Data, Abertura, Clique
+  * Inclui a capacidade de criar e editar visualizações
+  * Colunas - Nome, Conta, Assunto, Data, Abertura, Clique
 
 * Feed de lead - Inclui a capacidade de se inscrever em momentos interessantes, o feed RSS na página Configuração deve estar habilitado para usar este recurso
 
-   * Cliente Potencial/Contato que teve este momento interessante
-   * Tipo de momento interessante (Web, email ou marco) e descrição
-   * Nome da conta
-   * Hora em que este momento interessante ocorreu
-   * Inscreva-se na opção para receber notificação por email sobre esse tipo de evento
-   * Ícone de alta prioridade para mostrar esta pessoa como Melhor Opção
+  * Cliente Potencial/Contato que teve este momento interessante
+  * Tipo de momento interessante (Web, email ou marco) e descrição
+  * Nome da conta
+  * Hora em que este momento interessante ocorreu
+  * Inscreva-se na opção para receber notificação por email sobre esse tipo de evento
+  * Ícone de alta prioridade para mostrar esta pessoa como Melhor Opção
 
 ## Guia Configuração de [!DNL Marketo Sales Insight] {#marketo-sales-insight-configuration-tab}
 

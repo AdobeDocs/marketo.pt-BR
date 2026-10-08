@@ -3,16 +3,18 @@ description: Saiba como definir configurações de consentimento de terceiros pa
 title: Configurações de consentimento de dois participantes
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/2KKg-cF-O7M5XAexsGVewdSbddMuCjFD3EwwSoZgfQ4
+TQID: 'https://experienceleague.adobe.com/2KKg-cF-O7M5XAexsGVewdSbddMuCjFD3EwwSoZgfQ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: '167'
 ht-degree: 7%
-
 ---
-
 # Configurações de consentimento de dois participantes {#two-party-consent-settings}
 
 Para garantir a conformidade com as leis de consentimento de duas partes dos EUA ao gravar chamadas, como administrador, você pode habilitar uma mensagem pré-gravada de sua escolha para ser reproduzida no início de suas chamadas, quando estiver sendo gravada.

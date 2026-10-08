@@ -4,18 +4,23 @@ description: Saiba como desativar o rastreamento de links de email específicos.
 title: Desabilitar o rastreamento de um link de email
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/q3ADow5Tqt-k37k-joN6qGPAPiS8KRkFNUyeR8osJ8Y
+TQID: 'https://experienceleague.adobe.com/q3ADow5Tqt-k37k-joN6qGPAPiS8KRkFNUyeR8osJ8Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 302
+source-wordcount: '302'
 ht-degree: 5%
-
 ---
-
 # Desabilitar o rastreamento de um link de email {#disable-tracking-for-an-email-link}
 
 Às vezes, você não quer habilitar a **URL de rastreamento do Marketo** em um link em um email. Isso é útil quando a página de destino não suporta parâmetros de URL e pode resultar em um link quebrado.

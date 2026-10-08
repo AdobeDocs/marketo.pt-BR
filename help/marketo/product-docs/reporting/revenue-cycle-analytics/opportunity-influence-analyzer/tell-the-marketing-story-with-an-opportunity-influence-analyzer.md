@@ -4,13 +4,19 @@ description: Saiba mais sobre como contar a história de marketing com um analis
 title: Contar a história de marketing com um analisador de influência de oportunidade
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 2%
-
 ---
-
 # Conte a história de marketing com um [!UICONTROL Analisador de influência da oportunidade] {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Use um [!UICONTROL Analisador de influência de oportunidade] para ilustrar a função do marketing em oportunidades importantes. Mostre como o marketing influenciou uma oportunidade, desde o primeiro contato até a criação e a vitória da oportunidade e muito mais.

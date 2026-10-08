@@ -4,21 +4,25 @@ description: Saiba mais sobre as personalizações do Sales Connect para CRM e S
 title: '[!DNL Sales Connect] Personalizações para o CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA
+TQID: 'https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 692
-ht-degree: 0%
-
+source-wordcount: '692'
+ht-degree: 2%
 ---
-
 # [!DNL Sales Connect] Personalizações para o CRM {#sales-connect-customizations-for-crm}
 
 Os campos e botões abaixo são criados pela API de metadados no Salesforce CRM. Depois que os campos forem criados, os administradores deverão configurar os layouts de página em seus CRMs para expô-los. As instruções [podem ser encontradas aqui](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf).
@@ -77,7 +81,7 @@ Depois de concluído, seu cartão mostrará &quot;Suas personalizações do Sale
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
-## Campos de atividade personalizados {#custom-activity-fields}
+## Campos de atividades personalizadas {#custom-activity-fields}
 
 O Marketo detectará a criação de novos campos e então fará um preenchimento retroativo de dados único, um remapeamento e uma sincronização contínua de valores somente nos campos **novos**. Campos antigos não serão atualizados.
 

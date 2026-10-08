@@ -4,16 +4,18 @@ description: Saiba como usar ações rápidas no Sales Connect para acelerar seu
 title: Uso de ações rápidas para acelerar seu fluxo de trabalho
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/wPFSzvwWQOQXO5fa69BeMxrOEm0--T6gKoyhmky2JJk
+TQID: 'https://experienceleague.adobe.com/wPFSzvwWQOQXO5fa69BeMxrOEm0--T6gKoyhmky2JJk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '341'
 ht-degree: 8%
-
 ---
-
 # Uso de ações rápidas para acelerar seu fluxo de trabalho {#using-quick-actions-to-speed-up-your-workflow}
 
 Existem dois tipos de colunas de ação rápida na grade de email. Ações de email, que permitem executar ações no email, e Ações de acompanhamento, que permitem executar ações de engajamento com alguns cliques rápidos.

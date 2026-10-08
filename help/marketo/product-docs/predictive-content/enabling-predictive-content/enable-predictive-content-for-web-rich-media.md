@@ -4,18 +4,21 @@ description: Saiba como ativar o conteúdo preditivo para modelos de mídia avan
 title: Habilitar conteúdo preditivo para mídia avançada da Web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE
+TQID: 'https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 338
-ht-degree: 4%
-
+source-wordcount: '346'
+ht-degree: 6%
 ---
-
 # Habilitar conteúdo preditivo para mídia avançada da Web {#enable-predictive-content-for-web-rich-media}
 
 O conteúdo preditivo envolve os visitantes da Web com o conteúdo mais relevante, viabilizado pelo aprendizado de máquina e pela análise preditiva. Com a Mídia Avançada na Web, você pode aprimorar seu conteúdo com descrições de texto e imagens e incorporar várias recomendações de conteúdo preditivo em seu site.
@@ -52,7 +55,7 @@ Depois de preparar o título do conteúdo, a descrição e a imagem para a mídi
 
 ## Personalize o código Javascript e incorpore-o ao seu site  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulte a documentação do modelo de Recomendação de Mídia Avançada [no site de Desenvolvedores do Marketo](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Isso explica como personalizar o modelo para seu site.
+Consulte a documentação do modelo de Recomendação de Mídia Avançada [no site de Desenvolvedores do Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Isso explica como personalizar o modelo para seu site.
 
 Cole o código do JavaScript no site no local onde deseja que o modelo apareça.
 

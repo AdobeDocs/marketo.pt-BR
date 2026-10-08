@@ -1,37 +1,60 @@
 ---
-title: "2022"
+title: '2022'
 description: 2022 - Documentação do Marketo - Documentação do produto
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4311
+source-wordcount: '4311'
 ht-degree: 7%
-
 ---
-
 # 2022
 
 ## Janeiro de 2022 {#january}
@@ -275,8 +298,8 @@ Os recursos a seguir serão lançados em **24 de junho de 2022**, com uma implan
 
 **Novos Modos de Exibição de Alternância**: os modos de exibição abaixo agora estão disponíveis na Experiência da Próxima Geração:
 
-* [Exibição de detalhes do email](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}
-* [Exibição da lista de emails](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}
+* [Exibição de detalhes do email](https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR){target="_blank"}
+* [Exibição da lista de emails](https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR){target="_blank"}
 
 ## Automação de experiência
 
@@ -340,7 +363,7 @@ Os recursos a seguir iniciaram uma implantação em fases em **26 de agosto de 2
 
 * **Exibir a Hierarquia de Pastas da Pasta de Destino na Caixa de Diálogo de Movimentação**: a exibição da hierarquia de pastas para cada pasta facilita a movimentação de ativos e reduz a probabilidade de colocá-los na pasta errada.
 
-* **[Screens Atualizado na Experiência da Próxima Geração](https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR){target="_blank"}**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e melhorias de usabilidade acessíveis através do switch de alternância:
+* **[Screens Atualizado na Experiência da Próxima Geração](https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR){target="_blank"}**: estamos fornecendo telas adicionais e atualizadas na experiência da próxima geração, que oferecem um design atualizado e melhorias de usabilidade acessíveis através do switch de alternância:
 
   * Detalhes do trecho
   * Detalhes de &quot;Imagens e arquivos&quot;
@@ -443,7 +466,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   </tr>
   <tr>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/home?lang=pt-BR">Botão de alternância</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/home?lang=pt-BR">Botão de alternância</a></td>
   </tr>
   </tbody>
 </table>

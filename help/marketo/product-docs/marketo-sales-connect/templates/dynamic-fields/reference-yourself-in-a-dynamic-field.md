@@ -4,18 +4,20 @@ description: Saiba como fazer referência a si mesmo em um campo dinâmico do Sa
 title: Fazer referência a si mesmo(a) em um campo dinâmico
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dNvB4eEnqeOYCSvNzK6DOdxhAg-1u-FwyuvI-WTElUQ
+TQID: 'https://experienceleague.adobe.com/dNvB4eEnqeOYCSvNzK6DOdxhAg-1u-FwyuvI-WTElUQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 93
+source-wordcount: '93'
 ht-degree: 12%
-
 ---
-
 # Fazer referência a si mesmo(a) em um campo dinâmico {#reference-yourself-in-a-dynamic-field}
 
 Campos dinâmicos são nossa forma de mala direta.

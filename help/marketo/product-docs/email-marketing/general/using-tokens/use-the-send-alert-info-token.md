@@ -4,20 +4,23 @@ description: Saiba como usar o token Enviar informações de alerta em emails. I
 title: Usar o token de envio de informações de alerta
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-TQID: https://experienceleague.adobe.com/aGDNauucFt-af6OXYlELf-jPMbWKoWZx1VAs7rOIhRs
+TQID: 'https://experienceleague.adobe.com/aGDNauucFt-af6OXYlELf-jPMbWKoWZx1VAs7rOIhRs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 5%
-
 ---
-
 # Usar o token de envio de informações de alerta {#use-the-send-alert-info-token-sp-send-alert-info}
 
 O token `{{SP_Send_Alert_Info}}` é um token especial a ser usado ao criar emails de alerta para a equipe de vendas.

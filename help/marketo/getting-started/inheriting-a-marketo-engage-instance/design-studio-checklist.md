@@ -3,13 +3,17 @@ description: Lista de verificação herdada do Instance Design Studio - Document
 title: Lista de Verificação do Instance Design Studio Herdada
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '656'
 ht-degree: 5%
-
 ---
-
 # Instância herdada: lista de verificação do estúdio de design {#inherited-instance-design-studio-checklist}
 
 Estruturar modelos e criar formulários globais, trechos e imagens e arquivos ajudará a minimizar erros de dados, bem como simplificar o fluxo de trabalho da criação do seu programa. Lembre-se de [baixar as listas de verificação](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e acompanhar seu progresso.
@@ -25,7 +29,7 @@ Estruturar modelos e criar formulários globais, trechos e imagens e arquivos aj
   <tr>
    <td>Páginas globais</td>
    <td><li>Quantas <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Páginas de Aterrissagem</a> globais existem? Eles estão sendo usados por programas?</li>
-   <li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=pt-BR" target="_blank">central de assinaturas</a> configurada?
+   <li>Você tem uma <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">central de assinaturas</a> configurada?
    <br/> Caso contrário, considere criar um.</li></td>
   </tr>
   <tr>

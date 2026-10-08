@@ -3,25 +3,34 @@ description: Notas de versão - março de 2025 - Documentação do Marketo - Doc
 title: Notas de versão - Março de 2025
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-TQID: https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY
+TQID: 'https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 527
+source-wordcount: '527'
 ht-degree: 39%
-
 ---
-
 # Notas de versão: março de 2025 {#release-notes-mar-25}
 
 Abaixo você encontrará todos os recursos incluídos na versão de março de 2025. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
@@ -56,7 +65,7 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
   <tr>
    <td><strong>Recursos GenAI em Webinars interativos</strong>: agora é possível gerar capítulos, bem como um resumo para webinars sob demanda. Edite e exporte um arquivo HTML com seus dados.</td>
    <td>Lançado</td>
-   <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Recursos da GenAI</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Recursos da GenAI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -76,11 +85,11 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 * **Descontinuação de recursos sociais**: na quarta-feira, 31 de julho de 2024, o Marketo Engage começou a descontinuação dos seguintes recursos sociais no produto:
 
-   * Pesquisas
-   * Botão de redes sociais
-   * Oferta de recomendação
-   * Compartilhamento de vídeo
-   * Sorteios
+  * Pesquisas
+  * Botão de redes sociais
+  * Oferta de recomendação
+  * Compartilhamento de vídeo
+  * Sorteios
 
 A partir de então, os usuários não conseguiram criar, clonar ou incorporar esses recursos sociais no Marketo Engage. Os ativos sociais existentes continuarão a funcionar até 31 de janeiro de 2025. Em 1º de fevereiro de 2025, os ativos sociais deixaram de funcionar. Quaisquer recursos sociais incorporados às Páginas de aterrissagem precisarão ser removidos. [Saiba mais](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 

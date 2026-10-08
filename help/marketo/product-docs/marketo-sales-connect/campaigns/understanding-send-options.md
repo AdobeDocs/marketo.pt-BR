@@ -4,16 +4,18 @@ description: Entenda as opções de envio para etapas de email da campanha no Sa
 title: Noções básicas sobre opções de envio
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE
+TQID: 'https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 621
+source-wordcount: '621'
 ht-degree: 0%
-
 ---
-
 # Noções básicas sobre opções de envio {#understanding-send-options}
 
 Ao criar uma Campanha, você tem várias opções sobre como as etapas de email são criadas no [!DNL Sales Connect]. E, dependendo de onde seu email se encaixa no Campaign, suas opções também diferem.
@@ -36,8 +38,8 @@ Se for o primeiro passo e o primeiro dia do Campaign, você terá as seguintes o
 * Esta opção criará uma [!UICONTROL Tarefa de email] (e sincronizará com [!DNL Salesforce]) que você poderá enviar quando desejar.
 * Depois de fazer essa seleção, quando você iniciar sua campanha, colocaremos essas tarefas na fila do Command Center e do Feed ativo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
 
-   * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
-   * Se você abrir esta tarefa em [!DNL Gmail] ou [!DNL Outlook], ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
+  * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
+  * Se você abrir esta tarefa em [!DNL Gmail] ou [!DNL Outlook], ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
 
 Para quaisquer dias/etapas subsequentes do Campaign, você terá as seguintes opções:
 
@@ -60,8 +62,8 @@ Para quaisquer dias/etapas subsequentes do Campaign, você terá as seguintes op
 * Esta opção criará uma [!UICONTROL Tarefa de email] (e sincronizará com [!DNL Salesforce]) que você poderá enviar quando desejar.
 * Depois de fazer essa seleção, quando você iniciar sua campanha, o Tout enfileirará essas tarefas para você no Command Center e no Feed ativo. Em seguida, você pode personalizar e enviar (ou agendar) cada email antes que ele seja enviado.
 
-   * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
-   * Se você abrir esta tarefa em [!DNL Gmail] ou [!DNL Outlook], ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
+  * Se você abrir essa tarefa em nosso aplicativo web, ela abrirá uma janela de composição com o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
+  * Se você abrir esta tarefa em [!DNL Gmail] ou [!DNL Outlook], ela abrirá uma janela de composição nativa e preencherá dinamicamente o endereço de email do seu contato, a linha de assunto do seu email e o modelo escolhido.
 
 **Encadear este email no email anterior**
 

@@ -3,21 +3,25 @@ description: Obtenha ajuda sobre as práticas recomendadas para webinários inte
 title: Práticas recomendadas para webinários interativos
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+TQID: 'https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1759
+source-wordcount: '1759'
 ht-degree: 0%
-
 ---
-
 # Práticas recomendadas para webinários interativos {#best-practices-for-interactive-webinars}
 
 Ao executar eventos virtuais, destinados a um público pequeno ou grande, é essencial que as coisas aconteçam conforme planejado. Com várias etapas necessárias para planejar e executar um evento, desde a preparação, promoção, delivery e acompanhamento, às vezes pode parecer muito.
@@ -79,13 +83,13 @@ As práticas recomendadas a seguir podem ajudar a planejar, projetar e produzir 
 * Ative o lembrete de gravação nas Preferências de sala se você pretende gravar a sessão. O lembrete será exibido 5 minutos após a reunião se a gravação não tiver sido iniciada.
 
 * Ative a área Host e Apresentador e configure-a com pods relevantes. Essa área só é visível para hosts e apresentadores e pode ser usada para colaborar nos bastidores. Alguns pods a serem incluídos aqui seriam:
-   * Painel de engajamento para monitorar o envolvimento do participante em tempo real. [Clique aqui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para assistir a um vídeo curto sobre como usar o painel Envolvimento.
-   * Pod de chat para permitir conversas privadas entre membros da equipe de apresentação.
-   * Pod de notas para postar mensagens de lembrete, perguntas para o apresentador ou respostas de perguntas padrão que você pode copiar e colar para obter respostas rápidas a consultas comuns.
+  * Painel de engajamento para monitorar o envolvimento do participante em tempo real. [Clique aqui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} para assistir a um vídeo curto sobre como usar o painel Envolvimento.
+  * Pod de chat para permitir conversas privadas entre membros da equipe de apresentação.
+  * Pod de notas para postar mensagens de lembrete, perguntas para o apresentador ou respostas de perguntas padrão que você pode copiar e colar para obter respostas rápidas a consultas comuns.
 
 * Pods personalizados são aplicativos de terceiros que podem ser usados para estender a funcionalidade de uma sala do Adobe Connect. Os Pods personalizados podem ser baixados de `apps.adobeconnect.com` como arquivos .pod ou .zip, que podem ser compartilhados no pod Compartilhar.
-   * Alguns pods personalizados populares são: Tempo de contagem regressiva, Relógio, Tesoura de papel de pedra, Word Cloud, Titler.
-   * [Clique aqui](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para assistir a um pequeno vídeo sobre como usar pods personalizados.
+  * Alguns pods personalizados populares são: Tempo de contagem regressiva, Relógio, Tesoura de papel de pedra, Word Cloud, Titler.
+  * [Clique aqui](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} para assistir a um pequeno vídeo sobre como usar pods personalizados.
 
 **Privacidade: para manter a confidencialidade das informações do participante, verifique as configurações abaixo:**
 
@@ -93,7 +97,7 @@ As práticas recomendadas a seguir podem ajudar a planejar, projetar e produzir 
 
 * **Pod de perguntas e respostas**: o nome do participante que enviou a pergunta e o nome do host/apresentador que respondeu podem estar ocultos. Isso pode ser feito desmarcando as opções de Privacidade na seção &quot;Pod de perguntas e respostas&quot; nas Preferências da sala.
 
-* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
+* **Painel de Chat**: o Painel de Chat é uma área de chat que não faz parte das gravações de sessão. Portanto, se você não quiser que os bate-papos apareçam em gravações, use o Painel de Bate-papo em vez do Pod de Bate-papo. [Clique aqui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} para ler mais sobre como usar o Painel de Bate-papo.
 
 * **Chat Privado**: desative o chat privado para impedir que os participantes possam enviar ping para outro participante. Isso pode ser feito ao desmarcar a opção &quot;Permitir que os participantes conversem de forma privada&quot; na seção &quot;Bate-papo&quot; nas Preferências da sala.
 
@@ -104,8 +108,8 @@ As práticas recomendadas a seguir podem ajudar a planejar, projetar e produzir 
 * Execute algumas execuções secas para testar a configuração de áudio/vídeo e se familiarizar com o Adobe Connect se não o tiver usado antes. Inclua seus apresentadores e coapresentadores também quando ensaiar.
 
 * Peça aos hosts e apresentadores que cheguem pelo menos 30 minutos antes do horário de início e verifique se tudo está funcionando corretamente.
-   * Decida quem moderará os pods de Perguntas e Respostas e Bate-papo.
-   * Preencha as Perguntas e Respostas e os Pods de chat com qualquer pergunta/chat inicial.
+  * Decida quem moderará os pods de Perguntas e Respostas e Bate-papo.
+  * Preencha as Perguntas e Respostas e os Pods de chat com qualquer pergunta/chat inicial.
 
 * Abra os programas que você está compartilhando a tela na janela apropriada e esteja pronto para demonstrar. Evite iniciar e fazer logon em programas enquanto compartilha a tela.
 

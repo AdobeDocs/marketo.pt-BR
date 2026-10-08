@@ -4,16 +4,18 @@ description: Saiba como compartilhar gravações de chamada do Sales Connect com
 title: Compartilhar gravações de chamadas com a sua equipe
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/tXpUxHcMFEmJew6jNl3B-MlvqELIGcicj9bZ-A7ykiM
+TQID: 'https://experienceleague.adobe.com/tXpUxHcMFEmJew6jNl3B-MlvqELIGcicj9bZ-A7ykiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 181
+source-wordcount: '181'
 ht-degree: 6%
-
 ---
-
 # Compartilhar gravações de chamadas com a sua equipe {#share-call-recordings-with-your-team}
 
 O Telefone de Vendas oferece a capacidade de gravar e salvar suas gravações de chamadas. Se quiser compartilhar uma gravação de chamada com outro membro da equipe, há dois lugares para copiar o link.

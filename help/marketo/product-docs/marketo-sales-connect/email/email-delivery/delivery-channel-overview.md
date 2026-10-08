@@ -4,16 +4,18 @@ description: Entenda os canais de entrega no Sales Connect. Saiba como os emails
 title: Visão geral do canal de entrega
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 570
+source-wordcount: '571'
 ht-degree: 1%
-
 ---
-
 # Visão geral do canal de entrega {#delivery-channel-overview}
 
 O Marketo [!DNL Sales Connect] oferece várias opções de entrega de emails. Este artigo analisará os canais de entrega que você pode usar, como selecioná-los e quando escolher um em vez do outro.
@@ -52,7 +54,7 @@ Os servidores MSC não são compatíveis com os métodos de autenticação DKIM 
 
 ## Servidores Marketo {#marketo-servers}
 
-Os servidores de email da Marketo não se integram com o [!DNL Sales Connect]. Os servidores da Marketo são otimizados para entrega em massa para permitir que eles sejam dimensionados de acordo com as necessidades dos profissionais de marketing. No entanto, o Gmail e o [!DNL Exchange] têm uma taxa de sucesso mais alta para 1:1 comunicação de vendas, razão pela qual recomendamos o uso desses servidores para sua comunicação de vendas.
+Os servidores de email da Marketo não se integram com o [!DNL Sales Connect]. Os servidores da Marketo são otimizados para entrega em massa para permitir que eles sejam dimensionados de acordo com as necessidades dos profissionais de marketing. No entanto, o Gmail e o [!DNL Exchange] têm uma taxa de sucesso mais alta para comunicações de vendas 1:1, razão pela qual recomendamos o uso desses servidores para suas comunicações de vendas.
 
 >[!MORELIKETHIS]
 >

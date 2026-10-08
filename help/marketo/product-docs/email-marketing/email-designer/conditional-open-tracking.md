@@ -5,14 +5,28 @@ title: Rastreamento aberto de email condicional
 description: Saiba como configurar o rastreamento condicional de abertura de email usando um campo booleano personalizado para rotear o rastreamento de abertura de email com base no status de consentimento de cada pessoa.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
 ---
 # Rastreamento de abertura de email condicional {#conditional-open-tracking}
 
-Saiba como configurar o Marketo Engage para honrar o consentimento do usuário final para o rastreamento de aberturas de email (pixels), em alinhamento com [várias diretrizes](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=pt){target="_blank"}. A abordagem usa um campo booleano personalizado para determinar qual variante de email uma pessoa recebe, uma com rastreamento aberto ativado ou outra com ele desativado.
+Saiba como configurar o Marketo Engage para honrar o consentimento do usuário final para o rastreamento de aberturas de email (pixels), em alinhamento com [várias diretrizes](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632){target="_blank"}. A abordagem usa um campo booleano personalizado para determinar qual variante de email uma pessoa recebe, uma com rastreamento aberto ativado ou outra com ele desativado.
 
 ## Etapa 1: criar um campo booleano personalizado {#custom-field}
 
@@ -26,7 +40,7 @@ Saiba como configurar o Marketo Engage para honrar o consentimento do usuário f
 
 ## Etapa 2: Preencher o campo de consentimento {#populate}
 
-1. Defina o valor do campo Acompanhamento de pixels de email para cada pessoa por meio da importação de dados (sincronização de API ou [upload de CSV](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Defina o valor do campo Acompanhamento de pixels de email para cada pessoa por meio da importação de dados (sincronização de API ou [upload de CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/open-tracking-3.png)
 
@@ -60,7 +74,7 @@ No Designer Email, a caixa de seleção **Desabilitar rastreamento aberto** pode
 
 ## Etapa 4: configurar a Campanha inteligente {#smart-campaign}
 
-[Crie uma Campanha Inteligente](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} para determinar qual email cada pessoa recebe.
+[Crie uma Campanha Inteligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} para determinar qual email cada pessoa recebe.
 
 1. Na guia _Fluxo_ da Campanha Inteligente, insira a etapa de fluxo **Enviar Email**.
 

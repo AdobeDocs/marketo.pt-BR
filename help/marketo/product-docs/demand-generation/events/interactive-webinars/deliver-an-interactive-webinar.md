@@ -1,23 +1,26 @@
 ---
 description: Saiba como fornecer um Webinário interativo no Marketo. Execute o evento ao vivo e use ferramentas de engajamento para se conectar com os participantes.
-title: Fornecer um webinário interativo
+title: Disponibilização de um webinário interativo
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-TQID: https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo
+TQID: 'https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1198
+source-wordcount: '1198'
 ht-degree: 0%
-
 ---
-
-# Fornecer um webinário interativo {#deliver-an-interactive-webinar}
+# Disponibilização de um webinário interativo {#deliver-an-interactive-webinar}
 
 Seu webinário interativo está pronto para começar. Saiba tudo o que precisa saber sobre como apresentá-lo.
 
@@ -111,7 +114,7 @@ A discussão no Painel de bate-papo não é gravada. O Painel de Bate-papo tamb�
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Saiba mais sobre o [Painel de Chat](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Saiba mais sobre o [Painel de Chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Modo de preparação {#prepare-mode}
 
@@ -134,22 +137,22 @@ Saiba mais sobre o Modo de preparação [neste vídeo](https://www.youtube.com/w
 >[!NOTE]
 >
 >* Quaisquer alterações feitas nos pods ao vivo são refletidas instantaneamente para os participantes.
->* O [Painel de Chat](https://helpx.adobe.com/br/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} não faz parte do modo de Preparação e qualquer alteração nele refletirá instantaneamente para os participantes.
+>* O [Painel de Chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} não faz parte do modo de Preparação e qualquer alteração nele refletirá instantaneamente para os participantes.
 
 ### Acessibilidade {#accessibility}
 
 A Adobe se esforça para incluir apresentadores e participantes com deficiência, melhorando a acessibilidade de Webinars interativos. O software é aprimorado continuamente para atender às necessidades de todos os tipos de usuários e para aderir aos padrões mundiais que incluem indivíduos com deficiências visuais, auditivas, de mobilidade ou outras.
 
-Saiba mais sobre como a Adobe Connect oferece assistência para [necessidades visuais, auditivas e de mobilidade](https://helpx.adobe.com/br/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Saiba mais sobre como a Adobe Connect oferece assistência para [necessidades visuais, auditivas e de mobilidade](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Legendas codificadas {#closed-captions}
 
 As legendas ocultas são uma representação textual do áudio dentro de uma sala de Adobe Connect e ajudam os participantes surdos ou com deficiência auditiva a participar de eventos. É possível integrar legendas em tempo real de conteúdo de áudio em eventos e apresentar essas legendas na exibição de Legendas ocultas.
 
-Saiba como [habilitar legendas ocultas](https://helpx.adobe.com/br/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Saiba como [habilitar legendas ocultas](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
 
 ### Webinários simulados ao vivo {#simulated-live-webinars}
 
 Apresentar webinários pré-gravados como se estivessem ao vivo usando o formato de webinário Simulado ao vivo. Os participantes podem ingressar em um horário agendado e participar da sessão em tempo real, aproveitando recursos interativos como bate-papo, pesquisas e perguntas e respostas. Webinários simulados ao vivo combinam a confiabilidade do conteúdo gravado com a experiência interativa de um evento ao vivo.
 
-Saiba mais sobre [Webinários Simulados ao Vivo](https://helpx.adobe.com/br/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.
+Saiba mais sobre [Webinários Simulados ao Vivo](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}.

@@ -4,18 +4,23 @@ description: Saiba mais sobre como a sincronização de clientes potenciais func
 title: Sincronização do SFDC - Sincronização com o lead
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/zqztwtX4Xe08Df-v1aTxhRi-cB2CZALctr3kaFNrT7s
+TQID: 'https://experienceleague.adobe.com/zqztwtX4Xe08Df-v1aTxhRi-cB2CZALctr3kaFNrT7s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 242
+source-wordcount: '242'
 ht-degree: 2%
-
 ---
-
 # Sincronização do SFDC: sincronização de leads {#sfdc-sync-lead-sync}
 
 O Marketo sincroniza a partir do banco de dados [!DNL Salesforce]. Ele sincroniza, aguarda 5 minutos e sincroniza novamente. O dia todo, todos os dias. Estes são alguns detalhes sobre como a Marketo trata especificamente os clientes em potencial [!DNL Salesforce].

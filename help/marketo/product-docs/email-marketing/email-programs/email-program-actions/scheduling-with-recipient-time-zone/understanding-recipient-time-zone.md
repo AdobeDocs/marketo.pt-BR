@@ -4,18 +4,23 @@ description: Saiba mais sobre a programação de fuso horário do recipient para
 title: Noções básicas sobre o fuso horário do destinatário
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k
+TQID: 'https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '414'
 ht-degree: 2%
-
 ---
-
 # Noções básicas sobre o fuso horário do destinatário {#understanding-recipient-time-zone}
 
 Os programas de email e de engajamento podem ser configurados para entrega de acordo com os fusos horários dos destinatários, eliminando a necessidade de criar vários programas — enviar uma vez e o Marketo retém automaticamente o email até o horário local correto.
@@ -35,7 +40,7 @@ Para acomodar todos os fusos horários, os programas de email agendados com o [!
 
 ## Programas de engajamento {#engagement-programs}
 
-Quando você [agenda uma transmissão de programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) e o [!UICONTROL Fuso Horário do Destinatário] está ativo, a conversão do programa começa a ser executada à meia-noite em UTC +14:00. Nós exigimos que você agende o primeiro elenco de pelo menos 25 horas no futuro (24 horas + algum tempo para começar a campanha) porque as pessoas podem se qualificar para o elenco em todos os fusos horários em todo o mundo. Iniciar o processamento neste horário em UTC +14:00 garante que o email seja enviado na data e hora agendadas para cada pessoa que se qualifica para essa conversão.
+Quando você [agenda uma transmissão de programa de envolvimento](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) e o [!UICONTROL Fuso Horário do Destinatário] está ativo, a conversão do programa começa a ser executada à meia-noite em UTC +14:00. Nós exigimos que você agende o primeiro elenco de pelo menos 25 horas no futuro (24 horas + algum tempo para começar a campanha) porque as pessoas podem se qualificar para o elenco em todos os fusos horários em todo o mundo. Iniciar o processamento neste horário em UTC +14:00 garante que o email seja enviado na data e hora programadas para cada pessoa que se qualifica para essa conversão.
 
 ## Calcular Fuso Horário {#calculating-time-zone}
 
@@ -46,7 +51,7 @@ Nos casos em que temos **somente** País ou **somente** Estado disponível:
 * Para países com três ou menos fusos horários, selecionamos o fuso horário intermediário.
 * Para estados com dois fusos horários, selecionamos o mais antigo dos dois.
 
-Se ainda não for possível determinar o fuso horário de alguém a partir de qualquer combinação desses campos, **não** atribuiremos um fuso horário e o email será enviado com base no fuso horário da sua assinatura do Marketo. Assim, se o seu programa estiver agendado para 9:00am PDT, as pessoas sem fuso horário atribuído receberão o email em 9:00am PDT.
+Se ainda não for possível determinar o fuso horário de alguém a partir de qualquer combinação desses campos, **não** atribuiremos um fuso horário e o email será enviado com base no fuso horário da sua assinatura do Marketo. Assim, se o seu programa estiver programado para o PDT de 9:00, as pessoas sem fuso horário atribuído receberão o email no PDT de 9:00.
 
 >[!NOTE]
 >

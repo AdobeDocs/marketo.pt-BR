@@ -4,18 +4,21 @@ description: Saiba como emitir uma licença do Suplemento de email do Marketo pa
 title: Emitir uma licença do complemento de email do Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/63HpIDuhJ-enhnYjVXsrDoLE6bIbf6h-AMpppovujW8
+TQID: 'https://experienceleague.adobe.com/63HpIDuhJ-enhnYjVXsrDoLE6bIbf6h-AMpppovujW8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 344
+source-wordcount: '344'
 ht-degree: 4%
-
 ---
-
 # Emitir uma licença do complemento de email do Marketo {#issue-a-marketo-email-add-in-license}
 
 Qualquer pessoa que quiser usar o Suplemento de Email do Marketo [!DNL Outlook] deve primeiro receber uma licença. Há duas maneiras de fornecer a licença.

@@ -1,16 +1,23 @@
 ---
 description: Saiba como definir um conjunto fixo de valores para um campo para simplificar o gerenciamento de dados e fluxo de trabalho.
-title: Gerenciamento de Lista de Separação
+title: Gerenciamento de lista de seleção
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
-# Gerenciamento de Lista de Separação {#picklist-management}
+# Gerenciamento de lista de seleção {#picklist-management}
 
 O gerenciamento de lista de opções permite definir um conjunto fixo de valores para um campo para simplificar o gerenciamento de dados e fluxo de trabalho no Marketo Engage. Somente campos não textuais não mapeados para um campo CRM com uma lista de opções definida podem ser gerenciados no Marketo. Se um campo for mapeado para um campo CRM que tenha uma lista de opções definida, os valores desse campo deverão ser definidos no CRM.
 

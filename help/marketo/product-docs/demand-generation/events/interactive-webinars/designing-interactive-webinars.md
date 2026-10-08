@@ -3,23 +3,29 @@ description: Saiba mais sobre como projetar webinários interativos no Marketo. 
 title: Criação de webinários interativos
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/-QrRSSkG0-w5Wfkgd-qESFfKtWdcC053-J-xzKT2Uec
+TQID: 'https://experienceleague.adobe.com/-QrRSSkG0-w5Wfkgd-qESFfKtWdcC053-J-xzKT2Uec'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 602
+source-wordcount: '602'
 ht-degree: 1%
-
 ---
-
 # Criação de webinários interativos {#designing-interactive-webinars}
 
 Saiba como projetar seu webinário para atender às suas necessidades.
@@ -86,9 +92,9 @@ Saiba como projetar seu webinário para atender às suas necessidades.
 
 **Pod**: um componente dentro de um modelo que executa uma atividade específica durante o webinário. Por exemplo, configurar e entregar uma pesquisa para capturar as respostas dos participantes em uma atividade que pode ser preenchida por um pod de pesquisa. Da mesma forma, conversar com os participantes para transmitir uma mensagem ou interagir casualmente com eles pode ser uma atividade entregue por meio do pod de chat. Vários outros pods estão disponíveis, como Compartilhamento, Notas, Vídeo, Chat, Lista de participantes, Arquivos, Links da Web, Pesquisas e Perguntas e respostas.
 
-      **Pod de pesquisa**: permite que os hosts projetem e entreguem formulários de comentários estruturados diretamente em uma sessão em tempo real. O Pod de pesquisa estende os recursos existentes do pod de pesquisa, permitindo que várias perguntas sejam apresentadas juntas, oferecendo uma maneira mais simplificada e coesa de coletar insights dos participantes. [Saiba mais](https://helpx.adobe.com/br/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Pod de pesquisa**: permite que os hosts projetem e entreguem formulários de comentários estruturados diretamente em uma sessão em tempo real. O Pod de pesquisa estende os recursos existentes do pod de pesquisa, permitindo que várias perguntas sejam apresentadas juntas, oferecendo uma maneira mais simplificada e coesa de coletar insights dos participantes. [Saiba mais](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Pod de recursos**: substitui os pods de arquivos e links da Web anteriores, fornecendo uma maneira única e unificada de compartilhar recursos durante as sessões ativas. [Saiba mais](https://helpx.adobe.com/br/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Pod de recursos**: substitui os pods de arquivos e links da Web anteriores, fornecendo uma maneira única e unificada de compartilhar recursos durante as sessões ativas. [Saiba mais](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

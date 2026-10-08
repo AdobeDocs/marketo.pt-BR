@@ -4,19 +4,25 @@ description: Saiba mais sobre o seletor de modelo de email no Editor de email 2.
 title: Visão geral do seletor de modelos de email
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-chlOS7UcjWaNgBhJyHEpfXL4SFnDnZH73tnpn-GZHs
+TQID: 'https://experienceleague.adobe.com/-chlOS7UcjWaNgBhJyHEpfXL4SFnDnZH73tnpn-GZHs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: '290'
 ht-degree: 3%
-
 ---
-
 # Visão geral do seletor de modelos de email {#email-template-picker-overview}
 
 Ao [criar um email](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), você tem vários modelos gratuitos para escolher. Você também pode criar seu próprio modelo e salvá-lo para uso futuro.

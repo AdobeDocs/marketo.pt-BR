@@ -1,19 +1,21 @@
 ---
 unique-page-id: 42762794
 description: Saiba como usar ações em massa no Salesforce Classic com o Sales Connect. Enviar vários clientes em potencial ou contatos para o Sales Connect de uma só vez.
-title: Usando Ações em Massa no  [!DNL Salesforce] Classic
+title: Usando Ações em Massa no [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+TQID: 'https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 376
-ht-degree: 0%
-
+source-wordcount: '377'
+ht-degree: 2%
 ---
-
 # Usando Ações em Massa no [!DNL Salesforce] Classic {#using-bulk-actions-in-salesforce-classic}
 
 Saiba como executar ações em massa, como adicionar leads a uma campanha, enviar um email em massa ou enviar leads de [!DNL Salesforce] para [!DNL Sales Connect].
@@ -39,10 +41,10 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 1. Um email do MSC será exibido. Ele inclui os seguintes recursos:
 
    a) O campo &quot;[!UICONTROL Para]&quot; mostra &quot;[!UICONTROL Todos os Destinatários]&quot; - isso corresponde à lista de clientes potenciais escolhidos na Exibição da Lista de Clientes Potenciais
-b) Esta lista está visível no painel esquerdo chamado &quot;[!UICONTROL Composição em Massa]&quot; - você pode adicionar/remover destinatários aqui
-c) Você pode escolher um modelo ou criar seu próprio email
-d) Você pode visualizar os campos dinâmicos que serão preenchidos no seu email
-e. Você pode enviar o email imediatamente ou agendar o envio mais tarde
+   b) Esta lista está visível no painel esquerdo chamado &quot;[!UICONTROL Composição em Massa]&quot; - você pode adicionar/remover destinatários aqui
+   c) Você pode escolher um modelo ou criar seu próprio email
+   d) Você pode visualizar os campos dinâmicos que serão preenchidos no seu email
+   e. Você pode enviar o email imediatamente ou agendar o envio mais tarde
 
    ![](assets/three-4.png)
 
@@ -60,7 +62,7 @@ e. Você pode enviar o email imediatamente ou agendar o envio mais tarde
 
    ![](assets/six.png)
 
-## Enviar para o Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Enviar por push ao Marketo Sales Connect {#push-to-marketo-sales-connect}
 
 1. Em [!DNL Salesforce], clique na guia **[!UICONTROL Clientes Potenciais]** e, em seguida, no botão **[!UICONTROL Ir]**.
 
