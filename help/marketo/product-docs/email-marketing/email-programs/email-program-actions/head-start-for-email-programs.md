@@ -4,18 +4,23 @@ description: Saiba mais sobre o Head Start para programas de email. Envie para q
 title: Introdução aos programas de email
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4
+TQID: 'https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 430
+source-wordcount: '432'
 ht-degree: 2%
-
 ---
-
 # Introdução aos programas de email {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
@@ -69,7 +74,7 @@ Quando você escolhe uma data/hora para um Programa de email, ela determina quan
 
 ## Início com fuso horário do recipient {#head-start-with-recipient-time-zone}
 
-Nosso recurso Head Start existente exige que o programa seja agendado com pelo menos 12 horas de antecedência. O que isso significa para o Fuso horário do recipient? Lembre-se de que quando o Fuso Horário do Destinatário está ativo, começamos a executar o programa de email à meia-noite no fuso horário mais antigo (UTC +14:00). Portanto, para habilitar **o Head Start e o Fuso Horário do Destinatário**, os programas precisam ser agendados **pelo menos 12 horas antes do fuso horário mais antigo (UTC +14:00**.)
+Nosso recurso Head Start existente exige que o programa seja agendado com pelo menos 12 horas de antecedência. O que isso significa para o Fuso horário do recipient? Lembre-se de que quando o Fuso horário do recipient está ativo, começamos a executar o programa de email à meia-noite no fuso horário mais antigo (UTC +14:00). Portanto, para habilitar **o Head Start e o Fuso Horário do Destinatário**, os programas precisam ser agendados **pelo menos 12 horas antes do fuso horário mais antigo (UTC +14:00**.)
 
 Isso significa que, se você estiver na América/Los Angeles e quiser habilitar o Head Start e o Fuso horário do destinatário, será necessário agendar o programa com **34 horas** de antecedência. Como chegamos a esse número?
 

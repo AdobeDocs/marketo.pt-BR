@@ -4,16 +4,18 @@ description: Saiba como criar uma campanha do Sales Connect com email, chamada, 
 title: Criar uma campanha
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII
+TQID: 'https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 1%
-
 ---
-
 # Criar uma campanha {#create-a-campaign}
 
 Campanhas são uma série de etapas com vários canais que incluem: emails, chamadas telefônicas, InMail e tarefas personalizadas. Eles permitem que você simplifique suas comunicações com seus clientes potenciais e existentes.

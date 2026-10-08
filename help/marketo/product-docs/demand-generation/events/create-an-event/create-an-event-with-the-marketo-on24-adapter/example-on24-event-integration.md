@@ -4,16 +4,18 @@ description: Saiba mais sobre um exemplo de integração de eventos ON24 com o M
 title: Exemplo de integração de evento do ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+TQID: 'https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 398
+source-wordcount: '398'
 ht-degree: 2%
-
 ---
-
 # Exemplo de integração de evento do ON24 {#example-on-event-integration}
 
 Veja a seguir um exemplo de evento, incluindo campanhas, para um webinário ON24. Ao criar o evento, teste as campanhas antes de executá-las.
@@ -49,8 +51,8 @@ Veja a seguir um exemplo de evento, incluindo campanhas, para um webinário ON24
 * **Smart List** - Defina quem você convidará para o evento.
 * **Fluxo**
 
-   * Enviar email - Se esse for um email de ativo local, ele terá a seguinte convenção de nomenclatura: EventName.EmailName. Você também pode usar emails globais.
-   * Alterar status na progressão - Defina como Webinar > Convidado.
+  * Enviar email - Se esse for um email de ativo local, ele terá a seguinte convenção de nomenclatura: EventName.EmailName. Você também pode usar emails globais.
+  * Alterar status na progressão - Defina como Webinar > Convidado.
 
 * **Agendar** - Defina a data para o convite a ser enviado.
 
@@ -58,7 +60,7 @@ Veja a seguir um exemplo de evento, incluindo campanhas, para um webinário ON24
 
 * **Lista Inteligente**
 
-   * Acione a campanha com base no **[!UICONTROL Formulário de Preenchimento]**. Inclua a página de aterrissagem em que o formulário está usando **[!UICONTROL Adicionar restrição]**, especialmente se o formulário for usado em várias páginas de aterrissagem.
+  * Acione a campanha com base no **[!UICONTROL Formulário de Preenchimento]**. Inclua a página de aterrissagem em que o formulário está usando **[!UICONTROL Adicionar restrição]**, especialmente se o formulário for usado em várias páginas de aterrissagem.
 
 >[!CAUTION]
 >
@@ -68,9 +70,9 @@ Veja a seguir um exemplo de evento, incluindo campanhas, para um webinário ON24
 
 * **Fluxo**
 
-   * **Alterar Status na Progressão** - Defina como Webinar > Registrado. **ATENÇÃO**: esta etapa de fluxo é necessária ao configurar sua campanha filho. Quando o status de progressão de uma pessoa é alterado para **Registrada**, o Marketo envia as informações de registro para ON24.
+  * **Alterar Status na Progressão** - Defina como Webinar > Registrado. **ATENÇÃO**: esta etapa de fluxo é necessária ao configurar sua campanha filho. Quando o status de progressão de uma pessoa é alterado para **Registrada**, o Marketo envia as informações de registro para ON24.
 
-   * **Enviar Email** - Email de confirmação (definido como **Operacional** para que as pessoas com assinatura cancelada que se registraram ainda recebam).
+  * **Enviar Email** - Email de confirmação (definido como **Operacional** para que as pessoas com assinatura cancelada que se registraram ainda recebam).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

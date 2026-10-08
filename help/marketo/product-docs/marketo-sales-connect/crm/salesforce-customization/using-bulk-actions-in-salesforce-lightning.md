@@ -4,16 +4,18 @@ description: Saiba como usar ações em massa no Salesforce Lightning com o Sale
 title: Uso de ações em massa no Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+TQID: 'https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '408'
 ht-degree: 2%
-
 ---
-
 # Usando Ações em Massa em [!DNL Salesforce Lightning] {#using-bulk-actions-in-salesforce-lightning}
 
 Saiba como executar ações em massa, como adicionar leads a uma campanha, enviar um email em massa ou enviar leads de [!DNL Salesforce] para [!DNL Sales Connect].
@@ -46,9 +48,9 @@ Saiba como executar ações em massa, como adicionar leads a uma campanha, envia
 1. Um email do MSC será exibido. Ele inclui os seguintes recursos:
 
    a) O campo &quot;[!UICONTROL Para]&quot; mostra &quot;Todos os recibos&quot; - isso corresponde à lista de clientes potenciais escolhidos na Exibição da Lista de Clientes Potenciais
-b) Esta lista está visível no painel esquerdo chamado &quot;Composição em massa&quot; - você pode adicionar/remover destinatários aqui
-c) Você pode escolher um modelo ou criar seu próprio email
-d) Você pode enviar o email imediatamente ou agendar o envio mais tarde
+   b) Esta lista está visível no painel esquerdo chamado &quot;Composição em massa&quot; - você pode adicionar/remover destinatários aqui
+   c) Você pode escolher um modelo ou criar seu próprio email
+   d) Você pode enviar o email imediatamente ou agendar o envio mais tarde
 
    ![](assets/three-5.png)
 

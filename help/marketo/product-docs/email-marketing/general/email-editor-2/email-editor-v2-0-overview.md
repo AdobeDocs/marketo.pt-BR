@@ -4,18 +4,23 @@ description: Saiba mais sobre o Editor de email v2.0 e seus recursos. Crie e edi
 title: Visão geral do Editor de email v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
+TQID: 'https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 72%
-
 ---
-
 # Visão geral do Editor de email v2.0 {#email-editor-v2-overview}
 
 Visão geral do editor de email clássico.

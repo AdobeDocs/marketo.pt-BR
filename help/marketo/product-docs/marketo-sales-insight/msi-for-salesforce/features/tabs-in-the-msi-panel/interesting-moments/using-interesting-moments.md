@@ -4,20 +4,23 @@ description: Saiba como usar momentos interessantes no painel MSI. Exibir e inte
 title: Uso de momentos interessantes
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
+TQID: 'https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 443
+source-wordcount: '443'
 ht-degree: 1%
-
 ---
-
 # Uso de momentos interessantes {#using-interesting-moments}
 
 Momentos interessantes são a chave para se comunicar com sua equipe de vendas por meio do aplicativo [!DNL Marketo Sales Insight].

@@ -4,16 +4,18 @@ description: Automatizar um alerta para possíveis pessoas duplicadas - Document
 title: Automatizar um alerta sobre possíveis pessoas duplicadas
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
+TQID: 'https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 8%
-
 ---
-
 # Automatizar um alerta sobre possíveis pessoas duplicadas {#automate-an-alert-for-possible-duplicate-people}
 
 Deseja receber um alerta sempre que uma pessoa duplicada possível for criada? Veja como configurar uma Campanha inteligente para fazer isso.

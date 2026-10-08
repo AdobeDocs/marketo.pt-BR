@@ -3,16 +3,18 @@ description: Saiba como usar a pesquisa avançada no Centro de comando para loca
 title: Visão geral da pesquisa avançada
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
+TQID: 'https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 445
+source-wordcount: '445'
 ht-degree: 3%
-
 ---
-
 # Visão geral da pesquisa avançada {#advanced-search-overview}
 
 Ao utilizar a pesquisa avançada para direcionar clientes potenciais que visualizaram, clicaram ou responderam a emails, é possível criar uma lista direcionada dos seus clientes potenciais mais envolvidos.

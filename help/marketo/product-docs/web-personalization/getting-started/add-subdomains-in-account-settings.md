@@ -4,21 +4,25 @@ description: Saiba como adicionar subdomínios nas configurações de conta no M
 title: Adicione subdomínios nas configurações de conta
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/QP1rCY6aYKb-CH7cg-SEY39SwPyeDptXoGMx6Y-IvSY
+TQID: 'https://experienceleague.adobe.com/QP1rCY6aYKb-CH7cg-SEY39SwPyeDptXoGMx6Y-IvSY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 8%
-
 ---
-
 # Adicionar Subdomínios em [!UICONTROL Configurações de Conta] {#add-subdomains-in-account-settings}
 
 Veja como adicionar subdomínios aos domínios primários em [!UICONTROL Configurações da conta]. Isso permitirá gerenciar subdomínios relacionados ao RTP Javascript específico do seu domínio primário. É recomendável implantar a tag [!DNL Javascript] em qualquer subdomínio adicionado.

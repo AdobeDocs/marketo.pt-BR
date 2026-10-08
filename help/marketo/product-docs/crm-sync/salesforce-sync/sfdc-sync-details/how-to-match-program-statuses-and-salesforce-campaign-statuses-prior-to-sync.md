@@ -4,20 +4,26 @@ description: Saiba como corresponder os status do programa Marketo com os status
 title: Como fazer a correspondência entre os status do programa e os status de campanha do Salesforce antes da sincronização
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/54XVLabyXlccM45i9yxPRoMqyrCtoDsATu1o1bEy-50
+TQID: 'https://experienceleague.adobe.com/54XVLabyXlccM45i9yxPRoMqyrCtoDsATu1o1bEy-50'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 228
+source-wordcount: '228'
 ht-degree: 5%
-
 ---
-
 # Como fazer a correspondência entre os status do programa e [!DNL Salesforce] status da campanha antes da sincronização {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync}
 
 Este artigo descreve como corrigir um erro de status incompatível e mapear status antes da sincronização do Programa Marketo e do [!DNL Salesforce] Campaign.

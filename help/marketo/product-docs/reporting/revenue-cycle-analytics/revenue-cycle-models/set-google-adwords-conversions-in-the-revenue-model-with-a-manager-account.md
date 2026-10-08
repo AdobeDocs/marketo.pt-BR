@@ -1,16 +1,22 @@
 ---
 unique-page-id: 7504923
-description: Saiba como definir conversões do [ !dnl google adwords] no modelo de receita com uma conta de gerente no Marketo Engage. Use este guia para concluir a próxima etapa.
-title: Definir [!DNL Google AdWords] Conversões no Modelo de Receita com uma Conta de Gerente
+description: Saiba como definir [ !dnl conversões do google adwords] no modelo de receita com uma conta de gerente no Marketo Engage. Use este guia para concluir a próxima etapa.
+title: Definir [!DNL Google AdWords] conversões no modelo de receita com uma conta de gerente
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
-
 ---
-
 # Definir [!DNL Google AdWords] conversões no modelo de receita com uma conta de gerente {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
 Vincule sua conta do [!DNL Google AdWords] ao Marketo para carregar automaticamente dados de conversão offline do Marketo para o [!DNL Google AdWords]. Na interface do usuário do [!DNL AdWords], você poderá ver facilmente quais cliques resultaram em clientes potenciais qualificados, oportunidades e novos clientes (ou quaisquer estágios de receita que você queira rastrear) depois de [adicionar colunas personalizadas](https://support.google.com/adwords/answer/3073556) no [!DNL AdWords].

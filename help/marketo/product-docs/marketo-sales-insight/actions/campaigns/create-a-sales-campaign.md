@@ -3,16 +3,18 @@ description: Saiba como criar uma Campanha de vendas com email, chamada, InMail 
 title: Criar uma campanha de vendas
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8
+TQID: 'https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 333
+source-wordcount: '333'
 ht-degree: 2%
-
 ---
-
 # Criar uma campanha de vendas {#create-a-sales-campaign}
 
 As Campanhas de vendas são uma série de etapas com vários canais que incluem: emails, chamadas telefônicas, InMail e tarefas personalizadas. Eles permitem que você simplifique suas comunicações com seus clientes potenciais e existentes.

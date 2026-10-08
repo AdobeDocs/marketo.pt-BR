@@ -5,18 +5,21 @@ title: SEO - Uso do relatório de tendências de palavra-chave do concorrente
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/VOBeArgGNBHrgFwn-1sT3-paIGwxDYF9yEIHD7JDHwE
+TQID: 'https://experienceleague.adobe.com/VOBeArgGNBHrgFwn-1sT3-paIGwxDYF9yEIHD7JDHwE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Optimization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 302
+source-wordcount: '302'
 ht-degree: 5%
-
 ---
-
 # SEO - Uso do relatório de tendências de palavra-chave do concorrente {#seo-use-the-competitor-kw-trends-report}
 
 Neste relatório, veja como você e seus concorrentes são classificados em palavras-chave ao longo do tempo.

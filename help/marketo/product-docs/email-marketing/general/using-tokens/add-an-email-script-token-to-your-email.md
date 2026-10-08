@@ -4,16 +4,18 @@ description: Saiba como adicionar um token de script de email ao seu email. Insi
 title: Adicionar um token de script de email ao seu email
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM
+TQID: 'https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
-ht-degree: 0%
-
+source-wordcount: '171'
+ht-degree: 15%
 ---
-
 # Adicionar um token de script de email ao seu email {#add-an-email-script-token-to-your-email}
 
 Depois de [criar seu script de email](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), você desejará adicioná-lo a um email para vê-lo em ação. Veja como.
@@ -22,7 +24,7 @@ Depois de [criar seu script de email](/help/marketo/product-docs/email-marketing
 >
 >O tamanho total de todos os tokens de script inseridos em um único email não pode exceder 100KB.
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one-2.png)
 

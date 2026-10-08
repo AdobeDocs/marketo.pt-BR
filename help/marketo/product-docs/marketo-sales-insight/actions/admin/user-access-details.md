@@ -3,19 +3,22 @@ description: Entenda o que administradores e não administradores podem acessar 
 title: Detalhes de acesso do usuário
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc
+TQID: 'https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 221
+source-wordcount: '221'
 ht-degree: 2%
-
 ---
-
 # Detalhes de acesso do usuário {#user-access-details}
 
 A que administradores e não administradores têm acesso?
@@ -48,24 +51,24 @@ Os administradores podem interromper as campanhas em nome dos usuários.
 
 * Analytics:
 
-   * Os usuários podem ver a análise de equipe
-   * Os usuários podem detalhar apenas as equipes às quais pertencem
-   * Os usuários podem examinar suas próprias análises
+  * Os usuários podem ver a análise de equipe
+  * Os usuários podem detalhar apenas as equipes às quais pertencem
+  * Os usuários podem examinar suas próprias análises
 
 * Página [!UICONTROL Pessoas]:
 
-   * Os usuários podem compartilhar grupos com todos
-   * Os usuários podem compartilhar grupos apenas com as equipes às quais pertencem
-   * Os usuários terão visibilidade de todas as pessoas em seu banco de dados de Ações
-   * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador principal que excluiu o usuário
+  * Os usuários podem compartilhar grupos com todos
+  * Os usuários podem compartilhar grupos apenas com as equipes às quais pertencem
+  * Os usuários terão visibilidade de todas as pessoas em seu banco de dados de Ações
+  * Quando um usuário é excluído, seus contatos compartilhados transferem a propriedade para o Administrador principal que excluiu o usuário
 
 * Página de Gerenciamento da [!UICONTROL Equipe]:
 
-   * Não é possível exibir
+  * Não é possível exibir
 
 * [!UICONTROL Modelos] Página:
 
-   * Os usuários podem compartilhar modelos com todos
-   * Os usuários podem compartilhar modelos em categorias que os administradores permitem
-   * Quando um usuário é removido de uma equipe, seus modelos não são compartilhados com essa equipe
-   * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador principal que excluiu o usuário
+  * Os usuários podem compartilhar modelos com todos
+  * Os usuários podem compartilhar modelos em categorias que os administradores permitem
+  * Quando um usuário é removido de uma equipe, seus modelos não são compartilhados com essa equipe
+  * Quando um usuário é excluído de uma equipe, seus modelos transferem a propriedade para o Administrador principal que excluiu o usuário

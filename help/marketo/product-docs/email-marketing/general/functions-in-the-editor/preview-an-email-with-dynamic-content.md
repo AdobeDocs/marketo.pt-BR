@@ -4,16 +4,21 @@ description: Saiba como visualizar emails com conteúdo dinâmico. Veja como as 
 title: Pré-visualizar um email com conteúdo dinâmico
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto
+TQID: 'https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 124
+source-wordcount: '124'
 ht-degree: 10%
-
 ---
-
 # Pré-visualizar um email com conteúdo dinâmico {#preview-an-email-with-dynamic-content}
 
 Pré-visualize o email depois de adicionar conteúdo dinâmico para verificá-lo.

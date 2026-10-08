@@ -2,15 +2,16 @@
 unique-page-id: 11387674
 description: Atualizações na terminologia do Marketo - Documentos do Marketo - Documentação do produto
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 title: Atualizações na terminologia do Marketo
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
-
 ---
-
 # Atualizações na terminologia do Marketo {#updates-to-marketo-terminology}
 
 Estamos fazendo algumas alterações em nossa plataforma, o que alterará o nome de algumas coisas. Se você adquiriu uma nova instância do Marketo a partir de março de 2016, ou se sua empresa renovou após julho de 2016, você pode estar vendo a nova terminologia agora.

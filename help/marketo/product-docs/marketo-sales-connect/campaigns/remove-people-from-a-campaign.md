@@ -4,16 +4,18 @@ description: Saiba como remover pessoas de uma campanha do Sales Connect. Remova
 title: Remover pessoas de uma campanha
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4
+TQID: 'https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 286
+source-wordcount: '286'
 ht-degree: 3%
-
 ---
-
 # Remover pessoas de uma campanha {#remove-people-from-a-campaign}
 
 Você pode encerrar uma campanha automaticamente quando um recipient responder. Além disso, você pode optar por marcar a Campanha como um &quot;sucesso&quot; para esse recipient.

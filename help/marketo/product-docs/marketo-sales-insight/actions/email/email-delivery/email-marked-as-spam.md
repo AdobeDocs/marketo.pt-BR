@@ -1,13 +1,14 @@
 ---
 description: Obtenha ajuda quando os emails de vendas forem marcados como spam. Saiba mais sobre as causas e as etapas para melhorar a capacidade de entrega e evitar filtros de spam.
 title: Email marcado como spam
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
-
 ---
-
 # Email marcado como spam {#email-marked-as-spam}
 
 Como empresa, trabalhamos arduamente para garantir que nossas taxas de capacidade de delivery permaneçam altas. Ainda assim, há determinados comportamentos e configurações de usuário que podem acionar o roteamento de emails enviados para a pasta de spam.

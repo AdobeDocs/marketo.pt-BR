@@ -3,16 +3,18 @@ description: Saiba como conceder acesso ao Sales Connect a usuários do Marketo.
 title: Conceder acesso a usuários
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA
+TQID: 'https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '205'
 ht-degree: 3%
-
 ---
-
 # Conceder acesso a usuários {#granting-access-to-users}
 
 Siga as etapas deste artigo para conceder aos usuários do [!DNL Sales Connect] acesso à conexão do Marketo. Isso desbloqueará recursos como Momentos interessantes no Feed ao vivo e acesso a Campanhas de marketing.

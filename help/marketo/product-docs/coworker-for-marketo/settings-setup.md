@@ -1,13 +1,14 @@
 ---
 description: Saiba como habilitar o Colaborador para permissões do Marketo Engage, definir regras organizacionais e gerenciar configurações como integrações e notificações.
 title: Configurações e configuração
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 3%
-
 ---
-
 # Configurações e configuração {#settings-setup}
 
 Saiba como habilitar permissões e usar a área Configurações para exibir detalhes de conexão, definir regras organizacionais e configurar integrações e notificações.

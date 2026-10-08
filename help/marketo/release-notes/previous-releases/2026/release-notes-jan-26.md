@@ -3,13 +3,20 @@ description: Notas de versão - Janeiro de 2026 - Documentação do Marketo - Do
 title: Notas de versão - Janeiro de 2026
 feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 25%
-
 ---
-
 # Notas de versão: janeiro de 2026 {#release-notes-jan-26}
 
 Abaixo você encontrará todos os recursos incluídos na versão de janeiro de 2026. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.

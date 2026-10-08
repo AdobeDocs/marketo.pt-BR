@@ -6,24 +6,33 @@ description: Saiba como adicionar CSS personalizado ao conteúdo de email no Des
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-TQID: https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k
+TQID: 'https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 625
+source-wordcount: '625'
 ht-degree: 4%
-
 ---
-
 # Adicionar CSS personalizado ao conteúdo do email {#custom-css}
 
 Adicione seu próprio CSS personalizado diretamente no Designer de email do Marketo Engage para obter um estilo avançado e específico.
@@ -241,19 +250,19 @@ Se o CSS personalizado não for aplicado, tente as sugestões abaixo.
 
 * Certifique-se de que o CSS não seja substituído por outras regras CSS.
 
-   * Use as ferramentas de desenvolvedor do navegador para inspecionar o conteúdo e verificar se o CSS está direcionando os seletores corretos.
+  * Use as ferramentas de desenvolvedor do navegador para inspecionar o conteúdo e verificar se o CSS está direcionando os seletores corretos.
 
-   * Considere adicionar `!important` às suas declarações para garantir que elas tenham prioridade.
+  * Considere adicionar `!important` às suas declarações para garantir que elas tenham prioridade.
 
-     +++ Por exemplo:
+    +++ Por exemplo:
 
-     ```css
-     .acr-Form {
-       background: red !important;
-     }
-     ```
+    ```css
+    .acr-Form {
+      background: red !important;
+    }
+    ```
 
-     +++
+    +++
 
 >[!NOTE]
 >

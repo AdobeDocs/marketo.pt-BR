@@ -3,29 +3,40 @@ description: Notas de versão - outubro de 2024 - Documentação do Marketo - Do
 title: Notas de versão - Outubro de 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-TQID: https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk
+TQID: 'https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '575'
 ht-degree: 20%
-
 ---
-
 # Notas de versão: outubro de 2024 {#release-notes-oct-24}
 
 Abaixo você encontrará todos os recursos incluídos na versão de outubro de 2024. Verifique a edição do Adobe Marketo Engage quanto à disponibilidade de recursos.
@@ -114,6 +125,6 @@ Os seguintes recursos se enquadram no ciclo de lançamento padrão e começarão
 
 * **Alterações no Munchkin**
 
-   * **Nova Versão**: em 17 de setembro de 2024, o [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 começará a ser implantado em instâncias do Marketo Engage que têm a configuração &quot;Munchkin Beta&quot; habilitada em **Admin** > **Treasure Chest**. Ele está programado para começar a implantação em todas as outras instâncias em 29 de outubro. Esta versão atualiza a criação do cookie do Munchkin. Não há alterações na funcionalidade.
+  * **Nova Versão**: em 17 de setembro de 2024, o [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 começará a ser implantado em instâncias do Marketo Engage que têm a configuração &quot;Munchkin Beta&quot; habilitada em **Admin** > **Treasure Chest**. Ele está programado para começar a implantação em todas as outras instâncias em 29 de outubro. Esta versão atualiza a criação do cookie do Munchkin. Não há alterações na funcionalidade.
 
-   * **Caracteres da URL Removidos**: as atividades &quot;Visitas da página da Web&quot; e &quot;Link de cliques&quot; criadas pelo Munchkin JS agora removerão caracteres de controle não codificados por URL de todos os campos de URL. Essa alteração foi projetada para evitar erros relacionados à propagação desses tipos de caracteres em sistemas que não oferecem suporte a eles e não têm um uso válido no Marketo Engage.
+  * **Caracteres da URL Removidos**: as atividades &quot;Visitas da página da Web&quot; e &quot;Link de cliques&quot; criadas pelo Munchkin JS agora removerão caracteres de controle não codificados por URL de todos os campos de URL. Essa alteração foi projetada para evitar erros relacionados à propagação desses tipos de caracteres em sistemas que não oferecem suporte a eles e não têm um uso válido no Marketo Engage.

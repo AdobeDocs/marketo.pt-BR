@@ -4,13 +4,20 @@ description: Remova o conteúdo padrão para cancelar a inscrição do email do 
 title: Remover texto de cancelamento de inscrição
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 9c4f0d0a43d3ef06132d827b605b9e42de712e22
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 7%
-
 ---
-
 # Remover texto de cancelamento de inscrição {#remove-unsubscribe-text}
 
 A única razão pela qual você deve remover completamente o conteúdo de cancelamento de inscrição da área **[!UICONTROL Administrador]** > **[!UICONTROL Email]** é se você optar por criar o link de cancelamento de inscrição nos próprios modelos de email. A caixa de texto tem uma validação que não permite salvar sem conteúdo. Você pode contornar isso adicionando um pequeno comentário do HTML. O comentário do HTML não será exibido no cliente de email, pois está renderizando o email no HTML e os comentários são omitidos.

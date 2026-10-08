@@ -3,20 +3,23 @@ description: Entender os acionadores e filtros da atividade de vendas no Marketo
 title: Acionadores e filtros de atividades de vendas
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/wD8xySpus1p0Pg6JEFoaVTx04JT-H653H65QrZkpfqM
+TQID: 'https://experienceleague.adobe.com/wD8xySpus1p0Pg6JEFoaVTx04JT-H653H65QrZkpfqM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 127
+source-wordcount: '127'
 ht-degree: 7%
-
 ---
-
 # Acionadores e filtros de atividades de vendas {#sales-activity-triggers-and-filters}
 
 Se você estiver procurando coordenar melhor o envolvimento com sua equipe de vendas ou tentar obter uma visão melhor de como eles estão se envolvendo com clientes na jornada do comprador, os insights da atividade de vendas no Marketo serão úteis para você.

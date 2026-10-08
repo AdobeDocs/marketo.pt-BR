@@ -1,24 +1,28 @@
 ---
 unique-page-id: 10100636
 description: Saiba como adicionar e personalizar imagens na mensagem no aplicativo. Selecione no Design Studio, defina o ajuste, a borda e toque nas ações por plataforma.
-title: Adicionar imagens de mensagens no aplicativo
+title: Adicionar imagens em mensagens no aplicativo
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/wKrIxk7qDv37Iza7jA1ORfA16eQlPkP-JtXBWlFcnLs
+TQID: 'https://experienceleague.adobe.com/wKrIxk7qDv37Iza7jA1ORfA16eQlPkP-JtXBWlFcnLs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 371
-ht-degree: 0%
-
+source-wordcount: '371'
+ht-degree: 3%
 ---
-
-# Adicionar imagens de mensagens no aplicativo {#add-in-app-message-images}
+# Adicionar imagens em mensagens no aplicativo {#add-in-app-message-images}
 
 Aqui você escolhe e personaliza suas imagens de mensagens no aplicativo.
 
@@ -94,7 +98,7 @@ Aqui você escolhe e personaliza suas imagens de mensagens no aplicativo.
    >
    >Para ações de toque para imagens, botões ou planos de fundo, é possível configurar diferentes ações para plataformas Apple e Android. Por exemplo, os deep links são tratados de forma diferente para o Apple e o Android. Se a sua mensagem vai para apenas uma plataforma ou outra, deixe a outra na configuração padrão ou selecione **[!UICONTROL Nenhum]**.
 
-Ótimo trabalho! Agora, é hora de [criar o texto para a mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+Ótimo! Agora, é hora de [criar o texto para a mensagem no aplicativo](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,21 @@ description: Saiba como criar um email somente texto no Marketo. Use a versão d
 title: Criar um email somente texto
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/OlNi-FopG6C47vSuyi1JEMX5uoOl8aP9ba66AQicMLo
+TQID: 'https://experienceleague.adobe.com/OlNi-FopG6C47vSuyi1JEMX5uoOl8aP9ba66AQicMLo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 203
-ht-degree: 0%
-
+source-wordcount: '203'
+ht-degree: 8%
 ---
-
 # Criar um email somente texto {#create-a-text-only-email}
 
 Se você quiser enviar somente emails de texto, veja como criar um email que será enviado sem nenhum conteúdo do HTML.
@@ -22,7 +27,7 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
 >
 >Como as aberturas são rastreadas pelo destinatário que está baixando as imagens do email (o que inclui um pixel de rastreamento invisível), as aberturas **não** podem ser rastreadas para emails Somente texto.
 
-1. Vá para a área **[!UICONTROL Atividades de marketing]**.
+1. Acesse a área **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/one-1.png)
 
@@ -30,7 +35,7 @@ Se você quiser enviar somente emails de texto, veja como criar um email que ser
 
    ![](assets/two-1.png)
 
-1. Selecione **[!UICONTROL Email]**.
+1. Selecione **[!UICONTROL Email]**.
 
    ![](assets/three-1.png)
 

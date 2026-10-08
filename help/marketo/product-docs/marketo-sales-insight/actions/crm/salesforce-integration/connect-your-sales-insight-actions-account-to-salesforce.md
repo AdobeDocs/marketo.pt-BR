@@ -3,16 +3,18 @@ description: Saiba como conectar sua conta de Ações do Sales Insight ao Salesf
 title: Conectar sua conta do recurso Ações de insight de vendas ao Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/C8GZBofPcwE9Jo2dxCnF4A-EoRaEq1194A9k06ww4CY
+TQID: 'https://experienceleague.adobe.com/C8GZBofPcwE9Jo2dxCnF4A-EoRaEq1194A9k06ww4CY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 132
+source-wordcount: '132'
 ht-degree: 9%
-
 ---
-
 # Conectar sua Conta do [!DNL Sales Insight Actions] ao [!DNL Salesforce] {#connect-your-sales-insight-actions-account-to-salesforce}
 
 Siga estas etapas simples para conectar a conta do [!DNL Sales Insight Actions] ao [!DNL Salesforce].

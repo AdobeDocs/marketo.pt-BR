@@ -4,16 +4,18 @@ description: Saiba mais sobre o Centro de comando em Sales Connect. Gerencie tar
 title: Visão geral do Centro de comando
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+TQID: 'https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 595
+source-wordcount: '595'
 ht-degree: 1%
-
 ---
-
 # Visão geral do Centro de comando {#command-center-overview}
 
 O Centro de recomendações é uma visualização única e unificada que ajuda você a descobrir o próximo passo e, ao mesmo tempo, garantir que nada caia pelas rachaduras.

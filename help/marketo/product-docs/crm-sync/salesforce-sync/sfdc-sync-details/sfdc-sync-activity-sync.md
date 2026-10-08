@@ -4,16 +4,21 @@ description: Saiba mais sobre como as atividades e tarefas do Salesforce são si
 title: SFDC Sync - Sincronização de atividades
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/N-pw1q0NXaJGKW1J1R4iqhgXhA42sX5nP0OWPXCuaBc
+TQID: 'https://experienceleague.adobe.com/N-pw1q0NXaJGKW1J1R4iqhgXhA42sX5nP0OWPXCuaBc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '175'
 ht-degree: 6%
-
 ---
-
 # Sincronização do SFDC: sincronização de atividade {#sfdc-sync-activity-sync}
 
 O Marketo também sincroniza os dados das atividades [!DNL Salesforce]. Aqui estão algumas perguntas e respostas.

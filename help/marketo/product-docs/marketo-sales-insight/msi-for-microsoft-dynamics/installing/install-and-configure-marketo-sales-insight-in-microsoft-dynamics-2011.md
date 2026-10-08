@@ -1,25 +1,30 @@
 ---
 unique-page-id: 3571735
 description: Saiba como instalar e configurar o Marketo Sales Insight no Microsoft Dynamics 2011. Adicione a solução e conclua a configuração.
-title: Instalar e configurar o Marketo Sales Insight no Microsoft Dynamics 2011
+title: Instalar e configurar o Insight de vendas do Marketo no Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/Ciiqs6Riit-3mjnqPzxzIxaBukPBFuqq0G9HSZqIObc
+TQID: 'https://experienceleague.adobe.com/Ciiqs6Riit-3mjnqPzxzIxaBukPBFuqq0G9HSZqIObc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 370
-ht-degree: 0%
-
+source-wordcount: '370'
+ht-degree: 7%
 ---
-
 # Instalar e Configurar o [!DNL Marketo Sales Insight] no [!DNL Microsoft Dynamics 2011] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de vendas. Esta é a instrução passo a passo de como instalá-lo e configurá-lo no [!DNL Microsoft Dynamics 2011] no Local.
@@ -48,7 +53,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de 
    >
    >Você já deve ter [instalado e configurado](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) a solução da Marketo antes de prosseguir.
 
-1. Clique em **[!UICONTROL Procurar]**. Selecione a solução [!DNL Marketo Sales Insight] que você [baixou](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Clique em **[!UICONTROL Avançar]**.
+1. Clique em **[!UICONTROL Procurar]**. Selecione a solução [!DNL Marketo Sales Insight] que você [baixou](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -56,7 +61,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de 
 
    ![](assets/image2015-5-4-10-3a57-3a31.png)
 
-1. Verifique se a opção de mensagem do SDK está marcada. Clique em **[!UICONTROL Avançar]**.
+1. Verifique se a opção de mensagem do SDK está marcada. Clique em **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-11-3a43-3a37.png)
 
@@ -80,7 +85,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de 
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 1. Faça logon no Marketo e clique em **[!UICONTROL Admin]**.
 
@@ -103,7 +108,7 @@ O [!DNL Marketo Sales Insight] é uma ferramenta fantástica para sua equipe de 
    >Os seguintes campos devem ser sincronizados com o Marketo para que _o cliente potencial e o contato_ funcionem:
    >
    >* Prioridade
-   >* Urgente
+   >* Urgência
    >* Pontuação relativa
    >
    >Se algum desses campos estiver ausente, você verá uma mensagem de erro no Marketo com o nome dos campos ausentes. Para corrigir isso, execute [este procedimento](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).

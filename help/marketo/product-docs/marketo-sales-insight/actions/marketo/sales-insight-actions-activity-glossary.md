@@ -3,18 +3,20 @@ description: Saiba mais sobre os tipos de atividade e termos das Ações do Sale
 title: Glossário de atividades das Ações de insight de vendas
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs
+TQID: 'https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 609
+source-wordcount: '609'
 ht-degree: 4%
-
 ---
-
 # Glossário de atividades de [!DNL Sales Insight Actions] {#sales-insight-actions-activity-glossary}
 
 Em [!DNL Sales Insight Actions], quando um vendedor: adiciona um cliente potencial a uma campanha de vendas, envia um email de vendas ou faz uma chamada de vendas de saída, ele será registrado no histórico de atividades de Marketo desse cliente potencial. Além disso, quando o lead interage com emails, abre, clica e responde, ele também é registrado.

@@ -4,16 +4,21 @@ description: Saiba mais sobre como a sincronização de clientes potenciais func
 title: Microsoft Dynamics Sync - Sincronização de clientes em potencial
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/BB-28aHosrt72difKAr7vgYqdI8a9ts0aOSnbWJzbw8
+TQID: 'https://experienceleague.adobe.com/BB-28aHosrt72difKAr7vgYqdI8a9ts0aOSnbWJzbw8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: '309'
 ht-degree: 0%
-
 ---
-
 # Sincronização de [!DNL Microsoft Dynamics]: Sincronização de Cliente Potencial {#microsoft-dynamics-sync-lead-sync}
 
 A sincronização do Marketo com o [!DNL Dynamics] é poderosa. Veja os detalhes:

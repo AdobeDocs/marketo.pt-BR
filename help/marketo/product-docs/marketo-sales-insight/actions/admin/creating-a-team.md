@@ -3,18 +3,20 @@ description: Saiba como criar uma equipe em Ações do Sales Insight para compar
 title: Criação de uma equipe
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/y6f35evMs8HMMubGKhJs-oeMgtGWujkQSFydWp7t0aU
+TQID: 'https://experienceleague.adobe.com/y6f35evMs8HMMubGKhJs-oeMgtGWujkQSFydWp7t0aU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 4%
-
 ---
-
 # Criação de uma equipe {#creating-a-team}
 
 A criação de uma equipe permite reunir um grupo de usuários com os quais o conteúdo pode ser compartilhado e os relatórios podem ser filtrados.

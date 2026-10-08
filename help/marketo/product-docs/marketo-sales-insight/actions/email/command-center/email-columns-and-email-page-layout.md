@@ -3,18 +3,20 @@ description: Entenda as colunas de email e o layout da página no Centro de coma
 title: Colunas de email e layout da página de email
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw
+TQID: 'https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 548
+source-wordcount: '548'
 ht-degree: 2%
-
 ---
-
 # Colunas de email e layout da página de email {#email-columns-and-email-page-layout}
 
 Você pode configurar qualquer uma das colunas disponíveis para serem visíveis na seção de email do [Centro de comando](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Suas configurações serão salvas para cada subpasta de email (por exemplo, Entregue, Com falha, Agendado etc.).

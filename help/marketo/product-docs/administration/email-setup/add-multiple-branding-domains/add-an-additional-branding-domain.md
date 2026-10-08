@@ -4,21 +4,26 @@ description: Adicione domínios de marca extras para várias marcas em uma inst�
 title: Adicionar um novo domínio de marca
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
+TQID: 'https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 707
+source-wordcount: '707'
 ht-degree: 20%
-
 ---
-
 # Adicionar um novo domínio de marca {#add-an-additional-branding-domain}
 
 Adicione outro domínio de marca ao executar várias marcas em uma única instância do Marketo e quiser que cada uma tenha seus próprios links de rastreamento de marca.

@@ -1,29 +1,33 @@
 ---
 unique-page-id: 2360301
 description: Saiba como definir campos de pontuação para estrelas e chamas no Sales Insight. Mapeie os campos de pontuação do Marketo para a exibição do MSI no Salesforce.
-title: Definir campos de pontuação a serem usados para estrelas e chamas no Sales Insight
+title: Definir campos de pontuação a serem usados para estrelas e chamas no Insight de vendas
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/ShowS2zjGEHvU9BRJNIlX6XdY127funYi-sjsE9YTNU
+TQID: 'https://experienceleague.adobe.com/ShowS2zjGEHvU9BRJNIlX6XdY127funYi-sjsE9YTNU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 0%
-
+source-wordcount: '169'
+ht-degree: 10%
 ---
-
 # Definir campos de pontuação a serem usados para [!UICONTROL Estrelas] e [!UICONTROL Chamas] em [!DNL Sales Insight] {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 Por padrão, [!DNL Marketo Sales Insight] usa o campo **[!UICONTROL Pontuação do lead]** para calcular estrelas e chamas. Mas se você quiser escolher um campo diferente, veja como:
 

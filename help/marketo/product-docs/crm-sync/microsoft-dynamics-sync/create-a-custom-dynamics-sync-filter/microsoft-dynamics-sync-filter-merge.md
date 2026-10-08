@@ -4,16 +4,21 @@ description: Entenda como o filtro de sincronização do Dynamics funciona ao me
 title: Filtro de sincronização Microsoft Dynamics - Mesclar
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/wxPBvOQk4SW8gocZOGfagAMAG4OH9ghTqhh0lVRGI-U
+TQID: 'https://experienceleague.adobe.com/wxPBvOQk4SW8gocZOGfagAMAG4OH9ghTqhh0lVRGI-U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 0%
-
 ---
-
 # Filtro de Sincronização do Dynamics [!DNL Microsoft]: Mesclar {#microsoft-dynamics-sync-filter-merge}
 
 A mesclagem de clientes potenciais em [!DNL Microsoft Dynamics] usa o tipo de Duas Opções - Filtro de sincronização = Sim (TRUE) e Filtro de sincronização = Não (FALSE). Quando você mescla dois registros, o resultado varia, dependendo de qual registro é True e qual é False.

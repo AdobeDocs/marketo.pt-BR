@@ -6,24 +6,33 @@ description: Saiba como bloquear conteúdo em modelos de email para que outras p
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Governance
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 909
-ht-degree: 0%
-
+source-wordcount: '909'
+ht-degree: 9%
 ---
-
 # Bloquear conteúdo em modelos de email {#lock-content-email-templates}
 
 O Marketo Engage permite bloquear o conteúdo em modelos de email, bloqueando todo o modelo ou estruturas/componentes específicos. Isso permite evitar edições ou exclusões não intencionais, dando a você maior controle sobre a personalização do modelo e melhorando a eficiência e a confiabilidade de suas campanhas de email.
@@ -36,15 +45,15 @@ O bloqueio de conteúdo pode ser aplicado no nível **estrutura** ou no nível *
 
 * Quando uma estrutura está bloqueada:
 
-   * Todo o conteúdo dentro dessa estrutura também está bloqueado.
-   * Nenhum conteúdo pode ser adicionado à estrutura.
-   * Por padrão, não é possível excluir a estrutura. É possível substituir essa restrição ativando a opção &quot;Permitir exclusão&quot;.
-   * Componentes de conteúdo individuais dentro da estrutura bloqueada podem ser definidos como editáveis.
+  * Todo o conteúdo dentro dessa estrutura também está bloqueado.
+  * Nenhum conteúdo pode ser adicionado à estrutura.
+  * Por padrão, não é possível excluir a estrutura. É possível substituir essa restrição ativando a opção &quot;Permitir exclusão&quot;.
+  * Componentes de conteúdo individuais dentro da estrutura bloqueada podem ser definidos como editáveis.
 
 * Quando uma estrutura é editável (estrutura não bloqueada):
 
-   * Os componentes de conteúdo individuais podem ser bloqueados dentro dessa estrutura.
-   * Por padrão, não é possível excluir um componente se ele estiver bloqueado ou se a opção &quot;Somente bloqueio de conteúdo editável&quot; estiver selecionada. É possível substituir essa restrição ativando a opção &quot;Permitir exclusão&quot;.
+  * Os componentes de conteúdo individuais podem ser bloqueados dentro dessa estrutura.
+  * Por padrão, não é possível excluir um componente se ele estiver bloqueado ou se a opção &quot;Somente bloqueio de conteúdo editável&quot; estiver selecionada. É possível substituir essa restrição ativando a opção &quot;Permitir exclusão&quot;.
 
 ## Bloquear um modelo de email {#lock-an-email-template}
 
@@ -92,7 +101,7 @@ Para bloquear uma estrutura no modelo:
 
    >[!NOTE]
    >
-   >Por padrão, os usuários não podem excluir estruturas bloqueadas. Você pode substituir essa restrição habilitando a opção **[!UICONTROL Permitir exclusão]**.
+   >Por padrão, os usuários não podem excluir estruturas bloqueadas. Você pode anular essa restrição habilitando a opção **[!UICONTROL Permitir exclusão]**.
 
 Depois de bloquear uma estrutura, nenhum componente ou fragmento de conteúdo adicional pode ser duplicado ou adicionado dentro dela. Todos os componentes em uma estrutura bloqueada também são bloqueados por padrão. Para tornar um componente editável em uma estrutura bloqueada:
 

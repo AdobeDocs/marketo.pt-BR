@@ -3,16 +3,21 @@ description: Saiba mais sobre o mapeamento de campos padrão do Microsoft Dynami
 title: Mapeamento de campos padrão do Dynamics
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+TQID: 'https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1052
+source-wordcount: '1052'
 ht-degree: 3%
-
 ---
-
 # Mapeamento de campos padrão do Dynamics {#default-dynamics-field-mapping}
 
 Inicialmente, ao sincronizar sua conta do Marketo Engage com o Microsoft, o Marketo faz automaticamente essas associações entre seus campos integrados do Dynamics e do Marketo.  O Marketo também sincronizará seus campos personalizados em clientes potenciais, contas, oportunidades e contatos.

@@ -3,18 +3,20 @@ description: Saiba como ativar o bloqueio de conteúdo para impedir que não adm
 title: Bloqueio de conteúdo
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/dueq3UYTwELtkQRP0BN7b81GpVEG8DWPi4elIfqWNJo
+TQID: 'https://experienceleague.adobe.com/dueq3UYTwELtkQRP0BN7b81GpVEG8DWPi4elIfqWNJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 110
+source-wordcount: '110'
 ht-degree: 3%
-
 ---
-
 # Bloqueio de conteúdo {#content-lockdown}
 
 Ao ativar o bloqueio de conteúdo, impeça que usuários não administradores editem modelos e/ou campanhas. Os usuários não poderão: compartilhar, clonar, editar ou excluir conteúdo. Eles também não terão a opção de arquivar modelos.

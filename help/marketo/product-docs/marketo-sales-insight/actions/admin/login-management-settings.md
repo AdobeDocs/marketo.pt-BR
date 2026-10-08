@@ -3,16 +3,18 @@ description: Saiba mais sobre as configurações de gerenciamento de logon para 
 title: Configurações de gerenciamento de logon
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk
+TQID: 'https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 466
-ht-degree: 0%
-
+source-wordcount: '466'
+ht-degree: 2%
 ---
-
 # Configurações de gerenciamento de logon {#login-management-settings}
 
 As configurações do Gerenciamento de logon permitem que os administradores definam as preferências de autenticação para usuários das Ações do Sales Insight em nível global.
@@ -37,7 +39,7 @@ Para atualizar suas preferências de gerenciamento de logon, siga estas etapas.
 
    ![](assets/login-management-settings-2.png)
 
-1. Role para baixo até o cartão [!UICONTROL Gerenciamento de logon] e selecione a configuração desejada (neste exemplo, estamos escolhendo Somente Salesforce). Clique em **[!UICONTROL Salvar]** ao concluir.
+1. Role para baixo até o cartão [!UICONTROL Gerenciamento de logon] e selecione a configuração desejada (neste exemplo, estamos escolhendo Somente Salesforce). Clique em **[!UICONTROL Salvar]** quando terminar.
 
    ![](assets/login-management-settings-3.png)
 

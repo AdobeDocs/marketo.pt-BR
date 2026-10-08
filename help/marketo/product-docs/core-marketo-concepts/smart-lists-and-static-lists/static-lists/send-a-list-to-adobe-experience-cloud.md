@@ -1,25 +1,30 @@
 ---
 unique-page-id: 37356194
-description: Saiba como enviar uma lista para o Adobe Experience Cloud. Compartilhar a associação à lista da Marketo com a Experience Platform ou outras soluções.
+description: Saiba como enviar uma lista para a Adobe Experience Cloud. Compartilhar a associação à lista da Marketo com a Experience Platform ou outras soluções.
 title: Enviar uma lista para a Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+TQID: 'https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 847
+source-wordcount: '847'
 ht-degree: 3%
-
 ---
-
 # Enviar uma lista para a Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
@@ -41,9 +46,9 @@ ht-degree: 3%
 
 ## Como enviar uma lista estática {#how-to-send-a-static-list}
 
-Uma lista estática é estática. Nenhuma alteração ocorrerá na lista no Adobe Experience Cloud, a menos que você as faça manualmente.
+Uma lista estática é estática. Nenhuma alteração ocorrerá na lista na Adobe Experience Cloud, a menos que você as faça manualmente.
 
-1. No Marketo, encontre a lista que deseja exportar. Clique com o botão direito do mouse nele e selecione **[!UICONTROL Enviar para o Experience Cloud]**.
+1. No Marketo, encontre a lista que deseja exportar. Clique com o botão direito do mouse nele e selecione **[!UICONTROL Enviar para a Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
@@ -65,9 +70,9 @@ Uma lista estática é estática. Nenhuma alteração ocorrerá na lista no Adob
 
 ## Como enviar uma lista sincronizada {#how-to-send-a-synced-list}
 
-Sincronizar uma lista significa que, sempre que você atualiza uma lista no Marketo, essa alteração é sincronizada automaticamente com o público-alvo no Adobe Experience Cloud.
+Sincronizar uma lista significa que, sempre que você atualiza uma lista no Marketo, essa alteração é sincronizada automaticamente com o público-alvo na Adobe Experience Cloud.
 
-1. No Marketo, encontre a lista que deseja exportar. Clique com o botão direito do mouse nele e selecione **[!UICONTROL Enviar para o Experience Cloud]**.
+1. No Marketo, encontre a lista que deseja exportar. Clique com o botão direito do mouse nele e selecione **[!UICONTROL Enviar para a Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 

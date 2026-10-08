@@ -4,19 +4,25 @@ description: Saiba como adicionar pessoas a uma campanha do Salesforce com uma e
 title: Adicionar à campanha do SFDC
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-TQID: https://experienceleague.adobe.com/7fp6JSlxwdg0Yoniw9E4VvmRNvyaVyhwyOc10veDvR4
+TQID: 'https://experienceleague.adobe.com/7fp6JSlxwdg0Yoniw9E4VvmRNvyaVyhwyOc10veDvR4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 4%
-
 ---
-
 # Adicionar à campanha do SFDC {#add-to-sfdc-campaign}
 
 Essa etapa do fluxo pode ser usada em campanhas do Marketo Engage ou como uma única etapa do fluxo para adicionar pessoas como leads em uma campanha do Salesforce. Se o lead ainda não existir no Salesforce, ele será sincronizado automaticamente e adicionado à campanha com o status especificado.

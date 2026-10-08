@@ -3,16 +3,20 @@ unique-page-id: 2949471
 description: Lista de verificação de configuração - Documentação do Marketo - Documentação do produto
 title: Lista de verificação de configuração
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 2%
-
+ht-degree: 3%
 ---
-
 # Lista de verificação de configuração {#setup-checklist}
 
 Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verificação como uma lista visual de tarefas para começar. Detalhes podem ser encontrados em [Etapas de Instalação](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
@@ -53,4 +57,4 @@ Bem-vindo ao Marketo! Sinta-se à vontade para usar a seguinte lista de verifica
 
 >[!MORELIKETHIS]
 >
->[Etapas da Instalação](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+>[Etapas de configuração](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

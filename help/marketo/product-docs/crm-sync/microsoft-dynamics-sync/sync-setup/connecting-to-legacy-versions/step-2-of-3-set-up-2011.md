@@ -1,24 +1,31 @@
 ---
 unique-page-id: 3571807
 description: Saiba como configurar o usuário de sincronização do Marketo no Dynamics 2011 no local. Crie o usuário e atribua a função Usuário de sincronização do Marketo no Dynamics.
-title: Etapa 2 de 3 - Configurar Usuário de Sincronização do Marketo em [!DNL Dynamics] (2011 no Local)
+title: Etapa 2 de 3 - Configurar o Usuário de Sincronização do Marketo no [!DNL Dynamics] (2011 no Local)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/g-yRCQWbdVo-5rBF--v8tmevwRkrQdiCQ3M0BB42nfE
+TQID: 'https://experienceleague.adobe.com/g-yRCQWbdVo-5rBF--v8tmevwRkrQdiCQ3M0BB42nfE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 397
+source-wordcount: '397'
 ht-degree: 0%
-
 ---
-
 # Etapa 2 de 3: Configurar o Usuário de Sincronização do Marketo no [!DNL Dynamics] (2011 no Local) {#step-of-set-up-marketo-sync-user-in-dynamics-on-premises}
 
 As etapas anteriores estão concluídas.

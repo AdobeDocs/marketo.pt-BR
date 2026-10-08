@@ -4,18 +4,23 @@ description: Saiba mais sobre a sintaxe do modelo de email no Editor de email 2.
 title: Sintaxe do modelo de email
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+TQID: 'https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2464
+source-wordcount: '2464'
 ht-degree: 83%
-
 ---
-
 # Sintaxe do modelo de email {#email-template-syntax}
 
 Na nova experiência de Email 2.0 do Marketo, os modelos de email são compostos de qualquer combinação de elementos, variáveis, módulos ou containers. Cada uma é definida adicionando uma sintaxe específica do Marketo ao HTML. Os modelos de email antigos (v1.0) são compatíveis com o Editor de email 2.0, no entanto, eles não incluirão todos os recursos do novo editor.
@@ -90,7 +95,7 @@ Você tem duas opções para definir elementos de imagem editáveis. Você pode 
 
 Atributos obrigatórios
 
-* **classe:** “mktoImg”.
+* **classe:** &quot;mktoImg&quot;.
 * **id:** string de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Precisa ser exclusivo.
 * **mktoName :** string. Este é o nome para exibição que será mostrado no Editor de email 2.0. A prática recomendada é usar um nome descritivo.
 
@@ -121,7 +126,7 @@ Exemplo:
 
 Atributos obrigatórios
 
-* **classe:** “mktoImg”.
+* **classe:** &quot;mktoImg&quot;.
 * **id:** string de ID. Contém apenas letras, números, traço “-” e sublinhado “_”. Espaços não são permitidos. Precisa ser exclusivo.
 * **mktoName:** string. Este é o nome para exibição que será mostrado no Editor de email 2.0. A prática recomendada é usar um nome descritivo.  Valor padrão (opcional)
 * **src:** para ser usado como valor padrão da imagem. Se for omitido, um espaço reservado será usado.

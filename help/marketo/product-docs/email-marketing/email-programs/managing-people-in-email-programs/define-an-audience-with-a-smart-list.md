@@ -4,18 +4,23 @@ description: Saiba como definir um público-alvo do programa de email com uma li
 title: Definir um público-alvo com uma lista inteligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/sGFMl-NIr1URbKsPhRb-ze6h2c1k72W-E28f-8p--sE
+TQID: 'https://experienceleague.adobe.com/sGFMl-NIr1URbKsPhRb-ze6h2c1k72W-E28f-8p--sE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 276
-ht-degree: 0%
-
+source-wordcount: '276'
+ht-degree: 8%
 ---
-
 # Definir um público-alvo com uma lista inteligente {#define-an-audience-with-a-smart-list}
 
 Depois de [criar um programa de email](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), você deverá informar a ele para quem enviar o email. Você pode fazer isso [importando uma lista de pessoas](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) ou com uma lista inteligente. Veja como fazer isso com uma lista inteligente.
@@ -28,7 +33,7 @@ Depois de [criar um programa de email](/help/marketo/product-docs/email-marketin
 >
 >A definição do público só funcionará quando o programa de email não for aprovado.
 
-1. Vá para **[!UICONTROL Atividades de marketing]**.
+1. Acesse **[!UICONTROL Atividades de marketing]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -60,9 +65,9 @@ Depois de [criar um programa de email](/help/marketo/product-docs/email-marketin
 >
 >Você notou o número bloqueado? Esse número é um subconjunto das pessoas qualificadas e representa as pessoas que não podem receber este email porque são:
 >
->* Assinatura cancelada
->* Marketing suspenso
->* µ
+>* Inscrição cancelada
+>* Campanha de marketing suspensa
+>* Incluído na lista de bloqueios
 >* Email inválido
 >* Email vazio
 >

@@ -1,24 +1,27 @@
 ---
 unique-page-id: 8781845
 description: Saiba mais sobre o Marketo Moments para ver o que é importante quando é importante. Veja os principais insights e tome medidas com o aplicativo móvel.
-title: Noções básicas sobre o Marketo Moments
+title: Noções básicas sobre momentos do Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/aEx5-CA8gKF6iVsLULnpqckR8YEoizYrE-U-xHydIjo
+TQID: 'https://experienceleague.adobe.com/aEx5-CA8gKF6iVsLULnpqckR8YEoizYrE-U-xHydIjo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 623
-ht-degree: 0%
-
+source-wordcount: '623'
+ht-degree: 2%
 ---
-
-# Noções básicas sobre o Marketo Moments {#understanding-marketo-moments}
+# Noções básicas sobre momentos do Marketo {#understanding-marketo-moments}
 
 O poder do Marketo agora está em suas mãos. Pré-visualizar e reagendar emails diretamente do seu telefone ou iPad.
 
@@ -128,8 +131,8 @@ Para eventos, o cartão mostra o número total de membros e seus status.
 Os cartões Momento do Analytics mostram como seus emails e eventos estão se saindo mensalmente nos últimos seis meses, para:
 
 1. Clientes potenciais adquiridos
-1. Novos clientes em potencial
-1. Cancelamentos de assinatura
+1. Novos leads
+1. Cancelamentos de inscrição
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
 
@@ -145,7 +148,7 @@ Em cada etapa do caminho, você pode confirmar ou cancelar uma ação. Se mudar 
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Versões suportadas {#supported-versions}
+## Versões compatíveis {#supported-versions}
 
 O Marketo Moments é compatível com estas versões de sistema operacional:
 
