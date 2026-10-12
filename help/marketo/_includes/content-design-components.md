@@ -3,11 +3,9 @@ title: Criação de conteúdo - Componentes
 description: Seção reutilizada sobre o uso de componentes e elementos de conteúdo para a criação de conteúdo
 source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
-
 ---
-
 # Criação de conteúdo - Componentes
 
 1. Para começar a criar ou modificar conteúdo, arraste e solte um item de Estruturas na tela. Edite suas configurações no painel à direita.
