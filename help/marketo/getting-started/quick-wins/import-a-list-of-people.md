@@ -138,7 +138,7 @@ Neste tutorial, saiba como importar pessoas de um arquivo de planilha para o Mar
    >
    >Se houver campos que você não queira importar, selecione **Ignorar** no menu suspenso Campo do Marketo.
 
-1. _Se_ você tiver [Partições de Pessoas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} configuradas, selecione-as aqui. Selecione **Meu programa de feira de negócios** como o **[!UICONTROL Programa de aquisição]** e clique em **[!UICONTROL Importar]**.
+1. _Se_ você tiver [Partições de Pessoas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} configuradas, selecione-as aqui. Selecione **Meu programa de feira de negócios** como o **[!UICONTROL Programa de aquisição]** e clique em **[!UICONTROL Importar]**.
 
    ![](assets/import-a-list-of-people-13-new.png)
 
