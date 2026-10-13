@@ -4,22 +4,25 @@ description: Saiba mais sobre as Smart Lists para encontrar grupos de pessoas co
 title: Noções básicas de listas inteligentes
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/wXznZtdBlYA4Ma2PLQRXHdvfBuDIwUpUtH8p-IJnpZA
+TQID: 'https://experienceleague.adobe.com/wXznZtdBlYA4Ma2PLQRXHdvfBuDIwUpUtH8p-IJnpZA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+source-git-commit: 70bbab994674cc09f438f70ca028327335f1b5e6
 workflow-type: tm+mt
-source-wordcount: 226
+source-wordcount: '226'
 ht-degree: 9%
-
 ---
-
 # Noções básicas de listas inteligentes {#understanding-smart-lists}
 
 As Smart Lists permitem encontrar grupos específicos de pessoas usando filtros simples. Eles são usados em todo o Marketo, como em Campanhas inteligentes, programas, relatórios, segmentações, modelos de negócios, programas de engajamento, conteúdo dinâmico e muito mais. Dependendo das suas necessidades, as Smart Lists podem ser criadas em dois locais no Marketo:

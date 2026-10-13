@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '589'
-ht-degree: 95%
+source-wordcount: '621'
+ht-degree: 90%
 ---
 # Importar uma lista de pessoas {#import-a-list-of-people}
 
@@ -138,9 +138,9 @@ Neste tutorial, saiba como importar pessoas de um arquivo de planilha para o Mar
    >
    >Se houver campos que você não queira importar, selecione **Ignorar** no menu suspenso Campo do Marketo.
 
-1. Selecione **Meu programa de feira de negócios** como o **[!UICONTROL Programa de aquisição]** e clique em **[!UICONTROL Importar]**.
+1. Se você tiver [Partições de pessoa](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} configuradas, selecione a desejada aqui. Selecione **Meu programa de feira de negócios** como o **[!UICONTROL Programa de aquisição]** e clique em **[!UICONTROL Importar]**.
 
-   ![](assets/import-a-list-of-people-13.png)
+   ![](assets/import-a-list-of-people-13-new.png)
 
 1. Aguarde a importação das pessoas e feche o pop-up de andamento da importação.
 
