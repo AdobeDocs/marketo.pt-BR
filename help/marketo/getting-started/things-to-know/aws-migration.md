@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f071b487e66c7257b30eb7b598a487b0f088b103
+source-git-commit: d7d7f0d50797571fde1b3a7141b4f50668a1b2b5
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1235'
 ht-degree: 4%
 ---
 # Migração do AWS {#aws-migration}
@@ -47,7 +47,7 @@ Os impactos abaixo não exigem nenhuma ação da sua parte.
 
 >[!IMPORTANT]
 >
->Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja evitar a perda de dados de envio de formulário coletados enquanto o Marketo Engage não estiver disponível durante a janela de migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/pt-br/support){target="_blank"} **com pelo menos dois dias úteis** de antecedência e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
+>Se você usa [formulários externos](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e deseja evitar a perda de dados de envio de formulário coletados enquanto o Marketo Engage não estiver disponível durante a janela de migração, contate o [Suporte da Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **com pelo menos dois dias úteis** de antecedência e forneça a ID do Formulário e a Munchkin ID da sua assinatura.
 
 ## Identificar o data center/pod {#identify}
 
@@ -287,12 +287,9 @@ Se, por algum motivo, uma migração não for bem-sucedida, você será notifica
   </tr>
    <tr>
    <td>21 de outubro de 2026</td>
-   <td>AB36<br>
-   AB38</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
-   <td>No cronograma<br>
-   No prazo</td>
+   <td>AB38</td>
+   <td>17:00 PDT</td>
+   <td>No cronograma</td>
   </tr>
   <tr>
    <td>22 de outubro de 2026</td>
@@ -309,6 +306,15 @@ Se, por algum motivo, uma migração não for bem-sucedida, você será notifica
    AB25</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>No cronograma<br>
+   No prazo</td>
+  </tr>
+  <tr>
+   <td>6 de novembro de 2026</td>
+   <td>AB18<br>
+   AB36</td>
+   <td>16:00 PST<br>
+   17:00 PST</td>
    <td>No cronograma<br>
    No prazo</td>
   </tr>
@@ -337,6 +343,12 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
+<tr>
+  <td>SJ</td>
+  <td>54.212.167.17<br>
+35.165.244.220<br>
+44.235.171.179</td>
+</tr>
 </body>
 </table>
 
@@ -344,9 +356,9 @@ Com base em seu data center, trabalhe com seu departamento de TI para adicionar 
 
 Para obter as informações mais recentes, salve esta página como favorita.
 
-Para obter atualizações de status, você pode [inscrever-se para recebê-las](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} no início e na conclusão da migração. Você também pode visitar [status.adobe.com](https://status.adobe.com/pt-br/){target="_blank"} durante a janela de migração.
+Para obter atualizações de status, você pode [inscrever-se para recebê-las](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} no início e na conclusão da migração. Você também pode visitar [status.adobe.com](https://status.adobe.com/){target="_blank"} durante a janela de migração.
 
-Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/pt-br/support){target="_blank"}.
+Em caso de dúvidas, entre em contato com o Suporte da Adobe pelo Portal de suporte da Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Perguntas frequentes {#faq}
 
@@ -372,6 +384,6 @@ As cancelamentos de assinatura padrão e de lista (de clientes de email) ainda s
 **Há alguma alternativa para pausar campanhas?**
 Sim. Se quiser impedir que as pessoas avancem, mas não quiser perder os dados recebidos, considere estas opções:
 
-* Adicionar uma etapa de escolha: em vez de desabilitar a campanha, deixe-a ativa, mas adicione uma [etapa do fluxo de espera](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} ou uma etapa imediata de &quot;Não fazer nada&quot; bem na parte superior do fluxo. Defina uma [regra de Escolha](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} que direcione seus usuários para esse estado pausado e atualize as regras de Escolha quando estiver pronto.
-* Remover do Fluxo: se as pessoas já tiverem entrado na campanha, mas você precisar interromper o progresso, use a ação [Remover do Fluxo](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} para retirá-las sem desabilitar permanentemente o acionador da campanha.
+* Adicionar uma etapa de escolha: em vez de desabilitar a campanha, deixe-a ativa, mas adicione uma [etapa do fluxo de espera](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} ou uma etapa imediata de &quot;Não fazer nada&quot; bem na parte superior do fluxo. Defina uma [regra de Escolha](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} que direcione seus usuários para esse estado pausado e atualize as regras de Escolha quando estiver pronto.
+* Remover do Fluxo: se as pessoas já tiverem entrado na campanha, mas você precisar interromper o progresso, use a ação [Remover do Fluxo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} para retirá-las sem desabilitar permanentemente o acionador da campanha.
 * Alternativa em lote: considere converter Campanhas de acionador em Campanhas em lote se não precisar de roteamento ou respostas instantâneas e se quiser processar pessoas durante a noite ou em intervalos programados.
