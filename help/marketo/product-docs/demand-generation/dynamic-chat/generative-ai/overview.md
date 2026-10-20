@@ -85,7 +85,7 @@ Os Tópicos discutidos estão disponíveis em Acionadores e filtros de Smart Lis
 
 >[!IMPORTANT]
 >
->Ao usar a IA gerativa, você deve seguir as [Diretrizes de usuário da IA gerativa da Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) para garantir que os recursos da Adobe Experience Cloud que incorporam a IA gerativa estejam sendo usados de maneira segura e responsável.
+>Ao usar a IA gerativa, você deve seguir as [Diretrizes de usuário da IA gerativa da Adobe Experience Cloud](https://www.adobe.com/br/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) para garantir que os recursos da Adobe Experience Cloud que incorporam a IA gerativa estejam sendo usados de maneira segura e responsável.
 
 ## Perguntas frequentes {#faq}
 
