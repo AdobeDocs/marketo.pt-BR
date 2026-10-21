@@ -66,17 +66,17 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
    <td>Completado</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Julho de 26</a></td>
+  <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">Julho de 26</a></td>
    <td>10 de julho de 2026</td>
    <td>Completado</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">Agosto de 26</a></td>
+  <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">Agosto de 26</a></td>
    <td>14 de agosto de 2026</td>
    <td>Completado</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">Setembro de 26</a></td>
+  <td><a href="https://experienceleague.adobe.com/pt-br/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">Setembro de 26</a></td>
    <td>25 de setembro de 2026</td>
    <td>Em andamento</td>
   </tr>
