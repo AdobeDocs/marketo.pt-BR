@@ -51,7 +51,7 @@ Para maximizar a capacidade de entrega a longo prazo, os Consultores de capacida
 
 >[!TIP]
 >
->Mantenha seu banco de dados limpo para manter a capacidade de delivery alta. [O Adobe exige](https://www.adobe.com/legal/terms/aup.html) que os clientes só enviem comunicações de marketing para pessoas que aceitaram/solicitaram receber email. Não enviar e-mail não solicitado.
+>Mantenha seu banco de dados limpo para manter a capacidade de delivery alta. [O Adobe exige](https://www.adobe.com/br/legal/terms/aup.html) que os clientes só enviem comunicações de marketing para pessoas que aceitaram/solicitaram receber email. Não enviar e-mail não solicitado.
 
 >[!CAUTION]
 >

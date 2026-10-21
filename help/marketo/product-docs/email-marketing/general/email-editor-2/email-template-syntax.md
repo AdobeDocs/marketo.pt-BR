@@ -116,7 +116,7 @@ Valor padrão (opcional)
 
 Exemplo:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com/br"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Opção 2: usar um \&lt;img\> {#option-use-an-img}
 

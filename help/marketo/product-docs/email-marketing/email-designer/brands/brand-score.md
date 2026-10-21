@@ -35,7 +35,7 @@ Analisar a pontuação da sua marca garante a consistência no tom, nas mensagen
 
 >[!AVAILABILITY]
 >
->Você deve concordar com o [contrato de usuário](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"} antes de usar o Assistente de IA no Adobe Marketo Engage. Para obter mais informações, entre em contato com o seu representante da Adobe.
+>Você deve concordar com o [contrato de usuário](https://www.adobe.com/br/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"} antes de usar o Assistente de IA no Adobe Marketo Engage. Para obter mais informações, entre em contato com o seu representante da Adobe.
 
 ## Validar seu conteúdo com o alinhamento da marca {#validate-content}
 
