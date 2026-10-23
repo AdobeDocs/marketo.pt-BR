@@ -46,7 +46,7 @@ O Remarketing personalizado permite que você se envolva novamente com seus usu�
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. No Construtor de público-alvo, clique em **[!UICONTROL Sequências]** e **[!UICONTROL Localize os dados RTP]** em [!UICONTROL Dimensões personalizadas], [!UICONTROL [!]Variáveis personalizadas UICONTROL], [!UICONTROL Eventos].
+1. No Construtor de público-alvo, clique em **[!UICONTROL Sequências]** e **[!UICONTROL Localize os dados RTP]** em [!UICONTROL Dimensões personalizadas], [!UICONTROL UICONTROL [ !]Variáveis personalizadas &#x200B;], [!UICONTROL Eventos].
 
 >[!TIP]
 >
