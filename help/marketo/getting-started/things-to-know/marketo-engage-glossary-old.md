@@ -566,7 +566,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td><p>No <strong>TAM</strong>, a conta que o usuário determinou como alvo de sua busca.</p></td>
   </tr>
   <tr>
-   <td><strong>Programa de estímulo</strong></td>
+   <td><strong>Programa de engajamento</strong></td>
    <td>Consulte (<a href="#e" rel="nofollow">Programa de engajamento</a>)</td>
   </tr>
  </tbody>

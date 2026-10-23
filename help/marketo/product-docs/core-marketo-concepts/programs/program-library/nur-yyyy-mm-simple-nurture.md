@@ -6,23 +6,26 @@ exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
 TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: '369'
 ht-degree: 20%
-
 ---
-
 # NUR-MM-AAAA-Estímulo simples {#nur-yyyy-mm-simple-nurture}
 
 Este é um exemplo de programas de aprendizado simples, utilizando o programa de envolvimento do Marketo Engage, com conteúdo cadenciado para gotejar ao longo do tempo para seu banco de dados e, ao mesmo tempo, utilizando fluxos para orientar registros por meio de jornadas com base no comportamento.
 
-Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter mais assistência estratégica ou ajuda para personalizar um programa, entre em contato com a Equipe de Conta da Adobe ou visite a página [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Resumo do canal {#channel-summary}
 
@@ -150,20 +153,20 @@ Para obter mais assistência estratégica ou ajuda para personalizar um programa
 ## Regras de conflito {#conflict-rules}
 
 * **Marcas do programa**
-   * Criar marcas nesta assinatura - _Recomendado_
-   * Ignorar
+  * Criar marcas nesta assinatura - _Recomendado_
+  * Ignorar
 
 * **Modelo de página de aterrissagem com o mesmo nome**
-   * Copiar modelo original
-   * Usar modelo de destino - _Recomendado_
+  * Copiar modelo original
+  * Usar modelo de destino - _Recomendado_
 
 * **Imagens com o mesmo nome**
-   * Manter ambos os arquivos
-   * Substituir item nesta assinatura - _Recomendado_
+  * Manter ambos os arquivos
+  * Substituir item nesta assinatura - _Recomendado_
 
 * **Modelos de email com o mesmo nome**
-   * Manter ambos os modelos
-   * Substituir modelo existente - _Recomendado_
+  * Manter ambos os modelos
+  * Substituir modelo existente - _Recomendado_
 
 ## Práticas recomendadas {#best-practices}
 
