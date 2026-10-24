@@ -781,7 +781,7 @@ Abaixo estão definições para muitos dos termos que você pode encontrar ao us
    <td>Uma <strong>campanha inteligente</strong> que é chamada de dentro do <strong>fluxo</strong> de outra campanha usando a etapa Executar Fluxo da Campanha, permitindo uma lógica de campanha modular e reutilizável.</td>
   </tr>
   <tr>
-   <td><strong>Programa de estímulo</strong></td>
+   <td><strong>Programa de engajamento</strong></td>
    <td>Consulte (<a href="#e" rel="nofollow">Programa de engajamento</a>)</td>
   </tr>
  </tbody>
