@@ -8,14 +8,14 @@ product_v2:
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96caeb4343efdbe747a93c2424c50840d6917798
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1078'
 ht-degree: 5%
 ---
 # Política de retenção de dados de atividades do Marketo - Impacto nos relatórios
 
-O Marketo mantém os dados da atividade de marketing continuamente. Os dados de Atividade e Associação de campanha são armazenados por um período contínuo de 25 meses após a data da atividade, e os dados de atividades de alto volume são retidos por um período contínuo de 90 dias após a data da atividade por padrão, que pode ser ajustado por usuário. Além desses períodos de retenção, os dados não estarão mais disponíveis por meio da interface do usuário do Marketo.
+O Marketo mantém os dados da atividade de marketing continuamente. Os dados de Atividade e Associação de campanha são armazenados por um período contínuo de 25 meses após a data da atividade, e os dados de atividades de alto volume são retidos por um período contínuo de 90 dias após a data da atividade por padrão. Além desses períodos de retenção, os dados não estarão mais disponíveis por meio da interface do usuário do Marketo.
 
 ## Relatórios do Marketo Analytics
 
