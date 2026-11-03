@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6095008
-description: Link [!DNL Google AdWords] para o Marketo via LaunchPoint para carregar dados de conversão offline para relatórios no AdWords.
-title: Adicionar [!DNL Google AdWords] como um [!DNL LaunchPoint] Serviço
+description: Vincule [!DNL Google AdWords] ao Marketo por meio do LaunchPoint para carregar dados de conversão offline para relatórios no AdWords.
+title: Adicionar [!DNL Google AdWords] como um Serviço [!DNL LaunchPoint]
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/gpw57sy3WitNAh6g4mkajXuuFlRFzunZmfedM4aCrCk
@@ -20,13 +20,11 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: '288'
 ht-degree: 2%
-
 ---
-
 # Adicionar [!DNL Google AdWords] como um Serviço [!DNL LaunchPoint] {#add-google-adwords-as-a-launchpoint-service}
 
 Vincule sua conta do [!DNL Google AdWords] ao Marketo para carregar automaticamente dados de conversão offline do Marketo para o [!DNL Google AdWords]. Na interface do usuário do [!DNL AdWords], você pode ver quais cliques resultaram em clientes potenciais qualificados, oportunidades e novos clientes (ou qualquer estágio de receita que você queira rastrear) depois de [adicionar colunas personalizadas](https://support.google.com/adwords/answer/3073556){target="_blank"} em [!DNL AdWords]. Essas informações não aparecem na interface do usuário do Marketo.
@@ -45,7 +43,7 @@ Saiba mais sobre o [recurso de importação de conversão offline do Google](htt
 >
 >Você também pode integrar um serviço [[!DNL Google AdWords] as a [!DNL Launchpoint] a uma conta de gerente](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 

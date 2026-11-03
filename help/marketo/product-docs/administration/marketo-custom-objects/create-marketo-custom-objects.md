@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '774'
 ht-degree: 4%
 ---
 # Criar objetos personalizados do Marketo {#create-marketo-custom-objects}
@@ -42,7 +42,7 @@ Use objetos personalizados no Marketo para rastrear métricas específicas para 
 
 Este exemplo mostra um objeto personalizado Car para uso em uma estrutura de um para muitos. Posteriormente, você criará um objeto personalizado do curso e um objeto intermediário para usar em uma estrutura muitos para muitos.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -88,7 +88,7 @@ Este exemplo mostra um objeto personalizado do curso, que você usará para cria
 >
 >Para uma relação muitos para muitos, não é necessário criar um link no objeto personalizado. Em vez disso, você adicionará dois links ao objeto intermediário (veja abaixo).
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -130,7 +130,7 @@ Use um objeto intermediário para conectar um objeto personalizado a pessoas ou 
 >
 >Não é necessário criar um objeto intermediário para uma estrutura de objeto personalizado de um para muitos.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-marketo-custom-objects-13.png)
 

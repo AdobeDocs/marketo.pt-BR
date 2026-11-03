@@ -13,16 +13,16 @@ feature_v2:
 subfeature_v2:
   - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
     internal-label: Email setup
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '158'
+ht-degree: 6%
 ---
 # Remover texto de cancelamento de inscrição {#remove-unsubscribe-text}
 
 A única razão pela qual você deve remover completamente o conteúdo de cancelamento de inscrição da área **[!UICONTROL Administrador]** > **[!UICONTROL Email]** é se você optar por criar o link de cancelamento de inscrição nos próprios modelos de email. A caixa de texto tem uma validação que não permite salvar sem conteúdo. Você pode contornar isso adicionando um pequeno comentário do HTML. O comentário do HTML não será exibido no cliente de email, pois está renderizando o email no HTML e os comentários são omitidos.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 

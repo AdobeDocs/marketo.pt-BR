@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '1703'
+source-wordcount: '1704'
 ht-degree: 84%
 ---
 # Etapas de configuração {#setup-steps}
@@ -73,7 +73,7 @@ A primeira parte é o CNAME de rastreamento de email, `[EmailTrackingCNAME]`. Vo
 >
 >Os CNAMEs de email e de página de destino devem ser diferentes. Além disso, evite CNAMEs como &quot;track&quot; ou &quot;link&quot;. Geralmente, é sinalizado como spam.
 
-Para encontrar o link de rastreamento do Marketo, acesse a área **[!UICONTROL Administração]**.
+Para encontrar o link de rastreamento do Marketo, em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
 ![](assets/setup-steps-1.png)
 

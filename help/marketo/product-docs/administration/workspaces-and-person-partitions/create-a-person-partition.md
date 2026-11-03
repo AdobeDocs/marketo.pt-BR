@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 8%
 ---
 # Criar uma partição de pessoa {#create-a-person-partition}
@@ -33,7 +33,7 @@ Crie uma nova partição de pessoa seguindo essas etapas.
 >
 >Para obter mais informações, consulte [Noções básicas sobre espaços de trabalho e partições de pessoas](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-a-person-partition-1.png)
 
@@ -55,4 +55,4 @@ Depois de criar a partição, você deve ver a atualização.
 
 >[!TIP]
 >
->Você pode selecionar uma Partição de Pessoa específica para filtrar pessoas durante o processo de [importação de lista](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}.
+>Você pode selecionar uma Partição de Pessoa específica para filtrar pessoas durante o processo de [importação de lista](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"}.

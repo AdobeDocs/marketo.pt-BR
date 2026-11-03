@@ -17,9 +17,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 7%
 ---
 # Excluir um canal de programa {#delete-a-program-channel}
@@ -28,7 +28,7 @@ Os canais do programa são uma coleção de status ou pontos de verificação pe
 
 Se você fizer um por acidente ou não precisar mais de um, é possível excluí-lo.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/delete-a-program-channel-1.png)
 
