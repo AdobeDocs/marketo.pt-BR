@@ -25,9 +25,9 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '737'
 ht-degree: 1%
 ---
 # Noções básicas de objetos personalizados do Marketo {#understanding-marketo-custom-objects}
@@ -62,7 +62,7 @@ Objetos personalizados muitos para muitos usam dois campos de link, parte de um 
 
 ## Acesso aos Objetos personalizados do Marketo {#accessing-marketo-custom-objects}
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 

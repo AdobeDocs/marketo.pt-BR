@@ -14,9 +14,9 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 4%
 ---
 # Configurar o Cancelamento de Inscrição de Rodapés em [!DNL Marketo Sales Insight] {#configure-unsubscribe-footers-in-marketo-sales-insight}
@@ -33,7 +33,7 @@ Emails de vendas colocam automaticamente o rodapé de cancelamento de inscriçã
 >
 >**Emails de vendas** são aqueles enviados de [!DNL Sales Insight] (não inclui aqueles enviados do Plug-in Marketo Outlook).
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/one-1.png)
 

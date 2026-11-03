@@ -18,9 +18,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '97'
 ht-degree: 13%
 ---
 # Editar uma partição de pessoa existente {#edit-an-existing-person-partition}
@@ -35,7 +35,7 @@ Uma partição de pessoa é como ter um segundo (ou terceiro) banco de dados. Um
 >
 >[Criar uma Partição de Pessoa](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 

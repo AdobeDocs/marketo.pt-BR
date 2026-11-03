@@ -21,13 +21,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 492
-ht-degree: 0%
-
+source-wordcount: '496'
+ht-degree: 2%
 ---
-
 # Gerenciamento de funções e permissões de usuário {#managing-user-roles-and-permissions}
 
 Defina, crie e edite funções de usuário e atribua-as a usuários. Isso permite controlar as áreas e a funcionalidade às quais cada usuário do Marketo tem acesso.
@@ -36,7 +34,7 @@ Por exemplo, um usuário de marketing geralmente precisa de amplo acesso ao apli
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 O Marketo fornece várias funções integradas, com diferentes níveis de acesso:
 
@@ -53,7 +51,7 @@ Não é possível excluir as funções de Administrador ou Administrador de prod
 
 Você pode atribuir funções a um usuário quando [criar usuários pela primeira vez](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -77,7 +75,7 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
 Às vezes, sua organização tem funcionários em funções muito específicas que exigem uma combinação personalizada de permissões.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -101,7 +99,7 @@ Você pode atribuir funções a um usuário quando [criar usuários pela primeir
 
 Se você precisar alterar as permissões associadas a uma função existente, edite a função.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -129,7 +127,7 @@ Se você precisar alterar as permissões associadas a uma função existente, ed
 
 Se uma função se tornar desnecessária, você poderá excluí-la.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

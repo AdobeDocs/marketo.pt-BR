@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 81
+source-wordcount: '82'
 ht-degree: 13%
-
 ---
-
 # Definir uma página substituta {#set-a-fallback-page}
 
 As páginas substitutas são a última linha de defesa se a landing page estiver offline ou não for encontrada. Certifique-se de configurar um.
@@ -29,7 +27,7 @@ As páginas substitutas são a última linha de defesa se a landing page estiver
 >
 >**Permissões de administrador são necessárias**
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/set-a-fallback-page-1.png)
 

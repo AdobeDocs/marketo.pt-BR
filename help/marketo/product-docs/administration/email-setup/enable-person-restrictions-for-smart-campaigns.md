@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 11%
 ---
 # Habilitar restrições de pessoa para campanhas inteligentes {#enable-person-restrictions-for-smart-campaigns}
@@ -42,7 +42,7 @@ Há um recurso no Marketo para limitar o número _máximo_ de pessoas que podem 
 >
 >Isso se aplica somente a campanhas em lote e programas de email.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 

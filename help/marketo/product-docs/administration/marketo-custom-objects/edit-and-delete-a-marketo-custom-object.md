@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '266'
 ht-degree: 6%
 ---
 # Editar e excluir um objeto personalizado do Marketo {#edit-and-delete-a-marketo-custom-object}
@@ -34,7 +34,7 @@ ht-degree: 6%
 
 Use o menu Ações de objetos personalizados para editar ou excluir um objeto personalizado.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
@@ -64,7 +64,7 @@ A exclusão de um objeto personalizado requer cuidado. Os objetos personalizados
 >
 >Não é possível restaurar um objeto personalizado depois de excluí-lo.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10095636
 description: Saiba como ativar a opção Sem rascunho para trechos de modo que as alterações de trecho se apliquem a ativos aprovados sem exigir novos rascunhos.
-title: Ativar a opção Sem rascunho para trechos
+title: Habilitar a opção “Sem rascunho” para snippets
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 TQID: https://experienceleague.adobe.com/nAwbSiNOywTfvFLik5J5QFdc1x4ScglfrVxsSVuLBSc
@@ -27,14 +27,12 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 0%
-
+source-wordcount: '170'
+ht-degree: 7%
 ---
-
-# Ativar a opção Sem rascunho para trechos {#enable-no-draft-for-snippets}
+# Habilitar a opção “Sem rascunho” para snippets {#enable-no-draft-for-snippets}
 
 O recurso Sem rascunho para trechos permite distribuir alterações de trecho sem rascunhar ativos aprovados ao usá-lo. Todos os ativos que usam o trecho editado obtêm as atualizações e mantêm seus respectivos status:
 
@@ -46,9 +44,9 @@ A opção Sem rascunho é ativada automaticamente para todas as funções de Adm
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 

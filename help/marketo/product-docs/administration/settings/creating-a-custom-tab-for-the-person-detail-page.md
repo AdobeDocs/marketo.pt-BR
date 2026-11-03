@@ -16,18 +16,16 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 138
-ht-degree: 13%
-
+source-wordcount: '139'
+ht-degree: 12%
 ---
-
 # Criar uma guia personalizada para a página Detalhes da pessoa {#creating-a-custom-tab-for-the-person-detail-page}
 
 Se você precisar acessar com frequência um conjunto específico de campos na página de detalhes da pessoa, considere criar um layout personalizado.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

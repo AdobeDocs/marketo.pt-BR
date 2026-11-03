@@ -19,16 +19,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 10%
 ---
 # Criar e usar um campo de string concatenada (fórmula) {#create-and-use-a-concatenated-string-formula-field}
 
 Você pode combinar valores de vários campos ou criar um valor condicional usando um campo de fórmula do Marketo Engage.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 

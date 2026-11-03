@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: '118'
 ht-degree: 6%
-
 ---
-
 # Dados da API de exportação em massa {#bulk-export-api-information}
 
 Saiba como verificar quanto a capacidade da [API de extração em massa](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} foi ocupada pela sua instância do Marketo Engage nos últimos sete dias.
@@ -33,7 +31,7 @@ Saiba como verificar quanto a capacidade da [API de extração em massa](https:/
 >
 >Se precisar de mais capacidade, entre em contato com o representante de conta.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -49,4 +47,4 @@ Saiba como verificar quanto a capacidade da [API de extração em massa](https:/
 
 >[!NOTE]
 >
->A alocação da sua instância do Marketo Engage é redefinida diariamente às 12h00 CST.:00
+>A alocação da sua instância do Marketo Engage é redefinida diariamente às 12h (CST).

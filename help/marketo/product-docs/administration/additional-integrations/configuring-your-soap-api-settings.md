@@ -17,24 +17,22 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '106'
 ht-degree: 16%
-
 ---
-
 # Configurar a API SOAP {#configuring-your-soap-api-settings}
 
 >[!IMPORTANT]
 >
->A API do SOAP está [sendo substituída](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/soap/soap-api) em 31 de julho de 2026. Em vez disso, é recomendável usar a [REST API](https://developer.adobe.com/marketo-apis/).
+>A API do SOAP está [sendo substituída](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) em 31 de julho de 2026. Em vez disso, é recomendável usar a [REST API](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
 >**Permissões de administrador são necessárias**
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 

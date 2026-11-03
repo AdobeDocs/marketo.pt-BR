@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 15%
 ---
 # Exportar os dados “Usado por” de um campo {#export-used-by-data-for-a-field}
@@ -32,7 +32,7 @@ Como administrador, você pode exportar ativos relacionados de um campo para pod
 >
 >**Permissões de administrador são necessárias**
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 

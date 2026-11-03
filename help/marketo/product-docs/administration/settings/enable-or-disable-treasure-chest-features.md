@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '86'
 ht-degree: 17%
-
 ---
-
 # Habilitar ou desabilitar recursos do Baú do tesouro {#enable-or-disable-treasure-chest-features}
 
 O Treasure Chest contém características experimentais que não são totalmente suportados.
@@ -29,7 +27,7 @@ O Treasure Chest contém características experimentais que não são totalmente
 >
 >**Permissões de administrador são necessárias**
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

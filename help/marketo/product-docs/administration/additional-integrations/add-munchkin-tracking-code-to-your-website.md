@@ -20,9 +20,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '689'
 ht-degree: 3%
 ---
 # Adicionar o código de rastreamento [!DNL Munchkin] ao seu site {#add-munchkin-tracking-code-to-your-website}
@@ -39,7 +39,7 @@ O código personalizado de rastreamento do JavaScript da Marketo, chamado [!DNL 
 >
 >Os usuários da Adobe Experience Cloud também podem usar a [integração do Marketo no Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} para incluir o script [!DNL Munchkin] em suas páginas da Web. Se você usa o Adobe Launch, _o script [!DNL Munchkin] é adicionado automaticamente_, portanto, você mesmo não precisará adicioná-lo.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
@@ -79,7 +79,7 @@ O código personalizado de rastreamento do JavaScript da Marketo, chamado [!DNL 
 
 Se estiver usando espaços de trabalho na sua conta do Marketo, provavelmente você também terá presenças da Web separadas que correspondem aos espaços de trabalho. Nesse caso, você pode usar o Javascript de rastreamento [!DNL Munchkin] para atribuir suas pessoas anônimas ao espaço de trabalho e partição corretos.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 

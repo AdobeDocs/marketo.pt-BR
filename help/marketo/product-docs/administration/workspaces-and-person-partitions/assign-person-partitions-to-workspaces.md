@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '143'
 ht-degree: 15%
 ---
 # Atribuir partições de pessoa a espaços de trabalho {#assign-person-partitions-to-workspaces}
@@ -37,7 +37,7 @@ Siga as etapas abaixo para editar as atribuições de partição de pessoa e esp
 >
 >Os espaços de trabalho e as partições de pessoas podem ser complexos. Contate o [suporte da Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} para obter ajuda sobre como configurá-los.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

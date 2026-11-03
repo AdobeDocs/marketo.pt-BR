@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 5%
 ---
 # Criar um novo espaço de trabalho {#create-a-new-workspace}
@@ -40,7 +40,7 @@ Os espaços de trabalho são úteis para subdividir a empresa. Os motivos para c
 >
 >Para saber mais sobre as práticas recomendadas da Workspace, contate os [Marketo Professional Services](https://business.adobe.com/br/products/marketo/services-support.html){target="_blank"}.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-a-new-workspace-1.png)
 

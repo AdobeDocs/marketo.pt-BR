@@ -23,9 +23,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '737'
 ht-degree: 2%
 ---
 # Adicionar campos de link de objeto personalizado do Marketo {#add-marketo-custom-object-link-fields}
@@ -43,7 +43,7 @@ Ao criar objetos personalizados, você deve fornecer campos de link para conecta
 
 Siga as etapas abaixo para criar um campo de link em um objeto personalizado para uma estrutura de um para muitos.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -97,7 +97,7 @@ Siga as etapas abaixo para criar um campo de link em um objeto intermediário pa
 >
 >Você já deve ter criado o objeto intermediário e quaisquer objetos personalizados aos quais pretende vinculá-lo.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

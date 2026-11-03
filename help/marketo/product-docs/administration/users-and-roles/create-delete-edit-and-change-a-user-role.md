@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360198
 description: Etapas para criar, excluir e editar funções de usuário, incluindo funções de nomenclatura, seleção de permissões e quais funções do sistema não podem ser alteradas.
-title: Criar, Deletar, Editar e Alterar uma Atribuição do Usuário
+title: Criar, excluir, editar e alterar uma função de usuário
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
 TQID: https://experienceleague.adobe.com/JcgZAmTXB5rvXJGwvBbK20FxB4w7t-AlYx0rkn4ccT0
@@ -17,31 +17,29 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 281
-ht-degree: 0%
-
+source-wordcount: '285'
+ht-degree: 8%
 ---
-
-# Criar, Deletar, Editar e Alterar uma Atribuição do Usuário {#create-delete-edit-and-change-a-user-role}
+# Criar, excluir, editar e alterar uma função de usuário {#create-delete-edit-and-change-a-user-role}
 
 **Funções** agrupam um conjunto de permissões. **Permissões** permitem que você execute ações no Marketo. Você atribui uma **função** a um usuário.
 
 >[!NOTE]
 >
->**Permissões de administrador necessárias**
+>**Permissões de administrador são necessárias**
 
 >[!IMPORTANT]
 >
 >As seguintes funções são funções do sistema e não podem ser excluídas:
 >
 >* Admin
->* Administrador de produto do Adobe
+>* Administrador de produtos da Adobe
 
 ## Criar uma função {#create-a-role}
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -59,7 +57,7 @@ ht-degree: 0%
 
 ## Excluir uma função {#delete-a-role}
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -85,7 +83,7 @@ ht-degree: 0%
 >
 >Para editar sua própria função de usuário, será necessário fazer logon como outro usuário com direitos de Administrador.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -111,7 +109,7 @@ ht-degree: 0%
 
 ## Alterar a função de um usuário {#change-a-users-role}
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360360
 description: Crie um webhook no Administrador para chamar serviços da Web de terceiros para SMS, dados de pessoa e muito mais.
-title: Criar um  [!DNL Webhook]
+title: Criar um [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 TQID: https://experienceleague.adobe.com/O4xw1wSvFeTJ2xqZn4Eo7JbrUBQQmKcl7mvLkduFXGc
@@ -21,18 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 220
+source-wordcount: '221'
 ht-degree: 0%
-
 ---
-
 # Criar um [!DNL Webhook] {#create-a-webhook}
 
 Use o [!DNL Webhooks] para aproveitar os serviços Web de terceiros para enviar mensagens de texto, expandir os dados da pessoa e muito mais.
 
-1. Vá para a área **[!UICONTROL Administrador]**.
+1. Em Meu Marketo, clique em **[!UICONTROL Administrador]**.
 
    ![](assets/create-a-webhook-1.png)
 
