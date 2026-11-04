@@ -1,7 +1,7 @@
 ---
 description: Use o CX Enterprise Coworker for Marketo Engage para transformar um resumo da campanha em um plano de programa estruturado que abranja lógica de público-alvo, emails, tokens e verificações de controle de qualidade.
 title: Planejar campanhas
-source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
+source-git-commit: b47454801d391f4d7a75ebcfce7ac76c2f4b8af4
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 0%
@@ -12,7 +12,7 @@ Transforme um resumo da campanha em um plano de implementação estruturado para
 
 >[!NOTE]
 >
->Essa habilidade gera planos de implementação para programas do Marketo (documentos estruturados que informam a um sistema humano ou de automação exatamente como criar um programa no Marketo). Não cria nada no Marketo. Há uma habilidade separada para [criar programas](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md).
+>Essa habilidade gera planos de implementação para programas do Marketo Engage (documentos estruturados que informam a um sistema humano ou de automação exatamente como criar uma campanha). Não cria nada no Marketo Engage. Há uma habilidade separada para [criar programas](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md).
 
 ## Pré-requisitos {#prerequisites}
 
