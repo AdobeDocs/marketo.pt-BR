@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: dc6ced4679de39db058fb0125ce7cc5586c77560
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 64%
+source-wordcount: '202'
+ht-degree: 62%
 ---
 # Cronograma de lançamento {#release-schedule}
 
@@ -83,6 +83,11 @@ _As datas e recursos de lançamento estão sujeitos a alterações_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Novembro de 2026</a></td>
    <td>6 de novembro de 2026</td>
+   <td>No cronograma</td>
+  </tr>
+  <tr>
+  <td>Janeiro de 27</td>
+   <td>15 de janeiro de 2027</td>
    <td>No cronograma</td>
   </tr>
  </tbody>
