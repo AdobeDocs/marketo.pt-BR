@@ -4,9 +4,9 @@ title: Visão geral do CX Enterprise Coworker para Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # Visão geral do CX Enterprise Coworker para Marketo Engage {#overview}
@@ -37,6 +37,10 @@ Digite sua solicitação no campo de prompt, selecione uma das habilidades do ag
 
 O console central apresenta um conjunto crescente de habilidades de agente disponíveis para ajudá-lo com várias tarefas. Cada habilidade é um assistente de IA criado com propósitos específicos, com o qual você interage por meio da linguagem natural para concluir uma tarefa específica.
 
+### Planejar campanhas {#plan-campaigns}
+
+Transforme um resumo da campanha em um plano de implementação estruturado para o Marketo Engage. O plano de campanhas descreve a estrutura do programa, a lógica do público-alvo, os emails, as campanhas inteligentes, os tokens, os relatórios e as verificações de pré-ativação. Saiba mais sobre a [habilidade Planejar campanhas](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}.
+
 ### Criar programas {#build-programs}
 
 Descreva uma campanha de marketing em linguagem simples, e o CX Enterprise Coworker para Marketo Engage cria a estrutura do programa, completa com espaços reservados para ativos e agendamento. Saiba mais sobre a [habilidade de criação de programas](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
@@ -59,12 +63,8 @@ Importe e desduplique listas de clientes potenciais no banco de dados do Marketo
 
 ## Em breve {#coming-soon}
 
-Em breve, agentes adicionais projetados para lidar com o trabalho mais repetitivo e demorado, como:
-
-* Diagnosticar por que um lead não foi MQL ou não avançou pelo ciclo de vida.
-* Gerar programas completos do Marketo Engage diretamente de um resumo da campanha.
-* E muito mais.
+Habilidades adicionais projetadas para lidar com o trabalho mais repetitivo e demorado serão disponibilizadas em breve.
 
 >[!MORELIKETHIS]
 >
->O [Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=pt-BR){target="_blank"} atua como uma ponte entre o assistente de IA e a Marketo Engage.
+>O [Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} atua como uma ponte entre o assistente de IA e a Marketo Engage.

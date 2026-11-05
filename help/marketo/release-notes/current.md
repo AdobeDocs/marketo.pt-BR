@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 15%
+source-wordcount: '471'
+ht-degree: 14%
 ---
 # Notas de versão: novembro de 2026 {#release-notes-nov-26}
 
@@ -50,8 +50,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>habilidade Planejar campanhas</strong>: o CX Enterprise Coworker para Marketo Engage agora pode transformar um resumo da campanha em um documento completo de configuração de programa do Marketo Engage. O documento inclui a estrutura de pastas, campanhas inteligentes, configurações de email, tokens e uma lista de verificação de controle de qualidade. Isso ajuda as equipes a lançarem campanhas com mais rapidez e padronizarem a configuração do programa. A habilidade pode ser configurada por meio de marcação.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Lançado</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">Planejar campanhas</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,8 +91,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 ## Anúncios {#announcements}
 
-* **Descontinuação da Captura de Imagens da Web**: para estar em conformidade com as práticas recomendadas modernas de segurança e privacidade, o recurso [Capturar Imagens da Web](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} será descontinuado a partir da versão de novembro.
+* **Descontinuação da Captura de Imagens da Web**: para estar em conformidade com as práticas recomendadas modernas de segurança e privacidade, o recurso [Capturar Imagens da Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} será descontinuado a partir da versão de novembro.
 
 * **Restrições de Nome de API para Atributos de Atividade Personalizados**: Os Nomes de API para Atributos de Atividade Personalizados criados por meio da API ou da interface agora podem conter apenas caracteres alfanuméricos e sublinhados, e devem começar com um caractere alfanumérico.
 
-* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial ou Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` começaram a falhar com um Código de Erro 1003 (indicando que a lista estática de destino tem muitos registros) se as listas de destino contiverem 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
+* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial ou Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` começaram a falhar com um Código de Erro 1003 (indicando que a lista estática de destino tem muitos registros) se as listas de destino contiverem 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
