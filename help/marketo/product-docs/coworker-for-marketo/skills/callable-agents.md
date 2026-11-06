@@ -4,9 +4,9 @@ title: Agentes chamáveis
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
+source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
 workflow-type: tm+mt
-source-wordcount: '2004'
+source-wordcount: '2002'
 ht-degree: 1%
 ---
 # Agentes chamáveis {#callable-agents}
@@ -36,7 +36,7 @@ Os agentes com chamada permitem usar um agente de IA como uma etapa em uma Campa
 
 1. Selecione **[!UICONTROL Salvar]** para salvar um rascunho ou **[!UICONTROL Salvar e publicar]** para disponibilizar o agente no Marketo Engage.
 
-1. Abra uma Campanha Inteligente e selecione a guia **[!UICONTROL Fluxo]**. Na seção Marketing da lista de etapas de fluxo, localize o **Agente de chamada: _[Nome do agente]_**&#x200B;e arraste-o para o fluxo.
+1. Abra uma Campanha Inteligente e selecione a guia **[!UICONTROL Fluxo]**. Na seção Marketing da lista de etapas de fluxo, localize o **Agente de chamada: _[Nome do agente]_**e arraste-o para o fluxo.
 
 1. Teste a campanha com um pequeno conjunto de clientes em potencial. Revise o log de atividades e confirme se os campos de saída foram atualizados conforme esperado antes de ativar a campanha para todos os clientes potenciais.
 
@@ -58,7 +58,7 @@ Escolha um modelo para preencher previamente as instruções, os campos de entra
 
 | Modelo | Finalidade | Entradas | Saídas |
 | --- | --- | --- | --- |
-| Normalizador do nome da empresa | Limpa os nomes de empresas removendo sufixos legais, corrigindo erros comuns de digitação e aplicando a capitalização padrão da marca. | Empresa | Empresa normalizada (texto); confiança (número, 0-1) |
+| Normalizador do nome da empresa | Limpa os nomes de empresas removendo sufixos legais, corrigindo erros comuns de digitação e aplicando a capitalização padrão da marca. | Empresa | Empresa normalizada (texto); confiança (número) |
 | Formatador E.164 de telefone | Formata números de telefone para o padrão internacional E.164. | Telefone | Telefone normalizado (texto); confiança (número) |
 | Padronização do Cargo | Padroniza os cargos e deriva a antiguidade. | Título | Título normalizado (texto); antiguidade (nível C, vice-presidente, diretor, gerente, indivíduo ou desconhecido); confiança |
 | Detector de spam e bot | Sinaliza envios de formulário de bot ou spam. | Email, Nome, Sobrenome, Empresa, Telefone | É bot (true/false); confiança; razão; sinalizadores (separados por vírgula) |
