@@ -4,10 +4,10 @@ title: Configurações e configuração
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 3%
+source-wordcount: '588'
+ht-degree: 4%
 ---
 # Configurações e configuração {#settings-setup}
 
@@ -37,6 +37,10 @@ Há uma permissão de _Colaborador de Acesso para o Marketo Engage_ e uma funç�
 ### Permissão Acessar Colaborador para Marketo Engage {#access-coworker-marketo-permission}
 
 Siga as etapas abaixo para habilitar o _Access Coworker for Marketo Engage_ para funções qualificadas que ainda não o tenham habilitado.
+
+>[!NOTE]
+>
+>**Permissões de administrador são necessárias**
 
 1. Em Meu Marketo, clique em **Administrador** e depois em **Usuários e funções**.
 
