@@ -36,7 +36,7 @@ Os agentes com chamada permitem usar um agente de IA como uma etapa em uma Campa
 
 1. Selecione **[!UICONTROL Salvar]** para salvar um rascunho ou **[!UICONTROL Salvar e publicar]** para disponibilizar o agente no Marketo Engage.
 
-1. Abra uma Campanha Inteligente e selecione a guia **[!UICONTROL Fluxo]**. Na seção Marketing da lista de etapas de fluxo, localize o **Agente de chamada: _[Nome do agente]_**e arraste-o para o fluxo.
+1. Abra uma Campanha Inteligente e selecione a guia **[!UICONTROL Fluxo]**. Na seção Marketing da lista de etapas de fluxo, localize o **Agente de chamada: _[Nome do agente]_**&#x200B;e arraste-o para o fluxo.
 
 1. Teste a campanha com um pequeno conjunto de clientes em potencial. Revise o log de atividades e confirme se os campos de saída foram atualizados conforme esperado antes de ativar a campanha para todos os clientes potenciais.
 
