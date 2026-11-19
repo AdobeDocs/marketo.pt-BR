@@ -4,18 +4,18 @@ title: Agentes chamáveis
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '1995'
 ht-degree: 1%
 ---
 # Agentes chamáveis {#callable-agents}
 
 Os agentes com chamada permitem usar um agente de IA como uma etapa em uma Campanha inteligente do Marketo Engage. Crie um agente no CX Enterprise Coworker para Marketo Engage, escolha os campos de clientes potenciais que lê e atualiza e publique-o para uso em campanhas. Os agentes podem ajudar a limpar dados, classificar clientes potenciais, enriquecer informações ausentes ou filtrar envios de formulários.
 
->[!PREREQUISITES]
+>[!NOTE]
 >
->Você deve ter a permissão **Acessar administrador** no Marketo Engage.
+>**Permissões de administrador** necessárias.
 
 ## Antes de começar {#before-you-begin}
 
@@ -36,7 +36,7 @@ Os agentes com chamada permitem usar um agente de IA como uma etapa em uma Campa
 
 1. Selecione **[!UICONTROL Salvar]** para salvar um rascunho ou **[!UICONTROL Salvar e publicar]** para disponibilizar o agente no Marketo Engage.
 
-1. Abra uma Campanha Inteligente e selecione a guia **[!UICONTROL Fluxo]**. Na seção Marketing da lista de etapas de fluxo, localize o **Agente de chamada: _[Nome do agente]_**&#x200B;e arraste-o para o fluxo.
+1. Abra uma Campanha Inteligente e selecione a guia **[!UICONTROL Fluxo]**. Na seção Marketing da lista de etapas de fluxo, localize o **Agente de chamada: _[Nome do agente]_**e arraste-o para o fluxo.
 
 1. Teste a campanha com um pequeno conjunto de clientes em potencial. Revise o log de atividades e confirme se os campos de saída foram atualizados conforme esperado antes de ativar a campanha para todos os clientes potenciais.
 

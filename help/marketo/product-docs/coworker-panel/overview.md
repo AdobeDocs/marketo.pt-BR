@@ -5,9 +5,9 @@ badge: beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 94ccd99bcc01dfa2d3df002853cb1396baf45de9
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '613'
 ht-degree: 1%
 ---
 # Painel CX Enterprise Coworker no Marketo Engage {#coworker-panel-overview}
@@ -22,7 +22,7 @@ O painel Colaborador permite abrir o CX Enterprise Coworker diretamente do Marke
 
 | Área | Detalhes |
 | --- | --- |
-| Acesso | Abra o beta incorporado no Marketo Engage. A experiência existente do CX Enterprise Coworker for Marketo Engage permanece disponível por meio de seu [ponto de acesso atual](/help/marketo/product-docs/coworker-for-marketo/overview.md#access). |
+| Acesso | Abra a experiência beta do Colaborador incorporada no Marketo Engage. A experiência existente do CX Enterprise Coworker for Marketo Engage permanece disponível por meio de seu [ponto de acesso atual](/help/marketo/product-docs/coworker-for-marketo/overview.md#access). |
 | Conversas existentes | Seu histórico de conversas existente permanece disponível na experiência atual do CX Enterprise Coworker for Marketo Engage. Ativar o beta não remove esse histórico. |
 | Histórico e contexto | O beta e a experiência existente têm histórico e contexto de conversa separados. Uma conversa em um não está disponível no outro. |
 | Funcionalidade existente | Permanece disponível na experiência atual. |
