@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '543'
+ht-degree: 11%
 ---
 # Notas de versão: novembro de 2026 {#release-notes-nov-26}
 
@@ -70,8 +70,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Clonar para este programa/pasta</strong>: as operações de clonagem na Marketo Engage agora oferecem consistentemente uma opção "Esta pasta" ou "Este programa" como primeira escolha ao escolher o destino do ativo clonado. Escolher essa opção clona o ativo para o programa ou pasta pai do ativo atual.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Lançado</td>
+   <td>n/d</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   <tr>
    <tr>
    <td><strong>Alerta instantâneo na sincronização do CRM</strong>: habilitar ou desabilitar a sincronização nativa do CRM para um ambiente agora aciona uma notificação para os usuários que assinaram o canal de notificação do CRM.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Lançado</td>
+   <td>n/d</td>
   </tr>
   </tr>
   </tbody>
