@@ -4,9 +4,9 @@ title: Agentes chamáveis
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1995'
+source-wordcount: '1971'
 ht-degree: 1%
 ---
 # Agentes chamáveis {#callable-agents}
@@ -26,17 +26,35 @@ Os agentes com chamada permitem usar um agente de IA como uma etapa em uma Campa
 
 1. Em Meu Marketo, clique no bloco **[!UICONTROL CX Enterprise Coworker para Marketo Engage]**.
 
-1. Selecione **[!UICONTROL Agentes chamáveis]** na navegação à esquerda. A lista mostra o nome, a data de criação, o criador e o status de cada agente. Pesquisar por nome ou classificar por nome ou data de criação.
+   ![](assets/callable-agents-1.png)
 
-1. Selecione **[!UICONTROL Criar agente chamável]**. Escolha um modelo ou deixe o seletor de modelos vazio para começar do zero.
+1. No canto superior direito, selecione **[!UICONTROL Agentes]**.
 
-1. Insira um **[!UICONTROL Nome do agente]** e escreva **[!UICONTROL instruções do agente]** descrevendo como processar cada cliente potencial.
+   ![](assets/callable-agents-2.png)
 
-1. Em **[!UICONTROL Campos de cliente potencial a serem enviados]**, adicione os campos de cliente potencial de que o agente precisa como entradas. Em **[!UICONTROL Campos de cliente potencial a serem atualizados]**, adicione cada valor que o agente deve retornar e mapeie-o para um campo de cliente potencial atualizável.
+1. Selecione **[!UICONTROL Criar agente chamável]**.
 
-1. Selecione **[!UICONTROL Salvar]** para salvar um rascunho ou **[!UICONTROL Salvar e publicar]** para disponibilizar o agente no Marketo Engage.
+   ![](assets/callable-agents-3.png)
 
-1. Abra uma Campanha Inteligente e selecione a guia **[!UICONTROL Fluxo]**. Na seção Marketing da lista de etapas de fluxo, localize o **Agente de chamada: _[Nome do agente]_**&#x200B;e arraste-o para o fluxo.
+1. Para usar um modelo, clique em **Iniciar com um modelo** e selecione um.
+
+   >[!NOTE]
+   >
+   >Para obter mais detalhes sobre modelos de agente chamável, consulte [Iniciar com um modelo](#start-from-a-template).
+
+1. Para criar o seu próprio, insira um **[!UICONTROL Nome do agente]** e escreva **[!UICONTROL Instruções do agente]** descrevendo como processar cada cliente potencial.
+
+1. Em **[!UICONTROL Campos de cliente potencial a serem enviados]**, adicione os campos de cliente potencial de que o agente precisa como entradas. Em **[!UICONTROL Campos de cliente potencial a serem atualizados]**, adicione cada valor que o agente deve retornar e mapeie-o para um campo de cliente potencial atualizável. Clique em **[!UICONTROL Criar]** quando terminar.
+
+   ![](assets/callable-agents-4.png)
+
+1. Abra uma Campanha Inteligente e selecione a guia **[!UICONTROL Fluxo]**.
+
+   ![](assets/callable-agents-5.png)
+
+1. Digite &quot;callable&quot; na pesquisa de ações de fluxo. Localize o agente desejado e arraste-o para a tela.
+
+   ![](assets/callable-agents-6.png)
 
 1. Teste a campanha com um pequeno conjunto de clientes em potencial. Revise o log de atividades e confirme se os campos de saída foram atualizados conforme esperado antes de ativar a campanha para todos os clientes potenciais.
 
