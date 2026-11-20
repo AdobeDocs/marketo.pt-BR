@@ -91,7 +91,7 @@ Os campos de substituição são campos de pessoa booleanos. Defina-os usando o 
 
 | Método | Observações |
 |---|---|
-| [Alterar etapa do fluxo de Valor de Dados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Use uma Campanha inteligente para definir um campo quando uma pessoa atender aos seus critérios, como enviar uma caixa de seleção de consentimento em um formulário. |
+| [Alterar etapa do fluxo de Valor de Dados](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Use uma Campanha inteligente para definir um campo quando uma pessoa atender aos seus critérios, como enviar uma caixa de seleção de consentimento em um formulário. |
 | Formulários | Mapeie uma caixa de seleção ou um campo oculto em um formulário do Marketo Engage para o campo de pessoa. |
 | Importação de lista | Inclua o campo como uma coluna no arquivo de importação. |
 | API REST | Use os nomes de campo de API `overrideOpenTrackingDefault` e `overrideClickTrackingDefault`. |
@@ -115,7 +115,7 @@ Quando o Marketo Engage não rastreia uma pessoa, ele altera o conteúdo do emai
 | Emails de acionamento, como emails enviados de um acionador do Smart Campaign | Sim |
 | Emails com testes A/B ou variantes de campeão/desafiante | Sim. O rastreamento é decidido separadamente para cada pessoa, independentemente da variante que ela recebe. |
 | Exibir como página da Web | Sim. A versão da Web segue as configurações atuais da pessoa. Uma alteração pode levar até uma hora para ser exibida. |
-| [Emails operacionais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | Não. Eles seguem um comportamento normal de rastreamento. |
+| [Emails operacionais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | Não. Eles seguem um comportamento normal de rastreamento. |
 | Emails de amostra (teste) | Não. Eles seguem um comportamento normal de rastreamento. |
 | Visualizações de email | Sem mudanças. As visualizações não são rastreadas. |
 | Emails de alerta | Sem mudanças. Os alertas não são rastreados. |
@@ -125,7 +125,7 @@ Quando o Marketo Engage não rastreia uma pessoa, ele altera o conteúdo do emai
 
 O Marketo Engage lê os valores de substituição de uma pessoa ao preparar o email para envio.
 
-- **Entrega agendada ou atrasada:** se um email for preparado agora e entregue posteriormente (por exemplo, com [Início principal](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} ou [Fuso horário do destinatário](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), os valores no momento da preparação serão aplicados. Uma alteração feita após a preparação não altera esse email.
+- **Entrega agendada ou atrasada:** se um email for preparado agora e entregue posteriormente (por exemplo, com [Início principal](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} ou [Fuso horário do destinatário](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), os valores no momento da preparação serão aplicados. Uma alteração feita após a preparação não altera esse email.
 - **Emails já entregues:** alterar a substituição de uma pessoa não altera os emails que ela já recebeu. Os cliques nos links em emails enviados anteriormente ainda poderão ser rastreados se esses links forem preparados com o rastreamento ativado.
 - **Emails futuros:** uma alteração se aplica aos emails que o Marketo Engage prepara após a alteração.
 
