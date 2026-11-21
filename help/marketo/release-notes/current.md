@@ -26,9 +26,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 84333c0da92068a90c0297d83708bed13364bf60
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '542'
 ht-degree: 11%
 ---
 # Notas de versão: novembro de 2026 {#release-notes-nov-26}
@@ -60,8 +60,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
   </tr>
   <tr>
    <td><strong>Agentes chamáveis</strong>: crie agentes de IA que são executados como uma etapa de fluxo em suas campanhas inteligentes e atuam em um registro de cliente potencial com base em instruções escritas em linguagem simples. Por exemplo, um agente pode normalizar os dados ou sinalizar possíveis bots de um lead e, em seguida, gravar o resultado nos campos do lead. Isso leva o processamento de clientes potenciais com base em julgamento a suas campanhas sem código personalizado.</td>
-   <td><i>Em breve</i></td>
-   <td><i>Em breve</i></td>
+   <td>Lançado</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">Agentes chamáveis</a></td>
   </tr>
   <tr>
    <td> </td>
