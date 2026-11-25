@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # Notas de versão: novembro de 2026 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
    <th style="width:65%">Recurso</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentação</th>
+  </tr>
+  <tr>
+   <td><strong>Rastreamento de email no nível da pessoa</strong>: as Substituições de Rastreamento de email no nível da pessoa permitem controlar a abertura de emails e o rastreamento de cliques de uma pessoa individual; oferecendo suporte aos requisitos de consentimento e privacidade.</td>
+   <td>Lançado</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">Rastreamento de email no nível da pessoa</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>habilidade Planejar campanhas</strong>: o CX Enterprise Coworker para Marketo Engage agora pode transformar um resumo da campanha em um documento completo de configuração de programa do Marketo Engage. O documento inclui a estrutura de pastas, campanhas inteligentes, configurações de email, tokens e uma lista de verificação de controle de qualidade. Isso ajuda as equipes a lançarem campanhas com mais rapidez e padronizarem a configuração do programa. A habilidade pode ser configurada por meio de marcação.</td>
@@ -93,8 +103,8 @@ Os recursos a seguir se enquadram no ciclo de lançamento padrão e começarão 
 
 * **Descontinuação da interface clássica**: a interface do Marketo Engage agora tem uma aparência atualizada, incluindo menus, ícones e layout atualizados para oferecer uma experiência mais limpa e moderna. É apenas uma atualização visual; nenhuma funcionalidade ou fluxo de trabalho existente é alterado. Atualmente, você pode alternar entre as interfaces Clássica e atualizada usando um menu suspenso, mas a interface Clássica será removida até o final da versão de janeiro de 2027 (data exata a ser determinada em breve).
 
-* **Descontinuação da Captura de Imagens da Web**: para estar em conformidade com as práticas recomendadas modernas de segurança e privacidade, o recurso [Capturar Imagens da Web](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} será descontinuado a partir da versão de novembro.
+* **Descontinuação da Captura de Imagens da Web**: para estar em conformidade com as práticas recomendadas modernas de segurança e privacidade, o recurso [Capturar Imagens da Web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} será descontinuado a partir da versão de novembro.
 
 * **Restrições de Nome de API para Atributos de Atividade Personalizados**: Os Nomes de API para Atributos de Atividade Personalizados criados por meio da API ou da interface agora podem conter apenas caracteres alfanuméricos e sublinhados, e devem começar com um caractere alfanumérico.
 
-* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial ou Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` começaram a falhar com um Código de Erro 1003 (indicando que a lista estática de destino tem muitos registros) se as listas de destino contiverem 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
+* **Limites de Tamanho de Lista Estática para Obter Atividades de Cliente Potencial e Obter Alterações de Cliente Potencial**: a partir de 30 de setembro de 2026, as chamadas para Obter Atividades de Cliente Potencial ou Obter Pontos de Extremidade de Alterações de Cliente Potencial que incluem o parâmetro `listId` começaram a falhar com um Código de Erro 1003 (indicando que a lista estática de destino tem muitos registros) se as listas de destino contiverem 10.000 ou mais clientes potenciais. Consulte o [Guia de Migração](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} para obter mais informações.
